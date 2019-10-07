@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>title of document</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority></authority>
+                <idno type="filename"></idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>museum/archive</repository>
+                        <idno>inventory number</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>description of object/monument (likely to include <material/>
+                                    and <objectType/> information, <dimensions/>, etc.)</support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>description of text field/campus</layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>description of letters, possibly including <height>letter-heights</height>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Place of origin</origPlace>
+                            <origDate>Date of origin</origDate>
+                        </origin>
+                        <provenance type="found"> Findspot and circumstances/context
+                        </provenance>
+                        <provenance type="observed">Modern location(s) (if different from repository, above)
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="photograph of text or monument"/>
+    </facsimile>
+    <text>
+        <body>
+            <div type="edition" xml:space="preserve">
+                <ab>
+<pb n="1r"/>
+<lb n="1"/> // <g type="symbol">✤</g> // namo stu sarvvabuddhăya // <g type="symbol">✤</g> // svasti śakavarṣātīta, <num value="888">888</num>, śrăvaṇamāsa, <orig>tīthī</orig>, Aṣṭamī kr̥ṣṇapakṣa, <expan><abbr>ha</abbr><ex>ryaṅ</ex></expan>, <expan><abbr>va</abbr><ex>gai</ex></expan>, <expan><abbr>ra</abbr><ex>vi</ex></expan>, vāra, sinta, 
+<lb n="2"/> bāyabyasthagrahacāra, rohiṇīnakṣatra, prajāpatidevatā, mahendramaṇḍala, harṣaṇayoga, vijayamuhūrta, śaśīparvvaiśa, 
+<lb n="3"/> kolavakaraṇa, siṅharāśi, Irika divāśanira, mpu mano, muṇyākən· lmaḥ sīma, kaputrāṅśanira, kalilīranira saṅke kavvitanira 
+<lb n="4"/> Ikaṁ harahara, kidul i pomahanira, hīṅanya lor· kidul iṁ pagər· kinalihan·, muAṁ mpu mano, hīṅanya kulvan· Aṅalihī pagər·, muAṁ <lb n="5"/> Iṁ paviḍəṅan·, hīṅanya vetan·, Aṅalihi pagər·, muAṁ Iṁ kalampayan·, hīṅanya kidul·, Ikaṁ pagər· lor· saṁke kalimusan·, ya t
+<pb n="1v" break="no"/>
+<lb n="6" break="no"/> ekā pinuṇyakənira Iṁ mpuṅku <supplied reason="omitted">Iṁ</supplied> susuk· pagər·, muAṁ mpuṅku Iṁ nairañjanā, Arthahetoḥ mpu buddhivāla, paknanya gavayənnira kuṭi, dharmma lpa
+<lb n="7"/> s· kapodgālikanani kulasantānānira mpuṅku Iṁ nairañjanā, kunaṁ kramanya, Ikaṁ savaḥ kidul iṁ kuṭi, təmpaḥ, <num value="3">3</num>, ya ta sinaṇḍā mpuṅku <supplied reason="omitted">Iṁ</supplied> su
+<lb n="8"/> suk· pagər·, muAṁ mpuṅku Iṁ nairañjanā, Iṁ mā kā <num value="2">2</num><unclear>,</unclear> ya ta dharmma mpuṅku, Iṁ susuk· pagər·, muAṁ mpuṅku Iṁ <choice><sic>nairagjanā</sic><reg>nairañjanā</reg></choice>, An· paminta I
+<lb n="9" break="no"/> ka lmaḥ tumpal ika savaḥ lor· damlənira kuṭi, ya ta kăraṇanyan· <choice><sic>linbas</sic><reg>tinbus</reg></choice> ikaṁ savaḥ saṇḍanira mpu mano, Iṁ mā kā <num value="3">3</num>, mapa
+<lb n="10" break="no"/> k<unclear>na</unclear> bhuktyana saṁ hyaṁ kuṭi, saṅka ri gə:ṁnyāmbha mpu mano, yat· dharmma donanya, Apitovin ana riṁ dharmma parṇnaḥ mpu mano, denira mpuṅku Iṁ
+                </ab>
+            </div>
+            <div type="apparatus">
+                <listApp>
+<app loc="1">
+	<lem><orig>tīthī</orig></lem>
+	<rdg source="Brandes">tithi</rdg>
+</app>
+<app loc="1">
+<lem>kr̥ṣṇapakṣa</lem>
+<rdg source="Brandes">śuklapakṣa</rdg>
+<note>Damais’ suspicion of an error in Brandes reading is thus confirmed.</note>
+</app>
+<app loc="2">
+<lem>-muhūrta</lem>
+<rdg source="Brandes">-muhūrtta</rdg>
+</app>
+<app loc="2">
+<lem>-parvvaiśa</lem>
+<rdg source="Brandes">-parvveśa</rdg>
+</app>
+<app loc="3">
+<lem>kolava-</lem>
+<note>The taling stands at the end of line 2 but is repeated at the start of line 3. See another occurrence of this (actually rather widespread) phenomenon at the transition between lines 5 and 6.</note>
+</app>
+<app loc="3">
+<lem>kalilīranira</lem>
+<rdg source="Brandes">kaliliranira</rdg>
+</app>
+<app loc="3-4">
+<lem>kavvitanira Ikaṁ</lem>
+<rdg source="Brandes">kavvitanira, Ikaṁ</rdg>
+<note>No punctuation sign is engraved between these words.</note>
+</app>
+<app loc="4">
+<lem>Aṅalihī</lem>
+<rdg source="Brandes">Aṅalihi</rdg>
+</app>
+<app loc="5-6">
+<lem>ya teka</lem>
+<note>The taling stands at the end of line 5, but is repeated at the start of line 6. See also ll. 2–3 above.</note>
+</app>
+<app loc="6">
+<lem>mpuṅku <supplied reason="omitted">Iṁ</supplied> susuk·</lem>
+<rdg source="Brandes">mpuṅku susuk·</rdg>
+<note>Since in most cases we find <foreign>Iṁ</foreign> between the words <foreign>mpuṅku susuk·</foreign>, I assume that we must emend <foreign>mpuṅku Iṁ susuk·</foreign> here and in ll. 7–8.</note>
+</app>
+<app loc="6">
+<lem>mpuṅku Iṁ nairañjanā</lem>
+<rdg source="Brandes">mpuṅku I nairañjanā</rdg>
+</app>
+<app loc="7-8">
+<lem>mpuṅku <supplied reason="omitted">Iṁ</supplied> susuk·</lem>
+<rdg source="Brandes">mpuṅku susuk·</rdg>
+<note>See line 6.</note>
+</app>
+<app loc="8">
+<lem>mpuṅku Iṁ nairañjanā</lem>
+<rdg source="Brandes">mpuṅku I nairañjanā</rdg>
+</app>
+<app loc="8">
+<lem>kā <num value="2">2</num><unclear>,</unclear> ya</lem>
+<rdg source="Brandes">kā 2 ya</rdg>
+<note>The punctuation sign is very faint.</note>
+</app>
+<app loc="8">
+<lem>dharmma mpuṅku, Iṁ</lem>
+<rdg source="Brandes">dharmma mpuṅku Iṁ</rdg>
+</app>
+<app loc="8">
+<lem>Iṁ <choice><sic>nairagjanā</sic><reg>nairañjanā</reg></choice></lem>
+<rdg source="Brandes">I nairañjanā</rdg>
+<note>Brandes did not observe that the plate here shows an error for the spelling of the toponym seen repeatedly in this text.</note>
+</app>
+
+<!-- 
+ 
+<app loc="">
+<lem></lem>
+<rdg source="Brandes"></rdg>
+</app>
+<app loc="">
+<lem></lem>
+<rdg source="Brandes"></rdg>
+</app>
+
+ tumpal ika: tumpalikaṁ Brandes. I think the cecak read by Brandes is actually just a scratch above the ka, although perhaps we do need a cecak here, perhaps we need to understand tumpalnika(ṅ).
+ damlənira: damlira Brandes.
+ linbas: linbus Brandes. I don’t see the needed suku. Emend tinbus.
+ gə:ṁnyāmbha mpu mano: gə:ṁnyā, mpuṅku mano Brandes. Emend gə:ṁnyāmbhək mpu mano. The emendation is supported by analogous phraseology in the several Parva texts, thought to date to roughly the same period as this inscription. See Ādiparva, p. 97: saṅka ri gə̄ṅni prabhāvanira; Bhīṣmaparva, p. 84: saṅka ri gə̄ṅniṅ krodha saṅ bhīmasena; Uttarakāṇḍa, p. 126: saṅ hyaṅ indra ta jugāgə̄ṅ vəlasny ambəknira. On the spelling bh in the word ambək, consistently found in the Majapahit-period manuscript of the Dharma Pātañjala, see Acri 2017: 55 / 2018: 40.
+  yat·: emend yan· or yar·.
+ parṇnaḥ: parṇnah Brandes.
+
+
+ -->
+
+	</listApp>
+            </div>
+            <div type="translation">
+                <p>translation(s)</p>
+            </div>
+            <div type="commentary">
+                <p>commentary</p>
+            </div>
+            <div type="bibliography">
+                <p>bibliography of previous editions, discussion, etc.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

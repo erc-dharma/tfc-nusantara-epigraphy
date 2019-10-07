@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Batutulis</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority></authority>
+                <idno type="filename"></idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>in situ</repository>
+                        <idno>inventory number</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>description of object/monument (likely to include <material/>
+                                    and <objectType/> information, <dimensions/>, etc.)</support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>description of text field/campus</layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>description of letters, possibly including <height>letter-heights</height>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Place of origin</origPlace>
+                            <origDate>Date of origin</origDate>
+                        </origin>
+                        <provenance type="found"> Findspot and circumstances/context
+                        </provenance>
+                        <provenance type="observed">Modern location(s) (if different from repository, above)
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="photograph of text or monument"/>
+    </facsimile>
+    <text>
+        <body>
+            <div type="edition" xml:space="preserve" xml:lang="os">
+                <ab>
+                    <lb n="1"/> <g type="symbol">Ø</g> <g type="symbol">Ø</g> vaṁ<unclear cert="low">ṅa</unclear> <unclear>p</unclear>un· °i<unclear cert="low">n</unclear>i sakakala<pc>,</pc> pr<unclear cert="medium">ə</unclear>bu ratu purane pun·, ḍivas·tu
+                    <lb n="2"/> ḍyi, viṅaran· prəbu guru ḍe<unclear cert="high">va</unclear>ta pran· ḍivas·tu ḍyə ḍiṅaran· sri
+                    <lb n="3"/> baduga maharaja, ratu ha<unclear cert="low">j</unclear>i ḍi pakvan· pajajaran· sri sa<unclear cert="high">ṁ</unclear> ratu ḍe<lb n="4" break="no"/> vata pun· ya nu ñusuk· na pakvan· ḍyə °anak· rahyi ḍeva nis·<lb n="5" break="no"/> kala, sa siḍa mokata ḍi gunuṁ tiga, °əcu rahyiṁ <unclear cert="low">n</unclear>is·kala vas·tu
+                    <lb n="6"/> ka<unclear>ca:</unclear>na, saṁ siḍa mok·ta ka nusa laraṁ, ya syi nu <unclear cert="high">ñ</unclear>yin· sakaka-
+                    <lb n="7" break="no"/> la, gugun<unclear cert="low">uṅ</unclear>an·<pc>,</pc> <unclear cert="high">ṅa</unclear>balay·<pc>,,</pc> ñyin· samiḍa, ñyin· saṁ hyi talaga <supplied reason="undefined" evidence="previousedition">va</supplied><lb n="8" break="no"/>°ṛna mahavijaya, ya s<supplied reason="undefined" evidence="previouseditor">yi pun·</supplied><pc>,,</pc> <g type="symbol">Ø</g><g type="symbol">Ø</g> °i saka, pañca pan·ḍa<lb n="9" break="no"/> va ṅ<unclear>ə</unclear>ban· bumi <g type="symbol">@</g><g type="symbol">@</g>
+                </ab>
+              
+            </div>
+            <div type="apparatus">
+                <listApp>
+                    <app loc="1">
+                        <lem>vaṁ<unclear cert="low">ṅa</unclear> <unclear>p</unclear>un·</lem><rdg source="#HD2011">vaṁ na pun</rdg><note>On the shape of ṅa, see ṅabalay in l. 7.</note>
+                    </app>
+                <app loc="2">
+                    <lem>ḍyi, viṅaran·</lem><rdg source="#HD2011">diya viṅaran</rdg><note>HD didn't note on how the first word could be interpreted as diya. In fact this is a common manner of interpreting spelling Cya in Sundanese mss., HD sugest to emending the second word to diṅaran. HD already suggested that one needs to ḍiṅaran; we add that ḍyi needs to be read as dyə, the word we also find further on in this line and in l. 4. </note>
+                </app>
+                    <app loc="2">
+                        <lem>pran·</lem>
+                    </app>
+                </listApp>
+                <p>external apparatus criticus (if applicable)</p>
+            </div>
+<!-- <pb n="13v"/>
+                    <lg>
+<l n="1">vigataḥ kəlesaseman·, vigataḥvaladuknə,
+kuṙvantikusalamahat·, kavəniṁṅatakita 
+sumidakən·tadasakalesa
+</l></lg>
+
+
+lg is line group for verse line> 
+                        <lg>
+                        <l n="1">
+                        </l>
+                        </lg>
+<le met="xxx">: metre
+
+<listWit xml:id=""></listWit> 
+                    <witness></witness>
+                    <msDesc>
+                        <msIdentifier></msIdentifier>
+                        <msIdentifier></msIdentifier>
+                        <settlement></settlement>
+                        <repository></repository>
+                        <idno></idno>
+                        <altIdentifier></altIdentifier>
+                        
+                        Metode 1
+                        @loc 
+                        Method 2
+                        The double-end-point-attached-method
+                        @from
+                        @to
+                        using <anchor/>
+                        @xml:1
+                        
+                        Method 3
+                        PARALLEL SEGMENTATION METHOD (directly from text)
+                        
+                        <lem>LEMMA</lem>
+                        <app>Apparatus</app>
+                        <lem wit="EI #HG">Experience</lem>
+                            <rdgGrp type="orthographic"></rdgGrp>
+                                <rdg wit="#D">es</rdg>
+                                Value for reading: conj; em. 
+                                
+                    </msDesc>
+                    <placeName nymRef="m"></placeName>  -->                  
+           
+            <div type="translation">
+                <p>translation(s)</p>
+            </div>
+            <div type="commentary">
+                <p>commentary</p>
+            </div>
+            <div type="bibliography">
+                <p>bibliography of previous editions, discussion, etc.</p>
+<!--  -->                
+            </div>
+        
+        </body>
+    </text>
+</TEI>

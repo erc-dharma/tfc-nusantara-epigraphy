@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>SimaAnglayang</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority/>
+                <idno type="filename"/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>museum/archive</repository>
+                        <idno>inventory number</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>description of object/monument (likely to include <material/>
+                                    and <objectType/> Plates, <dimensions/>, unknown</support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>description of text field/campus</layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>description of letters, possibly including <height>letter-heights</height>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Place of origin</origPlace>
+                            <origDate>Date of origin</origDate>
+                        </origin>
+                        <provenance type="found"> Findspot and circumstances/context
+                        </provenance>
+                        <provenance type="observed">Modern location(s) (if different from repository, above)
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="photograph of text or monument"/>
+    </facsimile>
+    <text>
+        <body>
+            <div type="edition" xml:space="preserve" xml:lang="oj">
+                <!--MS: Hi Eko! One very important thing with TEI: it is very repetitive and codified + the whole community is supposed to use the same rules! this means you can feel free to copy/paste examples all the time, especially from files edited by more advanced people. In your case, you might want to have a look at what Arlo did with Mpu Mano and try to imitate and adopt some of his conventions. I will also push my Kusmala inscription soon for another example.-->
+                <ab>
+                    <pb n="IVr"/>
+                    <!--MS: it seems that <pb/> elements are noted with arabic numerals rather than latin, see Mpu Mano file. so <pb n="IVr"/> can be noted <pb n="4r"/>-->
+ <lb n="1"/>rihaśa , <!--MS: independent vowels are noted with a capital letter according to the new guidelines, so °an > An, etc.--> °an nikaṁ pjaḥ °anāpatya taṅaranikā magavaya yaśa , ma/ka\phalā svarga lpasannya saṁka ri pañcāgati saṁsāra , saduman marerikaṁ sumaṅgaḥ nara <lb n="2"/>simāṅlayaṁ , tan hana deyan· v<!--MS: this (i) should be translated in TEI either by <unclear>i<unclear/>. In order to judge for yourself if this letter is really unclear, the best thing to do is to check the picture of the copper plate one more time.-->(i)haṅa , mvaṁ tan sor· lviha deniṁ madum· dr̥byanikaṁ pjaḥ hanāpatya , maṅkana tiṅkaḥ vidhi pāduka śri mahārāja °i<lb n="3"/>mpuṅku śaiva sogata °r̥ṣi mahābrāhmaṇa , mvaṁ baṇigrāma para vulu pañcadeśa , tka rikaṁ simāṅlayaṁ , samaṅāśraya °i saṁ hyaṁ sarvvadharmma , mvaṁ samaṅastha<lb n="4" break="no"/>na °i jātakanira , makatĕvĕk· ri kālani kocapanikaṁ °adagaṁ pjaḥ °anāpatya ri yaso mva mpuṅku riṁ yaśo ḍaṅ āryyajñănasena , yathānya<lb n="5" break="no"/>n menaka patut· padulur· mpuṅku śaiva sogata °r̥ṣi , mahābrāhmaṇa , mvaṁ baṇigrāma para vulu pañcadeśa , sama marāśraya ri sa(ṁ) hyaṁ sarvvadha<lb n="6" break="no"/>rmma , °apan kapvāpagĕḥ rasa saṁ hyaṁ °ajñā haji praśāsti kmitanira riṁ muhun malama , °atĕhĕr tājñā pāduka śri mahārāja , °i baṇigrāma para vulu pa<lb n="7" break="no"/>ñcadeśa , tka rikanaṁ sīmaṅlayaṁ samaṅasthana °i saṁ hyaṁ sarvvadharmma , °an meṅĕtātaḥ baṇigrāma mvaṁṅ ikanaṁ sīmāṅlayaṁ kabeḥ samaṅāśraya ri saṁ hyaṁ dha
+<pb n="IVv"/>
+<!--Of course, for every plate number, it should be arabic numerals rather than roman ;). Here, maybe it would be better to add break="no" inside the <pb/> element as well -->                    
+<lb n="1" break="no"/>(r)mma tka ri jātakanira , °irikana pūrvvasthiti sapinahayuni mamarāśraya ri lāgi , tan deyĕn· madamĕl·damla puriḥ , makaphalā tan pamuharanya [p]r[a]<!--MS: Square brackets usually indicate that one or several characters were lost but we feel confident we can restore them, so for instance in this case <supplied reason="lost">p<supplied/>, etc--><lb n="2" break="no"/>māda magĕhi baṇigrāma tka rikanaṁ sīmāṅlayaṁ kabeḥ , samaṅkana ri sḍĕṅanyan· tan aṅgā baṇigrāma mvaṁ °ikanaṁ simāṅlayaṁ kabeḥ , °irikanaṁ vi(dh)[i]
+<lb n="3"/>pāduka śri mahārāja , °an· hayva baṇigrāma mvaṁṅ ikaṁ sīmāṅlayaṁ kabeḥ tamolaḥ mamarāśraya ri saṁ hyaṁ sarvvadharmma , yan maṁkanā yāpvan·
+<lb n="4"/>hana baṇigrāma mvaṁṅ ikaṁ sĭmāṅlayaṁ kamatān· kentasa tanpasuṁ ri kapālihani dr̥byanika madaga pjaḥ °anapatya , yāvat tamolaḥ °i saṁ hyaṁ sarvva<lb n="5" break="no"/>dharmma , mvaṁ paṅasthāna ri jātakanira , ya saṁkanā ri pramādanya , salvirniṁ laṅghana °i saṁ hyaṁṅ ājñā haji lvirānya , knāna ya nigraha mā śā 1 , <expan><abbr>su</abbr><ex>varna</ex></expan> 5 //
+<lb n="6"/>maṅkana rasany anugraha pāduka śri mahārāja , °i mpuṇku śeva sogata °r̥ṣi mahăbrāhmaṇa , kapagĕhaknanira hlam· tka ri dlāhaniṁ dlāha pra<lb n="7" break="no"/>tyeka taṇḍa rakryān· ri pakirakirān· pinakasākṣīrikaṁ kāla , samgĕt· laṅka pu liṅir· , samgĕt· maṁhuryy aṅilala pu candragomi , samgĕt·
+<pb n="XIIIr"/>
+<lb n="1"/>– – , yathādvayanyan· sakāmakām(ā)pravr̥tti , vnaṁ mapadaga(ṁ) °adoḥ sa(ṁkā) ri gritanyan len· saṁkā ri vnaṁ manumbas· bhaṇḍa °aběgan· , lāvan ta vaneḥ maṁdadya<lb n="2" break="no"/>kan· prihati °i baṇigrăma para vulu pañcadeśa ri hananikāṁ mada(gaṁ) sampun· maniddhakan· drabya haji katapahajyan· , ya tikāmet· paṅalapana(n)ya
+<lb n="3"/>sā/sa\mbal· sumbul· , tumiṅgalakan· ri sa(m)pun yāṅalap· °uṇḍi katapahajyan· , marapvan· tinisan· deni pabalapanya sāra , maṅkana rasani hatur baṇigrăma para vu<lb n="4" break="no"/>lu pañcadeśa makabehan· , makādi juru para vulu , tumuluy· kataṇḍa rakryăn· ri pakirakiran· mi°r̥sĕpakĕn· sapanambaḥ baṇigrăma para vulu pañcadeśa va
+<lb n="5"/>---- pāduka śri mahārāja , °atĕhĕr tumyaṅakĕn· tan yuktinikāṁ madagaṁ huvus anarima °uṇḍi mgila ri samba\l·/ sumbul· , mvaṁ yogyayogyaniṁ pracāranikāṁ ma(gi)<lb n="6" break="no"/>liṅan· mapadagaṁ °adoha saṅke gritanya , kunaṁ saṁkā ri kāruṇyani lbuni pāduka śri mahārāja , ri sanambaḥnikanaṁ baṇigrăma para vulu pañcadeśa ma(ka<lb n="7" break="no"/>beha)n· makādi juru (para) vulu , lāvan katon· ta hilaṁni vsivsi pāduka śri mahārāja , kalvaṅan· niyatanikaṁ drabya haji kahajyan· , panityaka --i------
+<pb n="XIIIv"/>
+<lb n="1"/>– – – – – sakevyĕn· pāduka śri mahārāja sārisāri , yan ubhayānnanikā(ṁ) magritan· mapadagaṅā de saṁke gritanya , mvaṁ (ta)n· hnĕṅakna hika
+<lb n="2"/>– – puntĕn· °anarima °uṇḍi , vka saṅ amet· sambal· sumbul· paṅalapananya sāra ----ṅyanturun· sanmatani lbu pāduka śri mahārāja , °i baṇigrăma para vulu pa-
+<lb n="3"/>[ñcadeśa] , makacihna vine(ḥ) makmitana saṁ hyaṁ °ājñā haji pagĕḥpagĕḥ °a[ṁ]rakṣa baṇigrăma , makarasa °i vnaṅa baṇigrăma para vulu pañcadeśa , – – – – –
+<lb n="4"/>n ri -- (magritan)· °uṇḍi sadeśa paranya , sadvadvalanya , sabhaṇḍānya , yavat· kapva yādoha sake gritanya , knāna juga ya drabya haji sadeni mani-- dra-
+<lb n="5"/>(bya haj)i (katapahajyan·) , °apan· mandĕl adagaṁ tan· poṇḍi prasiddhiniṁ mali drabya haji ṅaranikā , °an· vnaṁ sumambut· vulu baṇigrăma para vulu pañcadeśa tan· –
+<lb n="6"/>– – drabya haji katapahajyan· , maṁkana rasa saṁ hyaṁ °ajñāji kmitan· baṇigrăma para vulu pañcadeśa makabehān· kinonakan· kayatnaka baṇigrăma 
+<lb n="7"/>[para] vulu (pañcade)śa , sādhana baṇigrăma para vulu °an· knāna padagaṁnikaṁ magritan· drabya haji yan adoha sakeṁ giliṅan· , ka – – – – baṇigrāma riṁ –
+<pb n="XIVr"/>
+<lb n="1"/>[grita]n· ri sapinasukniṁ yavadvĭpa kabeḥ , lasun· , paḍa , paṅkaja , kanuruhan· , lamajaṁ , panumbaṁṅan· , pavuyahan· , deśa luvuk· , vuravan· , kaṭĕṅayan· ka –
+<lb n="2"/>tka rikanaṁ magiliṅan· maṁlās· kasavur sahana ri deśāntara , °an· keṅĕtaknanya bhārani rasa saṁ hyaṁ °ajñā haji pagĕḥpagĕḥ kmitan· baṇigrăma para vulu
+<lb n="3"/>pañcadeśa makabeḥhān· ri tan· papadagaṁṅa baṇigrăma riṁ pagiliṅanan· °adoha saṁ(k)e giliṅanya , lāvan tan· panumbasa bhaṇḍa dĕgan· °asiṁ salviranya , °a<lb n="4" break="no"/>pa tan inulahulaḥ pva pakmitan· baṇigrăma riṁ pagritanan· saṁ hyaṁ °ajñā haji °anugraha haji devatā saṅ atĭtaprabhū , °an· tan· knakna de saṁ maṅilala drabya ha<lb n="5" break="no"/>ji vuluvulu , pinagĕhakan· ri vnaṁṅa baṇigrăma riṁ pagiliṅanan· mapadagaṁṅā pikul·pikula , tan· svikārān· °an padval avli strinikaṁ magiliṅan· , pinakasambya<lb n="6" break="no"/>sambyanyan· lampaha buñcaṁ haji lunya sumaddhakan· sasuruhanya sake pāduka gri mahārāja , saṅkānani paveḥnya drabya haji °i samgĕt· vuṅkal· psatananda
+<lb n="7"/>– hiniṅākvaihanya , °an· rvaṁ siki papikulpikulanya , yan· stristri pataṁ siki riṁ sagritan· , tan °l̥viha saṁke rikā , °ikā tan adoha saṁke giliṅanya , sa
+<pb n="XIVv"/>
+<lb n="1" break="no"/>sambhava paṅantyananyataḥ p[r]ama[ṇa] mvaṁṅananya , tan deyana tayānasata °irikaṁ huvus· kapara ri saṁ (hyaṁ) °ajñā haji – – pa(n)ta – – – , bhaya tarapva –
+<lb n="2"/>deni – – (pā)du(ka ś)ri mahārāja (maṅa)nugraha ri baṇigrăma , para vulu pañcadeśa , si tan· °u[ṇḍi]nikaṁ drabya haji katapaha(jya)n· prayojana śri ma(hārāja)
+<lb n="3"/>mataṁya(n)· (ki)nonakan· padagaṁnika magiliṅa(n)· knāna (°u)ṇḍi tan adoḥ saṁke gritanya , lavan ajatā[ka] mukti pāduka śri mahārāja , ri vnaṅanika magi<lb n="4" break="no"/>liṅan· , mapa----i----[g]iliṅan· stristri pataṁ siki riṁ sagiliṅan· tan· kaknāna drabya haji hu(l)un tan adoha saṁke giliṅanya , kunaṁ ya tan· magĕm anĕ<lb n="5" break="no"/>– k· °ikanaṁ magritan· °i – – – (saṁ hyaṁ) °ajñā haji , kamatanānumbasa bhaṇḍa °a(d)ěgan· , lāvan ta –· taṅg(ĕ) – padaga(ṁ) °l̥(vi)ha saṁkerikaṁ paṁhĕṅ iriya , mvaṁ yan a<lb n="6" break="no"/>doḥ (hī)ṅanya – – – kapkan· 1 dvadvalanya , kinonakan· ya °r̥gĕpěn· sakveḥni bhaṇḍanya , °atĕhĕr knāna n(i)graha , kuna(ṁ) °ikanaṁ sambal· sumbul· mva(ṁ) kras·
+<lb n="7"/>– – – prakara tan· vehĕn ikāburvaburva , --ni--niṅa , kevalāpahlya maṁhlyana juga ya , °āpan· kapaṅgi(ḥ) riṅ anādi , samaṁkana °ikanaṁ °akarañja(ṁ)
+<pb n="XVIr"/>
+<lb n="1"/>ka śri mahārāja ri baṇ(i)grāma para vulu pañcadeśa makabehān· , samgĕt· laṅka pu laras· , samgĕt· maṁhuryyāṅilala pu °akun· , samgĕt· tirvan· pu puṇḍarika , sa[mgĕ]<lb n="2" break="no"/>t· lucĕm· kabayan· pu minaghnapāda , rakryan· lasun· mapapan· pu maṅuṇḍuḥ , makādi rakryan· kanuruhan· pu dharmmamūrtti narottama dānaśura , mpu riṁ dharmma parhyā<lb n="3" break="no"/>ṅan· ri kaṇḍayuga yaṅ āvāryya cittănanda , samgat· kaṇḍamuhi ḍaṅ ācāryya °arccya , pinasĕkan· <expan><abbr>mā</abbr><ex>sa</ex></expan> <expan><abbr>su</abbr><ex>varna</ex></expan> 1 , <expan><abbr>mā</abbr><ex>sa</ex></expan> 4 , para para nāmaleśa ri śri mahārāja , samgĕn·
+<lb n="4"/>vulatthyaṁ jinasr̥nu samgĕt· kaluluṅan· katĕn· tryakṣa , vineḥ pisĕk· , <expan><abbr>mā</abbr><ex>sa</ex></expan> 10 , °akurug· sumbul· makādi ravyaḥ batiṣṭa , pisĕ(k)an· , <expan><abbr>mā</abbr><ex>sa</ex></expan> 10 , kinabaihā<lb n="5" break="no"/>n· , lekam upacāra saṁ hyaṁ °ajñā haji leka dvija , yāpvan· hana sira kamatān· yatna °i rasa saṁ hyaṁ °ajñā haji pagĕpagĕḥ knāna ya nigraha <expan><abbr>mā</abbr><ex>sa</ex></expan> <expan><abbr>kā</abbr><ex>ti</ex></expan> 1 , <expan><abbr>su</abbr><ex>varna</ex></expan> 5 , °i
+<lb n="6"/>vrūḥhanira kabaiḥ prayatnā <g type="symbol">0 </g>svasti śakavarśātītha , <num value="968">968</num>, °aṣāḍa masa tithi caturthi kr̥ṣṇapakṣa , <expan><abbr>ha</abbr><ex>riyaṅ</ex></expan> , <expan><abbr>°u</abbr><ex>manis</ex></expan> , <expan><abbr>bu</abbr><ex>dha</ex></expan> , vāra dukut· śatabhiṣanakṣatra , baru<lb n="7" break="no"/>ṇa devatā , śubha yoga , vava karaṇa , °agneyastha , °irikā divasany ajñā śrī mahārāja rakai halu śrī lokeśvara dharmmavaṅśa °airlāṅgānantavikramo
+<pb n="XVIv"/>
+<lb n="1" break="no"/>ttuṅgadeva , tinaḍaḥ rakryan· māhamantri °i hino śri samaravijaya suparṇnavāhana tguh uttuṅgadeva , °umiṅso(r) °i rakryan· kanuruhan· pu °asmaranama , ku<lb n="2" break="no"/>monakan· °ikanaṁ piṅhai °akurug anak thăni ri deśa °aṣṭataṇḍa kasaṅa thāni jumput· , svasva , lucĕm· , pavuyahan· , panumbaṅan· , vaharū , tagaran· , hujuṁ ,
+<lb n="3"/>kanuruhan· , kasaṅa thāni jumput· , paku(b)āṁ , halaran· , vka , tka rika(naṁ) sīma para sima , kalaṁ kalagyan· , para patapān· kakṣaitran· , padamlakna saṁ hyaṁ
+<lb n="4"/>°ajñā haji mataṇḍa garūḍamukha , kmitananikanaṁ piṅhai makurug anak thāni riṁ deśāṣṭataṇḍa , kasaṅa thāni jumput· , sambandha , °ikanaṁ piṅhai makurūg ana<lb n="5" break="no"/>k thāni riṁ deśāṣṭataṇḍa kasaṅa thāni jumput· , mapulu(ṁ)rahi manambaḥ °i °l̥buni pāduka śri mahārāja , °umajarakĕn· saka prihatinya ri svadeśanya so<lb n="6" break="no"/>vaṁsovaṁ , makanimitta , ri tan· rva tlunika maṁdadyakĕn· hārohara , deni kveḥnirā parināmasahulun· pāduka śri mahārāja , samaṅilala dr̥vya ha<lb n="7" break="no"/>ji vuluvulu magĕ:ṁ maḍmat· ri deśāṣṭataṇḍa , kasaṅa thāni jumput· , ya tika tan kavnaṁ tinalaṅkupan· , yāvat· tkāna māsa – mupvan· drabya haji , kevalātata
+                </ab>
+            </div>
+            <div type="apparatus">
+                <p>external apparatus criticus (if applicable)</p>
+            </div>
+            <div type="translation">
+                <p>translation(s)</p>
+            </div>
+            <div type="commentary">
+                <p>commentary</p>
+            </div>
+            <div type="bibliography">
+                <p>bibliography of previous editions, discussion, etc.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

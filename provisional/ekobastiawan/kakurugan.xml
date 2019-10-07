@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>kakurugan</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority></authority>
+                <idno type="filename"></idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>museum/archive</repository>
+                        <idno>inventory number</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>description of object/monument (likely to include <material/>
+                                    and <objectType/> Plates, <dimensions/>, etc.)</support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>description of text field/campus</layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>description of letters, possibly including <height>letter-heights</height>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Place of origin</origPlace>
+                            <origDate>Date of origin</origDate>
+                        </origin>
+                        <provenance type="found"> Findspot and circumstances/context
+                        </provenance>
+                        <provenance type="observed">Modern location(s) (if different from repository, above)
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="photograph of text or monument"/>
+    </facsimile>
+    <text>
+        <body>
+            <div type="edition" xml:space="preserve" xml:lang="oj">
+                <p>
+                    <pb n="1v"/>
+                    <lb n="1"/><g type="symbol">@</g> svasti śakavarṣātīta<pc>,</pc> <num value="945">945</num><pc>,</pc> °asujimāsa<pc>,</pc> tithi navamī śuklapakṣa<pc>,</pc> <expan><abbr>pa</abbr><ex>hiṅ</ex></expan><pc>,</pc> <expan><abbr>po</abbr><ex>n</ex></expan><pc>,</pc> <expan><abbr>vr̥</abbr><ex>haspati</ex></expan><pc>,</pc> vā<lb n="2" break="no"/>ra kuniṅan·<pc>,</pc> <orig>v<unclear>ī</unclear>śvara</orig>devatā<pc>,</pc> <orig>dr̥tti</orig>yoga<pc>,</pc> kolavak<orig>ā</orig>raṇa<pc>,</pc> bāyabyāstha<pc>,</pc> °irika divaśa<lb n="3" break="no"/>nyājñā śrī mahārāja rakai halu śrī lokeśvara dharmmavaṅśa °airlaṅgānantavikramo<orig>t</orig>uṅgadeva<pc>,</pc>
+                    <lb n="4"/>tinaḍaḥ de rakryan· mahāmantrī hino śrī saṁgrāmavijayadharmmaprasādottuṅgadevī<pc>,</pc> °umi<lb n="5" break="no"/>ṅsor i taṇḍa rakryan· riṁ pakirakirān· makabehan·<pc>,</pc> kumonakənn irikaṁ sama sānak· dyaḥ
+                    <pb n="2r"/><fw>2</fw>
+                    <lb n="6"/>kakīṅ adu°l̥ṅən·<pc>,</pc> 
+                </p>
+                 <p>sambandha<pc>,</pc> °ikaṁ sama sānak· dyaḥ kakīṅ adu°l̥ṅən·<pc>,</pc> tan· kapālaṅalaṁ suṣṭu<lb n="7" break="no"/>bhakti °i pāduka śrī mahārāja<pc>,</pc> lot kahudanan·<pc>,</pc> kapyayān·<pc>,</pc> °an paṅekānta °i pāduka śrī ma<lb n="8" break="no"/>hārāja<pc>,</pc> makacihnan ikaṁ sama sānak· dyaḥ kakīṅ adu°l̥ṅən· sākṣăt· varttamă<orig>ṇ</orig>a<pc>,</pc> pinakahastap<unclear>ā</unclear><lb n="9" break="no"/>da de pāduka śrī mahārāja<pc>,</pc> sārisāri tan pangahaṅelāvan panas tis· °an· sumiddhākən sapaṅutu<lb n="10" break="no"/>s· pāduka śrī mahārāja samaṅkana gə:ṁniṁ kasuṣṭubhaktinikaṁ sama sānak· dyaḥ kakīṅ adu°l̥ṅən· 
+                    <pb n="2v"/>
+                    <lb n="11"/>ya tikānuvuhakən· citta paramakăruṇyā ri manaḥ pāduka śrī mahārāja<pc>,</pc> mataṅnyan· °inanu<lb n="12" break="no"/>grahakən· tekaṁ kakurugan· sumlat irikaṁ thānī sijanatyəsan· salamban· vetan·<pc>,</pc> tambəha<lb n="13" break="no"/>ni sīma sama sānak· dyaḥ kakīṅ adu°l̥ṅən·<pc>,</pc> samaṅkana rasanyānugraha pāduka śrī mahārāja<pc>,</pc> °i
+                    <lb n="14"/>sama sānak· dyaḥ kakīṅ adu°l̥ṅən·<pc>,</pc> muvaḥ turunyānugraha pāduka śrī mahārāja<pc>,</pc> °i samasāna<lb n="15" break="no"/>k· dyaḥ kakīṅ adu°l̥ṅən·<pc>,</pc> ri hananiṁ °asambyāvahara<pc>,</pc> ṅuniveḥ °ikaṁ carik· huma salviranya<pc>,</pc>
+                    <pb n="4r"/>
+                    <lb n="26"/>siṅgaḥ<pc>,</pc> pabr̥ṣi<pc>,</pc> vidu maṅiduṁ<pc>,</pc> tan tama ta ya ri sama sānak· dyaḥ kakīṅ adu°l̥ṅən· kevala
+                    <lb n="27"/>sama sānak· dyaḥ kaki pramāṇa °irika kabeḥ<pc>,</pc> maṅkana tekaṁ sukhaduḥkha<pc>,</pc> kadyāṅganiṁ mayaṁ ta<lb n="28" break="no"/>n pavvaḥ valū rumambat iṁ natar·<pc>,</pc> vipati vaṅke kabunan· rāḥ kasavur iṁ natar·<pc>,</pc> kaḍal mati riṅ havan·<pc>,</pc> sā<lb n="29" break="no"/>hasa<pc>,</pc> vākcapala<pc>,</pc> hastacapala<pc>,</pc> duhilatən·<pc>,</pc> hidū kasirat·<pc>,</pc> mamijilakən· vuryyaniṁ kikir·<pc>,</pc> mamuk·
+                    <lb n="30"/><pc>,</pc> mamumpaṁ<pc>,</pc> ludan·<pc>,</pc> tūtan·<pc>,</pc> haṅśa pratyaṅśa<pc>,</pc> ḍəṇḍa kuḍəṇḍa<pc>,</pc> maṇḍihalādi saprakāra kabeḥ<pc>,</pc> ya ti
+                    <pb n="4v"/><fw>pageNumright</fw>
+                    <lb n="31" break="no"/>ka sama sānak· dyaḥ kakīṅ adu°l̥ṅən· pramāṇa °i sadravya hajinya kabeḥ<pc>,</pc> samaṅkana turu§<lb n="32" break="no"/>nyānugraha pāduka śrī mahārāja<pc>,</pc> °i sama sānak· dyaḥ kakīṅ adu°l̥ṅən·<pc>,</pc> muvah anugraha pā<lb n="33" break="no"/>duka śrī mahārāja<pc>,</pc> °i sama sānak· dyaḥ kaki yan paṁhivva rare vnaṅăvida năgarāśī<pc>,</pc> °anapiha<lb n="34" break="no"/>na sakavnaṁ<pc>,</pc> muvaḥ vnaṅăpasiliḥ °l̥°l̥mbu<pc>,</pc> vnaṁ mavalya tuvuḥ vatu<pc>,</pc> hurip ānak·<pc>,</pc> tuṅgakniṁ varyyaṁ<pc>,</pc> tutu<lb n="35" break="no"/>ñjuṁ<pc>,</pc> pahavvahavvan·<pc>,</pc> macivapatra<pc>,</pc> masantya<pc>,</pc> muvaḥ vnaṅ ariṁriṅa banantən·<pc>,</pc> paluṅan sinahaban· ba
+                    <pb n="5r"/>
+                    <lb n="36" break="no"/>nantən·<pc>,</pc> vnaṅăsuragā banantən·<pc>,</pc> tan· jamūs·<pc>,</pc> °ajnva halaṁ<pc>,</pc> °asumpiṅa tuñjuṁ sinivak·<pc>,</pc> vnaṅ anu<lb n="37" break="no"/>suna palaṅka binubut·<pc>,</pc> bale °inantun·<pc>,</pc> varuga tinuvuṁ<pc>,</pc> palavaṅan tinutub·<pc>,</pc> muvaḥ vnaṅ ama§<lb n="38" break="no"/>ṅana salvirniṁ rājamăṅśa<pc>,</pc> baḍavaṁ<pc>,</pc> vḍus· guntiṁ<pc>,</pc> °asu tugəl·<pc>,</pc> karuṁ puliḥ<pc>,</pc> karuṁ matīṅ gantuṅan·<pc>,</pc> vnaṅ ā<lb n="39" break="no"/>huluna pujut·<pc>,</pc> bhoṇḍan·<pc>,</pc> °añjamaha rare kavula<pc>,</pc> °amupuha kavula<pc>,</pc> vnaṁ °uṅśi°r̥n iṁ strī laraṅan·
+                    <lb n="40"/>vvaṅ i jro<pc>,</pc> °ulunulun miṅgatuhun· tan ulihanya maṅiṅgatakən· mvaṁ tan pakastry anya<pc>,</pc> vnaṁ °uṅśi°r̥n iṁ maliṁ
+                    <pb n="5v"/><fw>pageNumright</fw>
+                    <lb n="41"/>tləs·<pc>,</pc> °aṁlūputaknāmuk·<pc>,</pc> vnaṅ amuḍug· tugəl·<pc>,</pc> °l̥mbva<unclear>nusapigva</unclear>nya<pc>,</pc> năga saleṁ<pc>,</pc> tikus atut· buvu<lb n="42" break="no"/>ṅan·<pc>,</pc> °aṅuyuhi kikis·<pc>,</pc> vnaṁ °uṅśi°r̥n iṅ ahutaṁ raṅaṁ katmu tata°l̥n sahutaṁnya puhakana<pc>,</pc> <expan><abbr>mā</abbr><ex>sa</ex></expan> 1
+                    <lb n="43"/>riṁ <expan><abbr>sū</abbr><ex>varna</ex></expan> 1<pc>,</pc> °aṅkən· tahun·<pc>,</pc> muvaḥ vnaṁ katmvananiṁ sapi gave tbusən iṁ pirak·<pc>,</pc> <expan><abbr>ku</abbr><ex>paṅ</ex></expan> 2<pc>,</pc> de saṁ madr̥vya<pc>,</pc> vna<lb n="44" break="no"/>ṅ amgata vat<unclear>i</unclear>s· yan· kahayvaknaniṁ cārik· donanya<pc>,</pc> samaṅkana turunyānugraha pāduka śrī
+                    <lb n="45"/>mahārāja<pc>,</pc> katmu kaliliranani vka vet sama sānak· dyaḥ kakīṅ adu°l̥ṅən·<pc>,</pc> mne hləm· tka ri dlāha
+                    <pb n="6r"/>
+                    <lb n="46" break="no"/>niṁ dlāha<pc>,</pc> maṅkana rasanyānugraha pāduka śrī mahārāja<pc>,</pc> °i samasānak· dyaḥ kaki<pc>,</pc> muvah anugra<lb n="47" break="no"/>ha śrī mahārāja<pc>,</pc> ri tatkālani kapūjān· saṁ hyaṁ rājapraśāsti<pc>,</pc> vnaṅ amaguta pajə:ṁ piṅul·<pc>,</pc> vnaṅ a<lb n="48" break="no"/>ṅūṅkūṅa curiṁ rahina vṅi<pc>,</pc> °avavara səmpal·<pc>,</pc> ndatan paṅirasa ta dyaḥ kaki vatək· yān· maṅkana<pc>,</pc> mu<lb n="49" break="no"/>vaḥ maṅhanakna savuṁ<pc>,</pc> juḍi<pc>,</pc> nita<pc>,</pc> pariparihan·<pc>,</pc> sapkən ta lavasanya<pc>,</pc> samaṅkana tiṅkahni kapūjān·
+                    <lb n="50"/>saṁ hyaṁ rājapraśāsti<pc>,</pc> muvaḥ nugraha śrī mahārāja<pc>,</pc> °ikaṁ kakurugan· sumlap· °irikaṁ thāni pañjiṁ si
+                    <pb n="6v"/>
+                    <lb n="51" break="no"/>janatvasan·<pc>,</pc> lamban· vetan·<pc>,</pc> °i karaḥ<pc>,</pc> liriḥ<pc>,</pc> 9<pc>,</pc> °i gsaṁ<pc>,</pc> jə:ṁ 6<pc>,</pc> °i camuṇḍa<pc>,</pc> liriḥ<pc>,</pc> 9<pc>,</pc> °i vano tṅaḥ<pc>,</pc> <expan><abbr>mā</abbr><ex>sa</ex></expan> 4<pc>,</pc> sa<lb n="52" break="no"/>maṅkana kveh ikaṁ kakurugan· °inanugrahakən de śrī mahārāja<pc>,</pc> I sama sānak· dyaḥ kakīṅadu°l̥ṅən· <pc>,</pc><pc>,</pc> // <pc>,</pc><pc>,</pc> //
+                </p>
+            </div>
+            <div type="apparatus">
+                <listApp>
+                    <app loc="2"><lem>-kāraṇa</lem><rdg source="ninny">-karaṇa</rdg></app>
+                    <app loc="4"><lem>-prasādottuṅgadevī</lem><rdg source="ninny">-prasadottuṅgadevi</rdg></app>
+                    <app loc="6"><lem>suṣṭu-</lem><rdg source="ninny">sustu-</rdg></app>
+                    <app loc="8"><lem>sākṣăt</lem><rdg source="ninny">sakṣăt</rdg></app>
+                    <app loc="8"><lem>varttamăṇa</lem><rdg source="ninny">varttameṇa</rdg></app>
+                    <app loc="9"><lem>tan pangahaṅelāvan</lem><note>I tentatively conjecture paṅguh aṅel lāvan.</note></app>
+                    <app loc="14"><lem>sānak</lem><rdg source="ninny">sanak</rdg></app>
+                    <app loc="14"><lem>kakīṅ adu°l̥ṅən</lem><rdg source="ninny">kakinadul̥nen</rdg></app>
+                    <app loc="14"><lem>muvaḥ</lem><rdg source="ninny">muvah</rdg></app>
+                    <app loc="14"><lem>turunyānugraha</lem><rdg source="ninny">turunyanugraha</rdg></app>
+                    <app loc="14"><lem>pāduka</lem><rdg source="ninny">paduka</rdg></app>
+                    <app loc="14"><lem>śrī</lem><rdg source="ninny">sri</rdg></app>
+                    <app loc="14"><lem>mahārāja</lem><rdg source="ninny">maharaja</rdg></app>
+                    <app loc="26"><lem>siṅgaḥ</lem><rdg source="ninny">siṅgah</rdg></app>
+                    <app loc="27"><lem>pramāṇa</lem><rdg source="ninny">pramāna</rdg></app>
+                    <app loc="27"><lem>kabeḥ</lem><rdg source="ninny">kabeh</rdg></app>
+                    <app loc="27"><lem>maṅkana</lem><rdg source="ninny">maṁkana</rdg></app>
+                    <app loc="27"><lem>sukhaduḥkha</lem><rdg source="ninny">sukaduhka</rdg></app>
+                    <app loc="28"><lem>rāḥ</lem><rdg source="ninny">rāh</rdg></app>
+                    <app loc="30"><lem>ḍəṇḍa</lem><rdg source="ninny">dəṇḍa</rdg></app>
+                    <app loc="31"><lem>dyaḥ</lem><rdg source="ninny">dyah</rdg></app>
+                    <app loc="31"><lem>pramāṇa</lem><rdg source="ninny">pramāna</rdg></app>
+                    <app loc="31"><lem>sadravya</lem><rdg source="ninny">sadrvya</rdg></app>
+                    <app loc="32"><lem>anugraha</lem><rdg source="ninny">ānugraha</rdg></app>
+                    <app loc="33"><lem>paṁhivva</lem><rdg source="ninny">paṅhivva</rdg></app>
+                    <app loc="33"><lem>năgarāśī</lem><rdg source="ninny">năgarāsī</rdg></app>
+                    <app loc="34"><lem>vnaṅăpasiliḥ</lem><rdg source="ninny">vnaṅăpasilih</rdg></app>
+                    <app loc="34"><lem>tuvuḥ</lem><rdg source="ninny">tuvuh</rdg></app>
+                    <app loc="34-35"><lem>tutuñjuṁ</lem><rdg source="ninny">tutunjuṁ</rdg></app>
+                    <app loc="35"><lem>muvaḥ </lem><rdg source="ninny">muvah</rdg></app>
+                    <app loc="35"><lem>ariṁriṅa</lem><rdg source="ninny">ariṁrina</rdg></app>
+                    <app loc="37"><lem>muvaḥ</lem><rdg source="ninny">muvah</rdg></app>
+                    <app loc="38"><lem>baḍavaṁ</lem><rdg source="ninny">badavaṁ</rdg></app>
+                    <app loc="38"><lem>karuṁ</lem><rdg source="ninny">kuruṅ</rdg></app>
+                    <app loc="39"><lem>bhoṇḍan</lem><rdg source="ninny">bhondan</rdg></app>
+                    <app loc="39"><lem>°uṅśi°r̥n</lem><rdg source="ninny">°uṅsi°r̥n</rdg></app>
+                    <app loc="40"><lem>vnaṁ</lem><rdg source="ninny">vnaṅ</rdg></app>
+                    <app loc="40"><lem>°uṅśi°r̥n</lem><rdg source="ninny">°uṅsi°r̥n</rdg></app>
+                    <app loc="41"><lem>°aṁlūputaknāmuk</lem><rdg source="ninny">°aṅluputaknāmuk</rdg></app>
+                    <app loc="42"><lem>°uṅśi°r̥n</lem><rdg source="ninny">°uṅsi°r̥n</rdg></app>
+                    <app loc="43"><lem>saṁ</lem><rdg source="ninny">saṅ</rdg></app>
+                    <app loc="44"><lem>pāduka</lem><rdg source="ninny">paduka</rdg></app>
+                    <app loc="46"><lem>anugra-</lem><rdg source="ninny">ānugra-</rdg></app>
+                    <app loc="49"><lem>juḍi</lem><rdg source="ninny">judi</rdg></app>
+                    <app loc="51"><lem>jə:ṁ</lem><rdg source="ninny">jəṁ</rdg></app>
+                    <app loc="51"><lem>mā 4</lem><rdg source="ninny">ma 4</rdg></app>
+
+
+
+                </listApp>
+            </div>
+            <div type="translation">
+                <p>translation(s)</p>
+            </div>
+            <div type="commentary">
+                <p>commentary</p>
+            </div>
+            <div type="bibliography">
+                <p>bibliography of previous editions<pc>,</pc> discussion<pc>,</pc> etc.</p>
+            </div>
+        </body>
+    </text>
+</TEI>
