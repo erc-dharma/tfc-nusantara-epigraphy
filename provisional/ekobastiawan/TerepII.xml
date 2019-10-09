@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Terep II</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority/>
+                <idno type="filename"/>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>museum/archive</repository>
+                        <idno>inventory number</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>description of object/monument (likely to include <material/>
+                                    and <objectType/>  <dimensions/></support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>description of text field/campus</layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>description of letters, possibly including <height>letter-heights</height>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Place of origin</origPlace>
+                            <origDate>Date of origin</origDate>
+                        </origin>
+                        <provenance type="found"> Findspot and circumstances/context
+                        </provenance>
+                        <provenance type="observed">Modern location(s) (if different from repository, above)
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="photograph of text or monument"/>
+    </facsimile>
+    <text>
+        <body>
+            <div type="edition" xml:space="preserve" xml:lang="oj">
+                                <ab>
+                    <pb n="2r"/>
+   <lb n="5"/>ri tr̥p· lmaḥ kəmbaṁ śrī thăni vakət· paṅkaja padamlan· saṁ hyaṁ Ajñā haji prasasti tinaṇḍa garaḍamukha<g type="punctuation">,</g> samba
+ <lb n="6" break="no"/>ndha rake ◊ paṅkaja dyaḥ tumamboṁ mapañji tumaṅgala<g type="punctuation">,</g> sirānambaḥ I pāduka śrī mahārāja<g type="punctuation">,</g> majar an ha
+ <lb n="7" break="no"/>na patapan aṅaran i tr̥p·<g type="punctuation">,</g>paraniran palaradan· ri kāla śrī mahārāja katalayaḥ saṁke vvatan ma
+  <lb n="8" break="no"/>s· mara I patakan·<g type="punctuation">,</g> hana ta sira bhaṭārī Arccarūpa<g type="punctuation">,</g> kapaṅgiḥ Irikaṁ patapān i tr̥p·<g type="punctuation">,</g> ṅkāna                                  
+                      <pb n="2v"/>               
+ <lb n="9"/>ta rakva rake paṅkaja dyaḥ tumamboṁ<g type="punctuation">,</g> maprārthana ri jayasatrva śrī mahārāja riṁ samara<g type="punctuation">,</g> sampun·
+ <lb n="10"/> pva pra◊tisubaddha paluṅguḥ śrī mahārāja ri ratnasiṅhāsana<g type="punctuation">,</g> mvaṁ sāmpun· karahatan· musuḥni
+  <lb n="11" break="no"/> ra ◊ ri samara<g type="punctuation">,</g> tke bala◊sahayanya<g type="punctuation">,</g> Ika ta ni[[mi]]tta rake paṅkaja dyaḥ tumamboṁ<g type="punctuation">,</g> suməmbaḥ pāduka śrī ma
+ <lb n="12" break="no"/>hārāja tumuhvakna pratijñānira ri bhaṭārī riṁ tr̥p·<g type="punctuation">,</g> ri svatantranikaṁ patapan· I tr̥p· sthāna bhaṭārī                                   
+                       <pb n="7r"/>      
+ <lb n="45"/> patapān· bhaṭārī, pagəhakna tan· sigasiguṇa tan· kolaholaha de saṁ năyaka pratyaya
+ <lb n="46"/>karuhun· saṅ anăgata prabhu dlahaniṁ dlaha<g type="punctuation">,</g> Asiṁ mulahulahulaḥ patapān· bhaṭārī<g type="punctuation">,</g> mo[[n·]] kryan·-                                
+ <lb n="47"/>kryan· mon· taṇḍa<g type="punctuation">,</g> kimuta vvaṁ sāmanya<g type="punctuation">,</g> yatha mulahulah ikaṁ patapān· ḍəṇḍan· ri <expan><abbr>mā</abbr><ex>sa</ex></expan> <expan><abbr>kā</abbr><ex>ti</ex></expan> <num value="1">1</num>
+  <lb n="48"/><expan><abbr>sū</abbr><ex>varna</ex></expan> <num value="5">5</num>, Atəhə:r ya Umaṅguha pāpa<g type="punctuation">,</g> Indaḥ ta kita kamuṁ hyaṁ pañca mahābhū[[ta]]<g type="punctuation">,</g> caturlokapăla<g type="punctuation">,</g> ṣadvi                                
+                      <pb n="7v"/>               
+  <lb n="49" break="no"/>năyaka<g type="punctuation">,</g> makădi bhaṭāra brahmā viṣṇu ĭśvara<g type="punctuation">,</g> kita rumakṣā tribhūvaṇa tumiṅhāli hala hayuni pra
+ <lb n="50" break="no"/>vr̥tiniṁ vvaṁ viśeṣa riṁ sarvvajagat·<g type="punctuation">,</g> ndaḥ r̥ṅyə:kən tekiṁ samaya sapatha<g type="punctuation">,</g> Asiṁ durācārāmahaya pa
+ <lb n="51" break="no"/> tapān· bhaṭāri<g type="punctuation">,</g> tan pisiṅgiḥ raṣa saṁ hyaṁ ăjñā ha◊ji prasasti<g type="punctuation">,</g> mon· brahmāṇa kṣatriyāve
+ <lb n="52" break="no"/> śya<g type="punctuation">,</g> sŭdra<g type="punctuation">,</g> yāvat· mulahulaḥ patapān· bhaṭārī<g type="punctuation">,</g> jaḥ tasmăt· kabvatkarmmaknanya<g type="punctuation">,</g> patyanan ta                                
+                       <pb n="8r"/>             
+ <lb n="53"/>ya<g type="punctuation">,</g> deyantat patī ya<g type="punctuation">,</g> tat toliha ri vuri<g type="punctuation">,</g> tat tiṅhāla ri har̥p·<g type="punctuation">,</g> taruṁ riṅ adgan·<g type="punctuation">,</g> tpak· ri hiri
+ <lb n="54" break="no"/>ṅan·<g type="punctuation">,</g> blaḥ kapălanya<g type="punctuation">,</g> ḍuḍuk=hatinya<g type="punctuation">,</g> vkasakin· praṇantika<g type="punctuation">,</g> veḥ saṁsāra<g type="punctuation">,</g> Asiṁ parananyat paṅgiha
+  <lb n="55"/> duḥkha<g type="punctuation">,</g> kadi lavas sa[[ṁ]] hyaṁ candrādityan· sumuluh iṅ aṇḍabhūvana<g type="punctuation">,</g> samaṅkana lavasanyān bhuktyā ma
+ <lb n="56" break="no"/>hăpātaka<g type="punctuation">,</g> maṅka deyan tat patīkaṁ vvaṁṅ anyāyomulahulaḥ<g type="punctuation">,</g>sakveḥni lmaḥ bhaṭārī ri tr̥p·<g type="punctuation">,</g> likhi                                   
+                        <pb n="8v"/>            
+<lb n="57" break="no"/>topacāra saṁ hyaṁ ăjñā haji prasasti<g type="punctuation">,</g> samgat· laṅka pañji parăjaya<g type="punctuation">,</g> Inutus· rake halu 
+  <lb n="58"/>dyaḥ tumāmbo[[ṁ]]<g type="punctuation">,</g> mapa◊ñji tumaṅgala<g type="punctuation">,</g> sumrahakna sa[[ṁ]] hyaṁ ăjñā haji prasasti tinanḍa garuḍa
+  <lb n="59" break="no"/>mukha<g type="punctuation">,</g> ri sirā mpu saṁ tamolaḥ rī patapān· bhaṭā◊rī ri tr̥p·<g type="punctuation">,</g> saṅ apañji si siṁsiṁ kāla mpu vastu
+ <lb n="60"/>hulu skar·<g type="punctuation">,</g> sāmpun· paripŭrṇna Anugraha śrī mahārāja<g type="punctuation">,</g> paṅrakṣa ri bhaṭārī<g type="punctuation">,</g> kayatnākna                                   
+                </ab>
+            </div>
+            <div type="apparatus">
+                <p>external apparatus criticus (if applicable)</p>
+            </div>
+            <div type="translation">
+                <p>translation(s)</p>
+            </div>
+            <div type="commentary">
+                <p>commentary</p>
+            </div>
+            <div type="bibliography">
+                <p>bibliography of previous editions, discussion, etc.</p>
+            </div>
+        </body>
+    </text>
+</TEI>
