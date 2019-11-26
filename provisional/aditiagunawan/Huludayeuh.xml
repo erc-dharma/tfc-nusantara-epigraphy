@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
     <teiHeader>
         <fileDesc>
@@ -53,61 +53,60 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="os">
 <p> 
-                    <lb n="1"/> <gap reason="lost" extent="unknown"></gap> <unclear cert="low">ra</unclear>tu <unclear cert="high">ṅa</unclear>rana<g type="punctuation">,</g> <gap reason="lost" extent="unknown"></gap>
-                    <lb n="2"/> <gap reason="lost" extent="unknown"></gap> sri maḥhara<unclear cert="medium">ja</unclear> ra<supplied reason="undefined" evidence="previouseditor">tu</supplied>
-                    <lb n="3"/> <supplied reason="undefined" evidence="previouseditor">haji</supplied> ri pakvan· sya saṁ ra<unclear cert="medium">t</unclear><supplied reason="undefined" evidence="previouseditor">u</supplied>
-                    <lb n="4"/> <supplied reason="undefined" evidence="previouseditor">de</supplied>vata pun·<g type="punctuation">,</g> masa sya
-                    <lb n="5"/> ṅrətakən· bumi ṅaha
+                    <lb n="1"/><gap reason="lost" extent="unknown"/> <unclear>ra</unclear>tu <unclear>ṅa</unclear>rana, <unclear cert="low">ta</unclear> <gap reason="lost" extent="unknown"/> 
+                    <lb n="2"/><gap reason="lost" extent="unknown"/> sri maḥ<unclear>ha</unclear>ra<unclear>ja</unclear> ra <unclear>t</unclear><supplied reason="lost">u</supplied>
+                    <lb n="3"/><supplied reason="lost" evidence="paralel">ha</supplied><unclear>j</unclear><supplied reason="lost">i</supplied> ri pakvan· sya saṁ ra<unclear >t</unclear><supplied reason="lost">u</supplied>
+                    <lb n="4"/><supplied reason="lost" evidence="paralel">de</supplied><unclear>va</unclear>ta pun·, masa sya
+                    <lb n="5"/>ṅrətakən· bumi <!--  il faut verifier u ou ū --> ṅaha
                     <lb n="6" break="no"/>lipukən· na bvan·na 
-                    <lb n="7"/> ñuruḥ saṁ <unclear cert="high">disi</unclear> suk·laja
-                    <lb n="8" break="no"/><unclear cert="medium">t</unclear>i ṅaR̥buḥkən· Ikaṁ ka
-                    <lb n="9" break="no"/> yu sipadakaḥ<g type="punctuation">,</g> ṅalaAn·
-                    <lb n="10"/> na Udubasu<g type="punctuation">,</g> mipat<unclear cert="high">i</unclear>
-                    <lb n="11" break="no"/>kən·n ikaṁ kala </p>       
+                    <lb n="7"/>ñuruḥ saṁ <unclear>di</unclear>si suk·laja
+                    <lb n="8" break="no"/><unclear>t</unclear>i ṅaR̥buḥkən· Ikaṁ ka
+                    <lb n="9" break="no"/>yu si padakaḥ, ṅalaAn· <!--  bandingkan A dengan prasasti lain-->
+                    <lb n="10"/>na Udubasu, mipati
+                    <lb n="11" break="no"/>kən·n ikaṁ kala</p>       
             </div>
         <div type="apparatus">
             <listApp>
                 <app loc="1">
                     <lem><unclear>ṅa</unclear>rana</lem>
                     <rdg source="HD1994">purana</rdg>
-                    <note>The sign read as pu by HD is quite faded, but resembles much more closely the ṅa in l. 8. Moreover, the vocalization u below the sign to the left is perfectly clear, so it is very hard to suppose the presence of another such vocalization which would be totally invisible right next to it. </note>
+                    <note>The sign read as <foreign>pu</foreign> by HD is quite faded, but resembles much more closely the <foreign>ṅa</foreign> in line 8. Moreover, the vocalization <foreign>u</foreign> below the aksara to the left (<foreign>tu</foreign>) is perfectly clear, so it is very hard to suppose the presence of another such vocalization which would be totally invisible right next to it.</note>
                 </app>
-                <app loc="1–2">
-                    <lem><gap reason="lost" extent="unknown"></gap></lem>
+                <app loc="1–2"> <!-- should put n dash here? -->
                     <note>At the transition between these lines, one might restore <foreign>baduga</foreign> or <foreign>prəbu</foreign>.</note>
                 </app>
                 <app loc="3">
-                    <lem><unclear>haji</unclear></lem>
-                    <note>in HD’s eye-copy, the consonant j is a clear, but the estampages do not allow to confirm this reading. But comparison with Batutulis, line 3, strongly suggests that indeed one needs to restore <foreign>haji</foreign>. </note>
+                    <lem><supplied reason="lost" evidence="paralel">ha</supplied><unclear>j</unclear><supplied reason="lost">i</supplied></lem>
+                    <note>In HD’s eye-copy, the consonant <foreign>j</foreign> is clear, but the estampages do not allow to confirm this reading unambigously. Comparison with Batutulis, line 3, does strongly suggest that indeed one needs to restore <foreign>haji</foreign>.</note>
                 </app>
-                <app loc="4">
+                <app loc="4"> <!-- This apparatus entry could be removed -->
                     <lem>ṅrətakən</lem>
-                    <rdg source="HD1994">ṅrətakön</rdg>
+                    <rdg source="HD1994">ṅrətakƏn</rdg>
                     <note>HD’s drawing suggests a difference between ə and ö which is not actually there on the stone. </note>
                 </app>
-                <app loc="5–6">
+                <app loc="5–6"> <!-- hypen or n dash -->
                     <lem>ṅahalipukən</lem>
-                    <rdg source="HD1994">ṅahalipukön</rdg>
-                    <note>See the preceding note. HD note that between ṅaha and lipukən consist a gap, which in our opinion this is unbreak word and in there is no gap in the stone. </note>
+                    <rdg source="HD1994">ṅaha<gap reason="lost" extent="unknown"></gap>lipukön</rdg>
+                    <note>See the preceding note. HD presume some gap between <foreign>ṅaha</foreign> and <foreign>lipukən</foreign>, which in our opinion we are dealing with single word broken by the mear transition to a new line.</note>
                 </app>
                 <app loc="7">
                     <lem>ñuruḥ</lem>
                     <rdg source="HD1994">ñaraḥ</rdg>
-                    <note>Eventhough the verb <foreign>ñuruḥ</foreign> doesn't occured in the MdS, we found the nominalisation form <foreign>pañuruhan</foreign> in OSd, as it has been recorded in SSK.6.</note>
+                    <note>Even though the verb <foreign>ñuruḥ</foreign> does not occure in MdS, we find the nominal derivation <foreign>pañuruhan</foreign> in OSd, namely in SSK.6.</note>
                 </app>
-                <app loc="7">
-                    <lem><unclear cert="high">disi</unclear> suk·laja</lem>
-                    <rdg source="HD1994">dv isi suk· laja </rdg>
-                    <note>There indeed seems to be some element below the akṣara di (cf. HD’s dv), but in our opinion it is most likely to be accidental.</note>
+                <app loc="7–8"> <!-- en dash or hypen -->
+                    <lem><unclear>di</unclear>si suk·laja<unclear>t</unclear>i</lem>
+                    <rdg source="HD1994">dv isi suk· laja<gap reason="lost" extent="unknown"/>i </rdg>
+                    <note>There indeed seems to be some element below the <foreign>akṣara</foreign> di (cf. HD’s <foreign>dv</foreign>), but in our opinion it is most likely to be accidental.</note>
                 </app>
                 <app loc="8">
                     <lem>ṅaR̥buḥkən·</lem>
-                    <rdg source="HD1994">ṅa°rbaḥkön (°r typo for °ṛ).</rdg>
-                    <note>There is clearly a vocalisation u that has escaped HD’s attention.</note>
+                    <rdg source="HD1994">ṅaRbaḥkƏn</rdg>
+                    <note>There is clearly a vocalisation <foreign>u</foreign> that has escaped HD’s attention.</note>
                 </app>
-                <app loc="8–9">
+                <app loc="8–9"> <!-- hypen or n dash -->
                     <lem>kayu</lem>
-                    <rdg source="HD1994">ka...su</rdg>
+                    <rdg source="HD1994">ka<gap reason="lost" extent="unknown"/>su</rdg>
                 </app>
                 <app loc="9">
                 <lem>ṅalaAn</lem>
@@ -115,10 +114,9 @@
                 </app>
                 <app loc="10–11">
                     <lem>mipat<unclear cert="high">i</unclear>kən·</lem>
-                    <rdg source="HD1994">mipatā...Iś·</rdg>
+                    <rdg source="HD1994">mipatā<gap reason="lost" extent="unknown"/>Iś·</rdg>
                 </app>
             </listApp>  
-                <p>external apparatus criticus (if applicable)</p>
             </div>            
            
             <div type="translation">
