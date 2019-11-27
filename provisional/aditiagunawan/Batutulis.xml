@@ -53,13 +53,15 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="os">
                 <p>
-                    <lb n="1"/> <g type="symbol">Ø</g> <g type="symbol">Ø</g> vaṁ<unclear cert="low">ṅa</unclear> <unclear>p</unclear>un· I<unclear cert="low">n</unclear>i sakakala<g type="punctuation">,</g> pr<unclear cert="medium">ə</unclear>bu ratu purane pun·<g type="punctuation">,</g> ḍivas·tu
-                    <lb n="2"/> ḍyi<g type="punctuation">,</g> viṅaran· prəbu guru ḍe<unclear cert="high">va</unclear>ta pran· ḍivas·tu ḍyə ḍiṅaran· sri
-                    <lb n="3"/> baduga maharaja<g type="punctuation">,</g> ratu ha<unclear cert="low">j</unclear>i ḍi pakvan· pajajaran· sri sa<unclear cert="high">ṁ</unclear> ratu ḍe<lb n="4" break="no"/>vata pun·</p> <p> ya nu ñusuk· na pakvan· ḍyə AnaK rahyi ḍeva nis·<lb n="5" break="no"/>kala<g type="punctuation">,</g> sa siḍa moKta ḍi gunuṁ tiga<g type="punctuation">,</g> Əcu rahyiṁ <unclear cert="low">n</unclear>is·kala vas·tu
-                    <lb n="6"/> ka<unclear>ca:</unclear>na<g type="punctuation">,</g> saṁ siḍa moKta ka nusa laraṁ<g type="punctuation">,</g> </p> <p> ya syi nu <unclear cert="high">ñ</unclear>yin· sakaka
-                    <lb n="7" break="no"/> la<g type="punctuation">,</g> gugun<unclear cert="low">uṅ</unclear>an·<g type="punctuation">,</g> <unclear cert="high">ṅa</unclear>balay·<g type="punctuation">,</g><g type="punctuation">,</g> ñyin· samiḍa<g type="punctuation">,</g> ñyin· saṁ hyi talaga <supplied reason="undefined" evidence="previousedition">va</supplied>
-                    <lb n="8" break="no"/>R̥na mahavijaya<g type="punctuation">,</g> </p> <p> ya s<supplied reason="undefined" evidence="previouseditor">yi pun· </supplied><g type="punctuation">,,</g>  </p> <p> <g type="symbol">Ø</g><g type="symbol">Ø</g> I saka<g type="punctuation">,</g> pañca pan·ḍa
-                    <lb n="9" break="no"/> va ṅ<unclear>ə</unclear>ban· bumi <g type="symbol">Ø</g><g type="symbol">Ø</g>
+                    <lb n="1"/><g type="symbol">Ø</g> <g type="symbol">Ø</g> vaṁ<unclear>ṅa</unclear> <unclear>p</unclear>un· I<unclear>n</unclear>i sakakala, pr<unclear>ə</unclear>bu ratu purane pun·, ḍivas·tu
+                    <lb n="2"/>ḍyi, viṅaran· prəbu guru ḍe<unclear>va</unclear>ta pran· ḍivas·tu ḍyə ḍiṅaran· sri
+                    <lb n="3"/>baduga maharaja, ratu ha<unclear cert="low">j</unclear>i ḍi pakvan· pajajaran· sri sa<unclear>ṁ</unclear> ratu ḍe
+                    <lb n="4" break="no"/>vata pun·</p> <p> ya nu ñusuk· na pakvan· ḍyə AnaK rahyi ḍeva nis·
+                    <lb n="5" break="no"/>kala, sa siḍa moKta ḍi gunuṁ tiga, Əcu rahyiṁ <unclear>n</unclear>is·kala vas·tu
+                    <lb n="6"/>ka<unclear>ca:</unclear>na, saṁ siḍa moKta ka nusa laraṁ, </p> <p> ya syi nu <unclear>ñ</unclear>yin· sakaka
+                    <lb n="7" break="no"/>la, gugun<unclear>uṅ</unclear>an·, <unclear>ṅa</unclear>balay·,, ñyin· samiḍa, ñyin· saṁ hyi talaga <supplied reason="lost" evidence="paralel">va</supplied>
+                    <lb n="8" break="no"/>R̥na mahavijaya, </p> <p> ya s<supplied reason="undefined">yi pun· </supplied>,,  </p> <p> <g type="symbol">Ø</g><g type="symbol">Ø</g> I saka, pañca pan·ḍa
+                    <lb n="9" break="no"/>va ṅ<unclear>ə</unclear>ban· bumi <g type="symbol">Ø</g><g type="symbol">Ø</g>
                 </p>
               
             </div>
@@ -69,7 +71,7 @@
                         <lem>vaṁ<unclear cert="low">ṅa</unclear> <unclear>p</unclear>un·</lem><rdg source="#HD2011">vaṁ na pun</rdg><note>On the shape of ṅa, see ṅabalay in l. 7.</note>
                     </app>
                 <app loc="2">
-                    <lem>ḍyi, viṅaran·</lem><rdg source="#HD2011">diya viṅaran</rdg><note>HD didn't note on how the first word could be interpreted as diya. In fact this is a common manner of interpreting spelling Cya in Sundanese mss., HD sugest to emending the second word to diṅaran. HD already suggested that one needs to ḍiṅaran; we add that ḍyi needs to be read as dyə, the word we also find further on in this line and in l. 4 </note>
+                    <lem>ḍyi, viṅaran·</lem><rdg source="#HD2011">diya viṅaran</rdg><note>HD didn't note on how the first word could be interpreted as <foreign>diya</foreign>. In fact this is a common manner of interpreting spelling Cya in Sundanese mss., HD sugest to emending the second word to <foreign>diṅaran</foreign>. HD already suggested that one needs to <foreign>ḍiṅaran</foreign>; we add that ḍyi needs to be read as dyə, the word we also find further on in this line and in line 4.</note>
                 </app>
                     <app loc="2">
                         <lem>pran·</lem><rdg source="3HD2011">prana</rdg><note>This reading seems impossible to us, for there is unmistakably a sign between the n and the following ḍi, and this sign can only be paten or punctuation. Since the word pran does not seem to exist in Sundanese nor Javanese, we propose to emend this to pun·, as in line 4</note>
