@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Batutulis</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority></authority>
+                <idno type="filename"></idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository></repository>
+                        <idno>inventory number</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>description of object/monument (likely to include <material/>
+                                    and <objectType/> information, <dimensions/>, etc.)</support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>description of text field/campus</layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>description of letters, possibly including <height>letter-heights</height>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Place of origin</origPlace>
+                            <origDate>Date of origin</origDate>
+                        </origin>
+                        <provenance type="found"> Findspot and circumstances/context
+                        </provenance>
+                        <provenance type="observed">Modern location(s) (if different from repository, above)
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="photograph of text or monument"/>
+    </facsimile>
+    <text>
+        <body>
+            <div type="edition" xml:space="preserve" xml:lang="os">
+<p> 
+                    <lb n="1"/> <gap reason="lost" extent="unknown"></gap> <unclear cert="low">ra</unclear>tu <unclear cert="high">ṅa</unclear>rana<g type="punctuation">,</g> <gap reason="lost" extent="unknown"></gap>
+                    <lb n="2"/> <gap reason="lost" extent="unknown"></gap> sri maḥhara<unclear cert="medium">ja</unclear> ra<supplied reason="undefined" evidence="previouseditor">tu</supplied>
+                    <lb n="3"/> <supplied reason="undefined" evidence="previouseditor">haji</supplied> ri pakvan· sya saṁ ra<unclear cert="medium">t</unclear><supplied reason="undefined" evidence="previouseditor">u</supplied>
+                    <lb n="4"/> <supplied reason="undefined" evidence="previouseditor">de</supplied>vata pun·<g type="punctuation">,</g> masa sya
+                    <lb n="5"/> ṅrətakən· bumi ṅaha
+                    <lb n="6" break="no"/>lipukən· na bvan·na 
+                    <lb n="7"/> ñuruḥ saṁ <unclear cert="high">disi</unclear> suk·laja
+                    <lb n="8" break="no"/><unclear cert="medium">t</unclear>i ṅaR̥buḥkən· Ikaṁ ka
+                    <lb n="9" break="no"/> yu sipadakaḥ<g type="punctuation">,</g> ṅalaAn·
+                    <lb n="10"/> na Udubasu<g type="punctuation">,</g> mipat<unclear cert="high">i</unclear>
+                    <lb n="11" break="no"/>kən·n ikaṁ kala </p>       
+            </div>
+        <div type="apparatus">
+            <listApp>
+                <app loc="1">
+                    <lem><unclear>ṅa</unclear>rana</lem>
+                    <rdg source="HD1994">purana</rdg>
+                    <note>The sign read as pu by HD is quite faded, but resembles much more closely the ṅa in l. 8. Moreover, the vocalization u below the sign to the left is perfectly clear, so it is very hard to suppose the presence of another such vocalization which would be totally invisible right next to it. </note>
+                </app>
+                <app loc="1–2">
+                    <lem><gap reason="lost" extent="unknown"></gap></lem>
+                    <note>At the transition between these lines, one might restore <foreign>baduga</foreign> or <foreign>prəbu</foreign>.</note>
+                </app>
+                <app loc="3">
+                    <lem><unclear>haji</unclear></lem>
+                    <note>in HD’s eye-copy, the consonant j is a clear, but the estampages do not allow to confirm this reading. But comparison with Batutulis, line 3, strongly suggests that indeed one needs to restore <foreign>haji</foreign>. </note>
+                </app>
+                <app loc="4">
+                    <lem>ṅrətakən</lem>
+                    <rdg source="HD1994">ṅrətakön</rdg>
+                    <note>HD’s drawing suggests a difference between ə and ö which is not actually there on the stone. </note>
+                </app>
+                <app loc="5–6">
+                    <lem>ṅahalipukən</lem>
+                    <rdg source="HD1994">ṅahalipukön</rdg>
+                    <note>See the preceding note. HD note that between ṅaha and lipukən consist a gap, which in our opinion this is unbreak word and in there is no gap in the stone. </note>
+                </app>
+                <app loc="7">
+                    <lem>ñuruḥ</lem>
+                    <rdg source="HD1994">ñaraḥ</rdg>
+                    <note>Eventhough the verb <foreign>ñuruḥ</foreign> doesn't occured in the MdS, we found the nominalisation form <foreign>pañuruhan</foreign> in OSd, as it has been recorded in SSK.6.</note>
+                </app>
+                <app loc="7">
+                    <lem><unclear cert="high">disi</unclear> suk·laja</lem>
+                    <rdg source="HD1994">dv isi suk· laja </rdg>
+                    <note>There indeed seems to be some element below the akṣara di (cf. HD’s dv), but in our opinion it is most likely to be accidental.</note>
+                </app>
+                <app loc="8">
+                    <lem>ṅaR̥buḥkən·</lem>
+                    <rdg source="HD1994">ṅa°rbaḥkön (°r typo for °ṛ).</rdg>
+                    <note>There is clearly a vocalisation u that has escaped HD’s attention.</note>
+                </app>
+                <app loc="8–9">
+                    <lem>kayu</lem>
+                    <rdg source="HD1994">ka...su</rdg>
+                </app>
+                <app loc="9">
+                <lem>ṅalaAn</lem>
+                <rdg source="HD1994">ṅalasan</rdg>
+                </app>
+                <app loc="10–11">
+                    <lem>mipat<unclear cert="high">i</unclear>kən·</lem>
+                    <rdg source="HD1994">mipatā...Iś·</rdg>
+                </app>
+            </listApp>  
+                <p>external apparatus criticus (if applicable)</p>
+            </div>            
+           
+            <div type="translation">
+                <p>[…] king his name, […] Sri Maharaja King of Kings in Pakuan. He was Sang Ratu Dewata, when he made the world prosperous, pleased the earth, ordered Sang Disi Suklajati to fell the tree called (named) Sipadakah, removed Udubasu, killed Kala.</p>
+            </div>
+            <div type="commentary">
+                <p>Hassan Djafar (1994) indicated with ellipsis at the beginnings and ends of all lines except line 3 that an undetermined number of akṣaras has been lost there. This, we feel, is too imprecise. In fact it seems that a rather small number of akṣaras is lost, because we can read unintterrupted words at the transitions between lines 5–6, 7–8, 8–9 and 10–11. This means that not more than 1 akṣara is lost at the right ends of lines 1, 2, 3 and 6. It is not possible to estimate with precision the number of akṣaras that might have been lost at the openings of lines 1 and 2. Variant readings of Hasan Djafar’s edition are indicated with HD.</p>
+            </div>
+            <div type="bibliography">
+                <p>bibliography of previous editions, discussion, etc.</p>
+<!--  -->                
+            </div>
+        
+        </body>
+    </text>
+</TEI>
