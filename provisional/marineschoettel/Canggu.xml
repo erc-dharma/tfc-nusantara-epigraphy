@@ -61,21 +61,18 @@
             <div type="edition" xml:space="preserve" xml:lang="jav-Latn">
                 <pb n="1r"/>
                        <p>
-                        <lb n="1"/>// <g type="symbol">0</g> // svasti śrī śakavarṣātīta<g type="punctuation">,</g> <num value="1280">1280</num><g type="punctuation">,</g> śravaṇa māsa<g type="punctuation">,</g> tithi<g type="punctuation">,</g> pratipāda śuklapakṣa<g type="punctuation">,</g> <expan><abbr>ha</abbr><ex>ryaṅ</ex></expan><g type="punctuation">,</g> <expan><abbr>U</abbr><ex>manis</ex></expan><g type="punctuation">,</g> <expan><abbr>śa</abbr><ex>naiścara</ex></expan><g type="punctuation">,</g> vāra<g type="punctuation">,</g> maḍaṁkuṅan·<g type="punctuation">,</g> 
+                        <lb n="1"/>// <g type="symbol">0</g> // svasti śrī śakavarṣātīta, <num value="1280">1280</num>, śravaṇa māsa, tithi, pratipāda śuklapakṣa, <expan><abbr>ha</abbr><ex>ryaṅ</ex></expan>, <expan><abbr>U</abbr><ex>manis</ex></expan>, <expan><abbr>śa</abbr><ex>naiścara</ex></expan>, vāra, maḍaṁkuṅan·, 
                         <lb n="2"/>Aiśanyasthagrahacāra, puṣyanakṣatra, jīvadevatā, Agneyamaṇḍala, bajrayoga, rodramuhūrtta, śaśīparvve
                         <lb n="3" break="no"/>śa, nāgakaraṇa, karkkaṭarāśī,
                        </p>
-                       <p>Irikā divaśany ājñā pāduka śrī<persName><placeName>tiktavilva</placeName>nagareśvara</persName><g type="punctuation">,</g> śrī <persName>rājasanagara</persName> nāmarājābhiṣe
-                        <lb n="4" break="no"/>ka<g type="punctuation">,</g> <foreign xml:lang="san-Latn">raṇaprathita mantrinirjjitanr̥pāntaropāyanasurāṅgaṇopamānānekavarakāminīsevyamāna</foreign>, garbhotpattināma, 
-                        <lb n="5"/>dyaḥ śrī<persName>hayāṃ vuruk</persName>·<g type="punctuation">,</g> makamaṅgalyājñā pāduka bhaṭāra śrī<persName>tribhuvanottuṅgarājadevī jayaviṣṇuvarddhanī</persName> nāma rājñyābhi 
+                       <p>Irikā divaśany ājñā pāduka śrī<persName><placeName>tiktavilva</placeName>nagareśvara</persName>, śrī <persName>rājasanagara</persName> nāmarājābhiṣe
+                        <lb n="4" break="no"/>ka, <foreign xml:lang="san-Latn">raṇaprathita mantrinirjjitanr̥pāntaropāyanasurāṅgaṇopamānānekavarakāminīsevyamāna</foreign>, garbhotpattināma, 
+                        <lb n="5"/>dyaḥ śrī<persName>hayāṃ vuruk</persName>·, makamaṅgalyājñā pāduka bhaṭāra śrī<persName>tribhuvanottuṅgarājadevī jayaviṣṇuvarddhanī</persName> nāma rājñyābhi 
                         <lb n="6" break="no"/>ṣeka, <foreign xml:lang="san-Latn">nr̥ttaracanādiguṇakośalyālaya</foreign> <foreign xml:lang="san-Latn">tīrthodakamayanirmalamānasa</foreign>, sthāpita ṅkāne nagare <placeName>kahuripan</placeName>·, dyaḥ śrī 
                 <pb n="1v"/>
-                <fw type="pageNum" place="mid-left" n="1">
-                        <ab>
-                          <lb n="1"/><num value="1">1</num>
-                        </ab>
-                    <!--MS: Just trying something on the basis of the case study 2 in EG, the "Tolkien copperplates". Is the <ab> tag allowed inside the broader <p> section?-->
-                    </fw>
+                <fw type="pageNum" place="left" n="1v">
+                    <num value="1">1</num>
+                </fw>
                         <lb n="1"/><persName>gītārjjā</persName>, sākṣăd arddharājaparameśvarī, muAṁ pāduka bhaṭāra śrī<persName>kr̥tavarddhana</persName> bhupālaka, <foreign xml:lang="san-Latn">sasyādibhavasamr̥ddhikaraṇavr̥ṣṭisya
                         <lb n="2" break="no"/>ndanasannibhārthijanasantuṣṭi prasūtijanakānavaratadāna</foreign>, <placeName>tumapəl</placeName>ākyā rājyāśrīta, dyaḥ <persName>śrīcakreśvara</persName>, śrī 
                     harīvaṅśavarddha
@@ -98,10 +95,8 @@
                         <lb n="6" break="no"/>ramānavādiśāstravivecanatatpara</foreign>, kapva samasama śakte kavivākṣāniṁ śāstra, makādi kuṭāramānava, makadon niścaya jñāna 
                     <!--MS:One could perhaps tag a <placeName> for the toponyms inside the <roleName> of each samgət?-->
                      <pb n="3v"/>
-                    <fw type="pageNum" place="mid-left" n="3">
-                        <ab>
-                          <lb n="1"/><num value="3">3</num>
-                        </ab>
+                    <fw type="pageNum" place="left" n="3v">
+                        <num value="3">3</num>
                     </fw>
                         <lb n="1"/>ri nyāyānyāyani pakṣanikaṁ vyavahārī kāliḥ,</p>
                 <p>
@@ -126,12 +121,9 @@
                         <lb n="5"/><placeName>sambo</placeName>, I <placeName>jerebeṁ</placeName>, I <placeName>pabulaṅan</placeName>·, I <placeName>balavi</placeName>, I <placeName>luvayu</placeName>, I <placeName>katapaṁ</placeName>, I <placeName>pagaran</placeName>·, I <placeName>kamuḍi</placeName>, I <placeName>parijīk</placeName>·, I <placeName>paruṁ</placeName>, I <placeName>pasi     
                         <lb n="6" break="no"/>vuran</placeName>·, I <placeName>kəḍal</placeName>·, I <placeName>bhaṁCal</placeName>·, I <placeName>viḍaṁ</placeName>, I <placeName>pakbohan</placeName>·, I <placeName>loṅara</placeName>, I <placeName>ḍuri</placeName>, I <placeName>rāśī</placeName>, I <placeName>revun</placeName>·, I <placeName>kbalan</placeName>·, I <placeName>ḍalaṅara</placeName>, I   
                     <pb n="5v"/>
-                     <fw type="pageNum" place="mid-left" n="5">
-                        <ab>
-                          <lb n="1"/><num value="5">5</num>
-                        </ab>
-                    <!--MS: Just trying something on the basis of the case study 2 in EG, the "Tolkien copperplates". Is the <ab> tag allowed inside the broader <p> section?-->
-                    </fw>
+                     <fw type="pageNum" place="left" n="5">
+                         <num value="5">5</num>
+                     </fw>
 
                         <lb n="1"/><placeName>sumbaṁ</placeName>, I <placeName>malo</placeName>, Iṅ <placeName>ijo</placeName>, I <placeName>kavaṅen</placeName>·, I <placeName>suḍaḥ</placeName>, I <placeName>kukutu</placeName>, I <placeName>balun</placeName>·, I <placeName>maRbo</placeName>, I <placeName>turan</placeName>·, I <placeName>jipaṁ</placeName>, I <placeName>ṅavi</placeName>, I <placeName>vaṁkalaṁ</placeName>, 
                         <lb n="2"/>I <placeName>pnuḥ</placeName>, I <placeName>vuluṁ</placeName>, I <placeName>baraṁ</placeName>, I <placeName>pakatelan</placeName>·, I <placeName>vareṁ</placeName>, Iṅ <placeName>amban</placeName>·, I <placeName>kəmbu</placeName>, I <placeName>vulayu</placeName>, <foreign xml:lang="san-Latn">sarvve</foreign>, Ika ta kabeḥ, nadītīrapradeśa, sthā   
@@ -163,11 +155,8 @@
                 <p>
                  muvaḥ Anugraha pāduka śrī mahārāja, yan hana dāśadāśī bhaṙyyopabhāṙyya 
                   <pb n="9v"/>
-                    <fw type="pageNum" place="mid-left" n="9">
-                        <ab>
-                          <lb n="1"/><num value="9">9</num>
-                        </ab>
-                    <!--MS: Just trying something on the basis of the case study 2 in EG, the "Tolkien copperplates". Is the <ab> tag allowed inside the broader <p> section?-->
+                    <fw type="pageNum" place="left" n="9v">
+                        <num value="9">9</num>
                     </fw>
                         <lb n="1"/>kunəṅ asiṅ avakanya, <foreign xml:lang="san-Latn">svāmigata</foreign>, luṅha saṁke svāminya, tan· bvatana ktekaṅ anambaṅy aṅəntasakən saṁkeṁ nadītīra, yadin sā<g type="filler"/>
                         <lb n="2" break="no"/>dhu pravr̥ttinyaṅ anambaṅi, kalut saṁkeṅ aṣṭacora, muvaḥ yan hana strī kaRm asiṅ avakanya, kasambut ta ya deny aṅanambaṅi, tan sa
@@ -189,12 +178,9 @@
                   <p>
                      muvaḥ rakryan mantri katrīṇi, sīnūṅan· pasə:k pasə:k·, sayathākrama, muvaḥ rakryan dəmuṁ,
                   <pb n="10v"/>
-                      <fw type="pageNum" place="mid-left" n="10">
-                        <ab>
-                          <lb n="1"/><num value="10">10</num>
-                        </ab>
-                    <!--MS: Just trying something on the basis of the case study 2 in EG, the "Tolkien copperplates". Is the <ab> tag allowed inside the broader <p> section?-->
-                    </fw>
+                      <fw type="pageNum" place="left" n="10v">
+                          <num value="10">10</num>
+                      </fw>
                         <lb n="1"/>rakryan kanuruhan·, rakryan raṅga, rakryan tuməṁguṁ, kapva vineḥ pasə:k=pasə:k·, sayathākrama, makanaryyama, saṁ dharmmādhya
                         <lb n="2" break="no"/>kṣa ri kaśaiva, dharmmādhyakṣa riṁ kasogatan·, kapva vineḥ pasə:k=pasə:k·, sayathākrama, saṁ dharmmopapatti samudāya, tapva
                         <lb n="3"/>vine<unclear>ḥ</unclear> pasə:k=pasə:k·, sayathākrama, makaphalāmratisubaddhāknānugraha pāduka śrī mahārāja, Irikaṅ anambaṅi sayavadvī 
