@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Kawali I (a)</title>
+                <title>Kawali I (b)</title>
             </titleStmt>
             <publicationStmt>
                 <authority></authority>
@@ -52,50 +52,39 @@
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="os">
-                <p>
-                     <lb n="1"/> <g type="symbol">ø</g> n<unclear>i</unclear>han· tapaK va
-                     <lb n="2" break="no"/>laṙ nu syi muliA tapa </p> <p> I
-                     <lb n="3" break="no"/>ña paR̥bu raja vas·tu
-                     <lb n="4"/>maṅaḍəg· ḍi kuta kava
-                     <lb n="5" break="no"/>li nu mahayu na kaḍatuAn·
-                     <lb n="6"/>suravisesa nu marigi sa
-                     <lb n="7" break="no"/>kulili ḍayəḥ nu najuṙ sakala
-                     <lb n="8"/>ḍesa </p> <p>Aya ma nu paḍəri pake na
-                     <lb n="9"/>gave raḥhayu pakən· həbəl· ja
-                      <lb n="10" break="no"/>ya ḍi na buAna
-                </p>
+                <l>
+                    <lb n="1"/>hayuA ḍiponaḥp<unclear>o</unclear><add place="below">naḥ</add>
+                    <lb n="2"/>hayuA ḍicavuḥcavu<unclear>ḥ</unclear>
+                    <lb n="3"/>IA nekeṙ Iña Ageṙ
+                    <lb n="4"/>Iña nicak· Iña R̥pag·
+                </l>
               
             </div>
             <div type="apparatus">
                 <listApp>
-                   <app loc="1">
-                       <lem>n<unclear>i</unclear>han· </lem>
-                       <note>The vocalization on the first syllable is not clearly visible on any of the available photos.</note>
-                   </app>
-                    <app loc="1–2"> <!--should use n dash?-->                    
-                        <lem>tapak· valaṙ</lem>
-                        <note>Many previous scholars read here <foreign>tapak kavali</foreign>.</note>
+                    <app loc="3">
+                        <lem>IA</lem>
+                        <note>This has been read <foreign>Ini</foreign> by some previous scholars. <foreign>IA</foreign> is presumbaly an equivalent of <foreign>ya</foreign> in Kebantenan.</note>
                     </app>
-                    <app loc="2">
-                        <lem>nu syi muliA tapa</lem>
-                        <note>We interpret the syntactic structure of this clause as a fuller expression of the same that is seen in Kawali VI <foreign>nu atisti rasa</foreign>. </note>
+                    <app>
+                        <lem>Ageṙ</lem>
+                        <note>Some previous scholars have read <foreign>Aṁgeṙ</foreign>, but we see no trace of an <foreign>anusvāra</foreign>/<foreign>cecak</foreign>.</note>
+                    </app>
+                    <app loc="3">
+                        <lem>Iña</lem>
+                        <note>Some previous scholars have read <foreign>Ini</foreign>.</note>
                     </app>
                     <app loc="4">
-                        <lem>maṅaḍəg</lem>
-                        <note>The shape of ṅa is not carefully engraved. Cf. the more careful execution of this sign in Kawali II, l. 2 <foreign>ṅə</foreign>.</note>
-                    </app>
-                    <app loc="6–7"><!--should use n dash?-->     
-                        <lem>sakulili</lem>
-                        <note>Previous scholars have read <foreign>sakuliliṁ</foreign>, but it may be doubted that any <foreign>anusvāra</foreign>/<foreign>cecak</foreign> was written here.</note>
+                        <lem>R̥pag·</lem>
+                        <note>Some previous scholars have read <foreign>R̥mpag·</foreign>.</note>
                     </app>
                 </listApp>
             </div>
            
             <div type="translation">
-                <p>This is the footprint/These are the footprints (<foreign>tapak walar</foreign>) of the one(s) of praiseworthy asceticism. He, his majesty king Wastu, ruling in the city Kawali, is the one who beautifies the palace Surawisesa, who digs a moat around the city, who plants (crops) in all villages. If there is one in the future, he must do good works, so that success in the world be long-lasting.</p>
             </div>
             <div type="commentary">
-                <p>commentary</p>
+                <p>Lateral faces (1 = top, 2 = right, 3 = bottom, 4 = left). First read by Pleyte (1911: 196). Our text follows that of Noorduyn (1988: 309–310), which we have confirmed by consulting our own photographs. Noorduyn has observed that this text is in verse form.</p>
             </div>
             <div type="bibliography">
                 <p>bibliography of previous editions, discussion, etc.</p>
