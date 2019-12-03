@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Kawali II</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority></authority>
+                <idno type="filename"></idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>in situ</repository>
+                        <idno>inventory number</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>description of object/monument (likely to include <material/>
+                                    and <objectType/> information, <dimensions/>, etc.)</support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>description of text field/campus</layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>description of letters, possibly including <height>letter-heights</height>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Place of origin</origPlace>
+                            <origDate>Date of origin</origDate>
+                        </origin>
+                        <provenance type="found"> Findspot and circumstances/context
+                        </provenance>
+                        <provenance type="observed">Modern location(s) (if different from repository, above)
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="photograph of text or monument"/>
+    </facsimile>
+    <text>
+        <body>
+            <div type="edition" xml:space="preserve" xml:lang="os">
+                <p>
+                    <lb n="1"/>Aya ma
+                    <lb n="2"/>nu ṅəsi I
+                    <lb n="3" break="no"/>ña kavali I
+                    <lb n="4" break="no"/>ni pake na kə
+                    <lb n="5" break="no"/>R̥ta bənəṙ
+                    <lb n="5"/>pakən· najəṙ
+                    <lb n="7"/>na juritan·
+                </p>
+              
+            </div>
+            <div type="apparatus">
+                <listApp>
+                <app loc="1">
+                    <lem>Aya ma</lem>
+                    <note>On the use of particle <foreign>ma</foreign> in Old Sundanese, see Aditia Gunawan and Fuji Evi Fauziah (Forthcoming)</note>
+                </app>
+                <app loc="6">
+                    <lem>najəṙ</lem>
+                    <note>read. <foreign>nañjər</foreign>. Cf. SKK.1 that relate the word <foreign>tañjər</foreign> with <foreign>praṅ</foreign> (synonim of <foreign>juritan</foreign>): <foreign>dəgdəg tañjər jaya praṅ</foreign> ‘firm, superior, victorious in the battle’.
+</note>
+                </app>
+                    <app loc="7">
+                        <lem>na</lem>
+                        <note>cf. <foreign>ḍina</foreign> in Kawali I. See Dict. under <foreign>na</foreign>, abbreviation of <foreign>dina</foreign>.</note>
+                    </app>  
+                </listApp>
+            </div>
+           
+            <div type="translation">
+                <p>If one occupies this (place called) Kawali, let him adopt the proper behavior, so that he remains upright in battle.</p>
+            </div>
+            <div type="commentary">
+                <p>Lateral faces (1 = top, 2 = right, 3 = bottom, 4 = left). First read by Pleyte (1911: 196). Our text follows that of Noorduyn (1988: 309–310), which we have confirmed by consulting our own photographs. Noorduyn has observed that this text is in verse form.</p>
+            </div>
+            <div type="bibliography">
+                <p>bibliography of previous editions, discussion, etc.</p>
+<!--  -->                
+            </div>
+        
+        </body>
+    </text>
+</TEI>

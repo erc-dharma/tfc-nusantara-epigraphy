@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Kawali I (b)</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority></authority>
+                <idno type="filename"></idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>in situ</repository>
+                        <idno>inventory number</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>description of object/monument (likely to include <material/>
+                                    and <objectType/> information, <dimensions/>, etc.)</support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>description of text field/campus</layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>description of letters, possibly including <height>letter-heights</height>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Place of origin</origPlace>
+                            <origDate>Date of origin</origDate>
+                        </origin>
+                        <provenance type="found"> Findspot and circumstances/context
+                        </provenance>
+                        <provenance type="observed">Modern location(s) (if different from repository, above)
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="photograph of text or monument"/>
+    </facsimile>
+    <text>
+        <body>
+            <div type="edition" xml:space="preserve" xml:lang="os">
+                <l>
+                    <lb n="1"/>hayuA ḍiponaḥp<unclear>o</unclear><add place="below">naḥ</add>
+                    <lb n="2"/>hayuA ḍicavuḥcavu<unclear>ḥ</unclear>
+                    <lb n="3"/>IA nekeṙ Iña Ageṙ
+                    <lb n="4"/>Iña nicak· Iña R̥pag·
+                </l>
+              
+            </div>
+            <div type="apparatus">
+                <listApp>
+                    <app loc="3">
+                        <lem>IA</lem>
+                        <note>This has been read <foreign>Ini</foreign> by some previous scholars. <foreign>IA</foreign> is presumbaly an equivalent of <foreign>ya</foreign> in Kebantenan.</note>
+                    </app>
+                    <app>
+                        <lem>Ageṙ</lem>
+                        <note>Some previous scholars have read <foreign>Aṁgeṙ</foreign>, but we see no trace of an <foreign>anusvāra</foreign>/<foreign>cecak</foreign>.</note>
+                    </app>
+                    <app loc="3">
+                        <lem>Iña</lem>
+                        <note>Some previous scholars have read <foreign>Ini</foreign>.</note>
+                    </app>
+                    <app loc="4">
+                        <lem>R̥pag·</lem>
+                        <note>Some previous scholars have read <foreign>R̥mpag·</foreign>.</note>
+                    </app>
+                </listApp>
+            </div>
+           
+            <div type="translation">
+            </div>
+            <div type="commentary">
+                <p>Lateral faces (1 = top, 2 = right, 3 = bottom, 4 = left). First read by Pleyte (1911: 196). Our text follows that of Noorduyn (1988: 309–310), which we have confirmed by consulting our own photographs. Noorduyn has observed that this text is in verse form.</p>
+            </div>
+            <div type="bibliography">
+                <p>bibliography of previous editions, discussion, etc.</p>
+<!--  -->                
+            </div>
+        
+        </body>
+    </text>
+</TEI>
