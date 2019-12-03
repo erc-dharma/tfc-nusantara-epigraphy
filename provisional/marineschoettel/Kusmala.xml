@@ -59,7 +59,6 @@
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="oj-Latn">
-                <!--MS: restore all virāmas-->
                     <p>
                     <lb n="1"/><g type="symbol" subtype="circle"/> // <!--MS: does this punctuation
                         require a tag?--> svast<supplied reason="lost">i</supplied> śakava<supplied reason="lost">r</supplied>ṣăt<supplied reason="lost">ĭ</supplied>ta,
@@ -68,80 +67,86 @@
                     <lb n="2"/><abbr>ma</abbr>, <abbr>va</abbr>, <abbr>A</abbr>, vāra, pahaṁ,
                     </p>
                     <p>
-                        Irikā divaśanika sampu<unclear>ṇna</unclear>nikana<unclear>ṁ</unclear> ravuhan śĭlama<unclear>t</unclear> i
+                        Irikā divaśanika sampu<supplied reason="omitted">r</supplied><unclear>ṇna</unclear>nikana<unclear>ṁ</unclear> ravuhan·  śĭlama<unclear>t</unclear>· i
                     <lb n="3"/><placeName><unclear>ku</unclear>śmala</placeName> de <roleName
-                        type="office">rakryan dəmuṁ</roleName>, saṁ <persName><name>martabun</name>
-                            <name>raṅgaḥ</name>
+                        type="office">rakryan· dəmuṁ</roleName>, saṁ
+                        <persName><name>martabun</name>· <name>raṅgaḥ</name>
                             <unclear>sa</unclear>p<unclear>u</unclear></persName>, makamaṅgalā rakak iṅ amūrvva
-                    <lb n="4" break="no"/>bumi, maparivāra <persName>raṅgah avar-avar</persName>, juru saṅ apañji <persName>pupon</persName>
+                    <lb n="4" break="no"/>bumi, maparivāra <persName>raṅgah avar-avar</persName>·, juru saṅ apañji <persName>pupon</persName>·
                     </p>
                     <p>    
-                        ma<reg>ṁ</reg><unclear>ka</unclear>na <!--MS: simpler solution would be to
-                            have <supplied reason="omitted">ṁ<supplied>--> saṅ <unclear>ā</unclear>jñā
-                    <lb n="5"/>păduka ba<unclear>ṭāre</unclear> matahun śrĭ baṭāra <persName>vijayarājasănantavikramottuṅga
-                    <lb n="6" break="no"/>deva</persName>, <foreign xml:lang="san-Latn">j<unclear>ā</unclear>gaddhitahetu</foreign>, magavaya sukani para s<unclear>a</unclear>mya sakahavat luraḥ
+                        ma<supplied reason="omitted">ṁ</supplied><unclear>ka</unclear>na saṅ <unclear>ā</unclear>jñā
+                    <lb n="5"/>păduka ba<unclear>ṭāre</unclear> matahun· śrĭ baṭāra <persName>vijayarājasănantavikramottuṅga
+                    <lb n="6" break="no"/>deva</persName>, <foreign xml:lang="san-Latn">j<unclear>ā</unclear>gaddhitahetu</foreign>, magavaya sukani para s<unclear>a</unclear>mya sakahavat· luraḥ
                     <lb n="7"/><unclear>I</unclear> vetan i daha,
                         <choice><sic>ma</sic><corr>sa</corr></choice>maṅkanā bilāsa pāduka baṭāre
                         mātahun <!--MS: check long a--> a<unclear>ma</unclear>
-                    <lb n="8" break="no"/>ṅun kĭrttyanurāgātmaka kas<unclear>u</unclear>kaniṁ rāt, <persName>raṅga sapu</persName> karo viku pakṣa sampŭrṇna
-                    <lb n="9" break="no"/>ni ravuhan || <foreign xml:lang="san-Latn">siddhir astu</foreign> ||
+                    <lb n="8" break="no"/>ṅun kĭrttyanurāgātmaka kas<unclear>u</unclear>kaniṁ rāt·, <persName>raṅga sapu</persName> karo viku pakṣa sampŭrṇna
+                    <lb n="9" break="no"/>ni ravuhan· || <foreign xml:lang="san-Latn">siddhir astu</foreign> ||
                     </p>
                     <p>
                         <unclear>A</unclear>mānuṣa kadarśanĭyanikanaṁ yaśa ra
-                    <lb n="10" break="no"/>vuhan hatītadurggamahaḶp, tlas maparipŭrṇna de rasika <persName>raṅa sapu</persName> tu
-                    <lb n="11" break="no"/>hu vidagdha tiṅkahiṅ ula<unclear>ḥ</unclear>, ndatan sah aṅaran <persName>pupon</persName> rasika pa
-                    <lb n="12" break="no"/>ñji pinujipuji sădhu śakti guṇavan vnaṁ gumavaya, I saṁ prabu tama
-                    <lb n="13" break="no"/>n paLpaLh inutusnira narapati <g type="punctuation">||</g>
+                    <lb n="10" break="no"/>vuhan hatītadurggamahaḶp·, tlas maparipŭrṇna de rasika
+                        <persName>raṅ<supplied reason="omitted">g</supplied>a sapu</persName> tu
+                    <lb n="11" break="no"/>hu vidagdha tiṅkahiṅ ula<unclear>ḥ</unclear>, ndatan· sah aṅaran· <persName>pupon</persName> rasika pa
+                    <lb n="12" break="no"/>ñji pinujipuji sădhu śakti guṇavăn· vnaṁ gumavaya, I saṁ prabu tama
+                    <lb n="13" break="no"/>n· paḶpaḶh inutusnira narapati ||
                     </p>   
                     <p>   
-                       yaśātiśaya śobitāhaL
-                    <lb n="14" break="no"/>p asusaṁrama sukanikaṁ janāsiṅ umulat, <choice><sic>si<supplied reason="omitted">ra</supplied> ra<unclear>kv</unclear>a</sic><corr>sira rakva</corr></choice> tikaṁ rakṣa ni
-                    <lb n="15" break="no"/>tya pamul<unclear>i</unclear>ḥ kali maravuhan arddhapaL mapagĕḥ <g type="punctuation">||</g>
+                       yaśātiśaya śobitāhaḶ
+                    <lb n="14" break="no"/>p asusaṁrama sukanikaṁ janāsiṅ umulat·, si<supplied reason="omitted">ra</supplied> ra<unclear>kv</unclear>a tikaṁ rakṣa ni
+                    <lb n="15" break="no"/>tya pamul<unclear>i</unclear>ḥ kali maravuhan arddhapaḶ mapagəḥ ||
                     </p>
                     <p>
                         mav<unclear>i</unclear>prakṣa
-                    <lb n="16" break="no"/><unclear>t</unclear>i śevadharmma ri <add place="below">nară</add>dhipa haṅuhaṁṅune panon saṅ <choice><sic>uhulun</sic><corr>ahulun</corr></choice>
-                    <lb n="17"/>ndatan <unclear>p</unclear>avkasan, huvus makaṅaran kĕta śilamat i kuśmala pra
-                    <lb n="18" break="no"/>kaśita
+                    <lb n="16" break="no"/><unclear>t</unclear>i śevadharmma ri <add
+                        place="below">nară</add>dhipa haṅuhaṁṅune panon· saṅ <choice><sic>u</sic><corr>a</corr></choice>hulun·
+                    <lb n="17"/>ndatan <unclear>p</unclear>avkasan·, huvus makaṅaran· kĕta śĭlamat i kuśmala pra
+                    <lb n="18" break="no"/>kăśita
                 </p>
             </div>
             <div type="apparatus">
                 <listApp>
                     <app loc="1">
                      <lem>pañcadaś<unclear>i</unclear></lem>
-                     <rdg source="SteinCallenfels_1919">paṇcadaśi</rdg>
+                     <rdg source="SteinCallenfels_1918">paṇcadaśi</rdg>
                     </app>
                     <app loc="1">
                      <lem>śuklapakṣā</lem>
-                     <rdg source="SteinCallenfels_1919">śuklapakṣa</rdg>
+                     <rdg source="SteinCallenfels_1918">śuklapakṣa</rdg>
                     </app>
                     <app loc="2">
                      <lem>A</lem>
-                     <rdg source="SteinCallenfels_1919">°ā </rdg>
+                     <rdg source="SteinCallenfels_1918">Ā</rdg>
                     </app>
+                    <!--@Daniel : This syllable is an abbreviation, should I also copy the <abbr> tag
+                        in the apparatus?-->
                     <app loc="2">
                      <lem>pahaṁ</lem>
-                     <rdg source="SteinCallenfels_1919">pahāṁ</rdg>
+                     <rdg source="SteinCallenfels_1918">pahāṁ</rdg>
                     </app>
                     <app loc="2">
-                     <lem>sampu<unclear>ṇna</unclear>nikana<unclear>ṁ</unclear></lem>
-                     <rdg source="SteinCallenfels_1919">kasampurnnanikanaṅ</rdg>
+                     <lem>divaśanika sampu<unclear>ṇna</unclear>nikana<unclear>ṁ</unclear></lem>
+                     <rdg source="SteinCallenfels_1918">divaśa <unclear>ni</unclear> kasampurnnanikanaṅ</rdg>
                     </app>
                      <app loc="3">
                      <lem>raṅgaḥ <unclear>sa</unclear>p<unclear>u</unclear></lem>
-                     <rdg source="SteinCallenfels_1919">raṅga sapu</rdg>
+                     <rdg source="SteinCallenfels_1918">raṅga sapu</rdg>
                     </app>
                       <app loc="3">
                      <lem>makamaṅgalā</lem>
-                     <rdg source="SteinCallenfels_1919">makamaṅgala</rdg>
+                     <rdg source="SteinCallenfels_1918">makamaṅgala</rdg>
                     </app>
                      <app loc="3-4">
                      <lem>rakak iṅ amūrvva<lb n="4" break="no"/>bumi</lem>
-                     <rdg source="SteinCallenfels_1919">ṅamurvvabumi</rdg>
+                     <rdg source="SteinCallenfels_1918">ṅamurvvabumi</rdg>
                     </app>
+                    <!--MS@Daniel: should we keep the <lb> in the lem?, check VSC's reading-->
                     <app loc="4">
                     <lem>jur<unclear>u</unclear></lem>
-                    <rdg source="SteinCallenfels_1919">ju... (of: mu...)</rdg>
+                    <rdg source="SteinCallenfels_1918"><choice><unclear>ju</unclear><unclear>mu</unclear></choice></rdg>
+                    <!--MS: should add a gap (<gap
+                            reason="undefined"/>?) after the ju/mu in VSC's reading-->    
                     </app>
                     <app loc="4">
                     <lem><unclear>ā</unclear>jñā</lem>
@@ -149,6 +154,7 @@
                     </app>
                     <app loc="5-6">
                     <lem>păduka ba<unclear>ṭāre</unclear> matahun śrĭ baṭăra <persName>vijayarājasănantavikramottuṅga<lb n="6" break="no"/>deva</persName></lem>
+                    <!--MS: same question for lb-->    
                     <rdg source="SteinCallenfels_1919">pāduka bāṭare matahun śri bāṭara vijayarājasānantavikramottuṅgadeva</rdg>
                     </app>
                     <app loc="6">
@@ -157,24 +163,20 @@
                     </app>
                     <app loc="7">
                         <lem><unclear>I</unclear> vetan</lem>
-                        <rdg source="SteinCallenfels_1919">vetan</rdg>
+                        <rdg source="SteinCallenfels_1918">vetan</rdg>
                     </app>
                     <app loc="7">
-                        <lem type="emendation"><choice><sic>ma</sic><corr>sa</corr></choice>maṅkanā</lem>
-                        <note>We accept the emendation of van Stein Callenfels.</note>
+                        <lem source="SteinCallenfels_1918"><choice><sic>ma</sic><corr>sa</corr></choice>maṅkanā</lem>
                     </app>
-                    <app>
+                    <app loc="7">
                       <lem>pāduka baṭāre mātahun</lem>
                       <rdg source="SteinCallenfels_1919">pādukā baṭare matahun</rdg>
                     </app>
-                    <app loc="7-8">
-                      <lem>a<unclear>ma</unclear><lb n="8" break="no"/>ṅun</lem>
-                      <rdg source="SteinCallenfels_1919">amaṅun</rdg>
-                    </app>
+                    <!--MS: sic corr for matahun-->
                     <app loc="8">
                       <lem>kas<unclear>u</unclear>kaniṁ rāt</lem>
-                      <rdg source="SteinCallenfels_1919">kasukanirat</rdg>
-                        <note>Van Stein Callenfels' reading is <hi rend="italic">kasakanirat</hi>, but he follows Brandes in making noted emendation.</note>
+                      <rdg source="SteinCallenfels_1919">kas<choice><sic>a</sic><corr>u</corr></choice>kanirat</rdg>
+                        <note>The emendation adopted by van Stein Callenfels was suggested by Brandes.</note>
                     </app>
                     <app loc="8">
                       <lem>sampŭrṇna</lem>
@@ -188,10 +190,6 @@
                       <lem>maparipŭrṇna</lem>
                       <rdg source="SteinCallenfels_1919">maparipurnna</rdg>
                     </app>
-                    <app loc="11">
-                        <lem>ula<unclear>ḥ</unclear></lem>
-                        <rdg source="SteinCallenfels_1919">ulah</rdg>
-                    </app>
                      <app loc="11">
                         <lem>sah aṅaran</lem>
                         <rdg source="SteinCallenfels_1919">sah aṅāran</rdg>
@@ -200,12 +198,16 @@
                     <app loc="14">
                         <lem>asusaṁrama</lem>
                         <rdg source="SteinCallenfels_1919">asuṅ paramasukanikaṅ</rdg>
-                        <note>This passage is difficult. Van Stein Callenfels read <hi rend="italic">asu saṁ rama</hi> but emended following Poerbatjaraka, whose reconstruction does not convince us. Other possibilities would be to emend asusaṅgrāma (see OJED 1665) or asusambrahma (OJED 1636.5).</note>
+                        <note>This passage is difficult. Van Stein Callenfels read <hi
+                            rend="italic">asu saṁ rama</hi> but emended following Poerbatjaraka,
+                            whose reconstruction does not convince us. Other possibilities would be
+                            to emend asusaṅgrāma (see OJED 1665), asusaṅkrama  or asusambrahma (OJED 1636.5).</note>
                     </app>
                     <app loc="14">
                         <lem><choice><sic>si<supplied reason="omitted">ra</supplied> ra<unclear>kv</unclear>a</sic><corr>sira rakva</corr></choice></lem>
                         <note>We concur with the correction proposed by van Stein Callenfels.</note>
                     </app>
+                    <!--MS: suppr note, mettre source VSC dans LEM-->
                     <app loc="15-16">
                         <lem>mav<unclear>i</unclear>prakṣa<lb n="16" break="no"/><unclear>t</unclear>i</lem>
                         <rdg source="SteinCallenfels_1919">mavipraksati</rdg>
@@ -215,6 +217,7 @@
                         <lem><add place="below">nară</add>dhipa</lem>
                         <note>The interlinear insertion is marked by a <hi rend="italic">kākapāda</hi>.</note>
                     </app>
+                    <!--MS: chercher kākapāda dans EG et supprimer note.-->
                     <app loc="16">
                         <lem>haṅuhaṁṅune</lem>
                         <rdg source="SteinCallenfels_1919">haṅuhaṅune</rdg>
@@ -223,6 +226,7 @@
                         <lem>saṅ <choice><sic>uhulun</sic><corr>ahulun</corr></choice></lem>
                         <note>We follow van Stein Callenfels' emendation.</note>
                     </app>
+                    <!--MS: source dans LEM-->
                     <app loc="17">
                         <lem>makaṅaran</lem>
                         <rdg source="SteinCallenfels_1919">makaṅāran</rdg>
