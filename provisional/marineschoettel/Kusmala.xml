@@ -5,11 +5,11 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Kuśmala inscription</title>
+                <title>Kuśmala</title>
             </titleStmt>
             <publicationStmt>
-                <authority>Ecole française d'Extrême Orient (EFEO)</authority>
-                <idno type="filename">JM0006</idno>
+                <authority>Ecole française d'Extrême-Orient (EFEO)</authority>
+                <idno type="filename">Java Majapahit 0006</idno>
             </publicationStmt>
             <sourceDesc>
                 <msDesc>
@@ -59,39 +59,49 @@
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="oj-Latn">
+                <!--MS: restore all virāmas-->
                     <p>
-                    <lb n="1"/><g type="symbol">0</g> <g type="symbol">//</g> svast<supplied reason="lost">i</supplied><!--photograph unclear, maybe add evidence attribute + make note in the apparatus--> śakava<supplied reason="lost">r</supplied>ṣăt<supplied reason="lost">ĭ</supplied>ta<g type="punctuation">,</g> <num value="1272">1272</num><g type="punctuation">,</g> mă<supplied reason="lost">r</supplied>gaś<supplied reason="lost">i</supplied>ramāsa<g type="punctuation">,</g> tithi pañcadaś<unclear>i</unclear><g type="punctuation">,</g> śuklapakṣ<unclear>ā</unclear><g type="punctuation">,</g>
-                    <lb n="2"/><expan><abbr>ma</abbr><ex>vulu</ex></expan><g type="punctuation">,</g> <expan><abbr>va</abbr><ex>gai</ex></expan><g type="punctuation">,</g> <expan><abbr>A</abbr><ex>ṅgāra</ex></expan><g type="punctuation">,</g> vāra<g type="punctuation">,</g> pahaṁ<g type="punctuation">,</g>
+                    <lb n="1"/><g type="symbol" subtype="circle"/> // <!--MS: does this punctuation
+                        require a tag?--> svast<supplied reason="lost">i</supplied> śakava<supplied reason="lost">r</supplied>ṣăt<supplied reason="lost">ĭ</supplied>ta,
+                        <num value="1272">1272</num>, mă<supplied
+                            reason="lost">r</supplied>gaś<supplied reason="lost">i</supplied>ramāsa, tithi pañcadaś<unclear>i</unclear>, śuklapakṣ<unclear>ā</unclear>,
+                    <lb n="2"/><abbr>ma</abbr>, <abbr>va</abbr>, <abbr>A</abbr>, vāra, pahaṁ,
                     </p>
                     <p>
-                        Irikā divaśanika sampu<unclear>ṇna</unclear>nikana<unclear>ṁ</unclear> ravuhan śilama<unclear>t</unclear> <supplied reason="lost">r</supplied>i
-                    <lb n="3"/><placeName><unclear>ku</unclear>śmala</placeName> de <roleName type="office">rakryan dĕmuṁ</roleName><g type="punctuation">,</g> saṁ <persName><name>martabun</name> <name>raṅgaḥ</name></persName> <unclear>sa</unclear>p<unclear>u</unclear> <g type="punctuation">,</g> makamaṅgalā rakak iṅ amūrvva
-                    <lb n="4" break="no"/>bumi<g type="punctuation">,</g> maparivāra <persName>raṅgah avaravar</persName><g type="punctuation">,</g> juru saṅ apañji <persName>pupon</persName>
+                        Irikā divaśanika sampu<unclear>ṇna</unclear>nikana<unclear>ṁ</unclear> ravuhan śĭlama<unclear>t</unclear> i
+                    <lb n="3"/><placeName><unclear>ku</unclear>śmala</placeName> de <roleName
+                        type="office">rakryan dəmuṁ</roleName>, saṁ <persName><name>martabun</name>
+                            <name>raṅgaḥ</name>
+                            <unclear>sa</unclear>p<unclear>u</unclear></persName>, makamaṅgalā rakak iṅ amūrvva
+                    <lb n="4" break="no"/>bumi, maparivāra <persName>raṅgah avar-avar</persName>, juru saṅ apañji <persName>pupon</persName>
                     </p>
                     <p>    
-                        ma<unclear>ka</unclear>na saṅ <unclear>ā</unclear>jñā
+                        ma<reg>ṁ</reg><unclear>ka</unclear>na <!--MS: simpler solution would be to
+                            have <supplied reason="omitted">ṁ<supplied>--> saṅ <unclear>ā</unclear>jñā
                     <lb n="5"/>păduka ba<unclear>ṭāre</unclear> matahun śrĭ baṭāra <persName>vijayarājasănantavikramottuṅga
-                    <lb n="6" break="no"/>deva</persName> <g type="punctuation">,</g><foreign xml:lang="san-Latn"> j<unclear>ā</unclear>gaddhitahetu</foreign><g type="punctuation">,</g> magavaya sukani para s<unclear>a</unclear>mya sakahavat luraḥ
-                    <lb n="7"/><unclear>I</unclear> vetan i daha <g type="punctuation">,</g> <choice><sic>ma</sic><corr>sa</corr></choice>maṅkanā bilāsa pāduka baṭāre mātahun a<unclear>ma</unclear>
-                    <lb n="8" break="no"/>ṅun kĭrttyanurāgātmaka kas<unclear>u</unclear>kaniṁ rāt<g type="punctuation">,</g> <persName>raṅga sapu</persName> karo viku pakṣa sampŭrṇna
-                    <lb n="9" break="no"/>ni ravuhan <g type="punctuation">||</g> <foreign xml:lang="san-Latn">siddhir astu</foreign> <g type="punctuation">||</g>
+                    <lb n="6" break="no"/>deva</persName>, <foreign xml:lang="san-Latn">j<unclear>ā</unclear>gaddhitahetu</foreign>, magavaya sukani para s<unclear>a</unclear>mya sakahavat luraḥ
+                    <lb n="7"/><unclear>I</unclear> vetan i daha,
+                        <choice><sic>ma</sic><corr>sa</corr></choice>maṅkanā bilāsa pāduka baṭāre
+                        mātahun <!--MS: check long a--> a<unclear>ma</unclear>
+                    <lb n="8" break="no"/>ṅun kĭrttyanurāgātmaka kas<unclear>u</unclear>kaniṁ rāt, <persName>raṅga sapu</persName> karo viku pakṣa sampŭrṇna
+                    <lb n="9" break="no"/>ni ravuhan || <foreign xml:lang="san-Latn">siddhir astu</foreign> ||
                     </p>
                     <p>
                         <unclear>A</unclear>mānuṣa kadarśanĭyanikanaṁ yaśa ra
-                    <lb n="10" break="no"/>vuhan hatītadurggamahaLp<g type="punctuation">,</g> tlas maparipŭrṇna de rasika <persName>raṅa sapu</persName> tu
-                    <lb n="11" break="no"/>hu vidagdha tiṅkahiṅ ula<unclear>ḥ</unclear><g type="punctuation">,</g> ndatan sah aṅaran <persName>pupon</persName> rasika pa
-                    <lb n="12" break="no"/>ñji pinujipuji sădhu śakti guṇavan vnaṁ gumavaya<g type="punctuation">,</g> I saṁ prabu tama
+                    <lb n="10" break="no"/>vuhan hatītadurggamahaḶp, tlas maparipŭrṇna de rasika <persName>raṅa sapu</persName> tu
+                    <lb n="11" break="no"/>hu vidagdha tiṅkahiṅ ula<unclear>ḥ</unclear>, ndatan sah aṅaran <persName>pupon</persName> rasika pa
+                    <lb n="12" break="no"/>ñji pinujipuji sădhu śakti guṇavan vnaṁ gumavaya, I saṁ prabu tama
                     <lb n="13" break="no"/>n paLpaLh inutusnira narapati <g type="punctuation">||</g>
                     </p>   
                     <p>   
                        yaśātiśaya śobitāhaL
-                    <lb n="14" break="no"/>p asusaṁrama sukanikaṁ janāsiṅ umulat<g type="punctuation">,</g> <choice><sic>si<supplied reason="omitted">ra</supplied> ra<unclear>kv</unclear>a</sic><corr>sira rakva</corr></choice> tikaṁ rakṣa ni
+                    <lb n="14" break="no"/>p asusaṁrama sukanikaṁ janāsiṅ umulat, <choice><sic>si<supplied reason="omitted">ra</supplied> ra<unclear>kv</unclear>a</sic><corr>sira rakva</corr></choice> tikaṁ rakṣa ni
                     <lb n="15" break="no"/>tya pamul<unclear>i</unclear>ḥ kali maravuhan arddhapaL mapagĕḥ <g type="punctuation">||</g>
                     </p>
                     <p>
                         mav<unclear>i</unclear>prakṣa
                     <lb n="16" break="no"/><unclear>t</unclear>i śevadharmma ri <add place="below">nară</add>dhipa haṅuhaṁṅune panon saṅ <choice><sic>uhulun</sic><corr>ahulun</corr></choice>
-                    <lb n="17"/>ndatan <unclear>p</unclear>avkasan<g type="punctuation">,</g> huvus makaṅaran kĕta śilamat i kuśmala pra
+                    <lb n="17"/>ndatan <unclear>p</unclear>avkasan, huvus makaṅaran kĕta śilamat i kuśmala pra
                     <lb n="18" break="no"/>kaśita
                 </p>
             </div>
@@ -117,11 +127,6 @@
                      <lem>sampu<unclear>ṇna</unclear>nikana<unclear>ṁ</unclear></lem>
                      <rdg source="SteinCallenfels_1919">kasampurnnanikanaṅ</rdg>
                     </app>
-                    <app loc="2">
-                     <lem>śilama<unclear>t</unclear> <supplied reason="lost">r</supplied>i</lem>
-                     <rdg source="SteinCallenfels_1919">śilamat i</rdg>
-                      <note>Van Stein Callenfels notes that this is Brandes' reading.</note>
-                    </app>  
                      <app loc="3">
                      <lem>raṅgaḥ <unclear>sa</unclear>p<unclear>u</unclear></lem>
                      <rdg source="SteinCallenfels_1919">raṅga sapu</rdg>
