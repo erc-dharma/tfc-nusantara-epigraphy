@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Kawali VI</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority></authority>
+                <idno type="filename"></idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>in situ</repository>
+                        <idno>inventory number</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>description of object/monument (likely to include <material/>
+                                    and <objectType/> information, <dimensions/>, etc.)</support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>description of text field/campus</layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>description of letters, possibly including <height>letter-heights</height>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Place of origin</origPlace>
+                            <origDate>Date of origin</origDate>
+                        </origin>
+                        <provenance type="found"> Findspot and circumstances/context
+                        </provenance>
+                        <provenance type="observed">Modern location(s) (if different from repository, above)
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="photograph of text or monument"/>
+    </facsimile>
+    <text>
+        <body>
+            <div type="edition" xml:space="preserve" xml:lang="x-oldsun">
+                <p>
+                    <lb n="1"/>ø Ini pəR̥ti
+                    <lb n="2" break="no"/>gal· nu Atis·
+                    <lb n="3" break="no"/>ti rasa </p> <p>Aya ma nu
+                    <lb n="4"/>ṅəsi ḍayəḥ Ivə
+                    <lb n="5"/>Ulaḥ bvatvaḥ bisi
+                    <lb n="6"/>kvakvaro
+                </p>
+            </div>
+            <div type="apparatus">
+     <app loc="1-2">
+         <lem>pəR̥tigal·</lem>
+         <note>Previous scholars have read <foreign>pəR̥tiṁgal</foreign>, but not <foreign>anusvāra</foreign>/<foreign>cecak</foreign> is found.</note>
+     </app>
+            </div>
+           
+            <div type="translation">
+                <p>This is the abode of those who are of stable emotions (<foreign>atisti rasa</foreign>). If one resides here, he should not gamble: it will lead to suffering.</p>
+            </div>
+            <div type="commentary">
+                <p>Titi Surti Nastiti (1996: 26 with n. 12 p. 33) takes <foreign>aya ma</foreign> as standing at the end of a sentence, which to our knowledge does not agree with the usage we see in Old Sundanese texts, nor with modern Sundanese language. The resulting translation in any case makes no sense.</p>
+            </div>
+            <div type="bibliography">
+                <p>bibliography of previous editions, discussion, etc.</p>
+<!--  -->                
+            </div>
+        
+        </body>
+    </text>
+</TEI>
