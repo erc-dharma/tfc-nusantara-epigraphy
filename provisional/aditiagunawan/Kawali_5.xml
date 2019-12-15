@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Kawali IV</title>
+                <title>Kawali V</title>
             </titleStmt>
             <publicationStmt>
                 <authority></authority>
@@ -53,22 +53,19 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="x-oldsun">
                 <p>
-                    <lb n="1"/>saṁ hyiṁ liṁ 
-                    <lb n="2" break="no"/>ga hyaṁ
+                    <lb n="1"/>saṁ hyiṁ liṁga 
+                    <lb n="2"/>biṁba
                 </p>
             </div>
             <div type="apparatus">
-                <app loc="1">
-                    <lem>hyiṁ</lem>
-                    <note>There are two different spellings of <foreign>hyaṁ</foreign>: in line 1 with vocalisation <foreign>-i</foreign> after <foreign>y</foreign> and in line 2 is without vocalisation.</note>
-                </app>
+     
             </div>
            
             <div type="translation">
-                <p>The sacred <foreign>liṅga</foreign> of the God.</p>
+                <p>The sacred <foreign>liṅga</foreign> of Bingba (or Bimba?).</p>
             </div>
             <div type="commentary">
-                <p></p>
+                <p>Titi S.N. read <foreign>biŋba</foreign> and in her translation she gives “<foreign>Bingba</foreign> (= <foreign>Arca</foreign>)”, which implies she sees a connection with Sanskrit <foreign>bimba</foreign> ‘image’. This raises questions both about the meaning of <foreign>liṅga</foreign>, and about the history of usage of the <foreign>anusvāra</foreign>/<foreign>cecak</foreign> sign, which would probably stand for <foreign>m</foreign> (not <foreign>ŋ</foreign>).</p>
             </div>
             <div type="bibliography">
                 <p>bibliography of previous editions, discussion, etc.</p>
