@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Kebantenan 1</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority></authority>
+                <idno type="filename"></idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>in situ</repository>
+                        <idno>inventory number</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>description of object/monument (likely to include <material/>
+                                    and <objectType/> information, <dimensions/>, etc.)</support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>description of text field/campus</layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>description of letters, possibly including <height>letter-heights</height>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Place of origin</origPlace>
+                            <origDate>Date of origin</origDate>
+                        </origin>
+                        <provenance type="found"> Findspot and circumstances/context
+                        </provenance>
+                        <provenance type="observed">Modern location(s) (if different from repository, above)
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="photograph of text or monument"/>
+    </facsimile>
+    <text>
+        <body>
+            <div type="edition" xml:space="preserve" xml:lang="x-oldsun">
+                <p>
+                    <pb n="1a"/>
+                        <lb n="1"/> // <g type="symbol">Ø</g> // Oṁ Avighnam as·tu, nihan· sakakala ra
+                        <lb n="2" break="no"/>hyaṁ niskala vas·tu<space type="binding-hole"/>kañcana pun·, turun· ka ra
+                        <lb n="3" break="no"/>hyaṁ niṁrat· kañcana, ma<space type="binding-hole"/>kaṅuni ka susuhunan· Ayə
+                        <lb n="4" break="no"/>na ḍi pakuAn· pajajaran· pun·,</p><p> mulaḥ mo mihape
+
+                    <pb n="1b"/>
+                        <lb n="1"/>ḍayəhan· ḍi jayagiri, ḍəṁ ḍayəhan· ḍi suḍasəmbava,</p>
+                        <lb n="2"/><p>Aya ma nu ṅabayuAn·<space type="binding-hole"/>Iña Ulaḥ ḍek· ṅahəryanan·
+                        <lb n="3"/>Iña, ku na ḍasa, cala<space type="binding-hole"/>gara, kapas· timbaṁ, pare ḍ
+                        <lb n="4" break="no"/>oṁḍaṁ pun·,</p><p> maṅa ḍituḍi ka para muhara, mulaḥ dek· men·
+                            
+                     <pb n="2a"/>  
+                        <lb n="1" break="no"/>taAn· Iña beya pun·, kena Iña nu puraḥ ḍibuhaya,
+                        <lb n="2"/>mibuhayakən· na kacari<space type="binding-hole"/>taAn· pun·, nu pagəḥ ṅavaka                        
+                        <lb n="3" break="no"/> n· na ḍevasasan·na<space type="binding-hole"/>pun· <g type="symbol" subtype="circle">Ø</g> , <g type="symbol" subtype="circle">Ø</g>
+                        </p>
+                        
+                
+              
+            </div>
+            <div type="apparatus">
+                <listApp>
+                    <app loc="1">
+                        <lem>vaṁ<unclear cert="low">ṅa</unclear> <unclear>p</unclear>un·</lem><rdg source="#HD2011">vaṁ na pun</rdg><note>On the shape of ṅa, see ṅabalay in l. 7.</note>
+                    </app>
+                <app loc="2">
+                    <lem>ḍyi, viṅaran·</lem><rdg source="#HD2011">diya viṅaran</rdg><note>HD didn't note on how the first word could be interpreted as <foreign>diya</foreign>. In fact this is a common manner of interpreting spelling Cya in Sundanese mss., HD sugest to emending the second word to <foreign>diṅaran</foreign>. HD already suggested that one needs to <foreign>ḍiṅaran</foreign>; we add that ḍyi needs to be read as dyə, the word we also find further on in this line and in line 4.</note>
+                </app>
+                    <app loc="2">
+                        <lem>pran·</lem><rdg source="3HD2011">prana</rdg><note>This reading seems impossible to us, for there is unmistakably a sign between the n and the following ḍi, and this sign can only be paten or punctuation. Since the word pran does not seem to exist in Sundanese nor Javanese, we propose to emend this to pun·, as in line 4</note>
+                    </app>
+                    <app loc="2">
+                     <lem>ḍyə ḍiṅaran·</lem>
+                     <note>it would be possible to read <foreign>dyəṁ</foreign> <foreign>ḍiṅaran</foreign></note>
+                    </app>
+                    <app loc="4">
+                        <lem>ñusuk· na</lem>
+                        <rdg source="HD2011">ñusuk·na</rdg>
+                        <note>All predecessor have by their non-insertion of a space between <foreign>ñusuk</foreign> and <foreign>na</foreign> implied that <foreign>na</foreign> is a pronominal clitic, but it seems more convincing to take it as article <foreign>na</foreign> (<bibl source="Hardja2001">s.v. na 5</bibl>. For its use before topnyms, cf. BM vs. 60, 750; see Noorduyn &amp; Teeuw on the issue of how to interpret <foreign>na</foreign> in Sundanese mss.</note>
+                    </app>
+                    <app loc="4">
+                        <lem>rahyi</lem>
+                        <rdg source="HD2011">rahiyaṁ</rdg> 
+                        <note>We do not see the <foreign>anusvāra</foreign>/<foreign>cecak</foreign>. On the issue of Cyi/Ciya see the note on line 2.</note>
+                    </app>
+                    <app loc="5">
+                        <lem>sa siḍa</lem>
+                        <rdg source="HD2011">saṁ sida</rdg> 
+                        <note>HD explains that the <foreign>anusvāra</foreign>/<foreign>cecak</foreign> is present although hard to read. We are inclined to assume that it is absent. Cf. the cases of <foreign>sa ratu</foreign> and <foreign>rahyi</foreign> for <foreign>saṁ ratu</foreign> and <foreign>rahyiṁ</foreign> (= <foreign>rahiyaṁ</foreign>) above. </note>
+                    </app>
+                    <app loc="5">
+                        <lem>moKta</lem>
+                        <rdg source="HD2011">moKta</rdg>
+                        <note>We found a typical ka with stroke underline that represented <foreign>paten</foreign>.</note>
+                    </app>
+                    <app loc="5">
+                        <lem>gunuṁ</lem>
+                    <rdg source="HD2011">guna</rdg>
+                        <note>There can be no doubt about this reading. See the toponym Gunuṅ Tiga in the <title>Carita Parahyaṅan</title> as cited by <bibl>Pleyte (1911: 176)</bibl>.</note>
+                    </app>
+                    <app loc="5">
+                        <lem>Əcu</lem>
+                        <rdg source="HD2011">I(ñ·)cu</rdg>
+                        <note>HD reads Icu and proposes to emend as <foreign>iñcu</foreign>. Adding vocalisation -i to <foreign>aksara</foreign> A is the standard way to write Ə in Sundanese mss. E.g. PNRI L623 f. 30v4 shows precisely the same spelling, so there is no need to emend. See also Noorduyn &amp; <bibl>Teeuw (2006: 20–21)</bibl>.</note>
+                    </app>
+                    <app loc="5">
+                        <lem>(n)is·kala</lem>
+                        <rdg source="HD2011">nis·kala</rdg>
+                        <note>The first consonant is very hard to r ead as n, but that is what is must be.</note>
+                    </app>
+                    <app loc="6">
+                        <lem>nusa laraṁ</lem>
+                        <note>This place is mentioned in CP21b: <foreign>Aya na səvə prəbu vaṁṅi ṅaran·na Iñana prəbu nis·kala vas·tu kañcana nu surup· di nusa §§ laraṁ</foreign> “There is a king’s son, his name was fragrant, he is Prebu Niskala Wastu Kancana who has been burried in the Nusa Larang”. </note>
+                    </app>
+                    <app loc="7">
+                        <lem>(ṅa)balay·</lem>
+                        <note>The first consonant is unclear. If we are to follow HD who reads <foreign>ṅabalay</foreign>, then this means that at the beginning of line 1, we also need to read ṅa. BM contains word <foreign>ṅabalay</foreign>. </note>
+                    </app>
+                    <app loc="7–8">
+                       <lem> talaga <supplied reason="undefined" evidence="previousedition">va</supplied>R̥na</lem>
+                        <note>restoration proposed by HD. Cf. <bibl>Pleyte 1911: 172</bibl>, citation from FCP.6a: ti saṁ hyiṁ talaga vaṙna miñak· hanət· sagomboṁ Uyaḥ salave kəlek· lilitan· salave tək·tək· boEḥ putiḥ sakayuḥ hayam· sakurən· “From Talaga Warna: essential oil one gombong, salt 25 kəlek, waist cloth 25 təktək, white cloth one kayuh, chicken satu kurən”; </note>
+                        
+                    </app>
+                </listApp>
+                <p>external apparatus criticus (if applicable)</p>
+            </div>
+<!-- 
+
+
+lg is line group for verse line> 
+                        <lg>
+                        <l n="1">
+                        </l>
+                        </lg>
+<le met="xxx">: metre
+
+<listWit xml:id=""></listWit> 
+                    <witness></witness>
+                    <msDesc>
+                        <msIdentifier></msIdentifier>
+                        <msIdentifier></msIdentifier>
+                        <settlement></settlement>
+                        <repository></repository>
+                        <idno></idno>
+                        <altIdentifier></altIdentifier>
+                        
+                        Metode 1
+                        @loc 
+                        Method 2
+                        The double-end-point-attached-method
+                        @from
+                        @to
+                        using <anchor/>
+                        @xml:1
+                        
+                        Method 3
+                        PARALLEL SEGMENTATION METHOD (directly from text)
+                        
+                        <lem>LEMMA</lem>
+                        <app>Apparatus</app>
+                        <lem wit="EI #HG">Experience</lem>
+                            <rdgGrp type="orthographic"></rdgGrp>
+                                <rdg wit="#D">es</rdg>
+                                Value for reading: conj; em. 
+                                
+                    </msDesc>
+                    <placeName nymRef="m"></placeName>  -->                  
+           
+            <div type="translation">
+                <p>translation(s)</p>
+            </div>
+            <div type="commentary">
+                <p>commentary</p>
+            </div>
+            <div type="bibliography">
+                <p>bibliography of previous editions, discussion, etc.</p>
+<!--  -->                
+            </div>
+        
+        </body>
+    </text>
+</TEI>
