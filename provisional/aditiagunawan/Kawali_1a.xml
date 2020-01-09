@@ -1,57 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
-    <teiHeader>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"> 
+    <teiHeader xml:lang="eng">
         <fileDesc>
             <titleStmt>
-                <title>Kawali I (a)</title>
-            </titleStmt>
+                <title>Kawali I (a)</title><!--Change the title of the file, e.g. Raktamālā grant of the time of Budhagupta, year 159-->
+                <respStmt><!-- add an element respStmt for each person involved -->
+                    <resp>intellectual authorship of edition</resp><!-- this may be the same as the creator of the file -->
+                    <persName ref="part:adgu">
+                        <persName>
+                            <name>Aditia Gunawan</name>
+                        </persName>
+                    </persName>
+                </respStmt>
+            </titleStmt>         
             <publicationStmt>
-                <authority></authority>
-                <idno type="filename"></idno>
+                <authority>DHARMA
+                    <note>This project has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).
+                    </note>
+                </authority>
+                <pubPlace>Paris</pubPlace>
+                <idno type="filename">DHARMA_EncodingTemplateInscription</idno><!-- Replace by filename, e.g. Pallava00001 -->
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>This work is licenced under the Creative Commons Attribution 4.0 Unported Licence. To view a copy of the licence, visit https://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.</p>
+                        <p>Copyright (c) 2019-2025 by Aditia Gunawan.</p><!-- Replace year and name, use format "Forename1 Surname1 & Forename2 Surname2" or "Forename1 Surname1, Forename2 Surname2 & Forename3 Surname3"  if necessary — the copyright is that of the encoder(s) -->
+                    </licence>
+                </availability>
+                <date from="2019" to="2025">2019-2025</date>
             </publicationStmt>
             <sourceDesc>
-                <msDesc>
-                    <msIdentifier>
-                        <repository>in situ</repository>
-                        <idno>inventory number</idno>
-                    </msIdentifier>
-                    <physDesc>
-                        <objectDesc>
-                            <supportDesc>
-                                <support>description of object/monument (likely to include <material/>
-                                    and <objectType/> information, <dimensions/>, etc.)</support>
-                            </supportDesc>
-                            <layoutDesc>
-                                <layout>description of text field/campus</layout>
-                            </layoutDesc>
-                        </objectDesc>
-                        <handDesc>
-                            <handNote>description of letters, possibly including <height>letter-heights</height>
-                            </handNote>
-                        </handDesc>
-                    </physDesc>
-                    <history>
-                        <origin>
-                            <origPlace>Place of origin</origPlace>
-                            <origDate>Date of origin</origDate>
-                        </origin>
-                        <provenance type="found"> Findspot and circumstances/context
-                        </provenance>
-                        <provenance type="observed">Modern location(s) (if different from repository, above)
-                        </provenance>
-                    </history>
-                </msDesc>
+                <p><!-- not to be filled in at this stage --></p>
             </sourceDesc>
         </fileDesc>
+        <revisionDesc>
+            <change who="part:axja" when="2020-01-09" status="draft">Update the template</change><!-- add a <change> for each change to the file, the first change should replace this one and record your creation of a file using this template. -->
+        </revisionDesc>
     </teiHeader>
-    <facsimile>
-        <graphic url="photograph of text or monument"/>
-    </facsimile>
-    <text>
+    <text xml:space="preserve">
         <body>
-            <div type="edition" xml:space="preserve" xml:lang="x-oldsun">
+            <div type="edition" xml:lang="x-oldsun">
                 <p>
                      <lb n="1"/> <g type="symbol">ø</g> n<unclear>i</unclear>han· tapaK va
                      <lb n="2" break="no"/>laṙ nu syi muliA tapa </p> <p> I
@@ -91,17 +80,20 @@
                 </listApp>
             </div>
            
-            <div type="translation">
+            <div type="translation" xml:lang="eng">
                 <p>This is the footprint/These are the footprints (<foreign>tapak walar</foreign>) of the one(s) of praiseworthy asceticism. He, his majesty king Wastu, ruling in the city Kawali, is the one who beautifies the palace Surawisesa, who digs a moat around the city, who plants (crops) in all villages. If there is one in the future, he must do good works, so that success in the world be long-lasting.</p>
             </div>
             <div type="commentary">
-                <p>commentary</p>
-            </div>
-            <div type="bibliography">
-                <p>bibliography of previous editions, discussion, etc.</p>
-<!--  -->                
-            </div>
-        
+            <!--commentary encoded as per section §9.3 -->
+         </div>
+        <div type="bibliography">
+	<!--bibliography encoded as per section §9.4 -->
+	<!-- NB: you are encouraged to experiment with encoding bibliography to the extent you have the bibliographic data available, but it is not mandatory at this stage, because our bibliographic data are normally assembled along with other metadata in spreadsheets and will be imported from there into our xml files by a semi-automated process at a later stage. -->
+           <p><!-- formulate epigraphic lemma here, using the items of primary bibliography --></p>
+           <listBibl type="secondary">
+              <bibl/><!-- one <bibl/> per item of secondary bibliography -->
+           </listBibl>
+        </div>
         </body>
     </text>
 </TEI>
