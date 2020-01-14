@@ -5,14 +5,26 @@
     <teiHeader xml:lang="eng">
         <fileDesc>
             <titleStmt>
-                <title>Kebantenan 1</title><!--Change the title of the file, e.g. Raktamālā grant of the time of Budhagupta, year 159-->
-                <respStmt><!-- add an element respStmt for each person involved -->
+                <title>Kebantenan 1</title>
+            	<respStmt><!-- add an element respStmt for each person involved -->
+            	<resp>Creation of the file</resp><!-- work done in the file, e.g. editor ...-->
+            	<persName ref="part:agdu">
+            		<name>Aditia Gunawan</name>
+            	</persName>
+            	</respStmt>
+	  <respStmt><!-- add an element respStmt for each person involved -->
                     <resp>intellectual authorship of edition</resp><!-- this may be the same as the creator of the file -->
                     <persName ref="part:adgu">
                         <persName>
                             <name>Aditia Gunawan</name>
                         </persName>
                     </persName>
+	  	<persName ref="part:argr">
+	  		<persName>
+	  			<forename>Arlo</forename>
+	  			<surname>Griffiths</surname>
+	  		</persName>
+	  	</persName>
                 </respStmt>
             </titleStmt>         
             <publicationStmt>
@@ -21,7 +33,7 @@
                     </note>
                 </authority>
                 <pubPlace>Paris</pubPlace>
-                <idno type="filename">DHARMA_EncodingTemplateInscription</idno><!-- Replace by filename, e.g. Pallava00001 -->
+                <idno type="filename">Kebantenan_1</idno><!-- Replace by filename, e.g. Pallava00001 -->
                 <availability>
                     <licence target="https://creativecommons.org/licenses/by/4.0/">
                         <p>This work is licenced under the Creative Commons Attribution 4.0 Unported Licence. To view a copy of the licence, visit https://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.</p>
@@ -32,64 +44,51 @@
             </publicationStmt>
             <sourceDesc>
                 <p><!-- not to be filled in at this stage --></p>
+<!-- adgu: need to describe binding-holes -->
             </sourceDesc>
         </fileDesc>
         <revisionDesc>
+        	<change who="part:argr" when="2020-01-14" status="draft">Revision of adgu's initial encoding.</change>
             <change who="part:axja" when="2020-01-09" status="draft">Update the template</change><!-- add a <change> for each change to the file, the first change should replace this one and record your creation of a file using this template. -->
+        	<change who="part:adgu" when="2019-12" status="draft">Initial encoding of the edition</change>
         </revisionDesc>
     </teiHeader> 
     <text xml:space="preserve">
         <body>
             <div type="edition" xml:lang="x-oldsun">
-                <p>
-                    <pb n="1a"/>
-                        <lb n="1"/> // <g type="symbol">Ø</g> // Oṁ Avighnam as·tu, nihan· sakakala ra
-                        <lb n="2" break="no"/>hyaṁ niskala vas·tu<space type="binding-hole"/>kañcana pun·, turun· ka ra
+            <pb n="1r"/>
+	<p>
+                        <lb n="1"/> // <g type="symbol" subtype="tennisball"/> // Oṁ Avighnam as·tu, nihan· sakakala ra
+                        <lb n="2" break="no"/>hyaṁ niskala vas·tu <space type="binding-hole"/> kañcana pun·, turun· ka ra
                         <lb n="3" break="no"/>hyaṁ niṁrat· kañcana, ma<space type="binding-hole"/>kaṅuni ka susuhunan· Ayə
-                        <lb n="4" break="no"/>na ḍi pakuAn· pajajaran· pun·,</p><p> mulaḥ mo mihape
-
-                    <pb n="1b"/>
-                        <lb n="1"/>ḍayəhan· ḍi jayagiri, ḍəṁ ḍayəhan· ḍi suḍasəmbava,</p>
-                        <lb n="2"/><p>Aya ma nu ṅabayuAn·<space type="binding-hole"/>Iña Ulaḥ ḍek· ṅahəryanan·
+                        <lb n="4" break="no"/>na ḍi pakuAn· pajajaran· pun·,</p> <p>mulaḥ mo mihape
+             <pb n="1v"/>
+                        <lb n="1"/>ḍayəhan· ḍi jayagiri, ḍəṁ ḍayəhan· ḍi <choice><orig>suḍa</orig><reg>suṇḍa</reg></choice>-səmbava,</p>
+                        <lb n="2"/><p>Aya ma nu ṅabayuAn· <space type="binding-hole"/> Iña Ulaḥ ḍek· ṅahəryanan·
                         <lb n="3"/>Iña, ku na ḍasa, cala<space type="binding-hole"/>gara, kapas· timbaṁ, pare ḍ
-                        <lb n="4" break="no"/>oṁḍaṁ pun·,</p><p> maṅa ḍituḍi ka para muhara, mulaḥ dek· men·
-                            
-                     <pb n="2a"/>  
+                        <lb n="4" break="no"/>oṁḍaṁ pun·,</p> <p><sic>maṅa</sic> ḍituḍi ka para muhara, mulaḥ dek· men·
+              <pb n="2r"/>  
                         <lb n="1" break="no"/>taAn· Iña beya pun·, kena Iña nu puraḥ ḍibuhaya,
                         <lb n="2"/>mibuhayakən· na kacari<space type="binding-hole"/>taAn· pun·, nu pagəḥ ṅavaka                        
-                        <lb n="3" break="no"/> n· na ḍevasasan·na<space type="binding-hole"/>pun· <g type="symbol" subtype="circle">Ø</g> , <g type="symbol" subtype="circle">Ø</g>
-                        </p>
-
+                        <lb n="3" break="no"/>n· na ḍevasasan·na <space type="binding-hole"/> pun· <g type="symbol" subtype="tennisball"/>, <g type="symbol" subtype="tennisball"/></p>
             </div>
             <div type="apparatus">
                 <listApp>
-                   <app loc="1a.1"> <!-- Is this kind of reference apparatus is permitted? -->
+                   <app loc="p1r.1"> <!-- Is this kind of reference apparatus is permitted? -->
                        <lem>Avighnam</lem>
-                       <rdgGrp>
-                           <rdg source="BoechariPKMN">Avignam</rdg>
-                           <rdg source="Pleyte1913">Avignam</rdg>
-                       </rdgGrp>
-                       <note>The grapheme here represented as <foreign>gh</foreign> is different both from <foreign>k</foreign> and <foreign>g</foreign> in this group of inscriptions; it resembles the sign that expresses <foreign>ñ</foreign> in the Kawali inscriptions, but is different again from <foreign>ñ</foreign> in the present group of inscriptions. It is also different from the shape of <foreign>gh</foreign> in Buda/Gunung script (e.g. Acri 2011: 638).</note>
+                         <rdg source="bib:Pleyte1911_01 bib:Boechari1985-1986_01">Avignam</rdg>
+                       <note>The grapheme here represented as <foreign>gh</foreign> is different both from <foreign>k</foreign> and <foreign>g</foreign> in this group of inscriptions; it resembles the sign that expresses <foreign>ñ</foreign> in the Kawali inscriptions, but is different again from <foreign>ñ</foreign> in the present group of inscriptions. It is also different from the shape of <foreign>gh</foreign> in the Buda/Gunung script (e.g. <bibl><ptr target="bib:Acri2017_01"/><citedRange>638</citedRange></bibl><!-- This is the page from Acri2011_01, to be replaced by page number in 2017 edition. -->).</note>
                    </app>    
-                    <app loc="1b.1">
+                    <app loc="p1v.1">
                         <lem>ḍəṁ</lem>
-                            <rdgGrp>
-                                <rdg source="Pleyte1913">ḍəṁ</rdg>
-                                <rdg source="BoechariPKMN">don</rdg>
-                            </rdgGrp>
-                        <note>Boechari's note “Maksudnya: jöŋ” makes clear that his reading is a printing error for döŋ. HD’s note in the bracket “baca: jöṅ”. </note>
-                        
+                                <rdg source="bib:Pleyte1911_01">ḍəṁ</rdg>
+                                <rdg source="bib:Boechari1985-1986_01">don</rdg>
+                        <note>Boechari's note <quote>Maksudnya: jöŋ</quote> makes clear that his reading is a printing error for <foreign>döŋ</foreign>. Hasan Djafar notes in brackets: <quote>baca: jöṅ</quote>.</note>
                     </app>
-                    <app loc="1b.1">
-                        <lem>suḍasəmbava</lem>
-                            <note>read <foreign>suṇḍasəmbava</foreign></note>
-                    </app>
-                    <app loc="1b.4">
-                        <lem>maṅa</lem>
-                        <rdgGrp>
-                            <rdg source="BoechariPKMN">maṅa</rdg>
-                            <rdg source="Pleyte1913">mangga</rdg>
-                        </rdgGrp>
+                    <app loc="p1v.4">
+                        <lem><sic>maṅa</sic></lem>
+                            <rdg source="bib:Pleyte1911_01">maṅga</rdg>
+                            <rdg source="bib:Boechari1985-1986_01">maṅa</rdg>
                     </app>
                 </listApp>
             </div>
@@ -107,7 +106,6 @@
               <bibl/><!-- one <bibl/> per item of secondary bibliography -->
            </listBibl>
         </div>
-        
         </body>
     </text>
 </TEI>
