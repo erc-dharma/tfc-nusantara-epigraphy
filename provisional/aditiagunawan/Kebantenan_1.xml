@@ -74,7 +74,7 @@
             </div>
             <div type="apparatus">
                 <listApp>
-                   <app loc="p1r.1"> <!-- Is this kind of reference apparatus is permitted? -->
+                   <app loc="p1r.1">
                        <lem>Avighnam</lem>
                          <rdg source="bib:Pleyte1911_01 bib:Boechari1985-1986_01">Avignam</rdg>
                        <note>The grapheme here represented as <foreign>gh</foreign> is different both from <foreign>k</foreign> and <foreign>g</foreign> in this group of inscriptions; it resembles the sign that expresses <foreign>ñ</foreign> in the Kawali inscriptions, but is different again from <foreign>ñ</foreign> in the present group of inscriptions. It is also different from the shape of <foreign>gh</foreign> in the Buda/Gunung script (e.g. <bibl><ptr target="bib:Acri2017_01"/><citedRange>638</citedRange></bibl><!-- This is the page from Acri2011_01, to be replaced by page number in 2017 edition. -->).</note>
