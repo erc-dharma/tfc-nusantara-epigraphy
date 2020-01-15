@@ -48,6 +48,7 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc>
+        	<change who="part:argr" when="2020-01-15" status="draft">Changed position of a p vis-àvis an lb.</change>
         	<change who="part:argr" when="2020-01-14" status="draft">Revision of adgu's initial encoding.</change>
             <change who="part:axja" when="2020-01-09" status="draft">Update the template</change><!-- add a <change> for each change to the file, the first change should replace this one and record your creation of a file using this template. -->
         	<change who="part:adgu" when="2019-12" status="draft">Initial encoding of the edition</change>
@@ -64,7 +65,8 @@
                         <lb n="4" break="no"/>na ḍi pakuAn· pajajaran· pun·,</p> <p>mulaḥ mo mihape
              <pb n="1v"/>
                         <lb n="1"/>ḍayəhan· ḍi jayagiri, ḍəṁ ḍayəhan· ḍi <choice><orig>suḍa</orig><reg>suṇḍa</reg></choice>-səmbava,</p>
-                        <lb n="2"/><p>Aya ma nu ṅabayuAn· <space type="binding-hole"/> Iña Ulaḥ ḍek· ṅahəryanan·
+             <p>
+		 <lb n="2"/>Aya ma nu ṅabayuAn· <space type="binding-hole"/> Iña Ulaḥ ḍek· ṅahəryanan·
                         <lb n="3"/>Iña, ku na ḍasa, cala<space type="binding-hole"/>gara, kapas· timbaṁ, pare ḍ
                         <lb n="4" break="no"/>oṁḍaṁ pun·,</p> <p><sic>maṅa</sic> ḍituḍi ka para muhara, mulaḥ dek· men·
               <pb n="2r"/>  
