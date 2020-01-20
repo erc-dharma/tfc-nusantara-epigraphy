@@ -35,7 +35,8 @@
          </sourceDesc>
       </fileDesc>
      <revisionDesc>
-        <change who="part:argr" when="2020-01-18" status="draft">initial encoding of the inscription</change>
+     	<change who="part:argr" when="2020-01-20" status="draft">applied corrections proposed by Daniel Balogh</change>
+     	<change who="part:argr" when="2020-01-18" status="draft">initial encoding of the inscription</change>
      </revisionDesc>
   </teiHeader>
   <text xml:space="preserve">
@@ -52,20 +53,20 @@
          <div type="apparatus">
            <!--apparatus encoded as per EG §9.1, basic elements for apparatus below-->
                <listApp><!-- one <app> for each apparatus entry -->
-	<app loc="1v1">
+	<app loc="p1v.1">
 <lem source="bib:Boechari1985-1985_01">vuĀ<gap reason="lost" extent="unknown"/></lem>
 <rdg source="bib:CohenStuart1875_01">vuĀ<supplied reason="lost" cert="low">ra</supplied><gap reason="lost" extent="unknown"/></rdg>
-<note>Cohen Stuart's restitution is not confirmed by any occurrence of <foreign xml:lang="kaw-Latn">vuāra</foreign> in any inscription that I am aware of, although <foreign xml:lang="kaw-Latn">vuara</foreign> is common.</note>
+<note>Cohen Stuart's restitution is not confirmed by any occurrence of <term>vuāra</term> in any inscription that I am aware of, although <term>vuara</term> is common.</note>
 </app>
- <app loc="1v.2">
+ <app loc="p1v.2">
                      <lem>Ikanaṁ</lem>
                      <rdg source="bib:CohenStuart1875_01 bib:Boechari1985-1985_01">Ikana</rdg>
 <note>The anusvāra is clear enough on the estampage.</note>
                   </app>
-                  <app loc="1v.3">
+                  <app loc="p1v.3">
                      <lem source="bib:CohenStuart1875_01">saṁ ḍuryyan· muAṁ saṁ siṅgaḥ</lem>
                      <rdg source="bib:Boechari1985-1985_01">san daryyan muan singah</rdg>
-<note>Besides omitting all diacritics on every one of these words, Boechari entirely omits the second <foreign xml:lang="kaw-Latn">saṁ</foreign>.</note>
+<note>Besides omitting all diacritics on every one of these words, Boechari entirely omits the second <term>saṁ</term>.</note>
                   </app>
                </listApp>         
          </div>
@@ -78,9 +79,8 @@
          </div>
         <div type="bibliography">
 	<!--bibliography encoded as per section §9.4 -->
-	<p>First edited by Cohen Stuart (<bibl rend="omitname"><ptr target="bib:CohenStuart1875_01"/><citedRange unit="page">23</citedRange><citedRange unit="item">XIII</citedRange></bibl>) with a lithographic reproduction in the accompanying volume of plates (<bibl><ptr target="bib:HuartHooiberg1875_01"/><!-- & deleted from shorttitle to avoid validation problem — see issue #4 in repo project-documentation --></bibl>); edited again by Boechari (<bibl rend="omitname"><ptr target="bib:Boechari1985-1986_01"/><citedRange unit="page">53</citedRange> <citedRange unit="item">E.16</citedRange></bibl>); re-edited here by Arlo Griffiths from the Leiden estampage of the plate.</p>
-           <p><!-- formulate epigraphic lemma here, using the items of primary bibliography --></p>
-           <listBibl type="secondary">
+	<p>First edited by Cohen Stuart (<bibl rend="omitname"><ptr target="bib:CohenStuart1875_01"/><citedRange unit="page">23</citedRange><citedRange unit="item">XIII</citedRange></bibl>) with a lithographic reproduction in the accompanying volume of plates (<bibl><ptr target="Huart+Hooiberg1875_01"/></bibl>); edited again by Boechari (<bibl rend="omitname"><ptr target="bib:Boechari1985-1986_01"/><citedRange unit="page">53</citedRange> <citedRange unit="item">E.16</citedRange></bibl>); re-edited here by Arlo Griffiths from the Leiden estampage of the plate.</p>
+            <listBibl type="secondary">
 	  <bibl><ptr target="bib:NBG"/> 1870<!-- can this year stand like this, or should citedRange be applied to it? --> <citedRange unit="volume">8</citedRange> <citedRange unit="page">72, 78</citedRange></bibl>
               <bibl><ptr target="bib:Verbeek1891_01"/><citedRange unit="page">149-150</citedRange> <citedRange unit="item">276</citedRange></bibl>
            </listBibl>
