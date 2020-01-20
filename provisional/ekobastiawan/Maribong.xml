@@ -84,9 +84,8 @@
            <p><!-- formulate epigraphic lemma here, using the items of primary bibliography --></p>
            <listBibl type="secondary">
                <bibl><ptr target="bib:Damais1952_01"/><citedRange unit="page">72-73</citedRange></bibl>
-              <bibl><ptr target="bib:Nurhadi Magetsari&al1979_01"/><citedRange unit="page">161</citedRange></bibl><!-- it failed to validate , it says the reference to entity  "al1979_01 must end with the';' delimeter.-->
-                  <bibl><ptr target="bib:Eade&Gislén2000_01"/><citedRange unit="page">97-99</citedRange>
-              <bibl/>
+              <bibl><ptr target="bib:Nurhadi Magetsari&amp;al1979_01"/><citedRange unit="page">161</citedRange></bibl>
+                  <bibl><ptr target="bib:Eade&amp;Gislén2000_01"/><citedRange unit="page">97-99</citedRange> </bibl>
            </listBibl>
         </div>
       </body>
