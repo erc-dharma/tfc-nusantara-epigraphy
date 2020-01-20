@@ -43,3 +43,12 @@
 |---------------------|-----------------------------|
 | kon			| order |
 
+## maṅilāla dravya haji
+| Old Javanese term   | English translation         |
+|---------------------|-----------------------------|
+| maṅilāla dravya haji | (those) who enjoy the usufruct of royal property |
+
+## sukhaduḥkha
+| Old Javanese term   | English translation         |
+|---------------------|-----------------------------|
+| sukhaduḥkha | 			|
