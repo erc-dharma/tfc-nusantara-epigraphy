@@ -44,7 +44,7 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc>
-              <change who="part:adgu" when="2020-01-15" status="draft">Changed language tag, input translation and bibliography.</change>
+             <change who="part:adgu" when="2020-01-15" status="draft">Changed language tag, input translation and bibliography.</change>
         	<change who="part:argr" when="2020-01-15" status="draft">Changed position of a p vis-àvis an lb.</change>
         	<change who="part:argr" when="2020-01-14" status="draft">Revision of adgu's initial encoding.</change>
             <change who="part:axja" when="2020-01-09" status="draft">Update the template</change><!-- add a <change> for each change to the file, the first change should replace this one and record your creation of a file using this template. -->
@@ -76,13 +76,13 @@
                    <app loc="p1r.1">
                        <lem>Avighnam</lem>
                          <rdg source="bib:Pleyte1911_01 bib:Boechari1985-1986_01">Avignam</rdg>
-                       <note>The grapheme here represented as <foreign xml:lang="x-oldsun">gh</foreign> is different both from <foreign xml:lang="x-oldsun">k</foreign> and <foreign xml:lang="x-oldsun">g</foreign> in this group of inscriptions; it resembles the sign that expresses <foreign xml:lang="x-oldsun">ñ</foreign> in the Kawali inscriptions, but is different again from <foreign xml:lang="x-oldsun">ñ</foreign> in the present group of inscriptions. It is also different from the shape of <foreign>gh</foreign> in the Buda/Gunung script (e.g. <bibl><ptr target="bib:Acri2017_01"/><citedRange>638</citedRange></bibl><!-- This is the page from Acri2011_01, to be replaced by page number in 2017 edition. -->).</note>
+                       <note>The grapheme here represented as <foreign xml:lang="x-oldsun-Latn">gh</foreign> is different both from <foreign xml:lang="x-oldsun-Latn">k</foreign> and <foreign xml:lang="x-oldsun-Latn">g</foreign> in this group of inscriptions; it resembles the sign that expresses <foreign xml:lang="x-oldsun-Latn">ñ</foreign> in the Kawali inscriptions, but is different again from <foreign xml:lang="x-oldsun-Latn">ñ</foreign> in the present group of inscriptions. It is also different from the shape of <foreign>gh</foreign> in the Buda/Gunung script (e.g. <bibl><ptr target="bib:Acri2017_01"/><citedRange>638</citedRange></bibl><!-- This is the page from Acri2011_01, to be replaced by page number in 2017 edition. -->).</note>
                    </app>    
                     <app loc="p1v.1">
                         <lem>ḍəṁ</lem>
                                 <rdg source="bib:Pleyte1911_01">ḍəṁ</rdg>
                                 <rdg source="bib:Boechari1985-1986_01">don</rdg>
-                        <note>Boechari's note <quote>Maksudnya: jöŋ</quote> makes clear that his reading is a printing error for <foreign xml:lang="x-oldsun">döŋ</foreign>. Hasan Djafar notes in brackets: <quote>baca: jöṅ</quote>.</note>
+                        <note>Boechari's note <quote>Maksudnya: jöŋ</quote> makes clear that his reading is a printing error for <foreign xml:lang="x-oldsun-Latn">döŋ</foreign>. Hasan Djafar notes in brackets: <quote>baca: jöṅ</quote>.</note>
                     </app>
                     <app loc="p1v.4">
                         <lem><sic>maṅa</sic></lem>
@@ -91,17 +91,17 @@
                     </app>
                     <app loc="p1v.4">
                         <lem>ḍituḍi</lem>
-                        <note>We follows <bibl><ptr target="Pleyte1911_01"/></bibl> who corrected this to <foreign xml:lang="x-oldsun">ḍituḍiṁ</foreign></note>
+                        <note>We follows <bibl><ptr target="Pleyte1911_01"/></bibl> who corrected this to <foreign xml:lang="x-oldsun-Latn">ḍituḍiṁ</foreign></note>
                     </app>
                     <app loc="p2r.1">
                         <lem>beya</lem>
-                        <note>Pleyte needlessly corrects this to <foreign xml:lang="x-oldsun">beyas</foreign> (<bibl><ptr target="Pleyte1911_01"/></bibl>)</note>
+                        <note>Pleyte needlessly corrects this to <foreign xml:lang="x-oldsun-Latn">beyas</foreign> (<bibl><ptr target="Pleyte1911_01"/></bibl>)</note>
                     </app>
                 </listApp>
             </div>
     <div type="translation" xml:lang="eng">
  	<!--translation encoded as per EG §9.2 -->
-        <p>Om. Let there be no obstacle! As follows is the decree of Rahyang Niskala Wastu Kancana, that came down to Rahyang Ningrat Kancana and also to His Highness now at Pakuan Pajajaran.</p> <p>Do not omit to take care of the inhabitants of Jayagiri and the inhabitants of Sundasembawa.</p> <p>If there is someone providing them livelihood, don’t be eager to overcrowd/overburden him/them with the <foreign xml:lang="x-oldsun">dasa</foreign>, <foreign xml:lang="x-oldsun">calagara</foreign>, <foreign xml:lang="x-oldsun">kapas timbang</foreign>, <foreign xml:lang="x-oldsun">pare dongdang</foreign>.</p> <p>Also addressed to all the <supplied reason="subaudible">people at the</supplied> mouth of the river: don’t be eager to ask them toll. Because those who are loved, as it were, (themselves) love the world, who firmly put into practice the divine ordinances.</p> 
+        <p>Om. Let there be no obstacle! As follows is the decree of Rahyang Niskala Wastu Kancana, that came down to Rahyang Ningrat Kancana and also to His Highness now at Pakuan Pajajaran.</p> <p>Do not omit to take care of the inhabitants of Jayagiri and the inhabitants of Sundasembawa.</p> <p>If there is someone providing them livelihood, don’t be eager to overcrowd/overburden him/them with the <foreign xml:lang="x-oldsun-Latn">dasa</foreign>, <foreign xml:lang="x-oldsun-Latn">calagara</foreign>, <foreign xml:lang="x-oldsun-Latn">kapas timbang</foreign>, <foreign xml:lang="x-oldsun-Latn">pare dongdang</foreign>.</p> <p>Also addressed to all the <supplied reason="subaudible">people at the</supplied> mouth of the river: don’t be eager to ask them toll. Because those who are loved, as it were, (themselves) love the world, who firmly put into practice the divine ordinances.</p> 
          </div>
          <div type="commentary">
             <!--commentary encoded as per section §9.3 -->
