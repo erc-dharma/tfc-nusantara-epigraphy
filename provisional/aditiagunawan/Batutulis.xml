@@ -35,12 +35,13 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc>
+            <change who="part:adgu" when="2020-01-15" status="draft">Update with the new template.</change>
             <change who="part:axja" when="2020-01-09" status="draft">Update the template</change><!-- add a <change> for each change to the file, the first change should replace this one and record your creation of a file using this template. -->
         </revisionDesc>
     </teiHeader>  
     <text xml:space="preserve">
         <body>
-            <div type="edition" xml:lang="x-oldsun">
+            <div type="edition" xml:lang="x-oldsun-Latn">
                 <p>
                     <lb n="1"/><g type="symbol">Ø</g> <g type="symbol">Ø</g> vaṁ<unclear>ṅa</unclear> <unclear>p</unclear>un· I<unclear>n</unclear>i sakakala, pr<unclear>ə</unclear>bu ratu purane pun·, ḍivas·tu
                     <lb n="2"/>ḍyi, viṅaran· prəbu guru ḍe<unclear>va</unclear>ta pran· ḍivas·tu ḍyə ḍiṅaran· sri
@@ -92,7 +93,8 @@
                     <app loc="5">
                         <lem>gunuṁ</lem>
                     <rdg source="HD2011">guna</rdg>
-                        <note>There can be no doubt about this reading. See the toponym Gunuṅ Tiga in the <title>Carita Parahyaṅan</title> as cited by <bibl>Pleyte (1911: 176)</bibl>.</note>
+                        <note>There can be no doubt about this reading. See the toponym Gunuṅ Tiga in the <title>Carita Parahyaṅan</title> as cited by Pleyte (<bibl rend="omitname"><ptr target="Pleyte1911_01"/><citedRange>176</citedRange></bibl>).
+</note>
                     </app>
                     <app loc="5">
                         <lem>Əcu</lem>
