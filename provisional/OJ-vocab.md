@@ -1,15 +1,15 @@
 # Controlled vocabulary for translation of Old Javanese inscriptions
 
 ## Dating formula
-| Old Javanese term       | English translation    |
-|--------------------------------|------------------------|
-| grahacāra                       |                  |
-| irika divaśa-ni                         |        That was the time that  |
-| maṇḍala                         |                  |
-| rāśi                         |                  |
-| śakavarṣātīta           |         elapsed Śaka year         |
-| tatkāla-ni                         |        That was the time that  |
-| yoga                         |            conjunction      |
+| Old Javanese term | English translation    |
+|-------------------|------------------------|
+| grahacāra         |                        |
+| irika divaśa-ni   | That was the time that |
+| maṇḍala           |                        |
+| rāśi              | zodiacal sign          |
+| śakavarṣātīta     | elapsed Śaka year      |
+| tatkāla-ni        | That was the time that |
+| yoga              | conjunction            |
 
 ## Titles
 | Old Javanese term              | English translation    |
@@ -39,9 +39,10 @@
 | paməgət             | officiant                   |
 
 ## Verbs 
-| Old Javanese term   | English translation         |
-|---------------------|-----------------------------|
-| kon			| order |
+| Old Javanese term | English translation               |
+|-------------------|-----------------------------------|
+| kon               | order                             |
+| kumonakən         | give an order regarding something |
 
 ## maṅilāla dravya haji
 | Old Javanese term   | English translation         |
