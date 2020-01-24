@@ -27,7 +27,7 @@
                     </note>
                 </authority>
                 <pubPlace>Malang</pubPlace>
-                <idno type="filename">Pakis Wetan</idno>
+                <idno type="filename">Pakis Wetan</idno><!--DB: I'm not sure about the status of file naming conventions and I assume all file names will sooner or later be updated to that standard. But even before then, it may be best if the filename encoded here is exactly identical to the current filename, i.e. in this case PakisWetan (without space). -->
                 <availability>
                     <licence target="https://creativecommons.org/licenses/by/4.0/">
                         <p>This work is licenced under the Creative Commons Attribution 4.0 Unported Licence. To view a copy of the licence, visit https://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.</p>
@@ -49,10 +49,18 @@
          <div type="edition" xml:lang="kaw-Latn">
 <pb n="1r"/><space quantity="1" unit="page"/><!--Blank outer page.-->
 <p><pb n="1v"/>
- <lb n="1"/>// <g type="symbol" subtype="circle"/> // Om̐ namaś śivāya // svasti śakavarṣātĭta, <num value="1188">1188</num>, māghamāsa, tīthi, trayodaśī śu
+ <!--DB: Line 1, Om̐ - this may be a stupid question, but is this a regular O character with a nasalisation mark that is different from standard anusvāra? If it is not a regular O character, then I think it should be encoded as a symbol, not as text; while if both the O and the anusvāra are regular, it should be Oṁ.  -->
+<!--DB: All <lb/> elements of any kind: never add a space after these! (All lines of this inscription that start with text.) -->
+<!--DB: <lb n="2" break="no"/> - lb elements inside a word should not be written in new lines of XML code, because this may cause problems with display. This was mentioned in the EG, but was not explicit enough; I've recently made it more explicit. If you find it easier to work with your file so that each inscription line is a new code line, you can still start a new code line _inside_ the tag:
+e.g.<lb n="2"
+     break="no"/> is perfectly OK. -->
+<!--DB: <lb n="3" break="no"/> - this line break seems to be in the wrong place, splitting an akṣara. -->
+<lb n="1"/>// <g type="symbol" subtype="circle"/> // Om̐ namaś śivāya // svasti śakavarṣātĭta, <num value="1188">1188</num>, māghamāsa, tīthi, trayodaśī śu
 <lb n="2" break="no"/> klapakṣa, <abbr>vā</abbr>, <abbr>va</abbr>, <abbr>Aṁ</abbr>, vāra, mahatal·, dakṣiṇasthagrahacāra, puṣ<choice><sic>pā</sic><corr>yā</corr></choice>nakṣatra, jīvadevatā, Āgn
 <lb n="3" break="no"/> eyamaṇḍala, śobhanayauga, baruṇamuhūrtta, Agniparvveśa, tetilakāraṇa, kumbharāśi,</p>
- <p part="I">I
+<!--DB: <p part="I">: no problem here, I just wanted to say I'm glad to see this in use! -->
+<!--DB: the Sanskrit bits - I'm not sure why some Skt compounds are tagged and others are not, but I assume this is deliberate. The spaces within "samastākṣat    riya" seem to be a mistake. Since this word is explicitly tagged as Sanskrit, maybe correct the ā of samastā to a, or tag all of samastā as <orig> - but again, if a/ā mixup in Skt words is common in the corpus, then ignoring it is OK. -->
+<p part="I">I
 <lb n="4" break="no"/> rika divaśany ājñā śrī mahārāja, śrī laukavijaya, <foreign>praśāstajagadīśvarāninditaparăkramānivā
 <lb n="5" break="no"/> ryyavĭryyālaṅghanĭya</foreign>, kr̥tanagaranāmarājābhiṣeka, makamaṅgalyājñā śrī sakalarājāśra§
 <lb n="6" break="no"/> ya, <foreign>samastākṣat    riyacūḍāmaṇipatitacaraṇāravinda</foreign>, bhaṭāra jayaśrīviṣṇuvarddhananāmadevā
@@ -99,7 +107,7 @@
              Om! Homage to Śiva! Hail! In the elapsed Śaka year 1188, month of Māgha, thirteenth <foreign>tithi</foreign> of the waxing fortnight, Vās, Vagai, Tuesday, <supplied reason="explanation"><foreign>Wuku</foreign></supplied> Mahatal; <foreign>grahacāra</foreign> in the South; lunar mansion of Puṣya; deity Jīva; <foreign>maṇḍala</foreign> in the Southeast; <foreign>yoga</foreign> Śobhana; <foreign>muhūrta</foreign> Varuṇa; regent of the astronomical node Agni; <foreign>karaṇa</foreign> Tetila; zodiac sign Aquarius. 
 </p>
 <p>
-             That was the time that the instruction of the king — the ‘conqueror of the world’, ‘insurmountable due to his heroism which is inavertible by the indisputable courage of a lauded world-ruler’ — whose royal consecration-name is Śrī <persName>Kr̥tanagara</persName>, under the auspices of an instruction of ‘the refuge of all kings’, ‘whose lotus feet were descended upon by the crest jewels of all noblemen’, the lord whose deity-consecration name was Jaya Śrī <persName>Viṣṇuvardhana</persName>, was received by His Excellency the great minister of Hino; H.E. the great minister of Sirikan; H.E. the great minister of Halu. It came down to all the high officers <supplied reason="explanation"><foreign>taṇḍa rakryan</foreign></supplied> of the council: H.E. the Counselor; H.E. of Dmuṅ; H.E. of Kanuruhan, the secretary knowledgeable in politics and expert in covert matters, bearing the title Rāmapati. Not left behind were: the Paməgat of Tiruan, the Paməgat of Kaṇḍamuhi, the Paməgat of Maṅhuri. At the desending of the instruction of his majesty the king, which was under the auspices of an instruction of <supplied reason="explanation">Lord Jaya Śrī <persName>Viṣṇuvardhana</persName></supplied>
+             That was the time that the instruction of the king — the ‘conqueror of the world’, ‘insurmountable due to his heroism which is inavertible by the indisputable courage of a lauded world-ruler’ — whose royal consecration-name is Śrī <persName>Kr̥tanagara</persName>, under the auspices of an instruction of ‘the refuge of all kings’, ‘whose lotus feet were descended upon by the crest jewels of all noblemen’, the lord whose deity-consecration name was Jaya Śrī <persName>Viṣṇuvardhana</persName>, was received by His Excellency the great minister of Hino; H.E. the great minister of Sirikan; H.E. the great minister of Halu. It came down to all the high officers <supplied reason="explanation"><foreign>taṇḍa rakryan</foreign></supplied> of the council: H.E. the Counselor; H.E. of Dmuṅ; H.E. of Kanuruhan, the secretary knowledgeable in politics and expert in covert matters, bearing the title Rāmapati. Not left behind were: the Paməgat of Tiruan, the Paməgat of Kaṇḍamuhi, the Paməgat of Maṅhuri. At the desending of the instruction of his majesty the king, which was under the auspices of an instruction of <supplied reason="explanation">Lord Jaya Śrī <persName>Viṣṇuvardhana</persName></supplied><!--DB: Again just checking: is the text at the end of the translation supplied as explanation (in which case the markup is correct), or is it supposed that this was there in the text lost after this plate? In the latter case it should be @reason="lost". -->
 </p>
          </div>
          <div type="commentary">
