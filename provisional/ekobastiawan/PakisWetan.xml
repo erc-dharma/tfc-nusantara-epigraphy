@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader xml:lang="eng">
+        <fileDesc>
+            <titleStmt>
+                <title>Pakis Wetan</title>
+                <respStmt>
+                    <resp>creation of the file</resp>
+                    <persName ref="part:ekba">
+                        <forename>Eko</forename>
+                        <surname>Bastiawan</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>intellectual authorship of edition</resp>
+                    <persName ref="part:argr">
+                        <forename>Arlo</forename>
+                        <surname>Griffiths</surname>
+                    </persName>
+                </respStmt>
+            </titleStmt>         
+            <publicationStmt>
+                <authority>DHARMA
+                    <note>This project has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).
+                    </note>
+                </authority>
+                <pubPlace>Malang</pubPlace>
+                <idno type="filename">Pakis Wetan</idno>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>This work is licenced under the Creative Commons Attribution 4.0 Unported Licence. To view a copy of the licence, visit https://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.</p>
+                    	<p>Copyright (c) 2019-2025 by Eko Bastiawan &amp; Arlo Griffiths</p>
+                    </licence>
+                </availability>
+                <date from="2019" to="2025">2019-2025</date>
+            </publicationStmt>
+            <sourceDesc>
+                <p><!-- not to be filled in at this stage --></p>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+        	<change who="part:ekba" when="2020-01-23" status="draft">initial encoding of the inscription</change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:space="preserve">
+      <body>
+         <div type="edition" xml:lang="kaw-Latn">
+<pb n="1r"/><space quantity="1" unit="page"/><!--Blank outer page.-->
+<p><pb n="1v"/>
+ <lb n="1"/>// <g type="symbol" subtype="circle"/> // Om̐ namaś śivāya // svasti śakavarṣātĭta, <num value="1188">1188</num>, māghamāsa, tīthi, trayodaśī śu
+<lb n="2" break="no"/> klapakṣa, <abbr>vā</abbr>, <abbr>va</abbr>, <abbr>Aṁ</abbr>, vāra, mahatal·, dakṣiṇasthagrahacāra, puṣ<choice><sic>pā</sic><corr>yā</corr></choice>nakṣatra, jīvadevatā, Āgn
+<lb n="3" break="no"/> eyamaṇḍala, śobhanayauga, baruṇamuhūrtta, Agniparvveśa, tetilakāraṇa, kumbharāśi,</p>
+ <p part="I">I
+<lb n="4" break="no"/> rika divaśany ājñā śrī mahārāja, śrī laukavijaya, <foreign>praśāstajagadīśvarāninditaparăkramānivā
+<lb n="5" break="no"/> ryyavĭryyālaṅghanĭya</foreign>, kr̥tanagaranāmarājābhiṣeka, makamaṅgalyājñā śrī sakalarājāśra§
+<lb n="6" break="no"/> ya, <foreign>samastākṣat    riyacūḍāmaṇipatitacaraṇāravinda</foreign>, bhaṭāra jayaśrīviṣṇuvarddhananāmadevā
+<lb n="7" break="no"/> bhiṣeka, tinaḍaḥ de rakryan mahāmantrī hiṇo, rakryan mahāmantrī sirikan·, rakryan mahāmantrī halu
+<lb n="8"/>, Umisor i para taṇḍa rakryan riṁ pakirakirān· makabehan·, rakryan mapatiḥ, rakryan dəmuṁ, rakrya
+<lb n="9" break="no"/>n kanuruhan saṁ mantrī nayavid iṅgitajñā, mapasəṅgahan saṁ rāmapati, tan kavuntat· saṁ pamgət i tirvan·
+<lb n="10"/>, saṁ pamgət iṅ kaṇḍamuhi, saṁ pamgət i maṁhuri, I pisorny ājñā śrī mahārāja, An makamaṅgalyājñā bha
+   </p>
+         </div>
+         <div type="apparatus">
+           <!--apparatus encoded as per EG §9.1, basic elements for apparatus below-->
+               <listApp><!-- one <app> for each apparatus entry -->
+                  <app loc="p1v.3">
+                      <lem>-yauga</lem>
+                      <rdg source="bib:Krom1911_04 bib:Damais1955_01 bib:Boechari1985-1985_01">-yoga</rdg>
+                      <note>The vocalization on <term>y</term> here is clearly different from that in <term>trayodaśī</term> in p1v.1.</note>
+                      </app>
+                   <app loc="p1v.4">
+                      <lem>lauka-</lem>
+                      <rdg source="bib:Krom1911_04 bib:Damais1955_01 bib:Boechari1985-1985_01">loka-</rdg>
+                      </app>
+                   <app loc="p1v.6">
+                      <lem source="bib:Krom1911_04">samastākṣatriya-</lem>
+                      <rdg source="bib:Damais1955_01 bib:Boechari1985-1985_01">samastākṣakriya-</rdg>
+                       <note>Understand samastakṣatriya-.</note>
+                      </app>
+                   <app loc="p1v.7">
+                      <lem>hiṇo</lem>
+                      <rdg source="bib:Krom1911_04 bib:Damais1955_01 bib:Boechari1985-1985_01">hino</rdg>
+                       </app>
+                   <app loc="p1v.8">
+                      <lem>Umisor</lem>
+                      <rdg source="bib:Krom1911_04 bib:Damais1955_01 bib:Boechari1985-1985_01">Umiṅsor</rdg>
+                       </app>
+                   <app loc="p1v.9">
+                      <note><term>nayavid iṅgitajña</term>: cf. KR 11.49 <term>kapīndra sugrīva vəruh riṅ iṅgita</term>; RY 6.9: <term>mahāprajña rikaṅ nayeṅgita</term>. See also Adan-Adan <term>suśīlendikajñasarvvanayānitidakṣa</term>.
+</note>
+                       </app>
+               </listApp>         
+         </div>
+         <div type="translation" xml:lang="eng">
+ 	<!--translation encoded as per EG §9.2 -->
+<p>
+             Om! Homage to Śiva! Hail! In the elapsed Śaka year 1188, month of Māgha, thirteenth <foreign>tithi</foreign> of the waxing fortnight, Vās, Vagai, Tuesday, <supplied reason="explanation"><foreign>Wuku</foreign></supplied> Mahatal; <foreign>grahacāra</foreign> in the South; lunar mansion of Puṣya; deity Jīva; <foreign>maṇḍala</foreign> in the Southeast; <foreign>yoga</foreign> Śobhana; <foreign>muhūrta</foreign> Varuṇa; regent of the astronomical node Agni; <foreign>karaṇa</foreign> Tetila; zodiac sign Aquarius. 
+</p>
+<p>
+             That was the time that the instruction of the king — the ‘conqueror of the world’, ‘insurmountable due to his heroism which is inavertible by the indisputable courage of a lauded world-ruler’ — whose royal consecration-name is Śrī <persName>Kr̥tanagara</persName>, under the auspices of an instruction of ‘the refuge of all kings’, ‘whose lotus feet were descended upon by the crest jewels of all noblemen’, the lord whose deity-consecration name was Jaya Śrī <persName>Viṣṇuvardhana</persName>, was received by His Excellency the great minister of Hino; H.E. the great minister of Sirikan; H.E. the great minister of Halu. It came down to all the high officers <supplied reason="explanation"><foreign>taṇḍa rakryan</foreign></supplied> of the council: H.E. the Counselor; H.E. of Dmuṅ; H.E. of Kanuruhan, the secretary knowledgeable in politics and expert in covert matters, bearing the title Rāmapati. Not left behind were: the Paməgat of Tiruan, the Paməgat of Kaṇḍamuhi, the Paməgat of Maṅhuri. At the desending of the instruction of his majesty the king, which was under the auspices of an instruction of <supplied reason="explanation">Lord Jaya Śrī <persName>Viṣṇuvardhana</persName></supplied>
+</p>
+         </div>
+         <div type="commentary">
+            <!--commentary encoded as per section §9.3 -->
+         </div>
+        <div type="bibliography">
+	<!--bibliography encoded as per section §9.4 -->
+            <p>First edited by Krom in (<bibl><ptr target="bib:ROC"/><date>1911</date><citedRange unit="appendix">61</citedRange><citedRange unit="page" >117-123</citedRange></bibl>); re-edited by Damais (<bibl rend="omitname"><ptr target="bib:Damais1955_01"/><citedRange unit="page">78</citedRange><citedRange unit="item">A.172</citedRange></bibl>); edited again by Boechari (<bibl rend="omitname"><ptr target="bib:Boechari1985-1986_01"/><citedRange unit="page">109-110</citedRange><citedRange unit="item">E.47</citedRange></bibl>); re-edited here by Arlo Griffiths from a Photo of OD 2155 and estampage in Kern Institute collection, Leiden University Library.</p>
+             <listBibl type="secondary">
+                 <bibl><ptr target="bib:NBG"/><date>1911</date><citedRange unit="page">121</citedRange></bibl>
+                 <bibl><ptr target="bib:NBG"/><date>1912</date><citedRange unit="page">77</citedRange></bibl>
+                 <bibl><ptr target="bib:Damais1952_01"/><citedRange>72-73</citedRange></bibl>
+                 <bibl><ptr target="bib:MuhammadYamin1962_01"/><citedRange >173-175</citedRange></bibl>
+                <bibl><ptr target="bib:NurhadiMagetsari+al1979_01"/><citedRange>183</citedRange></bibl>
+                <bibl><ptr target="bib:Eade+Gislen2000_01"/><citedRange>99-100</citedRange></bibl>
+           </listBibl>
+        </div>
+      </body>
+  </text>
+</TEI>
+
