@@ -41,6 +41,7 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc>
+                                    <change who="part:ekba" when="2020-01-24" status="draft">applied corrections for the translation proposed by Daniel Balogh</change>
                                    <change who="part:ekba" when="2020-01-22" status="draft">applied corrections proposed by Arlo Griffiths  and Daniel Balogh, encoded the translation</change>
         	<change who="part:argr" when="2020-01-21" status="draft">second revision</change>
         	<change who="part:ekba" when="2020-01-21" status="draft">applied corrections proposed by Arlo Griffiths</change>
@@ -75,12 +76,12 @@
                   </app>
                </listApp>         
          </div>
-         <div type="translation" xml:lang="eng">
+         <div type="translation" xml:lang="eng" resp="part:argr">
  	<!--translation encoded as per EG §9.2 -->
 <p>
              Let there be no obstacle! Hail! Fortune! In the elapsed Śaka year 1170, month of Asuji, fifth <foreign>tithi</foreign> of the waxing fortnight, Vās, Kalivon, Thursday, <supplied reason="explanation"><foreign>wuku</foreign></supplied> Laṅkir; lunar mansion Uttarāṣāḍha; deity Viśva; <foreign>maṇḍala</foreign> belonging to the East; <foreign>yoga</foreign> Gaṇḍa; <foreign>muhūrta</foreign> Vairājya; regent of the astronomical node Varuṇa; <foreign>karaṇa</foreign> Valava; zodiac sign Scorpio. </p>
 <p>
-            That was the time that the decree of the illustrious <supplied reason="explanation"><foreign>śrī</foreign></supplied> lotus-eyed destroyer <supplied reason="explanation"><foreign>mardana</foreign></supplied> of Madhu <supplied reason="explanation"><foreign> Śrī Kr̥ṣṇa</foreign></supplied> for all womenfolk <supplied reason="explanation"><foreign>lalanākula</foreign></supplied>, whose consecration name is Śrī Jaya <persName>Viṣṇuvardhana</persName>, the one with the byname <persName>Sminiṅ Rāt <supplied reason="explanation">‘Seed of the World’</supplied></persName>, untiring world protector not different from the eulogy of his own grandfather, ordered with regard to the village <placeName>Mariboṅ</placeName>, belonging to the conscription <supplied reason="explanation"><foreign>vatək atagan</foreign></supplied> of <placeName>Jipaṅ</placeName>, that a holy royal decree charter be made with the emblem of Śrī Jaya <persName>Viṣṇuvardhana</persName>, to remain on one or the other of <supplied reason="explanation">the possible materials, viz.</supplied> copper, <supplied reason="lost">palm-leaf</supplied>
+            That was the time that the decree of the illustrious <supplied reason="explanation">śrī</supplied> lotus-eyed destroyer <supplied reason="explanation"><foreign>mardana</foreign></supplied> of Madhu <supplied reason="explanation">Śrī Kr̥ṣṇa</supplied> for all womenfolk <supplied reason="explanation"><foreign>lalanākula</foreign></supplied>, whose consecration name is Śrī Jaya Viṣṇuvardhana, the one with the byname Sminiṅ Rāt <supplied reason="explanation">‘Seed of the World’</supplied>, untiring world protector not different from the eulogy of his own grandfather, ordered with regard to the village <placeName>Mariboṅ</placeName>, belonging to the conscription <supplied reason="explanation"><foreign>vatək atagan</foreign></supplied> of <placeName>Jipaṅ</placeName>, that a holy royal decree charter be made with the emblem of Śrī Jaya Viṣṇuvardhana, to remain on one or the other of <supplied reason="explanation">the possible materials, viz.</supplied> copper, <supplied reason="lost">palm-leaf</supplied>
 </p>
          </div>
          <div type="commentary">
@@ -101,4 +102,3 @@
       </body>
   </text>
 </TEI>
-
