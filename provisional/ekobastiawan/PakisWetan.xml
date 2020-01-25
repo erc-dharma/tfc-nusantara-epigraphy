@@ -5,7 +5,7 @@
     <teiHeader xml:lang="eng">
         <fileDesc>
             <titleStmt>
-                <title>Pakis Wetan</title>
+                <title>PakisWetan</title>
                 <respStmt>
                     <resp>creation of the file</resp>
                     <persName ref="part:ekba">
@@ -27,7 +27,7 @@
                     </note>
                 </authority>
                 <pubPlace>Malang</pubPlace>
-                <idno type="filename">Pakis Wetan</idno><!--DB: I'm not sure about the status of file naming conventions and I assume all file names will sooner or later be updated to that standard. But even before then, it may be best if the filename encoded here is exactly identical to the current filename, i.e. in this case PakisWetan (without space). -->
+                <idno type="filename">PakisWetan</idno>
                 <availability>
                     <licence target="https://creativecommons.org/licenses/by/4.0/">
                         <p>This work is licenced under the Creative Commons Attribution 4.0 Unported Licence. To view a copy of the licence, visit https://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.</p>
@@ -41,6 +41,7 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc>
+                                <change who="part:ekba" when="2020-01-25" status="draft">applied corrections proposed by Daniel Balogh and Arlo Griffiths</change>
         	<change who="part:ekba" when="2020-01-23" status="draft">initial encoding of the inscription</change>
         </revisionDesc>
     </teiHeader>
@@ -49,24 +50,9 @@
          <div type="edition" xml:lang="kaw-Latn">
 <pb n="1r"/><space quantity="1" unit="page"/><!--Blank outer page.-->
 <p><pb n="1v"/>
- <!--DB: Line 1, Om̐ - this may be a stupid question, but is this a regular O character with a nasalisation mark that is different from standard anusvāra? If it is not a regular O character, then I think it should be encoded as a symbol, not as text; while if both the O and the anusvāra are regular, it should be Oṁ.  -->
-<!--DB: All <lb/> elements of any kind: never add a space after these! (All lines of this inscription that start with text.) -->
-<!--DB: <lb n="2" break="no"/> - lb elements inside a word should not be written in new lines of XML code, because this may cause problems with display. This was mentioned in the EG, but was not explicit enough; I've recently made it more explicit. If you find it easier to work with your file so that each inscription line is a new code line, you can still start a new code line _inside_ the tag:
-e.g.<lb n="2"
-     break="no"/> is perfectly OK. -->
-<!--DB: <lb n="3" break="no"/> - this line break seems to be in the wrong place, splitting an akṣara. -->
-<lb n="1"/>// <g type="symbol" subtype="circle"/> // Om̐ namaś śivāya // svasti śakavarṣātĭta, <num value="1188">1188</num>, māghamāsa, tīthi, trayodaśī śu
-<lb n="2" break="no"/> klapakṣa, <abbr>vā</abbr>, <abbr>va</abbr>, <abbr>Aṁ</abbr>, vāra, mahatal·, dakṣiṇasthagrahacāra, puṣ<choice><sic>pā</sic><corr>yā</corr></choice>nakṣatra, jīvadevatā, Āgn
-<lb n="3" break="no"/> eyamaṇḍala, śobhanayauga, baruṇamuhūrtta, Agniparvveśa, tetilakāraṇa, kumbharāśi,</p>
-<!--DB: <p part="I">: no problem here, I just wanted to say I'm glad to see this in use! -->
-<!--DB: the Sanskrit bits - I'm not sure why some Skt compounds are tagged and others are not, but I assume this is deliberate. The spaces within "samastākṣat    riya" seem to be a mistake. Since this word is explicitly tagged as Sanskrit, maybe correct the ā of samastā to a, or tag all of samastā as <orig> - but again, if a/ā mixup in Skt words is common in the corpus, then ignoring it is OK. -->
-<p part="I">I
-<lb n="4" break="no"/> rika divaśany ājñā śrī mahārāja, śrī laukavijaya, <foreign>praśāstajagadīśvarāninditaparăkramānivā
-<lb n="5" break="no"/> ryyavĭryyālaṅghanĭya</foreign>, kr̥tanagaranāmarājābhiṣeka, makamaṅgalyājñā śrī sakalarājāśra§
-<lb n="6" break="no"/> ya, <foreign>samastākṣat    riyacūḍāmaṇipatitacaraṇāravinda</foreign>, bhaṭāra jayaśrīviṣṇuvarddhananāmadevā
-<lb n="7" break="no"/> bhiṣeka, tinaḍaḥ de rakryan mahāmantrī hiṇo, rakryan mahāmantrī sirikan·, rakryan mahāmantrī halu
-<lb n="8"/>, Umisor i para taṇḍa rakryan riṁ pakirakirān· makabehan·, rakryan mapatiḥ, rakryan dəmuṁ, rakrya
-<lb n="9" break="no"/>n kanuruhan saṁ mantrī nayavid iṅgitajñā, mapasəṅgahan saṁ rāmapati, tan kavuntat· saṁ pamgət i tirvan·
+<lb n="1"/>// <g type="symbol" subtype="circle"/> // Om̐ namaś śivāya // svasti śakavarṣātĭta, <num value="1188">1188</num>, māghamāsa, tīthi, trayodaśī śu<lb n="2" break="no"/>klapakṣa, <abbr>vā</abbr>, <abbr>va</abbr>, <abbr>Aṁ</abbr>, vāra, mahatal·, dakṣiṇasthagrahacāra, puṣ<choice><sic>pā</sic><corr>yā</corr></choice>nakṣatra, jīvadevatā, Ā<lb n="3" break="no"/>gneyamaṇḍala, śobhanayauga, baruṇamuhūrtta, Agniparvveśa, tetilakāraṇa, kumbharāśi,</p>
+<p part="I">I<lb n="4" break="no"/>rika divaśany ājñā śrī mahārāja, śrī laukavijaya, <foreign>praśāstajagadīśvarāninditaparăkramānivā<lb n="5" break="no"/>ryyavĭryyālaṅghanĭya</foreign>, kr̥tanagaranāmarājābhiṣeka, makamaṅgalyājñā śrī sakalarājāśra<g type="filler">§</g><lb n="6" break="no"/>ya, <foreign>samast<orig>ā</orig>kṣatriyacūḍāmaṇipatitacaraṇāravinda</foreign>, bhaṭāra jayaśrīviṣṇuvarddhananāmadevā<lb n="7" break="no"/>bhiṣeka, tinaḍaḥ de rakryan mahāmantrī hiṇo, rakryan mahāmantrī sirikan·, rakryan mahāmantrī halu
+<lb n="8"/>, Umisor i para taṇḍa rakryan riṁ pakirakirān· makabehan·, rakryan mapatiḥ, rakryan dəmuṁ, rakrya<lb n="9" break="no"/>n kanuruhan saṁ mantrī nayavid iṅgitajñā, mapasəṅgahan saṁ rāmapati, tan kavuntat· saṁ pamgət i tirvan·
 <lb n="10"/>, saṁ pamgət iṅ kaṇḍamuhi, saṁ pamgət i maṁhuri, I pisorny ājñā śrī mahārāja, An makamaṅgalyājñā bha
    </p>
          </div>
@@ -101,13 +87,13 @@ e.g.<lb n="2"
                        </app>
                </listApp>         
          </div>
-         <div type="translation" xml:lang="eng">
+         <div type="translation" xml:lang="eng" resp="part:argr">
  	<!--translation encoded as per EG §9.2 -->
 <p>
              Om! Homage to Śiva! Hail! In the elapsed Śaka year 1188, month of Māgha, thirteenth <foreign>tithi</foreign> of the waxing fortnight, Vās, Vagai, Tuesday, <supplied reason="explanation"><foreign>Wuku</foreign></supplied> Mahatal; <foreign>grahacāra</foreign> in the South; lunar mansion of Puṣya; deity Jīva; <foreign>maṇḍala</foreign> in the Southeast; <foreign>yoga</foreign> Śobhana; <foreign>muhūrta</foreign> Varuṇa; regent of the astronomical node Agni; <foreign>karaṇa</foreign> Tetila; zodiac sign Aquarius. 
 </p>
 <p>
-             That was the time that the instruction of the king — the ‘conqueror of the world’, ‘insurmountable due to his heroism which is inavertible by the indisputable courage of a lauded world-ruler’ — whose royal consecration-name is Śrī <persName>Kr̥tanagara</persName>, under the auspices of an instruction of ‘the refuge of all kings’, ‘whose lotus feet were descended upon by the crest jewels of all noblemen’, the lord whose deity-consecration name was Jaya Śrī <persName>Viṣṇuvardhana</persName>, was received by His Excellency the great minister of Hino; H.E. the great minister of Sirikan; H.E. the great minister of Halu. It came down to all the high officers <supplied reason="explanation"><foreign>taṇḍa rakryan</foreign></supplied> of the council: H.E. the Counselor; H.E. of Dmuṅ; H.E. of Kanuruhan, the secretary knowledgeable in politics and expert in covert matters, bearing the title Rāmapati. Not left behind were: the Paməgat of Tiruan, the Paməgat of Kaṇḍamuhi, the Paməgat of Maṅhuri. At the desending of the instruction of his majesty the king, which was under the auspices of an instruction of <supplied reason="explanation">Lord Jaya Śrī <persName>Viṣṇuvardhana</persName></supplied><!--DB: Again just checking: is the text at the end of the translation supplied as explanation (in which case the markup is correct), or is it supposed that this was there in the text lost after this plate? In the latter case it should be @reason="lost". -->
+             That was the time that the instruction of the king — the ‘conqueror of the world’, ‘insurmountable due to his heroism which is inavertible by the indisputable courage of a lauded world-ruler’ — whose royal consecration-name is Śrī <persName>Kr̥tanagara</persName>, under the auspices of an instruction of ‘the refuge of all kings’, ‘whose lotus feet were descended upon by the crest jewels of all noblemen’, the lord whose deity-consecration name was Jaya Śrī <persName>Viṣṇuvardhana</persName>, was received by His Excellency the great minister of Hino; H.E. the great minister of Sirikan; H.E. the great minister of Halu. It came down to all the high officers <supplied reason="explanation"><foreign>taṇḍa rakryan</foreign></supplied> of the council: H.E. the Counselor; H.E. of Dmuṅ; H.E. of Kanuruhan, the secretary knowledgeable in politics and expert in covert matters, bearing the title Rāmapati. Not left behind were: the Paməgat of Tiruan, the Paməgat of Kaṇḍamuhi, the Paməgat of Maṅhuri. At the desending of the instruction of his majesty the king, which was under the auspices of an instruction of <supplied reason="explanation">Lord Jaya Śrī <persName>Viṣṇuvardhana</persName></supplied>
 </p>
          </div>
          <div type="commentary">
@@ -115,12 +101,12 @@ e.g.<lb n="2"
          </div>
         <div type="bibliography">
 	<!--bibliography encoded as per section §9.4 -->
-            <p>First edited by Krom in (<bibl><ptr target="bib:ROC"/><date>1911</date><citedRange unit="appendix">61</citedRange><citedRange unit="page" >117-123</citedRange></bibl>); re-edited by Damais (<bibl rend="omitname"><ptr target="bib:Damais1955_01"/><citedRange unit="page">78</citedRange><citedRange unit="item">A.172</citedRange></bibl>); edited again by Boechari (<bibl rend="omitname"><ptr target="bib:Boechari1985-1986_01"/><citedRange unit="page">109-110</citedRange><citedRange unit="item">E.47</citedRange></bibl>); re-edited here by Arlo Griffiths from a Photo of OD 2155 and estampage in Kern Institute collection, Leiden University Library.</p>
+            <p>First edited by Krom in (<bibl rend="omitname"><ptr target="bib:krom1911_04"/><citedRange unit="appendix">61</citedRange><citedRange unit="page" >117-123</citedRange></bibl>); re-edited by Damais (<bibl rend="omitname"><ptr target="bib:Damais1955_01"/><citedRange unit="page">78</citedRange><citedRange unit="item">A.172</citedRange></bibl>); edited again by Boechari (<bibl rend="omitname"><ptr target="bib:Boechari1985-1986_01"/><citedRange unit="page">109-110</citedRange><citedRange unit="item">E.47</citedRange></bibl>); re-edited here by Arlo Griffiths from a Photo of OD 2155 and estampage in Kern Institute collection, Leiden University Library.</p>
              <listBibl type="secondary">
-                 <bibl><ptr target="bib:NBG"/><date>1911</date><citedRange unit="page">121</citedRange></bibl>
-                 <bibl><ptr target="bib:NBG"/><date>1912</date><citedRange unit="page">77</citedRange></bibl>
+                 <bibl><ptr target="bib:NBG"/><date>1911</date><citedRange unit="volume">49</citedRange><citedRange unit="page">121</citedRange></bibl>
+                 <bibl><ptr target="bib:NBG"/><date>1912</date><citedRange unit="volume">50</citedRange><citedRange unit="page">77</citedRange></bibl>
                  <bibl><ptr target="bib:Damais1952_01"/><citedRange>72-73</citedRange></bibl>
-                 <bibl><ptr target="bib:MuhammadYamin1962_01"/><citedRange >173-175</citedRange></bibl>
+                 <bibl><ptr target="bib:MuhammadYamin1962_01"/><citedRange >173-175</citedRange></bibl><!-- still needs to be verified -->
                 <bibl><ptr target="bib:NurhadiMagetsari+al1979_01"/><citedRange>183</citedRange></bibl>
                 <bibl><ptr target="bib:Eade+Gislen2000_01"/><citedRange>99-100</citedRange></bibl>
            </listBibl>
@@ -128,4 +114,3 @@ e.g.<lb n="2"
       </body>
   </text>
 </TEI>
-
