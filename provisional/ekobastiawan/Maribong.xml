@@ -41,8 +41,8 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc>
-                                    <change who="part:ekba" when="2020-01-24" status="draft">applied corrections for the translation proposed by Daniel Balogh</change>
-                                   <change who="part:ekba" when="2020-01-22" status="draft">applied corrections proposed by Arlo Griffiths  and Daniel Balogh, encoded the translation</change>
+              <change who="part:ekba" when="2020-01-24" status="draft">applied corrections for the translation proposed by Daniel Balogh</change>
+              <change who="part:ekba" when="2020-01-22" status="draft">applied corrections proposed by Arlo Griffiths  and Daniel Balogh, encoded the translation</change>
         	<change who="part:argr" when="2020-01-21" status="draft">second revision</change>
         	<change who="part:ekba" when="2020-01-21" status="draft">applied corrections proposed by Arlo Griffiths</change>
         	<change who="part:argr" when="2020-01-20" status="draft">revision of the initial encoding</change>
@@ -57,14 +57,14 @@
  <lb n="1"/>// Avighnam astu, // svasti śrī śakavarṣātīta, <num value="1170">1170</num>, Aśujimāsa, tithi, pañcamī śuklapakṣa, <abbr>vā</abbr>, 
 <lb n="2"/><abbr>ka</abbr>, <abbr>vr̥</abbr>, vāra, laṅkir·, Uttarāsāḍanakṣatra, viśvadevatā, māhendramaṇḍala, gaṇḍayoga, vairā<lb n="3" break="no"/>jyamuhūrtta, baruṇaparvveśa, valavakaraṇa, mr̥ccikarāśī, </p>
  <p part="I">Irika divasanyājñā <foreign>śrīsakala<choice><sic>kha</sic><corr>la</corr></choice>lană<lb n="4" break="no"/>kulamadhu<orig>mārddana</orig>kamalekṣaṇa</foreign>, nāmābhiṣeka śrī jayaviṣṇuvarddhana, saṁ mapañji sminiṅ rāt·, <foreign>svapi<lb n="5" break="no"/>tāmahāstavanābhinnāśrăntalokapālaka</foreign>, kumonakən Irikaṁ vanva I mariboṁ, vatək atagan· jipaṁ, 
-<lb n="6"/>pagavayakna saṁ hyaṅ ājñā haji praśāsti, mataṇḍa śrījayaviṣṇuvarddhanalāñcana, Umuṅgve salaḥ sikiniṁ tāmra ri </p>
+<lb n="6"/>pagavayakna saṁ hyaṅ ājñā haji praśāsti, mataṇḍa śrījayaviṣṇuvarddhanalāñcana, Umuṅgve salaḥ sikiniṁ tāmra ri</p>
          </div>
          <div type="apparatus">
            <!--apparatus encoded as per EG §9.1, basic elements for apparatus below-->
                <listApp><!-- one <app> for each apparatus entry -->
                   <app loc="p1v.4">
                       <lem><orig>mārddana</orig></lem>
-                      <note>Long <term>a</term> before <term>r</term> and geminate consonant seems to be a frequent feature in the Majapahit period inscriptions, see for instance Waringin Pitu.</note>
+                      <note>Long <term>a</term><!-- AG: we are abandoning this use of <term>; please make it <foreign>; see current version of EG, §10.2 --> before <term>r</term><!-- AG: same --> and geminate consonant seems to be a frequent feature in the Majapahit period inscriptions, see for instance Waringin Pitu.</note>
                       </app>
                    <app loc="p1v.6">
                      <lem>ri</lem>
