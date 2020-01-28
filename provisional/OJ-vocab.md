@@ -20,8 +20,9 @@
 | dyah                            | _dyah_                    |
 | mpu                            | _mpu_                    |
 | pāduka                         | his / her Majesty, the sandals of ...      |
+| pañji, (m)apañji                            | by name, with the byname                    |
 | pu                            | _pu_                    |
-| rakryān                        | Lord / noble / _rakryan_ |
+| rakryān                        | Lord / noble / _rakryan_; __or shall we use "his excellency" ?__|
 
 ## Nouns
 | Old Javanese term              | English translation    |
