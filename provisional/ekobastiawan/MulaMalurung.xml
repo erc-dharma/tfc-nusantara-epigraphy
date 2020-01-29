@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader xml:lang="eng">
+        <fileDesc>
+            <titleStmt>
+                <title>MulaMalurung</title>
+                <respStmt>
+                    <resp>creation of the file</resp>
+                    <persName ref="part:ekba">
+                        <forename>Eko</forename>
+                        <surname>Bastiawan</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>intellectual authorship of edition</resp>
+                    <persName ref="part:argr">
+                        <forename>Arlo</forename>
+                        <surname>Griffiths</surname>
+                    </persName>
+                </respStmt>
+            </titleStmt>         
+            <publicationStmt>
+                <authority>DHARMA
+                    <note>This project has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).
+                    </note>
+                </authority>
+                <pubPlace>Malang</pubPlace>
+                <idno type="filename">MulaMalurung</idno>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>This work is licenced under the Creative Commons Attribution 4.0 Unported Licence. To view a copy of the licence, visit https://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.</p>
+                    	<p>Copyright (c) 2019-2025 by Eko Bastiawan &amp; Arlo Griffiths</p>
+                    </licence>
+                </availability>
+                <date from="2019" to="2025">2019-2025</date>
+            </publicationStmt>
+            <sourceDesc>
+                <p><!-- not to be filled in at this stage --></p>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+        	<change who="part:ekba" when="2020-01-23" status="draft">initial encoding of the inscription</change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:space="preserve">
+      <body>
+         <div type="edition" xml:lang="kaw-Latn">
+<pb n="1r"/><space quantity="1" unit="page"/><!--Blank outer page.-->
+<p><pb n="1v"/>
+<lb n="1"/>// @ // nama śivaya // @ // svasti śakavarṣātīta, Iṁ śaka, <num value="1177">1177</num>, mārggaśiramāsa, tithi pañcada<lb n="2" break="no"/>śi śuklapakṣa, <abbr>ma</abbr>, <abbr>U</abbr>, <abbr>bu</abbr>, vara, juluṁ, grahacāra, nairitistha, Adrānakṣatra, śūlabhr̥tdevata, baruṇamaṇḍa<lb n="2" break="no"/>la, Indrayoga, kuverapārvveśa, karkkaṭarāśi, visvabasumuhūrtta, vavakaraṇa,</p> 
+ <p> Irika divaśāny ājñā pādu<lb n="3" break="no"/>ka śrī mahārāja, sakvaiḥnira kr̥tapratiṣṭa dainira narāryya sminiṁ rāt, riṁ sanagarasanagara, makamukhya śrī
+<lb n="4"/>mahārāja, <foreign>śrīlokavijayapuruṣottamavīrāṣṭabasudevādhipānivāryyavīryyaninditaparakrama</foreign> mūrdva<lb n="5" break="no"/>janamottuṅgadeva, kr̥tānagarābhiṣekanāmalañchana, makapurassārānugrahanira bhaṭāra parameśvara
+<lb n="6"/>, <foreign>śrīsakalayavadvīpanaranāthādiguru</foreign>, sira saṁ pinakaguru dainiṁ samaptagrāma, samastakṣatriya, makādi sa-
+<pb n="2r"/>
+ <lb n="1"/>kvaiḥnira prabhū ṅke riṁ nūṣa java, mvaṁ makottuṅgānugrahanira narāryya sminiṁ rāt, śrīyavadvīpasamastarājādi<lb n="2" break="no"/>viśeṣāninditasaṅgrāmaparakramadigvijayānivāryyavīryyasnahanāmottuṅgadeva, prakaśitasminiṁrāt·nā<lb n="3" break="no"/>malañchana, tinaḍaḥ dainira samakṣatriya, makādi rakryan mahāmantrī hino, rakryan mahāmantrī sirikan·, ra<lb n="4" break="no"/>kryan mahāmantrī halu, Umiṅsor i para taṇḍa rakryan· riṁ pakirākiran makādi saṁ pamgat i tirvan·, puspapāta ḍa<lb n="5" break="no"/>ṅ ācāryya jayaṅga, saṁ pamgat iṅ kaṇḍamuhi, puspapāta ḍaṅ ācāryya marmmananda, saṁ pamgat i maṅhuri, puspapāta ḍaṅ ā<lb n="6" break="no"/>cāryyagraja, tlas karuhun saṁ rāmapati, mapañji siṅharṣa, An· Aki begos·, makasirkasi raṅgaḥ vahas·, mapa<lb n="7" break="no"/>ñji buliṇḍaḥ, Apasəṅgahan saṁ prāṇarāja, padamlakna saṁ hyaṁ rājapraśasti, Umuṅgveṅ upala, tāmbra, ripta kunaṁ, sa-
+<pb n="2v"/>
+ <lb n="1"/>mbhanda, gati saṁ prāṇarāja, An kadi hulun kalilin parṇnaḥ saṁ prāṇarāja, śaivake sira narāryya sminiṁ rāt·, tiṅkaḥ saṁ
+<lb n="2"/>prāṇarāja, śaivaka ri sira kakinira narāryya sminiṁ rāt·, sira saṁ līna riṁ ḍāmpa mās·, sira saṁ pinratiṣṭanira narāryya
+<lb n="3"/>sminiṁ rāt·, makasvarūpaṁ viṣṇvarccha, na ṅkāne saṁ hyaṁ dharmme kagnəṅan·, makasaṅajñā narasiṅhanagara, saṁ prāṇarāja,
+<lb n="4"/>pinakahastapāda dai narāryya sminiṁ rāt·, ri kālaniṁ kāryya pratiṣṭa mahābhāra, muvaḥ ri paṁḍirinira rāmanira
+<lb n="5"/>narāryya, gumantyani paṁḍirinira kakinira, śaivaka saṁ prāṇarāja, ri sira rāmanira sira pāduka saṅ ahulun sa<lb n="6" break="no"/>ṅajñānira, sira saṁ tlas pinratiṣṭa makasvarūpaṁ viṣṇvarccha denira narāryya sminiṁ rāt·, ṅkāne saṁ hyaṁ dharmma ri kiḍal·, ma<lb n="7" break="no"/>kanāmadheya narasiṅhāsana, saṁ prāṇarāja lot sāri pinakataṅansukunira, ri kālaniṁ kāryya pratiṣṭa bhūmi-
+<pb n="3r"/>
+<lb n="1"/>śoddhanādi, mvaṁ ri kālani kapratiṣṭanira pamanirātəhər pinakarāmātuhanira, sira saṁ lineṁ kubvan agə̄ṁ,
+<lb n="2"/>rāmanira narāryya vaniṁ hyūn·, kakinira rānakira, sira śrī kr̥tānagara, sira makasvarūpaṁ viṣṇvarccha, ṅkāne saṁ hyaṁ
+<lb n="3"/>dharmme pikatan·, saṁ prāṇarāja muvaḥ pinakahastapāda dai narāryya sminiṁ rāt·, ri kālani bhūmiśoddhanā<lb n="4" break="no"/>di, muvaḥ ri kālani kapratiṣṭanira yuyutira, ṅkāne saṁ hyaṁ dharmma ri kalaṁ bret·, saṁ prāṇarāja pinakapura<lb n="5" break="no"/>ssārani paṁhuvusakən samahābhārani kāryya, muvaḥ ri kālanira narāryya sminiṁ rāt· Anusuk· dharmma ṅkāne
+<lb n="6"/>pagə:r·, makanāmadheya narasiṅharājya, saṁ prāṇarāja lot hati pinakaparabvatnira, valuyana taṅ ujar·
+<lb n="7"/>, Anantara saṅke līnanira pamanira pva, Aṇḍiri ta sira pamanira, sira narāryya guṅ iṁ bhaya, śaivaka saṁ prāṇarā-
+<pb n="3v"/>
+<lb n="1"/>ja ri narāryya guṅ iṁ bhaya, svarggastha pva narāryya guṅ iṁ bhaya, gumanti (ta) narāryya toḥ jaya, pramaṇa riṁ jagat·
+<lb n="2"/>kaka sira dai narāryya guṅ iṁ bhaya, paman muvaḥ dai narāryya sminiṁ rāt·, śaivaka muvaḥ saṁ prāṇarāja ri narāryya
+<lb n="3"/>toḥ jaya, lina pva narāryya toḥ jaya, narāryya sminiṁ rāt ta pinasaṅakən· prajāpatya, dai para śaivaka
+<lb n="4"/>makādi saṁ pamgat iṁ raṇu kabayān saṅ apañji patipati, makaḍapur ikaṁ nagara tumapəl·, makasiṅhanira pāduka mpu<lb n="5" break="no"/>ṅkv iṁ kapuluṅan· sirānavasthā, sthāpaka riṁ kabhairavan·, sira tānusuk saṁ hyaṁ dharmma panaivaśikān riṁ tahən· ma<lb n="6" break="no"/>nis·, dinadyakənira kakolikān·, makāṅśa sadr̥vya hajinikaṁ tahən· manis·, tinūtnyan piṇḍah vatə<lb n="7" break="no"/>k vuga, makanimitta R̥ṇanira narāryya sminiṁ rāt·, An digvijayān makasthāpake sira, muvaḥ hana ta sira brāhmaṇa
+<pb n="4r"/>
+<lb n="1"/>paramartveṅajñā, sira rāghavadeva ṅaranira, Apasəṅgahan· brahmārājaguru, sira ta vineh anusuka dharmma
+<lb n="2"/>sīma svatantra kakolikan·, riṁ bhūmi jaṅgala, Ika maṅaran i hasəm pañjaṁ, lāvan paranakanikaṁ pañjiṁ dharmma ri hu<lb n="3" break="no"/>juṁ maṅaran· ryy ayoddhya, mvaṁ hana ta sira maḍhaka ṅaranira, paramayajurvvedajñā, Agamajñā, paramatatvavit·
+<lb n="4"/>sira ta pinakapurohitanira rānakira, sira śrī kr̥tānagara, pinarivr̥tta ta sira deniṅ anyabrāhmaṇa vedapāra<lb n="5" break="no"/>ga, lvirnira, R̥gvedajñā yūrvvedajñā sāmavedajñā, sinevita ta sira deniṅ anekabhaṭamantrīmukya, makā<lb n="6" break="no"/>di saṁ pamgat iṁ raṇu kabayān mapañji patipati, saṁ vineh anusuka dharmma sīma svatantra, ṅkāneṁ bhūmi jaṅgala, ma<lb n="7" break="no"/>kanāmāṁ kr̥ṣṇapura, saṁ rāmapati, mapañji siṅharṣa, Apatih i sira śrī śāstrajaya, saṁ sinuṅ anusuka dharmma sīma sva-
+<pb n="4v"/>
+<lb n="1"/>tantra, ṅkāneṁ bhūmi kaḍiri, makanāma mitrapuri, saṅ apañji nirākāra, dmuṁ riṁ jaṅgala, sumivī śrī harṣavijaya, saṁ
+<lb n="2"/>vineh anusuka dharmma sīma svatantra, ṅkāne bhūmi jaṅgala, makasaṅajñā surāsana, saṅ apañji dūtarāga, prahajya<lb n="3" break="no"/>n·, saṁ vineh anusuka dharmma sīma sva(t)antra, ṅkāneṁ bhūmi vetaniṁ kavi, makasaṁjñā kr̥tāsana, saṅ apañji samaka, A<lb n="4" break="no"/>patihira narapati kr̥tānagara, saṁ Inanugrahan anusuka sīma svatantra, ṅkāneṁ bhūmi jaṅgala, makanāmaṁ harija<lb n="5" break="no"/>ya, saṅ apañji siṅanambat·, Apatih i vuravan·, Amaṅku kaprabhūniraji jayakatyə:ṁ, saṁ vineh anusuka dharmma sī<lb n="6" break="no"/>ma svatantra, ṅkāneṁ bhūmi kaḍiri, Ataganikaṁ vahuta rāma triṇi taṇḍa, makasaṁjñā kr̥ṣṇāsana, tlas karuhun saṁ
+<lb n="7"/>prāṇarāja, saṁ nityadhirotsahāṅalocitta nayopāya riṅ ahorātra, dumadyakən· svāsthāniṁ rāt·
+<pb n="5r"/>
+<lb n="1"/>ṅūniṅ[ū]ni kadigvijayanira narāryya sminiṁ rāt·, samaṅkāna pinakādiniṁ śaivaka ri sira narāryya sminiṁ rā<lb n="2" break="no"/>t·, kapva talvilvihan kabhaktin·, Aṅulahakən· dharmmaniṁ śaivaka saptati, dvāra saṁ prāṇarāja tan· kevəhan amaṁ<lb n="3" break="no"/>hyaṅakən sakaptini rovaṅira śaivaka, ri sira narāryya sminiṁ rāt·, paṅavruhana yan maṅkana, paḍa kr̥tānu<lb n="4" break="no"/>graha sakveh iṁ pinakādiniṁ śaivaka samaṅkā lvirnira, hatur saṁ prāṇarāja nimittanikā, tuhun saṁ prāṇarāja ju<lb n="5" break="no"/>ga tapvan kr̥tānugraha ri kasusukaniṁ sīma, denira saṁ prabhu saṁ tlas kapratiṣṭa dai narāryya sminiṁ rāt·, Ikan maṅka<lb n="6" break="no"/>na, sukha saṁ prāṇarāja, maṅkin dhirotsaha, Ankani ta bahunāyaka, śaivaka ri rovaṁniṅ aśaivaka, mvaṁ śai<lb n="7" break="no"/>vaka ri sakveḥnira prabhu ṅke riṁ nūṣa java, mvaṅ i madhura, ṅūniṅūni kasuṣṭubhaktin· saṁ prāṇarāja ri sira narā-
+<pb n="5v"/>
+ <lb n="1"/>ryya sminiṁ rāt·, Āpan tan hana deva makādiṁ brahmā viṣṇu maheśvara, An· lena saṅke sira narāryya smi<lb n="2" break="no"/>niṁ rāt·, vnaṅ aṅanugrahakna sakāptiniṁ śaivaka mahābhāra ri sira, mvaṁ vnaṅ aṁrākṣa yogya rākṣan·, An·
+<lb n="3"/>ḍaṇḍa yogya ḍaṇḍan·, rumākṣaṁ sarvvadharmma, mūnarjīvakən sahananiṁ dharmma parikṣiṇa, tan paveḥ ryy abhicaruka<lb n="4" break="no"/>niṁ lmaḥ bala, lāvan sahananiṁ sīma parasīma, kalaṁ, kalagyan·, kamūlan·, kakurugan·, kuṭi vihāra, śā<lb n="5" break="no"/>la, parhyaṅan·, karṣyan·, Umaluyakən· pūrvvasthitinya juga sira, kumatuturakən sakramanya ṅūni riṁ muhun mala<lb n="6" break="no"/>pa, makanimitta vdiniran kacāmpurana pamaṅunira dharmma, Apituvi praśāsti kadānaśūranira, Asaṅkyeya saṁ
+<lb n="7"/>brahmāṇa kr̥tadānapratigraha saṅke sira, lumrā ta kirttyanurāganira riṁ rāt·, śaratkālapūrṇnaca-
+<pb n="6r"/>
+<lb n="1"/>ndrajyotsnănibha, An kadi ta dilaḥniṁ pū(r)ṇnaśaśāṅka ri kālaniṁ lahru, prakāśa ta kaśūradhīrasiṅhanira,
+<lb n="2"/>Anivāryyavīryyanira, Aninditaparakramanira riṁ raṇāṅga, maddhyăhnādityakarasutaikṣṇyapratima, An ka<lb n="3" break="no"/>di ta sătiśayani panas i tejaniṅ ăditya ri kālaniṁ tṅaḥṅ vai, saṁsiptanya, śūra śakti vāni sira riṁ raṇāṅga
+<lb n="4"/>maṅkāna hiḍəp saṁ prāṇarāja riṁ svahr̥daya, dumeḥ saṁ prāṇarāja maṅkāna, yāvat hana sira puruṣa vnaṅ aṅanugra<lb n="5" break="no"/>hakna sakahyuniṁ śaivaka ri sira, sira paśarīraniṁ sarvvadeva makādiṁ trideva, sira mātā, sira pitā, sira
+<lb n="6"/>guru, Ikā ta dvāra saṁ prāṇarāja, Ekacitta gumavayakən· gurusuśruṣān·, An· śaivaka ri sira narāryya
+<lb n="7"/>sminiṁ rāt·, muvaḥ tan hana mātāpitā, guru, An lena saṅkeṁ kadi tiṅkahira sinevaka paḍa lāvan sira na-
+<pb n="6v"/>
+<lb n="1"/>rāryya sminiṁ rāt·, paṅavruhana yan maṅkana, katon daini kaniṣṭamaddhyamottama, saṁ prāṇarāja nityasaṁsa<lb n="2" break="no"/>rgga mvaṁ saṁ rāmapati, Anaṅkil· ri sira narāryya sminiṁ rāt·, Aṅălocitta nayopāya, mvaṁṅ aṁlampahakən· bala<lb n="3" break="no"/>kośavāhana, dumadyakən· sthīratarani paluṅguḥnira saṁ prabhu riṁ maṇikanakasiṅhāsana, mvaṁ dumadyakən· vr̥<lb n="4" break="no"/>ddhiniṁ yaśānurāganira narāryya sminiṁ rāt·, prakāśita riṁ nūṣa paranūṣa, tinūt i parāmadigvijayanira narāryya
+<lb n="5"/>sminiṁ rāt·, Anmahakən savalələ̄niṁ sayavadvīpamaṇḍala, Anūluyani nūṣāntara, nāṁ madhura, makavyakti sira
+<lb n="6"/>śrī harṣavijaya, parṇnaḥ pahulunan· dainira narāryya sminiṁ rāt·, Inandəlakən· muṅgveṁ ratnakanakasiṅhā<lb n="7" break="no"/>sana, ṅkāneṁ bhūmi jaṅgala, putranira saṅ apañjy adimūrtti, rakryan· kulup kuda, Ipe denira narāryya sminiṁ
+<pb n="7r"/>
+<lb n="1"/>rāt·, Inadgakən· prahajyan· ṅkāneṁ nagara madhura, ri kāla saṅ apañjy ādimūrtti mare tumapəl·, sira narā<lb n="2" break="no"/>ryya kiraṇa, săkṣăt ātmajanira narāryya sminiṁ rāt·, pinratiṣṭa juru lamajaṁ, pinasaṅakən· jagatpālaka, ṅkā<lb n="3" break="no"/>neṁ nagara lamajaṁ, sira narāryya mūrddhaja, Ătmajanira muvaḥ, sira śrī kr̥tānagara nāmaniran inabhiśeka, pi<lb n="4" break="no"/>nasaṅakən· ṅkāneṁ maṇikanakasiṅhāsana, riṁ nagara daha, sinevitaniṁ bhūmi kaḍiri, sira turuk bali, putrī<lb n="5" break="no"/>nira narāryya sminiṁ rāt·, pinakaparameśvarīnira śrī jayakatyəṁ, săkṣăt kapvanakanira narāryya sminiṁ rāt·
+<lb n="6"/>sira pinratiṣṭa ṅkāneṁ maṇikanakasiṅhāsana, makanagare glaṁglaṁ, sinevita dainikaṁ sakalabhūmi vuravā<lb n="7" break="no"/>n·, sira śrī ratnarāja, parṇnah ari vvaṁ sānak amisan de narāryya sminiṁ rāt·, pinratiṣṭa ṅkāneṁ maṇikanakasiṅhā-
+<pb n="7v"/>
+<lb n="1"/>sana, riṁ rājya i moroṇo, sira śrī narajaya, parṇnah aryy amisan dai narāryya sminiṁ rāt·, sirenandəla<lb n="2" break="no"/>kən· riṁ maṇikanakasiṅhāsana, ṅkāneṁ nagara ri hriṁ, sira śrī sabhājaya, parṇnah aryy amisan dai narāryya sminiṁ rā<lb n="3" break="no"/>t·, sira pinratiṣṭa ṅkāneṁ kanakasiṅhāsana, ri nagara lva, sira saṁ prabhu samaṅkana lvirnira, kapva ta sira tlas kr̥<lb n="4" break="no"/>tābhiṣeka dainira narāryya sminiṁ rāt·, ṅkāne nagaranira sovaṁsovaṁ, saṁ prāṇarāja lot sāri lina<lb n="5" break="no"/>mpahakənira narāryya sminiṁ rāt·, tūtniṁ senavr̥nda śaivaka, yadyan· brāhmaṇa, R̥ṣi, śaiva, sogata, A<lb n="6" break="no"/>təhər amrayogakən sādhana, sādhananiṁ kāryya mahābhāra, rājābhiṣekādi, Āpan tan hana śaivaka kadi
+<lb n="7"/>saṁ prāṇarāja, śaivaka ri sira narāryya sminiṁ rāt·, tan vruh anəṅgaḥ maṅgalya, tan· vruh anəṅgah alapā, ta-
+<pb n="8r"/>
+<lb n="1"/>n vruh anəṅgaḥ dūrggama, yāvat inutusniṁ kadi sira śinevaka, lumampaḥ juga tan asuna, nimitta saṁ prāṇarā<lb n="2" break="no"/>jān maṅkana, Āpan niyatāmaṅguhakən abhyudāya riṅ ihātra parātra, Ikaṁ vvaṁ nityaṅūlahakən· dharmmaniṁ śai<lb n="3" break="no"/>vaka saptati, An maṅkana lkas i saṁ prāṇarāja śaivaka, sārisaryy aṅlampahakən sapaṅutusira narāryya sminiṁ rā<lb n="4" break="no"/>t·, Apituvy ankani (ṣ)eṣṭasādhyani manaḥnira narāryya sminiṁ rāt·, riṁ vāhyădhyātmika, Ikān maṅkana, tapvan saṁ
+<lb n="5"/>prāṇarāja Inanugrahan· ri kasusukaniṁ sīma, Ika ta dvāra sama śaivaka labdheṣṭaprayojana, huvus·
+<lb n="6"/>kr̥tānugraha, makādi saṁ rāmapati, mahəm mālapkna, musapa reṇu caraṇadvayanira narāryya sminiṁ rāt·, Aṁ<lb n="7" break="no"/>hyaṅa turunani varasanmatanira narāryya sminiṁ rāt·, Aṅanugrahakna thāni sāvakanya, dadyakna sīma ma-
+<pb n="8v"/>
+<lb n="1"/>pakna I saṁ prāṇarāja, riṁ tadanantara, maR̥k ta sakveḥ saṁ labdhānugraha, makapaṅhulu saṁ rāmapati, riṁ śū<lb n="2" break="no"/>nyadeśa, panambah i manə̄manə̄hi lmah i talapakaniṁ kadi bhāvanira devamūrtti lobhāṁhyaṁ tulusani va<lb n="3" break="no"/>raprāsāda lmah i talapakan· ra saṅhulun i manə:manə:hiṁ kadi bhāvanira, ndya ta tulusani siḥsanmatanire
+<lb n="4"/>manə:manə:hira, hilaṅakna duḥkhamanastāpani manə:manə:hira, makadvāra tan samani varaprasāda lmah i tala<lb n="5" break="no"/>pakanira, Aṅanugrahakən sukhāsamasama, makādi kasusukaniṁ sīma, ri manə:manə:hira makabehan·, tu<lb n="6" break="no"/>hun manə:manə:hira pun prāṇarāja, tapvan inanugrahan sīma de lmah i talapakanira, punikā tāṅde ci<lb n="7" break="no"/>ttaskālitāṅdadyakən· duḥkhamanastāpa, riṁ svahr̥dayani manə:manə:hira sovaṁsovaṁ, An kadi ta manə:-
+<pb n="9r"/>
+<lb n="1"/>manə:hira kr̥tāghna, kadi tan· vruh iṅ aguṇa, kādi tan guṇagrahi, kādi svărtha kevala, samaṅkānādini<lb n="2" break="no"/>kaṁ doṣa tumama ri manə:manə:hira, mvaṁ kadi paṅtibhedi lmah i talapakan· ra saṅhulun·, yatan pānulus asiḥ<lb n="3" break="no"/>sanmata lmah i talapakanire manə:manə:hira, saṁsiptani panəmbah i manə:manə:hira makaśirassnāna ra<lb n="4" break="no"/>rab i lmah i caraṇadvayaniṁ kadi sira devamūrtti, Aṁhyaṁ turunani varānugraha lmah i talapakanira, Iri pu<lb n="5" break="no"/>n· prāṇarāja, makanimitta yogyanipun anugrahana thāni, sathāni rvaṁ thāni dadyakna sīma svatantra, gañja<lb n="6" break="no"/>rananipun nitya gumavayakən dharmmaniṁ śaivaka saptatī, makatəmbeyan i sira kakinira, namas te sira bhaṭā<lb n="7" break="no"/>ra namaś śivāya, sira saṁ līna riṁ ḍampa kanaka, makāvasāna paṁḍiri lmah i talapakan ra saṅhulun·, An pi-
+<pb n="9v"/>
+<lb n="1"/>nakaikacchātraniṁ bhūvaṇa sayavadvīpamaṇḍala, Anuluyani nūṣāntara, An maṅkana panambaḥ saṁ rāmapati,
+<lb n="2"/>tan· vavaṁ sirāsaṅgup·, sḍaṅ ekacitta rumasani paramayogyani panambaḥ saṁ rāmapati, Āpan svabhāvaniṁ
+<lb n="3"/>kadi sira devamūrtti viṣṇvavatāra, tan· vavaṅ asaṅgup·, mvaṁ tan dadi tan paṁR̥ṅə: haturniṁ śaivakāṅdadyakən hi<lb n="4" break="no"/>tāvasāna, tan dadi tan pāṅanugrahani śaivakāṁlampahakən kaśaivakan uttama ri sira, riṅ avasāna, tan a<lb n="5" break="no"/>davā saharira, sampun kasaṁsipta yuktini rasani sirat i madhuravacana saṁ rāmapati, Atyantā paramasantu<lb n="6" break="no"/>ṣṭini manahiṅ hulun makanimitta patut i buddhiniṅ hulun·, lāvan sakināptyakən· ra saṅhulun makabehan·,
+<lb n="7"/>ndan hana bhedannya matra, Alāmaṅ hulun ahyun asūṅa deśa lor iṁ nagara, makanāmaṁ mūla, mvaṅ i maluruṁ, da-
+<pb n="10r"/>
+<lb n="1"/>dyakna sīmādəg· riṅgita, gañjarakna I saṁ prāṇarāja, sahakāryyana kavnavnaṅaniṁ kadaṅ haji jaṅgala kaḍi<lb n="2" break="no"/>ri, mvaṁ vr̥tti savr̥ttiniṁ kadaṁ haji jaṅgala kaḍiri, makādiṅ akarmma, vālyavālya, ri hanani saṁ prabhu mahā<lb n="3" break="no"/>bhāra, tūtən i sasantānapratisantāna saṁ prāṇarāja, kadaṅ haji ri dlāhaniṁ dlāha, saṁsiptanya, sahakāryya<lb n="4" break="no"/>nugrahaniṁ kakadaṅhajyan dainiṅ hulun· maṅanugrahaṇa sīma ri saṁ prāṇarāja, tuhun avdi taṅ hulun li<lb n="5" break="no"/>ṅgacchāya ri sira samaprabhu makabehan·, sakvehnira tlas· pinratiṣṭa ṅkāneṁ maṇikanakasiṅhāsana, ma<lb n="6" break="no"/>kalarapana kasāmarthyan· ra saṅhulun makabehan ta yan maṅkana, tulusakna pamahārsuka ra saṅhulun·, ri
+<lb n="7"/>yogya ra saṅhulun makabehan muvaḥ, Aṁdulurāṅusapa lbuni pādukanira śrī mahārāja makabehan·
+<pb n="10v"/>
+<lb n="1"/>makādi sira śrī kr̥tānagara, Amə̄ṅakna pasamagrinira maṅke ri kālani kapūjānira bhaṭāra parameśva<lb n="2" break="no"/>ra, An maṅkana rasani sirati maṇikira narāryya sminiṁ rāt·, laris ta sama labdheṣṭaprayojana, makapaṅhu<lb n="3" break="no"/>lu saṁ rāmapati, humaṇḍəm anambah umusap· lbūni pādukanira śrī mahārāja makabehan·, makapura<lb n="4" break="no"/>ssāra sira śrī kr̥tānagara, kathañcana masamagrī sira samaprabhu manaṅkil i sira śrī kr̥tānagara, sanyasā<lb n="5" break="no"/>naṅkila ri sira pāduka bhaṭāra, labdhamanoratha saṁ rāmapati, maṅgihakn īṣṭasādhya, ri kapaṅgihira para
+<lb n="6"/>prabhu masamagrī kāṅkən aṁhaturakna pūjā ri sira pāduka bhaṭāra, makādi sira śrī kr̥tānagara, humatur saṁ
+<lb n="7"/>rāmapati ri sanmukanira samaprabhu, makanāryyama sira śrī kr̥tānagara, panambaḥ patik haji ri pāduka
+<pb n="11r"/>
+<lb n="1"/>śrī mahārāja samudāya, makapramakai pāduka śrī kr̥tānagara, Amuṅahakna kinaptyaknira rāma
+<lb n="2"/>pāduka śrī mahārāja, ri hanani jijñāsanira rāma pāduka śrī jagannātha, Aṁdadyakna sīmādəg riṅgita,
+<lb n="3"/>Ikaṁ deśa lor iṁ nagara makanāma mūla, mvaṅ i maluruṁ, donanya, gañjarakna ri patik haji pan prāṇa<lb n="4" break="no"/>rāja, sahakāryyana tānugrahaniṁ kakadaṁhajyan·, kakadaṁhajyan iṅ kadaṁ haji jaṅgala kaḍiri, tūtnī
+<lb n="5"/>santāna prātisantāna patik· haji pun prāṇarājā(v)aṅka kadaṁ haji, ri dlāhaniṁ dlāha, ndan avaL̥ra varaprāsā<lb n="6" break="no"/>da śrī naranātha, kadulura daini varaprāsādanira para prabhu samudāya, vdinira rāma śrī mahārāja liṅga<lb n="7" break="no"/>cchāya riṅ kadi bhava pāduka śrī mahārāja jagannātha, Apan pāduka śrī narādhipa sākṣāt makadravyekaṁ pr̥-
+<pb n="11v"/>
+<lb n="1"/>(th)ivimaṇḍala, liṅira rāma pāduka śrī jagannātha, mvaṁ pāduka śrī mahārāja vnaṁ vigrahānugraha, An maṅka<lb n="2" break="no"/>[na] parisamāptini hatur saṁ rāmapati, kapva ta sira tumuly asaṅgup·, sama rasany ājñanira, niyatānkani sakinā<lb n="3" break="no"/>ptyaknira narāryya sminiṁ rāt·, kunaṁ sira śrī kr̥tānagara juga tan· vavaṅ asaṅgup·, paṅdani kadevamūrttyanira,
+<lb n="4"/>mvaṁ paṅdainy anugrahani devaviśeṣa ri sira, An sirenahākən sakalajagatpālaka, naranātharāja, A<lb n="5" break="no"/>təhər alona lampaḥ turunyājñānira, tan bheda rasanya lāvan· rasanyājñānira samaprabhu, Uva saṁ rāmapati
+<lb n="6"/>sampun kasaṁsipta rasani psat·psat i madhuravacana ra saṅhulun uva, makāra sābuka ri hanani jijñāsanira ra
+<lb n="7"/>bapa, Aṁdadyakna sīma svatantrādəg· riṅgita, Irikaṁ deśa lor iṁ nagara, makanāma riṁ mūla, mvaṅ i maluruṁ
+<pb n="12r"/>
+<lb n="1"/>mapakna gañjarakne saṁ prāṇarāja, masahakaryya kānugrahaniṁ kakadaṁhajyan·, larapanyan· vaṅśa kadaṁ ha<lb n="2" break="no"/>ji sasantānapratisantāna ra Uva saṁ prāṇarāja, ri dlāhaniṁ dlāha, mvaṁ tūtn iṁ kavnaṁvnaṅaniṁ kadaṁ haji, kavnaṅa<lb n="3" break="no"/>knani santānapratisantāna ra Uva saṁ prāṇarāja, ri dlāhaniṁ dlāha, yadyan umuṅgve sīma, Umuṅgveṅ anyadeśa
+<lb n="4"/>makādi nagara, Atəhər akarmma, valyavalya ri hanani kāryyanira saṁ prabhu mahābhāra, makendhikā pahyaṁ
+<lb n="5"/>ri sukanira sama prabhu, Anugrahakna sakinaptyaknira ra bapānugrahakne ra Uva saṁ prāṇarāja, Ikā ta kahyuni<lb n="6" break="no"/>ra ra bapa maṅkana, Alpa riḍəpiṅ hulun·, Apituvi, Aṅdadyakən· kastutyanira samaprabhu, mvaṁ haL̥p iṁ kadi sira pra<lb n="7" break="no"/>bhu, yadyan· mahābhāra tovi kahar̥pira ra bapa, ri sira samaprabhu makabehan·, ndan· yan mapakne ra Uva
+ <pb n="12v"/>
+<lb n="1"/>saṁ prāṇarāja, Ahamsaraṅ hulun uva saṁ rāmapati, ri katkani kāptinira ra bapa dainira samaprabhu, Āpa<lb n="2" break="no"/>n kaR̥ṇan hinaturan sukhāsamasama sira makabehan· dainira ra bapa, makasahāye ra Uva saṁ prāṇarāja,
+<lb n="3"/>mvaṁ kasāmārthyan· ra saṅhulun kabeḥ, Āpan tan hana kadaṁ vargga pahutaṅaniṁ kādi sira prabhu, lena saṅkeṅ amra<lb n="4" break="no"/>siddhakən kaprabhunira, mvaṁ dumadyakən karayastveni keśvaryyanira, sira samaprabhu, paḍāntukira ra bapāmratiṣṭa,
+<lb n="5"/>ṅkāneṁ maṇikanakamayasiṅhāsana, riṁ nagara sanagara, makasahaye ra Uva saṁ prāṇarāja, ṅuniṅūni kapra<lb n="6" break="no"/>bhuniṅ hulun·, nora śevake sira ra bapa, paḍa lāvan· ra Uva saṁ prāṇarāja, lot sari pinakarova<lb n="7" break="no"/>ṅira ra bapāṅalocittā guṇa buddhi riṅ ahoratra, katiṅhalan dainiṅ hulun·, An maṅkana, paran ta tan sukha
+   </p>
+         </div>
+         <div type="apparatus">
+           <!--apparatus encoded as per EG §9.1, basic elements for apparatus below-->
+               <listApp><!-- one <app> for each apparatus entry -->
+                  <app loc="p1v.1">
+                      <lem></lem>
+                      <rdg></rdg>
+                      </app>
+                   <app loc="p1v.2">
+                      <note><term>sanagarasanagara</term>: cf. 12v5 <term>nagara sanagara</term>.</note>
+                      </app>
+                   <app loc="p1v.5">
+                      <lem></lem>
+                      <rdg></rdg>
+                      </app>
+                   <app loc="p1v.5-p1v.6">
+                       <note><term>mūrdvaja°</term>: the spelling <term>mūrddhaja</term> is found in 7r3. Emend <term>mūrdhaja°</term> or <term>°ūrdhvaja</term>? We find the reading <term>ūrddhaja</term> in Rameswarapura 1v3.</note>
+                       </app>
+                   <app loc="p1v.6">
+                       <note>On <term>kr̥tānagarābhiseka</term>, HS notes: “Contrary to other known inscriptions from 13th century Java, the charter of Mūla-Malurung consistently spells the name of the king <term>Kr̥tanagara</term> with a long <term>ā</term>.</note>
+                       </app>
+                   <app loc="p1v.7">
+                       <lem></lem>
+                       <note>Emend <term>samastagrāma</term> or <term>samastāśrama</term>? See Griffiths 2013: 59–60, nn. 41–44. My translation of the present passage there was wrongly presented as a qualification of <term>Kr̥tanagara</term>. Copie B breaks off at <term>samapta//grāma</term>.</note>
+                       </app>
+                   <app loc="p2r.1">
+                      <lem></lem>
+                      <rdg></rdg>
+                      </app>
+                   <app loc="p2r.2">
+                      <lem></lem>
+                      <rdg></rdg>
+                       <note>I expect here <term>snapana</term>, <term>snāpana</term> or <term>snāna</term>.</note>
+                      </app>
+                   <app loc="p2r.3">
+                      <lem></lem>
+                      <rdg></rdg>
+                       <note>emend <term>samastakṣatriya</term>. Cf. Ib7. Or read <term>sama kṣatriya</term>? Cf. <term>sama śaivaka</term> in VIIIa5.</note>
+                      </app>
+                   <app loc="p2r.4">
+                      <lem></lem>
+                      <rdg></rdg>
+                      </app>
+                   <app loc="p2r.5">
+                      <note><term>marmmananda</term>: the reading on Lama is a bit unclear, but Baru clearly has <term>°nda</term>, not <term>°ntha</term>. The reading <term>°nda</term> also yields a proper Sanskrit word.</note>
+                      </app>
+                   <app loc="p2r.5">
+                      <note><term>°kasi raṅgaḥ vahas</term>: understand <term>°kasir raṅgaḥ vahas</term>. The word <term>vahas</term> is not otherwise attested; could we be dealing with an error for <term>rājasa</term>? See file HS ‘Note on the village of Damalang’, for possible connection with Singasari stone.</note>
+                      </app>
+                   <app loc="p2r.6">
+                      <lem></lem>
+                      <rdg></rdg>
+                      </app>
+                   <app loc="p2r.6">
+                    <note><term>kunaṁ, sa-</term>: the punctuation is misplaced. I expect <term>kunaṁ sambhandha</term>, although even this would be a unique formulation. The term <term>sambandha</term> is not normally preceded by <term>kunaṁ</term>. The closest parallel I can find is <term>kunəṅ pva sambandhanikaṅ ... in Waringin</term> Pitu 7r4.</note>
+                      </app>
+                   <app loc="p2v.1">
+                      <note><term>kalilin</term>: emend <term>kaliliran</term>?</note>
+                      </app>
+                   <app loc="p2v.3">
+                      <lem></lem>
+                      <rdg></rdg>
+                      </app>
+                   <app loc="p2v.3">
+                      <note><term>makasaṅajñā</term>: understand <term>makasaṁjñā</term>. Cf. <term>Brahmāṇḍapurāṇa</term> 168 <term>ndatan piṇḍa rūpa saṅajñā dharmanya</term>. And the synonym <term>makanāmadheya</term> below (IIIa6).</note>
+                      </app>
+                   <app loc="p2v.5-p2v.6">
+                      <note><term>saṅajñānira</term>: understand <term>saṁjñānira</term>.</note>
+                      </app>
+                   <app loc="p3r.1">
+                      <note><term>kālani kapratiṣṭanira</term>: the words could also be split <term>kālanika pratiṣṭanira</term>, but comparison with Va5 suggest we may have here a form with prefix <term>ka-</term>.</note>
+                      </app>
+                   <app loc="p3r.4">
+                      <note><term>kālani kapratiṣṭanira</term>: the words could also be split <term>kālanika pratiṣṭanira</term>, but comparison with Va5 suggest we may have here a form with prefix <term>ka-</term>.</note>
+                      </app>
+                   <app loc="p3v.1">
+                      <note><term>(ta)</term>: on the photo, it rather seems as though the engraver has written <term>ka</term>, but we require ta and the fifference between the two <term>akṣaras</term> can be minimal.</note>
+                      </app>
+                   <app loc="p3v.5">
+                      <note><term>sirānavasthā</term>: I assume that <term>anavasthā</term> is simply a name. Or might we assume irregular aN- derivation from <term>svasthā</term> instead of <term>anvasthā</term> (cf. forms like <term>makasaṅajñā</term> with epenthetic a to avoid complicated clusters)? Or can we split <term>sirān avasthā</term>?</note>
+                      </app>
+                   <app loc="p3v.6">
+                      <lem></lem>
+                      <rdg></rdg>
+                      </app>
+                   <app loc="p3v.7">
+                      <note><term>vuga</term>: perhaps emend <term>juga</term>? The word vuga is attested a few times as place name in Central Javanese inscriptions (Kamalagi, face A, l. 5; Kiriṅan, l. 2; Lintakan II.2).</note>
+                      </app>
+                   <app loc="p4r.1">
+                      <note><term>paramartveṅajñā</term>: emend <term>paramargvedajñā</term>.</note>
+                      </app>
+                   <app loc="p4r.3">
+                      <lem></lem>
+                      <rdg></rdg>
+                      </app>
+                   <app loc="p4r.5">
+                      <note><term>yūrvvedajñā</term>: emend <term>yajurvvedajñā</term>.</note>
+                      </app>
+                   <app loc="p4r.5">
+                      <lem></lem>
+                      <rdg></rdg>
+                      </app>
+                   <app loc="p4r.6-p4r.7">
+                       <lem></lem>
+                      <rdg></rdg>
+                      <note>Note HS: “Despite the variant readings, there seems little doubt that the passage refers to the dharma named <term>kr̥ṣṇapura</term>, mentioned exactly half a century later in the 1305 inscription of  Sukhāmṛta (plate IXa: 6 - IXb: 1, transcr. Boechari 1985/6: 164-168). The passage runs: <term>rāma sang apanji patipati, sira nguni manusuk dharma ring kr̥ṣṇapura</term>.” Cf. same name mentioned in Frankfurt V.</note>
+                      </app>
+                   <app loc="p4v.2">
+                      <note><term>makasaṅajñā</term>: understand <term>makasaṁjñā</term>.</note>
+                      </app>
+                   <app loc="p4v.4">
+                      <note><term>anusuka sīma svatantra</term>: has the word <term>dharmma</term> been omitted here?</note>
+                      </app>
+                   <app loc="p4v.7">
+                      <note><term>°sahāṅalocitta</term>: understand <term>°sāhāṅālocita</term>. </note>
+                      </app>
+                   <app loc="p5r.2">
+                      <note><term>saptati</term>: could this be an error or singkatan for <term>saptopapatti</term>? But cf. VIIIa3 below, and Gandhakuṭi charter Ia3 <term>śevakasaptati</term>.</note>
+                      </app>
+                   <app loc="p5r.2">
+                      <note><term>kevəhan</term>: or split <term>kevəh an</term>?</note>
+                      </app>
+                   <app loc="p5r.3">
+                      <note><term>sakaptini</term>: cf. OJED <term>sakāpti</term>. See also Vb2 below.</note>
+                      </app>
+                   <app loc="p5r.4">
+                      <lem></lem>
+                      <rdg></rdg>
+                      </app>
+                   <app loc="p5r.5">
+                       <lem></lem>
+                      <rdg></rdg>
+                      <note>The collocation <term>ikan maṅkana</term> is found in the ms. LOr 10.454 of the Uttarakāṇḍa. The first passage (<term>yadyapin uvusa ta rahadyan saṅulun aṅinum amṛta, ikan maṅkana, yayan tan paśara ni urip rahadyan saṅulun təkapniṅ tuhan i ṅulun</term>) is not found in the ed. by Zoetmulder; for the second (<term>kālavan tata molah ri patapaniṅ pañcavati tumutakən kasyasih rakarapva ikan maṅkana kuməla taṅ ulun ri panas tis</term>), Zoetmulder reads <term>ṅūni vi bapa kālanta tamolah ri patapaniṅ Pañcavatī tumūtakən kāsy-asih rāka rapva kami, ikā n maṅkana kumə̄l ata ṅhulun ri panas tīs</term>. The collocation <term>ika n maṅkana</term> is found in several more texts (i.a. <term>Brahmāṇḍapurāṇa</term>). So we must understand <term>ikan </term>as <term>ika-an</term>. Cf. also <term>ikān maṅkana</term> in VIIIa3.</note>
+                      </app>
+                   <app loc="p5r.6">
+                      <note><term>ankani</term>: understand <term>anəkāni</term>.</note>
+                      </app>
+                   <app loc="p5v.5-p5v.6">
+                      <note><term>riṁ muhun malapa</term>: emend <term>riṁ puhun malama</term>? (But <term>riṁ muhun malama</term> occurs also in Sima Anglayang!) The final <term>ma</term> looks could possibly be read as <term>pa</term>, but the mu can certainly not be read as <term>pu</term>.
+</note>
+                      </app>
+               </listApp>         
+         </div>
+         <div type="translation" xml:lang="eng" resp="part:argr">
+ 	<!--translation encoded as per EG §9.2 -->
+<p>
+             TRANSLATION
+</p>
+         </div>
+         <div type="commentary">
+            <!--commentary encoded as per section §9.3 -->
+         </div>
+        <div type="bibliography">
+	<!--bibliography encoded as per section §9.4 -->
+            <p>First edited by Krom in (<bibl rend="omitname"><ptr target="bib:krom1911_04"/><citedRange unit="appendix">61</citedRange><citedRange unit="page" >117-123</citedRange></bibl>); re-edited by Damais (<bibl rend="omitname"><ptr target="bib:Damais1955_01"/><citedRange unit="page">78</citedRange><citedRange unit="item">A.172</citedRange></bibl>); edited again by Boechari (<bibl rend="omitname"><ptr target="bib:Boechari1985-1986_01"/><citedRange unit="page">109-110</citedRange><citedRange unit="item">E.47</citedRange></bibl>); re-edited here by Arlo Griffiths from  photos shared by Titi Surti Nastiti.</p>
+             <listBibl type="secondary">
+                 <bibl><ptr target="bib:NBG"/><date>1911</date><citedRange unit="volume">49</citedRange><citedRange unit="page">121</citedRange></bibl>
+                 <bibl><ptr target="bib:Damais1952_01"/><citedRange>72-73</citedRange></bibl>
+           </listBibl>
+        </div>
+      </body>
+  </text>
+</TEI>
