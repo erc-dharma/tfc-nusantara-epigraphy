@@ -3,11 +3,7 @@
 ## Dating formula
 | Old Javanese term | English translation    |
 |-------------------|------------------------|
-
-
-
 | grahacāra       |                        |
-|-----------------|------------------------|
 | irika divaśa-ni | That was the time that |
 | karaṇa          | half day               |
 | kṛṣṇapakṣa      | waning fortnight       |
@@ -22,22 +18,29 @@
 | yoga            | conjunction            |
 
 ## Titles
-| Old Javanese term              | English translation      |
-|--------------------------------|--------------------------|
-| ācārya                         | master                   |
-| ārya                           |                          |
-| bhaṭāra (or short bhra / bhre) | Lord / Lady              |
-| dyah                           | _dyah_                   |
-| mpu                            | _mpu_                    |
-| pāduka                         | his / her majesty        |
-| pu                             | _pu_                     |
-| rake                           | _rake_                   |
-| rakryan                        | Lord / noble / _rakryan_ |
+| Old Javanese term              | English translation                                              |
+|--------------------------------|------------------------------------------------------------------|
+| ācārya                         | master                                                           |
+| ārya                           | _ārya_, noble, buddhist                                          |
+| bhaṭāra (or short bhra / bhre) | Lord / Lady                                                      |
+| dyah                           | _dyah_                                                           |
+| mpu                            | _mpu_                                                            |
+| pāduka                         | his / her Majesty, the sandals of ...                            |
+| pañji, (m)apañji               | by name, with the byname                                         |
+| pu                             | _pu_                                                             |
+| rake                           | _rake_                                                           |
+| rakryān                        | Lord / noble / _rakryan_; __or shall we use "his excellency" ?__ |
+
 ## Nouns
 | Old Javanese term  | English translation                  |
 |--------------------|--------------------------------------|
 | ājñā               | decree                               |
 | ājñā haji praśasti | royal decree in the form of an edict |
+| cihna              | devise, emblem, sign                 |
+| mudrā              | seal                                 |
+| rasa               | substance                            |
+| lāñchana           | emblem                               |
+
 ## Recipients
 | Old Javanese term                    | English translation                                        |
 |--------------------------------------|------------------------------------------------------------|
@@ -45,14 +48,15 @@
 | sapasuk thāni kabeḥ təka ri babadnya | including all its inhabitants up to its (forest) clearings |
 | varga mūla                           | original inhabitants                                       |
 
+
 ## Court officials
-| Old Javanese term         | English translation         |
-|---------------------------|-----------------------------|
-| dharmādhyakṣa riṅ ka-x-an | superintendent of x affairs |
-| dharmopapatti             | interpreter of dharma       |
-| mantri                    | minister                    |
-| mapatih                   | minister / governor         |
-| paməgət                   | officiant                   |
+| Old Javanese term              | English translation         |
+|--------------------------------|-----------------------------|
+| dharmādhyakṣa riṅ ka-x-an      | superintendent of x affairs |
+| dharmopapatti                  | interpreter of dharma       |
+| mantri                         | minister                    |
+| mapatih                        | minister / governor         |
+| paməgət (samgət = saṅ paməgət) | officiant                   |
 
 ## Verbs 
 | Old Javanese term | English translation               |
