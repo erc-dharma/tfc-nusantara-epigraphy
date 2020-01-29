@@ -7,7 +7,7 @@
             <titleStmt>
                 <title>Batutulis</title><!--Change the title of the file, e.g. Raktamālā grant of the time of Budhagupta, year 159-->
                 <respStmt>
-                    <resp>creation of the file</resp>
+                    <resp>creation of file</resp>
                     <resp>intellectual authorship of edition</resp>
                     <persName ref="part:agdu">
                         <name>Aditia Gunawan</name>
@@ -29,11 +29,11 @@
                     </note>
                 </authority>
                 <pubPlace>Paris</pubPlace>
-                <idno type="filename">DHARMA_EncodingTemplateInscription</idno><!-- Replace by filename, e.g. Pallava00001 -->
+                <idno type="filename">DHARMA_EncodingTemplateInscription</idno><!-- Arlo: Replace by BatuTulis and change t to T also in the file name itself -->
                 <availability>
                     <licence target="https://creativecommons.org/licenses/by/4.0/">
                         <p>This work is licenced under the Creative Commons Attribution 4.0 Unported Licence. To view a copy of the licence, visit https://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.</p>
-                        <p>Copyright (c) 2019-2025 by Aditia Gunawan.</p><!-- Replace year and name, use format "Forename1 Surname1 & Forename2 Surname2" or "Forename1 Surname1, Forename2 Surname2 & Forename3 Surname3"  if necessary — the copyright is that of the encoder(s) -->
+                    	<p>Copyright (c) 2019-2025 by Aditia Gunawan.</p><!-- Arlo: add " &amp; Arlo Griffiths" -->
                     </licence>
                 </availability>
                 <date from="2019" to="2025">2019-2025</date>
@@ -43,109 +43,114 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc>
+             <change who="part:argr" when="2020-01-29" status="draft">global round of revisions</change>
             <change who="part:adgu" when="2020-01-27" status="draft">Change "lb no-break" in to single line.</change>
             <change who="part:adgu" when="2020-01-24" status="draft">Update language tag, input bibliography.</change>
             <change who="part:adgu" when="2020-01-15" status="draft">Update with the new template.</change>
-            <change who="part:axja" when="2020-01-09" status="draft">Update the template</change><!-- add a <change> for each change to the file, the first change should replace this one and record your creation of a file using this template. -->
+            <change who="part:adgu" when="2019" status="draft">initial encoding of the inscription</change><!-- Arlo: I have replaced what was here by this statement of the first step. Apply the same in all your files. Specify the value of "when" if you remember it. -->
         </revisionDesc>
     </teiHeader>  
     <text xml:space="preserve">
         <body>
             <div type="edition" xml:lang="x-oldsun-Latn">
                 <p>
-                    <lb n="1"/><g type="symbol">Ø</g> <g type="symbol">Ø</g> vaṁ<unclear>ṅa</unclear> <unclear>p</unclear>un· I<unclear>n</unclear>i sakakala, pr<unclear>ə</unclear>bu ratu purane pun·, ḍivas·tu
-                    <lb n="2"/>ḍyi, viṅaran· prəbu guru ḍe<unclear>va</unclear>ta pran· ḍivas·tu ḍyə ḍiṅaran· sri
-                    <lb n="3"/>baduga maharaja, ratu ha<unclear cert="low">j</unclear>i ḍi pakvan· pajajaran· sri sa<unclear>ṁ</unclear> ratu ḍe<lb n="4" break="no"/>vata pun·</p> <p> ya nu ñusuk· na pakvan· ḍyə AnaK rahyi ḍeva nis·<lb n="5" break="no"/>kala, sa siḍa moKta ḍi gunuṁ tiga, Əcu rahyiṁ <unclear>n</unclear>is·kala vas·tu
-                    <lb n="6"/>ka<unclear>ca:</unclear>na, saṁ siḍa moKta ka nusa laraṁ, </p> <p> ya syi nu <unclear>ñ</unclear>yin· sakaka<lb n="7" break="no"/>la, gugun<unclear>uṅ</unclear>an·, <unclear>ṅa</unclear>balay·,, ñyin· samiḍa, ñyin· saṁ hyi talaga <supplied reason="lost" evidence="paralel">va</supplied><lb n="8" break="no"/>R̥na mahavijaya, </p> <p> ya s<supplied reason="lost">yi pun· </supplied>,,  </p> <p> <g type="symbol">Ø</g><g type="symbol">Ø</g> I saka, pañca pan·ḍa<lb n="9" break="no"/>va ṅ<unclear>ə</unclear>ban· bumi <g type="symbol">Ø</g><g type="symbol">Ø</g>
+         <lb n="1"/><g type="symbol">Ø</g><!-- Arlo: replace by <g type="symbol" subtype="tennisball"/> — see EG 4.2 on "Generic Symbols" --> <g type="symbol">Ø</g><!-- Arlo: same --> vaṁ<unclear>ṅa</unclear> <unclear>p</unclear>un· I<unclear>n</unclear>i sakakala, pr<unclear>ə</unclear>bu ratu purane pun·, ḍivas·tu
+         <lb n="2"/>ḍyi, viṅaran· prəbu guru ḍe<unclear>va</unclear>ta pran· ḍivas·tu ḍyə ḍiṅaran· sri
+         <lb n="3"/>baduga maharaja, ratu ha<unclear cert="low">j</unclear>i ḍi pakvan· pajajaran· sri sa<unclear>ṁ</unclear> ratu ḍe<lb 
+	n="4" break="no"/>vata pun·</p> <p> ya nu ñusuk· na pakvan· ḍyə AnaK<!-- Arlo: haven't we revised our interpretation of the "K" and don't we now propose "k·" in our new suggestions for the next version of TG? --> rahyi ḍeva nis·<lb 
+	n="5" break="no"/>kala, sa siḍa moKta ḍi gunuṁ tiga, Əcu<!-- Arlo: How is Ə wrtten? is it not rather qǝ?  --> rahyiṁ <unclear>n</unclear>is·kala vas·tu
+        <lb n="6"/>ka<unclear>ca:</unclear>na, saṁ siḍa moKta<!-- Arlo: what about K? --> ka nusa laraṁ, </p> <p> ya syi nu <unclear>ñ</unclear>yin· sakaka<lb 
+	n="7" break="no"/>la, gugun<unclear>uṅ</unclear>an·, <unclear>ṅa</unclear>balay·,, ñyin· samiḍa, ñyin· saṁ hyi talaga <supplied reason="lost" evidence="paralel">va</supplied><lb 
+	n="8" break="no"/>R̥na mahavijaya, </p> <p> ya s<supplied reason="lost">yi pun· </supplied>,,  </p> <p> <g type="symbol">Ø</g><g type="symbol">Ø</g><!-- Arlo: see above on what to do with symbol (2x). --> I saka, pañca pan·ḍa<lb 
+	n="9" break="no"/>va ṅ<unclear>ə</unclear>ban· bumi <g type="symbol">Ø</g><g type="symbol">Ø</g><!-- Arlo: again, 2x -->
                 </p>
               
             </div>
             <div type="apparatus">
                 <listApp>
                     <app loc="1">
-                        <lem>vaṁ<unclear cert="low">ṅa</unclear> <unclear>p</unclear>un·</lem><rdg source="HasanDjafar2011_01">vaṁ na pun</rdg><note>On the shape of ṅa, see ṅabalay in l. 7.</note>
+                      	<lem>vaṁ<unclear cert="low">ṅa</unclear> <unclear>p</unclear>un·</lem>
+		<rdg source="HasanDjafar2011_01">vaṁ na pun</rdg>
+		<note>On the shape of ṅa, see ṅabalay in l. 7.</note><!-- Arlo: put <foreign> around the akṣara and word quoted in the note -->
                     </app>
                 <app loc="2">
-                    <lem>ḍyi, viṅaran·</lem><rdg source="HasanDjafar2011_01">diya viṅaran</rdg><note>HD didn't note on how the first word could be interpreted as <foreign xml:lang="x-oldsun-Latn">diya</foreign>. In fact this is a common manner of interpreting spelling Cya in Sundanese mss., HD sugest to emending the second word to <foreign xml:lang="x-oldsun-Latn">diṅaran</foreign>. HD already suggested that one needs to <foreign xml:lang="x-oldsun-Latn">ḍiṅaran</foreign>; we add that ḍyi needs to be read as dyə, the word we also find further on in this line and in line 4.</note>
+                  	<lem>ḍyi, viṅaran·</lem>
+		<rdg source="HasanDjafar2011_01">diya viṅaran</rdg>
+		<note>Hasan Djafar doesn't comment on how the first word could be interpreted as <foreign xml:lang="x-oldsun-Latn">diya</foreign><!-- Arlo: the @xml:lang is not necessary here, see EG 10.2, esp. the section on "Tagging foreign languages outside the edition" -->. In fact this is a common manner of interpreting the spelling Cya<!-- Arlo: use <foreign> --> in Sundanese mss. <!-- AG: the note so far does not seem useful to me. It is a general fact that our predecessors have translirerated our ḍyi/dyi as diya, and it required a general remark in our introduction to the corpus; it does not require a remark on every individual variant reading concerning this phenomenon. --> HD<!-- Arlo: I am not sure it is elegant to abbreviate authors' names in this way. Shall we just write "Hasan Djafar"? --> suggests to emend the second word to <foreign xml:lang="x-oldsun-Latn">diṅaran</foreign>. HD already suggested that one needs to <foreign xml:lang="x-oldsun-Latn">ḍiṅaran</foreign><!-- Arlo: I don't understand this preceding sentence, because in the sentence before it we had noted that HD suggests diṅaran instead of ḍiṅaran. -->; we add that ḍyi needs to be read as dyə<!-- Arlo: So why not use <choice><sic>ḍyi</sic><corr>ḍyǝ</corr></choice> in our edition? If so, no need tosaying anything about it in this note -->, the word we also find further on in this line and in line 4.</note><!-- Arlo: this entire note is kacau and needs to be thoroughly revised. -->
                 </app>
                     <app loc="2">
-                        <lem>pran·</lem><rdg source="HasanDjafar2011_01">prana</rdg><note>This reading seems impossible to us, for there is unmistakably a sign between the n and the following ḍi, and this sign can only be paten or punctuation. Since the word pran does not seem to exist in Sundanese nor Javanese, we propose to emend this to pun·, as in line 4</note>
+                       	<lem>pran·</lem>
+		<rdg source="HasanDjafar2011_01">prana</rdg>
+		<note>This<!-- Arlo: I would write "Hasan Djafar's" --> reading seems impossible to us, for there is unmistakably a sign between the n<!-- Arlo: use <foreign> --> and the following ḍi<!-- Arlo: same -->, and this sign can only be a paten or punctuation. Since the word pran<!-- Arlo" same --> does not seem to exist in Sundanese nor Javanese, we propose to emend this to pun·<!-- Arlo: same -->, as in line 4<!-- Arlo: suplly missing "." here --></note><!-- Arlo: we should put in our edition "p<choice><sic>ra</sic><corr>u</corr></choice>n·" (see EG 8.4) and then revise the second sentence of the note as follows: "We feel compelled to emend because no word <foreign>pran</foreign> seems to exist in Sundanese or Javanese." -->
                     </app>
                     <app loc="2">
                      <lem>ḍyə ḍiṅaran·</lem>
-                     <note>it would be possible to read <foreign xml:lang="x-oldsun-Latn">dyəṁ</foreign> <foreign xml:lang="x-oldsun-Latn">ḍiṅaran</foreign></note>
+                     <note>it<!-- Arlo: a <note> should always begin with a capital letter, see EG 10.3 --> would be possible to read <foreign xml:lang="x-oldsun-Latn">dyəṁ</foreign> <foreign xml:lang="x-oldsun-Latn">ḍiṅaran</foreign></note><!-- Arlo: no need for putting <foreign> twice if you have two contiguous words; no need to use @xml:lang here; don't forget full stop at the end of any <note>. -->
                     </app>
                     <app loc="4">
                         <lem>ñusuk· na</lem>
                         <rdg source="HasanDjafar2011_01">ñusuk·na</rdg>
-                        <note>All predecessor have by their non-insertion of a space between <foreign xml:lang="x-oldsun-Latn">ñusuk</foreign> and <foreign xml:lang="x-oldsun-Latn">na</foreign> implied that <foreign xml:lang="x-oldsun-Latn">na</foreign> is a pronominal clitic, but it seems more convincing to take it as article <foreign xml:lang="x-oldsun-Latn">na</foreign> (<bibl source="Hardjadibrata2003_01">s.v. na 5</bibl>. For its use before topnyms, cf. BM vs. 60, 750; see Noorduyn &amp; Teeuw on the issue of how to interpret <foreign xml:lang="x-oldsun-Latn">na</foreign> in Sundanese mss.</note>
+                        <note>All predecessors have by their non-insertion of a space between <foreign xml:lang="x-oldsun-Latn">ñusuk</foreign><!-- Arlo: remove @xml:lang --> and <foreign xml:lang="x-oldsun-Latn">na</foreign><!-- Arlo: same, and for all following cases --> implied that <foreign xml:lang="x-oldsun-Latn">na</foreign> is a pronominal clitic, but it seems more convincing to take it as article <foreign xml:lang="x-oldsun-Latn">na</foreign> (<bibl source="Hardjadibrata2003_01">s.v. na 5</bibl><!-- Arlo: you have forgotten the closing ), and also from TEI point of view this bibliographic reference is kacau. Please revise is after thoroughly reading EG 10.4  -->. For its use before topnyms, cf. BM vs.<!-- Arlo: does "vs." here mean "verses"? Could you say "stanzas" or "lines" instead? In general, please avoid the term "verse" if you mean a unit of multiple lines, and use line if you mean a single line of a stanza or of a metrical text.  --> 60, 750; see Noorduyn &amp; Teeuw <!-- Arlo: we need a proper bibliographic reference here (if we want to keep this elobrate discussion here at all; I rather suggest to publish the discussion on such points in our article, after which we can be brief in the notes to our digital editions of the inscriptions --> on the issue of how to interpret <foreign xml:lang="x-oldsun-Latn">na</foreign> in Sundanese mss.</note>
                     </app>
                     <app loc="4">
                         <lem>rahyi</lem>
                         <rdg source="HasanDjafar2011_01">rahiyaṁ</rdg> 
-                        <note>We do not see the <foreign xml:lang="x-oldsun-Latn">anusvāra</foreign>/<foreign xml:lang="x-oldsun-Latn">cecak</foreign>. On the issue of Cyi/Ciya see the note on line 2.</note>
+                        <note>We do not see the <foreign xml:lang="x-oldsun-Latn">anusvāra</foreign>/<foreign xml:lang="x-oldsun-Latn">cecak</foreign><!-- Arlo: above you did not use <foreign> for the word "paten"; note that ise of xml:lang="x-oldsun-Latn" about the terms anusvāra and cecak is bizarre, because neither of these terms is Sundanese — see EG 10.2, esp. the segment starting with "@xml:lang is optional" -->. On the issue of Cyi/Ciya<!-- Arlo; use <foreign> --> see the note on line 2.</note>
                     </app>
                     <app loc="5">
                         <lem>sa siḍa</lem>
                         <rdg source="HasanDjafar2011_01">saṁ sida</rdg> 
-                        <note>HD explains that the <foreign xml:lang="x-oldsun-Latn">anusvāra</foreign>/<foreign xml:lang="x-oldsun-Latn">cecak</foreign> is present although hard to read. We are inclined to assume that it is absent. Cf. the cases of <foreign xml:lang="x-oldsun-Latn">sa ratu</foreign> and <foreign xml:lang="x-oldsun-Latn">rahyi</foreign> for <foreign xml:lang="x-oldsun-Latn">saṁ ratu</foreign> and <foreign xml:lang="x-oldsun-Latn">rahyiṁ</foreign> (= <foreign xml:lang="x-oldsun-Latn">rahiyaṁ</foreign>) above. </note>
+                        <note>HD explains that the <foreign xml:lang="x-oldsun-Latn">anusvāra</foreign>/<foreign xml:lang="x-oldsun-Latn">cecak</foreign><!-- Arlo: see my comment above. --> is present although hard to read. We are inclined to assume that it is absent. Cf. the cases of <foreign xml:lang="x-oldsun-Latn">sa ratu</foreign> and <foreign xml:lang="x-oldsun-Latn">rahyi</foreign> for <foreign xml:lang="x-oldsun-Latn">saṁ ratu</foreign> and <foreign xml:lang="x-oldsun-Latn">rahyiṁ</foreign> (= <foreign xml:lang="x-oldsun-Latn">rahiyaṁ</foreign>) above. </note>
                     </app>
                     <app loc="5">
                         <lem>moKta</lem>
                         <rdg source="HasanDjafar2011_01">moKta</rdg>
-                        <note>We found a typical ka with stroke underline that represented <foreign xml:lang="x-oldsun-Latn">paten</foreign>.</note>
+                        <note>We find a special ka <!-- Arlo: use <foreign> --> with stroke underline that represents <foreign xml:lang="x-oldsun-Latn">paten</foreign>.</note><!-- Arlo: see my question above about use of K — I think we have decided to discontinue its use. for Sundanese. -->
                     </app>
                     <app loc="5">
                         <lem>gunuṁ</lem>
                     <rdg source="HasanDjafar2011_01">guna</rdg>
-                        <note>There can be no doubt about this reading. See the toponym Gunuṅ Tiga in the <title>Carita Parahyaṅan</title> as cited by Pleyte (<bibl rend="omitname"><ptr target="Pleyte1911_01"/><citedRange>176</citedRange></bibl>).
-</note>
+                        <note>There can be no doubt about our reading. See the toponym Gunuṅ Tiga in the <title>Carita Parahyaṅan</title><!-- Arlo: interesting that you decided to use <title>; our EG does not yet say anything aboit how to cite primary (non-epigraphic) sources, but we will address this in a next version; keep <title> for now --> as cited by Pleyte (<bibl rend="omitname"><ptr target="Pleyte1911_01"/><citedRange>176</citedRange></bibl>).</note>
                     </app>
                     <app loc="5">
                         <lem>Əcu</lem>
-                        <rdg source="HasanDjafar2011_01">I(ñ·)cu</rdg>
-                        <note>HD reads <foreign xml:lang="x-oldsun-Latn">Icu</foreign> and proposes to emend as <foreign xml:lang="x-oldsun-Latn">iñcu</foreign>. Adding vocalisation -i to <foreign xml:lang="x-oldsun-Latn">aksara</foreign> A is the standard way to write Ə in Sundanese mss. E.g. PNRI L623 f. 30v4 shows precisely the same spelling, so there is no need to emend. See also Noorduyn &amp; Teeuw (<bibl rend="omitname"><ptr target="bib:Noorduyn+Teeuw2006_01"/><citedRange>20-21</citedRange></bibl>).</note>
+                        <rdg source="HasanDjafar2011_01">I(ñ·)cu</rdg><!-- Arlo: I think HD's reading shpuld be represented as I<supplied reason="omitted">ñ·</supplied>cu, or is the emendation only made in his note/comment? If so, then just give Icu here. -->
+                        <note>HD reads <foreign xml:lang="x-oldsun-Latn">Icu</foreign> and proposes to emend as <foreign xml:lang="x-oldsun-Latn">iñcu</foreign>. Adding vocalisation -i<!-- Arlo: add foreign. --> to <foreign xml:lang="x-oldsun-Latn">aksara</foreign> A is the standard way to write Ə in Sundanese mss. E.g. PNRI L623 f. 30v4 shows precisely the same spelling, so there is no need to emend. See also Noorduyn &amp; Teeuw (<bibl rend="omitname"><ptr target="bib:Noorduyn+Teeuw2006_01"/><citedRange>20-21</citedRange></bibl>).</note><!-- Arlo: this note is very interesting, but I think you can move the contents from "Adding ..." to the end to the file for our SOS. This is not the place to discuss such general issues in the transliteration of OS script. By the way, from your description it sounds like we should either transliterate <qi> (and interpret this phonologically as /ǝ/, or else modify the TG 3.3.4 to admit the sign Ə (or rather Ǝ). I am rather in favor of sticking to a purely scri[t-based approach, so <qi> in our Transliteration system. If you agree, can you write an email to Dan furnishing him picture of the Batu Tulis and PNRI L623 examples? -->
                     </app>
                     <app loc="5">
                         <lem><unclear>n</unclear>is·kala</lem>
                         <rdg source="HasanDjafar2011_01">nis·kala</rdg>
-                        <note>The first consonant is very hard to read as n, but that is what is must be.</note>
+                        <note>The first consonant is very hard to read as n<!-- Arlo: use <foreign> -->, but that is what is must be.</note>
                     </app>
                     <app loc="6">
                         <lem>nusa laraṁ</lem>
-                        <note>This place is mentioned in CP21v: <foreign xml:lang="x-oldsun-Latn">Aya na səvə prəbu vaṁṅi ṅaran·na Iñana prəbu nis·kala vas·tu kañcana nu surup· di nusa §§ laraṁ</foreign> “There is a king’s son, his name was fragrant, he is Prebu Niskala Wastu Kancana who has been burried in the Nusa Larang”. </note>
+                        <note>This place is mentioned in CP21v: <foreign xml:lang="x-oldsun-Latn">Aya na səvə prəbu vaṁṅi ṅaran·na Iñana prəbu nis·kala vas·tu kañcana nu surup· di nusa §§ laraṁ</foreign> “There is a king’s son, his name was<!-- Arlo: pay attention to consistency in tenses; if you start with present tense, then this should be present too, so "is" --> fragrant, he is Prebu Niskala Wastu Kancana who has been burried in the Nusa Larang”.</note>
                     </app>
                     <app loc="7">
                         <lem><unclear>ṅa</unclear>balay·</lem>
-                        <note>The first consonant is unclear. If we are to follow HD who reads <foreign xml:lang="x-oldsun-Latn">ṅabalay</foreign>, then this means that at the beginning of line 1, we also need to read <foreign xml:lang="x-oldsun-Latn">ṅa</foreign>. BM contains word <foreign xml:lang="x-oldsun-Latn">ṅabalay</foreign>. </note>
+                        <note>The first consonant is unclear. If we are to follow HD<!-- Arlo: Hasan Djafar? --> who reads <foreign xml:lang="x-oldsun-Latn">ṅabalay</foreign>, then this means that at the beginning of line 1, we also need to read <foreign xml:lang="x-oldsun-Latn">ṅa</foreign>. BM contains the word <foreign xml:lang="x-oldsun-Latn">ṅabalay</foreign>. </note>
                     </app>
-                    <app loc="7–8">
-                       <lem> talaga <supplied reason="undefined" evidence="previousedition">va</supplied>R̥na</lem>
-                        <note>restoration proposed by HD. Cf. <bibl> <ptr target="bib:Pleyte1911_01"/><citedRange>172</citedRange></bibl>, citation from FCP.6a: ti saṁ hyiṁ talaga vaṙna miñak· hanət· sagomboṁ Uyaḥ salave kəlek· lilitan· salave tək·tək· boEḥ putiḥ sakayuḥ hayam· sakurən· “From Talaga Warna: essential oil one gombong, salt 25 kəlek, waist cloth 25 təktək, white cloth one kayuh, chicken one kurən”.</note>
+                    <app loc="7–8"><!-- Arlo: don't use en-dash in XML context, only a normal dash. If all goes well, our conversion system will be smart eniugh to convert dashes to en-dashes where needed. -->
+                       <lem>talaga <supplied reason="undefined" evidence="previousedition">va</supplied>R̥na</lem>
+                        <note>restoration<!-- Arlo: use capital R at start of note --> proposed by HD. Cf. <bibl> <!-- Arlo: Don't insert space between <bibl> and <ptr> --><ptr target="bib:Pleyte1911_01"/><citedRange>172</citedRange></bibl>, citation from FCP.6a: ti saṁ hyiṁ talaga vaṙna miñak· hanət· sagomboṁ Uyaḥ salave kəlek· lilitan· salave tək·tək· boEḥ putiḥ sakayuḥ hayam· sakurən·<!-- Arlo: use <foreign> --> “From Talaga Warna: essential oil one gombong<!-- Arlo: use <foreign> here and in the other foreign words in the English translation. -->, salt 25 kəlek, waist cloth 25 təktək, white cloth one kayuh, chicken one kurən”.</note>
                     </app>
                 </listApp>
-                
             </div>                
            
-           <div type="translation" xml:lang="eng">
-              <p>Om pun. This is the decree/message of his majesty the king of old, inaugurated here with the name Prabu Guru Dewata, (and also) inaugurated here with the name Sri Baduga Maharaja, king of kings in Pakwan Pajajaran, Sri Sang Ratu Dewata, is inaugurated here.</p>  
+           <div type="translation" xml:lang="eng"><!-- Arlo" use @resp, see EG 9.2 and 10.6 -->
+              <p>Om pun.<!-- Arlo: use <foreign> --> This is the decree/message of his majesty the king of old, inaugurated here with the name Prabu Guru Dewata, (and also)<!-- Arlo: see my comment at the end of the translation. --> inaugurated here with the name Sri Baduga Maharaja, king of kings in Pakwan Pajajaran, Sri Sang Ratu Dewata, is inaugurated here.</p>  
                <p>He is the one who demarcates the Pakwan here, (being) the child of Rahyang Dewa Niskala, he one who was released at Gunung Tiga; grandchild of Rahyang Niskala Wastu Kancana, the one who was released to Nusa Larang.</p> 
                <p>He, that one, produced the decree in the shape of a mountain, made hard the ground with stones; he produced fire-wood; he produced the holy Color Lake.</p> 
-               <p>Victorious, was he! In the year: the five Pandawas carry the earth (i.e. in 1255 Śaka).</p>
- 	<!--translation encoded as per EG §9.2 -->
-         </div>
+               <p>Victorious, was he! In the year: the five Pandawas carry the earth (i.e. in 1255 Śaka)<!-- Arlo: follow EG 9.2, esp. section "Special markup in translations" for replacing the (...) in the translations. -->.</p>
+          </div>
          <div type="commentary">
             <!--commentary encoded as per section §9.3 -->
          </div>
         <div type="bibliography">
-	<!--bibliography encoded as per section §9.4 -->
-            
-	<!-- NB: you are encouraged to experiment with encoding bibliography to the extent you have the bibliographic data available, but it is not mandatory at this stage, because our bibliographic data are normally assembled along with other metadata in spreadsheets and will be imported from there into our xml files by a semi-automated process at a later stage. -->
-           <p>First of all this inscription is read by Friederich (<bibl rend="omitname"><ptr target="bib:Friederich1853_01"/><citedRange>442-468</citedRange></bibl>).</p>
-            <p>Then Holle made a series of articles specifically devoted to this inscription (<bibl><ptr target="bib:Holle1869_01"/><citedRange>483-488</citedRange>, <ptr target="bib:Holle1882_01"/><citedRange>90-98</citedRange>, <ptr target="bib:Holle1882_02"/><citedRange>187-189</citedRange></bibl>, following by Pleyte (<bibl rend="omitname"><ptr target="bib:Pleyte1911_01"/><citedRange>155-220</citedRange></bibl>, Poerbatjaraka (<bibl rend="omitname"><ptr target="bib:Poerbatjaraka1919-1921_01"/><citedRange>380-418</citedRange></bibl>), and the most recent study by Hasan Djafar <bibl rend="omitname"><ptr target="bib:HasanDjafar2011_01"/><citedRange>1-13</citedRange></bibl>.</p> 
-            <p>Re-edited here by Aditia Gunawan &amp; Arlo Griffiths from the EFEO estampages.</p> 
-            <p>In this edition, only Hasan Djafar readings are compared.</p>
-           <listBibl type="secondary">
+           <p>The inscription was initially read by Friederich (<bibl rend="omitname"><ptr target="bib:Friederich1853_01"/><citedRange>442-468</citedRange></bibl>). Then Holle dedicated a series of articles specifically devoted to this inscription (<bibl><ptr target="bib:Holle1869_01"/><citedRange>483-488</citedRange>, <ptr target="bib:Holle1882_01"/><citedRange>90-98</citedRange>, <ptr target="bib:Holle1882_02"/><citedRange>187-189</citedRange></bibl>)<!-- Arlo: you need to put a <bibl> around every individual reference, and insert rend="omitname" in to all the <bibl>s here -->. He was followed by Pleyte (<bibl rend="omitname"><ptr target="bib:Pleyte1911_01"/><citedRange>155-220</citedRange></bibl> and Poerbatjaraka (<bibl rend="omitname"><ptr target="bib:Poerbatjaraka1919-1921_01"/><citedRange>380-418</citedRange></bibl>), while the most recent study was that by Hasan Djafar (<bibl rend="omitname"><ptr target="bib:HasanDjafar2011_01"/><citedRange>1-13</citedRange></bibl>).</p> 
+<!-- Arlo: keep the entire "epigraphic lemma" in a single paragraph (see EG 9.4), so don't create a new <p> here. -->            <p>Re-edited here by Aditia Gunawan &amp; Arlo Griffiths from the EFEO estampages.</p> 
+            <p>In this edition, only Hasan Djafar readings are compared.</p><!-- Arlo: same issue. -->
+           <listBibl type="secondary"><!-- Arlo: items already referred to in the epigraphic lemma don't need to be repeated here. -->
                <bibl><ptr target="bib:Friederich1853_01"/></bibl>
                <bibl><ptr target="bib:HasanDjafar2011_01"/></bibl>
                <bibl><ptr target="bib:Holle1869_01"/></bibl> 
@@ -156,7 +161,6 @@
                <bibl><ptr target="bib:Poerbatjaraka1919-1921_01"/></bibl>
            </listBibl>
         </div>
-        
         </body>
     </text>
 </TEI>
