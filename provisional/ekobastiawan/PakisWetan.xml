@@ -5,12 +5,11 @@
     <teiHeader xml:lang="eng">
         <fileDesc>
             <titleStmt>
-                <title>PakisWetan</title><!-- AG: in the <title> we don't need to avoid spaces, so please make it Pakis Wetan -->
+                <title>Pakis Wetan</title>
                 <respStmt>
                     <resp>creation of file</resp>
                     <persName ref="part:ekba">
-                        <forename>Eko</forename><!-- AG: see my comment in Maribong.xml -->
-                        <surname>Bastiawan</surname>
+                        <name>Eko Bastiawan</name>
                     </persName>
                 </respStmt>
                 <respStmt>
@@ -27,7 +26,7 @@
                     </note>
                 </authority>
                 <pubPlace>Malang</pubPlace>
-                <idno type="filename">PakisWetan</idno><!-- AG: here, in <idno type="filename"> we indeed need to enter the filename, and the filename should never contain a space, so PakisWetan is required; remove this comment when you've read it. -->
+                <idno type="filename">PakisWetan</idno>
                 <availability>
                     <licence target="https://creativecommons.org/licenses/by/4.0/">
                         <p>This work is licenced under the Creative Commons Attribution 4.0 Unported Licence. To view a copy of the licence, visit https://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.</p>
@@ -41,6 +40,7 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc>
+                                   <change who="part:argr" when="2020-01-29" status="draft">applied corrections proposed by Arlo Griffiths</change>
         	<change who="part:argr" when="2020-01-28" status="draft">first complete round of revisions</change>
         	<change who="part:ekba" when="2020-01-25" status="draft">applied corrections proposed by Daniel Balogh and Arlo Griffiths</change>
         	<change who="part:ekba" when="2020-01-23" status="draft">initial encoding of the inscription</change>
@@ -52,11 +52,11 @@
 <pb n="1r"/><space quantity="1" unit="page"/><!--Blank outer page.-->
 <p><pb n="1v"/>
 <lb n="1"/>// <g type="symbol" subtype="circle"/> // Om̐ namaś śivāya // svasti śakavarṣātĭta, <num value="1188">1188</num>, māghamāsa, tīthi, trayodaśī śu<lb 
-n="2" break="no"/>klapakṣa, <abbr>vā</abbr>, <abbr>va</abbr>, <abbr>Aṁ</abbr>, vāra, mahatal·, dakṣiṇasthagrahacāra, puṣ<choice><sic>pā</sic><corr>yā</corr></choice><!-- AG: you should put the ā outside of the <choice>, to limit the scope of the emendation only to the consonant, like this: <choice><sic>p</sic><corr>y</corr></choice>ā  -->nakṣatra, jīvadevatā, Ā<lb n="3" 
+n="2" break="no"/>klapakṣa, <abbr>vā</abbr>, <abbr>va</abbr>, <abbr>Aṁ</abbr>, vāra, mahatal·, dakṣiṇasthagrahacāra, puṣ<choice><sic>p</sic><corr>y</corr></choice>ānakṣatra, jīvadevatā, Ā<lb n="3" 
 break="no"/>gneyamaṇḍala, śobhanayauga, baruṇamuhūrtta, Agniparvveśa, tetilakāraṇa, kumbharāśi,</p>
 <p part="I">I<lb 
-n="4" break="no"/>rika divaśany ājñā śrī mahārāja, śrī<!-- AG: I am trying to be consistent in always separating the śrī from the following word if the context is Old Javanese, while in Sanskrit context I would be inclined to join it to the following word; please pay attention to this issue as you encode further files, and remove this comment when you've read it --> laukavijaya, <foreign>praśāstajagadīśvarāninditaparăkramānivā<lb 
-n="5" break="no"/>ryyavĭryyālaṅghanĭya</foreign><!-- AG: apply @xml:lang as indicated in Maribong.xml -->, kr̥tanagaranāmarājābhiṣeka, makamaṅgalyājñā śrī sakalarājāśra<g type="filler">§</g><lb n="6" break="no"/>ya<!-- AG: the preceding śrīsakalarājāśraya, and several other parts of this list of epithets, could also be taken as <foreign>, but let's not do so yet at this time; it is very hard to know where to draw the line -->, <foreign>samast<orig>ā</orig>kṣatriyacūḍāmaṇipatitacaraṇāravinda</foreign>, bhaṭāra jaya śrī viṣṇuvarddhananāmadevā<lb 
+n="4" break="no"/>rika divaśany ājñā śrī mahārāja, śrī laukavijaya, <foreign xml:lang="san-Latn">praśāstajagadīśvarāninditaparăkramānivā<lb 
+n="5" break="no"/>ryyavĭryyālaṅghanĭya</foreign>, kr̥tanagaranāmarājābhiṣeka, makamaṅgalyājñā śrī sakalarājāśra<g type="filler">§</g><lb n="6" break="no"/>ya, <foreign  xml:lang="san-Latn">samast<orig>ā</orig>kṣatriyacūḍāmaṇipatitacaraṇāravinda</foreign>, bhaṭāra jaya śrī viṣṇuvarddhananāmadevā<lb 
 n="7" break="no"/>bhiṣeka, tinaḍaḥ de rakryan mahāmantrī hiṇo, rakryan mahāmantrī sirikan·, rakryan mahāmantrī halu
 <lb n="8"/>, Umisor i para taṇḍa rakryan riṁ pakirakirān· makabehan·, rakryan mapatiḥ, rakryan dəmuṁ, rakrya<lb 
 n="9" break="no"/>n kanuruhan saṁ mantrī nayavid iṅgitajñā, mapasəṅgahan saṁ rāmapati, tan kavuntat· saṁ pamgət i tirvan·
@@ -67,18 +67,18 @@ n="9" break="no"/>n kanuruhan saṁ mantrī nayavid iṅgitajñā, mapasəṅgah
            <!--apparatus encoded as per EG §9.1, basic elements for apparatus below-->
                <listApp><!-- one <app> for each apparatus entry -->
                   <app loc="p1v.3">
-                      <lem>-yauga</lem><!-- AG: don't use - but rather ° to indicate that lemma is a part of word (i.e., that it is a truncated word); see EG p. 94 "adding the character ° at the beginning or end of a lemma to show that the text has been truncated is permitted, but do not use a hyphen (or any other character) for this purpose" -->
-                      <rdg source="bib:Krom1911_04 bib:Damais1955_01 bib:Boechari1985-1985_01">-yoga</rdg><!-- AG: same -->
-                      <note>The vocalization on <term>y</term><!-- AG: use <foreign>, as indicated in Maribong.xml --> here is clearly different from that in <term>trayodaśī</term><!-- AG: sane --> in p1v.1<!-- AG: you don't need to replicate the reference mode prescribed for @loc in such a context; if there were multiple plates, I would recommend "line 1v1"; but since there is only one plate with one inscribed face, you can just write "line 1".  -->.</note>
+                      <lem>°yauga</lem>
+                      <rdg source="bib:Krom1911_04 bib:Damais1955_01 bib:Boechari1985-1985_01">°yoga</rdg>
+                      <note>The vocalization on <foreign>y</foreign> here is clearly different from that in <foreign>trayodaśī</foreign> in line 1.</note>
                       </app>
                    <app loc="p1v.4">
-                      <lem>lauka-</lem><!-- AG: ° instead of - -->
-                      <rdg source="bib:Krom1911_04 bib:Damais1955_01 bib:Boechari1985-1985_01">loka-</rdg><!-- AG: same -->
+                      <lem>lauka°</lem>
+                      <rdg source="bib:Krom1911_04 bib:Damais1955_01 bib:Boechari1985-1985_01">loka°</rdg>
                       </app>
                    <app loc="p1v.6">
-                      <lem source="bib:Krom1911_04">samastākṣatriya-</lem><!-- ° instead of -, and <lem> should be exactly as in edition, see samast<orig>ā</orig>kṣatriya  -->
-                      <rdg source="bib:Damais1955_01 bib:Boechari1985-1985_01">samastākṣakriya-</rdg><!-- ° instead of - -->
-                       <note>Understand samastakṣatriya-<!-- AG: apply <foreign> -->.</note>
+                      <lem source="bib:Krom1911_04">samast<orig>ā</orig>kṣatriya°</lem>
+                      <rdg source="bib:Damais1955_01 bib:Boechari1985-1985_01">samastākṣakriya°</rdg>
+                       <note>Understand <foreign>samastakṣatriya°</foreign>.</note>
                       </app>
                    <app loc="p1v.7">
                       <lem>hiṇo</lem>
@@ -89,8 +89,7 @@ n="9" break="no"/>n kanuruhan saṁ mantrī nayavid iṅgitajñā, mapasəṅgah
                       <rdg source="bib:Krom1911_04 bib:Damais1955_01 bib:Boechari1985-1985_01">Umiṅsor</rdg>
                        </app>
                    <app loc="p1v.9">
-                      <note><term>nayavid iṅgitajña</term><!-- AG: use <foreign> insteaf of <term> -->: cf. KR 11.49 <term>kapīndra sugrīva vəruh riṅ iṅgita</term><!-- AG: same -->; RY 6.9: <term>mahāprajña rikaṅ nayeṅgita</term><!-- AG: same -->. See also Adan-Adan <term>suśīlendikajñasarvvanayānitidakṣa</term><!-- AG: same -->.
-</note>
+                      <note><foreign>nayavid iṅgitajña</foreign>: cf. KR 11.49 <foreign>kapīndra sugrīva vəruh riṅ iṅgita</foreign>; RY 6.9: <foreign>mahāprajña rikaṅ nayeṅgita</foreign>. See also Adan-Adan <foreign>suśīlendikajñasarvvanayānitidakṣa</foreign>.</note>
                    </app>
 	<app loc="p1v.9">
                      <lem>bha</lem>
@@ -100,11 +99,8 @@ n="9" break="no"/>n kanuruhan saṁ mantrī nayavid iṅgitajñā, mapasəṅgah
          </div>
          <div type="translation" xml:lang="eng" resp="part:argr">
  	<!--translation encoded as per EG §9.2 -->
-<p><!-- AG: no need to have any space or return between <p> and the first word of the translation; see what I have done in Maribong.xml -->
-             Om! Homage to Śiva! Hail! In the elapsed Śaka year 1188, month of Māgha, thirteenth <foreign>tithi</foreign> of the waxing fortnight, Vās, Vagai, Tuesday, <supplied reason="explanation"><foreign>wuku</foreign></supplied> Mahatal; <foreign>grahacāra</foreign> in the South; lunar mansion Puṣya; deity Jīva; <foreign>maṇḍala</foreign> in the Southeast; conjunction Śobhana; <foreign>muhūrta</foreign> Varuṇa; regent of the astronomical node Agni; <foreign>karaṇa</foreign> Tetila; zodiac sign Aquarius.<!-- AG: put </p> directly after the end of a paragraph --> 
-</p>
-<p><!-- AG: same as at start of first paragraph. -->
-             That was the time that the instruction of the king — the ‘conqueror of the world’, ‘insurmountable due to his heroism which is inavertible by the indisputable courage of a lauded world-ruler’ — whose royal consecration-name is Śrī <persName>Kr̥tanagara</persName><!-- AG: see my comment on <placeName> in Maribong.xml; please don't encode <persName> at this stage, and certainly not in the translation; remove all cases. -->, under the auspices of an instruction of ‘the refuge of all kings’, ‘whose lotus feet were descended upon by the crest jewels of all noblemen’, the lord whose deity-consecration name was Jaya Śrī <persName>Viṣṇuvardhana</persName>, was received by His Excellency<!-- Arlo to self: maybe revise use of His Excelleny and H.E." --> the great minister of Hino; H.E. the great minister of Sirikan; H.E. the great minister of Halu. It came down to all the high officers <supplied reason="explanation"><foreign>taṇḍa rakryan</foreign></supplied> of the council: H.E. the Counselor; H.E. of Dmuṅ; H.E. of Kanuruhan, the secretary knowledgeable in politics and expert in covert matters, bearing the title Rāmapati. Not left behind were: the Paməgat of Tiruan, the Paməgat of Kaṇḍamuhi, the Paməgat of Maṅhuri. At the desending of the instruction of his majesty the king, which was under the auspices of an instruction of <!-- AG: the reason should be "lost" --><supplied reason="explanation">Lord Jaya Śrī <persName>Viṣṇuvardhana</persName></supplied>
+                                   <p>Om! Homage to Śiva! Hail! In the elapsed Śaka year 1188, month of Māgha, thirteenth <foreign>tithi</foreign> of the waxing fortnight, Vās, Vagai, Tuesday, <supplied reason="explanation"><foreign>wuku</foreign></supplied> Mahatal; <foreign>grahacāra</foreign> in the South; lunar mansion Puṣya; deity Jīva; <foreign>maṇḍala</foreign> in the Southeast; conjunction Śobhana; <foreign>muhūrta</foreign> Varuṇa; regent of the astronomical node Agni; <foreign>karaṇa</foreign> Tetila; zodiac sign Aquarius. </p>
+                                <p>That was the time that the instruction of the king — the ‘conqueror of the world’, ‘insurmountable due to his heroism which is inavertible by the indisputable courage of a lauded world-ruler’ — whose royal consecration-name is Śrī Kr̥tanagara, under the auspices of an instruction of ‘the refuge of all kings’, ‘whose lotus feet were descended upon by the crest jewels of all noblemen’, the lord whose deity-consecration name was Jaya Śrī Viṣṇuvardhana, was received by His Excellency<!-- Arlo to self: maybe revise use of His Excelleny and H.E." --> the great minister of Hino; H.E. the great minister of Sirikan; H.E. the great minister of Halu. It came down to all the high officers <supplied reason="explanation"><foreign>taṇḍa rakryan</foreign></supplied> of the council: H.E. the Counselor; H.E. of Dmuṅ; H.E. of Kanuruhan, the secretary knowledgeable in politics and expert in covert matters, bearing the title Rāmapati. Not left behind were: the Paməgat of Tiruan, the Paməgat of Kaṇḍamuhi, the Paməgat of Maṅhuri. At the desending of the instruction of his majesty the king, which was under the auspices of an instruction of <supplied reason="lost">Lord Jaya Śrī Viṣṇuvardhana</supplied>
 </p>
          </div>
          <div type="commentary">
@@ -112,7 +108,7 @@ n="9" break="no"/>n kanuruhan saṁ mantrī nayavid iṅgitajñā, mapasəṅgah
          </div>
         <div type="bibliography">
 	<!--bibliography encoded as per section §9.4 -->
-            <p>First edited by Krom in (<bibl rend="omitname"><ptr target="bib:krom1911_04"/><citedRange unit="appendix">61</citedRange><citedRange unit="page" >117-123</citedRange></bibl>)<!-- AG: now that the manner of reference to this article has been changedm please remove the word "in" before the "(...)" and don't use any <citedRange> if the information just repeats what is already in the Zotero entry; please always try to understand what the dispaly will be of a given string of xml code, and make sure it yields a proper English sentence; having "... in (...)" is never possible in any language -->; re-edited by Damais (<bibl rend="omitname"><ptr target="bib:Damais1955_01"/><citedRange unit="page">78</citedRange><citedRange unit="item">A.172</citedRange></bibl>); edited again by Boechari (<bibl rend="omitname"><ptr target="bib:Boechari1985-1986_01"/><citedRange unit="page">109-110</citedRange><citedRange unit="item">E.47</citedRange></bibl>); re-edited here by Arlo Griffiths from a Photo of OD 2155 and estampage in Kern Institute collection, Leiden University Library.</p>
+            <p>First edited by Krom (<bibl rend="omitname"><ptr target="bib:krom1911_04"/><citedRange unit="appendix">61</citedRange><citedRange unit="page" >117-123</citedRange></bibl>); re-edited by Damais (<bibl rend="omitname"><ptr target="bib:Damais1955_01"/><citedRange unit="page">78</citedRange><citedRange unit="item">A.172</citedRange></bibl>); edited again by Boechari (<bibl rend="omitname"><ptr target="bib:Boechari1985-1986_01"/><citedRange unit="page">109-110</citedRange><citedRange unit="item">E.47</citedRange></bibl>); re-edited here by Arlo Griffiths from a Photo of OD 2155 and estampage in Kern Institute collection, Leiden University Library.</p>
              <listBibl type="secondary">
                  <bibl><ptr target="bib:NBG"/><date>1911</date><citedRange unit="volume">49</citedRange><citedRange unit="page">121</citedRange></bibl>
                  <bibl><ptr target="bib:NBG"/><date>1912</date><citedRange unit="volume">50</citedRange><citedRange unit="page">77</citedRange></bibl>
