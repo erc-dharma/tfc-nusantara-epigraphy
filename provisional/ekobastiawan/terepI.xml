@@ -5,13 +5,18 @@
     <teiHeader xml:lang="eng">
         <fileDesc>
             <titleStmt>
-                <title>Terep I</title><!--Change the title of the file, e.g. Raktamālā grant of the time of Budhagupta, year 159-->
-                <respStmt><!-- add an element respStmt for each person involved -->
-                    <resp>intellectual authorship of edition</resp><!-- this may be the same as the creator of the file -->
-                    <persName ref="part:ekba"><!-- update the id -->
-                        <persName>
-                            <name>Eko Bastiawan</name>
-                        </persName>
+                <title>Terep I</title>
+                <respStmt>
+                    <resp>creation of file</resp>
+                    <persName ref="part:ekba">
+                        <name>Eko Bastiawan</name>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>intellectual authorship of edition</resp>
+                    <persName ref="part:argr">
+                        <forename>Arlo</forename>
+                        <surname>Griffiths</surname>
                     </persName>
                 </respStmt>
             </titleStmt>         
@@ -20,12 +25,12 @@
                     <note>This project has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).
                     </note>
                 </authority>
-                <pubPlace><!-- fill in here the place or places where the encoding has been done --></pubPlace>
-                <idno type="filename">DHARMA_EncodingTemplateInscription</idno><!-- Replace by filename, e.g. Pallava00001 -->
+                <pubPlace>Malang</pubPlace>
+                <idno type="TerepI">DHARMA_EncodingTemplateInscription</idno>
                 <availability>
                     <licence target="https://creativecommons.org/licenses/by/4.0/">
                         <p>This work is licenced under the Creative Commons Attribution 4.0 Unported Licence. To view a copy of the licence, visit https://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.</p>
-                        <p>Copyright (c) 2019-2025 by Eko Bastiawan.</p><!-- Replace year and name, use format "Forename1 Surname1 & Forename2 Surname2" or "Forename1 Surname1, Forename2 Surname2 & Forename3 Surname3"  if necessary — the copyright is that of the encoder(s) -->
+                        <p>Copyright (c) 2019-2025 by Eko Bastiawan &amp; Arlo Griffiths.</p>
                     </licence>
                 </availability>
                 <date from="2019" to="2025">2019-2025</date>
@@ -35,47 +40,54 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc>
-            <change who="part:axja" when="2020-01-09" status="draft">Update the template</change><!-- add a <change> for each change to the file, the first change should replace this one and record your creation of a file using this template. -->
+            <change who="part:ekba" when="2020-01-30" status="draft">Revised the initial encoding</change>
+            <change who="part:axja" when="2020-01-09" status="draft">Update the template</change>
         </revisionDesc>
     </teiHeader> 
     <text xml:space="preserve">
         <body>
-            <div type="edition" xml:lang="oj">
-                                <ab>
-                    <pb n="1r"/>
-<lb n="1"/>//<g type=" type">,, 0 ,,</g>// svasti śakavarṣātīta<g type="punctuation">,</g> <num value="954">954</num><g type="punctuation">,</g> kărttikamāsa<g type="punctuation">,</g> tithi pañcadaśi śuklapakṣa<g type="punctuation">,</g> <expan><abbr>vā</abbr><ex>s</ex></expan><g type="punctuation">,</g> <expan><abbr>U</abbr><ex>manis</ex></expan><g type="punctuation">,</g> <expan><abbr>śa</abbr><ex>niscara</ex></expan><g type="punctuation">,</g> vāra tolu<g type="punctuation">,</g>
- <lb n="2" />bharaṇīnakṣatra<g type="punctuation">,</g> siddhayoga<g type="punctuation">,</g> valavakāraṇa<g type="punctuation">,</g> prajāpatidevatā<g type="punctuation">,</g> Agneyamaṇḍala<g type="punctuation">,</g> mr̥cchikarāśi <unclear>la</unclear>
- <lb n="3" break="no"/>gna śvetamuhŭrtta<g type="punctuation">,</g> Irika divaśanyājñā śrī mahārāja rake halu śrī lokeśvara dharmmavaṅśa Airlaṅgāna
- <lb n="4" break="no"/>ntavikramottuṅgadeva<g type="punctuation">,</g> miṁsor· I rakryān· kanuruhan· mpu dharmmamūrtti narottama dānaśūra<g type="punctuation">,</g> kumo-
-                    <pb n="2r"/>
-<lb n="5"/>nakan ikaṁ patapān· ri tr̥p· lmaḥ kambaṁ śrī thāni vatək· paṅkaja<g type="punctuation">,</g> padamlan· saṁ <unclear>hya</unclear> °ājñā haji praśāsti tinaṇḍa garuḍa
- <lb n="6" break="no"/>muka<g type="punctuation">,</g> sambandha rake paṅkaja dyaḥ tumamboṁ mapañji tumaṅgala<g type="punctuation">,</g> sirănambaḥ I pāduka śrī mahārāja<g type="punctuation">,</g> majar an hana ma
- <lb n="7" break="no"/>tapan aṅaran i tr̥p·<g type="punctuation">,</g> paraniran palaradan·<g type="punctuation">,</g> ri kăla śrī mahārāja katalaya<g type="punctuation">,</g> saṅke vvatan mās· mara I patakan·
-<lb n="8"/>hana <unclear>ta</unclear> sira bhaṭā<unclear>rī</unclear> Arc<unclear>ch</unclear>arūpa<g type="punctuation">,</g>kapaṅgiḥ Irikaṁ patapān i tr̥p·<g type="punctuation">,</g> ṅkāna ta rakva rake paṅkaja dyaḥ tumamboṁ<g type="punctuation">,</g> ma
-                     <pb n="2v"/>
-<lb n="9"/>prāthāna ri jayaśatru śrī mahārāja riṁ samara<g type="punctuation">,</g> sampun· pva pratisubaddha paluṅguḥ śrī mahārāja riṁ ratnasiṅhā
-<lb n="10" break="no"/>sana<g type="punctuation">,</g>mvaṁ sampun· karahatan· musuḥnira riṁ samara<g type="punctuation">,</g> tke balasāhayanya<g type="punctuation">,</g> Ika ta nimitta rake paṅkaja dyaḥ tu
-<lb n="11" break="no"/>mamboṁ<g type="punctuation">,</g> sumambaḥ pāduka śrī mahārāja <unclear>t</unclear>umuhvakna pratijñānira ri bhaṭārī ri tr̥p·<g type="punctuation">,</g> ri svatantranikaṁ patapan·
-<lb n="12"/>I tr̥p· sthāna bhaṭārī<g type="punctuation">,</g> svabhāva śrī mahārāja pva tan aṅgā tan· paṅanugrahana Irikaṁ sanimittani pag=hani keśva
-                      <pb n="3r"/>              
-<lb n="13" break="no"/>ryyanira<g type="punctuation">,</g> sakavvaṅanikaṁ vvaṁ<g type="punctuation">,</g> kimuta pva rake paṅkaja dyaḥ tumamboṁ<g type="punctuation">,</g> săkṣāt anuja śrī mahārāja<g type="punctuation">,</g> kāraṇani
- <lb n="14" break="no"/>rān ubhaya ri panambaḥ dyaḥ tumamboṁ<g type="punctuation">,</g> ri svatantranikaṁ patapān· sthāna bhaṭāri<g type="punctuation">,</g> tke lvaḥnya<g type="punctuation">,</g> kubvannya<g type="punctuation">,</g> savaḥnya<g type="punctuation">,</g>
-<lb n="15"/>saprakăra<g type="punctuation">,</g> Atəhər· maṅanugrahakən· vasthā halu I dyaḥ tumamboṁ<g type="punctuation">,</g> matanyan· halu rake paṅkaja dyaḥ tu
- <lb n="16" break="no"/>mamboṁ<g type="punctuation">,</g> tuhun uṅgvaniṁ savaḥ bhaṭārī<g type="punctuation">,</g> lor·niṁ patapān· mvaṁ vetan·niṁ patapān·<g type="punctuation">,</g> tampaḥ <num value="1">1</num><g type="punctuation">,</g> samudaya<g type="punctuation">,</g> ha-
-                          <pb n="3v"/>             
-<lb n="17"/>na ta <unclear>savaḥ pamūjā</unclear> rake halu dyaḥ tumamboṁ I bhaṭārī tampaḥ <num value="1">1</num><g type="punctuation">,</g> ṅaranya r<unclear>ī</unclear> vuntalan·<g type="punctuation">,</g> mvaṁ kubvan· <unclear>pa</unclear>pucaṅan·
-<lb n="18"/>kidul·niṁ havan a<unclear>ṅavetan iṁ babad hāmpu</unclear> mataṁnyan āpiṇḍa tampaḥ <num value="2">2</num><g type="punctuation">,</g> savaḥ bhaṭārī ya tika pūjākna ri bhatā
-<lb n="19" break="no"/>ri Aṅkən· <unclear>vaṅi vehən· sopācara salvirniṁ kapū</unclear>jan· saṁ prabhu °āpān· pinratiṣṭa Ibv akalihan āṅgə:ḥ
-<lb n="20"/>bhaṭārī de śrī mahārāja<g type="punctuation">,</g> mvaṁ rake halu dyaḥ tumamboṁ<g type="punctuation">,</g> mataṁnyan· tan <unclear>pā</unclear>ṅipikipika tekaṁ kəmbaṁ śrī ri-
-                </ab>
-            </div>
+            <div type="edition" xml:lang="kaw-Latn">
+                <pb n="1r"/><space quantity="1" unit="page"/><!--Blank outer page.-->
+<p><pb n="1v"/>
+<lb n="1"/>// ,,<g type="symbol" subtype="circle"/> ,, <!-- Does this symbol  ,, represents double daṇḍa and therefore should be encoded wit || ?  --> // svasti śakavarṣātīta, <num value="954">954</num>, kărttikamāsa, tithi pañcadaśi śuklapakṣa, <abbr>vā</abbr>, <abbr>U</abbr>, <abbr>śa</abbr>, vāra tolu,
+<lb n="2"/>bharaṇīnakṣatra, siddhayoga, valavakāraṇa, prajāpatidevatā, Agneyamaṇḍala, mr̥cchikarāśi <unclear>la</unclear><lb n="3" break="no"/>gna śvetamuhŭrtta, </p>
+ <p> Irika divaśanyājñā śrī mahārāja rake halu śrī lokeśvara dharmmavaṅśa Airlaṅgāna<lb n="4" break="no"/>ntavikramottuṅgadeva, miṁsor· I rakryān· kanuruhan· mpu dharmmamūrtti narottama dānaśūra, kumo<pb n="2r" break="no"/>
+<lb n="1" break="no"/>nakan ikaṁ patapān· ri tr̥p· lmaḥ kambaṁ śrī thāni vatək· paṅkaja, padamlan· saṁ hya<supplied reason="omitted">ṁ</supplied> Ājñā haji praśāsti tinaṇḍa garuḍa<lb n="2" break="no"/>muka,</p>              
+<p>sambandha rake paṅkaja dyaḥ tumamboṁ mapañji tumaṅgala, sirănambaḥ I pāduka śrī mahārāja, majar an hana <choice><sic>ma</sic><corr>pa</corr></choice><lb n="3" break="no"/>tapan aṅaran i tr̥p·, paraniran palaradan·, ri kăla śrī mahārāja katalaya<supplied reason="omitted">ḥ</supplied>, saṅke vvatan mās· mara I patakan·
+<lb n="4"/>hana <unclear>ta</unclear> sira bhaṭā<unclear>rī</unclear> Arc<unclear>ch</unclear>arūpa, kapaṅgiḥ Irikaṁ patapān i tr̥p·, ṅkāna ta rakva rake paṅkaja dyaḥ tumamboṁ, ma<pb n="2v" break="no"/>
+<fw n="2v" place="right"><num value="2">2</num></fw>
+<lb n="1" break="no"/>prā<supplied reason="omitted">r</supplied>th<choice><orig>ā</orig><reg>a</reg></choice>na ri jayaśa<orig>tru</orig> śrī mahārāja riṁ samara, sampun· pva pratisubaddha paluṅguḥ śrī mahārāja riṁ ratnasiṅhā<lb n="2" break="no"/>sana, mvaṁ sampun· karahatan· musuḥnira riṁ samara, tke balasāhayanya, Ika ta nimitta rake paṅkaja dyaḥ tu<lb n="3" break="no"/>mamboṁ, sumambaḥ pāduka śrī mahārāja <unclear>t</unclear>umuhvakna pratijñānira ri bhaṭārī ri tr̥p·, ri svatantranikaṁ patapan·
+<lb n="4"/>I tr̥p· sthāna bhaṭārī, svabhāva śrī mahārāja pva tan aṅgā tan· paṅanugrahana Irikaṁ sanimittani pag=hani keśva<pb n="3r" break="no"/>
+<lb n="1" break="no"/>ryyanira, sakavvaṅanikaṁ vvaṁ, kimuta pva rake paṅkaja dyaḥ tumamboṁ, săkṣāt anuja śrī mahārāja, kāraṇani<lb n="2" break="no"/>rān ubhaya ri panambaḥ dyaḥ tumamboṁ, ri svatantranikaṁ patapān· sthāna bhaṭāri, tke lvaḥnya, kubvannya, savaḥnya,
+<lb n="3"/>saprakăra, Atəhər· maṅanugrahakən· vasthā halu I dyaḥ tumamboṁ, mata<supplied reason="omitted">ṁ</supplied>nyan· halu rake paṅkaja dyaḥ tu<lb n="4" break="no"/>mamboṁ, </p>
+ <p part="I">tuhun uṅgvaniṁ savaḥ bhaṭārī, lor·niṁ patapān· mvaṁ vetan·niṁ patapān·, tampaḥ <num value="1">1</num>, samudaya, ha<pb n="3v" break="no"/>
+<fw n="3v" place="right"><num value="3">3</num></fw>
+<lb n="1" break="no"/>na ta <unclear>savaḥ pamūjā</unclear> rake halu dyaḥ tumamboṁ I bhaṭārī tampaḥ <num value="1">1</num>, ṅaranya r<unclear>ī</unclear> vuntalan·, mvaṁ kubvan· <unclear>pa</unclear>pucaṅan·
+<lb n="2"/>kidul·niṁ havan a<unclear>ṅavetan iṁ babad hāmpu</unclear> mataṁnyan āpiṇḍa tampaḥ <num value="1">2</num>, savaḥ bhaṭārī ya tika pūjākna ri bhatā<lb n="3" break="no"/>ri Aṅkən· <unclear>vaṅi vehən· sopācara salvirniṁ kapū</unclear>jan· saṁ prabhu Āpān· pinratiṣṭa Ibv akalihan āṅgə:ḥ
+<lb n="4"/>bhaṭārī de śrī mahārāja, mvaṁ rake halu dyaḥ tumamboṁ, mataṁnyan· tan <unclear>pā</unclear>ṅipikipika tekaṁ kəmbaṁ śrī ri</p>
+                            </div>
             <div type="apparatus">
-                <!--apparatus encoded as per EG §9.1, basic elements for apparatus below-->
-                <listApp><!-- one <app> for each apparatus entry -->
-                    <app loc="line"><!-- Update the value of @loc.-->
-                        <lem><!-- fill in a lemma here --></lem>
-                        <rdg source="bib:AuthorYear_01"><!-- update the @source value, fill in variant reading here --></rdg>
-                    </app>
+                <listApp>
+                    <app loc="p2v.3">
+                      <lem>pratijñānira</lem>
+                      <rdg source="bib:Boechari1985-1985_01 bib:NinnySusantiTejowasono2003_01">pratijñā nira</rdg>
+                      </app>
+                    <app loc="p3r.3">
+                      <note><foreign>halu rake paṅkaja</foreign>: emend <foreign>rake halu</foreign>? See 3v1</note>
+                      </app>
+                    <app loc="p3v.1">
+                      <note><foreign>kubvan· papucaṅan</foreign>: or <foreign>kubvan·, pucaṅan·</foreign>? Unlikely, because in Kamalagyan, line 4, we read <foreign>kbvan pasərəhan</foreign></note>
+                      </app>
+                    <app loc="p3v.3">
+                      <lem>āṅgə:ḥ</lem>
+                      <rdg source="bib:Boechari1985-1985_01">āṅgāḥ</rdg>
+                       <rdg source="bib:NinnySusantiTejowasono2003_01">āṅgaḥ</rdg>
+                        <note>with n. 11 “Sesuai dengan isi prasasti, alih aksara yang benar adalah <foreign>ibwakalihanāṅgoḥ</foreign>.” Emend <foreign>kāṅgə:ḥ</foreign>?
+</note>
+                      </app>
+                    <app loc="p3v.4">
+                      <note><foreign>tan pāṅipikipika</foreign>: or read <foreign>tan haṅipikipika</foreign>?</note>
+                      </app>
                 </listApp>         
             </div>
             <div type="translation" xml:lang="eng">
