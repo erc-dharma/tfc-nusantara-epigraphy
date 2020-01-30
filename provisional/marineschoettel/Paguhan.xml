@@ -8,21 +8,15 @@
                 <title>Paguhan</title>
                 <respStmt>
                     <resp>creation of file</resp>
+                    <resp>intellectual authorship of edition</resp>
                     <persName ref="part:masc">
                         <forename>Marine</forename>
                         <surname>Schoettel</surname>
                     </persName>
-                </respStmt>
-                <respStmt>
-                	<resp>intellectual authorship of edition</resp><!-- Arlo: another, slightly less space-consuminy, way to encode the same is to copy the <resp> line above, to stand below the line <resp>creation of file</resp>, and then remove the second mention of your names. In other words, assign all <resp>s per person, rather than persons per <resp>. -->
                     <persName ref="part:argr">
                         <forename>Arlo</forename>
                         <surname>Griffiths</surname>
-                    </persName>
-                    <persName ref="part:masc">
-                        <forename>Marine</forename>
-                        <surname>Schoettel</surname>
-                    </persName>
+                    </persName><!--Marine: @Arlo, is that what you suggested to do?-->
                 </respStmt>
             </titleStmt>
             <publicationStmt>
@@ -39,7 +33,7 @@
                             https://creativecommons.org/licenses/by/4.0/ or send a letter to
                             Creative Commons, 444 Castro Street, Suite 900, Mountain View,
                             California, 94041, USA.</p>
-                        <p>Copyright (c) 2019-2025 by Arlo Griffiths &amp; Marine Schoettel</p><!-- Arlo: since you did more of the work, we could abandon alphanetical order here and put your name first. -->
+                        <p>Copyright (c) 2019-2025 by Marine Schoettel &amp; Arlo Griffiths</p>
                     </licence>
                 </availability>
                 <date from="2019" to="2025">2019-2025</date>
@@ -49,6 +43,8 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc>
+            <change who="part:masc" when="2020-01-30" status="draft">corrections following AG's
+                suggestions and initial encoding of translation and bibliography</change>
             <change who="part:argr" when="2020-01-29" status="draft">first revision</change>
             <change who="part:masc" when="2020-01-29" status="draft">initial encoding of the inscription, div edition</change>
         </revisionDesc>
@@ -62,7 +58,8 @@
   <fw n="1r" place="left"><num value="1">1</num></fw><!-- Arlo: apply @rend="tb-rotated" as per EG 7.4-->
 <lb n="1"/>// śvasti sakavarsatita // I śaka // <num value="1338">133<unclear>8</unclear></num> //
 </p>
-<p><lb n="2"/>sama<unclear>ṁ</unclear>kana divasani L̥bu talampakanira ri talo<lb n="3" break="no"/><!-- Arlo: you can keep line-by-line presentation if you insert a hard return at the point marked by ! in <lb !n="3" break="no"/> -->nan·, hanimbal· varukira baṭāra ri paguhan·, sa<unclear>ṁ</unclear> li<pb n="2r"/><!-- AG: add break="no" after EG, p. 36 "when a pagelike partition interrupts a word, this fact must be encoded redundantly" -->
+<p><lb n="2"/>sama<unclear>ṁ</unclear>kana divasani L̥bu talampakanira ri talo<lb 
+    n="3" break="no"/>nan·, hanimbal· varukira baṭāra ri paguhan·, sa<unclear>ṁ</unclear> li<pb n="2r"/><!-- AG: add break="no" after EG, p. 36 "when a pagelike partition interrupts a word, this fact must be encoded redundantly" -->
     <fw n="2r" place="left"><!-- Arlo: why are you encoding <fw> here? I don't see any page number on 2r...  -->
     <num value="1">2</num>
   </fw>
