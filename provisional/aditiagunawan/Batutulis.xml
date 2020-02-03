@@ -29,7 +29,7 @@
                     </note>
                 </authority>
                 <pubPlace>Paris</pubPlace>
-                <idno type="filename">DHARMA_BatuTulis</idno><!-- Arlo: Replace by BatuTulis and change t to T also in the file name itself -->
+                <idno type="filename">DHARMA_BatuTulis</idno>
                 <availability>
                     <licence target="https://creativecommons.org/licenses/by/4.0/">
                         <p>This work is licenced under the Creative Commons Attribution 4.0 Unported Licence. To view a copy of the licence, visit https://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.</p>
@@ -82,7 +82,7 @@
                     <app loc="2">
                        	<lem>p<choice><sic>ra</sic><corr>u</corr></choice>n·</lem>
 		<rdg source="HasanDjafar2011_01">prana</rdg>
-		<note>Hasan Djafars reading seems impossible to us, for there is unmistakably a sign between the <foreign>n</foreign> and the following <foreign>ḍi</foreign>, and this sign can only be a paten or punctuation. We feel compelled to emend because no word <foreign>pran</foreign> seems to exist in Sundanese or Javanese.</note>
+		<note>Hasan Djafar's reading seems impossible to us, for there is unmistakably a sign between the <foreign>n</foreign> and the following <foreign>ḍi</foreign>, and this sign can only be a <foreign>paten</foreign> or punctuation. We feel compelled to emend because no word <foreign>pran</foreign> seems to exist in Sundanese or Javanese.</note>
                     </app>
                     <app loc="2">
                                     <lem>ḍyə ḍiṅaran·</lem>
@@ -125,7 +125,7 @@
                     </app>
                     <app loc="6">
                                     <lem>nusa laraṁ</lem>
-                                    <note>This place is mentioned in CP21v: <foreign>Aya na səvə prəbu vaṁṅi ṅaran·na Iñana prəbu nis·kala vas·tu kañcana nu surup· di nusa §§ laraṁ</foreign> “There is a king’s son, his name is fragrant, he is Prebu Niskala Wastu Kancana who has been burried in the Nusa Larang”.</note>
+                                    <note>This place is mentioned in CP.21v: <foreign>Aya na səvə prəbu vaṁṅi ṅaran·na Iñana prəbu nis·kala vas·tu kañcana nu surup· di nusa §§ laraṁ</foreign> “There is a king’s son, his name is fragrant, he is Prebu Niskala Wastu Kancana who has been burried in the Nusa Larang”.</note>
                     </app>
                     <app loc="7">
                                     <lem><unclear>ṅa</unclear>balay·</lem>
