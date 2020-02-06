@@ -40,6 +40,7 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc>
+                                   <change who="part:ekba" when="2020-02-07" status="draft">Revised the bibliography proposed by Arlo Griffiths</change>
                                    <change who="part:ekba" when="2020-01-29" status="draft">applied corrections proposed by Arlo Griffiths</change>
         	<change who="part:argr" when="2020-01-28" status="draft">third revision</change>
         	<change who="part:ekba" when="2020-01-24" status="draft">applied corrections for the translation proposed by Daniel Balogh</change>
@@ -85,9 +86,9 @@
          </div>
         <div type="bibliography">
 	<!--bibliography encoded as per section §9.4 -->
-            <p>First edited, probably by F.D.K. Bosch, in <bibl><ptr target="bib:OV"/> <date>1918</date> <citedRange unit="appendix">Q</citedRange><citedRange unit="page">169</citedRange></bibl>; re-edited by Damais (<bibl rend="omitname"><ptr target="bib:Damais1955_01"/><citedRange unit="page">197-199</citedRange><citedRange unit="item">A.171</citedRange></bibl>); edited again by Boechari (<bibl rend="omitname"><ptr target="bib:Boechari1985-1986_01"/><citedRange unit="page">170</citedRange><citedRange unit="item">E.55</citedRange></bibl>); re-edited here by Arlo Griffiths from a photo of the rubbing kept in Leiden.</p>
+            <p>First edited, probably by F.D.K. Bosch, in <bibl><ptr target="bib:OV"/> <date>1918</date> <citedRange unit="appendix">Q</citedRange><citedRange unit="page">169</citedRange></bibl>; re-edited by Damais (<bibl rend="omitname"><ptr target="bib:Damais1955_01"/><citedRange unit="page">197-199</citedRange><citedRange unit="item">A. 171</citedRange></bibl>); edited again by Boechari (<bibl rend="omitname"><ptr target="bib:Boechari1985-1986_01"/><citedRange unit="page">170</citedRange><citedRange unit="item">E. 55</citedRange></bibl>); re-edited here by Arlo Griffiths from a photo of the rubbing kept in Leiden.</p>
              <listBibl type="secondary">
-             <bibl><ptr target="bib:Damais1952_01"/><citedRange>72-73</citedRange></bibl>
+             <bibl><ptr target="bib:Damais1952_01"/><citedRange>72-73</citedRange><citedRange unit="item">A. 171</citedRange></bibl>
              <bibl><ptr target="bib:NurhadiMagetsari+al1979_01"/><citedRange>161</citedRange></bibl>
              <bibl><ptr target="bib:Eade+Gislen2000_01"/><citedRange>97-99</citedRange></bibl>
            </listBibl>
