@@ -46,6 +46,12 @@
 | rasa               | substance                            |
 | lāñchana           | emblem                               |
 
+## Weights, measures, currency units
+| Old Javanese term                    | English translation                                        |
+|--------------------------------------|------------------------------------------------------------|
+| ḍpa                              | fathom                                                  |
+| su(varṇa)                              | guilder                                                  |
+
 ## Recipients
 | Old Javanese term                    | English translation                                        |
 |--------------------------------------|------------------------------------------------------------|
