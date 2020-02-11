@@ -40,6 +40,7 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc>
+                                    <change who="part:ekba" when="2020-02-07" status="draft">Revised the bibliography  proposed by Arlo Griffiths</change>
                                    <change who="part:ekba" when="2020-01-29" status="draft">applied corrections proposed by Arlo Griffiths</change>
         	<change who="part:argr" when="2020-01-28" status="draft">first complete round of revisions</change>
         	<change who="part:ekba" when="2020-01-25" status="draft">applied corrections proposed by Daniel Balogh and Arlo Griffiths</change>
@@ -112,7 +113,8 @@ n="9" break="no"/>n kanuruhan saṁ mantrī nayavid iṅgitajñā, mapasəṅgah
              <listBibl type="secondary">
                  <bibl><ptr target="bib:NBG"/><date>1911</date><citedRange unit="volume">49</citedRange><citedRange unit="page">121</citedRange></bibl>
                  <bibl><ptr target="bib:NBG"/><date>1912</date><citedRange unit="volume">50</citedRange><citedRange unit="page">77</citedRange></bibl>
-                 <bibl><ptr target="bib:Damais1952_01"/><citedRange>72-73</citedRange></bibl>
+                 <bibl ><ptr target="bib:Damais1952_01"/><citedRange unit="page">72-73</citedRange><citedRange unit="item">A.172</citedRange></bibl>
+                 <bibl ><ptr target="bib:Damais1962_02"/><citedRange unit="page">414</citedRange><citedRange  unit="note">4</citedRange></bibl><!-- Is this the correct way to cite note? -->
                  <bibl><ptr target="bib:MuhammadYamin1962_01"/><citedRange >173-175</citedRange></bibl><!-- still needs to be verified -->
                 <bibl><ptr target="bib:NurhadiMagetsari+al1979_01"/><citedRange>183</citedRange></bibl>
                 <bibl><ptr target="bib:Eade+Gislen2000_01"/><citedRange>99-100</citedRange></bibl>

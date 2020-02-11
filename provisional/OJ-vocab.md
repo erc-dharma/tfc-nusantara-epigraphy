@@ -52,6 +52,12 @@
 | ḍpa                              | fathom                                                  |
 | su(varṇa)                              | guilder                                                  |
 
+## Land boundaries
+| Old Javanese term                    | English translation                                        |
+|--------------------------------------|------------------------------------------------------------|
+| sapakliran lavan                  | along with, following                                       |
+| lor/kidul/vetan/kulon amǝnǝr       | straight N/S/E/W                                     |
+
 ## Recipients
 | Old Javanese term                    | English translation                                        |
 |--------------------------------------|------------------------------------------------------------|
