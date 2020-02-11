@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="eng">
+      <fileDesc>
+         <titleStmt>
+            <title>Wurare</title>
+            <respStmt>
+               	<resp>creation of file</resp>
+            	<resp>intellectual authorship of edition</resp>
+               <persName ref="part:argr"><!-- update the id -->
+                  <forename>Arlo</forename>
+                  <surname>Griffiths</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>         
+         <publicationStmt>
+            <authority>DHARMA
+               <note>This project has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</note>
+            </authority>
+            <pubPlace>Lyon</pubPlace>
+            <idno type="filename">Wurare</idno>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/">
+                  <p>This work is licenced under the Creative Commons Attribution 4.0 Unported Licence. To view a copy of the licence, visit https://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.</p>
+               	<p>Copyright (c) 2019-2025 by Arlo Griffiths.</p>
+               </licence>
+            </availability>
+            <date from="2019" to="2025">2019-2025</date>
+         </publicationStmt>
+         <sourceDesc>
+            <p><!-- not to be filled in at this stage --></p>
+         </sourceDesc>
+      </fileDesc>
+     <revisionDesc>
+        <change who="part:argr" when="2020-02-05" status="draft">initial encoding of the file</change>
+     </revisionDesc>
+  </teiHeader>
+  <text xml:space="preserve">
+      <body>
+         <div type="edition" xml:lang="san-Latn">
+            <!--edition encoded as per EG §§2−7-->
+         	<lg n="1" met="anuṣṭubh">
+		<l n="1"><milestone unit="column" n="A"/><lb n="1"/>// Ādau namāmi sarba-jñaṁ,</l> 
+		<l n="2">jñāna-kāyan tathāgataṁ,</l>
+		<l n="3">sarvva-skandhātiguhya-sthaṁ,</l>
+		<l n="4">sad-asat-pakṣa-varjjitaṁ, <num value="1">1</num>, //</l>
+	</lg>
+         	<lg n="2" met="anuṣṭubh">
+		<l n="1"><lb n="2"/>// Anv atas sarvva-siddhim vā,</l> 
+		<l n="2">vande ’haṅ gauravāt sadā,</l>
+		<l n="3">śaka-kālam idaṁ vakṣye,</l>
+		<l n="4">rāja-kīrtti-prakāśanaṁ, <num value="2">2</num>, //</l>
+	</lg>
+        	<lg n="3" met="anuṣṭubh">
+		<l n="1"><lb n="3"/>// <choice><sic>yo</sic><corr>yaḥ</corr></choice> purā paṇḍitaś śreṣ<choice><orig>ṭ</orig><reg>ṭh</reg></choice>a,</l>
+		<l n="2">Āryyo bharāḍa-saṁjñakaḥ,</l>
+		<l n="3" enjamb="yes">jñāna-siddhiṁ samāgamyā,</l>
+		<l n="4">bhijñālābho munīśva<space type="defect" quantity="1" unit="character"/>raḥ, <num value="3">3</num>, //</l>
+	</lg>
+       	<lg n="4" met="anuṣṭubh">
+		<l n="1"><milestone unit="column" n="B"/><lb n="4"/>// mahā-yogīśvaro dhīraḥ,</l> 
+		<l n="2">satveṣu karuṇātmakaḥ,</l>
+		<l n="3">siddhācāryyo mahā-vīro,</l>
+		<l n="4">rāgādi-kleśa-varjjitaḥ, <num value="4">4</num> , //</l>
+	</lg>
+       	<lg n="5" met="anuṣṭubh">
+		<l n="1"><lb n="5"/>// ratnākara-pramāṇān tu,</l> 
+		<l n="2">dvaidhī-kr̥tya yavāvanīṁ,</l>
+		<l n="3" enjamb="yes">kṣiti-bhedana-sāmarthya,</l>
+		<l n="4">kumbha-bajrodakena vai, <num value="5">5</num><!-- no comma written here — should I supply one? --> //</l>
+	</lg>
+       	<lg n="6" met="anuṣṭubh">
+		<l n="1"><lb n="6"/>// paraspara-virodhena,</l> 
+		<l n="2">nr̥payor yuddha-kāṁkṣiṇoḥ,</l>
+		<l n="3">Etasmāj jāṅgalety eṣā,</l>
+		<l n="4">paṁjalu-viṣayā smr̥tā, <num value="6">6</num><!-- again, no comma written --> //</l>
+	</lg>
+       	<lg n="7" met="anuṣṭubh">
+		<l n="1"><lb n="7"/> // kin tu yasmāt· rarakṣemāṁ,</l> 
+		<l n="2">jaya-śrī-viṣṇuvarddhanaḥ,</l>
+		<l n="3">śrī-jayavarddhanī-bhāryyo<!-- no comma written here --></l>
+		<l n="4">jagannāthottamaḥ prabhuḥ, <num value="7">7</num><!-- no comma written here --> //</l>
+	</lg>
+       	<lg n="8" met="anuṣṭubh">
+		<l n="1"><milestone unit="column" n="C"/><lb n="8"/><!-- no // written here — should I supply? -->Ājanmapariśuddhāṅgaḥ,</l> 
+		<l n="2">kr̥pāluḥ dharmma-tatparaḥ,</l>
+		<l n="3">pārthivānandanaṅ kr̥tvā,</l>
+		<l n="4">śuddha-kīrtti-parākramāt· <num value="8">8</num> //<!-- no commas before and after // --></l>
+	</lg>
+ 	<lg n="9" met="anuṣṭubh">
+		<l n="1"><lb n="9"/><!-- no // written here -->Ekī-kr̥tya punar bhūmīṁ,</l> 
+		<l n="2">prīty-arthañ jagatāṁ sadā,</l>
+		<l n="3">dharmma-saṁrakṣaṇārtham vā,</l>
+		<l n="4">pitrādi-sthāpanāya ca, <num value="9">9</num><!-- no comma here --> //</l>
+	</lg>
+ 	<lg n="10" met="anuṣṭubh">
+		<l n="1"><lb n="10"/><!-- no // written here -->yathaiva kṣiti-rājendra,ś</l> 
+		<l n="2">śrī-harivarddhanātmajaḥ,</l>
+		<l n="3">śrī-jayavarddhanī-putraḥ,</l>
+		<l n="4">catur-dvīpeśvaro muniḥ, <num value="10">10</num> //</l>
+	</lg>	
+	<lg n="11" met="anuṣṭubh">
+		<l n="1"><lb n="11"/>Aśeṣa-tatva-sampūrṇno,</l> 
+		<l n="2">dharmma-śāstra-vidām varaḥ,</l>
+		<l n="3">jīrṇnoddhāra-kriyodyukto,</l>
+		<l n="4">dharmma-śāsana-deśakaḥ, <num value="11">11</num> //</l>
+	</lg>	
+	<lg n="12" met="anuṣṭubh">
+		<l n="1"><milestone unit="column" n="D"/><lb n="12"/>śrī-jñānaśivabajrā<choice><orig>k</orig><reg>kh</reg></choice>ya,ś </l> 
+		<l n="2">citta-ratna-vibhūṣaṇaḥ,</l>
+		<l n="3">prajñā-raśmi-viśuddhāṅga,s</l>
+		<l n="4">sambodhi-jñāna-pāragaḥ, <num value="12">12</num> //</l>
+	</lg>	
+	<lg n="13" met="anuṣṭubh">
+		<l n="1"><lb n="13"/>subhaktyā taṁ pratiṣṭhāpya,</l> 
+		<l n="2">svayam pūrvvam pratiṣṭhitaṁ,</l>
+		<l n="3">śmaśāne vurare-nāmni,</l>
+		<l n="4">mahākṣobhyānurūpataḥ, <num value="13">13</num> //</l>
+	</lg>	
+	<lg n="14" met="anuṣṭubh">
+		<l n="1"><lb n="14"/>bhava-cakre śakendrābde,</l> 
+		<l n="2">māse cāsuji-saṁjñake,</l>
+		<l n="3">pañcamyāṁ śukla-pakṣe ca,</l>
+		<l n="4">vāre pa-ka-bu-saṁjñake, <num value="14">14</num> //</l>
+	</lg>	
+	<lg n="15" met="anuṣṭubh">
+		<l n="1"><lb n="15"/>sinta-nāmni ca parvve ca,</l> 
+		<l n="2">karaṇe viṣṭi-saṁskr̥te,</l>
+		<l n="3">Anurādhe ’pi nakṣatre, </l>
+		<l n="4">mitre māhendra-maṇḍale, <num value="15">15</num> //</l>
+	</lg>	
+	<lg n="16" met="anuṣṭubh">
+		<l n="1"><milestone unit="column" n="E"/><lb n="16"/>saubhāgya-yoga-sambandhe,</l> 
+		<l n="2">somye caiva muhūrttake,</l>
+		<l n="3">kyāte kuvera-parvveśe,</l>
+		<l n="4">tulā-<unclear>rāśy-a</unclear>bhisaṁyute <lb n="16*" rend="tb-upright"/><!-- this value of @n to be validated and perhaps explicitly allowed in EG --> <num value="16">16</num></l>
+	</lg>	
+	<lg n="17" met="anuṣṭubh">
+		<l n="1"><lb n="17"/>hitāya sarba-satvānāṁ,</l> 
+		<l n="2">prāg eva nr̥pates sadā,</l>
+		<l n="3">sa-putra-potra-dārasya,</l>
+		<l n="4">kṣity-ekībhāva-kāraṇāt· <num value="17">17</num> //</l>
+	</lg>	
+	<lg n="18" met="anuṣṭubh">
+		<l n="1"><lb n="18"/>Athāsya dāsa-bhūto haṁ,</l> 
+		<l n="2">nādajño nāma kīrttitaḥ,</l>
+		<l n="3">vidyā-hīno pi sammūḍho,</l>
+		<l n="4">dharmma-kriyāsv atatparaḥ, <num value="18">18</num> //</l>
+	</lg>	
+	<lg n="19" met="anuṣṭubh">
+		<l n="1"><lb n="19"/>dharmmādhyakṣatvam āsādya,</l> 
+		<l n="2">kr̥payaivāsya tatvataḥ,</l>
+		<l n="3"><choice><orig>s</orig><reg>ś</reg></choice>aka-kālaṁ samu<unclear>ddhr̥tya</unclear>,</l>
+		<l n="4">mad-rājānujñayā punaḥ, <num value="19">19</num> ||</l>
+	</lg>
+         </div>
+         <div type="apparatus">
+           <!--apparatus encoded as per EG §9.1, basic elements for apparatus below-->
+               <listApp>
+                  <app loc="2">
+                     <lem source="bib:Kern1917_02">śaka-kālam</lem>
+                     <rdg source="bib:Poerbatjaraka1922_01">śāka-kālam</rdg>
+                  </app>
+	<app loc="3">
+                     <lem>śreṣ<choice><orig>ṭ</orig><reg>ṭh</reg></choice>a</lem>
+                     <rdg source="bib:Kern1917_02 bib:Poerbatjaraka1922_01">śreṣṭha</rdg>
+	<note>All previous editions silently correct <foreign>ṭ</foreign> to <foreign>ṭh</foreign>. Cf. st. XIII for two clear cases of a proper <foreign>ṣṭh</foreign>, and XV for a clear case of <foreign>ṣṭ</foreign>. There is no doubt the lapicide here engraved <foreign>ṣṭ</foreign>. See also the remarks of Damais (<bibl rend="omitname"><ptr target="bib:Damais1955_01"/><citedRange unit="page">58</citedRange><citedRange unit="note">1</citedRange><citedRange unit="page">79</citedRange><citedRange unit="note">3</citedRange></bibl><!-- how to handle such separate page numbers with separate note numbers? -->) on the distinction <foreign>ṣth/ṣṭ</foreign> in Javanese inscriptions.</note> 
+	</app>
+<app loc="2">
+               <lem>bharāḍasaṁjñakaḥ</lem>
+	<rdg source="bib:Kern1917_02 bib:Poerbatjaraka1922_01">bharāḍ abhijñataḥ</rdg>
+	<note>Kern notes that the reading of <foreign>i</foreign> (in <foreign>bhi</foreign>) is uncertain, and that the whole word is suspect. Indeed one would expect <foreign>bharāḍābhijñataḥ</foreign>, since the figure’s known name is <foreign>bharāḍa</foreign>, but this would be unmetrical. The stone clearly shows <foreign>saṁ</foreign> instead of <foreign>bhi</foreign> and <foreign>ka</foreign> and instead of <foreign>ta</foreign>, and these new readings solve the textual problem here. The same expression °<foreign>saṁjñaka</foreign> is used by the poet twice in st. XIV.</note>
+</app>
+               </listApp>         
+         </div><!-- 	b. bharāḍasaṁjñakaḥ: bharāḍ abhijñataḥ Kern Poerbatjaraka. Kern notes that the reading of i (in bhi) is uncertain, and that the whole word is suspect (one would expect bharāḍābhijñataḥ, since the figures’s known name is bharāḍa, but this would be unmetrical). The stone clearly shows sa instead of bhi (with anusvāra instead of i) and ka and instead of ta, which solves the textual problem here. The same expression °saṁjñaka is used by the poet twice in st. XIV. -->
+         <div type="translation" xml:lang="eng">
+ 	<!--translation encoded as per EG §9.2 -->
+         </div>
+         <div type="commentary">
+            <!--commentary encoded as per section §9.3 -->
+         </div>
+        <div type="bibliography">
+	<!--bibliography encoded as per section §9.4 -->
+           <p>First edited by Kern (<bibl rend="omitname"><ptr target="bib:Kern1910_01"/></bibl>), whose article was re-edited with corrections in <bibl><ptr target="bib:Kern1917_02"/><citedRange>187-197</citedRange></bibl><!-- or cite as invididual article with its separate shorttitle? -->; edited again by Poerbatjaraka (<bibl rend="omitname"><ptr target="bib:Poerbatjaraka1922_02"/></bibl>). The subsequent editions published by Chatterjee &amp; Chakravarti (<bibl rend="omitname"><ptr target="bib:Chatterjee+Chakravarti1933_01"/><citedRange>75-78</citedRange></bibl>, with translation into English) and Sircar (<bibl rend="omitname"><ptr target="bib:Sircar1983_01"/><citedRange>700-702</citedRange></bibl>) ignore Poerbatjaraka's work and most of the secondary bibliography. None of the previous editions very accurately represents the punctuation of the original. Re-edited here directly from the stone and from the EFEO estampages; my apparatus is positive only for the significant variant readings observed in the editions by Kern (1917) and Poerbatjaraka.<!-- EFEO n. 2195-2198 --></p>
+           <listBibl type="secondary">
+              <bibl/><!-- one <bibl/> per item of secondary bibliography -->
+<!-- Verbeek 1891: 10-->
+<!-- Brandes NBG 1898 36 81 -->
+<!-- Brandes TBG 1906 48 54 -->
+<!-- Knebel, ROC 1907: 204, 205 -->
+<!-- Krom T. B. G. dl. 52 blz. 191, OV 1913: 34, OV 1914: 206, Krom 1916: 306-307 -->
+<!-- Bosch T. B. G. 58 blz. 442. -->
+<bibl><ptr target="bib:Bosch1919_01"/><citedRange>442-443</citedRange></bibl>
+<bibl><ptr target="bib:Damais1952_01"/><citedRange unit="page">72-73</citedRange><citedRange unit="item">A.174</citedRange></bibl>
+<bibl><ptr target="bib:Damais1955_01"/><citedRange unit="page">79</citedRange><citedRange unit="item">A.174</citedRange></bibl>
+<!-- Damais -->
+<!-- Nakada -->
+<!-- Hadi Sidomulyo, Gomperts et al. -->
+           </listBibl>
+        </div>
+      </body>
+  </text>
+</TEI>

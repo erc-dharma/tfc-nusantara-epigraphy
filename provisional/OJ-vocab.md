@@ -22,14 +22,17 @@
 |--------------------------------|------------------------------------------------------------------|
 | ācārya                         | master                                                           |
 | ārya                           | _ārya_, noble, buddhist                                          |
-| bhaṭāra (or short bhra / bhre) | Lord / Lady                                                      |
+| bhaṭ(ṭ)āra (or short bhra / bhre) | Lord / Lady                                                      |
 | dyah                           | _dyah_                                                           |
 | mpu                            | _mpu_                                                            |
 | pāduka                         | his / her Majesty, the sandals of ...                            |
 | pañji, (m)apañji               | by name, with the byname                                         |
 | pu                             | _pu_                                                             |
+| prabhu                             | ruler, king                                                             |
 | rake                           | _rake_                                                           |
 | rakryān                        | Lord / noble / _rakryan_; __or shall we use "his excellency" ?__ |
+| saṅ hyaṅ                           | holy                                                         |
+| śrī mahārāja                            | the Great King                                                           |
 
 ## Nouns
 | Old Javanese term  | English translation                  |
@@ -37,9 +40,17 @@
 | ājñā               | decree                               |
 | ājñā haji praśasti | royal decree in the form of an edict |
 | cihna              | devise, emblem, sign                 |
+| dharma              | foundation                     |
+| gati              | status                     |
 | mudrā              | seal                                 |
 | rasa               | substance                            |
 | lāñchana           | emblem                               |
+
+## Weights, measures, currency units
+| Old Javanese term                    | English translation                                        |
+|--------------------------------------|------------------------------------------------------------|
+| ḍpa                              | fathom                                                  |
+| su(varṇa)                              | guilder                                                  |
 
 ## Recipients
 | Old Javanese term                    | English translation                                        |

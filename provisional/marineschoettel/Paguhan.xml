@@ -8,20 +8,14 @@
                 <title>Paguhan</title>
                 <respStmt>
                     <resp>creation of file</resp>
+                    <resp>intellectual authorship of edition</resp>
                     <persName ref="part:masc">
                         <forename>Marine</forename>
                         <surname>Schoettel</surname>
                     </persName>
-                </respStmt>
-                <respStmt>
-                	<resp>intellectual authorship of edition</resp><!-- Arlo: another, slightly less space-consuminy, way to encode the same is to copy the <resp> line above, to stand below the line <resp>creation of file</resp>, and then remove the second mention of your names. In other words, assign all <resp>s per person, rather than persons per <resp>. -->
                     <persName ref="part:argr">
                         <forename>Arlo</forename>
                         <surname>Griffiths</surname>
-                    </persName>
-                    <persName ref="part:masc">
-                        <forename>Marine</forename>
-                        <surname>Schoettel</surname>
                     </persName>
                 </respStmt>
             </titleStmt>
@@ -39,7 +33,7 @@
                             https://creativecommons.org/licenses/by/4.0/ or send a letter to
                             Creative Commons, 444 Castro Street, Suite 900, Mountain View,
                             California, 94041, USA.</p>
-                        <p>Copyright (c) 2019-2025 by Arlo Griffiths &amp; Marine Schoettel</p><!-- Arlo: since you did more of the work, we could abandon alphanetical order here and put your name first. -->
+                        <p>Copyright (c) 2019-2025 by Marine Schoettel &amp; Arlo Griffiths</p>
                     </licence>
                 </availability>
                 <date from="2019" to="2025">2019-2025</date>
@@ -49,6 +43,10 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc>
+            <change who="part:masc" when="2020-02-04" status="draft">further corrections made during
+            encoding session</change>
+            <change who="part:masc" when="2020-02-03" status="draft">corrections following AG's
+                suggestions and initial encoding of translation and bibliography</change>
             <change who="part:argr" when="2020-01-29" status="draft">first revision</change>
             <change who="part:masc" when="2020-01-29" status="draft">initial encoding of the inscription, div edition</change>
         </revisionDesc>
@@ -59,66 +57,96 @@
 <pb n="1r"/><space quantity="1" unit="page"/><!--Blank outer page.-->
 <p>
     <pb n="1v"/>  
-  <fw n="1r" place="left"><num value="1">1</num></fw><!-- Arlo: apply @rend="tb-rotated" as per EG 7.4-->
+  <fw n="1v" rend="tb-rotated" place="left"><num value="1">1</num></fw>
 <lb n="1"/>// śvasti sakavarsatita // I śaka // <num value="1338">133<unclear>8</unclear></num> //
-</p>
-<p><lb n="2"/>sama<unclear>ṁ</unclear>kana divasani L̥bu talampakanira ri talo<lb n="3" break="no"/><!-- Arlo: you can keep line-by-line presentation if you insert a hard return at the point marked by ! in <lb !n="3" break="no"/> -->nan·, hanimbal· varukira baṭāra ri paguhan·, sa<unclear>ṁ</unclear> li<pb n="2r"/><!-- AG: add break="no" after EG, p. 36 "when a pagelike partition interrupts a word, this fact must be encoded redundantly" -->
-    <fw n="2r" place="left"><!-- Arlo: why are you encoding <fw> here? I don't see any page number on 2r...  -->
-    <num value="1">2</num>
-  </fw>
-<lb n="1" break="no"/>na ri<unclear>ṁ</unclear> pramalaya, ka<choice><sic>ha</sic><corr>taṁ</corr></choice>gapan·<!-- Arlo: I'd give gthe benefit of the doubt, and edit ka<unclear>taṁ</unclear>gapan· --> denira saṅ aṅu<lb n="2" break="no"/>cap·<!-- Arlo: insert hard return as above --> gave riṁ gəḍoṁ didiva, sira patiḥ səmut·, sira
- <lb n="3"/>saṅ aṙya<!-- Arlo: as per EG 11.2(end), you could add a comment at the end of the file to record that layar is used in the Indonesian mode in this inscription. --> pagəḥ, sira saṅ aṙya guna, sira patiḥ riṁ pagu<pb n="2v"/><lb n="1" break="no"/>han·<!-- Arlo: apply @break="no" also on <pb>, move encoding of <fw> over here (and add @rend), then insert hard return in front of n="1" -->, sira patiḥ səR̥g·, sira patiḥ tem·beṁ,</p>
+<!--check in epigraphic table--></p>
+<p><lb n="2"/>sama<unclear>ṁ</unclear>kana divasani L̥bu talampakanira ri talo<lb 
+    n="3" break="no"/>nan·, hanimbal· varukira baṭara ri paguhan·, sa<unclear>ṁ</unclear> li<pb
+        n="2r" break="no"/><lb 
+            n="1" break="no"/>na ri<unclear>ṁ</unclear> pramalaya, ka<unclear>taṁ</unclear>gapan· denira saṅ aṅu<lb 
+                n="2" break="no"/>cap· gave riṁ gəḍoṁ didiva <!-- Or follow Bosch' diṁdiva?-->, sira patiḥ səmut·, sira
+ <lb n="3"/>saṅ arya pagəḥ, sira saṅ arya guna, sira patiḥ riṁ pagu<pb n="2v" break="no"/><fw n="2v"
+     rend="tb-rotated" place="left"><num value="2">2</num></fw><lb 
+         n="1" break="no"/>han·, sira patiḥ səR̥g·, sira patiḥ tem·beṁ,</p>
 <p>
-    <lb n="2"/>saṅ anaṁgapi pisis·, guṅ i pisis· //
+    <lb n="2"/>saṅ anaṁgapi pisis·, guṅi pisis· //
     <lb n="3"/>// <num value="200000">200000</num> // roṁ kəṭi roṁ kəṭi
 <pb n="3r"/>
-    <fw n="3r" place="left"><!-- Arlo: add @rend -->
+    <fw n="3r" rend="tb-rotated" place="left">
     <num value="1">3</num>
   </fw>
-    <lb n="1"/>gənəp·, padukalivon·, tr<subst><del>i</del><add>a</add></subst>ayodasi,<!--Really not sure about what I did
-        here--><!-- Arlo: indeed, why not simply trayodasi? --> suklā<lb n="2" break="no"/><!-- Arlo: you can insert a hard return before n="2", the hyphen before pakṣā seems unnecessary to me, as we are not systematically hyphenating our OJ texts, but it's not wrong  -->-pakṣā, riṅ asuji, masa<!-- Arlo: shouldn't this be maṣa? --> // haparab·
+    <lb n="1"/>gənəp·, padu kalivon·, tr<subst><del>i</del><add>a</add></subst>ayodasi,<!-- Arlo: indeed, why not simply trayodasi? --> suklā<lb 
+        n="2" break="no"/>-pakṣā, riṅ asuji, maṣa // haparab·
     <lb n="3"/>sa<supplied reason="omitted">ṁ</supplied> kavasa //
 </p>
          </div>
          <div type="apparatus"><!-- Arlo: Bosch's and Damais' reading need to be represented systematically -->
                 <listApp>
+                  <app loc="p1v.1">
+                      <lem><num value="1338">133<unclear>8</unclear></num></lem>
+                      <rdg source="bib:Bosch1924_01">1388</rdg>
+                      <note>The reading of the date as 1338 given in <ptr target="bib:TBG"/> indicates that the
+                          reading found in <ptr target="bib:Damais1955_01"/> was in all probability a printing mistake.</note>
+                  </app>
                   <app loc="p2r.3">
                       <lem>riṁ</lem>
-                      <rdg source="Boechari1985-1986_01">ri</rdg>
+                      <rdg source="bib:Boechari1985-1986_01">ri</rdg>
                       </app>
-                   <app loc="p3v.1"><!-- Arlo: I think gthis whole app entry can be removed -->
+                    <app loc="p2r.2">
+                        <lem>didiva</lem>
+                        <rdg source="bib:Bosch1924_01">di̇̇ṁdi<unclear>ṁ</unclear>va</rdg>
+                    </app>
+                    <app loc="p2v.1">
+                        <lem>səR̥g</lem>
+                        <rdg source="bib:Bosch1924_01">siR̥g</rdg>
+                    </app>
+                    <app loc="p3v.1"><!-- Arlo: I think gthis whole app entry can be removed -->
                       <lem>tr<subst><del>i</del><add>a</add></subst>ayodasi</lem>
-                      <rdg source="Boechari1985-1986_01">trayodasi</rdg>
+                      <rdg source="bib:Boechari1985-1986_01">trayodasi</rdg>
                       </app>
-                   <app loc="p3v.2">
-                      <lem>masa</lem>
-                      <rdg source="Boechari1985-1986_01">maṣa</rdg><!-- Arlo: I vote for Boechari's reading -->
-                      </app>
-                   <app loc="p3v.3">
-                     <lem source="Damais">sa<supplied reason="omitted">ṁ</supplied></lem>
-                     <rdg source="Boechari1985-1986_01">sa</rdg>
+                   <app loc="p3r.3">
+                     <lem source="Damais">sa<supplied reason="omitted">ṁ</supplied></lem><!--Or
+                         encode as normalisation?-->
+                     <rdg source="bib:Boechari1985-1986_01">sa</rdg>
                   </app>
                </listApp>         
          </div>
-         <div type="translation" xml:lang="eng" resp="part:argr">
+         <div type="translation" xml:lang="eng" resp="part:masc">
  	<!--translation encoded as per EG §9.2 -->
-	<p></p>
+          <!--MS: add Bosch' translation as per EG 9.2. (other sections)-->
+	<p>Hail! In the elapsed Śaka year 1338, such was the time that His Majesty of Talonan took over in
+	    turn (hanimbal) the piece of land (varukira) of the Lord at Paguhan, he who was released in the
+	    highest abode (saṅ lina riṁ pramalaya). [It] was received (kataṅgap) by the One whose task is
+	    to Speak (de nira saṅ aṅucap gave) at the (stone) building Didiwa, by the patiḥ səmut (litt.
+	    master Ant), by the arya pagəḥ (the Venerable Pagəh), by the arya Guna (the Venerable Guna), by
+	    the patiḥ at Paguhan (by the master at Paguhan), by the patiḥ Sərəg, by the patiḥ at Tembeṁ,
+	    those are the people who received money. The amount of money [is]: 200.000, two hundred
+	    thousand, two hundred thousand in total (gənəp), on Kliwon (kaliwon), the thirteenth [day] of
+	    the waxing fortnight, the month of Asuji, signed by (litt. “bearing the name”) Sakawasa.</p>
          </div>
          <div type="commentary">
             <!--commentary encoded as per section §9.3 -->
      <p></p>
          </div>
-        <div type="bibliography"><!-- Arlo: ok, I now realize that much of this is still copied from Maribing.xml and not yet adjusted, so will refrain from further comments -->
+        <div type="bibliography">
 	<!--bibliography encoded as per section §9.4 -->
-            <p>First edited by F.D.K. Bosch<!-- Arlo: is this our surmise (as in the case of Maribong) or is it stated explicitly in the publication? -->, in <bibl><ptr target="bib:OV"/><date>1924</date><citedRange unit="page">104-5<!-- Arlo: don't abbrviated page spans, so make it 104-105 here --></citedRange></bibl>; re-edited by Damais (<bibl rend="omitname"><ptr target="bib:Damais1955_01"/><citedRange unit="page">197-199</citedRange><citedRange unit="item">A.171</citedRange></bibl>); edited again by Boechari
+            <p>First edited by F.D.K. Bosch (<bibl rend="omitname"><ptr
+                target="Bosch1924_01"/><citedRange unit="page">104-105</citedRange></bibl>); re-edited by Damais (<bibl rend="omitname"><ptr target="bib:Damais1955_01"/><citedRange unit="page">197-199</citedRange><citedRange unit="item">A.171</citedRange></bibl>); edited again by Boechari
                 (<bibl rend="omitname"><ptr target="bib:Boechari1985-1986_01"/><citedRange
-                    unit="page">119</citedRange><citedRange unit="item">E.60</citedRange></bibl>); re-edited here by Marine Schoettel and Arlo Griffiths from photographs by Georges Groslier.</p><!-- Arlo adding for ease of reference: Groslier photos are GROB03770 and GROB03771 -->
+                    unit="page">119</citedRange><citedRange unit="item">E.60</citedRange></bibl>);
+                re-edited here by Marine Schoettel and Arlo Griffiths from photographs by Georges
+                Groslier (EFEO Paris GROB03770 and GROB03771).</p>
              <listBibl type="secondary">
-             <bibl>TBG 64, 1924, <citedRange>659</citedRange></bibl>
+             <bibl><ptr target="bib:TBG"/><citedRange
+                 unit="volume">64</citedRange><date>1924</date><citedRange>619, 658-659</citedRange></bibl>
              <bibl><ptr target="bib:Damais1952_01"/><citedRange>72-73</citedRange></bibl>
              </listBibl>
         </div>
       </body>
+        <!--MS: Layar is used in the Indonesian mode in this inscription. Odd shape of the visarga
+            throughout this inscription, almost connected to the previous akṣara,--><!--MS: This
+            inscription does not seem to differentiate between long and short vowels, except in the case of śuklāpakṣā.-->
+        <!--MS: Reconsider all cases of anusvara in this inscription + Pamintihan -->
   </text>
 </TEI>
 

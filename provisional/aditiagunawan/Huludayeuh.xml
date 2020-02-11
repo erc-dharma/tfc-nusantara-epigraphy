@@ -29,7 +29,7 @@
                     </note>
                 </authority>
                 <pubPlace>Paris</pubPlace>
-                <idno type="filename">Kebantenan_1</idno><!-- Replace by filename, e.g. Pallava00001 -->
+                <idno type="filename">DHARMA_Huludayeuh</idno><!-- Replace by filename, e.g. Pallava00001 -->
                 <availability>
                     <licence target="https://creativecommons.org/licenses/by/4.0/">
                         <p>This work is licenced under the Creative Commons Attribution 4.0 Unported Licence. To view a copy of the licence, visit https://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.</p>
@@ -44,6 +44,7 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc>
+            <change who="part:adgu" when="2020-02-09" status="draft">Revisions (Second Round).</change>
             <change who="part:adgu" when="2020-01-27" status="draft">Input bibliography.</change>
             <change who="part:axja" when="2020-01-09" status="draft">Updated to conform with the template</change>
             <change who="part:adgu" when="2019-12" status="draft">Initial encoding of the edition</change>
@@ -52,15 +53,15 @@
     <text xml:space="preserve">
         <body>
             <div type="edition" xml:lang="x-oldsun-Latn">
-<p> 
-                    <lb n="1"/><gap reason="lost" extent="unknown"/> <unclear>ra</unclear>tu <unclear>ṅa</unclear>rana, <unclear cert="low">ta</unclear> <gap reason="lost" extent="unknown"/> 
+                <p> 
+                    <lb n="1"/><gap reason="lost" extent="unknown"/> <unclear>ra</unclear>tu <unclear>ṅa</unclear>rana, <unclear>ta</unclear> <gap reason="lost" extent="unknown"/> 
                     <lb n="2"/><gap reason="lost" extent="unknown"/> sri maḥ<unclear>ha</unclear>ra<unclear>ja</unclear> ra <unclear>t</unclear><supplied reason="lost">u</supplied>
                     <lb n="3"/><supplied reason="lost" evidence="paralel">ha</supplied><unclear>j</unclear><supplied reason="lost">i</supplied> ri pakvan· sya saṁ ra<unclear >t</unclear><supplied reason="lost">u</supplied>
                     <lb n="4"/><supplied reason="lost" evidence="paralel">de</supplied><unclear>va</unclear>ta pun·, masa sya
-                    <lb n="5"/>ṅrətakən· bumi <!--  il faut verifier u ou ū --> ṅaha
-                    <lb n="6" break="no"/>lipukən· na bvan·na 
+                    <lb n="5"/>ṅrətakən· bumi <!--  il faut verifier u ou ū --> <choice><orig>ṅaha<lb n="6" break="no"/>lipukən</orig><reg>ṅahalimpukən</reg></choice>· na bvan·na 
                     <lb n="7"/>ñuruḥ saṁ <unclear>di</unclear>si suk·laja<lb n="8" break="no"/><unclear>t</unclear>i ṅaR̥buḥkən· Ikaṁ ka<lb n="9" break="no"/>yu si padakaḥ, ṅalaAn· <!--  compare with A in the other inscriptions-->
-                    <lb n="10"/>na Udubasu, mipati<lb n="11" break="no"/>kən·n ikaṁ kala</p>       
+                    <lb n="10"/>na Udubasu, mipati<lb n="11" break="no"/>kən·n ikaṁ kala</p>
+                
             </div>
         <div type="apparatus">
             <listApp>
@@ -69,45 +70,41 @@
                     <rdg source="HasanDjafar1994_01">purana</rdg>
                     <note>The sign read as <foreign xml:lang="x-oldsun-Latn">pu</foreign> by HD is quite faded, but resembles much more closely the <foreign xml:lang="x-oldsun-Latn">ṅa</foreign> in line 8. Moreover, the vocalization <foreign>u</foreign> below the aksara to the left (<foreign xml:lang="x-oldsun-Latn">tu</foreign>) is perfectly clear, so it is very hard to suppose the presence of another such vocalization which would be totally invisible right next to it.</note>
                 </app>
-                <app loc="1–2"> <!-- should put n dash here? -->
-                    <note>At the transition between these lines, one might restore <foreign xml:lang="x-oldsun-Latn">baduga</foreign> or <foreign xml:lang="x-oldsun-Latn">prəbu</foreign>.</note>
+                <app loc="1-2">
+                    <note>At the transition between these lines, one might restore <foreign>baduga</foreign> or <foreign>prəbu</foreign>.</note>
                 </app>
                 <app loc="3">
                     <lem><supplied reason="lost" evidence="paralel">ha</supplied><unclear>j</unclear><supplied reason="lost">i</supplied></lem>
-                    <note>In HD’s eye-copy, the consonant <foreign xml:lang="x-oldsun-Latn">j</foreign> is clear, but the estampages do not allow to confirm this reading unambigously. Comparison with Batutulis, line 3, does strongly suggest that indeed one needs to restore <foreign xml:lang="x-oldsun-Latn">haji</foreign>.</note>
+                    <note>In Hasan Djafar’s eye-copy, the consonant <foreign>j</foreign> is clear, but the estampages do not allow to confirm this reading unambigously. Comparison with Batutulis, line 3, does strongly suggest that indeed one needs to restore <foreign>haji</foreign>.</note>
                 </app>
-                <app loc="4"> <!-- This apparatus entry could be removed -->
-                    <lem>ṅrətakən</lem>
-                    <rdg source="HasanDjafar1994_01">ṅrətakƏn</rdg>
-                    <note>HD’s drawing suggests a difference between <foreign xml:lang="x-oldsun-Latn">ə</foreign> and <foreign xml:lang="x-oldsun-Latn">ö</foreign> which is not actually there on the stone. </note>
-                </app>
-                <app loc="5–6"> <!-- hypen or n dash -->
-                    <lem>ṅahalipukən</lem>
-                    <rdg source="HasanDjafar1994_01">ṅaha<gap reason="lost" extent="unknown"></gap>lipukön</rdg>
-                    <note>See the preceding note. HD presume some gap between <foreign xml:lang="x-oldsun-Latn">ṅaha</foreign> and <foreign xml:lang="x-oldsun-Latn">lipukən</foreign>, which in our opinion we are dealing with single word broken by the mear transition to a new line.</note>
+                <app loc="5-6">
+                    <lem><choice><orig>ṅaha<lb n="6" break="no"/>lipukən</orig><reg>ṅahalimpukən</reg></choice></lem>
+                    <rdg source="HasanDjafar1994_01">ṅaha<gap reason="lost" extent="unknown"></gap>lipukən</rdg>
+                    <note>See the preceding note. Hasan Djafar presume some gap between <foreign>ṅaha</foreign> and <foreign>lipukən</foreign>, which in our opinion we are dealing with single word broken by the mear transition to a new line.</note>
                 </app>
                 <app loc="7">
                     <lem>ñuruḥ</lem>
                     <rdg source="HasanDjafar1994_01">ñaraḥ</rdg>
-                    <note>Even though the verb <foreign xml:lang="x-oldsun-Latn">ñuruḥ</foreign> does not occure in MdS, we find the nominal derivation <foreign xml:lang="x-oldsun-Latn">pañuruhan</foreign> in OSd, namely in SSK.6.</note>
+                    <note>Even though the verb <foreign>ñuruḥ</foreign> does not occure in MdS, we find the nominal derivation <foreign>pañuruhan</foreign> in OSd, namely in SSK.6.</note>
                 </app>
                 <app loc="7-8"> 
                     <lem><unclear>di</unclear>si suk·laja<unclear>t</unclear>i</lem>
                     <rdg source="HasanDjafar1994_01">dv isi suk· laja<gap reason="lost" extent="unknown"/>i </rdg>
-                    <note>There indeed seems to be some element below the <foreign>akṣara</foreign> di (cf. HD’s <foreign>dv</foreign>), but in our opinion it is most likely to be accidental.</note>
+                    <note>There indeed seems to be some element below the <foreign>akṣara</foreign> di (cf. Hasan Djafar’s <foreign>dv</foreign>), but in our opinion it is most likely to be accidental.</note>
                 </app>
                 <app loc="8">
                     <lem>ṅaR̥buḥkən·</lem>
-                    <rdg source="HasanDjafar1994_01">ṅaRbaḥkƏn</rdg>
-                    <note>There is clearly a vocalisation <foreign xml:lang="x-oldsun-Latn">u</foreign> that has escaped HD’s attention.</note>
+                    <rdg source="HasanDjafar1994_01">ṅaRbaḥkən</rdg>
+                    <note>There is clearly a vocalisation <foreign>u</foreign> in the stone.</note>
                 </app>
-                <app loc="8-9"> <!-- hypen or n dash -->
+                <app loc="8-9">
                     <lem>kayu</lem>
                     <rdg source="HasanDjafar1994_01">ka<gap reason="lost" extent="unknown"/>su</rdg>
                 </app>
                 <app loc="9">
                 <lem>ṅalaAn</lem>
                 <rdg source="HasanDjafar1994_01">ṅalasan</rdg>
+                    <note>It more likely to read as <foreign>A</foreign> because its quite diferent with <foreign>sa</foreign> as sugested by Hasan Djafar (cf. <foreign>saṅ disi</foreign> in the same line). This <foreign>A</foreign> is quite similar with Linggawangi inscription.</note>
                 </app>
                 <app loc="10–11">
                     <lem>mipat<unclear cert="high">i</unclear>kən·</lem>
@@ -119,16 +116,15 @@
             <div type="translation" xml:lang="eng">
                 <p>[…] king his name, […] Sri Maharaja King of Kings in Pakuan. He was Sang Ratu Dewata, when he made the world prosperous, pleased the earth, ordered Sang Disi Suklajati to fell the tree called (named) Sipadakah, removed Udubasu, killed Kala.</p>
             </div>
+            
             <div type="commentary">
                 <p><bibl><ptr target="bib:HasanDjafar1994_01"/></bibl> indicated with ellipsis at the beginnings and ends of all lines except line 3 that an undetermined number of akṣaras has been lost there. This, we feel, is too imprecise. In fact it seems that a rather small number of akṣaras is lost, because we can read unintterrupted words at the transitions between lines 5–6, 7–8, 8–9 and 10–11. This means that not more than 1 akṣara is lost at the right ends of lines 1, 2, 3 and 6. It is not possible to estimate with precision the number of akṣaras that might have been lost at the openings of lines 1 and 2.</p>
             </div>
+            
         <div type="bibliography">
-	<!--bibliography encoded as per section §9.4 -->
-	<!-- NB: you are encouraged to experiment with encoding bibliography to the extent you have the bibliographic data available, but it is not mandatory at this stage, because our bibliographic data are normally assembled along with other metadata in spreadsheets and will be imported from there into our xml files by a semi-automated process at a later stage. -->
            <p>The inscription was first discovered in the early 1990s (<bibl><ptr target="bib:TonyDjubiantono1994_01"/></bibl>) and first published by Hasan Djafar (<bibl rend="omitname"><ptr target="bib:HasanDjafar1991_01"/><citedRange>28-29</citedRange> and <ptr target="bib:HasanDjafar1994_01"/></bibl>). The last mentioned publication contains an eye-copy. A photo of the stone was published in SNI ed. 2008, p. 380 <!-- ADIT: To be verifed in the library -->. We visited the site in June and September 2013, and during our second visit were able to make two estampages which are now part of the EFEO collection in Paris (inventory numbers n. 2309 and n. 2310). Re-edited here by Aditia Gunawan &amp; Arlo Griffiths, using Hasan Djafar’s eye-copy and comparing it first with the photos we had taken of the original, and subsequently we reverified our reading based on the EFEO estampages.</p>
-           <listBibl type="secondary">
-              <bibl><ptr target="bib:HasanDjafar1991_01"/></bibl>
-              <bibl><ptr target="bib:HasanDjafar1994_01"/></bibl>
+           
+            <listBibl type="secondary">  
                <bibl><ptr target="bib:TonyDjubiantono1994_01"/></bibl>
            </listBibl>
         </div>        
