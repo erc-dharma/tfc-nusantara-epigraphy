@@ -29,21 +29,21 @@
                     </note>
                 </authority>
                 <pubPlace>Paris</pubPlace>
-                <idno type="filename">DHARMA_Linggawangi</idno>
+                <idno type="filename">Linggawangi</idno>
                 <availability>
                     <licence target="https://creativecommons.org/licenses/by/4.0/">
                         <p>This work is licenced under the Creative Commons Attribution 4.0 Unported Licence. To view a copy of the licence, visit https://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.</p>
-                        <p>Copyright (c) 2019-2025 by Aditia Gunawan.</p>
+                        <p>Copyright (c) 2019-2025 by Aditia Gunawan &amp; Arlo Griffiths.</p>
                     </licence>
                 </availability>
                 <date from="2019" to="2025">2019-2025</date>
             </publicationStmt>
             <sourceDesc>
                 <p><!-- not to be filled in at this stage --></p>
-                <!-- adgu: need to describe binding-holes -->
             </sourceDesc>
         </fileDesc>
         <revisionDesc>
+            <change who="part:adgu" when="2020-02-15" status="draft">First revision</change>
             <change who="part:adgu" when="2020-02-11" status="draft">Initial encoding of the edition</change>
         </revisionDesc>
     </teiHeader> 
@@ -64,8 +64,10 @@
                      <rdg source="bib:HasanDjafar1991_01">// ba</rdg>
                </app>
                <app loc="1">
-                   <lem><num value="3"><unclear>3</unclear></num></lem>
-                   <note>The first of the three digits is very slightly different in shape than the other two. Could it denote 2? </note>
+                   <lem><num value="2"><unclear>2</unclear></num></lem>
+                     <rdg source="bib:Holle1877_01">O</rdg>
+                     <rdg source="bib:HasanDjafar1991_01">3</rdg>
+                     <note>The first of the three digits is very slightly different in shape than the other two. It is more probable to read it 2. For the interpretation of ba = 2 in chronogram, cf. Par 25.23: <foreign>ba ba taṅan voṅ</foreign> i.e. 1222 Śaka</note>
                </app>
                 <app loc="3">
                     <lem><choice><reg>disusuk ku</reg><orig>disusuku</orig></choice></lem>
@@ -83,7 +85,8 @@
             </div>
             
         <div type="bibliography">
-           <p>The inscription was first published by Holle (<bibl rend="omitname"><ptr target="bib:Holle1877_02"></ptr><citedRange>586-587</citedRange></bibl>, Saleh Danasasmita (<bibl rend="omitname"><ptr target="bib:Saleh Danasasmita1975_01"></ptr><citedRange>586-587</citedRange></bibl>) and Hasan Djafar (<bibl rend="omitname"><ptr target="bib:HasanDjafar1991_01"></ptr><citedRange>16-18</citedRange></bibl>). Re-edited here by Aditia Gunawan &amp; Arlo Griffiths, using OD photo.</p>
+           <p>The inscription was first published by Holle (<bibl rend="omitname"><ptr target="bib:Holle1877_02"></ptr><citedRange>586-587</citedRange></bibl>, in Javanese script), follow by Saleh Danasasmita (<bibl rend="omitname"><ptr target="bib:Saleh Danasasmita1975_01"></ptr></bibl>) and Hasan Djafar (<bibl rend="omitname"><ptr target="bib:HasanDjafar1991_01"></ptr><citedRange>16-18</citedRange></bibl>). Re-edited here by Aditia Gunawan &amp; Arlo Griffiths, using OD photo.</p>
+           
             <listBibl type="secondary">  
                <bibl><ptr target="bib:OV"/> <date>1912</date> <citedRange unit="page">84</citedRange></bibl>
                <bibl><ptr target="bib:Verbeek1891_01"/><citedRange unit="page">52-53</citedRange></bibl> 
