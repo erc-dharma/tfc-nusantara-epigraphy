@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"> 
+    <teiHeader xml:lang="eng">
+        <fileDesc>
+            <titleStmt>
+                <title>Linggawangi</title><!--Change the title of the file, e.g. Raktamālā grant of the time of Budhagupta, year 159-->
+                <respStmt>
+                    <resp>creation of the file</resp>
+                    <resp>intellectual authorship of edition</resp>
+                    <persName ref="part:agdu">
+                        <name>Aditia Gunawan</name>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>intellectual authorship of edition</resp> 
+                    <persName ref="part:argr">
+                        <persName>
+                            <forename>Arlo</forename>
+                            <surname>Griffiths</surname>
+                        </persName>
+                    </persName>
+                </respStmt>
+            </titleStmt>         
+            <publicationStmt>
+                <authority>DHARMA
+                    <note>This project has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).
+                    </note>
+                </authority>
+                <pubPlace>Paris</pubPlace>
+                <idno type="filename">DHARMA_Linggawangi</idno>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>This work is licenced under the Creative Commons Attribution 4.0 Unported Licence. To view a copy of the licence, visit https://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.</p>
+                        <p>Copyright (c) 2019-2025 by Aditia Gunawan.</p>
+                    </licence>
+                </availability>
+                <date from="2019" to="2025">2019-2025</date>
+            </publicationStmt>
+            <sourceDesc>
+                <p><!-- not to be filled in at this stage --></p>
+                <!-- adgu: need to describe binding-holes -->
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change who="part:adgu" when="2020-02-11" status="draft">Initial encoding of the edition</change>
+        </revisionDesc>
+    </teiHeader> 
+    <text xml:space="preserve">
+        <body>
+            <div type="edition" xml:lang="x-oldsun-Latn">
+                <p> 
+                    <lb n="1"/><unclear>//</unclear>ba <num value="2"><unclear>2</unclear></num> guna <num value="3">3</num> Apuy· <num value="3">3</num> 
+                    <lb n="2"/> di <choice><reg>vvaṅ</reg><orig>vva</orig></choice> <num value="1">1</num>, Iti sakakala rumata<lb 
+                        n="3" break="no"/> k· <choice><reg>disusuk ku</reg><orig>disusuku</orig></choice> baṭāri hyaṁ pun·</p>
+                
+            </div>
+        <div type="apparatus">
+            <listApp>
+                 <app loc="1">
+                   <lem>// ba</lem>
+                     <rdg source="bib:Holle1877_01">// baḥ</rdg>
+                     <rdg source="bib:HasanDjafar1991_01">// ba</rdg>
+               </app>
+               <app loc="1">
+                   <lem><num value="3"><unclear>3</unclear></num></lem>
+                   <note>The first of the three digits is very slightly different in shape than the other two. Could it denote 2? </note>
+               </app>
+                <app loc="3">
+                    <lem><choice><reg>disusuk ku</reg><orig>disusuku</orig></choice></lem>
+                    <note>For the same phenomenon of consonant fusion, Cf. L 426B, nr. 13: hya <choice><reg>pəpək ku</reg><orig>pəpəku</orig></choice> pənuḥ kita maṁke "Now you are filled by fullness"</note>
+                </app>
+            </listApp>  
+            </div>            
+           
+            <div type="translation" xml:lang="eng">
+                <p><seg cert="low">Shining</seg> 2 qualities 3 fires 3 in human 1: such is the <supplied reason="subaudible">year in the</supplied> Śaka era that Rumatak was marked off by Bhaṭārī Hyang. Finished. </p>
+            </div>
+            
+            <div type="commentary">
+                <p>Despite that the scholars have determined the chronogram, only Saleh Danasasmita who furnish a full translation and interpretation. However, his reading seems less precise.</p>
+            </div>
+            
+        <div type="bibliography">
+           <p>The inscription was first published by Holle (<bibl rend="omitname"><ptr target="bib:Holle1877_02"></ptr><citedRange>586-587</citedRange></bibl>, Saleh Danasasmita (<bibl rend="omitname"><ptr target="bib:Saleh Danasasmita1975_01"></ptr><citedRange>586-587</citedRange></bibl>) and Hasan Djafar (<bibl rend="omitname"><ptr target="bib:HasanDjafar1991_01"></ptr><citedRange>16-18</citedRange></bibl>). Re-edited here by Aditia Gunawan &amp; Arlo Griffiths, using OD photo.</p>
+            <listBibl type="secondary">  
+               <bibl><ptr target="bib:OV"/> <date>1912</date> <citedRange unit="page">84</citedRange></bibl>
+               <bibl><ptr target="bib:Verbeek1891_01"/><citedRange unit="page">52-53</citedRange></bibl> 
+           </listBibl>
+        </div>        
+        </body>
+    </text>
+</TEI>
