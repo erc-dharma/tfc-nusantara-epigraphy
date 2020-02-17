@@ -789,6 +789,11 @@
          </div>
         <div type="bibliography">
 	<!--bibliography encoded as per section §9.4 -->
+            <p>Firs edited by Boechari (<bibl rend="omitname"><ptr target="Boechari1985-1986_01"/><citedRange unit="page">182-191</citedRange><citedRange unit="item">E.90</citedRange></bibl>); followed by Titi Surti Nastiti (<bibl rend="omitname"><ptr target="bib:TitiSurtiNastiti2016_01"/><citedRange unit="appendix">D</citedRange><citedRange unit="page">421-436</citedRange></bibl>); re-edited here by Arlo Griffiths from photos kindly shared by Titi Surti Nastiti.</p>
+                <listBibl type="secondary">
+                    <bibl><ptr target="bib:AgusArisMunandar1986_01"/><citedRange >1-24</citedRange></bibl>
+                  <bibl><ptr target="bib:HadiSidomulyo2010_01"/><citedRange unit="appendix">B</citedRange><citedRange unit="page">30-38</citedRange></bibl>                
+                </listBibl>
             </div>
       </body>
   </text>
