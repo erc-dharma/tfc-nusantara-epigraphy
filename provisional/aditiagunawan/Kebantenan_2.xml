@@ -5,7 +5,7 @@
     <teiHeader xml:lang="eng">
         <fileDesc>
             <titleStmt>
-                <title>Kebantenan 1</title>
+                <title>Kebantenan 2</title>
                 <respStmt>
                     <resp>creation of the file</resp>
                     <resp>intellectual authorship of edition</resp>
@@ -29,7 +29,7 @@
                     </note>
                 </authority>
                 <pubPlace>Paris</pubPlace>
-                <idno type="filename">Kebantenan_1</idno><!-- Replace by filename, e.g. Pallava00001 -->
+                <idno type="filename">Kebantenan_2</idno><!-- Replace by filename, e.g. Pallava00001 -->
                 <availability>
                     <licence target="https://creativecommons.org/licenses/by/4.0/">
                         <p>This work is licenced under the Creative Commons Attribution 4.0 Unported Licence. To view a copy of the licence, visit https://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.</p>
@@ -147,7 +147,7 @@
     <div type="translation" xml:lang="id">
  <p>Ini adalah pesan Sri Paduka Maharaja Raja Diraja di Pakuan, Sri Sang Ratu Dewata. Yang diberi pesan <supplied reason="subaudible">yaitu</supplied> tanah <foreign>dewasasana</foreign>, di Sunda Sembawa.</p> 
         <p>Jangan ada yang mengubahnya, jangan ada yang mengganggunya. Dari sebelah timur batas Ciraab sampai ke Sang Hyang Salila, dari barat batas Rungseb (hutan belantara) sampai ke Munjul, ke Cibakengkeng, Cihonje, ke muara Cimuncang. Dari selatan batasnya hutan Comon.</p> 
-        <p>Jangan tidak menjaganya! Sebab dewasasana merupakan tempat pemujaan saya, sang raja. Sepanjang jalan raya ke arah hulu, tanah terlarang adalah tempat untuk para wiku. Jangan hendak ada yang keras terhadap hasil pembatasan saya, sebab saya sayang kepada wiku. </p>	<!--translation encoded as per EG §9.2 -->
+        <p>Jangan tidak menjaganya! Sebab <foreign>dewasasana</foreign> merupakan tempat pemujaan saya, sang raja. Sepanjang jalan raya ke arah hulu, tanah terlarang adalah tempat untuk para wiku. Jangan hendak ada yang keras terhadap hasil pembatasan saya, sebab saya sayang kepada wiku. </p>	<!--translation encoded as per EG §9.2 -->
 
          </div>
          <div type="commentary">
