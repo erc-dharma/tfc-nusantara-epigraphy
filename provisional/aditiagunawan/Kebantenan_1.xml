@@ -70,17 +70,17 @@
                    <app loc="p1r.1">
                        <lem>Avighnam</lem>
                          <rdg source="bib:Pleyte1911_01 bib:Boechari1985-1986_01">Avignam</rdg>
-                       <note>The grapheme here represented as <foreign xml:lang="x-oldsun-Latn">gh</foreign> is different both from <foreign xml:lang="x-oldsun-Latn">k</foreign> and <foreign xml:lang="x-oldsun-Latn">g</foreign> in this group of inscriptions; it resembles the sign that expresses <foreign xml:lang="x-oldsun-Latn">ñ</foreign> in the Kawali inscriptions, but is different again from <foreign xml:lang="x-oldsun-Latn">ñ</foreign> in the present group of inscriptions. It is also different from the shape of <foreign>gh</foreign> in the Buda/Gunung script (e.g. <bibl><ptr target="bib:Acri2017_01"/><citedRange>637–638</citedRange></bibl>).</note>
+                       <note>The grapheme here represented as <foreign xml:lang="x-oldsun-Latn">gh</foreign> is different both from <foreign>k</foreign> and <foreign xml:lang="x-oldsun-Latn">g</foreign> in this group of inscriptions; it resembles the sign that expresses <foreign xml:lang="x-oldsun-Latn">ñ</foreign> in the Kawali inscriptions, but is different again from <foreign xml:lang="x-oldsun-Latn">ñ</foreign> in the present group of inscriptions. It is also different from the shape of <foreign>gh</foreign> in the Buda/Gunung script (e.g. <bibl><ptr target="bib:Acri2017_01"/><citedRange>637–638</citedRange></bibl>).</note>
                    </app>    
                     <app loc="p1v.1">
                         <lem>ḍəṁ</lem>
                                 <rdg source="bib:Pleyte1911_01">ḍəṁ</rdg>
                                 <rdg source="bib:Boechari1985-1986_01">don</rdg>
-                        <note>Boechari's note <quote>Maksudnya: jöŋ</quote> makes clear that his reading is a printing error for <foreign xml:lang="x-oldsun-Latn">döŋ</foreign>. Hasan Djafar notes in brackets: <quote>baca: jöṅ</quote>.</note>
+                        <note>Boechari's note <quote>Maksudnya: jöŋ</quote> makes clear that his reading is a printing error for <foreign>döŋ</foreign>. Hasan Djafar notes in brackets: <quote>baca: jöṅ</quote>.</note>
                     </app>
                     <app loc="p1v.4">
                         <lem><sic>maṅa</sic></lem>
-                            <rdg source="bib:Pleyte1911_01">maṅga</rdg>
+                            <rdg source="bib:Pleyte1911_01">maṅga</rdg> 
                             <rdg source="bib:Boechari1985-1986_01">maṅa</rdg>
                     </app>
                     <app loc="p1v.4">
@@ -97,7 +97,7 @@
  	<!--translation encoded as per EG §9.2 -->
 	<p>Om. Let there be no obstacle! As follows is the decree of Rahyang Niskala Wastu Kancana, that came down to Rahyang Ningrat Kancana and also to His Highness now at Pakuan Pajajaran.</p> 
 	<p>Do not omit to take care of the inhabitants of Jayagiri and the inhabitants of Sundasembawa.</p> 
-	<p>If there is someone providing them livelihood, don’t be eager to overcrowd/overburden him/them with the <foreign xml:lang="x-oldsun-Latn">dasa</foreign>, <foreign xml:lang="x-oldsun-Latn">calagara</foreign>, <foreign xml:lang="x-oldsun-Latn">kapas timbang</foreign>, <foreign xml:lang="x-oldsun-Latn">pare dongdang</foreign>.</p> 
+	<p>If there is someone providing them livelihood, don’t be eager to overcrowd/overburden him/them with the <foreign>dasa</foreign>, <foreign>calagara</foreign>, <foreign>kapas timbang</foreign>, <foreign>pare dongdang</foreign>.</p> 
 	<p>Also addressed to all the <supplied reason="subaudible">people at the</supplied> mouth of the river: don’t be eager to ask them toll. Because those who are loved, as it were, <supplied reason="subaudible">themselves</supplied> love the world, who firmly put into practice the divine ordinances.</p> 
          </div>
          <div type="commentary">
