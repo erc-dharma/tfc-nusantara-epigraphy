@@ -5,7 +5,7 @@
     <teiHeader xml:lang="eng">
         <fileDesc>
             <titleStmt>
-                <title>Linggawangi</title><!--Change the title of the file, e.g. Raktamālā grant of the time of Budhagupta, year 159-->
+                <title>Linggawangi</title>
                 <respStmt>
                     <resp>creation of the file</resp>
                     <resp>intellectual authorship of edition</resp>
@@ -43,7 +43,8 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc>
-            <change who="part:adgu" when="2020-02-18" status="draft">Second revision</change>
+        	<change who="part:argr" when="2020-02-18" status="draft">Revision with addition of comments/questions for daba and adgu</change>
+        	<change who="part:adgu" when="2020-02-18" status="draft">Second revision</change>
             <change who="part:adgu" when="2020-02-15" status="draft">First revision</change>
             <change who="part:adgu" when="2020-02-11" status="draft">Initial encoding of the edition</change>
         </revisionDesc>
@@ -52,39 +53,36 @@
         <body>
             <div type="edition" xml:lang="x-oldsun-Latn">
                 <p> 
-                    <lb n="1"/><unclear>//</unclear>ba <num value="3"><unclear>3</unclear></num> guna <num value="3">3</num> Apuy· <num value="3">3</num> 
-                    <lb n="2"/> di <choice><reg>vvaṅ</reg><orig>vva</orig></choice> <num value="1">1</num>, Iti sakakala rumata<lb 
-                        n="3" break="no"/> k· <choice><reg>disusuk ku</reg><orig>disusuku</orig></choice> baṭāri hyaṁ pun·</p>
+                    <lb n="1"/><unclear>//</unclear> ba <num value="3">3</num> guna <num value="3">3</num> Apuy· <num value="3">3</num> 
+                    <lb n="2"/>di vva<supplied reason="omitted">ṁ</supplied><!-- Dan: this is one of those cases of a writing tradition where missing anusvāras are so common that it is actually impossible to treat them as 'omitted'; what was the solution, even if only provisional, that we had decided upon recently? I don't see any trace of it in EG. --> <num value="1">1</num>, Iti sakakala rumata<lb 
+                        n="3" break="no"/>k· disusu<supplied reason="omitted">k·</supplied><!-- Dan: here we confront a phenomenon that we may not yet have discussed for EG, namely a very strong scribal habit not to realize geminate consonants, but to spell only one. Here we have phonemic /susuk ku/, whiich is spelled in full would probably take the graphic form <susuk· ku> because in Sundanese script, ligatures are not used so freely. Now how to encode that we supply one of the expected two k's and how to decide on which word to supply it? I think we need to furnish guidance in EG.--> ku baṭāri hyaṁ pun·</p>
             </div>
         <div type="apparatus">
             <listApp>
                  <app loc="1">
-                   <lem><unclear>//</unclear>ba</lem>
-                     <rdg source="bib:Holle1877_01">// baḥ</rdg>
-                     <rdg source="bib:HasanDjafar1991_01">// ba</rdg>
-                     <note>We have doubt wether this is an opening or should be read as <foreign>A</foreign>. Noorduyn (<bibl rend="omitname"><ptr target="bib:Noorduyn1993_01"/><citedRange>313</citedRange></bibl>) notes that <foreign>ba</foreign> means 3 in the chronogram of Pararaton. Zoetmulder (<bibl rend="omitname"><ptr target="bib:Zoetmulder1982_01"/><citedRange unit="entry">wā</citedRange></bibl>records the word <foreign>ba</foreign> as a synonim of <foreign>wā</foreign> II 1. "live coal, piece of burning material which is aglow", and 2. = <foreign>ava</foreign> "bright, clear, shining".</note>
+                   <lem source="bib:HasanDjafar1991_01"><unclear>//</unclear> ba</lem>
+                    <rdg source="bib:Holle1877_01">// baḥ</rdg>
+                    <note>Instead of an opening punctuation sign, it may be possible to read <foreign>A</foreign>, in which case the first word would be <foreign>Aba</foreign>. Noorduyn (<bibl rend="omitname"><ptr target="bib:Noorduyn1993_01"/><citedRange>313</citedRange></bibl>) notes that <foreign>ba</foreign> means 3 in one or more chronograms of the <title>Pararaton</title>. Zoetmulder (<bibl rend="omitname"><ptr target="bib:Zoetmulder1982_01"/><citedRange unit="entry">wā</citedRange><!-- Dan: we should probably add "entry" to the list of permit values for @unit in <citedRange> in EG. --></bibl>records the word <foreign>ba</foreign> as a synonym of <foreign>wā</foreign>: <quote>II 1. live coal, piece of burning material which is aglow</quote>, and <quote>2. = <foreign>ava</foreign> bright, clear, shining</quote>.</note>
                  </app>
                 <app loc="3">
-                    <lem><choice><reg>disusuk ku</reg><orig>disusuku</orig></choice></lem>
-                    <note>For the same phenomenon of consonant fusion, Cf. L 426B, nr. 13: hya <choice><reg>pəpək ku</reg><orig>pəpəku</orig></choice> pənuḥ kita maṁke "Now you are filled by fullness"</note>
+                    <lem>disusu<supplied reason="omitted">k·</supplied></lem>
+                    <note>For the same phenomenon of consonant degemination, cf. manuscript Perpusnas L 426B, no. 13: <foreign>hya <choice><reg>pəpək ku</reg><orig>pəpəku</orig></choice> pənuḥ kita maṁke</foreign> "Now you are filled by fullness".<!-- Dan: what markup is needed for the quotation marks around a translation such as here? Use <quote>, as in other cases?--></note>
                 </app>
             </listApp>  
             </div>            
             <div type="translation" xml:lang="eng">
-                <p>Shining 3 qualities 3 fires 3 in human 1: such is the <supplied reason="subaudible">year in the</supplied> Śaka era that Rumatak was marked off by Bhaṭārī Hyang. Finished. </p>
+                <p>Glowing 3 qualities 3 fires 3 in a human 1: that was the <supplied reason="subaudible">year in the</supplied> Śaka era that Rumatak was marked off by Bhaṭārī Hyaṅ. Finished.</p>
             </div>
-            
+<!-- Aditia: add also SD's translation, following EG on how to encode multiple translations. -->
             <div type="commentary">
-                <p>Despite that the scholars have determined the chronogram, only Saleh Danasasmita who furnish a full translation and interpretation. However, his reading seems less precise.</p>
-            </div>
-            
+                <p><!--  --></p>
+            </div>  
         <div type="bibliography">
-           <p>The inscription was first published by Holle (<bibl rend="omitname"><ptr target="bib:Holle1877_02"></ptr><citedRange>586-587</citedRange></bibl>, in Javanese script), follow by Saleh Danasasmita (<bibl rend="omitname"><ptr target="bib:Saleh Danasasmita1975_01"></ptr></bibl>) and Hasan Djafar (<bibl rend="omitname"><ptr target="bib:HasanDjafar1991_01"></ptr><citedRange>16-18</citedRange></bibl>). Re-edited here by Aditia Gunawan &amp; Arlo Griffiths, using OD photo.</p>
+           <p>The inscription was first edited by Holle (<bibl rend="omitname"><ptr target="bib:Holle1877_02"></ptr><citedRange>586-587</citedRange></bibl>, in Javanese script); it was edited again by Saleh Danasasmita (<bibl rend="omitname"><ptr target="bib:Saleh Danasasmita1975_01"></ptr></bibl>) and by Hasan Djafar (<bibl rend="omitname"><ptr target="bib:HasanDjafar1991_01"></ptr><citedRange>16-18</citedRange></bibl>). Although these scholars have discussed the meaning if the chronogram, only Saleh Danasasmita furnished a full translation and interpretation. Re-edited and translated here by Aditia Gunawan &amp; Arlo Griffiths, based on the OD photo.</p>
             <listBibl type="secondary">  
-               <bibl><ptr target="bib:OV"/> <date>1912</date> <citedRange unit="page">84</citedRange></bibl>
+               <bibl><ptr target="bib:OV"/><date>1912</date><citedRange unit="page">84</citedRange></bibl>
                <bibl><ptr target="bib:Verbeek1891_01"/><citedRange unit="page">52-53</citedRange></bibl>
-               <bibl><ptr target="bib:Noorduyn1973_01"/></bibl>
-           </listBibl>
+             </listBibl>
         </div>        
         </body>
     </text>
