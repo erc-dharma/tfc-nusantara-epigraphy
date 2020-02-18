@@ -43,6 +43,7 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc>
+            <change who="part:adgu" when="2020-02-18" status="draft">Second revision</change>
             <change who="part:adgu" when="2020-02-15" status="draft">First revision</change>
             <change who="part:adgu" when="2020-02-11" status="draft">Initial encoding of the edition</change>
         </revisionDesc>
@@ -51,33 +52,26 @@
         <body>
             <div type="edition" xml:lang="x-oldsun-Latn">
                 <p> 
-                    <lb n="1"/><unclear>//</unclear>ba <num value="2"><unclear>2</unclear></num> guna <num value="3">3</num> Apuy· <num value="3">3</num> 
+                    <lb n="1"/><unclear>//</unclear>ba <num value="3"><unclear>3</unclear></num> guna <num value="3">3</num> Apuy· <num value="3">3</num> 
                     <lb n="2"/> di <choice><reg>vvaṅ</reg><orig>vva</orig></choice> <num value="1">1</num>, Iti sakakala rumata<lb 
                         n="3" break="no"/> k· <choice><reg>disusuk ku</reg><orig>disusuku</orig></choice> baṭāri hyaṁ pun·</p>
-                
             </div>
         <div type="apparatus">
             <listApp>
                  <app loc="1">
-                   <lem>// ba</lem>
+                   <lem><unclear>//</unclear>ba</lem>
                      <rdg source="bib:Holle1877_01">// baḥ</rdg>
                      <rdg source="bib:HasanDjafar1991_01">// ba</rdg>
-               </app>
-               <app loc="1">
-                   <lem><num value="2"><unclear>2</unclear></num></lem>
-                     <rdg source="bib:Holle1877_01">O</rdg>
-                     <rdg source="bib:HasanDjafar1991_01">3</rdg>
-                     <note>The first of the three digits is very slightly different in shape than the other two. It is more probable to read it 2. For the interpretation of ba = 2 in chronogram, cf. Par 25.23: <foreign>ba ba taṅan voṅ</foreign> i.e. 1222 Śaka</note>
-               </app>
+                     <note>We have doubt wether this is an opening or should be read as <foreign>A</foreign>. Noorduyn (<bibl rend="omitname"><ptr target="bib:Noorduyn1993_01"/><citedRange>313</citedRange></bibl>) notes that <foreign>ba</foreign> means 3 in the chronogram of Pararaton. Zoetmulder (<bibl rend="omitname"><ptr target="bib:Zoetmulder1982_01"/><citedRange unit="entry">wā</citedRange></bibl>records the word <foreign>ba</foreign> as a synonim of <foreign>wā</foreign> II 1. "live coal, piece of burning material which is aglow", and 2. = <foreign>ava</foreign> "bright, clear, shining".</note>
+                 </app>
                 <app loc="3">
                     <lem><choice><reg>disusuk ku</reg><orig>disusuku</orig></choice></lem>
                     <note>For the same phenomenon of consonant fusion, Cf. L 426B, nr. 13: hya <choice><reg>pəpək ku</reg><orig>pəpəku</orig></choice> pənuḥ kita maṁke "Now you are filled by fullness"</note>
                 </app>
             </listApp>  
             </div>            
-           
             <div type="translation" xml:lang="eng">
-                <p><seg cert="low">Shining</seg> 2 qualities 3 fires 3 in human 1: such is the <supplied reason="subaudible">year in the</supplied> Śaka era that Rumatak was marked off by Bhaṭārī Hyang. Finished. </p>
+                <p>Shining 3 qualities 3 fires 3 in human 1: such is the <supplied reason="subaudible">year in the</supplied> Śaka era that Rumatak was marked off by Bhaṭārī Hyang. Finished. </p>
             </div>
             
             <div type="commentary">
@@ -86,10 +80,10 @@
             
         <div type="bibliography">
            <p>The inscription was first published by Holle (<bibl rend="omitname"><ptr target="bib:Holle1877_02"></ptr><citedRange>586-587</citedRange></bibl>, in Javanese script), follow by Saleh Danasasmita (<bibl rend="omitname"><ptr target="bib:Saleh Danasasmita1975_01"></ptr></bibl>) and Hasan Djafar (<bibl rend="omitname"><ptr target="bib:HasanDjafar1991_01"></ptr><citedRange>16-18</citedRange></bibl>). Re-edited here by Aditia Gunawan &amp; Arlo Griffiths, using OD photo.</p>
-           
             <listBibl type="secondary">  
                <bibl><ptr target="bib:OV"/> <date>1912</date> <citedRange unit="page">84</citedRange></bibl>
-               <bibl><ptr target="bib:Verbeek1891_01"/><citedRange unit="page">52-53</citedRange></bibl> 
+               <bibl><ptr target="bib:Verbeek1891_01"/><citedRange unit="page">52-53</citedRange></bibl>
+               <bibl><ptr target="bib:Noorduyn1973_01"/></bibl>
            </listBibl>
         </div>        
         </body>
