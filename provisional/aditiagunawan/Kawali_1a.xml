@@ -5,7 +5,7 @@
     <teiHeader xml:lang="eng">
         <fileDesc>
             <titleStmt>
-                <title>Kawali I (a)</title><!--Change the title of the file, e.g. Raktamālā grant of the time of Budhagupta, year 159-->
+                <title>Kawali I (a)</title>
                 <respStmt>
                     <resp>creation of file</resp>
                     <resp>intellectual authorship of edition</resp>
@@ -43,7 +43,7 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc>
-            <change who="part:axja" when="2020-02-28" status="draft">Revision first round</change>
+            <change who="part:adgu" when="2020-02-28" status="draft">Revision first round</change>
             <change who="part:adgu" when="2019-12" status="draft">Initial encoding of the edition</change>
             <change who="part:axja" when="2020-01-09" status="draft">Update the template</change>
             
@@ -106,7 +106,7 @@
          </div>
         <div type="bibliography">
 	
-<p>The inscription was initially read by Friederich (<bibl rend="omitname"><ptr target="bib:Friederich1855_01"/><citedRange>149–182</citedRange></bibl>), then by Holle (<bibl rend="omitname"><ptr target="bib:Holle1867_01"/><citedRange>464-470</citedRange></bibl>, Pleyte (<bibl rend="omitname"><ptr target="bib:Pleyte1911_03"/><citedRange>167-169</citedRange></bibl>. Noorduyn (<bibl rend="omitname"><ptr target="bib:Noorduyn1976_01"/></bibl>) made a significant contribution of readings through his report, but it is unfortunately not widely published. A close study was undertaken by Titi Surti Nastiti (<bibl rend="omitname"><ptr target="bib:TitiSurtiNastiti1996_01"/><citedRange>1-13</citedRange></bibl>), which fournish Indonesian translation. Re-edited here by Aditia Gunawan &amp; Arlo Griffiths from our photos collection. In our apparatus, variant readings are cited from Holle, Pleyte, Noorduyn and Titi Surti Nastiti's edition.</p>
+<p>The inscription was initially read by Friederich (<bibl rend="omitname"><ptr target="bib:Friederich1855_01"/><citedRange>149–182</citedRange></bibl>), then by Holle (<bibl rend="omitname"><ptr target="bib:Holle1867_01"/><citedRange>464-470</citedRange></bibl>, Pleyte (<bibl rend="omitname"><ptr target="bib:Pleyte1911_03"/><citedRange>167-169</citedRange></bibl>. Noorduyn (<bibl rend="omitname"><ptr target="bib:Noorduyn1976_01"/></bibl>) made a significant contribution of readings through his report, but it is unfortunately not widely published. A close study was undertaken by Titi Surti Nastiti (<bibl rend="omitname"><ptr target="bib:TitiSurtiNastiti1996_01"/><citedRange>1-13</citedRange></bibl>) who furnish an Indonesian translation. Re-edited here by Aditia Gunawan &amp; Arlo Griffiths from our photos collection. In our apparatus, variant readings are cited from Holle, Pleyte, Noorduyn and Titi Surti Nastiti's editions.</p>
             
            <listBibl type="secondary">
             <bibl><ptr target="bib:Casparis1975_01"/><citedRange>54-56</citedRange></bibl>
