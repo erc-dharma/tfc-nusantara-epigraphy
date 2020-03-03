@@ -55,8 +55,10 @@
 ## Land boundaries
 | Old Javanese term                    | English translation                                        |
 |--------------------------------------|------------------------------------------------------------|
-| sapakliran lavan                  | along with, following                                       |
-| lor/kidul/vetan/kulon amǝnǝr       | straight N/S/E/W                                     |
+| lor/kidul/vetan/kulon amǝnǝr | straight N/S/E/W                                     |
+| maniku lalavā                  	| taking a sharp turn                               |
+| maṣidaktan                  	| adjoining                               |
+| sapakliran lavan                    | along with, following                                       |
 
 ## Recipients
 | Old Javanese term                    | English translation                                        |
