@@ -54,18 +54,18 @@
            <!--apparatus encoded as per EG §9.1, basic elements for apparatus below-->
                <listApp><!-- one <app> for each apparatus entry -->
 	<app loc="p1v.1">
-<lem source="bib:Boechari1985-1985_01">vuĀ<gap reason="lost" extent="unknown"/></lem>
+<lem source="bib:Boechari1985-1986_01">vuĀ<gap reason="lost" extent="unknown"/></lem>
 <rdg source="bib:CohenStuart1875_01">vuĀ<supplied reason="lost" cert="low">ra</supplied><gap reason="lost" extent="unknown"/></rdg>
 <note>Cohen Stuart's restitution is not confirmed by any occurrence of <term>vuāra</term> in any inscription that I am aware of, although <term>vuara</term> is common.</note>
 </app>
  <app loc="p1v.2">
                      <lem>Ikanaṁ</lem>
-                     <rdg source="bib:CohenStuart1875_01 bib:Boechari1985-1985_01">Ikana</rdg>
+                     <rdg source="bib:CohenStuart1875_01 bib:Boechari1985-1986_01">Ikana</rdg>
 <note>The anusvāra is clear enough on the estampage.</note>
                   </app>
                   <app loc="p1v.3">
                      <lem source="bib:CohenStuart1875_01">saṁ ḍuryyan· muAṁ saṁ siṅgaḥ</lem>
-                     <rdg source="bib:Boechari1985-1985_01">san daryyan muan singah</rdg>
+                     <rdg source="bib:Boechari1985-1986_01">san daryyan muan singah</rdg>
 <note>Besides omitting all diacritics on every one of these words, Boechari entirely omits the second <term>saṁ</term>.</note>
                   </app>
                </listApp>         
