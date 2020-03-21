@@ -42,8 +42,9 @@
         <revisionDesc>
           <change who="part:ekba" when="2020-02-11" status="draft">Improvements</change>
           <change who="part:ekba" when="2020-02-07" status="draft">Added the bibliography</change>
-            <change who="part:ekba" when="2020-01-31" status="draft">Revised the initial encoding</change>
-            <change who="part:axja" when="2020-01-09" status="draft">Update the template</change>
+          <change who="part:ekba" when="2020-01-31" status="draft">Revised the initial encoding</change>
+          <change who="part:axja" when="2020-01-09" status="draft">Update the template</change>
+          <change who="part:ekba" when="2019" status="draft">Initial encoding</change>
         </revisionDesc>
     </teiHeader>  
     <text xml:space="preserve">
@@ -51,7 +52,7 @@
             <div type="edition" xml:lang="kaw-Latn">
 <p>
 <pb n="1r"/>
-<lb n="1"/><g type="symbol" subtype="spiralR"/> ⩆ <g type="symbol" subtype="spiralR"/> svasti śakavarṣătĭtta , I saka, <num value="964">964</num>, mărgga<supplied reason="omitted">śira</supplied>măśa, tithi, navamĭ sūklapakṣa, tuṁ, pa, bu, vāra, vuyai Uta Aṣṭade<lb 
+<lb n="1"/><g type="symbol" subtype="spiralR"/> ⩆<!-- this symbols needs to be encoded --> <g type="symbol" subtype="spiralR"/> svasti śakavarṣătĭtta , I saka, <num value="964">964</num>, mărgga<supplied reason="omitted">śira</supplied>măśa, tithi, navamĭ sūklapakṣa, tuṁ, pa, bu, vāra, vuyai Uta Aṣṭade<lb 
   n="2" break="no"/>śa, Uttarabhadravadanakṣatra, Ahibuddhādevata, vāra Ika ta divaśa turunya, nugrahanira Aji pāduka mpuṅku saṁ pina<lb 
     n="3" break="no"/>khacatraniṁ bhuvaṇa, śevakasaptati mpu mogha mr<choice><orig>a</orig><reg>ā</reg></choice><supplied reason="omitted">r</supplied>th<choice><orig>ā</orig><reg>a</reg></choice>n<choice><orig>a</orig><reg>ā</reg></choice>kən· kaha<surplus>kaha</surplus>yvaknaniṁ bhūvaṇa, tlas· karuhun di:rghayūraro<g type="filler">§</g><lb 
       n="4" break="no"/>gya haji pāduka mpūṅku, tumurun· tan pahāmbāl· turuny anugrahanira, matəkəta sira L̥̄maḥ, Irikaṁ rāma I kambaṁ śrī, ma<lb 

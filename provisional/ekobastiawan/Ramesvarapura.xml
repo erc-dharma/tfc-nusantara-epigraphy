@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader xml:lang="eng">
+        <fileDesc>
+            <titleStmt>
+                <title>Ramesvarapura</title>
+                <respStmt>
+                    <resp>creation of file</resp>
+                    <persName ref="part:ekba">
+                        <name>Eko Bastiawan</name>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>intellectual authorship of edition</resp>
+                    <persName ref="part:argr">
+                        <forename>Arlo</forename>
+                        <surname>Griffiths</surname>
+                    </persName>
+                </respStmt>
+            </titleStmt>         
+            <publicationStmt>
+                <authority>DHARMA
+                    <note>This project has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).
+                    </note>
+                </authority>
+                <pubPlace>Malang</pubPlace>
+                <idno type="filename">Ramesvarapura</idno>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>This work is licenced under the Creative Commons Attribution 4.0 Unported Licence. To view a copy of the licence, visit https://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.</p>
+                    	<p>Copyright (c) 2019-2025 by Eko Bastiawan &amp; Arlo Griffiths</p>
+                    </licence>
+                </availability>
+                <date from="2019" to="2025">2019-2025</date>
+            </publicationStmt>
+            <sourceDesc>
+                <p><!-- not to be filled in at this stage --></p>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+                                   <change who="part:ekba" when="2020-02-25" status="draft">Initial encoding</change>
+                                            </revisionDesc>
+    </teiHeader>
+    <text xml:space="preserve">
+      <body>
+         <div type="edition" xml:lang="kaw-Latn">
+<pb n="1r"/><space quantity="1" unit="page"/><!--Blank outer page.-->
+<p><pb n="1v"/>
+ <lb n="1"/>// 0 // svasti, śakavarṣātīta, <num value="1197">1197</num>, jyaiṣṭhamāsa, tithi, pañcadaśī śuklapakṣa, <abbr>tuṁ</abbr>, <abbr>po</abbr>, <abbr>ca</abbr>, vāra gumr̥g·,
+<lb n="2"/>Uttarasthagrahacāra, mūlānakṣatra, toyadevatā, vāyavyamaṇḍala, śuklayoga, śvetamuhūrtta, viṣṭikara<lb 
+    n="3" break="no"/>ṇa, śaśīparvveśa, mitunarāśi, Irika divaśany ājñā śrī mahārāja rājādhirājā, dyaḥ Ūrddhaja, viṣṇukulakamalava<lb 
+        n="4" break="no"/>narājahaṅsa, Aśeṣanamitāribhūpālamaṇimakuṭaghr̥rṣitaśrīpādapīṭha sakalasujanahr̥dayakumudavikā<lb 
+            n="5" break="no"/>sakaraṇasūryyasad(ra)r̥śa, saptasvarṇavasundharādhināthaśiraḥkamalamattavāraṇa, Anavaratarajatakanaratnavastradā<lb 
+                n="6" break="no"/>dāna gaṅgāprajāhasannibhakara, raṇaraṅgamadhyāpratihatabhujabalabhīma, jayaśrīviṣṇuvarddhanasahasrakiraṇo<lb 
+                    n="7" break="no"/>pamasatputra, śrīmat·śrījayavarddhanīdevĭsamudramandarācalamanthānamahāmr̥tamaya, śrīkr̥tanagara<lb 
+                        n="8" break="no"/>vikramadharmottuṅgadevanāmarājābhiṣeka, tinaḍaḥ de rakryan mahāmantrī katriṇī, rakryan· mantri
+<pb n="6r"/>
+<lb n="1"/>jə:ṁ, <num value="2">2</num>, Anapu prāṇa, jə:ṁ, <num value="2">2</num>, Aharyyan·, ki <num value="1">1</num>, kabayan samaṅanti rampakan·, jə:ṁ <num value="1">1</num>, ki <num value="1">1</num>, Aṅalihi, jə:ṁ <num value="1">1</num>, ka<lb 
+    n="2" break="no"/>bayan samaṅanti susukun·, jə:ṁ <num value="1">1</num>, ki <num value="1">1</num>, Aṅalihi, jə:ṁ <num value="1">1</num>, maṇḍala, <num value="4">4</num>, jə:ṁ <num value="4">4</num>, juru buruḥ, jə:ṁ <num value="1">1</num>, ki <num value="1">1</num>, gusti, jə:ṁ <num value="1">1</num>, bu<lb 
+        n="3" break="no"/>ruḥ Anamaratā, <num value="3">3</num>, jə:ṁ <num value="1">1</num>, ki <num value="1">1</num>, juru buruḥ susukun·, jə:ṁ <num value="1">1</num>, gusti, ki <num value="1">1</num>, jagulan·, jə:ṁ <num value="1">1</num>, malas·, jə:ṁ <num value="1">1</num>, Apaṇḍ<lb 
+        n="4" break="no"/>e vsi, jə: <num value="1">1</num>, paṅakan·, ki <num value="1">1</num>, Amalantə:n·, ki <num value="1">1</num>, piṇḍa savaḥ, kadmak·, cā <num value="2">2</num>, kunə:ṅ ikaṁ śeṣa, ya teka pa<lb 
+            n="5" break="no"/>rṇaḥ kaputrāṅśanani santāna pratisantāna śrī brahmarāja, mvaṅ ikaṁ Uliḥniṅ amabaki, kunə:ṅ ikaṁ gagā, kubvan·, pa<lb 
+                n="6" break="no"/>rṇaḥ kaputrāṅśan ika, kunə:ṁ parimāṇani lmaḥ saṁ hyaṁ dharmma riṁ śrĭ rāmeśvarapura, riṁ pūrvva, Asiḍaktan lavan kijaṅan·, maṅi<lb 
+                    n="7" break="no"/>dul amnə:r· tkeṁ juraṁ, Asiḍaktan lavan kijaṅan·, Aniku lalavā maṅetan aṅidul atūt· juraṁ, ḍpa <num value="679">679</num>, Akālihan·
+<lb n="8"/>lvaḥ Asiḍaktan· lavan kijaṅan·, maṅidul·, ḍpa <num value="96">96</num>, tumurun iṁ juraṁ, Asiḍaktan lavan kijaṅan·, maṅidul aṅulvan· A<pb n="6v" break="no"/><fw n="6v" place="left"><num value="6">6</num></fw><lb 
+    n="1" break="no"/>tūt· juraṁ, ḍpa <num value="340">340</num>, Akālihan· lvaḥ lavan kijaṅan·, mə:nta sakeṁ juraṁ, Akāra, ḍpa <num value="5">5</num>, tkeṅ āgneya, kulumpaṁ ri ra<unclear>ṁ</unclear><lb n="2" break="no"/>R̥ bañjar·, vetan kijaṅan·, kidul· blut·, maṅulvan sakeṅ āgneya, kiduliṁ juraṁ, ḍpa <num value="5">5</num>, tkeṁ dakṣiṇa, Asi<lb 
+        n="3" break="no"/>ḍaktan lavan· blut·, maṅulvan· sakeṁ dakṣiṇa, kidulniṁ lvaḥ, ḍpa <num value="5">5</num>, tkeṁ nairiti, Asiḍaktan· lavan· blut·, maṅa<lb 
+            n="4" break="no"/>lor· sakeṁ nairiti, Amgat· lvaḥ, ḍpa <num value="175">175</num>, Asiḍaktan lavan· blut·, mlut· maṅulvan aṅalor· tkeṁ lvaḥ, ḍpa <num value="16">16<lb 
+                n="5" break="no"/>0</num>, Asiḍaktan lavan· blut·, maṅalor amgat· lvaḥ, ḍpa <num value="340">340</num>, Asiḍaktan lavan· pagə:r·, mlut· maṅetan aṅalor·
+<lb n="6"/>, ḍpa <num value="80">80</num>, Asiḍaktan· lavan· soso, maṅalor amnə:r·, tkeṁ paścima, ḍpa <num value="110">110</num>, Asiḍaktan· lavan· so<lb 
+    n="7" break="no"/>so, Aniku lalavā maṅulvan·, ḍpa <num value="60">60</num>, Asiḍpaktan· lavan· soso, Aniku lalavā maṅalor amnə:r·
+<lb n="8"/>[,] ḍpa <num value="840">840</num>, Asiḍaktan i talaga, Aniku lalavā maṅulvan·, ḍpa <num value="18">18</num>, Asiḍaktan lavan talaga, Aniku lala-
+<pb n="9r"/>
+ <lb n="1"/>mambaṁ, huñjə:man·, śenămuka, varahan· muka, paḍahi, kecaka, tarimban·, mabañjval·, mata<lb 
+     n="2" break="no"/>pukan·, mariṅgit·, salahan·, vargga I daL̥m·, sapinakavargga ya, sadeśa saṅkanya, sapravr̥<lb 
+         n="3" break="no"/>ttinya, tāvat· ya Umuṅgu ri saṁ hyaṁ dharmma, saṁ hyaṁ dharmma lavan· samasānak· pramāṇerika kabeḥ,
+<lb n="4"/>muvah ikaṅ asambyāvahāra dravya sa hyaṁ dharmma, hiniṅanan· kveḥ kḍiknya, Ann ikaṁ tigaṁ kabayan·,
+<lb n="5"/>riṁ sasambyāvahāra, Abhāṣaṇa tigaṁ ḍasar·, Aṅavari tigaṁ ḍasar·, Akacapuri tigaṁ ḍasar·, A<lb 
+    n="6" break="no"/>carakī, tigaṁ ḍasar·, pamadapadan· parahu tuṅgal·, banava tuṅgal·, saha tuṇḍan·, Ahilira<lb 
+        n="7" break="no"/>n· tigaṁ parahu, Abakul· griḥ tigaṁ kabayan·, sārathī tigaṁ kabayan·, vuyaḥ, lṅa, luruṅa<lb 
+            n="8" break="no"/>n·, klə:t(ə)k·, sə:R̥ḥ, vvaḥ, sarvvahə:mbu, Acadar·, Amut(ə)r ti/ga\ lumpaṁ, Amaraṅgi rvaṁ pavindvan·,
+<pb n="9v"/>
+<fw n="9v" place="left"><num value="9">9</num></fw>
+<lb n="1"/>Apaṇḍe vsi rvaṅ ububan·, Alukis· rvaṁ pajaran·, Apaṇḍe ḍaḍap· rvaṁ gusalī, Apaṇḍe ma<lb 
+    n="2" break="no"/>s· rvaṁ gusalī, Apaṇḍe salaka rvaṁ gusalī, Apaṇḍe tamra, Apaṇḍe siṅyasiṅyan·, Apaṇḍ<lb 
+        n="3" break="no"/>e daṁ, rvaṁ gusalī sovaṁ, Apaḍahi, rva(ṁ) taṅkilan·, Aguluṅan·, rva guluṅan·, tan kaknāna dra<lb 
+            n="4" break="no"/>vya haji saparanyādval avli, yapvan· lviḥ sakeṁ ri kaknana dravya haji, de saṁ makə:kran· ya, ya<lb 
+                n="5" break="no"/>n maṅulaṁ kbo, <num value="20">20</num>, kbonya, yan maṅulaṁ sapi, <num value="40">40</num>, sapinya, yan maṅulaṁ vḍus·, <num value="80">80</num>, vḍusnya, ya<lb 
+                    n="6" break="no"/>n maṅulaṁ celeṁ, <num value="2">2</num>, vurugan· celeṅanya, yan maṅulaṅ itik·, rva vanteyan· Itikanya, sapara<lb 
+                        n="7" break="no"/>nya deśa, sodara haji, ndan· makmitana ta ya tulis·, maṅka lviranya, yan· L̥viḥ saṅke paṅhī<lb 
+                            n="8" break="no"/>ṅan iriya, knāna dravya haji de saṁ makə:kran· ya, tuhun kavnaṅakna samasānak· savka saṁ hyaṁ dha-
+<pb n="11r"/>
+<lb n="1"/>petə:n alapə:n· patyana, tan kaparadātaḥ samasānak·, yan tan paṅə:takə̄n·, muvaḥ vnaṅ a<lb 
+    n="2" break="no"/>naṅgapana maliṁ, kīlalanə:n· juga Ikaṁ dravya, yan· vruḥ saṁ madravya, tan· ḍə:ṇḍanə:n·, muvaḥ
+<lb n="3"/>yan hana kavula samasānak·, pavvaṅan·, braya, vka kunə:(ṁ), patyana makanimitta kaḍuṣṭanya, tumib<lb 
+    n="4" break="no"/>e kavaṁvaṅanya juga, tan kaparadātaḥ samasānak· samudāya, muvaḥ UṅsiR̥n iṅ ahutaṁ tan· hīR̥n·
+<lb n="5"/>, katmva tagihə:n·, puhakana, <abbr>mā</abbr> <num value="1">1</num>, riṁ, <abbr>sū</abbr> <num value="1">1</num>, Aṅkə:n· tahun·, samaṅkana kinavnaṅakə:n· samasāna<lb 
+    n="6" break="no"/>k· savka śrī brahmarājā ḍaṁ hyaṁ dharaṇidhara, Umuṅgv i saṁ hyaṁ dharmma ri śrī rāmeśvarapura, prasiddha pva kolahulahan saṁ
+<lb n="7"/>hyaṁ dharmma riṁ śrī rāmeśvarapura, maṅhaturakə:n· ta śrī brahmarājā ḍaṁ hyaṁ dharaṇidhara, pamūrṣita, <abbr>kā</abbr>, <num value="1">1</num>, <abbr>sū</abbr> <num value="5">5</num>,
+<lb n="8"/>vḍihan·, yuga, ri śrī mahārāja, muvaḥ śrī brahmarājā ḍaṁ hyaṁ dharaṇidhara, maṅhaturakə:n· pamū<pb n="11v" break="no"/>
+<fw n="11v" place="left"><num value="11">11</num></fw><lb 
+    n="1" break="no"/>rṣita, <abbr>kā</abbr> <num value="1">1</num>, <abbr>sū</abbr> <num value="5">5</num>, vḍihan·, yuga, ri bhaṭāra śrī narasiṅhamūrtti, para dvija samasaṅkadhara, Inaṅsyə:n· pasə:k pagə:ḥ,
+<lb n="2"/>, <abbr>sū</abbr> <num value="1">1</num>, <abbr>mā</abbr> <num value="4">4</num>, sovaṁ, salimput·, yuga, sovaṁ, para mpuṅku samasaṅkadhara, Inaṅsyə:n· pasə:k pagə:ḥ, <abbr>sū</abbr>
+<lb n="3"/><num value="1">1</num>, <abbr>mā</abbr> <num value="4">4</num>, sovaṁ, salimput·, yuga, sovaṁ, muvaḥ rakryān apatiḥ, mapañjy āṅragani, Inaṅsyə:<lb 
+    n="4" break="no"/>n· pasə:k pagə:ḥ, <abbr>sū</abbr> <num value="1">1</num>, <abbr>mā</abbr> <num value="4">4</num>, vḍihan·, yuga, rakryān· dmuṁ, mapañji vipakṣa, Inaṅsyə:n· pasə:k pagə:ḥ, <unclear>sū</unclear>
+<lb n="5"/><num value="1">1</num>, <abbr>mā</abbr> <num value="4">4</num>, vḍihan·, yuga, rakryan kanuruhan·, mapañjy ānurida, Inaṅsyə:n· pasə:k pagə:ḥ, <abbr>sū</abbr> <num value="1">1</num>, <abbr>mā</abbr> <num value="4">4</num>, vḍihan·
+<lb n="6"/>, yuga, tan kavuntat· saṁ pamgə:t i tirvan·, mapañji parama, Inaṅsyə:n· pasə:k pagə:ḥ, <abbr>sū</abbr> <num value="1">1</num>, <abbr>mā</abbr> <num value="4">4</num>, sali<lb 
+    n="7" break="no"/>mput·, yuga, sa pamgə:t iṅ kaṇḍamuhi, mapañji nirdeśa, Inaṅsyə:n· pasə:k pagə:ḥ, <abbr>sū</abbr> <num value="1">1</num>, <abbr>mā</abbr> <num value="4">4</num>, salimpu<lb 
+        n="8" break="no"/>t·, yuga, saṁ pamgə:t iṁ maṅhuri, mapañji salaḥ smu, Inaṅsyə:n· pasə:k pagə:ḥ, <abbr>sū</abbr> <num value="1">1</num>, <abbr>mā</abbr> <num value="4">4</num>, salimput·
+<pb n="12r"/>
+<lb n="1"/>yuga, saṁ pamgə̄t iṁ laṅka, sinuṅan· pasə:k pagə:ḥ, <abbr>sū</abbr> <num value="1">1</num>, <abbr>mā</abbr> <num value="4">4</num>, vḍihan·, sahle, samaṅkana matuṅgal·tuṅgal·
+<lb n="2"/>ri narama taṇḍa rakryān· riṁ pakirakirān· makab(ai)han·, Inaṅsyə:n· pasə:k pagə:ḥ, muvah ika grāma
+<lb n="3"/>pinakasakṣī sinuṅan· pasə:k pagə:ḥ, buyut i kijaṅan· sinuṅan· pirak·, <abbr>mā</abbr> <num value="1">1</num>, vḍihan·, <num value="1">1</num>, (b)uyu<lb 
+    n="4" break="no"/>t· riṁ blut·, sinuṅan· pirak·, <abbr>mā</abbr> <num value="1">1</num>, vḍihan·, <num value="1">1</num>, buyut i soso, sinuṅan· pirak·, <abbr>mā</abbr> <num value="1">1</num>, vḍihan·
+<lb n="5"/>, <num value="1">1</num>, buyut i talaga, sinuṅan· pirak·, <abbr>mā</abbr> <num value="1">1</num>, vḍihan·, <num value="1">1</num>, buyut i pabāṅan· sinuṅan· pirak·,
+<lb n="6"/><abbr>mā</abbr> <num value="1">1</num>, vḍihan·, <num value="1">1</num>, buyut i maṅnə:b· sinuṅan· pirak·, <abbr>mā</abbr> <num value="1">1</num>, vḍihan·, <num value="1">1</num>, buyut i roṇḍon· sinu<lb 
+    n="7" break="no"/>ṅan· pirak·, <abbr>mā</abbr> <num value="1">1</num>, vḍihan·, <num value="1">1</num>, buyut i kali sinuṅan· sinuṅan· pirak·, <abbr>mā</abbr> <num value="1">1</num>, vḍihan·, <num value="1">1</num>, bu<lb 
+        n="8" break="no"/>yut i gubar sinuṅan· pirak·, <abbr>mā</abbr> <num value="1">1</num>, vḍihan·, <num value="1">1</num>, buyut i<unclear>ṅ</unclear> andoḥ sinuṅan· pirak·, <abbr>mā</abbr> <num value="1">1</num>, vḍi<pb n="12v" break="no"/>
+<fw n="12v" place="left"><num value="12">12</num></fw><lb 
+    n="1" break="no"/>han·, <num value="1">1</num>, juru ri lala ki lumbaṁ sinuṅan· pirak·, <abbr>ku</abbr> <num value="2">2</num>, vḍihan·, <num value="1">1</num>, juru ri kalimunan· j{i}antur palu sinuṅan·
+<lb n="2"/>pirak·, <abbr>ku</abbr> <num value="2">2</num>, vḍihan·, <num value="1">1</num>, juru ri gal(u)gur· kbo rambiṅan·, sinuṅan· pirak·, <abbr>ku</abbr> <num value="2">2</num>, vḍihan·, <num value="1">1</num>, juru ri ka<lb 
+    n="3" break="no"/>varen· kbo sajareṁ, sinuṅan· pirak·, <abbr>ku</abbr> <num value="2">2</num>, vḍihan·, <num value="1">1</num>, juru ri hijo, ki ṭə:L̥ṁ, sinuṅan· pirak·, <abbr>ku</abbr> <num value="2">2</num> 
+<lb n="4"/>, vḍihan·, <num value="1">1</num>, juru ri suka lagu kbo ḍuṅkul· sinuṅan· pirak·, <abbr>ku</abbr> <num value="2">2</num>, vḍihan·, <num value="1">1</num>, lvir juru riṁ vrarggaji, juru ri mə̄mə̄<lb 
+    n="5" break="no"/>li kbo ḍalaṁ sinuṅan· pirak·, <abbr>ku</abbr> <num value="2">2</num>, vḍihan·, <num value="1">1</num>, juru riṁ R̥caḥ L̥mbu hijo, sinuṅan· pirak·, <abbr>ku</abbr> <num value="2">2</num>, vḍihan·, <num value="1">1</num>,
+<lb n="6"/>juru riṅ ahoṁ kbo bara, sinuṅan· pirak·, <abbr>ku</abbr> <num value="2">2</num>, vḍihan·, <num value="1">1</num>, juru papare, gagak· baruṁ, sinuṅan· pira<lb 
+    n="7" break="no"/>k·, <abbr>ku</abbr> <num value="2">2</num>, vḍihan·, <num value="1">1</num>, juru ri sumbul·, sinuṅan· pirak·, <abbr>ku</abbr> <num value="2">2</num>, vḍihan·, <num value="1">1</num>, lvirniṁ same haji, buyut iṁ
+<lb n="8"/>pamaṅgihan· kb<unclear>v</unclear>o miL̥t·, sinuṅan· pirak·, <abbr>ku</abbr> <num value="2">2</num>, vḍihan·, <num value="1">1</num>, buyut i ḍiṅḍiṁ, raṅgaḥ bāmā, sinuṅan· pi<pb n="13r" break="no"/><lb n="1" break="no"/>rak·, <abbr>ku</abbr> <num value="2">2</num>, vḍihan·, <num value="1">1</num>, buyut i talaga ḍalaṅ sara, sinuṅan· pirak·, <abbr>ku</abbr> <num value="2">2</num>, vḍihan·, <num value="1">1</num>, bu<lb 
+    n="2" break="no"/>yut i paha<unclear>ṁ</unclear>, sinuṅan· pirak·, <abbr>ku</abbr> <num value="2">2</num>, vḍihan·, <num value="1">1</num>, buyut i həmbal·, gagak sasaren·, sinuṅan· pira<lb 
+        n="3" break="no"/>k·, <abbr>ku</abbr> <num value="2">2</num>, vḍihan·, <num value="1">1</num>, buyut i və:ñcaran·, gagak· jinə:mur·, sinuṅan· pirak·, <abbr>ku</abbr> <num value="2">2</num>, vḍihan·, <num value="1">1</num>, ka<lb 
+            n="4" break="no"/>pvekaṁ sinuṅan· pasə:k pagə:ḥ, <abbr>ku</abbr> <num value="2">2</num>, sovaṁ, vḍihan·, <num value="1">1</num>, sovaṁ, lvirniṁ juru jasun· vuṅkal·, juru sam<lb 
+                n="5" break="no"/>e kapuluṅan·, jantur məṅə:ṁ, sinuṅan· pirak·, <abbr>ku</abbr> <num value="2">2</num>, vḍihan·, <num value="1">1</num>, buyut i paḍameyan·, gagak· moleṁ
+<lb n="6"/>, sinuṅan· pirak·, <abbr>ku</abbr> <num value="2">2</num>, vḍihan·, <num value="1">1</num>, buyut i tuḍan·, gajaḥ lalatu, sinuṅan· pirak·, <abbr>ku</abbr> <num value="2">2</num>, vḍihan·
+<lb n="7"/>, <num value="1">1</num>, buyut i paṇḍakan·, kalāṅavur·, sinuṅan· pirak·, <abbr>ku</abbr> <num value="2">2</num>, vḍihan·, <num value="1">1</num>, buyut i bataṁ, kalāṅavu<lb 
+    n="8" break="no"/>r·, sinuṅan· pirak·, <abbr>ku</abbr> <num value="2">2</num>, vḍihan·, <num value="1">1</num>, buyut i tulaṅan·, L̥mbu kakas·, sinuṅan· pirak·, <abbr>ku</abbr> <num value="2">2</num>, vḍi<pb n="13v" break="no"/><fw n="13v" place="left"><num value="13">13</num></fw><lb 
+        n="1" break="no"/>han·, <num value="1">1</num>, buyut i vvatan·n mās·, sinuṅan· pirak·, <abbr>ku</abbr> <num value="2">2</num>, vḍihan·, <num value="1">1</num>, kapvekaṁ sinuṅan· pasə:k pagə:<lb 
+            n="2" break="no"/>ḥ <abbr>ku</abbr> <num value="2">2</num>, sovaṁ, vḍihan·, <num value="1">1</num>, sovaṁ, lvirniṁ tani juru I L̥mbaḥ, karabit·, samgə:t· juru same, (L̥)paṅ u
+<lb n="3"/>si, sinuṅan· pirak·, <abbr>ku</abbr> <num value="2">2</num>, vḍihan·, <num value="1">1</num>, buyut i timə:s· buyut· cara, ki vajvaṁ, sinuṅan· pirak·, <abbr>ku</abbr>
+<lb n="4"/><num value="2">2</num>, vḍihan·, <num value="1">1</num>, buyut i paguyaṅan·, kulāṅus·, sinuṅan· pirak·, <abbr>ku</abbr> <num value="2">2</num>, vḍihan·, <num value="1">1</num>, buyut i paki<lb 
+    n="5" break="no"/>s·, kbo hañjahañja, sinuṅan· pirak·, <abbr>ku</abbr> <num value="2">2</num>, vḍihan·, <num value="1">1</num>, buyut i bras·, kbo jantur·, sinuṅan·
+<lb n="6"/>pirak·, <abbr>ku</abbr> <num value="2">2</num>, vḍihan·, <num value="1">1</num>, buyut i sirikan·, raṅgaḥ mugə:r·, sinuṅan· pirak·, <abbr>ku</abbr> <num value="2">2</num>, vḍihan·, <num value="1">1</num>,
+<lb n="7"/>buyut i juṅalaṁ, L̥mbu kaduṅus·, sinuṅan· pirak·, <abbr>ku</abbr> <num value="2">2</num>, vḍihan·, <num value="1">1</num>, buyut i ptuṁ, raṅgah amvar·, sinu<lb 
+    n="8" break="no"/>ṅan· pirak·, <abbr>ku</abbr> <num value="2">2</num>, vḍihan·, <num value="1">1</num>, lvirniṁ tani juru paṅkaḥ, juru kidul· buyut i gə:ṇḍoṁ, raṅgaḥ vadva,
+<pb n="14r"/>
+<lb n="1"/>sinuṅan· pirak·, <abbr>ku</abbr> <num value="2">2</num>, vḍihan·, <num value="1">1</num>, juru made, buyut i vadehati, ki mara, sinuṅan· pirak·, <abbr>ku</abbr> <num value="2">2</num>,
+<lb n="2"/>vḍihan·, <num value="1">1</num>, juru lor· buyut i vuruṅkud·, buyut· kbo ragen·, sinuṅan· pirak·, <abbr>ku</abbr> <num value="2">2</num>, vḍihan·, <num value="1">1</num>,
+<lb n="3"/>kapvaṁ sinuṅan· pasə:k pagə:ḥ, <abbr>ku</abbr> <num value="2">2</num>, sovaṁ, vḍihan·, <num value="1">1</num>, sovaṁ, ri huvusniṅ adum· pasə:k pagə:ḥ, tiniṅkaḥ
+<lb n="4"/>sajisaji samgə:t· paṅuraṁ, makudur·, Iṁ sorniṁ turumbukan·, ri tṅaḥni(ṁ) kalaṅan·, saha vidhividhānaniṅ anu<lb 
+    n="5" break="no"/>suk· dharmmasĭma riṁ lagi, mamujā ta saṁ viku ri vidikvidik·, ri husniṅ amujā, maṁṇḍiri ta samgə:t· ryy ayə:m tyə:<lb n="6" break="no"/>s·, marasuk· kalambi haji, tlas· mottaR̥ṅga, mamukanmukan·bandhana, ri sorniṁ turumbukan·, mandə:lan·
+<lb n="7"/>pāda, InaR̥pakə̄n· deniṁ piṅhey akurug ānak thani rāmarāma sakaviṅkiṁ riṁ siriṁ samadāya, pinakasăkṣĭ ri ka<lb 
+    n="8" break="no"/>susukan· saṁ hyaṁ dharmma riṁ śrī rāmeśvarapura, lumkas ta saṁ makurug· kabeḥ maṅuyutuyut·, mantə:k· gulu<pb n="14v" break="no"/><fw n="14v" place="left"><num value="14">14</num></fw><lb 
+        n="1" break="no"/>ni hayaṁ, mamantiṅakə:n· hantiga, linaṇḍə:sakə:n·, ri saṁ hyaṁ vatu susuk·, mamaṁmaṁ manapathe, Au;m Indaḥ
+<lb n="2"/>ta kita kamu hya;m Aricandanāgāsti mahar̥ṣi, pūrvva dakṣiṇa, paścima, Utara maddhya,moddhāmadaḥ, ravi śaśī
+<lb n="3"/>kṣity āpas tejo kāśa dharmmāhorātra sandhyātraya, yakṣasa piśāca, pretāsura garuḍa gandha<lb 
+    n="4" break="no"/>rvva kirannara mahorabha yama baruṇa kuvera bhāśava, putra devatā, kuśika gargga metri kuruṣya pā<lb 
+        n="5" break="no"/>tañjala, nandĭśvara mahākāla, (ṣ)advināya, nāgarāja durggadevī, caturaśraya, Ananta hyaṁ kā<lb 
+            n="6" break="no"/>lamr̥tyu, bhŭtagaṇa, sahananta rumākṣā sakalabhūmimaṇḍala, kita sakalasăkṣī vruḥ riṅ ahala la<lb 
+                n="7" break="no"/>van ahayu, kita tumonaṅ adoh apaR̥k· riṁ rahineṅ kuL̥m·, kita manarira, Umasuki sarvvabhūta,
+<lb n="8"/>At· R̥ṅyə:kə:n tekiṁ śapatha samaya, pamaṁmaṁ mami ri kita kamu hyaṁ kabeḥ, Ikaṁ śapatha sāmaya su<pb n="15r" break="no"/><lb 
+    n="1" break="no"/>mpaḥ sinrahakə:n iṅ hulun iri kita, yăvat ikaṁ vvaṁ kabeḥ Agə:ṅ aḍmit· salviranya, yadyan· caturaśrama
+<lb n="2"/>, brāhmacāri gr̥hastha, bhikṣuka, Athaca, caturvarṇa, kṣatriya, veśya, śūdra, mvaṁ pinhey akurug ava(j)uh a<lb 
+    n="3" break="no"/>nak thāni, makādi saṁ prabhumantryānăgata, yăvat umulahulaḥ I saṁ hyaṁ dharmma riṁ śrī rameśvarapura, mne hlə:<lb n="4" break="no"/>m· tka ri dlāhani dlāha, Amibikamubakāmuṅkil·muṅkilā ri saṁ hyaṁ dharmma ri śrī rameśvarapura, ṅunive<lb 
+        n="5" break="no"/>ḥ, yan paṁdavuta ri saṁ hyaṁ Upaṇarima, Aṅalihakna ri tan sayogya Uṅgvananira, tasmāt kabyə:t karmmākna<lb 
+            n="6" break="no"/>nya, (pa)rikalanə:nta ya vehə:n sasāra, tan· vuruṅa patyananta kamu hyaṁ, dāyānta pamigraha, ya<lb 
+                n="7" break="no"/>n apa(ra)parān· humalintaṁ ri tgal·, sahutə:n deni hulā mandi, riṅ alas· dmakə:n deni vyāghra, ma<lb 
+                    n="8" break="no"/>ṅla hana mimaṁ, sarikə:n· deniṁ banaspati, mogha kneṁ vilantiḥ, riṁ vai sahut·tə:n· deniṁ vuhaya
+<pb n="15v"/>
+<fw n="15v" place="left"><num value="15">15</num></fw>
+<lb n="1"/>, mumul tuvira timiṅgila mahāgila, yan riṁ havanevə:ḥ sumə:ṅka kapaguta I luñcipiṁ paras·, tu<lb 
+    n="2" break="no"/>murun kaduhuṅa kajuṅkə:la pə̄pə̄satikə:l· R̥mpa, riṁ ratā kasopa vulaṅuna haliṅə:ṅə:na, riṅ huda<lb 
+        n="3" break="no"/>n· sambə:rR̥n deniṁ glap·, yan· paṅher iṅ umaḥ, katibāna bajrāgni tan pavarṣa, limutə:n· gsə:ṅa<lb 
+            n="4" break="no"/>na deni saṁ hyaṁ Agnī, vehə:n· basmĭbhūta saha dravyanya tan panoliha ri vuntat·, taruṁ riṁ paṅadə:gan·
+<lb n="5"/>, tampyal· ri kiva, Uvahi ri tṅə:nan·, tutuh uṇḍuhanya, blaḥ kapālanya, ḍaḍat i və:tə:ṁnya tke ḍaḍa<lb 
+    n="6" break="no"/>nya, və:tvakə:n· daL̥manya, Inum· rāḥnya, Atə:hə:r pə:pə:dakə:n· bvaṅakə:n· vkas i prāṇāntika, bva<lb 
+        n="7" break="no"/>ṅakə:n· ri mahārorava, Astu Astu, @ || @, yăvat pratiṣṭate bhūmo, mahāmeru suparvvataḥ, tăva<lb 
+            n="8" break="no"/>t kilviṣabhūktiḥ syāt·, rājānugrahalaṅghyanāt·, @, yo rājānugrahaṁ hatvā, mohād mŭrko na-
+</p>
+         </div>
+         <div type="apparatus">
+           <!--apparatus encoded as per EG §9.1, basic elements for apparatus below-->
+               <listApp><!-- one <app> for each apparatus entry -->
+                   <app ></app>
+               </listApp>         
+         </div>
+         <div type="translation" xml:lang="eng" resp="part:argr">
+ 	<!--translation encoded as per EG §9.2 -->
+         </div>
+         <div type="commentary">
+            <!--commentary encoded as per section §9.3 -->
+         </div>
+        <div type="bibliography">
+	<!--bibliography encoded as per section §9.4 -->
+             <listBibl type="secondary">
+             <bibl></bibl>
+           </listBibl>
+        </div>
+      </body>
+  </text>
+</TEI>

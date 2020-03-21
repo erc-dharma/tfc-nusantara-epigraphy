@@ -1,57 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"> 
-    <teiHeader xml:lang="eng">
-        <fileDesc>
-            <titleStmt>
-                <title>Encoding template for inscription</title><!--Change the title of the file, e.g. Raktamālā grant of the time of Budhagupta, year 159-->
-                <respStmt><!-- add an element respStmt for each person involved -->
-                    <resp>intellectual authorship of edition</resp><!-- this may be the same as the creator of the file -->
-                    <persName ref="part:argr"><!-- update the id -->
-                        <forename>Arlo</forename><!-- fill in the name of the responsible scholar — it possible to use only <name> instead of <foreame> and <surname> -->
-                        <surname>Griffiths</surname>
-                    </persName>
-                </respStmt>
-            </titleStmt>         
-            <publicationStmt>
-                <authority>DHARMA
-                    <note>This project has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).
-                    </note>
-                </authority>
-                <pubPlace>Paris</pubPlace>
-                <idno type="filename">DHARMA_EncodingTemplateInscription</idno><!-- Replace by filename, e.g. Pallava00001 -->
-                <availability>
-                    <licence target="https://creativecommons.org/licenses/by/4.0/">
-                        <p>This work is licenced under the Creative Commons Attribution 4.0 Unported Licence. To view a copy of the licence, visit https://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.</p>
-                        <p>Copyright (c) 2019-2025 by Arlo Griffths.</p><!-- Replace year and name, use format "Forename1 Surname1 & Forename2 Surname2" or "Forename1 Surname1, Forename2 Surname2 & Forename3 Surname3"  if necessary — the copyright is that of the encoder(s) -->
-                    </licence>
-                </availability>
-                <date from="2019" to="2025">2019-2025</date>
-            </publicationStmt>
-            <sourceDesc>
-                <p><!-- not to be filled in at this stage --></p>
-            </sourceDesc>
-        </fileDesc>
-        <revisionDesc>
-            <change who="part:axja" when="2020-01-09" status="draft">Update the template</change><!-- add a <change> for each change to the file, the first change should replace this one and record your creation of a file using this template. -->
-        </revisionDesc>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader xml:lang="eng">
+		<fileDesc>
+			<titleStmt>
+				<title>Mpu Mano</title>
+				<respStmt>
+					<resp>creation of file</resp>
+					<resp>intellectual authorship of edition</resp>
+					<persName ref="part:argr">
+						<forename>Arlo</forename>
+						<surname>Griffiths</surname>
+					</persName>
+				</respStmt>
+			</titleStmt>         
+			<publicationStmt>
+				<authority>DHARMA
+					<note>This project has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</note>
+				</authority>
+				<pubPlace>Lyon</pubPlace>
+				<idno type="filename">MpuMano</idno>
+				<availability>
+					<licence target="https://creativecommons.org/licenses/by/4.0/">
+						<p>This work is licenced under the Creative Commons Attribution 4.0 Unported Licence. To view a copy of the licence, visit https://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.</p>
+						<p>Copyright (c) 2019-2025 by Arlo Griffiths.</p>
+					</licence>
+				</availability>
+				<date from="2019" to="2025">2019-2025</date>
+			</publicationStmt>
+			<sourceDesc>
+				<p><!-- not to be filled in at this stage --></p>
+			</sourceDesc>
+		</fileDesc>
+		<revisionDesc>
+			<change who="part:argr" when="2020-03-09" status="draft">first revision and explansion of the encoding</change>
+			<change who="part:argr" when="2019-09" status="draft">initial encoding of the edition</change>
+		</revisionDesc>
     </teiHeader> 
     <text xml:space="preserve">
         <body>
             <div type="edition">
                 <ab>
 <pb n="1r"/>
-<lb n="1"/> // <g type="symbol">✤</g> // namo stu sarvvabuddhăya // <g type="symbol">✤</g> // svasti śakavarṣātīta, <num value="888">888</num>, śrăvaṇamāsa, <orig>tīthī</orig>, Aṣṭamī kr̥ṣṇapakṣa, <expan><abbr>ha</abbr><ex>ryaṅ</ex></expan>, <expan><abbr>va</abbr><ex>gai</ex></expan>, <expan><abbr>ra</abbr><ex>vi</ex></expan>, vāra, sinta, 
-<lb n="2"/> bāyabyasthagrahacāra, rohiṇīnakṣatra, prajāpatidevatā, mahendramaṇḍala, harṣaṇayoga, vijayamuhūrta, śaśīparvvaiśa, 
-<lb n="3"/> kolavakaraṇa, siṅharāśi, Irika divāśanira, mpu mano, muṇyākən· lmaḥ sīma, kaputrāṅśanira, kalilīranira saṅke kavvitanira 
-<lb n="4"/> Ikaṁ harahara, kidul i pomahanira, hīṅanya lor· kidul iṁ pagər· kinalihan·, muAṁ mpu mano, hīṅanya kulvan· Aṅalihī pagər·, muAṁ <lb n="5"/> Iṁ paviḍəṅan·, hīṅanya vetan·, Aṅalihi pagər·, muAṁ Iṁ kalampayan·, hīṅanya kidul·, Ikaṁ pagər· lor· saṁke kalimusan·, ya t
-<pb n="1v" break="no"/>
-<lb n="6" break="no"/> ekā pinuṇyakənira Iṁ mpuṅku <supplied reason="omitted">Iṁ</supplied> susuk· pagər·, muAṁ mpuṅku Iṁ nairañjanā, Arthahetoḥ mpu buddhivāla, paknanya gavayənnira kuṭi, dharmma lpa
-<lb n="7"/> s· kapodgālikanani kulasantānānira mpuṅku Iṁ nairañjanā, kunaṁ kramanya, Ikaṁ savaḥ kidul iṁ kuṭi, təmpaḥ, <num value="3">3</num>, ya ta sinaṇḍā mpuṅku <supplied reason="omitted">Iṁ</supplied> su
-<lb n="8"/> suk· pagər·, muAṁ mpuṅku Iṁ nairañjanā, Iṁ mā kā <num value="2">2</num><unclear>,</unclear> ya ta dharmma mpuṅku, Iṁ susuk· pagər·, muAṁ mpuṅku Iṁ <choice><sic>nairagjanā</sic><reg>nairañjanā</reg></choice>, An· paminta I
-<lb n="9" break="no"/> ka lmaḥ tumpal ika savaḥ lor· damlənira kuṭi, ya ta kăraṇanyan· <choice><sic>linbas</sic><reg>tinbus</reg></choice> ikaṁ savaḥ saṇḍanira mpu mano, Iṁ mā kā <num value="3">3</num>, mapa
-<lb n="10" break="no"/> k<unclear>na</unclear> bhuktyana saṁ hyaṁ kuṭi, saṅka ri gə:ṁnyāmbha mpu mano, yat· dharmma donanya, Apitovin ana riṁ dharmma parṇnaḥ mpu mano, denira mpuṅku Iṁ
+<lb n="1"/>// <g type="symbol">✤</g> // namo stu sarvvabuddhăya // <g type="symbol">✤</g> // svasti śakavarṣātīta, <num value="888">888</num>, śrăvaṇamāsa, <orig>tīthī</orig>, Aṣṭamī kr̥ṣṇapakṣa, <expan><abbr>ha</abbr><ex>ryaṅ</ex></expan>, <expan><abbr>va</abbr><ex>gai</ex></expan>, <expan><abbr>ra</abbr><ex>vi</ex></expan>, vāra, sinta, 
+<lb n="2"/>bāyabyasthagrahacāra, rohiṇīnakṣatra, prajāpatidevatā, mahendramaṇḍala, harṣaṇayoga, vijayamuhūrta, śaśīparvvaiśa, 
+<lb n="3"/>kolavakaraṇa, siṅharāśi, Irika divāśanira, mpu mano, muṇyākən· lmaḥ sīma, kaputrāṅśanira, kalilīranira saṅke kavvitanira 
+<lb n="4"/>Ikaṁ harahara, kidul i pomahanira, hīṅanya lor· kidul iṁ pagər· kinalihan·, muAṁ mpu mano, hīṅanya kulvan· Aṅalihī pagər·, muAṁ <lb n="5"/> Iṁ paviḍəṅan·, hīṅanya vetan·, Aṅalihi pagər·, muAṁ Iṁ kalampayan·, hīṅanya kidul·, Ikaṁ pagər· lor· saṁke kalimusan·, ya t<pb 
+n="1v" break="no"/><lb n="6" break="no"/>ekā pinuṇyakənira Iṁ mpuṅku <supplied reason="omitted">Iṁ</supplied> susuk· pagər·, muAṁ mpuṅku Iṁ nairañjanā, Arthahetoḥ mpu buddhivāla, paknanya gavayənnira kuṭi, dharmma lpa<lb 
+n="7" break="no"/>s· kapodgālikanani kulasantānānira mpuṅku Iṁ nairañjanā, kunaṁ kramanya, Ikaṁ savaḥ kidul iṁ kuṭi, təmpaḥ, <num value="3">3</num>, ya ta sinaṇḍā mpuṅku <supplied reason="omitted">Iṁ</supplied> su<lb 
+n="8" break="no"/>suk· pagər·, muAṁ mpuṅku Iṁ nairañjanā, Iṁ mā kā <num value="2">2</num><unclear>,</unclear> ya ta dharmma mpuṅku, Iṁ susuk· pagər·, muAṁ mpuṅku Iṁ <choice><sic>nairagjanā</sic><reg>nairañjanā</reg></choice>, An· paminta I<lb 
+n="9" break="no"/>ka lmaḥ tumpal ika savaḥ lor· damlənira kuṭi, ya ta kăraṇanyan· <choice><sic>linbas</sic><reg>tinbus</reg></choice> ikaṁ savaḥ saṇḍanira mpu mano, Iṁ mā kā <num value="3">3</num>, mapa<lb 
+n="10" break="no"/>k<unclear>na</unclear> bhuktyana saṁ hyaṁ kuṭi, saṅka ri gə:ṁnyāmbha mpu mano, yat· dharmma donanya, Apitovin ana riṁ dharmma parṇnaḥ mpu mano, denira mpuṅku Iṁ
                 </ab>
             </div>
             <div type="apparatus">

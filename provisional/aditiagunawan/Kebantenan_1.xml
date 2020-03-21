@@ -29,11 +29,11 @@
                     </note>
                 </authority>
                 <pubPlace>Paris</pubPlace>
-                <idno type="filename">Kebantenan_1</idno><!-- Replace by filename, e.g. Pallava00001 -->
+                <idno type="filename">Kebantenan_1</idno>
                 <availability>
                     <licence target="https://creativecommons.org/licenses/by/4.0/">
                         <p>This work is licenced under the Creative Commons Attribution 4.0 Unported Licence. To view a copy of the licence, visit https://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.</p>
-                        <p>Copyright (c) 2019-2025 by Aditia Gunawan.</p><!-- Replace year and name, use format "Forename1 Surname1 & Forename2 Surname2" or "Forename1 Surname1, Forename2 Surname2 & Forename3 Surname3"  if necessary — the copyright is that of the encoder(s) -->
+                        <p>Copyright (c) 2019-2025 by Aditia Gunawan &amp; Arlo Griffiths.</p>
                     </licence>
                 </availability>
                 <date from="2019" to="2025">2019-2025</date>
@@ -44,7 +44,8 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc>
-            <change who="part:adgu" when="2020-01-19" status="draft">Experiment to encoding primary and secondary bibliography.</change>
+        	<change who="part:argr" when="2020-02-18" status="draft">Second revision, with addition of some comments, of adgu's encoding.</change>
+        	<change who="part:adgu" when="2020-01-19" status="draft">Experiment to encoding primary and secondary bibliography.</change>
             <change who="part:adgu" when="2020-01-15" status="draft">Changed language tag, input translation and bibliography.</change>
             <change who="part:argr" when="2020-01-15" status="draft">Changed position of a p vis-àvis an lb.</change>
             <change who="part:argr" when="2020-01-14" status="draft">Revision of adgu's initial encoding.</change>
@@ -56,31 +57,36 @@
         <body>
             <div type="edition" xml:lang="x-oldsun-Latn">
             <pb n="1r"/>
-	<p>
-                        <lb n="1"/> // <g type="symbol" subtype="tennisball"/> // Oṁ Avighnam as·tu, nihan· sakakala ra<lb n="2" break="no"/>hyaṁ niskala vas·tu <space type="binding-hole"/> kañcana pun·, turun· ka ra<lb n="3" break="no"/>hyaṁ niṁrat· kañcana, ma<space type="binding-hole"/>kaṅuni ka susuhunan· Ayə<lb n="4" break="no"/>na ḍi pakuAn· pajajaran· pun·,</p> <p>mulaḥ mo mihape
-             <pb n="1v"/>
-                        <lb n="1"/>ḍayəhan· ḍi jayagiri, ḍəṁ ḍayəhan· ḍi <choice><orig>suḍa</orig><reg>suṇḍa</reg></choice>-səmbava,</p>
-             <p>
-	           <lb n="2"/>Aya ma nu ṅabayuAn· <space type="binding-hole"/> Iña Ulaḥ ḍek· ṅahəryanan·
-                        <lb n="3"/>Iña, ku na ḍasa, cala<space type="binding-hole"/>gara, kapas· timbaṁ, pare ḍ<lb n="4" break="no"/>oṁḍaṁ pun·,</p> <p><sic>maṅa</sic> <choice><orig>ḍituḍi</orig><reg>ḍituḍiṁ</reg></choice> ka para muhara, mulaḥ dek· men·<pb n="2r"/><lb n="1" break="no"/>taAn· Iña beya pun·, kena Iña nu puraḥ ḍibuhaya,
-                        <lb n="2"/>mibuhayakən· na kacari<space type="binding-hole"/>taAn· pun·, nu pagəḥ ṅavaka<lb n="3" break="no"/>n· na ḍevasasan·na <space type="binding-hole"/> pun· <g type="symbol" subtype="tennisball"/>, <g type="symbol" subtype="tennisball"/></p>
+	<p><lb 
+n="1"/>// <g type="symbol" subtype="tennisball"/><!-- Dan: please add this @subtype to our list in EG --> // Oṁ Avighnam<!-- transliteration choice gh still uncertain. See note in apparatus below. Arlo: Now I inclined indeed to take it as gh, not only that this aksara is the most plausibly intended by the scribe, but the form itself is different with ñ in Kawali, here we have unbroken vertical line like latin M--> as·tu, nihan· sakakala ra<lb 
+n="2" break="no"/>hyaṁ niskala vas·tu <space type="binding-hole"/> kañcana pun·, turun· ka ra<lb 
+n="3" break="no"/>hyaṁ niṁrat·<!-- Aditia: Or should we edit rahyaṁniṁ rat, as we would in an OJ text? Arlo: I favor to stick with separated niṅrat, for the reason that Sundanese usually only have rahyaṅ or rahyaṅta as an honorific appellation, also all historians usually only use the names after for convenience. --> kañcana, ma<space type="binding-hole"/>kaṅuni ka susuhunan· Ayə<lb 
+n="4" break="no"/>na ḍi pakuAn· pajajaran· pun·,</p> <p>mulaḥ mo mihape
+             <pb n="1v"/><lb 
+n="1"/>ḍayəhan· ḍi jayagiri, ḍəṁ ḍayəhan· ḍi <choice><orig>suḍa</orig><reg>suṇḍa</reg></choice><!-- case: suplied nasal ṇ -->-səmbava,</p>
+             <p><lb 
+n="2"/>Aya ma nu ṅabayuAn· <space type="binding-hole"/> Iña Ulaḥ ḍek· ṅahəryanan· <lb 
+n="3"/>Iña, ku na ḍasa, cala<space type="binding-hole"/>gara, kapas· timbaṁ, pare ⌈<lb 
+n="4" break="no"/>ḍoṁḍaṁ pun·,</p> <p>maṅ<supplied reason="omitted">k</supplied>a <choice><orig>ḍituḍi</orig><reg>ḍituḍiṁ</reg></choice><!-- case: supplied nasal ṅ/ṁ--> ka para muhara, mulaḥ dek· men·<pb n="2r"/><lb 
+n="1" break="no"/>taAn· Iña beya pun·, kena Iña nu puraḥ ḍibuhaya, <lb 
+n="2"/>mibuhayakən· na kacari<space type="binding-hole"/>taAn· pun·, nu pagəḥ ṅavaka<lb 
+n="3" break="no"/>n· na ḍevasasan·na <space type="binding-hole"/> pun· <g type="symbol" subtype="tennisball"/>, <g type="symbol" subtype="tennisball"/></p>
             </div>
             <div type="apparatus">
                 <listApp>
                    <app loc="p1r.1">
                        <lem>Avighnam</lem>
                          <rdg source="bib:Pleyte1911_01 bib:Boechari1985-1986_01">Avignam</rdg>
-                       <note>The grapheme here represented as <foreign xml:lang="x-oldsun-Latn">gh</foreign> is different both from <foreign xml:lang="x-oldsun-Latn">k</foreign> and <foreign xml:lang="x-oldsun-Latn">g</foreign> in this group of inscriptions; it resembles the sign that expresses <foreign xml:lang="x-oldsun-Latn">ñ</foreign> in the Kawali inscriptions, but is different again from <foreign xml:lang="x-oldsun-Latn">ñ</foreign> in the present group of inscriptions. It is also different from the shape of <foreign>gh</foreign> in the Buda/Gunung script (e.g. <bibl><ptr target="bib:Acri2017_01"/><citedRange>637–638</citedRange></bibl>).</note>
+                       <note>The grapheme here represented as <foreign>gh</foreign> is different both from <foreign>k</foreign> and from <foreign>g</foreign> in this group of inscriptions; it resembles the sign that expresses <foreign>ñ</foreign> in the Kawali inscriptions, but is different again from <foreign>ñ</foreign> in the present group of inscriptions. It is also different from the shape of <foreign>gh</foreign> in the Buda/Gunung script (e.g., <bibl><ptr target="bib:Acri2017_01"/><citedRange>637-638</citedRange></bibl>).</note>
                    </app>    
                     <app loc="p1v.1">
-                        <lem>ḍəṁ</lem>
-                                <rdg source="bib:Pleyte1911_01">ḍəṁ</rdg>
+                        <lem source="bib:Pleyte1911_01">ḍəṁ</lem>
                                 <rdg source="bib:Boechari1985-1986_01">don</rdg>
-                        <note>Boechari's note <quote>Maksudnya: jöŋ</quote> makes clear that his reading is a printing error for <foreign xml:lang="x-oldsun-Latn">döŋ</foreign>. Hasan Djafar notes in brackets: <quote>baca: jöṅ</quote>.</note>
+                        <note>Boechari's note <quote>Maksudnya: jöŋ</quote> makes clear that his reading is a printing error for <foreign>döŋ</foreign>. Hasan Djafar notes in brackets: <quote>baca: jöṅ</quote>.</note><!-- Dan: here we have two direct quotes from sources that use a different transliteration system; let's make clear in EG that we don't expect adaptation to our system in the case of direct quotes, as distinct from readings used to build <lem> and <rgd>. -->
                     </app>
                     <app loc="p1v.4">
-                        <lem><sic>maṅa</sic></lem>
-                            <rdg source="bib:Pleyte1911_01">maṅga</rdg>
+                        <lem>maṅ<supplied reason="omitted">k</supplied>a</lem>
+                            <rdg source="bib:Pleyte1911_01">maṅga</rdg> 
                             <rdg source="bib:Boechari1985-1986_01">maṅa</rdg>
                     </app>
                     <app loc="p1v.4">
@@ -95,28 +101,17 @@
             </div>
     <div type="translation" xml:lang="eng">
  	<!--translation encoded as per EG §9.2 -->
-	<p>Om. Let there be no obstacle! As follows is the decree of Rahyang Niskala Wastu Kancana, that came down to Rahyang Ningrat Kancana and also to His Highness now at Pakuan Pajajaran.</p> 
+	<p>Om. Let there be no obstacle! As follows is the decree of Rahyaṅ Niskala Vastu Kañcana<!-- Aditia: we need to choose whether in translating we adapt spelling of names to EYD, or to "loose transliteration" as per TG. In the latter case, we would have here Rahyaṅ Niskala Vasti Kañcana. --><!-- Arlo: Maybe it is better to adapt our loose transliteration system here, since the translation is in english. -->, that came down to Rahyaṅ Niṅrat Kañcana<!-- Or: "the lord of Rat Kancana"? --> and also to His Highness now at Pakuan Pajajaran.</p> 
 	<p>Do not omit to take care of the inhabitants of Jayagiri and the inhabitants of Sundasembawa.</p> 
-	<p>If there is someone providing them livelihood, don’t be eager to overcrowd/overburden him/them with the <foreign xml:lang="x-oldsun-Latn">dasa</foreign>, <foreign xml:lang="x-oldsun-Latn">calagara</foreign>, <foreign xml:lang="x-oldsun-Latn">kapas timbang</foreign>, <foreign xml:lang="x-oldsun-Latn">pare dongdang</foreign>.</p> 
-	<p>Also addressed to all the <supplied reason="subaudible">people at the</supplied> mouth of the river: don’t be eager to ask them toll. Because those who are loved, as it were, <supplied reason="subaudible">themselves</supplied> love the world, who firmly put into practice the divine ordinances.</p> 
+	<p>If there is someone providing them livelihood, do not be eager to overcrowd them<!-- Adit: we need to chose here. --> with the <foreign>dasa</foreign>, <foreign>calagara</foreign>, cotton <foreign>timbang</foreign>, rice paddies <foreign>dongdang</foreign> <supplied reason="explanation">taxes</supplied>.</p><!-- Aditia: some of the fiscal terms can actually be translated... --> <!-- Arlo: dasa and calagara are difficult to translate litterary, should we have a comment in xml file under commentary here? Or we should leave it like this and make some note in our draft?--> 
+	<p>Also with regard to all the <supplied reason="subaudible">people at the</supplied> mouth of the river: do not be eager to ask them toll. Because those who are loved, as it were, <supplied reason="subaudible">themselves</supplied> love the world, <supplied reason="subaudible">and are those</supplied> who firmly put into practice the divine ordinances.</p> 
          </div>
          <div type="commentary">
             <!--commentary encoded as per section §9.3 -->
          </div>
         <div type="bibliography">
 	<!--bibliography encoded as per section §9.4 -->
-	<!-- NB: you are encouraged to experiment with encoding bibliography to the extent you have the bibliographic data available, but it is not mandatory at this stage, because our bibliographic data are normally assembled along with other metadata in spreadsheets and will be imported from there into our xml files by a semi-automated process at a later stage. -->
-           <p>The plates from Kebantenan firstly read by Holle (<bibl rend="omitname"><ptr target="bib:Holle1867_01"/><citedRange>559-567</citedRange>, <ptr target="bib:Holle1872_01"/><citedRange>367-369</citedRange></bibl>), continued by Pleyte who provide some facsimiles of the plate (<bibl><ptr target="bib:Pleyte1911_01"/><citedRange>163-167</citedRange>; and <citedRange>198-199</citedRange></bibl>).</p> 
-            <p>Boechari (<bibl rend="omitname"><ptr target="bib:Boechari1985-1986_01"/><citedRange>103-107</citedRange></bibl>) contains new reading, then followed almost precisely by Hasan Djafar (<bibl rend="omitname"><ptr target="bib:HasanDjafar1991_01"/><citedRange>10-11</citedRange></bibl>).</p> 
-            <p>Re-edited here by Aditia Gunawan &amp; Arlo Griffiths from the photos of the plate, kindly made available to us by Terrylia Feisrami.</p>
-           <listBibl type="secondary">
-              <!-- one <bibl/> per item of secondary bibliography -->
-               <bibl><ptr target="bib:Boechari1985-1986_01"/></bibl>
-               <bibl><ptr target="bib:HasanDjafar1991_01"/></bibl>
-               <bibl><ptr target="bib:Holle1867_01"/></bibl> 
-               <bibl><ptr target="bib:Holle1872_01"/></bibl>
-               <bibl><ptr target="bib:Pleyte1911_01"/></bibl>
-           </listBibl>
+           <p>The plates from Kebantenan were first edited by Holle (<bibl rend="omitname"><ptr target="bib:Holle1867_01"/><citedRange>559-567</citedRange>, <ptr target="bib:Holle1872_01"/><citedRange>367-369</citedRange></bibl>); they were re-edited by Pleyte who provided some facsimiles of the plates (<bibl><ptr target="bib:Pleyte1911_01"/><citedRange>163-167</citedRange>; and <citedRange>198-199</citedRange></bibl>); and edited again by Boechari (<bibl rend="omitname"><ptr target="bib:Boechari1985-1986_01"/><citedRange unit="item">E.42-E.45</citedRange><citedRange>103-107</citedRange><!-- Aditia: when encoding inscrioptions edited by Boechari, please also indicate with <citedRange unit="item"> the E. number in question; see e.g. my file Maribong.xml; here, since we are citing all Kebantenan inscriptions as a block, we could say <citedRange unit="item">E.42-E.45</citedRange>  --></bibl>), who offers some new readings, adopted almost integrally by Hasan Djafar (<bibl rend="omitname"><ptr target="bib:HasanDjafar1991_01"/><citedRange>10-11</citedRange></bibl>). This first Kebantenan plate is re-edited here by Aditia Gunawan &amp; Arlo Griffiths from photos of the plate, kindly made available to us by Terrylia Feisrami.</p>
         </div>
         </body>
     </text>
