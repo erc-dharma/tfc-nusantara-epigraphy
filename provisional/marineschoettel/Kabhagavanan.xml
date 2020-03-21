@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader xml:lang="eng">
+        <fileDesc>
+            <titleStmt>
+                <title>Kabhagavanan</title>
+                <respStmt>
+                    <resp>creation of file</resp>
+                    <resp>intellectual authorship of edition</resp>
+                    <persName ref="part:masc">
+                        <forename>Marine</forename>
+                        <surname>Schoettel</surname>
+                    </persName>
+                    <persName ref="part:argr">
+                        <forename>Arlo</forename>
+                        <surname>Griffiths</surname>
+                    </persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>DHARMA <note>This project has received funding from the European Research
+                        Council (ERC) under the European Union's Horizon 2020 research and
+                        innovation programme (grant agreement no 809994).</note>
+                </authority>
+                <pubPlace>Paris</pubPlace>
+                <idno type="filename">Paguhan</idno>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>This work is licenced under the Creative Commons Attribution 4.0 Unported
+                            Licence. To view a copy of the licence, visit
+                            https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                            Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                            California, 94041, USA.</p>
+                        <p>Copyright (c) 2019-2025 by Marine Schoettel &amp; Arlo Griffiths</p>
+                    </licence>
+                </availability>
+                <date from="2019" to="2025">2019-2025</date>
+            </publicationStmt>
+            <sourceDesc>
+                <p><!-- not to be filled in at this stage --></p>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change who="part:masc" when="2020-02-21" status="draft"></change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:space="preserve">
+      <body>
+         <div type="edition" xml:lang="kaw-Latn">
+<pb n="1r"/><space quantity="1" unit="page"/><!--Blank outer page.-->
+<p>
+    <pb n="1r"/>
+    <lb n="1"/>// I śaka <num value="1338">1261</num>, māghamāsa, tithi navam<unclear>ī</unclear> kr̥ṣṇapakṣa, ma, U,
+    A, vāra, vuye</p>
+                   <p>Irikā divaśa  rakryan· juru
+<lb n="2"/>puspadanta<unclear>,</unclear> m<unclear>vaṁ</unclear> (k)utāvarṣaṇāmnaṅ a(ṁ)vyavahāra, makalaga mpu sāvitra
+                       tlas· pingat de saṁ mantrī tu<unclear>ma</unclear>pəl samudāya
+<lb n="3"/>mvaṁ saṁṅ upapati, makaprasthāva pati mpu sāvitra sāhasā<unclear>ṅ</unclear>alih i rakryan· juru puspadanta malap· lmaḥ kabha<lb 
+    n="4" break="no"/>gavānan· sapuluḥ liriḥ, maṅkana pakṣa mpu sāvitra, kunaṁ pakṣa rakryan· juru puspadanta lmaḥ saṅke k<unclear>u</unclear>li§
+<lb n="5" break="no"/>t kaki Ikaṁ bhinuktinya sapuluḥ liriḥ, maṅkanāṁvivāda ya tika pinametakən pramāṇa, Inunda<unclear>ṁ</unclear> ta<unclear>ṁ</unclear> <unclear>sa</unclear>siriṅan· sa<lb 
+    n="6" break="no"/>taṅgəḥnyaṁ kāliḥ makādi I sumbul·, li<supplied reason="lost">ṁ</supplied>nyan tinañan·, siṅgiḥ pukulun· juru puspadanta madr̥vya Ikaṁ savaḥ-sa<pb
+        n="1v" break="no"/><lb 
+            n="1" break="no"/>vaḥ sapuluḥ liriḥ I sagiri, yapvan ikaṁ savaḥ kabhagavanan· sapuluḥ
+                       liriḥ muvaḥ, maṅkanājarnya makabehan·,</p><p>vva
+<lb n="2" break="no"/>ntən· ta pukulun· paṅhulu bañunya rvaṁ kupaṁ sovaṁ, kataṅgapan denikaṁ rāma sumbul·, vyaktyanyan bheda, muva§
+<lb n="3" break="no"/>h ajar iṁkaṁ juru mantən· maṅaran gambyok·, Aki gaṇḍi yo pukulun· vka bhagavān· riṁ kr̥ta, muktyakən ikaṁ sa
+<lb n="4" break="no"/>puluḥ liriḥ juga, Antara saṅkerika, mpu kili nuda, vkasan saṁ mapañji śūrajaya muktyakən kabhagavānan katkeṁ
+<lb n="5"/>maṅke, kevalātutur ikaṁ sa/pu\luḥ liriḥ juga, pisaniṅu vyāparāṅipikipika Ikaṁ savaḥ kaparathaniAn· nāṁ
+<lb n="6"/>sapuluḥ liriḥ, maṅkana varaḥ kihadyan· gambyok·, yatika pinramāṇakan saṁ mantrī samudāya, mataṁ<pb
+        n="2r" break="no"/><lb 
+            n="1" break="no"/>nyan· balavān· rakryan· juru puspadanta<unclear>,</unclear> sor mpu sāvitra, pratyeka saṅ amgat·, rakryan· raṅga A<unclear>k</unclear>i taṅga, muvah aki
+<lb n="2"/><unclear>ka</unclear>pe, rakryan· kanuruhan· Aki jo, muvaḥ mahiṣāṅivuṁ, rakryan· tuməṅguṁ Aki makara, muvah aki raṅgāsəm-asəm·
+<lb n="3"/>, rakryan· dmuṁ Aki R̥ma, muvah aki goleṁ, rakryan apatiḥ ravi, muvaḥ rake mali, saṁ prāṇapati, makādhipati
+<lb n="4"/>saṅ āryya śūrasiṅha, muvaḥ sa<unclear>ṁ</unclear> bhujaṅga mantrī, saṁ mapañjy antaraga, saṁ mapañji cāyaguṇa, saṁ pamg<unclear>ə</unclear>t saliṅs<unclear>i</unclear>ṅan·, makā-
+<lb n="5"/>di saṁ mapañji surapati, muvaḥ saṁ pamgət i kaṇḍamuhi, samgət· pamvatan·, samaṅkana kveḥ
+                           saṅ amgat· ,,,</p>
+         </div>
+         <div type="apparatus"><!-- Arlo: Bosch's and Damais' reading need to be represented systematically -->
+                <listApp>
+                  <app loc="p1v.1">
+                      <lem>vvantən</lem>
+                      <note>A second akṣara na is written above the ligature nta. The engraver would
+                          have probably realised that he was beginning to write too high, and
+                          stopped after the first akṣara, then rewrote nta at the proper place.</note>
+                  </app>
+                  <app loc="p2r.3">
+                      <lem>riṁ</lem>
+                      <rdg source="bib:Boechari1985-1986_01">ri</rdg>
+                      </app>
+                    <app loc="p2r.2">
+                        <lem>didiva</lem>
+                        <rdg source="bib:Bosch1924_01">di̇̇ṁdi<unclear>ṁ</unclear>va</rdg>
+                    </app>
+                    <app loc="p2v.1">
+                        <lem>səR̥g</lem>
+                        <rdg source="bib:Bosch1924_01">siR̥g</rdg>
+                    </app>
+                    <app loc="p3v.1"><!-- Arlo: I think gthis whole app entry can be removed -->
+                      <lem>tr<subst><del>i</del><add>a</add></subst>ayodasi</lem>
+                      <rdg source="bib:Boechari1985-1986_01">trayodasi</rdg>
+                      </app>
+                   <app loc="p3r.3">
+                     <lem source="Damais">sa<supplied reason="omitted">ṁ</supplied></lem><!--Or
+                         encode as normalisation?-->
+                     <rdg source="bib:Boechari1985-1986_01">sa</rdg>
+                  </app>
+               </listApp>         
+         </div>
+         <div type="translation" xml:lang="eng" resp="part:masc">
+ 	<!--translation encoded as per EG §9.2 -->
+          <!--MS: add Bosch' translation as per EG 9.2. (other sections)-->
+	<p>Hail! In the elapsed Śaka year 1338, such was the time that His Majesty of Talonan took over in
+	    turn (hanimbal) the piece of land (varukira) of the Lord at Paguhan, he who was released in the
+	    highest abode (saṅ lina riṁ pramalaya). [It] was received (kataṅgap) by the One whose task is
+	    to Speak (de nira saṅ aṅucap gave) at the (stone) building Didiwa, by the patiḥ səmut (litt.
+	    master Ant), by the arya pagəḥ (the Venerable Pagəh), by the arya Guna (the Venerable Guna), by
+	    the patiḥ at Paguhan (by the master at Paguhan), by the patiḥ Sərəg, by the patiḥ at Tembeṁ,
+	    those are the people who received money. The amount of money [is]: 200.000, two hundred
+	    thousand, two hundred thousand in total (gənəp), on Kliwon (kaliwon), the thirteenth [day] of
+	    the waxing fortnight, the month of Asuji, signed by (litt. “bearing the name”) Sakawasa.</p>
+         </div>
+         <div type="commentary">
+            <!--commentary encoded as per section §9.3 -->
+     <p></p>
+         </div>
+        <div type="bibliography">
+	<!--bibliography encoded as per section §9.4 -->
+            <p>First edited by F.D.K. Bosch (<bibl rend="omitname"><ptr
+                target="Bosch1924_01"/><citedRange unit="page">104-105</citedRange></bibl>); dating
+                formula re-edited by Damais (<bibl rend="omitname"><ptr
+                    target="bib:Damais1955_01"/><citedRange
+                        unit="page">110-111</citedRange><citedRange unit="item">A.205</citedRange></bibl>); edited again by Boechari
+                (<bibl rend="omitname"><ptr target="bib:Boechari1985-1986_01"/><citedRange
+                    unit="page">119</citedRange><citedRange unit="item">E.60</citedRange></bibl>);
+                re-edited here by Marine Schoettel and Arlo Griffiths from photographs by Georges
+                Groslier (EFEO Paris GROB03770 and GROB03771).</p>
+             <listBibl type="secondary">
+             <bibl><ptr target="bib:TBG"/><citedRange
+                 unit="volume">64</citedRange><date>1924</date><citedRange>619, 658-659</citedRange></bibl>
+             <bibl><ptr target="bib:Damais1952_01"/><citedRange>78-79</citedRange><citedRange
+                 unit="item">A.205</citedRange></bibl>
+             <bibl><ptr target="bib:Damais1955_01"/><citedRange>110-111</citedRange><citedRange
+                 unit="item">A.205</citedRange></bibl>
+             </listBibl>
+        </div>
+      </body>
+        <!--MS: Layar is used in the Indonesian mode in this inscription. Odd shape of the visarga
+            throughout this inscription, almost connected to the previous akṣara,--><!--MS: This
+            inscription does not seem to differentiate between long and short vowels, except in the case of śuklāpakṣā.-->
+        <!--MS: Reconsider all cases of anusvara in this inscription + Pamintihan -->
+  </text>
+</TEI>
+

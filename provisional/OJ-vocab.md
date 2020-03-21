@@ -53,10 +53,12 @@
 | su(varṇa)                              | guilder                                                  |
 
 ## Land boundaries
-| Old Javanese term                    | English translation                                        |
-|--------------------------------------|------------------------------------------------------------|
-| sapakliran lavan                  | along with, following                                       |
-| lor/kidul/vetan/kulon amǝnǝr       | straight N/S/E/W                                     |
+| Old Javanese term            | English translation   |
+|------------------------------|-----------------------|
+| baṅavan                      | river                 |
+| kali                         | stream                |
+| sapakliran lavan             | along with, following |
+| lor/kidul/vetan/kulon amǝnǝr | straight N/S/E/W      |
 
 ## Recipients
 | Old Javanese term                    | English translation                                        |
@@ -75,7 +77,7 @@
 | mapatih                        | minister / governor         |
 | paməgət (samgət = saṅ paməgət) | officiant                   |
 
-## Verbs 
+## Verbs
 | Old Javanese term | English translation               |
 |-------------------|-----------------------------------|
 | kon               | order                             |
