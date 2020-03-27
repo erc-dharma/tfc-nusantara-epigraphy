@@ -70,90 +70,89 @@
             <div type="edition" xml:lang="x-oldsun-Latn">
             <pb n="1r"/>
                 <p>
-<lb n="1"/> // <g type="symbol" subtype="tennis-ball"/> // pun· Ini pitəkət· śri <choice><sic>buḍuga</sic><corr>baḍuga</corr></choice> maharaja ratu haji<lb 
-    n="2"/> ḍi pakvan·, śri saṁ ratu ḍevata, nu ḍipitəkətan· ma na lə<lb 
-        n="3" break="no"/> maḥ ḍevasasana, ḍi <choice><orig>suda</orig><reg>sunḍa</reg></choice>səmbava, mulaḥ vaya nu ṅubaḥ ya,<lb 
-            n="4"/> mulaḥ vaya nu ṅahəryanan ya, tebeḥ timur haṁgat· ciraAb·<lb 
-                n="5"/>, ka saṁ hyaṁ salila, ti barat· haṁgat· rusəb·, ka mu<choice><orig>ju</orig><reg>ñju</reg></choice>l· ka ci<lb 
-                    n="6" break="no"/> bake<choice><orig>ke</orig><reg>ṅke</reg></choice>ṁ, ciho<choice><orig>je</orig><reg>ñje</reg></choice>, ka muhara cimu<choice><orig>ca</orig><reg>ñca</reg></choice>ṁ pun·, ti kiḍul·
+<lb n="1r1"/> // <g type="symbol" subtype="tennis-ball"/> // pun· Ini pitəkət· śri <choice><sic>buḍuga</sic><corr>baḍuga</corr></choice> maharaja ratu haji<lb 
+    n="1r2"/>ḍi pakvan·, śri saṁ ratu ḍevata, nu ḍipitəkətan· ma na lə<lb 
+        n="1r3" break="no"/>maḥ ḍevasasana, ḍi <choice><orig>suda</orig><reg>sunḍa</reg></choice>səmbava, mulaḥ vaya nu ṅubaḥ ya,<lb 
+            n="1r4"/>mulaḥ vaya nu ṅahəryanan ya, tebeḥ timur haṁgat· ciraAb·<lb 
+                n="1r5"/>, ka saṁ hyaṁ salila, ti barat· haṁgat· rusəb·, ka mu<choice><orig>ju</orig><reg>ñju</reg></choice>l· ka ci<lb 
+                    n="1r6" break="no"/>bake<choice><orig>ke</orig><reg>ṅke</reg></choice>ṁ, ciho<choice><orig>je</orig><reg>ñje</reg></choice>, ka muhara cimu<choice><orig>ca</orig><reg>ñca</reg></choice>ṁ pun·, ti kiḍul·
                     
 <pb n="1v"/>
-<lb n="1"/>haṁgat· L̥vəṁ comon·, mulaḥ mo mihape ya, kena
-<lb n="2"/> na ḍevasasana saṁgaṙ kami ratu, saparaḥ jalan· gəḍe,
-<lb n="3"></lb> kagiraṁkən·, L̥maḥ laraṅan· pigəsanən· na para viku
-<lb n="4"/> pun·, Ulaḥ ḍek· vaya nu kəḍə di bənaṁṅiṁ ṅagurat· ke
-<lb n="5"/> na Iṁ heman·, ḍi viku pun·
-
+<lb n="1v1"/>haṁgat· L̥vəṁ comon·, mulaḥ mo mihape ya, kena
+<lb n="1v2"/>na ḍevasasana saṁgaṙ kami ratu, saparaḥ jalan· gəḍe,
+<lb n="1v3"/>kagiraṁkən·, L̥maḥ laraṅan· pigəsanən· na para viku
+<lb n="1v4"/>pun·, Ulaḥ ḍek· vaya nu kəḍə di bənaṁṅiṁ ṅagurat· ke<lb 
+    n="1v5" break="no"/>naIṁ heman·, ḍi viku pun·
 </p>
             </div>
             <div type="apparatus">
                 <listApp>
-                  <app loc="p1r.1">
+                  <app loc="1r1">
                       <lem>śri</lem><rdg source="Boechari1985-1986_01">sri</rdg>
                   </app>
-                  <app loc="p1r.1">
+                  <app loc="1r1">
                       <lem><choice><sic>buḍuga</sic><corr>baḍuga</corr></choice></lem>
                       <rdg source="Boechari1985-1986_01">baduga</rdg>
                   </app>
-                  <app loc="p1r.2">
+                  <app loc="1r2">
                         <lem>ma na</lem>
                         <rdg source="Boechari1985-1986_01"><choice><sic>mana</sic><corr>nana</corr></choice></rdg>
                       <note>Boechari reads as one word, mana, and notes “Maksudnya: nana”</note>
                   </app>
-                    <app loc="p1r.3">
+                    <app loc="1r3">
                         <lem>ḍi</lem>
                         <rdg source="Boechari1985-1986_01"><gap reason="omitted"/></rdg>
                     </app>
-                    <app loc="p1r.3">
+                    <app loc="1r3">
                         <lem>vaya</lem>
                         <rdg source="Boechari1985-1986_01">aya</rdg>
                     </app>
-                    <app loc="p1r.3">
+                    <app loc="1r3">
                         <lem>ṅubaḥ ya</lem>
                         <rdg source="Boechari1985-1986_01">ṅupah ya</rdg>
                         <rdg source="HasanDjafar1991_01">ṅubahya</rdg>
                     </app>
-                    <app loc="p1r.4">
+                    <app loc="1r4">
                         <lem>vaya</lem>
                         <rdg source="Boechari1985-1986_01">aya</rdg>
                         <rdg source="HasanDjafar1991_01">vaya</rdg>
                     </app>
-                    <app loc="p1r.4">
+                    <app loc="1r4">
                         <lem>ṅahəryanan ya</lem>
                         <rdg source="Boechari1985-1986_01">ṅahəryanan</rdg>
                         <rdg source="HasanDjafar1991_01">ṅahəryanan</rdg>
                         <note>It is clear that we have <foreign>pasangan</foreign> <foreign>y</foreign> after <foreign>n</foreign>, and not a <foreign>paten</foreign></note>
                     </app>
-                    <app loc="p1r.4">
+                    <app loc="1r4">
                         <lem>tebeḥ</lem>
                         <rdg source="Boechari1985-1986_01">te beḥ</rdg>
                         <rdg source="HasanDjafar1991_01"><choice><orig>te</orig><corr>ti</corr></choice> beḥ</rdg>
                     </app>
-                    <app loc="p1r.4">
+                    <app loc="1r4">
                         <lem>ciraAb</lem>
                         <rdg source="Boechari1985-1986_01">ciraub</rdg>
                     </app>
-                    <app loc="p1v.1">
+                    <app loc="1v1">
                         <lem>mihape ya</lem>
                     <rdg source="Boechari1985-1986_01"><choice><sic>himapeya</sic><corr>himapeyan</corr></choice></rdg>
                         <rdg source="HasanDjafar1991_01">mihapeya</rdg>
                     </app>
-                    <app loc="p1v.4">
+                    <app loc="1v4">
                         <lem>vaya</lem>
                         <rdg source="Boechari1985-1986_01">aya</rdg>
                         <rdg source="HasanDjafar1991_01">vaya</rdg>
                     </app>
-                    <app loc="p1v.4">
+                    <app loc="1v4">
                         <lem>kəḍə</lem>
                         <rdg source="Boechari1985-1986_01">kədə</rdg>
                         <rdg source="HasanDjafar1991_01">kədə</rdg>
                     </app>
-                    <app loc="p1v.4">
+                    <app loc="1v4">
                         <lem>bənaṁṅiṁ</lem>
                         <rdg source="Boechari1985-1986_01">bənaṅiṁ</rdg>
                         <rdg source="HasanDjafar1991_01">bənaṁṅiṁ</rdg>
                     </app>
-                    <app loc="1v.5">
+                    <app loc="1v5">
                         <lem>Iṁ</lem>
                         <rdg source="Boechari1985-1986_01">AIṁ</rdg>
                         <rdg source="HasanDjafar1991_01">AIṁ</rdg>

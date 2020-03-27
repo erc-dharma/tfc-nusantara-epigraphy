@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"> 
     <teiHeader xml:lang="eng">
         <fileDesc>
@@ -82,8 +80,25 @@
                  <app loc="1">
                    <lem source="bib:HasanDjafar1991_01"><unclear>//</unclear> ba</lem>
                     <rdg source="bib:Holle1877_01">// baḥ</rdg>
+                    <rdg source="bib:SalehDanasasmita_01">ṭraba</rdg>
                     <note>Instead of an opening punctuation sign, it may be possible to read <foreign>A</foreign>, in which case the first word would be <foreign>Aba</foreign>. Noorduyn (<bibl rend="omitname"><ptr target="bib:Noorduyn1993_01"/><citedRange>313</citedRange></bibl>) notes that <foreign>ba</foreign> means 3 in one or more chronograms of the <title>Pararaton</title>. Zoetmulder (<bibl rend="omitname"><ptr target="bib:Zoetmulder1982_01"/><citedRange unit="entry">wā</citedRange><!-- Dan: we should probably add "entry" to the list of permit values for @unit in <citedRange> in EG. --></bibl>records the word <foreign>ba</foreign> as a synonym of <foreign>wā</foreign>: <quote>II 1. live coal, piece of burning material which is aglow</quote>, and <quote>2. = <foreign>ava</foreign> bright, clear, shining</quote>.</note>
                  </app>
+                <app loc="1">
+                    <lem source="bib:HasanDjafar1991_01">guna <num value="3">3</num></lem>
+                    <rdg source="bib:SalehDanasasmita1975_01">gunṇa</rdg>
+                </app>
+                <app loc="1-2">
+                    <lem source="bib:HasanDjafar1991_01"><num value="3">3</num><lb n="2"/>di <choice><orig>vva</orig><reg>vvaṁ</reg></choice></lem>
+                    <rdg source="bib:SalehDanasasmita1975_01">naṣṭa</rdg>
+                </app>
+                <app loc="2">
+                    <lem source="bib:HasanDjafar1991_01"><num value="1">1</num>, Iti</lem>
+                    <rdg>gomati</rdg>
+                </app>
+                <app loc="3">
+                    <lem source="bib:HasanDjafar1991_01">rumata<lb n="3" break="no"/>k·</lem>
+                    <rdg source="bib:SalehDanasasmita1975_01">numatak</rdg>
+                </app>
                 <app loc="3">
                     <lem><choice><orig>disusuku</orig><reg>disusuk ku</reg></choice></lem>
                     <note>For the same phenomenon of consonant degemination, cf. manuscript Perpusnas L 426B, no. 13: <foreign>hya <choice><reg>pəpək ku</reg><orig>pəpəku</orig></choice> pənuḥ kita maṁke</foreign> <q>Now you are filled by fullness</q>.<!-- Dan: what markup is needed for the quotation marks around a translation such as here? Use <quote>, as in other cases?--></note>
@@ -98,7 +113,7 @@
                 <p><!--  --></p>
             </div>  
         <div type="bibliography">
-           <p>The inscription was first edited by Holle (<bibl rend="omitname"><ptr target="bib:Holle1877_02"></ptr><citedRange>586-587</citedRange></bibl>, in Javanese script); it was edited again by Saleh Danasasmita (<bibl rend="omitname"><ptr target="bib:Saleh Danasasmita1975_01"></ptr></bibl>) and by Hasan Djafar (<bibl rend="omitname"><ptr target="bib:HasanDjafar1991_01"></ptr><citedRange>16-18</citedRange></bibl>). Although these scholars have discussed the meaning if the chronogram, only Saleh Danasasmita furnished a full translation and interpretation. Re-edited and translated here by Aditia Gunawan &amp; Arlo Griffiths, based on the OD photo.</p>
+           <p>The inscription was first edited by Holle (<bibl rend="omitname"><ptr target="bib:Holle1877_02"></ptr><citedRange>586-587</citedRange></bibl>, in Javanese script); it was edited again by Saleh Danasasmita (<bibl rend="omitname"><ptr target="bib:Saleh Danasasmita1975_01"></ptr></bibl>) and by Hasan Djafar (<bibl rend="omitname"><ptr target="bib:HasanDjafar1991_01"></ptr><citedRange>16-18</citedRange></bibl>). Re-edited and translated here by Aditia Gunawan &amp; Arlo Griffiths, based on the OD photo.</p>
             <listBibl type="secondary">  
                <bibl><ptr target="bib:OV"/><date>1912</date><citedRange unit="page">84</citedRange></bibl>
                <bibl><ptr target="bib:Verbeek1891_01"/><citedRange unit="page">52-53</citedRange></bibl>
