@@ -38,11 +38,29 @@
                 </availability>
                 <date from="2019" to="2025">2019-2025</date>
             </publicationStmt>
-            <sourceDesc>
-                <p><!-- not to be filled in at this stage --></p>
+            <sourceDesc><!-- only the handDesc can be filled in at this stage -->
+                <msDesc><!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/><!-- don't modify this -->
+                    </msIdentifier>
+                    <msContents><!-- describe the intellectual content of an inscription -->
+                        <summary><!-- //// NOT MANDATORY  ////--></summary> <!-- offers the possibility to give a summary of the inscription's content -->
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p><!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EG 11.2. --></p>
+                            <!-- If you need to identify individual hands (EG §7.5/) in addition to one or more paragraphs of general palaeographic description, wrap <summary> around the <p> or <p>s above, and, outside <summary>, create <handNote> elements for each hand as follows:
+						<summary><p><p/></summary>
+						<handNote xml:id="Pallava00001_hand1"></handNote>
+						<handNote xml:id="Pallava00001_hand2"></handNote>
+					 -->
+                        </handDesc>
+                    </physDesc>
+                </msDesc> 
             </sourceDesc>
         </fileDesc>
-        <revisionDesc>
+        <revisionDesc><change who="part:axja" when="2020-03-27" status="draft">adding the handDesc template</change>
             <change who="part:masc" when="2020-02-21" status="draft"></change>
         </revisionDesc>
     </teiHeader>
@@ -52,38 +70,46 @@
 <pb n="1r"/><!--Blank outer page.-->
 <p>
     <pb n="1r"/>
-    <lb n="1"/>// I śaka <num value="1338">1261</num>, māghamāsa, tithi navam<unclear>ī</unclear> kr̥ṣṇapakṣa, ma, U,
-    A, vāra, vuye</p>
-                   <p>Irikā divaśa  rakryan· juru
-<lb n="2"/>puspadanta<unclear>,</unclear> m<unclear>vaṁ</unclear> (k)utāvarṣaṇāmnaṅ a(ṁ)vyavahāra, makalaga mpu sāvitra
-                       tlas· pingat de saṁ mantrī tu<unclear>ma</unclear>pəl samudāya
-<lb n="3"/>mvaṁ saṁṅ upapati, makaprasthāva pati mpu sāvitra sāhasā<unclear>ṅ</unclear>alih i rakryan· juru puspadanta malap· lmaḥ kabha<lb 
-    n="4" break="no"/>gavānan· sapuluḥ liriḥ, maṅkana pakṣa mpu sāvitra, kunaṁ pakṣa rakryan· juru puspadanta lmaḥ saṅke k<unclear>u</unclear>li§
-<lb n="5" break="no"/>t kaki Ikaṁ bhinuktinya sapuluḥ liriḥ, maṅkanāṁvivāda ya tika pinametakən pramāṇa, Inunda<unclear>ṁ</unclear> ta<unclear>ṁ</unclear> <unclear>sa</unclear>siriṅan· sa<lb 
+    <lb n="1"/>// I śaka <num value="1261">1261</num>, māghamāsa, tithi navam<unclear>ī</unclear>
+    kr̥ṣṇapakṣa, ma, U, A, vāra, vuye</p>
+<p>Irikā divaśa  rakryan· juru<lb 
+    n="2"/>pu<unclear cert="high">s</unclear>padanta, m<unclear>uk</unclear>uthavarṣaṇāmnaṅ aṁvyavahāra, makalaga mpu sāvitra tlas· pingat de saṁ mantrī tumapəl samudāya<lb
+        n="3"/>mvaṁ saṁṅ upapati, makaprasthāvapati mpu sāvitra<unclear>,</unclear> sāhasāṅdalih i rakryan· juru puspadanta malap· lmaḥ kabha<lb 
+    n="4" break="no"/>gavānan· sapuluḥ liriḥ, maṅkana pakṣa mpu sāvitra,</p>
+             <p>kunaṁ pakṣa rakryan· juru puspadanta lmaḥ saṅke k<unclear>u</unclear>li<g
+                 type="filler">§</g><lb 
+                     n="5" break="no"/>t kaki Ikaṁ bhinuktinya sapuluḥ liriḥ, maṅkanāṁvivāda ya tika pinametakən pramāṇa, Inunda<unclear>ṁ</unclear> ta<unclear>ṁ</unclear> <unclear>sa</unclear>siriṅan· sa<lb 
     n="6" break="no"/>taṅgəḥnyaṁ kāliḥ makādi I sumbul·, li<supplied reason="lost">ṁ</supplied>nyan tinañan·, siṅgiḥ pukulun· juru puspadanta madr̥vya Ikaṁ savaḥ-sa<pb
         n="1v" break="no"/><lb 
             n="1" break="no"/>vaḥ sapuluḥ liriḥ I sagiri, yapvan ikaṁ savaḥ kabhagavanan· sapuluḥ
                        liriḥ muvaḥ, maṅkanājarnya makabehan·,</p><p>vva
-<lb n="2" break="no"/>ntən· ta pukulun· paṅhulu bañunya rvaṁ kupaṁ sovaṁ, kataṅgapan denikaṁ rāma sumbul·, vyaktyanyan bheda, muva§
-<lb n="3" break="no"/>h ajar iṁkaṁ juru mantən· maṅaran gambyok·, Aki gaṇḍi yo pukulun· vka bhagavān· riṁ kr̥ta, muktyakən ikaṁ sa
+<lb n="2" break="no"/>ntən· ta pukulun· paṅhulu bañunya rvaṁ kupaṁ sovaṁ, kataṅgapan denikaṁ rāma sumbul·, vyaktyanyan bheda, muva<g type="filler">§</g>
+<lb n="3" break="no"/>h ajariṁkaṁ juru mantən· maṅaran gambyok·, Aki gaṇḍi yo pukulun· vka bhagavān· riṁ kr̥ta, muktyakən ikaṁ sa
 <lb n="4" break="no"/>puluḥ liriḥ juga, Antara saṅkerika, mpu kili nuda, vkasan saṁ mapañji śūrajaya muktyakən kabhagavānan katkeṁ
 <lb n="5"/>maṅke, kevalātutur ikaṁ sa/pu\luḥ liriḥ juga, pisaniṅu vyāparāṅipikipika Ikaṁ savaḥ kaparathaniAn· nāṁ
 <lb n="6"/>sapuluḥ liriḥ, maṅkana varaḥ kihadyan· gambyok·, yatika pinramāṇakan saṁ mantrī samudāya, mataṁ<pb
         n="2r" break="no"/><lb 
             n="1" break="no"/>nyan· balavān· rakryan· juru puspadanta<unclear>,</unclear> sor mpu sāvitra, pratyeka saṅ amgat·, rakryan· raṅga A<unclear>k</unclear>i taṅga, muvah aki
-<lb n="2"/><unclear>ka</unclear>pe, rakryan· kanuruhan· Aki jo, muvaḥ mahiṣāṅivuṁ, rakryan· tuməṅguṁ Aki makara, muvah aki raṅgāsəm-asəm·
+<lb n="2"/><unclear>ka</unclear>pe, rakryan· kanuruhan· Aki jo<unclear cert="low">ṁ</unclear>, muvaḥ mahiṣāṅivuṁ, rakryan· tuməṅguṁ Aki makara, muvah aki raṅgāsəm-asəm·
 <lb n="3"/>, rakryan· dmuṁ Aki R̥ma, muvah aki goleṁ, rakryan apatiḥ ravi, muvaḥ rake mali, saṁ prāṇapati, makādhipati
-<lb n="4"/>saṅ āryya śūrasiṅha, muvaḥ sa<unclear>ṁ</unclear> bhujaṅga mantrī, saṁ mapañjy antaraga, saṁ mapañji cāyaguṇa, saṁ pamg<unclear>ə</unclear>t saliṅs<unclear>i</unclear>ṅan·, makā-
-<lb n="5"/>di saṁ mapañji surapati, muvaḥ saṁ pamgət i kaṇḍamuhi, samgət· pamvatan·, samaṅkana kveḥ
-                           saṅ amgat· ,,,</p>
+<lb n="4"/>saṅ āryya śūrasiṅha, muvaḥ sa<unclear>ṁ</unclear> bhujaṅga mantrī, saṁ mapañjy antaraga, saṁ mapañji cāyaguṇa, saṁ pamg<unclear>ə</unclear>t saliṅs<unclear>i</unclear>ṅan·, makā
+<lb n="5" break="no"/>di saṁ mapañji surapati, muvaḥ saṁ pamgət i kaṇḍamuhi, samgət· pamvatan·, samaṅkana kveḥ saṅ amgat· ,,,</p>
          </div>
-         <div type="apparatus"><!-- Arlo: Bosch's and Damais' reading need to be represented systematically -->
+         <div type="apparatus">
                 <listApp>
+                  <app loc="p1r.2">
+                    <lem>pu<unclear>s</unclear>padanta</lem>
+                    <note>It would also be possible to read puṣpadanta. However, other instances of
+                        that name in this epigraph are consistently spelled with a dental s.</note>  
+                  </app>
+                  <app loc="p1r.2">
+                      <lem>m<unclear>uk</unclear>utha-</lem>
+                      <note>Understand mukuṭā-?</note>
+                  </app>
                   <app loc="p1v.1">
                       <lem>vvantən</lem>
                       <note>A second akṣara na is written above the ligature nta. The engraver would
-                          have probably realised that he was beginning to write too high, and
-                          stopped after the first akṣara, then rewrote nta at the proper place.</note>
+                          have probably realised that he was beginning to write too high, and stopped after the first akṣara, then rewrote nta at the proper place.</note>
                   </app>
                   <app loc="p2r.3">
                       <lem>riṁ</lem>
@@ -146,10 +172,6 @@
              </listBibl>
         </div>
       </body>
-        <!--MS: Layar is used in the Indonesian mode in this inscription. Odd shape of the visarga
-            throughout this inscription, almost connected to the previous akṣara,--><!--MS: This
-            inscription does not seem to differentiate between long and short vowels, except in the case of śuklāpakṣā.-->
-        <!--MS: Reconsider all cases of anusvara in this inscription + Pamintihan -->
   </text>
 </TEI>
 
