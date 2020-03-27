@@ -1,42 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"> 
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader xml:lang="eng">
         <fileDesc>
             <titleStmt>
-                <title>Tirah</title><!--Change the title of the file, e.g. Raktamālā grant of the time of Budhagupta, year 159-->
-                <respStmt><!-- add an element respStmt for each person involved -->
-                    <resp>intellectual authorship of edition</resp><!-- this may be the same as the creator of the file -->
+                <title>Tirah</title>
+                <!--Change the title of the file, e.g. Raktamālā grant of the time of Budhagupta, year 159-->
+                <respStmt>
+                    <!-- add an element respStmt for each person involved -->
+                    <resp>intellectual authorship of edition</resp>
+                    <!-- this may be the same as the creator of the file -->
                     <persName ref="part:masc"><!-- update the id -->
                         <forename>Marine</forename><!-- fill in your  names — it is possible to use only <name> instead of <foreame> and <surname> -->
                         <surname>Schoettel</surname>
                     </persName>
                 </respStmt>
-            </titleStmt>         
+            </titleStmt>
             <publicationStmt>
-                <authority>DHARMA
-                    <note>This project has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).
-                    </note>
+                <authority>DHARMA <note>This project has received funding from the European Research
+                        Council (ERC) under the European Union's Horizon 2020 research and
+                        innovation programme (grant agreement no 809994). </note>
                 </authority>
                 <pubPlace>Paris</pubPlace>
-                <idno type="filename">JM0008</idno><!-- Replace by filename, e.g. Pallava00001 -->
+                <idno type="filename">JM0008</idno>
+                <!-- Replace by filename, e.g. Pallava00001 -->
                 <availability>
                     <licence target="https://creativecommons.org/licenses/by/4.0/">
-                        <p>This work is licenced under the Creative Commons Attribution 4.0 Unported Licence. To view a copy of the licence, visit https://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.</p>
-                        <p>Copyright (c) 2019-2025 by Marine Schoettel.</p><!-- Replace year and name, use format "Forename1 Surname1 & Forename2 Surname2" or "Forename1 Surname1, Forename2 Surname2 & Forename3 Surname3"  if necessary — the copyright is that of the encoder(s) -->
+                        <p>This work is licenced under the Creative Commons Attribution 4.0 Unported
+                            Licence. To view a copy of the licence, visit
+                            https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                            Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                            California, 94041, USA.</p>
+                        <p>Copyright (c) 2019-2025 by Marine
+                        Schoettel.</p><!-- Replace year and name, use format "Forename1 Surname1 & Forename2 Surname2" or "Forename1 Surname1, Forename2 Surname2 & Forename3 Surname3"  if necessary — the copyright is that of the encoder(s) -->
                     </licence>
                 </availability>
                 <date from="2019" to="2025">2019-2025</date>
             </publicationStmt>
-            <sourceDesc><!-- only the handDesc can be filled in at this stage -->
-                <msDesc><!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
+            <sourceDesc>
+                <!-- only the handDesc can be filled in at this stage -->
+                <msDesc>
+                    <!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
                     <msIdentifier>
                         <repository>DHARMAbase</repository>
-                        <idno/><!-- don't modify this -->
+                        <idno/>
+                        <!-- don't modify this -->
                     </msIdentifier>
-                    <msContents><!-- describe the intellectual content of an inscription -->
-                        <summary><!-- //// NOT MANDATORY  ////--></summary> <!-- offers the possibility to give a summary of the inscription's content -->
+                    <msContents>
+                        <!-- describe the intellectual content of an inscription -->
+                        <summary><!-- //// NOT MANDATORY  ////--></summary>
+                        <!-- offers the possibility to give a summary of the inscription's content -->
                     </msContents>
                     <physDesc>
                         <handDesc>
@@ -48,34 +62,39 @@
 					 -->
                         </handDesc>
                     </physDesc>
-                </msDesc> 
+                </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc><change who="part:axja" when="2020-03-27" status="draft">adding the handDesc template</change>
-            <change who="part:axja" when="2020-01-09" status="draft">Update the template</change><!-- add a <change> for each change to the file, the first change should replace this one and record your creation of a file using this template. -->
+        <revisionDesc>
+            <change who="part:masc" when="2020-03-27" status="draft">adapting line numbering system
+                and app loc to new EG recommandations</change>
+            <change who="part:axja" when="2020-03-27" status="draft">adding the handDesc
+                template</change>
+            <change who="part:axja" when="2020-01-09" status="draft">Update the template</change>
+            <!-- add a <change> for each change to the file, the first change should replace this one and record your creation of a file using this template. -->
         </revisionDesc>
     </teiHeader>
     <text xml:space="preserve">
         <body>
-            <div type="edition" xml:lang="jav-Latn">
-                    <pb n="1r"/>
-                       <p>
-                           <lb n="1"/>// Iku vruhane para mantrīṁ tirah, Āryya soṅga, pabayĕman·, Āryya carita, puru<unclear>t</unclear>·, patiḥ lajĕr·, vruhane yen iṅoṅ amagĕ
-                           <lb n="2" break="no"/>hakĕn· karaṅe patiḥ tamba, karaṁ bogĕm·,
-                       </p> 
-                       <p>
-                           peṅanane kidul·, Ḷbuḥ, peṅanane vetan·, sadavata, Anutug· sāgara pisan·,
-                           <lb n="3"/>peṅanane kulon·, babakane dmuṁ vana, Anutug· sāgara pisan·, pasavahane sajuṁ, babakan sakikil·, Iku ta maḶra haja den siddhigave<unclear>,</unclear>
+            <div type="edition" xml:lang="kaw-Latn">
+                <p>    
+                <pb n="1r"/>
+                           <lb n="1r1"/>// Iku vruhane para mantrīṁ tirah, Āryya soṅga, pabayəman·,
+                    Āryya carita, puru<unclear>t</unclear>·, patiḥ lajər·, vruhane yen iṅoṅ amagə
+                           <lb n="1r2" break="no"/>hakən· karaṅe patiḥ tamba, karaṁ bogəm·,
+                </p>
+                <p>peṅanane kidul·, Ḷbuḥ, peṅanane vetan·, sadavata, Anutug· sāgara pisan·,
+                           <lb n="1r3"/>peṅanane kulon·, babakane dmuṁ vana, Anutug· sāgara pisan·, pasavahane sajuṁ, babakan sakikil·, Iku ta maḶra haja den siddhigave<unclear>,</unclear>
                        </p>
                        <p>
-                           <lb n="4"/>hana ta kavulani ṅoṁ sakiṁ gṛsik·, variga luh ahutaṁ sakṭi roṁ lakṣa gnĕp·, sabisane hasikĕp· rovaṁ variga luḥ, luputa ta paṅarah sakiṁ si
-                           <lb n="5" break="no"/>ddhayu, kapaṅarahan po hiya saki daḶm·, galaṅan·, kavolu, Aṅhaturakna ta hiya hacan· bobot se<unclear>v</unclear>u sarahi, Atambak· sesine
-                           <lb n="6"/>tambake kahatureri̇ ṅoṁ,
+                           <lb n="1r4"/>hana ta kavulani ṅoṁ sakiṁ gṛsik·, variga luh ahutaṁ sakṭi roṁ lakṣa gnəp·, sabisane hasikəp· rovaṁ variga luḥ, luputa ta paṅarah sakiṁ si
+                           <lb n="1r5" break="no"/>ddhayu, kapaṅarahan po hiya saki daḶm·, galaṅan·, kavolu, Aṅhaturakna ta hiya hacan· bobot se<unclear>v</unclear>u sarahi, Atambak· sesine
+                           <lb n="1r6"/>tambake kahatureri̇ ṅoṁ,
                        </p>
                        <p>
                         hana tādagaṁ, Aṅgogoṇḍok·, Amahat·, luputa ta riṅ arik puriḥ saprakāra, knaha ta hiya riṁ pamūja           
                 <pb n="1v"/>
-                           <lb n="1"/>satĕṅaḥ, Anuta sararataniṁ varggaṁ taman· sabhūmī,
+                           <lb n="1v1"/>satəṅaḥ, Anuta sararataniṁ varggaṁ taman· sabhūmī,
                        </p>
                        <p>
                         tithi, ka <num value="7">7</num>, <num value="1308">śiraḥ, <num value="8">8</num></num>, // Andaka kakataṁ // <g type="symbol">@</g> 
@@ -83,15 +102,15 @@
             </div>
             <div type="apparatus">
                 <listApp>
-                    <app loc="3r">
+                    <app loc="1r3">
                      <lem>babakane</lem>
                      <rdg source="SteinCallenfels_1918">babatane</rdg>
                     </app>
-                    <app loc="3r">
+                    <app loc="1r3">
                      <lem>babakan</lem>
                      <rdg source="SteinCallenfels_1918">babatan</rdg>
                     </app>
-                    <app loc="1v">
+                    <app loc="1v1">
                       <lem>varggaṁ taman· sabhūmī</lem>
                       <rdg source="SteinCallenfels_1918">vargga taman sabhumi</rdg>
                     </app>
