@@ -43,13 +43,30 @@
                 </availability>
                 <date from="2019" to="2025">2019-2025</date>
             </publicationStmt>
-            <sourceDesc>
-                <p><!-- not to be filled in at this stage --></p>
+            <sourceDesc><!-- only the handDesc can be filled in at this stage -->
+                <msDesc><!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/><!-- don't modify this -->
+                    </msIdentifier>
+                    <msContents><!-- describe the intellectual content of an inscription -->
+                        <summary><!-- //// NOT MANDATORY  ////--></summary> <!-- offers the possibility to give a summary of the inscription's content -->
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p><!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EG 11.2. --></p>
+                            <!-- If you need to identify individual hands (EG §7.5/) in addition to one or more paragraphs of general palaeographic description, wrap <summary> around the <p> or <p>s above, and, outside <summary>, create <handNote> elements for each hand as follows:
+						<summary><p><p/></summary>
+						<handNote xml:id="Pallava00001_hand1"></handNote>
+						<handNote xml:id="Pallava00001_hand2"></handNote>
+					 -->
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc>
-            <change who="part:masc" when="2020-03-21" status="draft">initial encoding of the
-                inscription</change>
+        <revisionDesc><change who="part:axja" when="2020-03-27" status="draft">adding the handDesc template</change>
+        	<change who="part:masc" when="2020-03-21" status="draft">initial encoding of the inscription</change>
         </revisionDesc>
     </teiHeader>
     <text xml:space="preserve">
@@ -127,7 +144,7 @@ sakalajana, dyaḥ makaradhvaja pva yogya turunana va
 <lb n="4" break="no"/>kliran· muAṁ paḍaḍa, maṅetan· mluk aṅalor aniku lalava, maṅalor amnər dudug iṁ bāyabya, sapakliran· muAṁ bana,
 <lb n="5"/>muAṁ paṅeran·, maṅetan anutug iṅ ut<unclear>t</unclear>ara, sapakliran· muAṁ paṅeran·, muvaḥ maṅetan· dudug iṅ aiśānya, sapakli
 <lb n="6" break="no"/>ran· muAṁ paṅeran· muAṁ pamuluṁ, mluk aṅidul aṅulvan mātra, muvah aṅidul amnər
-    tkeṁ pūrvva, sapakliran· muAṁ pamuluṁ, samaṅkana<pb 
+    tkeṁ pūrvva, sapakliran· muAṁ pamuluṁ, samaṅkana<pb
         n="5v" break="no"/><lb n="1" break="no"/>
 
 </p>
@@ -175,11 +192,11 @@ sakalajana, dyaḥ makaradhvaja pva yogya turunana va
                       </app>
                    <app loc="p2r.4">
                        <lem source="bib:TitiSurtiNastiti2016_01">saṁ pamgat</lem>
-                       <rdg source="bib:Boechari1985-1986_01">samgat</rdg>                      
+                       <rdg source="bib:Boechari1985-1986_01">samgat</rdg>
                    </app>
                    <app loc="p2r.5">
                        <lem source="bib:Boechari1985-1986_01">puspapāta</lem>
-                       <rdg source="bib:TitiSurtiNastiti2016_01">puspāta</rdg>                      
+                       <rdg source="bib:TitiSurtiNastiti2016_01">puspāta</rdg>
                    </app>
                    <app loc="p2r.5">
                        <lem>marmmananda</lem>
@@ -685,7 +702,7 @@ sakalajana, dyaḥ makaradhvaja pva yogya turunana va
                        <lem source="bib:Boechari1985-1985_01">sukha</lem>
                        <rdg source="bib:TitiSurtiNastiti2016_01">suka</rdg>
                    </app>
-               </listApp>         
+               </listApp>
          </div>
          <div type="translation" xml:lang="eng" resp="part:argr">
  	<!--translation encoded as per EG §9.2 -->
@@ -701,7 +718,7 @@ sakalajana, dyaḥ makaradhvaja pva yogya turunana va
             <p>Firs edited by Boechari (<bibl rend="omitname"><ptr target="Boechari1985-1986_01"/><citedRange unit="page">182-191</citedRange><citedRange unit="item">E.90</citedRange></bibl>); followed by Titi Surti Nastiti (<bibl rend="omitname"><ptr target="bib:TitiSurtiNastiti2016_01"/><citedRange unit="appendix">D</citedRange><citedRange unit="page">421-436</citedRange></bibl>); re-edited here by Arlo Griffiths from photos kindly shared by Titi Surti Nastiti.</p>
                 <listBibl type="secondary">
                     <bibl><ptr target="bib:AgusArisMunandar1986_01"/><citedRange>1-24</citedRange></bibl>
-                  <bibl><ptr target="bib:HadiSidomulyo2010_01"/><citedRange unit="appendix">B</citedRange><citedRange unit="page">30-38</citedRange></bibl>                
+                  <bibl><ptr target="bib:HadiSidomulyo2010_01"/><citedRange unit="appendix">B</citedRange><citedRange unit="page">30-38</citedRange></bibl>
                 </listBibl>
             </div>
       </body>
