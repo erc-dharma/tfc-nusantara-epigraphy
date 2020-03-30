@@ -65,45 +65,46 @@
 	<text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="san-Latn">
-<p><lb n="1"/><g type="symbol" subtype="siddham"/>namo bhagavatyai ārya-tārāyai ||</p>
+<p><lb n="01"/><g type="symbol" subtype="siddham"/><!-- the symbol stands in the margin -->
+	<lb n="1"/>namo bhagavatyai ārya-tārāyai ||</p>
 	<lg n="1" met="vasantatilaka"><!-- [vasantatilaka: - - ~ - ~ ~ ~ - ~ ~ - ~ - =] -->
 		<l n="a">yā tārayaty amita-duḥkha-bhavābdhi-magnaṁ</l>
-		<l n="b">lokaṁ vilokya vidhivat-trividhair u<lb n="2" break="no"/>pāyaiḥ |</l>
+		<l n="b">lokaṁ vilokya vidhivat trividhair u<lb n="2" break="no"/>pāyaiḥ |</l>
 		<l n="c">sā vaḥ surendra-nara-loka-vibhūti-sāraṁ</l>
 		<l n="d">tārā diśatv abhimataṁ jagad-eka-tārā ||</l>
 	</lg>
-	<lg n="2" met="āryā"><!-- [udgīti: 12+15+12+18 morae] or āryā-->
-		<l n="a">Āvarjya<!-- ācakṣya? --> mahārājaṁ tejaḥpūrṇṇā<lb n="3" break="no"/>paṇaṁ paṇaṁkaraṇam· |</l>
-		<l n="b">śailendra-rāja-gurubhis tārā-bhavanaṁ hi kāritaṁ śrīmat· ||</l>
+	<lg n="2" met="gīti"><!-- udgīti [12+15+12+18 morae] or gīti [12+18+12+18] -->
+		<l n="ab">Āvarjya<!-- ācakṣya? --> mahārājaṁ tejaḥpūrṇṇā<lb n="3" break="no"/>paṇaṁ paṇaṁkaraṇam· |</l>
+		<l n="cd">śailendra-rāja-gurubhis tārā-bhavanaṁ hi kāritaṁ śrīmat· ||</l>
 	</lg>
 	<lg n="3" met="āryā">
-		<l n="a">gurv-ājñayā kr̥tajñais tārā-devī <lb n="4"/>kr̥tāpi tad-bhavanam· |</l>
-		<l n="b">vinaya-mahāyāna-vidāṁ bhavanaṁ cāpy ārya-bhikṣūṇām· ||</l>
+		<l n="ab">gurv-ājñayā kr̥tajñais tārā-devī <lb n="4"/>kr̥tāpi tad-bhavanam· |</l>
+		<l n="cd">vinaya-mahāyāna-vidāṁ bhavanaṁ cāpy ārya-bhikṣūṇām· ||</l>
 	</lg>
 	<lg n="4" met="āryā">
-		<l n="a">paṅkura-tavāna-tīripa<lb n="5" break="no"/>-nāmabhir ādeśatas tribhī rājñaḥ |</l>
-		<l n="b">tārā-bhavanaṁ kāritam ida<surplus>ṁ</surplus>m api cāpy ārya-bhikṣūṇām· ||</l>
+		<l n="ab">paṅkura-tavāna-tīripa<lb n="5" break="no"/>-nāmabhir ādeśatas tribhī rājñaḥ |</l>
+		<l n="cd">tārā-bhavanaṁ kāritam ida<surplus>ṁ</surplus>m api cāpy ārya-bhikṣūṇām· ||</l>
 	</lg>
 	<lg n="5" met="āryā">
-		<l n="a">rājye pravarddhamā<lb n="6" break="no"/>ne rājñaḥ śailendra-vaṅśa-tilakasya |</l>
-		<l n="b">śailendra-rāja-gurubhis tārā-bhavanaṁ kr̥taṁ kr̥tibhiḥ ||</l>
+		<l n="ab">rājye pravarddhamā<lb n="6" break="no"/>ne rājñaḥ śailendra-vaṅśa-tilakasya |</l>
+		<l n="cd">śailendra-rāja-gurubhis tārā-bhavanaṁ kr̥taṁ kr̥tibhiḥ ||</l>
 	</lg>
 	<lg n="6" met="āryā">
-		<l n="a">śaka-nr̥pa-kālātītai<lb n="7" break="no"/>r varṣa-śataiḥ saptabhir mmahārājaḥ |</l>
-		<l n="b">Akarod guru-pūjārthaṁ tārā-bhavanaṁ paṇaṁkaraṇaḥ ||</l>
+		<l n="ab">śaka-nr̥pa-kālātītai<lb n="7" break="no"/>r varṣa-śataiḥ saptabhir mmahārājaḥ |</l>
+		<l n="cd">Akarod guru-pūjārthaṁ tārā-bhavanaṁ paṇaṁkaraṇaḥ ||</l>
 	</lg>
 	<lg n="7" met="āryā">
-		<l n="a">grāmaḥ kālasa-nāmā <lb n="8"/>dattaḥ saṁghāya sākṣiṇaḥ kr̥tvā | </l>
-		<l n="b">paṅkura-tavāna-tīripa-deśādhyakṣān mahā-puruṣān· ||</l>
+		<l n="ab">grāmaḥ kālasa-nāmā <lb n="8"/>dattaḥ saṁghāya sākṣiṇaḥ kr̥tvā | </l>
+		<l n="cd">paṅkura-tavāna-tīripa-deśādhyakṣān mahā-puruṣān· ||</l>
 	</lg>
 	<lg n="8" met="āryā">
-		<l n="a">bhū-da<lb n="9" break="no"/>kṣiṇeyam atulā dattā saṁghāya rāja-siṁhena |</l>
-		<l n="b">śailendra-vaṅśa-bhūpair anuparipālyārya-santatyā ||</l>
+		<l n="ab">bhū-da<lb n="9" break="no"/>kṣiṇeyam atulā dattā saṁghāya rāja-siṁhena |</l>
+		<l n="cd">śailendra-vaṅśa-bhūpair anuparipālyārya-santatyā ||</l>
 	</lg>
-	<lg n="9" met="sumānikā"><!-- or call thus uṣṇih? -->
-		<l n="a"><lb n="10"/>saṇ ḍa-paṅkurādibhiḥ</l>
-		<l n="b">san tavānakādibhiḥ |</l>
-		<l n="c">saṇ ḍa-tīripādibhiḥ</l>
+	<lg n="9" met="uṣṇik"><!-- |+-+|-+-|+ call thus sumānikā? sumānukā? -->
+		<l n="a"><lb n="10"/>saṇ-ḍa-paṅkurādibhiḥ</l>
+		<l n="b">san-tavānakādibhiḥ |</l>
+		<l n="c">saṇ-ḍa-tīripādibhiḥ</l>
 		<l n="d">pattibhiś ca sādhubhiḥ ||</l>
 	</lg>
 <p>Api ca</p>
@@ -120,24 +121,24 @@
 		<l n="d">janā jinānām anuśāsana-jñāḥ ||</l>
 	</lg>
 	<lg n="12" met="āryā">
-		<l n="a">kariyāna-paṇaṁkaraṇaḥ śrī<lb n="14" break="no"/>mān abhiyācate tra bhā-vinr̥pān· | </l>
+		<l n="a">kariyāna-paṇaṁkaraṇaḥ śrī<lb n="14" break="no"/>mān abhiyācate tra bhāvi-nr̥pān· | </l>
 		<l n="b">bhūyo bhūyo vidhivad vihāra-paripālanārtham iti ||</l>
 	</lg>
          </div>
          <div type="apparatus">
            <!--apparatus encoded as per EG §9.1, basic elements for apparatus below-->
                <listApp>
-                  <app loc="1">
+                  <app loc="01">
                      <lem><g type="symbol" subtype="siddham"/></lem>
                      <note>The <foreign>siddham</foreign> sign, ignored in all previous editions, stands slightly left of the left margin.</note>
                   </app>
 	<!--<app loc="2-3"><lem>upāyaiḥ</lem><!-\- thus Bosch, upayaiḥ Sarkar (printing error). -\-></app>-->
 	<app loc="2">
-                     <lem source="bib:Sarkar1971-1972_01">Āvarjya</lem><!-- or read ācakṣya? -->
-                     <rdg source="bib:Bosch1928_01">Āvarjya</rdg>
+                     <lem source="bib:Bhandarkar1887_01 bib:Sarkar1971-1972_01">Āvarjya</lem><!-- or read ācakṣya? -->
+                     <rdg source="bib:Bosch1928_01">Āvarja</rdg>
 <note>Bosch' omission of <foreign>y</foreign> may be a mere lapsus, because Bhandarkar already gave the correct reading. De Casparis has proposed the reading <foreign>Āvāhya</foreign> (<bibl rend="omitname"><ptr target="bib:Casparis1950_01"/><citedRange unit="page">21</citedRange><citedRange unit="note">4</citedRange></bibl>) but I am unable to read the engraved text in this way.</note>                  
 	</app>
-	<app loc="2-3">
+	<app loc="2">
                      <lem source="bib:Casparis1950_01">tejaḥpūrṇṇā<lb/>paṇaṁ</lem><!-- or read ācakṣya? -->
                      <rdg source="bib:Bosch1928_01 Sarkar1971-1972_01">dyāḥ pañca<lb/>paṇaṁ</rdg>
 <note>The reading adopted here was proposed in <bibl><ptr target="bib:Casparis1950_01"/><citedRange unit="page">21</citedRange><citedRange unit="note">4</citedRange></bibl>.</note>                  
@@ -170,20 +171,60 @@
 <app loc="6">
                      <lem source="bib:Sarkar1971-1972_01">śaka-</lem>
                      <rdg source="bib:Bosch1928_01">śak</rdg>     
-<note>Bosch' reading is no doubt a printing error.</note>
+<note>Bosch' reading is evidently a printing error.</note>
 	</app>
 <app loc="8">
-                     <lem>bhū-dakṣiṇeyam</lem>
+                     <lem source="bib:Bhandarkar1887_01">bhū-dakṣiṇeyam</lem>
                      <rdg source="bib:Bosch1928_01 Sarkar1971-1972_01">bhuradakṣiṇeyam</rdg>     
-<note>Bosch and Sarkar both deny the possibility of reading bhūdakṣiṇeyam (with Bhandarkar). The other cases of Cū in the inscription (CHECK ALL) indeed do not seem to support taking the vertical bar to the right of the bh-consonant sign as (part of) an ū-vowel diacritic, but there is a possibility that the scribe here exceptionally used a different sign for the same vowel (cf. the varying forms of ū in Canggal, which may be relevant despite its use of Pallava-style script), or that what has been taken to be a ra is a scribal error. The meter here allows either two short syllables (<foreign>bhura</foreign>) or one long one (<foreign>bhū</foreign>), but the the sense requires <foreign>bhūdakṣiṇeyam</foreign>.</note>
+<note>Bosch and Sarkar both deny the possibility of reading <foreign>bhūdakṣiṇeyam</foreign> as does Bhandarkar. The other cases of <foreign>ū</foreign>-vocalization in the inscription<!--(CHECK ALL)--> indeed do not seem to support taking the vertical bar to the right of the <foreign>bh</foreign> as (integral part of) an <foreign>ū</foreign>, but there is a possibility that the scribe here exceptionally used a different sign for the same vowel (cf. the varying forms of <foreign>ū</foreign> in the <ref target="GunungWukir.xml">Gunung Wukir stele</ref> stele<!-- or call this Sanjaya grant? Canggal? -->, which may be relevant despite its use of a different script), or that what has been taken to be a <foreign>ra</foreign> is a scribal error. The meter here allows either two short syllables (<foreign>bhura</foreign>) or one long one (<foreign>bhū</foreign>), but the sense requires <foreign>bhūdakṣiṇeyam</foreign>.</note>
 	</app>
 <app loc="9">
                      <lem source="bib:Sarkar1971-1972_01">-siṁhena</lem>
                      <rdg source="bib:Bosch1928_01">-siṅhena</rdg>     
 <note>Contrast the spelling in stanza X.<!--While the absence of the ṅ is certain here, it seems just possible that the superscribed nasalization mark is not the single dot (anusvāra), but the dot in crescent (anunāsika).--></note>
 	</app>
-
+<app loc="9">
+                     <lem source="bib:Bosch1928_01">-vaṅśa-</lem>
+                     <rdg source="bib:Sarkar1971-1972_01">-vaṁśa-</rdg>     
+	</app>
+<app loc="10">
+	<lem source="bib:Casparis1950_01">saṇ-ḍa-<gap reason="ellipsis"/>saṇ-ḍa-</lem>
+                     <rdg source="bib:Bosch1928_01 bib:Sarkar1971-1972_01">saṅ ḍa-</rdg>
+<note>The readings adopted here were proposed in <bibl><ptr target="bib:Casparis1950_01"/><citedRange unit="page">136</citedRange><citedRange unit="note">4</citedRange></bibl>.</note> 
+	</app>
+<app loc="11">
+	<lem source="bib:Bosch1928_01">-siṅhaḥ</lem>     
+                 <rdg source="bib:Sarkar1971-1972_01">-siṁhaḥ</rdg>
+	<note>Contrast the spelling in stanza VIII.</note>
+	</app>
+<app loc="11">
+	<lem>yan</lem>     
+                 <rdg source="bib:Bosch1928_01 bib:Sarkar1971-1972_01">yaṁ</rdg>
+	</app>
                </listApp>
+<app loc="12">
+                     <lem source="bib:Sarkar1971-1972_01">vihāra-</lem>
+                     <rdg source="bib:Bosch1928_01">vīhāra-</rdg>     
+	<note>Bosch' reading is presumably a printing error.</note>
+</app>
+<app loc="13">
+	<lem source="bib:Bosch1928_01">kariyāna-</lem>     
+                 <rdg source="bib:Sarkar1971-1972_01">kariyāṇa-</rdg>
+	</app>
+<app loc="14">
+	<lem source="bib:Bosch1928_01">tra</lem>     
+               <rdg source="bib:Sarkar1971-1972_01"/>
+	</app>
+<app loc="14">
+                     <lem source="bib:Sarkar1971-1972_01">-nr̥pān·</lem>
+                     <rdg source="bib:Bosch1928_01">-ṇr̥pān·</rdg>     
+	<note>Bosch' reading is possibly a printing error.</note>
+</app>
+<app loc="14">
+                     <lem source="bib:Sarkar1971-1972_01">vihāra-pari-</lem>
+                     <rdg source="bib:Bosch1928_01">vihāraparapari-</rdg>     
+	<note>Bosch' reading seems to be a printing error.</note>
+</app>
          </div>
 
          <div type="translation" xml:lang="eng" source="Sarkar1971-1972"><head>Translation Sarkar</head><!-- somewhat normalized in terms of use of italics -->
@@ -210,15 +251,16 @@
 	<!-- NB: you are encouraged to experiment with encoding bibliography to the extent you have the bibliographic data available, but it is not mandatory at this stage, because our bibliographic data are normally assembled along with other metadata in spreadsheets and will be imported from there into our xml files by a semi-automated process at a later stage. -->
            <p>First edited with translation into Dutch by Brandes (<bibl rend="omitname"><ptr target="bib:Brandes1886_01"/></bibl>); 
 edited, independently, with translation into English by Bhandarkar (<bibl rend="omitname"><ptr target="bib:Bhandarkar1887_01"/></bibl>);
-re-edited, with new Dutch translation and photo of an estampage, by Bosch (<bibl rend="omitname"><ptr target="bib:Bosch1928_01"/><citedRange unit="page">57-62</citedRange><citedRange unit="appendix">1</citedRange><citedRange unit="plate">2</citedRange></bibl>). Further editions have been published by Sarkar (<bibl rend="omitname"><ptr target="bib:Sarkar1971-1972_01"/><citedRange unit="volume">1</citedRange><citedRange unit="item">5</citedRange></bibl>, with the translation into English reproduced here); Sircar (<bibl rend="omitname"><ptr target="bib:Sircar1983_01"/><citedRange unit="page">694-696</citedRange></bibl>); by Long (<bibl rend="omitname"><ptr target="bib:Long2014_01"/><citedRange unit="page">???-???</citedRange></bibl>, with translation into English). The text is edited here once again from the OD photos and using <bibl><ptr target="bib:Bosch1928_01"></ptr></bibl> as edition of reference.
+re-edited, with new Dutch translation and photo of an estampage, by Bosch (<bibl rend="omitname"><ptr target="bib:Bosch1928_01"/><citedRange unit="page">57-62</citedRange><citedRange unit="appendix">1</citedRange><citedRange unit="plate">2</citedRange></bibl>). Further editions have been published by Sarkar (<bibl rend="omitname"><ptr target="bib:Sarkar1971-1972_01"/><citedRange unit="volume">1</citedRange><citedRange unit="item">5</citedRange></bibl>, with the translation into English reproduced here); Sircar (<bibl rend="omitname"><ptr target="bib:Sircar1983_01"/><citedRange unit="page">694-696</citedRange></bibl>); by Long (<bibl rend="omitname"><ptr target="bib:Long2014_01"/><citedRange unit="page">???-???</citedRange></bibl>, with translation into English). The text is edited here once again from the OD photos and with systematic collation only of the readings published by <bibl><ptr target="bib:Bosch1928_01"></ptr></bibl> and <bibl><ptr target="bib:Sarkar1971-1972_01"/></bibl>.
 <!--MNI D.147
 OD Number: 6366, 7465-7466-->
 </p>
            <listBibl type="secondary">
               <bibl><ptr target="bib:Bosch1930_03"></ptr></bibl>
 	<bibl><ptr target="bib:Damais1952_01"></ptr><citedRange unit="page">22-23</citedRange><citedRange unit="item">A.4</citedRange></bibl>
-<bibl><ptr target="bib:Damais1955_01"></ptr><citedRange unit="page">240</citedRange></bibl>
-<bibl><ptr target="bib:Nakada1982_01"></ptr><citedRange unit="page">72-73</citedRange><citedRange unit="item">I.4</citedRange></bibl>
+	<bibl><ptr target="bib:Damais1955_01"></ptr><citedRange unit="page">240</citedRange></bibl>
+	<bibl><ptr target="bib:Damais1970_01"></ptr><citedRange unit="page">42</citedRange><citedRange unit="item">9</citedRange></bibl>
+	<bibl><ptr target="bib:Nakada1982_01"></ptr><citedRange unit="page">72-73</citedRange><citedRange unit="item">I.4</citedRange></bibl>
            </listBibl>
         </div>
       </body>
