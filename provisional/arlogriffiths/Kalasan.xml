@@ -48,6 +48,7 @@
 						<handDesc>
 							<p>Shape of <foreign>m</foreign> with virāma: see stanzas II, III VII and XII.</p>
 							<p>VI pūjārthaṁ: I have some trouble telling this jā apart from ja signs elsewhere. Cf. e.g. in rājasiṁhena, l. 9; rājasiṅhaḥ in 11. But cf. jātārtha in l. 12. The difference seems to lie herein, that in the case of jā, the ā-mātra does not descend from the top-line, but ascends from the middle diagonal of ja.</p>
+<p>shape of repha: can we read rjya in st. II or not?</p>
 							<!-- If you need to identify individual hands (EG §7.5/) in addition to one or more paragraphs of general palaeographic description, wrap <summary> around the <p> or <p>s above, and, outside <summary>, create <handNote> elements for each hand as follows:
 						<summary><p><p/></summary>
 						<handNote xml:id="Pallava00001_hand1"></handNote>
@@ -71,11 +72,12 @@
 		<l n="a">yā tārayaty amita-duḥkha-bhavābdhi-magnaṁ</l>
 		<l n="b">lokaṁ vilokya vidhivat trividhair u<lb n="2" break="no"/>pāyaiḥ |</l>
 		<l n="c">sā vaḥ surendra-nara-loka-vibhūti-sāraṁ</l>
-		<l n="d">tārā diśatv abhimataṁ jagad-eka-tārā ||</l>
+		<l n="d">tārā di<!-- space due to irregularity in stone -->śatv abhimataṁ jagad-eka-tārā ||</l>
 	</lg>
 	<lg n="2" met="gīti"><!-- udgīti [12+15+12+18 morae] or gīti [12+18+12+18] -->
-		<l n="ab">Āvarjya<!-- ācakṣya? --> mahārājaṁ tejaḥpūrṇṇā<lb n="3" break="no"/>paṇaṁ paṇaṁkaraṇam· |</l>
+		<l n="ab">Āva<unclear>r</unclear>jya mahārā<!-- space due to irregularity in stone -->jaṁ tejaḥpūrṇṇā<lb n="3" break="no"/>paṇaṁ paṇaṁkaraṇam· |</l>
 		<l n="cd">śailendra-rāja-gurubhis tārā-bhavanaṁ hi kāritaṁ śrīmat· ||</l>
+<!-- Vincent T. suggests: tejaḥpuṇyāpaṇaṁ = tejaḥpuṇyāpannaṁ / read tebhyaḥ? -->
 	</lg>
 	<lg n="3" met="āryā">
 		<l n="ab">gurv-ājñayā kr̥tajñais tārā-devī <lb n="4"/>kr̥tāpi tad-bhavanam· |</l>
@@ -244,7 +246,14 @@
          </div>
          <div type="commentary">
             <!--commentary encoded as per section §9.3 -->
+<p>The reading <foreign>āvarjya</foreign> is not evident from the stone, but must be what was intended here, because <foreign>āvarjayati</foreign> is virtually a technical term to describe what bodhisattvas do, namely to win people over and convert them to the Buddhist path. See BSHD.</p>
+<!-- Peter-Dániel Szántó has referred me by way of example to Prajñākaramati's BCA commentary: 
+yad uktam- sarvatrācapalo mandamitasnigdhābhibhāṣaṇāt |
+āvarjayej janaṁ bhavyam ādeyaś cāpi jāyate || iti  [śikṣā. sa. kārikā-10]
+etad eva ca bodhisattvasya kṛtyaṁ yaduta sattvāvarjanaṁ nāma | yathā dharmasaṁgītisūtre āryāpriyadarśanena bodhisattvena paridīpitam
+tathā tathā bhagavan bodhisattvena pratipattavyaṃ yatsahadarśanena sattvāḥ prasīdeyuḥ | tat kasmāddhetoḥ? na bhagavan bodhisattvasyānyat karaṇīyam asti anyatra sattvāvarjanāt | sattvaparipāka eveyaṁ bhagavan bodhisattvasya dharmasaṁgītir iti ||</p>-->
 <p>The word <foreign>kalaśa</foreign> found in the Mañjuśrīmūlakalpa has been misinterpreted by some scholars as a reference to Candi Kalasan and connected with the name <foreign>kalāsa</foreign> we read in stanza VII. Cite Griffiths 2015.</p>
+<p>Email PDS 2020-03-30: One more thing, I don't know what the three kinds of upāya are, but the late 8th-c. Vilāsavajra in his Nāmamantrārthāvalokinī commentary to the Mañjuśrīnāmasaṃgīti has this: upāyas trividhaḥ | svadoṣāpakarṣaṇaḥ sattvāvatārakaḥ kṣiprābhisambodhakaś ca || [Ms = Cambridge University Library Add. 1708, palm-leaf, ff. 115, 26 missing. 33r]</p>
          </div>
         <div type="bibliography">
 	<!--bibliography encoded as per section §9.4 -->
