@@ -57,7 +57,8 @@
                 </msDesc>  
             </sourceDesc>
         </fileDesc>
-        <revisionDesc><change who="part:axja" when="2020-03-27" status="draft">adding the handDesc template</change>
+        <revisionDesc><change who="part:ekba" when="2020-04-10" status="draft">updated the line numbering</change>
+            <change who="part:axja" when="2020-03-27" status="draft">adding the handDesc template</change>
             <change who="part:ekba" when="2020-02-17" status="draft">revision of the initial encoding</change>
             <change who="part:axja" when="2020-01-09" status="draft">Update the template</change>
         </revisionDesc>
@@ -66,79 +67,82 @@
         <body>
             <div type="edition" xml:lang="kaw-Latn">
            <p><pb n="4r"/>               
-<lb n="1"/>(rihaśa), (A)nn ikaṁ pjaḥ Anāpatya ta ṅaranikā magavaya yaśa, ma/ka\phalā svarga lpasanya saṁka ri pañcāgatisaṁsāra, saduman marerikaṁ sumaṅgaḥ (da)ra –
-<lb n="2"/>– simāṅlayaṁ, tan hana deyan· v(i)haṅa, mvaṁ tan sor·lviha deniṁ madum· dr̥byanikaṁ pjaḥ hanāpatya, maṅkana tiṅkaḥ vidhi pāduka śrĭ mahārāja I
-<lb n="3"/>mpuṅku śaiva sogata R̥ṣi mahābrāhmaṇa, mvaṁ baṇigrāma para vulu pañcadeśa, tka rikaṁ simāṅlayaṁ, samaṅāśraya I saṁ hyaṁ sarvvadharmma, mvaṁ samaṅasth[ā]<lb 
-    n="4" break="no"/>na I jātakanira, makatəvək· ri kālani kocapanikaṁ Adagaṁ pjaḥ Anāpatya riṁ yaso mva[ṁ] mpuṅku riṁ yaśo ḍaṅ āryya jñănasena, yathānya<lb 
-        n="5" break="no"/>n menaka patut· padulur· mpuṅku śaiva sogata R̥ṣi, mahābrāhmaṇa, mvaṁ baṇigrāma para vulu pañcadeśa, sama marāśraya ri sa(ṁ) hyaṁ sarvvadha<lb 
-            n="6" break="no"/>rmma, Apan kapvāpagəḥ rasa saṁ hyaṁ Ajñā haji praśāsti kmitanira riṁ muhun malama, Atəhər tājñā pāduka śrĭ mahārāja, I baṇigrāma para vulu pa<lb 
-                n="7" break="no"/>ñcadeśa, tka rikanaṁ sīmāṅlayaṁ samaṅasthăna I saṁ hyaṁ sarvvadharmma, An meṅətātaḥ baṇigrāma mvaṁṅ ikanaṁ sīmāṅlayaṁ kabeḥ samaṅāśraya ri saṁ hyaṁ dha<pb n="4v" break="no"/><fw n="4v" place="left"><num value="4">4</num></fw><lb 
-                    n="1" break="no"/>(r)mma tka ri jātakanira, Irikana pūrvvasthiti sapinahayuni mamarāśraya ri lāgi, tan deyən· madaməl·damla puriḥ, makaphalā tan pamuharānya [p]r[a]<lb 
-                        n="2" break="no"/>māda magəhi baṇigrāma tka rikanaṁ sīmāṅlayaṁ kabeḥ, samaṅkana ri sḍəṅanyan· tan aṅgā baṇigrāma mvaṁ Ikanaṁ sĭmāṅlayaṁ kabeḥ, Irikanaṁ vi(dh)[i]
-<lb n="3"/>pāduka śrĭ mahārāja, An· hayva baṇigrāma mvaṁṅ ikaṁ sīmāṅlayaṁ kabeḥ tamolaḥ mamarāśraya ri saṁ hyaṁ sarvvadharmma, yan· maṁkanā yāpvan
-<lb n="4"/>hana baṇigrāma mvaṁṅ ikaṁ sĭmāṅlayaṁ kamatān· kentasa tan pasuṁ ri kapālihani dr̥byanika(ṁ) madaga(ṁ) pjaḥ Anăpatya, yāvat tamolaḥ I saṁ hyaṁ sarvva<lb n="5" break="no"/>dharmma, mvaṁ paṅasthāna ri jātakanira, ya saṁkanāni pramādanya, salvirniṁ laṅghana I saṁ hyaṁṅ ājñā haji lvirānya, knāna ya nigraha, <abbr>mā</abbr> <abbr>śā</abbr> 1, su <num value="5">5</num> //
-<lb n="6"/>maṅkana rasany anugraha pāduka śrĭ mahārāja, I mpuṇku śeva sogata R̥ṣi mahăbrāhmaṇa, kapagəhaknanira hlam· tka ri dlāhaniṁ dlāha(,) pra<lb 
-    n="7" break="no"/>tyeka taṇḍa rakryān· ri pakirakirān·\,/ pinakasākṣīrikaṁ kāla, samgət· laṅka pu liṅir·, samgət· maṁhuryy aṅilala pu candragomi, samgət·
+<lb n="4r1"/>(rihaśa), (A)nn ikaṁ pjaḥ Anāpatya ta ṅaranikā magavaya yaśa, ma/ka\phalā svarga lpasanya saṁka ri pañcāgatisaṁsāra, saduman marerikaṁ sumaṅgaḥ (da)ra –
+<lb n="4r2"/>– simāṅlayaṁ, tan hana deyan· v(i)haṅa, mvaṁ tan sor·lviha deniṁ madum· dr̥byanikaṁ pjaḥ hanāpatya, maṅkana tiṅkaḥ vidhi pāduka śrĭ mahārāja I
+<lb n="4r3"/>mpuṅku śaiva sogata R̥ṣi mahābrāhmaṇa, mvaṁ baṇigrāma para vulu pañcadeśa, tka rikaṁ simāṅlayaṁ, samaṅāśraya I saṁ hyaṁ sarvvadharmma, mvaṁ samaṅasth[ā]<lb 
+    n="4r4" break="no"/>na I jātakanira, makatəvək· ri kālani kocapanikaṁ Adagaṁ pjaḥ Anāpatya riṁ yaso mva[ṁ] mpuṅku riṁ yaśo ḍaṅ āryya jñănasena, yathānya<lb 
+        n="4r5" break="no"/>n menaka patut· padulur· mpuṅku śaiva sogata R̥ṣi, mahābrāhmaṇa, mvaṁ baṇigrāma para vulu pañcadeśa, sama marāśraya ri sa(ṁ) hyaṁ sarvvadha<lb 
+            n="4r6" break="no"/>rmma, Apan kapvāpagəḥ rasa saṁ hyaṁ Ajñā haji praśāsti kmitanira riṁ muhun malama, Atəhər tājñā pāduka śrĭ mahārāja, I baṇigrāma para vulu pa<lb 
+                n="4r7" break="no"/>ñcadeśa, tka rikanaṁ sīmāṅlayaṁ samaṅasthăna I saṁ hyaṁ sarvvadharmma, An meṅətātaḥ baṇigrāma mvaṁṅ ikanaṁ sīmāṅlayaṁ kabeḥ samaṅāśraya ri saṁ hyaṁ dha<pb n="4v" break="no"/><fw n="4v" place="left"><num value="4">4</num></fw><lb 
+                    n="4v1" break="no"/>(r)mma tka ri jātakanira, Irikana pūrvvasthiti sapinahayuni mamarāśraya ri lāgi, tan deyən· madaməl·damla puriḥ, makaphalā tan pamuharānya [p]r[a]<lb 
+                        n="4v2" break="no"/>māda magəhi baṇigrāma tka rikanaṁ sīmāṅlayaṁ kabeḥ, samaṅkana ri sḍəṅanyan· tan aṅgā baṇigrāma mvaṁ Ikanaṁ sĭmāṅlayaṁ kabeḥ, Irikanaṁ vi(dh)[i]
+<lb n="4v3"/>pāduka śrĭ mahārāja, An· hayva baṇigrāma mvaṁṅ ikaṁ sīmāṅlayaṁ kabeḥ tamolaḥ mamarāśraya ri saṁ hyaṁ sarvvadharmma, yan· maṁkanā yāpvan
+<lb n="4v4"/>hana baṇigrāma mvaṁṅ ikaṁ sĭmāṅlayaṁ kamatān· kentasa tan pasuṁ ri kapālihani dr̥byanika(ṁ) madaga(ṁ) pjaḥ Anăpatya, yāvat tamolaḥ I saṁ hyaṁ sarvva<lb 
+    n="4v5" break="no"/>dharmma, mvaṁ paṅasthāna ri jātakanira, ya saṁkanāni pramādanya, salvirniṁ laṅghana I saṁ hyaṁṅ ājñā haji lvirānya, knāna ya nigraha, <abbr>mā</abbr> <abbr>śā</abbr> 1, su <num value="5">5</num> //
+<lb n="4v6"/>maṅkana rasany anugraha pāduka śrĭ mahārāja, I mpuṇku śeva sogata R̥ṣi mahăbrāhmaṇa, kapagəhaknanira hlam· tka ri dlāhaniṁ dlāha(,) pra<lb 
+    n="4v7" break="no"/>tyeka taṇḍa rakryān· ri pakirakirān·\,/ pinakasākṣīrikaṁ kāla, samgət· laṅka pu liṅir·, samgət· maṁhuryy aṅilala pu candragomi, samgət·
          <pb n="13r"/>     
-<lb n="1"/>– –, yathādvayanyan· sakāmakām(ā)pravr̥tti, vnaṁ mapadaga(ṁ) Adoḥ sa(ṁkā) ri gritanyan· len· saṁkā ri vnaṁ manumbas· bhăṇḍa Aḍəgan·, lāvan ta vaneḥ maṁdadya<lb 
-    n="2" break="no"/>kan· prihati I baṇigrăma para vulu pañcadeśa(,) ri hananikāṁ mada(gaṁ) sampun· maniddhakan· drabya haji katapahajyan·, ya tikāmet· paṅalapana(n)ya
-<lb n="3"/>sā/sa\mbal· sumbul·, tumiṅgalakan· ri sa(m)pun yāṅalap· Uṇḍi katapahajyan·, marapvan· tinisan· deni pabalapanya sāra, maṅkana rasani hatur baṇigrăma para vu<lb 
-    n="4" break="no"/>lu pañcadeśa makabehan·, makādi juru para vulu, tumuluy· kataṇḍa rakryăn· ri pakirakiran· miR̥səpakən· sapanambaḥ baṇigrăma para vulu pañcadeśa (I)
-<lb n="5"/>(lbu)ni pāduka śrĭ mahārāja, Atəhər tumyaṅakən· tan yuktinikāṁ madagaṁ huvus anarima Uṇḍi mgila ri samba\l·/ sumbul·, mvaṁ yogyăyogyaniṁ pracāranikāṁ ma(gi)<lb 
-    n="6" break="no"/>liṅan· mapadagaṁ Adoha saṅke gritanya, kunaṁ saṁkā ri kāruṇyani lbuni pāduka śrĭ mahārāja, ri sanambaḥnikanaṁ baṇigrăma para vulu pañcadeśa ma(ka-
-<lb n="7"/>beha)n· makādi juru (para) vulu, lāvan katon· ta hilaṁni vsivsi pāduka śrĭ mahārāja, kalvaṅan· niyatanikaṁ drabya haji kahajyan·, panityaka --i------
+<lb n="13r1"/>– –, yathādvayanyan· sakāmakām(ā)pravr̥tti, vnaṁ mapadaga(ṁ) Adoḥ sa(ṁkā) ri gritanyan· len· saṁkā ri vnaṁ manumbas· bhăṇḍa Aḍəgan·, lāvan ta vaneḥ maṁdadya<lb 
+    n="13r2" break="no"/>kan· prihati I baṇigrăma para vulu pañcadeśa(,) ri hananikāṁ mada(gaṁ) sampun· maniddhakan· drabya haji katapahajyan·, ya tikāmet· paṅalapana(n)ya
+<lb n="13r3"/>sā/sa\mbal· sumbul·, tumiṅgalakan· ri sa(m)pun yāṅalap· Uṇḍi katapahajyan·, marapvan· tinisan· deni pabalapanya sāra, maṅkana rasani hatur baṇigrăma para vu<lb 
+    n="13r4" break="no"/>lu pañcadeśa makabehan·, makādi juru para vulu, tumuluy· kataṇḍa rakryăn· ri pakirakiran· miR̥səpakən· sapanambaḥ baṇigrăma para vulu pañcadeśa (I)
+<lb n="13r5"/>(lbu)ni pāduka śrĭ mahārāja, Atəhər tumyaṅakən· tan yuktinikāṁ madagaṁ huvus anarima Uṇḍi mgila ri samba\l·/ sumbul·, mvaṁ yogyăyogyaniṁ pracāranikāṁ ma(gi)<lb 
+    n="13r6" break="no"/>liṅan· mapadagaṁ Adoha saṅke gritanya, kunaṁ saṁkā ri kāruṇyani lbuni pāduka śrĭ mahārāja, ri sanambaḥnikanaṁ baṇigrăma para vulu pañcadeśa ma(ka-
+<lb n="13r7"/>beha)n· makādi juru (para) vulu, lāvan katon· ta hilaṁni vsivsi pāduka śrĭ mahārāja, kalvaṅan· niyatanikaṁ drabya haji kahajyan·, panityaka --i------
          <pb n="13v"/>
                <fw n="13v" place="left"><num value="13">13</num></fw>
-<lb n="1"/> – – – – – sakevyən· pāduka śrĭ mahārāja sārisāri, yan ubhayānnanikā(ṁ) magritan· mapadagaṅād(o s)aṁke gritanya, mvaṁ (ta)n· hnəṅakna hika –
-<lb n="2"/> – – puntən· Anarima Uṇḍi, vka saṅ amet· sambal· sumbul· paṅalapananya sāra(, mata)ṅyan turun· sanmatani lbu pāduka śrĭ mahārāja, I baṇigrăma para vulu pa-
-<lb n="3"/>(ñcadeśa), makacihna vine(ḥ) makmitana saṁ hyaṁ Ājñā haji pagəḥpagəḥ Ātmarakṣa baṇigrăma, makarasa I vnaṅa baṇigrăma para vulu pañcadeśa, – – – – –
-<lb n="4"/>n ri -- (magritan)· Uṇḍi sadeśa paranya, sadvadvalanya, sabhăṇḍānya, yăvat· kapva yādoha sake gritanya, knāna juga ya drabya haji sadeni mani-- dra<lb 
-    n="5" break="no"/>(bya haj)i (katapahajyan·), Apan· mandəl adagaṁ tan· poṇḍi prasiddhiniṁ mali drabya haji ṅaranikā, An· vnaṁ sumambut· vulu baṇigrăma para vulu pañcadeśa tan· –
-<lb n="6"/> – – drabya haji katapahajyan·, maṁkana rasa saṁ hyaṁ Ăjñāji kmitan· baṇigrăma para vulu pañcadeśa makabehān·(,) kinonakan· kayatnaka baṇigrăma 
-<lb n="7"/>[para] vulu (pañcade)śa, sādhana baṇigrăma para vulu An· knāna padagaṁnikaṁ magritan· drabya haji yan adoha sakeṁ giliṅan·, ka – – – – baṇigrāma riṁ –
+<lb n="13v1"/> – – – – – sakevyən· pāduka śrĭ mahārāja sārisāri, yan ubhayānnanikā(ṁ) magritan· mapadagaṅād(o s)aṁke gritanya, mvaṁ (ta)n· hnəṅakna hika –
+<lb n="13v2"/> – – puntən· Anarima Uṇḍi, vka saṅ amet· sambal· sumbul· paṅalapananya sāra(, mata)ṅyan turun· sanmatani lbu pāduka śrĭ mahārāja, I baṇigrăma para vulu pa-
+<lb n="13v3"/>(ñcadeśa), makacihna vine(ḥ) makmitana saṁ hyaṁ Ājñā haji pagəḥpagəḥ Ātmarakṣa baṇigrăma, makarasa I vnaṅa baṇigrăma para vulu pañcadeśa, – – – – –
+<lb n="13v4"/>n ri -- (magritan)· Uṇḍi sadeśa paranya, sadvadvalanya, sabhăṇḍānya, yăvat· kapva yādoha sake gritanya, knāna juga ya drabya haji sadeni mani-- dra<lb 
+    n="13v5" break="no"/>(bya haj)i (katapahajyan·), Apan· mandəl adagaṁ tan· poṇḍi prasiddhiniṁ mali drabya haji ṅaranikā, An· vnaṁ sumambut· vulu baṇigrăma para vulu pañcadeśa tan· –
+<lb n="13v6"/> – – drabya haji katapahajyan·, maṁkana rasa saṁ hyaṁ Ăjñāji kmitan· baṇigrăma para vulu pañcadeśa makabehān·(,) kinonakan· kayatnaka baṇigrăma 
+<lb n="13v7"/>[para] vulu (pañcade)śa, sādhana baṇigrăma para vulu An· knāna padagaṁnikaṁ magritan· drabya haji yan adoha sakeṁ giliṅan·, ka – – – – baṇigrāma riṁ –
                <pb n="14r"/>
-<lb n="1"/>[grita]n· ri sapinasukniṁ yavadvĭpa kabeḥ, lasun·, paḍa, paṅkaja, kanuruhan·, lamajaṁ, panumbaṁṅan·, pavuyahan·, deśa luvuk·, vuravan·, kaḍaṅayan· ka –
-<lb n="2"/>tka rikanaṁ magiliṅan· maṁlās· kasavur sahana ri deśāntara, An· keṅətaknanya bhārani rasa saṁ hyaṁ Ăjñā haji pagəḥpagəḥ kmitan· baṇigrăma para vulu
-<lb n="3"/>pañcadeśa makabeḥhān· ri tan· papadagaṁṅa baṇigrăma riṁ pagiliṅanan· Adoha saṁke giliṅanya, lāvan tan· panumbasa bhăṇḍădəgan· Asiṁ salviranya, A<lb 
-    n="4" break="no"/>pa tan inulahulaḥ pva pakmitan· baṇigrăma riṁ pagritanan· saṁ hyaṁ Ăjñā haji Anugraha haji devatā saṅ atĭtaprabhū, An· tan· knakna de saṁ maṅilala drabya ha-
-<lb n="5"/>ji vuluvulu, pinagəhakan· ri vnaṁṅa baṇigrăma riṁ pagiliṅanan· mapadagaṁṅāpikul·pikula, tan· svĭkārān· An padval avli strĭnikaṁ magiliṅan·, pinakasambya<lb 
-    n="6" break="no"/>(sa)mbyanyan· lampaha buñcaṁ haji lunya sumaddhakan· sasuruhanya sake pāduka gri mahārāja, saṅkānani paveḥnya drabya haji I samgət· vuṅkal· psatananda
-<lb n="7"/>– hiniṅākvaihanya, An· rvaṁ siki papikulpikulanya, yan· strĭstrĭ pataṁ siki riṁ sagritan·, tan L̥viha saṁkerikā, Ikā tan adoha saṁke giliṅanya, sa<pb n="14v" break="no"/><fw n="14v" place="left"><num value="14">14</num></fw><lb 
-    n="1" break="no"/>sambhava paṅantyananyataḥ pam(v)at·mvatananya, tan deyana tayānasata Irikaṁ huvus· kapara ri saṁ (h)yaṁ Ājñā haji – – pa(n)ta – – –, bhaya tarapva –
-<lb n="2"/>deni l[bu](n)i (pā)du(ka ś)rĭ mahārāja (maṅa)nugraha ri baṇigrăma para vulu pañcadeśa, si tan· U[ṇḍi]nikaṁ drabya haji katapaha(jya)n· prayojana śrĭ ma(hārāja) –
-<lb n="3"/>mataṁnya(n)· (ki)nonakan· padagaṁ(n)ika magiliṅa(n)· knāna (U)ṇḍi tan adoḥ saṁke gritanya, lavan ajatā[ka] mukti pāduka śrĭ mahārāja, ri vnaṅanika magi<lb 
-    n="4" break="no"/>liṅan·, mapa----i----[g]iliṅan· stristri pataṁ siki riṁ sagiliṅan· tan· kaknāna drabya haji hu(l)un tan adoha saṁke giliṅanya, kunaṁ ya tan· magəm anə<lb 
-        n="5" break="no"/>– k· Ikanaṁ magritan· I – – – (saṁ hyaṁ) Ajñā haji, kamatanānumbasa bhăṇḍa A(d)əgan·, lāvan ta –· taṅg(ə) – padaga(ṁ) L̥(vi)ha saṁkerikaṁ paṁhəṅ iriya, mvaṁ yan a<lb 
-            n="6" break="no"/>doḥ (hī)ṅanya – – – kapkan· 1 dvadvalanya, kinonakan· ya R̥gəpən· sakveḥni bhăṇḍanya, Atĕhĕr knāna n(i)graha, kuna(ṁ) Ikanaṁ sambal· sumbul· mva(ṁ) kras·
-<lb n="7"/> – – – prakara tan· vehĕn ikāburvaburva, --ni--niṅa, kevalāpahlya maṁhlyana juga ya, Āpan· kapaṅgi(ḥ) riṅ anādi, samaṁkana Ikanaṁ Akarañja(ṁ)
+<lb n="14r1"/>[grita]n· ri sapinasukniṁ yavadvĭpa kabeḥ, lasun·, paḍa, paṅkaja, kanuruhan·, lamajaṁ, panumbaṁṅan·, pavuyahan·, deśa luvuk·, vuravan·, kaḍaṅayan· ka –
+<lb n="14r2"/>tka rikanaṁ magiliṅan· maṁlās· kasavur sahana ri deśāntara, An· keṅətaknanya bhārani rasa saṁ hyaṁ Ăjñā haji pagəḥpagəḥ kmitan· baṇigrăma para vulu
+<lb n="14r3"/>pañcadeśa makabeḥhān· ri tan· papadagaṁṅa baṇigrăma riṁ pagiliṅanan· Adoha saṁke giliṅanya, lāvan tan· panumbasa bhăṇḍădəgan· Asiṁ salviranya, A<lb 
+    n="14r4" break="no"/>pa tan inulahulaḥ pva pakmitan· baṇigrăma riṁ pagritanan· saṁ hyaṁ Ăjñā haji Anugraha haji devatā saṅ atĭtaprabhū, An· tan· knakna de saṁ maṅilala drabya ha-
+<lb n="14r5"/>ji vuluvulu, pinagəhakan· ri vnaṁṅa baṇigrăma riṁ pagiliṅanan· mapadagaṁṅāpikul·pikula, tan· svĭkārān· An padval avli strĭnikaṁ magiliṅan·, pinakasambya<lb 
+    n="14r6" break="no"/>(sa)mbyanyan· lampaha buñcaṁ haji lunya sumaddhakan· sasuruhanya sake pāduka gri mahārāja, saṅkānani paveḥnya drabya haji I samgət· vuṅkal· psatananda
+<lb n="14r7"/>– hiniṅākvaihanya, An· rvaṁ siki papikulpikulanya, yan· strĭstrĭ pataṁ siki riṁ sagritan·, tan L̥viha saṁkerikā, Ikā tan adoha saṁke giliṅanya, sa<pb n="14v" break="no"/><fw n="14v" place="left"><num value="14">14</num></fw><lb 
+    n="14v1" break="no"/>sambhava paṅantyananyataḥ pam(v)at·mvatananya, tan deyana tayānasata Irikaṁ huvus· kapara ri saṁ (h)yaṁ Ājñā haji – – pa(n)ta – – –, bhaya tarapva –
+<lb n="14v2"/>deni l[bu](n)i (pā)du(ka ś)rĭ mahārāja (maṅa)nugraha ri baṇigrăma para vulu pañcadeśa, si tan· U[ṇḍi]nikaṁ drabya haji katapaha(jya)n· prayojana śrĭ ma(hārāja) –
+<lb n="14v3"/>mataṁnya(n)· (ki)nonakan· padagaṁ(n)ika magiliṅa(n)· knāna (U)ṇḍi tan adoḥ saṁke gritanya, lavan ajatā[ka] mukti pāduka śrĭ mahārāja, ri vnaṅanika magi<lb 
+    n="14v4" break="no"/>liṅan·, mapa----i----[g]iliṅan· stristri pataṁ siki riṁ sagiliṅan· tan· kaknāna drabya haji hu(l)un tan adoha saṁke giliṅanya, kunaṁ ya tan· magəm anə<lb 
+        n="14v5" break="no"/>– k· Ikanaṁ magritan· I – – – (saṁ hyaṁ) Ajñā haji, kamatanānumbasa bhăṇḍa A(d)əgan·, lāvan ta –· taṅg(ə) – padaga(ṁ) L̥(vi)ha saṁkerikaṁ paṁhəṅ iriya, mvaṁ yan a<lb 
+            n="14v6" break="no"/>doḥ (hī)ṅanya – – – kapkan· 1 dvadvalanya, kinonakan· ya R̥gəpən· sakveḥni bhăṇḍanya, Atĕhĕr knāna n(i)graha, kuna(ṁ) Ikanaṁ sambal· sumbul· mva(ṁ) kras·
+<lb n="14v7"/> – – – prakara tan· vehĕn ikāburvaburva, --ni--niṅa, kevalāpahlya maṁhlyana juga ya, Āpan· kapaṅgi(ḥ) riṅ anādi, samaṁkana Ikanaṁ Akarañja(ṁ)
                <pb n="16r"/>
-<lb n="1"/>ka śrĭ mahārāja ri baṇ(i)grāma para vulu pañcadeśa makabehān·, samgət· laṅka pu laras·, samgət· maṁhuryyāṅilala pu Akun·, samgət· tirvan· pu puṇḍarika, sa[mgə]<lb 
-    n="2" break="no"/>t· lucəm· kabayan· pu minaghnapāda, rakryan· lasun· mapapan· pu maṅuṇḍuḥ, makādi rakryan· kanuruhan· pu dharmmamūrtti narottama dānaśura, mpu riṁ dharmma parhyā<lb 
-        n="3" break="no"/>ṅan· ri kaṇḍayuga yaṅ āvāryya cittănanda, samgat· kaṇḍamuhi ḍaṅ ācāryya Arccya, pinasəkan· <abbr>mā</abbr> <abbr>su</abbr> <num value="1">1</num>, <abbr>mā</abbr> <num value="4">4</num>, para para nāmaleśa ri śri mahārāja, samgən·
-<lb n="4"/>vulatthyaṁ jinasr̥nu samgĕt· kaluluṅan· katən· tryakṣa, vineḥ pisĕk·, <abbr>mā</abbr> <num value="10">10</num>, Akurug· sumbul· makādi ravyaḥ batiṣṭa, pisə(k)an·, <abbr>mā</abbr> <num value="10">10</num>, kinabaihā<lb 
-    n="5" break="no"/>n·, lekam upacāra saṁ hyaṁ Ăjñā haji leka dvija, yāpvan· hana sira kamatān· yatna I rasa saṁ hyaṁ Ăjñā haji pagəpagəḥ knāna ya nigraha <abbr>mā</abbr> <abbr>kā</abbr> <num value="1">1</num>, <abbr>su</abbr> <num value="5">5</num>, I
-<lb n="6"/>vrūḥhanira kabaiḥ prayatnā // 0 // svasti śakavarśātītha, <num value="968">968</num>, Ăṣāḍamasa tithi caturthi kr̥ṣṇapakṣa, ha, U, bu, vāra dukut· śatabhiṣanakṣatra, baru<lb 
-    n="7" break="no"/>ṇa devatā, śubha yoga, vava karaṇa, Agneyastha, Irikā divasany ajñā śrī mahārāja rakai halu śrī lokeśvara dharmmavaṅśa Airlāṅgānantavikramo<pb n="16v" break="no"/><fw n="16v" place="left"><num value="16">16</num></fw><lb n="1" break="no"/>ttuṅgadeva, tinaḍaḥ rakryan· māhamantri I hino śri samaravijaya suparṇnavāhana tguh uttuṅgadeva, Umiṅso(r) I rakryan· kanuruhan· pu Asmaranama, ku<lb 
-        n="2" break="no"/>monakan· Ikanaṁ piṅhai Akurug anak thăni ri deśa Aṣṭataṇḍa kasaṅa thāni jumput·, svasva, lucĕm·, pavuyahan·, panumbaṅan·, vaharū, tagaran·, hujuṁ,
-<lb n="3"/>kanuruhan·, kasaṅa thāni jumput·, paku(b)āṁ, halaran·, vka, tka rika(naṁ) sīma para sima, kalaṁ kalagyan·, para patapān· kakṣaitran·, padamlakna saṁ hyaṁ
-<lb n="4"/>Ajñā haji mataṇḍa garūḍamukha, kmitananikanaṁ piṅhai makurug anak thāni riṁ deśāṣṭa taṇḍa, kasaṅa thāni jumput·, sambandha, Ikanaṁ piṅhai makurūg ana<lb 
-    n="5" break="no"/>k thāni riṁ deśāṣṭataṇḍa kasaṅa thāni jumput·, mapulu(ṁ)rahi manambaḥ I L̥buni pāduka śri mahārāja, Umajarakĕn· saka prihatinya ri svadeśanya so<lb 
-        n="6" break="no"/>vaṁsovaṁ, makanimitta, ri tan· rva tlunika maṁdadyakĕn· hārohara, deni kveḥnirāparināma sahulun· pāduka śri mahārāja, samaṅilala dr̥vya ha<lb 
-            n="7" break="no"/> ji vuluvulu magĕ:ṁ maḍmat· ri deśāṣṭa taṇḍa, kasaṅa thāni jumput·, ya tika tan kavnaṁ tinalaṅkupan·, yāvat· tkāna māsa – mupvan· drabya haji, kevalātata-
+<lb n="16r1"/>ka śrĭ mahārāja ri baṇ(i)grāma para vulu pañcadeśa makabehān·, samgət· laṅka pu laras·, samgət· maṁhuryyāṅilala pu Akun·, samgət· tirvan· pu puṇḍarika, sa[mgə]<lb 
+    n="16r2" break="no"/>t· lucəm· kabayan· pu minaghnapāda, rakryan· lasun· mapapan· pu maṅuṇḍuḥ, makādi rakryan· kanuruhan· pu dharmmamūrtti narottama dānaśura, mpu riṁ dharmma parhyā<lb 
+        n="16r3" break="no"/>ṅan· ri kaṇḍayuga yaṅ āvāryya cittănanda, samgat· kaṇḍamuhi ḍaṅ ācāryya Arccya, pinasəkan· <abbr>mā</abbr> <abbr>su</abbr> <num value="1">1</num>, <abbr>mā</abbr> <num value="4">4</num>, para para nāmaleśa ri śri mahārāja, samgən·
+<lb n="16r4"/>vulatthyaṁ jinasr̥nu samgĕt· kaluluṅan· katən· tryakṣa, vineḥ pisĕk·, <abbr>mā</abbr> <num value="10">10</num>, Akurug· sumbul· makādi ravyaḥ batiṣṭa, pisə(k)an·, <abbr>mā</abbr> <num value="10">10</num>, kinabaihā<lb 
+    n="16r5" break="no"/>n·, lekam upacāra saṁ hyaṁ Ăjñā haji leka dvija, yāpvan· hana sira kamatān· yatna I rasa saṁ hyaṁ Ăjñā haji pagəpagəḥ knāna ya nigraha <abbr>mā</abbr> <abbr>kā</abbr> <num value="1">1</num>, <abbr>su</abbr> <num value="5">5</num>, I
+<lb n="16r6"/>vrūḥhanira kabaiḥ prayatnā // 0 // svasti śakavarśātītha, <num value="968">968</num>, Ăṣāḍamasa tithi caturthi kr̥ṣṇapakṣa, ha, U, bu, vāra dukut· śatabhiṣanakṣatra, baru<lb 
+    n="16r7" break="no"/>ṇa devatā, śubha yoga, vava karaṇa, Agneyastha, Irikā divasany ajñā śrī mahārāja rakai halu śrī lokeśvara dharmmavaṅśa Airlāṅgānantavikramo<pb n="16v" break="no"/><fw n="16v" place="left"><num value="16">16</num></fw><lb 
+        n="16v1" break="no"/>ttuṅgadeva, tinaḍaḥ rakryan· māhamantri I hino śri samaravijaya suparṇnavāhana tguh uttuṅgadeva, Umiṅso(r) I rakryan· kanuruhan· pu Asmaranama, ku<lb 
+        n="16v2" break="no"/>monakan· Ikanaṁ piṅhai Akurug anak thăni ri deśa Aṣṭataṇḍa kasaṅa thāni jumput·, svasva, lucĕm·, pavuyahan·, panumbaṅan·, vaharū, tagaran·, hujuṁ,
+<lb n="16v3"/>kanuruhan·, kasaṅa thāni jumput·, paku(b)āṁ, halaran·, vka, tka rika(naṁ) sīma para sima, kalaṁ kalagyan·, para patapān· kakṣaitran·, padamlakna saṁ hyaṁ
+<lb n="16v4"/>Ajñā haji mataṇḍa garūḍamukha, kmitananikanaṁ piṅhai makurug anak thāni riṁ deśāṣṭa taṇḍa, kasaṅa thāni jumput·, sambandha, Ikanaṁ piṅhai makurūg ana<lb 
+    n="16v5" break="no"/>k thāni riṁ deśāṣṭataṇḍa kasaṅa thāni jumput·, mapulu(ṁ)rahi manambaḥ I L̥buni pāduka śri mahārāja, Umajarakĕn· saka prihatinya ri svadeśanya so<lb 
+        n="16v6" break="no"/>vaṁsovaṁ, makanimitta, ri tan· rva tlunika maṁdadyakĕn· hārohara, deni kveḥnirāparināma sahulun· pāduka śri mahārāja, samaṅilala dr̥vya ha<lb 
+            n="16v7" break="no"/> ji vuluvulu magĕ:ṁ maḍmat· ri deśāṣṭa taṇḍa, kasaṅa thāni jumput·, ya tika tan kavnaṁ tinalaṅkupan·, yāvat· tkāna māsa – mupvan· drabya haji, kevalātata-
                <pb n="18r"/>
-<lb n="1"/>pvāR̥but·R̥but (i)riṁ hnū, tan vurūṁ manisik·nisik anahi-tikus·,  Akvaiḥ ta pva kriyākāranaṇyan tan apiliḥ lvirnikāṅulaḥ makapuhara hala ri tanayan thāni
-<lb n="2"/>dinamlakanya, tātan· kenakan· palaliṅgiḥnya ri panataranya, tan apagəḥ mulahakan· svakarmanya ri kānakthānyan·, deni kvaiḥnikanaṅ vaṁ para piḍi<lb 
-    n="3" break="no"/>kātivisthārātəhər aminta lañcuran·, sakupaṁ sātak·, kalen saṁkeṅ amalaku tinuṇḍa, An· tan hana puriḥnya katampak deniṁ tuṇḍan· magəṁ maḍmit·, ndā<lb 
-        n="4" break="no"/>n· tamolaḥ juga padaməlnya prihati, Apa tan· vurūṁ maṅanti riṁ paktima, mintāhārāraparapāṅalap· sarvvaphala, mŭlaphala, makădi vnaṁvnaṁ prakăra, maṅkana
-<lb n="5"/>rasani panambaḥnikanaṁ piṅhai makurūg anak thāni ri deśāṣṭa taṇḍa kasaṅa thāni jumput· I lbuni pāduka śrĭ mahārāja, kunaṁ saṅkā ri kāruṇyani lbuni
-<lb n="6"/>pāduka śrĭ mahārāja, I paṁhyaṁnikanaṁ piṅhai makurug anak thāni ri deśāṣṭa taṇḍa kasaṅa thāni jumput·, mataṁnyan turun· Anugraha śrĭ mahārāja, ma<lb 
-    n="7" break="no"/>kacihnaṁ vineḥ makmitana saṁ hyaṁ Ajñā haji mataṇḍa garuḍamukha, makarāsa ri tan hanānira para parināma vulu vulu, makădi miśra, paramiśra, paṁṅuraṁ, kriṁ, pa<pb n="18v" break="no"/><fw n="18v" place="left"><num value="18">18</num></fw><lb 
-        n="1" break="no"/>ḍəm·, manimpiki, paranakan·, limus· galuḥ, maṁhuryyāṅilala, paraṁ, suṅka, dhūra, paṅaruhan·, taji, vatu tajəm·, halu varak·, sr̥kān·, manaṁ, pini<lb 
-            n="2" break="no"/>ṅlai, kataṅgaran·, tapa haji, Air aji, malandaṁ, L̥ca, pakalaṅkaṁ, kutan·, taṅkil·, pāṅgare, saL̥t·, vatu valaṁ, pamanikan·, taṅhiran·, maṇiga, tpuṁ
-<lb n="3"/>kavuṁ, limba kavaḥ, tka ri sakveḥnirāṁlpas· kuda, Aniṁkəs· Ajaran·, Amet· hayam putiḥ, gḍəl, karuṁ, vḍus· pādu, Amet akar davudavutan·,
-<lb n="4"/>paroṇḍonan·, pasarpan·, poṣadhan·, Amet kaka, mvaṁṅ inaṁ, Aṁlpas· bhasmā, magalaḥ, mamanaḥ, magaṇḍi, mavuluṁvuluṁ, hulun haji, vatək i jro, si<lb n="5" break="no"/>ṅgaḥ, tumut· Usyan· śrĭ mahārāja, An· tan deyən atakāminta tinuṇḍa, ya tan pakasoṁ saṁ hyaṁ Ajñā haji, mvaṁ tan· paR̥but·R̥butanaṅālapa<lb 
-    n="6" break="no"/>na yan· halintaṁ riṁ hnū gə:ṁ, kevalāgavayānurāga sopacārā I rikanaṁ tanayan thāni, samaṅkana sira ri parahasyan·, An tan· dumaṇāta sira sumaṅgaha Ika<lb 
-        n="7" break="no"/>ṅ vaṁ sahāyaniṅ amutra hyaṁ mvaṁ katibān· tulis kaṅāśvāsa, An· sampun· kinavruhan deni vvaṅ akveḥ ri tan· siṅgiḥnya makolah ikaṁ sapaṁdaliḥ Iriya, tka
+<lb n="18r1"/>pvāR̥but·R̥but (i)riṁ hnū, tan vurūṁ manisik·nisik anahi-tikus·,  Akvaiḥ ta pva kriyākāranaṇyan tan apiliḥ lvirnikāṅulaḥ makapuhara hala ri tanayan thāni
+<lb n="18r2"/>dinamlakanya, tātan· kenakan· palaliṅgiḥnya ri panataranya, tan apagəḥ mulahakan· svakarmanya ri kānakthānyan·, deni kvaiḥnikanaṅ vaṁ para piḍi<lb 
+    n="18r3" break="no"/>kātivisthārātəhər aminta lañcuran·, sakupaṁ sātak·, kalen saṁkeṅ amalaku tinuṇḍa, An· tan hana puriḥnya katampak deniṁ tuṇḍan· magəṁ maḍmit·, ndā<lb 
+        n="18r4" break="no"/>n· tamolaḥ juga padaməlnya prihati, Apa tan· vurūṁ maṅanti riṁ paktima, mintāhārāraparapāṅalap· sarvvaphala, mŭlaphala, makădi vnaṁvnaṁ prakăra, maṅkana
+<lb n="18r5"/>rasani panambaḥnikanaṁ piṅhai makurūg anak thāni ri deśāṣṭa taṇḍa kasaṅa thāni jumput· I lbuni pāduka śrĭ mahārāja, kunaṁ saṅkā ri kāruṇyani lbuni
+<lb n="18r6"/>pāduka śrĭ mahārāja, I paṁhyaṁnikanaṁ piṅhai makurug anak thāni ri deśāṣṭa taṇḍa kasaṅa thāni jumput·, mataṁnyan turun· Anugraha śrĭ mahārāja, ma<lb 
+    n="18r7" break="no"/>kacihnaṁ vineḥ makmitana saṁ hyaṁ Ajñā haji mataṇḍa garuḍamukha, makarāsa ri tan hanānira para parināma vulu vulu, makădi miśra, paramiśra, paṁṅuraṁ, kriṁ, pa<pb n="18v" break="no"/><fw n="18v" place="left"><num value="18">18</num></fw><lb 
+        n="18v1" break="no"/>ḍəm·, manimpiki, paranakan·, limus· galuḥ, maṁhuryyāṅilala, paraṁ, suṅka, dhūra, paṅaruhan·, taji, vatu tajəm·, halu varak·, sr̥kān·, manaṁ, pini<lb 
+            n="18v2" break="no"/>ṅlai, kataṅgaran·, tapa haji, Air aji, malandaṁ, L̥ca, pakalaṅkaṁ, kutan·, taṅkil·, pāṅgare, saL̥t·, vatu valaṁ, pamanikan·, taṅhiran·, maṇiga, tpuṁ
+<lb n="18v3"/>kavuṁ, limba kavaḥ, tka ri sakveḥnirāṁlpas· kuda, Aniṁkəs· Ajaran·, Amet· hayam putiḥ, gḍəl, karuṁ, vḍus· pādu, Amet akar davudavutan·,
+<lb n="18v4"/>paroṇḍonan·, pasarpan·, poṣadhan·, Amet kaka, mvaṁṅ inaṁ, Aṁlpas· bhasmā, magalaḥ, mamanaḥ, magaṇḍi, mavuluṁvuluṁ, hulun haji, vatək i jro, si<lb 
+    n="18v5" break="no"/>ṅgaḥ, tumut· Usyan· śrĭ mahārāja, An· tan deyən atakāminta tinuṇḍa, ya tan pakasoṁ saṁ hyaṁ Ajñā haji, mvaṁ tan· paR̥but·R̥butanaṅālapa<lb 
+    n="18v6" break="no"/>na yan· halintaṁ riṁ hnū gə:ṁ, kevalāgavayānurāga sopacārā I rikanaṁ tanayan thāni, samaṅkana sira ri parahasyan·, An tan· dumaṇāta sira sumaṅgaha Ika<lb 
+        n="18v7" break="no"/>ṅ vaṁ sahāyaniṅ amutra hyaṁ mvaṁ katibān· tulis kaṅāśvāsa, An· sampun· kinavruhan deni vvaṅ akveḥ ri tan· siṅgiḥnya makolah ikaṁ sapaṁdaliḥ Iriya, tka
            </p>
             </div>
             <div type="apparatus">

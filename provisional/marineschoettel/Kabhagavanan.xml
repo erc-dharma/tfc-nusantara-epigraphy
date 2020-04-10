@@ -99,7 +99,7 @@
                 <listApp>
                   <app loc="1r2">
                     <lem>pu<unclear>s</unclear>padanta</lem>
-                    <note>It would also be possible to read <hi rend="italic">puṣpadanta</hi>. However, other instances of that name in this epigraph are consistently spelled with a dental s.</note>  
+                    <note>It would also be possible to read <hi rend="italic">puṣpadanta</hi>. However, other instances of that name in this epigraph are consistently spelled with a dental s.</note>
                   </app>
                   <app loc="1r2">
                       <lem>m<unclear>uk</unclear>utha-</lem>
@@ -111,7 +111,7 @@
                           probably have realised that he was beginning to write too high, and
                           stopped after the first akṣara, then rewrote <hi rend="italic">nta</hi> at the proper place.</note>
                   </app>
-                </listApp>         
+                </listApp>
          </div>
          <div type="translation" xml:lang="eng" resp="part:masc">
  	<!--translation encoded as per EG §9.2 -->
@@ -126,6 +126,9 @@
             <p>Unpublished inscription first read by Arlo Griffiths in 2009 by direct inspection of the plates at Rotterdam, and re-edited by Marine
                 Schoettel and Arlo Griffiths in February-March 2020 from photographs made available
                 by the Wereldmuseum (49509 and 49507).</p>
+             <listBibl type="secondary">
+                 <bibl/>
+             </listBibl>
         </div>
       </body>
   </text>
