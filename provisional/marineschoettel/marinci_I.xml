@@ -16,7 +16,8 @@
             </respStmt>
          </titleStmt>
          <publicationStmt>
-            <authority>DHARMA <note>This project has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994). </note>
+            <authority>DHARMA <note>This project has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant
+                  agreement no 809994). </note>
             </authority>
             <pubPlace>Paris</pubPlace>
             <idno type="filename">marinci_I</idno>
@@ -70,8 +71,7 @@
 <p>hanəṅgū R̥ko den tagiḥ den kənakən iṁ titi<g type="filler">§</g>
 <lb n="1r3" break="no"/>L̥man·, satuvuk-tuvuk t<unclear>a</unclear> kaṁ paṅaR̥mban riṁ devaR̥ṣi, deśeṁ mariñci, luput iṁ titi
 <lb n="1r4" break="no"/>L̥man·, luput iṁ sosorohan·, Iku ta hi rehane luvara panagihe, len a<g type="filler">§</g>
-<lb n="1r5" break="no"/>na hubhayane, makaṅuni huvusa hasosokana, hi rehane kahudala deniṅ ama<pb 
-n="1v" break="no"/>
+<lb n="1r5" break="no"/>na hubhayane, makaṅuni huvusa hasosokana, hi rehane kahudala deniṅ ama<pb n="1v" break="no"/>
 <lb n="1v1" break="no"/>va rājamudra, rehe kaṁ paṅaR̥mban· riṁ devaR̥ṣi, si samasanak· riṁ mariñci, hana pi
 <lb n="1v2" break="no"/>hagəme tan kasabaha deniṅ ampan-ampan·, Iṅoṅ amagəhakən andikanira talāmpakanira bha
 <lb n="1v3" break="no"/>ṭāra saṁ mokta riṅ amr̥tabhavana,</p>
@@ -129,9 +129,10 @@ n="1v" break="no"/>
          </div>
         <div type="bibliography">
 	<!--bibliography encoded as per section §9.4 -->
-	<p>First edited by Krom (<bibl rend="omitname"><ptr target="bib:NBG"/><date>1914</date><citedRange unit="volume">XX</citedRange><citedRange unit="page">44-45</citedRange></bibl>); edited again by Boechari (<bibl rend="omitname"><ptr target="bib:Boechari1985-1986_01"/><citedRange unit="page">112</citedRange> <citedRange unit="item">E.49</citedRange></bibl>); re-edited here by Marine Schoettel from the estampage of the plate made available by the Museum Nasional Indonesia.</p>
+	<p>First edited by Pigeaud <!-- in JFC, is that really the case?-->, re-edited by Boechari (<bibl rend="omitname"><ptr target="bib:Boechari1985-1986_01"/><citedRange unit="page">112</citedRange> <citedRange unit="item">E.49</citedRange></bibl>); re-edited here by Marine Schoettel from the estampage of the plate made available by the Museum Nasional Indonesia.</p>
             <listBibl type="secondary">
-	  <bibl/></listBibl>
+	 <bibl><ptr target="bib:NBG"/><date>1914</date><citedRange unit="volume">LII</citedRange><citedRange unit="page">44-45, 52, 192</citedRange></bibl>
+</listBibl>
         </div>
       </body>
   </text>
