@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader xml:lang="eng">
+        <fileDesc>
+            <titleStmt>
+                <title>Sanga</title>
+                <respStmt>
+                    <resp>creation of file</resp>
+                    <persName ref="part:ekba">
+                        <name>Eko Bastiawan</name>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>intellectual authorship of edition</resp>
+                    <persName ref="part:argr">
+                        <forename>Arlo</forename>
+                        <surname>Griffiths</surname>
+                    </persName>
+                </respStmt>
+            </titleStmt>         
+            <publicationStmt>
+                <authority>DHARMA
+                    <note>This project has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).
+                    </note>
+                </authority>
+                <pubPlace>Malang</pubPlace>
+                <idno type="filename">Sanga</idno>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>This work is licenced under the Creative Commons Attribution 4.0 Unported Licence. To view a copy of the licence, visit https://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.</p>
+                    	<p>Copyright (c) 2019-2025 by Eko Bastiawan &amp; Arlo Griffiths</p>
+                    </licence>
+                </availability>
+                <date from="2019" to="2025">2019-2025</date>
+            </publicationStmt>
+            <sourceDesc><!-- only the handDesc can be filled in at this stage -->
+                <msDesc><!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/><!-- don't modify this -->
+                    </msIdentifier>
+                    <msContents><!-- describe the intellectual content of an inscription -->
+                        <summary><!-- //// NOT MANDATORY  ////--></summary> <!-- offers the possibility to give a summary of the inscription's content -->
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p><!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EG 11.2. --></p>
+                            <!-- If you need to identify individual hands (EG §7.5/) in addition to one or more paragraphs of general palaeographic description, wrap <summary> around the <p> or <p>s above, and, outside <summary>, create <handNote> elements for each hand as follows:
+						<summary><p><p/></summary>
+						<handNote xml:id="Pallava00001_hand1"></handNote>
+						<handNote xml:id="Pallava00001_hand2"></handNote>
+					 -->
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc><change who="part:ekba" when="2020-04-12" status="draft">initial encoding of the inscription</change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:space="preserve">
+      <body>
+         <div type="edition" xml:lang="kaw-Latn">
+<p><pb n="1r"/>
+<lb n="1r1"/>van· kalagyan·, midər aṅetan· Anuju Iṁ bugəl·, midər aṅidul· kulvan iṁ bugəl·, Asiḍaktan· vatəs· lavan· bugəl·, midər a<lb 
+    n="1r2" break="no"/>ṅetan· kidul iṁ bugəl· Asiḍaktan· vatəs· lavan· bugəl·, Aṅetan aṅalor aniku lalavā Asiḍaktan· vatəs· lavan·
+<lb n="1r3"/>paḍaṁ, Amgat· lvaḥ, Aṅetan aṅalor amgat· lvaḥ Ika<unclear>ṁ</unclear> L̥maḥ saṅa, Aṅetan amgat· lvaḥ Iṁ pagajutan·, maṅidul asiḍaktan· <g type="filler">§</g>
+<lb n="1r4"/>l asiḍaktan· lavan· kabalan·, midər āṅidul asiḍaktan· vatəs· lavan· lipuṁ, maṅetan iṁ lvaḥ guṅguṁ Asiḍaktan· vatəs·
+<lb n="1r5"/>lavan· limbeyyan·, midər aṅidul asiḍaktan· lavan· lipuṁ, muvaḥ Ana ta dr̥vya saṁ hyaṁ dharmma Unusan· galaḥ sakeṁ ḍampə<g type="filler">§</g><pb n="1v" break="no"/><lb 
+    n="1v1"/>lan·, muvah ana <unclear>ta ha</unclear>ṅsa saṁ hyaṁ dharmma sima riṁ saṅa, thāni Iṁ həmbək·, matahil·‚ sū <num value="5">5</num>, Amuṅgul·, muvaḥ kinavnaṅakn ikaṁ sima riṁ sa<lb 
+        n="1v2" break="no"/>ṅa, panugraha śrī jaṅgala, tan· kāknana deni vinava saṁ prabhu, tan· parabyapara, saprakaranya kabe<unclear>ḥ</unclear> riṁ daṅu, vulu
+<lb n="1v3"/>vulu paravulu, makadiṁ miśra paramiśra, paṅuraṁ, pakudur·, vadihati, Aniga, pamaṇikan·, manimpiki, malandaṁ, lca, li<lb n="1v4" break="no"/>mus· galuḥ, ramanaṁ, viniṁle, kataṅgaran·, sukun·, Alu varak·, racəməṁ, juru jalir·, juru juḍi, juru huñjəman·, juru
+<lb n="1v5"/>təgəl·, juru kuruṁ, həL̥bəL̥b·, kutak·, kukap·, sina<choice ><orig>griya</orig><reg>giha</reg></choice>, taṅkil·, salyut·, Avur·, Avə:, tp<supplied reason="lost">u</supplied>ṁ kavuṁ,
+<pb n="2r"/>
+<lb n="2r1"/>suṁsuṁ paṅhuraṁ, sikpan·, tirvan·, maṅhuri, taṅhiran·, <unclear>l</unclear>udan·, tutan·, Alaṅan·, pakuda, pahāliman·, papuyuḥ, pada<lb 
+    n="2r2" break="no"/>vut paṁpaṁ, pakikis·, pavlit·, donan·, vuran·, sapaniskarani hulu<unclear>n āji ka</unclear>beḥ, tan tāma ri saṁ hyaṁ sima riṁ saṅa, mu<g type="filler">§</g><lb 
+        n="2r3" break="no"/>vaḥ Ikaṁ vvaṅ i jro, cabol·, vuṅkuk·, bule, vol·, pujut·, kəmir·, boṇḍan·, tan tāma ri saṁ hyaṁ sima ri<unclear>ṁ</unclear> sa<lb 
+            n="2r4" break="no"/>ṅa, muvaḥ kavnaṅaknani samasanak· ri saṅa, kevvanāni rare, vnaṅ amaguta pajə:ṁ piṅhe, Acuriṅa kinaṁsyan·, Aṅuṅ<unclear>ku</unclear>ṅa ra<lb 
+                n="2r5" break="no"/>hina vṅi, Agilaṁgilaṅămpyal· gaḍiṁ, Ajnu <orig>kan<choice><sic>ā</sic><corr>a</corr></choice>kadra<choice><sic>rv</sic><corr>v</corr></choice>a</orig>, Apras avataṁ, pras<choice><orig>id</orig><reg> siddh</reg></choice>ayuga, pras aṅgi, pras buntər·, santi, <unclear>k</unclear>uku<unclear>va</unclear><pb n="2v" break="no"/><lb 
+                    n="2v1" break="no"/>ka, Aṅaṅgva vali, nagapuspa, navagraha, palaṅka gaḍiṁ, tuvuḥ vatu, hurip anak·, tutu<choice><orig>ṇ</orig><reg>ñ</reg></choice>juṁ, kəmbaṅ ipə:ṁ, tuṅgak i varyya<supplied reason="lost">ṁ</supplied>
+<lb n="2v2"/>, salvirni vali, <orig>vnaṅ<choice><sic>aṁgaḍi<unclear>ṁ</unclear>gaḍiṁṅ</sic><corr>āṅgəṇḍiṅgəṇḍiṅa</corr></choice></orig> rare, Anuntuna celeṁ Atalya cavət·, Atəkəna valira, Amikula paluṅan inuL̥<lb 
+    n="2v3" break="no"/>san· banantən·, Aguntiṅe <orig><sic>hur</sic><reg>ruhur</reg></orig> bale, sakevvaniṁ rare, tan <orig><sic>a</sic><reg>ha</reg></orig>nānuvand<orig><sic>a</sic><reg>ha</reg></orig>, samaṅkana varānugraha śrī jaṅgala, ri samasānak·
+<lb n="2v4"/>riṁ saṅa, sima svatantrādəg· riṅgit·, muvaḥ kveḥni para samya pinakasākṣī, satagan· javū, Iṁ kbaṁṅ avu juru samya gagak a<lb 
+    n="2v5" break="no"/><unclear>m</unclear>uṅ ari, sinuṅan· pasəkpasək·, mā <num value="1">1</num>, vḍihan· sahle, Iṁ lāmoṅan· juru samya, kuda rimoṁ, sinuṅan· pasəkpa<g type="filler">§</g>
+</p>
+         </div>
+         <div type="apparatus">
+           <!--apparatus encoded as per EG §9.1, basic elements for apparatus below-->
+               <listApp><!-- one <app> for each apparatus entry -->
+                  <app loc="1r1">
+                      <lem>van</lem>
+                      <note>the last akṣara of the preceding plate must have been <foreign>la</foreign>, to make <foreign>lavan·</foreign>.</note>
+                  </app>
+                   <app loc="1r3-1r4">
+                      <lem>asiḍaktan· <g type="filler">§</g>l asiḍaktan·</lem>
+                      <note>it seems the scribe hesitated around the transition from line 3 to 4, needlessly repeating the sequence <foreign>lasiḍaktan·</foreign> after the line-filler sign at the end of l. 3</note>
+                  </app>
+                   <app loc="1v5">
+                      <lem>sina<choice ><orig>griya</orig><reg>giha</reg></choice></lem>
+                  </app>
+                   <app loc="1v5">
+                      <lem>Avə:</lem>
+                       <note>correct <foreign>Avī</foreign>?</note>
+                  </app>
+                   <app loc="2r5"> <lem><orig>kan<choice><sic>ā</sic><corr>a</corr></choice>kadra<choice><sic>rv</sic><corr>v</corr></choice>a</orig></lem>
+                  </app>
+                   <app loc="2r5"> 
+                       <lem>pras<choice><orig>id</orig><reg> siddh</reg></choice>ayuga</lem>
+                  </app>
+                   <app loc="2r5"> 
+                       <lem>pras aṅgi</lem>
+                       <note>there is an erased vocalization <foreign>i</foreign> above <foreign>pr</foreign>.</note>
+                  </app>
+                   <app loc="2v1"> 
+                       <lem>tuvuḥ vatu</lem>
+                       <note>Cf. <foreign>tuvuḥ varu</foreign> or <foreign>vatu</foreign> in other inscriptions.</note>
+                  </app>
+                   <app loc="2v1"> 
+                       <lem>tutu<choice><orig>ṇ</orig><reg>ñ</reg></choice>juṁ</lem>
+                       <note>Cf. <foreign>tutuñjuṅ </foreign>in Sarvadharma Vb4 and Kakurugan IVb5–6 (MNI E. 22).</note>
+                  </app>
+                   <app loc="2v1"> 
+                       <lem>i pə:ṁ</lem>
+                       <note>or one word <foreign>ipə:ṁ</foreign>? Cf. OJED <foreign>pə̄ṅ </foreign>and <foreign>ipəṅ</foreign>.</note>
+                  </app>
+                   <app loc="2v2">  <lem><orig>vnaṅ<choice><sic>aṁgaḍi<unclear>ṁ</unclear>gaḍiṁṅ</sic><corr>āṅgəṇḍiṅgəṇḍiṅa</corr></choice></orig></lem>
+                  </app>
+                       <app loc="2v3"> 
+                       <lem><orig><sic>hur</sic><reg>ruhur</reg></orig> bale</lem>
+                  </app>
+                   <app loc="2v3"> 
+                       <lem><orig><sic>a</sic><reg>ha</reg></orig>nānuvand<orig><sic>a</sic><reg>ha</reg></orig></lem>
+                  </app>
+               </listApp>         
+         </div>
+         <div type="translation" xml:lang="eng" resp="part:argr">
+ 	<!--translation encoded as per EG §9.2 -->
+	<p>
+</p>
+         </div>
+         <div type="commentary">
+            <!--commentary encoded as per section §9.3 -->
+     <p></p>
+         </div>
+        <div type="bibliography">
+	<!--bibliography encoded as per section §9.4 -->
+            <p></p>
+             <listBibl type="secondary">
+             <bibl></bibl>
+           </listBibl>
+        </div>
+      </body>
+  </text>
+</TEI>
