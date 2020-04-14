@@ -76,10 +76,10 @@
 		<l n="a">yā tārayaty amita-duḥkha-bhavābdhi-magnaṁ</l>
 		<l n="b">lokaṁ vilokya vidhivat trividhair u<lb n="2" break="no"/>pāyaiḥ |</l>
 		<l n="c">sā vaḥ surendra-nara-loka-vibhūti-sāraṁ</l>
-		<l n="d">tārā di<space type="defect" quantity="1" unit="character"/>śatv abhimataṁ jagad-eka-tārā ||</l>
+		<l n="d">tārā di<space type="defect"/>śatv abhimataṁ jagad-eka-tārā ||</l>
 	</lg>
 	<lg n="2" met="gīti"><!-- gīti [12+18+12+18] -->
-		<l n="ab">Āva<unclear>r</unclear>jya mahārā<space type="defect" quantity="1" unit="character"/>jaṁ <unclear>tejaḥpuṇyā</unclear><lb n="3" break="no"/>paṇaṁ paṇaṁkaraṇaM |</l>
+		<l n="ab">Āva<unclear>r</unclear>jya mahārā<space type="defect"/>jaṁ <unclear>tejaḥpuṇyā</unclear><lb n="3" break="no"/>paṇaṁ paṇaṁkaraṇaM |</l>
 		<l n="cd">śailendra-rāja-gurubhis tārā-<unclear>bha</unclear>vanaṁ hi kāritaṁ śrīmat·<!-- or read T? --> ||</l>
 	</lg>
 	<lg n="3" met="āryā">
@@ -99,7 +99,7 @@
 		<l n="cd">Akarod guru-pūjārthaṁ tārā-bhavanaṁ paṇaṁkaraṇaḥ ||</l>
 	</lg>
 	<lg n="7" met="āryā">
-		<l n="ab">grāmaḥ <space type="defect" quantity="1" unit="character"/>kālasa-nāmā <lb n="8"/>dattaḥ saṁghāya sākṣiṇaḥ kr̥tvā |</l>
+		<l n="ab">grāmaḥ <space type="defect"/>kālasa-nāmā <lb n="8"/>dattaḥ saṁghāya sākṣiṇaḥ kr̥tvā |</l>
 		<l n="cd">paṅkura-tavāna-tīripa-deśādhyakṣān mahā-puruṣān· ||</l>
 	</lg>
 	<lg n="8" met="āryā">
@@ -146,12 +146,12 @@
 	<app loc="2">
 		<lem><unclear>tejaḥpuṇyā</unclear><lb n="3" break="no"/>paṇaṁ</lem>
 		<rdg source="bib:Casparis1950_01">tejaḥpūrṇṇā<lb/>paṇaṁ</rdg>
-                     	<rdg source="bib:Bosch1928_01 Sarkar1971-1972_01">dyāḥ pañca<lb/>paṇaṁ</rdg>
+                     	<rdg source="bib:Bosch1928_01 bib:Sarkar1971-1972_01">dyāḥ pañca<lb/>paṇaṁ</rdg>
 <note><bibl><ptr target="bib:Casparis1950_01"/><citedRange unit="page">21</citedRange><citedRange unit="note">4</citedRange></bibl> proposed reading <foreign>tejaḥ</foreign>, which I retain, but his reading <foreign>pūrṇṇāpaṇaṁ</foreign> does not yield a clear sense and seems to be incompatible with the available photographs. The reading adopted here was proposed to me by Vincent Tournier, who further suggests that <foreign>°āpaṇaṁ</foreign> be interpreted as a poetic license equivalent to <foreign>°āpannaṁ</foreign> (which would disturb the meter and render impossible the <foreign>yamaka</foreign> <foreign>paṅaṁpaṅaṁ</foreign>).</note>          
 	</app>
 <app loc="3">
                      <lem>paṇaṁkaraṇam·</lem>
-                     <rdg source="bib:Bosch1928_01 Sarkar1971-1972_01">paṇaṁkaraṇaṁ</rdg>               
+                     <rdg source="bib:Bosch1928_01 bib:Sarkar1971-1972_01">paṇaṁkaraṇaṁ</rdg>               
 	</app>
 <app loc="4">
                      <lem source="bib:Bosch1928_01">tadbhavanaM</lem>
@@ -181,7 +181,7 @@
 	</app>
 <app loc="8">
                      <lem source="bib:Bhandarkar1887_01">bhū-dakṣiṇeyam</lem>
-                     <rdg source="bib:Bosch1928_01 Sarkar1971-1972_01">bhuradakṣiṇeyam</rdg>     
+                     <rdg source="bib:Bosch1928_01 bib:Sarkar1971-1972_01">bhuradakṣiṇeyam</rdg>     
 <note>Bosch and Sarkar both deny the possibility of reading <foreign>bhūdakṣiṇeyam</foreign> as does Bhandarkar. The other cases of <foreign>ū</foreign>-vocalization in the inscription<!--(CHECK ALL)--> indeed do not seem to support taking the vertical bar to the right of the <foreign>bh</foreign> as (integral part of) an <foreign>ū</foreign>, but there is a possibility that the scribe here exceptionally used a different sign for the same vowel (cf. the varying forms of <foreign>ū</foreign> in the <ref target="GunungWukir.xml">Gunung Wukir stele</ref> stele<!-- or call this Sanjaya grant? Canggal? -->, which may be relevant despite its use of a different script), or that what has been taken to be a <foreign>ra</foreign> is a scribal error. The meter here allows either two short syllables (<foreign>bhura</foreign>) or one long one (<foreign>bhū</foreign>), but the sense requires <foreign>bhūdakṣiṇeyam</foreign>.</note>
 	</app>
 <app loc="9">
