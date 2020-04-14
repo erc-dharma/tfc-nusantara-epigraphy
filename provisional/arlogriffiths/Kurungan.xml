@@ -7,7 +7,7 @@
          <titleStmt>
             <title>Kurungan</title>
             <respStmt><!-- add an element respStmt for each person involved -->
-               <resp>creation of file</resp>
+               <resp>EpiDoc encoding</resp>
             	<resp>intellectual authorship of edition</resp>
                <persName ref="part:argr">
                   <forename>Arlo</forename>
