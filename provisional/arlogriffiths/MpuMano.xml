@@ -47,7 +47,7 @@
 			</sourceDesc>
 		</fileDesc>
 	<revisionDesc>
-		<change who="part:argr" when="2020-04-14" status="draft">adjusted values of @n in lb; resolved issue #16</change>
+		<change who="part:argr" when="2020-04-14" status="draft">adjusted values of @n in lb and loc; resolved issue #16</change>
 		<change who="part:axja" when="2020-03-27" status="draft">adding the handDesc template</change>
 		<change who="part:argr" when="2020-03-09" status="draft">first revision and expansion of the encoding</change>
 		<change who="part:argr" when="2019-09" status="draft">initial encoding of the edition</change>
