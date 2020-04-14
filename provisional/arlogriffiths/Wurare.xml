@@ -7,9 +7,9 @@
          <titleStmt>
             <title>Wurare</title>
             <respStmt>
-               	<resp>creation of file</resp>
-            	<resp>intellectual authorship of edition</resp>
-               <persName ref="part:argr"><!-- update the id -->
+               	<resp>Epidoc encoding</resp>
+            		<resp>intellectual authorship of edition</resp>
+               <persName ref="part:argr">
                   <forename>Arlo</forename>
                   <surname>Griffiths</surname>
                </persName>
@@ -51,8 +51,10 @@
       		</msDesc>  
          </sourceDesc>
       </fileDesc>
-     <revisionDesc><change who="part:axja" when="2020-03-27" status="draft">adding the handDesc template</change>
-        <change who="part:argr" when="2020-02-05" status="draft">initial encoding of the file</change>
+     <revisionDesc>
+     	<change who="part:argr" when="2020-04-14" status="draft">resolved issue #17</change>
+     	<change who="part:axja" when="2020-03-27" status="draft">adding the handDesc template</change>
+        	<change who="part:argr" when="2020-02-05" status="draft">initial encoding of the file</change>
      </revisionDesc>
   </teiHeader>
   <text xml:space="preserve">
@@ -74,7 +76,7 @@
         	<lg n="3" met="anuṣṭubh">
 		<l n="a"><lb n="3"/>// <choice><sic>yo</sic><corr>yaḥ</corr></choice> purā paṇḍitaś śreṣ<choice><orig>ṭ</orig><reg>ṭh</reg></choice>a,</l>
 		<l n="b">Āryyo bharāḍa-saṁjñakaḥ,</l>
-		<l n="3" enjamb="yes">jñāna-siddhiṁ samāgamyā,</l>
+		<l n="c" enjamb="yes">jñāna-siddhiṁ samāgamyā,</l>
 		<l n="d">bhijñālābho munīśva<space type="defect" quantity="1" unit="character"/>raḥ, <num value="3">3</num>, //</l>
 	</lg>
        	<lg n="4" met="anuṣṭubh">
@@ -86,7 +88,7 @@
        	<lg n="5" met="anuṣṭubh">
 		<l n="a"><lb n="5"/>// ratnākara-pramāṇān tu,</l> 
 		<l n="b">dvaidhī-kr̥tya yavāvanīm̐,</l><!-- special ṁ! -->
-		<l n="3" enjamb="yes">kṣiti-bhedana-sāmarthya,</l>
+		<l n="c" enjamb="yes">kṣiti-bhedana-sāmarthya,</l>
 		<l n="d">kumbha-bajrodakena vai, <num value="5">5</num><!-- no comma written here — should I supply one? --> //</l>
 	</lg>
        	<lg n="6" met="anuṣṭubh">
