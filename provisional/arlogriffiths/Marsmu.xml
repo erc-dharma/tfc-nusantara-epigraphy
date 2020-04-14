@@ -7,7 +7,7 @@
          <titleStmt>
             <title>Marsmu</title>
             <respStmt>
-               	<resp>Encoding of the file</resp>
+            	<resp>EpiDoc encoding</resp>
             	<resp>Intellectual authorship of the edition</resp>
                <persName ref="part:argr">
                   <forename>Arlo</forename>
@@ -41,7 +41,7 @@
                </msContents>
                <physDesc>
                   <handDesc>
-                     <p><!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EG 11.2. --></p>
+                     <p>Hand very similar to that seen in Bulai and Wuang Got.<!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EG 11.2. --></p>
                      <!-- If you need to identify individual hands (EG §7.5/) in addition to one or more paragraphs of general palaeographic description, wrap <summary> around the <p> or <p>s above, and, outside <summary>, create <handNote> elements for each hand as follows:
 						<summary><p><p/></summary>
 						<handNote xml:id="Pallava00001_hand1"></handNote>
@@ -52,8 +52,10 @@
             </msDesc>
          </sourceDesc>
       </fileDesc>
-     <revisionDesc><change who="part:axja" when="2020-03-27" status="draft">adding the handDesc template</change>
-     	<change who="part:argr" when="2020-03-27" status="draft">applied corrections required by issue #1; adjusted respStmt to current version fo EG  added an item to sec. bibl.</change>
+     <revisionDesc>
+     	<change who="part:argr" when="2020-04-14" status="draft">applied corrections for issue #18; changed first resp to "EpiDoc encoding"</change>
+	<change who="part:axja" when="2020-03-27" status="draft">adding the handDesc template</change>
+     	<change who="part:argr" when="2020-03-27" status="draft">applied corrections required by issue #1; adjusted respStmt to current version fo EG;  added an item to sec. bibl.</change>
      	<change who="part:argr" when="2020-01-20" status="draft">applied corrections proposed by Daniel Balogh</change>
      	<change who="part:argr" when="2020-01-18" status="draft">initial encoding of the inscription</change>
      </revisionDesc>
@@ -63,9 +65,9 @@
          <div type="edition" xml:lang="kaw-Latn">
 <pb n="1r"/><!--Blank outer page.-->
 <p><pb n="1v"/>
-	<lb n="1v1"/>| <g type="symbol" subtype="circle"/><!-- Or is this circle bigger than the basic punctuation circle used in this text? --> || pavaraḥ Iṁ vahuta pata patiḥ<!-- maybe patapatih one word? or is patapatih an error for patih? --> muAṁ soĀraniṁ Anak vanuA I marsmu <g type="symbol" subtype="circle"/> I vuĀ<gap reason="lost" extent="unknown"/>
-	<lb n="1v2"/>muAṁ jātaka <g type="symbol" subtype="circle"/> Ikanaṁ kunaṁ paṅansǝAnnanya I dharmma rakryān· I vka I pastika <g type="symbol" subtype="circle"/> I <gap reason="lost" extent="unknown"/>
-	<lb n="1v3"/>kumavruhana sukhaduḥkhanya<!-- ḥ omitted by Boechari; CS has h --> <g type="symbol" subtype="circle"/> muAṁ<!-- n for ṁ in Boechari --> hulu-vrassanya <g type="symbol" subtype="circle"/> saṁ ḍuryyan· muAṁ saṁ siṅgaḥ <gap reason="lost" extent="unknown"/>
+	<lb n="1v1"/>| <g type="symbol" subtype="circle"/><!-- Or is this circle bigger than the basic punctuation circle used in this text? --> || pavaraḥ Iṁ vahuta pata patiḥ<!-- maybe patapatih one word? or is patapatih an error for patih? --> muAṁ soĀraniṁ Anak vanuA I marsmu <g type="symbol" subtype="circle"/> I vuĀ<gap reason="lost" extent="unknown" unit="character"/>
+	<lb n="1v2"/>muAṁ jātaka <g type="symbol" subtype="circle"/> Ikanaṁ kunaṁ paṅansǝAnnanya I dharmma rakryān· I vka I pastika <g type="symbol" subtype="circle"/> I <gap reason="lost" extent="unknown" unit="character"/>
+	<lb n="1v3"/>kumavruhana sukhaduḥkhanya<!-- ḥ omitted by Boechari; CS has h --> <g type="symbol" subtype="circle"/> muAṁ<!-- n for ṁ in Boechari --> hulu-vrassanya <g type="symbol" subtype="circle"/> saṁ ḍuryyan· muAṁ saṁ siṅgaḥ <gap reason="lost" extent="unknown" unit="character"/>
 	<lb n="1v4"/>bavaṁ <g type="symbol" subtype="circle"/> muAṁ ḍapunta labdhi <g type="symbol" subtype="circle"/> magantya pisan· satahun· soAṁ-soAṁ ||
 </p>
          </div>
@@ -73,8 +75,8 @@
            <!--apparatus encoded as per EG §9.1, basic elements for apparatus below-->
                <listApp><!-- one <app> for each apparatus entry -->
 	<app loc="1v1">
-<lem source="bib:Boechari1985-1986_01">vuĀ<gap reason="lost" extent="unknown"/></lem>
-<rdg source="bib:CohenStuart1875_01">vuĀ<supplied reason="lost" cert="low">ra</supplied><gap reason="lost" extent="unknown"/></rdg>
+<lem source="bib:Boechari1985-1986_01">vuĀ<gap reason="lost" extent="unknown" unit="character"/></lem>
+<rdg source="bib:CohenStuart1875_01">vuĀ<supplied reason="lost" cert="low">ra</supplied><gap reason="lost" extent="unknown" unit="character"/></rdg>
 <note>Cohen Stuart's restitution is not confirmed by any occurrence of <term>vuāra</term> in any inscription that I am aware of, although <term>vuara</term> is common.</note>
 </app>
  <app loc="1v2">

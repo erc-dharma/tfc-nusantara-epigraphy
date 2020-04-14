@@ -46,9 +46,13 @@
 					</msContents>
 					<physDesc>
 						<handDesc>
-							<p>Shape of <foreign>m</foreign> with virāma, represented as <foreign>M</foreign>: see stanzas II, III VII and XII.</p>
-							<p>VI pūjārthaṁ: I have some trouble telling this jā apart from ja signs elsewhere. Cf. e.g. in rājasiṁhena, l. 9; rājasiṅhaḥ in 11. But cf. jātārtha in l. 12. The difference seems to lie herein, that in the case of jā, the ā-mātra does not descend from the top-line, but ascends from the middle diagonal of ja.</p>
-<p>shape of repha: can we read rjya in st. II or not?</p>
+	<p>Shape of <foreign>m</foreign> with virāma, represented as <foreign>M</foreign>: see stanzas II, III VII and XII.</p>
+	<p>I read n· in puruṣān· line 8  </p>
+	<p>VI pūjārthaṁ: I have some trouble telling this jā apart from ja signs elsewhere. Cf. e.g. in rājasiṁhena, l. 9; rājasiṅhaḥ in 11. But cf. jātārtha in l. 12. The difference seems to lie herein, that in the case of jā, the ā-mātra does not descend from the top-line, but ascends from the middle diagonal of ja.</p>
+<p>shape of repha: can we read rjya in st. II or not? very clear examples in line 7 </p>
+<p>Pāla shape of rya seen throughout — no</p>
+<p>two allographs of -ū: bhū (end line 8) and bhū in line 9 </p>
+<p>allographs of the vowel -e: elaborate top-stroke in dakṣiṇeyam (line 9); elsewhere normally a vertical strole at left</p>
 							<!-- If you need to identify individual hands (EG §7.5/) in addition to one or more paragraphs of general palaeographic description, wrap <summary> around the <p> or <p>s above, and, outside <summary>, create <handNote> elements for each hand as follows:
 						<summary><p><p/></summary>
 						<handNote xml:id="Pallava00001_hand1"></handNote>
@@ -84,7 +88,7 @@
 	</lg>
 	<lg n="4" met="āryā">
 		<l n="ab">paṅkura-tavāna-tīripa<lb n="5" break="no"/>-nāmabhir ādeśatas tribhī rājñaḥ |</l>
-		<l n="cd">tārā-bhavanaṁ kāritam ida<surplus>ṁ</surplus>m api cāpy ārya-bhikṣūṇām· ||</l>
+		<l n="cd">tārā-bhavanaṁ kāritam ida<surplus>ṁ</surplus>m api cāpy ārya-bhikṣūṇāM ||</l><!-- presence redundant anusvāra not so clear on OD photos, possinle on Leiden est., but in that case on mi rather than on da; more likely accidental hole in the stone; note also that the anusvāras in line 7 are clear circles, and not dots!   -->
 	</lg>
 	<lg n="5" met="āryā">
 		<l n="ab">rājye pravarddhamā<lb n="6" break="no"/>ne rājñaḥ śailendra-vaṅśa-tilakasya |</l>
@@ -95,7 +99,7 @@
 		<l n="cd">Akarod guru-pūjārthaṁ tārā-bhavanaṁ paṇaṁkaraṇaḥ ||</l>
 	</lg>
 	<lg n="7" met="āryā">
-		<l n="ab">grāmaḥ kālasa-nāmā <lb n="8"/>dattaḥ saṁghāya sākṣiṇaḥ kr̥tvā | </l>
+		<l n="ab">grāmaḥ <space type="defect" quantity="1" unit="character"/>kālasa-nāmā <lb n="8"/>dattaḥ saṁghāya sākṣiṇaḥ kr̥tvā |</l>
 		<l n="cd">paṅkura-tavāna-tīripa-deśādhyakṣān mahā-puruṣān· ||</l>
 	</lg>
 	<lg n="8" met="āryā">
@@ -106,7 +110,7 @@
 		<l n="a"><lb n="10"/>saṇ-ḍa-paṅkurādibhiḥ</l>
 		<l n="b">san-tavānakādibhiḥ |</l>
 		<l n="c">saṇ-ḍa-tīripādibhiḥ</l>
-		<l n="d">pattibhiś ca sādhubhiḥ ||</l>
+		<l n="d">pattibhiś ca sādhubhiḥ ||</l><!-- patti: footsoldier? checked whether P, T, and T are called patih anywhere--><!-- saṅ ḍa: see Damais 1970: 961 -->
 	</lg>
 <p>Api ca</p>
 	<lg n="10" met="śālinī"><!-- [– – – – | – ⏑ – – ⏑ – ⏓] -->
@@ -117,8 +121,8 @@
 	</lg>
 	<lg n="11" met="upendravajrā">
 		<l n="a">Anena puṇyena vihāra-jena</l>
-		<l n="b">pratītya jātārtha-vibhāga-vi<lb n="13" break="no"/>jñāḥ |</l>
-		<l n="c">bhavantu sarve tri-bhavopapannā</l>
+		<l n="b">pratītya<!-- remove space and hyphenative to -jāta? pratītya-jāta = pratītya-samupapanna --> jātārtha-vibhāga-vi<lb n="13" break="no"/>jñāḥ |</l>
+		<l n="c">bhavantu sarve tri-bhavopapannā</l><!-- BHSD: "tribhava: the triple states of existence (kāma, rūpa, and arūpa)", = tridhātu — but why not simply Triple Worlds? or Past, Present and Future? -->
 		<l n="d">janā jinānām anuśāsana-jñāḥ ||</l>
 	</lg>
 	<lg n="12" met="āryā">
