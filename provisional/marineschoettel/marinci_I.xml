@@ -129,7 +129,7 @@
          </div>
         <div type="bibliography">
 	<!--bibliography encoded as per section §9.4 -->
-	<p>First edited by Pigeaud <!-- in JFC, is that really the case?-->, re-edited by Boechari (<bibl rend="omitname"><ptr target="bib:Boechari1985-1986_01"/><citedRange unit="page">112</citedRange> <citedRange unit="item">E.49</citedRange></bibl>); re-edited here by Marine Schoettel from the estampage of the plate made available by the Museum Nasional Indonesia.</p>
+	<p>First edited by Boechari (<bibl rend="omitname"><ptr target="bib:Boechari1985-1986_01"/><citedRange unit="page">112</citedRange> <citedRange unit="item">E.49</citedRange></bibl>); re-edited here by Marine Schoettel from the estampage of the plate made available by the Museum Nasional Indonesia.</p>
             <listBibl type="secondary">
 	 <bibl><ptr target="bib:NBG"/><date>1914</date><citedRange unit="volume">LII</citedRange><citedRange unit="page">44-45, 52, 192</citedRange></bibl>
 </listBibl>
@@ -137,16 +137,4 @@
       </body>
   </text>
 </TEI>
-<!--Nomor inventaris: E. 16.
-Nama prasasti: Marsmu.
-Tempat temuan: Desa Ngabean, kabupaten Magelang, Jawa Tengah.
-Angka tahun: (Tidak ada).
-Nama raja: (Tidak ada).
-Satu lempengan tembaga, berukuran 34 x 6,5 cm, bagian sebelah kanannya patah, bertulisan pada satu sisi dengan 4 baris tulisan. Huruf dan bahasanya Jawa Kuna. (Lihat juga nomor inventaris. E. 5, E. 6, E. 7, E. 9, E. 10, E. 15, E. 18).
-Referensi: NBG 1 892, p. 24. Verbeek, 150. Cohen Stuart, KO, XIII.
-Nomor inventaris: E. 16. 
-Prasasti: Marsmu.
-1. // o // pawaraḥ iṁ wahuta pata patiḥ muaṁ soāra niṁ anak wanua i marsmu. i wuā [...]
-2. muaṁ jātaka. ikana kunaṁ paṅansĕannanya i dharmma rakryān i wka i pastika. i [...]
-3. kumawruhana sukha dukhanya. muan hulu wrassanya. san daryyan muan singah [...]
-4. bawaṁ. muaṁ ḍapunta labdhi. magantya pisan satahun soaṁ soaṁ //-->
+<!-- To be understtod in connection with Walandit A (E. 28), Patapan I (E. 57), Sailamandi, Renek, Biluluk, Tirah (E. 58) -->
