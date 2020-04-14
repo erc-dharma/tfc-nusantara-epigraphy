@@ -7,7 +7,7 @@
 			<titleStmt>
 				<title>Mpu Mano</title>
 				<respStmt>
-					<resp>creation of file</resp>
+					<resp>EpiDoc encoding</resp>
 					<resp>intellectual authorship of edition</resp>
 					<persName ref="part:argr">
 						<forename>Arlo</forename>
@@ -40,58 +40,56 @@
 					</msContents>
 					<physDesc>
 						<handDesc>
-							<p><!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EG 11.2. --></p>
-							<!-- If you need to identify individual hands (EG §7.5/) in addition to one or more paragraphs of general palaeographic description, wrap <summary> around the <p> or <p>s above, and, outside <summary>, create <handNote> elements for each hand as follows:
-						<summary><p><p/></summary>
-						<handNote xml:id="Pallava00001_hand1"></handNote>
-						<handNote xml:id="Pallava00001_hand2"></handNote>
-					 -->
+							<p>Same hand as that seen in Gajah Mada? See Griffiths 2020.</p>
 						</handDesc>
 					</physDesc>
 				</msDesc>	
 			</sourceDesc>
 		</fileDesc>
-		<revisionDesc><change who="part:axja" when="2020-03-27" status="draft">adding the handDesc template</change>
-			<change who="part:argr" when="2020-03-09" status="draft">first revision and explansion of the encoding</change>
-			<change who="part:argr" when="2019-09" status="draft">initial encoding of the edition</change>
-		</revisionDesc>
+	<revisionDesc>
+		<change who="part:argr" when="2020-04-14" status="draft">adjusted values of @n in lb; resolved issue #16</change>
+		<change who="part:axja" when="2020-03-27" status="draft">adding the handDesc template</change>
+		<change who="part:argr" when="2020-03-09" status="draft">first revision and expansion of the encoding</change>
+		<change who="part:argr" when="2019-09" status="draft">initial encoding of the edition</change>
+	</revisionDesc>
     </teiHeader> 
     <text xml:space="preserve">
         <body>
             <div type="edition">
                 <ab>
 <pb n="1r"/>
-<lb n="1"/>// <g type="symbol">✤</g> // namo stu sarvvabuddhăya // <g type="symbol">✤</g> // svasti śakavarṣātīta, <num value="888">888</num>, śrăvaṇamāsa, <orig>tīthī</orig>, Aṣṭamī kr̥ṣṇapakṣa, <expan><abbr>ha</abbr><ex>ryaṅ</ex></expan>, <expan><abbr>va</abbr><ex>gai</ex></expan>, <expan><abbr>ra</abbr><ex>vi</ex></expan>, vāra, sinta, 
-<lb n="2"/>bāyabyasthagrahacāra, rohiṇīnakṣatra, prajāpatidevatā, mahendramaṇḍala, harṣaṇayoga, vijayamuhūrta, śaśīparvvaiśa, 
-<lb n="3"/>kolavakaraṇa, siṅharāśi, Irika divāśanira, mpu mano, muṇyākən· lmaḥ sīma, kaputrāṅśanira, kalilīranira saṅke kavvitanira 
-<lb n="4"/>Ikaṁ harahara, kidul i pomahanira, hīṅanya lor· kidul iṁ pagər· kinalihan·, muAṁ mpu mano, hīṅanya kulvan· Aṅalihī pagər·, muAṁ <lb n="5"/> Iṁ paviḍəṅan·, hīṅanya vetan·, Aṅalihi pagər·, muAṁ Iṁ kalampayan·, hīṅanya kidul·, Ikaṁ pagər· lor· saṁke kalimusan·, ya t<pb 
-n="1v" break="no"/><lb n="6" break="no"/>ekā pinuṇyakənira Iṁ mpuṅku <supplied reason="omitted">Iṁ</supplied> susuk· pagər·, muAṁ mpuṅku Iṁ nairañjanā, Arthahetoḥ mpu buddhivāla, paknanya gavayənnira kuṭi, dharmma lpa<lb 
-n="7" break="no"/>s· kapodgālikanani kulasantānānira mpuṅku Iṁ nairañjanā, kunaṁ kramanya, Ikaṁ savaḥ kidul iṁ kuṭi, təmpaḥ, <num value="3">3</num>, ya ta sinaṇḍā mpuṅku <supplied reason="omitted">Iṁ</supplied> su<lb 
-n="8" break="no"/>suk· pagər·, muAṁ mpuṅku Iṁ nairañjanā, Iṁ mā kā <num value="2">2</num><unclear>,</unclear> ya ta dharmma mpuṅku, Iṁ susuk· pagər·, muAṁ mpuṅku Iṁ <choice><sic>nairagjanā</sic><reg>nairañjanā</reg></choice>, An· paminta I<lb 
-n="9" break="no"/>ka lmaḥ tumpal ika savaḥ lor· damlənira kuṭi, ya ta kăraṇanyan· <choice><sic>linbas</sic><reg>tinbus</reg></choice> ikaṁ savaḥ saṇḍanira mpu mano, Iṁ mā kā <num value="3">3</num>, mapa<lb 
-n="10" break="no"/>k<unclear>na</unclear> bhuktyana saṁ hyaṁ kuṭi, saṅka ri gə:ṁnyāmbha mpu mano, yat· dharmma donanya, Apitovin ana riṁ dharmma parṇnaḥ mpu mano, denira mpuṅku Iṁ
+<lb n="1r1"/>// <g type="symbol" subtype="quatrefoil"/> // namo stu sarvvabuddhăya // <g type="symbol">✤</g> // svasti śakavarṣātīta, <num value="888">888</num>, śrăvaṇamāsa, <orig>tīthī</orig>, Aṣṭamī kr̥ṣṇapakṣa, <abbr>ha</abbr>, <abbr>va</abbr>, <abbr>ra</abbr>, vāra, sinta, 
+<lb n="1r2"/>bāyabyasthagrahacāra, rohiṇīnakṣatra, prajāpatidevatā, mahendramaṇḍala, harṣaṇayoga, vijayamuhūrta, śaśīparvvaiśa, 
+<lb n="1r3"/>kolavakaraṇa, siṅharāśi, Irika divāśanira, mpu mano, muṇyākən· lmaḥ sīma, kaputrāṅśanira, kalilīranira saṅke kavvitanira 
+<lb n="1r4"/>Ikaṁ harahara, kidul i pomahanira, hīṅanya lor· kidul iṁ pagər· kinalihan·, muAṁ mpu mano, hīṅanya kulvan· Aṅalihī pagər·, muAṁ <lb 
+n="1v5"/> Iṁ paviḍəṅan·, hīṅanya vetan·, Aṅalihi pagər·, muAṁ Iṁ kalampayan·, hīṅanya kidul·, Ikaṁ pagər· lor· saṁke kalimusan·, ya t<pb 
+n="1v" break="no"/><lb n="1v1" break="no"/>ekā pinuṇyakənira Iṁ mpuṅku <supplied reason="omitted">Iṁ</supplied> susuk· pagər·, muAṁ mpuṅku Iṁ nairañjanā, Arthahetoḥ mpu buddhivāla, paknanya gavayənnira kuṭi, dharmma lpa<lb 
+n="1v2" break="no"/>s· kapodgālikanani kulasantānānira mpuṅku Iṁ nairañjanā, kunaṁ kramanya, Ikaṁ savaḥ kidul iṁ kuṭi, təmpaḥ, <num value="3">3</num>, ya ta sinaṇḍā mpuṅku <supplied reason="omitted">Iṁ</supplied> su<lb 
+n="1v3" break="no"/>suk· pagər·, muAṁ mpuṅku Iṁ nairañjanā, Iṁ mā kā <num value="2">2</num><unclear>,</unclear> ya ta dharmma mpuṅku, Iṁ susuk· pagər·, muAṁ mpuṅku Iṁ <choice><sic>nairagjanā</sic><reg>nairañjanā</reg></choice>, An· paminta I<lb 
+n="1v4" break="no"/>ka lmaḥ tumpal ika savaḥ lor· damlənira kuṭi, ya ta kăraṇanyan· <choice><sic>linbas</sic><reg>tinbus</reg></choice> ikaṁ savaḥ saṇḍanira mpu mano, Iṁ mā kā <num value="3">3</num>, mapa<lb 
+n="1v5" break="no"/>k<unclear>na</unclear> bhuktyana saṁ hyaṁ kuṭi, saṅka ri gə:ṁnyāmbha mpu mano, yat· dharmma donanya, Apitovin ana riṁ dharmma parṇnaḥ mpu mano, denira mpuṅku Iṁ
                 </ab>
             </div>
             <div type="apparatus">
                 <listApp>
-<app loc="1">
+<app loc="1r1">
 	<lem><orig>tīthī</orig></lem>
 	<rdg source="Brandes">tithi</rdg>
 </app>
-<app loc="1">
+<app loc="1r1">
 <lem>kr̥ṣṇapakṣa</lem>
 <rdg source="Brandes">śuklapakṣa</rdg>
 <note>Damais’ suspicion of an error in Brandes reading is thus confirmed.</note>
 </app>
-<app loc="2">
+<app loc="1r2">
 <lem>-muhūrta</lem>
 <rdg source="Brandes">-muhūrtta</rdg>
 </app>
-<app loc="2">
+<app loc="1r2">
 <lem>-parvvaiśa</lem>
 <rdg source="Brandes">-parvveśa</rdg>
 </app>
-<app loc="3">
+<app loc="1r3">
 <lem>kolava-</lem>
 <note>The taling stands at the end of line 2 but is repeated at the start of line 3. See another occurrence of this (actually rather widespread) phenomenon at the transition between lines 5 and 6.</note>
 </app>
@@ -99,47 +97,47 @@ n="10" break="no"/>k<unclear>na</unclear> bhuktyana saṁ hyaṁ kuṭi, saṅka
 <lem>kalilīranira</lem>
 <rdg source="Brandes">kaliliranira</rdg>
 </app>
-<app loc="3-4">
+<app loc="1r3"><!-- or 3-4? -->
 <lem>kavvitanira Ikaṁ</lem>
 <rdg source="Brandes">kavvitanira, Ikaṁ</rdg>
 <note>No punctuation sign is engraved between these words.</note>
 </app>
-<app loc="4">
+<app loc="1r4">
 <lem>Aṅalihī</lem>
 <rdg source="Brandes">Aṅalihi</rdg>
 </app>
-<app loc="5-6">
+<app loc="1r5"><!-- or 5-6? -->
 <lem>ya teka</lem>
-<note>The taling stands at the end of line 5, but is repeated at the start of line 6. See also ll. 2–3 above.</note>
+<note>The taling stands at the end of line 1r5, but is repeated at the start of line 1v1. See also ll. 1v2–3 above.</note>
 </app>
-<app loc="6">
+<app loc="1v1">
 <lem>mpuṅku <supplied reason="omitted">Iṁ</supplied> susuk·</lem>
 <rdg source="Brandes">mpuṅku susuk·</rdg>
-<note>Since in most cases we find <foreign>Iṁ</foreign> between the words <foreign>mpuṅku susuk·</foreign>, I assume that we must emend <foreign>mpuṅku Iṁ susuk·</foreign> here and in ll. 7–8.</note>
+<note>Since in most cases we find <foreign>Iṁ</foreign> between the words <foreign>mpuṅku susuk·</foreign>, I assume that we must emend <foreign>mpuṅku Iṁ susuk·</foreign> here and in ll.1v2–3.</note>
 </app>
-<app loc="6">
+<app loc="1v1">
 <lem>mpuṅku Iṁ nairañjanā</lem>
 <rdg source="Brandes">mpuṅku I nairañjanā</rdg>
 </app>
-<app loc="7-8">
+<app loc="1v2"><!-- or 2-3? -->
 <lem>mpuṅku <supplied reason="omitted">Iṁ</supplied> susuk·</lem>
 <rdg source="Brandes">mpuṅku susuk·</rdg>
-<note>See line 6.</note>
+<note>See line 1v1.</note>
 </app>
-<app loc="8">
+<app loc="1v3">
 <lem>mpuṅku Iṁ nairañjanā</lem>
 <rdg source="Brandes">mpuṅku I nairañjanā</rdg>
 </app>
-<app loc="8">
+<app loc="1v3">
 <lem>kā <num value="2">2</num><unclear>,</unclear> ya</lem>
 <rdg source="Brandes">kā 2 ya</rdg>
 <note>The punctuation sign is very faint.</note>
 </app>
-<app loc="8">
+<app loc="1v3">
 <lem>dharmma mpuṅku, Iṁ</lem>
 <rdg source="Brandes">dharmma mpuṅku Iṁ</rdg>
 </app>
-<app loc="8">
+<app loc="1v3">
 <lem>Iṁ <choice><sic>nairagjanā</sic><reg>nairañjanā</reg></choice></lem>
 <rdg source="Brandes">I nairañjanā</rdg>
 <note>Brandes did not observe that the plate here shows an error for the spelling of the toponym seen repeatedly in this text.</note>
