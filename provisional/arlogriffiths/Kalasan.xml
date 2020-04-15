@@ -54,8 +54,9 @@
 	<p>(5) The final akṣara <foreign>ti</foreign> in <foreign>iti</foreign> at the end of line 14 is written in the extended manner commonly seen in Siddhamātr̥kā inscriptions. Brandes write 'sometimes'. Are there any other cases?</p>
 	<p>(6) Stanza VI pūjārthaṁ: I have some trouble telling this jā apart from ja signs elsewhere. Cf. e.g. in rājasiṁhena, l. 9; rājasiṅhaḥ in 11. But cf. jātārtha in l. 12. The difference seems to lie herein, that in the case of jā, the ā-mātra does not descend from the top-line, but ascends from the middle diagonal of ja.</p>
 	<p>(7) Gemination of C after r if C = m. No gemination of C after r if C = y, n, th.</p>
-	<p>(8), (9)</p>		
-	<p>(10) two allographs of -ū: bhū (end line 8) and bhū in line 9 </p>
+	<p>(8), (9)</p>
+	<p>(10) two allographs of -ū: bhū (end line 8) and bhū in line 9.</p><!-- Damais 1952: 24 note "Au début de la strophe 8 la transcription de Brandes et de Bosch, bhura, ne convient pas paléographiquement parlant. Le petit trait transversal à gauche de l'r si c'en était un, serait placé bien trop bas et ne devrait pas toucher ce qui, dans ce cas, serait l'aksara précédent. Bhura ne voulant rien dire pour autant que nous sachions,
+c'est bien bhü qu'il faut lire, avec Bhandarkar, bien que l'aksara diffère sensiblement des autres bhû de cette inscription (lignes 11 et 14) par l'adjonction d'un trait vertical superfétatoire qui peut être considéré du même ordre que les variétés exagérément allongées de la voyelle -e que l'on trouve ici à côté de la forme courte qui est juste une petite boucle. -->
 						</handDesc>
 					</physDesc>
 				</msDesc>
@@ -293,9 +294,12 @@ link, a man is free from worldly existence and attains Nirvāṇa. The technical
          </div>
          <div type="commentary">
             <!--commentary encoded as per section §9.3 -->
+<!--<head>Javanese aspects</head>-->
+<p>Sanskritization of Javanese words: De Casparis 1950: 135 n. 4; Damais 1952: 24 note</p>
+<p>I disagree with Damais 1952: 25 note, who argues against the reading <foreign>pattibhiś</foreign>. I interpret this word as Sanskritization (with double <foreign>tt</foreign> imposed by the meter) for Old Javanese <foreign>patih</foreign>. The idea that the three compounds ending in -<foreign>ādibhiḥ</foreign> are grammatically adjectives to <foreign>pattibhis</foreign>, and express the hierarchical superiority of the Paṅkur-Tavan-Tirip triad to the <foreign>patih</foreign>s is inspired by such inscriptions as Kwak I, where the Paṅkur named <foreign>pu</foreign> Gava, the Tavān <foreign>pu</foreign> Rañjan and the Tirip <foreign>pu</foreign> Agrapiṇḍa are named at the top of a list of high officials, while several named <foreign>patih</foreign>s follow lower in the list.</p>
 <p>upāya in BHSD; email PDS 2020-03-30: One more thing, I don't know what the three kinds of upāya are, but the late 8th-c. Vilāsavajra in his Nāmamantrārthāvalokinī commentary to the Mañjuśrīnāmasaṃgīti has this: upāyas trividhaḥ | svadoṣāpakarṣaṇaḥ sattvāvatārakaḥ kṣiprābhisambodhakaś ca || [Ms = Cambridge University Library Add. 1708, palm-leaf, ff. 115, 26 missing. 33r]</p>
 <p>The reading <foreign>āvarjya</foreign> is not evident from the stone, but must be what was intended here, because <foreign>āvarjayati</foreign> is virtually a technical term to describe what bodhisattvas do, namely to win people over and convert them to the Buddhist path. See BSHD.</p>
-<p>I interpret <foreign>pattibhiś</foreign> as Sanskritization (with double <foreign>tt</foreign> imposed by the meter) for Old Javanese <foreign>patih</foreign>. The idea that the three compounds ending in -<foreign>ādibhiḥ</foreign> are grammatically adjectives to <foreign>pattibhis</foreign>, and express the hierarchical superiority of the Paṅkur-Tavan-Tirip triad to the <foreign>patih</foreign>s is inspired by such inscriptions as Kwak I, where the Paṅkur named <foreign>pu</foreign> Gava, the Tavān <foreign>pu</foreign> Rañjan and the Tirip <foreign>pu</foreign> Agrapiṇḍa are named at the top of a list of high officials, while several named <foreign>patih</foreign>s follow lower in the list.</p>
+<!--Buddhist aspects-->
 <!-- Peter-Dániel Szántó has referred me by way of example to Prajñākaramati's BCA commentary: 
 yad uktam- sarvatrācapalo mandamitasnigdhābhibhāṣaṇāt |
 āvarjayej janaṁ bhavyam ādeyaś cāpi jāyate || iti  [śikṣā. sa. kārikā-10]
@@ -323,3 +327,4 @@ OD Number: 6366, 7465-7466-->
       </body>
   </text>
 </TEI>
+<!-- Sundberg, Proposed Appendix on Siwagrha (2020), uses the word palimpsests with regard to the Sivagṛa and Kalasan stones which traces of effaced text.  -->
