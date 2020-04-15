@@ -46,25 +46,23 @@
 					</msContents>
 					<physDesc>
 						<handDesc>
-	<p>Shape of <foreign>m</foreign> with virāma, represented as <foreign>M</foreign>: see stanzas II, III VII and XII.</p>
-	<p>I read n· in puruṣān· line 8  </p>
-	<p>VI pūjārthaṁ: I have some trouble telling this jā apart from ja signs elsewhere. Cf. e.g. in rājasiṁhena, l. 9; rājasiṅhaḥ in 11. But cf. jātārtha in l. 12. The difference seems to lie herein, that in the case of jā, the ā-mātra does not descend from the top-line, but ascends from the middle diagonal of ja.</p>
-<p>shape of repha: can we read rjya in st. II or not? very clear examples in line 7 </p>
-<p>Pāla shape of rya seen throughout — no</p>
-<p>two allographs of -ū: bhū (end line 8) and bhū in line 9 </p>
-<p>allographs of the vowel -e: elaborate top-stroke in dakṣiṇeyam (line 9); elsewhere normally a vertical strole at left</p>
-							<!-- If you need to identify individual hands (EG §7.5/) in addition to one or more paragraphs of general palaeographic description, wrap <summary> around the <p> or <p>s above, and, outside <summary>, create <handNote> elements for each hand as follows:
-						<summary><p><p/></summary>
-						<handNote xml:id="Pallava00001_hand1"></handNote>
-						<handNote xml:id="Pallava00001_hand2"></handNote>
-					 -->
+<p>Brandes <bibl rend="omitname"><ptr target="bib:Brandes1886_01"/><citedRange>241-243</citedRange></bibl> summarized most of the noteworthy palaeographic aspects of the inscription. His observations concerned: (1) the shape of <foreign>t</foreign> and <foreign>m</foreign> in combination with <foreign>virāma</foreign>; (2) the shape and position of the <foreign>repha</foreign>; (3) the shape of postconsonantal <foreign>y</foreign>, and the special shape of the ligature <foreign>rya</foreign>; (4) the two allographs of the vowel marker <foreign>e</foreign>; (5) the decorative flourish sometimes given to the vowel marker <foreign>i</foreign>; (6) the shapes of <foreign>ja</foreign> and <foreign>jā</foreign>; (7) the inconsistent gemination of consonants after <foreign>r</foreign>; (8) the shape of <foreign>na</foreign>; (9) the use of <foreign>ṅ</foreign> instead of <foreign>anusvāra</foreign> before <foreign>ś</foreign> and <foreign>h</foreign>. To these I add one more: (10) the presence of two allographs of vowel marker <foreign>ū</foreign>. I will now elaborate on the above points, proceeding item by item.</p>
+	<p>(1) Special shape of <foreign>m</foreign> with virāma, represented as <foreign>M</foreign>: see stanzas II, III VII and XII. By contrast, I read n· (meaning that the basic consonant sign seems to have it normal shape and position) in puruṣān·, pārthivendrān·, ... .</p>
+	<p>(2) shape of repha: can we read rjya in st. II or not? very clear examples in lines 7 (rmma), 11 (rthi, rmma, rna) </p>
+	<p>(3) Pāla shape of rya seen throughout — check also Bosch</p>		
+	<p>(4) two allographs of the marker -e: elaborate top-stroke in dakṣiṇeyam (line 9), kāle kāle and Anena puṇyena (line 12), etc.;  normally a vertical strole at left.</p>
+	<p>(5) The final akṣara <foreign>ti</foreign> in <foreign>iti</foreign> at the end of line 14 is written in the extended manner commonly seen in Siddhamātr̥kā inscriptions. Brandes write 'sometimes'. Are there any other cases?</p>
+	<p>(6) Stanza VI pūjārthaṁ: I have some trouble telling this jā apart from ja signs elsewhere. Cf. e.g. in rājasiṁhena, l. 9; rājasiṅhaḥ in 11. But cf. jātārtha in l. 12. The difference seems to lie herein, that in the case of jā, the ā-mātra does not descend from the top-line, but ascends from the middle diagonal of ja.</p>
+	<p>(7) Gemination of C after r if C = m. No gemination of C after r if C = y, n, th.</p>
+	<p>(8), (9)</p>		
+	<p>(10) two allographs of -ū: bhū (end line 8) and bhū in line 9 </p>
 						</handDesc>
 					</physDesc>
 				</msDesc>
 			</sourceDesc>
 		</fileDesc>
 		<revisionDesc>
-			<change who="part:argr" when="2020-03-30" status="draft">Initial encoding of the edition</change>
+			<change who="part:argr" when="2020-04-15" status="draft">Completed initial encoding of the edition</change>
 		</revisionDesc>
 	</teiHeader>
 	<text xml:space="preserve">
@@ -114,7 +112,7 @@
 	</lg>
 <p>Api ca</p>
 	<lg n="10" met="śālinī"><!-- [– – – – | – ⏑ – – ⏑ – ⏓] -->
-		<l n="a"><lb n="10"/>sarvān evāgāminaḥ pārthivendrān·</l>
+		<l n="a"><lb n="11"/>sarvān evāgāminaḥ pārthivendrān·</l>
 		<l n="b">bhūyo bhūyo yācate rāja-siṅhaḥ |</l>
 		<l n="c">sāmānyo yan dharmma-setur na<lb n="12" break="no"/>rāṇāṁ</l>
 		<l n="d">kāle kāle pālanīyo bhavadbhiḥ ||</l>
@@ -236,19 +234,20 @@
 <div type="translation" xml:lang="eng" resp="part:argr"><!--<head>Translation Griffiths</head>
 --><p n="1">Homage to the Noble Lady Tārā!</p>
 <p rend="verse" n="1">As per injunction, with the three means, may she, a unique star for the world, having looked down upon the world immersed in the ocean of existence with endless suffering grant you the coveted essence of wealth in the divine and human realms!</p>
-<p rend="verse" n="2">For the royal gurus of the Śailendras have had the illustrious Tārā temple built, after they converted<!--won over (BHSD)--> the Great King Paṇaṅkaran, endowed with power and merit.</p>
+<p rend="verse" n="2">For the royal gurus of the Śailendras have had the illustrious Tārā temple built, after they converted<!--won over (BHSD)--> the Great King Panaṅkaran, endowed with power and merit.</p>
 <p rend="verse" n="3">The goddess Tārā was made by the grateful <supplied reason="subaudible">gurus</supplied> at the command of their master, and <supplied reason="subaudible">they built</supplied> not only a temple for her but also an abode for the noble monks learned in the Discipline and the (scriptures of the) Great Vehicle.</p><!-- Speijer §438 on api ... api ... -->
 <p rend="verse" n="4">And, on behalf of the king, the three called Paṅkur, Tavan and Tirip not only had this Tārā temple built, but also <supplied reason="subaudible">the abode</supplied> of the noble monks.</p>
 	<!-- ādeśa: see NWS; Vincent remembers there is a chapter on ādeśa as replacement outside of vyākaraṇa context  -->
 <p rend="verse" n="5">The Tārā temple has been built by the virtuous gurus of the Śailendra kings during the prosperous reign of the king who is an ornament of the Śailendra dynasty.</p>
-<p rend="verse" n="6">When seven hundred years had passed after the Śaka king, the Great King Paṇaṅkaran built the Tārā temple in order to honor his preceptors.</p>
+<p rend="verse" n="6">When seven hundred years had passed after the Śaka king, the Great King Panaṅkaran built the Tārā temple in order to honor his preceptors.</p>
 	<!-- maybe gurup. is also intended to mean 'veneration of his own guru', 'veneration of (himself as their) master' -->
 <p rend="verse" n="7">The village called Kalasan has been given to the congregation after designating as witnesses the great men who administrate the region, namely the Paṅkur, the Tavan and the Tirip.</p>
 <p rend="verse" n="8">This incomparable gift of grant land, made to the congregation by the Lion among Kings, of noble lineage<!-- comment on āryasantatyā taken as masc. sg. instr. -->, is to be maintained by the kings of the Śailendra dynasty,</p>
-<p rend="verse" n="9">...</p>
-<p rend="verse" n="10">...</p>
-<p rend="verse" n="11">...</p>
-<p rend="verse" n="12">...</p>
+<p rend="verse" n="9">and by the good Patihs who are preceded by the honorable Paṅkur, preceded by the honorable Tavan <supplied reason="subaudible">and</supplied> preceded by the honorable Tirip.</p>
+<p n="2">Moreover:</p>
+<p rend="verse" n="10">The Lion among Kings again begs all future kings among kings, without exception, that this universal Dharma-causeway for humans, is to be maintained by you in every age!</p>
+<p rend="verse" n="11">Thanks to this merit produced by the <supplied reason="subaudible">foundation of a</supplied> monastery, may all humans born in <supplied reason="subaudible">the one or the other of</supplied> the three states <supplied reason="explanation"><foreign>tribhava-upapanna</foreign></supplied> be cognizant of the distinctions between things arisen in dependence, and knowledgable of the teachings of the Jinas!</p>
+<p rend="verse" n="12">To this end <supplied reason="explanation"><foreign>atra</foreign></supplied>, the illustrious lord <supplied reason="explanation"><foreign>kariyān</foreign></supplied> Panaṅkaran again urges future king so that the monastery may be properly maintained.</p>
 </div>
          <div type="translation" xml:lang="eng" source="bib:Sarkar1971-1972_01"><head>Translation Sarkar</head><!-- somewhat normalized in terms of use of italics -->
 <p n="1">Salutation to the divine Ārya-Tārā!</p>
@@ -296,6 +295,7 @@ link, a man is free from worldly existence and attains Nirvāṇa. The technical
             <!--commentary encoded as per section §9.3 -->
 <p>upāya in BHSD; email PDS 2020-03-30: One more thing, I don't know what the three kinds of upāya are, but the late 8th-c. Vilāsavajra in his Nāmamantrārthāvalokinī commentary to the Mañjuśrīnāmasaṃgīti has this: upāyas trividhaḥ | svadoṣāpakarṣaṇaḥ sattvāvatārakaḥ kṣiprābhisambodhakaś ca || [Ms = Cambridge University Library Add. 1708, palm-leaf, ff. 115, 26 missing. 33r]</p>
 <p>The reading <foreign>āvarjya</foreign> is not evident from the stone, but must be what was intended here, because <foreign>āvarjayati</foreign> is virtually a technical term to describe what bodhisattvas do, namely to win people over and convert them to the Buddhist path. See BSHD.</p>
+<p>I interpret <foreign>pattibhiś</foreign> as Sanskritization (with double <foreign>tt</foreign> imposed by the meter) for Old Javanese <foreign>patih</foreign>. The idea that the three compounds ending in -<foreign>ādibhiḥ</foreign> are grammatically adjectives to <foreign>pattibhis</foreign>, and express the hierarchical superiority of the Paṅkur-Tavan-Tirip triad to the <foreign>patih</foreign>s is inspired by such inscriptions as Kwak I, where the Paṅkur named <foreign>pu</foreign> Gava, the Tavān <foreign>pu</foreign> Rañjan and the Tirip <foreign>pu</foreign> Agrapiṇḍa are named at the top of a list of high officials, while several named <foreign>patih</foreign>s follow lower in the list.</p>
 <!-- Peter-Dániel Szántó has referred me by way of example to Prajñākaramati's BCA commentary: 
 yad uktam- sarvatrācapalo mandamitasnigdhābhibhāṣaṇāt |
 āvarjayej janaṁ bhavyam ādeyaś cāpi jāyate || iti  [śikṣā. sa. kārikā-10]
