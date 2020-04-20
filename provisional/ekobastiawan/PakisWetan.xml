@@ -57,7 +57,9 @@
                 </msDesc> 
             </sourceDesc>
         </fileDesc>
-        <revisionDesc><change who="part:ekba" when="2020-04-10" status="draft">updated the line numbering</change>
+        <revisionDesc>
+            <change who="part:ekba" when="2020-04-10" status="draft">revised the apparatus</change>
+            <change who="part:ekba" when="2020-04-10" status="draft">updated the line numbering</change>
             <change who="part:axja" when="2020-03-27" status="draft">adding the handDesc template</change>
             <change who="part:ekba" when="2020-02-07" status="draft">Revised the bibliography  proposed by Arlo Griffiths</change>
             <change who="part:ekba" when="2020-01-29" status="draft">applied corrections proposed by Arlo Griffiths</change>
@@ -109,7 +111,8 @@ n="1v9" break="no"/>n kanuruhan saṁ mantrī nayavid iṅgitajñā, mapasəṅg
                       <rdg source="bib:Krom1911_04 bib:Damais1955_01 bib:Boechari1985-1985_01">Umiṅsor</rdg>
                        </app>
                    <app loc="1v9">
-                      <note><foreign>nayavid iṅgitajña</foreign>: cf. KR 11.49 <foreign>kapīndra sugrīva vəruh riṅ iṅgita</foreign>; RY 6.9: <foreign>mahāprajña rikaṅ nayeṅgita</foreign>. See also Adan-Adan <foreign>suśīlendikajñasarvvanayānitidakṣa</foreign>.</note>
+                       <lem>nayavid iṅgitajña</lem>
+                      <note>Cf. KR 11.49 <foreign>kapīndra sugrīva vəruh riṅ iṅgita</foreign>; RY 6.9: <foreign>mahāprajña rikaṅ nayeṅgita</foreign>. See also Adan-Adan <foreign>suśīlendikajñasarvvanayānitidakṣa</foreign>.</note>
                    </app>
 	<app loc="1v9">
                      <lem>bha</lem>
@@ -134,7 +137,7 @@ n="1v9" break="no"/>n kanuruhan saṁ mantrī nayavid iṅgitajñā, mapasəṅg
                  <bibl><ptr target="bib:NBG"/><date>1912</date><citedRange unit="volume">50</citedRange><citedRange unit="page">77</citedRange></bibl>
                  <bibl ><ptr target="bib:Damais1952_01"/><citedRange unit="page">72-73</citedRange><citedRange unit="item">A.172</citedRange></bibl>
                  <bibl ><ptr target="bib:Damais1962_02"/><citedRange unit="page">414</citedRange><citedRange  unit="note">4</citedRange></bibl><!-- Is this the correct way to cite note? -->
-                 <bibl><ptr target="bib:MuhammadYamin1962_01"/><citedRange >173-175</citedRange></bibl><!-- still needs to be verified -->
+                 <bibl><ptr target="bib:MuhammadYamin1962_01"/><citedRange >173-175</citedRange></bibl>
                 <bibl><ptr target="bib:NurhadiMagetsari+al1979_01"/><citedRange>183</citedRange></bibl>
                 <bibl><ptr target="bib:Eade+Gislen2000_01"/><citedRange>99-100</citedRange></bibl>
            </listBibl>
