@@ -82,50 +82,45 @@ n="1v3"/>-vulu paravulu, makădiṁ miśra paramiśra, paṅuraṁ, pakudur·, v
         n="2r3" break="no"/>vaḥ Ikaṁ vvaṅ i jro, cabol·, vuṅkuk·, bule, vol·, pujut·, kəmir·, boṇḍan·, tan tāma ri saṁ hyaṁ sima ri<unclear>ṁ</unclear> sa<lb 
             n="2r4" break="no"/>ṅa, muvaḥ kavnaṅaknani sama sanak· ri saṅa, kevvanāni rare, vnaṅ amaguta pajə:ṁ piṅhe, Acuriṅa kinaṁsyan·, Aṅuṅ<unclear>ku</unclear>ṅa ra<lb 
                 n="2r5" break="no"/>hina vṅi, Agilaṁ-gilaṅămpyal· gaḍiṁ, Ajnu <orig>kan<choice><orig>ā</orig><reg>a</reg></choice>kadra<surplus>r</surplus>va</orig>, Apras avataṁ, 
-pra<choice><orig>s</orig><reg>s s</reg></choice>i<choice><orig>d</orig><reg>ddh</reg></choice>ayuga<!--<choice><orig>prasidayuga</orig><reg>pras siddhayuga</reg></choice>--><!-- argr: Daniel, which of the two encoding options is to be preferred? — cf. EG p. 76 -->
+pra<choice><orig>s</orig><reg>s s</reg></choice>i<choice><orig>d</orig><reg>ddh</reg></choice>ayuga<!--<choice><orig>prasidayuga</orig><reg>pras siddhayuga</reg></choice> — cf. EG p. 76 -->
 , pr<subst><del rend="corrected">i</del><add place="overstrike">a</add></subst>s aṅgi, pras buntər·, santi, <unclear>k</unclear>uku<unclear>va</unclear><pb n="2v" break="no"/><lb 
                     n="2v1" break="no"/>ka, Aṅaṅgva vali, nagapuspa, navagraha, palaṅka gaḍiṁ, tuvuḥ vatu, hurip anak·, tutu<choice><orig>ṇ</orig><reg>ñ</reg></choice>juṁ, kəmbaṅ ipə:ṁ, tuṅgak i varyya<supplied reason="lost">ṁ</supplied>
 <lb n="2v2"/>, salvirni vali, vnaṅ <choice><orig>aṁgaḍi<unclear>ṁ</unclear>-gaḍiṁṅa</orig><reg>aṅgaṇḍiṅ-gaṇḍiṅa</reg></choice> rare, Anuntuna celeṁ Atalya cavət·, Atəkəna valira, Amikula paluṅan inuL̥<lb 
-    n="2v3" break="no"/>san· banantən·, Aguntiṅe <orig><sic>hur</sic><reg>ruhur</reg></orig> bale, sakevvaniṁ rare, tan <orig>anānuvanda</orig><!-- argr: Eko, here you had
-        
-<orig><sic>a</sic><reg>ha</reg></orig>nānuvand<orig><sic>a</sic><reg>ha</reg></orig>
-
-1. In the case of presence/absence of consonant h, I think we should always prefer not to intervene in the editions. 
-2. Regarding the difference between plain consonant and aspirated consonant, we could choose to encode the choice d/dh inside the text, but if we do so it would have to be encoded only with regard to the pasangan, and it would be a case of normalization, not correction, so: -nuvan<choice><orig>d</orig><reg>dh</reg></choice>a. 
-3. All in all, I prefer only to "flag" the substandard spelling, and to explain in an apparatus <note> that ana must be understood as hana and vanda as vandha.  -->, samaṅkana varānugraha śrī jaṅgala, ri sama sānak·
+    n="2v3" break="no"/>san· banantən·, Aguntiṅe <orig><sic>hur</sic><reg>ruhur</reg></orig> bale, sakevvaniṁ rare, tan <orig>anānuvanda</orig><!-- we're only "flagging" the substandard spelling, and explaining in an apparatus <note> that ana must be understood as hana and vanda as vandha. Or should we do so only here, using <choice><orig>/<reg></choice>? -->, samaṅkana varānugraha śrī jaṅgala, ri sama sānak·
 <lb n="2v4"/>riṁ saṅa, sima svatantrādəg· riṅgit·, muvaḥ kveḥni para samya pinakasākṣī, satagan· javū, Iṁ kbaṁṅ avu juru samya gagak a<lb 
-    n="2v5" break="no"/><unclear>m</unclear>uṅ ari, sinuṅan· pasək-pasək·, mā <num value="1">1</num>, vḍihan· sahle, Iṁ lāmoṅan· juru samya, kuda rimoṁ, sinuṅan· pasək-pa<g type="filler">§</g></p><!-- argr: Daniel, the available text ends here. Had we had the next plate, it would have begun with sǝk because the word here is pasək-pasǝk. How shall we encode this? -->
+    n="2v5" break="no"/><unclear>m</unclear>uṅ ari, sinuṅan· pasək-pasək·, mā <num value="1">1</num>, vḍihan· sahle, Iṁ lāmoṅan· juru samya, kuda rimoṁ, sinuṅan· pasək-pa<g type="filler">§</g></p>
          </div>
          <div type="apparatus">
            <!--apparatus encoded as per EG §9.1, basic elements for apparatus below-->
-<!-- argr: Eko, you seem not yet to have understood that in most cases, we have to represent a variant reading *either* inside the <div type="edition"> *or* inside <div type="apparatus">, but not in both. -->
-               <listApp><!-- one <app> for each apparatus entry -->
+               <listApp>
                   <app loc="1r1">
                       <lem>van</lem>
-                      <note>The last akṣara of the preceding plate must have been <foreign>la</foreign>, to make <foreign>lavan·</foreign>.</note><!-- argr: Eko, remember that an apparatus <note> must always begin with a capital letter! -->
+                      <note>The last akṣara of the preceding plate must have been <foreign>la</foreign>, to make <foreign>lavan·</foreign>.</note>
                   </app>
-                   <app loc="1r3-1r4"><!-- argr: Eko, now that we have applied <surplus> in the text, this <app> entry could now be removed altogether. But let us keep it, because the <note> may have some interest. Thus, the <lem> must be updated to contain the exact same sequence as in <div type="edition">. Please read p. 101 of EG, the section with title "Specifying a precise spot by a lemma". And we need a capital letter at the start of the note. -->
+                   <app loc="1r3-1r4">
                       <lem>asiḍaktan·<g type="filler">§</g><surplus>l asiḍaktan·</surplus></lem>
                       <note>It seems the scribe hesitated around the transition from line 3 to 4, needlessly repeating the sequence <foreign>lasiḍaktan·</foreign> after the line-filler sign at the end of l. 3</note>
                   </app>
                    <app loc="1v5">
                       <lem>Avə:</lem>
-                       <note>Correct <foreign>Avī</foreign>?</note><!-- argr: Eko, correct >> Correct -->
+                       <note>Correct <foreign>Avī</foreign>?</note>
                   </app>
                    <app loc="2v1"> 
                        <lem>tutu<choice><orig>ṇ</orig><reg>ñ</reg></choice>juṁ</lem>
-                       <note>Cf. <foreign>tutuñjuṅ </foreign>in Sarvadharma 5v4 and Kakurugan 4v5–6 (MNI E. 22).</note>
+                       <note>Cf. <foreign>tutuñjuṅ</foreign>in Sarvadharma 5v4 and Kakurugan 4v5–6 (MNI E. 22).</note><!-- argr: encode the references to Sarvadharma and Kakurugan with <ref>, as you see in thge <note> on the next <app> -->
                   </app>
                    <app loc="2v1"> 
                        <lem>i pə:ṁ</lem>
-                       <note>Cf. <title><abbr>OJED</abbr></title> <foreign>s.vv.</foreign> <foreign>ipəṅ</foreign>, <foreign>ipuṅ</foreign>, <foreign>pə̄ṅ</foreign> and <foreign>puṅ</foreign> (<bibl><ptr target="bib:Zoetmulder1982_01"/><citedRange>695-696, 697, 1342, 1445</citedRange></bibl>). Under <foreign>pə̄ṅ</foreign>, an instance from <ref target="WaringinPitu.xml">Waringin Pitu</ref> 13r6 is interpreted as <foreign>kǝmbaṅ iṅ pə̄ṅ</foreign>. This can be supported by <ref target="Kancana.xml">Kancana</ref> 5v2, where we find <foreign>kəmbaṅ iṁ puṁ</foreign>. See also <ref target="KambangPutih.xml">Kambang Putih</ref> <!-- argr: OJO CXVIII  --> back, line 18: <foreign>kambaṅ i puṅ</foreign>. From the Singasari period, the <ref target="Sarvadharma.xml">Sarvadharma</ref> inscription (5v4 <foreign>kǝmbaṅ i pǝ:ṁ</foreign>) was used in <title><abbr>OJED</abbr></title> as the sole occurrence justifying its entry <foreign>ipəṅ</foreign>. The Majapahit-period occurrences clearly suggest that <foreign>kǝmbaṅ i pǝṅ</foreign> and not <foreign>kǝmbaṅ ipǝṅ </foreign> was intended.</note>
+                       <note>Cf. <title><abbr>OJED</abbr></title> <foreign>s.vv.</foreign> <foreign>ipəṅ</foreign>, <foreign>ipuṅ</foreign>, <foreign>pə̄ṅ</foreign> and <foreign>puṅ</foreign> (<bibl><ptr target="bib:Zoetmulder1982_01"/><citedRange>695-696, 697, 1342, 1445</citedRange></bibl>). Under <foreign>pə̄ṅ</foreign>, an instance from <ref target="WaringinPitu.xml">Waringin Pitu</ref> 13r6 is interpreted as <foreign>kǝmbaṅ iṅ pə̄ṅ</foreign>. This can be supported by <ref target="Kancana.xml">Kancana</ref> 5v2, where we find <foreign>kəmbaṅ iṁ puṁ</foreign>. See also <ref target="KambangPutih.xml">Kambang Putih</ref><!-- argr: OJO CXVIII  --> back, line 18: <foreign>kambaṅ i puṅ</foreign>. From the Singasari period, the <ref target="Sarvadharma.xml">Sarvadharma</ref> inscription (5v4 <foreign>kǝmbaṅ i pǝ:ṁ</foreign>) was used in <title><abbr>OJED</abbr></title> as the sole occurrence justifying its entry <foreign>ipəṅ</foreign>. The Majapahit-period occurrences clearly suggest that <foreign>kǝmbaṅ i pǝṅ</foreign> and not <foreign>kǝmbaṅ ipǝṅ </foreign> was intended.</note>
                   </app>
                    <app loc="2v3"> 
-                       <!--<lem><orig><sic>a</sic><reg>ha</reg></orig>nānuvand<orig><sic>a</sic><reg>ha</reg></orig></lem>-->
-<!-- argr: Eko, I have hidden your version of the <lem>, and replaced it by the next two lines. -->
 		<lem><orig>anānuvanda</orig></lem>
 		<note>Understand <foreign>hanānuvandha</foreign>.</note>
                   </app>
+	<app loc="2v4">
+                      <lem>pasək-pa<g type="filler">§</g></lem>
+                      <note>The first akṣaras of the following plate must have contained <foreign>sək</foreign>, to make <foreign>pasək-pasǝk</foreign>.</note>
+	</app>
                </listApp>         
          </div>
          <div type="translation" xml:lang="eng" resp="part:argr">
