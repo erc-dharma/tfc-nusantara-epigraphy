@@ -5,7 +5,7 @@
     <teiHeader xml:lang="eng">
         <fileDesc>
             <titleStmt>
-                <title>Ramesvarapura</title>
+                <title>Ramesvarapura</title><!-- argr2ekba: use EYD spelling in titles, so here and even in the file name -->
                 <respStmt>
                     <resp>EpiDoc encoding</resp>
                     <persName ref="part:ekba">
@@ -26,7 +26,7 @@
                     </note>
                 </authority>
                 <pubPlace>Malang</pubPlace>
-                <idno type="filename">Ramesvarapura</idno>
+                <idno type="filename">Ramesvarapura</idno><!-- argr2ekba: here too -->
                 <availability>
                     <licence target="https://creativecommons.org/licenses/by/4.0/">
                         <p>This work is licenced under the Creative Commons Attribution 4.0 Unported Licence. To view a copy of the licence, visit https://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.</p>
@@ -47,45 +47,42 @@
                     <physDesc>
                         <handDesc>
                             <p><!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EG 11.2. --></p>
-                            <!-- If you need to identify individual hands (EG §7.5/) in addition to one or more paragraphs of general palaeographic description, wrap <summary> around the <p> or <p>s above, and, outside <summary>, create <handNote> elements for each hand as follows:
-						<summary><p><p/></summary>
-						<handNote xml:id="Pallava00001_hand1"></handNote>
-						<handNote xml:id="Pallava00001_hand2"></handNote>
-					 -->
                         </handDesc>
                     </physDesc>
                 </msDesc>  
             </sourceDesc>
         </fileDesc>
         <revisionDesc>
+        	<change who="part:argr" when="2020-05-03" status="draft">revised ekba's work</change>
             <change who="part:ekba" when="2020-04-26" status="draft">revised the initial encoding</change>
             <change who="part:ekba" when="2020-04-10" status="draft">updated the line numbering</change>
             <change who="part:axja" when="2020-03-27" status="draft">adding the handDesc template</change>
             <change who="part:ekba" when="2020-02-25" status="draft">Initial encoding</change>
-                                            </revisionDesc>
+         </revisionDesc>
     </teiHeader>
     <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="kaw-Latn">
 <pb n="1r"/><!--Blank outer page.-->
 <p><pb n="1v"/>
-<lb n="1v1"/>// <g type="symbol" subtype="punctuation-sign"/> // svasti, śakavarṣātīta, <num value="1197">1197</num>, jyaiṣṭhamāsa, tithi, pañcadaśī śuklapakṣa, <abbr>tuṁ</abbr>, <abbr>po</abbr>, <abbr>ca</abbr>, vāra gumr̥g·,
-<lb n="1v2"/>Uttarasthagrahacāra, mūlānakṣatra, toyadevatā, vāyavyamaṇḍala, śuklayoga, śvetamuhūrtta, viṣṭikara<lb 
-    n="1v3" break="no"/>ṇa, śaśīparvveśa, mitunarāśi, Irika divaśany ājñā śrī mahārāja rājādhirājā, dyaḥ Ūrddhaja, viṣṇukulakamalava<lb 
-        n="1v4" break="no"/>narājahaṅsa, Aśeṣanamitāribhūpālamaṇimakuṭaghr̥rṣitaśrīpādapīṭha sakalasujanahr̥dayakumudavikā<lb 
-            n="1v5" break="no"/>sakaraṇasūryyasad<subst><del rend="corrected">ra</del><add place="overstrike">r̥</add></subst>śa, saptasvarṇavasundharādhināthaśiraḥkamalamattavāraṇa, Anavaratarajata<orig>ka<choice><sic>na</sic><corr>naka</corr></choice>ratna</orig>vastradā<lb 
-                n="1v6" break="no"/><surplus>dā</surplus>na gaṅgāpra<choice><orig>j</orig><reg>v</reg></choice>āhasannibhakara, raṇaraṅgamadhyāpratihatabhujabalabhīma, jayaśrīviṣṇuvarddhanasahasrakiraṇo<lb 
-                    n="1v7" break="no"/>pamasatputra, śrīmat·śrījayavarddhanīdevĭsamudramandarā<choice><orig>v</orig><reg>c</reg></choice>alamanthānamahāmr̥tamaya, śrīkr̥tanagara<lb 
-                        n="1v8" break="no"/>vikramadharmottuṅgadevanāmarājābhiṣeka, tinaḍaḥ de rakryan mahāmantrī katriṇī, rakryan· mantri
+<lb n="1v1"/>// <g type="symbol" subtype="punctuation-sign"/><!-- argr2ekba: use "circle" for @subtype; see <https://sharedocs.huma-num.fr/#/3491/12084/Indonesia/Bullough%20Nigel/2011%20Jawa%20Timur/photos> in Sharedocs and EG  --> // svasti, <!-- argr2ekba: see how I am hyphenating all the elements borrowed from Sanskrit, but using <foreign> only for the long compounds which cannot be said to have been fully assimilated into OJ vocabulary — no problem if you feel unable to hyphenate Sanskrit words yourself, although you could try to follow this example -->śaka-varṣātīta, <num value="1197">1197</num>, jyaiṣṭha-māsa, tithi, pañcadaśī śukla-pakṣa, <abbr>tuṁ</abbr>, <abbr>po</abbr>, <abbr>ca</abbr>, vāra gumr̥g·,
+<lb n="1v2"/>Uttarastha-grahacāra, mūlā-nakṣatra, toya-devatā, vāyavya-maṇḍala, śukla-yoga, śveta-muhūrtta, viṣṭi-kara<lb 
+    n="1v3" break="no"/>ṇa, śaśī-parvveśa, mi<choice><orig>t</orig><reg>th</reg></choice>una-rāśi,<!-- argr2ekba: the first <p> ends here and a new <p> begins with Irika --> Irika divaśany ājñā śrī mahārāja rājādhirājā, dyaḥ Ūrddhaja, <!-- argr2ekba: see how I'm adding <foreign xml:lang="san-Latn"> around the long Sanskrit compounds we get here: see EG 7.2 (end) — generally, you will not need to use such tags except in this kind of section at the beginning of the text; as I recall, Mula-Malarung has them also in other parts of the text, and so does Sukhamerta --><foreign xml:lang="san-Latn">viṣṇu-kula-kamala-va<lb 
+        n="1v4" break="no"/>na-rāja-haṅsa</foreign>, <foreign xml:lang="san-Latn">Aśeṣa-namitāri-bhūpāla-maṇi-makuṭa-<choice><orig>ghr̥rṣ</orig><reg>gharṣ</reg></choice>ita-śrī-pāda-pīṭha</foreign> <foreign xml:lang="san-Latn">sakala-sujana-hr̥daya-kumuda-vikā<lb 
+            n="1v5" break="no"/>sa-karaṇa-sūryya-sad<subst><del rend="corrected">ra</del><add place="overstrike">r̥</add></subst>śa</foreign>, <foreign xml:lang="san-Latn">sapta-svarṇa-vasundharādhinātha-śiraḥ-kamala-matta-vāraṇa</foreign>, <foreign xml:lang="san-Latn">An-avarata-rajata-<orig>ka<choice><sic>na</sic><corr>naka</corr></choice>-ratna-</orig><!-- argr2ekba: here you must rather encode kana<supplied reason="omitted">ka</supplied>-ratna- — see EG 6.5/Editorial addition -->vastra-dā<lb 
+                n="1v6" break="no"/><surplus>dā</surplus>na</foreign> <foreign xml:lang="san-Latn">gaṅgā-pra<choice><orig>j</orig><reg>v</reg></choice>āha-sannibha-kara</foreign>, <foreign xml:lang="san-Latn">raṇa-raṅga-madhyāpratihata-bhuja-bala-bhīma</foreign>, <foreign xml:lang="san-Latn">jaya-śrī-viṣṇuvarddhana-sahasra-kiraṇo<lb 
+                    n="1v7" break="no"/>pama-sat-putra</foreign>, <foreign xml:lang="san-Latn">śrīmat·-śrī-jayavarddhanī-devĭ-samudra-mandarā<choice><orig>v</orig><reg>c</reg></choice>ala-manthāna-mahāmr̥ta-maya</foreign>, śrī-kr̥tanagara<lb 
+                        n="1v8" break="no"/>-vikramadharmottuṅga-deva-nāma-rājābhiṣeka<!-- argr2ekba: I am not putting <foreign> around this last string, because it cannot be analyzed according to Sanskrit syntax and such strings giving the name of the king (and sometimes ending in abhiṣeka) are common even in texts which don't have such Sanskrit epithets as we see here -->, tinaḍaḥ de rakryan mahāmantrī ka<choice><orig>triṇī</orig><reg>trīṇi</reg></choice>, rakryan· mantri<!-- argr2ekba: since we now get a long gap of 4 plates, you should end the <p> here, apply @part="I"  and begin a new <p> with @part="F" — see EG 5.4/Massive lacunae and 5.4/Lost copper plates -->
+<!-- argr2ekba: also, as per EG, p. 69: "instead of encoding lacunae for lost pages, the fact that entire plates are lost shall be recorded in the commentary". So, inside <div type="commentary">, create a <p> and state there: "The original set would have consisted in sixteen plates. Of these, plates 2–5, 7–8, 10 and 16 are lost."  -->
 <pb n="6r"/>
 <lb n="6r1"/>jə:ṁ, <num value="2">2</num>, Anapu prāṇa, jə:ṁ, <num value="2">2</num>, Aharyyan·, ki <num value="1">1</num>, kabayan samaṅanti rampakan·, jə:ṁ <num value="1">1</num>, ki <num value="1">1</num>, Aṅalihi, jə:ṁ <num value="1">1</num>, ka<lb 
     n="6r2" break="no"/>bayan samaṅanti susukun·, jə:ṁ <num value="1">1</num>, ki <num value="1">1</num>, Aṅalihi, jə:ṁ <num value="1">1</num>, maṇḍala, <num value="4">4</num>, jə:ṁ <num value="4">4</num>, juru buruḥ, jə:ṁ <num value="1">1</num>, ki <num value="1">1</num>, gusti, jə:ṁ <num value="1">1</num>, bu<lb 
         n="6r3" break="no"/>ruḥ Anamaratā, <num value="3">3</num>, jə:ṁ <num value="1">1</num>, ki <num value="1">1</num>, juru buruḥ susukun·, jə:ṁ <num value="1">1</num>, gusti, ki <num value="1">1</num>, jagulan·, jə:ṁ <num value="1">1</num>, malas·, jə:ṁ <num value="1">1</num>, Apaṇḍ<lb 
-        n="6r4" break="no"/>e vsi, <choice><sic>jə:</sic><corr>jə:ṁ</corr></choice> 1 <num value="1">1</num>, paṅakan·, ki <num value="1">1</num>, Amalantə:n·, ki <num value="1">1</num>, piṇḍa savaḥ, kadmak·, cā <num value="2">2</num>, kunə:ṅ ikaṁ śeṣa, ya teka pa<lb 
+        n="6r4" break="no"/>e<!-- argr2ekba: in such cases, where taling stands at end of preceding line, or the change my previous transliteration system to the system prescribed in the TG §3.3.10, so in this case it becomes Apa⌈<lb n="6r4" break="no"/>ṇḍe --> vsi, <choice><sic>jə:</sic><corr>jə:ṁ</corr></choice><!-- argr2ekba: encode jə:<supplied reason="omitted">ṁ</supplied> --> 1 <num value="1">1</num>, paṅakan·, ki <num value="1">1</num>, Amalantə:n·, ki <num value="1">1</num>, piṇḍa savaḥ, kadmak·, cā <num value="2">2</num>, kunə:ṅ ikaṁ śeṣa, ya teka pa<lb 
             n="6r5" break="no"/>rṇaḥ kaputrāṅśanani santāna pratisantāna śrī brahmarāja, mvaṅ ikaṁ Uliḥniṅ amabaki, kunə:ṅ ikaṁ gagā, kubvan·, pa<lb 
-                n="6r6" break="no"/>rṇaḥ kaputrāṅśan ika, kunə:ṁ parimāṇani lmaḥ saṁ hyaṁ dharmma riṁ śrĭ rāmeśvarapura, riṁ pūrvva, Asiḍaktan lavan kijaṅan·, maṅi<lb 
-                    n="6r7" break="no"/>du<subst><del rend="corrected">nə</del><add place="overstrike">l  a</add></subst>mnə:r· tkeṁ juraṁ, Asiḍaktan lavan kijaṅan·, Aniku lalavā maṅetan aṅidul atūt· juraṁ, ḍpa <num value="679">679</num>, Akālihan·
-<lb n="6r8"/>lvaḥ Asiḍaktan· lavan kijaṅan·, maṅidul·, ḍpa <num value="96">96</num>, tumurun iṁ juraṁ, Asiḍaktan lavan kijaṅan·, maṅidul aṅulvan· A<pb n="6v" break="no"/><fw n="6v" place="left"><num value="6">6</num></fw><lb 
+                n="6r6" break="no"/>rṇaḥ kaputrāṅśan ika, kunə:ṁ parimāṇani lmaḥ<!-- argr2ekba: in the gdoc, there is a comment here: "On this formula, see Hadi Sidomulyo 2018, n. 1." In order that this does not get lost, I suggest that in every such case you create a new <p> in <dib type="commentary"> and paste the information into it. At some later point, I will tie all the loose remarks together in some way. --> saṁ hyaṁ dharmma riṁ śrĭ rāmeśvarapura, riṁ pūrvva, Asiḍaktan lavan kijaṅan·, maṅi<lb 
+                    n="6r7" break="no"/>du<subst><del rend="corrected">nə</del><add place="overstrike">l  a</add></subst><!-- argr2ekba: certainly the l, which is common to uncorrected and the corrected akṣara, should stand before <subst> — see Example 3 in EG 4.4/Premodern deletion.  -->mnə:r· tkeṁ juraṁ, Asiḍaktan lavan kijaṅan·, Aniku lalavā maṅetan aṅidul atūt· juraṁ, ḍpa <num value="679">679</num>, Akālihan·
+<lb n="6r8"/>lvaḥ Asiḍaktan· lavan kijaṅan·, maṅidul·, ḍpa <num value="96">96</num>, tumurun iṁ juraṁ, Asiḍaktan lavan kijaṅan·, maṅidul aṅulvan· A<pb n="6v" break="no"/><fw n="6v" place="left"><!-- argr2ekba: the <fw> should always contain only the number that is actually engraved on the plate, plus its @place. You should not add a letter v or r to the number. --><num value="6">6</num></fw><lb 
     n="6v1" break="no"/>tūt· juraṁ, ḍpa <num value="340">340</num>, Akālihan· lvaḥ lavan kijaṅan·, <choice><orig>mə:nta</orig><reg>mə:ntas</reg></choice> sakeṁ juraṁ, Akāra, ḍpa <num value="5">5</num>, tkeṅ āgneya, kulumpaṁ ri ra<unclear>ṁ</unclear><lb 
         n="6v2" break="no"/>R̥ bañjar·, vetan kijaṅan·, kidul· blut·, maṅulvan sakeṅ āgneya, kiduliṁ juraṁ, ḍpa <num value="5">5</num>, tkeṁ dakṣiṇa, Asi<lb 
         n="6v3" break="no"/>ḍaktan lavan· blut·, maṅulvan· sakeṁ dakṣiṇa, kidulniṁ lvaḥ, ḍpa <num value="5">5</num>, tkeṁ nairiti, Asiḍaktan· lavan· blut·, maṅa<lb 
