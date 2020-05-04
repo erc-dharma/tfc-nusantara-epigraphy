@@ -83,7 +83,7 @@
                 n="6r6" break="no"/>rṇaḥ kaputrāṅśan ika, kunə:ṁ parimāṇani lmaḥ<!-- argr2ekba: in the gdoc, there is a comment here: "On this formula, see Hadi Sidomulyo 2018, n. 1." In order that this does not get lost, I suggest that in every such case you create a new <p> in <dib type="commentary"> and paste the information into it. At some later point, I will tie all the loose remarks together in some way. --> saṁ hyaṁ dharmma riṁ śrĭ rāmeśvarapura, riṁ pūrvva, Asiḍaktan lavan kijaṅan·, maṅi<lb 
                     n="6r7" break="no"/>du<subst><del rend="corrected">nə</del><add place="overstrike">l  a</add></subst><!-- argr2ekba: certainly the l, which is common to uncorrected and the corrected akṣara, should stand before <subst> — see Example 3 in EG 4.4/Premodern deletion.  -->mnə:r· tkeṁ juraṁ, Asiḍaktan lavan kijaṅan·, Aniku lalavā maṅetan aṅidul atūt· juraṁ, ḍpa <num value="679">679</num>, Akālihan·
 <lb n="6r8"/>lvaḥ Asiḍaktan· lavan kijaṅan·, maṅidul·, ḍpa <num value="96">96</num>, tumurun iṁ juraṁ, Asiḍaktan lavan kijaṅan·, maṅidul aṅulvan· A<pb n="6v" break="no"/><fw n="6v" place="left"><!-- argr2ekba: the <fw> should always contain only the number that is actually engraved on the plate, plus its @place. You should not add a letter v or r to the number. --><num value="6">6</num></fw><lb 
-    n="6v1" break="no"/>tūt· juraṁ, ḍpa <num value="340">340</num>, Akālihan· lvaḥ lavan kijaṅan·, <choice><orig>mə:nta</orig><reg>mə:ntas</reg></choice> sakeṁ juraṁ, Akāra, ḍpa <num value="5">5</num>, tkeṅ āgneya, kulumpaṁ ri ra<unclear>ṁ</unclear><lb 
+    n="6v1" break="no"/>tūt· <!-- argr has checked up to here -->juraṁ, ḍpa <num value="340">340</num>, Akālihan· lvaḥ lavan kijaṅan·, <choice><orig>mə:nta</orig><reg>mə:ntas</reg></choice> sakeṁ juraṁ, Akāra, ḍpa <num value="5">5</num>, tkeṅ āgneya, kulumpaṁ ri ra<unclear>ṁ</unclear><lb 
         n="6v2" break="no"/>R̥ bañjar·, vetan kijaṅan·, kidul· blut·, maṅulvan sakeṅ āgneya, kiduliṁ juraṁ, ḍpa <num value="5">5</num>, tkeṁ dakṣiṇa, Asi<lb 
         n="6v3" break="no"/>ḍaktan lavan· blut·, maṅulvan· sakeṁ dakṣiṇa, kidulniṁ lvaḥ, ḍpa <num value="5">5</num>, tkeṁ nairiti, Asiḍaktan· lavan· blut·, maṅa<lb 
             n="6v4" break="no"/>lor· sakeṁ nairiti, Amgat· lvaḥ, ḍpa <num value="175">175</num>, Asiḍaktan lavan· blut·, mlut· maṅulvan aṅalor· tkeṁ lvaḥ, ḍpa <num value="16">16
@@ -200,83 +200,82 @@
          <div type="apparatus">
            <!--apparatus encoded as per EG §9.1, basic elements for apparatus below-->
                <listApp><!-- one <app> for each apparatus entry -->
-                   <app  loc="1v1">
+                  <!-- <app  loc="1v1">
                        <lem>jyaiṣṭhamāsa</lem>
                        <rdg source="bib:MachiSuhadi2003_01">jyeṣṭa māsa</rdg>
-                   </app>
+                   </app>-->
                    <app  loc="1v1">
                        <lem>pañcadaśī</lem>
                        <rdg source="bib:MachiSuhadi2003_01">pañcami</rdg>
                    </app>
-                   <app  loc="1v2">
+                   <!--<app  loc="1v2">
                        <lem>mūlānakṣatra</lem>
                        <rdg source="bib:MachiSuhadi2003_01">mūla nakṣatra</rdg>
-                   </app>
-                   <app  loc="1v2">
+                   </app>-->
+                   <!--<app  loc="1v2">
                        <lem>vāyavyamaṇḍala</lem>
                        <rdg source="bib:MachiSuhadi2003_01">vayavyamaṇḍala</rdg>
-                   </app>
-                   <app  loc="1v2">
+                   </app>-->
+                  <!-- <app  loc="1v2">
                        <lem>śvetamuhūrtta</lem>
                        <rdg source="bib:MachiSuhadi2003_01">śveta muhurtta</rdg>
-                   </app>
-                   <app  loc="1v3">
+                   </app>-->
+                  <!-- <app  loc="1v3">
                        <lem>śaśīparvveśa</lem>
                        <rdg source="bib:MachiSuhadi2003_01">śaśi parvveśa</rdg>
-                   </app>
-                   <app  loc="1v3">
-                       <lem>mitunarāśi</lem>
+                   </app>-->
+                   <!--<app  loc="1v3">
+                       <lem>mi<choice><orig>t</orig><reg>th</reg></choice>unarāśi</lem>
                        <rdg source="bib:MachiSuhadi2003_01">mithuna rāśi</rdg>
-                   </app>
-                   <app  loc="1v3">
+                   </app>-->
+                   <!--<app  loc="1v3">
                        <lem>Ūrddhaja</lem>
                        <rdg source="bib:MachiSuhadi2003_01">Urddhaja</rdg>
-                   </app>
+                   </app>-->
                    <app  loc="1v3">
-                       <lem>°kulaka°</lem>
-                       <rdg source="bib:MachiSuhadi2003_01">°kula ku°</rdg>
+                       <lem>-kula-kamala-</lem>
+                       <rdg source="bib:MachiSuhadi2003_01">-kula kumala-</rdg>
                    </app>
                    <app  loc="1v4">
-                       <lem>°haṅsa</lem>
-                       <rdg source="bib:MachiSuhadi2003_01">haṅura</rdg>
+                       <lem>-haṅsa</lem>
+                       <rdg source="bib:MachiSuhadi2003_01">-haṅura</rdg>
                    </app>
                    <app  loc="1v4">
                        <lem>Aśeṣana°</lem>
                        <rdg source="bib:MachiSuhadi2003_01">Aśevana</rdg>
                    </app>
                    <app  loc="1v4">
-                       <lem>°ghr̥rṣitaśrīpādapīṭha</lem>
+                       <lem>-<choice><orig>ghr̥rṣ</orig><reg>gharṣ</reg></choice>ita-śrī-pāda-pīṭha</lem>
                        <rdg source="bib:MachiSuhadi2003_01">ghr̥ṣita śrī pāda sidha</rdg>
                    </app>
                    <app  loc="1v5">
-                       <lem>°ādhinātha°</lem>
-                       <rdg source="bib:MachiSuhadi2003_01">°ā dinātha°</rdg>
+                       <lem>°ādhinātha-</lem>
+                       <rdg source="bib:MachiSuhadi2003_01">°ā dinātha-</rdg>
                    </app>
                    <app  loc="1v5">
-                       <lem>°mattavāraṇa</lem>
-                       <rdg source="bib:MachiSuhadi2003_01">dhāraṇa</rdg>
-                       <note>Cf. PW,<ptr target="bib:Svacchandatantra"/> 583 and numerous Cambodian inscriptions; nothing in <ptr target="bib:Bhattacharya 1991_01"/>. But the word simply seems to mean ‘intoxicated elephant’ here.</note>
+                       <lem>-vāraṇa</lem>
+                       <rdg source="bib:MachiSuhadi2003_01">-dhāraṇa</rdg>
                    </app>
-                   <app  loc="1v6">
+                  <!-- <app  loc="1v6">
                        <lem>gaṅgā°</lem>
                        <rdg source="bib:MachiSuhadi2003_01">gaṅga</rdg>
-                   </app>
-                   <app  loc="1v6">
+                   </app>-->
+                  <!-- <app  loc="1v6">
                        <lem>°madhyā°</lem>
                        <rdg source="bib:MachiSuhadi2003_01">madhya,</rdg>
-                   </app>
+                   </app>-->
                    <app  loc="1v6">
-                       <lem>°sahasrakiraṇo°</lem>
-                       <rdg source="bib:MachiSuhadi2003_01">saha prakira no°</rdg>
+                       <lem>-sahasrakiraṇo°</lem>
+                       <rdg source="bib:MachiSuhadi2003_01">-saha prakira no°</rdg>
                    </app>
-                   <app  loc="1v7">
+                   <!--<app  loc="1v7">
                        <lem>°varddhanī°</lem>
                        <rdg source="bib:MachiSuhadi2003_01">°vardhhani</rdg>
-                   </app>
-                   <app  loc="1v7">
+                   </app>-->
+                  <!-- <app  loc="1v7">
                        <lem>°dharmo°</lem>
                        <rdg source="bib:MachiSuhadi2003_01">dharmmo°</rdg>
-                   </app>
+                   </app>-->
                    <app  loc="6r1">
                        <lem>samaṅanti rampakan·</lem>
                        <rdg source="bib:MachiSuhadi2003_01">samanantipekan·</rdg>
@@ -1037,6 +1036,7 @@
          </div>
          <div type="commentary">
             <!--commentary encoded as per section §9.3 -->
+<p>1v5: Cf. PW,<ptr target="bib:Svacchandatantra"/> 583 and numerous Cambodian inscriptions; nothing in <ptr target="bib:Bhattacharya 1991_01"/>. But the word simply seems to mean ‘intoxicated elephant’ here.</p>
          </div>
         <div type="bibliography">
 	<!--bibliography encoded as per section §9.4 -->
