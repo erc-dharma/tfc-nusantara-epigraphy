@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader xml:lang="eng">
+        <fileDesc>
+            <titleStmt>
+                <title>Pabañolan</title>
+                <respStmt>
+                    <resp>EpiDoc encoding</resp>
+                    <resp>intellectual authorship of edition</resp>
+                    <persName ref="part:masc">
+                        <forename>Marine</forename>
+                        <surname>Schoettel</surname>
+                    </persName>
+                    <persName ref="part:argr">
+                        <forename>Arlo</forename>
+                        <surname>Griffiths</surname>
+                    </persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>DHARMA <note>This project has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</note>
+                </authority>
+                <pubPlace>Paris</pubPlace>
+                <idno type="filename">pabanyolan</idno>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>This work is licenced under the Creative Commons Attribution 4.0 Unported Licence. To view a copy of the licence, visit https://creativecommons.org/licenses/by/4.0/ or send
+                            a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.</p>
+                        <p>Copyright (c) 2019-2025 by Marine Schoettel &amp; Arlo Griffiths</p>
+                    </licence>
+                </availability>
+                <date from="2019" to="2025">2019-2025</date>
+            </publicationStmt>
+            <sourceDesc>
+                <!-- only the handDesc can be filled in at this stage -->
+                <msDesc>
+                    <!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/>
+                        <!-- don't modify this -->
+                    </msIdentifier>
+                    <msContents>
+                        <!-- describe the intellectual content of an inscription -->
+                        <summary>
+                            <p>This inscription seems to present the synopsis of a comedy (<foreign>pabañolan</foreign>), copied in Majapahit (<foreign>Vilatikta</foreign>) by a scribe called Sāri-sāri.</p></summary>
+                        <!-- offers the possibility to give a summary of the inscription's content -->
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p><!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EG 11.2. --></p>
+                            <!-- If you need to identify individual hands (EG §7.5/) in addition to one or more paragraphs of general palaeographic description, wrap <summary> around the <p> or <p>s above, and, outside <summary>, create <handNote> elements for each hand as follows:
+						<summary><p><p/></summary>
+						<handNote xml:id="Pallava00001_hand1"></handNote>
+						<handNote xml:id="Pallava00001_hand2"></handNote>
+					 -->
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+<change who="part:masc" when="2020-05-11" status="draft">initial encoding of the inscription, div edition and apparatus</change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:space="preserve">
+      <body>
+         <div type="edition" xml:lang="kaw-Latn">
+<p part="F">
+    <pb n="1r" break="no"/>
+<lb n="1r1" break="no"/>han·, yan urisa, A<choice><orig>ñ</orig><reg>n</reg></choice>jalu<supplied reason="subaudible">k</supplied> kaṁ kadehan·, tan vruḥ yan <choice><orig>tāhikaṅ</orig><reg>tāhīkaṅ</reg></choice> urisa, tan· vinehan·, vkasan ahǝmpan· jambe kaṁ kadehan·, pācǝḥ, dinulita
+<lb n="1r2" break="no"/>n·, Ataḍaḥ tāṅan·, pācǝḥ,</p>
+<p>vkasan· keli mariṁ nūṣa <orig>śanda</orig>, kapaṅgiḥ rakryan· galuḥ, madan· liṣya babu-bābu, busihǝn· ṅaran saṁ putra, ṅaraniṁ
+<lb n="1r3"/>kadehan· savnaṁ,</p>
+<p>kapaṅgiḥ ta saṁ viku, mvaṁ saṁ Usaddha, AhaR̥p muliha saṁ Usaddha, tan· vinehan deni saṁ viku, vkasan ahaR̥p maraha riṁ vāno kliṁ, saṁ usa
+<lb n="1r4" break="no"/>ddha, pacǝḥ, AhaR̥p anunuta kaṁ babu-babu, pacǝḥ, Alumuḥ kaṁ Usāddha,</p>
+<p>vkasan maṅga, tka ri kliṁ, Iṅalap taṅ usaddha, denira Ino, Asiḥ sira, tan kina 
+<lb n="1r5" break="no"/>R̥pan· denira <choice><orig>parāmeśvari</orig><reg>parameśvarī</reg></choice>,</p>
+<p>lakuniṁ Usaddha, mantuk· mari jāva, tumutur sira hino, maliṣya juru kuruṁ, tka ri jāva, dumunuṁ riṁ malandaṁ, kavruhan de 
+<lb n="1r6" break="no"/>niṁ putrī yan· putra, vkasan hapaṅgiḥ muvaḥ,, Iti siḥhǝn·,, // <g type="symbol" subtype="cross-shape"/> //</p>
+<p>Iti pabañolan·, <choice><orig>parīsamapta</orig><reg>parisamāpta</reg></choice>, tǝlas sinurāt· ri saṁ hyaṁ batur pāja  <pb n="1v" break="no"/>
+<lb n="1v1" break="no"/>ran· riṁ vilatikta, denira mpu mahajāya, de <choice><orig>ś</orig><reg>s</reg></choice>aṅ aparab· sāri-sari, parintośakna hala bǝcikniṁ sastra, kuraṁ L̥viḥnya vargga paruṅgunya, sambaṁṅana 
+<lb n="1v2"/>Artha de <choice><orig>ś</orig><reg>s</reg></choice>aṅ amaca, dereṁ vanva ri cand<reg>r</reg>a, v<choice><orig>a</orig><reg>ā</reg></choice>ra, pahiṁ, kr̥ṣṇapakṣa, daśam<choice><orig>i</orig><reg>ī</reg></choice>, ka, <num value="4">4</num>, <abbr>raḥ</abbr> <num value="3">3</num>, <g type="symbol" subtype="cross-shape"/></p>
+         </div>
+         <div type="apparatus">
+                <listApp>
+                  <app loc="1r1">
+                      <lem source="bib:NBG">kadehan</lem>
+                      <rdg source="bib:Boechari1985-1986_01">khadehan</rdg>
+                      <note>This is one of the several instances where Boechari reads kh instead of k (see also tāhikaṅ 1v1, kadehan 1v1, etc).</note>
+                  </app>
+<!-- Is it possible to make the observation made in this note once and for all, thus making the economy of numerous entries in the apparatus? Maybe such a note is not the best place to do so. Is there a more appropriate place for general observations on the previous editions?-->
+                  <app loc="1r1">
+                      <lem>A<choice><orig>ñ</orig><reg>n</reg></choice>jalu<supplied reason="subaudible">k</supplied> kaṁ</lem>
+                      <rdg source="bib:NBG bib:Boechari1985-1986_01">Añjalukaṅ</rdg>
+                  </app>
+<app loc="1r1">
+                      <lem><choice><orig>tāhikaṅ</orig><reg>tāhīkaṅ</reg></choice></lem>
+                      <rdg source="bib:NBG">tāhikaṅ</rdg>
+                      <rdg source="bib:Boechari1985-1986_01">tāhikhaṅ</rdg>
+</app>
+<app loc="1r1">
+                      <lem source="bib:Boechari1985-1986_01">ahəmpan</lem>
+                      <rdg source="bib:NBG">ahəm yan</rdg>
+                  </app>
+<app loc="1r1">
+                      <lem source="bib:NBG">kadehan</lem>
+                      <rdg source="bib:Boechari1985-1986_01">khadehan</rdg>
+                  </app>
+<app loc="1r1">
+                      <lem source="bib:NBG">pācəḥ</lem>
+                      <rdg source="bib:Boechari1985-1986_01">pacəḥ</rdg>
+                  </app>
+<app loc="1r2">
+                      <lem source="bib:Boechari1985-1986_01">Ataḍaḥ</lem>
+                      <rdg source="bib:NBG">atadah</rdg>
+                  </app>
+<app loc="1r2">
+                      <lem source="bib:NBG">pācəḥ</lem>
+                      <rdg source="bib:Boechari1985-1986_01">pacəh</rdg>
+                  </app>
+<app loc="1r2">
+                      <lem>nūṣa <orig>śanda</orig></lem>
+                      <rdg source="bib:NBG">nuṣa ganda</rdg>
+                      <rdg source="bib:Boechari1985-1986_01">nuṣa sanda</rdg>
+</app>
+<app loc="1r2">
+                      <lem source="bib:NBG">saṁ</lem>
+                      <rdg source="bib:Boechari1985-1986_01">suṁ</rdg>
+                  </app>
+               </listApp>         
+         </div>
+         <div type="translation" xml:lang="eng" resp="part:masc">
+ 	<!--translation encoded as per EG §9.2 -->
+          <!--MS: add Bosch' translation as per EG 9.2. (other sections)-->
+	<p>.</p>
+         </div>
+         <div type="commentary">
+            <!--commentary encoded as per section §9.3 -->
+     <p/>
+         </div>
+        <div type="bibliography">
+	<!--bibliography encoded as per section §9.4 -->
+            <p>First edited by Hinloopen van Labberton.</p>
+</div>
+      </body>
+        <!--MS: Layar is used in the Indonesian mode in this inscription. Odd shape of the visarga
+            throughout this inscription, almost connected to the previous akṣara,--><!--MS: This
+            inscription does not seem to differentiate between long and short vowels, except in the case of śuklāpakṣā.-->
+        <!--MS: Reconsider all cases of anusvara in this inscription + Pamintihan -->
+  </text>
+</TEI>
