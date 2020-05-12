@@ -5,7 +5,7 @@
     <teiHeader xml:lang="eng">
         <fileDesc>
             <titleStmt>
-                <title>Pabañolan</title>
+                <title>The Farce (<foreign xml:lang="kaw-Latn">pabañolan</foreign>)</title>
                 <respStmt>
                     <resp>EpiDoc encoding</resp>
                     <resp>intellectual authorship of edition</resp>
@@ -58,18 +58,17 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc>
-          <change who="part:masc part:argr" when="2020-05-12" status="draft">revision of initial encoding</change>
-          <change who="part:masc" when="2020-05-11" status="draft">initial encoding of the inscription, div edition and apparatus</change>
+        	<change who="part:argr" when="2020-05-12" status="draft">added Dutch translation</change>
+        	<change who="part:masc part:argr" when="2020-05-12" status="draft">revision of initial encoding</change>
+          	<change who="part:masc" when="2020-05-11" status="draft">initial encoding of the inscription, div edition and apparatus</change>
         </revisionDesc>
     </teiHeader>
-    <text xml:space="preserve">&
+    <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="kaw-Latn">
 <p part="F">
     <pb n="1r" break="no"/>
-<lb n="1r1" break="no"/>han·, yan urisa, A<choice><orig>ñ</orig><reg>ṅ</reg></choice>jalu<supplied reason="subaudible">k</supplied><!-- Other encoding options would be (skipping the bit about ñ/ṅ):
-1. <choice><orig>Aṅjalu</orig><reg>Aṅjaluk</reg></choice> kaṁ
-2. Aṅjalu<choice><orig>kaṁ</orig><reg>k kaṁ</reg></choice>--> kaṁ <!--kh?-->kadehan·, tan vruḥ yan tāhĭkaṅ urisa, tan· vinehan·, vkasan ahǝmpan· jambe kaṁ kadehan·, pācǝḥ, dinulita<lb
+<lb n="1r1" break="no"/>han·, yan urisa, A<choice><orig>ñ</orig><reg>ṅ</reg></choice>jalu<choice><orig>kaṁ</orig><reg>k kaṁ</reg></choice> kaṁ <!--kh?-->kadehan·, tan vruḥ yan tāhĭkaṅ urisa, tan· vinehan·, vkasan ahǝmpan· jambe kaṁ kadehan·, pācǝḥ, dinulita<lb
 n="1r2" break="no"/>n·, Ataḍaḥ tāṅan·, pācǝḥ,</p><p>vkasan· keli mariṁ nūṣa <orig>śanda</orig>, kapaṅgiḥ rakryan· galuḥ, madan· liṣya babu-bābu, busihǝn· ṅaran saṁ putra, ṅaraniṁ
 <lb n="1r3"/>kadehan· savnaṁ,</p><p>kapaṅgiḥ ta saṁ vi<!--kh?-->ku, mvaṁ saṁ Usaddha, AhaR̥p muliha saṁ Usaddha, tan· vinehan deni saṁ viku<unclear>,</unclear> vkasan ahaR̥p maraha riṁ vāno kliṁ<unclear>,</unclear> saṁ Usa<lb
 n="1r4" break="no"/>ddha, pacǝḥ, AhaR̥p anunuta kaṁ babu-babu, pacǝḥ, Alumuḥ kaṁ Usāddha,</p><p>vkasan maṅga, tka ri kliṁ, Iṅalap taṅ usaddha, denira Ino, Asiḥ sira, tan kina <lb
@@ -135,8 +134,11 @@ n="1v1" break="no"/>ran· riṁ vilatikta, denira mpu mahajāya, de śaṅ apara
          </div>
          <div type="translation" xml:lang="eng" resp="part:masc">
  	<!--translation encoded as per EG §9.2 -->
-          <!--MS: add Bosch' translation as per EG 9.2. (other sections)-->
 	<p>.</p>
+         </div>
+	<div type="translation" xml:lang="ndl">
+	<head>Incomplete translation, probably by van Hinloopen Labberton, from <foreign>wekasan keli maring</foreign> onwards.<!--Abbreviations in the manuscript have been completed.--></head>
+	<p>Tenslotte <supplied reason="subaudible">is hij</supplied> medegesleurd tot aan het eiland Ganda, <supplied reason="subaudible">waar hij</supplied> rakryan Galuh ontmoette (die zich) begon als een <foreign>babu-babu</foreign> voor te doen. Busihǝn heete het jongetje; de naam van den <foreign>kadehan</foreign> was <gap reason="ellipsis"/><supplied reason="explanation">?</supplied> <foreign>saṅ</foreign> Viku en <foreign>saṅ</foreign> Usaddha. Usaddha wilde naar huis gaan, <supplied reason="explanation">doch</supplied> niet toegestaam door den Viku. Tenslotte wilde <supplied reason="explanation">hij</supplied> gaan naar het Kling-land. <foreign>pacǝh</foreign><supplied reason="explanation">?</supplied> <supplied reason="explanation">hij</supplied> wilde samen gaan met de <foreign>babu-babu </foreign><foreign>pacǝh</foreign><supplied reason="explanation">?</supplied> het was tegen Usaddha's zin. Tensotte wilde <supplied reason="explanation">hij toch en</supplied> is the Kling aangekomen. Usaddha werd door den Ino, die hem lief had, aangenomen, <supplied reason="explanation">doch</supplied> de komst van Usaddha was niet welkom voor de Parameśvari; <supplied reason="explanation">toen</supplied> ging <supplied reason="explanation">hij</supplied> naar Java terug. De Hino ging hem achterna, zich als een portier <supplied reason="explanation">? <foreign>juru kuruṅ</foreign></supplied> voordoende, en op Java aangekomen zijnde, namen <supplied reason="explanation">zij</supplied> hun intrek in Maladang.<note>Naam van een plaats vermeld in één van de oorkonden van Cohen Stuart.</note> Ontdekt foor een prinses dat hij <supplied reason="explanation">Usaddha</supplied> een prins was, is hij tenslotte weer getrouwd <supplied reason="explanation">?</supplied>. (voor <foreign>kapaṅgih</foreign>) Aldus <foreign>siḥhǝn</foreign>. Aldus id de Pabañolan <supplied reason="explanation">lachwekkende geschiedenis</supplied> voleindigd uitgeschreven in de <foreign>saṅ hyaṅ</foreign> Batur-school te Majapahit door den Mpu Mahajāya <supplied reason="explanation">samengesteld</supplied> door <foreign>saṅ aparab</foreign> <supplied reason="explanation">met name</supplied> sāri sari. Men vergeve de schone en de slechts <supplied reason="explanation">vormen</supplied> van de letters, gebreken en overtolligheden, <foreign>vargga</foreign>'s (?) en de maat (?) zij ingevuld door de lezers (daar ik) de canda's nog niet ken. enz.</p>
          </div>
          <div type="commentary">
             <!--commentary encoded as per section §9.3 -->
