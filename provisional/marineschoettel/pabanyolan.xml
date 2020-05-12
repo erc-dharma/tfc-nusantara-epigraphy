@@ -45,32 +45,31 @@
                     <msContents>
                         <!-- describe the intellectual content of an inscription -->
                         <summary>
-                            <p>This inscription seems to present the synopsis of a comedy (<foreign>pabañolan</foreign>), copied in Majapahit (<foreign>Vilatikta</foreign>) by a scribe called Sāri-sāri.</p></summary>
+                            <p>This inscription seems to present the synopsis of a comedy (<foreign>pabañolan</foreign>), copied in Majapahit (<foreign>Vilatikta</foreign>, i.e., <foreign>Vilvatikta</foreign>) by a scribe called Sāri-sāri.</p></summary>
                         <!-- offers the possibility to give a summary of the inscription's content -->
                     </msContents>
                     <physDesc>
                         <handDesc>
-                            <p><!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EG 11.2. --></p>
-                            <!-- If you need to identify individual hands (EG §7.5/) in addition to one or more paragraphs of general palaeographic description, wrap <summary> around the <p> or <p>s above, and, outside <summary>, create <handNote> elements for each hand as follows:
-						<summary><p><p/></summary>
-						<handNote xml:id="Pallava00001_hand1"></handNote>
-						<handNote xml:id="Pallava00001_hand2"></handNote>
-					 -->
+                            <p>Boechari makes a distinction between kh and k in his transliteration. The rubbings at our disposal do not all confirming the reality of this distinction with confidence. We tentatively read k throughout<!-- though marking all ambiguous cases with a comment in order for these cases to be checked directly from the plate or from photos -->.<!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EG 11.2. -->
+                            </p>
                         </handDesc>
                     </physDesc>
                 </msDesc>
             </sourceDesc>
         </fileDesc>
         <revisionDesc>
-<change who="part:masc" when="2020-05-11" status="draft">initial encoding of the inscription, div edition and apparatus</change>
+          <change who="part:masc part:argr" when="2020-05-12" status="draft">revision of initial encoding</change>
+          <change who="part:masc" when="2020-05-11" status="draft">initial encoding of the inscription, div edition and apparatus</change>
         </revisionDesc>
     </teiHeader>
-    <text xml:space="preserve">
+    <text xml:space="preserve">&
       <body>
          <div type="edition" xml:lang="kaw-Latn">
 <p part="F">
     <pb n="1r" break="no"/>
-<lb n="1r1" break="no"/>han·, yan urisa, A<choice><orig>ñ</orig><reg>n</reg></choice>jalu<supplied reason="subaudible">k</supplied> kaṁ kadehan·, tan vruḥ yan <choice><orig>tāhikaṅ</orig><reg>tāhīkaṅ</reg></choice> urisa, tan· vinehan·, vkasan ahǝmpan· jambe kaṁ kadehan·, pācǝḥ, dinulita
+<lb n="1r1" break="no"/>han·, yan urisa, A<choice><orig>ñ</orig><reg>ṅ</reg></choice>jalu<supplied reason="subaudible">k</supplied><!-- Other encoding options would be (skipping the bit about ñ/ṅ):
+1. <choice><orig>Aṅjalu</orig><reg>Aṅjaluk</reg></choice> kaṁ
+2. Aṅjalu<choice><orig>kaṁ</orig><reg>k kaṁ</reg></choice>--> kaṁ <!--kh?-->kadehan·, tan vruḥ yan tāhĭkaṅ urisa, tan· vinehan·, vkasan ahǝmpan· jambe kaṁ kadehan·, pācǝḥ, dinulita
 <lb n="1r2" break="no"/>n·, Ataḍaḥ tāṅan·, pācǝḥ,</p>
 <p>vkasan· keli mariṁ nūṣa <orig>śanda</orig>, kapaṅgiḥ rakryan· galuḥ, madan· liṣya babu-bābu, busihǝn· ṅaran saṁ putra, ṅaraniṁ
 <lb n="1r3"/>kadehan· savnaṁ,</p>
@@ -125,12 +124,13 @@
                       <lem>nūṣa <orig>śanda</orig></lem>
                       <rdg source="bib:NBG">nuṣa ganda</rdg>
                       <rdg source="bib:Boechari1985-1986_01">nuṣa sanda</rdg>
+                      <note>Emend <foreign>nūṣa sunda</foreign> (or perhaps <foreign>nūṣa banda</foreign>).</note>
 </app>
 <app loc="1r2">
                       <lem source="bib:NBG">saṁ</lem>
                       <rdg source="bib:Boechari1985-1986_01">suṁ</rdg>
                   </app>
-               </listApp>         
+               </listApp>
          </div>
          <div type="translation" xml:lang="eng" resp="part:masc">
  	<!--translation encoded as per EG §9.2 -->
@@ -143,7 +143,7 @@
          </div>
         <div type="bibliography">
 	<!--bibliography encoded as per section §9.4 -->
-            <p>First edited by Hinloopen van Labberton.</p>
+            <p>First edited by Hinloopen van Labberton. Re-edited here by Marine Schoettel &amp; Arlo Griffiths from photos of rubbings of the plate. Boechari's edition prequently reads kh for our k. We have not recorded these variants in our apparatus.</p>
 </div>
       </body>
         <!--MS: Layar is used in the Indonesian mode in this inscription. Odd shape of the visarga
