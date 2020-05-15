@@ -56,24 +56,24 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc>
-            <change who="part:argr" when="2020-03-27" status="draft">adding the handDesc template</change>
+            <change who="part:argr" when="2020-05-14" status="draft">revised adgu's encoding</change>
             <change who="part:axja" when="2020-03-27" status="draft">adding the handDesc template</change>
-            <change who="part:adgu" when="2020-02-28" status="draft">Revision first round</change>
-            <change who="part:adgu" when="2019-12" status="draft">Initial encoding of the edition</change>
-            <change who="part:axja" when="2020-01-09" status="draft">Update the template</change>
+            <change who="part:adgu" when="2020-02-28" status="draft">revision first round</change>
+            <change who="part:adgu" when="2019-12" status="draft">initial encoding of the edition</change>
         </revisionDesc>
     </teiHeader>
     <text xml:space="preserve">
         <body>
             <div type="edition" xml:lang="x-oldsun">
                 <p>
-                     <lb n="1"/> <g type="symbol" subtype="spider"/> n<unclear>i</unclear>han· tapak· va<lb
-                         n="2" break="no"/>lar nu syi muliA tapa</p> <p>I<lb
+                     <lb n="1"/><g type="symbol" subtype="spider"/> nihan· tapak· va<lb
+                         n="2" break="no"/>lar nu syi muliA tapa I<lb
                          n="3" break="no"/>ña paR̥bu raja vas·tu
-                     <lb n="4"/>maṅaḍəg· ḍi kuta kava<lb
+                     <lb n="4"/>ma<unclear reason="eccentric_ductus">ṅ</unclear>aḍəg· ḍi kuta kava<lb
                          n="5" break="no"/>li nu mahayu na kaḍatuAn·
-                     <lb n="6"/>suravisesa nu marigi <choice><orig>sa<lb n="7" break="no"/>kulili</orig><reg>sakuliliṁ</reg></choice> <!-- case: add nasal ṁ -->ḍayəḥ nu najur sakala
-                     <lb n="8"/>ḍesa</p> <p>Aya ma nu <choice><orig>paḍəri</orig><reg>panḍəri</reg></choice><!-- case: add nasal n --> pake na
+                     <lb n="6"/>sura visesa nu marigi sa<lb
+                     n="7" break="no"/>kuli<choice><orig>li</orig><reg>liṁ</reg></choice> ḍayəḥ nu najur sakala
+                     <lb n="8"/>ḍesa Aya ma nu pa<choice><orig>ḍ</orig><reg>nḍ</reg></choice>əri<!-- normalization to nḍ rather than ṇḍ or nd needs to be justified somewhere — ideally in our article; if so we can just refer to article in our XML edition and that will be enough--> pake na
                      <lb n="9"/>gave raḥhayu pakən· həbəl· ja<lb
                          n="10" break="no"/>ya ḍi na buAna
                 </p>
@@ -81,52 +81,52 @@
             </div>
             <div type="apparatus">
                 <listApp>
-                    <app loc="1-2">
+                    <app loc="1">
                         <lem source="TitiSurtiNastiti1996_01">tapak· va<lb n="2" break="no"/>lar</lem>
-                        <rdg source="Holle1867_01 Pleyte1911_03">tapa kavali</rdg> <!-- Arlo: How to cite one reading from more than one source? -->
+                        <rdg source="Holle1867_01 Pleyte1911_03">tapa kavali</rdg><!-- argr2adgu: add Noorduyn1976_01 -->
                     </app>
                     <app loc="2">
                         <lem source="Holle186701_01 Pleyte1911_03 Noorduyn1976_01">tapa</lem>
-                        <rdg source="TitiSurtiNastiti1996_01">tapa<supplied reason="lost">k</supplied></rdg>
+                        <rdg source="TitiSurtiNastiti1996_01">tapa<supplied reason="lost">k</supplied></rdg><!-- argr2adgu: check if Titi's brackets really mean "lost"; it rather seems she means "omitted" -->
                     </app>
-                    <app loc="2-3">
+                    <app loc="2">
                         <lem source="Noorduyn1976_01 TitiSurtiNastiti1996_01">I<lb n="3" break="no"/>ña</lem>
                         <rdg source="Holle1867_01 Pleyte1911_03">bhagya</rdg>
                     </app>
                     <app loc="4">
-                        <lem>maṅaḍəg</lem>
-                        <note>The shape of ṅa is not carefully engraved. Cf. the more careful execution of this sign in Kawali II, l. 2 <foreign>ṅə</foreign>.</note>
+                        <lem>ma<unclear reason="eccentric_ductus">ṅ</unclear>aḍəg·</lem>
+                        <note>The shape of <foreign>ṅa</foreign> is unusual. Cf. the more careful execution of this <foreign>aksara</foreign> in <ref target="Kawali_2.xml">Kawali II</ref>, line 2 <foreign>ṅə</foreign>.</note>
                     </app>
-                    <app loc="6-7">
-                        <lem source="Holle1867_01 Noorduyn1976_01"><choice><orig>sa<lb n="7" break="no"/>kulili</orig><reg>sakuliliṁ</reg></choice></lem>
+                    <app loc="6">
+                        <lem source="Holle1867_01 Noorduyn1976_01">sa<lb n="7" break="no"/>kuli<choice><orig>li</orig><reg>liṁ</reg></choice></lem>
                         <rdg source="Pleyte1911_03 TitiSurtiNastiti1996_01">sakuliliṁ</rdg>
+                        <note>Since no <foreign>ṁ</foreign> is ever clearly written in this inscription, we consider it unlikely that one was engraved here.</note>
                     </app>
                 </listApp>
             </div>
 
             <div type="translation" xml:lang="eng">
-                <p>These are the footprints <supplied reason="explanation">tapak walar</supplied> of the one of praiseworthy asceticism. He, his majesty king Wastu, ruling in the city Kawali, is the one who beautifies the palace Surawisesa, who digs a moat around the city, who plants <supplied reason="explanation">crops</supplied> in all villages. If there is one in the future, he must do good works, so that success in the world be long-lasting.</p>
+                <p>These are the footprints <supplied reason="explanation"><foreign>tapak valar</foreign></supplied> of the one of praiseworthy asceticism. He, his majesty king Wastu, ruling in the fortress Kawali, is the one who beautifies the palace Sura Wisesa; who digs a moat around the city; who bring all regions under cultivation. If there is a later <supplied reason="explanation">king</supplied>, he must do good works, so that success in the world be long-lasting.</p>
             </div>
 
-            <div type="translation" xml:lang="id" source="TitiSurtiNastiti1996_01">
+            <div type="translation" xml:lang="ind" source="TitiSurtiNastiti1996_01">
                 <p>Inilah tanda bekas beliau yang mulia Prabu Raja Wastu <supplied reason="subaudible">yang</supplied> berkuasa di kota Kawali yang memperindah keraton Surawisesa yang membuat parit <supplied reason="subaudible">di</supplied> sekeliling ibukota yang memakmurkan seluruh desa.</p>
                 <p>Semoga ada penerus raja yang melaksanakan berbuat kebajikan agar lama jaya di dunia.</p>
                 </div>
 
             <div type="commentary">
-            <!--commentary encoded as per section §9.3 -->
+              <!-- <p>tapak valar: cantik jelita type compound.</p>
+            commentary encoded as per section §9.3 -->
          </div>
-        <div type="bibliography">
-
-<p>The inscription was initially read by Friederich (<bibl rend="omitname"><ptr target="bib:Friederich1855_01"/><citedRange>149–182</citedRange></bibl>), then by Holle (<bibl rend="omitname"><ptr target="bib:Holle1867_01"/><citedRange>464-470</citedRange></bibl>, Pleyte (<bibl rend="omitname"><ptr target="bib:Pleyte1911_03"/><citedRange>167-169</citedRange></bibl>. Noorduyn (<bibl rend="omitname"><ptr target="bib:Noorduyn1976_01"/></bibl>) made a significant contribution of readings through his report, but it is unfortunately not widely published. A close study was undertaken by Titi Surti Nastiti (<bibl rend="omitname"><ptr target="bib:TitiSurtiNastiti1996_01"/><citedRange>1-13</citedRange></bibl>) who furnish an Indonesian translation. Re-edited here by Aditia Gunawan &amp; Arlo Griffiths from our photos collection. In our apparatus, variant readings are cited from Holle, Pleyte, Noorduyn and Titi Surti Nastiti's editions.</p>
-
-           <listBibl type="secondary">
+        <div type="bibliography"><!-- argr2adgu: please re-read EG 9.4. The rules concerning primary bibliography have been changed a bit a few months ago. Now we also need a <listBibl type="primary">, repeating the same entries as those given in the epigraphic lemma. See the example given in EG. I have revised our epigraphic lemma a bit. Please make the necessary changes also to the files for the other Sundanese inscriptions. -->
+<p>The inscription was initially read by Friederich (<bibl rend="omitname"><ptr target="bib:Friederich1855_01"/><citedRange>149-182</citedRange></bibl>), then by Holle (<bibl rend="omitname"><ptr target="bib:Holle1867_01"/><citedRange>464-470</citedRange></bibl>, Pleyte (<bibl rend="omitname"><ptr target="bib:Pleyte1911_03"/><citedRange>167-169</citedRange></bibl>, Noorduyn (<bibl rend="omitname"><ptr target="bib:Noorduyn1976_01"/></bibl>) and most recently by Titi Surti Nastiti (<bibl rend="omitname"><ptr target="bib:TitiSurtiNastiti1996_01"/><citedRange>1-13</citedRange></bibl>). Noorduyn's report made a significant contribution with critical new readings, but it is unfortunately not widely available. Titi Surti Nastiti's study includes an Indonesian translation. The text is re-edited and translated into English here by Aditia Gunawan &amp; Arlo Griffiths from various photos. In our apparatus, variant readings are cited from Holle, Pleyte, Noorduyn and Titi Surti Nastiti's editions.</p>
+           <listBibl type="secondary"><!-- argr2adgu: the sec. bibl. entries should be listed in chronological order -->
             <bibl><ptr target="bib:Casparis1975_01"/><citedRange>54-56</citedRange></bibl>
             <bibl><ptr target="bib:NBG"/><date>1864</date><citedRange unit="volume">2</citedRange><citedRange unit="page">186, 255</citedRange></bibl>
             <bibl><ptr target="bib:NBG"/><date>1866</date><citedRange unit="volume">4</citedRange><citedRange unit="page">118</citedRange></bibl>
             <bibl><ptr target="bib:Pleyte1913_01"/><citedRange>295</citedRange></bibl>
             <bibl><ptr target="bib:Raffles1817_01"/><citedRange>58</citedRange></bibl>
-            <bibl><ptr target="bib:ROD"/><date>1915</date><citedRange unit="page">95-96</citedRange><citedRange unit="item">no.291</citedRange></bibl>
+            <bibl><ptr target="bib:ROD"/><date>1915</date><citedRange unit="page">95-96</citedRange><citedRange unit="item">no.291<!-- argr2adgu: if you use @unit="item", then don't use "no." --></citedRange></bibl>
            </listBibl>
         </div>
         </body>
