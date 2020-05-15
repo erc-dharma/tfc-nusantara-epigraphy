@@ -62,6 +62,7 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc>
+            <change who="part:masc" when="2020-05-15" status="draft">adding translation nl</change>
             <change who="part:masc" when="2020-03-27" status="draft">adapting line numbering system and app loc references to new EG recommandations</change>
             <change who="part:axja" when="2020-03-27" status="draft">adding the handDesc template</change>
             <change who="part:masc" when="2020-02-04" status="draft">further corrections made during encoding session</change>
@@ -79,7 +80,8 @@
   <fw n="1v" rend="tb-rotated" place="left"><num value="1">1</num></fw>
 <lb n="1v1"/>// śvasti sakavarsatita // I śaka // <num value="1338">133<unclear>8</unclear></num> //
 <!--check in epigraphic table--></p>
-<p><lb n="1v2"/>sama<unclear>ṁ</unclear>kana divasani L̥bu talampakanira ri talo<lb n="1v3" break="no"/>nan·, hanimbal· varukira baṭara ri paguhan·, sa<unclear>ṁ</unclear> li<pb n="2r" break="no"/><lb n="2r1" break="no"/>na ri<unclear>ṁ</unclear> pramalaya, ka<unclear>taṁ</unclear>gapan· denira saṅ aṅu<lb n="2r2" break="no"/>cap· gave riṁ gəḍoṁ didiva <!-- Or follow Bosch' diṁdiva?-->, sira patiḥ səmut·, sira
+<p><lb n="1v2"/>sama<unclear>ṁ</unclear>kana divasani L̥bu talampakanira ri talo<lb n="1v3" break="no"/>nan·, hanimbal· varukira baṭara ri paguhan·, sa<unclear>ṁ</unclear> li<pb n="2r" break="no"/><lb n="2r1" break="no"/>na ri<unclear>ṁ</unclear> pramalaya,</p>
+<p>ka<unclear>taṁ</unclear>gapan· denira saṅ aṅu<lb n="2r2" break="no"/>cap· gave riṁ gəḍoṁ di̇̇<unclear>ṁ</unclear>diva <!-- Or follow Bosch' diṁdi(ṅ)va?-->, sira patiḥ səmut·, sira
  <lb n="2r3"/>saṅ arya pagəḥ, sira saṅ arya guna, sira patiḥ riṁ pagu<pb n="2v" break="no"/><fw n="2v" rend="tb-rotated" place="left"><num value="2">2</num></fw><lb n="2v1" break="no"/>han·, sira patiḥ səR̥g·, sira patiḥ tem·beṁ,</p>
 <p>
     <lb n="2v2"/>saṅ anaṁgapi pisis·, guṅ i pisis· //
@@ -99,43 +101,43 @@
                       <lem><num value="1338">133<unclear>8</unclear></num></lem>
                       <rdg source="bib:Bosch1924_01">1388</rdg>
                       <note>The reading of the date as 1338 given in <ptr target="bib:TBG"/> indicates that the
-                          reading found in <ptr target="bib:Damais1955_01"/> was in all probability a printing mistake.</note>
+                          reading found in <ptr target="bib:Bosch1924_01"/> and <ptr target="bib:Damais1955_01"/> was in all probability a printing mistake.</note>
                   </app>
                   <app loc="2r3">
                       <lem>riṁ</lem>
-                      <rdg source="bib:Boechari1985-1986_01">ri</rdg>
+                      <rdg source="bib:Boechari1985-1986_01 bib:Bosch1924_01">ri</rdg>
                       </app>
                     <app loc="2r2">
-                        <lem>didiva</lem>
+                        <lem source="bib:Boechari1985-1986_01">di̇̇<unclear>ṁ</unclear>diva</lem>
                         <rdg source="bib:Bosch1924_01">di̇̇ṁdi<unclear>ṁ</unclear>va</rdg>
                     </app>
                     <app loc="2v1">
                         <lem>səR̥g</lem>
-                        <rdg source="bib:Bosch1924_01">siR̥g</rdg>
+                        <rdg source="bib:Bosch1924_01 bib:Boechari1985-1986_01">siR̥g</rdg>
                     </app>
                     <app loc="3v1"><!-- Arlo: I think gthis whole app entry can be removed -->
                       <lem>tr<subst><del>i</del><add>a</add></subst>ayodasi</lem>
                       <rdg source="bib:Boechari1985-1986_01">trayodasi</rdg>
                       </app>
                    <app loc="3r3">
-                     <lem source="Damais">sa<supplied reason="omitted">ṁ</supplied></lem><!--Or
+                     <lem source="bib:Damais1955_01">sa<supplied reason="omitted">ṁ</supplied></lem><!--Or
                          encode as normalisation?-->
-                     <rdg source="bib:Boechari1985-1986_01">sa</rdg>
+                     <rdg source="bib:Bosch1924_01 bib:Boechari1985-1986_01">sa</rdg>
                   </app>
                </listApp>         
          </div>
+        <div type="translation" xml:lang="ndl">
+<p>Heil! çaka-jaren verloopen, in het çaka jaar 1338. Aldus is het tijdstrip, dat Zijne Hoogheid van Talonan in ontvangst nam de storting (?) ten behoeve van den bhaṭāra van Paguhan, die overleden is te Pramalaya, ontvangen door de (ambtenaren) angucap gawe in het huis Dinggi(ng)wa, de patih Sĕmut, de ārya Pagĕh, de ārya Guna, de patih van Paguhan, de patih Sirĕg, de patih Tembeng, (zijn zij) die het geld ontvingen; de hoeveelheid van het geld is 200.000, twee honderd duizend, twee honderd duizend totaal; (op) Kaliwon, den 13den van de lichte maandhelft, in de maand Asuji. Zich noemende Sakawasa.</p>
+        </div>
          <div type="translation" xml:lang="eng" resp="part:masc">
  	<!--translation encoded as per EG §9.2 -->
           <!--MS: add Bosch' translation as per EG 9.2. (other sections)-->
 	<p>Hail! In the elapsed Śaka year 1338, such was the time that His Majesty of Talonan took over in
 	    turn (hanimbal) the piece of land (varukira) of the Lord at Paguhan, he who was released in the
-	    highest abode (saṅ lina riṁ pramalaya). [It] was received (kataṅgap) by the One whose task is
-	    to Speak (de nira saṅ aṅucap gave) at the (stone) building Didiwa, by the patiḥ səmut (litt.
-	    master Ant), by the arya pagəḥ (the Venerable Pagəh), by the arya Guna (the Venerable Guna), by
-	    the patiḥ at Paguhan (by the master at Paguhan), by the patiḥ Sərəg, by the patiḥ at Tembeṁ,
-	    those are the people who received money. The amount of money [is]: 200.000, two hundred
+	    Highest Abode (or at Paramālaya). [It, i.e. the message] was received (kataṅgap) by "those who discuss the works"(denira saṅ aṅucap gave) at the (stone) building Didiwa. The patiḥ Səmut, the arya pagəḥ (the Venerable Pagəh), the arya Guna (the Venerable Guna), the patiḥ at Paguhan (by the master at Paguhan), the patiḥ Sərəg, the patiḥ at Tembeṁ,
+	    [those are] the people who received money. The amount of money: 200.000, two hundred
 	    thousand, two hundred thousand in total (gənəp), on Kliwon (kaliwon), the thirteenth [day] of
-	    the waxing fortnight, the month of Asuji, signed by (litt. “bearing the name”) Sakawasa.</p>
+	    the waxing fortnight, the month of Asuji, signed by (litt. “bearing the name”) saṅ Kawasa.</p>
          </div>
          <div type="commentary">
             <!--commentary encoded as per section §9.3 -->
@@ -143,7 +145,7 @@
          </div>
         <div type="bibliography">
 	<!--bibliography encoded as per section §9.4 -->
-            <p>First edited by F.D.K. Bosch (<bibl rend="omitname"><ptr target="Bosch1924_01"/><citedRange unit="page">104-105</citedRange></bibl>); dating
+            <p>First edited by F.D.K. Bosch (<bibl rend="omitname"><ptr target="bib:Bosch1924_01"/><citedRange unit="page">104-105</citedRange></bibl>); dating
                 formula re-edited by Damais (<bibl rend="omitname"><ptr target="bib:Damais1955_01"/><citedRange unit="page">110-111</citedRange><citedRange unit="item">A.205</citedRange></bibl>); edited again by Boechari
                 (<bibl rend="omitname"><ptr target="bib:Boechari1985-1986_01"/><citedRange unit="page">119</citedRange><citedRange unit="item">E.60</citedRange></bibl>);
                 re-edited here by Marine Schoettel and Arlo Griffiths from photographs by Georges
