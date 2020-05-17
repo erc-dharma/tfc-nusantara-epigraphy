@@ -82,12 +82,12 @@
             <div type="apparatus">
                 <listApp>
                     <app loc="1">
-                        <lem source="TitiSurtiNastiti1996_01">tapak· va<lb n="2" break="no"/>lar</lem>
-                        <rdg source="Holle1867_01 Pleyte1911_03">tapa kavali</rdg><!-- argr2adgu: add Noorduyn1976_01 -->
+                        <lem source="Noorduyn1976_01 TitiSurtiNastiti1996_01">tapak· va<lb n="2" break="no"/>lar</lem>
+                        <rdg source="Holle1867_01 Pleyte1911_03">tapa kavali</rdg>
                     </app>
                     <app loc="2">
                         <lem source="Holle186701_01 Pleyte1911_03 Noorduyn1976_01">tapa</lem>
-                        <rdg source="TitiSurtiNastiti1996_01">tapa<supplied reason="lost">k</supplied></rdg><!-- argr2adgu: check if Titi's brackets really mean "lost"; it rather seems she means "omitted" -->
+                        <rdg source="TitiSurtiNastiti1996_01">tapa<supplied reason="omitted">k</supplied></rdg>
                     </app>
                     <app loc="2">
                         <lem source="Noorduyn1976_01 TitiSurtiNastiti1996_01">I<lb n="3" break="no"/>ña</lem>
@@ -110,7 +110,7 @@
             </div>
 
             <div type="translation" xml:lang="ind" source="TitiSurtiNastiti1996_01">
-                <p>Inilah tanda bekas beliau yang mulia Prabu Raja Wastu <supplied reason="subaudible">yang</supplied> berkuasa di kota Kawali yang memperindah keraton Surawisesa yang membuat parit <supplied reason="subaudible">di</supplied> sekeliling ibukota yang memakmurkan seluruh desa.</p>
+                <p>Inilah tanda bekas beliau yang mulia Prabu Raja Wastu <supplied reason="subaudible">yang</supplied> berkuasa di kota Kawali yang memperindah keraton Surawisesa yang membuat parit <supplied reason="subaudible">di</supplied> sekeliling ibukota, yang memakmurkan seluruh desa.</p>
                 <p>Semoga ada penerus raja yang melaksanakan berbuat kebajikan agar lama jaya di dunia.</p>
                 </div>
 
@@ -118,15 +118,36 @@
               <!-- <p>tapak valar: cantik jelita type compound.</p>
             commentary encoded as per section §9.3 -->
          </div>
-        <div type="bibliography"><!-- argr2adgu: please re-read EG 9.4. The rules concerning primary bibliography have been changed a bit a few months ago. Now we also need a <listBibl type="primary">, repeating the same entries as those given in the epigraphic lemma. See the example given in EG. I have revised our epigraphic lemma a bit. Please make the necessary changes also to the files for the other Sundanese inscriptions. -->
+        <div type="bibliography">
 <p>The inscription was initially read by Friederich (<bibl rend="omitname"><ptr target="bib:Friederich1855_01"/><citedRange>149-182</citedRange></bibl>), then by Holle (<bibl rend="omitname"><ptr target="bib:Holle1867_01"/><citedRange>464-470</citedRange></bibl>, Pleyte (<bibl rend="omitname"><ptr target="bib:Pleyte1911_03"/><citedRange>167-169</citedRange></bibl>, Noorduyn (<bibl rend="omitname"><ptr target="bib:Noorduyn1976_01"/></bibl>) and most recently by Titi Surti Nastiti (<bibl rend="omitname"><ptr target="bib:TitiSurtiNastiti1996_01"/><citedRange>1-13</citedRange></bibl>). Noorduyn's report made a significant contribution with critical new readings, but it is unfortunately not widely available. Titi Surti Nastiti's study includes an Indonesian translation. The text is re-edited and translated into English here by Aditia Gunawan &amp; Arlo Griffiths from various photos. In our apparatus, variant readings are cited from Holle, Pleyte, Noorduyn and Titi Surti Nastiti's editions.</p>
-           <listBibl type="secondary"><!-- argr2adgu: the sec. bibl. entries should be listed in chronological order -->
-            <bibl><ptr target="bib:Casparis1975_01"/><citedRange>54-56</citedRange></bibl>
+            
+            <listBibl type="primary">
+                <bibl>
+                    <ptr target="bib:Friederich1855_01"/><citedRange>149-182</citedRange>
+                </bibl>
+                <bibl>
+                    <ptr target="bib:Holle1867_01"/><citedRange>464-470</citedRange>
+                </bibl>
+                <bibl>
+                    <ptr target="bib:Pleyte1911_03"/><citedRange>167-169</citedRange>
+                </bibl>
+                <bibl>
+                    <ptr target="bib:Noorduyn1976_01"/>
+                </bibl>
+                <bibl>
+                    <ptr target="bib:TitiSurtiNastiti1996_01"/><citedRange>1-13</citedRange>
+                </bibl>
+            </listBibl>
+            
+           <listBibl type="secondary">
+            <bibl><ptr target="bib:Raffles1817_01"/><citedRange>58</citedRange></bibl>
             <bibl><ptr target="bib:NBG"/><date>1864</date><citedRange unit="volume">2</citedRange><citedRange unit="page">186, 255</citedRange></bibl>
             <bibl><ptr target="bib:NBG"/><date>1866</date><citedRange unit="volume">4</citedRange><citedRange unit="page">118</citedRange></bibl>
-            <bibl><ptr target="bib:Pleyte1913_01"/><citedRange>295</citedRange></bibl>
-            <bibl><ptr target="bib:Raffles1817_01"/><citedRange>58</citedRange></bibl>
-            <bibl><ptr target="bib:ROD"/><date>1915</date><citedRange unit="page">95-96</citedRange><citedRange unit="item">no.291<!-- argr2adgu: if you use @unit="item", then don't use "no." --></citedRange></bibl>
+             <bibl><ptr target="bib:Pleyte1913_01"/><citedRange>295</citedRange></bibl>
+             <bibl><ptr target="bib:ROD"/><date>1915</date><citedRange unit="page">95-96</citedRange><citedRange unit="item">291</citedRange></bibl>
+            <bibl><ptr target="bib:Casparis1975_01"/><citedRange>54-56</citedRange></bibl>
+            
+            
            </listBibl>
         </div>
         </body>

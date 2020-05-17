@@ -25,7 +25,7 @@
                 <availability>
                     <licence target="https://creativecommons.org/licenses/by/4.0/">
                         <p>This work is licenced under the Creative Commons Attribution 4.0 Unported Licence. To view a copy of the licence, visit https://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.</p>
-                        <p>Copyright (c) 2019-2025 by Aditia Gunawan.</p><!-- Replace year and name, use format "Forename1 Surname1 & Forename2 Surname2" or "Forename1 Surname1, Forename2 Surname2 & Forename3 Surname3"  if necessary — the copyright is that of the encoder(s) -->
+                        <p>Copyright (c) 2019-2025 by Aditia Gunawan &amp; Arlo Griffiths.</p><!-- Replace year and name, use format "Forename1 Surname1 & Forename2 Surname2" or "Forename1 Surname1, Forename2 Surname2 & Forename3 Surname3"  if necessary — the copyright is that of the encoder(s) -->
                     </licence>
                 </availability>
                 <date from="2019" to="2025">2019-2025</date>
@@ -53,7 +53,8 @@
                 
             </sourceDesc>
         </fileDesc>
-        <revisionDesc><change who="part:axja" when="2020-03-27" status="draft">adding the handDesc template</change>
+        <revisionDesc><change who="part:adgu" when="2020-05-16" status="draft">revision second round</change>
+            <change who="part:axja" when="2020-03-27" status="draft">adding the handDesc template</change>
             <change who="part:axja" when="2020-01-09" status="draft">Update the template</change><!-- add a <change> for each change to the file, the first change should replace this one and record your creation of a file using this template. -->
         </revisionDesc>
     </teiHeader>  
@@ -63,19 +64,19 @@
                 <l>
                     <lb n="1"/>hayuA ḍiponaḥp<unclear>o</unclear><add place="below">naḥ</add>
                     <lb n="2"/>hayuA ḍicavuḥcavu<unclear>ḥ</unclear>
-                    <lb n="3"/>IA nekeṙ Iña Ageṙ
-                    <lb n="4"/>Iña nicak· Iña R̥pag·
+                    <lb n="3"/>IA neker Iña Ager
+                    <lb n="4"/>Iña ni<choice><orig>c</orig><reg>ñc</reg></choice>ak· Iña R̥<choice><orig>p</orig><reg>mp</reg></choice>ag·
                 </l>
               
             </div>
             <div type="apparatus">
                 <listApp>
                     <app loc="3">
-                        <lem>IA</lem>
-                        <note>This has been read <foreign>Ini</foreign> by some previous scholars. <foreign>IA</foreign> is presumbaly an equivalent of <foreign>ya</foreign> in Kebantenan.</note>
+                        <lem source="Noorduyn1976_01 HasanDjafar1991_01 TitiSurtiNastiti1996_01">IA</lem>
+                        <note><foreign>IA</foreign> is presumbaly an equivalent of <foreign>ya</foreign> in Kebantenan.</note>
                     </app>
                     <app>
-                        <lem>Ageṙ</lem>
+                        <lem>Ager</lem>
                         <note>Some previous scholars have read <foreign>Aṁgeṙ</foreign>, but we see no trace of an <foreign>anusvāra</foreign>/<foreign>cecak</foreign>.</note>
                     </app>
                     <app loc="3">
@@ -88,9 +89,15 @@
                     </app>
                 </listApp>
             </div>        
-           <div type="translation" xml:lang="eng">
- 	<!--translation encoded as per EG §9.2 -->
-         </div>
+            <div type="translation" xml:lang="eng" source="Noorduyn1988_01">
+                <l>
+                    <lb n="1"/>It should no be defied
+                    <lb n="2"/>it should be treated wantonly
+                    <lb n="3"/>anyone striking it will fall prone
+                    <lb n="4"/>anyone kicking it will fall to the ground
+                </l>
+            </div>
+            
             <div type="commentary">
                 <p>Lateral faces (1 = top, 2 = right, 3 = bottom, 4 = left). First read by Pleyte (1911: 196). Our text follows that of Noorduyn (1988: 309–310), which we have confirmed by consulting our own photographs. Noorduyn has observed that this text is in verse form.</p>
             </div>
