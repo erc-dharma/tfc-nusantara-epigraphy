@@ -73,7 +73,7 @@
 <p part="F">
     <pb n="1r" break="no"/>
 <lb n="1r1" break="no"/>han·, yan urisa, A<choice><orig>ñ</orig><reg>ṅ</reg></choice>jalu<choice><orig>kaṁ</orig><reg>k kaṁ</reg></choice> <!--kh?-->kadehan·, tan vruḥ yan tāhĭkaṅ urisa, tan· vinehan·, vkasan ahǝmpan· jambe kaṁ kadehan·, <stage rend="italic">pācǝḥ</stage>stage>, dinulita<lb
-n="1r2" break="no"/>n·, Ataḍaḥ tāṅan·, <stage rend="italic">pācǝḥ</stage>,</p></div>
+n="1r2" break="no"/>n·,<app><note>Lime is one of the ingredients of a betel quid. See also OJED s.v. <foreign>apuh</foreign>, <foreign>apu</foreign>, kidung Vargasari 3.7b.</note></app> Ataḍaḥ tāṅan·, <stage rend="italic">pācǝḥ</stage>,</p></div>
 <div type="textpart" n="2"><p>vkasan· keli mariṁ nūṣa <orig>śanda</orig>, kapaṅgiḥ rakryan· galuḥ, madan· liṣya babu-bābu, busihǝn· ṅaran saṁ putra, ṅaraniṁ
 <lb n="1r3"/>kadehan· savnaṁ,</p></div><div type="textpart" n="3"><p>kapaṅgiḥ ta saṁ vi<!--kh?-->ku, mvaṁ saṁ Usaddha, AhaR̥p muliha saṁ Usaddha, tan· vinehan deni saṁ viku<unclear>,</unclear> vkasan ahaR̥p maraha riṁ vāno kliṁ<unclear>,</unclear> saṁ Usa<lb
 n="1r4" break="no"/>ddha, <stage rend="italic">pacǝḥ</stage>, AhaR̥p anunuta kaṁ babu-babu, <stage rend="italic">pacǝḥ</stage>, Alumuḥ kaṁ Usāddha,</p></div><div type="textpart" n="4"><p>vkasan maṅga, tka ri kliṁ, Iṅalap taṅ usaddha, denira Ino, Asiḥ sira, tan kina <lb
@@ -142,8 +142,8 @@ n="1v1" break="no"/>ran· riṁ vilatikta, denira mpu mahajāya, de śaṅ apara
 	<p>.</p>
          </div>
 <div type="translation" xml:lang="eng">
-<head>Translation by Marine Schoettel and Arlo Griffiths.<!--Abbreviations in the manuscript have been completed.--></head>
-<p><gap reason="ellipsis"/> if it is an <foreign>urisa</foreign>. The <foreign>kadehan</foreign> begs (<supplied reason="explanation">asks for the betel quid</supplied>), ignoring that the <foreign>urisa</foreign>, <supplied reason="explanation">i.e. the quid</supplied>, is <supplied reason="explanation">actually</supplied> shit. It is not given <supplied reason="subaudible">to him</supplied>. Then the <foreign>kadehan</foreign> cuts the areca nut. – laughter – Lime is prepared (dinulitan). His hands are ready to receive <supplied reason="subaudible">it</supplied>. – laughter.</p>
+<head>Translation by Marine Schoettel and Arlo Griffiths.</head>
+<p><gap reason="ellipsis"/> if it is an <foreign>urisa</foreign>. The <foreign>kadehan</foreign> begs <supplied reason="explanation">asks for the betel quid</supplied>, ignoring that the <foreign>urisa</foreign>, <supplied reason="explanation">i.e. the quid</supplied>, is <supplied reason="explanation">actually</supplied> shit. It is not given <supplied reason="subaudible">to him</supplied>. Then the <foreign>kadehan</foreign> cuts the areca nut. – laughter – Lime is prepared (dinulitan). His hands are ready to receive <supplied reason="subaudible">it</supplied>. – laughter.</p>
 <p>Then, he is carried along to the land of Sunda (<foreign>Śanda</foreign>). They happen to be met by the <foreign>rakryan</foreign> of <foreign>Galuh</foreign>. They make ready to disguise themselves as older women (<foreign>babu-babus</foreign>). Busihən is the name of the young prince. The name of the <foreign>kadehan</foreign> is Savənaṅ.</p>
 <p>They meet a hermit and Usadha (<supplied reason="explanation">a <foreign>putrī</foreign></supplied>). Usadha wants to go home. She is not allowed <supplied reason="explanation">to do so</supplied> by the hermit. Then Usadha wants to go to Kəliṅ – laughter –, the <foreign>babu-babus</foreign> want to accompany her – laughter. Usadha is reluctant.</p>
 </div>
@@ -171,9 +171,5 @@ enz.</p>
             <p>First edited by Hinloopen van Labberton. Re-edited here by Marine Schoettel &amp; Arlo Griffiths from photos of rubbings of the plate. Boechari's edition prequently reads kh for our k. We have not recorded these variants in our apparatus.</p>
 </div>
       </body>
-        <!--MS: Layar is used in the Indonesian mode in this inscription. Odd shape of the visarga
-            throughout this inscription, almost connected to the previous akṣara,--><!--MS: This
-            inscription does not seem to differentiate between long and short vowels, except in the case of śuklāpakṣā.-->
-        <!--MS: Reconsider all cases of anusvara in this inscription + Pamintihan -->
   </text>
 </TEI>
