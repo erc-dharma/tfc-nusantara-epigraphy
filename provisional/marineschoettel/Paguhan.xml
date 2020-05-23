@@ -79,7 +79,7 @@
 <p>
  <lb n="1v1"/>// śvasti sakavarsatita // I śaka // <num value="1338">133<unclear>8</unclear></num> //<!--check in epigraphic table--><!-- argr2masc: what is meant here? perhaps Damais's "Tableau comparatif des chiffres indonésiens"? masc2argr: Yes, I have checked there and seen nothing quite like the units digits here. But I tend to trust/like the reading 8, as this digit does as a rule have a symmetrical shape with two vertical branches. Should I make a note in the handDesc about this unrecorded shape of digit 8?--></p>
 <p><lb
-n="1v2"/>sama<unclear>ṁ</unclear>kana divasani L̥bu<!-- argr2masc: shall we edit L̥bu-talampakanira? I see that Poerbatjkaraka in his Calon Arang edition tends to do so. masc2argr: I would do it, as this is some kind of Old Javanese compound (if that was indeed Poerbatjkaraka's rationale?). But would it not bring some confusion to treat the OJ in more or less the same way we split up Sanskrit compounds?--> talampakanira ri talo<lb
+n="1v2"/>sama<unclear>ṁ</unclear>kana divasani L̥bu<!-- argr2masc: shall we edit L̥bu-talampakanira? I see that Poerbatjkaraka in his Calon Arang edition tends to do so. masc2argr: We could do it, as this is some kind of Old Javanese compound, in particular one that translates images themselves found in Skt compounds (if that was Poerbatjkaraka's rationale?). But would it not bring some confusion to treat the OJ in more or less the same way we split up Sanskrit compounds?--> talampakanira ri talo<lb
 n="1v3" break="no"/>nan·, hanimbal· varukira baṭara ri paguhan·, sa<unclear>ṁ</unclear> li<pb n="2r" break="no"/><lb
 n="2r1" break="no"/>na ri<unclear>ṁ</unclear> pramalaya,</p>
 <p>ka<unclear>taṁ</unclear>gapan· denira saṅ aṅu<lb
@@ -105,7 +105,11 @@ n="3r2" break="no"/>-pakṣā, riṅ asuji, maṣa // haparab·
                       <lem><num value="1338">133<unclear>8</unclear></num></lem>
                       <rdg source="bib:Bosch1924_01">1388</rdg>
                       <note>The correct reading of the date as 1338 given in <ptr target="bib:TBG"/> indicates that the
-                          reading found in <ptr target="bib:Bosch1924_01"/> and attributed to Bosch in <bibl><ptr target="bib:Damais1952_01"/><citedRange>78-79</citedRange><citedRange unit="item">A.205</citedRange></bibl><!-- argr2masc: but Damais actually reads 1338... So please modify this note. masc2argr: I have modified it - but I'm not removing the comment yet if you want to check the revision.--> was in all probability a printing mistake.</note>
+                          reading found in <ptr target="bib:Bosch1924_01"/>, also attributed to Bosch in <bibl><ptr target="bib:Damais1952_01"/><citedRange>78-79</citedRange><citedRange unit="item">A.205</citedRange></bibl>,<!-- argr2masc: but Damais actually reads 1338... So please modify this note. masc2argr: I have modified it - but I'm not removing the comment yet if you want to check the revision.--> was in all probability a printing mistake.</note>
+                  </app>
+                  <app loc="1v1">
+                    <lem>L̥bu talampaka-</lem>
+                    <note>This title is used in works in Middle Javanese such as Calon Arang (paragraph 147).</note>
                   </app>
                   <app loc="2r3">
                       <lem>riṁ</lem>
@@ -139,7 +143,7 @@ n="3r2" break="no"/>-pakṣā, riṅ asuji, maṣa // haparab·
 <!-- argr2masc: thoroughly read EGD 9.2, esp. on use of supplied instead of (...) and [...] -->
 	<p>Hail! In the elapsed Śaka year 1338: such was the time that His Majesty of Talonan <seg cert="low">took over in
 	    turn <supplied reason="explanation"><foreign>hanimbal</foreign></supplied></seg> the piece of land <supplied reason="explanation"><foreign>varukira</foreign></supplied> of the Lord at Paguhan, he who was released in the
-	    Highest Abode (or at Paramālaya). <supplied reason="explanation">The message</supplied> was received (<foreign>kataṅgap</foreign>) by "those who discuss the works"<!-- argr2masc: use <q> as per EGD 10.4/Quotations without an encoded reference  --> (<foreign>denira saṅ aṅucap gave</foreign>) at the (stone) building Didiva. The <foreign>patih</foreign> Səmut, the <foreign>arya pagəh</foreign> (the Venerable Pagəh), the <foreign>arya Guna</foreign> (the Venerable Guna), the <foreign>patih</foreign> at Paguhan (by the master at Paguhan), the <foreign>patih</foreign> Sərəg, the <foreign>patih</foreign> at Tembeṅ,
+	    Highest Abode (or at Paramālaya). <supplied reason="explanation">The message</supplied> was received (<foreign>kataṅgap</foreign>) by "those who discuss the works"<!-- argr2masc: use <q> as per EGD 10.4/Quotations without an encoded reference  --> (<foreign>denira saṅ aṅucap gave</foreign>) at the stone building Didiva. The <foreign>patih</foreign> Səmut, the <foreign>arya pagəh</foreign> (the Venerable Pagəh), the <foreign>arya Guna</foreign> (the Venerable Guna), the <foreign>patih</foreign> at Paguhan (by the master at Paguhan), the <foreign>patih</foreign> Sərəg, the <foreign>patih</foreign> at Tembeṅ,
 	    [those are] the people who received money. The amount of money: 200.000, two hundred
 	    thousand, two hundred thousand in total <supplied reason="explanation"><foreign>gənəp</foreign></supplied>, on Kliwon<!-- argr2masc: I am hesitant about use of w here and for Kawasa below. --> (<foreign>kalivon</foreign>), the thirteenth <supplied reason="explanation">day</supplied> of the waxing fortnight, the month of Asuji, signed by (litt. “bearing the name”<!-- argr2masc: use <q> -->) <foreign>saṅ</foreign> Kavasa.</p>
          </div>
