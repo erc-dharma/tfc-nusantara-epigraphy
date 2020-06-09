@@ -69,7 +69,7 @@
     </teiHeader>
     <text xml:space="preserve">
         <body>
-            <div type="edition" xml:lang="oj-Latn">
+            <div type="edition" xml:lang="kaw-Latn">
                     <p>
                     <lb n="1"/><g type="symbol" subtype="circle"/> // svast<supplied reason="lost">i</supplied> śakava<supplied reason="lost">r</supplied>ṣăt<supplied reason="lost">ĭ</supplied>ta,
                         <num value="1272">1272</num>, mă<supplied reason="lost">r</supplied>gaś<supplied reason="lost">i</supplied>ramāsa, tithi pañcadaś<unclear>i</unclear>, śuklapakṣ<unclear>ā</unclear>,
@@ -82,7 +82,7 @@
                             <unclear>sa</unclear>p<unclear>u</unclear></persName>, makamaṅgalā rakak iṅ amūrvva
                     <lb n="4" break="no"/>bumi, maparivāra <persName>raṅgah avar-avar</persName>·, juru saṅ apañji <persName>pupon</persName>·
                     </p>
-                    <p>    
+                    <p>
                         ma<supplied reason="omitted">ṁ</supplied><unclear>ka</unclear>na saṅ <unclear>ā</unclear>jñā
                     <lb n="5"/>păduka ba<unclear>ṭāre</unclear> matahun· śrĭ baṭāra <persName>vijayarājasănantavikramottuṅga
                     <lb n="6" break="no"/>deva</persName>, <foreign xml:lang="san-Latn">j<unclear>ā</unclear>gaddhitahetu</foreign>, magavaya sukani para s<unclear>a</unclear>mya sakahavat· luraḥ
@@ -99,8 +99,8 @@
                     <lb n="11" break="no"/>hu vidagdha tiṅkahiṅ ula<unclear>ḥ</unclear>, ndatan· sah aṅaran· <persName>pupon</persName> rasika pa
                     <lb n="12" break="no"/>ñji pinujipuji sădhu śakti guṇavăn· vnaṁ gumavaya, I saṁ prabu tama
                     <lb n="13" break="no"/>n· paḶpaḶh inutusnira narapati ||
-                    </p>   
-                    <p>   
+                    </p>
+                    <p>
                        yaśātiśaya śobitāhaḶ
                     <lb n="14" break="no"/>p asusaṁrama sukanikaṁ janāsiṅ umulat·, si<supplied reason="omitted">ra</supplied> ra<unclear>kv</unclear>a tikaṁ rakṣa ni
                     <lb n="15" break="no"/>tya pamul<unclear>i</unclear>ḥ kali maravuhan arddhapaḶ mapagəḥ ||
@@ -153,7 +153,7 @@
                     <lem>jur<unclear>u</unclear></lem>
                     <rdg source="SteinCallenfels_1918"><choice><unclear>ju</unclear><unclear>mu</unclear></choice></rdg>
                     <!--MS: should add a gap (<gap
-                            reason="undefined"/>?) after the ju/mu in VSC's reading-->    
+                            reason="undefined"/>?) after the ju/mu in VSC's reading-->
                     </app>
                     <app loc="4">
                     <lem><unclear>ā</unclear>jñā</lem>
@@ -161,7 +161,7 @@
                     </app>
                     <app loc="5-6">
                     <lem>păduka ba<unclear>ṭāre</unclear> matahun śrĭ baṭăra <persName>vijayarājasănantavikramottuṅga<lb n="6" break="no"/>deva</persName></lem>
-                    <!--MS: same question for lb-->    
+                    <!--MS: same question for lb-->
                     <rdg source="SteinCallenfels_1919">pāduka bāṭare matahun śri bāṭara vijayarājasānantavikramottuṅgadeva</rdg>
                     </app>
                     <app loc="6">
