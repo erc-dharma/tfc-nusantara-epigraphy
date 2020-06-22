@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader xml:lang="eng">
+        <fileDesc>
+            <titleStmt>
+                <title>Munggut</title>
+                <respStmt>
+                    <resp>EpiDoc encoding</resp>
+                    <persName ref="part:ekba">
+                        <name>Eko Bastiawan</name>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>intellectual authorship of edition</resp>
+                    <persName ref="part:argr">
+                        <forename>Arlo</forename>
+                        <surname>Griffiths</surname>
+                    </persName>
+                </respStmt>
+            </titleStmt>         
+            <publicationStmt>
+                <authority>DHARMA
+                    <note>This project has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).
+                    </note>
+                </authority>
+                <pubPlace>Malang</pubPlace>
+                <idno type="filename">Munggut</idno>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>This work is licenced under the Creative Commons Attribution 4.0 Unported Licence. To view a copy of the licence, visit https://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.</p>
+                    	<p>Copyright (c) 2019-2025 by Eko Bastiawan &amp; Arlo Griffiths</p>
+                    </licence>
+                </availability>
+                <date from="2019" to="2025">2019-2025</date>
+            </publicationStmt>
+            <sourceDesc><!-- only the handDesc can be filled in at this stage -->
+                <msDesc><!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/><!-- don't modify this -->
+                    </msIdentifier>
+                    <msContents><!-- describe the intellectual content of an inscription -->
+                        <summary><!-- //// NOT MANDATORY  ////--></summary> <!-- offers the possibility to give a summary of the inscription's content -->
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p><!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EG 11.2. --></p>
+                            <!-- If you need to identify individual hands (EG §7.5/) in addition to one or more paragraphs of general palaeographic description, wrap <summary> around the <p> or <p>s above, and, outside <summary>, create <handNote> elements for each hand as follows:
+						<summary><p><p/></summary>
+						<handNote xml:id="Pallava00001_hand1"></handNote>
+						<handNote xml:id="Pallava00001_hand2"></handNote>
+					 -->
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change who="part:ekba" when="2020-06-23" status="draft">initial encoding of Front main part</change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:space="preserve">
+      <body>
+         <div type="textpart" subtype="face" n="1"><!--Is face the correct term here or should we use Front main part?-->
+             <p>
+ <lb n="1"/>// <g type="symbol" subtype="circle"/> // svasti śakavārṣătīta <num value="944">944</num> cetrāmasa tithi caturdaśī kr̥<unclear>ṣ</unclear>ṇa<lb 
+     n="2" break="no"/>pakṣa, <abbr>vu</abbr>, <abbr>pa</abbr>, <abbr>Aṁ</abbr>, vāra, balamuki, kr̥tikāraṇanakṣatra, dahanadevatā, Āyu<supplied reason="lost">ṣ</supplied>m<supplied reason="lost">ān·</supplied>
+<lb n="3"/>yoga, vanijakāraṇa, Irikā divāsanyājñā śrī mahārāja rake halu, śrī loke<unclear>ś</unclear>va<supplied reason="lost">ra</supplied>
+<lb n="4"/>dharmmavaṅśa Airlaṅgănantavikramottuṅgadeva, tinaḍah rakryān· mahāmantrī hino śrī saṁgrā<lb 
+    n="5" break="no"/>mavijayaprasādottuṅgadevī, Umiṅsor· I rakryān· paḍaṁ pu dvija, kumonakən ikanaṁ karāmā<lb 
+        n="6" break="no"/>n· Iṁ muṅgut· sapasuk thāni kabaḥ tka ri babadnya, maṅaran· Aṇḍu<unclear>k</unclear>·, bara, marma, cucya, beḍoḥ,
+<lb n="7"/>dəpəm·, bajəm·, buṅaḥ, dītən·, bijo, kuniṁ, kəmbaṁ, kilanogajusa, tiṅgal·<unclear>,</unclear> gantar· li<lb 
+    n="8" break="no"/>ṇḍuṁ, R̥mban·, tuñjuṁ da su <gap reason="lost" quantity="3" unit="character"/> do, marum·, beca, veḍuṁ, kuruk· lca, bəntəgna, R̥ntab· ba<lb 
+        n="9" break="no"/>humin·, robhana, <gap reason="lost" quantity="8" unit="character"/> ḍərin·, gosə, plī, kleṁ, bavvat·, godhanā, ṅitam·, ba<lb 
+            n="10" break="no"/>yaka, garuṁ, Aṣṭamī, <gap reason="lost" quantity="1" unit="character"/> nəbhəm·, śoḍaśa lviṁ, bamī, Aṣṭi paraḥ śrīnam·, Iṅgut·, vaṅəṁhər·, ḍinvə<lb 
+                n="11" break="no"/> jenī, gr̥<gap reason="lost" quantity="1" unit="character"/>ha, bhāryya, <unclear>ke</unclear>sar·, nadī <unclear>U</unclear>ntat·, gənər·, Uṅabakaḍut·, Atilaya, satamoga, gə<lb 
+                    n="12" break="no"/>ḍe, bayok·, Abaman·, maraṇa jaḍa taṇḍa m<unclear>ā</unclear>surat·, pagəḥ, śrĭmato, Iyo, tuvuḥ,
+<lb n="13"/>kuniṁnikiṁ lekəm·, mūla, sabodī, peḍatəm·, pənəd·<unclear>,</unclear> kejī, <unclear>ke</unclear>dranī, patyən·, bhuvana<lb 
+    n="14" break="no"/>ṇī, rimpiṁ, godr̥sa, Ajum·, gəti<unclear>ḥ</unclear> hambəṁ, sadī, vulu karaman·, patṅahan· rapiḥ, Akə<lb 
+        n="15" break="no"/>mbaṁ tr̥piṁ, A<unclear>būduḥ Auḍi</unclear>, Atahun·, gosatəm·, pañarikan· sudvinəm· saṁkuma, landə<lb 
+            n="16" break="no"/>so<unclear>ḍ</unclear>i, gəvəg·, bhuvaṇamataḥ, ma<unclear>ra</unclear>da <unclear>śrī</unclear> sampaṁ, galuḥ, baṣūddha, jujul·, sulu<unclear>r</unclear>·, vinkas·
+<lb n="17"/>bagnalo, makādi kabayān· kāli<unclear>ḥ ma</unclear>ṅaran· japo, vvātan·, madamlakna saṁ hyaṅ ā<lb 
+    n="18" break="no"/> jñā haji prasāsti pa<unclear>gə</unclear>pagəḥ tinaṇḍa garuḍamukha <unclear>km</unclear>itananya, sambandha, Ikanaṁ karāmān· I mu<lb 
+        n="19" break="no"/>ṅgut· sapasuk thāni kabeḥ, masamāgrī mapuluṁrahi manambaḥ I taṇḍa rakryān· ri pakira-<lb 
+            n="20" break="no"/>kiran· ma<unclear>ka</unclear>behan·, karuhun· I lbū ri pāduka śrī mahārāja makārasa maṁhyaṅ a<lb 
+                n="21" break="no"/>nugraha I pāduka śrī mahārāja, I knohanya makmitana saṁ hyaṅ ājñā haji tina-	
+ </p>
+         </div>
+         <div type="apparatus">
+           <!--apparatus encoded as per EG §9.1, basic elements for apparatus below-->
+               <listApp><!-- one <app> for each apparatus entry -->  
+                   <app ></app>
+               </listApp>         
+         </div>
+         <div type="translation" xml:lang="eng" resp="part:argr">
+ 	<!--translation encoded as per EG §9.2 -->
+	<p></p>
+         </div>
+         <div type="commentary">
+            <!--commentary encoded as per section §9.3 -->
+             <p></p>
+         </div>
+        <div type="bibliography">
+	<!--bibliography encoded as per section §9.4 -->
+            <p></p>
+             <listBibl type="secondary">
+             <bibl></bibl>
+           </listBibl>
+        </div>
+      </body>
+  </text>
+</TEI>
