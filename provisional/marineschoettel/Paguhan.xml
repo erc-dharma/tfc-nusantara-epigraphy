@@ -59,6 +59,7 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc>
+            <change who="part:masc" when="2020-06-23" status="draft">changes in the bibliography and translation</change>
             <change who="part:masc" when="2020-05-18" status="draft">second round of corrections reacting on AG's suggestions (translation nl)</change>
             <change who="part:argr" when="2020-05-18" status="draft">second revision</change>
             <change who="part:masc" when="2020-05-15" status="draft">adding translation nl</change>
@@ -83,17 +84,18 @@ n="1v2"/>sama<unclear>ṁ</unclear>kana divasani L̥bu<!-- argr2masc: shall we e
 n="1v3" break="no"/>nan·, hanimbal· varukira baṭara ri paguhan·, sa<unclear>ṁ</unclear> li<pb n="2r" break="no"/><lb
 n="2r1" break="no"/>na ri<unclear>ṁ</unclear> pramalaya,</p>
 <p>ka<unclear>taṁ</unclear>gapan· denira saṅ aṅu<lb
-n="2r2" break="no"/>cap· gave riṁ gəḍoṁ di<unclear>ṁ</unclear>diva<!-- or follow Bosch' diṁdi(ṅ)va?-->, sira patiḥ səmut·, sira
+n="2r2" break="no"/>cap· gave riṁ gəḍoṁ di<unclear>ṁ</unclear>diva<!-- or follow Bosch' diṁdi(ṅ)va?-->,</p>
+<p>sira patiḥ səmut·, sira
  <lb n="2r3"/>saṅ arya pagəḥ, sira saṅ arya guna, sira patiḥ riṁ pagu<pb n="2v" break="no"/><fw n="2v" rend="tb-rotated" place="left"><num value="2">2</num></fw><lb
-n="2v1" break="no"/>han·, sira patiḥ səR̥g·, sira patiḥ tem·beṁ,</p>
-<p>
+n="2v1" break="no"/>han·, sira patiḥ səR̥g·, sira patiḥ tem·beṁ,
     <lb n="2v2"/>saṅ anaṁgapi pisis·, guṅ i pisis· //
     <lb n="2v3"/>// <num value="200000">200000</num> // roṁ kəṭi roṁ kəṭi
 <pb n="3r"/>
     <fw n="3r" rend="tb-rotated" place="left">
     <num value="3">3</num>
   </fw>
-    <lb n="3r1"/>gənəp·, padu kalivon·, tr<subst><del>i</del><add>a</add></subst>ayodasi,<!-- Arlo:
+    <lb n="3r1"/>gənəp·,</p>
+    <p> padu kalivon·, tr<subst><del>i</del><add>a</add></subst>ayodasi,<!-- Arlo:
         indeed, why not simply trayodasi? --> suklā<lb
 n="3r2" break="no"/>-pakṣā, riṅ asuji, maṣa // haparab·
     <lb n="3r3"/>sa<supplied reason="omitted">ṁ</supplied> kavasa //
@@ -136,16 +138,16 @@ n="3r2" break="no"/>-pakṣā, riṅ asuji, maṣa // haparab·
          </div>
         <div type="translation" xml:lang="ndl" source="bib:Bosch1924_01">
           <!--masc2argr: reading the EGD, I have added the source - but perhaps it should be done in another tag rather than in the div? It also seems that in theory the English translation (which is also more recent), should come first. On the other hand, I am not sure whether the translation I have arrived at is more useful than Bosch'-->
-<p>Heil! Śaka-jaren verloopen, in het Śaka jaar 1338. Aldus is het tijdstip, dat Zijne Hoogheid van Talonan in ontvangst <seg cert="low">nam de storting</seg> ten behoeve van den <foreign>bhaṭāra</foreign> van Paguhan, die overleden is te Pramalaya, ontvangen door de <supplied reason="explanation">ambtenaren</supplied> <foreign>aṅucap gave</foreign> in het huis Diṅgi<supplied reason="omitted" cert="low">ṅ</supplied>va, de <foreign>patih</foreign> Səmut, de <foreign>ārya</foreign> Pagəh, de <foreign>ārya</foreign> Guna, de <foreign>patih</foreign> van Paguhan, de <foreign>patih</foreign> Sirəg, de <foreign>patih</foreign> Tembeṅ, <supplied reason="explanation">zijn zij</supplied> die het geld ontvingen; de hoeveelheid van het geld is 200.000, twee honderd duizend, twee honderd duizend totaal; <supplied reason="explanation">op</supplied> Kaliwon, den 13den van de lichte maandhelft, in de maand Asuji. Zich noemende <sic>Sakavasa</sic>.</p>
+<p>Heil! Śaka-jaren verloopen, in het Śaka jaar 1338. Aldus is het tijdstip, dat Zijne Hoogheid van Talonan in ontvangst <seg cert="low">nam de storting</seg> ten behoeve van den <foreign>bhaṭāra</foreign> van Paguhan, die overleden is te Pramalaya, ontvangen door de <supplied reason="explanation">ambtenaren</supplied> <foreign>aṅucap gave</foreign> in het huis Diṅgdi<supplied reason="omitted" cert="low">ṅ</supplied>va, de <foreign>patih</foreign> Səmut, de <foreign>ārya</foreign> Pagəh, de <foreign>ārya</foreign> Guna, de <foreign>patih</foreign> van Paguhan, de <foreign>patih</foreign> Sirəg, de <foreign>patih</foreign> Tembeṅ, <supplied reason="explanation">zijn zij</supplied> die het geld ontvingen; de hoeveelheid van het geld is 200.000, twee honderd duizend, twee honderd duizend totaal; <supplied reason="explanation">op</supplied> Kaliwon, den 13den van de lichte maandhelft, in de maand Asuji. Zich noemende <sic>Sakavasa</sic>.</p>
         </div>
-         <div type="translation" xml:lang="eng" resp="part:masc">
+         <div type="translation" xml:lang="eng" resp="part:masc argr">
  	<!--translation encoded as per EGD §9.2 -->
-<!-- argr2masc: thoroughly read EGD 9.2, esp. on use of supplied instead of (...) and [...] -->
 	<p>Hail! In the elapsed Śaka year 1338: such was the time that His Majesty of Talonan <seg cert="low">took over in
 	    turn <supplied reason="explanation"><foreign>hanimbal</foreign></supplied></seg> the piece of land <supplied reason="explanation"><foreign>varukira</foreign></supplied> of the Lord at Paguhan, he who was released in the
-	    Highest Abode (or at Paramālaya). <supplied reason="explanation">The message</supplied> was received (<foreign>kataṅgap</foreign>) by "those who discuss the works"<!-- argr2masc: use <q> as per EGD 10.4/Quotations without an encoded reference  --> (<foreign>denira saṅ aṅucap gave</foreign>) at the stone building Didiva. The <foreign>patih</foreign> Səmut, the <foreign>arya pagəh</foreign> (the Venerable Pagəh), the <foreign>arya Guna</foreign> (the Venerable Guna), the <foreign>patih</foreign> at Paguhan (by the master at Paguhan), the <foreign>patih</foreign> Sərəg, the <foreign>patih</foreign> at Tembeṅ,
-	    [those are] the people who received money. The amount of money: 200.000, two hundred
-	    thousand, two hundred thousand in total <supplied reason="explanation"><foreign>gənəp</foreign></supplied>, on Kliwon<!-- argr2masc: I am hesitant about use of w here and for Kawasa below. --> (<foreign>kalivon</foreign>), the thirteenth <supplied reason="explanation">day</supplied> of the waxing fortnight, the month of Asuji, signed by (litt. “bearing the name”<!-- argr2masc: use <q> -->) <foreign>saṅ</foreign> Kavasa.</p>
+	    Highest Abode (or at Paramālaya).<!--masc2argr: I have not found the section of the EG which covers how I could transpose this type of explanation or alternative translation within brackets--> <supplied reason="explanation">The order</supplied> was received by <seg cert="low"><q>those who discuss the works</q></seg> <supplied reason="explanation"><foreign>denira saṅ aṅucap gave</foreign></supplied> at the stone building Diṅdiva. The <foreign>patih</foreign> Səmut, the <foreign>ārya</foreign> Pagəh <supplied reason="explanation">the Venerable Pagəh</supplied>, the <foreign>ārya</foreign> Guna <supplied reason="explanation">the Venerable Guna</supplied>, the <foreign>patih</foreign> at Paguhan <supplied reason="explanation">by the master at Paguhan</supplied>, the <foreign>patih</foreign> Sərəg, the <foreign>patih</foreign> at Tembeṅ,
+      <!--masc2argr: I am not sure if what I did there (replacing all (...) by supplied reason="explanation" tags) is acceptable-->
+	    <supplied reason="explanation">those are</supplied> the people who received <supplied reason="explanation"> a sum of money in copper</supplied>coins <supplied reason="explanation"><foreign>pisis</foreign></supplied>. The amount of coins: 200.000, two hundred
+	    thousand, two hundred thousand in total <supplied reason="explanation"><foreign>gənəp</foreign></supplied>, on Kliwon<!-- argr2masc: I am hesitant about use of w here and for Kawasa below. --> <supplied reason="explanation"><foreign>kalivon</foreign></supplied>, the thirteenth <supplied reason="explanation">day</supplied> of the waxing fortnight, the month of Asuji, signed by <supplied reason="explanation">litt. <q>bearing the name</q></supplied> <foreign>saṅ</foreign> Kavasa.</p>
          </div>
          <div type="commentary">
             <!--commentary encoded as per section §9.3 -->
@@ -157,9 +159,19 @@ n="3r2" break="no"/>-pakṣā, riṅ asuji, maṣa // haparab·
                 formula re-edited by Damais (<bibl rend="omitname"><ptr target="bib:Damais1955_01"/><citedRange unit="page">110-111</citedRange><citedRange unit="item">A.205</citedRange></bibl>); edited again by Boechari
                 (<bibl rend="omitname"><ptr target="bib:Boechari1985-1986_01"/><citedRange unit="page">119</citedRange><citedRange unit="item">E.60</citedRange></bibl>).
                 Re-edited here by Marine Schoettel and Arlo Griffiths from photographs by Georges Groslier (EFEO Paris GROB03770 and GROB03771).</p>
-<!-- argr2masc: see EG 9.4/The structured bibliography, which now requires a structured bibliography also for primary bibliography. -->
-             <listBibl type="secondary">
-             <bibl><ptr target="bib:TBG"/><citedRange unit="volume">64</citedRange><date>1924</date><citedRange>619, 658-659</citedRange></bibl><!-- argr2masc: we have decided to change policy regarding such anonymous journal citations. See p. 17 of draft for new ZG at <https://docs.google.com/document/d/1V_AJzCtQ8KCnFm2dcE9D31gDd9jWpsWyvWwOCZuIcGY/edit#> Then adjust the reference to TBG above.-->
+                <listBibl type="primary">
+                    <bibl n="B1">
+                      <ptr target="bib:Boechari1985-1986_01"/>
+                      <citedRange unit="page">119</citedRange>
+                      <citedRange unit="item">E.60</citedRange>
+                    </bibl>
+                    <bibl n="B2">
+                      <ptr target="bib:Bosch1924_01"/>
+                      <citedRange unit="page">104-105</citedRange>
+                    </bibl>
+                  </listBibl>
+                  <listBibl type="secondary">
+             <bibl><ptr target="bib:TBG"/><date>1924</date><citedRange unit="volume">64</citedRange><citedRange unit="page">619, 658-659</citedRange></bibl><!--mas2argr: I have tried to adapt the example given for E.16 p. 130 in the EG, while creating in an entry in the J collection in Zotero. Is this alright?-->
              <bibl><ptr target="bib:Damais1952_01"/><citedRange>78-79</citedRange><citedRange unit="item">A.205</citedRange></bibl>
              <bibl><ptr target="bib:Damais1955_01"/><citedRange>110-111</citedRange><citedRange unit="item">A.205</citedRange></bibl>
              </listBibl>
