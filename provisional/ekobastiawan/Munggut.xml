@@ -58,6 +58,7 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc>
+            <change who="part:ekba" when="2020-06-26" status="draft">initial encoding of Left main part</change>
             <change who="part:ekba" when="2020-06-25" status="draft">initial encoding of Right main part</change>
             <change who="part:ekba" when="2020-06-24" status="draft">initial encoding of Back main part</change>
             <change who="part:ekba" when="2020-06-23" status="draft">initial encoding of Front main part</change>
@@ -155,6 +156,42 @@
     n="36" break="no"/>bhu, <unclear>mvaṁ saṅ anāgata vineḥ tiṁha-</unclear>
               </p>
               </div>
+           <div type="textpart" subtype="face" n="4">
+               <p>
+<lb n="1"/><supplied reason="lost">l· piṁhay</supplied>·, makatə<unclear>vəka</unclear>
+<lb n="2"/> <supplied reason="lost">śrī ma</supplied><unclear>h</unclear>ārāja ri maṇiratnasi<lb 
+    n="3" break="no"/><supplied  reason="lost">ṅhāsa</supplied>na makaḍatvan· vvatan mās<lb 
+        n="4" break="no"/>yapvan· hana sira kamatan· 
+<lb n="5"/> tan· yatna I sarany ājñā śrĭ ma<lb 
+    n="6" break="no"/>hāraja, Umulahulaḥ Ikeṁ
+<lb n="7"/>sīma I muṅgut·, ya saṅkāna<lb 
+    n="8" break="no"/>ni pramādanya, salvirani la<unclear>ṅgha</unclear><lb 
+        n="9" break="no"/><unclear>na</unclear> ri saṁ hyaṅ ājñā haji lviranya 
+<lb n="10"/> knana ya <gap reason="lost"  quantity="1" unit="character"/> nigraha <abbr>mā</abbr> <abbr>kā</abbr> <num value="1">1</num> <abbr>su</abbr> 
+<lb n="11"/><num value="5">5</num> Īndaḥ ta kita bhaṭāra <unclear>śrī</unclear>
+<lb n="12"/>haricandana, Agasti, mahārṣ<unclear>i</unclear>,
+<lb n="13"/>pūrbva, dakṣiṇa, paścima, Uttarā<lb 
+    n="14" break="no"/>gneya<unclear>,</unclear> neriti, băyabya, Urd<unclear>dhva</unclear>ma<lb 
+        n="15" break="no"/>dhaḥ raviḥ śaśi kṣiti jala pavana
+<lb n="16"/> hutāsana jayamāṇākāśa, A<lb 
+    n="17" break="no"/>horătra sandhyā, nāgarāja durgă<lb 
+        n="18" break="no"/>devī, sahananta hyaṁ kālamr̥tyu
+<lb n="19"/>yama baruṇa kuvera bāsava <unclear>ki</unclear><lb 
+    n="20" break="no"/>ta masuki ma<unclear>n</unclear>arirerika vva<unclear>ṁ</unclear> sa<supplied reason="lost">r</supplied>vva 
+<lb n="21"/>siddha rikiṁ jagat·, yāvat· <gap reason="illegible" quantity="2" unit="character" cert="low"/>
+<lb n="22"/>gaṇagaṇa <gap reason="illegible" quantity="2" unit="character" cert="low"/>, Umulahulaḥ I<lb 
+    n="23" break="no"/>keṁ sīma I muṅgut· patyanantā ya 
+<lb n="24"/>kamuṁ hyaṁ śŭkṣma, deyantat· pa<lb 
+    n="25" break="no"/>tīya, ta<unclear>n· to</unclear>liha ri vuntat·
+<lb n="26"/>tatiṅhala ri likuran·, taruṁ riṅ adga<lb 
+    n="27" break="no"/>n·, tampyal· <unclear>I</unclear> hiriṅan·, tutu<lb 
+        n="28" break="no"/>ḥ tuṇḍanya, blaḥ kapălanya, carika<lb 
+            n="30" break="no"/>kan· vtaṅnya, <unclear>vtvakə</unclear>n daL̥manya, pa<lb 
+                n="31" break="no"/>ṅan dagiṁnya, Inum· rāḥnya <unclear>vkasaka</unclear><lb 
+                    n="32" break="no"/>n· pranantika, <unclear>yan pare</unclear>ṅ ala<unclear>s·</unclear> 
+<lb n="33"/><gap reason="illegible" quantity="1" unit="character" cert="low"/> ki <gap reason="illegible" quantity="5" unit="character" cert="low"/> niṁ mon·
+               </p>
+               </div>
          <div type="apparatus">
            <!--apparatus encoded as per EG §9.1, basic elements for apparatus below-->
                <listApp><!-- one <app> for each apparatus entry -->  
