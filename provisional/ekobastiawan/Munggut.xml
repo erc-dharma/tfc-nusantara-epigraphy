@@ -58,10 +58,11 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc>
-            <change who="part:ekba" when="2020-06-26" status="draft">initial encoding of Left main part</change>
-            <change who="part:ekba" when="2020-06-25" status="draft">initial encoding of Right main part</change>
-            <change who="part:ekba" when="2020-06-24" status="draft">initial encoding of Back main part</change>
-            <change who="part:ekba" when="2020-06-23" status="draft">initial encoding of Front main part</change>
+            <change who="part:ekba" when="2020-06-27" status="draft">encoded  the rest of available faces</change>
+            <change who="part:ekba" when="2020-06-26" status="draft">encoded of Left main part</change>
+            <change who="part:ekba" when="2020-06-25" status="draft">encoded of Right main part</change>
+            <change who="part:ekba" when="2020-06-24" status="draft">encoded of Back main part</change>
+            <change who="part:ekba" when="2020-06-23" status="draft">encoded of Front main part</change>
         </revisionDesc>
     </teiHeader>
     <text xml:space="preserve">
@@ -192,6 +193,37 @@
 <lb n="33"/><gap reason="illegible" quantity="1" unit="character" cert="low"/> ki <gap reason="illegible" quantity="5" unit="character" cert="low"/> niṁ mon·
                </p>
                </div>
+          <div type="textpart" subtype="face" n="5">
+               <p>
+<lb n="1"/><gap reason="illegible" quantity="5" unit="character" cert="low"/> 
+<lb n="2"/> ... <supplied reason="lost">sa</supplied>///mb<supplied reason="lost">ə</supplied>R̥n<unclear>i</unclear><supplied reason="lost">ṁ</supplied> glap·, puliraknaniṁ devamanyu /// ... 
+               </p>
+              </div>
+          <div type="textpart" subtype="face" n="6">
+               <p>
+<lb n="1"/><gap reason="illegible" quantity="2" unit="character" cert="low"/> ya <gap reason="illegible" quantity="2" unit="character" cert="low"/> nināna sthipava
+<lb n="2"/><gap reason="illegible" quantity="6" unit="character" cert="low"/> bhraṣṭa lipu<lb 
+     n="3" break="no"/><gap reason="illegible" quantity="6" unit="character" cert="low"/> tan· sva <gap reason="illegible" quantity="2" unit="character" cert="low"/> 
+<lb n="4"/><gap reason="illegible" quantity="1" unit="character" cert="low"/> pipi <gap reason="illegible" quantity="6" unit="character" cert="low"/> nda <gap reason="illegible" quantity="2" unit="character" cert="low"/> 
+<lb n="5"/>nahahata rasa <gap reason="illegible" quantity="6" unit="character" cert="low"/> maṁ<lb 
+    n="6"/>kana tmahananikeṁ vvaṁ Anyāya
+<lb n="7"/>Um<unclear>u</unclear>lahula<unclear>ḥ Ik</unclear>eṁ sīma r<unclear>i</unclear> mu-
+               </p>
+              </div>
+          <div type="textpart" subtype="face" n="7">
+               <p></p>
+              </div>
+          <div type="textpart" subtype="face" n="8">
+               <p>
+<lb n="1"/><gap reason="illegible" quantity="1" unit="character" cert="low"/>  977 kā<unclear>la</unclear>
+<lb n="2"/>sa<supplied reason="lost">ṁ</supplied> hadyan· <unclear>j</unclear>ujul· sulur· kabayan·                   
+               </p>
+              </div>
+          <div type="textpart" subtype="face" n="9">
+               <p>
+<lb n="1"/>dhunenavana givihikən·, cagəm·, ṅayai
+               </p>
+              </div>
          <div type="apparatus">
            <!--apparatus encoded as per EG §9.1, basic elements for apparatus below-->
                <listApp><!-- one <app> for each apparatus entry -->  
