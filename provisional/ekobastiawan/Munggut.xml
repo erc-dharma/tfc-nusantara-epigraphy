@@ -67,9 +67,10 @@
     </teiHeader>
     <text xml:space="preserve">
       <body>
-         <div type="textpart" subtype="face" n="1"><!--Is face the correct term here or should we use Front main part?-->
+          <div type="edition" xml:lang="kaw-Latn">
+         <div type="textpart" subtype="face" n="1"><head xml:lang="eng">Front main part</head>
              <p>
- <lb n="1"/>// <g type="symbol" subtype="circle"/> // svasti śakavārṣătīta <num value="944">944</num> cetrāmasa tithi caturdaśī kr̥<unclear>ṣ</unclear>ṇa<lb 
+<lb n="1"/><g type="dandaCross">.</g><g type="circleSmall">.</g><g type="dandaCross">.</g> svasti śakavārṣătīta <num value="944">944</num> cetrāmasa tithi caturdaśī kr̥<unclear>ṣ</unclear>ṇa<lb 
      n="2" break="no"/>pakṣa, <abbr>vu</abbr>, <abbr>pa</abbr>, <abbr>Aṁ</abbr>, vāra, balamuki, kr̥tikāraṇanakṣatra, dahanadevatā, Āyu<supplied reason="lost">ṣ</supplied>m<supplied reason="lost">ān·</supplied>
 <lb n="3"/>yoga, vanijakāraṇa, Irikā divāsanyājñā śrī mahārāja rake halu, śrī loke<unclear>ś</unclear>va<supplied reason="lost">ra</supplied>
 <lb n="4"/>dharmmavaṅśa Airlaṅgănantavikramottuṅgadeva, tinaḍah rakryān· mahāmantrī hino śrī saṁgrā<lb 
@@ -81,7 +82,7 @@
             n="10" break="no"/>yaka, garuṁ, Aṣṭamī, <gap reason="lost" quantity="1" unit="character"/> nəbhəm·, śoḍaśa lviṁ, bamī, Aṣṭi paraḥ śrīnam·, Iṅgut·, vaṅəṁhər·, ḍinvə<lb 
                 n="11" break="no"/> jenī, gr̥<gap reason="lost" quantity="1" unit="character"/>ha, bhāryya, <unclear>ke</unclear>sar·, nadī <unclear>U</unclear>ntat·, gənər·, Uṅabakaḍut·, Atilaya, satamoga, gə<lb 
                     n="12" break="no"/>ḍe, bayok·, Abaman·, maraṇa jaḍa taṇḍa m<unclear>ā</unclear>surat·, pagəḥ, śrĭmato, Iyo, tuvuḥ,
-<lb n="13"/>kuniṁnikiṁ lekəm·, mūla, sabodī, peḍatəm·, pənəd·<unclear>,</unclear> kejī, <unclear>ke</unclear>dranī, patyən·, bhuvana<lb 
+<lb n="13"/>kuniṁnikiṁ lekəm·, mūla, sabodī, peḍatəm·, pənəd·, kejī, <unclear>ke</unclear>dranī, patyən·, bhuvana<lb 
     n="14" break="no"/>ṇī, rimpiṁ, godr̥sa, Ajum·, gəti<unclear>ḥ</unclear> hambəṁ, sadī, vulu karaman·, patṅahan· rapiḥ, Akə<lb 
         n="15" break="no"/>mbaṁ tr̥piṁ, A<unclear>būduḥ Auḍi</unclear>, Atahun·, gosatəm·, pañarikan· sudvinəm· saṁkuma, landə<lb 
             n="16" break="no"/>so<unclear>ḍ</unclear>i, gəvəg·, bhuvaṇamataḥ, ma<unclear>ra</unclear>da <unclear>śrī</unclear> sampaṁ, galuḥ, baṣūddha, jujul·, sulu<unclear>r</unclear>·, vinkas·
@@ -92,14 +93,15 @@
                 n="21" break="no"/>nugraha I pāduka śrī mahārāja, I knohanya makmitana saṁ hyaṅ ājñā haji tina-	
              </p>
                 </div>
-                 <div type="textpart" subtype="face" n="2">
+                 <div type="textpart" subtype="face" n="2"><head xml:lang="eng">Back main part</head>
                      <p>
-<lb n="1"/><unclear>ṇḍa ga</unclear><supplied reason="lost">ruḍam</supplied>u<unclear>kha, ma</unclear>karasa, An· sumima thāninya I muṅgut·, kumabhaktya///<supplied reason="lost">n</supplied> ...
+<lb n="1"/><unclear>ṇḍa ga</unclear><supplied reason="lost">ruḍam</supplied>u<unclear>kha, ma</unclear>karasa, An· sumima thāninya I muṅgut·, kumabhaktya<supplied reason="lost">na</supplied>
 <lb n="2"/>ra buyut· sūkṣma <unclear>An</unclear>iddhākna drabya haji paṅaṣṭaṅgī <abbr>mā</abbr> <num value="5">5</num> Aṅkən· katiga māsa, meriṅa sarvvavija lima
 <lb n="3"/>sukat· ri savulu, kaharan· puṣpapañcopacāra, tīlatela, dhŭpa, dīpa, gandha, mvaṁ nivedyādi prakāra, pū<lb 
     n="4" break="no"/>jāknanyăṁkən· katiga māsa, mvaṁ tan·tunya I saprakārani drabya hajī vuluvulu magəṁ maḍmit· kabeḥ, paṅkur·, tavan·
 <lb n="5"/>tirip· ṅuniveḥ sakveḥ saṁ maṅilala vuluvulu ri daṅū, makădi miśra, paramiśra, paṅuraṁ kriṁ, paḍəm· manimpiki pa<lb 
-    n="6" break="no"/>ranakan·, limus· galuḥ maṁriñca, maṁhuri, paraṁ, suṅka, dhūra, sukun·, sinagiha, kyab· liṅgaṁ, sr̥kan·, halu vara<lb n="7" break="no"/>k·, rakadut·, ramanaṅ s<unclear>va</unclear>ra gəṇḍiṁ, piniṁlai, kataṅgaran·, tapa haji, Air haji, malandaṁ, lca, lablab·, pakalaṅkaṁ, kutak· 
+    n="6" break="no"/>ranakan·, limus· galuḥ maṁriñca, maṁhuri, paraṁ, suṅka, dhūra, sukun·, sinagiha, kyab· liṅgaṁ, sr̥kan·, halu vara<lb 
+        n="7" break="no"/>k·, rakadut·, ramanaṅ s<unclear>va</unclear>ra gəṇḍiṁ, piniṁlai, kataṅgaran·, tapa haji, Air haji, malandaṁ, lca, lablab·, pakalaṅkaṁ, kutak· 
 <lb n="8"/>taṅkil·, tr̥pan·, salyut·, vatu valaṁ, pamanikan·, maniga, sikpan·, rumban, tirvan·, vilaṁ thāni, viji kavaḥ, tiṅkə<lb 
     n="9" break="no"/>s·, māvī, manambaṅi, taṁhiran·, tuha dagaṁ, juru gosalī, maṁrumbai, maṁguñjai, tuha nambi, juru juḍi, juru jalir·, pabisa<lb 
         n="10" break="no"/>r· paguluṁ, pavuṁkunuṁ, vli hapū, vli harR̥ṁ, vli pañjut·, palamak·, Urutan·, dampulan·, tpuṁ kavuṁ, suṁsuṁ paṅuraṁ, pasuk a<lb 
@@ -117,7 +119,7 @@
 <lb n="22"/>rvaṁ siki, Amutər· rvaṁ siki, <unclear>Apa</unclear>rahu rvaṁ siki, Adagaṁ sapi rvaṁ siki, Aṅulaṁ kbo rvaṁ siki, pa<unclear>ram·</unclear>-
                      </p>
                  </div>
-          <div type="textpart" subtype="face" n="3">
+          <div type="textpart" subtype="face" n="3"><head xml:lang="eng">Right main part</head>
               <p>
 <lb n="1"/>ma<unclear>s</unclear>an· rvaṁ siki, mabakulan· rvaṁ 
 <lb n="2"/>siki, <unclear>ma</unclear>səpahan· rvaṁ siki, ma<lb 
@@ -131,8 +133,8 @@
 <lb n="10"/>tuhun· maveha patūt· pa<lb 
     n="11" break="no"/>dulur· juga marayan· mareṁ d<lb 
         n="12" break="no"/>eśa salen· mvaṁ yan· pame<lb 
-            n="13" break="no"/>t· dval·, maṅkanātaḥ Ikanaṁ varga <lb 
-                n="14" break="no"/>kilalan·, kliṁ, Ăryya, siṁhala, <unclear>g</unclear><lb 
+            n="13" break="no"/>t· dval·, maṅkanātaḥ Ikanaṁ varga
+<lb n="14" break="no"/>kilalan·, kliṁ, Ăryya, siṁhala, <unclear>g</unclear><lb 
                     n="15" break="no"/>olaviṣaya, coli<add place="below">ka</add>, malyāla, ka<lb 
                         n="16" break="no"/>rṇnāṭaka, callahāra, campa, R̥mən·,
 <lb n="17"/>havaṁ, mambaṁ, huñjəman·, senămu<lb 
@@ -154,15 +156,15 @@
 <lb n="33"/>kapagəhaknanyan· tamolaḥ I
 <lb n="34"/>pana<gap reason="lost" quantity="1" unit="character"/>taranya sovaṁ-sovaṁ tan· 
 <lb n="35"/>kolahulaha de saṁ Anāgata pra<lb 
-    n="36" break="no"/>bhu, <unclear>mvaṁ saṅ anāgata vineḥ tiṁha-</unclear>
+    n="36" break="no"/>bhu, <unclear>mvaṁ saṅ anāgata vineḥ tiṁha</unclear>-
               </p>
               </div>
-           <div type="textpart" subtype="face" n="4">
+           <div type="textpart" subtype="face" n="4"><head xml:lang="eng">Left main part</head>
                <p>
 <lb n="1"/><supplied reason="lost">l· piṁhay</supplied>·, makatə<unclear>vəka</unclear>
 <lb n="2"/> <supplied reason="lost">śrī ma</supplied><unclear>h</unclear>ārāja ri maṇiratnasi<lb 
-    n="3" break="no"/><supplied  reason="lost">ṅhāsa</supplied>na makaḍatvan· vvatan mās<lb 
-        n="4" break="no"/>yapvan· hana sira kamatan· 
+    n="3" break="no"/><supplied  reason="lost">ṅhāsa</supplied>na makaḍatvan· vvatan mās
+<lb n="4" break="no"/>yapvan· hana sira kamatan· 
 <lb n="5"/> tan· yatna I sarany ājñā śrĭ ma<lb 
     n="6" break="no"/>hāraja, Umulahulaḥ Ikeṁ
 <lb n="7"/>sīma I muṅgut·, ya saṅkāna<lb 
@@ -179,8 +181,8 @@
         n="18" break="no"/>devī, sahananta hyaṁ kālamr̥tyu
 <lb n="19"/>yama baruṇa kuvera bāsava <unclear>ki</unclear><lb 
     n="20" break="no"/>ta masuki ma<unclear>n</unclear>arirerika vva<unclear>ṁ</unclear> sa<supplied reason="lost">r</supplied>vva 
-<lb n="21"/>siddha rikiṁ jagat·, yāvat· <gap reason="illegible" quantity="2" unit="character" cert="low"/>
-<lb n="22"/>gaṇagaṇa <gap reason="illegible" quantity="2" unit="character" cert="low"/>, Umulahulaḥ I<lb 
+<lb n="21"/>siddha rikiṁ jagat·, yāvat· <gap reason="illegible" quantity="2" unit="character"/>
+<lb n="22"/>gaṇagaṇa <gap reason="illegible" quantity="2" unit="character"/>, Umulahulaḥ I<lb 
     n="23" break="no"/>keṁ sīma I muṅgut· patyanantā ya 
 <lb n="24"/>kamuṁ hyaṁ śŭkṣma, deyantat· pa<lb 
     n="25" break="no"/>tīya, ta<unclear>n· to</unclear>liha ri vuntat·
@@ -190,39 +192,40 @@
             n="30" break="no"/>kan· vtaṅnya, <unclear>vtvakə</unclear>n daL̥manya, pa<lb 
                 n="31" break="no"/>ṅan dagiṁnya, Inum· rāḥnya <unclear>vkasaka</unclear><lb 
                     n="32" break="no"/>n· pranantika, <unclear>yan pare</unclear>ṅ ala<unclear>s·</unclear> 
-<lb n="33"/><gap reason="illegible" quantity="1" unit="character" cert="low"/> ki <gap reason="illegible" quantity="5" unit="character" cert="low"/> niṁ mon·
+<lb n="33"/><gap reason="illegible" quantity="1" unit="character"/> ki <gap reason="illegible" quantity="5" unit="character"/> niṁ mon·
                </p>
                </div>
-          <div type="textpart" subtype="face" n="5">
+          <div type="textpart" subtype="face" n="5"><head xml:lang="eng">Back: Additional lines at top</head>
                <p>
-<lb n="1"/><gap reason="illegible" quantity="5" unit="character" cert="low"/> 
-<lb n="2"/> ... <supplied reason="lost">sa</supplied>///mb<supplied reason="lost">ə</supplied>R̥n<unclear>i</unclear><supplied reason="lost">ṁ</supplied> glap·, puliraknaniṁ devamanyu /// ... 
+<lb n="1"/><gap reason="illegible" quantity="5" unit="character"/> 
+<lb n="2"/><gap reason="lost" extent="unknown" unit="character"></gap><supplied reason="lost">sa</supplied>mb<supplied reason="lost">ə</supplied>R̥n<unclear>i</unclear><supplied reason="lost">ṁ</supplied> glap·, puliraknaniṁ devamanyu 
                </p>
               </div>
-          <div type="textpart" subtype="face" n="6">
+          <div type="textpart" subtype="face" n="6"><head xml:lang="eng">Right upper part</head>
                <p>
-<lb n="1"/><gap reason="illegible" quantity="2" unit="character" cert="low"/> ya <gap reason="illegible" quantity="2" unit="character" cert="low"/> nināna sthipava
-<lb n="2"/><gap reason="illegible" quantity="6" unit="character" cert="low"/> bhraṣṭa lipu<lb 
-     n="3" break="no"/><gap reason="illegible" quantity="6" unit="character" cert="low"/> tan· sva <gap reason="illegible" quantity="2" unit="character" cert="low"/> 
-<lb n="4"/><gap reason="illegible" quantity="1" unit="character" cert="low"/> pipi <gap reason="illegible" quantity="6" unit="character" cert="low"/> nda <gap reason="illegible" quantity="2" unit="character" cert="low"/> 
-<lb n="5"/>nahahata rasa <gap reason="illegible" quantity="6" unit="character" cert="low"/> maṁ<lb 
+<lb n="1"/><gap reason="illegible" quantity="2" unit="character"/> ya <gap reason="illegible" quantity="2" unit="character"/> nināna sthipava
+<lb n="2"/><gap reason="illegible" quantity="6" unit="character"/> bhraṣṭa lipu<lb 
+     n="3" break="no"/><gap reason="illegible" quantity="6" unit="character"/> tan· sva <gap reason="illegible" quantity="2" unit="character"/> 
+<lb n="4"/><gap reason="illegible" quantity="1" unit="character"/> pipi <gap reason="illegible" quantity="6" unit="character"/> nda <gap reason="illegible" quantity="2" unit="character"/> 
+<lb n="5"/>nahahata rasa <gap reason="illegible" quantity="6" unit="character"/> maṁ<lb 
     n="6"/>kana tmahananikeṁ vvaṁ Anyāya
 <lb n="7"/>Um<unclear>u</unclear>lahula<unclear>ḥ Ik</unclear>eṁ sīma r<unclear>i</unclear> mu-
                </p>
               </div>
-          <div type="textpart" subtype="face" n="7">
+          <div type="textpart" subtype="face" n="7"><head xml:lang="eng">Left upper part</head>
                <p></p>
               </div>
-          <div type="textpart" subtype="face" n="8">
+          <div type="textpart" subtype="face" n="8"><head xml:lang="eng">Front: Additional lines at top</head>
                <p>
-<lb n="1"/><gap reason="illegible" quantity="1" unit="character" cert="low"/>  977 kā<unclear>la</unclear>
+<lb n="1"/><gap reason="illegible" quantity="1" unit="character"/>  977 kā<unclear>la</unclear>
 <lb n="2"/>sa<supplied reason="lost">ṁ</supplied> hadyan· <unclear>j</unclear>ujul· sulur· kabayan·                   
                </p>
               </div>
-          <div type="textpart" subtype="face" n="9">
+          <div type="textpart" subtype="face" n="9"><head xml:lang="eng">Front: Additional line at bottom</head>
                <p>
 <lb n="1"/>dhunenavana givihikən·, cagəm·, ṅayai
                </p>
+              </div>
               </div>
          <div type="apparatus">
            <!--apparatus encoded as per EG §9.1, basic elements for apparatus below-->
