@@ -77,7 +77,7 @@
                         <note><foreign>IA</foreign> is presumbaly an equivalent of <foreign>ya</foreign> in Kebantenan.</note>
                     </app>
                     <app>
-                        <lem>Ager</lem>
+                        <lem source="Noorduyn1988_01 HasanDjafar1991_01 TitiSurtiNastiti1996_01">Ager</lem>
                         <rdg source="RichadianaKartakusuma2005_01">A<choice><orig>g</orig><reg>ṅg</reg></choice>er</rdg>
                     </app>
                     <app loc="4">
@@ -119,7 +119,7 @@
                     <ptr target="bib:TitiSurtiNastiti1996_01"/><citedRange>1-13</citedRange>
                 </bibl>
                <bibl>
-                   <ptr target="bib:RichadianaKartakusuma2005"/><citedRange>49</citedRange>
+                   <ptr target="bib:RichadianaKartakusuma2005_01"/><citedRange>49</citedRange>
                </bibl>
             </listBibl>
                 
