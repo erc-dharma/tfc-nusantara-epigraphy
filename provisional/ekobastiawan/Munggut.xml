@@ -95,8 +95,8 @@
                 </div>
                  <div type="textpart" subtype="face" n="2"><head xml:lang="eng">Back main part</head>
                      <p>
-<lb n="1"/><unclear>ṇḍa ga</unclear><supplied reason="lost">ruḍam</supplied>u<unclear>kha, ma</unclear>karasa, An· sumima thāninya I muṅgut·, kumabhaktya<supplied reason="lost">na</supplied>
-<lb n="2"/>ra buyut· sūkṣma <unclear>An</unclear>iddhākna drabya haji paṅaṣṭaṅgī <abbr>mā</abbr> <num value="5">5</num> Aṅkən· katiga māsa, meriṅa sarvvavija lima
+<lb n="1"/><unclear>ṇḍa ga</unclear><supplied reason="lost">ruḍam</supplied>u<unclear>kha, ma</unclear>karasa, An· sumima thāninya I muṅgut·, <choice><sic>kumabhaktyan<lb 
+    n="2"/>ra</sic><corr>kumabhaktyana sira</corr></choice> buyut· sūkṣma <unclear>An</unclear>iddhākna drabya haji paṅaṣṭaṅgī <abbr>mā</abbr> <num value="5">5</num> Aṅkən· katiga māsa, meriṅa sarvvavija lima
 <lb n="3"/>sukat· ri savulu, kaharan· puṣpapañcopacāra, <choice><orig>tīlatela</orig><reg>tilataila</reg></choice>, dhŭpa, dīpa, gandha, mvaṁ nivedyādi prakāra, pū<lb 
     n="4" break="no"/>jāknanyăṁkən· katiga māsa, mvaṁ tan·tunya I saprakārani drabya hajī vuluvulu magəṁ maḍmit· kabeḥ, paṅkur·, tavan·
 <lb n="5"/>tirip· ṅuniveḥ sakveḥ saṁ maṅilala vuluvulu ri daṅū, makădi miśra, paramiśra, paṅuraṁ kriṁ, paḍəm· manimpiki pa<lb 
@@ -112,9 +112,9 @@
     n="15" break="no"/>beḥ, kadyaṅgāniṁ mayaṁ tan· pavvaḥ, valū rumambat iṁ natar·, vipati vaṅke kabunan·, rāḥ kasavur iṁ dalan·,
 <lb n="16"/>duhilatən·, sāhasa, vākcapala, hastacapala, mamijilakən· vuriniṁ kikir·, mamuk· mamumpaṁ
 <lb n="17"/>lūdan·, tūtan·, Aṅśa, pratyaṅśa, ḍəṇḍa kuḍəṇḍa, maṇḍihalādi prakāra, An<unclear>n</unclear> ikanaṁ karāman· I muṅgut· A<lb 
-    n="18" break="no"/>ta pramāṇā Irikā, maṅkana ra <unclear>s</unclear>aṁ hyaṅ ājñā haji kmitanikanaṁ karāman· I muṅgut·, sapasuk· ṣīma kabeḥ 
+    n="18" break="no"/>ta pramāṇā Irikā, maṅkana <choice><sic>ra <unclear>s</unclear>aṁ hyaṅ</sic><corr>rasa saṁ hyaṁ</corr></choice> ājñā haji kmitanikanaṁ karāman· I muṅgut·, sapasuk· ṣīma kabeḥ 
 <lb n="19"/> mvaṁ ri vnaṅanikanaṁ vargga mūla sīma I muṅgut· mapadagaṅa, lvīranya, Atitiḥ rvaṁ siki, Alavay· rvaṁ siki,
-<lb n="20"/><unclear>A</unclear>bana rvaṁ siki, Acămara rvaṁ siki, Aṅuñjal· rvaṁ siki, Aṅavari rvaṁ siki,  Amaṁmaṁ rvaṁ siki, A<unclear>mutimuti</unclear>
+<lb n="20"/><choice><sic><unclear>A</unclear>bana</sic><corr>Abasana</corr></choice> rvaṁ siki, Acămara rvaṁ siki, Aṅuñjal· rvaṁ siki, Aṅavari rvaṁ siki,  Amaṁmaṁ rvaṁ siki, A<unclear>mutimuti</unclear>
 <lb n="21"/>rvaṁ siki, paṇḍay· mās· rvaṁ siki, paṇḍay· vsi rvaṁ siki, paṇḍay· tāmra rvaṁ siki, paṇḍay· kaṅśa 
 <lb n="22"/>rvaṁ siki, Amutər· rvaṁ siki, <unclear>Apa</unclear>rahu rvaṁ siki, Adagaṁ sapi rvaṁ siki, Aṅulaṁ kbo rvaṁ siki, pa<unclear>ram·</unclear>-
                      </p>
@@ -230,7 +230,47 @@
          <div type="apparatus">
            <!--apparatus encoded as per EG §9.1, basic elements for apparatus below-->
                <listApp><!-- one <app> for each apparatus entry -->  
-                   <app ></app>
+                   <app  loc="1.5">
+                       <lem>kumonakən ikanaṁ</lem>
+                       <rdg source="bib:Damais1955_01">kumonakən nikanaṁ</rdg>
+                   </app>
+                   <app  loc="1.6">
+                       <lem>babadnya, maṅaran·</lem>
+                       <rdg source="bib:MachiSuhadi+RichadianaKartakusuma1996_01 bib:NinnySusanti2003_01">papadya maṅaran</rdg>
+                   </app>
+                   <app  loc="1.6">
+                       <lem>kilanogajusa</lem>
+                       <note>The apparent anusvāra on akṣara la seems to be due to an irregularity in the stone, so we ignore it.</note>
+                   </app>
+                   <app  loc="1.18">
+                       <lem>pa<unclear>gə</unclear>pagəḥ</lem>
+                       <note> For a similar phrase, see <ref target="kusambyan.xml">Kusambyan</ref>, face A and <ref target="simaanglayang.xml">Sima Angalayang</ref> 13v3 <foreign>saṁ hyaṁ Ājñā haji pagəḥpagəḥ</foreign>.</note>
+                   </app>
+                   <app  loc="2.5">
+                       <lem>saṁ maṅilala vuluvulu ri daṅū</lem>
+                       <note>It seems some words have been omitted here, because we expect <foreign>saṁ maṅilala drabya haji vuluvulu ri daṅū</foreign>.</note>
+                   </app>
+                   <app  loc="2.7">
+                       <lem>ramanaṅ s<unclear>va</unclear>ra gəṇḍiṁ</lem>
+                       <note>The reading is rather uncertain, all the more so as the words <foreign>svara gəṇḍiṁ</foreign> are not found in any of the numerous other instances of this kind of list known to us.</note>
+                   </app>
+                   <app  loc="2.11">
+                       <lem>paba<unclear>yai</unclear></lem>
+                       <note>We would like to be able to read <foreign>pabaye </foreign>(as in <ref target="Cane.xml">Cane</ref> and <ref target="TurunHyang.xml">Turun Hyang</ref> in the same contexts), but that seems difficult, so we opt for <foreign>yai </foreign>as close equivalent to account for the stroke seen above the akṣara. Another possibility would be to interpret that stroke as a layar and read <foreign>pabarye</foreign> (see another possible layar of this kind if one of the alternative readings with layar is to be adopted instead of <foreign>Amutimuti</foreign> at the end of line 22).</note>
+                   </app>
+                   <app  loc="2.17">
+                       <lem>An<unclear>n</unclear> ikanaṁ</lem>
+                       <note>The pasangan looks more like <foreign>t</foreign> than <foreign>n</foreign>, but we need pasangan <foreign>n</foreign> here. Cf. face d, line 17.
+</note>
+                   </app>
+                   <app  loc="2.18">
+                       <lem><choice><sic>ra <unclear>s</unclear>aṁ hyaṅ</sic><corr>rasa saṁ hyaṁ</corr></choice></lem>
+                       <note>Cf. <ref target="simaanglayang.xml">Sima Anglayang</ref> 13v6.</note>
+                   </app>
+                   <app  loc="2.20">
+                       <lem>A<unclear>mutimuti</unclear></lem>
+                       <note>Various alternatives readings are imaginable, depending on whether the word ended at the end of line 22, or whether anything was engraved before <foreign>rvaṁ</foreign> at the beginning of line 23, and on how the horizontal stroke above the penultimate akṣaras of line 22 is explained. Neither the reading tentatively adopted here, nor any of the alternatives we have considered (<foreign>Amutərmutəra, Amutimutiḥ, Amutirmutəḥ, Amutimutiḥ</foreign>), yield a word that is expected in this context.</note>
+                   </app>
                </listApp>         
          </div>
          <div type="translation" xml:lang="eng" resp="part:argr">
