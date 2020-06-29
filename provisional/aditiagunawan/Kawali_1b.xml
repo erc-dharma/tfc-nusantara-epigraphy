@@ -10,7 +10,7 @@
                     <resp>intellectual authorship of edition</resp><!-- this may be the same as the creator of the file -->
                     <persName ref="part:adgu">
                         <persName>
-                            <name>Aditia Gunawan</name>
+                            <name>Aditia Gunawan</name> <!-- Input Arlo -->
                         </persName>
                     </persName>
                 </respStmt>
@@ -50,24 +50,23 @@
                         </handDesc>
                     </physDesc>
                 </msDesc>
-                
             </sourceDesc>
         </fileDesc>
         <revisionDesc><change who="part:adgu" when="2020-05-18" status="draft">revision second round</change>
             <change who="part:axja" when="2020-03-27" status="draft">adding the handDesc template</change>
             <change who="part:axja" when="2020-01-09" status="draft">Update the template</change><!-- add a <change> for each change to the file, the first change should replace this one and record your creation of a file using this template. -->
+            <change who="part:adgu" when="2019" status="draft">Initial Encoding</change>
         </revisionDesc>
     </teiHeader>  
     <text xml:space="preserve">
         <body>
             <div type="edition" xml:lang="x-oldsun">
-                <l>
-                    <lb n="1"/>hayuA ḍiponaḥp<unclear>o</unclear><add place="below">naḥ</add>
-                    <lb n="2"/>hayuA ḍicavuḥcavu<unclear>ḥ</unclear>
-                    <lb n="3"/>IA neker Iña Ager
-                    <lb n="4"/>Iña ni<choice><orig>c</orig><reg>ñc</reg></choice>ak· Iña R̥<choice><orig>p</orig><reg>mp</reg></choice>ag·
-                </l>
-              
+                <lg>
+                    <l n="a"><milestone n="1" unit="face"/><lb n="1"/>hayuA ḍiponaḥ-p<unclear>o</unclear><add place="below">naḥ</add></l>
+                    <l n="b"><milestone n="2" unit="face"/>hayuA ḍicavuḥ-cavu<unclear>ḥ</unclear></l>
+                    <l n="c"><milestone n="3" unit="face"/>IA neker Iña Ager</l>
+                    <l n="d"><milestone n="4" unit="face"/>Iña ni<choice><orig>c</orig><reg>ñc</reg></choice>ak· Iña R̥<choice><orig>p</orig><reg>mp</reg></choice>ag·</l>
+                </lg>
             </div>
             <div type="apparatus">
                 <listApp>
