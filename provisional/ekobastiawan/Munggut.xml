@@ -138,8 +138,8 @@
                     n="15" break="no"/>olaviṣaya, coli<add place="below">ka</add>, malyāla, ka<lb 
                         n="16" break="no"/>rṇnāṭaka, callahāra, campa, R̥mən·,
 <lb n="17"/>havaṁ, mambaṁ, huñjəman·, senămu<lb 
-    n="18" break="no"/>kha, varahan·, mapaḍahi, keñcaka 
-<lb n="19"/>tarimba, matu<unclear>p</unclear>ukan·, Abañ<lb 
+    n="18" break="no"/>kha, varahan·, mapaḍahi, <choice><sic>keñcaka</sic><corr>kencaka</corr></choice> 
+<lb n="19"/>tarimba, mat<choice><sic>u<unclear>p</unclear>u</sic><corr>apu</corr></choice>kan·, Abañ<lb 
     n="20" break="no"/>ol·, salahan· varga kila<lb 
         n="21" break="no"/>lan·, Asiṁ samakavarga ya, A<lb 
             n="22" break="no"/>siṁ sa<gap reason="lost" quantity="1" unit="character"/>vr̥tinya, sadeśa-saṁka<lb 
@@ -270,6 +270,25 @@
                    <app  loc="2.20">
                        <lem>A<unclear>mutimuti</unclear></lem>
                        <note>Various alternatives readings are imaginable, depending on whether the word ended at the end of line 22, or whether anything was engraved before <foreign>rvaṁ</foreign> at the beginning of line 23, and on how the horizontal stroke above the penultimate akṣaras of line 22 is explained. Neither the reading tentatively adopted here, nor any of the alternatives we have considered (<foreign>Amutərmutəra, Amutimutiḥ, Amutirmutəḥ, Amutimutiḥ</foreign>), yield a word that is expected in this context.</note>
+                   </app>
+                   <app  loc="3.4-3.5">
+                       <lem>tamolah ata<unclear>ḥ paṅa</unclear>sthāna</lem>
+                       <note>The reading is rather uncertain, and the word <foreign>paṅasthāna</foreign> not recorded in <title>OJED</title> (which only records <foreign>paṅasthāna</foreign>), although we find it in a similar context in <ref target="simaanglayang.xml">Sima Anglayang</ref> 4v4–5: <foreign>yāvat tamolaḥ I saṁ hyaṁ sarvvadharmma, mvaṁ paṅasthāna ri jātakanira</foreign>.</note>
+                   </app>
+                   <app  loc="3.7">
+                       <lem><unclear>A</unclear>nn ikanaṁ</lem>
+                       <note>Instead of <foreign>A</foreign>, it would be easier to read <foreign>sa</foreign>, but this is hard to accept in the context. The turn of phrase <foreign>ann ikanaṅ</foreign> was also found above, in C, line 19.</note>
+                   </app>
+                   <app  loc="3.18">
+                       <lem><choice><sic>keñcaka</sic><corr>kencaka</corr></choice></lem>
+                       <note>No punctuation sign seems to have been engraved between this word and the next.</note><!--ekba: perhaps we can put this in commentary?-->              </app>
+                   <app  loc="3.27-3.28">
+                       <lem>tumūtak<unclear>na</unclear> yacānyayan ika masthānabati ri</lem>
+                       <note>we are unable to understand this sequence, and therefore uncertain about some of the readings as well as the word divisions. We suspect <foreign>yacānyayan</foreign> may be a scribal error for <foreign>yathānyayan</foreign> or <foreign>yavānya yan</foreign>, but in neither case do we obtain an understandable text. More substantial emendation seems to be necessary.</note>                   
+                   </app>
+                   <app  loc="3.33-3.34">
+                       <lem>tamolaḥ I pana<gap reason="lost" quantity="1" unit="character"/>taranya</lem>
+                       <note>Cf. <ref target="Cane.xml">Cane</ref> t<foreign>amolah ṅke ri sīmanya I cane kapaṅgiha deni savkavetnya</foreign>. See also the passages cited two notes below.</note>
                    </app>
                </listApp>         
          </div>
