@@ -165,7 +165,7 @@
 <lb n="2"/> <supplied reason="lost">śrī ma</supplied><unclear>h</unclear>ārāja ri maṇiratnasi<lb 
     n="3" break="no"/><supplied  reason="lost">ṅhāsa</supplied>na makaḍatvan· vvatan mās
 <lb n="4" break="no"/>yapvan· hana sira kamatan· 
-<lb n="5"/> tan· yatna I sarany ājñā śrĭ ma<lb 
+<lb n="5"/> tan· yatna I sara<choice><sic>ny</sic><corr>sanya</corr></choice> ājñā śrĭ ma<lb 
     n="6" break="no"/>hāraja, Umulahulaḥ Ikeṁ
 <lb n="7"/>sīma I muṅgut·, ya saṅkāna<lb 
     n="8" break="no"/>ni pramādanya, salvirani la<unclear>ṅgha</unclear><lb 
@@ -186,7 +186,7 @@
     n="23" break="no"/>keṁ sīma I muṅgut· patyanantā ya 
 <lb n="24"/>kamuṁ hyaṁ śŭkṣma, deyantat· pa<lb 
     n="25" break="no"/>tīya, ta<unclear>n· to</unclear>liha ri vuntat·
-<lb n="26"/>tatiṅhala ri likuran·, taruṁ riṅ adga<lb 
+<lb n="26"/>ta<choice><orig>tiṅ</orig><reg>t tiṅ</reg></choice>hala ri likuran·, taruṁ riṅ adga<lb 
     n="27" break="no"/>n·, tampyal· <unclear>I</unclear> hiriṅan·, tutu<lb 
         n="28" break="no"/>ḥ tuṇḍanya, blaḥ kapălanya, carika<lb 
             n="30" break="no"/>kan· vtaṅnya, <unclear>vtvakə</unclear>n daL̥manya, pa<lb 
@@ -289,6 +289,18 @@
                    <app  loc="3.33-3.34">
                        <lem>tamolaḥ I pana<gap reason="lost" quantity="1" unit="character"/>taranya</lem>
                        <note>Cf. <ref target="Cane.xml">Cane</ref> t<foreign>amolah ṅke ri sīmanya I cane kapaṅgiha deni savkavetnya</foreign>. See also the passages cited two notes below.</note>
+                   </app>
+                   <app  loc="4.5">
+                       <lem>sara<choice><sic>ny</sic><corr>sanya</corr></choice></lem>
+                       <note>See <ref target="Baru.xml">Baru</ref>, faces Cd lines 8 and 39, and <ref target="Gandhakuti.xml">Gandhakuti </ref>plate IV, verso, line 5.</note>
+                   </app>
+                   <app  loc="4.25">
+                       <lem>ta<unclear>n· to</unclear>liha</lem>
+                       <note> The presence of a large irregularity in the surface of the stone and the descending parts of the word <foreign>sŭkṣm</foreign>a in line 24 make it hard to recognize the expected segment <foreign>n· to</foreign>.</note>
+                   </app>
+                   <app  loc="9.1">
+                       <lem>dhunenavana givihikən·, cagəm·, ṅayai</lem>
+                       <note>Seemingly only proper names, none recognizable with certainty.</note>
                    </app>
                </listApp>         
          </div>
