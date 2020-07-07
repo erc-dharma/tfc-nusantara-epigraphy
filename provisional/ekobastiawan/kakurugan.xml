@@ -57,47 +57,78 @@
             </msDesc>  
             </sourceDesc>
         </fileDesc>
-      <revisionDesc><change who="part:ekba" when="2020-04-10" status="draft">updated the line numbering</change>
-          <change who="part:axja" when="2020-03-27" status="draft">adding the handDesc template</change>
-            <change who="part:ekba" when="2020-02-01" status="draft">Revised the initial encoding</change>
-            <change who="part:axja" when="2020-01-09" status="draft">Update the template</change>
+      <revisionDesc>
+        <change who="part:ekba" when="2020-07-07" status="draft">revised initial encoding</change>
+        <change who="part:ekba" when="2020-04-10" status="draft">updated the line numbering</change>
+        <change who="part:axja" when="2020-03-27" status="draft">adding the handDesc template</change>
+        <change who="part:ekba" when="2020-02-01" status="draft">Revised the initial encoding</change>
+        <change who="part:axja" when="2020-01-09" status="draft">Update the template</change>
         </revisionDesc>
     </teiHeader>   
     <text xml:space="preserve">
         <body>
             <div type="edition" xml:lang="kaw-Latn">
                 <pb n="1r"/><!--Blank outer page.-->
-<p><pb n="1v"/>
-<lb n="1v1"/>// , <g type="symbol" subtype="finalGomutra"/> , // svasti śakavarṣātīta, <num value="945">945</num>, Asujimāsa, tithi navamī śuklapakṣa, <abbr>pa</abbr>, <abbr>po</abbr>, <abbr>vr̥</abbr>, vā<lb n="1v2" break="no"/>ra kuniṅan·, v<choice><orig>ī</orig><reg>i</reg></choice>śva<surplus>ra</surplus>devatā, d<supplied reason="omitted">h</supplied>r̥<surplus>t</surplus>tiyoga, kolavak<choice><orig>ā</orig><reg>a</reg></choice>raṇa, bāyabyāstha, Irika divaśa<lb n="1v3" break="no"/>nyājñā śrī mahārāja rakai halu śrī lokeśvara dharmmavaṅśa Airlaṅgānantavikramotuṅgadeva,
-<lb n="1v4"/>tinaḍaḥ de rakryan· mahāmantrī hino śrī saṁgrāmavijayadharmmaprasādottuṅgadevī, Umi<lb n="1v5" break="no"/>ṅsor i taṇḍa rakryan· riṁ pakirakirān· makabehan·, kumonakənn irikaṁ sama sānak· dyaḥ    
+              <p>
+<pb n="1v"/>
+<lb n="1v1"/><g type="ddandaOrnate">.</g>, <g type="circleTarget">.</g>, <g type="ddandaOrnate">.</g> svasti śakavarṣātīta, <num value="945">945</num>, Asujimāsa, tithi navamī śuklapakṣa, <abbr>pa</abbr>, <abbr>po</abbr>, <abbr>vr̥</abbr>, vā<lb n="1v2" break="no"/>ra kuniṅan·, v<choice><orig><reg><unclear>ī</unclear>i</reg></orig></choice>śva<surplus>ra</surplus>devatā, d<choice><orig>r̥t</orig><reg>hr̥</reg></choice>tiyoga, kolavak<choice><orig>ā</orig><reg>a</reg></choice>raṇa, bāyabyāstha, Irika divaśa<lb 
+  n="1v3" break="no"/>nyājñā śrī mahārāja rakai halu śrī lokeśvara dharmmavaṅśa Airlaṅgānantavikramotuṅgadeva,
+<lb n="1v4"/>tinaḍaḥ de rakryan· mahāmantrī hino śrī saṁgrāmavijayadharmmaprasādottuṅgadevī, Umi<lb 
+  n="1v5" break="no"/>ṅsor i taṇḍa rakryan· riṁ pakirakirān· makabehan·, kumonakənn irikaṁ sama sānak· dyaḥ    
 <pb n="2r"/>
  <fw n="2r" place="right"><num value="2">2</num></fw>   
-<lb n="2r1"/>kakīṅ aduL̥ṅən·, sambandha, Ikaṁ sama sānak· dyaḥ kakīṅ aduL̥ṅən·, tan· kapālaṅalaṁ suṣṭu<lb n="2r2" break="no"/>bhakti I pāduka śrī mahārāja, lot kahudanan·, kapyayān·, An paṅekānta I pāduka śrī ma<lb n="2r3" break="no"/>hārāja, makacihnan ikaṁ sama sānak· dyaḥ kakīṅ aduL̥ṅən· sākṣăt· varttamăṇa, pinakahastap(ā)<lb n="2r4" break="no"/>da de pāduka śrī mahārāja, sārisāri tan pangahaṅelāvan panas tis· An· sumiddhākən sapaṅutu<lb n="2r5" break="no"/>s· pāduka śrī mahārāja samaṅkana gə:ṁniṁ kasuṣṭubhaktinikaṁ sama sānak· dyaḥ kakīṅ aduL̥ṅən·    
+<lb n="2r1"/>kakīṅ aduL̥ṅən·, sambandha, Ikaṁ sama sānak· dyaḥ kakīṅ aduL̥ṅən·, tan· kapālaṅalaṁ suṣṭu<lb 
+  n="2r2" break="no"/>bhakti I pāduka śrī mahārāja, lot kahudanan·, kapyayān·, An paṅekānta I pāduka śrī ma<lb 
+    n="2r3" break="no"/>hārāja, makacihnan ikaṁ sama sānak· dyaḥ kakīṅ aduL̥ṅən· sākṣăt· varttamăṇa, pinakahastap<unclear>ā</unclear><lb 
+      n="2r4" break="no"/>da de pāduka śrī mahārāja, sārisāri tan pangahaṅelāvan panas tis· An· sumiddhākən sapaṅutu<lb 
+        n="2r5" break="no"/>s· pāduka śrī mahārāja samaṅkana gə:ṁniṁ kasuṣṭubhaktinikaṁ sama sānak· dyaḥ kakīṅ aduL̥ṅən·    
 <pb n="2v"/>
-<lb n="2v1"/>ya tikānuvuhakən· citta paramakăruṇyā ri manaḥ pāduka śrī mahārāja, mataṅnyan· Inanu<lb n="2v2" break="no"/>grahakən· tekaṁ kakurugan· sumlat irikaṁ thānī sijanatyəsan· salamban· vetan·, tambəha<lb n="2v3" break="no"/>ni sīma sama sānak· dyaḥ kakīṅ aduL̥ṅən·, samaṅkana rasanyānugraha pāduka śrī mahārāja, I
-<lb n="2v4"/>sama sānak· dyaḥ kakīṅ aduL̥ṅən·, muvaḥ turunyānugraha pāduka śrī mahārāja, I samasāna<lb n="2v5" break="no"/>k· dyaḥ kakīṅ aduL̥ṅən·, ri hananiṁ Asambyāvahara, ṅuniveḥ Ikaṁ carik· huma salviranya,   
+<lb n="2v1"/>ya tikānuvuhakən· citta paramakăruṇyā ri manaḥ pāduka śrī mahārāja, mataṅnyan· Inanu<lb 
+  n="2v2" break="no"/>grahakən· tekaṁ kakurugan· sumlat irikaṁ thānī sijanatyəsan· salamban· vetan·, tambəha<lb 
+    n="2v3" break="no"/>ni sīma sama sānak· dyaḥ kakīṅ aduL̥ṅən·, samaṅkana rasanyānugraha pāduka śrī mahārāja, I
+<lb n="2v4"/>sama sānak· dyaḥ kakīṅ aduL̥ṅən·, muvaḥ turunyānugraha pāduka śrī mahārāja, I samasāna<lb 
+  n="2v5" break="no"/>k· dyaḥ kakīṅ aduL̥ṅən·, ri hananiṁ Asambyāvahara, ṅuniveḥ Ikaṁ carik· huma salviranya,
+</p>
+<pb n="3r"/><gap reason="lost" quantity="5" unit="line"/>
+<pb n="3v"/><gap reason="lost" quantity="5" unit="line"/>
+<p part="F">
 <pb n="4r"/>
 <lb n="4r1"/>siṅgaḥ, pabr̥ṣi, vidu maṅiduṁ, tan tama ta ya ri sama sānak· dyaḥ kakīṅ aduL̥ṅən· kevala
-<lb n="4r2"/>sama sānak· dyaḥ kaki pramāṇa Irika kabeḥ, maṅkana tekaṁ sukhaduḥkha, kadyāṅganiṁ mayaṁ ta<lb n="4r3" break="no"/>n pavvaḥ valū rumambat iṁ natar·, vipati vaṅke kabunan· rāḥ kasavur iṁ natar·, kaḍal mati riṅ havan·, sā<lb n="4r4" break="no"/>hasa, vākcapala, hastacapala, duhilatən·, hidū kasirat·, mamijilakən· vuryyaniṁ kikir·, mamuk·
-<lb n="4r5"/>, mamumpaṁ, ludan·, tūtan·, haṅśa pratyaṅśa, ḍəṇḍa kuḍəṇḍa, maṇḍihalādi saprakāra kabeḥ, ya ti<pb n="4v" break="no"/>
-<fw n="4v" place="right"><num value="4">4</num></fw>   
-<lb n="4v1" break="no"/>ka sama sānak· dyaḥ kakīṅ aduL̥ṅən· pramāṇa I sadravya hajinya kabeḥ, samaṅkana turu<g type="filler">§</g><lb n="4v2" break="no"/>nyānugraha pāduka śrī mahārāja, I sama sānak· dyaḥ kakīṅ aduL̥ṅən·, muvah anugraha pā<lb n="4v3" break="no"/>duka śrī mahārāja, I sama sānak· dyaḥ kaki yan paṁhivva rare vnaṅăvida năgarāśī, Anapiha<lb n="4v4" break="no"/>na sakavnaṁ, muvaḥ vnaṅăpasiliḥ L̥<surplus>L̥</surplus>mbu<supplied reason="omitted">t·</supplied>, vnaṁ mavalya tuvuḥ vatu, hurip ānak·, tuṅgakniṁ varyyaṁ, tutu<lb n="4v5" break="no"/>ñjuṁ, pahavvahavvan·, macivapatra, masantya, muvaḥ vnaṅ ariṁriṅa banantən·, paluṅan sinahaban· ba<pb n="5r" break="no"/>
-<lb n="5r1" break="no"/>nantən·, vnaṅăsuragā banantən·, tan· jamūs·, Ajnva halaṁ, Asumpiṅa tuñjuṁ sinivak·, vnaṅ anu<lb n="5r2" break="no"/>suna palaṅka binubut·, bale Inantun·, varuga tinuvuṁ, palavaṅan tinutub·, muvaḥ vnaṅ ama<g type="filler">§</g><lb n="5r3" break="no"/>ṅana salvirniṁ rājamăṅśa, baḍavaṁ, vḍus· guntiṁ, Asu tugəl·, karuṁ puliḥ, karuṁ matīṅ gantuṅan·, vnaṅ ā<lb n="5r4" break="no"/>huluna pujut·, bhoṇḍan·, Añjamaha rare kavula, Amupuha kavula, vnaṁ UṅśiR̥n iṁ strī laraṅan·
-<lb n="5r5"/>vvaṅ i jro, Ulunulun miṅgat <supplied reason="omitted">t</supplied><!-- I am not sure about this part -->uhun· tan ulihanya maṅiṅgatakən· mvaṁ tan pakastry anya, vnaṁ UṅśiR̥n iṁ maliṁ
+<lb n="4r2"/>sama sānak· dyaḥ kaki pramāṇa Irika kabeḥ, maṅkana tekaṁ sukhaduḥkha, kadyāṅganiṁ mayaṁ ta<lb 
+  n="4r3" break="no"/>n pavvaḥ valū rumambat iṁ natar·, vipati vaṅke kabunan· rāḥ kasavur iṁ natar·, kaḍal mati riṅ havan·, sā<lb 
+    n="4r4" break="no"/>hasa, vākcapala, hastacapala, duhilatən·, hidū kasirat·, mamijilakən· vuryyaniṁ kikir·, mamuk·
+<lb n="4r5"/>, mamumpaṁ, ludan·, tūtan·, haṅśa pratyaṅśa, ḍəṇḍa kuḍəṇḍa, maṇḍihalādi saprakāra kabeḥ, ya ti<pb 
+  n="4v" break="no"/><fw n="4v" place="right"><num value="4">4</num></fw><lb 
+    n="4v1" break="no"/>ka sama sānak· dyaḥ kakīṅ aduL̥ṅən· pramāṇa I sadravya hajinya kabeḥ, samaṅkana turu<g type="squiggleVertical">§</g><lb 
+      n="4v2" break="no"/>nyānugraha pāduka śrī mahārāja, I sama sānak· dyaḥ kakīṅ aduL̥ṅən·, muvah anugraha pā<lb 
+        n="4v3" break="no"/>duka śrī mahārāja, I sama sānak· dyaḥ kaki yan paṁhivva rare vnaṅăvida năgarāśī, Anapiha<lb 
+          n="4v4" break="no"/>na sakavnaṁ, muvaḥ vnaṅăpasiliḥ L̥<surplus>L̥</surplus>mbu<supplied reason="omitted">t·</supplied>, vnaṁ mavalya tuvuḥ vatu, hurip ānak·, tuṅgakniṁ varyyaṁ, tutu<lb 
+            n="4v5" break="no"/>ñjuṁ, pahavvahavvan·, macivapatra, masantya, muvaḥ vnaṅ ariṁriṅa banantən·, paluṅan sinahaban· ba<pb n="5r" break="no"/><lb 
+              n="5r1" break="no"/>nantən·, vnaṅăsuragā banantən·, tan· jamūs·, Ajnva halaṁ, Asumpiṅa tuñjuṁ sinivak·, vnaṅ anu<lb 
+                n="5r2" break="no"/>suna palaṅka binubut·, bale Inantun·, varuga tinuvuṁ, palavaṅan tinutub·, muvaḥ vnaṅ ama<g type="squiggleVertical">§</g><lb 
+                  n="5r3" break="no"/>ṅana salvirniṁ rājamăṅśa, baḍavaṁ, vḍus· guntiṁ, Asu tugəl·, karuṁ puliḥ, karuṁ matīṅ gantuṅan·, vnaṅ ā<lb n="5r4" break="no"/>huluna pujut·, bhoṇḍan·, Añjamaha rare kavula, Amupuha kavula, vnaṁ UṅśiR̥n iṁ strī laraṅan·
+<lb n="5r5"/>vvaṅ i jro, Ulun-ulun miṅgat <supplied reason="omitted"> t</supplied>uhun· tan ulihanya maṅiṅgatakən· mvaṁ tan pakastry anya, vnaṁ UṅśiR̥n iṁ maliṁ
 <pb n="5v"/>
 <fw n="5v" place="right"><num value="5">5</num></fw>   
 <lb n="5v1"/>tləs·, Aṁlūputaknāmuk·, vnaṅ amuḍug· tugəl·, L̥mbva<unclear>nusapigva</unclear>nya, năga saleṁ, tikus atut· buvu<lb n="5v2" break="no"/>ṅan·, Aṅuyuhi kikis·, vnaṁ UṅśiR̥n iṅ ahutaṁ raṅaṁ katmu tataL̥n sahutaṁnya puhakana, <abbr>mā</abbr> <num value="1">1</num>
-<lb n="5v3"/>riṁ <abbr>sū</abbr> <num value="1">1</num>, Aṅkən· tahun·, muvaḥ vnaṁ katmvananiṁ sapi gave tbusən iṁ pirak·, <abbr>ku</abbr> <num value="2">2</num>, de saṁ madr̥vya, vna<lb n="5v4" break="no"/>ṅ amgata vat<unclear>i</unclear>s· yan· kahayvaknaniṁ cārik· donanya, samaṅkana turunyānugraha pāduka śrī
-<lb n="5v5"/>mahārāja, katmu kaliliranani vka vet sama sānak· dyaḥ kakīṅ aduL̥ṅən·, mne hləm· tka ri dlāha<pb n="6r" break="no"/>
-<lb n="6r1" break="no"/>niṁ dlāha, maṅkana rasanyānugraha pāduka śrī mahārāja, I samasānak· dyaḥ kaki, muvah anugra<lb n="6r2" break="no"/>ha śrī mahārāja, ri tatkālani kapūjān· saṁ hyaṁ rājapraśāsti, vnaṅ amaguta pajə:ṁ piṅul·, vnaṅ a<lb n="6r3" break="no"/>ṅūṅkūṅa curiṁ rahina vṅi, Avavara səmpal·, ndatan paṅirasa ta dyaḥ kaki vatək· yān· maṅkana, mu<lb n="6r4" break="no"/>vaḥ maṅhanakna savuṁ, juḍi, nita, pariparihan·, sapkən ta lavasanya, samaṅkana tiṅkahni kapūjān·
-<lb n="6r5"/>saṁ hyaṁ rājapraśāsti, muvaḥ <supplied reason="omitted">a</supplied>nugraha śrī mahārāja, Ikaṁ kakurugan· sumla<choice><sic>p</sic><corr>t</corr></choice>· Irikaṁ thāni pañjiṁ si<pb n="6v" break="no"/>
-<lb n="6v1" break="no"/>janatvasan·, lamban· vetan·, I karaḥ, liriḥ, <num value="9">9</num>, I gsaṁ, jə:ṁ <num value="6">6</num>, I camuṇḍa, liriḥ, <num value="9">9</num>, I vano tṅaḥ, <abbr>mā</abbr> <num value="4">4</num>, sa<lb n="6v2" break="no"/>maṅkana kveh ikaṁ kakurugan· Inanugrahakən de śrī mahārāja, I sama sānak· dyaḥ kakīṅaduL̥ṅən· ,, // ,, //    
+<lb n="5v3"/>riṁ <abbr>sū</abbr> <num value="1">1</num>, Aṅkən· tahun·, muvaḥ vnaṁ katmvananiṁ sapi gave tbusən iṁ pirak·, <abbr>ku</abbr> <num value="2">2</num>, de saṁ madr̥vya, vna<lb 
+  n="5v4" break="no"/>ṅ amgata vat<unclear>i</unclear>s· yan· kahayvaknaniṁ cārik· donanya, samaṅkana turunyānugraha pāduka śrī
+<lb n="5v5"/>mahārāja, katmu kaliliranani vka vet sama sānak· dyaḥ kakīṅ aduL̥ṅən·, mne hləm· tka ri dlāha<pb 
+  n="6r" break="no"/><lb 
+    n="6r1" break="no"/>niṁ dlāha, maṅkana rasanyānugraha pāduka śrī mahārāja, I samasānak· dyaḥ kaki, muvah anugra<lb 
+      n="6r2" break="no"/>ha śrī mahārāja, ri tatkālani kapūjān· saṁ hyaṁ rājapraśāsti, vnaṅ amaguta pajə:ṁ piṅul·, vnaṅ a<lb 
+        n="6r3" break="no"/>ṅūṅkūṅa curiṁ rahina vṅi, Avavara səmpal·, ndatan paṅirasa ta dyaḥ kaki vatək· yān· maṅkana, mu<lb 
+          n="6r4" break="no"/>vaḥ maṅhanakna savuṁ, juḍi, nita, pariparihan·, sapkən ta lavasanya, samaṅkana tiṅkahni kapūjān·
+<lb n="6r5"/>saṁ hyaṁ rājapraśāsti, muvaḥ <supplied reason="omitted">a</supplied>nugraha śrī mahārāja, Ikaṁ kakurugan· sumla<choice><sic>p</sic><corr>t</corr></choice>· Irikaṁ thāni pañjiṁ si<pb 
+  n="6v" break="no"/><lb 
+    n="6v1" break="no"/>janatvasan·, lamban· vetan·, I karaḥ, liriḥ, <num value="9">9</num>, I gsaṁ, jə:ṁ <num value="6">6</num>, I camuṇḍa, liriḥ, <num value="9">9</num>, I vano tṅaḥ, <abbr>mā</abbr> <num value="4">4</num>, sa<lb 
+      n="6v2" break="no"/>maṅkana kveh ikaṁ kakurugan· Inanugrahakən de śrī mahārāja, I sama sānak· dyaḥ kakīṅaduL̥ṅən· ,, <g type="ddandaOrnate">.</g> ,, <g type="ddandaOrnate">.</g>    
 </p>
             </div>
             <div type="apparatus">
                 <listApp>
                     <app loc="1v2">
-                      <lem>kolavakāraṇa</lem>
+                      <lem>kolavak<choice><orig>ā</orig><reg>a</reg></choice>raṇa</lem>
                       <rdg source="bib:Boechari1985-1986_01 bib:NinnySusanti2003_01">kolava karaṇa</rdg>
                       </app>
                     <app loc="1v4">
@@ -118,11 +149,12 @@
                       <rdg source="bib:Boechari1985-1986_01 bib:NinnySusanti2003_01">varttameṇa</rdg>
                       </app>
                     <app loc="2r3-2r4">
-                      <lem>pinakahastapāda</lem>
+                      <lem>pinakahastap<unclear>ā</unclear>da</lem>
                       <rdg source="bib:Boechari1985-1986_01 bib:NinnySusanti2003_01">pinaka hasta pada</rdg>
                       </app>
                     <app loc="2r4">
-                      <note><foreign>pangahaṅelāvan</foreign>: I tentatively conjecture <foreign>paṅguh aṅel lāvan</foreign></note>
+                      <lem source="bib:Boechari1985-1986_01 bib:NinnySusanti2003_01">pangahaṅelāvan</lem>
+                      <note>I tentatively conjecture <foreign>paṅguh aṅel lāvan</foreign>.</note>
                       </app>
                     <app loc="2r4">
                       <lem source="bib:NinnySusanti2003_01">sumiddhākən</lem>
@@ -150,8 +182,8 @@
                       <rdg source="bib:NinnySusanti2003_01">muvah turunyanugraha paduka sri maharaja</rdg>
                       </app>
                     <app loc="2v5">
-                      <lem source="bib:Boechari1985-1986_01">Asambyāvahara</lem>
-                      <rdg source="bib:NinnySusanti2003_01">Asambyāvahāra</rdg>
+                      <lem source="bib:NinnySusanti2003_01">Asambyāvahara</lem>
+                      <rdg source="bib:Boechari1985-1986_01">Asambyāvahāra</rdg>
                       </app>
                     <app loc="4r1">
                       <lem source="bib:Boechari1985-1986_01">siṅgaḥ</lem>
@@ -169,6 +201,10 @@
                       <lem source="bib:Boechari1985-1986_01">kabeḥ</lem>
                       <rdg source="bib:NinnySusanti2003_01">kabeh</rdg>
                       </app>
+                  <app loc="4r2">
+                      <lem>maṅkana</lem>
+                      <rdg source="bib:Boechari1985-1986_01 bib:NinnySusanti2003_01">maṁkana</rdg>
+                        </app>
                     <app loc="4r2">
                       <lem>sukhaduḥkha</lem>
                       <rdg source="bib:Boechari1985-1986_01">suka duḥka</rdg>
@@ -179,8 +215,8 @@
                         <rdg source="bib:NinnySusanti2003_01">rāh</rdg>
                       </app>
                     <app loc="4r5">
-                      <lem>ḍəṇḍa kuḍəṇḍa</lem>
-                        <rdg source="bib:Boechari1985-1986_01 bib:NinnySusanti2003_01">dəṇḍa kuḍəṇḍa</rdg>                        
+                      <lem>ḍəṇḍa</lem>
+                        <rdg source="bib:Boechari1985-1986_01 bib:NinnySusanti2003_01">dəṇḍa</rdg>                        
                       </app>
                     <app loc="4v1">
                       <lem>dyaḥ</lem>
@@ -193,6 +229,11 @@
                     <app loc="4v1">
                       <lem source="bib:Boechari1985-1986_01">sadravya</lem>
                         <rdg source="bib:NinnySusanti2003_01">sadrvya</rdg>                        
+                      </app>
+                  <app loc="4v1-4v2">
+                      <lem>turu<g type="squiggleVertical">§</g>nyānugraha</lem>
+                        <rdg source="bib:Boechari1985-1986_01 bib:NinnySusanti2003_01">turunyānugraha</rdg>
+                    <note>Both Boechari and Ninny Susanti  did not indicate the presence of space filler </note><!--ekba added this note-->
                       </app>
                     <app loc="4v2">
                       <lem>muvah anugraha</lem>
@@ -211,6 +252,11 @@
                       <lem source="bib:Boechari1985-1986_01">vnaṅăpasiliḥ</lem>
                         <rdg source="bib:NinnySusanti2003_01">vnaṅapasilih</rdg>                                                
                       </app>
+                  <app loc="4v4">
+                      <lem source="bib:Boechari1985-1986_01">L̥<surplus>L̥</surplus>mbu<supplied reason="omitted">t·</supplied></lem>
+                        <rdg source="bib:NinnySusanti2003_01">L̥L̥mbu</rdg>
+                    <note>As proposed in <title>OJED</title> s.v. <foreign>pasilih</foreign>?</note>
+                      </app>
                     <app loc="4v4">
                       <lem source="bib:Boechari1985-1986_01">tuvuḥ</lem>
                         <rdg source="bib:NinnySusanti2003_01">tuvuh</rdg>                                                
@@ -219,19 +265,29 @@
                       <lem>tutuñjuṁ</lem>
                         <rdg source="bib:Boechari1985-1986_01 bib:NinnySusanti2003_01">tutunjuṁ</rdg>                                                
                       </app>
-                    <app loc="4v4-4v5">
+                  <app loc="4v5">
+                      <lem source="bib:Boechari1985-1986_01 bib:NinnySusanti2003_01">macivapatra</lem>
+                        <note><title>OJED</title> has (wrongly?) normalized as <foreign>śivapatra</foreign> all occurrences of the word <foreign>civapatra</foreign> that it cites: <bibl><ptr target="bib:CohenStuart1875_01"/><citedRange>KO VII (931) IIIb.3, KO V (1023) 4b.5</citedRange></bibl>; <bibl><ptr target="bib:Brandes1913_01"/><citedRange>OJO CXVIII 19</citedRange></bibl>.</note>                                                
+                      </app>
+                    <app loc="4v5">
                       <lem source="bib:Boechari1985-1986_01">muvaḥ</lem>
                         <rdg source="bib:NinnySusanti2003_01">muvah</rdg>                                                
                       </app>
-                    <app loc="4v4-4v5">
+                    <app loc="4v5">
                       <lem>ariṁriṅa banantən·</lem>
-                        <rdg source="bib:Boechari1985-1986_01">ariṅriṅa         banantən·</rdg>
-                        <rdg source="bib:NinnySusanti2003_01">ariṅrina ......... banantən·</rdg>
-                        <note><foreign>ariṁriṅa banantən·</foreign>: There is no actual gap between these words in the inscription as noted by Boechari and Ninny Susanti.</note>
+                      <rdg source="bib:Boechari1985-1986_01">ariṁriṅa         banantən·</rdg>
+                        <rdg source="bib:NinnySusanti2003_01">ariṅrina          banantən·</rdg>
+                        <note>There is no actual gap between these words in the inscription as noted by Boechari and Ninny Susanti.</note>
                       </app>
                     <app loc="5r2">
                       <lem source="bib:Boechari1985-1986_01">muvaḥ</lem>
                         <rdg source="bib:NinnySusanti2003_01">muvah</rdg>                                                
+                      </app>
+                  <app loc="5r2-5r3">
+                      <lem>vnaṅ ama<g type="squiggleVertical">§</g>ṅana</lem>
+                        <rdg source="bib:Boechari1985-1986_01">vanaṅ amaṅana</rdg>
+                    <rdg source="bib:NinnySusanti2003_01">vnaṅ amaṅana</rdg>
+                    <note>Both Boechari and Ninny Susanti  did not indicate the presence of space filler </note><!--ekba added this note-->
                       </app>
                     <app loc="5r3">
                       <lem source="bib:NinnySusanti2003_01">rājamăṅśa</lem>
@@ -247,7 +303,7 @@
                       </app>
                     <app loc="5r3-5r4">
                       <lem>āhuluna</lem>
-                        <rdg source="bib:Boechari1985-1986_01 bib:NinnySusanti2003_01">huluna</rdg>                                                
+                        <rdg source="bib:Boechari1985-1986_01 bib:NinnySusanti2003_01">ahuluna</rdg>                                                
                       </app>
                     <app loc="5r4">
                       <lem source="bib:Boechari1985-1986_01">bhoṇḍan·</lem>
@@ -262,7 +318,9 @@
                         <rdg source="bib:Boechari1985-1986_01 bib:NinnySusanti2003_01">Uṅsirən</rdg>                                                
                       </app>
                     <app loc="5r5">
-                      <note><foreign>Ulunulun miṅgat tuhun·</foreign>: Waharu IV (E. 20): <foreign>wnaŋ katəmon=iŋ strī laraṅan. wuṅaṅ=i jro. hulunhulun miṅgat, tuhun tan=ulihanya ṅiṅgatakən. muaŋ tanpa kastrīanya</foreign>. Also in Kañcana charter.</note>                                                
+                      <lem>Ulun-ulun miṅgat <supplied reason="omitted"> t</supplied>uhun·</lem>
+                      <rdg source="bib:Boechari1985-1986_01 bib:NinnySusanti2003_01">Ulun-ulun miṅgatuhun·</rdg>
+                      <note>Cf. <ref target="WaharuIV.xml">Waharu IV </ref>(E. 20) <foreign>vnaṁ katəmon:iṁ strī laraṅan·, vuṅaṅ:i jro, hulun-hulun miṅgat·, tuhun tan:ulihanya ṅiṅgatakən·,  muAṁ tan pakastrīanya</foreign>. Also in <ref target="Kancana.xml">Kañcana</ref> charter.</note>                                                
                       </app>
                     <app loc="5r5">
                       <lem source="bib:Boechari1985-1986_01">ulihanya</lem>
@@ -281,10 +339,19 @@
                       <lem source="bib:NinnySusanti2003_01">amuḍug·</lem>
                         <rdg source="bib:Boechari1985-1986_01">amuḍuṁ</rdg>     
                       </app>
+                  <app loc="5v1">
+                      <lem >L̥mbva<unclear>nusapigva</unclear>nya</lem>
+                        <rdg source="bib:Boechari1985-1986_01 bib:NinnySusanti2003_01">ləmbvanusapigvanya</rdg>     
+                    <note>Or read <foreign>L̥mbv anusar pagvanya</foreign> (as Cohen Stuart did)?</note>
+                  </app>
                     <app loc="5v2">
                       <lem>UṅśiR̥n</lem>
                         <rdg source="bib:Boechari1985-1986_01">Uṅśirən</rdg>
                         <rdg source="NinnySusanti2003_01">Uṅsirən</rdg>
+                      </app>
+                  <app loc="5v2-5v3">
+                      <lem><abbr>mā</abbr> <num value="1">1</num> riṁ <abbr>sū</abbr> <num value="1">1</num></lem>
+                        <rdg source="CohenStuart1875_01 bib:Boechari1985-1986_01 NinnySusanti2003_01">māga riṁ sūga</rdg>
                       </app>
                     <app loc="5v3">
                       <lem>saṁ madr̥vya</lem>
@@ -300,18 +367,22 @@
                         <rdg source="NinnySusanti2003_01">paduka</rdg>
                       </app>
                     <app loc="6r1">
-                      <lem source="NinnySusanti2003_01">dyaḥ</lem>
-                        <rdg source="bib:Boechari1985-1986_01">I dyaḥ</rdg>
+                      <lem source="NinnySusanti2003_01">samasānak· dyaḥ</lem>
+                        <rdg source="bib:Boechari1985-1986_01">samasānak· I dyaḥ</rdg>
                       </app>
                     <app loc="6r1-6r2">
                       <lem source="bib:Boechari1985-1986_01">anugraha</lem>
                         <rdg source="NinnySusanti2003_01">ānugraha</rdg>
                       </app>
+                  <app loc="6r3">
+                      <lem source="NinnySusanti2003_01">saṁ hyaṁ</lem>
+                        <rdg source="bib:Boechari1985-1986_01">saṁ nyaṁ</rdg>
+                      </app>
                     <app loc="6r3">
                       <lem>Avavara</lem>
                         <rdg source="bib:Boechari1985-1986_01 NinnySusanti2003_01">Avaravara</rdg>
                       </app>
-                    <app loc="6r4">
+                    <app loc="6r3-6r4">
                       <lem source="NinnySusanti2003_01">muvaḥ</lem>
                         <rdg source="bib:Boechari1985-1986_01">muvah</rdg>
                       </app>
@@ -326,6 +397,11 @@
                     <app loc="6r4">
                       <lem source="NinnySusanti2003_01">tiṅkahni</lem>
                         <rdg source="bib:Boechari1985-1986_01">tiṅkaṇ ni</rdg>
+                      </app>
+                  <app loc="6r5">
+                      <lem>sumla<choice><sic>p</sic><corr>t</corr></choice>·</lem>
+                        <rdg source="bib:Boechari1985-1986_01 NinnySusanti2003_01">sumlap·</rdg>
+                    <note>Cf. 2v2.</note>
                       </app>
                     <app loc="6v1">
                       <lem>jə:ṁ</lem>
