@@ -73,12 +73,13 @@
          <div type="edition" xml:lang="kaw-Latn">
 <pb n="1r"/><!--Blank outer page.-->
 <p><pb n="1v"/>
-<lb n="1v1"/>// <g type="symbol" subtype="circle"/> // Om̐ namaś śivāya // svasti śakavarṣātĭta, <num value="1188">1188</num>, māghamāsa, tīthi, trayodaśī śu<lb 
-n="1v2" break="no"/>klapakṣa, <abbr>vā</abbr>, <abbr>va</abbr>, <abbr>Aṁ</abbr>, vāra, mahatal·, dakṣiṇasthagrahacāra, puṣ<choice><sic>p</sic><corr>y</corr></choice>ānakṣatra, jīvadevatā, Ā<lb n="1v3" 
-break="no"/>gneyamaṇḍala, śobhanayauga, baruṇamuhūrtta, Agniparvveśa, tetilakāraṇa, kumbharāśi,</p>
+<lb n="1v1"/><g type="ddandaOrnate">.</g><g type="circleTarget">.</g><g type="ddandaOrnate">.</g> Om̐ namaś śivāya <g type="ddandaOrnate">.</g> svasti śakavarṣātĭta, <num value="1188">1188</num>, māghamāsa, tīthi, trayodaśī śu<lb 
+n="1v2" break="no"/>klapakṣa, <abbr>vā</abbr>, <abbr>va</abbr>, <abbr>Aṁ</abbr>, vāra, mahatal·, dakṣiṇasthagrahacāra, puṣ<choice><sic>p</sic><corr>y</corr></choice>ānakṣatra, jīvadevatā, Ā<lb 
+    n="1v3" break="no"/>gneyamaṇḍala, śobhanayauga, baruṇamuhūrtta, Agniparvveśa, tetilakāraṇa, kumbharāśi,</p>
 <p part="I">I<lb 
 n="1v4" break="no"/>rika divaśany ājñā śrī mahārāja, śrī laukavijaya, <foreign xml:lang="san-Latn">praśāstajagadīśvarāninditaparăkramānivā<lb 
-n="1v5" break="no"/>ryyavĭryyālaṅghanĭya</foreign>, kr̥tanagaranāmarājābhiṣeka, makamaṅgalyājñā śrī sakalarājāśra<g type="filler">§</g><lb n="1v6" break="no"/>ya, <foreign  xml:lang="san-Latn">samast<orig>ā</orig>kṣatriyacūḍāmaṇipatitacaraṇāravinda</foreign>, bhaṭāra jaya śrī viṣṇuvarddhananāmadevā<lb 
+n="1v5" break="no"/>ryyavĭryyālaṅghanĭya</foreign>, kr̥tanagaranāmarājābhiṣeka, makamaṅgalyājñā śrī sakalarājāśra<g type="squiggleVertical">§</g><lb 
+    n="1v6" break="no"/>ya, <foreign  xml:lang="san-Latn">samast<choice><orig>ā</orig><reg>a</reg></choice>kṣatriyacūḍāmaṇipatitacaraṇāravinda</foreign>, bhaṭāra jaya śrī viṣṇuvarddhananāmadevā<lb 
 n="1v7" break="no"/>bhiṣeka, tinaḍaḥ de rakryan mahāmantrī hiṇo, rakryan mahāmantrī sirikan·, rakryan mahāmantrī halu
 <lb n="1v8"/>, Umisor i para taṇḍa rakryan riṁ pakirakirān· makabehan·, rakryan mapatiḥ, rakryan dəmuṁ, rakrya<lb 
 n="1v9" break="no"/>n kanuruhan saṁ mantrī nayavid iṅgitajñā, mapasəṅgahan saṁ rāmapati, tan kavuntat· saṁ pamgət i tirvan·
@@ -98,7 +99,7 @@ n="1v9" break="no"/>n kanuruhan saṁ mantrī nayavid iṅgitajñā, mapasəṅg
                       <rdg source="bib:Krom1911_04 bib:Damais1955_01 bib:Boechari1985-1985_01">loka°</rdg>
                       </app>
                    <app loc="1v6">
-                      <lem source="bib:Krom1911_04">samast<orig>ā</orig>kṣatriya°</lem>
+                      <lem source="bib:Krom1911_04">samast<choice><orig>ā</orig><reg>a</reg></choice>kṣatriya°</lem>
                       <rdg source="bib:Damais1955_01 bib:Boechari1985-1985_01">samastākṣakriya°</rdg>
                        <note>Understand <foreign>samastakṣatriya°</foreign>.</note>
                       </app>
@@ -112,9 +113,9 @@ n="1v9" break="no"/>n kanuruhan saṁ mantrī nayavid iṅgitajñā, mapasəṅg
                        </app>
                    <app loc="1v9">
                        <lem>nayavid iṅgitajña</lem>
-                      <note>Cf. KR 11.49 <foreign>kapīndra sugrīva vəruh riṅ iṅgita</foreign>; RY 6.9: <foreign>mahāprajña rikaṅ nayeṅgita</foreign>. See also Adan-Adan <foreign>suśīlendikajñasarvvanayānitidakṣa</foreign>.</note>
+                      <note>Cf. KR 11.49 <foreign>kapīndra sugrīva vəruh riṅ iṅgita</foreign>; RY 6.9: <foreign>mahāprajña rikaṅ nayeṅgita</foreign>. See also <ref target="Adanadan.xml">Adan-Adan </ref><foreign>suśīlendikajñasarvvanayānitidakṣa</foreign>.</note>
                    </app>
-	<app loc="1v9">
+	<app loc="1v10">
                      <lem>bha</lem>
                       <note>The word broken off here was <foreign>bhaṭāra</foreign>, and the ensuing words were most probably <foreign>jaya śrī viṣṇuvarddhana</foreign>.</note>
                   </app>
