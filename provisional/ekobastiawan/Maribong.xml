@@ -75,9 +75,12 @@
          <div type="edition" xml:lang="kaw-Latn">
 <pb n="1r"/><!--Blank outer page.-->
 <p><pb n="1v"/>
- <lb n="1v1"/>// Avighnam astu, // svasti śrī śakavarṣātīta, <num value="1170">1170</num>, Aśujimāsa, tithi, pañcamī śuklapakṣa, <abbr>vā</abbr>, 
-<lb n="1v2"/><abbr>ka</abbr>, <abbr>vr̥</abbr>, vāra, laṅkir·, Uttarāsāḍanakṣatra, viśvadevatā, māhendramaṇḍala, gaṇḍayoga, vairā<lb n="1v3" break="no"/>jyamuhūrtta, baruṇaparvveśa, valavakaraṇa, mr̥ccikarāśī, </p>
- <p part="I">Irika divasanyājñā <foreign xml:lang="san-Latn">śrī sakala<choice><sic>kha</sic><corr>la</corr></choice>lană<lb n="1v4" break="no"/>kulamadhu<orig>mārddana</orig>kamalekṣaṇa</foreign>, nāmābhiṣeka śrī jayaviṣṇuvarddhana, saṁ mapañji sminiṅ rāt·, <foreign xml:lang="san-Latn">svapi<lb n="1v5" break="no"/>tāmahāstavanābhinnāśrăntalokapālaka</foreign>, kumonakən Irikaṁ vanva I mariboṁ, vatək atagan· jipaṁ, 
+ <lb n="1v1"/><g type="ddandaOrnate">.</g> Avighnam astu,<g type="ddandaOrnate">.</g> svasti śrī śakavarṣātīta, <num value="1170">1170</num>, Aśujimāsa, tithi, pañcamī śuklapakṣa, <abbr>vā</abbr>, 
+<lb n="1v2"/><abbr>ka</abbr>, <abbr>vr̥</abbr>, vāra, laṅkir·, Uttarāsāḍanakṣatra, viśvadevatā, māhendramaṇḍala, gaṇḍayoga, vairā<lb 
+    n="1v3" break="no"/>jyamuhūrtta, baruṇaparvveśa, valavakaraṇa, mr̥ccikarāśī, </p>
+ <p part="I">Irika divasanyājñā <foreign xml:lang="san-Latn">śrī sakala<choice><sic>kha</sic><corr>la</corr></choice>lană<lb 
+     n="1v4" break="no"/>kulamadhu<orig>mārddana</orig>kamalekṣaṇa</foreign>, nāmābhiṣeka śrī jayaviṣṇuvarddhana, saṁ mapañji sminiṅ rāt·, <foreign xml:lang="san-Latn">svapi<lb 
+         n="1v5" break="no"/>tāmahāstavanābhinnāśrăntalokapālaka</foreign>, kumonakən Irikaṁ vanva I mariboṁ, vatək atagan· jipaṁ, 
 <lb n="1v6"/>pagavayakna saṁ hyaṅ ājñā haji praśāsti, mataṇḍa śrī jayaviṣṇuvarddhanalāñcana, Umuṅgve salaḥ sikiniṁ tāmra ri</p>
          </div>
          <div type="apparatus">
@@ -85,11 +88,11 @@
                <listApp><!-- one <app> for each apparatus entry -->
                   <app loc="1v4">
                       <lem><orig>mārddana</orig></lem>
-                      <note>Long <foreign>a</foreign> before <foreign>r</foreign> and geminate consonant seems to be a frequent feature in the Majapahit period inscriptions, see for instance Waringin Pitu.</note>
+                      <note>Long <foreign>a</foreign> before <foreign>r</foreign> and geminate consonant seems to be a frequent feature in the Majapahit period inscriptions, see for instance <ref target="WaringinPitu.xml">Waringin Pitu</ref>.</note>
                       </app>
                    <app loc="1v6">
                      <lem>ri</lem>
-                      <note>The  word broken off here was <foreign>ripta</foreign>. For the full formula, see Air Asih a3, Parablyan a2, Sukhāmr̥ta 10b4.</note>
+                      <note>The  word broken off here was <foreign>ripta</foreign>. For the full formula, see <ref target="AirAsih.xml">Air Asih</ref> a3, <ref target="Parablyan">Parablyan</ref> a2, <ref target="Sukhamerta.xml">Sukhāmr̥ta</ref> 10b4.</note>
                   </app>
                </listApp>         
          </div>
