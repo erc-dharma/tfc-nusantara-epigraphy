@@ -46,8 +46,7 @@
                     </msContents>
                     <physDesc>
                         <handDesc>
-                        	<p>Compare the script with that of the inscriptions of Tuhanyaru and Canggu. The script is closer to that of Tuhanyaru, allowing for the hypothesis that the inscription is closer in date to the former. See in particular the shape of pasangan y, and the hook-like serifes on almost all akṣaras. However, certain akṣaras present a variant shape, for instance the sa, which seem to have been adopted as the standard form by the scribe of the Canggu inscription.
-		<!-- Check with Damais and Sidomulyo's articles on Troloyo gravestones.-->
+                        	<p>Compare the script with that of the inscriptions of Tuhanyaru (1245 Śaka) and Canggu. The script is more similar to that of Tuhanyaru, allowing for the hypothesis that the inscription is closer in date to the former. See in particular the discontinuous shape of pasangan y, and the hook-like serifes on almost all akṣaras. However, certain akṣaras present a variant shape, for instance the sa, which seem to have been adopted as the standard form by the scribe of the Canggu inscription.
                         	<!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EG 11.2. --></p>
                         </handDesc>
                     </physDesc>
@@ -64,20 +63,20 @@
 <pb n="1r"/>
 <p>
 <lb n="1r1"/>mani Uṅsun·, turuṅ uṅsun· mijilakən ācāra lyan saṅke rika, maṅke ta punikaṁ karāman· ri paruṁ matuṇḍuṅi Uṅsun ·
-<lb n="1r2"/>At=hər ma<unclear>ṁ</unclear>rampas·,</p><p>Irika taṁ pakṣa kāliḥ, pinametakən śāstradr̥ṣṭa, deśadr̥ṣṭa, guru kaka, Udāharaṇa, makataṅgva
-<lb n="1r3" break="no"/>n· ra<unclear reason="eccentric_ductus">sā</unclear>gama ri saṁ hyaṁ kuṭaramānavādi, maṅanukāra pravr̥ttyācāra saṁ paṇḍita vyavahāravicchedaka ri puhun malama, A 
+<lb n="1r2"/>At=hər maṁrampas·,</p><p>Irika taṁ pakṣa kāliḥ, pinametakən śāstradr̥ṣṭa, deśadr̥ṣṭa, guru kaka, Udāharaṇa, makataṅgva
+<lb n="1r3" break="no"/>n· ra<unclear reason="eccentric_ductus">sā</unclear>gama ri saṁ hyaṁ kuṭ<choice><orig>a</orig><reg>ā</reg></choice>ramānavādi, maṅanukāra pravr̥ttyācāra saṁ paṇḍita vyavahāravicchedaka ri puhun malama, A 
 <lb n="1r4" break="no"/>t=hər <!--Is it enough to leave this transliteration or should I try something like <seg type="akṣara">t</seg>hər?--> taṇḍa rakryan· motus irikaṁ karāman· ri paruṁ masatyakna ri pakṣanya, tumaḍaha satya pāduka bhaṭāra ri paruṁ,<pb
 n="1v"/>
 <lb n="1v1"/>makahetu, ri tan hananiṁ kumavruhi putus i pakṣanikaṁ vyavahāri kāliḥ, Irika yan katon sor i pakṣanikaṁ karāma 
-<lb n="1v2" break="no"/>n· ri plaṁ, balavān· pakṣanikaṁ karāman· ri paruṁ, makahetu nirvighnatānya<unclear>,</unclear> Ir<unclear>i</unclear>kaṁ kāla tripakṣa, mata<unclear>ṁ</unclear>nyan sinu
+<lb n="1v2" break="no"/>n· ri plaṁ, balavān· pakṣanikaṁ karāman· ri paruṁ, makahetu nirvighnatānya<unclear>,</unclear></p><p>Ir<unclear>i</unclear>kaṁ kāla tripakṣa, mata<unclear>ṁ</unclear>nyan sinu
 <lb n="1v3" break="no"/>ṅan· kmitana saṁ hyaṅ ājñā haji jaya soṁ, mratisubaddhakna pagəh iṁ paṁrakṣa taṇḍa rakryan· ri pakṣanikaṁ karāman· ri 
 <lb n="1v4"/>paruṁ,</p><p>kunəṁ ri sḍəṁnyan hanaṁruddha muṅki-muṅkil·, muṅvakna mne hləm·, tan varaṁ, ḍaṇḍan·, <abbr>kā</abbr>, <unclear>1,</unclear> <abbr><unclear>su</unclear></abbr><unclear>, 5</unclear>, saha panṅaḥnya, ri vruha<!--I think after computer processing, this might yield a rather odd result when visualizing this entirely unclear segment. I had to split it up because of the abbreviation tags.--><pb
 n="2r" break="no"/><lb n="2r1" break="no"/>nikaṁ karāman· ri paru<unclear>ṁ</unclear> prayatna rasa saṁ hyaṅ ājñā haji jaya soṁ,</p>
          </div>
-         <div type="apparatus"><!-- argr2masc: Bosch's and Damais' reading need to be represented systematically -->
+         <div type="apparatus">
                 <listApp>
                   <app loc="1r2">
-                      <lem>ma<unclear>ṁ</unclear>rampas·</lem>
+                      <lem>maṁrampas·</lem>
                       <rdg source="bib:CohenStuart1875_01 bib:Boechari1985-1986_01">marampas</rdg>
                       <note>The <foreign>cecak</foreign> is clearly present in Parung II, distinctly placed above the <foreign>layar</foreign>. It is engraved here as well, although it is nested between the two curves of the <foreign>layar</foreign>. This allows us to read the correct verbal form <foreign>maṅrampas</foreign>.</note>
                   </app>
@@ -105,8 +104,7 @@ n="2r" break="no"/><lb n="2r1" break="no"/>nikaṁ karāman· ri paru<unclear>�
         <div type="bibliography">
 	<!--bibliography encoded as per section §9.4 -->
             <p>First edited by A.B Cohen Stuart (<bibl rend="omitname"><ptr target="bib:CohenStuart1875_01"/><citedRange unit="page">26-27</citedRange></bibl>); re-edited by Boechari
-                (<bibl rend="omitname"><ptr target="bib:Boechari1985-1986_01"/><citedRange unit="page">93-94</citedRange><citedRange unit="item">E.32</citedRange></bibl>).
-                Re-edited here by Marine Schoettel on the basis of the digitized estampages from the MNI.</p>
+                (<bibl rend="omitname"><ptr target="bib:Boechari1985-1986_01"/><citedRange unit="page">93-94</citedRange><citedRange unit="item">E.32</citedRange></bibl>). Re-edited here by Marine Schoettel on the basis of the digitized estampages from the MNI.</p>
                 <listBibl type="primary">
                     <bibl n="B1">
                       <ptr target="bib:Boechari1985-1986_01"/>
