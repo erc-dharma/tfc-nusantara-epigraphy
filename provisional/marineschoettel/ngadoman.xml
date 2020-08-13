@@ -57,6 +57,7 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc>
+          <change who="part:masc" when="2020-08-13" status="draft">adding translation</change>
             <change who="part:masc" when="2020-08-10" status="draft">initial encoding of the inscription</change>
         </revisionDesc>
     </teiHeader>
@@ -67,7 +68,7 @@
   <lb n="1"/>Om̐ sri sarasoti kr̥ta, vukir hadidamaluṁ Uri
   <lb n="2" break="no"/>piṁ buhana hañakra murusa patirtan paL̥maran· hapan yaṁ
   <lb n="3"/>vidi <choice><sic>ha<unclear>n</unclear>ideni</sic><corr>hamideni</corr></choice> yaṁ raditya yaṁ vulan· hanəL̥ I hala-hayu
-  <lb n="4" break="no"/>ni devamanusa yaṁ hanut ya<unclear>ṁ</unclear> hagave bajaran tapak taṁt<unclear>u</unclear> kabaḥha
+  <lb n="4" break="no"/>ni devamanusa yaṁ hanut ya<unclear>ṁ</unclear> hagave bajaran tapak taṁt<unclear>u</unclear> <choice><orig>kabaḥha</orig><reg>kambaha</reg></choice>
   <lb n="5"/>d<unclear>e</unclear>ni devamanusa muvaḥ saṁ tumon saṁṅ amanah aR̥ṅə luputa
   <lb n="6"/>r<unclear>i</unclear>ṁ Ila-Ila paḍa kadəlana tutur jati</p>
 <p>yen ana <choice><orig>ṅabaḥ</orig><reg>ṅambaḥ</reg></choice> ta
