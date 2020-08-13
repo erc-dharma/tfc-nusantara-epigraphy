@@ -50,9 +50,7 @@
                     </msContents>
                     <physDesc>
                         <handDesc>
-                        	<p>.
-		<!-- Check with Damais and Sidomulyo's articles on Troloyo gravestones.-->
-                        	<!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EG 11.2. --></p>
+                        	<p>Tidy monumental script, with characters profoundly engraved. However, some vocalic marks (hulu, taling tarung for vocalization o) are not as profoundly engraved as others and are only faintly visible. Note the two different shapes of <foreign>pasangan</foreign> y. It seems that the boundary between words is emphasized by a slightly larger space.</p>
                         </handDesc>
                     </physDesc>
                 </msDesc>
@@ -67,21 +65,35 @@
          <div type="edition" xml:lang="kaw-Latn">
 <p>
   <lb n="1"/>Om̐ sri sarasoti kr̥ta, vukir hadidamaluṁ Uri
-  <lb n="2" break="no"/>piṁ buhana ha<unclear>ñ</unclear>akra murusa patirtan paL̥maran· hapan yaṁ
-  <lb n="3"/>vidi hani deni yaṁ raditya yaṁ vulan· hanəL̥ I hala-hayu
-  <lb n="4" break="no"/>ni devamanusa yaṁ hanut ya<unclear>ṁ</unclear> hagave bajaran tapak taṁtu kabaḥha
+  <lb n="2" break="no"/>piṁ buhana hañakra murusa patirtan paL̥maran· hapan yaṁ
+  <lb n="3"/>vidi <choice><sic>ha<unclear>n</unclear>ideni</sic><corr>hamideni</corr></choice> yaṁ raditya yaṁ vulan· hanəL̥ I hala-hayu
+  <lb n="4" break="no"/>ni devamanusa yaṁ hanut ya<unclear>ṁ</unclear> hagave bajaran tapak taṁt<unclear>u</unclear> kabaḥha
   <lb n="5"/>d<unclear>e</unclear>ni devamanusa muvaḥ saṁ tumon saṁṅ amanah aR̥ṅə luputa
   <lb n="6"/>r<unclear>i</unclear>ṁ Ila-Ila paḍa kadəlana tutur jati</p>
-<p>yen anaṅ abaḥ ta
+<p>yen ana <choice><orig>ṅabaḥ</orig><reg>ṅambaḥ</reg></choice> ta
   <lb n="7" break="no"/>n pabəkəla patik vənaṁ tan pabaktaha histri pituṁ ha<unclear>ja</unclear>ma tan vava
-  <lb n="8" break="no"/>dona vastu, sri syati sakava<unclear>r</unclear>sa <g type="linga">.</g></p>
+  <lb n="8" break="no"/>dona vastu, <choice><orig>sri syat</orig><reg>śrī syāt</reg></choice> i sakava<unclear>r</unclear>sa <g type="linga">.</g></p>
   <ab><num value="1371">1371</num></ab>
          </div>
          <div type="apparatus">
+           <listApp>
+             <app loc="1">
+                 <lem source="bib:CohenStuart1872_01">Om̐</lem>
+                 <note>The <foreign>anunāsika</foreign> is noted with a sign identical to the <foreign>layar</foreign> used elsewhere in this inscription. See Cohen Stuart (1872: 279)</note>
+             </app>
+             <app loc="1">
+                 <lem source="bib:CohenStuart1872_01">hadidamaluṁ</lem>
+                 <rdg source="bib:CohenStuart1875_01">hadi umaluṁ</rdg>
+             </app>
+             <app loc="1">
+                 <lem source="bib:CohenStuart1872_01">Uri<lb n="2" break="no"/>piṁ</lem>
+                 <rdg source="bib:CohenStuart1875_01">Ūripiṁ</rdg>
+             </app>
+           </listApp>
          </div>
          <div type="translation" xml:lang="eng" resp="part:masc argr">
    <!--translation encoded as per EGD §9.2 -->
- <p>Om. Made by Śrī Sarasvatī. The mountain Ādidamaluṅ, the life of the Earth, was churning.</p>
+ <p>Om. Made by Śrī Sarasvatī. The mountain Ādidamaluṅ, the life of the Earth, was churning. The bathing place of Paləmaran would overflow, for God Vidhi <supplied reason="explanation">i.e. Brahmā?</supplied> gave instructions <supplied reason="explanation"><foreign>amidhyani</foreign></supplied> to the Sun and the Moon to illuminate the bad and good of divine men, those who seek, those who make a line of succession. The established sacred site will be entered by divine men. And those <supplied reason="explanation"><foreign>paḍa</foreign></supplied> who watch, who are intent, who listen, will be free from defilement, will be invested with memory of <supplied reason="subaudible">former</supplied> lives. Should anyone enter, he shall not come provided with live-stock, shall not bring wives <foreign>pituṅ</foreign> to have intercourse with, shall really <supplied reason="explanation"><foreign>vastu</foreign></supplied> not be obsessed with sex. May there be Fortune! In the Śaka year 1371.</p>
         </div>
         <div type="translation" xml:lang="ndl" source="bib:Bosch1924_01">
 <p></p>
