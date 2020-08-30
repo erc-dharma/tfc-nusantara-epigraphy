@@ -62,6 +62,7 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc>
+            <change who="part:masc" when="2020-08-30" status="draft">encoding translation</change>
             <change who="part:masc" when="2020-03-27" status="draft">adapting line numbering system and app loc to new EG recommandations</change>
             <change who="part:axja" when="2020-03-27" status="draft">adding the handDesc template</change>
             <change who="part:masc" when="2020-02-21" status="draft"/>
@@ -70,17 +71,18 @@
     <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="kaw-Latn">
-<pb n="1r"/><!--Blank outer page.-->
 <p>
     <pb n="1r"/>
     <lb n="1r1"/>// I śaka <num value="1261">1261</num>, māghamāsa, tithi navam<unclear>ī</unclear>
-    kr̥ṣṇapakṣa, ma, U, A, vāra, vuye</p>
+    kr̥ṣṇapakṣa, ma, U, A, vāra, vuye
+</p>
 <p>Irikā divaśa  rakryan· juru<lb n="1r2"/>pu<unclear cert="high">s</unclear>padanta,
     m<unclear>uk</unclear>uthavarṣaṇāmnaṅ aṁvyavahāra, makalaga mpu sāvitra tlas· pingat de saṁ
-    mantrī tumapəl samudāya<lb n="1r3"/>mvaṁ saṁṅ upapati, makaprasthāvapati mpu
-    sāvitra<unclear>,</unclear> sāhasāṅdalih i rakryan· juru puspadanta malap· lmaḥ kabha<lb n="1r4" break="no"/>gavānan· sapuluḥ liriḥ, maṅkana pakṣa mpu sāvitra,</p>
-             <p>kunaṁ pakṣa rakryan· juru puspadanta lmaḥ saṅke k<unclear>u</unclear>li<g type="filler">§</g><lb n="1r5" break="no"/>t kaki Ikaṁ bhinuktinya sapuluḥ liriḥ,
-                 maṅkanāṁvivāda ya tika pinametakən pramāṇa, Inunda<unclear>ṁ</unclear>
+    mantrī tumapəl samudāya<lb n="1r3"/>mvaṁ saṁṅ upapati, makaprasthāva <unclear>ga</unclear>ti mpu
+    sāvitra<unclear>,</unclear> sāhasāṅdalih i rakryan· juru puspadanta malap· lmaḥ kabha<lb n="1r4" break="no"/>gavānan· sapuluḥ liriḥ, maṅkana pakṣa mpu sāvitra, kunaṁ pakṣa rakryan· juru puspadanta lmaḥ saṅke k<unclear>u</unclear>li<g type="filler">§</g><lb n="1r5" break="no"/>t kaki Ikaṁ bhinuktinya sapuluḥ liriḥ,
+                 maṅkanāṁvivāda ya tika pinametakən pramāṇa,
+</p>
+<p>Inunda<unclear>ṁ</unclear>
                  ta<unclear>ṁ</unclear> <unclear>sa</unclear>siriṅan· sa<lb n="1r6" break="no"/>taṅgəḥnyaṁ kāliḥ makādi I sumbul·, li<supplied reason="lost">ṁ</supplied>nyan tinañan·, siṅgiḥ pukulun· juru puspadanta madr̥vya Ikaṁ savaḥ-sa<pb n="1v" break="no"/>
 <lb n="1v1" break="no"/>vaḥ sapuluḥ liriḥ I sagiri, yapvan ikaṁ savaḥ kabhagavanan· sapuluḥ
                        liriḥ muvaḥ, maṅkanājarnya makabehan·,</p><p>vva
@@ -88,12 +90,16 @@
 <lb n="1v3" break="no"/>h ajariṁkaṁ juru mantən· maṅaran gambyok·, Aki gaṇḍi yo pukulun· vka bhagavān· riṁ kr̥ta, muktyakən ikaṁ sa
 <lb n="1v4" break="no"/>puluḥ liriḥ juga, Antara saṅkerika, mpu kili nuda, vkasan saṁ mapañji śūrajaya muktyakən kabhagavānan katkeṁ
 <lb n="1v5"/>maṅke, kevalātutur ikaṁ sa<add place="below">pu</add>luḥ liriḥ juga, pisaniṅu vyāparāṅipikipika Ikaṁ savaḥ kaparathaniAn· nāṁ
-<lb n="1v6"/>sapuluḥ liriḥ, maṅkana varaḥ kihadyan· gambyok·, yatika pinramāṇakan saṁ mantrī
-                           samudāya, mataṁ<pb n="2r" break="no"/><lb n="2r1" break="no"/>nyan· balavān· rakryan· juru puspadanta<unclear>,</unclear> sor mpu sāvitra, pratyeka saṅ amgat·, rakryan· raṅga A<unclear>k</unclear>i taṅga, muvah aki
+<lb n="1v6"/>sapuluḥ liriḥ, maṅkana varaḥ kihadyan· gambyok·,
+</p>
+<p>yatika pinramāṇakan saṁ mantrī samudāya, mataṁ<pb n="2r" break="no"/><lb n="2r1" break="no"/>nyan· balavān· rakryan· juru puspadanta<unclear>,</unclear> sor mpu sāvitra, pratyeka saṅ amgat·, rakryan· raṅga A<unclear>k</unclear>i taṅga, muvah aki
 <lb n="2r2"/><unclear>ka</unclear>pe, rakryan· kanuruhan· Aki jo<unclear cert="low">ṁ</unclear>, muvaḥ mahiṣāṅivuṁ, rakryan· tuməṅguṁ Aki makara, muvah aki raṅgāsəm-asəm·
 <lb n="2r3"/>, rakryan· dmuṁ Aki R̥ma, muvah aki goleṁ, rakryan apatiḥ ravi, muvaḥ rake mali, saṁ prāṇapati, makādhipati
 <lb n="2r4"/>saṅ āryya śūrasiṅha, muvaḥ sa<unclear>ṁ</unclear> bhujaṅga mantrī, saṁ mapañjy antaraga, saṁ mapañji cāyaguṇa, saṁ pamg<unclear>ə</unclear>t saliṅs<unclear>i</unclear>ṅan·, makā
 <lb n="2r5" break="no"/>di saṁ mapañji surapati, muvaḥ saṁ pamgət i kaṇḍamuhi, samgət· pamvatan·, samaṅkana kveḥ saṅ amgat· ,,,</p>
+<p>
+<pb n="2v"/><lb n="2v1"/>// Iṁ śāka, <num value="1261">1261</num>, māgha māsa tithi navamī kr̥ṣa
+</p>
          </div>
          <div type="apparatus">
                 <listApp>
@@ -107,15 +113,21 @@
                   </app>
                   <app loc="1v1">
                       <lem>vvantən</lem>
-                      <note>A second akṣara na is written above the ligature nta. The engraver would
+                      <note>A second akṣara <foreign>na</foreign> is written above the ligature <foreign>nta</foreign>. The engraver would
                           probably have realised that he was beginning to write too high, and
-                          stopped after the first akṣara, then rewrote <hi rend="italic">nta</hi> at the proper place.</note>
+                          stopped after the first akṣara, then rewrote <foreign>nta</foreign> at the proper place.</note>
                   </app>
                 </listApp>
          </div>
-         <div type="translation" xml:lang="eng" resp="part:masc">
+         <div type="translation" xml:lang="eng" resp="part:masc part:argr">
  	<!--translation encoded as per EG §9.2 -->
-	<p/>
+<p n="1r1">In Śaka 1261, month of Māgha, ninth <foreign>tithi</foreign> of the waning fortnight, Mavulu, Umanis, Sunday / Tuesday, <supplied reason="subaudible">the vuku of</supplied> Vuyai:</p>
+<p n="1r1-1r5">such was the time that <foreign>rakryan</foreign> chief Puspadanta, <foreign>mukuthavarṣa</foreign>, won the lawsuit against Mpu Sāvitra. <supplied reason="subaudible">It</supplied> had been judged by all the ministers of Tumapəl, with the interpreters <supplied reason="subaudible">of dharma</supplied> <supplied reason="explanation"><foreign>upapatti</foreign></supplied>.
+The situation of Mpu Sāvitra was to speak first <supplied reason="explanation">lit. "have the beginning", <foreign>makaprasthāva</foreign></supplied>, rashly accusing <foreign>rakryan</foreign> chief Puspadanta of having seized the land of Kabhagavanan <supplied reason="explanation">or “the place of the hermits”</supplied>, of ten <foreign>lirih</foreign>’s worth. Such was the case of Mpu Sāvitra.
+As for the case of the <foreign>rakryan</foreign> chief Puspadanta: “the land, it is his possession (lit. possessed by him) from his paternal lineage/ ancestors, <supplied reason="subaudible">measuring</supplied> ten <foreign>lirih</foreign>.” Thus did debate those who were solicited for right knowledge.</p>
+<p n="1r5-1v6">Those <q>who have borders</q> were ordered to come with their “advice” to share the land, beginning with Sumbul. Their words when they were asked: “In truth, by your leave, chief Puspadanta owns these irrigated rice-fields, ten <foreign>lirih</foreign>’s worth, at Sagiri, so that (rapvan?) the rice-fields of Kabhagavanan (“the place for hermits”) are also ten lirih’s worth. Thus was their announcement, all of them. There is, my lord, a retribution on irrigation water (paṅhulu bañu) on them, two <foreign>kupaṅ</foreign> for each <foreign>lirih</foreign>, to be received by the village head <supplied reason="explanation"><foreign>rāma</foreign></supplied> of Sumbul; which will be the proof that they are different /divided. And the report of the chief of <foreign>mantən</foreign>, named Gambyok: “Aki Gaṇḍi, my lord, none other than the child of the reverend of Kr̥ta, had the usufruct of these ten lirih. In the interval between them, [it was] the nun Nuda. Finally the one with the byname Śūrajaya had the usufruct of the [land of] Kabhagavanan until now, recalling completely the ten lirih exactly. It is impossible that worldly activities / business turn up at the rice-field directed at farming, such as the ten lirih.” Such was the report of Master Gambyok.</p>
+<p n="1v6-2r5">This was used as evidence <supplied reason="explanation">means to acquire right knowledge</supplied> by all the assembled ministers. Because of that <foreign>rakryan</foreign> chief Puspadanta won and Mpu Sāvitra lost. The jurors <supplied reason="explanation"><foreign>aməgat</foreign></supplied> <supplied reason="subaudible">listed</supplied> one by one: the <foreign>rakryan</foreign> Raṅga, Aki Taṅga and Aki Kape; the <foreign>rakryan</foreign> Kanuruhan, Aki Joṁ and <q>Raging Buffalo</q> <supplied reason="explanation"><foreign>Mahiṣa aṅivuṅ</foreign></supplied>; the <foreign>rakryan</foreign> Tuməṅguṅ, Aki Makara and Aki Raṅga Asəm-asəm; the <foreign>rakryan</foreign> Dəmuṅ, Aki Rəma and Aki Goleṅ; the <foreign>rakryan</foreign> apatiḥ Ravi, and the raka of Mali; the <foreign>prāṇapati</foreign>s, who have as overlord the venerable Śūrasiṅha; and the brahmin ministers <supplied reason="explanation"><foreign>bhujaṅga mantri</foreign></supplied>: he with the byname Antaraga; he with the byname Chāyaguṇa; the officiant of Saliṅsiṅan; with in the first place the one with the byname Surapati; and also the officiant of Kaṇḍamuhi; the officiant of Pamvatan. Thus was the <supplied reason="subaudible">total</supplied> number of jurors <supplied reason="subaudible">present</supplied>.</p>
+<p n="2v1">In Śaka 1261, month of Māgha, ninth lunar day of the dark <supplied reason="subaudible">fortnight</supplied>.</p>
          </div>
          <div type="commentary">
             <!--commentary encoded as per section §9.3 -->
