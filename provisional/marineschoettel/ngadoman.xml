@@ -20,8 +20,7 @@
                 </respStmt>
             </titleStmt>
             <publicationStmt>
-                <authority>DHARMA <note>This project has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant
-                        agreement no 809994).</note>
+                <authority>DHARMA <note>This project has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</note>
                 </authority>
                 <pubPlace>Paris</pubPlace>
                 <idno type="filename">ngadoman</idno>
@@ -29,7 +28,7 @@
                     <licence target="https://creativecommons.org/licenses/by/4.0/">
                         <p>This work is licenced under the Creative Commons Attribution 4.0 Unported Licence. To view a copy of the licence, visit https://creativecommons.org/licenses/by/4.0/ or send
                             a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.</p>
-                        <p>Copyright (c) 2019-2025 by Marine Schoettel &amp; Arlo Griffiths</p>
+                        <p>Copyright (c) 2019-2025 by Marine Schoettel &amp; Arlo Griffiths</p><!-- argr2masc: do you have any thoughts about the situations in which and reasons why it might be decided not to follow alphabetical order in listing author names? (I do, and don't necessarily object to the order I see yiou have chosen here, but I want to make sure you are aware of this subject, which can be quite sensitive.)  -->
                     </licence>
                 </availability>
                 <date from="2019" to="2025">2019-2025</date>
@@ -50,14 +49,15 @@
                     </msContents>
                     <physDesc>
                         <handDesc>
-                        	<p>Tidy monumental script, with characters profoundly engraved. However, some vocalic marks (hulu, taling tarung for vocalization o) are not as profoundly engraved as others and are only faintly visible. Note the two different shapes of <foreign>pasangan</foreign> y. It seems that the boundary between words is emphasized by a slightly larger space.</p>
+                        	<p>Tidy monumental script, with characters profoundly<!-- argr2masc: in English, "profound" is never used for the literal meaning "deep", only to expressive depth in some figurative sense --> engraved. However, some vocalic marks<!-- argr2masc: I'd say "vowel markers", then <foreign> around all the Javanese terms that follow --> (hulu, taling tarung for vocalization o) are not as profoundly<!-- argr2ma: deeply --> engraved as others and are only faintly visible. Note the two different shapes of <foreign>pasangan</foreign> y<!-- argr2msc: foreign here too -->. It seems that the boundary between words is emphasized by <!-- argr2ms: insert here "insertion of" -->a slightly larger space.</p>
                         </handDesc>
                     </physDesc>
                 </msDesc>
             </sourceDesc>
         </fileDesc>
         <revisionDesc>
-          <change who="part:masc" when="2020-08-13" status="draft">adding translation</change>
+        	<change who="part:argr" when="2020-08-14" status="draft">first round of revisions</change>
+        	<change who="part:masc" when="2020-08-13" status="draft">adding translation</change>
             <change who="part:masc" when="2020-08-10" status="draft">initial encoding of the inscription</change>
         </revisionDesc>
     </teiHeader>
@@ -65,13 +65,14 @@
       <body>
          <div type="edition" xml:lang="kaw-Latn">
 <p>
-  <lb n="1"/>Om̐ sri sarasoti kr̥ta, vukir hadidamaluṁ Uri
-  <lb n="2" break="no"/>piṁ buhana hañakra murusa patirtan paL̥maran· hapan yaṁ
-  <lb n="3"/>vidi <choice><sic>ha<unclear>n</unclear>ideni</sic><corr>hamideni</corr></choice> yaṁ raditya yaṁ vulan· hanəL̥ I hala-hayu
+  <lb n="1"/>Om̐ sri sarasoti kr̥ta, vukir hadidamaluṁ Uri<lb 
+n="2" break="no"/><!-- argr2ms: I have moved the hard returns that you had a the end of each line to stand inside the <lb/>s, as recommended in EGD -->
+piṁ buhana hañakra murusa patirtan paL̥maran· hapan yaṁ
+  <lb n="3"/>vidi <choice><sic>ha<unclear>n</unclear>ideni</sic><corr>hamideni</corr></choice><!-- argr2masc: rather, ha<choice><sic><unclear>n</unclear></sic><corr>m</corr></choice>ideni — limit the correction to the phonemen concerned. By the way, it is a bit weird to combine <unclear> and a correction, unless this is a case of <unclear reason="eccentric-ductus"> --> yaṁ raditya yaṁ vulan· hanəL̥ I hala-hayu
   <lb n="4" break="no"/>ni devamanusa yaṁ hanut ya<unclear>ṁ</unclear> hagave bajaran tapak taṁt<unclear>u</unclear> <choice><orig>kabaḥha</orig><reg>kambaha</reg></choice>
   <lb n="5"/>d<unclear>e</unclear>ni devamanusa muvaḥ saṁ tumon saṁṅ amanah aR̥ṅə luputa
   <lb n="6"/>r<unclear>i</unclear>ṁ Ila-Ila paḍa kadəlana tutur jati</p>
-<p>yen ana <choice><orig>ṅabaḥ</orig><reg>ṅambaḥ</reg></choice> ta
+<p>yen ana <choice><orig>ṅabaḥ</orig><reg>ṅambaḥ</reg></choice><!-- argr2msc: rather,  --> ta
   <lb n="7" break="no"/>n pabəkəla patik vənaṁ tan pabaktaha histri pituṁ ha<unclear>ja</unclear>ma tan vava
   <lb n="8" break="no"/>dona vastu, <choice><orig>sri syat</orig><reg>śrī syāt</reg></choice> i sakava<unclear>r</unclear>sa <g type="linga">.</g></p>
   <ab><num value="1371">1371</num></ab>
@@ -105,8 +106,7 @@
          </div>
         <div type="bibliography">
 	<!--bibliography encoded as per section §9.4 -->
-            <p>
-             </listBibl>
+            <p/>
         </div>
       </body>
   </text>
