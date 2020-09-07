@@ -58,11 +58,11 @@
 	</teiHeader>
 	<text xml:space="preserve">
       <body>
-         <div type="edition" xml:lang="san-Latn"><!-- update the @xml:lang value, see EGD §7.2-->
+         <div type="edition" xml:lang="kaw-Latn">
 <pb n="1r"/><p><lb n="1r1"/><g type="ddandaCross"/> svasti śakavarṣātīta <num value="829">829</num> śravaṇamāsa, tithi dvādaśi śukla‚ <abbr>ma</abbr>, <abbr>po</abbr><unclear>‚</unclear> <abbr>bu</abbr>‚ vāra</p><p>tatkālani pu tabvǝl· 
 <lb n="1r2"/>Anag vanuA Iṁ guntur· punpunaniṁ vihāre<!-- prima facie, the reading actually seems to be viharare --> garuṁ pinariccheda guṇa-doṣanira de samaggat· pinapan·
 <lb n="1r3"/>pu gavul· muAṁ saṁ Anakabvi pu gallam· vanuA I pulu vatu,</p><p>samvandhanikaṁ guṇa-doṣa, hana saṁ dharma ṅara<lb 
-n="1r4" break="no"/>nya bapani maṁhampig· saṁkā ri vurakuṁ ya ta tumagiḥ pu tabvǝl· tinagihakanya mas· su 1<!-- Brandes and TSN reads a punctuation sign after this numeral, but I see none. --> ndātan hutaṁ
+n="1r4" break="no"/>nya bapani maṁhampig· saṁkā ri vurakuṁ ya ta tumagiḥ pu tabvǝl· tinagihakanya mas· <abbr>su</abbr> <num value="1">1</num><!-- Brandes and TSN reads a punctuation sign after this numeral, but I see none. --> ndātan hutaṁ
 <lb n="1r5"/>pu tabvǝl· ya hutaṁ saṁ Anakabvi, makaṅaran si campa‚ vuAṁ sānak saṁ dharma, pajjaḥ puA si campa‚ tinagiḥ
 <lb n="1r6"/>ta pu tabvǝl· de saṁ dharma, ndātan hanānakni pu tabvǝl· muAṁ si campa‚ ṅuniveḥ yar vruha rikaṁ hutaṁ ya
 <lb n="1r7"/>ta mataṅyan· tka ri samaggat pinapan· ndātan· tka saṁ dharma rikaṁ pasamayān· ya mataṅyan· Inalaha<lb 
@@ -142,14 +142,28 @@ n="1v5" break="no"/>jara ya muvaḥ dlāhaniṁ dlāha ya donikeṁ jayapātra <
 </p>
         	<listBibl type="primary">
 				<bibl n="H"><ptr target="bib:Holle1880_02"/><citedRange unit="part">1 <q>Koperen platen uit de collectie van den heer J.A. Dieduksman</q></citedRange><citedRange unit="page">1-2</citedRange></bibl>
-				<bibl n="B"><ptr target="bib:Brandes1889_01"/><citedRange unit="page">146-148</citedRange></bibl>	
+				<bibl n="B"><ptr target="bib:Brandes1889_01"/></bibl>	
 				<bibl n="S"><ptr target="bib:Sarkar1971-1972_01"/><citedRange unit="volume">2</citedRange><citedRange unit="page">99-101</citedRange><citedRange unit="item">73</citedRange></bibl>	
 				<bibl n="TSN"><ptr target="bib:TitiSurtiNastiti2016_01"/><citedRange unit="page">412-413</citedRange></bibl>
 </listBibl>
            <listBibl type="secondary">
-	<!-- NBG 1880: 27 -->
-	<!-- TBG 32, 1888, 99 suite de la note 1 de la page 98 -->
-	<!-- NBG 26 1888: 54 n° 3-->
+	<bibl><ptr target="bib:NBG14_1877"/><citedRange unit="page">136-137</citedRange></bibl>
+<!-- NBG14_1877: 136-137 "III. De Heer De Roo, onlangs eene reis gemaakt hebbende naar midden Java, deelt mede dat hij bij den Heer Dieduksman in Djokjakarta eene fraaie verzameling bronzen oudheden gezien heeft, waarvan die Heer zoo goed is geweest hem tijdelijk af te staan twee beschreven koperen platen en het ruggestuk van een Boeddha-beeldje, insgelijks met een inschrift, van welke beide inscriptiën de Heer De Roo voorstelt fac-similés te laten maken. De Heer Groeneveldt was hiermede bereids begonnen; wordt verder besloten den Heer Dieduksman dank te betuigen." -->
+	<bibl>Brandes in <ptr target="bib:NBG24_1886"/><citedRange unit="page">24-29, esp. p. 27</citedRange></bibl>
+<!-- Brandes in NBG24_1886 (OJO and hence Sarkar misprint 1880), pp. 24–29, particularly p. 27:
+"VI. De Heer Dr. J. L. A. Brandes: a. Legt de ondervolgeude nota over: A. 1°. Onder de door de onlangs opgerichte Djogjasche vereeniging aan het Genootschap toegezonden photographien
+zijn er eenige genomen van beschreven voorwerpen, nl.: [...] d. Eene afbeelding van de koperen plaat in bet bezit van den Heer Dieduksman, welke in transcriptie reeds werd medegedeeld in Verh. XXXIX. Uit de photographie is mij gebleken dat, zooals ik reeds vermoedde, in die transcriptie zeer vele drukfouten worden aangetroffen. Door deze photographische afbeelding wordt schier alles, wat er onduidelijk in was, opgehelderd." -->
+	<!-- Brandes 1889, 99 suite de la note 1 de la page 98 -->
+	<bibl>Brandes in <ptr target="bib:NBG26_1888"/><citedRange unit="page">52</citedRange><citedRange unit="item">3</citedRange></bibl>
+<!-- Brandes in NBG26_1888: 52 n° 3: "3°. Tijdschr. XXXII, 99 noot is te verbeteren als volgt: „van het jaar 849 Qakajaren verloopen vallen Dinsdag 8 Maart (de datum waarop dat jaar aanving) — December in het jaar 927 na Chr. , en de daarop volgende Januari — 24 Febr. in 928 A. D. Het is den tekst behandelde stuk is uitgereikt 12 Qukla Qrawana d. i. 15 Juli en dateert dus
+uit 927 na Chr. Daar 8 Maart een Dinsdag was, valt 15 Juli op Vrijdag. Vrijdag heet Çukra, zoodat men verwachten zou çu. Er staat op de plaat evenwel duidelijk bu (budha) d. i. Woensdag", enz. -->
+	<bibl><ptr target="bib:Verbeek1891_01"/><citedRange unit="page">164, 167</citedRange></bibl>
+	<bibl><ptr target="bib:Brandes1913_01"/><citedRange unit="page">262</citedRange><citedRange unit="item">CXXX</citedRange></bibl>
+	<bibl><ptr target="bib:Krom1931_01"/><citedRange unit="page">197</citedRange></bibl>
+	<bibl><ptr target="bib:JVMMR1919"/><citedRange unit="page">6</citedRange></bibl>
+<!-- Verslag omtrent den toestand van het Museum voor Land- en Volkenkunde en Maritiem Museum „Prins Hendrik” te Rotterdam over het jaar 1919 [Zes en dertigste jaarverslag], p. 6 : « Van Java : 1. Twee oud-Javaansche oorkonden op koperen platen uit de eerste helft der 10de eeuw (24.505—24.506). Oordeelende naar de wijze waarop deze twee zeldzame stukken in het bezit van het museum geraakten, kon niet vermoed worden hier te doen te hebben met voorwerpen die reeds in handen waren geweest van personen die hun hooge wetenschappelijke waarde hadden doorgrond. [...] Beide oorkonden worden voor het eerste genoemd in de Notulen van [het Bataviaasch] Genootschap over September 1877 [...]. De platen bevonden zich toen in eenigzins befaamde handen. Toen echter in 1901 door Brandes in opdracht van het Bataviaasch Genootschap de nalatenschap van den voormaligen eigenaar werd geïnventariseerd, bleken de bewuste koperplaten niet meer voorhanden te zijn, doch . . . . . ,, wel die hijzelf gemaakt had’’. [...] »
+ -->
+	<bibl><ptr target="bib:OV1929"/><citedRange unit="page">171</citedRange><citedRange unit="item">10018</citedRange></bibl><!-- OV, 1929: 171, foto OD 10018 -->
               <bibl n="G"><ptr target="bib:Goris1928_01"/><citedRange unit="page">64</citedRange></bibl>
 	<bibl><ptr target="bib:Stutterheim1935_01"/><citedRange unit="page">437</citedRange><citedRange unit="note">4</citedRange></bibl>
 	<bibl><ptr target="bib:Damais1952_01"/><citedRange unit="page">50-51</citedRange><citedRange unit="part">A</citedRange><citedRange unit="item">85</citedRange></bibl>
