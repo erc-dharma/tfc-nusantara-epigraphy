@@ -51,17 +51,17 @@
                     <physDesc>
                         <handDesc>
                             <p>The hand is the one typically seen in Singasari-period inscriptions.</p>
-                        	<p>The inscription hardly seems to know the long vowels <foreign>ū</foreign> and <foreign>ī</foreign>, most expected spellings <foreign>ū</foreign> and <foreign>ī</foreign> figuring as <foreign>u</foreign> and <foreign>i</foreign>.</p><!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EG 11.2. -->
+                            <p>The inscription hardly seems to know the long vowels <foreign>ū</foreign> and <foreign>ī</foreign>, most expected spellings <foreign>ū</foreign> and <foreign>ī</foreign> figuring as <foreign>u</foreign> and <foreign>i</foreign>.</p><!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EG 11.2. -->
                         </handDesc>
                     </physDesc>
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-    	<revisionDesc>
+    	<revisionDesc>	      
     	    <change who="part:ekba" when="2020-04-20" status="draft">second revision  of the initial encoding based on Arlo's corrections</change>
     	    <change who="part:ekba" when="2020-04-20" status="draft">revised of initial encoding based on Arlo's corrections</change>
-	<change who="part:argr" when="2020-04-16" status="draft">revision of initial encoding; encoded translation</change>  
-      	<change who="part:ekba" when="2020-04-12" status="draft">initial encoding of the inscription</change>
+    	    <change who="part:argr" when="2020-04-16" status="draft">revision of initial encoding; encoded translation</change>  
+    	    <change who="part:ekba" when="2020-04-12" status="draft">initial encoding of the inscription</change>
         </revisionDesc>
     </teiHeader>
     <text xml:space="preserve">
