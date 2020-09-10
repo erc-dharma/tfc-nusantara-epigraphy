@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader xml:lang="eng">
+        <fileDesc>
+            <titleStmt>
+                <title>Palebuhan</title>
+                <respStmt>
+                    <resp>EpiDoc encoding</resp>
+                    <persName ref="part:ekba">
+                        <name>Eko Bastiawan</name>
+                    </persName>
+                	<persName ref="part:argr">
+                		<forename>Arlo</forename>
+                		<surname>Griffiths</surname>
+                	</persName>
+                </respStmt>
+                <respStmt>
+                    <resp>intellectual authorship of edition</resp>
+                    <persName ref="part:argr">
+                        <forename>Arlo</forename>
+                        <surname>Griffiths</surname>
+                    </persName>
+                </respStmt>
+            </titleStmt>         
+            <publicationStmt>
+                <authority>DHARMA
+                    <note>This project has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).
+                    </note>
+                </authority>
+                <pubPlace>Malang</pubPlace>
+                <idno type="filename">Palebuhan</idno>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>This work is licenced under the Creative Commons Attribution 4.0 Unported Licence. To view a copy of the licence, visit https://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.</p>
+                    	<p>Copyright (c) 2019-2025 by Eko Bastiawan &amp; Arlo Griffiths</p>
+                    </licence>
+                </availability>
+                <date from="2019" to="2025">2019-2025</date>
+            </publicationStmt>
+            <sourceDesc><!-- only the handDesc can be filled in at this stage -->
+                <msDesc><!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/><!-- don't modify this -->
+                    </msIdentifier>
+                    <msContents><!-- describe the intellectual content of an inscription -->
+                        <summary><!-- //// NOT MANDATORY  ////--></summary> <!-- offers the possibility to give a summary of the inscription's content -->
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p><!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EG 11.2. --></p>
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+    	<revisionDesc>
+    	    <change who="part:ekba" when="2020-09-09" status="draft">initial encoding of the inscription</change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:space="preserve">
+      <body>
+         <div type="edition" xml:lang="kaw-Latn">
+<p><pb n="1r"/>
+<lb n="1r1"/><g type="ddandaPlain">.</g> <g type="circleSmall">.</g> <g type="ddandaPlain">.</g> svasti śakavarṣātīta 849 beśākhamāsa tithi pratipāda śuklapakṣa <gap reason="lost" extent="unknown" unit="character"/>	
+<lb n="1r2"/>vāra bhariṇi nakṣatra yoga devatā, tatkāla śri mahārāja pu vagīśvara saṁ la<unclear>ra</unclear><gap reason="lost" extent="unknown" unit="character"/>
+<lb n="1r3"/><unclear>r</unclear> tumurun anugrahanira I rakryān· mapatiḥ tinaḍaḥ samgat· Amrāti sam<gap reason="lost" extent="unknown" unit="character"/>
+<lb n="1r4"/>Aṅ tiruAn· vadihati makudur umagəḥhakan· Ikaṁ śīma I paL̥buhan· tan· kna ri <gap reason="lost" extent="unknown" unit="character"/>
+<lb n="1r5"/>ra tan· katamāna de pakriṁ paḍam· tuha, dagaṁ vatək· I jro, mamr̥ṣi piniṅle, kataṅgaran ·<gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">mapaḍa</supplied>-	
+<lb n="1r6"/>hi maṅiduṁ valyan· Uṇḍahagi paṇḍay mās paṇḍay vsi saprakārani drabya haji ki<supplied reason="lost">lalān·</supplied> <gap reason="lost" extent="unknown" unit="character"/>
+<lb n="1r7"/>saṁ hyaṁ L̥buḥ Ataḥ pramāṇa Iriya, kunaṁ sakveḥniṁ dr̥bya haji kilalān· ve<gap reason="lost" extent="unknown" unit="character"/>
+<lb n="1r8"/>v-bya siṅhala paṇḍikira mamvaṁ ramman· huñjamān· kutak· banyāga bantal· tan·  <gap reason="lost" extent="unknown" unit="character"/>
+<lb n="1r9"/>molaha I saṁ hyaṁ I paL̥buhan· maparā māvara Ikanaṁ kunaṁ sukhaduḥkhanya <gap reason="lost" extent="unknown" unit="character"/>
+<lb n="1r10"/>riṁ śīma vaḥ tan· pamayaṁ vipatti prakāra saṁ hyaṁ L̥buḥ Ataḥ pramāṇā rikā kabaiḥ <gap reason="lost" extent="unknown" unit="character"/> 
+<lb n="1r11"/><gap reason="lost" extent="unknown" unit="character"/>dval· salvirniṁ sambyavahāra Anuṁ salaha kaṁ tuhān iṁ <unclear>sa</unclear><supplied reason="lost">śīma</supplied> <gap reason="lost" extent="unknown" unit="character"/> <unclear>kbo</unclear>
+<pb n="1v"/>
+<lb n="1v1"/><num value="20">20</num> sapi <num value="40">40</num> vḍus· <num value="80">80</num> Aṇḍaḥ tluṁ vantayan· gulungan· maṅaraḥ <gap reason="lost" extent="unknown" unit="character"/><unclear>pi
+</unclear><lb n="1v2" break="no"/>nikul· dvalya, basanādi maśayaṁ makacapuri,  kapas· paḍat· L̥ṅa, bras· gula ka<gap reason="lost" extent="unknown" unit="character"/>
+<lb n="1v3"/>sumba, Ityevamādi saprakārani pinikul kānam· bantal ataḍaḥ Iṁ satuhān· ta<gap reason="lost" extent="unknown" unit="character"/>
+<lb n="1v4"/>paṇḍay vsi paṇḍay tamvaga tluṁ ṅububan iṁ saśīma macadar· pat paramva yan· riṁ tirvan· <gap reason="lost" extent="unknown" unit="character"/>
+<lb n="1v5"/><gap reason="lost" extent="unknown" unit="character"/>nya <num value="3">3</num> tan· patuṇḍana masuhara <num value="8">8</num> yan· riyaṅin-aṅin· vadihati makudur· parahva I <unclear>prar</unclear><gap reason="lost" extent="unknown" unit="character"/>
+<lb n="1v6"/>ṇḍan· suharanya <num value="3">3</num> patiḥ vasaḥ, kuci maL̥buḥ Iṁ srādhan· parahvanya <num value="1">1</num> masuhara <num value="3">3</num> tan· patuṇḍanya <gap reason="lost" extent="unknown" unit="character"/>
+<lb n="1v7"/>ya tan· katamāna de saṁ maṅilala dr̥bya haji, miśra paramisra kabaiḥ ndān· pānamakmitanna surat· praṣa<gap reason="lost" extent="unknown" unit="character"/> 
+<lb n="1v8"/>yāpvan· L̥viḥ saṅkerikā pahi Iriya kinnāna sakaL̥viḥnya de saṁ maṅilala soddhā<supplied reason="lost">ra</supplied><gap reason="lost" extent="unknown" unit="character"/>
+<lb n="1v9"/>rai kacambul uṇḍahagi, mañavriṁ maṅlākha, maṅapus· maṅubar· manahab· manuk·, maṅdyūn· ma<gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost">I</supplied>
+<lb n="1v10"/>tyevamādi yekā salaha Anūṁ pramāṇā riya saṁ AL̥buḥ maṅkāna Ājñā śrī mahārāja <gap reason="lost" extent="unknown" unit="character"/>
+<lb n="1v11"/>ri garuṁ‚ kaprayātnākna saṁ prabhu makaphalā tan· punaruktā saṁ hyaṁ śīma ri dlāhaniṁ dlāha <g type="ddandaPlain">.</g> <g type="circleSmall">.</g> <g type="ddandaPlain">.</g> <g type="circleSmall">.</g> <g type="ddandaPlain">.</g></p>
+         </div>
+         <div type="apparatus">
+           <!--apparatus encoded as per EG §9.1, basic elements for apparatus below-->
+               <listApp>
+                   <app></app>
+               </listApp>         
+         </div>
+         <div type="translation" xml:lang="eng" resp="part:argr">
+ 	<!--translation encoded as per EG §9.2 -->
+                                    <!--taken from that published by H.B. Sarkar.-->
+<p n="1r1">Hail ! The śaka year expired, 849, the month of Vaiśākha, first day of the bright half of the month,...</p>
+<p n="1r2">day, (while) the lunar mansion Bharaṇī (stood under) the deity (Yama) (during) the conjunction (of Siddha). At that time, the illustrious great king Pu Vagīśvara who was cremated (?)</p>
+<p n="1r3">communicated his favour unto the <foreign>rakryān mapatiḥ</foreign> for receipt of the samgat-s of Amrāti‚.........</p>
+<p n="1r4">...tiruan‚ vadihati, makudur, confirming that the free-hold at PaL̥buhan may not be touched by...</p>
+<p n="1r5">......may not be trod upon by pakriṁ, paḍam, tuha dagaṁ, vatək i jro‚ mamr̥ṣi‚ piniṅle, kataṅgaran‚...</p>
+<p n="1r6">(mapaḍa)hi, maṅiduṁ, valyan‚ uṇḍahagi, paṇḍay mas, paṇḍay vsi‚ all sorts of'people who collect royal taxes</p>
+<p n="1r7">the deity (of) L̥buḥ is the sole authority over this. More over, all of the ‘collectors of royal taxes’.........</p>
+<p n="1r8">.........Ceylonese, Paṇḍikira-people, mambang-s, the people of R̥mən‚ hunjaman-s, kutak-s, (foreign ?) merchants with pikul-freights may not.........</p>
+<p n="1r9"> create troubles for the deity of PaL̥buhan by handling and disturbing this (free-hold), even so its good and bad events</p>
+<p n="1r10"> in the free-hold (such as) the fruit without the areca blossom, death and so forth. The deity (of) L̥buḥ is the sole authority over these all.........</p>
+<p n="1r11">.........merchandise (and) all sorts of trades which may be allowed to the ‘master’ in (each free-hold).........</p>
+<p n="1v1"> 20 (buffaloes), 40 cows, 80 goats, three cages of eggs, 3 transports, what is packed up.........(Even if)</p>
+<p n="1v2">their commodities are pikuled, to begin with (those of the dealers of) clothes, dealers of copper-works and those who come within the city-walls to hawk with cotton, paḍat‚ sesame oil, unbolstered rice, sugar,</p>	
+<p n="1v3">safflower and so forth, (then), of all the pikuled articles, the sixth bantal comes to each ‘master’ (free of charges)........</p>
+<p n="1v4"> iron-smith, copper-smith may have (only) three bellows per free hold ; macadar, 4 paramva-s. If for tirvan.........</p>
+<p n="1v5"> .........3 vessels without taking (any other boat) in tow, with 8 su(ṅ)hara-s ; if for angin-angin, vadihati, makudur, then there may be 1 vessel.........</p>
+<p n="1v6">(without taking any other boat) in tow, with 3 su(ṅ)hara-s ; the patiḥ-s of Vasaḥ‚ Kuci (and) MaL̥buḥ may have for śrāddha
+(funeral) ceremonies 1 vessel with 3 su(ṅ)hara-s without taking (any other boat) in tow.........</p>
+<p n="1v7">these may not be interfered with by the ‘collectors of royal taxes', all miśra-s (and) paramiśra-s ; on the other hand, people should take care of the edict.........</p>	
+<p n="1v8"> If there is more than this defined limit, (then) from this, each surplus may be touched by the ‘collectors of royal taxes.........'</p>
+<p n="1v9">.........black paints, wood-work, purple-red paints, lac‚ spinning (?), red paints (?), the ensnaring of birds, the making of pots</p>	
+<p n="1v10">and so forth. If any body violates these (regulations), saṁ AL̥buḥ shall have (a voice of) authority over them. Such is
+the command of the illustrious great king......</p>
+<p n="1v11">of Garung. May kings take care (of this edict), the consequnces (hereof) being that the sacred free-hold may not again
+become the subject of discussion in the remotest future !</p>         
+         </div>
+         <div type="commentary">
+            <!--commentary encoded as per section §9.3 -->
+     <p></p>
+         </div>
+        <div type="bibliography">
+	<!--bibliography encoded as per section §9.4 -->
+            <p>First edited by Stutterheim (<bibl rend="omitname"><ptr target="Stutterheim1935_02"/></bibl>). Reproduction of Stutterheim’s edition, to which is added a translation into English, by H.B. Sarkar (<bibl rend="omitname"><ptr target="bib:Sarkar1971-1972_01"/></bibl>); Re-edited here by Arlo Griffiths from ???.</p>
+            <listBibl type="primary">
+                    <bibl n="S1">
+                      <ptr target="bib:Stutterheim1935_02"/>
+                      <citedRange unit="page">433-435</citedRange>
+                      <citedRange unit="item" >1</citedRange>
+                    </bibl>
+                <bibl n="S2">
+                      <ptr target="bib:Sarkar1971-1972_01"/>
+                    <citedRange unit="volume">2</citedRange>
+                      <citedRange unit="page">215-220</citedRange>
+                      <citedRange unit="item">93</citedRange>
+                    </bibl>
+                  </listBibl>
+            <listBibl type="secondary">
+             <bibl></bibl>
+           </listBibl>
+        </div>
+      </body>
+  </text>
+</TEI>

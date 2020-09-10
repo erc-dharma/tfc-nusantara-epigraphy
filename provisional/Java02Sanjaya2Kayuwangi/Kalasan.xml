@@ -317,11 +317,11 @@ re-edited, with new Dutch translation and photo of an estampage, by Bosch (<bibl
 OD Number: 6366, 7465-7466-->
 </p>
            <listBibl type="secondary">
-              <bibl><ptr target="bib:Bosch1930_03"></ptr></bibl>
-	<bibl><ptr target="bib:Damais1952_01"></ptr><citedRange unit="page">22-23</citedRange><citedRange unit="item">A.4</citedRange></bibl>
-	<bibl><ptr target="bib:Damais1955_01"></ptr><citedRange unit="page">240</citedRange></bibl>
-	<bibl><ptr target="bib:Damais1970_01"></ptr><citedRange unit="page">42</citedRange><citedRange unit="item">9</citedRange></bibl>
-	<bibl><ptr target="bib:Nakada1982_01"></ptr><citedRange unit="page">72-73</citedRange><citedRange unit="item">I.4</citedRange></bibl>
+              <bibl><ptr target="bib:Bosch1930_03"/></bibl>
+	<bibl><ptr target="bib:Damais1952_01"/><citedRange unit="page">22-23</citedRange><citedRange unit="item">A.4</citedRange></bibl>
+	<bibl><ptr target="bib:Damais1955_01"/><citedRange unit="page">240</citedRange></bibl>
+	<bibl><ptr target="bib:Damais1970_01"/><citedRange unit="page">42</citedRange><citedRange unit="item">9</citedRange></bibl>
+	<bibl><ptr target="bib:Nakada1982_01"/><citedRange unit="page">72-73</citedRange><citedRange unit="item">I.4</citedRange></bibl>
            </listBibl>
         </div>
       </body>
