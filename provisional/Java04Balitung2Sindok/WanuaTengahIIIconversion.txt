@@ -1,0 +1,397 @@
+%! program = pdflatex
+
+\documentclass[12pt]{article}
+\usepackage{ucs}
+\usepackage[utf8x]{inputenc}
+\usepackage{prasasti-indonesia}
+\usepackage[en]{metre}
+
+\frenchspacing
+
+\title{The inscription <foreign>Wanua Tengah III}}
+\author{Arlo Griffiths}
+\date{\small \today}
+
+\begin{document}
+\maketitle
+
+\subsection*{Introduction}
+
+Sukarto K. Atmodjo, “Prasasti Sipater dan prasasti Wangkud”, Rapat Evalusasi Hasil Penelitian Arkeologi II, 1985: 229–240, observations concerning provenance on p.~230:
+
+\begin{quote}
+Temuan prasasti yang sangat penting akhir-akhir ini dipandang dari segi Epigrafi dan Sejarah Indonesia Kuno, yaitu temuan dua lembar lempengan tembaga di Dukuh Dunglo, Desa Gandulan, Kecamatan Kaloran (Kabupaten Temanggung).
+\end{quote}
+
+\red{}
+In n.~19 (p.~237), Sukarto explains that Kusen was the first to decipher the inscription; that Sukarto produced a corrected reading at the request of the Suaka Sejarah dan Purbakala Prambanan, before he came to see Boechari's reading. It seems that Sukarto never published nor circulated his own reading.
+
+%Bibliography:
+%Trigangga, BA (Y), 1994 (khusus): 22, 23-25 (T sebagian), 26; Kusen, BA (Y), 1994 (khusus): 82-94; Dwiyanto, PIA IV, 1986: 92-110; Kusen, Kompas 06/05/1984: 10; Boechari, several paper collected in 2012; Wisseman Christie; Sundberg.
+
+\subsubsection*{Constitution of the text}
+The text presented below was constituted in the following manner. The transliteration contained in the unpublished typescript entitled ``Transkripsi sementara prasasti Wanua Tṅah III'' (ca.\ 1983), left by Prof.\ Boechari (B), was entered into a computer file. This transliteration was then checked against the original by inspection of the two bronze plates bearing inventory numbers 1118 and 1119 at BPPP Prambanan on 19--21 January 2010, and later checked again against photographs taken in Prambanan. Variant readings of Boechari were duly noted, and at a later stage variant readings from another transliteration, prepared by Kusen (K),\footnote{Contained in his <foreign>Faktor-faktor penyebab terjadinya perubahan status sawah di Wanua Tengah dalam masa pemerintahan raja-raja Mataram kuno abad 8-10}, Laporan Penelitian, Fakultas Sastra Universitas Gadjah Mada, Yogyakarta 1988--89, p.~15-25.} were also incorporated. It appears that Kusen's transliteration is for faces 1b and most of 2a based on Boechari's, with some normalization and adaptation of punctuation, but it starts to diverge quite strongly, with numerous generally inferior readings, from about l.~2a22 onwards.\par
+
+\subsubsection*{Editorial conventions and symbols}
+The text of the inscriptions is divided into paragraphs. Line numbers of the original plates are printed in parentheses and in bold face. Sanskrit stanza numbers are printed in roman numerals. The edition further makes use of the following editorial symbols and conventions:\footnote{The transliteration conventions, except for that of the lowest level punctuation sign, have been explained in the file \texttt{transliterasi.pdf}.}
+
+\begin{convlist}
+%\item['a etc.\hfill] denote akṣara <foreign>a} etc.
+%\item[\virama\hfill] denotes virāma/paten.
+\item[(...)\hfill] surround graphic elements whose identification is visually uncertain. (<foreign>a/o}), e.g., represents an element that could be read both as <foreign>a} or as <foreign>o}.
+%\item[{[...]}\hfill] In the case of the inscription Ratu Baka F, these brackets surround those sequences of akṣaras that must have been present on the portion of the stone that is now lost, and <foreign>italic} akṣaras within these brackets are diagnostic restitutions of lacunae that satisfy the requirements of the meter, seem to suit the immediate context, and seem coherent with the diction found in the rest of the Kumbhayoni corpus. The usual metrical symbols indicate missing akṣaras and there prosodic value inferable from the meter. They are placed outside of square brackets in the preserved portion of the text, in which case the stone has suffered damage making the akṣara(s) in question illegible.
+%\item[C\hfill] represents any consonant sign.
+%\item[V\hfill] represents any vowel element.
+%\item[+...+\hfill] surround graphic elements added by the engraver.
+%\item[=\hfill] marks word boundaries between consonants that are written together in one ligature
+\item[\danda\hfill] represents the punctuation sign called <foreign>daṇḍa} in Sanskrit, mostly occuring in pairs (\ddanda).
+\item[// \hfill] represents an elaborate stylized form apparently derived from \ddanda.
+\item[\MC\hfill] represents the lowest level punctuation sign that is found at x-height and takes a shape apparently identical to the numerical 0 sign in this inscription. 
+%\item[?$^n$\hfill] Un nombre $n$ d'\textit{ak\d{s}ara} illisibles.
+\end{convlist}
+
+\noindent
+In the critical apparatus, the diamond sign (\sep) separates adopted from rejected readings. The comma sign (,) separates different rejected readings from each other. Only significant variant readings of B and K are cited here, and this is done precisely in the form typed by their authors, the form given by B being chosen if B and K have an identical variant reading represented in different transliteration systems. B and K use a different system of transliteration from that adopted here, giving <foreign>w} for my <foreign>v}, full-stop for my \MC\ and not explicitly marking akṣara vowels or virāma; moreover K does not distinguish <foreign>h} from visarga or <foreign>ṅ} from anusvāra (noting both as <foreign>ng}). B uses the engma sign (<foreign>\engma}) for anusvāra; K uses <foreign>ë} for pəpət (and <foreign>rë}/<foreign>lë} for <foreign>r̥}/<foreign>\VsXlv}), and often omits the tilde in <foreign>ñ}. Both sometimes use underlining, presumably to indicate uncertain readings: such underlining is below rendered by means of italics. These facts are assumed to be known in making use of the critical apparatus, and are not reported as variants. Differences with regard to placement of word-boundaries are equally ignored.
+
+%%%%
+%Engraver's errors: omission of anusvāra; d for j.
+
+\par\medskip\noindent
+\red{Notes for discussion of incorporation of older inscriptions:
+%see jesuit Bakker's little booklet on Indonesian Epigraphy
+\begin{itemize}
+\item in Sukabumi inscription: ed. van Stein Callenfels. blz. 116-119
+\item van Naerssen p. 21: ``Een ander voorbeeld is de oorkonde van Kembang Aroem uit 824 Çaka, met een toevoeging in 825 Çaka (Ed. F.D.K. Bosch in O.V. 1925 blz, 41-49).''
+\end{itemize}}
+
+<pb n="1r"/>
+<!-- blank -->
+
+<pb n="1b"/>
+
+<p><lb n="1b1"/> //<!-- \footnote{// \sep\ the liminal sign is ignored here both by B and K. Cf.\ the n.\ on l.\ 1b12 below.} --> vuAra sira rahyaṁta I hāra<!-- \footnote{hāra B \sep\ hara K.} --> ṅarannira Ari rahyaṁta ri mḍaṁ, sira ta magavai bihāra I pikatan· tutuganni(ṁ) taṇḍa,</p>
+
+<p>Iṁ śaka 668 Aśujimāsa\footnote{Aśujimāsa K \sep\ asuji māsa B.} pañcādaśi\footnote{pañcādaśi B \sep\ pañcadaśi K.} śukla, pa pa Aṁ, <lb n="1b2"/> Aḍiri\footnote{Aḍiri \sep\ read Aṁdiri? One might assume that the desired anusvāra is concealed in, i.e.\ overlaps with, the descending extremity of the loop of the liminal sign at the start of the first line. Note however that the same loop in the akṣara I also tends to show a circle at the end, without this implying any anusvāra belonging to the line below it. Note also the similar case in line 6, which causes doubt as to the necessity of restoring an anusvāra in both cases.} rakai panaṅkaran·, sira ta Umarpaṇākan· Ikanaṁ savaḥ haji lān· I vanuA tṅaḥ vatak· pikatan· rikanaṁ bihāra I pikatan·, luĀnikanaṁ savaḥ paṅavaitanya\footnote{paṅavaitanya B \sep\ pangawetanya K. } lambyan·\footnote{lambyan B \sep\ lamwyan K.} <lb n="1b3"/> lor·\footnote{lor \sep\ the pūrvamātra e-sign stands at the end of line 2.} ḍpa sihvā 182 paṅavaitanya lambyan·\footnote{lambyan B \sep\ lamwyan K.} kidul· ḍpa sihvā 162 paṅalor·nya lamvyan· vaitan· ḍpa sihvā 160 paṅidul·nya lamvyan· kuluAn· ḍpa sihvā 162 viniḥ<lb n="1b4" break="no"/>nya tū 3</p> 
+
+<p>Iṁ\footnote{3 Iṁ B \sep\ 3. Iṁ K.} śaka 706 cetramāsa daśami śukla, pa ka śa, vāra, Aṁḍiri rake panaraban·, tann inulahulaḥ Ikanaṁ savaḥ lān· I vanuA tṅaḥ An tama rikanaṁ bihāra I pikatan·,</p> 
+
+<p>Iṁ śaka 725 cetra<lb n="1b5" break="no"/>māsa śaṣṭi\footnote{śaṣṭi K \sep\ ṣaṣṭi B.} śukla, pa u śu, vāra, \footnote{śu, vāra, K \sep\ śu wāra. B.} maṁḍiri rake varak·\footnote{°ḍiri rake varak \sep\ °ḍiri rakai warak BK.} dyaḥ manara, sira ta Umabak· Ikanaṁ sīma pjaḥ\footnote{sīma pjaḥ B \sep\ sīma. pjaḥ K.} rake varak· siraṁ lumāḥ Iṁ\footnote{lumāḥ Iṁ \sep\ lumāḥ i B, lumah i K.} kelāsa,</p> 
+
+<p>Iṁ śaka 749 śravaṇamāsa, caturdaśi kr̥ṣṇa, vā pa śu\footnote{vā pa śu B \sep\ wa pa śu K.}, vāra, maṁ<lb n="1b6"/>ḍiri dyaḥ gula, tan·n uvaḥ Ataḥ Ikanaṁ sīma rikanaṁ bihāra I pikatan·,</p> 
+
+<p>Iṁ śaka 750 māghamāsa dvitīya śukla, pa U Ā, vāra, Aḍiri\footnote{Aḍiri \sep\ read Aṁdiri? Cf.~l.~2.} rake garuṁ Anak· saṁ lumāḥ I tūk·\footnote{tūk \sep\ Boechari notes here (n.\ 1): “Ada kemungkinan untuk membaca <foreign>tluk} di sini. Tetapi di belakang, yaitu pada lempengan ke-II sisi depan baris ke-10 (II.A.10) kami menjumpai <foreign>ḍaṅ ācāryya iṁ tūk dhāneśvara}.” This is misleading. The only possible reading here is tūk.}, sira ta Umaluyakan· Ikanaṁ sa<lb n="1b7"/>vaḥ sīma Irikanaṁ bīhāra\footnote{bīhāra \sep\ bihāra BK.} I pikatan·</p>
+
+<p>svasti\footnote{pikatan· svasti B \sep\ pikatan. swasti K.} śakavarṣātīta 751 mārggaśīramāsa\footnote{mārggaśīra° \sep\ mārggasīra B, mārggasira K.} tithi caturdaśi\footnote{caturdaśi \red{BK} \sep\ comparison with the Sanskrit text below proves that this is an error for caturthi.} śuklapakṣa, vu va vr̥, vāra, tatkāla śrī mahārāja rakai garuṁ Umaluyaka<lb n="1b8}n· Ikanaṁ savaḥ haji lān· I vanuA tṅaḥ sīmani bihāra I pikatan·, Ikana\footnote{Ikana B \sep\ ikanang K. Corr.\ Ikanaṁ.} binabak· śrī mahārāja saṁ lumāḥ Iṁ\footnote{Iṁ \sep\ i BK.} 
+kelāsa, patiḥ tatkāla vka pu taṅgal·, sirikan pu sūryya, pikatan pu pañculiṁ, mamava <lb n="1b9} bīhāra\footnote{bīhāra \sep\ bihāra BK.} sa\footnote{sa B \sep\ sa(ng) K. Boechari notes here (n.\ 2): “Rupa-rupanya penatah prasasti lupa membubuhkan tanda <foreign>cəcak} di atas huruf <foreign>sa} ini.” Read saṁ.} vatu humalaṁ, vruḥ ḍaṅ ācāryya devendra\footnote{devendra \sep\ the cakra (subscript r) appears curiously truncated here, if compared to the cases of dra in line 11, but we definitely do not have simple nda either (cf.~vandāmi in l.~11, mandana in l.~12).}, Anuṁ Umilu kinon· śrī mahārāja, Umaluyakna\footnote{mahārāja, Umaluyakna B \sep\ mahārāja umaluyakna K.} Ikanaṁ savaḥ \red{Iṁ} vihāra I pikatan· vahuta makudur· I vka I sirikan· I palar hyaṁ, I hala<lb n="1b10}ran·, I vlahan·, I jalinan·\footnote{jalinan \sep\ Boechari notes here (n. 3): “Di dalam prasasti-prasasti yang lain jabatan ini dieja <foreign>dalinan}.” Corr.\ dalinan.}, I paṅkur·, I tavān·\footnote{tavān B \sep\ tawan K.}, I tirip·, I lampi, I vatu humalaṁ, I pikatan·, I mamrati, I tilimpik·, I tiruAn·, I maṁhuri, patiḥ I pikatan· saṁ vanuA tṅaḥ pu culiṁ, saṁ <lb n="1b11} tuṅgal aṅin· pu ramvat·, lekan pu glam·, saṁ ra gunuṁ pu Intap·, saṁ samalagi pu talisū, ḍaṅ ācāryya paṅajyan· I pikatan· bhadracandra, patati vandāmi bhadrasūryya, vihārasvāmi saṁṅ āryya\footnote{saṁṅ āryya B \sep\ sang ācaryya K.}, pañcavā<lb n="1b12}ra punta mandana~//\footnote{// \sep\ the liminal sign here, and between the following stanzas, has the same shape as the one at the start of the inscription, although for lack of space it is noted in a compressed manner. Boechari's n.~4 here shows the sign's shape.}</p>
+
+
+<lg n="1" met="anuṣṭubh">
+<l n="a">candrendriyagurau\footnote{candrendriya° \sep\ the cakras in twice ndr are scarcely visible but definitely present. Cf. the remarks on ndr/nd above.} varṣe\footnote{°gurau varṣe \sep\ °gurovarṣe BK. It seems hard to interpret the sign that B and K read as ro in that manner, as rā is always written with postscript ā-mark, while we here have a subscript element, so rai would at first sight seem more likely. However, we must compare the manner in which tau is written further on in this line. It is most likely that we have a truncated rau here, for the sense also demands °gurau.}</l> 
+<l n="b">mārggamāse tathaiva ca,</l> 
+<l n="c">caturthyā\footnote{caturthyā BK \sep\ corr.\ caturthyāṁ.} śuklapakṣe ca,</l>
+<l n="d">vurukuṁmitrajīvake //</l>
+</lg>
+<lg n="2" met="anuṣṭubh">
+<l n="a">Ācāryye\footnote{Ācāryye \sep\ ācāryya BK.} candrābhadrākhye\footnote{candrābhadrākhye B \sep\ candrābhadrākhye K (presumably a misprint); corr.~candrabhadrākhye (m.c.).},</l>
+<l n="b">bhadrasūryye\footnote{°sūryye \sep\ °sūryya BK.} ca partatau\footnote{partatau \sep\ partato BK.},</l> 
+\item[] Ācāryye\footnote{Ācāryye K \sep\ ācāryy B (presumably a typing error); corr. Āryye (m.c.).} vihārapāle <lb n="1b13} ca, mandane pañcavārake //
+\end{padalist}
+
+\item[I{}I{}I.\hfill]
+\begin{padalist}
+\item[] tathāpi paramācāryye, devendre vandyavandite, \footnote{°vandite \sep\ °van-{}-te BK.}
+\item[] dhyānādiguṇasampūrṇe, subhage rājasatkr̥te //
+\end{padalist}
+
+
+\item[IV.\hfill]
+\begin{padalist}
+\item[] puramaddhye culiṁsajñaḥ\footnote{°sajñaḥ \sep\ corr. °saṁjñaḥ.}, ramvat· tuṅgal aṅin· tathā, 
+\item[] glam·sa<lb n="1b14}jñaḥ\footnote{glam·sajñaḥ \sep\ read gəlam° (m.c.), corr.\ °saṁjñaḥ.} tathā lekan·, intap· saṁ ra gunuṁ punaḥ //
+\end{padalist}
+
+\item[V.\hfill]
+\begin{padalist}
+\item[] talisū samalāśiś\footnote{samalāśiś B \sep\ samalagiś K; Boechari notes (n.~5): “Penatah prasasti membuat kesalahan di sini; semestinya ia menulis <foreign>samalāgiś ca}. Ia telah terlanjur memahat garis kecil tengah huruf <foreign>ga}, sehingga terbaca sebagai <foreign>śa}.” Corr.\ samalāgiś.} ca, pañca ye\footnote{pañca ye \sep\ pañca-{}-ya BK.} purasattamāḥ, 
+\item[] Adeyavacanāḥ sarvve, teṣu saṁyogagāmiṣu\footnote{teṣu saṁyoga° \sep\ tepusa yoga° BK.} //
+\end{padalist}
+
+\item[VI.\hfill]
+\begin{padalist}
+\item[] vkamantrī\footnote{vkamantrī B \sep\ wkamantri K; read vəkamantrī (m.c.).} tathā taṅgal·, \footnote{taṅgal·, \sep\ B and K omit the punctuation.} sirikan· sūryyasaṁjñakaḥ\footnote{°saṁjñakaḥ \sep\ °saṁjñataḥ B, °saṁjanatah K.}, 
+\item[] <lb n="1b15} kañcukī\footnote{kañcukī \sep\ kañculī BK.} ca tathā khadgaḥ\footnote{khadgaḥ \sep\ corr.\ khādgaḥ?}, kudur ity avidhīyate\footnote{avidhīyate \sep\ awidhiyate BK; corr.\ abhidhīyate.} //
+\end{padalist}
+
+\item[VI{}I.\hfill]
+\begin{padalist}
+\item[] pikatan· pañculiṁnāma, \footnote{°nāma, B \sep\ K ignores the punctuation.} pāṣāṇahumalaṁ\footnote{pāṣāṇa° \sep\ pāṣā-{}-° BK.} tathā, 
+\item[] vihārapālako vīraḥ\footnote{°pālako vīraḥ \sep\ pāla -oviraḥ B, °pālako wirah K.}, gnaṁnāma\footnote{gnaṁ° \sep\ read gənaṁ° (m.c.).} prasasyate\footnote{prasasyate \sep\ corr.\ praśasyate.} //
+\end{padalist}
+
+\item[VI{}I{}I.\hfill]
+\begin{padalist}
+\item[] palar hyaṁ halaran·ś caiva, vlahan·\footnote{vlahan \sep\ read vəlahan (m.c.).} dalinan· <lb n="1b16} tathā, 
+\item[] paṅkur· tavān· tirip· ceva, \footnote{ceva \sep\ corr. caiva.} tilimpik· lampi mamrati //
+\end{padalist}
+
+\item[IX.\hfill]
+\begin{padalist}
+\item[] tiruvāś\footnote{tiruvāś \sep\ corr.\ tiruvāṁś.} ca maṅūhūri, vahūta\footnote{maṅūhūri, vahūta \sep\ maṅ-p-r- wahata B; mang-{}-{}-. wahuta K. Boechari's notes here (n. 6): “Kami mengharapkan pembacaan maṅuhuri vahuta di sini.” His expectation is confirmed by new inspection of the plates, except for the three cases of metrically required vowel length.} makudur· tathā, 
+\item[] sarvve pi bhānubhadrājñācoditāḥ\footnote{bhānubhadrājñā° \sep\ -ānu-{}-grajña B; °kānu-{}-trajña K. The fact that the long compound straddles the boundary between pādas cd presumably led to omission of the punctuation sign {\MC} here.} kṣetrarakṣaṇe //
+\end{padalist}
+
+
+\item[X.\hfill]
+\begin{padalist}
+\item[] puramaddhye hi yat kṣetra\footnote{kṣetra \sep\ corr. kṣetram· (or kṣetraṁ). The punctuation sign {\MC} has been omitted here.} <lb n="1b17} vihāre pakṣisaṁjñake\footnote{°saṁjñake \sep\ °saṁjñataḥ BK. The punctuation sign {\MC} has been omitted here.}
+\item[] panaṅkaranarendreṇa, pūrbadatattaṁ\footnote{°narendreṇa, pūrbadatattaṁ \sep\ °narendre lañcarvada tattaṁ B, °narendre la-urbadatattang K; corr. °narendreṇa, pūrbadattaṁ (m.c.).} yathāvidhi, \footnote{{\MC} \sep\ this punctuation sign is used here instead of the expected sign //.}
+\end{padalist}
+
+%Note use of title narendra in Mañjuśrīgr̥ha inscription.
+
+\item[XI.\hfill]
+\begin{padalist}
+\item[] Ādattaṁ vararendreṇa\footnote{ādattaṁ vararendreṇa \sep\ ādatta wārāndreṇa B, adatta wārāndreṇa K; corr. ādattaṁ varakendreṇa.}, manārākhyeṇa rāgiṇā\footnote{manārākhyeṇa rāgiṇā \sep\ manārākhye narāgiṇā B, manarakhye ṇarāgiṇā K.}, 
+\item[] vihāranāyanā\footnote{°nāyanā \sep\ read °nāyakā?} yasya, gāruṁsaṁjñābhicoditāḥ\footnote{vihāranāyanāyasya, gāruṁsaṁjñābhi° \sep\ wihāraḥ yanāyasya. ga - - sajñā-i° B; wihārah ya nāyasya. ga -{}- sajna -i° K.} //
+\end{padalist}
+</lg>
+
+<p>nahan· praśasti rake ga<pb n="2r"/><lb n="2r1"/> ruṁ Ar· Uvahakan· Ikanaṁ savaḥ sīma Iṁ bihāra\footnote{sīma Iṁ bihāra B \sep\ sīma ni bihāra K.} I pikatan·, pjaḥ rake garuṁ,</p> 
+
+	Iṁ śaka 768 phālguṇamāsa\footnote{phālguṇa° \sep\ the shape of phā seems somewhat unusual (cf.~below, l.~4), so that the akṣara here resembles ḍā.} pratipāda kr̥ṣṇa, pa ka Ā, vāra, maṁḍiri rake pikatan· dyaḥ salaḍū\footnote{salaḍū B \sep\ salaḍu K.}, sira kapiṇḍuAniṁ\footnote{kapiṇḍuAniṁ \sep\ ta piṇḍua ni BK.} lumabvur· Ika\red{na}\footnote{Ikana B \sep\ ikanang K.} sīma, pjaḥ rake pikatan·, 
+ 
+	I śaka <lb n="2a2} 777 jyeṣṭamāsa pañcami\footnote{pañcami B \sep\ pancami K (typing error).} kr̥ṣṇa, ha va śa, vāra, maṁḍiri rake kayuvaṅi dyaḥ lokapāla matəhər· tan uvaḥ Ikanaṁ sima\footnote{sima \sep\ sīma BK.}, pjaḥ rake kayuvaṅi, 
+
+	Iṁ śaka 806 māghamāsa caturdaśi kr̥ṣṇa, tuṁ po bu, vāra, maṁḍiri dyaḥ tagvas·~\red{\MC} \ tan uvaḥ Ataḥ Ikanaṁ sīma rikanaṁ bihā<lb n="2a3}ra I pikatan·, kādəḥ dyaḥ tagvas· riṁ kaḍatvan·, 
+	
+	 Iṁ śaka 807 Aśujimāsa\footnote{Aśujimāsa \sep\ asujimāsa BK.} pañcami\footnote{pañcami B \sep\ pancami K (typing error).} kr̥ṣṇa, pakṣa\footnote{kr̥ṣṇa, pakṣa K \sep\ kr̥ṣṇa pakṣa B.}, pa pa bu, vāra, maṁḍiri rake panumvaṅan· dyaḥ devendra, tan uvaḥ Ataḥ Ikanaṁ sīma, kādəḥ rake panumvaṅan· Iṁ kaḍatvan·, 
+	 
+	 I śaka 808 māghamāsa, pañcami\footnote{pañcami B \sep\ pancami K (typing error).} kr̥ṣṇa, vā po bu\footnote{vā po bu K \sep\ va po bu B.}, <lb n="2a4} vāra, maṁḍiri rake gurunbaṅi dyaḥ bhadra, miṅgat· rake gurunbaṅi, \footnote{gurunbaṅi ... gurunbaṅi \sep\ gurunwaṅi ... gurunwaṅi BK.} Irikanaṁ samaṅkanātaḥ phalguṇnamāsa, dvitīya kr̥ṣṇa, pakṣa, Anāyaka\footnote{Anāyaka Ikanaṁ \sep\ Anāyaka ta Ikanaṁ BK.} Ikanaṁ rāt· rikaṁ kāla, 
+	 
+	  Iṁ śaka 816 mārggāśīramāsa\footnote{mārggāśīramāsa \sep\ mārggaśiramāsa BK.} pañcami kr̥ṣṇa, tuṁ pa br̥\footnote{	tuṁ pa br̥ \sep\ tu pa bu BK.}, vāra, maṁḍiri rake vuṅkal· humalaṁ dyaḥ jbaṁ, tamolaḥ <lb n="2a5} Ātaḥ Ikanaṁ savaḥ I vanua tṅa\footnote{tṅa \sep\ tṅa[ḥ] B, tëngah K; corr.\ tṅaḥ.} I śrī mahārāja, pinakakmitannira I luA, tan uvaḥ rikanaṁ bihāra I pikatan·, pjaḥ rake vuṅkal· humalaṁ, 
+	  
+	  Iṁ śaka 820 jyeṣṭamāsa tithi pratipāda kr̥ṣṇa, tu po bu, vāra Irikār pāṁḍiri\footnote{Irikār pāṁḍiri \sep\ Irikā paṁḍiri BK.} śrī mahārāja rake vatukura dyaḥ balituṁ śrī <lb n="2a6} Iśvarakeśavotsavatuṅga rudramūrti, mahāmantrīnira\footnote{mahāmantrī° \sep\ mahāmantri BK.} rakryān· I hino śrī dakṣottama bāhubajra pratipakṣakṣāya\footnote{pratipakṣakṣāya \sep\ pratipakṣakṣaya BK.} viṣṇumūrtti, 
+	  
+	  Iṁ śaka\footnote{Iṁ śaka \sep\ i śaka BK.} 826 mārggasīramāsa\footnote{mārggasīra° \sep\ mārggaśira° BK.} tithi dvitīya śuklapakṣa, vu U so, vāra, Irikān pisor· Ājñanira kumonakan·\footnote{kumonakan \sep\ kumonnakan B, kumonnakan K.} saṁ hyaṁ <lb n="2a7} dharmmā\footnote{dharmmā \sep\ dharmma BK. Read dharmābihāra (i.e.\ abihāra)?} bihāra I java kabaiḥ svatantrā Umāryya kaḍaṇḍān·, 
+	  
+	  I śaka 827 kārtikamāsa tithi caturdaśi śukla, pakṣa, pa po Aṁ, vāra, Umuṅgaḥ śrī mahārāja riṁ kaḍatvan· saṅkā ri nyū gaḍiṁ\footnote{gaḍiṁ B \sep\ gading K. }, rikanaṁ kulam· Irikān· pamatipī\footnote{pamatipī B \sep\ pamatëpī K.} bhaṭāra svāmi mahulun· I lekan· <lb n="2a8} I rakryān· mahāmantrī\footnote{mahāmantrī \sep\ mahāmantri BK.} I hino śrī dakṣottama bāhujrapratipakṣakṣaya\footnote{bāhujra° \sep\ bāhubajra° B, bahūbajra° K.}, kumonnakan· Ikanaṁ savaḥ sima\footnote{sima \sep\ sīma BK.} saṁ hyaṁ bihāra I pikatan· Uvahakna\footnote{Uvahakna \sep\ uwahanna BK.}, yathānyan· mapagəha paluṅguḥ śrī mahārāja Iṁ kaḍatvan·, 
+	  
+	   Iṁ śaka 830 Aśujimāsa\footnote{Aśujimāsa K \sep\ Asujimāsa B.} padmanābha de<lb n="2a9}vatā, tithi daśami śuklapakṣa, tuṁ\footnote{śuklapakṣa, tuṁ \sep\ śuklapakṣa tuṁ BK.} pa vr̥, vāra, karmmeśa\footnote{karmmeśa B \sep\ karmmesa K.} deva, vālava karaṇa, Uttarāṣāḍhanakṣatra\footnote{Uttarāṣāḍhanakṣatra \sep\ uttarapādanakṣatra BK.}, viśva deva, śukla yo\insbot{ga}\footnote{yo\insbot{ga} \sep\ note the two + shaped kākapadas that are used to mark the sublinear insertion. Boechari notes here (n. 7): “Rupa-rupanya semula huruf ga itu terlupa dan tidak ditatah, sehingga kemudian terpaksa diselipkan di bavah yo.” K simply reads yoga.} kārmuka\footnote{kārmuka K \sep\ karmuka B.} lagna, yama deśa, Irikā divasanikanaṁ savaḥ sīma I pikatan·n inuvahakan· I saṁ hyaṁ vihāra I pikatan·, 
+	   
+	   Anuṁ kinon· śrī mahārāja muAṁ rakryān mahāmantrī\footnote{mahāmantrī \sep\ mahāmantri BK.} Umuvaha<lb n="2a10}kna Ikanaṁ savaḥ I vihāra I pikatan· rakryān· limvayan dyaḥ guṇam\footnote{guṇam \sep\ guṇa BK.} %It would also be possible to read gulām. Cf. <foreign>gnaṁ} in st. VII, <foreign>glaṁ} in IB, l. 11 and st. IV.} NO, because vocalisation ā on g is consistently written with counterclockwise loop.
+	   muAṁ ḍaṅ ācāryya Iṁ tūk· dhāneśvara Umyāpārā\footnote{Umyāpārā \sep\ umyāpāra BK.} kasusukananikanaṁ\footnote{kasusukanani°: ta susukanani° BK. Emend kasusukanni°.} vuṅkal·, maṅasəAkan· ḍaṅ· saṁgha I pikatan· pagəḥ pagəḥ I śrī mahārāja vḍihan· piliḥ magöṁ yu 1 jaro yu 1 pirak· dhā 8 kinonakan·\footnote{kinonakan· \sep\ kinonnakan BK.} ra<lb n="2a11}kryān· kabaiḥ varahan· An· maṅkanā parṇnahanikanaṁ sava haji\footnote{sava haji \sep\ thus BK. Read savaḥ haji.} lān· I vanuA tṅaḥ, rakryān· I halu pu vīravikrama, rakryān· sirikan pu variga samaravikranta, vka pu kutak· pu bhāsvara, tiruAn· saṁ śivāstra, halaran· pu kivi\footnote{kivi \sep\ kiviṁ BK.}, palar hyaṁ pu pu<lb n="2a12}ñjaṁ, jalinan·\footnote{jalinan \sep\ dalinan BK.} pu maṅusir·, maṁhuri pu cakra, paṅkur· pu rañjan·, tavān pu pañjaluAn·, tirip· pu viṣṇu, saṁ parujar· Iṁ kabalān·\footnote{Iṁ kabalān B \sep\ i kabalān K.} I hino kaṇḍamuhi pu tuṁṅgaṁ\footnote{tuṁṅgaṁ \sep\ tuṅga{\engma} BK.}, citralekha vuṅkal· varaṇi pu manəsər·, parujar· I halu visaga\footnote{visaga \sep\ viṣaga B, vi-ga K.} pu damodara, I siri<lb n="2a13}kan· hujuṁ galuḥ pu Ayuddhā, citralekha dharmmāsinta\footnote{dharmmāsinta \sep\ dharmmasinta BK.}, I vka viridiḥ pu ḍaṇu, citralekha halaṁ manuk· ḍapunta vuru tuk·, I tiruAn· sumuḍan· ḍapunta bhāsura, parujar· I halaran· savi manuk· pu dharmma, I palar· hyaṁ rumakat· pu baka, I jalinan·\footnote{jalinan B \sep\ dalinan K.} <lb n="2a14} ravaryyaṁ saṁ\footnote{ravaryyaṁ saṁ \sep\ sar-- -- B, rawaryya sang K.} mudgalyāna, I maṁhuri raruI\footnote{raruI \sep\ ranui BK.}, I paṅkur dədəlan·, I tavān· rāluk·, I tirip· paḍaṁ, kapuA sira kabaiḥ makobhaya Ikanaṁ pasək pasək· kaharan· maparaha\footnote{maparaha I sira B \sep\ maparaha i i sira K (typing error).} I sira, kunaṁ samgat· mamrata\footnote{mamrata \sep\ corr.\ mamrati (the omission of i was probably due to lack of space above the ta).} pūttara, samgat tilimpik· pu sudar·, ina<lb n="2a15}səAn· pagəpagəḥ vḍihan· kalyāga yu 1 pirak· dhā 4 sovaṁ, saṁ mamuAt· Ujar· Iṁ\footnote{Ujar· Iṁ \sep\ ujar i BK.} kasiṅgahan· turuhan· saṁ panagar·, citralekha kr̥p· pu jayamatiḥ, I tilimpik· vka vka pu babru, citralekha pati lamman· vineḥ pagəpagəḥ vḍihan· yu 1 pi<lb n="2a16}rak· dhā 1\footnote{dhā 1 B \sep\ dhā 6 K.} sovaṁ, parujar· saṁ māna\red{k·} Iṁ kasiṅgahan· I paṅkur piṅkaṅan·, I tavān· likuAn·, I tirip· Air bavu, vineḥ pagəpagəḥ vḍihan· ragi yu 1 pirak· mā 8 sovaṁ, pihujuṁni parujar· saṁ mānak· I paṅkur· luA, I tavān· sukun·, I tirip· pana<lb n="2a17}vuṅan·, vineḥ pagəpagəḥ vḍihan· yu 1 pirak· mā 6\footnote{mā 6 \sep\ mā 4 B, mā 8 K.} sovaṁ, vahuta haji Iṁ kasiṅgahan·, I mamrati priḥ pu godhara, I tilimpik· jukut er pu jaṅga, vineḥ pagəpagəḥ vḍihan· yu 1 pirak· dhā 1 sovaṁ, saṁ raluA pu salaru\footnote{pu salaru \sep\ --salaru BK.} vineḥ vḍihan· %
+%	Ujar· Iṁ: ujar i BK. %copy/paste error from l. 15?
+<lb n="2a18} yu 1 pirak· dhā 2 baṇigrāma\footnote{dhā 2 baṇigrāma \sep\ dhā 3 baṇigrama B, dhā 2. baṇigrāma K \red{(erroneously inserting punctuation)}.} I luA maṅabaihi pirak· dhā 3 saṁ kabayan· I mamrāti\footnote{mamrāti \sep\ mamrati BK.} maṅabehi pirak· dhā 3 saṁ paṅuraṁ Iṁ kapartayān· rake vakaḥ\footnote{vakaḥ \sep\ wakraḥ BK. What Boechari and Kusen took for a cakra is rather the sign that distinguishes (my) 5 from (Boechari's) 4 in the next line; Kusen there does read 5, but maintains the r here.} pu khaṭvāṅga\footnote{khaṭvāṅga B \sep\ khatwāngga K. \red{Cf.\ same name in Prasasti Tihang}.}, turuhan· saṁ panagar·, saṁ kasugihan· pu prājña\footnote{prājña \sep\ prajña B, prajna K.}, prasan· saṁ śikhā\footnote{śikhā \sep\ śi-ā B, śiha K. Boechari's n. 8 (“Konsonan ke dua dari nama ini tidak jelas; sandanggannya (tanda vokalnya) dapat juga berupa \red{taliṁ-taruṁ}, sehingga dibaca śi-o.”) must be removed for the reading is clear, and confirmed by the surrounding Śaiva names.}, ma<lb n="2a19}lañjaṁ saṁ Aghora\footnote{Aghora K \sep\ saghora B.}, roṅguy· pu kutur·, lva Iṁ kamaṇikan· saṁ nīla\footnote{nīla \sep\ nila BK.} muAṁ saṁ drampuAs·\footnote{saṁ nīla muAṁ saṁ drampuAs \red{B} \sep\ drampuan K. Boechari notes (n. 9): “Di dalam prasasti Kinəvu tahun 829 Śaka (O.J.O., XXVI) terdapat jabatan nama: 16. <foreign>......... saṁ ralva iṁ kamanilan kāliḥ saṁ nīla saṁ drampr̥}(17)<foreign>s .......} Tentunya kita berhadapan dengan dua orang yang sama di dalam dua prasasti ini”. \red{MERGE THIS NOTE WITH PRECEDING ONE}}, ḍapunta garalek·, ḍapunta Anidhana, maṅabaiḥhi\footnote{maṅabaiḥhi \sep\ maṅabaihi BK.} pirak· dhā 5\footnote{dhā 5 K \sep\ dhā 4 B.} sira ri Ayam· təAs·, lumaku manusuk· vineḥ pirak· dhā 3\footnote{dhā 3 B \sep\ dhā 2 K.} hop· vḍihan· <lb n="2a20} hop· paṅaṅkat·, sira I makudur· lumaku manusuk· vineḥ pirak· dhā 3\footnote{dhā 3 B \sep\ dhā 2 K.} hop· vḍihan·, hopaṅaṅkat·, kabayan·\footnote{hopaṅaṅkat·, kabayan B \sep\ hop pangangkat kabayan K. Understand <foreign>hop paṅaṅkat}.} ri Ayam· təAs· 2 miramiraḥ pu rayuṁ, halaran· pu dhanada, vineḥ pagəpagəḥ pirak· dhā 1 mā 8 sovaṁ, ka<lb n="2a21}bayan· I makudur· 2 pata°ḷsan· pu vīryya, vavahan· pu danta, vineḥ pagəpagəḥ pirak· dhā 1 mā 8 sovaṁ~\ddanda\ 0~\ddanda\ 
+
+piṅhe I pagar vsi si maṅaruḥ\footnote{maṅaruḥ \sep\ ma--uḥ BK.} ramani sadhaṇa, piṅhai\footnote{piṅhai B \sep\ pinghe K.} I pikatan· Asam pañjaṁ si syāmā ramani bikrāmī, muva[ḥ]\footnote{bikrāmī, muva[ḥ] \sep\ bikrami -u-a B, bikra-i-u-a K.}
+<lb n="2a22} piṅhai I pikatan·, vijyāṅin· si kusuma ramani lābha, muvaḥ\footnote{lābha, muvaḥ B \sep\ lāgah muwah K.} piṅhai I pikatan· guṇuṁ\footnote{guṇuṁ: \sep\ gunu{\engma} BK.} si mriḥ\footnote{mriḥ B \sep\ mrah K.} ramaṇni\footnote{ramaṇni \sep\ read ramani.} Astiti, muvaḥ piṅhai I pikatan· Asam pañjaṁ, si\footnote{pañjaṁ, si \sep\ pañja{\engma} si BK.} balava, muvaḥ piṅhai I pikatan· lekan·, si\footnote{lekan·, si \sep\ lekan si BK.} jalū ramani ka\{2 akṣ.\}\footnote{ka\{2 akṣ.\} \sep\ ka[-- --] B, --- K. Boechari here notes (n. 10): “Mulai baris ini ke bawah lempengannya patah. Pada baris ini ada kira-kira dua huruf yang hilang; pada baris ke-23 mungkin ada tiga huruf yang hilang, pada baris ke-24 kira-kira ada empat huruf, sedang pada baris ke-25 agak sulit memperkirakannya, tetapi mungkin tidak lebih dari enam huruf yang hilang”.} <lb n="2a23} piṅhai I tira siṅgaṁ\footnote{tira siṅgaṁ B \sep\ tirasi ing K.} si rasuk·, muAṁ\footnote{rasuk·, muAṁ B \sep\ rasuk muang K.} si dhavala ramani kesara\footnote{kesara K \sep\ keśara B.}, kapuA vineḥ vḍihan· R̥ṅga yu 1 mās· mā 1 sovaṁ sovaṁ, vanuA tṅaḥ prāṇa 3\footnote{vanuA tṅaḥ prāṇa 3 B \sep\ wanua-- prāṇa 1 K.} si maṅhuri\footnote{maṅhuri B \sep\ manghu K.} ramani kanaka, si\footnote{kanaka, si B \sep\ kanaka si K.} Ananta ramani kaṇṭara\footnote{kaṇṭara B \sep\ kaṇḍara K. To be corrected <foreign>kaṇḍara}, as in line 24?}, muAṁ si liṅga ramani Cḍi\{3 akṣ.\}\footnote{si liṅga ramani Cḍi\{3 akṣ.\} \sep\ si liṅga ramani ḍi[-- -- --] B, pili i -------- K.}<lb n="2a24}raṁ\footnote{raṁ B \sep\ nang K.} saṁ ra lampi, si\footnote{ra lampi, si \sep\ ralampi si BK.} balu ramani °ḷbā, kapuA\footnote{°ḷbā, kapuA B \sep\ -- bīha sang a K.} vinaiḥ vḍihan· R̥ṅga yu 1 mās· mā 1 sovaṁ sovaṁ, vahuta I pagar vsi si kaṇḍara\footnote{kaṇḍara B \sep\ kaṇḍa K. To be corrected <foreign>kaṇtara}, as in line 23?} ramani prasena, vahuta I pikatan·\footnote{prasena, vahuta I pikatan B \sep\ prih sang narahawala sang tawān K.} kupaṁ, si tovoḥ\footnote{tovoḥ B \sep\ towon K.} ramani Arā, vahuta I tira \{4 akṣ.\}\footnote{vahuta I tira \{4 akṣ.\} B \sep\ sowang i ti\red{-------} K. It is possible that part of the lacuna can be filled in with <foreign>siṅgaṁ}, cf.~line 23 <foreign>tira siṅgaṁ}.} <lb n="2a25} ramani Asiḥ, kapuA vineḥ vḍihan R̥ṁga\footnote{vineḥ vḍihan R̥ṁga \sep\ winaiḥ wḍihan r̥ṅga B, wineh wḍihan rëngga K.} yu 1 mās· mā 1 sovaṁ sovaṁ, piluṅgaḥnya\footnote{sovaṁ, piluṅgaḥnya B \sep\ sovang piyungganya K.}, si man·dyus·\footnote{man·dyus B \sep\ mandyas K.} ramani veda, vineḥ mās· mā 1 muvaḥ pihai\footnote{pihai \sep\ piṅhai B, pirawa K. Correct piṁhai.} I pikatan· Anuṁ lampuran·\footnote{Anuṁ lampuran B \sep\ --dhamuran K. Perhaps <foreign>Anuṁ} must be emended to <foreign>gunuṁ}, cf.~line 22.} si gayatrī\footnote{gayatrī \sep\ gayatri BK.} muAṁ si vanuA \{6 akṣ.\}<lb n="2a26}n·
+
+\begin{center}
+\textit{Face 2b}
+\end{center}
+
+<lb n="2b1} lampuran· Anak·,\footnote{lampuran· anak·, \sep\ lampuran· [...] anak·. B, -msu-n-nak K. I see no space for anything extra between n· and A.} kapuA vinaiḥ\footnote{vinaiḥ B \sep\ wineh K.} mās· ku 2 sovaṁ sovaṁ, rāma māgman· I vanuA tṅaḥ\footnote{tṅaḥ B \sep\ tëngah K.} gusti prāṇa 2 si sodai ramani\footnote{sodai ramani B \sep\ sodai. rama ni K.} basu, muAṁ si kusalā ramani ratha\footnote{ratha B \sep\ rawa K.}, vinkas· prāṇa 2 si vaṅun·\footnote{vaṅun B \sep\ wangan K.} ramani sarini, muAṁ si ḍakat·\footnote{ḍakat B \sep\ dakat K.} ramani (la)<lb n="2b2}ṅgaṇa, kalima prāṇa 2\footnote{(la)ṅgaṇa, kalima prāṇa 2 \sep\ laṅgaṇa. kalima prāṇa 2 B, ladhaṇakali mas mā 2 K.} si govana ramani Ujjhā\footnote{Ujjhā B \sep\ ujso K.}, muAṁ si biṣātha\footnote{biṣātha \sep\ bisātha B; bisāwa K.} ramani vailā\footnote{vailā B \sep\ bailā K.}, huler· prāṇa 2 si kalula ramani prayanta, muAṁ si candra ramani gḍā\footnote{gḍā B \sep\ gëdā K.}, parujar· praṇa 2 si kətoḥ ramani\footnote{kətoḥ ramani B \sep\ kito. rama ni K.} muditā, muAṁ si pundut· ramani laṇḍuṁ, ka<lb n="2b3}puA\footnote{laṇḍuṁ, kapuA B \sep\ laṇḍukāmā muang K.} vinaiḥ vḍihan· R̥ṅga yu 1 mās· mā 1 sovaṁ sovaṁ, hulu kuvu si tañjuṅan· ramani bacuṁ\footnote{bacuṁ B \sep\ bacūng K.}, muAṁ si lucchira\footnote{lucchira B \sep\ luwdira K.} vineḥ mās· ku 1 sovaṁ\footnote{ku 1 sovaṁ B \sep\ ku 2 sowang K.} sovaṁ, rāma maratā Anuṁ kabayan· si haḍa\footnote{haḍa B \sep\ hada K.} ramani bhara, muAṁ si glar·\footnote{si glar B \sep\ saglar K.} ramani skar·, si vuliran·\footnote{skar·, si vuliran· B \sep\ sëkar -gularan K.} <lb n="2b4} ramani rathi, si Aṁgira ramani bisuddhi, si °ḷviḥ ramani kaR̥ṅəAn, si julay· ramani sabda\footnote{sabda B \sep\ sabdang K.}, si yukti ramani bhoga, si\footnote{bhoga, si B \sep\ kebha si K.} vaduĀ\footnote{vaduĀ B \sep\ wadua K.} ramani sukhamī\footnote{sukhamī B \sep\ sukhami K.}, si goḍog·\footnote{goḍog B \sep\ godog K.} ramani suddhī\footnote{suddhī B \sep\ sungddhi K.}, si mahi ramani mahendrī\footnote{mahendrī B \sep\ masondrī K.}, si vaR̥g· ramani\footnote{vaR̥g· rama B \sep\ warëg rama K.} paṇḍaṁ\footnote{paṇḍaṁ B \sep\ paṇḍa K.}, si tuli ramani ba<lb n="2b5}sī\footnote{basī B \sep\ basi K.}, kapuA vinaiḥ\footnote{vinaiḥ B \sep\ wineh K.} mas· mā\footnote{mā B \sep\ ma K.} 1 sovaṁ sovaṁ, rāma tpi siriṁ, I\footnote{tpi siriṁ, I \sep\ tpi siri{\engma} i B; tëpisiring i K.} vijyāṅin· si risi ramani basu, si piṅul·\footnote{piṅul B \sep\ pipul K.} ramani buntar·, vinaiḥ\footnote{	vinaiḥ B \sep\ wanaih K.} mas· mā 1 sovaṁ sovaṁ, gusti I tira I tumapal·\footnote{tumapal B \sep\ tūmapal K.} si bharaṇa\footnote{bharaṇa B \sep\ rāraṇa K.} ramani kiṭak·\footnote{kiṭak B \sep\ limak K.}, kalima si caṇṭuṁ\footnote{caṇṭuṁ B \sep\ caṇḍra K.} ramani <lb n="2b6} carā\footnote{carā B \sep\ cara K.}
+, vinaiḥ mas· mā 2 sovaṁ sovaṁ, tuha\footnote{sovaṁ, tuha B \sep\ sowang tuha K.} vəR̥ḥ praṇa 2 si kaṭal·\footnote{kaṭal B \sep\ kadal K.} ramani gaṇḍal·\footnote{gaṇḍal \sep\ guṇḍal K.}, muAṁ si bloṇḍo ramani budanta, vinaiḥ mas· mā 1 sovaṁ sovaṁ, gusti\footnote{sovaṁ, gusti B \sep\ sowang gusti K.} I kuluva sy āṁs\red{ö}\footnote{sy āṁs\red{ö} \sep\ syāṁs\red{ö} B. \red{K?}}, vinkas·\footnote{syāṁsö, vinkas B \sep\ sya si ku winkas K.} si grihīta, vinkas· I panuṅgalan· si sojara,\footnote{sojara, B \sep\ sojasa K.} <lb n="2b7} kalima si mara ramani Atis·, kapuA vinaiḥ vḍihan· R̥ṅga yu 1 sovaṁ sovaṁ, vinkas·\footnote{sovaṁ, vinkas B \sep\ sowang winkas K.}
+ I layaṅanak·\footnote{	layaṅanak B \sep\ layung anak K.} si baskara ramani devī, vinaiḥ\footnote{devī, vinaiḥ \sep\ both B and K omit the punctuation.}
+ mas· mā\footnote{mā B \sep\ ma K.} 1 kalima I hulu vanuA si ruAṁ\footnote{ruAṁ B \sep\ rua K.} galuḥ ramani vaṅi\footnote{vaṅi B \sep\ vudi K.}, vinkas· si vujil·\footnote{vujil B \sep\ gujil K.}, kapuA vinaiḥ vḍiha%no variant reading recorded from here on?
+<lb n="2b8}n· R̥ṅga yu 1 mas· mā 1 sovaṁ sovaṁ, rāma maratā si kalula ramani yukti, vinaiḥ mas· mā 1 Anuṁ maṁlivat· rāma I samalagi pun·punan· bhaṭāra I pikatan· vinkas· si kali ramani nita, kalima si paṅalaman·, gusti si kaca ramani <lb n="2b9} radhinī, marhyaṁ si supha ramani basi, parujar· si sutə ramani vidyā, variga si vaṅun· vineḥ mas· mā 1 kinabaiḥhanya, Anuṁ mavay·\footnote{mavay· \sep\ mavuy B.} %thus B; but it looks as if one could read mavay
+Irikāṁ kāla si hriṁ ramani cakra, hulu vras· si Ama, ramani cele, Anag vanuA I luA I kabikvan· vi<lb n="2b10}naiḥ vḍihan· R̥ṅga yu 1 mā 1\footnote{mā 1 B\red{K} \sep\ perhaps one may correct mas mā 1. But cf.~2b16–17 below, where we find two more cases of omission of the type of precious metal. We may assume that the omission is a kind of shorthand, rather than an unintentional omission.} AR̥ggaṁ rika(ṁ) kāla si kesava ramani agam· Anag vanuA I titiḥ vatak· pikatan· vinaiḥ vḍihan· R̥ṅga hlai 1 mas· ku 2 Abr̥kuk· si gḍil· ramani mundil·, Anag vanuA I varuk·, vineḥ mas· ku 2 <lb n="2b11} Avaya(ṁ) Irikaṁ kāla si kliṁ ramani sḍaṁ, Anag vanuA I vanuA tṅaḥ, vinaiḥ vḍihan· hlai 1 mas· ku 2 Atapukan· si rasuk· Anag vanuA I hinor· vinaiḥ mas· ku 3 muvaḥ tapukan· praṇa 2 vineḥ mas· mā 1 kinālihanya, tari<lb n="2b12}mvanya praṇa 6 vinaiḥ mas· ku 1 sovaṁ sovaṁ~\ddanda\ 0~\ddanda\ 
+
+maṅadiṣṭaṇa vuṅkal· 2 ḍaṅ upādhyāya I vraṁ candradeva, muAṁ ḍaṅ ācāryya paṅajyan· I sukun· sudanta, kapuA sira vineḥ pirak· mā 6 sovaṁ sovaṁ, maṅaji santi 2 ḍaṅ ācāryya <lb n="2b13} I kavuṁ manek· sudanta, muAṁ ḍaṅ ācāryya I tiḍaluAṁ bhadraśena, maṅajī bantan· 2 ḍaṅ ācāryya I vraṁ ḍaṅ ācāryya tatha, muAṁ ḍaṅ acāryya\footnote{acāryya \sep\ Boechari notes here (n.\ 11): ``Ligatur <foreign>ryya} ditulis agak aneh, yaitu dengan menempelkan bentuk seperti kaki belakang huruf ha pada ligatur <foreign>yya} (\red{[SIGN]}). Dengan demikian mungkin kita harus membacanya <foreign>acāryyā}''.}
+ I Air hijo vetan· padmaśena, kapuA sira vineḥ pirak· mā 6 sovaṁ sovaṁ ḍaṅ ācā<lb n="2b14}ryya paṅajyan· I pikatan· paṇḍara, vineḥ sira pirak· mā 8 ḍaṅ ācāryya Iṁ air· hijo kuluAn· sudanta, vineḥ pirak· mā 6 patati I pikatan· ḍapunta devendra, patati Iṁ Air hijo vetan· dhanendra, patati Iṁ Air hijo kuluAn· <lb n="2b15} ḍapunta samahita, patati I guluṁ ḍapunta Akṣa, kapuA vineḥ pirak· mā 2 sovaṁ sovaṁ, Ayam· təAs· milu manusuk· sīma si bilāsa ramani tatha, Anag vanuA I paṅsur·, vatak· Ayam· təAs· vineḥ vḍihan· R̥ṅga yu 1 <lb n="2b16} mas· mā 6 makudur· maṅuyup·, si dayanna Anag vanuA I kahaṅatan·\footnote{I kahaṅatan \sep\ Iṁ kahaṅatan B. \red{K?}}, vatak· hamməAs·, vineḥ vḍihan· R̥ṅga yu 1 mā 2 makudur tan· paṅuyup si jaṅgi ramani vulakan· Anag vanuA I vaduṁ poḥ vatak· paṅkur· poḥ vi<lb n="2b17}naiḥ vḍihan· R̥ṅga yu 1 mā 1~\ddanda\ 
+ 
+ yāpuAn· hana vuAṁ Umulahulaḥ °\red{ike}ṁ savaḥ sīma punya\footnote{punya \sep\ puṇya B. \red{K?}} śrī mahārāja muAṁ rakryān· mahāmantrī I bhaṭāra I pikatan· bhaṭāra svāmi mahulun· I lekan· Umupadr̥vā ya syūha avak·nya <lb n="2b18} bhraṣṭā pomahumaḥnya Anak·nya vkanya Umaṅguha saṁsāra savukaniṁṅ uE dumliṁ pjaḥ ya dlāha pañca mahāpātaka tmūnyū\footnote{tmūnyū \sep\ Boechari notes here (n.\ 12): ``Seharusnya di sini ditulis <foreign>tmūnya}. Rupa-rupanya penatah prasasti terpengaruh oleh ligatur yang pertama yang memakai suku panjang dan membubuhkan suku panjang pada ligatur yang terakhir ini''. \red{Check Zoetmulder, TvhA, whether -nyu is acceptable}}
+\ddanda
+
+
+
+\subsubsection*{Translation}
+
+(1) There once was a prince of Hāra, younger brother of the prince of Mḍaṅ. He founded the monastery at Pikatan <foreign>tutuganniṁ taṇḍa}.
+<!-- tutugan: cf. Mūla -->
+
+(2--4) On Śaka 668, month Aśuji, fifteenth, waxing, Paniruan (of the 6-day week), Pahiṅ (of the 5-day week), Tuesday, did Rakai Panaṅkaran mount the throne. He endowed the king's <foreign>lān}\footnote{lān = lahan?} wet rice-field in Vanua Tṅah, domain of Pikatan, to the monastery at Pikatan. The extent of the wet rice-field from east to west on the north side\footnote{OJED lambwan. OJED does not record this spelling variant.} is 182 <foreign>ḍpa sihvā}; from east to west on the south side it is 162 <foreign>ḍpa sihvā}; from north to south on the east side it is 160 <foreign>ḍpa sihvā}; from south to north on the west side it is 162 <foreign>ḍpa sihvā}. Its seed is 3 <foreign>tū}.\footnote{On the unit <foreign>tū}, see Boechari 2012: 312.}
+
+(4) On Śaka 706, month Cetra, tenth, waxing, Paniruan, Kaliwuan, Saturday, did Rakai Panaraban mount the throne. The [status of the] <foreign>lān} wet rice-field in Vanua Tṅah was not changed: it was under the authority of the monastery at Pikatan.
+
+(4--5) On Śaka 725, month Cetra, sixth, waxing, Paniruan, Umanis, Friday, did Rakai Varak Dyaḥ Manara mount the throne. He annulled/changed the endowment ([re]moved the boundary markers). Rakai Warak, he who came to rest at Kelāsa, died.
+%After Rakai Warak had died, he came to rest at Kelāsa.
+
+(5--6) On Śaka 749, month Śravaṇa, fourteenth, waning, Vās, Pahing, Friday, did Dyaḥ Varak mount the throne. The [status of the] endowment to the monastery at Pikatan did not change further.
+% tan uvah = tan umuvah
+
+
+(6--7) On Śaka 750, month Māgha, second, waxing, Paniruan, Umanis, Sunday, did Rakai Garuṅ, child of him who rests at Tūk, mount the throne. He restored the wet rice-field as endowment to the monastery at Pikatan.
+
+(7--12) Hail! Elapsed Śaka year 751, the fourteenth day of the month Mārgaśira, waxing fortnight, Vurukuṅ, Vagai, Thursday. At that time did his majesty Rakai Garuṅ restore the king's <foreign>lān} wet rice-field in Vanua Tṅah, as endowment\footnote{\red{sīman, pass. irr. of sumīma, or sīma-ni?}} of the monastery at Pikatan, which has been discontinued by his majesty who rests at Kelāsa. The minister at that time in Vka was Pu Taṅgal; the [minister in] Sirikan was Pu Sūrya; the [minister in] Pikatan was Pu Pañculiṅ. Saṅ Vatu Humalaṅ led the monastery. Ḍaṅ Ācārya Devendra had knowledge [of the matter]. Those who \red{also} received the order from his majesty to restore the wet rice-field to the monastery at Pikatan were the Vahuta Makudurs at Vka, Sirikan, Palar Hyaṅ, Halaran, Vlahan, Dalinan, Paṅkur, Tavān, Tirip, Lampi, Vatu Humalaṅ, Pikatan, Mamrati, Tilimpik, Tiruan, Maṅhuri; the minister of Pikatan from Vanua Tṅah, Pu Culiṅ; from Tuṅgal Aṅin, Pu Ramvat; from Lekan, Pu Glam; from Ra Gunuṅ, Pu Intap; from Samalagi, Pu Talisū; Ḍaṅ Ācārya for scriptural study at Pikatan, Bhadracandra; the <foreign>Patati Vandāmi},\footnote{\red{Cf.~Vintaṁ Mas B, l.~6 (far-fetched explanation by Damais in BEFEO 1964); fragment at Museum Mpu Tantular, verso, last line; %photo Nigel RIMG2310·Fragment 3·02.tiff
+and index to Prasasti Bali for other cases of vandāmi! See Schopen, Bones, Stones and Buddhist Monks, p. 138 on caityavandaka in Indian buddhist epigr.; see Prasasti Bali, glossary s.v. wandāmi.
+I presume that patati (also occurring several time as the end of the inscription) is somehow related to the Sanskrit verb form <foreign>paṭhati}. Or is it a translation of some Javanese term like <foreign>turun}.}} Bhadrasūrya; abbot\footnote{\red{This translation is a mere guess. South Asian sources seem to indicate a different meaning for vihārasvāmin, which in turn there does not necessarily seem to be a synonym of vihārapāla, as it clearly was to the author of the present inscription (see st.\ II). See Silk, Managing Monks, index s.v. both terms. A <foreign>vihārasvāmi} occurs elsewhere in Javanese epigraphy in the contemporary inscription edited by van Naerssen (OJODDV, p.~84: B, l.~2): n. 34 p.~98: ``Wiharaswami, evenals de voorgaande behoort deze niet thuis in deze lijst. Deze “klooster-heer” wordt wel eens in oudere inscripties, waar nog geen sprake van de mangilala dr̥wya haji is, genoemd, b.v.\ in de, door Stutterheim uitgegeven, “Inscriptie op een zuiltje van ”Papringan” (T.B.G.\ 72, 1933, blz.\ 96-101). See also Scherrer-Schaub in IIJ 55 (2012), pp.~146--147.}} Saṅ Ārya; %ignore the punctuation here?
+ Pañcavāra\footnote{\red{On pañcavāra in South Indian (Tamil and Sanskrit) inscriptions, where it doesn't seem to denote a person but a kind of tax, see K.V. Subrahmanya Aiyer in EI 23, p.~22ff.; see also Silk, Managing Monks on vārika and a possible connection with the pañcavāra in South Indian epigr. The Buddhist background of the WT III inscription would seem to speak for a connection that remained elusive to Silk. See also von Hinüber in ZDMG 162.2 (2012). It anyhow seems clear that the present word has no connection in meaning with the Javanese 5-day week (<foreign>pañcavāra}, on which see Damais ...; inscriptions of ``Pu Tanggal'' and Timang).}} Punta Mandana.
+
+I. In the year [denoted by] the (1) moon, the (5) senses and the (7) teachers (i.e.\ in śaka 751), in the month of Mārga(śira), on the fourth and in the waxing fortnight, on Vurukuṁ (of the 6-day week), Mitra (= Vagai, a day of the 5-day week)\footnote{The identity of <foreign>mitra} with <foreign>vagai} was assumed on good grounds by de Casparis (Prasasti Indonesia I, p.~74 with n.\ 2 on p.\ 76; see also Damais, EEI p.~93 n.~5), on the inscription of Śrī Kahulunan = Tri Tepusan I, l.~2 (with n.~2). Our inscription provides unequivocal supporting evidence.} and on Thursday (<foreign>jīvaka}\footnote{On Jīva = Br̥haspati, see C.~38A st.\ V. Indonesian cases?});
+
+II. with the one name Candrabhadra as Professor, with Bhadrasūrya as Partati (?),\footnote{Presumably, <foreign>partati} is identical in meaning to <foreign>patati}.} with Ārya as \red{owner of the monastery} and with Mandana as Pañcavāra;
+
+III. but with Devendra, praised by the praiseworthy, perfect in virtues such as meditation, blessed, honored by the king, as Rector;
+
+IV. the one called Culiṅ in Center Town (= Vanua Tṅah); and Ramvat from Tuṅgal Aṅin; the one called Glam from/as Lekan; and Intap \red{from} Ra Gunuṅ;
+
+V. and Talisū from Samalagi --- these five (being) the principal towns, which are all under injunction not to be given (?) ---; with these as participants:
+
+VI. the minister of Vka was Taṅgal; the [minister of] Sirikan was called Sūrya; and the cuirass-bearer, the sword (bearer?) is called Kudur;
+	%khad.ga is also rhinoceros, no? connection with Warak?
+
+VII. the Pikatan is called Pañculiṅ; the abbot was a hero from Humalaṅ Stone, known by the name of Gnaṅ; 
+
+VIII. and the Palar Hyaṅ, the Halaran, the Vlahan, the Dalinan, the Paṅkur, the Tavān, the Tirip, the Tilimpik, the Lampi, the Mamrati,
+
+IX. the Tiruan, the Maṅhuri, and the Vahuta Makudur. They were all assigned the task of protecting the rice-field by order of Bhānubhadra.
+	% BBh = Garung
+
+X. For the rice-field that is at Center Town, under the monastery whose name is that of a bird, was previously donated, with proper ado, by King Panaṅkara.
+
+XI. It was taken back by the passionate King Varak called Manāra, whose monastery-governors were \red{driven away (?)} by order of Garuṅ.
+
+(17--1) Such was the decree of Rake Garuṅ with regard to how he altered the status of that \red{wet rice-field whose status was that of endowment} of the monastery at Pikatan. Rake Garuṅ died.
+
+(1) On Śaka 768, month Phālguṇa, first, waning, Paniruan, Kaliwon, Sunday, did Rake Pikatan Dyaḥ Salaḍū mount the throne. He was the second who dissolved that endowment. Rake Pikatan died.
+
+(1--2) On Śaka 777, month Jyeṣṭha, fifth, waning, Haryaṅ, Wage, Saturday, did Rake Kayuvaṅi Dyaḥ Lokapāla mount the throne. Thereupon the status of that endowment did not change. Rake Kayuvaṅi died.
+
+(2--3) On Śaka 806, month Māgha, fourteenth, waning, Tuṅlai, Pon, Wednesday, did Dyaḥ Tagvas mount the throne. The status of that endowment of the monastery of Pikatan did not change either. Dyaḥ Tagvas was ousted from the \red{palace}.
+
+(3) On Śaka 807, month Aśvajit, fifth, waning fortnight, Paniruan, Pahiṅ, Wednesday, did Rake Panumwaṅan Dyaḥ Devendra mount the throne. The status of that endowment did not change either. Rake Panumwaṅan was ousted from the \red{palace}.
+
+(3--4) On Śaka 808, month Māgha, fifth, waning fortnight, Vās, Pon, Wednesday, did Rake Gurunbaṅi Dyaḥ Bhadra mount the throne. Rake Gurunbaṅi fled that very same [year] on month Phālguṇa, second, waning fortnight. The people were leaderless at the time.
+
+(4--5) On Śaka 816, month Mārgaśīrṣa, fifth, waning, Tuṅlai, Pahiṅ, Thursday, did Rake Vuṅkal Humalaṅ Dyaḥ Jbaṅ mount the throne. That wet rice-field in Vanua Tṅah of his majesty did not undergo any changes. It was kept carefully by him, in its (full) extent. There was no change with regard to the monastery at Pikatan. Rake Vuṅkal Humalaṅ died.
+
+(5--6) On Śaka 820, month Jyeṣṭha, first day, waning, Tuṅlai, Pon, Wednesday: then did his majesty Rake Vatukura Dyaḥ Balituṅ Śrī Īśvarakeśavotsavatuṅga Rudramūrti mount the throne. His chief minister was Rakryān i Hino Śrī Dakṣottama Bāhuvajrapratipakṣakṣaya Viṣṇumūrti.\footnote{\red{Explain meaning if name of Dakṣa.}}
+
+(6--7) On Śaka 826, month Mārgaśīrṣa, second day of the waxing fortnight, Vurukuṅ, Umanis, Monday: then did his decree come down, issuing an order with regard to the sacred monastic foundations on all of Java that they be fiscally exempt and cease to be fined.
+
+(7--8) On Śaka 827, month Kārttika, fourteenth day of the waxing fortnight, Panirwan, Pon, Tuesday, did his majesty ascend to the \red{palace}, coming from Nyū Gaḍiṅ. At night, when he <foreign>pamatipī} the Lord Master Almighty of/at Lekan\footnote{On the title Bhaṭāra Svāmi Mahulun i Lekan, see also 2b17. ---- OJED 1020 lek I: moon, month. The functionary <foreign>lekan} mentioned under lek II may have been an astrologer.} to the Rakryān chief minister at Hino Śrī Dakṣottama Bāhuvajrapratipakṣakṣaya, he ordered with regard to the wet rice-field, \red{whose status was that of an endowment} of the Lord of the monastery at Pikatan that its status be altered, so that his majesty's position in the palace would be irrevocable.
+
+(8--9) \red{On Śaka 830, month Aśvajit, deity Padmanābha, tenth day of the waxing fortnight, Tuṅlai, Pahiṅ, Thursday, god Karmeśa, <foreign>karaṇa} Vālava, lunar mansion Uttarāṣāḍha, god Viśva, conjunction Śukla, Sagittarius in the ascendant, \red{region (?) Yama}.} That was the day that the status of the wet rice-field endowment at Pikatan was altered in favor of the Lord of the monastery at Pikatan.
+
+(9--10) Those ordered by his majesty and Rakryān chief minister to alter the status of that wet rice-field of the monastery at Pikatan [were] Rakryān Limvayan Dyah Guṇam and the master of Tūk (called) Dhaneśvara, (and) to take of the planting of the stones.\footnote{\red{kasusukana(n)}: this form still needs to be explained. Could it be that scribe forgot closing virāma and meant kasusukan·niṅ?}
+
+(10) The order of Pikatan offered to the king confirmatory gifts (<foreign>pagĕh-pagĕh}):\footnote{The definition of the meaning of <foreign>pagĕh-pagĕh} in OJED is too narrow. Cf. Kaladi 7a2: ciḥna ni pagĕḥ pagĕḥnyān śima; Kinawĕ, l. 12: mangangsĕakan taya pagĕḥ pagĕḥ ri śrī mahārāja śrī vava; Sangsang, 1v7 ngkāna mangasiakan samgat lamva pasambaḥ i śrī mahārāja vḍihan piliḥ magöng yu 1 `The samgat Lamva presented homage to the illustrious great king with 1 set of pilih-magöng cloth' (transl. Sarkar); Lintakan, 1v6 ina{\engma}sĕan tanda rakryān kabaiḥ pagĕpagĕh sabyawasthani{\engma} manusuk sīma. hino rika{\engma} kāla pu ketudhara manimantaprabhāprabhuśaktitriwikrama. wḍihan piliḥ magĕ{\engma} yu 1.} 1 <foreign>yugala} of very choice <foreign>wĕḍihan} cloth; 1 <foreign>yugala} of <foreign>jaro} cloth; 8 <foreign>dhāraṇa} of silver.
+
+(10--14) An order was given for all the Rakryāns to be informed that the situation of the king's <foreign>lān} wet rice field at Vanua Tṅah would be thus: Rakryān i Halu Pu Vīravikrama; Rakryān Sirikan Pu Variga Samaravikrānta; the [Rakryāns] Vka Pu Kutak [and] Pu Bhāsvara; the Tiruan Saṅ Śivāstra; the Halaran Pu Kivi; the Palar Hyaṅ Pu Puñjaṅ; the Jalinan\footnote{The normal spelling of this functionary's office is <foreign>dalinan}. See OJED 354. OJED does not record <foreign>jalinan}, but it is found several times in this inscription. Still, the other spelling is also found.} Pu Maṅusir; the Maṅhuri Pu Cakra; the Paṅkur Pu Rañjaṅ; the Tavān Pu Pañjaluan; the Tirip Pu Viṣṇu; the spokesman of the military of Hino, the Kaṇḍamuhi Pu Tuṅgaṅ;\footnote{Cf. Lintakan 1b13 parujar i hino kaṇḍamuhi sa{\engma} kasura.} the calligrapher of Vuṅkal Varaṇi\footnote{Here, <foreign>varaṇi} is certainly the same as in Malay <foreign>batu berani}. OJED 2204 list only <foreign>wĕsi warani}, but cf.~<foreign>batubarani} in McLaughlin inscription and <foreign>manurat praśasti watu warani} in Paṅgumulan A+B.} Pu Manĕsĕr;
+	the spokesmen of Halu, the Visaga Pu Dāmodara;\footnote{See parallels in Kubu-kubu and Rukam, which are seemingly conflicting: is Visaga a name of a separate person or a qualification of Pu Dāmodara?} of Sirikan of Hujuṅ Galuh, Pu Ayuddhā; the calligrapher of Dharmasinta; [the spokesman] of Vka Viridih Pu Ḍaṇu; the calligrapher of Halaṅ Manuk Ḍapunta Vuru Tuk; [the spokesman] of Tiruan Sumuḍan, Ḍapunta Bhāsura; the spokesman of Halaran, [function] Savi Manuk, [named] Pu Dharma; [spokesman] of Palar Hyaṅ, [function] Rumakat, [named] Pu Baka; 
+[spokesman] of Jalinan, [function] Ravaryaṁ, [named] Saṅ Mudgalyāna;
+[spokesman] of Maṅhuri, [function] Rarui;
+[spokesman] of Paṅour, [function] Dĕdĕlan;
+[spokesman] of Tavān, [function] Raluk;
+[spokesman] of Tirip, [function] Paḍaṅ;\footnote{Most of the same functionaries figure in the list of Kubu-kubu 5b1--6a1: rakryān wuṅkal tiha{\engma} pu bwalu. sirikan pu wariga. wka pu kutak. pagĕr wsi pu wīra. tiruan sa{\engma} sa 2. wastu. kanuruhan pu kalakar. halaran pu kiwi{\engma}. palarhya{\engma} pu puñju{\engma}. dalinan pu maṅuṅsir. ma{\engma}huri pu cakra. paṅkur pu rañjan. 3. tawan pu pañjalwan. tirip pu wiṣṇu. sa{\engma} mamwatt ujār i hino. kaṇḍamuhi pu tuṅga{\engma}. citralekha wuṅkal waraṇi. pu manīsĕr. paru(4)jar i halu. pu wiṣaga. pu damodara. i sirikan huju{\engma} galuḥ pu āyudha. citralekha dharmamatinta. pu wiṣṇu. i wka wiridiḥ ḍanu. citralekha da(6a1)la{\engma} manuk. pu gowinda i tiruan. sumuḍan ḍapunta basura. parujar i halaran. sa{\engma} dhiṣanak. pu dharmma. Text to be checked: see OD 11861--3. See also Lintakan: anurat i hino i{\engma} paṅujaran wu(14)ṅkal waraṇi sa{\engma} śuddha anak banua i{\engma} kabikuan i{\engma} kamyaṅ jantur.} 
+%See Rukam plate 1, lines 11--14: saŋ juru iŋ 11. paṅujaran kabaiḥ parujar i hino saŋ kaṇḍamuhi saŋ brahmīsana[4] anak banua i gunuŋṅan watal taṅkilan citralekha watu waraṇi pu manisar anak banua i tamaliṅgaŋ watak sirikan parujar i halu saŋ 12. wiṣaga pu dāmodara anak banua i paṇḍawuttan watak tiru raṇu parujar i sirikan hujuṅ galuḥ pu ayuddha anak banua i turuwanban watak tiruraṇu citralekha saŋ dharmmasinta saŋ rabuaḥ anak banua i pās wa13. tak pās parujar i wka saŋ widiḥ[5] pu ḍaṇu anak banua i skar tāl watak layuwataŋ citralekha saŋ halaŋmanuk pu gowinda anak banua i wanua tṅaḥ watak wurusiki parujar i tiruan saŋ sumuḍan ḍapunta 14. katimamaŋ anak banua i wuṅkuḍu watak kilipan
+%!!!!On these functionaries, esp. Dharmasinta etc., see de Casparis, PI II, hlm. 337, n. 42.
+all of them agreed for those gifts (pasĕk-pasĕk) to be considered as credited to them.\footnote{To whom does <foreign>sira} here refer?}
+
+(14--15) As for the Samgat Mamrati, Pu Uttara; the Samgat Tilimpik, Pu Sudar were offered confirmatory gifts (<foreign>pagĕh-pagĕh}): 1 <foreign>yugala} of <foreign>kalyāga} cloth; 4 <foreign>dhāraṇa} of silver per person. 
+
+(15--16) The spokesmen\footnote{Prasasti Indonesia II, 333, n. 11.} of Kasiṅgahan, Turuhan, Saṅ Panagar, the calligraphers Krĕp, [named] Pu Jayamatiḥ; of Tilimpik, the sons of Pu Babru; [and] the calligrapher of Pati Lamman were given confirmatory gifts (<foreign>pagĕh-pagĕh}): 1 <foreign>yugala} of <foreign>wĕḍihan} cloth; 1 <foreign>dhāraṇa} of silver per person.
+
+(16) The spokesman of the Saṅ Mānak at Kasiṅgahan; [spokesman] of Paṅkur, Piṅkaṅan; of Tavān, Likuan; of Tirip, Air Bawu: [they] were given confirmatory gifts (<foreign>pagĕh-pagĕh}): 1 <foreign>yugala} of <foreign>ragi} cloth; 8 <foreign>māṣa</foreign> of silver per person.
+
+(16--17) The assistant (?)\ of the spokesman with children of Paṅkur, Lua; of Tavān, Sukun; of Tirip, Panawuṅan: [they] were given confirmatory gifts (<foreign>pagĕh-pagĕh}): 1 <foreign>yugala} of <foreign>wĕḍihan} cloth; 6 <foreign>māṣa</foreign> of silver per person.
+
+(17) The king's Wahuta at Kasiṅgahan; at Mamrati Prih, [named] Pu Godhara; at Tilimpik, [function] Jukut Er, [named] Pu Jaṅga: [they] were given confirmatory gifts (<foreign>pagĕh-pagĕh}): 1 <foreign>yugala} of <foreign>wĕḍihan} cloth; 1 <foreign>dhāraṇa} of silver per person.
+
+(17--18) Saṅ Ralua Pu Salaru was given given confirmatory gifts (<foreign>pagĕh-pagĕh}): 1 <foreign>yugala} of <foreign>wĕḍihan} cloth; 2 <foreign>dhāraṇa} of silver per person.
+
+(18) The community of traders of Lua all together had 3 skt{dhāraṇa} of silver. The Kabayans of Mamrāti all together had 3 <foreign>dhāraṇa} of silver. 
+
+(18--19) The Paṅuraṅs of the Kapartayān: Rake Vakah, Pu Khaṭvāṅga; the Turuhan (called) Panagar; the Kasugihan, Pu Prājña; the Prasan (called) Śikhā; the Malañjaṅ%see note Sircar on malañjang = malaṇḍang
+(called Aghora); the Roṅguy, Pu Kutur; the Lwas of Kamaṇikan (called) Nīla and Drampuas; Ḍapunta Garalek; Ḍapunta Anidhana. All together had 5 <foreign>dhāraṇa} of silver.\footnote{Note the occurrence of the same figures in the Kinewu inscription: <foreign>sākṣī sang pangurang ing kabandharyyan makabaiḥan rake maṇḍyāngin pu khaṭṭvāngga sang prasan sang mala(16)ñja sang kasugihan sang rongguy ḍapunta vadva sang ra lva ing kamanilan kāliḥ sang nīla sang drampr̥(17)s parujar i mamrata sang turuhan sang panagar}. The reading Drampr̥s in Kinewu to be emended in the light of our inscription. \red{Check Damais.}}
+
+(19--21) Those at Ayam Tĕas departing to demarcate (the land) were given 3 <foreign>dhāraṇa} of silver; additionally cloth; additionally supplies. 
+Those at Makudur departing to demarcate (the land) were given 3 <foreign>dhāraṇa} of silver; additionally cloth; additionally supplies. 
+The 2 Kabayans of Ayam Tĕas, viz.\ the Mirah-mirah, Pu Rayuṅ [and] the Halaran, Pu Dhanada were given confirmatory gifts (at the rate of) 1 <foreign>dhāraṇa} [and] 8 <foreign>māṣa</foreign> of silver each. 
+The 2 Kabayans of Makudur, viz.\ the Patalĕsan, Pu Vīrya; the Vavahan, Pu Danta were given confirmatory gifts (at the rate of) 1 <foreign>dhāraṇa} [and] 8 <foreign>māṣa</foreign> of silver each. 
+
+(21--23) The Piṅhai of Pagar Vsi (called) Maṅaruh, father of Sadhaṇa; 
+the Piṅhai of Pikatan Asam Pañjaṅ (called) Syāmā, father of Bikrāmī; 
+and the Piṅhai of Pikatan Vijyāṅin (called) Kusuma, father of Lābha; 
+and the Piṅhai of Pikatan Gunuṅ (called) Mrih, father of Astiti;
+and the Piṅhai of Asam Pañjaṅ (called) Balava;
+and the Piṅhai of Lekan (called) Jalū, father of Ka -- --;
+and the Piṅhai of Tira Siṅgaṅ (called) Rasuk;
+and Dhavala, father of Kesara; all of them were given 1 <foreign>yugala} of colored cloth, 1 <foreign>māṣa</foreign> of gold per person.
+
+(23--24) [\red{The Piṅhai}]s of Vanua Tṅah, three individuals: Maṅhuri, father of Kanaka; Ananta, father of Ka\red{ṇṭ}ara; and Liṅga, rather of ...; ... raṅ, the Ra Lampi; Balu, father of Lĕbā; all of them were given 1 <foreign>yugala} of colored cloth, 1 <foreign>māṣa</foreign> of gold per person. 
+
+(24--25) The Vahuta of Pagar Vsi, (called) Ka\red{ṇḍ}are, father Prasena; the Vahuta of Pikatan Kupaṅ (called) Tovoh, father of Arā; the Vahuta of Tira ..., father of Asih; all of them were given 1 <foreign>yugala} of colored cloth, 1 <foreign>māṣa</foreign> of gold per person. 
+
+(25--1) Its Piluṅgah was Mandyus, father of Veda; he was given 1 <foreign>māṣa</foreign> of gold. And the Piṅhai of Pikatan Anuṁ (was) the singer Gāyatrī, and the Vanua ... singer children; all of them were given 2 <foreign>kupaṅ</foreign> of gold per person.
+
+(1--3) The <foreign>māgman} headmen %nothing useful in Boechari; check Barret-Jones, van Naerssen, etc.
+of Vanua Tṅah: 2 Gustis, (namely) Sodai, father of Basu and Kusalā, \red{father} %check all cases of rama in front of what appear to be feminine names; OJED mentions rare use of rama in the sense of `mother'
+ of Ratha; 2 Vinkas, (namely) Vaṅun, father of Sarini and Ḍakat, father of Laṅghana; 2 Kalimas, (namely) Govana, father of Ujjhā and Biṣātha, father of Vailā; 2 Hulers, (namely) Kalula, father of Prayanta and Candra, father of Gḍā; 2 Parujars, (namely) Kĕtoh, father of Muditā and Pundut, father of Laṇḍuṅ; all of them were given 1 <foreign>yugala} of colored cloth, 1 <foreign>māṣa</foreign> of gold per person. 
+ 
+ (3) The (two) Hulu Kuvus (named) Tañjuṅan, father of Bacuṅ; and (the one named) Lucchira were given 1 <foreign>kupaṅ</foreign> of gold per person. 
+ 
+(3--5) The Maratā headmen (who served as) <foreign>kabayan}: Haḍa, father of Bhara and Gĕlar, father of Sĕkar; Vuliran, father of Rathi; Aṅgira, father of Viśuddhi; Lĕvih, father of Karĕṅĕan; Julay, father of Śabda; Yukti, father of Bhoga; Vaduā, father of Sukhamī; Goḍog, father of Suddhī; Mahi, father of Mahendrī; Varĕg, father of Paṇḍaṅ; Tuli, father of Basī --- all of them were given 1 <foreign>māṣa</foreign> of gold per person.
+
+(5) The neighbouring headmen of Vijyāṅin: Risi, father of Basu; Piṅul, father of Buntar --- [they] were given 1 <foreign>māṣa</foreign> of gold per person.
+
+(5--6) The Gusti of the \red{shore} of Tumapal\footnote{\red{Cf. above Tira Siṅgah}.} (named) Bharaṇa, father of Kiṭak; the Kalima (named) Caṇṭuṅ, father of Carā --- [they] were given 2 <foreign>māṣa</foreign> of gold each.
+
+(6) The (ones serving as) Tuha Vĕrĕh, 2 persons: Kaṭal, father of Gaṇḍal; and Bloṇḍo, father of Budanta --- [they] were give 1 <foreign>māṣa</foreign> of gold each.
+
+(6--7) The Gusti of Kuluva (named) Aṅsĕ; the Vinkas (named) Gr̥hīta; the Vinkas of Panuṅgalan (named) Sojara; the Kalima (named) Mara, father of Atis --- all of them were given 1 <foreign>yugala} of coloured cloth per person.
+
+(7) The Vinkas at Layaṅanak (named) Bhāskara, father of Devī, was given 1 <foreign>māṣa</foreign> of gold.
+
+(7--8) The Kalima of Hulu Vanua (named) Ruaṅ Galuh, father of Vaṅi; the Vinkas (named) Vujil: they were given 1 <foreign>yugala} of colored cloth each.
+
+(8) The Maratā headman (named) Kalula, father of Yukti was given 1 <foreign>māṣa</foreign> of gold. 
+
+(8--9) The \red{travellers/visitors}, (namely) the /headmen of Samalagi, estate of the Lord of Pikatan: the Vinkas (named) Kali, father of Nita; the Kalima (named) Paṅalaman; the Gusti (named) Kaca, father of Radhinī; the Marhyaṅ (named) Supha, father of Basi; the spokesperson (named) Sutĕ, father of Vidyā; the Variga (named) Vaṅun --- all together were given 1 <foreign>māṣa</foreign> of gold.
+
+(9--10) Those who <foreign>mavuy/mavay gave water} at that time: Hriṅ, father of Cakra; the Hulu Wras (named) Ama, father of Cele, native(<foreign>s}) of \red{Lua at the monastery/Lua [and] of the monastery} --- they were given 1 <foreign>yugala} of colored cloth [and] 1 <foreign>māṣa</foreign> [of gold].
+
+(10) [The one who] played the <foreign>rĕgaṅ} at that time: Keśava, father of Agam, native of Titih, domain of Pikatan, was given 1 sheet of coloured cloth [and] 2 <foreign>kupaṅ</foreign> of gold.
+
+(10) [The one who] played <foreign>brĕkuk}: Gḍil, father of Mundil, native of Varuk, was given 2 <foreign>kupaṅ</foreign> of gold.
+
+(11) [The one who] performed wayang at that time: Kliṅ, father of Sḍaṅ, native of Vanua Tṅah, was given 1 sheet of cloth [and] 2 <foreign>kupaṅ</foreign> of gold.
+
+(11--12) [The one who] performed <foreign>tapuk}: Rasuk, native of Hinor, was given 3 <foreign>kupaṅ</foreign> of gold; also 2 <foreign>tapuk} players\footnote{The word <foreign>tapukan}, a form not registered in OJED, is attested in Kamban Ib5; OJODDV VIII-3b3 (see p. 99 n. 47); Alasantan IV, l. 18 (check). My impression is that in our context, and that of Kamban, it is equivalent to (or an error for) <foreign>(m)atapukan}, and denotes the person rather than his activity. The use of the word <foreign>muvah}, which means `also' and cannot, apparently mean `more, further', suggests however that there is some difference in meaning between <foreign>atapukan} and <foreign>tapukan}.} were given 1 <foreign>māṣa</foreign> of gold to share. His 6 <foreign>tarimba} [players] were given 1 <foreign>kupaṅ</foreign> per person.
+
+(12--15) The 2 who caused [the deity] to enter into\footnote{It seems that <foreign>maṅadiṣṭaṇa</foreign>, i.e.\ <foreign>maṅadhiṣṭhāna}, here has a somewhat different meaning from those recorded in OJED: ``(intr.)\ to take one's place in st. material, embody os.\ in; (tr.)\ to give a material support to, make st.\ enter
+into st.\ material, give a visible form to''. It seems that this ritual is connected with the fact that many inscriptions speak of a <foreign>saṅ hyaṅ vuṅkal sīma} `god of the endowment stone'.} the stone\red{s}: the teacher (<foreign>upādhyāya}) of Vraṅ (named) Candradeva and the master (<foreign>ācārya}) of recitation at Sukun (named) Sudānta. They were given 6 <foreign>māṣa</foreign> of silver each. The 2 who <foreign>recited/performed} <foreign>śānti}:\footnote{I find no other mentions of this ritual in Javanese epigraphy.} the master of Kavuṅ Manek (named) Sudānta and the master of Tiḍaluaṅ (named) Bhadrasena; the 2 who performed offering (<foreign>bantan}):\footnote{The glossary in Goris, Prasasti Bali, explains this as a (Krama-style) derivation from Sanskrit <foreign>bali}.} the (aforementioned) master of Vraṅ [and] the master (named) Tatha\footnote{Or: `\ldots{}the master of Vraṅ (named) master Tatha'.} and the master of Air Hijo East (named) Padmasena. They were given 6 <foreign>māṣa</foreign> of silver per person. The master of recitation at Pikatan (named) Paṇḍara was given 8 <foreign>māṣa</foreign> of silver; the master of Air Hijo West (named) Sudānta was given 6 <foreign>māṣa</foreign> of silver. The <foreign>patati}\footnote{See above.} of Pikatan (named) Ḍapunta Devendra; the <foreign>patati} of Air Hijo East (named) Dhanendra; the <foreign>patati} of Air Hijo West (named) Ḍapunta Samāhita; the <foreign>patati} of Guluṅ (named) Ḍapunta Akṣa --- they were given 2 <foreign>māṣa</foreign> of silver per person.
+
+(15--17) The (one who served as) Ayam Tĕas joining the demarcation of the endowment\footnote{Is there a connection between this phrase and 2a19--20?}: Bilāsa, father of Tatha, native of Paṅsur, domain of Ayam Tĕas, was given 1 <foreign>yugala} of coloured cloth [and] 6 <foreign>māṣa</foreign> of gold. The Makudur who did the sucking (named) Dayanna, native of Kahaṅatan, domain of Hammĕas, was given 1 <foreign>yugala} of coloured cloth [and] 2 <foreign>māṣa</foreign> [of gold]. The Makudur who did not perform <foreign>uyup} (named) Jaṅgi, father of Vulakan, native of Vaduṅ Poh, domain of Paṅkur Poh, was given 1 <foreign>yugala} of coloured cloth [and] 1 <foreign>māṣa</foreign> [of gold]
+
+(17) If there is anyone who changes the status of the rice-field of the endowment which is the meritorious work of his Majesty with the Rakryān chief minister \red{in favor of the Lord of Pikatan, Lord Master Almighty of/at Lekan}\,footnote{On Bhaṭāra Svāmi Mahulun i Lekan, see 2a7--8. From 2a22 it is clear that Lekan was a place inside Pikatan.} he will run into disaster; he will himself be ruined; his residence, his children and descendants will be destroyed; he will meet with misery; at the break of dawn\footnote{See OJED s.v. buka: sabukaniṅ way.} he dies fully conscious; soon he will experience\footnote{OJO 118 (s.a.) 25: salir ni{\engma} lara keli-keli (kelik?) \textbf{tĕmunya}, wuḍug, si{\engma}kĕl, buta radin, haya. \red{Why long ū, why -nyū?}} the [consequences of the] five cardinal sins.
+
+\end{document}
+
+\begin{center}
+\textit{Face 2a}
+\end{center}
+
+NOTES
+wuara: very rare in fact non-existent elsewhere in OJ epigraphy. Cf.\ the very to-the-point remark in Kusen's introduction, and cf. āsīt ... in the Canggal inscription.
+
+rahyangta: a title specifically assosciated with Sanjaya
+
+vanua = pura: cf. Kulke, Kadatuan Srivijaya, p. 171
+
+tutuganniṁ: study this phrase
+	tutugan niṁ or tutugann iṁ?
+	
+Email Jan Wisseman Christie 16/02/2010
+About the expression 'tutugan ning tanda': I have been unsure exactly how to translate the phrase, which appears not only in inscriptions issued by Balitung (Poh, Sangsang, Wanua Tengah III), but also in those issued by Daksa (Wuru Tunggal) and by Sindok (Añjukladang/OJO 46 and Paradah II/OJO 48), and possibly later. I have relied on Zoetmulder's translation of 'tutugan' as 'a groove or incision', and 'tanda' as 'a sign, banner', to arrive at a translation of 'written down as a sign' - that is 'subject of a prasasti' . This differs a bit from Kusen's translation, 'inscribed as a sign perfection', since I think that the phrase would need to be reversed (ie. 'tanda ning tutugan') to produce such a meaning. I don't think that Stutterheim was right to think that the whole phrase represented a place name, or that Damais was right to think that 'tutugan' was a place name.
+	The phrase appears to have been a description of a type of place rather than the name of a place. In all of the inscriptions listed above in which the expression occurs, it appears attached to the name of a place that had religious associations. In Poh, the witness who was resident in 'tutugan ning tanda' of Tangkilan was a religious personage. In Sangsang, the official demarcating, on the orders of the king, a sima involving part of his apanage (watak), was resident of 'Patapan (hermitage) tutuganning tanda. In Wanua Tengah III, 'Pikatan tutugan ning tanda' was the site of a bihara (monastery). In Wuru Tunggal, the repayment of a debt owed to a religious personage was received by the resident of 'Wuru Tunggal tutuganning tanda'. In Añjukladang, the community of Añjukladang was connected to the 'sang hyang prasada kabhaktyan of Sri Jayamrta'. And in Paradah II, land at Paradah, in the 'tutuganing tanda i Paradah', was the site of a sang hyang dharmma kamulan', apparently an ancestor shrine.
+	I assume that the status of all of these holy places had been formalized by the issuing of a royal charter of some sort. That's as far as I have gone in thinking about the subject. What do you think?
+	
+	PKMB p. 180, Prasasti Pamintihan = E. 88, Va, l. 6: ... mwa{\engma} pasākṣi yāthākrama ri taṇḍa rakryan samudāya...
+	
+
+
+UNITS OF MEASURE
+.dpa sihvaa
+tuu: see Boechari, ``Perbanditan'', n. 17 (16 in the reprint).
