@@ -69,37 +69,37 @@
            <!--apparatus encoded as per EGD §9.1, basic elements for apparatus below-->
                <listApp><!-- one <app> for each apparatus entry -->
                   <app loc="1r2">
-                     <lem source="bib:Damais_01">ḍaṁ navī</lem>
+                     <lem source="bib:Damais1970_01">ḍaṁ navī</lem>
                      <rdg source="bib:Brandes1913_01">banavī</rdg>
 	<note>I adopt the reading recorded by <bibl><ptr target="bib:Damais1970_01"/><citedRange unit="page">176</citedRange></bibl>.</note>
                   </app>
 <app loc="1r3">
-                     <lem source="bib:Damais_01">ḍayā</lem>
+                     <lem source="bib:Damais1970_01">ḍayā</lem>
                      <rdg source="bib:Brandes1913_01">dhayā</rdg>
 	<note>I adopt the reading recorded by <bibl><ptr target="bib:Damais1970_01"/><citedRange unit="page">365</citedRange></bibl>.</note>
                   </app>
 <app loc="1r6">
-                     <lem source="bib:Damais_01">ḍaṁ navi</lem>
+                     <lem source="bib:Damais1970_01">ḍaṁ navi</lem>
                      <rdg source="bib:Brandes1913_01">banavī</rdg>
 	<note>I adopt the reading (with short <foreign>i</foreign>!) recorded by <bibl><ptr target="bib:Damais1970_01"/><citedRange unit="page">176</citedRange></bibl>.</note>
                   </app>
 <app loc="1r6">
-                     <lem source="bib:Damais_01">ḍayā</lem>
+                     <lem source="bib:Damais1970_01">ḍayā</lem>
                      <rdg source="bib:Brandes1913_01">dhayā</rdg>
 	<note>I adopt the reading recorded by <bibl><ptr target="bib:Damais1970_01"/><citedRange unit="page">365</citedRange></bibl>.</note>
                   </app>
 <app loc="1r6">
-	<lem source="bib:Damais_01">tgu<lb n="1r7" break="no"/>hān</lem>
+	<lem source="bib:Damais1970_01">tgu<lb n="1r7" break="no"/>hān</lem>
 	<rdg source="bib:Brandes1913_01">tgu<lb/>hhan</rdg>
 	<note>I adopt the reading recorded by <bibl><ptr target="bib:Damais1970_01"/><citedRange unit="page">455</citedRange></bibl>.</note>
 </app>
 <app loc="1r7">
-<lem source="bib:Damais_01">ta<gap reason="illegible" unit="character" quantity="2"/></lem>
+<lem source="bib:Damais1970_01">ta<gap reason="illegible" unit="character" quantity="2"/></lem>
 <rdg source="bib:Brandes1913_01"><gap reason="undefined" unit="character" quantity="2" precision="low"/></rdg>
 	<note>I adopt the reading recorded by <bibl><ptr target="bib:Damais1970_01"/><citedRange unit="page">669</citedRange></bibl>.</note>
 </app>
 <app loc="1v3">
-<lem source="bib:Damais_01">saṁ ra tira</lem>
+<lem source="bib:Damais1970_01">saṁ ra tira</lem>
 <rdg source="bib:Brandes1913_01">saṁ ratiraṁ</rdg>
 	<note>I adopt the reading recorded by <bibl><ptr target="bib:Damais1970_01"/><citedRange unit="page">404, 727</citedRange></bibl>.</note>
 
