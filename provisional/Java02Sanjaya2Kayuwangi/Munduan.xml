@@ -34,7 +34,7 @@
                 <availability>
                     <licence target="https://creativecommons.org/licenses/by/4.0/">
                         <p>This work is licenced under the Creative Commons Attribution 4.0 Unported Licence. To view a copy of the licence, visit https://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.</p>
-                    	<p>Copyright (c) 2019-2025 by Eko Bastiawan &amp; Arlo Griffiths</p>
+                    	<p>Copyright (c) 2019-2025 by Arlo Griffiths</p>
                     </licence>
                 </availability>
                 <date from="2019" to="2025">2019-2025</date>
@@ -50,13 +50,15 @@
                     </msContents>
                     <physDesc>
                         <handDesc>
-                            <p><!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EG 11.2. --></p>
+                            <p>The "," punctuation has the shape of a small circile at height of top-line.
+<!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EG 11.2. --></p>
                         </handDesc>
                     </physDesc>
                 </msDesc>
             </sourceDesc>
         </fileDesc>
     	<revisionDesc>
+    	    <change who="part:argr" when="2020-09-13" status="draft">first round of revisions</change>
     	    <change who="part:ekba" when="2020-09-08" status="draft">initial encoding of the inscription</change>
         </revisionDesc>
     </teiHeader>
@@ -64,20 +66,21 @@
       <body>
          <div type="edition" xml:lang="kaw-Latn">
 <pb n="1r"/><!--Blank outer page.-->
-<p><pb n="1v"/>
-<lb n="1v1"/><g type="ddandaOrnate">.</g>svasti śakavarṣātīta <num value="728">728</num> māghamāsa navami śuklapakṣa, <abbr>ha</abbr>, <abbr>U</abbr>, <abbr>vr̥</abbr>, vāra, tatkāla rakai patapān· pu manuku, sumusu<supplied reason="lost">k ika</supplied><lb 
-                     n="1v2" break="no"/>naṁ lmaḥ I muṇḍuAn· muAṁ I haji huma, padmaknira I vaduĀnira saṁ patoran·, buAt=hajyanya makmitana vivi ramvaiya makna p<gap reason="lost"  quantity="2" unit="character"/>
-<lb n="1v3"/>luAni kuramvit· saṁ hyaṁ taṇḍa I patapān· I dlāhaniṁ dlāha, ṅaranyan· pakmitan· vivi saṁ madmak·, dadi ya magavai poma<supplied reason="lost">hān·</supplied>
-<lb n="1v4"/>I vinduvindunikanaṁ lmaḥ, yā ta prastāvanyan· I vala vindu ṅaran ikana pomahanya, matəhər· ya Inanugrahān· tan· ka<lb n="1v5" break="no"/>tamāna deniṁ Er baraṅan·, muAṁ saprakāraniṁ maṅilala saṁ parānya maduAl· mavli, ṅunivaiḥ yan· hana sukhaduḥ<supplied reason="lost">kha</supplied><lb 
-                     n="1v6" break="no"/>nya Ityevamādi tan· katamāna Ataḥ ya, nahan· paṅanugraha rakai patapān· pu manuku I vaduĀnira <unclear>sa</unclear>ṁ <supplied reason="lost">pato</supplied><lb 
-                         n="1v7" break="no"/>ran· muAṁ I sakvaiḥnikanaṁ Umuṅgu rikanaṁ I vala vindu, yāpuAn· hana UmulaḥUlaḥ Ike paṅanugraha d<supplied reason="lost">lāhaniṁ</supplied><pb n="2r" break="no"/><lb 
-                             n="2r1" break="no"/>dlāha pañcamahāpataka paṅguhanya, patiḥ I patapān· rikanaṁ kāla, kayumvuṅan· saṁ rupyan·, mantyasiḥ vaduĀ ra<unclear>kai</unclear>
-<lb n="2r2"/>patapān· saṁ paliṇḍuA, partaya saṁ pagəḥ kapuA vinaiḥ pasakpasak· pirak· <abbr>dhā</abbr> <num value="1">1</num> vḍihan· <abbr>yu</abbr> <num value="1">1</num> soAṁ-soAṁ <unclear>lu</unclear><lb 
-                     n="2r3" break="no"/><unclear>pa</unclear>ṇḍaka Er baraṅan· pirak· <abbr>mā</abbr> <num value="8">8</num> vḍihan· <abbr>yu</abbr> <num value="1">1</num> soAṁ-soAṁ, vahuta ptir· paṇḍakyan· pirak <abbr>dhā</abbr> <num value="1">1</num> vḍihan· <abbr>yu</abbr> <num>1</num> soA<supplied reason="lost">ṁ</supplied><lb 
-                         n="2r4" break="no"/>soAṁ, pituṁtuṁnya <num value="4">4</num> pirak· <abbr>mā</abbr> <num value="4">4</num> soAṁ-soAṁ, rāma I muṇḍuAn· si bunā, kalima si sruka, juru muR̥<unclear>ṁ</unclear> si klat·, sa
-<lb n="2r5"/><gap reason="lost" quantity="1" unit="character"/><unclear>l</unclear>· si kulinā, ḍaṇḍa muR̥ṁ sy andhani, kaṇḍaṅan· lamvəs· si tija, kalima I haji huma si sruva, juru siniṁ, parvuvu<supplied reason="lost">s·</supplied>
-<lb n="2r6"/><gap reason="lost" quantity="3" unit="character"/>, maṇḍər paraṁ si guṇī, Ikana kabaiḥ kapuA vinaiḥ pasək-pasək· pirak· vḍihan· kāyānurupa, sumurat· 
-<lb n="2r7"/><gap reason="lost" quantity="4" unit="character"/><unclear>m</unclear><supplied reason="lost">r</supplied><unclear>a</unclear>prasasti citralekha rakai patapān· saṁ minaṅa vinaiḥ pirak· <abbr>mā</abbr> <num value="8">8</num> vḍihan· <abbr>yu</abbr> <num value="1">1</num><g type="ddandaPlain">.</g><g type="gomutraFinal">.</g></p>
+<p><pb n="1r"/>
+<lb n="1v1"/><g type="ddandaOrnate">.</g>svasti śakavarṣātīta <num value="728">728</num> māgha-māsa navami śukla-pakṣa, <abbr>ha</abbr>, <abbr>U</abbr>, <abbr>vr̥</abbr>, vāra,</p> <p>tatkāla rakai patapān· pu manuku, sumusu<supplied reason="lost">k ika</supplied><lb 
+                     n="1v2" break="no"/>naṁ lmaḥ I muṇḍuAn· muAṁ I haji huma, padmaknira I vaduĀnira saṁ patoran·, buAt-hajyanya makmitana<!-- read ī? --> vivi ramvaiya makna p<gap reason="lost" quantity="2" unit="character"/><!-- not sure about p, and the defintion of the extent of the gap to be made more accurate, in terms of parts of akṣaras rather than whole akṣaras. At most, there is one more whole akṣara after the one that begins with p, if that reading is correct. what about reading maknā, maknāna, maknā I? -->
+<lb n="1v3"/>luAni kuramvit· saṁ hyaṁ taṇḍa I patapān· I dlāhaniṁ dlāha, ṅaranyan· pakmitan· vivi saṁ madmak·, dadi ya magavai pomaha<supplied reason="lost">n·</supplied>
+<lb n="1v4"/>I vindu-vindunikanaṁ lmaḥ,</p> <p>yā ta prastāvanyan· I vala vindu ṅaranikana pomahanya, matəhər· ya Inanugrahān· tan· ka<lb 
+n="1v5" break="no"/>tamāna deniṁ Er baraṅan·, muAṁ saprakāraniṁ maṅilala saṁ parānya<!-- see Apparatus entry: emend saparānya? --> maduAl· mavli, ṅunivaiḥ yan· hana sukha-duḥ<unclear>kha</unclear><lb 
+n="1v6" break="no"/>nya Ityevamādi tan· katamāna Ataḥ ya,</p> <p>nahan· paṅanugraha rakai patapān· pu manuku I vaduĀnira <unclear>sa</unclear>ṁ <supplied reason="lost">pato</supplied><lb 
+n="1v7" break="no"/>ran· muAṁ I sakvaiḥnikanaṁ Umuṅgu rikanaṁ I vala vindu, yāpuAn· hana Umulaḥ-Ulaḥ Ike paṅanugraha <unclear>d</unclear><supplied reason="lost">lāhaniṁ</supplied><pb n="2r" break="no"/><lb 
+n="2r1" break="no"/>dlāha pañca-mahā-pātaka paṅguhanya,</p> <p>patiḥ I patapān· rikanaṁ kāla, kayumvuṅan· saṁ rupyan·, mantyasiḥ vaduĀ ra<unclear>kai</unclear>
+<lb n="2r2"/>patapān· saṁ paliṇḍuA, partaya saṁ pagəḥ kapuA vinaiḥ pasak-pasak· pirak· <abbr>dhā</abbr> <num value="1">1</num> vḍihan· <abbr>yu</abbr> <num value="1">1</num> soAṁ-soAṁ lu<!-- it seems impossible to read lva — this fact imposes caution with reghard to Damais' claimn (1970: 700 n. 2) that Lva in Tri Tepsuan II is a mistake for Lu  -->
+<lb n="2r3"/><unclear>pa</unclear>ṇḍaka<!-- reading prima facie doubtful, but cf. Damais 1970: 699-700; what looks like tarung might be misplaced virāma, so read paṇḍāka and correct paṇḍak·? --> Er baraṅan· pirak· <abbr>mā</abbr> <num value="8">8</num> vḍihan· <abbr>yu</abbr> <num value="1">1</num> soAṁ-soAṁ, vahuta ptir· paṇḍakyan· pirak· <abbr>dhā</abbr> <num value="1">1</num> vḍihan· <abbr>yu</abbr> <num>1</num> soA<supplied reason="lost">ṁ</supplied><lb 
+ n="2r4" break="no"/>-soAṁ, pituṁtuṁnya <num value="4">4</num> pirak· <abbr>mā</abbr> <num value="4">4</num> soAṁ-soAṁ, rāma I muṇḍuAn· si bunā, kalima si <unclear>s</unclear>ruka<!-- looks more like pruka, but reading sruka i.a. for the reason explained in Commentary -->, juru muR̥<unclear>ṁ</unclear> si klat·, sa<lb 
+n="2r5" break="no"/><gap reason="lost" quantity="1" unit="character"/><unclear>l</unclear>· si kulinā, ḍaṇḍa muR̥ṁ sy andhani, kaṇḍaṅan· lamvəs· si tija, kalima I haji huma si sruva, juru siniṁ, parvuvu<unclear>s·</unclear>
+<lb n="2r6"/><gap reason="lost" quantity="3" unit="character"/>, maṇḍər paraṁ si guṇī, Ikana kabaiḥ kapuA vinaiḥ pasək-pasək· pirak· vḍihan· kāyānurŭpa, sumurat· 
+<lb n="2r7"/><gap reason="lost" quantity="3" unit="character"/><unclear>m</unclear><supplied reason="lost">r</supplied><unclear>a</unclear>prasasti citralekha rakai patapān· saṁ minaṅa vinaiḥ pirak· <abbr>mā</abbr> <num value="8">8</num> vḍihan· <abbr>yu</abbr> <num value="1">1</num><g type="ddandaHooked">.</g><g type="spiral"/></p>
          </div>
          <div type="apparatus">
            <!--apparatus encoded as per EG §9.1, basic elements for apparatus below-->
@@ -87,7 +90,7 @@
                       <rdg source="bib:Nakada1986_01">manukū</rdg>
                       </app>
                    <app loc="1v2">
-                      <lem source="bib:Nakada1986_01">buAthajyanya</lem>
+                      <lem source="bib:Nakada1986_01">buAt-hajyanya</lem>
                       <note>The <foreign>t</foreign> and <foreign>h</foreign> are joined in a ligature, and not written as simple akṣara <foreign>th</foreign>.</note>                      
                    </app>
                    <app loc="1v2">
@@ -95,21 +98,21 @@
                        <rdg source="bib:Nakada1986_01">ramvaiḥ ya</rdg>
                       <note>The (single!) circular trace between <foreign>mvai</foreign> and <foreign>ya</foreign> is probably accidental.</note>                      
                    </app>
-                   <app loc="1v3">
+                   <!--<app loc="1v3">
                       <lem source="bib:Nakada1986_01">ṅaranyan·</lem>
                       <note>Understand<foreign>ṅaran nyan</foreign>?</note>
+                      </app>
+-->	<app loc="1v3">
+                      <lem>pomaha<supplied reason="lost">n·</supplied></lem>
+                      <rdg source="bib:Nakada1986_01">pomahān·</rdg>
                       </app>
                    <app loc="1v4">
                       <lem>ikana</lem>
                       <rdg source="bib:Nakada1986_01">ikanaṁ</rdg>
                       </app>
                    <app loc="1v5">
-                      <lem source="bib:Nakada1986_01">Er baraṅan·</lem>
-                      <note>Cf. <foreign>Air Baraṅan</foreign> in Mantyasih inscriptions.</note>
-                      </app>
-                   <app loc="1v5">
                       <lem source="bib:Nakada1986_01">saṁ parānya</lem>
-                      <note>Read <foreign>saparānya</foreign>? The apparent cecak can be considered accidental. Cf. <bibl><ptr target="bib:Brandes1913_01"/><citedRange unit="page">59</citedRange><citedRange  unit="item">XXXVII</citedRange></bibl> <foreign>mangilala drabya haji saparānya sadeçānya</foreign>; OJODDV p. 59 <!--ekba 2 argr: I can't find the reference yet--><foreign>saparanya</foreign>.</note>
+                      <note>Read <foreign>saparānya</foreign>? The apparent cecak can be considered accidental. Cf. <bibl><ptr target="bib:Brandes1913_01"/><citedRange unit="page">59</citedRange><citedRange  unit="item">XXXVII</citedRange></bibl> <foreign>maṅilala drabya haji saparānya sadeśānya</foreign>; OJODDV p. 59 <!--ekba 2 argr: I can't find the reference yet--><!-- argr2ekka: it is my abbreviation for the title of Naerssen1941_01 --><foreign>saparanya</foreign>.</note>
                       </app>
                    <app loc="1v6">
                       <lem>manuku</lem>
@@ -117,7 +120,7 @@
                       </app>
                    <app loc="2r1">
                       <lem>dlāha</lem>
-                      <rdg source="bib:Nakada1986_01">ha</rdg>
+                      <rdg source="bib:Nakada1986_01"><supplied reason="lost">dlā</supplied><pb n="2r" break="no"/><lb n="2r1" break="no"/>ha</rdg>
                        <note>Nakada mistakenly places the first syllable in the lacuna at the end of 1r7.</note>
                       </app>
                    <app loc="2r2">
@@ -125,33 +128,31 @@
                       <rdg source="bib:Nakada1986_01">soAṁ-soAṁ <supplied reason="lost">, lu</supplied>-</rdg>
                        <note>The <foreign>lu</foreign> is still discernible, and the space before it is well preserved, without showing any trace of a punctuation sign.</note>
                       </app>
-                   <app loc="2r3"><!--ekba 2 argr: perhaps we can merge  this with 2r2 above?-->
+                   <app loc="2r3"><!--ekba 2 argr: perhaps we can merge  this with 2r2 above?--><!-- argr2ekba: maybe, yes, but not yet. I have toi think about how to present this case. See also my comment inserted into the edition, about. -->
                       <lem><unclear>pa</unclear>ṇḍaka</lem>
                       <rdg source="bib:Nakada1986_01">ṇḍaka</rdg>
-                       <note>Perhaps read <foreign>ṇḍauka</foreign>? How precisely it is spelled remains unclear, but the intended toponym must be <foreign>lupaṇḍak</foreign>.</note>
+                       <note>Perhaps read <foreign>ṇḍauka</foreign>? How precisely it is spelled remains unclear, but the intended toponym must be <foreign>lu paṇḍak</foreign>.</note>
                        </app>
                    <app loc="2r3">
                       <lem source="bib:Nakada1986_01">vahuta ptir· paṇḍakyan·</lem>
                        <note>Cf. <bibl><ptr target="bib:Casparis1956_01"/><citedRange unit="page">234</citedRange></bibl>; <bibl><ptr target="bib:Boechari1985-1986_01"/><citedRange unit="page">58</citedRange></bibl>. See discussion <bibl><ptr target="bib:Casparis1950_01"/><citedRange unit="page">154-155</citedRange></bibl>.</note>
                        </app>
-                   <app loc="2r4-2r5"><!-- I have modified this but I am not sure what to do with the [......i] in Nakada-->
-                       <lem>si bunā, kalima si sruka, juru muR̥<unclear>ṁ</unclear> si klat·, sa<gap reason="lost" quantity="1" unit="character"/><unclear>l</unclear>· si kulinā</lem>
-                      <rdg source="bib:Nakada1986_01">si bunā, [......i] kulinā</rdg>
-                       <note>Everything that follows on this line after <foreign>si bunā</foreign> is omitted by Nakada (perhaps due to eye-skip to <foreign>kalima</foreign> in the next line).</note>
+                   <app loc="2r4-2r5"><!-- I have modified this but I am not sure what to do with the [......i] in Nakada--><!-- argr: see what I have done in rdg -->
+                       <lem>si bunā, kalima si sruka, juru muR̥<unclear>ṁ</unclear> si klat·, sa<lb n="2r5" break="no"/><gap reason="lost" quantity="1" unit="character"/><unclear>l</unclear>· si kulinā</lem>
+                      <rdg source="bib:Nakada1986_01">si bunā, <lb n="2r5"/> <gap reason="lost" quantity="3" unit="character"/><supplied reason="lost">i</supplied> kulinā</rdg>
+                       <note>Everything that follows on line 2r4 after <foreign>si bunā</foreign> is omitted by Nakada, apparently due to eye-skip to <foreign>kalima</foreign> in the next line.</note>
                        </app>
                    <app loc="2r6">
-                      <lem>kāyānurupa</lem>
+                      <lem>kāyānurŭpa</lem>
                       <rdg source="bib:Nakada1986_01">kayānurūpa</rdg>
                       </app>
                    <app loc="2r7">
                       <lem><unclear>m</unclear><supplied reason="lost">r</supplied><unclear>a</unclear>prasasti</lem>
                       <rdg source="bib:Nakada1986_01">ma prasasti</rdg>
-                       <note>It is likely that the plate originally read <foreign>tāmraprasasti</foreign>.</note>
                       </app>
                    <app loc="2r7">
-                      <lem><g type="gomutraFinal">.</g></lem>
+                      <lem><g type="spiral"/></lem>
                       <rdg source="bib:Nakada1986_01">kha</rdg>
-                       <note>Nakada reports the reading <g type="ddandaOrnate">.</g> by Oemar for the same sign.</note>
                       </app>
                </listApp>         
          </div>
@@ -162,21 +163,25 @@
          </div>
          <div type="commentary">
             <!--commentary encoded as per section §9.3 -->
-     <p n="1v3">The noun <foreign>kuramwit</foreign> must lay at the basis of the place name <foreign>Kuramwitan</foreign> attested in a few inscriptions; perhaps it is derived from an (unattested) base <foreign>kamwit</foreign>. Connection with <foreign>keramat</foreign>? There is a word <foreign>kerambit</foreign> meaning ‘small sickle’ in Malay.</p>
+     	<p n="1v3">The noun <foreign>kuramvit</foreign> must lay at the basis of the place name <foreign>Kuramvitan</foreign><!-- argr2ekba: don't apply <foreign> to names spelt with capitital initial. --> attested in a few inscriptions; perhaps it is derived from an (unattested) base <foreign>kamvit</foreign>. Connection with <foreign>keramat</foreign>? There is a word <foreign>kerambit</foreign> meaning ‘small sickle’ in Malay.</p>
+	<p n="1v5">Er baraṅan: cf. <foreign>Air Baraṅan</foreign> in the Mantyasih inscriptions.</p>
              <p n="2r1-2r3">On the toponyms figuring here, see <bibl><ptr target="bib:Casparis1950_01"/><citedRange unit="page">151-160</citedRange></bibl>.</p>
-             <p n="2r4-2r5">Note that the two <foreign>kalimas</foreign> bear the names Sruka and Sruva, which are evidently (derived from) the Sanskrit words for two types of ritual spoons, the sruk and the sruva. This parallelism of names suggests a strong connection of some sort between the two persons in question, despite their affiliation with two different villages.</p>
+             <p n="2r4-2r5">Note that the two <foreign>kalima</foreign>s bear the names Sruka and Sruva, which are evidently (derived from) the Sanskrit words for two types of ritual spoons, the <foreign>sruk</foreign> and the <foreign>sruva</foreign>. This parallelism of names suggests a strong connection of some sort between the two persons in question, despite their affiliation with two different villages.</p>
          </div>
         <div type="bibliography">
 	<!--bibliography encoded as per section §9.4 -->
-            <p>First edited by Nakada (<bibl rend="omitname"><ptr target="bib:Nakada1986_01"/></bibl>). Re-edited here by Arlo Griffiths from photos provided by Ninie Susanti (made by her student Kunta).</p>
+            <p>First published by K. Nakada (<bibl rend="omitname"><ptr target="bib:Nakada1986_01"/></bibl>) who cites a reading Moh. Oemar that is not publicly available. Re-edited here by Arlo Griffiths from photos provided by Ninie Susanti (made by her student Kunta).</p>
             <listBibl type="primary">
                     <bibl n="N">
                       <ptr target="bib:Nakada1986_01"/>
-                        <citedRange unit="volume" >28</citedRange><!--I am not sure with this volume part-->
+                        <citedRange unit="volume" >28</citedRange><!--I am not sure with this volume part--><!-- argr2ekba: since the entire article is relevant here, you should not add any <citedRange>; see the rule "these citations should include page ranges only if the publication is not entirely or mostly about the text being edited
+for instance, when citing a journal article primarily concerned with the text, refer to the article as a whole and not specifically to the page range containing the edited text" in EGD 9.4.4
+ -->
                       <citedRange unit="page">1-22</citedRange>
                     </bibl>
                   </listBibl>
             <listBibl type="secondary"><!-- At the moment I have not been able to find  "Weatherbee 2000: 347 n. 13" from your note, Does the reference belongs here? -->
+<!-- argr2ekba: I have now added to new Weatherbee entries to Zotero, and added a folder with pdfs to Sharedocs. Please complete this bibliographic entry. -->
              <bibl></bibl>
            </listBibl>
         </div>
