@@ -58,6 +58,7 @@
             </sourceDesc>
         </fileDesc>
     	<revisionDesc>
+    	    <change who="part:ekba" when="2020-09-14" status="draft">revised the encoding suggested by argr</change>
     	    <change who="part:argr" when="2020-09-13" status="draft">first round of revisions</change>
     	    <change who="part:ekba" when="2020-09-08" status="draft">initial encoding of the inscription</change>
         </revisionDesc>
@@ -112,7 +113,7 @@ n="2r5" break="no"/><gap reason="lost" quantity="1" unit="character"/><unclear>l
                       </app>
                    <app loc="1v5">
                       <lem source="bib:Nakada1986_01">saṁ parānya</lem>
-                      <note>Read <foreign>saparānya</foreign>? The apparent cecak can be considered accidental. Cf. <bibl><ptr target="bib:Brandes1913_01"/><citedRange unit="page">59</citedRange><citedRange  unit="item">XXXVII</citedRange></bibl> <foreign>maṅilala drabya haji saparānya sadeśānya</foreign>; OJODDV p. 59 <!--ekba 2 argr: I can't find the reference yet--><!-- argr2ekka: it is my abbreviation for the title of Naerssen1941_01 --><foreign>saparanya</foreign>.</note>
+                      <note>Read <foreign>saparānya</foreign>? The apparent cecak can be considered accidental. Cf. <bibl><ptr target="bib:Brandes1913_01"/><citedRange unit="page">59</citedRange><citedRange  unit="item">XXXVII</citedRange></bibl> <foreign>maṅilala drabya haji saparānya sadeśānya</foreign>; <bibl><ptr target="bib:Naerssen1941_01"/><citedRange unit="page">59</citedRange></bibl><foreign>saparanya</foreign>.</note>
                       </app>
                    <app loc="1v6">
                       <lem>manuku</lem>
@@ -137,7 +138,7 @@ n="2r5" break="no"/><gap reason="lost" quantity="1" unit="character"/><unclear>l
                       <lem source="bib:Nakada1986_01">vahuta ptir· paṇḍakyan·</lem>
                        <note>Cf. <bibl><ptr target="bib:Casparis1956_01"/><citedRange unit="page">234</citedRange></bibl>; <bibl><ptr target="bib:Boechari1985-1986_01"/><citedRange unit="page">58</citedRange></bibl>. See discussion <bibl><ptr target="bib:Casparis1950_01"/><citedRange unit="page">154-155</citedRange></bibl>.</note>
                        </app>
-                   <app loc="2r4-2r5"><!-- I have modified this but I am not sure what to do with the [......i] in Nakada--><!-- argr: see what I have done in rdg -->
+                   <app loc="2r4-2r5">
                        <lem>si bunā, kalima si sruka, juru muR̥<unclear>ṁ</unclear> si klat·, sa<lb n="2r5" break="no"/><gap reason="lost" quantity="1" unit="character"/><unclear>l</unclear>· si kulinā</lem>
                       <rdg source="bib:Nakada1986_01">si bunā, <lb n="2r5"/> <gap reason="lost" quantity="3" unit="character"/><supplied reason="lost">i</supplied> kulinā</rdg>
                        <note>Everything that follows on line 2r4 after <foreign>si bunā</foreign> is omitted by Nakada, apparently due to eye-skip to <foreign>kalima</foreign> in the next line.</note>
@@ -163,7 +164,7 @@ n="2r5" break="no"/><gap reason="lost" quantity="1" unit="character"/><unclear>l
          </div>
          <div type="commentary">
             <!--commentary encoded as per section §9.3 -->
-     	<p n="1v3">The noun <foreign>kuramvit</foreign> must lay at the basis of the place name <foreign>Kuramvitan</foreign><!-- argr2ekba: don't apply <foreign> to names spelt with capitital initial. --> attested in a few inscriptions; perhaps it is derived from an (unattested) base <foreign>kamvit</foreign>. Connection with <foreign>keramat</foreign>? There is a word <foreign>kerambit</foreign> meaning ‘small sickle’ in Malay.</p>
+     	<p n="1v3">The noun <foreign>kuramvit</foreign> must lay at the basis of the place name Kuramvitan attested in a few inscriptions; perhaps it is derived from an (unattested) base <foreign>kamvit</foreign>. Connection with <foreign>keramat</foreign>? There is a word <foreign>kerambit</foreign> meaning ‘small sickle’ in Malay.</p>
 	<p n="1v5">Er baraṅan: cf. <foreign>Air Baraṅan</foreign> in the Mantyasih inscriptions.</p>
              <p n="2r1-2r3">On the toponyms figuring here, see <bibl><ptr target="bib:Casparis1950_01"/><citedRange unit="page">151-160</citedRange></bibl>.</p>
              <p n="2r4-2r5">Note that the two <foreign>kalima</foreign>s bear the names Sruka and Sruva, which are evidently (derived from) the Sanskrit words for two types of ritual spoons, the <foreign>sruk</foreign> and the <foreign>sruva</foreign>. This parallelism of names suggests a strong connection of some sort between the two persons in question, despite their affiliation with two different villages.</p>
@@ -174,14 +175,11 @@ n="2r5" break="no"/><gap reason="lost" quantity="1" unit="character"/><unclear>l
             <listBibl type="primary">
                     <bibl n="N">
                       <ptr target="bib:Nakada1986_01"/>
-                        <citedRange unit="volume" >28</citedRange><!--I am not sure with this volume part--><!-- argr2ekba: since the entire article is relevant here, you should not add any <citedRange>; see the rule "these citations should include page ranges only if the publication is not entirely or mostly about the text being edited
-for instance, when citing a journal article primarily concerned with the text, refer to the article as a whole and not specifically to the page range containing the edited text" in EGD 9.4.4
- -->
-                      <citedRange unit="page">1-22</citedRange>
                     </bibl>
                   </listBibl>
-            <listBibl type="secondary"><!-- At the moment I have not been able to find  "Weatherbee 2000: 347 n. 13" from your note, Does the reference belongs here? -->
-<!-- argr2ekba: I have now added to new Weatherbee entries to Zotero, and added a folder with pdfs to Sharedocs. Please complete this bibliographic entry. -->
+            <listBibl type="secondary">
+                <bibl><ptr target="bib:Weatherbee2000_01"/><citedRange unit="page">349</citedRange><citedRange unit="note">13</citedRange></bibl>
+                <!-- ekba 2 argr: I changed the page number from  347 (your note) to 349 where the footnote 13 is found, let me know if  my understanding is wrong-->
              <bibl></bibl>
            </listBibl>
         </div>
