@@ -56,6 +56,7 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc>
+          <change who="part:argr" when="2020-09-15" status="draft">answer to comments and change in apparatus</change>
         	<change who="part:argr" when="2020-08-14" status="draft">first round of revisions</change>
         	<change who="part:masc" when="2020-08-13" status="draft">adding translation</change>
             <change who="part:masc" when="2020-08-10" status="draft">initial encoding of the inscription</change>
@@ -65,10 +66,10 @@
       <body>
          <div type="edition" xml:lang="kaw-Latn">
 <p>
-  <lb n="1"/>Om̐ sri sarasoti kr̥ta, vukir hadidamaluṁ Uri<lb 
+  <lb n="1"/>Om̐ sri sarasoti kr̥ta, vukir ha<choice><orig>d</orig><reg>rd</reg></choice>i damaluṁ Uri<lb
 n="2" break="no"/><!-- argr2ms: I have moved the hard returns that you had a the end of each line to stand inside the <lb/>s, as recommended in EGD -->
 piṁ buhana hañakra murusa patirtan paL̥maran· hapan yaṁ
-  <lb n="3"/>vidi <choice><sic>ha<unclear>n</unclear>ideni</sic><corr>hamideni</corr></choice><!-- argr2masc: rather, ha<choice><sic><unclear>n</unclear></sic><corr>m</corr></choice>ideni — limit the correction to the phonemen concerned. By the way, it is a bit weird to combine <unclear> and a correction, unless this is a case of <unclear reason="eccentric-ductus"> --> yaṁ raditya yaṁ vulan· hanəL̥ I hala-hayu
+  <lb n="3"/>vidi <choice><sic>ha<unclear>n</unclear>ideni</sic><corr>hamideni</corr></choice><!-- argr2masc: rather, ha<choice><sic><unclear>n</unclear></sic><corr>m</corr></choice>ideni — limit the correction to the phonemen concerned. By the way, it is a bit weird to combine <unclear> and a correction, unless this is a case of <unclear reason="eccentric-ductus">. masc2argr: The reason why I tagged akṣara n as <unclear> is indeed because its shape looks rather different from the other akṣaras n in this inscription. I was not sure whether it qualified for eccentric-ductus, but I would agree with this solution.--> yaṁ raditya yaṁ vulan· hanəL̥ I hala-hayu
   <lb n="4" break="no"/>ni devamanusa yaṁ hanut ya<unclear>ṁ</unclear> hagave bajaran tapak taṁt<unclear>u</unclear> <choice><orig>kabaḥha</orig><reg>kambaha</reg></choice>
   <lb n="5"/>d<unclear>e</unclear>ni devamanusa muvaḥ saṁ tumon saṁṅ amanah aR̥ṅə luputa
   <lb n="6"/>r<unclear>i</unclear>ṁ Ila-Ila paḍa kadəlana tutur jati</p>
@@ -84,8 +85,10 @@ piṁ buhana hañakra murusa patirtan paL̥maran· hapan yaṁ
                  <note>The <foreign>anunāsika</foreign> is noted with a sign identical to the <foreign>layar</foreign> used elsewhere in this inscription. See Cohen Stuart (1872: 279)</note>
              </app>
              <app loc="1">
-                 <lem source="bib:CohenStuart1872_01">hadidamaluṁ</lem>
+               <lem>ha<choice><orig>d</orig><reg>rd</reg></choice>i damaluṁ</lem>
+                 <rdg source="bib:CohenStuart1872_01">hadidamaluṁ</rdg>
                  <rdg source="bib:CohenStuart1875_01">hadi umaluṁ</rdg>
+                 <note>Damaluṅ is one of the names given to Mt. Merbabu and the term <foreign>hardi</foreign>, albeit part of the toponym, is to be distinguished from the proper noun. The colocations <foreign>Ardi Damaluṅ</foreign> or <foreign>Hardi Pamrihan</foreign> are a common way to refer to this mountain in the colophons of Merapi-Merbabu manuscripts. See Wiryamartono (1993: 505).</note>
              </app>
              <app loc="1">
                  <lem source="bib:CohenStuart1872_01">Uri<lb n="2" break="no"/>piṁ</lem>
