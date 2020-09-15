@@ -69,11 +69,11 @@
   <lb n="1"/>Om̐ sri sarasoti kr̥ta, vukir ha<choice><orig>d</orig><reg>rd</reg></choice>i damaluṁ Uri<lb
 n="2" break="no"/><!-- argr2ms: I have moved the hard returns that you had a the end of each line to stand inside the <lb/>s, as recommended in EGD -->
 piṁ buhana hañakra murusa patirtan paL̥maran· hapan yaṁ
-  <lb n="3"/>vidi <choice><sic>ha<unclear>n</unclear>ideni</sic><corr>hamideni</corr></choice><!-- argr2masc: rather, ha<choice><sic><unclear>n</unclear></sic><corr>m</corr></choice>ideni — limit the correction to the phonemen concerned. By the way, it is a bit weird to combine <unclear> and a correction, unless this is a case of <unclear reason="eccentric-ductus">. masc2argr: The reason why I tagged akṣara n as <unclear> is indeed because its shape looks rather different from the other akṣaras n in this inscription. I was not sure whether it qualified for eccentric-ductus, but I would agree with this solution.--> yaṁ raditya yaṁ vulan· hanəL̥ I hala-hayu
+  <lb n="3"/>vidi <choice><sic>ha<unclear reason="eccentric_ductus">n</unclear>ideni</sic><corr>hamideni</corr></choice><!-- argr2masc: rather, ha<choice><sic><unclear>n</unclear></sic><corr>m</corr></choice>ideni — limit the correction to the phonemen concerned. By the way, it is a bit weird to combine <unclear> and a correction, unless this is a case of <unclear reason="eccentric-ductus">. / masc2argr: The reason why I tagged akṣara n as <unclear> is indeed because its shape looks quite different from the other akṣaras n in this inscription. I was not sure whether it qualified for an eccentric-ductus tag, but I would agree with this solution.--> yaṁ raditya yaṁ vulan· hanəL̥ I hala-hayu
   <lb n="4" break="no"/>ni devamanusa yaṁ hanut ya<unclear>ṁ</unclear> hagave bajaran tapak taṁt<unclear>u</unclear> <choice><orig>kabaḥha</orig><reg>kambaha</reg></choice>
   <lb n="5"/>d<unclear>e</unclear>ni devamanusa muvaḥ saṁ tumon saṁṅ amanah aR̥ṅə luputa
   <lb n="6"/>r<unclear>i</unclear>ṁ Ila-Ila paḍa kadəlana tutur jati</p>
-<p>yen ana <choice><orig>ṅabaḥ</orig><reg>ṅambaḥ</reg></choice><!-- argr2msc: rather,  --> ta
+<p>yen ana ṅa<choice><orig>b</orig><reg>mb</reg></choice>aḥ ta
   <lb n="7" break="no"/>n pabəkəla patik vənaṁ tan pabaktaha histri pituṁ ha<unclear>ja</unclear>ma tan vava
   <lb n="8" break="no"/>dona vastu, <choice><orig>sri syat</orig><reg>śrī syāt</reg></choice> i sakava<unclear>r</unclear>sa <g type="linga">.</g></p>
   <ab><num value="1371">1371</num></ab>
@@ -88,7 +88,7 @@ piṁ buhana hañakra murusa patirtan paL̥maran· hapan yaṁ
                <lem>ha<choice><orig>d</orig><reg>rd</reg></choice>i damaluṁ</lem>
                  <rdg source="bib:CohenStuart1872_01">hadidamaluṁ</rdg>
                  <rdg source="bib:CohenStuart1875_01">hadi umaluṁ</rdg>
-                 <note>Damaluṅ is one of the names given to Mt. Merbabu and the term <foreign>hardi</foreign>, albeit part of the toponym, is to be distinguished from the proper noun. The colocations <foreign>Ardi Damaluṅ</foreign> or <foreign>Hardi Pamrihan</foreign> are a common way to refer to this mountain in the colophons of Merapi-Merbabu manuscripts. See Wiryamartono (1993: 505).</note>
+                 <note>Damaluṅ is one of the names anciently given to Mt. Merbabu and the term <foreign>hardi</foreign>, albeit part of the toponym, is to be distinguished from the proper noun. The colocations <foreign>Ardi Damaluṅ</foreign> or <foreign>Hardi Pamrihan</foreign> are commonly used to refer to this mountain in the colophons of Merapi-Merbabu manuscripts (as for instance in L 187, L 53, L 220, Mal-Pol 165). See Wiryamartana (1993: 505).</note>
              </app>
              <app loc="1">
                  <lem source="bib:CohenStuart1872_01">Uri<lb n="2" break="no"/>piṁ</lem>
