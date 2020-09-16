@@ -28,7 +28,7 @@
                     <licence target="https://creativecommons.org/licenses/by/4.0/">
                         <p>This work is licenced under the Creative Commons Attribution 4.0 Unported Licence. To view a copy of the licence, visit https://creativecommons.org/licenses/by/4.0/ or send
                             a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.</p>
-                        <p>Copyright (c) 2019-2025 by Marine Schoettel &amp; Arlo Griffiths</p><!-- argr2masc: do you have any thoughts about the situations in which and reasons why it might be decided not to follow alphabetical order in listing author names? (I do, and don't necessarily object to the order I see yiou have chosen here, but I want to make sure you are aware of this subject, which can be quite sensitive.)  -->
+                        <p>Copyright (c) 2019-2025 by Marine Schoettel &amp; Arlo Griffiths</p><!-- argr2masc: do you have any thoughts about the situations in which and reasons why it might be decided not to follow alphabetical order in listing author names? (I do, and don't necessarily object to the order I see you have chosen here (and under <respStmt>), but I want to make sure you are aware of this subject, which can be quite sensitive.)  -->
                     </licence>
                 </availability>
                 <date from="2019" to="2025">2019-2025</date>
@@ -49,46 +49,47 @@
                     </msContents>
                     <physDesc>
                         <handDesc>
-                        	<p>Tidy monumental script, with characters profoundly<!-- argr2masc: in English, "profound" is never used for the literal meaning "deep", only to expressive depth in some figurative sense --> engraved. However, some vocalic marks<!-- argr2masc: I'd say "vowel markers", then <foreign> around all the Javanese terms that follow --> (hulu, taling tarung for vocalization o) are not as profoundly<!-- argr2ma: deeply --> engraved as others and are only faintly visible. Note the two different shapes of <foreign>pasangan</foreign> y<!-- argr2msc: foreign here too -->. It seems that the boundary between words is emphasized by <!-- argr2ms: insert here "insertion of" -->a slightly larger space.</p>
+                        	<p>Tidy monumental script<!-- argr2masc: here, the discussion in van der Molen 1983: 95–98 could be cited  -->, with characters profoundly<!-- argr2masc: in English, "profound" is never used for the literal meaning "deep", only to expressive depth in some figurative sense --> engraved. However, some vocalic marks<!-- argr2masc: I'd say "vowel markers", then <foreign> around all the Javanese terms that follow --> (hulu, taling tarung for vocalization o) are not as profoundly<!-- argr2ma: deeply --> engraved as others and are only faintly visible. Note the two different shapes of <foreign>pasangan</foreign> y<!-- argr2masc: see how foreign is used here too -->. It seems that the boundary between words is emphasized by <!-- argr2ms: insert here "insertion of" -->a slightly larger space.</p>
                         </handDesc>
                     </physDesc>
                 </msDesc>
             </sourceDesc>
         </fileDesc>
         <revisionDesc>
-          <change who="part:argr" when="2020-09-15" status="draft">answer to comments and change in apparatus</change>
-        	<change who="part:argr" when="2020-08-14" status="draft">first round of revisions</change>
+        	<change who="part:argr" when="2020-09-16" status="draft">finished first round of comments</change>
+        	<change who="part:masc" when="2020-09-15" status="draft">answer to comments and change in apparatus</change>
+        	<change who="part:argr" when="2020-08-14" status="draft">started first round of revisions</change>
         	<change who="part:masc" when="2020-08-13" status="draft">adding translation</change>
-            <change who="part:masc" when="2020-08-10" status="draft">initial encoding of the inscription</change>
+             <change who="part:masc" when="2020-08-10" status="draft">initial encoding of the inscription</change>
         </revisionDesc>
     </teiHeader>
     <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="kaw-Latn">
 <p>
-  <lb n="1"/>Om̐ sri sarasoti kr̥ta, vukir ha<choice><orig>d</orig><reg>rd</reg></choice>i damaluṁ Uri<lb
-n="2" break="no"/><!-- argr2ms: I have moved the hard returns that you had a the end of each line to stand inside the <lb/>s, as recommended in EGD -->
+  <lb n="1"/>Om̐ sri sarasoti kr̥ta, vukir ha<choice><orig>d</orig><reg>rd</reg></choice>i<!-- argr2masc: nice discovery that we have hardi damalang = Adri Damaluṅ! Do you consider that non-spelling of expected layars is a feature of this writing tradition? If yes, then the case of sakavarsa in line 8 can be treated analogously. If no, then why not use <supplied reason="omitted"> here and in line 8? In either case, the fact that some expected layars are invisible or simply have not been written may merit a note in metadata, and, for want of a better place, can be added to the comments at the bottom of the file. So too the pervasive phenomenon of denasalisation of clusters with the structure NC (on this phenomenon, see Noorduyn & Teeuw 2006).  --> damaluṁ Uri<lb
+n="2" break="no"/><!-- argr2masc: I have moved the hard returns that you had a the end of each line to stand inside the <lb/>s, as recommended in EGD -->
 piṁ buhana hañakra murusa patirtan paL̥maran· hapan yaṁ
-  <lb n="3"/>vidi <choice><sic>ha<unclear reason="eccentric_ductus">n</unclear>ideni</sic><corr>hamideni</corr></choice><!-- argr2masc: rather, ha<choice><sic><unclear>n</unclear></sic><corr>m</corr></choice>ideni — limit the correction to the phonemen concerned. By the way, it is a bit weird to combine <unclear> and a correction, unless this is a case of <unclear reason="eccentric-ductus">. / masc2argr: The reason why I tagged akṣara n as <unclear> is indeed because its shape looks quite different from the other akṣaras n in this inscription. I was not sure whether it qualified for an eccentric-ductus tag, but I would agree with this solution.--> yaṁ raditya yaṁ vulan· hanəL̥ I hala-hayu
-  <lb n="4" break="no"/>ni devamanusa yaṁ hanut ya<unclear>ṁ</unclear> hagave bajaran tapak taṁt<unclear>u</unclear> <choice><orig>kabaḥha</orig><reg>kambaha</reg></choice>
-  <lb n="5"/>d<unclear>e</unclear>ni devamanusa muvaḥ saṁ tumon saṁṅ amanah aR̥ṅə luputa
-  <lb n="6"/>r<unclear>i</unclear>ṁ Ila-Ila paḍa kadəlana tutur jati</p>
-<p>yen ana ṅa<choice><orig>b</orig><reg>mb</reg></choice>aḥ ta
-  <lb n="7" break="no"/>n pabəkəla patik vənaṁ tan pabaktaha histri pituṁ ha<unclear>ja</unclear>ma tan vava
-  <lb n="8" break="no"/>dona vastu, <choice><orig>sri syat</orig><reg>śrī syāt</reg></choice> i sakava<unclear>r</unclear>sa <g type="linga">.</g></p>
+ <lb n="3"/>vidi <choice><sic>ha<unclear reason="eccentric_ductus">n</unclear>ideni</sic><corr>hamideni</corr></choice><!-- argr2masc: rather, ha<choice><sic><unclear>n</unclear></sic><corr>m</corr></choice>ideni — limit the correction to the phoneme concerned. By the way, it is a bit weird to combine <unclear> and a correction, unless this is a case of <unclear reason="eccentric-ductus">. / masc2argr: The reason why I tagged akṣara n as <unclear> is indeed because its shape looks quite different from the other akṣaras n in this inscription. I was not sure whether it qualified for an eccentric-ductus tag, but I would agree with this solution. / argr2masc: after new consideration, why not simply ha<unclear>m</unclear>ideni or even hamideni — from the photos of the stone, I find it rather unproblematic to read hamideni with m and this is  anyhow the reading that we want to get a MJ manifestation of amidhyani. Where did the idea of reading n instead of m come from to begin with? Any variant readings?  --> yaṁ raditya yaṁ vulan· hanəL̥ I hala-hayu<lb 
+n="4" break="no"/>ni deva<!-- argr2masc: insert hyphen here? I am more and more abandoning my restraint in application of hyphens even when context isn't Sanskrit! -->manusa yaṁ hanut ya<unclear>ṁ</unclear> hagave bajaran tapak taṁt<unclear>u</unclear> <choice><orig>kabaḥha</orig><reg>kambaha</reg></choice><!-- argr2masc: limit normalization to <choice><orig>b</orig><reg>mb</reg></choice> and <choice><orig>ḥh</orig><reg>h</reg></choice>, see examples near top of p. 97 of EGD — but if we restore the nasal here, shouldn't we do so everywhere there is a subaudible nasal? if we reduce ḥh to h, should we not also reduce other such geminate spellings?  -->
+  <lb n="5"/>d<unclear>e</unclear>ni deva<!-- argr2masc: insert hyphen -->manusa muvaḥ<!-- argr2masc: is the visarga clear on any photo we have? --> saṁ tumon saṁṅ amanah aR̥ṅə luputa
+  <lb n="6"/>r<unclear>i</unclear>ṁ<!-- argr2masc: the i is clear enough on one of the photos, certaonly clearer than taling/tarung of tumon in the previous line! --> Ila-Ila paḍa kadəlana tutur jati</p>
+<p>yen ana ṅa<choice><orig>b</orig><reg>mb</reg></choice>aḥ<!-- argr2masc: see that you have followed EGD here in appliyng normalization only to the phonemese concerned! contrast case above. But I ask again: if we normalize in some cases, we ought do so more consistently. --> ta<lb 
+n="7" break="no"/>n pabəkəla patik vənaṁ tan pabaktaha histri pituṁ ha<unclear>ja</unclear>ma<!-- argr2masc: I find the ja almost equally clear as the one in bajaran in line 4; from our translation, it seems you have accepted the idea that we have a form of jamah, meaning that we could again restore a subaudible nasal and supply a missing akṣara ha to get hañjamaha. Or else read/emend hajamatan as hajamahan? See next comment. --> ta<!-- argr2masc: the ta isn't really clear to me, but perhaps it is the best choise, indeed. Maybe apply <unclear>? -->n vava<lb 
+n="8" break="no"/>dona vastu, <choice><orig>sri syat</orig><reg>śrī syāt</reg></choice><!-- argr: nice! but maybe just edit sri syat i, and explain in apparatus that this is for Skt. śrī syāt? In fully normal Sanskrit, we'd of course get d instead of t before a vowel, and normalizing towards Sanskrit also raises the difficult issue of whether this should be considered a <foreign> segment of text. We can avoid such choices by merely stating our interpretation in an <app> <note>. --> i sakava<unclear>r</unclear><!-- argr2masc: do we have any photo where any trace of the layar is visible at all? -->sa <g type="linga">.</g><!-- argr2masc: the linga here is certainly not a punctuation sign, which your use of <g>.</g> implies; please re-read EGD 4.2; if we want to treat the linga as a text-internal synbol at all, then we'd have to follow the rule "non-alphabetic glyphs that do not clearly fall into any of the above categories (§4.2.6) are not transliterated with any character, but represented by the empty element  <g/> with an appropriate @type". But we could also encode a <space type="ascender"> or simply state in an <app> <note> that the space between sakavarsa and I is filled by the linga that is part of the stone's iconographic program. See also my comment at bottom of file.  --></p>
   <ab><num value="1371">1371</num></ab>
          </div>
-         <div type="apparatus">
+         <div type="apparatus"><!-- argr2masc: please check agai]n whether all variants from the texts given by Cohen Stuat 1872, 1875 and De Casparis (1975) are duly recorded. -->
            <listApp>
              <app loc="1">
                  <lem source="bib:CohenStuart1872_01">Om̐</lem>
-                 <note>The <foreign>anunāsika</foreign> is noted with a sign identical to the <foreign>layar</foreign> used elsewhere in this inscription. See Cohen Stuart (1872: 279)</note>
+                 <note>The <foreign>anunāsika</foreign> is noted with a sign identical to the <foreign>layar</foreign> used elsewhere in this inscription. See Cohen Stuart (1872: 279).</note><!-- argr2masc: encode bibl. -->
              </app>
              <app loc="1">
-               <lem>ha<choice><orig>d</orig><reg>rd</reg></choice>i damaluṁ</lem>
+               <lem>ha<choice><orig>d</orig><reg>rd</reg></choice>i damaluṁ</lem><!-- argr2masc: used <supplied> for inserting the layar? -->
                  <rdg source="bib:CohenStuart1872_01">hadidamaluṁ</rdg>
-                 <rdg source="bib:CohenStuart1875_01">hadi umaluṁ</rdg>
-                 <note>Damaluṅ is one of the names anciently given to Mt. Merbabu and the term <foreign>hardi</foreign>, albeit part of the toponym, is to be distinguished from the proper noun. The colocations <foreign>Ardi Damaluṅ</foreign> or <foreign>Hardi Pamrihan</foreign> are commonly used to refer to this mountain in the colophons of Merapi-Merbabu manuscripts (as for instance in L 187, L 53, L 220, Mal-Pol 165). See Wiryamartana (1993: 505).</note>
+                 <rdg source="bib:CohenStuart1875_01">hadi umaluṁ</rdg><!-- argr2masc: I suppose this rdg must be reinterpreted as having U instead of u -->
+                 <note>Damaluṅ is one of the names anciently given to Mt. Merbabu and the term <foreign>hardi</foreign>, albeit part of the toponym, is to be distinguished from the proper noun. The colocations <foreign>Ardi Damaluṅ</foreign> or <foreign>Hardi Pamrihan</foreign> are commonly used to refer to this mountain in the colophons of Merapi-Merbabu manuscripts (as for instance in L 187, L 53, L 220, Mal-Pol 165). See Wiryamartana (1993: 505).</note><!-- argr2masc: properly encode the bibl -->
              </app>
              <app loc="1">
                  <lem source="bib:CohenStuart1872_01">Uri<lb n="2" break="no"/>piṁ</lem>
@@ -98,19 +99,19 @@ piṁ buhana hañakra murusa patirtan paL̥maran· hapan yaṁ
          </div>
          <div type="translation" xml:lang="eng" resp="part:masc argr">
    <!--translation encoded as per EGD §9.2 -->
- <p>Om. Made by Śrī Sarasvatī. The mountain Ādidamaluṅ, the life of the Earth, was churning. The bathing place of Paləmaran would overflow, for God Vidhi <supplied reason="explanation">i.e. Brahmā?</supplied> gave instructions <supplied reason="explanation"><foreign>amidhyani</foreign></supplied> to the Sun and the Moon to illuminate the bad and good of divine men, those who seek, those who make a line of succession. The established sacred site will be entered by divine men. And those <supplied reason="explanation"><foreign>paḍa</foreign></supplied> who watch, who are intent, who listen, will be free from defilement, will be invested with memory of <supplied reason="subaudible">former</supplied> lives. Should anyone enter, he shall not come provided with live-stock, shall not bring wives <foreign>pituṅ</foreign> to have intercourse with, shall really <supplied reason="explanation"><foreign>vastu</foreign></supplied> not be obsessed with sex. May there be Fortune! In the Śaka year 1371.</p>
+ <p>Om. Made by Śrī Sarasvatī. The mountain Ādidamaluṅ<!-- argr2masc: Hardi Damaluṅ! -->, the life of the Earth, was churning. The bathing place of Paləmaran would overflow, for God Vidhi <supplied reason="explanation">i.e. Brahmā?</supplied> gave instructions <supplied reason="explanation"><foreign>amidhyani</foreign></supplied> to the Sun and the Moon to illuminate the bad and good of divine men, those who seek, those who make a line of succession. The established sacred site will be entered by divine men. And those <supplied reason="explanation"><foreign>paḍa</foreign></supplied> who watch, who are intent, who listen, will be free from defilement, will be invested with memory of <supplied reason="subaudible">former</supplied> lives. Should anyone enter, he shall not come provided with live-stock, shall not bring wives <foreign>pituṅ</foreign> to have intercourse with, shall really <supplied reason="explanation"><foreign>vastu</foreign></supplied> not be obsessed with sex.<!-- argr2masc: why not split "tan vavadon avastu" — "not obsessed with sex [nor] owning possessions"?  --> May there be Fortune! In the Śaka year 1371.</p>
         </div>
         <div type="translation" xml:lang="ndl" source="bib:Bosch1924_01">
 <p></p>
         </div>
-
          <div type="commentary">
            <p></p>
          </div>
-        <div type="bibliography">
+        <div type="bibliography"><!-- argr2masc: please formulate an epigraphic lemma and enter all relevant bibliography. -->
 	<!--bibliography encoded as per section §9.4 -->
             <p/>
         </div>
       </body>
   </text>
 </TEI>
+<!-- argrmasc: as a reminder, I note here that the presence of the cartouche, corncer circles, and the linga must be recorded in metadata -->

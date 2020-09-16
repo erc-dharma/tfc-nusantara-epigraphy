@@ -68,7 +68,7 @@
          <div type="edition" xml:lang="kaw-Latn">
 <pb n="1r"/><!--Blank outer page.-->
 <p><pb n="1r"/>
-<lb n="1v1"/><g type="ddandaOrnate">.</g>svasti śakavarṣātīta <num value="728">728</num> māgha-māsa navami śukla-pakṣa, <abbr>ha</abbr>, <abbr>U</abbr>, <abbr>vr̥</abbr>, vāra,</p> <p>tatkāla rakai patapān· pu manuku, sumusu<supplied reason="lost">k ika</supplied><lb 
+<lb n="1v1"/><g type="ddandaOrnate">.</g>svasti śakavarṣātīta <num value="728">728</num> māgha-māsa navami śukla-pakṣa, <abbr>ha</abbr>, <abbr>U</abbr>, <abbr>vr̥</abbr>, vāra,</p><p>tatkāla rakai patapān· pu manuku, sumusu<supplied reason="lost">k ika</supplied><lb 
                      n="1v2" break="no"/>naṁ lmaḥ I muṇḍuAn· muAṁ I haji huma, padmaknira I vaduĀnira saṁ patoran·, buAt-hajyanya makmitana<!-- read ī? --> vivi ramvaiya makna p<gap reason="lost" quantity="2" unit="character"/><!-- not sure about p, and the defintion of the extent of the gap to be made more accurate, in terms of parts of akṣaras rather than whole akṣaras. At most, there is one more whole akṣara after the one that begins with p, if that reading is correct. what about reading maknā, maknāna, maknā I? -->
 <lb n="1v3"/>luAni kuramvit· saṁ hyaṁ taṇḍa I patapān· I dlāhaniṁ dlāha, ṅaranyan· pakmitan· vivi saṁ madmak·, dadi ya magavai pomaha<supplied reason="lost">n·</supplied>
 <lb n="1v4"/>I vindu-vindunikanaṁ lmaḥ,</p> <p>yā ta prastāvanyan· I vala vindu ṅaranikana pomahanya, matəhər· ya Inanugrahān· tan· ka<lb 
@@ -178,8 +178,10 @@ n="2r5" break="no"/><gap reason="lost" quantity="1" unit="character"/><unclear>l
                     </bibl>
                   </listBibl>
             <listBibl type="secondary">
+	<bibl><ptr target="bib:Lombard1971_01"/><citedRange unit="page">286</citedRange></bibl>
+<!-- summary of Moh. Oemar's paper -->
                 <bibl><ptr target="bib:Weatherbee2000_01"/><citedRange unit="page">349</citedRange><citedRange unit="note">13</citedRange></bibl>
-                <!-- ekba 2 argr: I changed the page number from  347 (your note) to 349 where the footnote 13 is found, let me know if  my understanding is wrong-->
+                <!-- Incoherence between date 748 Ś = 826 CE read by Moh. Oemar and mention of Rakai Patapan Pu Manuku whose other occurrences on inscriptions date to 850 and 853. Problem becomes worse if one reads 728 Ś! -->
              <bibl></bibl>
            </listBibl>
         </div>
