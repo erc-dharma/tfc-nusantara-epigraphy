@@ -17,7 +17,11 @@
                 	</persName>
                 </respStmt>
                 <respStmt>
-                    <resp>intellectual authorship of edition</resp>
+                    <resp>intellectual authorship of edition</resp><!-- argr2ekba: for such a case where we basically have to reproduce an existing edition, I suggest we pity the original editor's names first -->
+                	<persName ref="http://viaf.org/viaf/3358750">
+                		<forename>Willem Frederik</forename><!-- argr2ekba: please replace all cases of "W.F." by these full names in all our zotero entries for Stutterheim -->
+                		<surname>Stutterheim</surname>
+                	</persName>
                     <persName ref="part:argr">
                         <forename>Arlo</forename>
                         <surname>Griffiths</surname>
@@ -57,44 +61,84 @@
             </sourceDesc>
         </fileDesc>
     	<revisionDesc>
-    	    <change who="part:ekba" when="2020-09-09" status="draft">initial encoding of the inscription</change>
+    		<change who="part:argr" when="2020-09-16" status="draft">first round of revisions</change>
+    	    	<change who="part:ekba" when="2020-09-09" status="draft">initial encoding of the inscription</change>
         </revisionDesc>
     </teiHeader>
     <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="kaw-Latn">
 <p><pb n="1r"/>
-<lb n="1r1"/><g type="ddandaPlain">.</g> <g type="circleSmall">.</g> <g type="ddandaPlain">.</g> svasti śakavarṣātīta 849 beśākhamāsa tithi pratipāda śuklapakṣa <gap reason="lost" extent="unknown" unit="character"/>	
-<lb n="1r2"/>vāra bhariṇi nakṣatra yoga devatā, tatkāla śri mahārāja pu vagīśvara saṁ la<unclear>ra</unclear><gap reason="lost" extent="unknown" unit="character"/>
-<lb n="1r3"/><unclear>r</unclear> tumurun anugrahanira I rakryān· mapatiḥ tinaḍaḥ samgat· Amrāti sam<gap reason="lost" extent="unknown" unit="character"/>
-<lb n="1r4"/>Aṅ tiruAn· vadihati makudur umagəḥhakan· Ikaṁ śīma I paL̥buhan· tan· kna ri <gap reason="lost" extent="unknown" unit="character"/>
-<lb n="1r5"/>ra tan· katamāna de pakriṁ paḍam· tuha, dagaṁ vatək· I jro, mamr̥ṣi piniṅle, kataṅgaran ·<gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">mapaḍa</supplied>-	
-<lb n="1r6"/>hi maṅiduṁ valyan· Uṇḍahagi paṇḍay mās paṇḍay vsi saprakārani drabya haji ki<supplied reason="lost">lalān·</supplied> <gap reason="lost" extent="unknown" unit="character"/>
-<lb n="1r7"/>saṁ hyaṁ L̥buḥ Ataḥ pramāṇa Iriya, kunaṁ sakveḥniṁ dr̥bya haji kilalān· ve<gap reason="lost" extent="unknown" unit="character"/>
-<lb n="1r8"/>v-bya siṅhala paṇḍikira mamvaṁ ramman· huñjamān· kutak· banyāga bantal· tan·  <gap reason="lost" extent="unknown" unit="character"/>
-<lb n="1r9"/>molaha I saṁ hyaṁ I paL̥buhan· maparā māvara Ikanaṁ kunaṁ sukhaduḥkhanya <gap reason="lost" extent="unknown" unit="character"/>
+<lb n="1r1"/><g type="ddandaPlain">.</g> <g type="circleSmall">.</g> <g type="ddandaPlain">.</g><!-- argr2ekba: at the beginning of a text, we are not dealing with punctuation signs, so I'd encode like this <g type="ddandaPlain"/> <g type="circleSmall"/> <g type="ddandaPlain"/> — please re-read the whole of EGD 4.2 --> svasti śakavarṣātīta 849<!--argr2ekba: don't forget to tag with <num> and @value  --> beśākha-māsa tithi pratipāda śukla-pakṣa <gap reason="lost" extent="unknown" unit="character"/>	
+<lb n="1r2"/>vāra bhariṇi-nakṣatra yoga devatā,</p> <p>tatkāla śrī mahārāja pu văgīśvara saṁ la<unclear>ra</unclear><gap reason="lost" extent="unknown" unit="character"/>
+<lb n="1r3"/><!-- argr2ekba: see EGD 3.2.4, so insert break="no" --><unclear>r</unclear> tumurun anugrahanira I rakryān· mapatiḥ tinaḍaḥ samgat·<!-- argr2ekba: I think we should put <abbr> around all cases of samgat, which is an abbreviation for saṁ pamgat. --> Amrāti sam<gap reason="lost" extent="unknown" unit="character"/>
+<lb n="1r4"/>Aṁ tiruAn· vadihati makudur· Umagəḥhakan· Ikaṁ śīma I paL̥buhan· tan· kna ri <gap reason="lost" extent="unknown" unit="character"/>
+<lb n="1r5"/>ra tan· katamāna de pakriṁ paḍam· tuha, dagaṁ vatək· I jro, mamr̥ṣi piniṅle, kataṅgaran· <gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">mapada</supplied>-<!-- argr2ekba: remove this hyphen, remove hard return, insert break="no" in next <lb/> -->	
+<lb n="1r6"/>hi maṅiduṁ valyan· Uṇḍahagi paṇḍay· mās paṇḍay· vsi saprakārani drabya haji ki<supplied reason="lost">lalān</supplied> <gap reason="lost" extent="unknown" unit="character"/>
+<lb n="1r7"/>saṁ hyaṁ L̥buḥ Ataḥ pramāṇa Iriya, kunaṁ sakveḥniṁ dr̥bya haji kilalān· <unclear>k</unclear><supplied reason="lost">liṅ ā</supplied><lb 
+n="1r8" break="no"/><unclear>ryya</unclear> siṅhala paṇḍikira mamvaṁ ramman· huñjamān· kutak· banyāga bantal· tan·  <gap reason="lost" extent="unknown" unit="character"/>
+<lb n="1r9"/>molaha I saṁ hyaṁ I paL̥buhan· maparā māvara<!-- see HBS's note on the words maparā māvara --> Ikanaṁ</p> <p>kunaṁ sukhaduḥkhanya <gap reason="lost" extent="unknown" unit="character"/>
 <lb n="1r10"/>riṁ śīma vaḥ tan· pamayaṁ vipatti prakāra saṁ hyaṁ L̥buḥ Ataḥ pramāṇā rikā kabaiḥ <gap reason="lost" extent="unknown" unit="character"/> 
-<lb n="1r11"/><gap reason="lost" extent="unknown" unit="character"/>dval· salvirniṁ sambyavahāra Anuṁ salaha kaṁ tuhān iṁ <unclear>sa</unclear><supplied reason="lost">śīma</supplied> <gap reason="lost" extent="unknown" unit="character"/> <unclear>kbo</unclear>
+<lb n="1r11"/><gap reason="lost" extent="unknown" unit="character"/>dval· salvirniṁ sambyavahāra Anuṁ salaha kaṁ tuhān iṁ <unclear>sa</unclear><supplied reason="lost">śīma</supplied> <gap reason="lost" extent="unknown" unit="character"/> <unclear>kbo</unclear><!-- argr2ekba: square brackets in Stutterheim's edition mean you must encode with <supplied reason="lost"> -->
 <pb n="1v"/>
-<lb n="1v1"/><num value="20">20</num> sapi <num value="40">40</num> vḍus· <num value="80">80</num> Aṇḍaḥ tluṁ vantayan· gulungan· maṅaraḥ <gap reason="lost" extent="unknown" unit="character"/><unclear>pi
-</unclear><lb n="1v2" break="no"/>nikul· dvalya, basanādi maśayaṁ makacapuri,  kapas· paḍat· L̥ṅa, bras· gula ka<gap reason="lost" extent="unknown" unit="character"/>
+<lb n="1v1"/><num value="20">20</num> sapi <num value="40">40</num> vḍus· <num value="80">80</num> Aṇḍaḥ tluṁ vantayan· guluṅan· <num value="3">3</num> maṅaraḥ <gap reason="lost" extent="unknown" unit="character"/><unclear>pi
+</unclear><!-- argr2ekba: again, the proper encoding is with <supplied> --><lb n="1v2" break="no"/>nikul· dvalya, basanādi maśayaṁ makacapuri,  kapas· paḍat· L̥ṅa, bras· gula ka<gap reason="lost" extent="unknown" unit="character"/>
 <lb n="1v3"/>sumba, Ityevamādi saprakārani pinikul kānam· bantal ataḍaḥ Iṁ satuhān· ta<gap reason="lost" extent="unknown" unit="character"/>
-<lb n="1v4"/>paṇḍay vsi paṇḍay tamvaga tluṁ ṅububan iṁ saśīma macadar· pat paramva yan· riṁ tirvan· <gap reason="lost" extent="unknown" unit="character"/>
-<lb n="1v5"/><gap reason="lost" extent="unknown" unit="character"/>nya <num value="3">3</num> tan· patuṇḍana masuhara <num value="8">8</num> yan· riyaṅin-aṅin· vadihati makudur· parahva I <unclear>prar</unclear><gap reason="lost" extent="unknown" unit="character"/>
-<lb n="1v6"/>ṇḍan· suharanya <num value="3">3</num> patiḥ vasaḥ, kuci maL̥buḥ Iṁ srādhan· parahvanya <num value="1">1</num> masuhara <num value="3">3</num> tan· patuṇḍanya <gap reason="lost" extent="unknown" unit="character"/>
-<lb n="1v7"/>ya tan· katamāna de saṁ maṅilala dr̥bya haji, miśra paramisra kabaiḥ ndān· pānamakmitanna surat· praṣa<gap reason="lost" extent="unknown" unit="character"/> 
+<lb n="1v4"/>paṇḍay· vsi paṇḍay· tamvaga tluṁṅ ububan iṁ saśīma macadar· pat paramva yan· riṁ tirvan· <gap reason="lost" extent="unknown" unit="character"/>
+<lb n="1v5"/><gap reason="lost" extent="unknown" unit="character"/>ṇya <num value="3">3</num> tan patuṇḍana masu<supplied reason="omitted">ṁ</supplied>hara <num value="8">8</num> yan· riy aṅin-aṅin· vadihati makudur· parahva I <unclear>prar</unclear><gap reason="lost" extent="unknown" unit="character"/>
+<lb n="1v6"/>ṇḍan su<supplied reason="omitted">ṁ</supplied>haranya <num value="3">3</num> patiḥ vasaḥ, kuci maL̥buḥ Iṁ srādhan· parahvanya <num value="1">1</num> masu<supplied reason="omitted">ṁ</supplied>hara <num value="3">3</num> tan· patuṇḍanya <gap reason="lost" extent="unknown" unit="character"/>
+<lb n="1v7"/>ya tan· katamāna de saṁ maṅilala dr̥bya haji, miśra paramisra kabaiḥ ndān· pānamakmitanna<!-- split pāna makmitanna? ndān is often directly followed by makmitana --> surat praṣa<supplied reason="lost">sti</supplied>
 <lb n="1v8"/>yāpvan· L̥viḥ saṅkerikā pahi Iriya kinnāna sakaL̥viḥnya de saṁ maṅilala soddhā<supplied reason="lost">ra</supplied><gap reason="lost" extent="unknown" unit="character"/>
-<lb n="1v9"/>rai kacambul uṇḍahagi, mañavriṁ maṅlākha, maṅapus· maṅubar· manahab· manuk·, maṅdyūn· ma<gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost">I</supplied>
-<lb n="1v10"/>tyevamādi yekā salaha Anūṁ pramāṇā riya saṁ AL̥buḥ maṅkāna Ājñā śrī mahārāja <gap reason="lost" extent="unknown" unit="character"/>
+<lb n="1v9"/>rai kacambul uṇḍahagi, 
+<!-- cf. EB I, Paguyangan (Badung): tan kna pamli haji ri ma(4)ñumbul mvaṅ riṅ gulma, təhər tan karapana deniṅ akarapa, tan vaduṅana deniṅ uṇḍahagi -->
+mañavriṁ maṅlākha, maṅapus· maṅubar· manahab· manuk·, maṁdyūn· ma<gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost">I</supplied><!-- argr2ekba: remove hard return after this, and insert break="no" into the next <lb/> -->
+<lb n="1v10"/>tyevamādi yekā salaha Anūṁ pramāṇā riya saṅ aL̥buḥ maṅkāna Ājñā śrī mahārāja <gap reason="lost" extent="unknown" unit="character"/>
 <lb n="1v11"/>ri garuṁ‚ kaprayātnākna saṁ prabhu makaphalā tan· punaruktā saṁ hyaṁ śīma ri dlāhaniṁ dlāha <g type="ddandaPlain">.</g> <g type="circleSmall">.</g> <g type="ddandaPlain">.</g> <g type="circleSmall">.</g> <g type="ddandaPlain">.</g></p>
          </div>
          <div type="apparatus">
            <!--apparatus encoded as per EG §9.1, basic elements for apparatus below-->
                <listApp>
-                   <app></app>
+<app loc="1r2">
+<lem source="bibl:Stutterheim1935_02">saṁ la<unclear>ra</unclear><gap reason="lost" extent="unknown" unit="character"/></lem>
+<note>Sarkar (<bibl rend="omitname"><ptr target="bib:Sarkar1971-1972_01"/>
+                    <citedRange unit="volume">2</citedRange>
+                      <citedRange unit="page">219</citedRange>
+                      <citedRange unit="note">17</citedRange>
+                    </bibl> proposed to read <foreign>saṁ lumaḥ</foreign>, but his translation itself reveals that this is not persuasive. Perhaps one could supply more, to obtain both here and in 1v10–11 <foreign>saṁ lumaḥ ri garuṁ</foreign>.</note>
+</app>
+            <app loc="1r7">
+	<lem><unclear>k</unclear><supplied reason="lost">liṅ ā</supplied><lb n="1r8" break="no"/><unclear>ryya</unclear></lem>
+	<rdg source="bibl:Stutterheim1935_02">ve<gap reason="lost" extent="unknown"/><lb n="1r8"/>v-bya</rdg>
+	<note>Stutterheim's reading, with its unexplained hyphen, does not yield a sense. Since not a single epigraphic context is known where a list of <foreign>kilalān</foreign> contains the item <foreign>paṇḍikira</foreign> without this being separated from the word <foreign>kilalān</foreign> by the precise words <foreign>kliṅ āryya siṅhala</foreign>, I feel convinced that Stutterheim's <foreign>ve</foreign> must have been a misreading for the <foreign>k</foreign> component of the akṣara <foreign>kli</foreign> whose remainder was lost with the severing of a fragment from the plate, while his <foreign>v-bya</foreign> must have been a misreading of <foreign>ryya</foreign>.</note>
+</app>
+<app loc="1v2">
+<lem source="bibl:Stutterheim1935_02">bras· gula ka<gap reason="lost" extent="unknown" unit="character"/><lb n="1v3"/>sumba</lem>
+<note>I suspect that the elipsis in Stutterheim's reading is a mistake, and that the original read <foreign>bras· gula kasumba </foreign> without any lacuna.</note>
+</app>
+<app loc="1v5">
+	<lem>masu<supplied reason="omitted">ṁ</supplied>hara</lem>
+	<rdg source="bibl:Stutterheim1935_02">masuhara</rdg>
+</app>
+<app loc="1v6">
+	<lem>ṇḍan su<supplied reason="omitted">ṁ</supplied>haranya</lem>
+	<rdg source="bibl:Stutterheim1935_02">ṇḍan suharanya</rdg>
+</app>
+<app loc="1v6">
+	<lem>masu<supplied reason="omitted">ṁ</supplied>hara</lem>
+	<rdg source="bibl:Stutterheim1935_02">masuhara</rdg>
+</app>
+<app loc="1v7">
+<lem source="bibl:Sarkar1971-1972_01">surat praṣa<supplied reason="lost">sti</supplied></lem>
+<rdg source="bibl:Stutterheim1935_02">praṣa<gap reason="lost" extent="unknown" unit="character"/></rdg>
+<note>Sarkar's restitution is supported by an occurrences of <foreign>surat praśasti</foreign> in the Kasugihan inscription, line 1v1.</note><!-- encode link to Kasugihan file -->
+</app>
+<app loc="1v10">
+<lem source="bibl:Stutterheim1935_02">śrī mahārāja <gap reason="lost" extent="unknown" unit="character"/><lb n="1v11"/>ri garuṁ</lem>
+<note>As suggested above, in my note on 1rv, one could think of restoring <foreign>śrī mahārāja saṁ lumaḥ ri garuṁ</foreign>.</note>
+</app>
                </listApp>         
          </div>
-         <div type="translation" xml:lang="eng" resp="part:argr">
+         <div type="translation" xml:lang="eng" resp="part:argr"><!-- please encode this literally as Sarkar's translation, so use @source rather than @resp; follow EGD; I will make my own translation in due course -->
  	<!--translation encoded as per EG §9.2 -->
                                     <!--taken from that published by H.B. Sarkar.-->
 <p n="1r1">Hail ! The śaka year expired, 849, the month of Vaiśākha, first day of the bright half of the month,...</p>
@@ -120,30 +164,32 @@
 <p n="1v9">.........black paints, wood-work, purple-red paints, lac‚ spinning (?), red paints (?), the ensnaring of birds, the making of pots</p>	
 <p n="1v10">and so forth. If any body violates these (regulations), saṁ AL̥buḥ shall have (a voice of) authority over them. Such is
 the command of the illustrious great king......</p>
-<p n="1v11">of Garung. May kings take care (of this edict), the consequnces (hereof) being that the sacred free-hold may not again
+<p n="1v11">of Garung. May kings take care (of this edict), the consequences (hereof) being that the sacred free-hold may not again
 become the subject of discussion in the remotest future !</p>         
          </div>
          <div type="commentary">
             <!--commentary encoded as per section §9.3 -->
+	<p n="1r2-3">Cf. the <ref target="Garung.xml">Garung inscription</ref>, line 2: <foreign>tatkāla rakarayān i garuṁ tumurun ājñānira</foreign>.</p>
+	<p n="1v11">Cf. the <ref target="Guntur.xml">Guntur inscription</ref>, lines 1v4–5: <foreign>sugyan ta<unclear reason="eccentric_ductus">m</unclear>ān paṅujara ya muvaḥ dlāhaniṁ dlāha ya donikeṁ jayapātra</foreign>./</p>
      <p></p>
          </div>
         <div type="bibliography">
 	<!--bibliography encoded as per section §9.4 -->
-            <p>First edited by Stutterheim (<bibl rend="omitname"><ptr target="Stutterheim1935_02"/></bibl>). Reproduction of Stutterheim’s edition, to which is added a translation into English, by H.B. Sarkar (<bibl rend="omitname"><ptr target="bib:Sarkar1971-1972_01"/></bibl>); Re-edited here by Arlo Griffiths from ???.</p>
+            <p>First edited, with translation into Dutch, by Stutterheim (<bibl rend="omitname"><ptr target="Stutterheim1935_02"/></bibl>), on the basis of a rubbing. Reproduction of Stutterheim’s edition, to which is added a translation into English, by H.B. Sarkar (<bibl rend="omitname"><ptr target="bib:Sarkar1971-1972_01"/></bibl>); re-edited here by Arlo Griffiths on the solve basis of Stutterheim's edition, because the original plate and the rubbing seem to have been lost.</p>
             <listBibl type="primary">
-                    <bibl n="S1">
+                    <bibl n="WFS">
                       <ptr target="bib:Stutterheim1935_02"/>
                       <citedRange unit="page">433-435</citedRange>
                       <citedRange unit="item" >1</citedRange>
                     </bibl>
-                <bibl n="S2">
+                <bibl n="HBS">
                       <ptr target="bib:Sarkar1971-1972_01"/>
                     <citedRange unit="volume">2</citedRange>
                       <citedRange unit="page">215-220</citedRange>
                       <citedRange unit="item">93</citedRange>
                     </bibl>
                   </listBibl>
-            <listBibl type="secondary">
+            <listBibl type="secondary"><!-- argr2ekba: you can encode a reference to Damais 1970 here, as listed by Nakada no. I.118, and the reference to Nakada itself. See how I have done it in the Guntyur file. -->
              <bibl></bibl>
            </listBibl>
         </div>
