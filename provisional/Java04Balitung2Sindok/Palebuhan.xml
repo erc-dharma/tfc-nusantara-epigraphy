@@ -61,7 +61,7 @@
             </sourceDesc>
         </fileDesc>
     	<revisionDesc>
-    	                                   <change who="part:argr" when="2020-09-17" status="draft">revised the encoding as suggested by argr</change>
+    	               <change who="part:ekba" when="2020-09-17" status="draft">revised the encoding as suggested by argr</change>
     		<change who="part:argr" when="2020-09-16" status="draft">first round of revisions</change>
     	    	<change who="part:ekba" when="2020-09-09" status="draft">initial encoding of the inscription</change>
         </revisionDesc>
@@ -191,11 +191,33 @@ become the subject of discussion in the remotest future !</p>
                     </bibl>
                   </listBibl>
             <listBibl type="secondary">
-             <bibl><bibl><ptr target="bib:Damais1970_01"/><citedRange unit="page">53</citedRange><citedRange unit="item">160</citedRange></bibl>
-                 <bibl><ptr target="bib:Nakada1982_01"/><citedRange unit="page">100-101</citedRange><citedRange unit="part">1</citedRange><citedRange unit="item">118</citedRange></bibl>    
+            	 <bibl><ptr target="bib:Damais1970_01"/><citedRange unit="page">53</citedRange><citedRange unit="item">160</citedRange>
+               <bibl><ptr target="bib:Nakada1982_01"/><citedRange unit="page">100-101</citedRange><citedRange unit="part">1</citedRange><citedRange unit="item">118</citedRange></bibl>    
              </bibl>
            </listBibl>
         </div>
       </body>
   </text>
 </TEI>
+<!-- Si tu as l’énergie qu’il faut, je voudrais que tu relises les pages 422-432 de Stutterheim. Brillant comme à sa coutume (savourer surtout la phrase « Zie ik geen overwegende bezwaren … », qui commence à la p. 425!), mais également beaucoup trop réticent à reconnaître la possibilité que plusieurs centres de pouvoir peuvent avoir coexisté à Java en même temps. Je ne crois rien de son idée que ce pauvre roitelet Vāgīśvara était le jeune Sindok. Cela n’aide pas qu’il retient encore la date 849 pour Guntur, que Goris avait déjà corrigé en 829 dans OV 1928. Mais la comparaison avec KO XVIII (MNI E. 1-I, photo jointe), et son drôle de śrī mahārāja vāgīśvara saṅ lumaḥ ri kayu ramya, est fascinante. (Malgré tout ce qu’elle a de repoussoir, cette tablette mérite probablement que je m’y plonge.)
+
+Nonobstant le refus de Stutterheim d’y croire lui même, je suis tenté par la possibilité de remplir les lacunes dans A2 et B10 de la façon suivante
+
+A2 śrī mahārāja pu văgīśvara saṁ l[umaḥ ri garuṁ]
+B10 śrī mahārāja [saṁ lumaḥ] ri garuṁ
+
+On aura alors dans A2-3 la phrase 
+        tatkāla śrī mahārāja pu văgīśvara saṁ l[umaḥ ri garuṁ] tumurun anugrahanira
+ce qui résonne joliment avec la phrase
+        tatkāla rakarayān i garuṁ tumurun ājñānira
+dans la même positions du texte dans la tablette de Pengging.
+
+Je ne me prononce pas encore sur la question comment un roi défunt pourrait émettre un édit, mais la belle phrase de Stutterheim indique peut-être la voie.
+
+Qu’est-ce que tu penses donc de Garung:
+        - Lien avec le roi rakai Garung?
+        - Identification du lieu dans les alentours de Dieng correcte?
+        - Possibilité que Kayu Ramya = Garung?
+        - Possibilité qu’il y a eu plusieurs lieux Garung?
+
+ -->
