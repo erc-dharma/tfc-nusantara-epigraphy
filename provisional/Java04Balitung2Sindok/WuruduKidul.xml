@@ -22,38 +22,35 @@
 				</respStmt>
 			</titleStmt>
 			<publicationStmt>
-				<authority>DHARMA <note>This project has received funding from the European Research
-						Council (ERC) under the European Union's Horizon 2020 research and
-						innovation programme (grant agreement no 809994).</note>
+				<authority>DHARMA <note>This project has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</note>
 				</authority>
 				<pubPlace>Lyon</pubPlace>
 				<idno type="filename">WurudKidul</idno>
 				<availability>
 					<licence target="https://creativecommons.org/licenses/by/4.0/">
-						<p>This work is licensed under the Creative Commons Attribution 4.0 Unported
-							Licence. To view a copy of the licence, visit
-							https://creativecommons.org/licenses/by/4.0/ or send a letter to
-							Creative Commons, 444 Castro Street, Suite 900, Mountain View,
-							California, 94041, USA.</p>
+						<p>This work is licensed under the Creative Commons Attribution 4.0 Unported Licence. To view a copy of the licence, visit https://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.</p>
 						<p>Copyright (c) 2019-2025 by Arlo Griffiths.</p>
 					</licence>
 				</availability>
 				<date from="2019" to="2025">2019-2025</date>
 			</publicationStmt>
-			<sourceDesc><!-- only the handDesc can be filled in at this stage -->
-				<msDesc><!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
+			<sourceDesc>
+				<!-- only the handDesc can be filled in at this stage -->
+				<msDesc>
+					<!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
 					<msIdentifier>
 						<repository>DHARMAbase</repository>
-						<idno/><!-- don't modify this -->
+						<idno/>
+						<!-- don't modify this -->
 					</msIdentifier>
-					<msContents><!-- describe the intellectual content of an inscription -->
-						<summary><!-- //// NOT MANDATORY  ////--></summary> <!-- offers the possibility to give a summary of the inscription's content -->
+					<msContents>
+						<!-- describe the intellectual content of an inscription -->
+						<summary><!-- //// NOT MANDATORY  ////--></summary>
+						<!-- offers the possibility to give a summary of the inscription's content -->
 					</msContents>
 					<physDesc>
 						<handDesc>
-							<p>Pepet takes shape of ulu with two dots inside;
-								Ornamental counterclockwise top flourish as -ā as in kilalān (1r4, 1r6, etc.), lāvan; and in ñā (tinañān), By contrast, tarung on l takes shape of clockwise stroke at bottom right in vuruḍu lor·.
-<!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EGD 11.2. --></p>
+							<p>Pepet takes shape of ulu with two dots inside; Ornamental counterclockwise top flourish as -ā as in kilalān (1r4, 1r6, etc.), lāvan; and in ñā (tinañān), By contrast, tarung on l takes shape of clockwise stroke at bottom right in vuruḍu lor·. <!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EGD 11.2. --></p>
 						</handDesc>
 					</physDesc>
 				</msDesc>
@@ -67,40 +64,22 @@
       <body>
          <div type="edition" xml:lang="san-Latn"><!-- update the @xml:lang value, see EGD §7.2-->
    <p><pb n="1r"/><lb n="1r1"/><g type="ddanda"/> svasti śaka-varṣātīta <num value="844">844</num> baisākha-māsa, tithi sāṣṭi<!-- or ī? --> <abbr>kr̥ṣṇa</abbr>, <abbr>vā</abbr>, <abbr>va</abbr>, <abbr>śā</abbr><!-- unclear on photo: could be śa, śani -->,
-<lb n="1r2"/>vāra, Irikā divasa saṁ dhanadī vvaṁ Iṁ vuruḍu kidul· vatǝk· halaran· vinaiḥ surat· jaya<lb 
-n="1r3" break="no"/>pātra kmitananya, sambandha saṁ dhanadī Inujar· <abbr>samgǝt·</abbr> maṁhuri maṅaran· vukajana, sina<lb 
-n="1r4" break="no"/>ṅguḥ, vka kilalān· i maṅhuri, kunaṁ An· pabyavāhārā ḍataṁ ta ya I saṁ tuhān· I paḍaṁ
+<lb n="1r2"/>vāra, Irikā divasa saṁ dhanadī vvaṁ Iṁ vuruḍu kidul· vatǝk· halaran· vinaiḥ surat· jaya<lb n="1r3" break="no"/>pātra kmitananya, sambandha saṁ dhanadī Inujar· <abbr>samgǝt·</abbr> maṁhuri maṅaran· vukajana, sina<lb n="1r4" break="no"/>ṅguḥ, vka kilalān· i maṅhuri, kunaṁ An· pabyavāhārā ḍataṁ ta ya I saṁ tuhān· I paḍaṁ
 <lb n="1r5"/>Iṁ pakaraṇān· makabaihan· tlas· rumuhun· ri saṁ pamgǝt·, kinonakan· svavargā<!-- PKMN sva vargā -->
-<lb n="1r6"/>saṁ dhanadī kabaiḥ petan· sigi-sigīn· yan· hana lava-lava An vka kilalān· ri maṁ<lb 
-n="1r7"/>huri kavvī-bvītan· saṁ dhanadī, kakinya, kvinya, mvaṁ yan· hana vvaṁ Udāśīna vka-vkaniṅ vaṁ yukti
+<lb n="1r6"/>saṁ dhanadī kabaiḥ petan· sigi-sigīn· yan· hana lava-lava An vka kilalān· ri maṁ<lb n="1r7"/>huri kavvī-bvītan· saṁ dhanadī, kakinya, kvinya, mvaṁ yan· hana vvaṁ Udāśīna vka-vkaniṅ vaṁ yukti
 <lb n="1r8"/>vnaṅa manarimākna saṁ dhanadī An· tan· vka kilalān· kavvī-bvītanya ṅūni, ri saṁ Atīta-prabhu,
 <lb n="1r9"/>kunaṁ I ḍataṁni svavarganya<!-- PKMN sva varganya --> kabaiḥ, lāvan· Ikāṅ vaṁ Udāśīna, I griḥ, I kahuripan·, I
-<lb n="1r10"/>paniṁlaran·, tinañān·<!-- PKMN tinañan --> ya de saṁ pamgǝt· mvaṁ saṁ tuhān·, tan· mevǝḥ sahurnya ka⌈<lb 
-n="1r11" break="no"/>baiḥ vnaṅa manarima kosapāna, An· tan· hana lavalyevamātra An· tan· vka kila<lb 
-n="1r12" break="no"/>lān· I maṁhuri saṁ dhanadī, kakinya kvinya puyut·nya ṅūni riṅ ăsīt·kāla vvaṁ yukti Ataḥ tuha<lb 
-n="1r13" break="no"/>-tuha <space type="descender"/>saṁ dhanadī, maṅkana līṁnikanaṁ Udāśīna ṅunivaiḥ svavarganikā<!-- PKMN sva varganya nikā--> saṁ dhanadī mvaṁ Ikaṁ rāma Iṁ buruḍu sapa<lb 
-n="1r14" break="no"/>suk vanva rarai matuha ya ta mataṁnyan· vineḥ surat· pagǝ<space type="descender"/>-pagǝḥ kmitananya de saṁ pamgat· I paḍaṁ pu bha<lb 
-n="1r15" break="no"/>dra mvaṁ<!-- PKMN vmaṁ> --> <abbr>samgǝt·</abbr> lucǝm· pvānanta tuhāni<!-- read anusvāra here? it seems visible --> kanayakān· pu sumiṁ juru lampuran· rake roṅga, nāhan· si<lb 
-n="1r16" break="no"/>ra mavai<supplied reason="omitted">ḥ</supplied><!-- or use unclear here? --> jayapātra, yathānya tan· hanāvuvusa riṁ dlahaniṁ dlaha<!-- read dlaha 2x or dlāha 2x? --> <unclear>Ā</unclear>pan· huvus· mabuṅaḥ<!--maṅulaḥ?--> <unclear cert="low">kavive</unclear><pb n="1v" break="no"/><lb 
-n="1v1" break="no"/><unclear cert="low">kā</unclear>ṇ<seg type="component" subtype="subscript"><gap reason="illegible" quantity="2" unit="component"/></seg>, tatra sākṣī saṁ hadǝAn·<!-- why not hadiAn·? --> Apatiḥ saṁ kiraṭā,<!-- kirăṭāḥ? comma omitted by previous scholars--> vahuta maraṅin· saṁ bābru, pagǝrruyuṁ<!-- PKMN paṅgǝrruyuṁ --> saṁ ka<lb n="1v2" break="no"/>ṇḍya<space type="descender"/>l·, rāma tpi siriṁ I griḥ saṁ tyanta, saṁ kranti, saṁ ñuṅul·, saṁ vrati, I vuruḍu lor· saṁ kavat· saṅ a<lb 
-n="1v3" break="no"/>bi <space type="descender"/>I kahuripan· saṁ guha, mvaṁ rāmanta I halaran· sapasuk· vanva<!-- reads banva? --> grāma bihāra kabikuAn·, vinkas·
+<lb n="1r10"/>paniṁlaran·, tinañān·<!-- PKMN tinañan --> ya de saṁ pamgǝt· mvaṁ saṁ tuhān·, tan· mevǝḥ sahurnya ka⌈<lb n="1r11" break="no"/>baiḥ vnaṅa manarima kosapāna, An· tan· hana lavalyevamātra An· tan· vka kila<lb n="1r12" break="no"/>lān· I maṁhuri saṁ dhanadī, kakinya kvinya puyut·nya ṅūni riṅ ăsīt·kāla vvaṁ yukti Ataḥ tuha<lb n="1r13" break="no"/>-tuha <space type="descender"/>saṁ dhanadī, maṅkana līṁnikanaṁ Udāśīna ṅunivaiḥ svavarganikā<!-- PKMN sva varganya nikā--> saṁ dhanadī mvaṁ Ikaṁ rāma Iṁ buruḍu sapa<lb n="1r14" break="no"/>suk vanva rarai matuha ya ta mataṁnyan· vineḥ surat· pagǝ<space type="descender"/>-pagǝḥ kmitananya de saṁ pamgat· I paḍaṁ pu bha<lb n="1r15" break="no"/>dra mvaṁ<!-- PKMN vmaṁ> --> <abbr>samgǝt·</abbr> lucǝm· pvānanta tuhāni<!-- read anusvāra here? it seems visible --> kanayakān· pu sumiṁ juru lampuran· rake roṅga, nāhan· si<lb n="1r16" break="no"/>ra mavai<supplied reason="omitted">ḥ</supplied><!-- or use unclear here? --> jayapātra, yathānya tan· hanāvuvusa riṁ dlahaniṁ dlaha<!-- read dlaha 2x or dlāha 2x? --> <unclear>Ā</unclear>pan· huvus· mabuṅaḥ<!--maṅulaḥ?--> <unclear cert="low">kavive</unclear><pb n="1v" break="no"/><lb n="1v1" break="no"/><unclear cert="low">kā</unclear>ṇ<seg type="component" subtype="subscript"><gap reason="illegible" quantity="2" unit="component"/></seg>, tatra sākṣī saṁ hadǝAn·<!-- why not hadiAn·? --> Apatiḥ saṁ kiraṭā,<!-- kirăṭāḥ? comma omitted by previous scholars--> vahuta maraṅin· saṁ bābru, pagǝrruyuṁ<!-- PKMN paṅgǝrruyuṁ --> saṁ ka<lb n="1v2" break="no"/>ṇḍya<space type="descender"/>l·, rāma tpi siriṁ I griḥ saṁ tyanta, saṁ kranti, saṁ ñuṅul·, saṁ vrati, I vuruḍu lor· saṁ kavat· saṅ a<lb n="1v3" break="no"/>bi <space type="descender"/>I kahuripan· saṁ guha, mvaṁ rāmanta I halaran· sapasuk· vanva<!-- reads banva? --> grāma bihāra kabikuAn·, vinkas·
 <lb n="1v4"/>Irika kāla saṁ manata, saṁ gaḍya, saṁ mandu, saṁ baliku<unclear>ḥ</unclear>, saṁ caki, saṁ byŭha, tuha kila<!-- Stutt1925 kila<unclear>ṁ</unclear> Read kilasa kiṅil·? --> saṁ kiṅi<space type="descender"/>l·,
-<lb n="1v5"/>parujar· si panait·, rāma kabayan· sa<unclear>ṁ </unclear><space type="descender"/>surat· sa<unclear>ṁ</unclear> vantǝr· tuhān·n i patiga saṁ jaluk·, saṁ rodaya, saṁ para<lb 
-n="1v6" break="no"/>gul·, saṁ goma, saṁ padhara, nāhan· sira hana Irika kāla<unclear>,</unclear> likhitapātra saṁ hadǝAn· citralekha saṁ ha<lb 
-n="1v7" break="no"/>dǝAn· bajra <g type="ddanda"/> svasti śaka-varṣātīta 844 jyaiṣṭa-māsa, tithi saptami śukla-pakṣa, <abbr>vu</abbr>, <abbr>ka</abbr>, <abbr>so</abbr>, vāra, Irikā
-<lb n="1v8"/>divaśa saṁ dhanadī vinaiḥ surat· jayapātra kmitananya de <abbr>samgǝt·</abbr> juru I maḍaṇḍar·, samvandha hana sa<unclear>ṁ</unclear> pāmāriva<!-- pāmāniva? --> ṅa<lb 
-n="1v9" break="no"/>ranya Inanugrahān· de <abbr>samgat·</abbr> juru Irikā vanuA i maṁhuri<unclear>,</unclear> 
-makon ta rasikā k<unclear cert="low">u</unclear>milalā Ikā kǝkǝra<lb 
-n="1v10" break="no"/>n· I maṁhuri, Andan kadi rakuA ya tumuduḥ Ikā saṁ dhanadī<unclear>,</unclear> sinaṅguḥnya vka kmir·, kunaṁ saṁkā ri nāgata<!-- nātha ta? --> rasikā 
+<lb n="1v5"/>parujar· si panait·, rāma kabayan· sa<unclear>ṁ </unclear><space type="descender"/>surat· sa<unclear>ṁ</unclear> vantǝr· tuhān·n i patiga saṁ jaluk·, saṁ rodaya, saṁ para<lb n="1v6" break="no"/>gul·, saṁ goma, saṁ padhara, nāhan· sira hana Irika kāla<unclear>,</unclear> likhitapātra saṁ hadǝAn· citralekha saṁ ha<lb n="1v7" break="no"/>dǝAn· bajra <g type="ddanda"/> svasti śaka-varṣātīta 844 jyaiṣṭa-māsa, tithi saptami śukla-pakṣa, <abbr>vu</abbr>, <abbr>ka</abbr>, <abbr>so</abbr>, vāra, Irikā
+<lb n="1v8"/>divaśa saṁ dhanadī vinaiḥ surat· jayapātra kmitananya de <abbr>samgǝt·</abbr> juru I maḍaṇḍar·, samvandha hana sa<unclear>ṁ</unclear> pāmāriva<!-- pāmāniva? --> ṅa<lb n="1v9" break="no"/>ranya Inanugrahān· de <abbr>samgat·</abbr> juru Irikā vanuA i maṁhuri<unclear>,</unclear> 
+makon ta rasikā k<unclear cert="low">u</unclear>milalā Ikā kǝkǝra<lb n="1v10" break="no"/>n· I maṁhuri, Andan kadi rakuA ya tumuduḥ Ikā saṁ dhanadī<unclear>,</unclear> sinaṅguḥnya vka kmir·, kunaṁ saṁkā ri nāgata<!-- nātha ta? --> rasikā 
 <lb n="1v11"/>dinaliḥ tan· ri śĭlanya dadi ya manambaḥ I saṁ tuhān· I pakaraṇān·, māja<space type="descender"/>r· ya I padārmanikā<!-- or read padārminikā? --> vuvus·
-<lb n="1v12"/>kinirim· ikā saṁ kinon·kon· surat· kinon· mājara I prastutanikā vuvus·, vkasan· tadĭya gr̥ha<lb 
-n="1v13" break="no"/>sthāna, tan aṅgā tkā I pakaraṇān·<unclear>,</unclear><!-- can we use "," here? no one else reads one --> mapiṇḍuA maṅkin ta kinirim· surat· kinon· marā, tan aṅgā Ataḥ, ya ta
+<lb n="1v12"/>kinirim· ikā saṁ kinon·kon· surat· kinon· mājara I prastutanikā vuvus·, vkasan· tadĭya gr̥ha<lb n="1v13" break="no"/>sthāna, tan aṅgā tkā I pakaraṇān·<unclear>,</unclear><!-- can we use "," here? no one else reads one --> mapiṇḍuA maṅkin ta kinirim· surat· kinon· marā, tan aṅgā Ataḥ, ya ta
 <lb n="1v14"/>mataṅ yan· vinaiḥ Ikā saṁ dhanadī surat· pagǝ-<supplied reason="omitted">pa</supplied>gǝḥ kmitananya yathānya tan· vuvusa tkā I dlāhaniṁ dlāha, 
 <lb n="1v15"/>tatra sākṣī saṁ tuhān· I pakaraṇān· makabaihan·, <abbr>samgat·</abbr> jambi<!-- actually this word is very faint; read otherwise? --> katriṇi, sandiḥ, vikrami,<!-- comma ignored in other editions --> savit·
 <lb n="1v16"/>paṅkur· <abbr>samgat·</abbr> pamratan·<!-- read pamvatan·? -->, <abbr>samgat·</abbr> tālan·<!-- PKMN talān·-->, makalaṅkaṁ samgat· pasan· ḍaṅ ācāryya beṣṇa<!-- vaiṣṇa<<va>>? -->, makudur·
-<lb n="1v17"/>saṁ vaḍiṅin· madihati dyaḥ paduruṅan· citralekha <abbr>samgat·</abbr> tiruAn vǝL̥, <abbr>samgat·</abbr> paṅaruhan· sura<lb 
-n="1v18" break="no"/>turus·, patiḥ vaśaḥ saṁ kulumpa, kuci saṁ parahita pisor· hya<unclear>ṁ</unclear> sīsḍ<unclear>u</unclear><space type="descender"/>t·, likhitapātra citra<lb 
-n="1v19" break="no"/>lekha saṁ yidī || <g type="flower"/> || <g type="spiral"/> <space quantity="4" unit="character"/> likhita tambra Arthahetoḥ <space type="descender"/>ḍaṅ ācāryya I griḥ prāmodyajā<!-- insert new lb here? -->ta // o // // da //</p>
+<lb n="1v17"/>saṁ vaḍiṅin· madihati dyaḥ paduruṅan· citralekha <abbr>samgat·</abbr> tiruAn vǝL̥, <abbr>samgat·</abbr> paṅaruhan· sura<lb n="1v18" break="no"/>turus·, patiḥ vaśaḥ saṁ kulumpa, kuci saṁ parahita pisor· hya<unclear>ṁ</unclear> sīsḍ<unclear>u</unclear><space type="descender"/>t·, likhitapātra citra<lb n="1v19" break="no"/>lekha saṁ yidī || <g type="flower"/> || <g type="spiral"/> <space quantity="4" unit="character"/> likhita tambra Arthahetoḥ <space type="descender"/>ḍaṅ ācāryya I griḥ prāmodyajā<!-- insert new lb here? -->ta // o // // da //</p>
          </div>
          <div type="apparatus">
            <!--apparatus encoded as per EGD §9.1, basic elements for apparatus below-->
@@ -110,10 +89,10 @@ n="1v19" break="no"/>lekha saṁ yidī || <g type="flower"/> || <g type="spiral"
                      <rdg source="bib:Stutterheim1925_04">mabuṅaḥ</rdg>
                   </app>-->
 <app loc="1r16">
-<lem><unclear cert="low">kavive</unclear><pb n="1v" break="no"/><lb n="1v1" break="no"/><unclear cert="low">kā</unclear>ṇ<seg type="component" subtype="subscript"><gap reason="illegible" quantity="2" unit="component"/></seg>,</lem>
-<rdg source="bib:Stutterheim1925_04">kavive<pb n="1v" break="no"/><lb n="1v1" break="no"/><unclear>kanya</unclear>,</rdg>
-<rdg source="bib:Boechari1985-1986_01">kavive<pb n="1v" break="no"/><lb n="1v1" break="no"/>kāṇya,</rdg>
-<note>The reading <foreign>kāṇya</foreign>, though closer to the truth than <foreign>kānya</foreign>, does not yield an evident sense. All published readings ignore the large space that is left open for a descender from this akṣara in the next line, which must mean that there once was another subscript part to the akṣara that has become illegible. The original akṣara may theoretically have been <foreign>ṇyu</foreign>, <foreign>ṇyū</foreign>, <foreign>ṇyva</foreign>, or else perhaps <foreign>ṇḍya</foreign>, <foreign>ṇḍyu</foreign>, <foreign>ṇḍva</foreign>. I am not able to choose among these at this time.</note>
+	<lem><unclear cert="low">kavive</unclear><pb n="1v" break="no"/><lb n="1v1" break="no"/><unclear cert="low">kā</unclear>ṇ<seg type="component" subtype="subscript"><gap reason="illegible" quantity="2" unit="component"/></seg>,</lem>
+	<rdg source="bib:Stutterheim1925_04">kavive<pb n="1v" break="no"/><lb n="1v1" break="no"/><unclear>kanya</unclear>,</rdg>
+	<rdg source="bib:Boechari1985-1986_01">kavive<pb n="1v" break="no"/><lb n="1v1" break="no"/>kāṇya,</rdg>
+	<note>The reading <foreign>kāṇya</foreign>, though closer to the truth than <foreign>kānya</foreign>, does not yield an evident sense. All published readings ignore the large space that is left open for a descender from this akṣara in the next line, which must mean that there once was another subscript part to the akṣara that has become illegible. The original akṣara may theoretically have been <foreign>ṇyu</foreign>, <foreign>ṇyū</foreign>, <foreign>ṇyva</foreign>, or else perhaps <foreign>ṇḍya</foreign>, <foreign>ṇḍyu</foreign>, <foreign>ṇḍva</foreign>. I am not able to choose among these at this time.</note>
 <!-- kaviśeṣaṇānya? kaviśodhaṇānya? piṇḍva? — note that large space in next line suggests there was another pasangan, e.g. ṇḍya or ṇḍu — is there also an extra ta to take into account, or is there only a punctuation sign? -->
 </app>
 <app loc="1v2">
@@ -134,20 +113,20 @@ n="1v19" break="no"/>lekha saṁ yidī || <g type="flower"/> || <g type="spiral"
 	<!-- some occurrences of a person called balikuḥ -->
 </app>
 <app loc="1v5">
-<lem>sa<unclear>ṁ </unclear><space type="descender"/>surat· sa<unclear>ṁ</unclear> vantǝr·</lem>
-<rdg></rdg>
+	<lem>sa<unclear>ṁ </unclear><space type="descender"/>surat· sa<unclear>ṁ</unclear> vantǝr·</lem>
+	<rdg>TO BE FILLED IN</rdg>
 </app>
 <app loc="1v5">
-<lem>tuhān·n i</lem>
-<rdg source="bib:Boechari1985-1986_01">tuhān· si</rdg>
+	<lem>tuhān·n i</lem>
+	<rdg source="bib:Boechari1985-1986_01">tuhān· si</rdg>
 </app>
 <app loc="1v8">
-<lem><abbr>samgǝt·</abbr></lem>
-<rdg source="bib:Boechari1985-1986_01">pamgǝt·</rdg>
+	<lem><abbr>samgǝt·</abbr></lem>
+	<rdg source="bib:Boechari1985-1986_01">pamgǝt·</rdg>
 </app>
 <app loc="1v9">
-<lem>juru Irikā vanuA</lem>
-<rdg source="bib:Boechari1985-1986_01">juru Ikā vanuA</rdg>
+	<lem>juru Irikā vanuA</lem>
+	<rdg source="bib:Boechari1985-1986_01">juru Ikā vanuA</rdg>
 </app>
 <app loc="1v9">
 	<lem>makon ta rasikā k<unclear cert="low">u</unclear>milalā Ikā kǝkǝran·</lem>
@@ -157,36 +136,36 @@ n="1v19" break="no"/>lekha saṁ yidī || <g type="flower"/> || <g type="spiral"
 @makĕkĕran@ having authority over such a territory [Page0840-a+59] CSt 7 (931) IIIa.6: tan kĕna riṅ dṛwya haji de saṅ makĕkĕran (4x in inscr.). -->
 </app>
 <app loc="1v11">
-<lem>padārmanikā</lem>
-<rdg source="bib:Boechari1985-1986_01">padharmanikā</rdg>
+	<lem>padārmanikā</lem>
+	<rdg source="bib:Boechari1985-1986_01">padharmanikā</rdg>
 </app>
 <app loc="1v12">
-<lem>gr̥ha<lb n="1v13" break="no"/>sthāna</lem>
-<rdg source="bib:Stutterheim1925_04">grahasṭāna</rdg>
-<rdg source="bib:Boechari1985-1986_01">grahastāna</rdg>
+	<lem>gr̥ha<lb n="1v13" break="no"/>sthāna</lem>
+	<rdg source="bib:Stutterheim1925_04">graha<lb n="1v13" break="no"/>sṭāna</rdg>
+	<rdg source="bib:Boechari1985-1986_01">graha<lb n="1v13" break="no"/>stāna</rdg>
 </app>
 <app loc="1v14">
-<lem>pagǝ-<supplied reason="omitted">pa</supplied>gǝḥ</lem>
-<rdg source="bib:Stutterheim1925_04">pagǝgǝḥ</rdg> 
-<rdg source="bib:Boechari1985-1986_01">pagǝ pagǝḥ</rdg>
+	<lem>pagǝ-<supplied reason="omitted">pa</supplied>gǝḥ</lem>
+	<rdg source="bib:Stutterheim1925_04">pagǝgǝḥ</rdg> 
+	<rdg source="bib:Boechari1985-1986_01">pagǝ pagǝḥ</rdg>
 </app>
 <app loc="1v15">
-<lem source="bib:Stutterheim1925_04">tuhān· I pakaraṇān·</lem>
-<rdg source="bib:Boechari1985-1986_01">tuhān· pakaraṇān·</rdg>
+	<lem source="bib:Stutterheim1925_04">tuhān· I pakaraṇān·</lem>
+	<rdg source="bib:Boechari1985-1986_01">tuhān· pakaraṇān·</rdg>
 </app>
 <app loc="1v16">
-<lem source="bib:Stutterheim1925_04 bib:Boechari1985-1986_01">pasan·</lem>
-<rdg source="bib:Stutterheim1935_01 bib:Sarkar1971-1972_01">dhusan·</rdg>
+	<lem source="bib:Stutterheim1925_04 bib:Boechari1985-1986_01">pasan·</lem>
+	<rdg source="bib:Stutterheim1935_01 bib:Sarkar1971-1972_01">dhusan·</rdg>
 </app>
 <app loc="1v18">
-<lem>hya<unclear>ṁ</unclear> sīsḍ<unclear>u</unclear><space type="descender"/>t·</lem> 
-<rdg source="bib:Stutterheim1925_04 bib:Boechari1985-1986_01">hyasisṭat·</rdg>
-<rdg source="bib:Stutterheim1935_01 bib:Sarkar1971-1972_01">hyasiṣṭat·</rdg>
-<!-- add note to defend choice, and try to confirm name si Isut -->
+	<lem>hya<unclear>ṁ</unclear> sīsḍ<unclear>u</unclear><space type="descender"/>t·</lem> 
+	<rdg source="bib:Stutterheim1925_04 bib:Boechari1985-1986_01">hyasisṭat·</rdg>
+	<rdg source="bib:Stutterheim1935_01 bib:Sarkar1971-1972_01">hyasiṣṭat·</rdg>
+	<!-- add note to defend choice, and try to confirm name si Isut -->
 </app>
 <app loc="1v19">
-<lem>yidī</lem>
-<rdg>yiḍī</rdg>
+	<lem source="bib:Stutterheim1925_04">yidī</lem>
+	<rdg source="bib:Boechari1985-1986_01">yiḍī</rdg>
 </app>
                </listApp>
          </div>
