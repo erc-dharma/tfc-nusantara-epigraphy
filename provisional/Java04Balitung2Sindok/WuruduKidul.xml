@@ -104,8 +104,9 @@ n="1v20" break="no"/><gap reason="illegible" quantity="2" unit="character"/><g t
 	<rdg source="bib:Boechari1985-1986_01">kavive<pb n="1v" break="no"/><lb n="1v1" break="no"/>kāṇya,</rdg>
 	<note>The reading <foreign>kāṇya</foreign>, though closer to the truth than <foreign>kānya</foreign>, does not yield an evident sense. Previous editors have ignored the large space that is left open for a descender from this akṣara in the next line, which seems to mean that there once was another subscript part to the akṣara that has become illegible. The original akṣara may theoretically have been <foreign>ṇyu</foreign> or <foreign>ṇyū</foreign>. Is it at all possible that the reading was <foreign>ṇyū</foreign> and that the use of this idiosyncratic pronominal suffix reflects a usage particular to such closing fornulae, of which we would have another instance in <foreign>tmū-nyū</foreign> in the Wanua Tengah III inscription.</note>
 <!-- lagi vaivarṇya?
+Tiim Lubin: Might kavivekānya (with -ṇya or -ṇnya for -n[n]ya) be possible? “For the adjudication of it is already clear.” Or (less likely from the reading, but perhaps slightly better from the Sanskrit point of view) something built on vivecana.
+Dan Balogh: prāmāṇya
 kavicchedanāṇya
-prāmāṇya
 kaviśeṣaṇānya? 
 kaviśodhaṇānya? 
 piṇḍva? — note that large space in next line suggests there was another pasangan, e.g. ṇḍya or ṇḍu — is there also an extra ta to take into account, or is there only a punctuation sign? -->
@@ -272,7 +273,7 @@ RY 13.41 <foreign>ike mahārāja matakvan iṅ naya / lavā-lavānuṅ viniveka 
    </div>
   <div type="bibliography">
 	<!--bibliography encoded as per section §9.4 -->
-   <p>First transcribed by W. F. Stutterheim (<bibl rend="omitname"><ptr target="bib:Stutterheim1925_04"/></bibl>, with extensive corrigenda on p. 187); a corrected and partly normalized edition was then brought out, with Dutch translation by the same scholar (<bibl><ptr target="bib:Stutterheim1935_01"/></bibl>), and these were reused by H. B. Sarkar for his publication with English translation (<bibl rend="omitname"><ptr target="bib:Sarkar1971-1972_01"/></bibl>); the plate was transcribed again by Boechari (<bibl rend="omitname"><ptr target="bib:Boechari1985-1986_01"/></bibl>, obviously without taking Stutterheim's corrigenda into account). Re-edited here, with a new translation, by Arlo Griffiths based on B.-Ph. Groslier's photos of the plates.</p>
+   <p>First transcribed by W. F. Stutterheim (<bibl rend="omitname"><ptr target="bib:Stutterheim1925_04"/></bibl>, with extensive corrigenda on p. 187); a corrected and partly normalized edition was then brought out, with Dutch translation, by the same scholar (<bibl><ptr target="bib:Stutterheim1935_01"/></bibl>), and these were reused by H. B. Sarkar for his publication with English translation (<bibl rend="omitname"><ptr target="bib:Sarkar1971-1972_01"/></bibl>); the plate was transcribed again by Boechari (<bibl rend="omitname"><ptr target="bib:Boechari1985-1986_01"/></bibl>, obviously without taking Stutterheim's corrigenda into account). Re-edited here, with a new translation, by Arlo Griffiths based on B.-Ph. Groslier's photos of the plates.</p>
   	<listBibl type="primary">
 		<bibl n="WFS1"><ptr target="bib:Stutterheim1925_04"/><citedRange unit="page">59-60, 187</citedRange></bibl>
 		<bibl n="WFS2"><ptr target="bib:Stutterheim1935_01"/><citedRange unit="page">444-456</citedRange></bibl>
