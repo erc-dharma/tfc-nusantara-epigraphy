@@ -83,76 +83,76 @@
            <!--apparatus encoded as per EG §9.1, basic elements for apparatus below-->
                <listApp>
                    <app loc="1v1">
-                       <lem source="bibl:Damais1952_03 bib:Sarkar1971-1972_01"><num value="741">741</num></lem>
-                       <rdg source="bibl:Poerbatjaraka1920_01"><num value="861">861</num></rdg>
-                       <rdg source="bibl:Goris1928_01"><num value="751">751</num></rdg>
+                       <lem source="bib:Damais1952_03 bib:Sarkar1971-1972_01"><num value="741">741</num></lem>
+                       <rdg source="bib:Poerbatjaraka1920_01"><num value="861">861</num></rdg>
+                       <rdg source="bib:Goris1928_01"><num value="751">751</num></rdg>
                    </app>
                    <app loc="1v1">
-                       <lem source="bibl:Goris1928_01 bib:Sarkar1971-1972_01">caitra-māsa</lem>
-                       <rdg source="bibl:Poerbatjaraka1920_01">cetra-māsa</rdg>
+                       <lem source="bib:Goris1928_01 bib:Sarkar1971-1972_01">caitra-māsa</lem>
+                       <rdg source="bib:Poerbatjaraka1920_01">cetra-māsa</rdg>
                    </app>
                    <app loc="1v1">
-                       <lem source="bibl:Poerbatjaraka1920_01 bib:Sarkar1971-1972_01">tithī</lem>
-                       <rdg source="bibl:Goris1928_01">tithi</rdg>
+                       <lem source="bib:Poerbatjaraka1920_01 bib:Sarkar1971-1972_01">tithī</lem>
+                       <rdg source="bib:Goris1928_01">tithi</rdg>
                    </app>
                    <app loc="1v1">
-                       <lem source="bibl:Goris1928_01">kr̥ṣṇa-pakṣa,</lem>
-                       <rdg source="bibl:Poerbatjaraka1920_01">kr̥ṣna-pakṣa</rdg>
+                       <lem source="bib:Goris1928_01">kr̥ṣṇa-pakṣa,</lem>
+                       <rdg source="bib:Poerbatjaraka1920_01">kr̥ṣna-pakṣa</rdg>
                        <rdg source="bib:Sarkar1971-1972_01">kr̥ṣṇa-pakṣa</rdg>
                    </app>
                    <app loc="1v2">
-                       <lem source="bibl:Poerbatjaraka1920_01 bib:Goris1928_01"><abbr>so</abbr>,</lem>
-                       <rdg source="bibl:Sarkar1971-1972_01"><abbr>so</abbr></rdg>
+                       <lem source="bib:Poerbatjaraka1920_01 bib:Goris1928_01"><abbr>so</abbr>,</lem>
+                       <rdg source="bib:Sarkar1971-1972_01"><abbr>so</abbr></rdg>
                    </app>
                    <app loc="1v2">
-                       <lem source="bibl:Sarkar1971-1972_01">ājñānira,</lem>
-                       <rdg source="bibl:Poerbatjaraka1920_01">ājñanira,</rdg>
-                       <rdg source="bibl:bib:Goris1928_01">ājñānira</rdg>
+                       <lem source="bib:Sarkar1971-1972_01">ājñānira,</lem>
+                       <rdg source="bib:Poerbatjaraka1920_01">ājñanira,</rdg>
+                       <rdg source="bib:bib:Goris1928_01">ājñānira</rdg>
                    </app>
                    <app loc="1v3">
-                       <lem source="bibl:Goris1928_01 bibl:Sarkar1971-1972_01">pu managguṅi,</lem>
-                       <rdg source="bibl:Poerbatjaraka1920_01">pu managgaṅi</rdg>
+                       <lem source="bib:Goris1928_01 bib:Sarkar1971-1972_01">pu managguṅi,</lem>
+                       <rdg source="bib:Poerbatjaraka1920_01">pu managgaṅi</rdg>
                    </app>
                    <app loc="1v3">
-                       <lem source="bibl:Goris1928_01 bibl:Sarkar1971-1972_01">drabya</lem>
-                       <rdg source="bibl:Poerbatjaraka1920_01">dr̥bya</rdg>
+                       <lem source="bib:Goris1928_01 bib:Sarkar1971-1972_01">drabya</lem>
+                       <rdg source="bib:Poerbatjaraka1920_01">dr̥bya</rdg>
                    </app>
                    <app loc="1v4">
-                       <lem source="bibl:Goris1928_01 bibl:Sarkar1971-1972_01">rumvān·</lem>
-                       <rdg source="bibl:Poerbatjaraka1920_01">rumvan·</rdg>
+                       <lem source="bib:Goris1928_01 bib:Sarkar1971-1972_01">rumvān·</lem>
+                       <rdg source="bib:Poerbatjaraka1920_01">rumvan·</rdg>
                    </app>
                    <app loc="1v4">
-                       <lem source="bibl:Sarkar1971-1972_01">banyāgā,</lem>
-                       <rdg source="bibl:Poerbatjaraka1920_01">banyagā, banyagā</rdg>
+                       <lem source="bib:Sarkar1971-1972_01">banyāgā,</lem>
+                       <rdg source="bib:Poerbatjaraka1920_01">banyagā, banyagā</rdg>
                        <rdg source="bib:Goris1928_01">banyāgā</rdg>
                    </app>
                    <app loc="1v5">
-                       <lem source="bibl:Poerbatjaraka1920_01 bibl:Goris1928_01">senamukha,</lem>
-                       <rdg source="bibl:Sarkar1971-1972_01">senamukha</rdg>
+                       <lem source="bib:Poerbatjaraka1920_01 bib:Goris1928_01">senamukha,</lem>
+                       <rdg source="bib:Sarkar1971-1972_01">senamukha</rdg>
                    </app>
                    <app loc="1v5">
-                       <lem source=" bibl:Goris1928_01 bibl:Sarkar1971-1972_01">tuha dagaṁ</lem>
-                       <rdg source="bibl:Poerbatjaraka1920_01">tuha dagaṁ,</rdg>
+                       <lem source=" bib:Goris1928_01 bib:Sarkar1971-1972_01">tuha dagaṁ</lem>
+                       <rdg source="bib:Poerbatjaraka1920_01">tuha dagaṁ,</rdg>
                    </app>
                    <app loc="1v5">
-                       <lem source="bibl:Poerbatjaraka1920_01">Ityevamādi</lem>
-                       <rdg source=" bibl:Goris1928_01 bibl:Sarkar1971-1972_01">Ityemādi</rdg><!-- argr2ekba: see my comment above; does Goris/Sarkar write why they chose an incorrected reading? --><!--ekba2argr: I don'rtfind any explanation from both Goris and Sarkar regarding the use of Itvemādi instead of Ityevamādi-->
+                       <lem source="bib:Poerbatjaraka1920_01">Ityevamādi</lem>
+                       <rdg source=" bib:Goris1928_01 bib:Sarkar1971-1972_01">Ityemādi</rdg><!-- argr2ekba: see my comment above; does Goris/Sarkar write why they chose an incorrected reading? --><!--ekba2argr: I don'rtfind any explanation from both Goris and Sarkar regarding the use of Itvemādi instead of Ityevamādi-->
                    </app>
                    <app loc="1v6">
-                       <lem source="bibl:Goris1928_01 bibl:Sarkar1971-1972_01">drabya</lem>
-                       <rdg source="bibl:Poerbatjaraka1920_01">dr̥bya</rdg>
+                       <lem source="bib:Goris1928_01 bib:Sarkar1971-1972_01">drabya</lem>
+                       <rdg source="bib:Poerbatjaraka1920_01">dr̥bya</rdg>
                    </app>
                    <app loc="1v7">
-                       <lem source="bibl:Poerbatjaraka1920_01 bibl:Sarkar1971-1972_01">kal kalaṅkaṁ,</lem>
-                       <rdg source="bibl:Goris1928_01">kal kalaṅkaṁ</rdg>
+                       <lem source="bib:Poerbatjaraka1920_01 bib:Sarkar1971-1972_01">kal kalaṅkaṁ,</lem>
+                       <rdg source="bib:Goris1928_01">kal kalaṅkaṁ</rdg>
                    </app>
                    <app loc="1v7">
-                       <lem source="bibl:Goris1928_01 bibl:Sarkar1971-1972_01">mataṁya</lem>
-                       <rdg source="bibl:Poerbatjaraka1920_01">matanya</rdg>
+                       <lem source="bib:Goris1928_01 bib:Sarkar1971-1972_01">mataṁya</lem>
+                       <rdg source="bib:Poerbatjaraka1920_01">matanya</rdg>
                    </app>
                    <app loc="1v7">
-                       <lem source="bibl:Goris1928_01 bibl:Sarkar1971-1972_01">sira</lem>
-                       <rdg source="bibl:Poerbatjaraka1920_01">pira</rdg>
+                       <lem source="bib:Goris1928_01 bib:Sarkar1971-1972_01">sira</lem>
+                       <rdg source="bib:Poerbatjaraka1920_01">pira</rdg>
                    </app>
                </listApp>         
          </div>
@@ -173,7 +173,7 @@
          </div>
         <div type="bibliography">
 	<!--bibliography encoded as per section §9.4 -->
-            <p>First edited by Poerbatjaraka (<bibl rend="omitname"><ptr target="bibl:Poerbatjaraka1920_01"/></bibl>). Re-edited by Goris (<bibl rend="omitname"><ptr target="bibl:Goris1928_01"/></bibl>).<!-- argr2ekba: so these first two editions did not come with a Dutch translation? --><!-- ekba2argr: As far as I am aware,the first two editions did not include a Dutch translation--> Reproducing  of Poerbtajaraka's and Goris' editions<!-- argr2ekba: always try to determine, and make explicit in such sentences as this one, whether HBS saw the original or a reproduction if it, or whether he's just reproducing, with more or less precision, a previously published edition --><!--ekba2arlo: I have modified the sentence-->, to which is added a translation into English, by H.B. Sarkar (<bibl rend="omitname"><ptr target="bib:Sarkar1971-1972_01"/></bibl>).</p>
+            <p>First edited by Poerbatjaraka (<bibl rend="omitname"><ptr target="bib:Poerbatjaraka1920_01"/></bibl>). Re-edited by Goris (<bibl rend="omitname"><ptr target="bib:Goris1928_01"/></bibl>).<!-- argr2ekba: so these first two editions did not come with a Dutch translation? --><!-- ekba2argr: As far as I am aware,the first two editions did not include a Dutch translation--> Reproducing  of Poerbtajaraka's and Goris' editions<!-- argr2ekba: always try to determine, and make explicit in such sentences as this one, whether HBS saw the original or a reproduction if it, or whether he's just reproducing, with more or less precision, a previously published edition --><!--ekba2arlo: I have modified the sentence-->, to which is added a translation into English, by H.B. Sarkar (<bibl rend="omitname"><ptr target="bib:Sarkar1971-1972_01"/></bibl>).</p>
             <listBibl type="primary">
                 <bibl n="P">
                     <ptr target="bib:Poerbatjaraka1920_01"/>
