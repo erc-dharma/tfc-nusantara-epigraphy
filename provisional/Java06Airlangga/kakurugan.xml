@@ -190,7 +190,7 @@
                       <rdg source="bib:NinnySusanti2003_01">siṅgah</rdg>
                       </app>
                     <app loc="4r1">
-                      <lem source="CohenStuart1875_01">maṅiduṁ</lem>
+                      <lem source="bib:CohenStuart1875_01">maṅiduṁ</lem>
                       <rdg source="bib:Boechari1985-1986_01 bib:NinnySusanti2003_01">maniduṁ</rdg>
                       </app>
                     <app loc="4r2">
@@ -347,16 +347,16 @@
                     <app loc="5v2">
                       <lem>UṅśiR̥n</lem>
                         <rdg source="bib:Boechari1985-1986_01">Uṅśirən</rdg>
-                        <rdg source="NinnySusanti2003_01">Uṅsirən</rdg>
+                        <rdg source="bib:NinnySusanti2003_01">Uṅsirən</rdg>
                       </app>
                   <app loc="5v2-5v3">
                       <lem><abbr>mā</abbr> <num value="1">1</num> riṁ <abbr>sū</abbr> <num value="1">1</num></lem>
-                        <rdg source="CohenStuart1875_01 bib:Boechari1985-1986_01 NinnySusanti2003_01">māga riṁ sūga</rdg>
+                        <rdg source="bib:CohenStuart1875_01 bib:Boechari1985-1986_01 bib:NinnySusanti2003_01">māga riṁ sūga</rdg>
                       </app>
                     <app loc="5v3">
                       <lem>saṁ madr̥vya</lem>
                         <rdg source="bib:Boechari1985-1986_01">saṅ madrvya</rdg>
-                        <rdg source="NinnySusanti2003_01">saṅ madr̥vya</rdg>
+                        <rdg source="bib:NinnySusanti2003_01">saṅ madr̥vya</rdg>
                       </app>
                     <app loc="5v4">
                       <lem>cārik·</lem>
@@ -364,18 +364,18 @@
                       </app>
                     <app loc="5v4">
                       <lem source="bib:Boechari1985-1986_01">pāduka</lem>
-                        <rdg source="NinnySusanti2003_01">paduka</rdg>
+                        <rdg source="bib:NinnySusanti2003_01">paduka</rdg>
                       </app>
                     <app loc="6r1">
-                      <lem source="NinnySusanti2003_01">samasānak· dyaḥ</lem>
+                      <lem source="bib:NinnySusanti2003_01">samasānak· dyaḥ</lem>
                         <rdg source="bib:Boechari1985-1986_01">samasānak· I dyaḥ</rdg>
                       </app>
                     <app loc="6r1-6r2">
                       <lem source="bib:Boechari1985-1986_01">anugraha</lem>
-                        <rdg source="NinnySusanti2003_01">ānugraha</rdg>
+                        <rdg source="bib:NinnySusanti2003_01">ānugraha</rdg>
                       </app>
                   <app loc="6r3">
-                      <lem source="NinnySusanti2003_01">saṁ hyaṁ</lem>
+                      <lem source="bib:NinnySusanti2003_01">saṁ hyaṁ</lem>
                         <rdg source="bib:Boechari1985-1986_01">saṁ nyaṁ</rdg>
                       </app>
                     <app loc="6r3">
@@ -383,19 +383,19 @@
                         <rdg source="bib:Boechari1985-1986_01 NinnySusanti2003_01">Avaravara</rdg>
                       </app>
                     <app loc="6r3-6r4">
-                      <lem source="NinnySusanti2003_01">muvaḥ</lem>
+                      <lem source="bib:NinnySusanti2003_01">muvaḥ</lem>
                         <rdg source="bib:Boechari1985-1986_01">muvah</rdg>
                       </app>
                     <app loc="6r4">
-                      <lem source="NinnySusanti2003_01">savuṁ</lem>
+                      <lem source="bib:NinnySusanti2003_01">savuṁ</lem>
                         <rdg source="bib:Boechari1985-1986_01">vasuṁ</rdg>
                       </app>
                     <app loc="6r4">
                       <lem source="bib:Boechari1985-1986_01">juḍi</lem>
-                        <rdg source="NinnySusanti2003_01">judi</rdg>
+                        <rdg source="bib:NinnySusanti2003_01">judi</rdg>
                       </app>
                     <app loc="6r4">
-                      <lem source="NinnySusanti2003_01">tiṅkahni</lem>
+                      <lem source="bib:NinnySusanti2003_01">tiṅkahni</lem>
                         <rdg source="bib:Boechari1985-1986_01">tiṅkaṇ ni</rdg>
                       </app>
                   <app loc="6r5">
@@ -409,7 +409,7 @@
                       </app>
                     <app loc="6v1">
                       <lem source="bib:Boechari1985-1986_01 ">mā</lem>
-                        <rdg source="NinnySusanti2003_01">ma</rdg>
+                        <rdg source="bib:NinnySusanti2003_01">ma</rdg>
                       </app>                  
                 </listApp>
             </div>

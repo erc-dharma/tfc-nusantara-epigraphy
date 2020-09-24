@@ -116,95 +116,95 @@
                 <listApp>
                     <app loc="1">
                      <lem>pañcadaś<unclear>i</unclear></lem>
-                     <rdg source="SteinCallenfels_1918">paṇcadaśi</rdg>
+                     <rdg source="bib:SteinCallenfels_1918">paṇcadaśi</rdg>
                     </app>
                     <app loc="1">
                      <lem>śuklapakṣā</lem>
-                     <rdg source="SteinCallenfels_1918">śuklapakṣa</rdg>
+                     <rdg source="bib:SteinCallenfels_1918">śuklapakṣa</rdg>
                     </app>
                     <app loc="2">
                      <lem>A</lem>
-                     <rdg source="SteinCallenfels_1918">Ā</rdg>
+                     <rdg source="bib:SteinCallenfels_1918">Ā</rdg>
                     </app>
                     <!--@Daniel : This syllable is an abbreviation, should I also copy the <abbr> tag
                         in the apparatus?-->
                     <app loc="2">
                      <lem>pahaṁ</lem>
-                     <rdg source="SteinCallenfels_1918">pahāṁ</rdg>
+                     <rdg source="bib:SteinCallenfels_1918">pahāṁ</rdg>
                     </app>
                     <app loc="2">
                      <lem>divaśanika sampu<unclear>ṇna</unclear>nikana<unclear>ṁ</unclear></lem>
-                     <rdg source="SteinCallenfels_1918">divaśa <unclear>ni</unclear> kasampurnnanikanaṅ</rdg>
+                     <rdg source="bib:SteinCallenfels_1918">divaśa <unclear>ni</unclear> kasampurnnanikanaṅ</rdg>
                     </app>
                      <app loc="3">
                      <lem>raṅgaḥ <unclear>sa</unclear>p<unclear>u</unclear></lem>
-                     <rdg source="SteinCallenfels_1918">raṅga sapu</rdg>
+                     <rdg source="bib:SteinCallenfels_1918">raṅga sapu</rdg>
                     </app>
                       <app loc="3">
                      <lem>makamaṅgalā</lem>
-                     <rdg source="SteinCallenfels_1918">makamaṅgala</rdg>
+                     <rdg source="bib:SteinCallenfels_1918">makamaṅgala</rdg>
                     </app>
                      <app loc="3-4">
                      <lem>rakak iṅ amūrvva<lb n="4" break="no"/>bumi</lem>
-                     <rdg source="SteinCallenfels_1918">ṅamurvvabumi</rdg>
+                     <rdg source="bib:SteinCallenfels_1918">ṅamurvvabumi</rdg>
                     </app>
                     <!--MS@Daniel: should we keep the <lb> in the lem?, check VSC's reading-->
                     <app loc="4">
                     <lem>jur<unclear>u</unclear></lem>
-                    <rdg source="SteinCallenfels_1918"><choice><unclear>ju</unclear><unclear>mu</unclear></choice></rdg>
+                    <rdg source="bib:SteinCallenfels_1918"><choice><unclear>ju</unclear><unclear>mu</unclear></choice></rdg>
                     <!--MS: should add a gap (<gap
                             reason="undefined"/>?) after the ju/mu in VSC's reading-->
                     </app>
                     <app loc="4">
                     <lem><unclear>ā</unclear>jñā</lem>
-                    <rdg source="SteinCallenfels_1919">ājña</rdg>
+                    <rdg source="bib:SteinCallenfels_1919">ājña</rdg>
                     </app>
                     <app loc="5-6">
                     <lem>păduka ba<unclear>ṭāre</unclear> matahun śrĭ baṭăra <persName>vijayarājasănantavikramottuṅga<lb n="6" break="no"/>deva</persName></lem>
                     <!--MS: same question for lb-->
-                    <rdg source="SteinCallenfels_1919">pāduka bāṭare matahun śri bāṭara vijayarājasānantavikramottuṅgadeva</rdg>
+                    <rdg source="bib:SteinCallenfels_1919">pāduka bāṭare matahun śri bāṭara vijayarājasānantavikramottuṅgadeva</rdg>
                     </app>
                     <app loc="6">
                     <lem>para s<unclear>a</unclear>mya</lem>
-                    <rdg source="SteinCallenfels_1919">parasāmya</rdg>
+                    <rdg source="bib:SteinCallenfels_1919">parasāmya</rdg>
                     </app>
                     <app loc="7">
                         <lem><unclear>I</unclear> vetan</lem>
-                        <rdg source="SteinCallenfels_1918">vetan</rdg>
+                        <rdg source="bib:SteinCallenfels_1918">vetan</rdg>
                     </app>
                     <app loc="7">
-                        <lem source="SteinCallenfels_1918"><choice><sic>ma</sic><corr>sa</corr></choice>maṅkanā</lem>
+                        <lem source="bib:SteinCallenfels_1918"><choice><sic>ma</sic><corr>sa</corr></choice>maṅkanā</lem>
                     </app>
                     <app loc="7">
                       <lem>pāduka baṭāre mātahun</lem>
-                      <rdg source="SteinCallenfels_1919">pādukā baṭare matahun</rdg>
+                      <rdg source="bib:SteinCallenfels_1919">pādukā baṭare matahun</rdg>
                     </app>
                     <!--MS: sic corr for matahun-->
                     <app loc="8">
                       <lem>kas<unclear>u</unclear>kaniṁ rāt</lem>
-                      <rdg source="SteinCallenfels_1919">kas<choice><sic>a</sic><corr>u</corr></choice>kanirat</rdg>
+                      <rdg source="bib:SteinCallenfels_1919">kas<choice><sic>a</sic><corr>u</corr></choice>kanirat</rdg>
                         <note>The emendation adopted by van Stein Callenfels was suggested by Brandes.</note>
                     </app>
                     <app loc="8">
                       <lem>sampŭrṇna</lem>
-                      <rdg source="SteinCallenfels_1919">sampurnna</rdg>
+                      <rdg source="bib:SteinCallenfels_1919">sampurnna</rdg>
                     </app>
                     <app loc="10">
                         <lem>hatītadurggamahaLp</lem>
-                        <rdg source="SteinCallenfels_1919">atita durgga mahaləp</rdg>
+                        <rdg source="bib:SteinCallenfels_1919">atita durgga mahaləp</rdg>
                     </app>
                     <app loc="10">
                       <lem>maparipŭrṇna</lem>
-                      <rdg source="SteinCallenfels_1919">maparipurnna</rdg>
+                      <rdg source="bib:SteinCallenfels_1919">maparipurnna</rdg>
                     </app>
                      <app loc="11">
                         <lem>sah aṅaran</lem>
-                        <rdg source="SteinCallenfels_1919">sah aṅāran</rdg>
+                        <rdg source="bib:SteinCallenfels_1919">sah aṅāran</rdg>
                          <note>It is not clear why van Stein Callenfels felt the need to emend to <hi rend="italic">aṅāran</hi> (following Poerbatjaraka), while he correctly read <hi rend="italic">sa haṅaran</hi>.</note>
                     </app>
                     <app loc="14">
                         <lem>asusaṁrama</lem>
-                        <rdg source="SteinCallenfels_1919">asuṅ paramasukanikaṅ</rdg>
+                        <rdg source="bib:SteinCallenfels_1919">asuṅ paramasukanikaṅ</rdg>
                         <note>This passage is difficult. Van Stein Callenfels read <hi rend="italic">asu saṁ rama</hi> but emended following Poerbatjaraka,
                             whose reconstruction does not convince us. Other possibilities would be
                             to emend asusaṅgrāma (see OJED 1665), asusaṅkrama  or asusambrahma (OJED 1636.5).</note>
@@ -216,7 +216,7 @@
                     <!--MS: suppr note, mettre source VSC dans LEM-->
                     <app loc="15-16">
                         <lem>mav<unclear>i</unclear>prakṣa<lb n="16" break="no"/><unclear>t</unclear>i</lem>
-                        <rdg source="SteinCallenfels_1919">mavipraksati</rdg>
+                        <rdg source="bib:SteinCallenfels_1919">mavipraksati</rdg>
                         <note><hi rend="italic">mapviprakṣati</hi> seems to be a hapax. In the OJED corpus, we find the reading <hi rend="italic">kaviprakṣati</hi>, which seems to be an emendation of Zoetmulder.</note>
                     </app>
                     <app loc="16">
@@ -226,7 +226,7 @@
                     <!--MS: chercher kākapāda dans EG et supprimer note.-->
                     <app loc="16">
                         <lem>haṅuhaṁṅune</lem>
-                        <rdg source="SteinCallenfels_1919">haṅuhaṅune</rdg>
+                        <rdg source="bib:SteinCallenfels_1919">haṅuhaṅune</rdg>
                     </app>
                     <app loc="16">
                         <lem>saṅ <choice><sic>uhulun</sic><corr>ahulun</corr></choice></lem>
@@ -235,7 +235,7 @@
                     <!--MS: source dans LEM-->
                     <app loc="17">
                         <lem>makaṅaran</lem>
-                        <rdg source="SteinCallenfels_1919">makaṅāran</rdg>
+                        <rdg source="bib:SteinCallenfels_1919">makaṅāran</rdg>
                     </app>
                 </listApp>
             </div>

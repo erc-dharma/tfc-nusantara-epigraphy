@@ -106,8 +106,8 @@
                       <rdg source="bib:Boechari1985-1985_01">kosagatan</rdg>
                   </app>
                   <app loc="1v1">
-                      <lem resp="masc">sura<unclear>g</unclear>a</lem>
-                      <rdg resp="argr">surabha</rdg>
+                      <lem resp="part:masc">sura<unclear>g</unclear>a</lem>
+                      <rdg resp="part:argr">surabha</rdg>
                       <!--masc2argr: One would expect to see an aksara quite similar to "ca" l. 1r5 for a "bha", which I don't really think we can read here-->
                       <rdg source="bib:Boechari1985-1985_01">suraba</rdg>
                   </app>

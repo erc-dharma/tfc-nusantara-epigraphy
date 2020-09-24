@@ -88,74 +88,74 @@
             <div type="apparatus">
                 <listApp>
                   <app loc="1r1">
-                      <lem>śri</lem><rdg source="Boechari1985-1986_01">sri</rdg>
+                      <lem>śri</lem><rdg source="bib:Boechari1985-1986_01">sri</rdg>
                   </app>
                   <app loc="1r1">
                       <lem><choice><sic>buḍuga</sic><corr>baḍuga</corr></choice></lem>
-                      <rdg source="Boechari1985-1986_01">baduga</rdg>
+                      <rdg source="bib:Boechari1985-1986_01">baduga</rdg>
                   </app>
                   <app loc="1r2">
                         <lem>ma na</lem>
-                        <rdg source="Boechari1985-1986_01"><choice><sic>mana</sic><corr>nana</corr></choice></rdg>
+                        <rdg source="bib:Boechari1985-1986_01"><choice><sic>mana</sic><corr>nana</corr></choice></rdg>
                       <note>Boechari reads as one word, mana, and notes “Maksudnya: nana”</note>
                   </app>
                     <app loc="1r3">
                         <lem>ḍi</lem>
-                        <rdg source="Boechari1985-1986_01"><gap reason="omitted"/></rdg>
+                        <rdg source="bib:Boechari1985-1986_01"><gap reason="omitted"/></rdg>
                     </app>
                     <app loc="1r3">
                         <lem>vaya</lem>
-                        <rdg source="Boechari1985-1986_01">aya</rdg>
+                        <rdg source="bib:Boechari1985-1986_01">aya</rdg>
                     </app>
                     <app loc="1r3">
                         <lem>ṅubaḥ ya</lem>
-                        <rdg source="Boechari1985-1986_01">ṅupah ya</rdg>
-                        <rdg source="HasanDjafar1991_01">ṅubahya</rdg>
+                        <rdg source="bib:Boechari1985-1986_01">ṅupah ya</rdg>
+                        <rdg source="bib:HasanDjafar1991_01">ṅubahya</rdg>
                     </app>
                     <app loc="1r4">
                         <lem>vaya</lem>
-                        <rdg source="Boechari1985-1986_01">aya</rdg>
-                        <rdg source="HasanDjafar1991_01">vaya</rdg>
+                        <rdg source="bib:Boechari1985-1986_01">aya</rdg>
+                        <rdg source="bib:HasanDjafar1991_01">vaya</rdg>
                     </app>
                     <app loc="1r4">
                         <lem>ṅahəryanan ya</lem>
-                        <rdg source="Boechari1985-1986_01">ṅahəryanan</rdg>
-                        <rdg source="HasanDjafar1991_01">ṅahəryanan</rdg>
+                        <rdg source="bib:Boechari1985-1986_01">ṅahəryanan</rdg>
+                        <rdg source="bib:HasanDjafar1991_01">ṅahəryanan</rdg>
                         <note>It is clear that we have <foreign>pasangan</foreign> <foreign>y</foreign> after <foreign>n</foreign>, and not a <foreign>paten</foreign></note>
                     </app>
                     <app loc="1r4">
                         <lem>tebeḥ</lem>
-                        <rdg source="Boechari1985-1986_01">te beḥ</rdg>
-                        <rdg source="HasanDjafar1991_01"><choice><orig>te</orig><corr>ti</corr></choice> beḥ</rdg>
+                        <rdg source="bib:Boechari1985-1986_01">te beḥ</rdg>
+                        <rdg source="bib:HasanDjafar1991_01"><choice><orig>te</orig><corr>ti</corr></choice> beḥ</rdg>
                     </app>
                     <app loc="1r4">
                         <lem>ciraAb</lem>
-                        <rdg source="Boechari1985-1986_01">ciraub</rdg>
+                        <rdg source="bib:Boechari1985-1986_01">ciraub</rdg>
                     </app>
                     <app loc="1v1">
                         <lem>mihape ya</lem>
-                    <rdg source="Boechari1985-1986_01"><choice><sic>himapeya</sic><corr>himapeyan</corr></choice></rdg>
-                        <rdg source="HasanDjafar1991_01">mihapeya</rdg>
+                    <rdg source="bib:Boechari1985-1986_01"><choice><sic>himapeya</sic><corr>himapeyan</corr></choice></rdg>
+                        <rdg source="bib:HasanDjafar1991_01">mihapeya</rdg>
                     </app>
                     <app loc="1v4">
                         <lem>vaya</lem>
-                        <rdg source="Boechari1985-1986_01">aya</rdg>
-                        <rdg source="HasanDjafar1991_01">vaya</rdg>
+                        <rdg source="bib:Boechari1985-1986_01">aya</rdg>
+                        <rdg source="bib:HasanDjafar1991_01">vaya</rdg>
                     </app>
                     <app loc="1v4">
                         <lem>kəḍə</lem>
-                        <rdg source="Boechari1985-1986_01">kədə</rdg>
-                        <rdg source="HasanDjafar1991_01">kədə</rdg>
+                        <rdg source="bib:Boechari1985-1986_01">kədə</rdg>
+                        <rdg source="bib:HasanDjafar1991_01">kədə</rdg>
                     </app>
                     <app loc="1v4">
                         <lem>bənaṁṅiṁ</lem>
-                        <rdg source="Boechari1985-1986_01">bənaṅiṁ</rdg>
-                        <rdg source="HasanDjafar1991_01">bənaṁṅiṁ</rdg>
+                        <rdg source="bib:Boechari1985-1986_01">bənaṅiṁ</rdg>
+                        <rdg source="bib:HasanDjafar1991_01">bənaṁṅiṁ</rdg>
                     </app>
                     <app loc="1v5">
                         <lem>Iṁ</lem>
-                        <rdg source="Boechari1985-1986_01">AIṁ</rdg>
-                        <rdg source="HasanDjafar1991_01">AIṁ</rdg>
+                        <rdg source="bib:Boechari1985-1986_01">AIṁ</rdg>
+                        <rdg source="bib:HasanDjafar1991_01">AIṁ</rdg>
                         <note>We dont see character <foreign>A</foreign> before <foreign>I</foreign>.</note>
                     </app>
                   </listApp>

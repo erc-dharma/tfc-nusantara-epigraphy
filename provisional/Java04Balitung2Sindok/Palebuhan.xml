@@ -100,7 +100,7 @@ mañavriṁ maṅlākha, maṅapus· maṅubar· manahab· manuk·, maṁdyūn·
            <!--apparatus encoded as per EG §9.1, basic elements for apparatus below-->
                <listApp>
 <app loc="1r2">
-<lem source="bibl:Stutterheim1935_02">saṁ la<unclear>ra</unclear><gap reason="lost" extent="unknown" unit="character"/></lem>
+<lem source="bib:Stutterheim1935_02">saṁ la<unclear>ra</unclear><gap reason="lost" extent="unknown" unit="character"/></lem>
 <note>Sarkar (<bibl rend="omitname"><ptr target="bib:Sarkar1971-1972_01"/>)
                     <citedRange unit="volume">2</citedRange>
                       <citedRange unit="page">219</citedRange>
@@ -109,32 +109,32 @@ mañavriṁ maṅlākha, maṅapus· maṅubar· manahab· manuk·, maṁdyūn·
 </app>
             <app loc="1r7">
 	<lem><unclear>k</unclear><supplied reason="lost">liṅ ā</supplied><lb n="1r8" break="no"/><unclear>ryya</unclear></lem>
-	<rdg source="bibl:Stutterheim1935_02">ve<gap reason="lost" extent="unknown"/><lb n="1r8"/>v-bya</rdg>
+	<rdg source="bib:Stutterheim1935_02">ve<gap reason="lost" extent="unknown"/><lb n="1r8"/>v-bya</rdg>
 	<note>Stutterheim's reading, with its unexplained hyphen, does not yield a sense. Since not a single epigraphic context is known where a list of <foreign>kilalān</foreign> contains the item <foreign>paṇḍikira</foreign> without this being separated from the word <foreign>kilalān</foreign> by the precise words <foreign>kliṅ āryya siṅhala</foreign>, I feel convinced that Stutterheim's <foreign>ve</foreign> must have been a misreading for the <foreign>k</foreign> component of the akṣara <foreign>kli</foreign> whose remainder was lost with the severing of a fragment from the plate, while his <foreign>v-bya</foreign> must have been a misreading of <foreign>ryya</foreign>.</note>
 </app>
 <app loc="1v2">
-<lem source="bibl:Stutterheim1935_02">bras· gula ka<gap reason="lost" extent="unknown" unit="character"/><lb n="1v3"/>sumba</lem>
+<lem source="bib:Stutterheim1935_02">bras· gula ka<gap reason="lost" extent="unknown" unit="character"/><lb n="1v3"/>sumba</lem>
 <note>I suspect that the elipsis in Stutterheim's reading is a mistake, and that the original read <foreign>bras· gula kasumba </foreign> without any lacuna.</note>
 </app>
 <app loc="1v5">
 	<lem>masu<supplied reason="omitted">ṁ</supplied>hara</lem>
-	<rdg source="bibl:Stutterheim1935_02">masuhara</rdg>
+	<rdg source="bib:Stutterheim1935_02">masuhara</rdg>
 </app>
 <app loc="1v6">
 	<lem>ṇḍan su<supplied reason="omitted">ṁ</supplied>haranya</lem>
-	<rdg source="bibl:Stutterheim1935_02">ṇḍan suharanya</rdg>
+	<rdg source="bib:Stutterheim1935_02">ṇḍan suharanya</rdg>
 </app>
 <app loc="1v6">
 	<lem>masu<supplied reason="omitted">ṁ</supplied>hara</lem>
-	<rdg source="bibl:Stutterheim1935_02">masuhara</rdg>
+	<rdg source="bib:Stutterheim1935_02">masuhara</rdg>
 </app>
 <app loc="1v7">
-<lem source="bibl:Sarkar1971-1972_01">surat praṣa<supplied reason="lost">sti</supplied></lem>
-<rdg source="bibl:Stutterheim1935_02">praṣa<gap reason="lost" extent="unknown" unit="character"/></rdg>
+<lem source="bib:Sarkar1971-1972_01">surat praṣa<supplied reason="lost">sti</supplied></lem>
+<rdg source="bib:Stutterheim1935_02">praṣa<gap reason="lost" extent="unknown" unit="character"/></rdg>
 <note>Sarkar's restitution is supported by an occurrences of <foreign>surat praśasti</foreign> in the Kasugihan inscription, line 1v1.</note><!-- encode link to Kasugihan file -->
 </app>
 <app loc="1v10">
-<lem source="bibl:Stutterheim1935_02">śrī mahārāja <gap reason="lost" extent="unknown" unit="character"/><lb n="1v11"/>ri garuṁ</lem>
+<lem source="bib:Stutterheim1935_02">śrī mahārāja <gap reason="lost" extent="unknown" unit="character"/><lb n="1v11"/>ri garuṁ</lem>
 <note>As suggested above, in my note on 1rv, one could think of restoring <foreign>śrī mahārāja saṁ lumaḥ ri garuṁ</foreign>.</note>
 </app>
                </listApp>         
@@ -176,7 +176,7 @@ become the subject of discussion in the remotest future !</p>
          </div>
         <div type="bibliography">
 	<!--bibliography encoded as per section §9.4 -->
-            <p>First edited, with translation into Dutch, by Stutterheim (<bibl rend="omitname"><ptr target="Stutterheim1935_02"/></bibl>), on the basis of a rubbing. Reproduction of Stutterheim’s edition, to which is added a translation into English, by H.B. Sarkar (<bibl rend="omitname"><ptr target="bib:Sarkar1971-1972_01"/></bibl>); re-edited here by Arlo Griffiths on the solve basis of Stutterheim's edition, because the original plate and the rubbing seem to have been lost.</p>
+            <p>First edited, with translation into Dutch, by Stutterheim (<bibl rend="omitname"><ptr target="bib:Stutterheim1935_02"/></bibl>), on the basis of a rubbing. Reproduction of Stutterheim’s edition, to which is added a translation into English, by H.B. Sarkar (<bibl rend="omitname"><ptr target="bib:Sarkar1971-1972_01"/></bibl>); re-edited here by Arlo Griffiths on the solve basis of Stutterheim's edition, because the original plate and the rubbing seem to have been lost.</p>
             <listBibl type="primary">
                     <bibl n="WFS">
                       <ptr target="bib:Stutterheim1935_02"/>
