@@ -135,11 +135,24 @@ Occurrences of śuddhapariśuddha in OJO XXIII and XLVIII.
 	<!--bibliography encoded as per section §9.4 -->
            <p>First edited by J.L.A. Brandes <bibl rend="omitname"><ptr target="bib:Brandes1913_01"/></bibl>, apparently based on autopsy of the plate; readings of small segments of text containing proper names and toponyms by L.-Ch. Damais (<bibl rend="omitname"><ptr target="bib:Damais1970_01"/></bibl>) based on a mediocre eye-copy that he had been able to consult at the Archaeological Service; reproduction of Brandes’ edition, to which is added a translation into English, by H. B. Sarkar (<bibl rend="omitname"><ptr target="bib:Sarkar1971-1972_01"/></bibl>). The text is re-edited by Arlo Griffiths without inspection of any reproduction, taking Brandes’ edition as base-text, with reinterpretation of the transliteration system according to DHARMA norms, and adoption of new readings proposed by Damais.</p>
         	<listBibl type="primary">
-		<bibl n="B"><ptr target="bib:Brandes1913_01"/><citedRange unit="page">262</citedRange><citedRange unit="item">CXXX</citedRange></bibl>
-		<bibl n="S"><ptr target="bib:Sarkar1971-1972_01"/><citedRange unit="volume">2</citedRange><citedRange unit="page">135-137</citedRange><citedRange unit="item">81</citedRange></bibl>
+		<bibl n="B">
+			<ptr target="bib:Brandes1913_01"/>
+			<citedRange unit="page">262</citedRange>
+			<citedRange unit="item">CXXX</citedRange>
+		</bibl>
+		<bibl n="S">
+			<ptr target="bib:Sarkar1971-1972_01"/>
+			<citedRange unit="volume">2</citedRange>
+			<citedRange unit="page">135-137</citedRange>
+			<citedRange unit="item">81</citedRange>
+		</bibl>
 	</listBibl>
            <listBibl type="secondary">
-              <bibl>Brandes in <ptr target="bib:NBG34_1896"/><citedRange unit="page">53</citedRange><citedRange unit="item">3</citedRange></bibl>
+              <bibl>Brandes in 
+              	<ptr target="bib:NBG34_1896"/>
+              	<citedRange unit="page">53</citedRange>
+              	<citedRange unit="item">3</citedRange>
+              </bibl>
 <!-- "3°. bericht, dat hem door den Heer J. A. Dieduksman te Djogjakarta ter bezichtiging en ontcijfering is afgestaan eene tot nog toe onbekende koperen plaat, een quitantie leverende van Çaka 833 (= A. D. 911)." -->
 	<bibl><ptr target="bib:Bosch1915_01"/><citedRange unit="page">5</citedRange></bibl>
 	<bibl><ptr target="bib:Bosch1926_02"/><citedRange unit="page">65</citedRange></bibl>
