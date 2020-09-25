@@ -60,7 +60,7 @@
       <body>
  <div type="edition" xml:lang="kaw-Latn">
 <pb n="1r"/><p><lb n="1r1"/>śaka 833 phālgu<choice><orig>ṇ</orig><reg>n</reg></choice>a-māsa dvitīyă kr̥ṣṇa-pakṣa, <abbr>ma</abbr>,
-<lb n="1r2"/><abbr>va</abbr>‚ <abbr>Ā</abbr>, vāra‚</p> <p>kālani ḍaṁ navī sumahur hutaṁ saṁ bapa I mpu guru
+<lb n="1r2"/><abbr>va</abbr>‚ <abbr>Ā</abbr>, vāra‚ kālani ḍaṁ navī sumahur hutaṁ saṁ bapa I mpu guru
 <lb n="1r3"/>ḍayā‚ panahurnya mas· <abbr>su</abbr> <num value="16">16</num> <abbr>mā</abbr> <num value="10">10</num> <abbr>ku</abbr> <num value="2">2</num> <abbr>ha</abbr> <num value="5">5</num> tumaṅga<lb n="1r4" break="no"/>pp ikaṁ mas· pu latī bapani bayal anag vanva I vuru tuṅgal·
 <lb n="1r5"/>tutuganniṁ taṇḍa muAṁ pu vijaḥ bapani bhūmi Anag vanva I vuru tu<lb 
 n="1r6" break="no"/>ṅgal·‚ śuddha hutaṁni ḍaṁ navĭ I mpu guru ḍayā,</p> <p>tatra sākṣī saṁ tgu<lb 
@@ -68,7 +68,7 @@ n="1r7" break="no"/>hān anag vanva I pilaṁ vatak paṅgil hyaṁ‚ saṁ ta<
 n="1v" break="no"/><lb 
 n="1v1" break="no"/>nva I valaka<choice><orig>ś</orig><reg>s</reg></choice> vatak valakas saṁ bhāskara Anag vanva I valeṁ
 <lb n="1v2"/>vatak valeṁ‚ saṁ pakambaṅan· Anag vanva I taṅga vatak hino
-<lb n="1v3"/>saṁ ra tira Anag vanva I limo vatak pagar vsi‚</p> <p>likhitapātra
+<lb n="1v3"/>saṁ ra tira Anag vanva I limo vatak pagar vsi‚ likhitapātra
 <lb n="1v4"/>rake pilaṁ</p>
          </div>
          <div type="apparatus">
@@ -96,7 +96,7 @@ n="1v1" break="no"/>nva I valaka<choice><orig>ś</orig><reg>s</reg></choice> vat
                   </app>
 <app loc="1r6">
 	<lem source="bib:Damais1970_01">tgu<lb n="1r7" break="no"/>hān</lem>
-	<rdg source="bib:Brandes1913_01">tgu<lb/>hhan</rdg>
+	<rdg source="bib:Brandes1913_01">tgu<lb break="no"/>hhan</rdg>
 	<note>I adopt the reading recorded by <bibl><ptr target="bib:Damais1970_01"/><citedRange unit="page">455</citedRange></bibl>.</note>
 </app>
 <app loc="1r7">
@@ -114,10 +114,8 @@ n="1v1" break="no"/>nva I valaka<choice><orig>ś</orig><reg>s</reg></choice> vat
          </div>
          <div type="translation" xml:lang="eng" resp="part:argr">
 <!-- I  translate similarly to HBS: -->
-<p n="1r1-2">Śaka 833, month of Phālguna, second <supplied reason="explanation"><foreign>tithi</foreign></supplied> of the waning fortnight, Mavulu, Vagai‚ Sunday.</p> 
- <p n="1r2-6"><supplied reason="subaudible">That</supplied> was the time that <foreign>ḍaṁ</foreign> Navī repaid the debt of his/her father to Master <supplied reason="explanation"><foreign>mpu guru</foreign></supplied> Ḍayā. The repayment for it was 16 <foreign>suvarṇa</foreign>, 10 <foreign>māṣa</foreign>, 2 <foreign>kupaṅ</foreign>, and 5 <foreign>hatak</foreign>. <foreign>Pu</foreign> Latī, father of Bayal, resident of the village of Vuru Tuṅgal, <foreign>tutuganniṅ taṇḍa</foreign>, together with <foreign>pu</foreign> Vijah, father of Bhūmi, <supplied reason="explanation">also</supplied> resident of the village of Vuru Tuṅgal, received the gold. The debt of <foreign>ḍaṁ</foreign> Navī to the Master Ḍayā was cleared <supplied reason="explanation"><foreign>śuddha</foreign></supplied>.</p>
- <p n="1r6-1v3">The witnesses to it were: <foreign>saṅ</foreign> Tǝguhan, resident of the village of Pilaṅ, <foreign>vatak</foreign> of Paṅgil Hyaṅ; <foreign>saṅ</foreign> Ta<gap reason="lost"/>, resident of the village of Valakas, <foreign>vatak</foreign> of Valakas; <foreign>saṅ</foreign> Bhāskara, resident of the village of Valaiṅ, <foreign>vatak</foreign> of Valaiṅ; <foreign>saṅ</foreign> Pakambaṅan, resident of the village of Taṅga, <foreign>vatak</foreign> of Hino; <foreign>saṅ</foreign> Ra Tira, resident of the village of Limo, <foreign>vatak</foreign> of Pagar Vsi.</p> 
-<p n="1r3-4">The document was written by the <foreign>rakai</foreign> of Pilaṅ.</p>
+<p n="1r1-6">Śaka 833, month of Phālguna, second <supplied reason="explanation"><foreign>tithi</foreign></supplied> of the waning fortnight, Mavulu, Vagai‚ Sunday. <supplied reason="subaudible">That</supplied> was the time that <foreign>ḍaṁ</foreign> Navī repaid the debt of his/her father to Master <supplied reason="explanation"><foreign>mpu guru</foreign></supplied> Ḍayā. The repayment for it was 16 <foreign>suvarṇa</foreign>, 10 <foreign>māṣa</foreign>, 2 <foreign>kupaṅ</foreign>, and 5 <foreign>hatak</foreign>. <foreign>Pu</foreign> Latī, father of Bayal, resident of the village of Vuru Tuṅgal, <foreign>tutuganniṅ taṇḍa</foreign>, together with <foreign>pu</foreign> Vijah, father of Bhūmi, <supplied reason="explanation">also</supplied> resident of the village of Vuru Tuṅgal, received the gold. The debt of <foreign>ḍaṁ</foreign> Navī to the Master Ḍayā was cleared <supplied reason="explanation"><foreign>śuddha</foreign></supplied>.</p>
+ <p n="1r6-1v3">The witnesses to it were: <foreign>saṅ</foreign> Tǝguhan, resident of the village of Pilaṅ, <foreign>vatak</foreign> of Paṅgil Hyaṅ; <foreign>saṅ</foreign> Ta<gap reason="lost"/>, resident of the village of Valakas, <foreign>vatak</foreign> of Valakas; <foreign>saṅ</foreign> Bhāskara, resident of the village of Valaiṅ, <foreign>vatak</foreign> of Valaiṅ; <foreign>saṅ</foreign> Pakambaṅan, resident of the village of Taṅga, <foreign>vatak</foreign> of Hino; <foreign>saṅ</foreign> Ra Tira, resident of the village of Limo, <foreign>vatak</foreign> of Pagar Vsi. The document was written by the <foreign>rakai</foreign> of Pilaṅ.</p>
          </div>
          <div type="commentary">
             <!--commentary encoded as per section §9.3 -->

@@ -219,6 +219,7 @@ n="2r5" break="no"/><gap reason="lost" quantity="1" unit="character"/><unclear>l
             <listBibl type="secondary">
 	<bibl><ptr target="bib:Lombard1971_01"/><citedRange unit="page">286</citedRange></bibl>
 <!-- summary of Moh. Oemar's paper -->
+<bibl><ptr target="bib:Nakada1982_01"/><citedRange unit="page">74-75</citedRange><citedRange unit="part">1</citedRange><citedRange unit="item">9</citedRange></bibl>
                 <bibl><ptr target="bib:Weatherbee2000_01"/><citedRange unit="page">349</citedRange><citedRange unit="note">13</citedRange></bibl>
                 <!-- Incoherence between date 748 Ś = 826 CE read by Moh. Oemar and mention of Rakai Patapan Pu Manuku whose other occurrences on inscriptions date to 850 and 853. Problem becomes worse if one reads 728 Ś! -->
              <bibl></bibl>
