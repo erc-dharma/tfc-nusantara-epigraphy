@@ -141,7 +141,12 @@ n="1v5" break="no"/>jara ya muvaḥ dlāhaniṁ dlāha ya donikeṁ jayapātra <
 	- photos furnished in 2009 and 2019 by Wereldmuseum -->	
 </p>
         	<listBibl type="primary">
-		<bibl n="H"><ptr target="bib:Holle1880_02"/><citedRange unit="part">1 <q>Koperen platen uit de collectie van den heer J.A. Dieduksman</q></citedRange><citedRange unit="page">1-2</citedRange></bibl>
+		<bibl n="H">
+			<ptr target="bib:Holle1880_02"/>
+			<citedRange unit="part">1</citedRange>
+			<citedRange unit="page">1-2</citedRange>
+		<note> <q>Koperen platen uit de collectie van den heer J.A. Dieduksman</q></note>
+		</bibl>
 		<bibl n="B"><ptr target="bib:Brandes1889_01"/></bibl>	
 		<bibl n="S"><ptr target="bib:Sarkar1971-1972_01"/><citedRange unit="volume">2</citedRange><citedRange unit="page">99-101</citedRange><citedRange unit="item">73</citedRange></bibl>	
 		<bibl n="TSN"><ptr target="bib:TitiSurtiNastiti2016_01"/><citedRange unit="page">412-413</citedRange></bibl>
