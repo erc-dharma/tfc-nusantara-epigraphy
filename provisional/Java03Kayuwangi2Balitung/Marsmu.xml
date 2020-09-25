@@ -100,7 +100,7 @@
          </div>
         <div type="bibliography">
 	<!--bibliography encoded as per section §9.4 -->
-	<p>First edited by Cohen Stuart (<bibl rend="omitname"><ptr target="bib:CohenStuart1875_01"/><citedRange unit="page">23</citedRange><citedRange unit="item">XIII</citedRange></bibl>) with a lithographic reproduction in the accompanying volume of plates (<bibl><ptr target="Huart+Hooiberg1875_01"/></bibl>); edited again by Boechari (<bibl rend="omitname"><ptr target="bib:Boechari1985-1986_01"/><citedRange unit="page">53</citedRange> <citedRange unit="item">E.16</citedRange></bibl>); re-edited here by Arlo Griffiths from the Leiden estampage of the plate.</p>
+	<p>First edited by Cohen Stuart (<bibl rend="omitname"><ptr target="bib:CohenStuart1875_01"/><citedRange unit="page">23</citedRange><citedRange unit="item">XIII</citedRange></bibl>) with a lithographic reproduction in the accompanying volume of plates (<bibl><ptr target="bib:Huart+Hooiberg1875_01"/></bibl>); edited again by Boechari (<bibl rend="omitname"><ptr target="bib:Boechari1985-1986_01"/><citedRange unit="page">53</citedRange> <citedRange unit="item">E.16</citedRange></bibl>); re-edited here by Arlo Griffiths from the Leiden estampage of the plate.</p>
   	<listBibl type="primary">
 	  <bibl n="CS"><ptr target="bib:CohenStuart1875_01"/><citedRange unit="page">23</citedRange><citedRange unit="item">XIII</citedRange></bibl>
 	  <bibl n="B" rend="omitname"><ptr target="bib:Boechari1985-1986_01"/><citedRange unit="page">53</citedRange> <citedRange unit="item">E.16</citedRange></bibl>
