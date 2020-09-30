@@ -45,7 +45,7 @@
 					</msContents>
 					<physDesc>
 						<handDesc>
-			<p>Titi Surti Nastiti (p. 413 n. 36) observes correctly that "Dalam prasasti ini pasangan wa ditulis tidak konsisten, ada yang bulat dan ada yang agak oval". 
+			<p>Titi Surti Nastiti (p. 413 n. 36) observes correctly that <q>Dalam prasasti ini pasangan <foreign>wa</foreign> ditulis tidak konsisten, ada yang bulat dan ada yang agak oval.</q> 
 <!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EGD 11.2. --></p>
 						</handDesc>
 					</physDesc>
@@ -53,15 +53,16 @@
 			</sourceDesc>
 		</fileDesc>
 		<revisionDesc>
-			<change who="part:argr" when="2020-09-01" status="draft">Initial encoding of the file</change>
+			<change who="part:argr" when="2020-09-25" status="draft">revisions</change>
+			<change who="part:argr" when="2020-09-01" status="draft">initial encoding of the file</change>
 		</revisionDesc>
 	</teiHeader>
 	<text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="kaw-Latn">
-<pb n="1r"/><p><lb n="1r1"/><g type="ddandaCross"/> svasti śakavarṣātīta <num value="829">829</num> śravaṇamāsa, tithi dvādaśi śukla‚ <abbr>ma</abbr>, <abbr>po</abbr><unclear>‚</unclear> <abbr>bu</abbr>‚ vāra</p><p>tatkālani pu tabvǝl· 
+<pb n="1r"/><p><lb n="1r1"/><g type="ddandaCross"/> svasti śaka-varṣātīta <num value="829">829</num> śravaṇa-māsa, tithi dvādaśi śukla‚ <abbr>ma</abbr>, <abbr>po</abbr><unclear>‚</unclear> <abbr>bu</abbr>‚ vāra<supplied reason="omitted">,</supplied> tatkālani pu tabvǝl· 
 <lb n="1r2"/>Anag vanuA Iṁ guntur· punpunaniṁ vihāre<!-- prima facie, the reading actually seems to be viharare --> garuṁ pinariccheda guṇa-doṣanira de samaggat· pinapan·
-<lb n="1r3"/>pu gavul· muAṁ saṁ Anakabvi pu gallam· vanuA I pulu vatu,</p><p>samvandhanikaṁ guṇa-doṣa, hana saṁ dharma ṅara<lb 
+<lb n="1r3"/>pu gavul· muAṁ saṁ Anakabvi pu gallam· vanuA I pulu vatu,</p> <p>samvandhanikaṁ guṇa-doṣa, hana saṁ dharma ṅara<lb 
 n="1r4" break="no"/>nya bapani maṁhampig· saṁkā ri vurakuṁ ya ta tumagiḥ pu tabvǝl· tinagihakanya mas· <abbr>su</abbr> <num value="1">1</num><!-- Brandes and TSN reads a punctuation sign after this numeral, but I see none. --> ndātan hutaṁ
 <lb n="1r5"/>pu tabvǝl· ya hutaṁ saṁ Anakabvi, makaṅaran si campa‚ vuAṁ sānak saṁ dharma, pajjaḥ puA si campa‚ tinagiḥ
 <lb n="1r6"/>ta pu tabvǝl· de saṁ dharma, ndātan hanānakni pu tabvǝl· muAṁ si campa‚ ṅuniveḥ yar vruha rikaṁ hutaṁ ya
@@ -71,12 +72,12 @@ n="1v" break="no"/><lb
 n="1v1" break="no"/>n paṅavruḥnikaṁ laki-laki, ṅuniveḥ yan· tan hana Anak samvandha,</p><p>tatra sākṣī rovaṁ rakryān· Aputu, 
 <lb n="1v2"/>pu rakak· vuAṁ I taṁkil·, rovaṁ rakryān· hamǝAs· pu kirat· vuAṁ I timvun· vsi‚ pu saṅgama vuAṁ I gu<lb 
 n="1v3" break="no"/>ntur·‚ muAṁ guru vaju Anakabvi samaggat pinapan· Atuha‚ nāhan· kveḥniṁ sākṣī byakt<unclear>i</unclear>nyan· sampun· 
-<lb n="1v4"/>śuddha-pariśuddha Ikaṁ guṇa-doṣa, likhita-pātra dyaḥ raṅgal· vuAṁ I varasiga <g type="ddandaHooked">.</g></p><p>kunaṁ sugyan ta<unclear reason="eccentric_ductus">m</unclear>ān paṅu<lb 
-n="1v5" break="no"/>jara ya muvaḥ dlāhaniṁ dlāha ya donikeṁ jayapātra <g type="ddandaHooked">.</g> <g type="ddandaCross"/> <g type="ddandaHooked">.</g></p>
+<lb n="1v4"/>śuddha-pariśuddha Ikaṁ guṇa-doṣa, likhita-pātra dyaḥ raṅgal· vuAṁ I varasiga<g type="ddandaHooked">.</g></p><p>kunaṁ sugyan ta<unclear reason="eccentric_ductus">m</unclear>ān paṅu<lb 
+n="1v5" break="no"/>jara ya muvaḥ dlāhaniṁ dlāha ya donikeṁ jayapātra<g type="ddandaHooked">.</g> <g type="ddandaCross"/> <g type="ddandaHooked">.</g></p>
          </div>
          <div type="apparatus">
            <!--apparatus encoded as per EGD §9.1, basic elements for apparatus below-->
-               <listApp><!-- one <app> for each apparatus entry -->
+               <listApp>
 	<app loc="1r1">
                      <lem source="bib:Goris1928_01 bib:TitiSurtiNastiti2016_01"><num value="829">829</num></lem>
                      <rdg source="bib:Brandes1889_01"><num value="849">849</num></rdg>
@@ -97,8 +98,8 @@ n="1v5" break="no"/>jara ya muvaḥ dlāhaniṁ dlāha ya donikeṁ jayapātra <
 <note>Brandes and Titi Surti Nastiti read two words, but only one word is intended here (<bibl><ptr target="bib:Zoetmulder1982_01"></ptr><citedRange unit="entry">yatan</citedRange></bibl>).</note>
 </app>
                   <app loc="1v1">
-                     <lem source="bib:TitiSurtiNastiti2016_01">Aputu,</lem>
-		<rdg source="bib:Brandes1889_01">Aputu</rdg>
+                     <lem source="bib:TitiSurtiNastiti2016_01">Aputu, <lb n="1v2"/>pu rakak·</lem>
+		<rdg source="bib:Brandes1889_01">Aputu <lb n="1v2"/>pu rakak·</rdg>
                      <note>Brandes does not read a punctuation sign after <foreign>Aputu</foreign>.</note>
                   </app>
 		<app loc="1v2">
@@ -108,12 +109,12 @@ n="1v5" break="no"/>jara ya muvaḥ dlāhaniṁ dlāha ya donikeṁ jayapātra <
 	<app loc="1v3">
 		<lem source="bib:Brandes1889_01">Atuha‚</lem>
 	<rdg source="bib:TitiSurtiNastiti2016_01">Atuhā‚</rdg>
-	<note>Comparing the shape of tarung in the <foreign>hā</foreign> in <foreign>vihāre</foreign> in 1r2 with the shapes of punctuation signs in this inscription, it seems once can read either tarung or punctuation sign but not both, so either <foreign>Atuhā</foreign> or <foreign>Atuha,</foreign> — in the context, the reading with punctuation sign is preferable.</note>
+	<note>Comparing the shape of tarung in the <foreign>hā</foreign> in <foreign>vihāre</foreign> in 1r2 with the shapes of punctuation signs in this inscription, it seems that one can read either <foreign>tarung</foreign> or punctuation sign but not both, so either <foreign>Atuhā</foreign> or <foreign>Atuha,</foreign> — in the context, the reading with punctuation sign is preferable.</note>
 </app>
 <app loc="1v3">
 <lem source="bib:Brandes1889_01">byakt<unclear>i</unclear>nyan·</lem>
 <rdg source="bib:TitiSurtiNastiti2016_01">byaktanyan·</rdg>
-<note>Traces of an ulu, needed for the sense, are visible on the photographs.</note>
+<note>Traces of an <foreign>ulu</foreign>, needed for the sense, are visible on the photographs.</note>
 </app>
 	<app loc="1v4">
 		<lem>ta<unclear reason="eccentric_ductus">m</unclear>ān</lem>
@@ -123,14 +124,13 @@ n="1v5" break="no"/>jara ya muvaḥ dlāhaniṁ dlāha ya donikeṁ jayapātra <
          </div>
          <div type="translation" xml:lang="eng" resp="part:argr">
  	<!--By Arlo Griffiths, adapted from that published by H.B. Sarkar.-->
-<p n="1r1">Hail! Elapsed Śaka year 829, month of Śrāvaṇa, twelfth tithi of the waxing fortnight, Mawulu, Pon, Wednesday.</p> 
-<p n="1r1-1r3">That was the time when <foreign>pu</foreign> Tabwǝl‚ the hailing from the village of Guntur, domain of the monastery <supplied reason="explanation"><foreign>vihāra</foreign></supplied> at Garung, had his dispute <supplied reason="explanation"><foreign>guṇadoṣa</foreign></supplied> adjudicated by the officiant of Pinapan <supplied reason="subaudible">named</supplied> <foreign>pu</foreign> Gawul, along with his wife <supplied reason="subaudible">named</supplied> <foreign>pu</foreign> Gallam of the village of Puluwatu.</p> 
-<p n="1r3-1v1">The grounds <supplied reason="explanation"><foreign>sambandha</foreign></supplied> for the dispute was that a certain Dharma‚ father of Manghampig, originating from Wurakung, made a claim from <foreign>pu</foreign> Tabwǝl. A claim of 1 guilder <supplied reason="explanation"><foreign>suvarṇa</foreign></supplied> was made by him. But it was not the debt of <foreign>pu</foreign> Tabwǝl. The debt was of his wife named Campa, a cousin <supplied reason="explanation"><foreign>vuaṅ sānak</foreign></supplied> of Dharma. When Campa died, a claim was made of <foreign>pu</foreign> Tabwǝl by Dharma. But <foreign>pu</foreign> Tabwǝl and Campa had no children, let alone any that knew about <supplied reason="explanation">or: acknowledged</supplied> the debt. That was the reason why <supplied reason="subaudible">Dharma</supplied> came to the officiant of Pinapan. But Dharma did not come at the appointed time <supplied reason="explanation">for the hearing</supplied>. That was the reason why the officiant of Pinapan ruled against him. Moreover, there is no situation that such debt will accrue to the husband, if it is not knowledge <supplied reason="subaudible">on the part</supplied> of <supplied reason="explanation">or: ackowledgement by</supplied> the husband, let alone if there are no children as relatives <supplied reason="explanation">or: cousins</supplied>.</p>
-<p n="1v1-1v4">Witnesses thereof: the assistant of <foreign>rakryān</foreign> of Aputu <supplied reason="subaudible">named</supplied> <foreign>pu</foreign> Rakak‚ a man from Tangkil; the assistant of the <foreign>rakryān</foreign> of Hamǝas <supplied reason="subaudible">named</supplied> <foreign>pu</foreign> Kirat‚ a man from Timbun Wsi; <foreign>pu</foreign> Sanggama, a man from Guntur; and Guru Waju‚ the senior wife of the officiant of Pinapan. Such was the number of the witnesses as evidence that the dispute was entirely resolved. The document was written by <foreign>dyah</foreign> Ranggal, a man from Warasiga.</p> 
+<p n="1r1-3">Hail! Elapsed Śaka year 829, month of Śrāvaṇa, twelfth <foreign>tithi</foreign> of the waxing fortnight, Mavulu, Pon, Wednesday. That was the time when the dispute <supplied reason="explanation"><foreign>guṇa-doṣa</foreign></supplied> of <foreign>pu</foreign> Tabvǝl‚ native of the village of Guntur, domain <supplied reason="explanation"><foreign>punpunan</foreign></supplied> of the monastery <supplied reason="explanation"><foreign>vihāra</foreign></supplied> at Garuṅ, was adjudicated by the officiant of Pinapan <supplied reason="subaudible">named</supplied> <foreign>pu</foreign> Gavul, along with his wife <supplied reason="subaudible">named</supplied> <foreign>pu</foreign> Gallam of the village of Puluvatu.</p> 
+<p n="1r3-1v1">The grounds <supplied reason="explanation"><foreign>sambandha</foreign></supplied> for the dispute were that a certain Dharma‚ father of Maṅhampig, originating from Vurakuṅ, made a claim from <foreign>pu</foreign> Tabvǝl. A claim of 1 <foreign>suvarṇa</foreign> was made by him. But it was not the debt of <foreign>pu</foreign> Tabvǝl. The debt was of his wife, named <foreign>si</foreign> Campa, a cousin <supplied reason="explanation"><foreign>vvaṅ sānak</foreign></supplied> of Dharma. When Campa died, a claim was made of <foreign>pu</foreign> Tabvǝl by Dharma. <foreign>Pu</foreign> Tabvǝl and <foreign>si</foreign> Campa had no children, let alone any that would know about <supplied reason="explanation">or: acknowledge</supplied> the debt. That was the reason why <supplied reason="subaudible">Dharma</supplied> came to the officiant of Pinapan. <supplied reason="subaudible">But</supplied> Dharma did not come at the appointed time <supplied reason="explanation">for the hearing</supplied>. That was the reason why the officiant of Pinapan ruled against him. Moreover, there is no situation that such debt will accrue to the husband, if it is not knowledge <supplied reason="subaudible">on the part</supplied> of <supplied reason="explanation">or: ackowledgement by</supplied> the husband, let alone if there are no children. <supplied reason="subaudible">Such were</supplied> the grounds.<!--as relatives <supplied reason="explanation">or: cousins</supplied>.--></p>
+<p n="1v1-1v4">Witnesses thereof: the assistant of the <foreign>rakryān</foreign> of Aputu <supplied reason="subaudible">named</supplied> <foreign>pu</foreign> Rakak‚ a man from Taṅkil; the assistant of the <foreign>rakryān</foreign> of Hamǝas <supplied reason="subaudible">named</supplied> <foreign>pu</foreign> Kirat‚ a man from Timbun Vsi; <foreign>pu</foreign> Saṅgama, a man from Guntur; and Guru Vaju‚ the senior wife of the officiant of Pinapan <supplied reason="explanation">or: the  wife of the senior officiant of Pinapan</supplied>. Such was the number of the witnesses as evidence that the dispute was entirely resolved. The document was written by <foreign>dyah</foreign> Raṅgal, a man from Varasiga.</p> 
 <p n="1v4-1v5">As for the aim of this victory document <supplied reason="explanation"><foreign>jayapatra</foreign></supplied>, it is that <supplied reason="subaudible">even</supplied> in the future’s future there should no more be any one to discuss it.</p>
          </div>
          <div type="commentary">
-            <p n="1v4-1v5">Stutterheim (<bibl rend="omitname"><ptr target="bib:Stutterheim1935_01"/></bibl>) observed that the words <foreign>tamān paṅujara muvaḥ</foreign> (which he still quoted in Brandes' reading with <foreign>tatān</foreign>) find a parallel in the word <foreign>tan punaruktā</foreign> at the end of the <ref target="Palebuhan.xml">Palebuhan inscription</ref>. The correspondence of this closing paragraph with the final words preserved of the <ref target="Laguna.xml">Laguna plate</ref> are even more remarkable.</p>
+            <p n="1v4-1v5">Stutterheim (<bibl rend="omitname"><ptr target="bib:Stutterheim1935_01"/></bibl>) observed that the words <foreign>tamān paṅujara muvaḥ</foreign> (which he still quoted in Brandes' reading with <foreign>tatān</foreign>) find a parallel in the words <foreign>tan punaruktā</foreign> at the end of the <ref target="Palebuhan.xml">Palebuhan inscription</ref>. The correspondence of this closing paragraph with the final words preserved of the <ref target="Laguna.xml">Laguna plate</ref> are even more remarkable.</p>
          </div>
         <div type="bibliography">
 	<!--bibliography encoded as per section §9.4 -->
@@ -143,17 +143,16 @@ n="1v5" break="no"/>jara ya muvaḥ dlāhaniṁ dlāha ya donikeṁ jayapātra <
         	<listBibl type="primary">
 		<bibl n="H">
 			<ptr target="bib:Holle1880_02"/>
-			<citedRange unit="part">1</citedRange>
 			<citedRange unit="page">1-2</citedRange>
-		<note> <q>Koperen platen uit de collectie van den heer J.A. Dieduksman</q></note>
+			<citedRange unit="part">I A</citedRange>
 		</bibl>
 		<bibl n="B"><ptr target="bib:Brandes1889_01"/></bibl>	
 		<bibl n="S"><ptr target="bib:Sarkar1971-1972_01"/><citedRange unit="volume">2</citedRange><citedRange unit="page">99-101</citedRange><citedRange unit="item">73</citedRange></bibl>	
 		<bibl n="TSN"><ptr target="bib:TitiSurtiNastiti2016_01"/><citedRange unit="page">412-413</citedRange></bibl>
 </listBibl>
            <listBibl type="secondary">
-	<bibl><ptr target="bib:NBG14_1877"/><citedRange unit="page">136-137</citedRange></bibl>
-<!-- NBG14_1877: 136-137 "III. De Heer De Roo, onlangs eene reis gemaakt hebbende naar midden Java, deelt mede dat hij bij den Heer Dieduksman in Djokjakarta eene fraaie verzameling bronzen oudheden gezien heeft, waarvan die Heer zoo goed is geweest hem tijdelijk af te staan twee beschreven koperen platen en het ruggestuk van een Boeddha-beeldje, insgelijks met een inschrift, van welke beide inscriptiën de Heer De Roo voorstelt fac-similés te laten maken. De Heer Groeneveldt was hiermede bereids begonnen; wordt verder besloten den Heer Dieduksman dank te betuigen." -->
+	<bibl><ptr target="bib:NBG15_1877"/><citedRange unit="page">136-137</citedRange></bibl>
+<!-- NBG15_1877: 136-137 "III. De Heer De Roo, onlangs eene reis gemaakt hebbende naar midden Java, deelt mede dat hij bij den Heer Dieduksman in Djokjakarta eene fraaie verzameling bronzen oudheden gezien heeft, waarvan die Heer zoo goed is geweest hem tijdelijk af te staan twee beschreven koperen platen en het ruggestuk van een Boeddha-beeldje, insgelijks met een inschrift, van welke beide inscriptiën de Heer De Roo voorstelt fac-similés te laten maken. De Heer Groeneveldt was hiermede bereids begonnen; wordt verder besloten den Heer Dieduksman dank te betuigen." -->
 	<bibl>Brandes in <ptr target="bib:NBG24_1886"/><citedRange unit="page">24-29, esp. p. 27</citedRange></bibl>
 <!-- Brandes in NBG24_1886 (OJO and hence Sarkar misprint 1880), pp. 24–29, particularly p. 27:
 "VI. De Heer Dr. J. L. A. Brandes: a. Legt de ondervolgeude nota over: A. 1°. Onder de door de onlangs opgerichte Djogjasche vereeniging aan het Genootschap toegezonden photographien
