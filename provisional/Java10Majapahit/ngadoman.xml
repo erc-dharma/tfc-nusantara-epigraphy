@@ -89,17 +89,26 @@ n="8" break="no"/>dona vastu, sri syat i sakava<choice><orig>s</orig><reg>rs</re
                <lem>ha<choice><orig>d</orig><reg>rd</reg></choice>i damaluṁ</lem><!-- argr2masc: used <supplied> for inserting the layar? masc2argr: I am not convinced that this should be considered a case of omission.-->
                  <rdg source="bib:CohenStuart1872_01">hadi damaluṁ</rdg>
                  <!--Should we try to record somehow that Cohen Stuart was already hesitating, as he adds in his edition of 1872 "(of umalung?)"". I'm not sure how to convert the editor's markup here.-->
-                 <rdg source="bib:CohenStuart1875_01">hadi Umaluṁ</rdg>
+                 <rdg source="bib:CohenStuart1875_01 bib:Casparis1975_01">hadi Umaluṁ</rdg>
                  <note>Damaluṅ is one of the names anciently given to Mt. Merbabu and the term <foreign>hardi</foreign>, albeit part of the toponym, is to be distinguished from the proper noun. The colocations <foreign>Ardi Damaluṅ</foreign> or <foreign>Hardi Pamrihan</foreign> are commonly used to refer to this mountain in the colophons of Merapi-Merbabu manuscripts (as for instance in L 187, L 53, L 220, Mal-Pol 165). See <bibl><ptr target="bib:KuntaraWiryamartana1993_01"/><citedRange unit="page">505</citedRange></bibl>.</note>
              </app>
              <app loc="1">
-                 <lem source="bib:CohenStuart1872_01">Uri<lb n="2" break="no"/>piṁ</lem>
+                 <lem source="bib:CohenStuart1872_01 bib:Casparis1975_01">Uri<lb n="2" break="no"/>piṁ</lem>
                  <!--Same situation here. Should I try to convert Cohen Stuart's hesitations as to this reading ("u(û?)riping")? Maybe not?-->
                  <rdg source="bib:CohenStuart1875_01">Ūripiṁ</rdg>
              </app>
+             <app loc="2">
+               <lem source="bib:CohenStuart1872_01 bib:CohenStuart1875_01">hañakra</lem>
+               <rdg source="bib:Casparis1975_01">Añakra</rdg>
+             </app>
              <app loc="3">
              <lem>ha<unclear>m</unclear>ideni</lem>
-             <rdg source="bib:CohenStuart1872_01">ha<unclear>n</unclear>ideni</rdg><!--I interpret Cohen Stuart's uncertainties expressed as "hanidèni (?)" as bearing particularly on the akṣara m/n-->
+             <rdg source="bib:CohenStuart1872_01 bib:CohenStuart1875_01">ha<unclear>n</unclear>ideni</rdg><!--I interpret Cohen Stuart's uncertainties expressed as "hanidèni (?)" as bearing particularly on the akṣara m/n-->
+             <rdg source="bib:Casparis1975_01">hani deni</rdg>
+           </app>
+           <app loc="4">
+             <lem source="bib:Casparis1975_01">ka<choice><orig>b</orig><reg>mb</reg></choice>aḥha</lem>
+             <rdg source="bib:CohenStuart1872_01 bib:CohenStuart1875_01">kabahha</rdg>
            </app>
            <app loc="8">
            <lem>sri syat i</lem>
