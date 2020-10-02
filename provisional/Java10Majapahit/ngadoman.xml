@@ -72,11 +72,11 @@
 n="2" break="no"/>piṁ buhana hañakra murusa patirtan paL̥maran· hapan yaṁ
  <lb n="3"/>vidi ha<unclear>m</unclear>ideni yaṁ raditya yaṁ vulan· hanəL̥ I hala-hayu <lb
 n="4" break="no"/>ni deva-manusa yaṁ hanut ya<unclear>ṁ</unclear> hagave bajaran tapak taṁt<unclear>u</unclear> ka<choice><orig>b</orig><reg>mb</reg></choice>aḥha<!-- argr2masc: (...) see examples near top of p. 97 of EGD — but if we restore the nasal here, shouldn't we do so everywhere there is a subaudible nasal? if we reduce ḥh to h, should we not also reduce other such geminate spellings? masc2argr: I think we should try to restore the subaudible nasal everywhere we can (as this seems to be a feature of the particular writing tradition we are dealing with here), but I have not found other instances where this is applicable in this first portion of text. As for reducing the geminate spelling, I would now be tempted to leave the text as it is because I feel gemination at word boundary is very frequent throughout all the Majapahit period, irrespective of the context (e.g. also in royal charters in "pure" Old Javanese). -->
-  <lb n="5"/>d<unclear>e</unclear>ni deva-manusa muva<unclear>ḥ</unclear><!-- argr2masc: is the visarga clear on any photo we have? --> saṁ tu<unclear>mo</unclear>n saṁṅ amanah aR̥ṅə luputa
+  <lb n="5"/>d<unclear>e</unclear>ni deva-manusa muva<unclear>ḥ</unclear> saṁ tu<unclear>mo</unclear>n saṁṅ amanah aR̥ṅə luputa
   <lb n="6"/>riṁ<!-- argr2masc: the i is clear enough on one of the photos, certaonly clearer than taling/tarung of tumon in the previous line! masc2argr: It appears clearly on the reproduction published by de Casparis indeed. Should we try to record somehow the fact that the engraving is more shallow however (that is, inside the edition per se as well as in the metadata)?--> Ila-Ila paḍa kadəlana tutur jati</p>
 <p>yen ana ṅa<choice><orig>b</orig><reg>mb</reg></choice>aḥ<!-- argr2masc: see that you have followed EGD here in appliyng normalization only to the phonemese concerned! contrast case above. But I ask again: if we normalize in some cases, we ought do so more consistently. --> ta<lb
-n="7" break="no"/>n pabəkəla patik vənaṁ tan pabaktaha histri pituṁ ha<unclear>ja</unclear>ma<!-- argr2masc: I find the ja almost equally clear as the one in bajaran in line 4; from our translation, it seems you have accepted the idea that we have a form of jamah, meaning that we could again restore a subaudible nasal and supply a missing akṣara ha to get hañjamaha. Or else read/emend hajamatan as hajamahan? See next comment. --> <unclear>t</unclear>a<!-- argr2masc: the ta isn't really clear to me, but perhaps it is the best choise, indeed. Maybe apply <unclear>? -->n vava<lb
-n="8" break="no"/>dona vastu, sri syat i sakavarsa<!-- argr2masc: do we have any photo where any trace of the layar is visible at all? masc2argr: it appears quite clearly on de Casparis' Plate X. --> <g type="linga"/><!-- argr2masc: the linga here is certainly not a punctuation sign, which your use of <g>.</g> implies; please re-read EGD 4.2; if we want to treat the linga as a text-internal synbol at all, then we'd have to follow the rule "non-alphabetic glyphs that do not clearly fall into any of the above categories (§4.2.6) are not transliterated with any character, but represented by the empty element  <g/> with an appropriate @type". But we could also encode a <space type="ascender"> or simply state in an <app> <note> that the space between sakavarsa and I is filled by the linga that is part of the stone's iconographic program. See also my comment at bottom of file.  --></p>
+n="7" break="no"/>n pabəkəla patik vənaṁ tan pabaktaha histri pituṁ ha<unclear>ja</unclear>ma<!-- argr2masc: I find the ja almost equally clear as the one in bajaran in line 4; from our translation, it seems you have accepted the idea that we have a form of jamah, meaning that we could again restore a subaudible nasal and supply a missing akṣara ha to get hañjamaha. Or else read/emend hajamatan as hajamahan? See next comment. --> <unclear>t</unclear>an vava<lb
+n="8" break="no"/>don avastu, sri syat i sakavarsa <g type="linga"/><!-- argr2masc: the linga here is certainly not a punctuation sign, which your use of <g>.</g> implies; please re-read EGD 4.2; if we want to treat the linga as a text-internal synbol at all, then we'd have to follow the rule "non-alphabetic glyphs that do not clearly fall into any of the above categories (§4.2.6) are not transliterated with any character, but represented by the empty element  <g/> with an appropriate @type". But we could also encode a <space type="ascender"> or simply state in an <app> <note> that the space between sakavarsa and I is filled by the linga that is part of the stone's iconographic program. See also my comment at bottom of file.  --></p>
   <ab><num value="1371">1371</num></ab>
          </div>
          <div type="apparatus"><!-- argr2masc: please check again whether all variants from the texts given by Cohen Stuat 1872, 1875 and De Casparis (1975) are duly recorded.-->
@@ -94,8 +94,8 @@ n="8" break="no"/>dona vastu, sri syat i sakavarsa<!-- argr2masc: do we have any
              </app>
              <app loc="1">
                  <lem source="bib:CohenStuart1872_01 bib:Casparis1975_01">Uri<lb n="2" break="no"/>piṁ</lem>
-                 <!--Same situation here. Should I try to convert Cohen Stuart's hesitations as to this reading ("u(û?)riping")? Maybe not?-->
                  <rdg source="bib:CohenStuart1875_01">Ūripiṁ</rdg>
+                 <note>Cohen Stuart already hesitated to read <foreign>ūripiṁ</foreign> in his first edition, and recorded the uncertain reading thus: <cit><quote>u(û?)riping</quote></cit>.</note>
              </app>
              <app loc="2">
                <lem source="bib:CohenStuart1872_01 bib:CohenStuart1875_01">hañakra</lem>
@@ -107,29 +107,41 @@ n="8" break="no"/>dona vastu, sri syat i sakavarsa<!-- argr2masc: do we have any
              <rdg source="bib:Casparis1975_01">hani deni</rdg>
            </app>
            <app loc="4">
+             <!--masc: I'm not sure this entry is really necessary as we might as well interpret CS' reading of geminate h as a visarga.-->
              <lem source="bib:Casparis1975_01">ka<choice><orig>b</orig><reg>mb</reg></choice>aḥha</lem>
              <rdg source="bib:CohenStuart1872_01 bib:CohenStuart1875_01">kabahha</rdg>
            </app>
            <app loc="8">
            <lem>sri syat i</lem>
-           <rdg source="bib:CohenStuart1872_01">sri syati</rdg>
-           <note>Understand Skt. <foreign>śrī syāt</foreign>. The spelling, however, is that of Middle Javanese, where long and short vowels are no longer differentiated, just as dental and palatal sibilants. This linguistic context probably explains the irregularity of finding <foreign>t</foreign> before the vowel <foreign>i</foreign> instead of <foreign>d</foreign>.</note>
+           <rdg source="bib:CohenStuart1872_01 bib:CohenStuart1875_01 bib:Casparis1975_01">sri syati</rdg>
+           <note>Understand Skt. <foreign>śrī syāt</foreign>. The spelling, however, is that of Middle Javanese, where long and short vowels are no longer differentiated, just as dental and palatal sibilants. The present linguistic context probably explains the irregularity of finding <foreign>t</foreign> before the vowel <foreign>i</foreign> instead of <foreign>d</foreign>.</note>
          </app>
            </listApp>
          </div>
          <div type="translation" xml:lang="eng" resp="part:masc argr">
    <!--translation encoded as per EGD §9.2 -->
- <p>Om. Made by Śrī Sarasvatī. The mountain Hardi Damaluṅ, the life of the Earth, was churning. The bathing place of Paləmaran would overflow, for God Vidhi <supplied reason="explanation">i.e. Brahmā?</supplied> gave instructions <supplied reason="explanation"><foreign>amidhyani</foreign></supplied> to the Sun and the Moon to illuminate the bad and good of divine men, those who seek, those who make a line of succession. The established sacred site will be entered by divine men. And those <supplied reason="explanation"><foreign>paḍa</foreign></supplied> who watch, who are intent, who listen, will be free from defilement, will be invested with memory of <supplied reason="subaudible">former</supplied> lives. Should anyone enter, he shall not come provided with live-stock, shall not bring wives <foreign>pituṅ</foreign> to have intercourse with, shall really <supplied reason="explanation"><foreign>vastu</foreign></supplied> not be obsessed with sex.<!-- argr2masc: why not split "tan vavadon avastu" — "not obsessed with sex [nor] owning possessions"?  --> May there be Fortune! In the Śaka year 1371.</p>
-        </div>
-        <div type="translation" xml:lang="ndl" source="bib:Bosch1924_01">
-<p></p>
+ <p>Om. Made by Śrī Sarasvatī. The mountain Hardi Damaluṅ, the life of the Earth, was churning. The bathing place of Paləmaran would overflow, for God Vidhi <supplied reason="explanation">i.e. Brahmā?</supplied> gave instructions <supplied reason="explanation"><foreign>amidhyani</foreign></supplied> to the Sun and the Moon to illuminate the bad and good of divine men, those who seek, those who make a line of succession. The established sacred site will be entered by divine men. And those <supplied reason="explanation"><foreign>paḍa</foreign></supplied> who watch, who are intent, who listen, will be free from defilement, will be invested with memory of <supplied reason="subaudible">former</supplied> lives. Should anyone enter, he shall not come provided with live-stock, shall not bring wives <foreign>pituṅ</foreign> to have intercourse with, shall not be obsessed with sex <supplied reason="subaudible">nor</supplied> owning possessions <supplied reason="explanation"><foreign>avastu</foreign></supplied>. May there be Fortune! In the Śaka year 1371.</p>
         </div>
          <div type="commentary">
            <p></p>
          </div>
-        <div type="bibliography"><!-- argr2masc: please formulate an epigraphic lemma and enter all relevant bibliography. -->
-	<!--bibliography encoded as per section §9.4 -->
-            <p/>
+        <div type="bibliography">
+              <p>First edited by A.B. Cohen Stuart (<bibl rend="omitname"><ptr target="bib:CohenStuart1872_01"/></bibl>) with extensive notes on vocabulary but without a translation, soon after re-edited by the same author  (<bibl rend="omitname"><ptr target="bib:CohenStuart1875_01"/></bibl>). This second edition was republished with minor modifications by de Casparis (<bibl rend="omitname"><ptr target="Casparis1975_01"/></bibl>). Re-edited here by Arlo Griffiths and Marine Schoettel from published photos as well as photographic documentation provided by the Museum voor Volkenkunde.</p>
+              <listBibl type="primary">
+              <bibl n="CS1">
+                        <ptr target="bib:CohenStuart1872_01"/>
+                        <citedRange unit="page">277</citedRange>
+                      </bibl>
+                      <bibl n="CS2">
+                                <ptr target="bib:CohenStuart1875_01"/>
+                                <citedRange unit="page">36</citedRange>
+                                <citedRange unit="item">27</citedRange>
+                              </bibl>
+                      <bibl n="C">
+                        <ptr target="Casparis1975_01"/>
+                        <citedRange unit="page">96</citedRange>
+                      </bibl>
+                    </listBibl>
         </div>
       </body>
   </text>
