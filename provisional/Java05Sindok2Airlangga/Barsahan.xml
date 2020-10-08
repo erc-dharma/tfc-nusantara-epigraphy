@@ -57,7 +57,8 @@
             </sourceDesc>
         </fileDesc>
     	<revisionDesc>
-    	    	<change who="part:ekba" when="2020-10-04" status="draft">initial encoding of the inscription</change>
+    	                                       <change who="part:ekba" when="2020-10-08" status="draft">Added bibliography</change>
+    	    	  <change who="part:ekba" when="2020-10-04" status="draft">initial encoding of the inscription</change>
     	</revisionDesc>
     </teiHeader>
     <text xml:space="preserve">
@@ -410,12 +411,24 @@
          </div>
         <div type="bibliography">
 	<!--bibliography encoded as per section §9.4 -->
-            <p></p>
+            <p>First decipherment of the inscription by Willem Frederik Stutterheim (<bibl rend="omitname"><ptr target="bib:Stutterheim1938_03"/></bibl>); new decipherment by Boechari (<bibl rend="omitname"><ptr target="bib:Boechari1985-1986_01"/></bibl>); re-edited here by Arlo Griffiths based on EFEO photo Groslier.</p>
             <listBibl type="primary">
-                <bibl ></bibl>
+                <bibl n="S">
+                    <ptr target="bib:Stutterheim1938_03"/>
+                    <citedRange unit="page">191-121</citedRange>
+                    <citedRange unit="item">E. 68</citedRange>
+                </bibl>
+                <bibl n="B">
+                    <ptr target="bib:Boechari1985-1986_01"/>
+                    <citedRange unit="page">135-137</citedRange>
+                    <citedRange unit="item">E . 68</citedRange>
+                </bibl>
             </listBibl>
             <listBibl type="secondary">
-             <bibl></bibl>
+                <bibl><ptr target="bib:BarrettJones1984_01"/><citedRange unit="page">16</citedRange></bibl>
+                 <bibl><ptr target="bib:Damais1970_01"/><citedRange unit="page">52</citedRange></bibl>
+                 <bibl><ptr target="bib:RitaFitriati1990_01"/><citedRange unit="page">105</citedRange></bibl>
+                 <bibl><ptr target="bib:Boechari2012_01"/><citedRange unit="page">175</citedRange></bibl> 
            </listBibl>
         </div>
       </body>
