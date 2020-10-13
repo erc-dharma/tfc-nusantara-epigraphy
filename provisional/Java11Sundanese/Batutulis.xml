@@ -1,91 +1,88 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"> 
-    <teiHeader xml:lang="eng">
-        <fileDesc>
-            <titleStmt>
-                <title>Batu Tulis</title>
-                <respStmt>
-                    <resp>EpiDoc encoding</resp>
-                    <resp>intellectual authorship of edition</resp>
-                    <persName ref="part:agdu">
-                        <name>Aditia Gunawan</name>
-                    </persName>
-                </respStmt>
-                <respStmt>
-                    <resp>intellectual authorship of edition</resp> 
-                    <persName ref="part:argr">
-                        <persName>
-                            <forename>Arlo</forename>
-                            <surname>Griffiths</surname>
-                        </persName>
-                    </persName>
-                </respStmt>
-            </titleStmt>         
-            <publicationStmt>
-                <authority>DHARMA
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Batu Tulis</title>
+            <respStmt>
+               <resp>EpiDoc encoding</resp>
+               <resp>intellectual authorship of edition</resp>
+               <persName ref="part:agdu">
+                  <name>Aditia Gunawan</name>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>intellectual authorship of edition</resp>
+               <persName ref="part:argr">
+                  <persName>
+                     <forename>Arlo</forename>
+                     <surname>Griffiths</surname>
+                  </persName>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>DHARMA
                     <note>This project has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).
                     </note>
-                </authority>
-                <pubPlace>Paris</pubPlace>
-                <idno type="filename">Batutulis</idno>
-                <availability>
-                    <licence target="https://creativecommons.org/licenses/by/4.0/">
-                        <p>This work is licenced under the Creative Commons Attribution 4.0 Unported Licence. To view a copy of the licence, visit https://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.</p>
-                        <p>Copyright (c) 2019-2025 by Aditia Gunawan &amp; Arlo Griffiths.</p>
-                    </licence>
-                </availability>
-                <date from="2019" to="2025">2019-2025</date>
-            </publicationStmt>
-            <sourceDesc><!-- only the handDesc can be filled in at this stage -->
-                <msDesc><!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
-                    <msIdentifier>
-                        <repository>DHARMAbase</repository>
-                        <idno/><!-- don't modify this -->
-                    </msIdentifier>
-                    <msContents><!-- describe the intellectual content of an inscription -->
-                        <summary><!-- //// NOT MANDATORY  ////--></summary> <!-- offers the possibility to give a summary of the inscription's content -->
-                    </msContents>
-                    <physDesc>
-                        <handDesc>
-                            <p><!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EG 11.2. --></p>
-                            <!-- If you need to identify individual hands (EG §7.5/) in addition to one or more paragraphs of general palaeographic description, wrap <summary> around the <p> or <p>s above, and, outside <summary>, create <handNote> elements for each hand as follows:
+            </authority>
+            <pubPlace>Paris</pubPlace>
+            <idno type="filename">Batutulis</idno>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/">
+                  <p>This work is licenced under the Creative Commons Attribution 4.0 Unported Licence. To view a copy of the licence, visit https://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.</p>
+                  <p>Copyright (c) 2019-2025 by Aditia Gunawan &amp; Arlo Griffiths.</p>
+               </licence>
+            </availability>
+            <date from="2019" to="2025">2019-2025</date>
+         </publicationStmt>
+         <sourceDesc><!-- only the handDesc can be filled in at this stage -->
+            <msDesc><!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
+               <msIdentifier>
+                  <repository>DHARMAbase</repository>
+                  <idno/>
+                  <!-- don't modify this -->
+               </msIdentifier>
+               <msContents><!-- describe the intellectual content of an inscription -->
+                  <summary><!-- //// NOT MANDATORY  ////--></summary>
+                  <!-- offers the possibility to give a summary of the inscription's content -->
+               </msContents>
+               <physDesc>
+                  <handDesc>
+                     <p><!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EG 11.2. --></p>
+                     <!-- If you need to identify individual hands (EG §7.5/) in addition to one or more paragraphs of general palaeographic description, wrap <summary> around the <p> or <p>s above, and, outside <summary>, create <handNote> elements for each hand as follows:
 						<summary><p><p/></summary>
 						<handNote xml:id="Pallava00001_hand1"></handNote>
 						<handNote xml:id="Pallava00001_hand2"></handNote>
 					 -->
-                        </handDesc>
-                    </physDesc>
-                </msDesc>
-            </sourceDesc>
-            
-        </fileDesc>
-        <revisionDesc><change who="part:axja" when="2020-03-27" status="draft">adding the handDesc template</change>
-            <change who="part:argr" when="2020-02-03" status="draft">revisions based on Arlo comments (New Round)</change>
-            <change who="part:argr" when="2020-02-03" status="draft">new round of revisions</change>
-            <change who="part:adgu" when="2020-01-30" status="draft">Revisions based on Arlo sugestion (Global Round)</change>
-             <change who="part:argr" when="2020-01-29" status="draft">global round of revisions</change>
-            <change who="part:adgu" when="2020-01-27" status="draft">Change "lb no-break" in to single line.</change>
-            <change who="part:adgu" when="2020-01-24" status="draft">Update language tag, input bibliography.</change>
-            <change who="part:adgu" when="2020-01-15" status="draft">Update with the new template.</change>
-            <change who="part:adgu" when="2019" status="draft">initial encoding of the inscription</change>
-        </revisionDesc>
-    </teiHeader>  
-    <text xml:space="preserve">
+                  </handDesc>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change who="part:axja" when="2020-03-27" status="draft">adding the handDesc template</change>
+         <change who="part:argr" when="2020-02-03" status="draft">revisions based on Arlo comments (New Round)</change>
+         <change who="part:argr" when="2020-02-03" status="draft">new round of revisions</change>
+         <change who="part:adgu" when="2020-01-30" status="draft">Revisions based on Arlo sugestion (Global Round)</change>
+         <change who="part:argr" when="2020-01-29" status="draft">global round of revisions</change>
+         <change who="part:adgu" when="2020-01-27" status="draft">Change "lb no-break" in to single line.</change>
+         <change who="part:adgu" when="2020-01-24" status="draft">Update language tag, input bibliography.</change>
+         <change who="part:adgu" when="2020-01-15" status="draft">Update with the new template.</change>
+         <change who="part:adgu" when="2019" status="draft">initial encoding of the inscription</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:space="preserve">
         <body>
             <div type="edition" xml:lang="x-oldsun-Latn">
                 <p>
          <lb n="1"/><g type="symbol" subtype="tennisball"/><g type="symbol" subtype="tennisball"/> vaṁ<unclear>ṅa</unclear> <unclear>p</unclear>un· I<unclear>n</unclear>i sakakala, pr<unclear>ə</unclear>bu ratu purane pun·, ḍivas·tu
          <lb n="2"/>ḍy<choice><sic>i</sic><corr>ǝ</corr></choice>, viṅaran· prəbu guru ḍe<unclear>va</unclear>ta p<choice><sic>ra</sic><corr>u</corr></choice>n· ḍivas·tu ḍyə ḍiṅaran· sri
-         <lb n="3"/>baduga maharaja, ratu ha<unclear cert="low">j</unclear>i ḍi pakvan· pajajaran· sri sa<unclear>ṁ</unclear> ratu ḍe<lb 
-	n="4" break="no"/>vata pun·</p> <p>ya nu ñusuk· na pakvan· ḍyə Anak· rahyi ḍeva nis·<lb 
-	n="5" break="no"/>kala, sa siḍa mok·ta ḍi gunuṁ tiga, <choice><orig>qəcu</orig><reg>qəñ·cu</reg></choice><!-- Arlo: do you find this c clearer than that at the beginning of line 6? --> rahyiṁ <unclear>n</unclear>is·kala vas·tu
+         <lb n="3"/>baduga maharaja, ratu ha<unclear cert="low">j</unclear>i ḍi pakvan· pajajaran· sri sa<unclear>ṁ</unclear> ratu ḍe<lb n="4" break="no"/>vata pun·</p> <p>ya nu ñusuk· na pakvan· ḍyə Anak· rahyi ḍeva nis·<lb n="5" break="no"/>kala, sa siḍa mok·ta ḍi gunuṁ tiga, <choice><orig>qəcu</orig><reg>qəñ·cu</reg></choice><!-- Arlo: do you find this c clearer than that at the beginning of line 6? --> rahyiṁ <unclear>n</unclear>is·kala vas·tu
         <lb n="6"/><choice><orig>kaca:na</orig><reg>kañcana</reg></choice><!-- Arlo: actually the c seems quite clear to me; the length mark is of course unexpected, but it seems clear enough; I suppose we should here to normalize the c to ñc as in the case of qəñcu -->, saṁ siḍa mok·ta ka nusa laraṁ,</p> 
-                <p>ya syi nu <unclear>ñ</unclear>yin· sakaka<lb 
-	n="7" break="no"/>la, gugun<unclear>uṅ</unclear>an·, <unclear>ṅa</unclear>balay·,, ñyin· samiḍa, ñyin· saṁ hyi talaga <supplied reason="lost" evidence="parallel">va</supplied><lb 
-	n="8" break="no"/>R̥na mahavijaya,</p> <p>ya s<supplied reason="lost">yi pun·</supplied>,,</p> <p><g type="symbol" subtype="tennisball"/><g type="symbol" subtype="tennisball"/> I saka, pañca pan·ḍa<lb 
-	n="9" break="no"/>va ṅ<unclear>ə</unclear>ban· bumi <g type="symbol" subtype="tennisball"/><g type="symbol" subtype="tennisball"/>
+                <p>ya syi nu <unclear>ñ</unclear>yin· sakaka<lb n="7" break="no"/>la, gugun<unclear>uṅ</unclear>an·, <unclear>ṅa</unclear>balay·,, ñyin· samiḍa, ñyin· saṁ hyi talaga <supplied reason="lost" evidence="parallel">va</supplied><lb n="8" break="no"/>R̥na mahavijaya,</p> <p>ya s<supplied reason="lost">yi pun·</supplied>,,</p> <p><g type="symbol" subtype="tennisball"/><g type="symbol" subtype="tennisball"/> I saka, pañca pan·ḍa<lb n="9" break="no"/>va ṅ<unclear>ə</unclear>ban· bumi <g type="symbol" subtype="tennisball"/><g type="symbol" subtype="tennisball"/>
                 </p>
             </div>
             <div type="apparatus">
@@ -159,7 +156,7 @@
                 </listApp>
             </div>                
            
-           <div type="translation" xml:lang="eng" resp="part:adgu part:argr">
+           <div type="translation" resp="part:adgu part:argr">
                 <p><foreign>Om pun</foreign>. This is the decree/message of his majesty the king of old, inaugurated here with the name Prabu Guru Dewata, <supplied reason="subaudible">and also</supplied> inaugurated here with the name Sri Baduga Maharaja, king of kings in Pakwan Pajajaran, Sri Sang Ratu Dewata, is inaugurated here.</p>  
                 <p>He is the one who demarcates the Pakwan here, <supplied reason="subaudible">being</supplied> the child of Rahyang Dewa Niskala, he one who was released at Gunung Tiga; grandchild of Rahyang Niskala Wastu Kancana, the one who was released to Nusa Larang.</p><!-- Arlo: interesting that we have ... mokta di GT and ... mokta ka NL. Do you think it is significant?  -->
                 <p>He, that one, produced the decree <seg cert="low">in the shape of a mountain</seg>, made hard the ground with stones; he produced fire-wood; he produced the holy Color Lake.</p> 

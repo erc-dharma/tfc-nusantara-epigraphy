@@ -1,75 +1,74 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader xml:lang="eng">
-        <fileDesc>
-            <titleStmt>
-                <title>Canggu inscription</title>
-                <!--Change the title of the file, e.g. Raktamālā grant of the time of Budhagupta, year 159-->
-                <respStmt>
-                    <!-- add an element respStmt for each person involved -->
-                    <resp>intellectual authorship of edition</resp>
-                    <!-- this may be the same as the creator of the file -->
-                    <persName ref="part:masc"><!-- update the id -->
-                        <forename>Marine</forename><!-- fill in your  names — it is possible to use only <name> instead of <foreame> and <surname> -->
-                        <surname>Schoettel</surname>
-                    </persName>
-                </respStmt>
-            </titleStmt>
-            <publicationStmt>
-                <authority>DHARMA <note>This project has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Canggu inscription</title>
+            <!--Change the title of the file, e.g. Raktamālā grant of the time of Budhagupta, year 159-->
+            <respStmt><!-- add an element respStmt for each person involved -->
+               <resp>intellectual authorship of edition</resp>
+               <!-- this may be the same as the creator of the file -->
+               <persName ref="part:masc"><!-- update the id -->
+                  <forename>Marine</forename>
+                  <!-- fill in your  names — it is possible to use only <name> instead of <foreame> and <surname> -->
+                  <surname>Schoettel</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>DHARMA <note>This project has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant
                         agreement no 809994). </note>
-                </authority>
-                <pubPlace>Paris</pubPlace>
-                <idno type="filename">Canggu</idno><!-- JM0008 -->
-                <!-- Replace by filename, e.g. Pallava00001 -->
-                <availability>
-                    <licence target="https://creativecommons.org/licenses/by/4.0/">
-                        <p>This work is licenced under the Creative Commons Attribution 4.0 Unported Licence. To view a copy of the licence, visit https://creativecommons.org/licenses/by/4.0/ or send
+            </authority>
+            <pubPlace>Paris</pubPlace>
+            <idno type="filename">Canggu</idno>
+            <!-- JM0008 -->
+            <!-- Replace by filename, e.g. Pallava00001 -->
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/">
+                  <p>This work is licenced under the Creative Commons Attribution 4.0 Unported Licence. To view a copy of the licence, visit https://creativecommons.org/licenses/by/4.0/ or send
                             a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.</p>
-                        <p>Copyright (c) 2019-2025 by Marine
-                        Schoettel.</p><!-- Replace year and name, use format "Forename1 Surname1 & Forename2 Surname2" or "Forename1 Surname1, Forename2 Surname2 & Forename3 Surname3"  if necessary — the copyright is that of the encoder(s) -->
-                    </licence>
-                </availability>
-                <date from="2019" to="2025">2019-2025</date>
-            </publicationStmt>
-            <sourceDesc>
-                <!-- only the handDesc can be filled in at this stage -->
-                <msDesc>
-                    <!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
-                    <msIdentifier>
-                        <repository>DHARMAbase</repository>
-                        <idno/>
-                        <!-- don't modify this -->
-                    </msIdentifier>
-                    <msContents>
-                        <!-- describe the intellectual content of an inscription -->
-                        <summary><!-- //// NOT MANDATORY  ////--></summary>
-                        <!-- offers the possibility to give a summary of the inscription's content -->
-                    </msContents>
-                    <physDesc>
-                        <handDesc>
-                            <p><!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EG 11.2. --></p>
-                            <!-- If you need to identify individual hands (EG §7.5/) in addition to one or more paragraphs of general palaeographic description, wrap <summary> around the <p> or <p>s above, and, outside <summary>, create <handNote> elements for each hand as follows:
+                  <p>Copyright (c) 2019-2025 by Marine
+                        Schoettel.</p>
+                  <!-- Replace year and name, use format "Forename1 Surname1 & Forename2 Surname2" or "Forename1 Surname1, Forename2 Surname2 & Forename3 Surname3"  if necessary — the copyright is that of the encoder(s) -->
+               </licence>
+            </availability>
+            <date from="2019" to="2025">2019-2025</date>
+         </publicationStmt>
+         <sourceDesc><!-- only the handDesc can be filled in at this stage -->
+            <msDesc><!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
+               <msIdentifier>
+                  <repository>DHARMAbase</repository>
+                  <idno/>
+                  <!-- don't modify this -->
+               </msIdentifier>
+               <msContents><!-- describe the intellectual content of an inscription -->
+                  <summary><!-- //// NOT MANDATORY  ////--></summary>
+                  <!-- offers the possibility to give a summary of the inscription's content -->
+               </msContents>
+               <physDesc>
+                  <handDesc>
+                     <p><!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EG 11.2. --></p>
+                     <!-- If you need to identify individual hands (EG §7.5/) in addition to one or more paragraphs of general palaeographic description, wrap <summary> around the <p> or <p>s above, and, outside <summary>, create <handNote> elements for each hand as follows:
 						<summary><p><p/></summary>
 						<handNote xml:id="Pallava00001_hand1"></handNote>
 						<handNote xml:id="Pallava00001_hand2"></handNote>
 					 -->
-                        </handDesc>
-                    </physDesc>
-                </msDesc>
-            </sourceDesc>
-        </fileDesc>
-        <revisionDesc>
-            <change who="part:masc" when="2020-04-10" status="draft">Adding bibliographical details</change>
-            <change who="part:masc" when="2020-03-27" status="draft">Adapting line numbering system to EG recommandations</change>
-            <change who="part:axja" when="2020-03-27" status="draft">adding the handDesc template</change>
-            <change who="part:axja" when="2020-01-09" status="draft">Update the template</change>
-            <!-- add a <change> for each change to the file, the first change should replace this one and record your creation of a file using this template. -->
-        </revisionDesc>
-    </teiHeader>
-    <text xml:space="preserve">
+                  </handDesc>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change who="part:masc" when="2020-04-10" status="draft">Adding bibliographical details</change>
+         <change who="part:masc" when="2020-03-27" status="draft">Adapting line numbering system to EG recommandations</change>
+         <change who="part:axja" when="2020-03-27" status="draft">adding the handDesc template</change>
+         <change who="part:axja" when="2020-01-09" status="draft">Update the template</change>
+         <!-- add a <change> for each change to the file, the first change should replace this one and record your creation of a file using this template. -->
+      </revisionDesc>
+   </teiHeader>
+   <text xml:space="preserve">
         <body>
             <div type="edition" xml:lang="kaw-Latn">
                 <p>
@@ -265,7 +264,7 @@
                     </app>
                 </listApp>
             </div>
-            <div type="translation" xml:lang="eng">
+            <div type="translation">
                 <p>Hail! Prosperity! The elapsed śaka year 1280, the month of Śrāvaṇa, the first lunar day of the waxing fortnight, Haryaṅ, Umanis, Saturday (śanaiścara), week of Madaṅkuṅan, the planet (grahacāra) being in the north-east, nakṣatra of Puṣya, the deity being Jīva, the south-east, [i.e.] Agni’s, section of the sky (maṇḍala), the conjunction (yoga) being Bajra, the hour Rodra, the parveśa śaśi, the half lunar day (karaṇa) Nāga, the zodiac Cancer (karkaṭa):</p>
                 <p>that was the time of the order of the footsoles of the Illustrious Lord of the
                     state of Majapahit (Tiktavilva) having the royal consecration name Rājasanagara, renowned in the battlefield, he who is served by manifold choicest women similar to heavenly women whom were gifts of other kings defeated by his ministers, having as birth name dyaḥ Hayam Vuruk, under the auspices of the order of the footsoles of the Illustrious one named Tribhuvanottuṅgarājadevī Jayaviṣṇuvarddhanī by royal consecration, an abode of treasures of good qualities in the performance of dance, etc. , of spotless mind in likeness to holy water, established yonder in the city of Kahuripan, dyaḥ Gītārjā, evidently the chief Queen who shares one body with the Lord king (‘protector of the earth’) Kr̥tavarddhana, whose uninterrupted liberality was that of a father for his offspring, desiring the total contentment of his subjects, he was like the showering of rain causing great prosperity for [all] things that are beginning with grain, dwelling in the court known as Tumapĕl, dyaḥ Cakreśvara, working for the increase of the lineage of Hari, he causes the continuous succession and offspring of the footsoles of the Lord Viṣṇuvarddhana to flourish, [this Viṣṇuvarddhana] who attained release at Mandāragiri, and also all the activities and good practices which are the mark of the Lord Viṣṇuvarddhana, they indeed were continously followed by him as he was a ‘protector of the world’.</p>

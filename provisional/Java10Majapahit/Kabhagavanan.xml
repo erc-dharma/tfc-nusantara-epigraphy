@@ -1,75 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader xml:lang="eng">
-        <fileDesc>
-            <titleStmt>
-                <title>Kabhagavanan</title>
-                <respStmt>
-                    <resp>EpiDoc encoding</resp>
-                    <resp>intellectual authorship of edition</resp>
-                    <persName ref="part:masc">
-                        <forename>Marine</forename>
-                        <surname>Schoettel</surname>
-                    </persName>
-                    <persName ref="part:argr">
-                        <forename>Arlo</forename>
-                        <surname>Griffiths</surname>
-                    </persName>
-                </respStmt>
-            </titleStmt>
-            <publicationStmt>
-                <authority>DHARMA <note>This project has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Kabhagavanan</title>
+            <respStmt>
+               <resp>EpiDoc encoding</resp>
+               <resp>intellectual authorship of edition</resp>
+               <persName ref="part:masc">
+                  <forename>Marine</forename>
+                  <surname>Schoettel</surname>
+               </persName>
+               <persName ref="part:argr">
+                  <forename>Arlo</forename>
+                  <surname>Griffiths</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>DHARMA <note>This project has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant
                         agreement no 809994).</note>
-                </authority>
-                <pubPlace>Paris</pubPlace>
-                <idno type="filename">Kabhagavanan</idno>
-                <availability>
-                    <licence target="https://creativecommons.org/licenses/by/4.0/">
-                        <p>This work is licenced under the Creative Commons Attribution 4.0 Unported Licence. To view a copy of the licence, visit https://creativecommons.org/licenses/by/4.0/ or send
+            </authority>
+            <pubPlace>Paris</pubPlace>
+            <idno type="filename">Kabhagavanan</idno>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/">
+                  <p>This work is licenced under the Creative Commons Attribution 4.0 Unported Licence. To view a copy of the licence, visit https://creativecommons.org/licenses/by/4.0/ or send
                             a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.</p>
-                        <p>Copyright (c) 2019-2025 by Marine Schoettel &amp; Arlo Griffiths</p>
-                    </licence>
-                </availability>
-                <date from="2019" to="2025">2019-2025</date>
-            </publicationStmt>
-            <sourceDesc>
-                <!-- only the handDesc can be filled in at this stage -->
-                <msDesc>
-                    <!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
-                    <msIdentifier>
-                        <repository>DHARMAbase</repository>
-                        <idno/>
-                        <!-- don't modify this -->
-                    </msIdentifier>
-                    <msContents>
-                        <!-- describe the intellectual content of an inscription -->
-                        <summary><!-- //// NOT MANDATORY  ////--></summary>
-                        <!-- offers the possibility to give a summary of the inscription's content -->
-                    </msContents>
-                    <physDesc>
-                        <handDesc>
-                            <p><!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EG 11.2. --></p>
-                            <!-- If you need to identify individual hands (EG §7.5/) in addition to one or more paragraphs of general palaeographic description, wrap <summary> around the <p> or <p>s above, and, outside <summary>, create <handNote> elements for each hand as follows:
+                  <p>Copyright (c) 2019-2025 by Marine Schoettel &amp; Arlo Griffiths</p>
+               </licence>
+            </availability>
+            <date from="2019" to="2025">2019-2025</date>
+         </publicationStmt>
+         <sourceDesc><!-- only the handDesc can be filled in at this stage -->
+            <msDesc><!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
+               <msIdentifier>
+                  <repository>DHARMAbase</repository>
+                  <idno/>
+                  <!-- don't modify this -->
+               </msIdentifier>
+               <msContents><!-- describe the intellectual content of an inscription -->
+                  <summary><!-- //// NOT MANDATORY  ////--></summary>
+                  <!-- offers the possibility to give a summary of the inscription's content -->
+               </msContents>
+               <physDesc>
+                  <handDesc>
+                     <p><!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EG 11.2. --></p>
+                     <!-- If you need to identify individual hands (EG §7.5/) in addition to one or more paragraphs of general palaeographic description, wrap <summary> around the <p> or <p>s above, and, outside <summary>, create <handNote> elements for each hand as follows:
 						<summary><p><p/></summary>
 						<handNote xml:id="Pallava00001_hand1"></handNote>
 						<handNote xml:id="Pallava00001_hand2"></handNote>
 					 -->
-                        </handDesc>
-                    </physDesc>
-                </msDesc>
-            </sourceDesc>
-        </fileDesc>
-        <revisionDesc>
-          <change who="part:masc" when="2020-08-31" status="draft">modifications in edition and translation</change>
-            <change who="part:masc" when="2020-08-30" status="draft">encoding translation</change>
-            <change who="part:masc" when="2020-03-27" status="draft">adapting line numbering system and app loc to new EG recommandations</change>
-            <change who="part:axja" when="2020-03-27" status="draft">adding the handDesc template</change>
-            <change who="part:masc" when="2020-02-21" status="draft"/>
-        </revisionDesc>
-    </teiHeader>
-    <text xml:space="preserve">
+                  </handDesc>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change who="part:masc" when="2020-08-31" status="draft">modifications in edition and translation</change>
+         <change who="part:masc" when="2020-08-30" status="draft">encoding translation</change>
+         <change who="part:masc" when="2020-03-27" status="draft">adapting line numbering system and app loc to new EG recommandations</change>
+         <change who="part:axja" when="2020-03-27" status="draft">adding the handDesc template</change>
+         <change who="part:masc" when="2020-02-21" status="draft"/>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="kaw-Latn">
 <p>
@@ -86,8 +83,7 @@
 <p>Inunda<unclear>ṁ</unclear>
                  ta<unclear>ṁ</unclear> <unclear>sa</unclear>siriṅan· sa<lb n="1r6" break="no"/>taṅgəḥnyaṁ kāliḥ makādi I sumbul·, li<supplied reason="lost">ṁ</supplied>nyan tinañan·, siṅgiḥ pukulun· juru puspadanta madr̥vya Ikaṁ savaḥ-sa<pb n="1v" break="no"/>
 <lb n="1v1" break="no"/>vaḥ sapuluḥ liriḥ I sagiri, yapvan ikaṁ savaḥ kabhagavanan· sapuluḥ
-                       liriḥ muvaḥ, maṅkanājarnya makabehan·, vva<lb
-n="1v2" break="no"/>ntən· ta pukulun· paṅhulu bañunya rvaṁ kupaṁ sovaṁ, kataṅgapan denikaṁ rāma sumbul·, vyaktyanyan bheda, muva<g type="filler">§</g>
+                       liriḥ muvaḥ, maṅkanājarnya makabehan·, vva<lb n="1v2" break="no"/>ntən· ta pukulun· paṅhulu bañunya rvaṁ kupaṁ sovaṁ, kataṅgapan denikaṁ rāma sumbul·, vyaktyanyan bheda, muva<g type="filler">§</g>
 <lb n="1v3" break="no"/>h ajariṁkaṁ juru mantən· maṅaran gambyok·, Aki gaṇḍi <choice><orig>yo</orig><reg>yva</reg></choice> pukulun· vka bhagavān· riṁ kr̥ta, muktyakən ikaṁ sa
 <lb n="1v4" break="no"/>puluḥ liriḥ juga, An<supplied reason="omitted">an</supplied>tara saṅkerika, mpu kili nuda, vkasan saṁ mapañji śūrajaya muktyakən kabhagavānan katkeṁ
 <lb n="1v5"/>maṅke, kevalātutur ikaṁ sa<add place="below">pu</add>luḥ liriḥ juga, pisaniṅu vyāparāṅipikipika Ikaṁ savaḥ kapara thani An· nāṁ
@@ -124,7 +120,7 @@ n="1v2" break="no"/>ntən· ta pukulun· paṅhulu bañunya rvaṁ kupaṁ sova�
                   </app>
                 </listApp>
          </div>
-         <div type="translation" xml:lang="eng" resp="part:masc part:argr">
+         <div type="translation" resp="part:masc part:argr">
  	<!--translation encoded as per EG §9.2 -->
 <p n="1r1">In Śaka 1261, month of Māgha, ninth <foreign>tithi</foreign> of the waning fortnight, Mavulu, Umanis, Tuesday, <supplied reason="subaudible">the vuku of</supplied> Vuyai:</p>
 <p n="1r1-1r5">that was the time that <foreign>rakryan</foreign> chief Puṣpadanta, won the lawsuit against Mpu Sāvitra by refutation <supplied reason="explanation"><foreign>mukutādharṣaṇa</foreign></supplied>. <supplied reason="subaudible">It</supplied> had been tried by all the ministers of Tumapəl, with the interpreters <supplied reason="subaudible">of dharma</supplied> <supplied reason="explanation"><foreign>upapatti</foreign></supplied>.

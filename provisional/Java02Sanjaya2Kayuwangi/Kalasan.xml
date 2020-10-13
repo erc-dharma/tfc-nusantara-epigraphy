@@ -1,72 +1,78 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-	<teiHeader xml:lang="eng">
-		<fileDesc>
-			<titleStmt>
-				<title>Kalasan</title>
-				<respStmt>
-					<resp>EpiDoc encoding</resp>
-					<resp>Intellectual authorship of edition</resp>
-					<persName ref="part:argr">
-						<forename>Arlo</forename>
-						<surname>Griffiths</surname>
-					</persName>
-				</respStmt>
-			</titleStmt>
-			<publicationStmt>
-				<authority>DHARMA <note>This project has received funding from the European Research
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Kalasan</title>
+            <respStmt>
+               <resp>EpiDoc encoding</resp>
+               <resp>Intellectual authorship of edition</resp>
+               <persName ref="part:argr">
+                  <forename>Arlo</forename>
+                  <surname>Griffiths</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>DHARMA <note>This project has received funding from the European Research
 						Council (ERC) under the European Union's Horizon 2020 research and
 						innovation programme (grant agreement no 809994).</note>
-				</authority>
-				<pubPlace>Lyon</pubPlace>
-				<idno type="filename">Kalasan</idno>
-				<!-- Replace by filename, e.g. Pallava00001 -->
-				<availability>
-					<licence target="https://creativecommons.org/licenses/by/4.0/">
-						<p>This work is licensed under the Creative Commons Attribution 4.0 Unported
+            </authority>
+            <pubPlace>Lyon</pubPlace>
+            <idno type="filename">Kalasan</idno>
+            <!-- Replace by filename, e.g. Pallava00001 -->
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/">
+                  <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
 							Licence. To view a copy of the licence, visit
 							https://creativecommons.org/licenses/by/4.0/ or send a letter to
 							Creative Commons, 444 Castro Street, Suite 900, Mountain View,
 							California, 94041, USA.</p>
-						<p>Copyright (c) 2019-2025 by Arlo Griffiths.</p>
-					</licence>
-				</availability>
-				<date from="2019" to="2025">2019-2025</date>
-			</publicationStmt>
-			<sourceDesc><!-- only the handDesc can be filled in at this stage -->
-				<msDesc><!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
-					<msIdentifier>
-						<repository>DHARMAbase</repository>
-						<idno/><!-- don't modify this -->
-					</msIdentifier>
-					<msContents><!-- describe the intellectual content of an inscription -->
-						<summary><!-- //// NOT MANDATORY  ////--></summary> <!-- offers the possibility to give a summary of the inscription's content -->
-					</msContents>
-					<physDesc>
-						<handDesc>
-<p>Brandes <bibl rend="omitname"><ptr target="bib:Brandes1886_01"/><citedRange>241-243</citedRange></bibl> summarized most of the noteworthy palaeographic aspects of the inscription. His observations concerned: (1) the shape of <foreign>t</foreign> and <foreign>m</foreign> in combination with <foreign>virāma</foreign>; (2) the shape and position of the <foreign>repha</foreign>; (3) the shape of postconsonantal <foreign>y</foreign>, and the special shape of the ligature <foreign>rya</foreign>; (4) the two allographs of the vowel marker <foreign>e</foreign>; (5) the decorative flourish sometimes given to the vowel marker <foreign>i</foreign>; (6) the shapes of <foreign>ja</foreign> and <foreign>jā</foreign>; (7) the inconsistent gemination of consonants after <foreign>r</foreign>; (8) the shape of <foreign>na</foreign>; (9) the use of <foreign>ṅ</foreign> instead of <foreign>anusvāra</foreign> before <foreign>ś</foreign> and <foreign>h</foreign>. To these I add one more: (10) the presence of two allographs of vowel marker <foreign>ū</foreign>. I will now elaborate on the above points, proceeding item by item.</p>
-	<p>(1) Special shape of <foreign>m</foreign> with virāma, represented as <foreign>M</foreign>: see stanzas II, III VII and XII. By contrast, I read n· (meaning that the basic consonant sign seems to have it normal shape and position) in puruṣān·, pārthivendrān·, ... .</p>
-	<p>(2) shape of repha: can we read rjya in st. II or not? very clear examples in lines 7 (rmma), 11 (rthi, rmma, rna) </p>
-	<p>(3) Pāla shape of rya seen throughout — check also Bosch</p>		
-	<p>(4) two allographs of the marker -e: elaborate top-stroke in dakṣiṇeyam (line 9), kāle kāle and Anena puṇyena (line 12), etc.;  normally a vertical strole at left.</p>
-	<p>(5) The final akṣara <foreign>ti</foreign> in <foreign>iti</foreign> at the end of line 14 is written in the extended manner commonly seen in Siddhamātr̥kā inscriptions. Brandes write 'sometimes'. Are there any other cases?</p>
-	<p>(6) Stanza VI pūjārthaṁ: I have some trouble telling this jā apart from ja signs elsewhere. Cf. e.g. in rājasiṁhena, l. 9; rājasiṅhaḥ in 11. But cf. jātārtha in l. 12. The difference seems to lie herein, that in the case of jā, the ā-mātra does not descend from the top-line, but ascends from the middle diagonal of ja.</p>
-	<p>(7) Gemination of C after r if C = m. No gemination of C after r if C = y, n, th.</p>
-	<p>(8), (9)</p>
-	<p>(10) two allographs of -ū: bhū (end line 8) and bhū in line 9.</p><!-- Damais 1952: 24 note "Au début de la strophe 8 la transcription de Brandes et de Bosch, bhura, ne convient pas paléographiquement parlant. Le petit trait transversal à gauche de l'r si c'en était un, serait placé bien trop bas et ne devrait pas toucher ce qui, dans ce cas, serait l'aksara précédent. Bhura ne voulant rien dire pour autant que nous sachions,
+                  <p>Copyright (c) 2019-2025 by Arlo Griffiths.</p>
+               </licence>
+            </availability>
+            <date from="2019" to="2025">2019-2025</date>
+         </publicationStmt>
+         <sourceDesc><!-- only the handDesc can be filled in at this stage -->
+            <msDesc><!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
+               <msIdentifier>
+                  <repository>DHARMAbase</repository>
+                  <idno/>
+                  <!-- don't modify this -->
+               </msIdentifier>
+               <msContents><!-- describe the intellectual content of an inscription -->
+                  <summary><!-- //// NOT MANDATORY  ////--></summary>
+                  <!-- offers the possibility to give a summary of the inscription's content -->
+               </msContents>
+               <physDesc>
+                  <handDesc>
+                     <p>Brandes <bibl rend="omitname">
+                           <ptr target="bib:Brandes1886_01"/>
+                           <citedRange>241-243</citedRange>
+                        </bibl> summarized most of the noteworthy palaeographic aspects of the inscription. His observations concerned: (1) the shape of <foreign>t</foreign> and <foreign>m</foreign> in combination with <foreign>virāma</foreign>; (2) the shape and position of the <foreign>repha</foreign>; (3) the shape of postconsonantal <foreign>y</foreign>, and the special shape of the ligature <foreign>rya</foreign>; (4) the two allographs of the vowel marker <foreign>e</foreign>; (5) the decorative flourish sometimes given to the vowel marker <foreign>i</foreign>; (6) the shapes of <foreign>ja</foreign> and <foreign>jā</foreign>; (7) the inconsistent gemination of consonants after <foreign>r</foreign>; (8) the shape of <foreign>na</foreign>; (9) the use of <foreign>ṅ</foreign> instead of <foreign>anusvāra</foreign> before <foreign>ś</foreign> and <foreign>h</foreign>. To these I add one more: (10) the presence of two allographs of vowel marker <foreign>ū</foreign>. I will now elaborate on the above points, proceeding item by item.</p>
+                     <p>(1) Special shape of <foreign>m</foreign> with virāma, represented as <foreign>M</foreign>: see stanzas II, III VII and XII. By contrast, I read n· (meaning that the basic consonant sign seems to have it normal shape and position) in puruṣān·, pārthivendrān·, ... .</p>
+                     <p>(2) shape of repha: can we read rjya in st. II or not? very clear examples in lines 7 (rmma), 11 (rthi, rmma, rna) </p>
+                     <p>(3) Pāla shape of rya seen throughout — check also Bosch</p>
+                     <p>(4) two allographs of the marker -e: elaborate top-stroke in dakṣiṇeyam (line 9), kāle kāle and Anena puṇyena (line 12), etc.;  normally a vertical strole at left.</p>
+                     <p>(5) The final akṣara <foreign>ti</foreign> in <foreign>iti</foreign> at the end of line 14 is written in the extended manner commonly seen in Siddhamātr̥kā inscriptions. Brandes write 'sometimes'. Are there any other cases?</p>
+                     <p>(6) Stanza VI pūjārthaṁ: I have some trouble telling this jā apart from ja signs elsewhere. Cf. e.g. in rājasiṁhena, l. 9; rājasiṅhaḥ in 11. But cf. jātārtha in l. 12. The difference seems to lie herein, that in the case of jā, the ā-mātra does not descend from the top-line, but ascends from the middle diagonal of ja.</p>
+                     <p>(7) Gemination of C after r if C = m. No gemination of C after r if C = y, n, th.</p>
+                     <p>(8), (9)</p>
+                     <p>(10) two allographs of -ū: bhū (end line 8) and bhū in line 9.</p>
+                     <!-- Damais 1952: 24 note "Au début de la strophe 8 la transcription de Brandes et de Bosch, bhura, ne convient pas paléographiquement parlant. Le petit trait transversal à gauche de l'r si c'en était un, serait placé bien trop bas et ne devrait pas toucher ce qui, dans ce cas, serait l'aksara précédent. Bhura ne voulant rien dire pour autant que nous sachions,
 c'est bien bhü qu'il faut lire, avec Bhandarkar, bien que l'aksara diffère sensiblement des autres bhû de cette inscription (lignes 11 et 14) par l'adjonction d'un trait vertical superfétatoire qui peut être considéré du même ordre que les variétés exagérément allongées de la voyelle -e que l'on trouve ici à côté de la forme courte qui est juste une petite boucle. -->
-						</handDesc>
-					</physDesc>
-				</msDesc>
-			</sourceDesc>
-		</fileDesc>
-		<revisionDesc>
-			<change who="part:argr" when="2020-04-15" status="draft">Completed initial encoding of the edition</change>
-		</revisionDesc>
-	</teiHeader>
-	<text xml:space="preserve">
+                  </handDesc>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change who="part:argr" when="2020-04-15" status="draft">Completed initial encoding of the edition</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="san-Latn">
 <p><lb n="01"/><g type="symbol" subtype="siddham"/><!-- the symbol stands in the margin -->
@@ -125,7 +131,7 @@ c'est bien bhü qu'il faut lire, avec Bhandarkar, bien que l'aksara diffère sen
 		<l n="d">janā jinānām anuśāsana-jñāḥ ||</l>
 	</lg>
 	<lg n="12" met="āryā">
-		<l n="a">kariyāna-paṇaṁkaraṇaḥ śrī<lb n="14" break="no"/>mān abhiyācate tra bhāvi-nr̥pān· | </l>
+		<l n="a">kariyāna-paṇaṁkaraṇaḥ śrī<lb n="14" break="no"/>mān abhiyācate tra bhāvi-nr̥pān· |&#x2028;</l>
 		<l n="b">bhūyo bhūyo vidhivad vihāra-paripālanārtham iti ||</l>
 	</lg>
          </div>
@@ -232,7 +238,7 @@ c'est bien bhü qu'il faut lire, avec Bhandarkar, bien que l'aksara diffère sen
 </app>
          </div>
 
-<div type="translation" xml:lang="eng" resp="part:argr"><!--<head>Translation Griffiths</head>
+<div type="translation" resp="part:argr"><!--<head>Translation Griffiths</head>
 --><p n="1">Homage to the Noble Lady Tārā!</p>
 <p rend="verse" n="1">As per injunction, with the three means, may she, a unique star for the world, having looked down upon the world immersed in the ocean of existence with endless suffering grant you the coveted essence of wealth in the divine and human realms!</p>
 <p rend="verse" n="2">For the royal gurus of the Śailendras have had the illustrious Tārā temple built, after they converted<!--won over (BHSD)--> the Great King Panaṅkaran, endowed with power and merit.</p>
@@ -250,7 +256,7 @@ c'est bien bhü qu'il faut lire, avec Bhandarkar, bien que l'aksara diffère sen
 <p rend="verse" n="11">Thanks to this merit produced by the <supplied reason="subaudible">foundation of a</supplied> monastery, may all humans born in <supplied reason="subaudible">the one or the other of</supplied> the three states <supplied reason="explanation"><foreign>tribhava-upapanna</foreign></supplied> be cognizant of the distinctions between things arisen in dependence, and knowledgable of the teachings of the Jinas!</p>
 <p rend="verse" n="12">To this end <supplied reason="explanation"><foreign>atra</foreign></supplied>, the illustrious lord <supplied reason="explanation"><foreign>kariyān</foreign></supplied> Panaṅkaran again urges future king so that the monastery may be properly maintained.</p>
 </div>
-         <div type="translation" xml:lang="eng" source="bib:Sarkar1971-1972_01"><head>Translation Sarkar</head><!-- somewhat normalized in terms of use of italics -->
+         <div type="translation" source="bib:Sarkar1971-1972_01"><head>Translation Sarkar</head><!-- somewhat normalized in terms of use of italics -->
 <p n="1">Salutation to the divine Ārya-Tārā!</p>
 <p rend="verse" n="1">May she, who, seeing the world immersed in the sea of  existence, duly delivers it through the three means, may she, Tārā‚ the only guiding-star of the world, grant you (your) desire (consisting of) the best part of the wealth<!-- n. 34--> of the celestial and the mundane worlds.</p>
 <p rend="verse" n="2">After persuading the great king <foreign>dyah</foreign> Pañcapaṇa, (the <foreign>rakryan</foreign>) Paṇaṁkaraṇa, the splendid temple of Tārā<!-- n. 35--> was caused to be built by the preceptors of the Śailendra-king.<!-- n. 36--></p>
@@ -265,7 +271,7 @@ c'est bien bhü qu'il faut lire, avec Bhandarkar, bien que l'aksara diffère sen
 <p rend="verse" n="11">Through the merit accruing from (the construction of) the <foreign>vihāra</foreign>‚<!-- n. 46--> may all people who are subject to the three forms of existence (<foreign>tribhavopapannā</foreign>) and who are proficient in the teachings of the Jinas obtain a (true) insight into the division of things originating from the chain of causation.<!-- n. 47--></p>
 <p rend="verse" n="12">The illustrious Kariyāna<!-- n. 48--> Paṇaṁkaraṇa again and again requests the future kings to maintain the <foreign>vihāra</foreign> in a proper way.</p>
          </div>
-       <div type="translation" xml:lang="eng" source="bib:Bhandarkar1887_01"><head>Translation Bhandarkar</head><!-- normalized in matters of transliteration -->
+       <div type="translation" source="bib:Bhandarkar1887_01"><head>Translation Bhandarkar</head><!-- normalized in matters of transliteration -->
 <p n="1">Salutations to the blessed, the noble Tārā!</p>
 <p rend="verse" n="1">May Tārā the only Saviour[1] of the Universe, who, seeing men sunk in the sea of life which is full of immeasurable misery, formally delivers them by [resorting to] the three[2] means, give you the desired essence of the glory of the world of the Lord of the gods, and of men. </p>
 <p rend="verse" n="2">Having prevailed upon the great King Paṇaṁkaraṇa by.......the Preceptor of King Śailendra[3] caused a splendid temple of Tārā to be constructed.</p>
@@ -312,7 +318,7 @@ tathā tathā bhagavan bodhisattvena pratipattavyaṃ yatsahadarśanena sattvā�
 	<!-- NB: you are encouraged to experiment with encoding bibliography to the extent you have the bibliographic data available, but it is not mandatory at this stage, because our bibliographic data are normally assembled along with other metadata in spreadsheets and will be imported from there into our xml files by a semi-automated process at a later stage. -->
            <p>First edited with translation into Dutch by Brandes (<bibl rend="omitname"><ptr target="bib:Brandes1886_01"/></bibl>); 
 edited, independently, with translation into English by Bhandarkar (<bibl rend="omitname"><ptr target="bib:Bhandarkar1887_01"/></bibl>);
-re-edited, with new Dutch translation and photo of an estampage, by Bosch (<bibl rend="omitname"><ptr target="bib:Bosch1928_01"/><citedRange unit="page">57-62</citedRange><citedRange unit="appendix">1</citedRange><citedRange unit="plate">2</citedRange></bibl>). Further editions have been published by Sarkar (<bibl rend="omitname"><ptr target="bib:Sarkar1971-1972_01"/><citedRange unit="volume">1</citedRange><citedRange unit="item">5</citedRange></bibl>, with the translation into English reproduced here); Sircar (<bibl rend="omitname"><ptr target="bib:Sircar1983_01"/><citedRange unit="page">694-696</citedRange></bibl>); by Long (<bibl rend="omitname"><ptr target="bib:Long2014_01"/><citedRange unit="page">???-???</citedRange></bibl>, with translation into English). The text is edited here once again from the OD photos and with systematic collation only of the readings published by <bibl><ptr target="bib:Bosch1928_01"></ptr></bibl> and <bibl><ptr target="bib:Sarkar1971-1972_01"/></bibl>.
+re-edited, with new Dutch translation and photo of an estampage, by Bosch (<bibl rend="omitname"><ptr target="bib:Bosch1928_01"/><citedRange unit="page">57-62</citedRange><citedRange unit="appendix">1</citedRange><citedRange unit="plate">2</citedRange></bibl>). Further editions have been published by Sarkar (<bibl rend="omitname"><ptr target="bib:Sarkar1971-1972_01"/><citedRange unit="volume">1</citedRange><citedRange unit="item">5</citedRange></bibl>, with the translation into English reproduced here); Sircar (<bibl rend="omitname"><ptr target="bib:Sircar1983_01"/><citedRange unit="page">694-696</citedRange></bibl>); by Long (<bibl rend="omitname"><ptr target="bib:Long2014_01"/><citedRange unit="page">???-???</citedRange></bibl>, with translation into English). The text is edited here once again from the OD photos and with systematic collation only of the readings published by <bibl><ptr target="bib:Bosch1928_01"/></bibl> and <bibl><ptr target="bib:Sarkar1971-1972_01"/></bibl>.
 <!--MNI D.147
 OD Number: 6366, 7465-7466-->
 </p>

@@ -1,59 +1,61 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-	<teiHeader xml:lang="eng">
-		<fileDesc>
-			<titleStmt>
-				<title>Mpu Mano</title>
-				<respStmt>
-					<resp>EpiDoc encoding</resp>
-					<resp>intellectual authorship of edition</resp>
-					<persName ref="part:argr">
-						<forename>Arlo</forename>
-						<surname>Griffiths</surname>
-					</persName>
-				</respStmt>
-			</titleStmt>         
-			<publicationStmt>
-				<authority>DHARMA
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mpu Mano</title>
+            <respStmt>
+               <resp>EpiDoc encoding</resp>
+               <resp>intellectual authorship of edition</resp>
+               <persName ref="part:argr">
+                  <forename>Arlo</forename>
+                  <surname>Griffiths</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>DHARMA
 					<note>This project has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</note>
-				</authority>
-				<pubPlace>Lyon</pubPlace>
-				<idno type="filename">MpuMano</idno>
-				<availability>
-					<licence target="https://creativecommons.org/licenses/by/4.0/">
-						<p>This work is licenced under the Creative Commons Attribution 4.0 Unported Licence. To view a copy of the licence, visit https://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.</p>
-						<p>Copyright (c) 2019-2025 by Arlo Griffiths.</p>
-					</licence>
-				</availability>
-				<date from="2019" to="2025">2019-2025</date>
-			</publicationStmt>
-			<sourceDesc><!-- only the handDesc can be filled in at this stage -->
-				<msDesc><!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
-					<msIdentifier>
-						<repository>DHARMAbase</repository>
-						<idno/><!-- don't modify this -->
-					</msIdentifier>
-					<msContents><!-- describe the intellectual content of an inscription -->
-						<summary><!-- //// NOT MANDATORY  ////--></summary> <!-- offers the possibility to give a summary of the inscription's content -->
-					</msContents>
-					<physDesc>
-						<handDesc>
-							<p>Same hand as that seen in Gajah Mada? See Griffiths 2020.</p>
-						</handDesc>
-					</physDesc>
-				</msDesc>	
-			</sourceDesc>
-		</fileDesc>
-	<revisionDesc>
-		<change who="part:argr" when="2020-04-14" status="draft">adjusted values of @n in lb and loc; resolved issue #16</change>
-		<change who="part:axja" when="2020-03-27" status="draft">adding the handDesc template</change>
-		<change who="part:argr" when="2020-03-09" status="draft">first revision and expansion of the encoding</change>
-		<change who="part:argr" when="2019-09" status="draft">initial encoding of the edition</change>
-	</revisionDesc>
-    </teiHeader> 
-    <text xml:space="preserve">
+            </authority>
+            <pubPlace>Lyon</pubPlace>
+            <idno type="filename">MpuMano</idno>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/">
+                  <p>This work is licenced under the Creative Commons Attribution 4.0 Unported Licence. To view a copy of the licence, visit https://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.</p>
+                  <p>Copyright (c) 2019-2025 by Arlo Griffiths.</p>
+               </licence>
+            </availability>
+            <date from="2019" to="2025">2019-2025</date>
+         </publicationStmt>
+         <sourceDesc><!-- only the handDesc can be filled in at this stage -->
+            <msDesc><!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
+               <msIdentifier>
+                  <repository>DHARMAbase</repository>
+                  <idno/>
+                  <!-- don't modify this -->
+               </msIdentifier>
+               <msContents><!-- describe the intellectual content of an inscription -->
+                  <summary><!-- //// NOT MANDATORY  ////--></summary>
+                  <!-- offers the possibility to give a summary of the inscription's content -->
+               </msContents>
+               <physDesc>
+                  <handDesc>
+                     <p>Same hand as that seen in Gajah Mada? See Griffiths 2020.</p>
+                  </handDesc>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change who="part:argr" when="2020-04-14" status="draft">adjusted values of @n in lb and loc; resolved issue #16</change>
+         <change who="part:axja" when="2020-03-27" status="draft">adding the handDesc template</change>
+         <change who="part:argr" when="2020-03-09" status="draft">first revision and expansion of the encoding</change>
+         <change who="part:argr" when="2019-09" status="draft">initial encoding of the edition</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:space="preserve">
         <body>
             <div type="edition">
                 <ab>
@@ -61,13 +63,7 @@
 <lb n="1r1"/>// <g type="symbol" subtype="quatrefoil"/> // namo stu sarvvabuddhăya // <g type="symbol">✤</g> // svasti śakavarṣātīta, <num value="888">888</num>, śrăvaṇamāsa, <orig>tīthī</orig>, Aṣṭamī kr̥ṣṇapakṣa, <abbr>ha</abbr>, <abbr>va</abbr>, <abbr>ra</abbr>, vāra, sinta, 
 <lb n="1r2"/>bāyabyasthagrahacāra, rohiṇīnakṣatra, prajāpatidevatā, mahendramaṇḍala, harṣaṇayoga, vijayamuhūrta, śaśīparvvaiśa, 
 <lb n="1r3"/>kolavakaraṇa, siṅharāśi, Irika divāśanira, mpu mano, muṇyākən· lmaḥ sīma, kaputrāṅśanira, kalilīranira saṅke kavvitanira 
-<lb n="1r4"/>Ikaṁ harahara, kidul i pomahanira, hīṅanya lor· kidul iṁ pagər· kinalihan·, muAṁ mpu mano, hīṅanya kulvan· Aṅalihī pagər·, muAṁ <lb 
-n="1v5"/> Iṁ paviḍəṅan·, hīṅanya vetan·, Aṅalihi pagər·, muAṁ Iṁ kalampayan·, hīṅanya kidul·, Ikaṁ pagər· lor· saṁke kalimusan·, ya t<pb 
-n="1v" break="no"/><lb n="1v1" break="no"/>ekā pinuṇyakənira Iṁ mpuṅku <supplied reason="omitted">Iṁ</supplied> susuk· pagər·, muAṁ mpuṅku Iṁ nairañjanā, Arthahetoḥ mpu buddhivāla, paknanya gavayənnira kuṭi, dharmma lpa<lb 
-n="1v2" break="no"/>s· kapodgālikanani kulasantānānira mpuṅku Iṁ nairañjanā, kunaṁ kramanya, Ikaṁ savaḥ kidul iṁ kuṭi, təmpaḥ, <num value="3">3</num>, ya ta sinaṇḍā mpuṅku <supplied reason="omitted">Iṁ</supplied> su<lb 
-n="1v3" break="no"/>suk· pagər·, muAṁ mpuṅku Iṁ nairañjanā, Iṁ mā kā <num value="2">2</num><unclear>,</unclear> ya ta dharmma mpuṅku, Iṁ susuk· pagər·, muAṁ mpuṅku Iṁ <choice><sic>nairagjanā</sic><reg>nairañjanā</reg></choice>, An· paminta I<lb 
-n="1v4" break="no"/>ka lmaḥ tumpal ika savaḥ lor· damlənira kuṭi, ya ta kăraṇanyan· <choice><sic>linbas</sic><reg>tinbus</reg></choice> ikaṁ savaḥ saṇḍanira mpu mano, Iṁ mā kā <num value="3">3</num>, mapa<lb 
-n="1v5" break="no"/>k<unclear>na</unclear> bhuktyana saṁ hyaṁ kuṭi, saṅka ri gə:ṁnyāmbha mpu mano, yat· dharmma donanya, Apitovin ana riṁ dharmma parṇnaḥ mpu mano, denira mpuṅku Iṁ
+<lb n="1r4"/>Ikaṁ harahara, kidul i pomahanira, hīṅanya lor· kidul iṁ pagər· kinalihan·, muAṁ mpu mano, hīṅanya kulvan· Aṅalihī pagər·, muAṁ <lb n="1v5"/> Iṁ paviḍəṅan·, hīṅanya vetan·, Aṅalihi pagər·, muAṁ Iṁ kalampayan·, hīṅanya kidul·, Ikaṁ pagər· lor· saṁke kalimusan·, ya t<pb n="1v" break="no"/><lb n="1v1" break="no"/>ekā pinuṇyakənira Iṁ mpuṅku <supplied reason="omitted">Iṁ</supplied> susuk· pagər·, muAṁ mpuṅku Iṁ nairañjanā, Arthahetoḥ mpu buddhivāla, paknanya gavayənnira kuṭi, dharmma lpa<lb n="1v2" break="no"/>s· kapodgālikanani kulasantānānira mpuṅku Iṁ nairañjanā, kunaṁ kramanya, Ikaṁ savaḥ kidul iṁ kuṭi, təmpaḥ, <num value="3">3</num>, ya ta sinaṇḍā mpuṅku <supplied reason="omitted">Iṁ</supplied> su<lb n="1v3" break="no"/>suk· pagər·, muAṁ mpuṅku Iṁ nairañjanā, Iṁ mā kā <num value="2">2</num><unclear>,</unclear> ya ta dharmma mpuṅku, Iṁ susuk· pagər·, muAṁ mpuṅku Iṁ <choice><sic>nairagjanā</sic><reg>nairañjanā</reg></choice>, An· paminta I<lb n="1v4" break="no"/>ka lmaḥ tumpal ika savaḥ lor· damlənira kuṭi, ya ta kăraṇanyan· <choice><sic>linbas</sic><reg>tinbus</reg></choice> ikaṁ savaḥ saṇḍanira mpu mano, Iṁ mā kā <num value="3">3</num>, mapa<lb n="1v5" break="no"/>k<unclear>na</unclear> bhuktyana saṁ hyaṁ kuṭi, saṅka ri gə:ṁnyāmbha mpu mano, yat· dharmma donanya, Apitovin ana riṁ dharmma parṇnaḥ mpu mano, denira mpuṅku Iṁ
                 </ab>
             </div>
             <div type="apparatus">
@@ -166,7 +162,7 @@ n="1v5" break="no"/>k<unclear>na</unclear> bhuktyana saṁ hyaṁ kuṭi, saṅk
 
 	</listApp>
             </div>
-            <div type="translation" xml:lang="eng">
+            <div type="translation">
                 <p>translation(s)</p>
             </div>
             <div type="commentary">

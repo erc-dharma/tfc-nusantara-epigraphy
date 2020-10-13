@@ -1,88 +1,87 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"> 
-    <teiHeader xml:lang="eng">
-        <fileDesc>
-            <titleStmt>
-                <title>Kebantenan 2</title>
-                <respStmt>
-                    <resp>creation of the file</resp>
-                    <resp>intellectual authorship of edition</resp>
-                    <persName ref="part:agdu">
-                        <name>Aditia Gunawan</name>
-                    </persName>
-                </respStmt>
-                <respStmt>
-                    <resp>intellectual authorship of edition</resp> 
-                    <persName ref="part:argr">
-                        <persName>
-                            <forename>Arlo</forename>
-                            <surname>Griffiths</surname>
-                        </persName>
-                    </persName>
-                </respStmt>
-            </titleStmt>         
-            <publicationStmt>
-                <authority>DHARMA
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Kebantenan 2</title>
+            <respStmt>
+               <resp>creation of the file</resp>
+               <resp>intellectual authorship of edition</resp>
+               <persName ref="part:agdu">
+                  <name>Aditia Gunawan</name>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>intellectual authorship of edition</resp>
+               <persName ref="part:argr">
+                  <persName>
+                     <forename>Arlo</forename>
+                     <surname>Griffiths</surname>
+                  </persName>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>DHARMA
                     <note>This project has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).
                     </note>
-                </authority>
-                <pubPlace>Paris</pubPlace>
-                <idno type="filename">Kebantenan_2</idno><!-- Replace by filename, e.g. Pallava00001 -->
-                <availability>
-                    <licence target="https://creativecommons.org/licenses/by/4.0/">
-                        <p>This work is licenced under the Creative Commons Attribution 4.0 Unported Licence. To view a copy of the licence, visit https://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.</p>
-                        <p>Copyright (c) 2019-2025 by Aditia Gunawan.</p><!-- Replace year and name, use format "Forename1 Surname1 & Forename2 Surname2" or "Forename1 Surname1, Forename2 Surname2 & Forename3 Surname3"  if necessary — the copyright is that of the encoder(s) -->
-                    </licence>
-                </availability>
-                <date from="2019" to="2025">2019-2025</date>
-            </publicationStmt>
-            <sourceDesc><!-- only the handDesc can be filled in at this stage -->
-                <msDesc><!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
-                    <msIdentifier>
-                        <repository>DHARMAbase</repository>
-                        <idno/><!-- don't modify this -->
-                    </msIdentifier>
-                    <msContents><!-- describe the intellectual content of an inscription -->
-                        <summary><!-- //// NOT MANDATORY  ////--></summary> <!-- offers the possibility to give a summary of the inscription's content -->
-                    </msContents>
-                    <physDesc>
-                        <handDesc>
-                            <p><!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EG 11.2. --></p>
-                            <!-- If you need to identify individual hands (EG §7.5/) in addition to one or more paragraphs of general palaeographic description, wrap <summary> around the <p> or <p>s above, and, outside <summary>, create <handNote> elements for each hand as follows:
+            </authority>
+            <pubPlace>Paris</pubPlace>
+            <idno type="filename">Kebantenan_2</idno>
+            <!-- Replace by filename, e.g. Pallava00001 -->
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/">
+                  <p>This work is licenced under the Creative Commons Attribution 4.0 Unported Licence. To view a copy of the licence, visit https://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.</p>
+                  <p>Copyright (c) 2019-2025 by Aditia Gunawan.</p>
+                  <!-- Replace year and name, use format "Forename1 Surname1 & Forename2 Surname2" or "Forename1 Surname1, Forename2 Surname2 & Forename3 Surname3"  if necessary — the copyright is that of the encoder(s) -->
+               </licence>
+            </availability>
+            <date from="2019" to="2025">2019-2025</date>
+         </publicationStmt>
+         <sourceDesc><!-- only the handDesc can be filled in at this stage -->
+            <msDesc><!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
+               <msIdentifier>
+                  <repository>DHARMAbase</repository>
+                  <idno/>
+                  <!-- don't modify this -->
+               </msIdentifier>
+               <msContents><!-- describe the intellectual content of an inscription -->
+                  <summary><!-- //// NOT MANDATORY  ////--></summary>
+                  <!-- offers the possibility to give a summary of the inscription's content -->
+               </msContents>
+               <physDesc>
+                  <handDesc>
+                     <p><!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EG 11.2. --></p>
+                     <!-- If you need to identify individual hands (EG §7.5/) in addition to one or more paragraphs of general palaeographic description, wrap <summary> around the <p> or <p>s above, and, outside <summary>, create <handNote> elements for each hand as follows:
 						<summary><p><p/></summary>
 						<handNote xml:id="Pallava00001_hand1"></handNote>
 						<handNote xml:id="Pallava00001_hand2"></handNote>
 					 -->
-                        </handDesc>
-                    </physDesc>
-                </msDesc>
-                <!-- adgu: need to describe binding-holes -->
-            </sourceDesc>
-        </fileDesc>
-        <revisionDesc><change who="part:axja" when="2020-03-27" status="draft">adding the handDesc template</change>
-            <change who="part:adgu" when="2019-12" status="draft">Initial encoding of the edition</change>
-        </revisionDesc>
-    </teiHeader> 
-    <text xml:space="preserve">
+                  </handDesc>
+               </physDesc>
+            </msDesc>
+            <!-- adgu: need to describe binding-holes -->
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change who="part:axja" when="2020-03-27" status="draft">adding the handDesc template</change>
+         <change who="part:adgu" when="2019-12" status="draft">Initial encoding of the edition</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:space="preserve">
         <body>
             <div type="edition" xml:lang="x-oldsun-Latn">
             <pb n="1r"/>
                 <p>
-<lb n="1r1"/> // <g type="symbol" subtype="tennis-ball"/> // pun· Ini pitəkət· śri <choice><sic>buḍuga</sic><corr>baḍuga</corr></choice> maharaja ratu haji<lb 
-    n="1r2"/>ḍi pakvan·, śri saṁ ratu ḍevata, nu ḍipitəkətan· ma na lə<lb 
-        n="1r3" break="no"/>maḥ ḍevasasana, ḍi <choice><orig>suda</orig><reg>sunḍa</reg></choice>səmbava, mulaḥ vaya nu ṅubaḥ ya,<lb 
-            n="1r4"/>mulaḥ vaya nu ṅahəryanan ya, tebeḥ timur haṁgat· ciraAb·<lb 
-                n="1r5"/>, ka saṁ hyaṁ salila, ti barat· haṁgat· rusəb·, ka mu<choice><orig>ju</orig><reg>ñju</reg></choice>l· ka ci<lb 
-                    n="1r6" break="no"/>bake<choice><orig>ke</orig><reg>ṅke</reg></choice>ṁ, ciho<choice><orig>je</orig><reg>ñje</reg></choice>, ka muhara cimu<choice><orig>ca</orig><reg>ñca</reg></choice>ṁ pun·, ti kiḍul·
+<lb n="1r1"/> // <g type="symbol" subtype="tennis-ball"/> // pun· Ini pitəkət· śri <choice><sic>buḍuga</sic><corr>baḍuga</corr></choice> maharaja ratu haji<lb n="1r2"/>ḍi pakvan·, śri saṁ ratu ḍevata, nu ḍipitəkətan· ma na lə<lb n="1r3" break="no"/>maḥ ḍevasasana, ḍi <choice><orig>suda</orig><reg>sunḍa</reg></choice>səmbava, mulaḥ vaya nu ṅubaḥ ya,<lb n="1r4"/>mulaḥ vaya nu ṅahəryanan ya, tebeḥ timur haṁgat· ciraAb·<lb n="1r5"/>, ka saṁ hyaṁ salila, ti barat· haṁgat· rusəb·, ka mu<choice><orig>ju</orig><reg>ñju</reg></choice>l· ka ci<lb n="1r6" break="no"/>bake<choice><orig>ke</orig><reg>ṅke</reg></choice>ṁ, ciho<choice><orig>je</orig><reg>ñje</reg></choice>, ka muhara cimu<choice><orig>ca</orig><reg>ñca</reg></choice>ṁ pun·, ti kiḍul·
                     
 <pb n="1v"/>
 <lb n="1v1"/>haṁgat· L̥vəṁ comon·, mulaḥ mo mihape ya, kena
 <lb n="1v2"/>na ḍevasasana saṁgaṙ kami ratu, saparaḥ jalan· gəḍe,
 <lb n="1v3"/>kagiraṁkən·, L̥maḥ laraṅan· pigəsanən· na para viku
-<lb n="1v4"/>pun·, Ulaḥ ḍek· vaya nu kəḍə di bənaṁṅiṁ ṅagurat· ke<lb 
-    n="1v5" break="no"/>naIṁ heman·, ḍi viku pun·
+<lb n="1v4"/>pun·, Ulaḥ ḍek· vaya nu kəḍə di bənaṁṅiṁ ṅagurat· ke<lb n="1v5" break="no"/>naIṁ heman·, ḍi viku pun·
 </p>
             </div>
             <div type="apparatus">

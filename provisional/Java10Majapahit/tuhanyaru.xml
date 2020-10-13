@@ -1,79 +1,76 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader xml:lang="eng">
-        <fileDesc>
-            <titleStmt>
-                <title>Tuhanyaru</title>
-                <respStmt>
-                    <resp>creation of the file</resp>
-                    <persName ref="part:masc">
-                        <name>Marine Schoettel</name>
-                    </persName>
-                </respStmt>
-                <respStmt>
-                    <resp>intellectual authorship of edition</resp>
-                    <persName ref="part:masc">
-                        <forename>Marine</forename>
-                        <surname>Schoettel</surname>
-                    </persName>
-                    <persName ref="part:argr">
-                        <forename>Arlo</forename>
-                        <surname>Griffiths</surname>
-                    </persName>
-                </respStmt>
-            </titleStmt>
-            <publicationStmt>
-                <authority>DHARMA <note>This project has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Tuhanyaru</title>
+            <respStmt>
+               <resp>creation of the file</resp>
+               <persName ref="part:masc">
+                  <name>Marine Schoettel</name>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>intellectual authorship of edition</resp>
+               <persName ref="part:masc">
+                  <forename>Marine</forename>
+                  <surname>Schoettel</surname>
+               </persName>
+               <persName ref="part:argr">
+                  <forename>Arlo</forename>
+                  <surname>Griffiths</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>DHARMA <note>This project has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant
                         agreement no 809994). </note>
-                </authority>
-                <pubPlace>Paris</pubPlace>
-                <idno type="filename">tuhanyaru</idno>
-                <availability>
-                    <licence target="https://creativecommons.org/licenses/by/4.0/">
-                        <p>This work is licenced under the Creative Commons Attribution 4.0 Unported Licence. To view a copy of the licence, visit https://creativecommons.org/licenses/by/4.0/ or send
+            </authority>
+            <pubPlace>Paris</pubPlace>
+            <idno type="filename">tuhanyaru</idno>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/">
+                  <p>This work is licenced under the Creative Commons Attribution 4.0 Unported Licence. To view a copy of the licence, visit https://creativecommons.org/licenses/by/4.0/ or send
                             a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.</p>
-                        <p>Copyright (c) 2019-2025 by Marine Schoettel &amp; Arlo Griffiths</p>
-                    </licence>
-                </availability>
-                <date from="2019" to="2025">2019-2025</date>
-            </publicationStmt>
-            <sourceDesc>
-                <!-- only the handDesc can be filled in at this stage -->
-                <msDesc>
-                    <!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
-                    <msIdentifier>
-                        <repository>DHARMAbase</repository>
-                        <idno/>
-                        <!-- don't modify this -->
-                    </msIdentifier>
-                    <msContents>
-                        <!-- describe the intellectual content of an inscription -->
-                        <summary><!-- //// NOT MANDATORY  ////--></summary>
-                        <!-- offers the possibility to give a summary of the inscription's content -->
-                    </msContents>
-                    <physDesc>
-                        <handDesc>
-                            <p><!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EG 11.2. --></p>
-                            <!-- If you need to identify individual hands (EG §7.5/) in addition to one or more paragraphs of general palaeographic description, wrap <summary> around the <p> or <p>s above, and, outside <summary>, create <handNote> elements for each hand as follows:
+                  <p>Copyright (c) 2019-2025 by Marine Schoettel &amp; Arlo Griffiths</p>
+               </licence>
+            </availability>
+            <date from="2019" to="2025">2019-2025</date>
+         </publicationStmt>
+         <sourceDesc><!-- only the handDesc can be filled in at this stage -->
+            <msDesc><!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
+               <msIdentifier>
+                  <repository>DHARMAbase</repository>
+                  <idno/>
+                  <!-- don't modify this -->
+               </msIdentifier>
+               <msContents><!-- describe the intellectual content of an inscription -->
+                  <summary><!-- //// NOT MANDATORY  ////--></summary>
+                  <!-- offers the possibility to give a summary of the inscription's content -->
+               </msContents>
+               <physDesc>
+                  <handDesc>
+                     <p><!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EG 11.2. --></p>
+                     <!-- If you need to identify individual hands (EG §7.5/) in addition to one or more paragraphs of general palaeographic description, wrap <summary> around the <p> or <p>s above, and, outside <summary>, create <handNote> elements for each hand as follows:
 						<summary><p><p/></summary>
 						<handNote xml:id="Pallava00001_hand1"></handNote>
 						<handNote xml:id="Pallava00001_hand2"></handNote>
 					 -->
-                        </handDesc>
-                    </physDesc>
-                </msDesc>
-            </sourceDesc>
-        </fileDesc>
-        <revisionDesc>
-            <change who="part:masc" when="2020-04-11" status="draft">finished initial encoding of the plates</change>
-            <change who="part:masc" when="2020-03-27" status="draft">adapting line numbering system to new EG recommandations</change>
-            <change who="part:axja" when="2020-03-27" status="draft">adding the handDesc template</change>
-            <change who="part:masc" when="2020-03-21" status="draft">initial encoding of the inscription</change>
-        </revisionDesc>
-    </teiHeader>
-    <text xml:space="preserve">
+                  </handDesc>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change who="part:masc" when="2020-04-11" status="draft">finished initial encoding of the plates</change>
+         <change who="part:masc" when="2020-03-27" status="draft">adapting line numbering system to new EG recommandations</change>
+         <change who="part:axja" when="2020-03-27" status="draft">adding the handDesc template</change>
+         <change who="part:masc" when="2020-03-21" status="draft">initial encoding of the inscription</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="kaw-Latn">
              <p>
@@ -104,8 +101,7 @@ Elām·, <foreign xml:lang="san-Latn">nayavinayānindita</foreign>, saṅ āryya
 <lb n="2r5" break="no"/>jādhikāra, pu taḍa, <foreign xml:lang="san-Latn">satatanayātisūkṣmacintanātandrita</foreign>, sākṣāt· pinakabāhuḍaṇḍa śrī mahārāja, An satata Umaloci
 <lb n="2r6" break="no"/>ta ri karakṣaniṁ sayavadvīpamaṇḍala, tan kavun<unclear>t</unclear>at· saṁ
                  dharmmādhikaraṇa <foreign xml:lang="san-Latn">nyāyānyāyavyavahāravicchedaka</foreign>, saṁ pamgət i tirvan·, ḍa<pb n="2v" break="no"/>
-<fw n="2v" rend="tb-rotated" place="left"><num value="2">2</num></fw><lb 
-n="2v1" break="no"/>ṅ ācāryya rāgavijaya, mapañji sāhasa, <foreign xml:lang="san-Latn">nyāyavyākaraṇaparisamāpta</foreign>, saṁ
+<fw n="2v" rend="tb-rotated" place="left"><num value="2">2</num></fw><lb n="2v1" break="no"/>ṅ ācāryya rāgavijaya, mapañji sāhasa, <foreign xml:lang="san-Latn">nyāyavyākaraṇaparisamāpta</foreign>, saṁ
 pamgət i ka<supplied reason="omitted">ṇḍa</supplied>muhi, ḍaṅ ācāryya viśvanātha, mapa
 <lb n="2v2" break="no"/>ñji paragata, <foreign xml:lang="san-Latn">saṅkhyaśāstraparisamāpta</foreign>,
                  saṁ pamgət i maṅhuri, ḍaṅ ācāryya mahānātha, <foreign xml:lang="san-Latn">nyāyavyākaraṇaparisamāpta</foreign>, saṁ pa
@@ -142,8 +138,7 @@ tan masiḥ riṅ uvus mulahakən· dharmmaniṁ seva⌈<g type="filler">§</g><
 <lb n="4r5" break="no"/>tinyan tan kalū<unclear>g</unclear>an· prāptāṅkən prativarṣa, mataṅ yan enak ta paṅarcchananikaṁ sevakottama mulahakən kaparahita
 <lb n="4r6" break="no"/>n· muAṁ rumakṣa tguhan iṁ svadharmma kāṅkən kriyājapasamādhiniṁ maṁhyaṁ
     turun i varānugraha śrī mahārāja, An prasi<g type="filler">§</g><pb n="4v" break="no"/>
-<fw n="4v" rend="tb-rotated" place="left"><num value="4">4</num></fw><lb 
-n="4v1" break="no"/>ddha viṣṇuprativimba, makavyakti vnaṁ śrī mahārāja vigrahānugraha riṁ
+<fw n="4v" rend="tb-rotated" place="left"><num value="4">4</num></fw><lb n="4v1" break="no"/>ddha viṣṇuprativimba, makavyakti vnaṁ śrī mahārāja vigrahānugraha riṁ
 sakalajana, dyaḥ makaradhvaja pva yogya turunana va
 <lb n="4v2" break="no"/>rānugraha, mataṅ yan dinadyakən ta saṁ hyaṅ ājñā haji praśāsti tinaṇḍa mīnadvayalăñchana, kmitanan i samasānak iṁ tu
 <lb n="4v3" break="no"/>hañaru muAṁ kusambyan sinusuk sīmādəg riṅgit· tan kaparābyāpāra kadi tiṅkaḥnya riṁ puhun malama, Aṅhiṁ sama<g type="filler">§</g>
@@ -175,8 +170,7 @@ vahuta rāma, lavan· sakveḥniṁ maṅi<g type="filler">§</g>
 <lb n="6r5" break="no"/>n· luvarak·, rakasaṁ, ramaṇaṁ, piniṅle, kataṅ<supplied reason="omitted">g</supplied>aran·, tapa haji, Air haji, malandaṁ, lca, lablab·, kukap·, paku
 <lb n="6r6" break="no"/>vaṅi, kutat·, taṅkil·, tr̥pan·, vatu valaṁ, salyut·, maṇiga, pamanikan·,
     sikpan·, rumban·, vilaṁ vanva, vi<g type="filler">§</g><pb n="6v" break="no"/>
-<fw n="6v" rend="tb-rotated" place="left"><num value="6">6</num></fw><lb 
-n="6v1" break="no"/>ji kavaḥ, paṅgare, tiṅkis·, mavi, manambaṅi, taṅhiran·, tuha dagaṁ, tuha nambi,
+<fw n="6v" rend="tb-rotated" place="left"><num value="6">6</num></fw><lb n="6v1" break="no"/>ji kavaḥ, paṅgare, tiṅkis·, mavi, manambaṅi, taṅhiran·, tuha dagaṁ, tuha nambi,
 tuha juḍi, juru gosali, maṁru
 <lb n="6v2" break="no"/>mbe, maṁguñje, juru huñjəman·, juru jalir·, pabisir·, pavuruk·, pajuṁkuṁ, pavuṁ kunuṁ, pakalaṁkaṁ, pakiliṁkiṁ, li
 <lb n="6v3" break="no"/>ṅgaṁ, sr̥pan·, kaR̥R̥ṅan·, puluṁ paḍi, pavlaṁvlaṁ, pakuda, pahaliman·, Urutan·, ḍampulan·, tpuṁ kavuṁ, suṁsuṁ
@@ -281,7 +275,7 @@ Astu, 3, siddhir astu // 0 //
                    </app>
                </listApp>
          </div>
-         <div type="translation" xml:lang="eng" resp="part:argr">
+         <div type="translation" resp="part:argr">
  	<!--translation encoded as per EG §9.2 -->
 <p>
              TRANSLATION

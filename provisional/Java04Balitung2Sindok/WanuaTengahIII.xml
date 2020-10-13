@@ -1,76 +1,78 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-	<teiHeader xml:lang="eng">
-		<fileDesc>
-			<titleStmt>
-				<title>Wanua Tengah III</title>
-				<respStmt>
-					<resp>EpiDoc encoding</resp>
-					<persName ref="part:ekba">
-						<name>Eko Bastiawan</name>
-					</persName>
-					<persName ref="part:argr">
-						<forename>Arlo</forename>
-						<surname>Griffiths</surname>
-					</persName>
-				</respStmt>
-				<respStmt>
-					<resp>intellectual authorship of edition</resp>
-					<persName ref="part:argr">
-						<forename>Arlo</forename>
-						<surname>Griffiths</surname>
-					</persName>
-				</respStmt>
-			</titleStmt>
-			<publicationStmt>
-				<authority>DHARMA <note>This project has received funding from the European Research
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Wanua Tengah III</title>
+            <respStmt>
+               <resp>EpiDoc encoding</resp>
+               <persName ref="part:ekba">
+                  <name>Eko Bastiawan</name>
+               </persName>
+               <persName ref="part:argr">
+                  <forename>Arlo</forename>
+                  <surname>Griffiths</surname>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>intellectual authorship of edition</resp>
+               <persName ref="part:argr">
+                  <forename>Arlo</forename>
+                  <surname>Griffiths</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>DHARMA <note>This project has received funding from the European Research
 						Council (ERC) under the European Union's Horizon 2020 research and
 						innovation programme (grant agreement no 809994).</note>
-				</authority>
-				<pubPlace>Malang &amp; Lyon</pubPlace>
-				<idno type="filename">WanuaTengahIII</idno>
-				<!-- Replace by filename, e.g. Pallava00001 -->
-				<availability>
-					<licence target="https://creativecommons.org/licenses/by/4.0/">
-						<p>This work is licensed under the Creative Commons Attribution 4.0 Unported
+            </authority>
+            <pubPlace>Malang &amp; Lyon</pubPlace>
+            <idno type="filename">WanuaTengahIII</idno>
+            <!-- Replace by filename, e.g. Pallava00001 -->
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/">
+                  <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
 							Licence. To view a copy of the licence, visit
 							https://creativecommons.org/licenses/by/4.0/ or send a letter to
 							Creative Commons, 444 Castro Street, Suite 900, Mountain View,
 							California, 94041, USA.</p>
-						<p>Copyright (c) 2019-2025 by Arlo Griffiths</p>
-					</licence>
-				</availability>
-				<date from="2019" to="2025">2019-2025</date>
-			</publicationStmt>
-			<sourceDesc><!-- only the handDesc can be filled in at this stage -->
-				<msDesc><!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
-					<msIdentifier>
-						<repository>DHARMAbase</repository>
-						<idno/><!-- don't modify this -->
-					</msIdentifier>
-					<msContents><!-- describe the intellectual content of an inscription -->
-						<summary><!-- //// NOT MANDATORY  ////--></summary> <!-- offers the possibility to give a summary of the inscription's content -->
-					</msContents>
-					<physDesc>
-						<handDesc>
-							<p><!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EGD 11.2. --></p>
-							<!-- If you need to identify individual hands (EGD §7.5/) in addition to one or more paragraphs of general palaeographic description, wrap <summary> around the <p> or <p>s above, and, outside <summary>, create <handNote> elements for each hand as follows:
+                  <p>Copyright (c) 2019-2025 by Arlo Griffiths</p>
+               </licence>
+            </availability>
+            <date from="2019" to="2025">2019-2025</date>
+         </publicationStmt>
+         <sourceDesc><!-- only the handDesc can be filled in at this stage -->
+            <msDesc><!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
+               <msIdentifier>
+                  <repository>DHARMAbase</repository>
+                  <idno/>
+                  <!-- don't modify this -->
+               </msIdentifier>
+               <msContents><!-- describe the intellectual content of an inscription -->
+                  <summary><!-- //// NOT MANDATORY  ////--></summary>
+                  <!-- offers the possibility to give a summary of the inscription's content -->
+               </msContents>
+               <physDesc>
+                  <handDesc>
+                     <p><!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EGD 11.2. --></p>
+                     <!-- If you need to identify individual hands (EGD §7.5/) in addition to one or more paragraphs of general palaeographic description, wrap <summary> around the <p> or <p>s above, and, outside <summary>, create <handNote> elements for each hand as follows:
 						<summary><p><p/></summary>
 						<handNote xml:id="Pallava00001_hand1"></handNote>
 						<handNote xml:id="Pallava00001_hand2"></handNote>
 					 -->
-						</handDesc>
-					</physDesc>
-				</msDesc>
-			</sourceDesc>
-		</fileDesc>
-		<revisionDesc>
-			<change who="part:ekba" when="2020-09-24" status="draft">initial encoding of the inscription</change>
-		</revisionDesc>
-	</teiHeader>
-	<text xml:space="preserve">
+                  </handDesc>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change who="part:ekba" when="2020-09-24" status="draft">initial encoding of the inscription</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="kaw-Latn"><!-- update the @xml:lang value, see EGD §7.2-->
             <pb n="1r"/><!-- blank -->
@@ -313,7 +315,7 @@
 	2r19\footnote{dhā 3 B \sep\ dhā 2 K.}
 	2r20\footnote{dhā 3 B \sep\ dhā 2 K.}
 	2r20\footnote{hopaṅaṅkat·, kabayan B \sep\ hop pangangkat kabayan K. Understand <foreign>hop paṅaṅkat}.}		-->
-         	<p>piṅhe I pagar vsi si maṅaruḥ ramani sadhaṇa, piṅhai I pikatan· Asam pañjaṁ si syāmā ramani bikrāmī, muva[ḥ] <lb n="2r22"/> piṅhai I pikatan·, vijyāṅin· si kusuma ramani lābha, muvaḥ piṅhai I pikatan· guṇuṁ si mriḥ ramaṇni Astiti, muvaḥ piṅhai I pikatan· Asam pañjaṁ, si balava, muvaḥ piṅhai I pikatan· lekan·, si jalū ramani ka<gap reason="lost" quantity="2" unit="character"/> <lb n="2r23"/> piṅhai I tira siṅgaṁ si rasuk·, muAṁ si dhavala ramani kesara, kapuA vineḥ vḍihan· R̥ṅga <abbr>yu</abbr> <num value="1">1</num> mās· <abbr>mā</abbr> <num value="1">1</num> sovaṁ-sovaṁ, vanuA tṅaḥ prāṇa 3 si maṅhuri ramani kanaka, si Ananta ramani kaṇṭara, muAṁ si liṅga ramani Cḍi<gap reason="lost" quantity="3" unit="character"/> <lb n="2r24" break="no"/>raṁ saṁ ra lampi, si balu ramani L̥bā, kapuA vinaiḥ vḍihan· R̥ṅga <abbr>yu</abbr> <num value="1">1</num> mās· <abbr>mā</abbr> <num value="1">1</num> sovaṁ-sovaṁ, vahuta I pagar vsi si kaṇḍara ramani prasena, vahuta I pikatan· kupaṁ, si tovoḥ ramani Arā, vahuta I tira <gap reason="lost"  quantity="4" unit="character"/><lb n="2r25"/> ramani Asiḥ, kapuA vineḥ vḍihan R̥ṁga <abbr>yu</abbr> <num value="1">1</num> mās· <abbr>mā</abbr> <num value="1">1</num> sovaṁ-sovaṁ, piluṅgaḥnya, si man·dyus· ramani veda, vineḥ mās· <abbr>mā</abbr> <num value="1">1</num> muvaḥ pihai I pikatan· Anuṁ lampuran· si gayatrī muAṁ si vanuA <gap reason="lost" quantity="6" unit="character"/><lb n="2r26" break="no"/>n·</p>
+         	<p>piṅhe I pagar vsi si maṅaruḥ ramani sadhaṇa, piṅhai I pikatan· Asam pañjaṁ si syāmā ramani bikrāmī, muva[ḥ] <lb n="2r22"/> piṅhai I pikatan·, vijyāṅin· si kusuma ramani lābha, muvaḥ piṅhai I pikatan· guṇuṁ si mriḥ ramaṇni Astiti, muvaḥ piṅhai I pikatan· Asam pañjaṁ, si balava, muvaḥ piṅhai I pikatan· lekan·, si jalū ramani ka<gap reason="lost" quantity="2" unit="character"/> <lb n="2r23"/> piṅhai I tira siṅgaṁ si rasuk·, muAṁ si dhavala ramani kesara, kapuA vineḥ vḍihan· R̥ṅga <abbr>yu</abbr> <num value="1">1</num> mās· <abbr>mā</abbr> <num value="1">1</num> sovaṁ-sovaṁ, vanuA tṅaḥ prāṇa 3 si maṅhuri ramani kanaka, si Ananta ramani kaṇṭara, muAṁ si liṅga ramani Cḍi<gap reason="lost" quantity="3" unit="character"/> <lb n="2r24" break="no"/>raṁ saṁ ra lampi, si balu ramani L̥bā, kapuA vinaiḥ vḍihan· R̥ṅga <abbr>yu</abbr> <num value="1">1</num> mās· <abbr>mā</abbr> <num value="1">1</num> sovaṁ-sovaṁ, vahuta I pagar vsi si kaṇḍara ramani prasena, vahuta I pikatan· kupaṁ, si tovoḥ ramani Arā, vahuta I tira <gap reason="lost" quantity="4" unit="character"/><lb n="2r25"/> ramani Asiḥ, kapuA vineḥ vḍihan R̥ṁga <abbr>yu</abbr> <num value="1">1</num> mās· <abbr>mā</abbr> <num value="1">1</num> sovaṁ-sovaṁ, piluṅgaḥnya, si man·dyus· ramani veda, vineḥ mās· <abbr>mā</abbr> <num value="1">1</num> muvaḥ pihai I pikatan· Anuṁ lampuran· si gayatrī muAṁ si vanuA <gap reason="lost" quantity="6" unit="character"/><lb n="2r26" break="no"/>n·</p>
 <!--	2r21\footnote{maṅaruḥ \sep\ ma - -  uḥ BK.}
 	2r21\footnote{piṅhai B \sep\ pinghe K.}
 	2r21\footnote{bikrāmī, muva[ḥ] \sep\ bikrami -u-a B, bikra-i-u-a K.}
@@ -419,7 +421,7 @@
                   </app>
                </listApp>
          </div>
-         <div type="translation" xml:lang="eng">
+         <div type="translation">
  	<!--translation encoded as per EGD §9.2 -->
 <p n="1v1">There once was a prince of Hāra, younger brother of the prince of Mḍaṅ. He founded the monastery at Pikatan <foreign>tutuganniṁ taṇḍa</foreign>.<!-- tutugan: cf. Mūla --></p>
 <p n="1v2-1v4">On Śaka 668, month Aśuji, fifteenth, waxing, Paniruan (of the 6-day week), Pahiṅ (of the 5-day week), Tuesday, did Rakai Panaṅkaran mount the throne. He endowed the king's <foreign>lān</foreign> wet rice-field in Vanua Tṅah, domain of Pikatan, to the monastery at Pikatan. The extent of the wet rice-field from east to west on the north side is 182 <foreign>ḍpa sihvā</foreign>; from east to west on the south side it is 162 <foreign>ḍpa sihvā</foreign>; from north to south on the east side it is 160 <foreign>ḍpa sihvā</foreign>; from south to north on the west side it is 162 <foreign>ḍpa sihvā</foreign>. Its seed is 3 <foreign>tū</foreign>.</p>
