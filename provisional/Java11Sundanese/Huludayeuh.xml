@@ -1,87 +1,88 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"> 
-    <teiHeader xml:lang="eng">
-        <fileDesc>
-            <titleStmt>
-                <title>Huludayeuh</title><!--Change the title of the file, e.g. Raktamālā grant of the time of Budhagupta, year 159-->
-                <respStmt>
-                    <resp>creation of the file</resp>
-                    <resp>intellectual authorship of edition</resp>
-                    <persName ref="part:agdu">
-                        <name>Aditia Gunawan</name>
-                    </persName>
-                </respStmt>
-                <respStmt>
-                    <resp>intellectual authorship of edition</resp> 
-                    <persName ref="part:argr">
-                        <persName>
-                            <forename>Arlo</forename>
-                            <surname>Griffiths</surname>
-                        </persName>
-                    </persName>
-                </respStmt>
-            </titleStmt>         
-            <publicationStmt>
-                <authority>DHARMA
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Huludayeuh</title>
+            <!--Change the title of the file, e.g. Raktamālā grant of the time of Budhagupta, year 159-->
+            <respStmt>
+               <resp>creation of the file</resp>
+               <resp>intellectual authorship of edition</resp>
+               <persName ref="part:agdu">
+                  <name>Aditia Gunawan</name>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>intellectual authorship of edition</resp>
+               <persName ref="part:argr">
+                  <persName>
+                     <forename>Arlo</forename>
+                     <surname>Griffiths</surname>
+                  </persName>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>DHARMA
                     <note>This project has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).
                     </note>
-                </authority>
-                <pubPlace>Paris</pubPlace>
-                <idno type="filename">Huludayeuh</idno><!-- Replace by filename, e.g. Pallava00001 -->
-                <availability>
-                    <licence target="https://creativecommons.org/licenses/by/4.0/">
-                        <p>This work is licenced under the Creative Commons Attribution 4.0 Unported Licence. To view a copy of the licence, visit https://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.</p>
-                        <p>Copyright (c) 2019-2025 by Aditia Gunawan.</p><!-- Replace year and name, use format "Forename1 Surname1 & Forename2 Surname2" or "Forename1 Surname1, Forename2 Surname2 & Forename3 Surname3"  if necessary — the copyright is that of the encoder(s) -->
-                    </licence>
-                </availability>
-                <date from="2019" to="2025">2019-2025</date>
-            </publicationStmt>
-            <sourceDesc><!-- only the handDesc can be filled in at this stage -->
-                <msDesc><!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
-                    <msIdentifier>
-                        <repository>DHARMAbase</repository>
-                        <idno/><!-- don't modify this -->
-                    </msIdentifier>
-                    <msContents><!-- describe the intellectual content of an inscription -->
-                        <summary><!-- //// NOT MANDATORY  ////--></summary> <!-- offers the possibility to give a summary of the inscription's content -->
-                    </msContents>
-                    <physDesc>
-                        <handDesc>
-                            <p><!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EG 11.2. --></p>
-                            <!-- If you need to identify individual hands (EG §7.5/) in addition to one or more paragraphs of general palaeographic description, wrap <summary> around the <p> or <p>s above, and, outside <summary>, create <handNote> elements for each hand as follows:
+            </authority>
+            <pubPlace>Paris</pubPlace>
+            <idno type="filename">Huludayeuh</idno>
+            <!-- Replace by filename, e.g. Pallava00001 -->
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/">
+                  <p>This work is licenced under the Creative Commons Attribution 4.0 Unported Licence. To view a copy of the licence, visit https://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.</p>
+                  <p>Copyright (c) 2019-2025 by Aditia Gunawan.</p>
+                  <!-- Replace year and name, use format "Forename1 Surname1 & Forename2 Surname2" or "Forename1 Surname1, Forename2 Surname2 & Forename3 Surname3"  if necessary — the copyright is that of the encoder(s) -->
+               </licence>
+            </availability>
+            <date from="2019" to="2025">2019-2025</date>
+         </publicationStmt>
+         <sourceDesc><!-- only the handDesc can be filled in at this stage -->
+            <msDesc><!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
+               <msIdentifier>
+                  <repository>DHARMAbase</repository>
+                  <idno/>
+                  <!-- don't modify this -->
+               </msIdentifier>
+               <msContents><!-- describe the intellectual content of an inscription -->
+                  <summary><!-- //// NOT MANDATORY  ////--></summary>
+                  <!-- offers the possibility to give a summary of the inscription's content -->
+               </msContents>
+               <physDesc>
+                  <handDesc>
+                     <p><!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EG 11.2. --></p>
+                     <!-- If you need to identify individual hands (EG §7.5/) in addition to one or more paragraphs of general palaeographic description, wrap <summary> around the <p> or <p>s above, and, outside <summary>, create <handNote> elements for each hand as follows:
 						<summary><p><p/></summary>
 						<handNote xml:id="Pallava00001_hand1"></handNote>
 						<handNote xml:id="Pallava00001_hand2"></handNote>
 					 -->
-                        </handDesc>
-                    </physDesc>
-                </msDesc>
-                
-                <!-- adgu: need to describe binding-holes -->
-            </sourceDesc>
-        </fileDesc>
-        <revisionDesc><change who="part:axja" when="2020-03-27" status="draft">adding the handDesc template</change>
-            <change who="part:adgu" when="2020-02-09" status="draft">Revisions (Second Round).</change>
-            <change who="part:adgu" when="2020-01-27" status="draft">Input bibliography.</change>
-            <change who="part:axja" when="2020-01-09" status="draft">Updated to conform with the template</change>
-            <change who="part:adgu" when="2019-12" status="draft">Initial encoding of the edition</change>
-        </revisionDesc>
-    </teiHeader> 
-    <text xml:space="preserve">
+                  </handDesc>
+               </physDesc>
+            </msDesc>
+            <!-- adgu: need to describe binding-holes -->
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change who="part:axja" when="2020-03-27" status="draft">adding the handDesc template</change>
+         <change who="part:adgu" when="2020-02-09" status="draft">Revisions (Second Round).</change>
+         <change who="part:adgu" when="2020-01-27" status="draft">Input bibliography.</change>
+         <change who="part:axja" when="2020-01-09" status="draft">Updated to conform with the template</change>
+         <change who="part:adgu" when="2019-12" status="draft">Initial encoding of the edition</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:space="preserve">
         <body>
             <div type="edition" xml:lang="x-oldsun-Latn">
                 <p> 
                     <lb n="1"/><gap reason="lost" extent="unknown" unit="chars"/> <unclear>ra</unclear>tu <unclear>ṅa</unclear>rana, <unclear>ta</unclear> <gap reason="lost" extent="unknown" unit="chars"/> 
                     <lb n="2"/><gap reason="lost" extent="unknown" unit="chars"/> sri maḥ<unclear>ha</unclear>ra<unclear>ja</unclear> ra <unclear>t</unclear><supplied reason="lost">u</supplied>
-                    <lb n="3"/><supplied reason="lost" evidence="parallel">ha</supplied><unclear>j</unclear><supplied reason="lost">i</supplied> ri pakvan· sya saṁ ra<unclear >t</unclear><supplied reason="lost">u</supplied>
+                    <lb n="3"/><supplied reason="lost" evidence="parallel">ha</supplied><unclear>j</unclear><supplied reason="lost">i</supplied> ri pakvan· sya saṁ ra<unclear>t</unclear><supplied reason="lost">u</supplied>
                     <lb n="4"/><supplied reason="lost" evidence="parallel">de</supplied><unclear>va</unclear>ta pun·, masa sya
-                    <lb n="5"/>ṅrətakən· bumi <!--  il faut verifier u ou ū --> <choice><orig>ṅaha<lb 
-                        n="6" break="no"/>lipukən</orig><reg>ṅahalimpukən</reg><!-- case: add nasal m --></choice>· na bvan·na 
-                    <lb n="7"/>ñuruḥ saṁ <unclear>di</unclear>si suk·laja<lb 
-                        n="8" break="no"/><unclear>t</unclear>i ṅaR̥buḥkən· Ikaṁ ka<lb 
-                            n="9" break="no"/>yu si padakaḥ, ṅalaAn· <!--  compare with A in the other inscriptions-->
-                    <lb n="10"/>na Udubasu, mipati<lb 
-                        n="11" break="no"/>kən·n ikaṁ kala</p>
+                    <lb n="5"/>ṅrətakən· bumi <!--  il faut verifier u ou ū --> <choice><orig>ṅaha<lb n="6" break="no"/>lipukən</orig><reg>ṅahalimpukən</reg><!-- case: add nasal m --></choice>· na bvan·na 
+                    <lb n="7"/>ñuruḥ saṁ <unclear>di</unclear>si suk·laja<lb n="8" break="no"/><unclear>t</unclear>i ṅaR̥buḥkən· Ikaṁ ka<lb n="9" break="no"/>yu si padakaḥ, ṅalaAn· <!--  compare with A in the other inscriptions-->
+                    <lb n="10"/>na Udubasu, mipati<lb n="11" break="no"/>kən·n ikaṁ kala</p>
                 
             </div>
         <div type="apparatus">
@@ -100,7 +101,7 @@
                 </app>
                 <app loc="5-6">
                     <lem><choice><orig>ṅaha<lb n="6" break="no"/>lipukən</orig><reg>ṅahalimpukən</reg></choice></lem>
-                    <rdg source="bib:HasanDjafar1994_01">ṅaha<gap reason="lost" extent="unknown" unit="chars"></gap>lipukən</rdg>
+                    <rdg source="bib:HasanDjafar1994_01">ṅaha<gap reason="lost" extent="unknown" unit="chars"/>lipukən</rdg>
                     <note>See the preceding note. Hasan Djafar presume some gap between <foreign>ṅaha</foreign> and <foreign>lipukən</foreign>, which in our opinion we are dealing with single word broken by the mear transition to a new line.</note>
                 </app>
                 <app loc="7">
@@ -134,7 +135,7 @@
             </listApp>  
             </div>            
            
-            <div type="translation" xml:lang="eng">
+            <div type="translation">
                 <p><gap reason="lost"/> king his name, <gap reason="lost"/> Sri Maharaja King of Kings in Pakuan. He was Saṅ Ratu Devata, when he made the world prosperous, pleased the earth, ordered Saṅ Disi Suklajati to fell the tree called <supplied reason="explanation">named</supplied> Sipadakah, removed Udubasu, killed Kala.</p>
             </div>
             

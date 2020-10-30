@@ -1,70 +1,75 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-	<teiHeader xml:lang="eng">
-		<fileDesc>
-			<titleStmt>
-				<title>Wurudu Kidul</title>
-				<respStmt>
-					<resp>EpiDoc Encoding</resp>
-					<persName ref="part:argr"> <forename>Arlo</forename>
-						<surname>Griffiths</surname> </persName>
-				</respStmt>
-				<respStmt>
-					<resp>intellectual authorship of edition</resp>
-					<persName ref="part:argr"> <forename>Arlo</forename>
-						<surname>Griffiths</surname> </persName>
-				</respStmt>
-			</titleStmt>
-			<publicationStmt>
-				<authority>DHARMA <note>This project has received funding from the European Research
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Wurudu Kidul</title>
+            <respStmt>
+               <resp>EpiDoc Encoding</resp>
+               <persName ref="part:argr">
+                  <forename>Arlo</forename>
+                  <surname>Griffiths</surname>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>intellectual authorship of edition</resp>
+               <persName ref="part:argr">
+                  <forename>Arlo</forename>
+                  <surname>Griffiths</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>DHARMA <note>This project has received funding from the European Research
 					Council (ERC) under the European Union's Horizon 2020 research and innovation
-					programme (grant agreement no 809994).</note> </authority>
-				<pubPlace>Lyon</pubPlace>
-				<idno type="filename">WuruduKidul</idno>
-				<availability>
-					<licence target="https://creativecommons.org/licenses/by/4.0/"> <p>This work is
+					programme (grant agreement no 809994).</note>
+            </authority>
+            <pubPlace>Lyon</pubPlace>
+            <idno type="filename">WuruduKidul</idno>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/">
+                  <p>This work is
 						licensed under the Creative Commons Attribution 4.0 Unported Licence. To
 						view a copy of the licence, visit
 						https://creativecommons.org/licenses/by/4.0/ or send a letter to Creative
 						Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041,
-						USA.</p> <p>Copyright (c) 2019-2025 by Arlo Griffiths.</p> </licence>
-				</availability>
-				<date from="2019" to="2025">2019-2025</date>
-			</publicationStmt>
-			<sourceDesc>
-				<!-- only the handDesc can be filled in at this stage -->
-				<msDesc>
-					<!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
-					<msIdentifier>
-						<repository>DHARMAbase</repository>
-						<idno/>
-						<!-- don't modify this -->
-					</msIdentifier>
-					<msContents>
-						<!-- describe the intellectual content of an inscription -->
-						<summary><!-- //// NOT MANDATORY ////--></summary>
-						<!-- offers the possibility to give a summary of the inscription's content -->
-					</msContents>
-					<physDesc>
-						<handDesc>
-							<p>Pepet takes shape of ulu with two dots inside; Ornamental
+						USA.</p>
+                  <p>Copyright (c) 2019-2025 by Arlo Griffiths.</p>
+               </licence>
+            </availability>
+            <date from="2019" to="2025">2019-2025</date>
+         </publicationStmt>
+         <sourceDesc><!-- only the handDesc can be filled in at this stage -->
+            <msDesc><!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
+               <msIdentifier>
+                  <repository>DHARMAbase</repository>
+                  <idno/>
+                  <!-- don't modify this -->
+               </msIdentifier>
+               <msContents><!-- describe the intellectual content of an inscription -->
+                  <summary><!-- //// NOT MANDATORY ////--></summary>
+                  <!-- offers the possibility to give a summary of the inscription's content -->
+               </msContents>
+               <physDesc>
+                  <handDesc>
+                     <p>Pepet takes shape of ulu with two dots inside; Ornamental
 								counterclockwise top flourish as -ā as in kilalān (1r4, 1r6, etc.),
 								lāvan; and in ñā (tinañān). By contrast, tarung on l takes shape of
 								clockwise stroke at bottom right in vuruḍu lor·.
 								<!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EGD 11.2. --></p>
-						</handDesc>
-					</physDesc>
-				</msDesc>
-			</sourceDesc>
-		</fileDesc>
-		<revisionDesc>
-			<change who="part:argr" when="2020-09-25" status="draft">revisions</change>
-			<change who="part:argr" when="2020-09-18" status="draft">initial encoding of the inscription</change>
-		</revisionDesc>
-	</teiHeader>
-	<text xml:space="preserve">
+                  </handDesc>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change who="part:argr" when="2020-09-25" status="draft">revisions</change>
+         <change who="part:argr" when="2020-09-18" status="draft">initial encoding of the inscription</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:space="preserve">
   <body>
    <div type="edition" xml:lang="kaw-Latn">
  <p><pb n="1r"/><lb n="1r1"/><g type="ddanda"/> svasti śaka-varṣātīta <num value="844">844</num> baisākha-māsa, tithi sāṣṭi<!-- or ī? --> <abbr>kr̥ṣṇa</abbr>, <abbr>vā</abbr>, <abbr>va</abbr>, <abbr>ś<choice><orig><unclear>ā</unclear></orig><reg>a</reg></choice></abbr>,
@@ -76,9 +81,7 @@
 <lb n="1v4"/>Irika kāla saṁ manata, saṁ gaḍya, saṁ mandu, saṁ baliku<unclear>ḥ</unclear>, saṁ caki, saṁ byŭha, tuha kila<!-- Stutt1925 kila<unclear>ṁ</unclear> Read kilasa kiṅil·? --> saṁ kiṅi<space type="descender"/>l·,
 <lb n="1v5"/>parujar· si panait·, rāma kabayan· sa<unclear>ṁ</unclear> <space type="descender"/>surat· sa<unclear>ṁ</unclear> vantǝr· tuhān·n i patiga saṁ jaluk·, saṁ rodaya, saṁ para<lb n="1v6" break="no"/>gul·, saṁ goma, saṁ padhara, nāhan· sira hana Irika kāla<unclear>,</unclear> likhita-pātra saṁ hadǝAn· citralekha saṁ ha<lb n="1v7" break="no"/>dǝAn· bajra</p> <p><g type="ddanda"/> svasti śaka-varṣātīta <num value="844">844</num> jyaiṣṭa-māsa, tithi saptami śukla-pakṣa, <abbr>vu</abbr>, <abbr>ka</abbr>, <abbr>so</abbr>, vāra, Irikā
 <lb n="1v8"/>divaśa saṁ dhanadī vinaiḥ surat· jayapātra kmitananya de <abbr>samgǝt·</abbr> juru I maḍaṇḍar·,</p> <p>samvandha hana sa<unclear>ṁ</unclear> pāmāriva<!-- pāmāniva? --> ṅa<lb n="1v9" break="no"/>ranya Inanugrahān· de <abbr>samgat·</abbr> juru Irikā vanuA I maṁhuri<unclear>,</unclear> 
-makon ta rasikā k<unclear cert="low">u</unclear>milalā Ikā kǝkǝra<lb n="1v10" break="no"/>n· I maṁhuri, *Andān·
-<!-- = aṅdan --> 
- kadi rakuA ya tumuduḥ Ikā saṁ dhanadī, sinaṅguḥnya vka kmir·, kunaṁ saṁkā ri nāgata<!-- nātha ta? --> rasikā 
+makon ta rasikā k<unclear cert="low">u</unclear>milalā Ikā kǝkǝra<lb n="1v10" break="no"/>n· I maṁhuri, *Andān·<!-- = aṅdan --> kadi rakuA ya tumuduḥ Ikā saṁ dhanadī, sinaṅguḥnya vka kmir·, kunaṁ saṁkā ri nāgata<!-- nātha ta? --> rasikā 
 <lb n="1v11"/>dinaliḥ tan· ri śĭlanya dadi ya manambaḥ I saṁ tuhān· I pakaraṇān·, māja<space type="descender"/>r· ya I padār<choice><sic>m</sic><corr>th</corr></choice>anikā<!-- or read padārminikā? or pha[la]dārmanikā? padhārmanikā --> vuvus·
 <lb n="1v12"/>kinirim· Ikā saṁ kinon·kon· surat· kinon· mājara I prastutanikā vuvus·, vkasan· tadĭya-gr̥ha<lb n="1v13" break="no"/>-sthāna, tan aṅgā tkā I pakaraṇān·, mapiṇḍuA maṅkin ta kinirim· surat· kinon· marā, tan aṅgā Ataḥ, ya ta
 <lb n="1v14"/>mataṅ yan· vinaiḥ Ikā saṁ dhanadī surat· pagǝ-<supplied reason="omitted">pa</supplied>gǝḥ kmitananya yathānya tan· vuvusa tkā I dlāhaniṁ dlāha,</p> <p><lb n="1v15"/>tatra sākṣī saṁ tuhān· I pakaraṇān· makabaihan·, <abbr>samgat·</abbr> jambi<!-- actually this word is very faint; read otherwise? --> katrīṇi, sandiḥ, vikrami,<!-- comma ignored in other editions --> savit·
@@ -308,7 +311,7 @@ piṇḍva? — note that large space in next line suggests there was another pa
 </app>
     </listApp>
    </div>
-   <div type="translation" xml:lang="eng" resp="part:argr">
+   <div type="translation" resp="part:argr">
  	<!--translation encoded as per EGD §9.2 -->
 <p n="1r1-3">Hail! Elapsed Śaka year 844, month of Vaiśākha, sixth <foreign>tithi</foreign> of the waning <supplied reason="subaudible">fortnight</supplied>, Vās, Vagai, Saturday. That was the time that <foreign>saṅ</foreign> Dhanadī, native of Vuruḍu South, <foreign>vatǝk</foreign> Halaran, was given a letter <supplied reason="explanation"><foreign>surat</foreign></supplied>, <supplied reason="subaudible">namely</supplied> a victory-document <supplied reason="explanation"><foreign>jayapattra</foreign></supplied> to be kept hy her.</p>
 <p n="1r3-8">The occasion: <foreign>saṅ</foreign> Dhanadī was spoken about by the officiant of Maṅhuri, named Vukajana, and was considered to be an unfree <supplied reason="explanation"><foreign>kilalān</foreign></supplied> native of Maṅhuri. Now, as she disputed <supplied reason="subaudible">this</supplied>, she approached all the headmen of Paḍaṅ in the Court <supplied reason="explanation"><foreign>pakaraṇān</foreign></supplied>, foremost among them the officiants. An order was given regarding all members of <foreign>saṅ</foreign> Dhanadī's own family that it should be found out <supplied reason="subaudible">and</supplied> investigated whether there were any indications <supplied reason="explanation"><foreign>lava-lava</foreign></supplied> that the ancestors of <foreign>saṅ</foreign> Dhanadī — her grandfathers, her grandmothers — were unfree natives of Maṅhuri, and whether there are any uninvolved people, descendants of free <supplied reason="explanation"><foreign>yukti</foreign></supplied> people, who would be able to guarantee for <foreign>saṅ</foreign> Dhanadī that her ancestors did not use to be unfree natives under previous kings </p>

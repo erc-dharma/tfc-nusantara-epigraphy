@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader xml:lang="eng">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+   <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>Walandit A</title>
@@ -30,17 +30,14 @@
             </availability>
             <date from="2019" to="2025">2019-2025</date>
          </publicationStmt>
-         <sourceDesc>
-            <!-- only the handDesc can be filled in at this stage -->
-            <msDesc>
-               <!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
+         <sourceDesc><!-- only the handDesc can be filled in at this stage -->
+            <msDesc><!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
                <msIdentifier>
                   <repository>DHARMAbase</repository>
                   <idno/>
                   <!-- don't modify this -->
                </msIdentifier>
-               <msContents>
-                  <!-- describe the intellectual content of an inscription -->
+               <msContents><!-- describe the intellectual content of an inscription -->
                   <summary><!-- //// NOT MANDATORY  ////--></summary>
                   <!-- offers the possibility to give a summary of the inscription's content -->
                </msContents>
@@ -67,13 +64,12 @@
 <p><pb n="1r"/>
 <fw n="1r" place="left"><num value="1">1</num></fw>
 <lb n="1r1"/> // vrūhanekaṅ āṅlakoni hanagiḥ titiL̥man· riṁ valaṇḍit·, yen andikaniṅo<unclear>ṁ</unclear> de
- <lb n="1r2" break="no"/>ne kaṅ deśa hiṁ valaṇḍit·, mamaṅgis·, lili, jəbiṁ, kacaba,</p>
-<p>I rehane luvara dene ha 
+&#x2028;<lb n="1r2" break="no"/>ne kaṅ deśa hiṁ valaṇḍit·, mamaṅgis·, lili, jəbiṁ, kacaba,</p>
+<p>I rehane luvara dene ha&#x2028;
 <lb n="1r3" break="no"/>nagiḥ titiL̥man·, I rehekaṅ deśa I valaṇḍit deśa Ila-hila, hulun hyaṅira saṁ hyaṁ
- <lb n="1r4"/><choice><reg>gunuṁ</reg><orig>guṇuṁ</orig></choice> brāḥma, Iku ta havaL̥ra sakvehiṅ voṁ sakahuban deniṅ deśa I valaṇḍit·, ta
- <lb n="1r5" break="no"/>n· katagiha titiL̥man·, Ayo tinatab·, I reh iṅ deśa Ila-Ila,</p>
-<p>kaṁ rājamūdra ye  <pb
-n="1v" break="no"/>
+&#x2028;<lb n="1r4"/><choice><reg>gunuṁ</reg><orig>guṇuṁ</orig></choice> brāḥma, Iku ta havaL̥ra sakvehiṅ voṁ sakahuban deniṅ deśa I valaṇḍit·, ta
+&#x2028;<lb n="1r5" break="no"/>n· katagiha titiL̥man·, Ayo tinatab·, I reh iṅ deśa Ila-Ila,</p>
+<p>kaṁ rājamūdra ye&#x2028;&#x2028;<pb n="1v" break="no"/>
 <lb n="1v1" break="no"/>n uvus <unclear>kavaca, kagugona</unclear> dene kaṁ voṁ valaṇḍit·, tithi, māsa, ka, <num value="5">5</num>, śiraḥ <num value="3">3</num>, //
 </p>
          </div>
@@ -84,7 +80,7 @@ n="1v" break="no"/>
 <app/>
                </listApp>
          </div>
-         <div type="translation" xml:lang="eng">
+         <div type="translation">
  	<!--translation encoded as per EG §9.2 -->
 <!--on hulu-vrassan-nya, see De Casparis, Pras. Indonesia II, 243, n. 205: "The hulu wras is very often mentioned among the rāmas. The term probably denotes the village elder who was in charge of a provision of rice belonging to the village as a whole. Van Vollenhoven notices the presence of similar village elders in modern Javanese villages (op. cif., p. 30), but considers the function an innovation of recent times; the latter conclusion might not he correct in view of what we see in Old Javanese inscriptions."-->
          </div>
