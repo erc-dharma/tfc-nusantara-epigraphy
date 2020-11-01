@@ -1,73 +1,75 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader xml:lang="eng">
-        <fileDesc>
-            <titleStmt>
-                <title>Satyapura</title>
-                <respStmt>
-                    <resp>EpiDoc encoding</resp>
-                    <resp>intellectual authorship of edition</resp>
-                	<persName ref="part:masc">
-                		<forename>Marine</forename>
-                		<surname>Schoettel</surname>
-                	</persName>
-                </respStmt>
-            </titleStmt>         
-            <publicationStmt>
-                <authority>DHARMA
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Satyapura</title>
+            <respStmt>
+               <resp>EpiDoc encoding</resp>
+               <resp>intellectual authorship of edition</resp>
+               <persName ref="part:masc">
+                  <forename>Marine</forename>
+                  <surname>Schoettel</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>DHARMA
                     <note>This project has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).
                     </note>
-                </authority>
-                <pubPlace>Paris</pubPlace>
-                <idno type="filename">satyapura</idno>
-                <availability>
-                    <licence target="https://creativecommons.org/licenses/by/4.0/">
-                        <p>This work is licenced under the Creative Commons Attribution 4.0 Unported Licence. To view a copy of the licence, visit https://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.</p>
-                    	<p>Copyright (c) 2019-2025 by Marine Schoettel</p>
-                    </licence>
-                </availability>
-                <date from="2019" to="2025">2019-2025</date>
-            </publicationStmt>
-            <sourceDesc><!-- only the handDesc can be filled in at this stage -->
-                <msDesc><!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
-                    <msIdentifier>
-                        <repository>DHARMAbase</repository>
-                        <idno/><!-- don't modify this -->
-                    </msIdentifier>
-                    <msContents><!-- describe the intellectual content of an inscription -->
-                        <summary><!-- //// NOT MANDATORY  ////--></summary> <!-- offers the possibility to give a summary of the inscription's content -->
-                    </msContents>
-                    <physDesc>
-                        <handDesc>
-                            <p>The hand seems similar to inscriptions of the late fourteenth century, early fifteenth, albeit with less flourish than those of the Western kraton. <foreign>Cakra</foreign>s and <foreign>virama</foreign>s descending below the x-line are particularly emphasized, stretching in long horizontal threads below the line.</p><!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EG 11.2. -->
-                        </handDesc>
-                    </physDesc>
-                </msDesc>
-            </sourceDesc>
-        </fileDesc>
-    	<revisionDesc>
-      	<change who="part:masc" when="2020-04-19" status="draft">initial encoding of the inscription</change>
-        </revisionDesc>
-    </teiHeader>
-    <text xml:space="preserve">
+            </authority>
+            <pubPlace>Paris</pubPlace>
+            <idno type="filename">satyapura</idno>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/">
+                  <p>This work is licenced under the Creative Commons Attribution 4.0 Unported Licence. To view a copy of the licence, visit https://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.</p>
+                  <p>Copyright (c) 2019-2025 by Marine Schoettel</p>
+               </licence>
+            </availability>
+            <date from="2019" to="2025">2019-2025</date>
+         </publicationStmt>
+         <sourceDesc><!-- only the handDesc can be filled in at this stage -->
+            <msDesc><!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
+               <msIdentifier>
+                  <repository>DHARMAbase</repository>
+                  <idno/>
+                  <!-- don't modify this -->
+               </msIdentifier>
+               <msContents><!-- describe the intellectual content of an inscription -->
+                  <summary><!-- //// NOT MANDATORY  ////--></summary>
+                  <!-- offers the possibility to give a summary of the inscription's content -->
+               </msContents>
+               <physDesc>
+                  <handDesc>
+                     <p>The hand seems similar to inscriptions of the late fourteenth century, early fifteenth, albeit with less flourish than those of the Western kraton. <foreign>Cakra</foreign>s and <foreign>virama</foreign>s descending below the x-line are particularly emphasized, stretching in long horizontal threads below the line.</p>
+                     <!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EG 11.2. -->
+                  </handDesc>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change who="part:masc" when="2020-04-19" status="draft">initial encoding of the inscription</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="kaw-Latn">
 <p><pb n="15r"/>
 <lb n="15r1"/>vat <!--possibility of starting with break="no" here?, and restoring yāvat?--> ikaṁ vvaṁ tan magəhakən tan akmitike saṁ hyaṅ ājñā haji praśāsti, kmitani saṁ hyaṁ dharmmeṅ satyapurā, sāvakanya, mon brahmaṇa,
 <lb n="15r2"/>kṣatriya, vaiśya, <choice><reg>śūdra</reg><orig>ṣudra</orig></choice>, piṁhe, vahuta rama, Asiṁ sakavvaṅanya, yāvat umulah-ulaḥ pagəḥnyānugraha śrī mahārāja, ta
-<lb n="15r3" break="no"/>smāt· kabvataknanya, patyananta hyaṁ kamuṁ hyaṁ, deyantat patīya, tan panoliha ri vuntat·, tan tiṅhala ri likuran· 
-<lb n="15r4"/>taruṁ riṁ paṅadəgan·, tāmpyal· ri hiriṅan·, Uvahi ri təṅənan·, tutuhuṇḍu hatinya, rantan ususnya, vətvakən daL̥manya, si 
-<lb n="15r5" break="no"/>vakapālanya, paṅan dagiṁnya, Inum raḥnya, pəpədakən· vkasakən prāṇāntika, maṅkana yan pareṅ alas·, paṅanən iṁ moṁ, sahu  <pb n="15v" break="no"/><fw n="15v" rend="tb-rotated" place="left">
+<lb n="15r3" break="no"/>smāt· kabvataknanya, patyananta hyaṁ kamuṁ hyaṁ, deyantat patīya, tan panoliha ri vuntat·, tan tiṅhala ri likuran·&#x2028;
+<lb n="15r4"/>taruṁ riṁ paṅadəgan·, tāmpyal· ri hiriṅan·, Uvahi ri təṅənan·, tutuhuṇḍu hatinya, rantan ususnya, vətvakən daL̥manya, si&#x2028;
+<lb n="15r5" break="no"/>vakapālanya, paṅan dagiṁnya, Inum raḥnya, pəpədakən· vkasakən prāṇāntika, maṅkana yan pareṅ alas·, paṅanən iṁ moṁ, sahu&#x2028;&#x2028;<pb n="15v" break="no"/><fw n="15v" rend="tb-rotated" place="left">
     <num value="15">15</num>
-  </fw><lb 
-n="15v1" break="no"/>tən iṅ ulā mandhi, yapvan pareṁ tgal· sambəR̥n iṁ glap·, yapvan pareṁ vve, saṁhapən iṁ vuhaya, Alapən iṁ daL̥m er·, Umu- 
+  </fw><lb n="15v1" break="no"/>tən iṅ ulā mandhi, yapvan pareṁ tgal· sambəR̥n iṁ glap·, yapvan pareṁ vve, saṁhapən iṁ vuhaya, Alapən iṁ daL̥m er·, Umu-&#x2028;
 <lb n="15v2" break="no"/>ṅgv iṅ umaḥ, Avuka tan təmu sama, saṁsāra tanpa bisa //</p>
 <p>
 <foreign xml:lang="san-Latn">yāvac chandraś cha sūryyaś cha, bhuvanāni prakāśate</foreign> // den kadi lavasaṁ
 <lb n="15v3"/>hyaṁ candrāditya, sumnəṅ aṇḍabhuvana, maṅkana lavasanikaṁ vvaṅ amuktya saṁsāra riṅ ihatra paratra, phalanyan anyā<unclear>y</unclear>apravr̥tti
- <lb n="15v4" break="no"/>nya, yan ahyun anirṇnakna saṁ hyaṅ ājñā haji praśāsti, śrī vikramavarddhanalăñchaṇa, kmitanikanaṁ dharmmeṁ satyapurā, maṅkana 
+&#x2028;<lb n="15v4" break="no"/>nya, yan ahyun anirṇnakna saṁ hyaṅ ājñā haji praśāsti, śrī vikramavarddhanalăñchaṇa, kmitanikanaṁ dharmmeṁ satyapurā, maṅkana&#x2028;
 <lb n="15v5"/>rasanyānugraha pāduka śrī mahārāja // 0 //
 </p>
 <ab>om̐ vāgīśvaryyai namaḥ, siddhir astu, o<supplied reason="lost">ṁ</supplied> // o //</ab>
@@ -155,19 +157,19 @@ n="15v1" break="no"/>tən iṅ ulā mandhi, yapvan pareṁ tgal· sambəR̥n i�
                   </app>                   
                </listApp>         
          </div>
-         <div type="translation" xml:lang="eng" resp="part:masc">
+         <div type="translation" resp="part:masc">
  	<!--translation encoded as per EG §9.2 -->
 	<p>Whenever there are people who do not comply, do not guard, the contents of the holy royal decree in the form of a charter, which is given in custody to the holy royal foundation at Satyapurā, whatever be their condition, whether brahmins, <foreign xml:lang="san-Latn">kṣatriya</foreign>s, traders or farmers, servants, <foreign xml:lang="kaw-Latn">piṅhe</foreign>s, <foreign xml:lang="san-Latn">vahuta</foreign> chiefs, any man whatever his position, inasmuch as he tampers with the stability of the Great King's grant, on that account he will suffer the results of his actions,</p>
          </div>
          <div type="commentary">
             <!--commentary encoded as per section §9.3 -->
-     <p></p>
+     <p/>
          </div>
         <div type="bibliography">
 	<!--bibliography encoded as per section §9.4 -->
             <p>First edited by Brandes (<bibl rend="omitname"><ptr target="bib:BrandesKrom1913_01"/><citedRange unit="page">255-256</citedRange><citedRange unit="item">CXX</citedRange></bibl>), edited again by Boechari (<bibl rend="omitname"><ptr target="bib:Boechari1985-1986_01"/><citedRange unit="page">100-101</citedRange><citedRange unit="item">E.37</citedRange></bibl>); re-edited here by Marine Schoettel from estampages of the Museum Nasional Indonesia.</p>
              <listBibl type="secondary">
-             <bibl></bibl>
+             <bibl/>
            </listBibl>
         </div>
       </body>

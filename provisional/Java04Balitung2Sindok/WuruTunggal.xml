@@ -1,72 +1,65 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-	<teiHeader xml:lang="eng">
-		<fileDesc>
-			<titleStmt>
-				<title>Wuru Tunggal</title>
-				<respStmt>
-					<resp>EpiDoc Encoding</resp>
-					<resp>intellectual authorship of edition</resp>
-					<persName ref="part:argr">
-						<forename>Arlo</forename>
-						<surname>Griffiths</surname>
-					</persName>
-				</respStmt>
-			</titleStmt>
-			<publicationStmt>
-				<authority>DHARMA <note>This project has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</note>
-				</authority>
-				<pubPlace>Lyon</pubPlace>
-				<idno type="filename">WuruTunggal</idno>
-				<availability>
-					<licence target="https://creativecommons.org/licenses/by/4.0/">
-						<p>This work is licensed under the Creative Commons Attribution 4.0 Unported Licence. To view a copy of the licence, visit https://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.</p>
-						<p>Copyright (c) 2019-2025 by Arlo Griffiths.</p>
-					</licence>
-				</availability>
-				<date from="2019" to="2025">2019-2025</date>
-			</publicationStmt>
-			<sourceDesc>
-				<!-- only the handDesc can be filled in at this stage -->
-				<msDesc>
-					<!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
-					<msIdentifier>
-						<repository>DHARMAbase</repository>
-						<idno/>
-						<!-- don't modify this -->
-					</msIdentifier>
-					<msContents>
-						<!-- describe the intellectual content of an inscription -->
-						<summary><!-- //// NOT MANDATORY  ////--></summary>
-						<!-- offers the possibility to give a summary of the inscription's content -->
-					</msContents>
-					<physDesc>
-						<handDesc>
-							<p><!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EGD 11.2. --></p>
-						</handDesc>
-					</physDesc>
-				</msDesc>
-			</sourceDesc>
-		</fileDesc>
-		<revisionDesc>
-			<change who="part:argr" when="2020-09-24" status="draft">various small revisions</change>
-			<change who="part:argr" when="2020-09-17" status="draft">revised translation, commentary and bibliography</change>
-			<change who="part:argr" when="2020-09-07" status="draft">initial encoding of the file</change>
-		</revisionDesc>
-	</teiHeader>
-	<text xml:space="preserve">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Wuru Tunggal</title>
+            <respStmt>
+               <resp>EpiDoc Encoding</resp>
+               <resp>intellectual authorship of edition</resp>
+               <persName ref="part:argr">
+                  <forename>Arlo</forename>
+                  <surname>Griffiths</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>DHARMA <note>This project has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</note>
+            </authority>
+            <pubPlace>Lyon</pubPlace>
+            <idno type="filename">WuruTunggal</idno>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/">
+                  <p>This work is licensed under the Creative Commons Attribution 4.0 Unported Licence. To view a copy of the licence, visit https://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.</p>
+                  <p>Copyright (c) 2019-2025 by Arlo Griffiths.</p>
+               </licence>
+            </availability>
+            <date from="2019" to="2025">2019-2025</date>
+         </publicationStmt>
+         <sourceDesc><!-- only the handDesc can be filled in at this stage -->
+            <msDesc><!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
+               <msIdentifier>
+                  <repository>DHARMAbase</repository>
+                  <idno/>
+                  <!-- don't modify this -->
+               </msIdentifier>
+               <msContents><!-- describe the intellectual content of an inscription -->
+                  <summary><!-- //// NOT MANDATORY  ////--></summary>
+                  <!-- offers the possibility to give a summary of the inscription's content -->
+               </msContents>
+               <physDesc>
+                  <handDesc>
+                     <p><!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EGD 11.2. --></p>
+                  </handDesc>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change who="part:argr" when="2020-09-24" status="draft">various small revisions</change>
+         <change who="part:argr" when="2020-09-17" status="draft">revised translation, commentary and bibliography</change>
+         <change who="part:argr" when="2020-09-07" status="draft">initial encoding of the file</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:space="preserve">
       <body>
  <div type="edition" xml:lang="kaw-Latn">
 <pb n="1r"/><p><lb n="1r1"/>śaka 833 phālgu<choice><orig>ṇ</orig><reg>n</reg></choice>a-māsa dvitīyă kr̥ṣṇa-pakṣa, <abbr>ma</abbr>,
 <lb n="1r2"/><abbr>va</abbr>‚ <abbr>Ā</abbr>, vāra‚ kālani ḍaṁ navī sumahur hutaṁ saṁ bapa I mpu guru
 <lb n="1r3"/>ḍayā‚ panahurnya mas· <abbr>su</abbr> <num value="16">16</num> <abbr>mā</abbr> <num value="10">10</num> <abbr>ku</abbr> <num value="2">2</num> <abbr>ha</abbr> <num value="5">5</num> tumaṅga<lb n="1r4" break="no"/>pp ikaṁ mas· pu latī bapani bayal anag vanva I vuru tuṅgal·
-<lb n="1r5"/>tutuganniṁ taṇḍa muAṁ pu vijaḥ bapani bhūmi Anag vanva I vuru tu<lb 
-n="1r6" break="no"/>ṅgal·‚ śuddha hutaṁni ḍaṁ navĭ I mpu guru ḍayā,</p> <p>tatra sākṣī saṁ tgu<lb 
-n="1r7" break="no"/>hān anag vanva I pilaṁ vatak paṅgil hyaṁ‚ saṁ ta<gap reason="illegible" unit="character" quantity="2"/> Anag va<pb 
-n="1v" break="no"/><lb 
-n="1v1" break="no"/>nva I valaka<choice><orig>ś</orig><reg>s</reg></choice> vatak valakas saṁ bhāskara Anag vanva I valeṁ
+<lb n="1r5"/>tutuganniṁ taṇḍa muAṁ pu vijaḥ bapani bhūmi Anag vanva I vuru tu<lb n="1r6" break="no"/>ṅgal·‚ śuddha hutaṁni ḍaṁ navĭ I mpu guru ḍayā,</p> <p>tatra sākṣī saṁ tgu<lb n="1r7" break="no"/>hān anag vanva I pilaṁ vatak paṅgil hyaṁ‚ saṁ ta<gap reason="illegible" unit="character" quantity="2"/> Anag va<pb n="1v" break="no"/><lb n="1v1" break="no"/>nva I valaka<choice><orig>ś</orig><reg>s</reg></choice> vatak valakas saṁ bhāskara Anag vanva I valeṁ
 <lb n="1v2"/>vatak valeṁ‚ saṁ pakambaṅan· Anag vanva I taṅga vatak hino
 <lb n="1v3"/>saṁ ra tira Anag vanva I limo vatak pagar vsi‚ likhitapātra
 <lb n="1v4"/>rake pilaṁ</p>
@@ -112,7 +105,7 @@ n="1v1" break="no"/>nva I valaka<choice><orig>ś</orig><reg>s</reg></choice> vat
 </app>
                </listApp>
          </div>
-         <div type="translation" xml:lang="eng" resp="part:argr">
+         <div type="translation" resp="part:argr">
 <!-- I  translate similarly to HBS: -->
 <p n="1r1-6">Śaka 833, month of Phālguna, second <supplied reason="explanation"><foreign>tithi</foreign></supplied> of the waning fortnight, Mavulu, Vagai‚ Sunday. <supplied reason="subaudible">That</supplied> was the time that <foreign>ḍaṁ</foreign> Navī repaid the debt of his/her father to Master <supplied reason="explanation"><foreign>mpu guru</foreign></supplied> Ḍayā. The repayment for it was 16 <foreign>suvarṇa</foreign>, 10 <foreign>māṣa</foreign>, 2 <foreign>kupaṅ</foreign>, and 5 <foreign>hatak</foreign>. <foreign>Pu</foreign> Latī, father of Bayal, resident of the village of Vuru Tuṅgal, <foreign>tutuganniṅ taṇḍa</foreign>, together with <foreign>pu</foreign> Vijah, father of Bhūmi, <supplied reason="explanation">also</supplied> resident of the village of Vuru Tuṅgal, received the gold. The debt of <foreign>ḍaṁ</foreign> Navī to the Master Ḍayā was cleared <supplied reason="explanation"><foreign>śuddha</foreign></supplied>.</p>
  <p n="1r6-1v3">The witnesses to it were: <foreign>saṅ</foreign> Tǝguhan, resident of the village of Pilaṅ, <foreign>vatak</foreign> of Paṅgil Hyaṅ; <foreign>saṅ</foreign> Ta<gap reason="lost"/>, resident of the village of Valakas, <foreign>vatak</foreign> of Valakas; <foreign>saṅ</foreign> Bhāskara, resident of the village of Valaiṅ, <foreign>vatak</foreign> of Valaiṅ; <foreign>saṅ</foreign> Pakambaṅan, resident of the village of Taṅga, <foreign>vatak</foreign> of Hino; <foreign>saṅ</foreign> Ra Tira, resident of the village of Limo, <foreign>vatak</foreign> of Pagar Vsi. The document was written by the <foreign>rakai</foreign> of Pilaṅ.</p>

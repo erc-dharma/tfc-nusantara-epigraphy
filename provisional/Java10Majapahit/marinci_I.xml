@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader xml:lang="eng">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+   <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>Marinci I</title>
@@ -30,17 +30,14 @@
             </availability>
             <date from="2019" to="2025">2019-2025</date>
          </publicationStmt>
-         <sourceDesc>
-            <!-- only the handDesc can be filled in at this stage -->
-            <msDesc>
-               <!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
+         <sourceDesc><!-- only the handDesc can be filled in at this stage -->
+            <msDesc><!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
                <msIdentifier>
                   <repository>DHARMAbase</repository>
                   <idno/>
                   <!-- don't modify this -->
                </msIdentifier>
-               <msContents>
-                  <!-- describe the intellectual content of an inscription -->
+               <msContents><!-- describe the intellectual content of an inscription -->
                   <summary><!-- //// NOT MANDATORY  ////--></summary>
                   <!-- offers the possibility to give a summary of the inscription's content -->
                </msContents>
@@ -120,7 +117,7 @@
 
                </listApp>         
          </div>
-         <div type="translation" xml:lang="eng">
+         <div type="translation">
  	<!--translation encoded as per EG §9.2 -->
 <!--on hulu-vrassan-nya, see De Casparis, Pras. Indonesia II, 243, n. 205: "The hulu wras is very often mentioned among the rāmas. The term probably denotes the village elder who was in charge of a provision of rice belonging to the village as a whole. Van Vollenhoven notices the presence of similar village elders in modern Javanese villages (op. cif., p. 30), but considers the function an innovation of recent times; the latter conclusion might not he correct in view of what we see in Old Javanese inscriptions."-->
          </div>
