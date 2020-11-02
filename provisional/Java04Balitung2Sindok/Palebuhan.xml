@@ -1,89 +1,87 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader xml:lang="eng">
-        <fileDesc>
-            <titleStmt>
-                <title>Palebuhan</title>
-                <respStmt>
-                    <resp>EpiDoc encoding</resp>
-                    <persName ref="part:ekba">
-                        <name>Eko Bastiawan</name>
-                    </persName>
-                	<persName ref="part:argr">
-                		<forename>Arlo</forename>
-                		<surname>Griffiths</surname>
-                	</persName>
-                </respStmt>
-                <respStmt>
-                    <resp>intellectual authorship of edition</resp>
-                	<persName ref="http://viaf.org/viaf/3358750">
-                		<forename>Willem Frederik</forename>
-                		<surname>Stutterheim</surname>
-                	</persName>
-                    <persName ref="part:argr">
-                        <forename>Arlo</forename>
-                        <surname>Griffiths</surname>
-                    </persName>
-                </respStmt>
-            </titleStmt>         
-            <publicationStmt>
-                <authority>DHARMA
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Palebuhan</title>
+            <respStmt>
+               <resp>EpiDoc encoding</resp>
+               <persName ref="part:ekba">
+                  <name>Eko Bastiawan</name>
+               </persName>
+               <persName ref="part:argr">
+                  <forename>Arlo</forename>
+                  <surname>Griffiths</surname>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>intellectual authorship of edition</resp>
+               <persName ref="http://viaf.org/viaf/3358750">
+                  <forename>Willem Frederik</forename>
+                  <surname>Stutterheim</surname>
+               </persName>
+               <persName ref="part:argr">
+                  <forename>Arlo</forename>
+                  <surname>Griffiths</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>DHARMA
                     <note>This project has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).
                     </note>
-                </authority>
-                <pubPlace>Malang</pubPlace>
-                <idno type="filename">Palebuhan</idno>
-                <availability>
-                    <licence target="https://creativecommons.org/licenses/by/4.0/">
-                        <p>This work is licenced under the Creative Commons Attribution 4.0 Unported Licence. To view a copy of the licence, visit https://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.</p>
-                    	<p>Copyright (c) 2019-2025 by Eko Bastiawan &amp; Arlo Griffiths</p>
-                    </licence>
-                </availability>
-                <date from="2019" to="2025">2019-2025</date>
-            </publicationStmt>
-            <sourceDesc><!-- only the handDesc can be filled in at this stage -->
-                <msDesc><!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
-                    <msIdentifier>
-                        <repository>DHARMAbase</repository>
-                        <idno/><!-- don't modify this -->
-                    </msIdentifier>
-                    <msContents><!-- describe the intellectual content of an inscription -->
-                        <summary><!-- //// NOT MANDATORY  ////--></summary> <!-- offers the possibility to give a summary of the inscription's content -->
-                    </msContents>
-                    <physDesc>
-                        <handDesc>
-                            <p><!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EG 11.2. --></p>
-                        </handDesc>
-                    </physDesc>
-                </msDesc>
-            </sourceDesc>
-        </fileDesc>
-    	<revisionDesc>
-    	               <change who="part:ekba" when="2020-09-17" status="draft">revised the encoding as suggested by argr</change>
-    		<change who="part:argr" when="2020-09-16" status="draft">first round of revisions</change>
-    	    	<change who="part:ekba" when="2020-09-09" status="draft">initial encoding of the inscription</change>
-        </revisionDesc>
-    </teiHeader>
-    <text xml:space="preserve">
+            </authority>
+            <pubPlace>Malang</pubPlace>
+            <idno type="filename">Palebuhan</idno>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/">
+                  <p>This work is licenced under the Creative Commons Attribution 4.0 Unported Licence. To view a copy of the licence, visit https://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.</p>
+                  <p>Copyright (c) 2019-2025 by Eko Bastiawan &amp; Arlo Griffiths</p>
+               </licence>
+            </availability>
+            <date from="2019" to="2025">2019-2025</date>
+         </publicationStmt>
+         <sourceDesc><!-- only the handDesc can be filled in at this stage -->
+            <msDesc><!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
+               <msIdentifier>
+                  <repository>DHARMAbase</repository>
+                  <idno/>
+                  <!-- don't modify this -->
+               </msIdentifier>
+               <msContents><!-- describe the intellectual content of an inscription -->
+                  <summary><!-- //// NOT MANDATORY  ////--></summary>
+                  <!-- offers the possibility to give a summary of the inscription's content -->
+               </msContents>
+               <physDesc>
+                  <handDesc>
+                     <p><!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EG 11.2. --></p>
+                  </handDesc>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change who="part:ekba" when="2020-09-17" status="draft">revised the encoding as suggested by argr</change>
+         <change who="part:argr" when="2020-09-16" status="draft">first round of revisions</change>
+         <change who="part:ekba" when="2020-09-09" status="draft">initial encoding of the inscription</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="kaw-Latn">
 <p><pb n="1r"/>
 <lb n="1r1"/><g type="ddandaPlain"/> <g type="circleSmall"/> <g type="ddandaPlain"/> svasti śaka-varṣātīta <num value="849">849</num>beśākha-māsa tithi pratipāda śukla-pakṣa <gap reason="lost" extent="unknown" unit="character"/>	
-<lb n="1r2"/>vāra bhariṇi-nakṣatra yoga devatā,</p> <p>tatkāla śrī mahārāja pu văgīśvara saṁ la<unclear>ra</unclear><gap reason="lost" extent="unknown" unit="character"/><!-- saṁ lumaḥ? cf. Wangwang Bangen, and Stutterheim's commentary --><lb 
-    n="1r3" break="no"/><unclear>r</unclear> tumurun anugrahanira I rakryān· mapatiḥ tinaḍaḥ <abbr>samgat·</abbr> Amrāti sam<gap reason="lost" extent="unknown" unit="character"/>
+<lb n="1r2"/>vāra bhariṇi-nakṣatra yoga devatā,</p> <p>tatkāla śrī mahārāja pu văgīśvara saṁ la<unclear>ra</unclear><gap reason="lost" extent="unknown" unit="character"/><!-- saṁ lumaḥ? cf. Wangwang Bangen, and Stutterheim's commentary --><lb n="1r3" break="no"/><unclear>r</unclear> tumurun anugrahanira I rakryān· mapatiḥ tinaḍaḥ <abbr>samgat·</abbr> Amrāti sam<gap reason="lost" extent="unknown" unit="character"/>
 <lb n="1r4"/>Aṁ tiruAn· vadihati makudur· Umagəḥhakan· Ikaṁ śīma I paL̥buhan· tan· kna ri <gap reason="lost" extent="unknown" unit="character"/>
-<lb n="1r5"/>ra tan· katamāna de pakriṁ paḍam· tuha, dagaṁ vatək· I jro, mamr̥ṣi piniṅle, kataṅgaran· <gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">mapada</supplied><lb 
-    n="1r6" break="no"/>hi maṅiduṁ valyan· Uṇḍahagi paṇḍay· mās paṇḍay· vsi saprakārani drabya haji ki<supplied reason="lost">lalān</supplied> <gap reason="lost" extent="unknown" unit="character"/>
-<lb n="1r7"/>saṁ hyaṁ L̥buḥ Ataḥ pramāṇa Iriya, kunaṁ sakveḥniṁ dr̥bya haji kilalān· <unclear>k</unclear><supplied reason="lost">liṅ ā</supplied><lb 
-n="1r8" break="no"/><unclear>ryya</unclear> siṅhala paṇḍikira mamvaṁ ramman· huñjamān· kutak· banyāga bantal· tan·  <gap reason="lost" extent="unknown" unit="character"/>
+<lb n="1r5"/>ra tan· katamāna de pakriṁ paḍam· tuha, dagaṁ vatək· I jro, mamr̥ṣi piniṅle, kataṅgaran· <gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">mapada</supplied><lb n="1r6" break="no"/>hi maṅiduṁ valyan· Uṇḍahagi paṇḍay· mās paṇḍay· vsi saprakārani drabya haji ki<supplied reason="lost">lalān</supplied> <gap reason="lost" extent="unknown" unit="character"/>
+<lb n="1r7"/>saṁ hyaṁ L̥buḥ Ataḥ pramāṇa Iriya, kunaṁ sakveḥniṁ dr̥bya haji kilalān· <unclear>k</unclear><supplied reason="lost">liṅ ā</supplied><lb n="1r8" break="no"/><unclear>ryya</unclear> siṅhala paṇḍikira mamvaṁ ramman· huñjamān· kutak· banyāga bantal· tan·  <gap reason="lost" extent="unknown" unit="character"/>
 <lb n="1r9"/>molaha I saṁ hyaṁ I paL̥buhan· maparā māvara<!-- see HBS's note on the words maparā māvara --> Ikanaṁ</p> <p>kunaṁ sukha-duḥkhanya <gap reason="lost" extent="unknown" unit="character"/>
 <lb n="1r10"/>riṁ śīma vaḥ tan· pamayaṁ<!-- mayaṁ tan pavvaḥ! --> vipatti prakāra saṁ hyaṁ L̥buḥ Ataḥ pramāṇā rikā<!-- Irikā? --> kabaiḥ <gap reason="lost" extent="unknown" unit="character"/> 
 <lb n="1r11"/><gap reason="lost" extent="unknown" unit="character"/>dval· salvirniṁ sambyavahāra Anuṁ salaha kaṁ<!-- salahaknaṁ? --> tuhān iṁ <unclear>sa</unclear><supplied reason="lost">śīma</supplied> <gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">kbo</supplied>
 <pb n="1v"/>
-<lb n="1v1"/><num value="20">20</num> sapi <num value="40">40</num> vḍus· <num value="80">80</num> Aṇḍaḥ tluṁ vantayan· guluṅan· <num value="3">3</num> maṅaraḥ <gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost">pi</supplied><lb 
-    n="1v2" break="no"/>nikul· dvalya, basanādi maśayaṁ makacapuri,  kapas· paḍat· L̥ṅa, bras· gula ka<gap reason="lost" extent="unknown" unit="character"/>
+<lb n="1v1"/><num value="20">20</num> sapi <num value="40">40</num> vḍus· <num value="80">80</num> Aṇḍaḥ tluṁ vantayan· guluṅan· <num value="3">3</num> maṅaraḥ <gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost">pi</supplied><lb n="1v2" break="no"/>nikul· dvalya, basanādi maśayaṁ makacapuri,  kapas· paḍat· L̥ṅa, bras· gula ka<gap reason="lost" extent="unknown" unit="character"/>
 <lb n="1v3"/>sumba, Ityevamādi saprakārani pinikul kānam· bantal ataḍaḥ Iṁ satuhān· ta<gap reason="lost" extent="unknown" unit="character"/>
 <lb n="1v4"/>paṇḍay· vsi paṇḍay· tamvaga tluṁṅ ububan iṁ saśīma macadar· pat paramva<!-- parahva? --> yan· riṁ tirvan· <gap reason="lost" extent="unknown" unit="character"/>
 <lb n="1v5"/><gap reason="lost" extent="unknown" unit="character"/>ṇya <num value="3">3</num> tan patuṇḍana masu<supplied reason="omitted">ṁ</supplied>hara <num value="8">8</num> yan· riy aṅin-aṅin· vadihati makudur· parahva I <unclear>prar</unclear><gap reason="lost" extent="unknown" unit="character"/>
@@ -92,8 +90,7 @@ n="1r8" break="no"/><unclear>ryya</unclear> siṅhala paṇḍikira mamvaṁ ram
 <lb n="1v8"/>yāpvan· L̥viḥ saṅkerikā pahi Iriya kinnāna sakaL̥viḥnya de saṁ maṅilala soddhā<supplied reason="lost">ra</supplied><gap reason="lost" extent="unknown" unit="character"/>
 <lb n="1v9"/>rai kacambul uṇḍahagi, 
 <!-- cf. EB I, Paguyangan (Badung): tan kna pamli haji ri ma(4)ñumbul mvaṅ riṅ gulma, təhər tan karapana deniṅ akarapa, tan vaduṅana deniṅ uṇḍahagi -->
-mañavriṁ maṅlākha, maṅapus· maṅubar· manahab· manuk·, maṁdyūn· ma<gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost">I</supplied><lb 
-    n="1v10" break="no"/>tyevamādi yekā salaha Anūṁ pramāṇā riya saṅ aL̥buḥ maṅkāna Ājñā śrī mahārāja <gap reason="lost" extent="unknown" unit="character"/>
+mañavriṁ maṅlākha, maṅapus· maṅubar· manahab· manuk·, maṁdyūn· ma<gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost">I</supplied><lb n="1v10" break="no"/>tyevamādi yekā salaha Anūṁ pramāṇā riya saṅ aL̥buḥ maṅkāna Ājñā śrī mahārāja <gap reason="lost" extent="unknown" unit="character"/>
 <lb n="1v11"/>ri garuṁ‚ kaprayātnākna saṁ prabhu makaphalā tan· punaruktā saṁ hyaṁ śīma ri dlāhaniṁ dlāha <g type="ddandaPlain"/> <g type="circleSmall"/> <g type="ddandaPlain"/> <g type="circleSmall"/> <g type="ddandaPlain"/></p>
          </div>
          <div type="apparatus">
@@ -139,13 +136,13 @@ mañavriṁ maṅlākha, maṅapus· maṅubar· manahab· manuk·, maṁdyūn·
 </app>
                </listApp>         
          </div>
-         <div type="translation" xml:lang="eng" source="bib:bib:Sarkar1971-1972_01"><!-- please encode this literally as Sarkar's translation, so use @source rather than @resp; follow EGD; I will make my own translation in due course -->
+         <div type="translation" source="bib:bib:Sarkar1971-1972_01"><!-- please encode this literally as Sarkar's translation, so use @source rather than @resp; follow EGD; I will make my own translation in due course -->
  	<!--translation encoded as per EG §9.2 -->
                                     <!--taken from that published by H.B. Sarkar.-->
 <p n="1r1">Hail ! The śaka year expired, 849, the month of Vaiśākha, first day of the bright half of the month,...</p>
 <p n="1r2">day, (while) the lunar mansion Bharaṇī (stood under) the deity (Yama) (during) the conjunction (of Siddha). At that time, the illustrious great king Pu Vagīśvara who was cremated (?)</p>
 <p n="1r3">communicated his favour unto the <foreign>rakryān mapatiḥ</foreign> for receipt of the samgat-s of Amrāti‚.........</p>
-<p n="1r4">...tiruan‚ vadihati, makudur, confirming that the free-hold at PaL̥buhan may not be touched by...</p>
+<p n="1r4">...tiruan‚ vadihati, makudur, confirming that the free-hold at Palǝbuhan may not be touched by...</p>
 <p n="1r5">......may not be trod upon by pakriṁ, paḍam, tuha dagaṁ, vatək i jro‚ mamr̥ṣi‚ piniṅle, kataṅgaran‚...</p>
 <p n="1r6">(mapaḍa)hi, maṅiduṁ, valyan‚ uṇḍahagi, paṇḍay mas, paṇḍay vsi‚ all sorts of'people who collect royal taxes</p>
 <p n="1r7">the deity (of) L̥buḥ is the sole authority over this. More over, all of the ‘collectors of royal taxes’.........</p>
@@ -173,7 +170,7 @@ become the subject of discussion in the remotest future !</p>
             <!--commentary encoded as per section §9.3 -->
 	<p n="1r2-3">Cf. the <ref target="Garung.xml">Garung inscription</ref>, line 2: <foreign>tatkāla rakarayān i garuṁ tumurun ājñānira</foreign>.</p>
 	<p n="1v11">Cf. the <ref target="Guntur.xml">Guntur inscription</ref>, lines 1v4–5: <foreign>sugyan ta<unclear reason="eccentric_ductus">m</unclear>ān paṅujara ya muvaḥ dlāhaniṁ dlāha ya donikeṁ jayapātra</foreign>./</p>
-     <p></p>
+     <p/>
          </div>
         <div type="bibliography">
 	<!--bibliography encoded as per section §9.4 -->
@@ -182,7 +179,7 @@ become the subject of discussion in the remotest future !</p>
                     <bibl n="WFS">
                       <ptr target="bib:Stutterheim1935_02"/>
                       <citedRange unit="page">433-435</citedRange>
-                      <citedRange unit="item" >1</citedRange>
+                      <citedRange unit="item">1</citedRange>
                     </bibl>
                 <bibl n="HBS">
                       <ptr target="bib:Sarkar1971-1972_01"/>
