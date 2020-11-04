@@ -18,7 +18,6 @@
          <publicationStmt>
             <authority>DHARMA
 					<note>This project has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</note>
-<<<<<<< HEAD
 				</authority>
 				<pubPlace>Lyon</pubPlace>
 				<idno type="filename">MpuMano</idno>
@@ -41,13 +40,14 @@
 					</msContents>
 					<physDesc>
 						<handDesc>
-							<p>Same hand as that seen in Gajah Mada? See Griffiths 2020.</p>
+	<p>Same hand as that seen in Gajah Mada? See Griffiths 2020. Also same as hand of Singasari fragments published in Hasan Djafar &amp; Trigangga 2019.</p>
 						</handDesc>
 					</physDesc>
 				</msDesc>	
 			</sourceDesc>
 		</fileDesc>
 	<revisionDesc>
+		<change who="part:argr" when="2020-11-04" status="draft">resolved conflicts; applied san-Latn to invocation; some small other edits</change>
 		<change who="part:ekba" when="2020-10-15" status="draft">added the apparatus, translation, commentary, and bibliography</change>
 		<change who="part:argr" when="2020-04-14" status="draft">adjusted values of @n in lb and loc; resolved issue #16</change>
 		<change who="part:axja" when="2020-03-27" status="draft">adding the handDesc template</change>
@@ -56,65 +56,20 @@
 	</revisionDesc>
     </teiHeader> 
     <text xml:space="preserve">
-=======
-            </authority>
-            <pubPlace>Lyon</pubPlace>
-            <idno type="filename">MpuMano</idno>
-            <availability>
-               <licence target="https://creativecommons.org/licenses/by/4.0/">
-                  <p>This work is licenced under the Creative Commons Attribution 4.0 Unported Licence. To view a copy of the licence, visit https://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.</p>
-                  <p>Copyright (c) 2019-2025 by Arlo Griffiths.</p>
-               </licence>
-            </availability>
-            <date from="2019" to="2025">2019-2025</date>
-         </publicationStmt>
-         <sourceDesc><!-- only the handDesc can be filled in at this stage -->
-            <msDesc><!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
-               <msIdentifier>
-                  <repository>DHARMAbase</repository>
-                  <idno/>
-                  <!-- don't modify this -->
-               </msIdentifier>
-               <msContents><!-- describe the intellectual content of an inscription -->
-                  <summary><!-- //// NOT MANDATORY  ////--></summary>
-                  <!-- offers the possibility to give a summary of the inscription's content -->
-               </msContents>
-               <physDesc>
-                  <handDesc>
-                     <p>Same hand as that seen in Gajah Mada? See Griffiths 2020.</p>
-                  </handDesc>
-               </physDesc>
-            </msDesc>
-         </sourceDesc>
-      </fileDesc>
-      <revisionDesc>
-         <change who="part:argr" when="2020-04-14" status="draft">adjusted values of @n in lb and loc; resolved issue #16</change>
-         <change who="part:axja" when="2020-03-27" status="draft">adding the handDesc template</change>
-         <change who="part:argr" when="2020-03-09" status="draft">first revision and expansion of the encoding</change>
-         <change who="part:argr" when="2019-09" status="draft">initial encoding of the edition</change>
-      </revisionDesc>
-   </teiHeader>
-   <text xml:space="preserve">
->>>>>>> 252493cccb183558cc1a47769013317b514914b4
         <body>
-            <div type="edition">
-<p><pb n="1r"/>
+            <div type="edition" xml:lang="kaw-Latn">
+<p xml:lang="san-Latn"><pb n="1r"/>
 <fw n="1r" place="left" rend="tb-rotated"><num value="1">1</num></fw>
-<lb n="1r1"/><g type="ddandaOrnate"/> <g type="symbol" subtype="quatrefoil"/> <g type="ddandaOrnate"/> namo stu sarvvabuddhăya <g type="ddandaOrnate"/> <g type="symbol">✤</g> <g type="ddandaOrnate"/> svasti śakavarṣātīta, <num value="888">888</num>, śrăvaṇamāsa, tīthī, Aṣṭamī kr̥ṣṇapakṣa, <abbr>ha</abbr>, <abbr>va</abbr>, <abbr>ra</abbr>, vāra, sinta, 
-<lb n="1r2"/>bāyabyastha grahacāra, rohiṇīnakṣatra, prajāpatidevatā, mahendramaṇḍala, harṣaṇayoga, vijayamuhūrta, śaśīparvvaiśa, 
-<lb n="1r3"/>kolavakaraṇa, siṅharāśi, Irika divāśanira, mpu mano, muṇyākən· lmaḥ sīma, kaputrāṅśanira, kalilīranira saṅke kavvitanira 
-<<<<<<< HEAD
+<lb n="1r1"/><g type="ddandaOrnate"/> <g type="symbol" subtype="quatrefoil"/> <g type="ddandaOrnate"/> namo 'stu sarvvabuddhăya <g type="ddandaOrnate"/> <g type="symbol" subtype="quatrefoil"/> <g type="ddandaOrnate"/></p> <p>svasti śakavarṣātīta, <num value="888">888</num>, śrăvaṇa-māsa, tīthī, Aṣṭamī kr̥ṣṇa-pakṣa, <abbr>ha</abbr>, <abbr>va</abbr>, <abbr>ra</abbr>, vāra, sinta, 
+<lb n="1r2"/>bāyabyastha grahacāra, rohiṇī-nakṣatra, prajāpati-devatā, mahendra-maṇḍala, harṣaṇa-yoga, vijaya-muhūrta, śaśī-parvvaiśa, 
+<lb n="1r3"/>kolava-karaṇa, siṅha-rāśi,</p> <p>Irika divāśanira, mpu mano, muṇyākən· lmaḥ sīma, kaputrāṅśanira, kalilīranira saṅke kavvitanira 
 <lb n="1r4"/>Ikaṁ harahara, kidul i pomahanira, hīṅanya lor· kidul iṁ pagər· kinalihan·, muAṁ mpu mano, hīṅanya kulvan· Aṅalihī pagər·, muAṁ <lb 
 n="1v5"/> Iṁ paviḍəṅan·, hīṅanya vetan·, Aṅalihi pagər·, muAṁ Iṁ kalampayan·, hīṅanya kidul·, Ikaṁ pagər· lor· saṁke kalimusan·, ya t<pb n="1v" break="no"/><lb 
 n="1v1" break="no"/>ekā pinuṇyakənira Iṁ mpuṅku <supplied reason="omitted">Iṁ</supplied> susuk· pagər·, muAṁ mpuṅku Iṁ nairañjanā, Arthahetoḥ mpu buddhivāla, paknanya gavayənnira kuṭi, dharmma lpa<lb 
 n="1v2" break="no"/>s· kapodgālikanani kulasantānānira mpuṅku Iṁ nairañjanā,</p> <p part="I">kunaṁ kramanya, Ikaṁ savaḥ kidul iṁ kuṭi, təmpaḥ, <num value="3">3</num>, ya ta sinaṇḍā mpuṅku <supplied reason="omitted">Iṁ</supplied> su<lb 
 n="1v3" break="no"/>suk· pagər·, muAṁ mpuṅku Iṁ nairañjanā, Iṁ <abbr>mā</abbr> <abbr>kā</abbr> <num value="2">2</num><unclear>,</unclear> ya ta dharmma mpuṅku, Iṁ susuk· pagər·, muAṁ mpuṅku Iṁ naira<choice><sic>g</sic><corr>ñ</corr></choice>janā, An· paminta I<lb 
 n="1v4" break="no"/>ka lmaḥ tumpal ika savaḥ lor· damlənira kuṭi, ya ta kăraṇanyan· <choice><sic>linbas</sic><corr>tinbus</corr></choice> ikaṁ savaḥ saṇḍanira mpu mano, Iṁ <abbr>mā</abbr> <abbr>kā</abbr> <num value="3">3</num>, mapa<lb 
-n="1v5" break="no"/>k<unclear>na</unclear> bhuktyana saṁ hyaṁ kuṭi, saṅka ri gə:ṁnyām<choice><sic>bha</sic><corr>bhək</corr></choice> mpu mano, ya<choice><sic>t</sic><corr>n</corr></choice>· dharmma donanya, Apitovin ana riṁ dharmma parṇnaḥ mpu mano, denira mpuṅku Iṁ </p>
-=======
-<lb n="1r4"/>Ikaṁ harahara, kidul i pomahanira, hīṅanya lor· kidul iṁ pagər· kinalihan·, muAṁ mpu mano, hīṅanya kulvan· Aṅalihī pagər·, muAṁ <lb n="1v5"/> Iṁ paviḍəṅan·, hīṅanya vetan·, Aṅalihi pagər·, muAṁ Iṁ kalampayan·, hīṅanya kidul·, Ikaṁ pagər· lor· saṁke kalimusan·, ya t<pb n="1v" break="no"/><lb n="1v1" break="no"/>ekā pinuṇyakənira Iṁ mpuṅku <supplied reason="omitted">Iṁ</supplied> susuk· pagər·, muAṁ mpuṅku Iṁ nairañjanā, Arthahetoḥ mpu buddhivāla, paknanya gavayənnira kuṭi, dharmma lpa<lb n="1v2" break="no"/>s· kapodgālikanani kulasantānānira mpuṅku Iṁ nairañjanā, kunaṁ kramanya, Ikaṁ savaḥ kidul iṁ kuṭi, təmpaḥ, <num value="3">3</num>, ya ta sinaṇḍā mpuṅku <supplied reason="omitted">Iṁ</supplied> su<lb n="1v3" break="no"/>suk· pagər·, muAṁ mpuṅku Iṁ nairañjanā, Iṁ mā kā <num value="2">2</num><unclear>,</unclear> ya ta dharmma mpuṅku, Iṁ susuk· pagər·, muAṁ mpuṅku Iṁ <choice><sic>nairagjanā</sic><reg>nairañjanā</reg></choice>, An· paminta I<lb n="1v4" break="no"/>ka lmaḥ tumpal ika savaḥ lor· damlənira kuṭi, ya ta kăraṇanyan· <choice><sic>linbas</sic><reg>tinbus</reg></choice> ikaṁ savaḥ saṇḍanira mpu mano, Iṁ mā kā <num value="3">3</num>, mapa<lb n="1v5" break="no"/>k<unclear>na</unclear> bhuktyana saṁ hyaṁ kuṭi, saṅka ri gə:ṁnyāmbha mpu mano, yat· dharmma donanya, Apitovin ana riṁ dharmma parṇnaḥ mpu mano, denira mpuṅku Iṁ
-                </ab>
->>>>>>> 252493cccb183558cc1a47769013317b514914b4
+n="1v5" break="no"/>k<unclear>na</unclear> bhuktyana saṁ hyaṁ kuṭi, saṅka ri gə:ṁnyām<choice><sic>bha</sic><corr>bhək</corr></choice> mpu mano, ya<choice><sic>t</sic><corr>n</corr></choice>· dharmma donanya, Apitovin ana riṁ dharmma parṇnaḥ mpu mano, denira mpuṅku Iṁ</p>
             </div>
             <div type="apparatus">
                 <listApp>
@@ -219,16 +174,11 @@ n="1v5" break="no"/>k<unclear>na</unclear> bhuktyana saṁ hyaṁ kuṭi, saṅk
 </app>
 </listApp>
             </div>
-<<<<<<< HEAD
             <div  type="translation" xml:lang="eng" resp="part:argr">
 <p n="1r1-1r3">Homage to every Buddha! Hail! Elapsed Śaka year 888, month of Śrāvaṇa, eighth <foreign>tithi</foreign> of the waning fortnight, Haryaṅ, Vagai, Sunday, <supplied reason="explanation">the <foreign>vuku</foreign></supplied> Sinta, the <foreign>grahacāra</foreign> in the Northwest, the lunar mansion Rohiṇī, the deity Prajāpati, the <foreign>maṇḍala</foreign> in the East, the conjunction Harṣaṇa, the <foreign>muhūrta</foreign> Vijaya, the regent of the astronomical node being the Moon, the half-<foreign>tithi</foreign> <supplied reason="explanation"><foreign>karaṇa</foreign></supplied> Kolava, the zodiac sign Leo.</p>
 <p n="1r3-1r5"> That was the time that Mpu Mano made a meritorious donation of <foreign>sīma</foreign> land that was his patrimony as child, his inheritance from his ancestors, the uncultivated field <supplied reason="explanation">hara-hara</supplied> south of where he resided. Its northern limit is south of the fence <supplied reason="explanation"><foreign>pagər</foreign></supplied> shared with Mpu Mano. Its western limit shares the fence with Paviḍəṅan. Its eastern limit shares the fence with Kalampayan. Its southern limit is the fence north of Kalimusan.</p>
 <p n="1r5-1v2">That is what he made a meritorious donation to the Master of Susuk Pagər and Master of Nairañjanā, <supplied reason="subaudible">whose name mentioned here only</supplied> for practical necessity <supplied reason="subaudible">is</supplied> Mpu Buddhivāla, to serve for the monastery <supplied reason="explanation"><foreign>kuṭi</foreign></supplied> to be made by him <supplied reason="explanation">Mpu Mano</supplied>, a tax-exempt foundation <supplied reason="explanation"><foreign>dharma ləpas</foreign></supplied> that is to be individual property <supplied reason="explanation"><foreign>kapodgalikan</foreign></supplied> of the lineage of the Master of Nairañjanā.</p>
 <p n="1v2-1v5"> As for its details: the wet-rice field south of the monastery <supplied reason="explanation"><foreign>kuṭi</foreign></supplied>, <supplied reason="subaudible">measuring</supplied> 3 <foreign>təmpah</foreign>, had been taken in security by the Master of Susuk Pagər and Master of Nairañjanā for 2 <foreign>kāṭi</foreign> of gold. That <supplied reason="explanation">field</supplied> was the foundation of the Master of Susuk Pagər and Master of Nairañjanā, who <supplied reason="explanation"><foreign>an</foreign></supplied> requested a border land, the wet-rice field to the north, <supplied reason="explanation">to be used</supplied> for his <supplied reason="explanation">Mpu Mano’s</supplied> founding of a monastery. That is the reason why the wet-rice field given in security by Mpu Mano was redeemed by him for 3 <foreign>kāṭi</foreign> of gold, to serve for being used as resource by the Holy Monastery <supplied reason="explanation"><foreign>kuṭi</foreign></supplied>, out of the greatness of the intent <supplied reason="explanation"><foreign>ambək</foreign></supplied> of Mpu Mano that <supplied reason="explanation"><foreign>yan</foreign></supplied> Dharma should be striven for by him. The more so as regarding the foundation <supplied reason="explanation"><foreign>dharma</foreign></supplied>, the relation of Mpu Mano to the Master of ...</p>
-=======
-            <div type="translation">
-                <p>translation(s)</p>
->>>>>>> 252493cccb183558cc1a47769013317b514914b4
             </div>
             <div type="commentary">
             <!--commentary encoded as per section §9.3 -->
@@ -245,7 +195,7 @@ n="1v5" break="no"/>k<unclear>na</unclear> bhuktyana saṁ hyaṁ kuṭi, saṅk
             </div>
         <div type="bibliography">
 	<!--bibliography encoded as per section §9.4 -->
-           <p>First edited by Brandes (<bibl rend="omitname"><ptr target="bib:Brandes1913_01"/></bibl>). Re-edited here by Arlo Griffiths from  photos of  Nationaal Museum van Wereldculturen with the inventory number RV-4801-1.</p>
+           <p>First edited by Brandes (<bibl rend="omitname"><ptr target="bib:Brandes1913_01"/></bibl>). Re-edited here by Arlo Griffiths from photos of Nationaal Museum van Wereldculturen with the inventory number RV-4801-1.</p>
         	<listBibl type="primary">
                 <bibl n="B">
                     <ptr target="bib:Brandes1913_01"/>
@@ -256,7 +206,7 @@ n="1v5" break="no"/>k<unclear>na</unclear> bhuktyana saṁ hyaṁ kuṭi, saṅk
            <listBibl type="secondary">
            	<bibl><ptr target="Damais1955_01"/><citedRange unit="page">116-117</citedRange><citedRange unit="item">A. 129</citedRange></bibl>
            	<bibl><ptr target="Zoetmulder1982_01"/></bibl>
-           	<bibl><ptr target="Boechari1985-1986_01"/><citedRange unit="page">126-137</citedRange><citedRange unit="line">8r2, 11r3</citedRange><citedRange unit="item">E. 67</citedRange></bibl><!--Footnote number 40 in the article  states Boechari 1985-86: 125–136, lines 8r2, 11r3, while the actual page starts in page 126  -->
+           	<bibl><ptr target="Boechari1985-1986_01"/><citedRange unit="page">126-137</citedRange><citedRange unit="line">8r2, 11r3</citedRange><citedRange unit="item">E. 67</citedRange></bibl><!--Footnote number 40 in the article states Boechari 1985-86: 125–136, lines 8r2, 11r3, while the actual page starts in page 126  -->
            	<bibl><ptr target="MachiSuhadi+RichadianaKartakusuma1996_01"/><citedRange unit="page">7</citedRange></bibl>
            	<bibl><ptr target="Acri2017_01"/><citedRange unit="page">55</citedRange></bibl>
            	<bibl><ptr target="Acri2018_01"/><citedRange unit="page">40</citedRange></bibl>
