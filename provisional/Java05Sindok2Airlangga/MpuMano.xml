@@ -16,46 +16,71 @@
             </respStmt>
          </titleStmt>
          <publicationStmt>
-            <authority>DHARMA
-					<note>This project has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</note>
-				</authority>
-				<pubPlace>Lyon</pubPlace>
-				<idno type="filename">MpuMano</idno>
-				<availability>
-					<licence target="https://creativecommons.org/licenses/by/4.0/">
-						<p>This work is licenced under the Creative Commons Attribution 4.0 Unported Licence. To view a copy of the licence, visit https://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.</p>
-						<p>Copyright (c) 2019-2025 by Arlo Griffiths.</p>
-					</licence>
-				</availability>
-				<date from="2019" to="2025">2019-2025</date>
-			</publicationStmt>
-			<sourceDesc><!-- only the handDesc can be filled in at this stage -->
-				<msDesc><!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
-					<msIdentifier>
-						<repository>DHARMAbase</repository>
-						<idno/><!-- don't modify this -->
-					</msIdentifier>
-					<msContents><!-- describe the intellectual content of an inscription -->
-						<summary><!-- //// NOT MANDATORY  ////--></summary> <!-- offers the possibility to give a summary of the inscription's content -->
-					</msContents>
-					<physDesc>
-						<handDesc>
-	<p>Same hand as that seen in Gajah Mada? See Griffiths 2020. Also same as hand of Singasari fragments published in Hasan Djafar &amp; Trigangga 2019.</p>
-						</handDesc>
-					</physDesc>
-				</msDesc>	
-			</sourceDesc>
-		</fileDesc>
-	<revisionDesc>
-		<change who="part:argr" when="2020-11-04" status="draft">resolved conflicts; applied san-Latn to invocation; some small other edits</change>
-		<change who="part:ekba" when="2020-10-15" status="draft">added the apparatus, translation, commentary, and bibliography</change>
-		<change who="part:argr" when="2020-04-14" status="draft">adjusted values of @n in lb and loc; resolved issue #16</change>
-		<change who="part:axja" when="2020-03-27" status="draft">adding the handDesc template</change>
-		<change who="part:argr" when="2020-03-09" status="draft">first revision and expansion of the encoding</change>
-		<change who="part:argr" when="2019-09" status="draft">initial encoding of the edition</change>
-	</revisionDesc>
-    </teiHeader> 
-    <text xml:space="preserve">
+            <authority>DHARMA</authority>
+            <pubPlace>Lyon</pubPlace>
+            <idno type="filename">MpuMano</idno>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/">
+                  <p>This work is licenced under the Creative Commons Attribution 4.0 Unported Licence. To view a copy of the licence, visit https://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.</p>
+                  <p>Copyright (c) 2019-2025 by Arlo Griffiths.</p>
+               </licence>
+            </availability>
+            <date from="2019" to="2025">2019-2025</date>
+         </publicationStmt>
+         <sourceDesc><!-- only the handDesc can be filled in at this stage -->
+            <msDesc><!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
+               <msIdentifier>
+                  <repository>DHARMAbase</repository>
+                  <idno/>
+                  <!-- don't modify this -->
+               </msIdentifier>
+               <msContents><!-- describe the intellectual content of an inscription -->
+                  <summary><!-- //// NOT MANDATORY  ////--></summary>
+                  <!-- offers the possibility to give a summary of the inscription's content -->
+               </msContents>
+               <physDesc>
+                  <handDesc>
+                     <p>Same hand as that seen in Gajah Mada? See Griffiths 2020. Also same as hand of Singasari fragments published in Hasan Djafar &amp; Trigangga 2019.</p>
+                  </handDesc>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>This project DHARMA has received funding from the European Research Council (ERC)
+                        under the European Union's Horizon 2020 research and innovation programme (grant
+                        agreement no 809994).</p>
+         </projectDesc>
+         <schemaRef type="guide"
+                    key="EGDv01"
+                    url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+         <listPrefixDef>
+            <prefixDef ident="bib"
+                       matchPattern="([a-zA-Z0-9\-\_]+)"
+                       replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+               <p>Public URIs with the prefix bib to point to a Zotero Group Library named
+                            ERC-DHARMA whose data are open to the public.</p>
+            </prefixDef>
+            <prefixDef ident="part"
+                       matchPattern="([a-z]+)"
+                       replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+               <p>Internal URIs using the part prefix to point to person elements in the
+                            <ref>DHARMA_IdListMembers_V01.xml</ref> file.</p>
+            </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <revisionDesc>
+         <change who="part:axja" when="2020-11-04" status="draft">Updating toward the encoding template v03</change>
+         <change who="part:argr" when="2020-11-04" status="draft">resolved conflicts; applied san-Latn to invocation; some small other edits</change>
+         <change who="part:ekba" when="2020-10-15" status="draft">added the apparatus, translation, commentary, and bibliography</change>
+         <change who="part:argr" when="2020-04-14" status="draft">adjusted values of @n in lb and loc; resolved issue #16</change>
+         <change who="part:axja" when="2020-03-27" status="draft">adding the handDesc template</change>
+         <change who="part:argr" when="2020-03-09" status="draft">first revision and expansion of the encoding</change>
+         <change who="part:argr" when="2019-09" status="draft">initial encoding of the edition</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:space="preserve">
         <body>
             <div type="edition" xml:lang="kaw-Latn">
 <p xml:lang="san-Latn"><pb n="1r"/>
@@ -63,13 +88,7 @@
 <lb n="1r1"/><g type="ddandaOrnate"/> <g type="symbol" subtype="quatrefoil"/> <g type="ddandaOrnate"/> namo 'stu sarvvabuddhăya <g type="ddandaOrnate"/> <g type="symbol" subtype="quatrefoil"/> <g type="ddandaOrnate"/></p> <p>svasti śakavarṣātīta, <num value="888">888</num>, śrăvaṇa-māsa, tīthī, Aṣṭamī kr̥ṣṇa-pakṣa, <abbr>ha</abbr>, <abbr>va</abbr>, <abbr>ra</abbr>, vāra, sinta, 
 <lb n="1r2"/>bāyabyastha grahacāra, rohiṇī-nakṣatra, prajāpati-devatā, mahendra-maṇḍala, harṣaṇa-yoga, vijaya-muhūrta, śaśī-parvvaiśa, 
 <lb n="1r3"/>kolava-karaṇa, siṅha-rāśi,</p> <p>Irika divāśanira, mpu mano, muṇyākən· lmaḥ sīma, kaputrāṅśanira, kalilīranira saṅke kavvitanira 
-<lb n="1r4"/>Ikaṁ harahara, kidul i pomahanira, hīṅanya lor· kidul iṁ pagər· kinalihan·, muAṁ mpu mano, hīṅanya kulvan· Aṅalihī pagər·, muAṁ <lb 
-n="1v5"/> Iṁ paviḍəṅan·, hīṅanya vetan·, Aṅalihi pagər·, muAṁ Iṁ kalampayan·, hīṅanya kidul·, Ikaṁ pagər· lor· saṁke kalimusan·, ya t<pb n="1v" break="no"/><lb 
-n="1v1" break="no"/>ekā pinuṇyakənira Iṁ mpuṅku <supplied reason="omitted">Iṁ</supplied> susuk· pagər·, muAṁ mpuṅku Iṁ nairañjanā, Arthahetoḥ mpu buddhivāla, paknanya gavayənnira kuṭi, dharmma lpa<lb 
-n="1v2" break="no"/>s· kapodgālikanani kulasantānānira mpuṅku Iṁ nairañjanā,</p> <p part="I">kunaṁ kramanya, Ikaṁ savaḥ kidul iṁ kuṭi, təmpaḥ, <num value="3">3</num>, ya ta sinaṇḍā mpuṅku <supplied reason="omitted">Iṁ</supplied> su<lb 
-n="1v3" break="no"/>suk· pagər·, muAṁ mpuṅku Iṁ nairañjanā, Iṁ <abbr>mā</abbr> <abbr>kā</abbr> <num value="2">2</num><unclear>,</unclear> ya ta dharmma mpuṅku, Iṁ susuk· pagər·, muAṁ mpuṅku Iṁ naira<choice><sic>g</sic><corr>ñ</corr></choice>janā, An· paminta I<lb 
-n="1v4" break="no"/>ka lmaḥ tumpal ika savaḥ lor· damlənira kuṭi, ya ta kăraṇanyan· <choice><sic>linbas</sic><corr>tinbus</corr></choice> ikaṁ savaḥ saṇḍanira mpu mano, Iṁ <abbr>mā</abbr> <abbr>kā</abbr> <num value="3">3</num>, mapa<lb 
-n="1v5" break="no"/>k<unclear>na</unclear> bhuktyana saṁ hyaṁ kuṭi, saṅka ri gə:ṁnyām<choice><sic>bha</sic><corr>bhək</corr></choice> mpu mano, ya<choice><sic>t</sic><corr>n</corr></choice>· dharmma donanya, Apitovin ana riṁ dharmma parṇnaḥ mpu mano, denira mpuṅku Iṁ</p>
+<lb n="1r4"/>Ikaṁ harahara, kidul i pomahanira, hīṅanya lor· kidul iṁ pagər· kinalihan·, muAṁ mpu mano, hīṅanya kulvan· Aṅalihī pagər·, muAṁ <lb n="1v5"/> Iṁ paviḍəṅan·, hīṅanya vetan·, Aṅalihi pagər·, muAṁ Iṁ kalampayan·, hīṅanya kidul·, Ikaṁ pagər· lor· saṁke kalimusan·, ya t<pb n="1v" break="no"/><lb n="1v1" break="no"/>ekā pinuṇyakənira Iṁ mpuṅku <supplied reason="omitted">Iṁ</supplied> susuk· pagər·, muAṁ mpuṅku Iṁ nairañjanā, Arthahetoḥ mpu buddhivāla, paknanya gavayənnira kuṭi, dharmma lpa<lb n="1v2" break="no"/>s· kapodgālikanani kulasantānānira mpuṅku Iṁ nairañjanā,</p> <p part="I">kunaṁ kramanya, Ikaṁ savaḥ kidul iṁ kuṭi, təmpaḥ, <num value="3">3</num>, ya ta sinaṇḍā mpuṅku <supplied reason="omitted">Iṁ</supplied> su<lb n="1v3" break="no"/>suk· pagər·, muAṁ mpuṅku Iṁ nairañjanā, Iṁ <abbr>mā</abbr> <abbr>kā</abbr> <num value="2">2</num><unclear>,</unclear> ya ta dharmma mpuṅku, Iṁ susuk· pagər·, muAṁ mpuṅku Iṁ naira<choice><sic>g</sic><corr>ñ</corr></choice>janā, An· paminta I<lb n="1v4" break="no"/>ka lmaḥ tumpal ika savaḥ lor· damlənira kuṭi, ya ta kăraṇanyan· <choice><sic>linbas</sic><corr>tinbus</corr></choice> ikaṁ savaḥ saṇḍanira mpu mano, Iṁ <abbr>mā</abbr> <abbr>kā</abbr> <num value="3">3</num>, mapa<lb n="1v5" break="no"/>k<unclear>na</unclear> bhuktyana saṁ hyaṁ kuṭi, saṅka ri gə:ṁnyām<choice><sic>bha</sic><corr>bhək</corr></choice> mpu mano, ya<choice><sic>t</sic><corr>n</corr></choice>· dharmma donanya, Apitovin ana riṁ dharmma parṇnaḥ mpu mano, denira mpuṅku Iṁ</p>
             </div>
             <div type="apparatus">
                 <listApp>
@@ -166,7 +185,7 @@ n="1v5" break="no"/>k<unclear>na</unclear> bhuktyana saṁ hyaṁ kuṭi, saṅk
 <app loc="1v5">
 <lem>ya<choice><sic>t</sic><corr>n</corr></choice>·</lem>
 <rdg source="bib:Brandes1913_01">yat</rdg>
-<note></note><!--The footnote says to emend yan· or yar·. I have emended into yan -->
+<note/><!--The footnote says to emend yan· or yar·. I have emended into yan -->
 </app>
 <app loc="1v5">
 <lem>parṇnaḥ</lem>
@@ -174,7 +193,7 @@ n="1v5" break="no"/>k<unclear>na</unclear> bhuktyana saṁ hyaṁ kuṭi, saṅk
 </app>
 </listApp>
             </div>
-            <div  type="translation" xml:lang="eng" resp="part:argr">
+            <div type="translation" xml:lang="eng" resp="part:argr">
 <p n="1r1-1r3">Homage to every Buddha! Hail! Elapsed Śaka year 888, month of Śrāvaṇa, eighth <foreign>tithi</foreign> of the waning fortnight, Haryaṅ, Vagai, Sunday, <supplied reason="explanation">the <foreign>vuku</foreign></supplied> Sinta, the <foreign>grahacāra</foreign> in the Northwest, the lunar mansion Rohiṇī, the deity Prajāpati, the <foreign>maṇḍala</foreign> in the East, the conjunction Harṣaṇa, the <foreign>muhūrta</foreign> Vijaya, the regent of the astronomical node being the Moon, the half-<foreign>tithi</foreign> <supplied reason="explanation"><foreign>karaṇa</foreign></supplied> Kolava, the zodiac sign Leo.</p>
 <p n="1r3-1r5"> That was the time that Mpu Mano made a meritorious donation of <foreign>sīma</foreign> land that was his patrimony as child, his inheritance from his ancestors, the uncultivated field <supplied reason="explanation">hara-hara</supplied> south of where he resided. Its northern limit is south of the fence <supplied reason="explanation"><foreign>pagər</foreign></supplied> shared with Mpu Mano. Its western limit shares the fence with Paviḍəṅan. Its eastern limit shares the fence with Kalampayan. Its southern limit is the fence north of Kalimusan.</p>
 <p n="1r5-1v2">That is what he made a meritorious donation to the Master of Susuk Pagər and Master of Nairañjanā, <supplied reason="subaudible">whose name mentioned here only</supplied> for practical necessity <supplied reason="subaudible">is</supplied> Mpu Buddhivāla, to serve for the monastery <supplied reason="explanation"><foreign>kuṭi</foreign></supplied> to be made by him <supplied reason="explanation">Mpu Mano</supplied>, a tax-exempt foundation <supplied reason="explanation"><foreign>dharma ləpas</foreign></supplied> that is to be individual property <supplied reason="explanation"><foreign>kapodgalikan</foreign></supplied> of the lineage of the Master of Nairañjanā.</p>
