@@ -29,10 +29,7 @@
             </respStmt>
          </titleStmt>
          <publicationStmt>
-            <authority>DHARMA
-                    <note>This project has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).
-                    </note>
-            </authority>
+            <authority>DHARMA</authority>
             <pubPlace>Malang</pubPlace>
             <idno type="filename">Palebuhan</idno>
             <availability>
@@ -62,7 +59,32 @@
             </msDesc>
          </sourceDesc>
       </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>This project DHARMA has received funding from the European Research Council (ERC)
+                        under the European Union's Horizon 2020 research and innovation programme (grant
+                        agreement no 809994).</p>
+         </projectDesc>
+         <schemaRef type="guide"
+                    key="EGDv01"
+                    url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+         <listPrefixDef>
+            <prefixDef ident="bib"
+                       matchPattern="([a-zA-Z0-9\-\_]+)"
+                       replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+               <p>Public URIs with the prefix bib to point to a Zotero Group Library named
+                            ERC-DHARMA whose data are open to the public.</p>
+            </prefixDef>
+            <prefixDef ident="part"
+                       matchPattern="([a-z]+)"
+                       replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+               <p>Internal URIs using the part prefix to point to person elements in the
+                            <ref>DHARMA_IdListMembers_V01.xml</ref> file.</p>
+            </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
       <revisionDesc>
+         <change who="part:axja" when="2020-11-03" status="draft">Updating toward the encoding template v03</change>
          <change who="part:ekba" when="2020-09-17" status="draft">revised the encoding as suggested by argr</change>
          <change who="part:argr" when="2020-09-16" status="draft">first round of revisions</change>
          <change who="part:ekba" when="2020-09-09" status="draft">initial encoding of the inscription</change>
@@ -142,7 +164,7 @@ mañavriṁ maṅlākha, maṅapus· maṅubar· manahab· manuk·, maṁdyūn·
 <p n="1r1">Hail ! The śaka year expired, 849, the month of Vaiśākha, first day of the bright half of the month,...</p>
 <p n="1r2">day, (while) the lunar mansion Bharaṇī (stood under) the deity (Yama) (during) the conjunction (of Siddha). At that time, the illustrious great king Pu Vagīśvara who was cremated (?)</p>
 <p n="1r3">communicated his favour unto the <foreign>rakryān mapatiḥ</foreign> for receipt of the samgat-s of Amrāti‚.........</p>
-<p n="1r4">...tiruan‚ vadihati, makudur, confirming that the free-hold at PaL̥buhan may not be touched by...</p>
+<p n="1r4">...tiruan‚ vadihati, makudur, confirming that the free-hold at Palǝbuhan may not be touched by...</p>
 <p n="1r5">......may not be trod upon by pakriṁ, paḍam, tuha dagaṁ, vatək i jro‚ mamr̥ṣi‚ piniṅle, kataṅgaran‚...</p>
 <p n="1r6">(mapaḍa)hi, maṅiduṁ, valyan‚ uṇḍahagi, paṇḍay mas, paṇḍay vsi‚ all sorts of'people who collect royal taxes</p>
 <p n="1r7">the deity (of) L̥buḥ is the sole authority over this. More over, all of the ‘collectors of royal taxes’.........</p>

@@ -25,10 +25,7 @@
             </respStmt>
          </titleStmt>
          <publicationStmt>
-            <authority>DHARMA
-                    <note>This project has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).
-                    </note>
-            </authority>
+            <authority>DHARMA</authority>
             <pubPlace>Malang</pubPlace>
             <idno type="filename">Barsahan</idno>
             <availability>
@@ -58,7 +55,32 @@
             </msDesc>
          </sourceDesc>
       </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>This project DHARMA has received funding from the European Research Council (ERC)
+                        under the European Union's Horizon 2020 research and innovation programme (grant
+                        agreement no 809994).</p>
+         </projectDesc>
+         <schemaRef type="guide"
+                    key="EGDv01"
+                    url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+         <listPrefixDef>
+            <prefixDef ident="bib"
+                       matchPattern="([a-zA-Z0-9\-\_]+)"
+                       replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+               <p>Public URIs with the prefix bib to point to a Zotero Group Library named
+                            ERC-DHARMA whose data are open to the public.</p>
+            </prefixDef>
+            <prefixDef ident="part"
+                       matchPattern="([a-z]+)"
+                       replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+               <p>Internal URIs using the part prefix to point to person elements in the
+                            <ref>DHARMA_IdListMembers_V01.xml</ref> file.</p>
+            </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
       <revisionDesc>
+         <change who="part:axja" when="2020-11-03" status="draft">Updating toward the encoding template v03</change>
          <change who="part:ekba" when="2020-10-08" status="draft">Added bibliography</change>
          <change who="part:ekba" when="2020-10-04" status="draft">initial encoding of the inscription</change>
       </revisionDesc>
@@ -71,8 +93,8 @@
 <lb n="1r1" break="no"/>rak·, rakadut·, manaṁ, vinilai, kataṅgaran·, tapa haji, Air haji, malandaṁ L̥ca, lab-lab·, kalaṅkaṁ, kutak·, taṅkil·, tr̥pan·, salyut·, vatu valaṁ, pamaṇikan·, maṇi<lb n="1r2" break="no"/>ka, sikpan·, rumbān·, vilaṁ thāni, viji kavaḥ, tiṅkəs·, māvī, manambaṅi, sahiran·, tuha dagaṁ, juru gośali, maṁrumbe, maṁguñjai, juru kliṁ, juru huñjman·, juru juḍi, juru jali<lb n="1r3" break="no"/>r·, pabasar·, paguluṁ, pavuṅkunuṁ, puluṁ paḍi, miśra hino, miśrāṅin-aṅin·, vli hapū, vli vaduṁ, vli tambaṁ, vli haR̥ṁ, vli pañjut·, palamak·, Urutan·, dampulan·, pakalaṅkuṁ, kaR̥<lb n="1r4" break="no"/>R̥ṅan·. tpuṁ kavuṁ, suṁsuṁ paṅuraṁ, pasuk alas·, sipad vilun·, juṁkuṁ, pāṅin-aṅin·, pamāvaśya, hopan·, panrāṅan·, skar tahun·, pabayai, parāma, Avur·, panluṁ blaḥ panlu
 <lb n="1r5"/>kutak·, pakarapa, pavuvuḥ, tuṇḍān·, kipa-kipaḥ, lañcuran·, Usuṅ-usuṅan·, kḍi, valyan·, mamanaḥ, magalaḥ, magaṇḍi, <unclear>makiṭran·</unclear>, mahaliman·, makuda, vidu maṅi<lb n="1r6" break="no"/>duṁ, mavuluṁ-vuluṁ, sambal·, sumbul·, hulun haji·, siṅgaḥ, pabr̥si vatək i jro Ityaivamādi kabeḥ, tan· tamā ta ya maminta drabya haji vulu-vulu Irikeṁ sīma I barsahan·,
 <lb n="1r7"/>kevalā ḍapuṅku Ugihan·, muAṁ Anak sarikā saṁ pantan·, tka ri savka vet· sarikā, parānani drabya hajinya kabeḥ, kuməṇḍəṁ tikā tka ri sukaduḥkhanikanaṁ rāma jātaka sama ma<lb n="1r8" break="no"/>rāśraya Irikeṁ sīma I barsahan·, kadyaṅgāniṁ mayaṁ tan· pavvaḥ, valū rumambat· riṁ natar·, vipati, vaṅkay· kābunan·, rāḥ kasavur i dalan·, hidu kasirat·, dūhilatan·,
-<lb n="1r9"/>sahasa, vākcapala, mamijilakan· vuriniṁ kikir·, mamūk·, mamumpaṁ, lūdān, tūtān·, Aṅśa pratyaṅśa, daṇḍa kudaṇḍa, maṇḍihalādi, ḍapuṅku Ugihan·, muAṁ Anak· sari<lb n="1r10" break="no"/>kā saṁ pantan·, tka ri savka vet· sarikā pramāṇa Irikā, muAṁ deyanikanaṁ piṅhai ri hujuṁ, An tan· parabyāpārā ta ya I sapūrbva sthiti buñcaṁ hajinikanaṁ sīma I barsahan· sasini<lb n="1r11" break="no"/>ddhākanya Iriya riṁ lāgi, Āpan· sampun· pagəḥnyānugraha śrī mahārāja, I ḍapuṅku Ugihan·, muAṁ Anak· sarikā saṁ pantan·, ri tulusani pagəhnika svatantrānikanaṁ sīma I
-<lb n="1r12"/>barsahan·, kinavnaṅakan yan· paka pūrvva stitiṁ mavvat· karuṁ sikimijil· Angkan maṅatag· I sira saṁ vineḥ tr̥pan·, samaṅkana deya samgat· tr̥pan· kaliḥ pu sudhāśaya, muAṁ
+<lb n="1r9"/>sahasa, vākcapala, mamijilakan· vuriniṁ kikir·, mamūk·, mamumpaṁ, lūdān, tūtān·, Aṅśa pratyaṅśa, daṇḍa kudaṇḍa, maṇḍihalādi, ḍapuṅku Ugihan·, muAṁ Anak· sari<lb n="1r10" break="no"/>kā saṁ pantan·, tka ri savka vet· sarikā pramāṇa Irikā, muAṁ deyanikanaṁ piṅhai ri hujuṁ, An tan· parabyāpārā ta ya I sapūrbvasthiti buñcaṁ hajinikanaṁ sīma I barsahan· sasini<lb n="1r11" break="no"/>ddhākanya Iriya riṁ lāgi, Āpan· sampun· pagəḥnyānugraha śrī mahārāja, I ḍapuṅku Ugihan·, muAṁ Anak· sarikā saṁ pantan·, ri tulusani pagəhnika svatantrānikanaṁ sīma I
+<lb n="1r12"/>barsahan·, kinavnaṅakan yan· paka pūrvva stitiṁ mavvat· karuṁ siki mijil· Angkan<!-- check --> maṅatag· I sira saṁ vineḥ tr̥pan·, samaṅkana deya samgat· tr̥pan· kaliḥ pu sudhāśaya, muAṁ
 <lb n="1r13"/>pu Umo, sama təkyənāta sira magəhakna Anugraha śrī mahārāja, I ḍapuṅku Ugihan·, muAṁ Anak· sarikā saṁ pantan·, ri tan· padaməl-damlanira puriḥ Irikanaṁ sīma I
                  <pb n="1v"/>
 <lb n="1v1"/>barsahan·, tan· pintāna Ikanaṁ sīma Irikanaṁ toḥ karuṁ <abbr>mā</abbr> <abbr>su</abbr> <num value="5">5</num> tan· panurupana galaḥ, tan· pamintā pobhaya kipa-kipaḥ, suṁsuṁ nāyaka prakāra, kevalā Ikanaṁ karuṁ si<lb n="1v2" break="no"/>ki mijil· Aṅkan· maṅatag· juga siddhākna rikanaṁ sīma I barsahan· ri sira, hayva sira vistārā molah-ulaḥ, yathānya tan· paṅdeya pramāda ri sira, ṅuniveḥ polihani
