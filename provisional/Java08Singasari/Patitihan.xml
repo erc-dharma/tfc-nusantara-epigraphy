@@ -81,11 +81,8 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
-<<<<<<< HEAD
          <change who="part:ekba" when="2020-11-22" status="draft">updated the initial encoding of the inscription</change>
-=======
          <change who="part:axja" when="2020-11-03" status="draft">Updating toward the encoding template v03</change>
->>>>>>> 755872431fa119415ac2e98c8b15ca3764e46175
          <change who="part:ekba" when="2020-04-15" status="draft">initial encoding of the inscription</change>
       </revisionDesc>
    </teiHeader>
