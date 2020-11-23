@@ -71,11 +71,12 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
-          <change who="part:argr" when="2020-11-19" status="draft">resumed revisions, encodes translations and bibliography</change>
-         <change who="part:axja" when="2020-11-03" status="draft">updating toward the encoding template v03</change>
-         <change who="part:argr" when="2020-09-27" status="draft">started revisions</change>
-         <change who="part:axja" when="2020-03-27" status="draft">adding the handDesc template</change>
-         <change who="part:argr" when="2020-03-03" status="draft">initial encoding of the edition</change>
+      	<change who="part:argr" when="2020-11-22" status="draft">finished initial encoding of the edition</change>        
+	<change who="part:argr" when="2020-11-19" status="draft">resumed revisions, encodes translations and bibliography</change>
+         	<change who="part:axja" when="2020-11-03" status="draft">updating toward the encoding template v03</change>
+         	<change who="part:argr" when="2020-09-27" status="draft">started revisions</change>
+         	<change who="part:axja" when="2020-03-27" status="draft">adding the handDesc template</change>
+         	<change who="part:argr" when="2020-03-03" status="draft">started initial encoding of the edition</change>
       </revisionDesc>
    </teiHeader>
    <text xml:space="preserve">
@@ -83,18 +84,18 @@
          <div type="edition" xml:lang="kaw-Latn">
 <pb n="1r"/><!--Blank outer page.-->
 <p><pb n="1v"/>
-<lb n="1"/><g type="ddandaHooked"/> namaś śivāya <g type="ddandaHooked">.</g> svasti śaka-varṣātīta <num value="807">807</num> jyaiṣṭa-māsa daśamĭ <abbr>śukla</abbr><g type="circleHigh">.</g> tuṁlai<g type="circleHigh">.</g> vagai vr̥haspati<g type="circleHigh">.</g> vāra<g type="circleMed">.</g> tatkāla ḍaṅ ācāryya munīndra<surplus><g type="circleHigh">.</g></surplus><!-- , ignored by St. -->
-<lb n="2"/>mamli savaḥ karamān· I parhyaṅan· vatak· vuru tuṅgal· Iṁ kuruṅan· ṅarannikāṁ savaḥ, sīmā saṁ hyaṁ padevāharān· vǝlyannya pirak· kāṭi <num value="2">1</num>, pa<lb break="no" 
+<lb n="1"/><g type="ddandaHooked"/> <foreign xml:lang="san-Latn">namaś śivāya</foreign> <g type="ddandaHooked">.</g> svasti śaka-varṣātīta <num value="807">807</num> jyaiṣṭa-māsa daśamĭ <abbr>śukla</abbr><g type="circleHigh">.</g> tuṁlai<g type="circleHigh">.</g> vagai vr̥haspati<g type="circleHigh">.</g> vāra<g type="circleMed">.</g> tatkāla ḍaṅ ācāryya munīndra<surplus><g type="circleHigh">.</g></surplus><!-- , ignored by St. -->
+<lb n="2"/>mamli savaḥ karamān· I parhyaṅan· vatak· vuru tuṅgal· Iṁ kuruṅan· ṅarannikāṁ savaḥ<g type="circleMed">.</g> sīmā saṁ hyaṁ padevāharān· vǝlyannya pirak· kāṭi <num value="1">1</num> pa<lb break="no" 
 n="3"/>sak·-pasak· I rāmanta pirak· dhāraṇa <num value="3">3</num> hana ta paṅanak· rāmanta ri hutaṁnira <abbr>dhā</abbr> <num value="7">7</num> Anuṁ milu pinakapasak·-pasak· muAṁ vivi <num value="1">1</num> pa<unclear>da</unclear> <num value="1">1</num> pira<lb break="no" 
-n="4"/>k· <abbr>mā</abbr> <num value="4">4</num><g type="comma">.</g> piṇḍa pirak· vyaya kāṭi <num value="1">1</num><g type="comma">.</g> <abbr>dhā</abbr> <num value="10">10</num> <abbr>mā</abbr> <num value="4">4</num> parānnikā pirak· panahur· hutaṁniṁ vanva I parhyaṅan· Anuṁ rāma rikāṁ kāla <space/> patiḥ saṁ parhyaṅan·
+n="4"/>k· <abbr>mā</abbr> <num value="4">4</num><g type="comma">.</g> piṇḍa pirak· vyaya kāṭi <num value="1">1</num><g type="comma">.</g> <abbr>dhā</abbr> <num value="10">10</num> <abbr>mā</abbr> <num value="4">4</num> parānnikā pirak· panahur· hutaṁniṁ vanva I parhyaṅan·</p> <p>Anuṁ rāma rikāṁ kāla <space/> patiḥ saṁ parhyaṅan·
 <lb n="5"/>saṁ gola<g type="circleMed">.</g> parujar·niṁ patiḥ saṁ java<g type="circleMed">.</g> vahuta pu geṣṭī<g type="circleMed">.</g> tan· papituṁtuṁ<g type="circleMed">.</g> kalaṁ pu paṅgil· gusti lor· pu gayat·<g type="circleMed">.</g> gusti tṅaḥ pu <unclear>vuru</unclear>ntuṁ gusti kidul·
-<lb n="6"/>pu sr̥ṣṭi<g type="circleMed">.</g> vinkas· pu kalula<g type="circleMed">.</g> variga si dharinī<g type="circleMed">.</g> huler· pu yogī<g type="circleMed">.</g> parujar· pu R̥ṣi<g type="circleMed">.</g> marhyaṁ vetan· pu guvindī<g type="circleMed">.</g> marhyaṁ lor· pu bhī<space type="descender"/>, <unclear>ra</unclear>ma mara<lb break="no" 
-n="7"/>tā patiḥ matuha pu vadvā<g type="circleMed">.</g> pu vir=yan·<!-- pasangan ya below aksara y — or should we read vicyan? -->, pu ḍavak· pu gaṭā pu nakha<g type="circleMed">.</g> pu kǝkal· pu maṇḍi pu sabhā<g type="circleMed">.</g> pu vuruntuṁ<g type="circleMed">.</g> pu palvak· pu dyan· pu Andalan· pu sabval·<g type="circleMed">.</g> <unclear>pu</unclear>
-<lb n="8"/>bisir· pu tman· pu vray· pu ḍaluṁ<g type="circleMed">.</g> punta kuḍu<g type="circleMed">.</g> punta ke<unclear>ṣ</unclear>·<g type="circleMed">.</g> punta sraṅan·<g type="circleMed">.</g> pu cuṅul·, pu kes·<g type="circleMed">.</g> pu vajil·<g type="circleMed">.</g> pu saṅgan·<g type="circleMed">.</g> pu kamala<g type="circleMed">.</g> pu su<unclear>kha</unclear><g type="circleMed">.</g>
-<lb n="9"/>pu Aṅgada<g type="circleMed">.</g> pu plī<g type="circleMed">.</g> pu dhanada<g type="circleMed">.</g> pu taṁtaṁ<g type="circleMed">.</g> pu gaccha<g type="circleMed">.</g> pu gadhī<unclear><g type="circleMed">.</g></unclear> pu māgha<unclear><g type="circleMed">.</g></unclear> pu gusay·<g type="circleMed">.</g> pu samvok·<g type="circleMed">.</g> nāhan· sira rāma Umeḥhakan·nikāṁ savaḥ śīma ḍaṁ ā<lb break="no" 
+<lb n="6"/>pu sr̥ṣṭi<g type="circleMed">.</g> vinkas· pu kalula<g type="circleMed">.</g> variga si dharinī<g type="circleMed">.</g> huler· pu yogī<g type="circleMed">.</g> parujar· pu R̥ṣi<g type="circleMed">.</g> marhyaṁ vetan· pu guvindī<g type="circleMed">.</g> marhyaṁ lor· pu bhī<space type="descender"/>ma<g type="circleMed">.</g> <unclear>rā</unclear>ma mara<lb break="no" 
+n="7"/>tā patiḥ matuha pu vadvā<g type="circleMed">.</g> pu vir=yan·<!--pasangan ya below aksara y — or should we read vicyan?--> pu ḍavak· pu gaṭā pu nakha<g type="circleMed">.</g> pu kǝkal· pu maṇḍi pu sabhā<g type="circleMed">.</g> pu vuruntuṁ<g type="circleMed">.</g> pu palvak· pu dyan· pu Andalan· pu sabval·<g type="circleMed">.</g> <unclear>pu</unclear>
+<lb n="8"/>bisir· pu tman· pu vray· pu ḍaluṁ<g type="circleMed">.</g> punta kuḍu<g type="circleMed">.</g> punta ke<unclear>ṣ</unclear>·<g type="circleMed">.</g> punta sraṅan·<g type="circleMed">.</g> pu cuṅul·<g type="circleMed">.</g> pu kes·<g type="circleMed">.</g> pu vajil·<g type="circleMed">.</g> pu saṅgan·<g type="circleMed">.</g> pu kamala<g type="circleMed">.</g> pu su<unclear>kha</unclear><g type="circleMed">.</g>
+<lb n="9"/>pu Aṅgada<g type="circleMed">.</g> pu plī<g type="circleMed">.</g> pu dhanada<g type="circleMed">.</g> pu taṁtaṁ<g type="circleMed">.</g> pu gaccha<g type="circleMed">.</g> pu gadhī<unclear><g type="circleMed">.</g></unclear> pu māgha<unclear><g type="circleMed">.</g></unclear> pu gusay·<g type="circleMed">.</g> pu samvok·<g type="circleMed">.</g></p> <p>nāhan· sira rāma Umeḥhakan·n ikāṁ savaḥ śīma ḍaṁ ā<lb break="no" 
 n="10"/>cāryya munīndra<g type="circleMed">.</g> huvus śuddha-pariśuddha<g type="circleMed">.</g></p> <p>tatra sākṣī<g type="circleMed">.</g> bhagavanta puccha<g type="circleMed">.</g> punta kamala<g type="circleMed">.</g> punta s<unclear>u</unclear>kha<g type="circleMed">.</g> punta cvat· saṅke kataṅgaran·<g type="circleHigh">.</g> rake praṣ· punta
-<lb n="11"/>koṭi saṁ <space/> śivaśiddha<g type="circleHigh">.</g> śivāṅga<unclear><g type="circleMed">.</g></unclear> sudar·<g type="circleMed">.</g> saṅke pakubāṁ<g type="circleMed">.</g> saṁ parujar· I kayu vaṅi<!-- St. read a punctuation sign here --> saṁ hadyan· Agasti<g type="circleMed">.</g> saṁ vidyadeva<g type="circleMed">.</g> vanva I kavaṅyan·<g type="circleMed">.</g> ḍa punta
-<lb n="12"/>bhāṣa<g type="circleHigh">.</g> punta dhānyā<g type="circleMed">.</g> saṁ ditiṁ<g type="circleLow">.</g> pu lina<g type="circleMed">.</g> saṅke kasugihan·<g type="circleMed">.</g> ḍaṅ ācāryya gandhara saṅke vanva galuḥ<g type="circleMed">.</g> saṁ ratna vadva I vuru tuṅgal·<g type="circleMed">.</g></p> <p>likhi<unclear>ta</unclear> saṁ jyo<lb break="no" style="text-align: right" 
+<lb n="11"/>koṭi saṁ <space/> śivaśiddha<g type="circleHigh">.</g> śivāṅga<unclear><g type="circleMed">.</g></unclear> sudar·<g type="circleMed">.</g> saṅke paku bāṁ<g type="circleMed">.</g> saṁ parujar· I kayu vaṅi<!-- St. read a punctuation sign here --> saṁ hadyan· Agasti<g type="circleMed">.</g> saṁ vidyadeva<g type="circleMed">.</g> <supplied reason="omitted">saṅke</supplied> vanva I kavaṅyan·<g type="circleMed">.</g> ḍa punta
+<lb n="12"/>bhāṣa<g type="circleHigh">.</g> punta dhānyā<g type="circleMed">.</g> saṁ ditiṁ<g type="circleLow">.</g> pu lĭna<g type="circleMed">.</g> saṅke kasugihan·<g type="circleMed">.</g> ḍaṅ ācāryya gandhara saṅke vanva galuḥ<g type="circleMed">.</g> saṁ ratna <supplied reason="omitted">saṅke</supplied> va<choice><sic>d</sic><corr>n</corr></choice>va I vuru tuṅgal·<g type="circleMed">.</g></p> <p>likhi<unclear>ta</unclear> saṁ jyo<lb break="no" style="text-align: right" 
 n="13"/>tiḥ satetīsus· <g type="dDandaHook"/> <g type="dDandaHook"/> <g type="dDandaHook"/></p>
          </div>
          <div type="apparatus">
@@ -114,7 +115,7 @@ n="13"/>tiḥ satetīsus· <g type="dDandaHook"/> <g type="dDandaHook"/> <g type
                   <app loc="8">
                      <lem>kuḍu</lem>
                      <rdg source="bib:Stutterheim1940_02">kuḍa</rdg>
-	       <note>Stutterheim's reading is no doubt a misprint, as we find Kuḍu in the translation.</note>
+	       <note>Stutterheim's reading is no doubt a misprint, as we find Kuḍu in his translation.</note>
                   </app>
 	<app loc="8">
                      <lem>su<unclear>kha</unclear></lem>
@@ -125,9 +126,9 @@ n="13"/>tiḥ satetīsus· <g type="dDandaHook"/> <g type="dDandaHook"/> <g type
                      <rdg source="bib:Stutterheim1940_02">sambok·</rdg>
                   </app>
 	<app loc="9">
-                     <lem>Umeḥhakan·nikāṁ</lem>
-                     <rdg source="bib:Stutterheim1940_02">Unmeḥhakan·nikāṁ</rdg>
-	<note>The intrusion of <foreign>n</foreign> in Stutterheim's reading is presumably a mere misprint.</note>
+                     <lem>Umeḥhakan·n ikāṁ</lem>
+                     <rdg source="bib:Stutterheim1940_02">Unmeḥhakan· nikāṁ</rdg>
+	<note>The intrusion of <foreign>n</foreign> into Stutterheim's reading is presumably a mere misprint; the fact that he inserts a space before <foreign>nikāṁ</foreign> reflects a difference in (or absentmindedness with regard to) grammatical analysis.</note>
                   </app>
 	  <app loc="10">
                      <lem>sākṣī</lem>
@@ -138,20 +139,42 @@ n="13"/>tiḥ satetīsus· <g type="dDandaHook"/> <g type="dDandaHook"/> <g type
                      <rdg source="bib:Stutterheim1940_02">sakha</rdg>
                   </app>
 	<app loc="12">
-                     <lem>vadva</lem>
+                     <lem>va<choice><sic>d</sic><corr>n</corr></choice>va</lem>
                      <rdg source="bib:Stutterheim1940_02">vanva</rdg>
                   </app>
                </listApp>         
          </div>
          <div type="translation">
- 	<!--translation encoded as per EG §9.2 -->
-<p n="1-2"></p>
-<p n="2-3"></p>
-<p n="3-4"></p>
-<p n="4-6"></p>
-<p n="6-9"></p>
-<p n="9-10"></p>
-<p n="10-12"></p>
+<p n="1-4">Homage to Śiva! Hail! Elapsed Śaka year 807, month of Jyeṣṭha, tenth <foreign>tithi</foreign> of the waxing <supplied reason="subaudible">fortnight</supplied>, Tuṅlai, Vagai, Thursday. That was the time that master Munīndra bought a communal wet-rice field <supplied reason="explanation"><foreign>savah karamān</foreign></supplied> at Parhyaṅan, <foreign>vatak</foreign> Vuru Tuṅgal. The name of the wet-rice field was Kuruṅan. It was to be the freehold of the holy place for God's food <supplied reason="explanation"><foreign>pa-devāhāra-an</foreign></supplied>. The purchase price <supplied reason="explanation"><foreign>vǝlyan</foreign></supplied> for it was 1 <foreign>kāṭi</foreign> of silver. The gifts for the elders were <supplied reason="subaudible">equivalent to the value of</supplied> 3 <foreign>dhāraṇa</foreign> of silver. The elders had 7 <foreign>dhāraṇa</foreign> of silver to be paid as interest on their debt, which was part of what was gifted, along with 1 goat, 1 <foreign>pada</foreign> <supplied reason="subaudible">of rice</supplied>, 4 <foreign>māṣa</foreign> of silver. The total amount of silver expended was 1 <foreign>kāṭi</foreign>, 10 <foreign>dhāraṇa</foreign> and 4 <foreign>māṣa</foreign>. The purpose of the silver is as means to repay the debt of the village of Parhyaṅan.</p>
+<p n="4-9">The ones who were elders at the time:
+<list>	<item>the <foreign>patih</foreign>s <supplied reason="explanation">called</supplied> <foreign>saṅ</foreign> Parhyaṅan <supplied reason="subaudible">and</supplied> <foreign>saṅ</foreign> Gola;</item> 
+	<item>the spokesman for the <foreign>patih</foreign>s, <supplied reason="explanation">called</supplied> <foreign>saṅ</foreign> Java;</item> 
+	<item>the <foreign>vahuta</foreign> <supplied reason="explanation">called</supplied> <foreign>pu</foreign> Geṣṭī, without assistant <supplied reason="explanation"><foreign>pituṅtuṅ</foreign></supplied></item> 
+	<item>the <foreign>kalaṅ</foreign> <supplied reason="explanation">called</supplied> <foreign>pu</foreign> Paṅgil;</item>
+	<item>the <foreign>gusti</foreign> North <supplied reason="explanation">called</supplied> <foreign>pu</foreign> Gayat;</item>
+	<item>the <foreign>gusti</foreign> Center <supplied reason="explanation">called</supplied> <foreign>pu</foreign> Vuruntuṅ;</item>
+	<item>the <foreign>gusti</foreign> South <supplied reason="explanation">called</supplied> <foreign>pu</foreign> Sr̥ṣṭi;</item>
+	<item>the <foreign>vinkas</foreign> <supplied reason="explanation">called</supplied> <foreign>pu</foreign> Kalula;</item>
+	<item>the <foreign>variga</foreign> <supplied reason="explanation">called</supplied> <foreign>si</foreign> Dhariṇī;</item>
+	<item>the irrigation official <supplied reason="explanation"><foreign>huler</foreign></supplied> <supplied reason="explanation">called</supplied> <foreign>pu</foreign> Yogī;</item>
+	<item>the spokesman <supplied reason="explanation">called</supplied> <foreign>pu</foreign> R̥ṣi;</item>
+	<item>the <foreign>marhyaṅ</foreign> East <supplied reason="explanation">called</supplied> <foreign>pu</foreign> Guvindī;</item>
+	<item>the <foreign>marhyaṅ</foreign> North <supplied reason="explanation">called</supplied> <foreign>pu</foreign> Bhīma.</item>
+</list> 
+The regular <supplied reason="explanation"><foreign>maratā</foreign></supplied> elders, experienced as <foreign>patih</foreign>s, were <foreign>pu</foreign>  Vadvā, <foreign>pu</foreign> Viryan, <foreign>pu</foreign>  Ḍavak, <foreign>pu</foreign> Gaṭā, <foreign>pu</foreign> Nakha, <foreign>pu</foreign> Kǝkal, <foreign>pu</foreign>  Maṇḍi, <foreign>pu</foreign>  Sabhā, <foreign>pu</foreign>  Vuruntuṅ, <foreign>pu</foreign> Palvak, <foreign>pu</foreign>  Dyan, <foreign>pu</foreign> Andalan, <foreign>pu</foreign> Sabval, <foreign>pu</foreign> Bisir, <foreign>pu</foreign>  Tman, <foreign>pu</foreign>  Vray, <foreign>pu</foreign>  Ḍaluṅ, <foreign>punta</foreign> Kuḍu, <foreign>punta</foreign> Keṣ, <foreign>punta</foreign> Sraṅan, <foreign>pu</foreign> Cuṅul, <foreign>pu</foreign> Kes, <foreign>pu</foreign> Vajil, <foreign>pu</foreign> Saṅgan, <foreign>pu</foreign> Kamala, <foreign>pu</foreign> Sukha,
+<foreign>pu</foreign> Aṅgada, <foreign>pu</foreign> Plī, <foreign>pu</foreign> Dhanada, <foreign>pu</foreign> Taṅtaṅ, <foreign>pu</foreign> Gaccha, <foreign>pu</foreign> Gadhī, <foreign>pu</foreign> Māgha, <foreign>pu</foreign> Gusay, <foreign>pu</foreign> Samvok.</p>
+<p n="9-10">Those were the elders who allowed <supplied reason="explanation"><foreign>umehakan</foreign></supplied> the free wet-rice field <supplied reason="explanation"><foreign>savah sīma</foreign></supplied> of master Munīndra, to be completely cleared.</p>
+<p n="10-11">The witnesses to it were:
+<list>
+<item>the reverend <supplied reason="explanation"><foreign>bhagavanta</foreign></supplied> Puccha, <foreign>punta</foreign> Kamala, <foreign>punta</foreign> Sukha, <foreign>punta</foreign> Cvat — from Kataṅgaran;</item> 
+<item>the <foreign>raka</foreign> of Praṣ, the <foreign>punta</foreign> Koṭi, <foreign>saṅ</foreign> Śivasiddha, Śivāṅga, Sudar — from Paku Bāṅ;</item> 
+<item>the spokesman for Kayuvaṅi <supplied reason="explanation">called</supplied> <foreign>saṅ hadyan</foreign> Agasti <supplied reason="subaudible">and</supplied> <foreign>saṅ</foreign> Vidyadeva — from the village of Kavaṅyan;</item> 
+<item><foreign>ḍa punta</foreign> Bhāṣa, <foreign>punta</foreign> Dhānyā, <foreign>saṅ</foreign> Ditiṅ, <foreign>pu</foreign> Līna — from Kasugihan;</item> 
+<item>master Gandhara — from the village Galuh;</item>
+ <item><foreign>saṅ</foreign> Ratna from the village of Vuru Tuṅgal.</item>
+</list>
+</p>
+<p n="10-12">Written by <foreign>saṅ</foreign> Jyotih <foreign>satetīsus</foreign>.</p>
          </div>
         <div type="translation" xml:lang="ndl" source="bib:Stutterheim1940_02">
 <p n="1-2">Eere aan Çiwa! Heil! Çaka-jaren voorbijgegaan 807 (885 A.D.); Mei-Juni; de tiende dag van de lichte maandhelft; (dag van de zesdaagsche week:) Tunglai; (dag van de vijfdaagsche week:) Wagai; Donderdag.</p>
@@ -164,25 +187,49 @@ n="13"/>tiḥ satetīsus· <g type="dDandaHook"/> <g type="dDandaHook"/> <g type
 <p>Geschreven door Sang Jyotih, <foreign>satetīsus</foreign>.</p>
          </div>
          <div type="commentary">
-            <!--commentary encoded as per section §9.3 -->
-<p n="3">pa<unclear>da</unclear>: cf. Haliwangbang (1v2) da 1 dom· 1 tahas· 1 buri 1 padamaran· 1 saragi pagaṅanan· 1 kampil· 1 vəAs· pada 1 vsi Ikat· 10 vivi 1 taṇḍas· 1 ...; Taragal (1v2) m· 1 tahas· 1 buri 1 padamaran· 1 saragi pagaṅanan· 1 saragi Inuman· 1 kampil· 1 vəAs· pada 1 vsi Ikət· 10 vivi 1 || muAṁ Anuṁ vinaiḥ vǝas pada</p>
-<p n="5">pu geṣṭī: cf. gaiṣṭī in Mandeville Parhyangan plate.</p>
-<p>correspondence pu kamala/punta kamala and pu sukha/punta sukha not noticed by Stutterheim.</p>
+<p>Regarding the nature of this document and the translation recorded in it, J. Wisseman Christie has offered the following summary:
+<cit><quote rend="block">
+The Kurungan inscription of 885 A.D. (Appendix A.2) is not principally a debt-clearance document. It records the purchase of wet rice land for 1 <foreign>kati</foreign> or 768 grams of silver by a religious personage, <hi rend="bold">for the purpose of presentation as a meritorious gift to a religious community</hi>. Part of the statutory gifts presented to the community from which the land was purchased took the form of the writing off of 7 <foreign>dhāraṇa</foreign> or 268.8 grams of silver, the sum of the interest on the community's debt. This apparently completed the repayment ot that debt, the sale of the land presumably having furnished the community with the funds needed to repay the principal, and perhaps a portion of the interest as weII. Although the document states that the aim of the transaction was the repayment of the community's debt, no hint is given as to how the debt was incurred, the exact amounts owed as principal and interest, and the person or institution to whom the debt was owed.</quote><bibl><ptr target="bib:WissemanChristie2009_01"/><citedRange>44</citedRange></bibl></cit>
+The words I have quoted in bold require further consideration, as the text does not actually mention any religious community nor any meritorious gift, although both notions may be implied. The problem of the global interpretation of the transaction depends to a large degree on how one is to interpret the sentence(s) in lines 9-10 <foreign>nāhan· sira rāma Umeḥhakan·n ikāṁ savaḥ śīma ḍaṁ ācāryya munīndra| huvus śuddha-pariśuddha</foreign>.</p>
+<p n="2">The status expressed by the compound <foreign>savaḥ karamān</foreign> clearly stands in opposition to the new status expressed, in line 9, by the compound <foreign>savaḥ śīma</foreign>.</p>
+<p n="2">The word <foreign>padevāharān</foreign>, derived from a base <foreign>devāhara</foreign>, is registered in <bibl><ptr target="bib:Zoetmulder1982_01"/><citedRange unit="entry"><foreign>devahara</foreign>, <foreign>divahara</foreign></citedRange></bibl>, with glosses <q>place of worship, temple, chapel</q>. It is remarkable that all published occurrences of <foreign>padevāharān</foreign> in transmitted Old Javanese text are found in the <title>Rāmāyaṇa</title>, a fact that may be added to the cumulative evidence in support for the dating of this text to the 9th century CE. The relevant stanzas are as follows (ed. <bibl rend="noname"><ptr target="bib:Kern2015_01"/></bibl>, transl. <bibl rend="noname"><ptr target="bib:Robson2015_01"/></bibl>):
+<list>
+<item>20.52 <foreign>rikaṅ kāla sakrodha taṅ meghanāda, masǝṅhit pǝjah tuṅgaṅan mvaṅ ratha syūh, masuk teṅ padevāharan ṅkān pasādhya, mamūjā ta yeṅ astra sarpāstrapāśa</foreign> <q>At that time Meghanāda was angry, / Resentful at the death of his horses and destruction of his chariot. / He entered into the dwelling of the gods with the intention / Of praying for a weapon, the snake-snare arrow</q>. There is a divergence here between the Balinese manuscripts, which support the reading <foreign>padevāharan</foreign> I have adopted here, and the read <foreign>padevāgaran</foreign> adopted  by Kern, apparently an emendation based on the Javanese transmission.</item>
+<item>23.71 <foreign>tumama mahoma riṅ śivasabhā gr̥ha padivaharan, paramagurūgra bhīṣaṇa sirekana inavatakǝn, mǝtu ta mataṅkil iṅ varuga saṅ dvijavara humaḍaṅ, umadǝg aśānti maṅgala nageri pañaritanira</foreign> <q>He went in to perform a sacrifice in the Śiva temple where the gods are worshiped, / And there invoked the terrible Paramaguru. / He went out to pay respects in the meeting hall, where the worthy priests were ready waiting, / Standing, chanting prayers for good fortune and blessing, and <foreign>nageri</foreign> (bards) were the tellers of his tale</q>. The poet has here adapted the word to metrical needs, the spelling with <foreign>diva</foreign> instead of <foreign>devā</foreign> yielding the required short syllables.</item>
+<item>25.12 <foreign>r̥ṣi saṅ bharadvăja nahan dhvaja sor, tǝṅǝranniy āśrama nirāta tǝhǝr, sumanohara vvara padevaharan, kuya tākukus mavaṅi gandha miñak</foreign> <q>The sage Bhara<sic>dhv</sic>aja, there is his flag below, / So that must be the emblem of his hermitage. / It has a very pleasant place of worship – / See how it has fragrant smoke and the arome of butter</q>. We see that the spelling is again adapted to metrical requirements.</item>
+</list>
+
+Zoetmulder suggests that the Old Javanese usage goes back to <q><foreign>dewagara</foreign> &lt; <foreign>dewagṛha</foreign></q> (and could have mentioned also the synonymous Sanskrit word <foreign>devāgāra</foreign>), which implies that the circumfix <foreign>pa-...-an</foreign> is considered redundant in this word, as the underlying Sanskrit term already designates a place. This interpretation seems to underlie Robson's translations of these pages (see his note <bibl rend="noname"><ptr target="bib:Robson2015_01"/><citedRange>509</citedRange></bibl>), and would the advantage in this context of allowing the assumption that <foreign>padevāharān</foreign> functions as a Sanskrit-based gloss of the indigenous toponym <foreign>parhyaṅan</foreign>, which has the same meaning. I am, however, rather inclined to suppose that  <foreign>padevāharān</foreign> is to be understood as <foreign>padevāhārān</foreign>, i.e. that it is derived from <foreign>deva-āhāra</foreign> in the meaning <q>god's food</q> and is a near equivalent to the much more common <foreign>pa-homa-an</foreign> <q>offering place</q>. This interpretation is consistent with the  occurrence of the base word <foreign>devāhāra</foreign> in a Buddhist manual for the disposal of a dead body transmitted on Bali, but <q>written in ancient language</q> (see <bibl><ptr target="bib:Gonda1973_01"/><citedRange>244, 245, 251, 460</citedRange></bibl>).</p>
+<p n="3">In all of its occurrences, the word <foreign>pada</foreign> is a unit for quantifying <foreign>vəas</foreign>, and <foreign>vivi</foreign> is often found in the same context. Cf. <ref target="Haliwangbang.xml">Haliwangbang</ref> 1v2 <foreign>saragi pagaṅanan· 1 kampil· 1 vəAs· pada 1 vsi Ikat· 10 vivi 1 taṇḍas· 1</foreign> and <ref target="Taragal.xml">Taragal</ref> 1v2 <foreign>saragi pagaṅanan· 1 saragi Inuman· 1 kampil· 1 vəAs· pada 1 vsi Ikət· 10 vivi 1 || muAṁ Anuṁ vinaiḥ vǝas pada</foreign>.</p>
+<p n="5">The name Gola is perhaps to be understood as Gauḍa, i.e. person Northeast India. Cf. <foreign>golaviṣaya</foreign> <q>Gauḍa-territory</q> in <ref target="Munggut.xml">Munggut</ref> 3.15, and the juxtaposition in the present context with a <foreign>saṅ</foreign> Java.</p>
+<p n="5">The same <foreign>pu</foreign> Geṣṭī figures again (spelt <foreign>gaiṣṭī</foreign>) in <ref target="Parhyangan.xml">Parhyangan</ref>, line 4. Regarding the word <foreign>pituṅtuṅ</foreign>, <bibl><ptr target="bib:Boechari1977_01"/></bibl> (=  <bibl rend="noname"><ptr target="bib:Boechari2012_01"/><citedRange>34-35</citedRange></bibl>) suggests that it is synonomous with <foreign>pihujuṅ</foreign>. I translate accordingly.</p>
+<p n="6-7">On the <foreign>rāma maratā</foreign>, see <bibl><ptr target="bib:Casparis1956_01"/><citedRange unit="page">216</citedRange><citedRange unit="note">23</citedRange></bibl>: <q>The <foreign>rāmas</foreign>, in Old Javanese records, are divided into two groups : (a) those „holding a command" (<foreign>maṅagam kon</foreign>), i.e. charged with a definite function, e.g. with the supervision over the bridges in the village (<foreign>hulu wuatan</foreign>), and (b) those „taking rest" (<foreign>maratā</foreign>), i.e., probably, those who were formerly charged with a definite function, but retired afterwards</q>. This interpretation is accepted in <bibl><ptr target="bib:BarrettJones1984_01"/><citedRange>108</citedRange></bibl>, and is close to the one advocated by Boechari
+<bibl rend="noname"><ptr target="bib:Boechari1981_02"/></bibl> (<bibl rend="noname"><ptr target="bib:Boechari2012_01"/><citedRange unit="page">301</citedRange><citedRange unit="note">28</citedRange></bibl>); <bibl rend="noname"><ptr target="bib:Boechari1986_02"/></bibl> (<bibl rend="noname"><ptr target="bib:Boechari2012_01"/><citedRange>323</citedRange></bibl>). But it seems to me that we can attempt to translate <foreign>ma-ratā</foreign> in a manner that requires taking less freedom with regard to the meanings allowed in <bibl><ptr target="bib:Zoetmulder1982_01"/><citedRange unit="entry"><foreign>ratā</foreign>, <foreign>aratā</foreign></citedRange></bibl>, namely <q>flat, level, even, flush with the ground; shared equally, divided evenly, each alike, one and all</q>.</p>
+<p n="8, 10">Note the correspondences  <foreign>pu</foreign> Kes / <foreign>punta</foreign> Keṣ (with different spelling for the final consonants), <foreign>pu</foreign> Kamala / <foreign>punta</foreign> Kamala, <foreign>pu</foreign> Sukha / <foreign>punta</foreign> Sukha. By contrast, the two occurrences of the name  Vuruntuṅ (in lines 5 and 7) are both labeled as <foreign>pu</foreign>. Stutterheim, apparently not noticing these correspondences, did not read the names consistently in all cases.</p>
+<p n="12">The meaning of <foreign>satetīsus</foreign> remains obscure. Could sate be an error for <foreign>saṅke</foreign>, and the last sentence be translated as <q>Written by Jyotiḥ from Tīsus</q>?</p>
          </div>
         <div type="bibliography">
-           <p>First edited by W. F. Stutterheim (<bibl></bibl>), with a translation into Dutch. Re-edited here by Arlo Griffiths from the OD photos, with a translation into English.</p>
+           <p>First edited by W. F. Stutterheim (<bibl><ptr target="bib:Stutterheim1940_02"/></bibl>), with a photographic reproduction of the plate and a translation into Dutch. Not included in <bibl><ptr target="bib:Sarkar1971-1972_01"/></bibl>. Re-edited here by Arlo Griffiths from the OD photos, with a translation into English.</p>
 	<listBibl type="primary">
 		<bibl n="S"><ptr target="bib:Stutterheim1940_02"/></bibl>
 	</listBibl>
  	<listBibl type="secondary">
-              <bibl/><!-- one <bibl/> per item of secondary bibliography -->
-<!-- OV. 1939: 19 & 21 — INI. I : 29f.* **, pl. 2 — EEI. III. A. 60; IV: 189-191* — ROEJ No. 109* — JCH: 85 (XLX). -->
-<!-- Damais 1970, Nakada, Eade & Gislén 2000 -->
-<!-- not in Sarkar, CIJ -->
+		<bibl><ptr target="bib:OV1938"/><citedRange>19, 21</citedRange></bibl>
+<!-- p. 19, §5c: Door PANGERAN HARIO HADIWIDJO te Soerakarta werd een aantal oorkondeplaten voor onderzoek opgezonden, welke gevonden waren te R a n d o e s a r i (Klaten, Soerakarta) en welke twee oorkonden bleken te bevatten, een van koning Balitung uit go5 A.D. en een van Dang Ācāryya Munīndra uit 885 A.D. Beide oorkonden bevatten interessante en belangrijke bijzonderheden over vrijstiften, waarvan bij de publicatie uitvoerig verslag zal worden gedaan.  -->
+<!-- p. 21: R a n d o e s a r i (Gondangwinangoen, Klaten), in de doekoeh Plembon een stel van twee bronzen oorkondeplaten met een oorkonde uit 827 Çaka (= 905 A.D.) van koning Balitung en betrekking hebbend op een vrijgebied. Tevens enkele andere oorkondeplaten, op één na onbeschreven. Een en ander opgenomen in het rijksmuseum Sriwedari te Soerakarta. Zie § 5c. -->
+	<bibl><ptr target="bib:Damais1952_01"/><citedRange unit="page">42-43</citedRange><citedRange unit="part">A</citedRange><citedRange unit="item">60</citedRange></bibl>
+	<bibl><ptr target="bib:Damais1955_01"/><citedRange unit="page">189-191</citedRange></bibl>
+<!-- elaborate discussion of the dating formula which defies verification -->
+	<bibl><ptr target="bib:Damais1970_01"/><citedRange unit="page">49</citedRange><citedRange unit="item">109</citedRange></bibl>
+	<bibl><ptr target="bib:Nakada1979_01"/><citedRange unit="page">85</citedRange>><citedRange unit="item">XLV</citedRange></bibl>
+	<bibl><ptr target="bib:Nakada1982_01"/><citedRange unit="page">88-89</citedRange><citedRange unit="part">1</citedRange><citedRange unit="item">69</citedRange></bibl>
+	<bibl><ptr target="bib:Eade+Gislen2000_01"/><citedRange unit="page">129</citedRange><note>The book does not seem to contain a discussion of this inscription's date.</note></bibl>
+	<bibl><ptr target="bib:WissemanChristie2009_01"/><citedRange unit="page">44, 52</citedRange></bibl>
+	<bibl><ptr target="bib:WissemanChristie2009_02"/><citedRange unit="page">178-179</citedRange></bibl>
            </listBibl>
         </div>
       </body>
   </text>
 </TEI>
 <!-- OD photos 14454, 14455, 14456, 14457-->
-<!-- Radyapustaka? -->
+<!-- Formerly kept at Museum Sri Wedari, Surakarta, no. A.504; now Museum Radyapustaka? -->
