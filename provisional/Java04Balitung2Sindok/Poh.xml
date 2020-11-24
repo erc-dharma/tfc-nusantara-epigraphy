@@ -42,7 +42,10 @@
                     </msContents>
                     <physDesc>
                         <handDesc>
-                            <p><!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EGD 11.2. --></p>
+                            <p>	See remarks Damais. 
+			The basic punctuation sign takes the shape of a raised circle. 
+			Use of ḍha.
+		</p>
                             <!-- If you need to identify individual hands (EGD §7.5/) in addition to one or more paragraphs of general palaeographic description, wrap <summary> around the <p> or <p>s above, and, outside <summary>, create <handNote> elements for each hand as follows:
 						<summary><p><p/></summary>
 						<handNote xml:id="Pallava00001_hand1"></handNote>
@@ -76,64 +79,66 @@
          <div type="edition" xml:lang="kaw-Latn">
             <pb n="1r"/><!--Blank outer page.-->
 <p><pb n="1v"/>
-<lb n="1v1"/> // o // svasti śakavarsātīta 827 śravaṇamāsa tithi trayodaśi, śuklapakṣa, paniruan, pon, budhavāra, aiśānyasthāna, pūrvvāṣāḍanakṣatra, aśvidevatā, viskambhayoga, tatkāla ājñā śrī mahā<lb 
-n="1v2" break="no"/>rāja rakai vatukura dyaḥ balituṁ śrī dharmmodayamahāsambhu, misor i rakyān mapatiḥ i hino, muaṁ i rakai vvatan, kumonnakan ikanaṁ vanua i poḥ muaṁṁanaknya vanua ri rumasan, riṁ nyū, kapva vatak
-<lb n="1v3"/>kinivaṁ, śuśukan paṁguhanya mamulus mas su 4 tanpa vadvāyun, gavai ni vanvanya sāmas, paknān yan sinuśuk muaṁ kalaṁnya sīmā saṁ hyaṁ caitya mahayva siluṁluṁ saṁ devata saṁ lumāḥ i pasti ka, tan
-<lb n="1v4"/>katamāna deni saprakāra niṁ maṁilaladrabyahaji tikasan, kriṁ, padam, rumvān, paraṇakan, airhaji, tapahaji, tuha dagaṁ, manimpiki, makalaṁkaṁ, limusgaluḥ, taji, paṁaruhan, kataṁgaran, pi<lb 
-n="1v5" break="no"/>nilai, vanva i dalam, hulunhaji, pamrasi, mapaḍahi. maṁiduṁ, mahaliman ityevamādi saprakāra kabaiḥ tan hana deyan tumamā iriya, saṁ hyaṁ caitya saṁ devata saṁ lumāḥ iṁ pastika ataḥ basa<lb 
-n="1v6" break="no"/>-pramāṇā i sovara ni sukhaduḥkhanya kabaiḥ, maṁasǝakan ikanaṁ rāma kabaiḥ i poḥ, riṁ rumasan, riṁ nyū, pasakpasak 1 śrī mahārāja vdihan jaro yu 1 mas pagǝḥ su 5 nini haji rakai vvatan pu tammǝr
-<lb n="1v7"/>kain jaro savlaḥ mas su 5 // i rakryān mapatiḥ 1 hino saṁ śrī dakṣottamabāhubajrapratipakṣakṣaya inaṁsǝan pasakpasak vdihan kalyāga yu 1, mas su 1 mā 4 i rakai halu pu vīravikrama .
-<lb n="1v8"/>rakai sirikan pu variga saṁ samaravikrānta, rakai vka pu kutak, saṁ pamagat tiruan pu asaṁā saṁ śiva astra kapua inaṁsǝan pasakpasak vdihan kalyāga yu 1 mas su 1 iṁ sovaṁsovaṁ, ra<lb 
-n="1v9" break="no"/>kai halaran pu tloḍuṁ, samagat dalman saṁ sukhapaṁgil, rakai palarhyaṁ pu puñjaṁ, maṁhuri pu cakra, paṁkur pu śivadhyāna, tavān pu sūryya, tirip pu kṛmṇa vadihati pu ḍapit, makudur
-<lb n="1v10"/>pu samvṛda, kapua inaṁsǝan pasakpasak vdihan raṁga yu 1 mas mā 8 iṁ sovaṁsovaṁ // samagat kinivaṁ makavanva ikanaṁ i poḥ sinuśuk kinivaṁ pu bnat anakvanva iṁ kavu sīma kapatihan i
-<lb n="1v11" break="no"/>naṁsǝan pasakpasak vdihan kalyāga yu 1 mas su 14 kbo 1 vḍus 1 pada 1 saṁ kinivaṁ anakbi pu tuṇḍuṁ kain pinilai savlaḥ mas mā 8 // paminaṁ i saṁ hyaṁ kudur vdihan yu 1 mas mā 4 saṁ juru i
-<lb n="1v12"/>Ayamtǝas 2 saṁ miramiraḥ pu rayuṁ anakvanua i miramiraḥ vatak vadihati maṁraṁkappi saṁ halaran pu dhanada anakvanua i paṁramvan sīma vadihati, saṁ juru i makudur 2 saṁ taṁkilsugiḥ pu mankai ana<lb 
-n="1v14" break="no"/>k vanua i mantyāsiḥ vatak makudur, maṁraṁkappi saṁ maṇḍyāṁin anakvanua i kahaṁatan vatak hamyas kapua vinaiḥ pasakpasak vdihan yu 1 mas mā 4 iṁ sovaṁsovaṁ, saṁ tuhān mamuat vuvus ka<lb 
-n="1v14" break="no"/>baiḥ parujar i hino saṁ kaṇḍamuhi pu tuṁgaṁ anakvanua i gunuṁan vatak taṁkilan, citralaikhā saṁ vatuvarani pu manǝsǝ:r anakvanua i tutuganniṁtaṇḍa i taṁkilan, parujarri halu saṁ vimga pu damodara anakvanua I
-<lb n="1v15"/>paṇḍavutan vatak tirurāṇu, parujari sirikan saṁ hujuṁgaluḥ pu ayuddha anakvanua i truvanban vatak tirurāṇu, citralekhā saṁ dharmmasinta pu samudra anakvanua i pāstamvir, parujarri vka saṁ viridiḥ pu ḍaṇu A<lb 
-n="1v16" break="no"/>nakvanua i skarttan vatak layuvataṁ, citralekhā saṁ halaṁmanuk pu govinda anakvanua i vanuatṁaḥ vatak vurusiki, parujar i tiruan saṁ sumuḍan ḍapunta katimamaṁ anakvanua i vuṁkuḍu vatak kili<lb 
-n="1v17" break="no"/>pan, kapua vinaihan pasakpasak vdihan yu i mas mā 4 iṁ soaṁsoaṁ // parujarri halaran saṁ ravanu pu batu anakvanua i hinapit vatak vka, parujarri dalinan saṁ varyyaṁ pu lakṣaṇa anakvanua
-<lb n="1v18"/>I vvatan vatak dalinan, parujarri palarhyaṁ saṁ tumapal pu baka anakvanua i tuṁgumanoṁan, parujarri maṁhuri saṁ ranugra pu gupura anakvanua i hinapit vatak vka, parujarri vka saṁ dadalan pu samodaya<lb 
-n="1v19" break="no"/>nak vanua i siṁhapura vatak halu madāṁ maṁasǝ: i mamrati, parujarri tavān saṁ dhāluk pu .. ruy anakvanua i ralua vatak vurusiki, parujarri tirip saṁ rapaḍaṁ pu rāghū anakvanua i yugihan vatak
+<lb n="1v1"/> <g type="dandaSerif"/><g type="dandaSerif"/> <g type="spiralL"/> <g type="dandaSerif"/><g type="dandaSerif"/> svasti śakavarṣātīta<!-- St. śakavarsātīta --> <num value="827">82<unclear>7</unclear></num> śravaṇa-māsa tithi trayodaśi, śuklapakṣa, paniruAn·, pon·, budhavāra, Aiśānya-sthāna, pūrvvāṣāḍha-nakṣatra,<!-- St. pūrvvāṣāḍha, see remarks Damais --> Aśvi-devatā, viskambhayoga, tatkāla Ājñă<!-- St. Ājñā --> śrī mahā<lb 
+n="1v2" break="no"/>rāja rakai vatu kura dyaḥ balituṁ śrī dharmmodayamahāsambhu, misor· I rakyān·<!-- thus LCD, St. rakyān· --> mapatiḥ I hino, muAṁ I rakai vvatan·, kumonnakan· Ikanaṁ vanuA I poḥ muAṁṅ anaknya vanuA ri rumasan·, riṁ nyū, kapva vatak·
+<lb n="1v3"/>kinivaṁ, śuśukan· paṅguhanya mamulus· mas· <abbr>su</abbr> <num value="4">4</num> tanya<!-- St. tanpa --><space type="descender"/> vadvāyun·, gavai<space type="descender"/>ni vanvanya sāmas·, paknānyan· sinuśuk· muAṁ kalaṁnya sīmā saṁ hyaṁ caitya mahayva siluṁluṁ saṁ devata saṁ lumāḥ I pastika, tan·
+<lb n="1v4"/>katamāna deni saprakāraniṁ maṅilala drabya haji tikasan·, kriṁ, paḍam·,<!-- St. padam· --> rumvān·, paraṇakan·, Air haji, tapa haji, tuha dagaṁ, manimpiki, makalaṅkaṁ, limus· galuḥ, taji, paṅaruhan·, kataṅgaran, pi<lb 
+n="1v5" break="no"/>nilai, vanva I dalam·, hulun haji, pamrasi, mapaḍahi, maṅiduṁ, mahaliman· Ityevamādi saprakāra kabaiḥ tan hana deyan· tumamā Iriya, saṁ hyaṁ caitya saṁ devata saṁ lumāḥ Iṁ pastika Ataḥ basa<lb 
+n="1v6" break="no"/>-pramāṇā I sovarani sukhaduḥkhanya kabaiḥ, maṅasǝAkan· Ikanaṁ rāma kabaiḥ I poḥ, riṁ rumasan·, riṁ nyū, pasak-pasak· I śrī mahārāja vdihan· jaro <abbr>yu</abbr> <num value="1">1</num> mas· pagǝḥ <abbr>su</abbr> <num value="5">5</num> nini haji rakai vvatan· pu tammǝr
+<lb n="1v7"/>kain· jaro savlaḥ mas· <abbr>su</abbr> <num value="5">5</num> <g type="ddandaHooked">.</g> I rakryān mapatiḥ I hino saṁ śrī dakṣottamabāhubajrapratipakṣakṣaya InaṁsǝAn· pasak-pasak· vdihan· kalyāga <abbr>yu</abbr> <num value="1">1</num><!-- St. reads "," here, but there is none --> mas· <abbr>su</abbr> <num value="1">1</num> <abbr>mā</abbr> <num value="4">4</num> I rakai halu pu vīravikrama,
+<lb n="1v8"/>rakai sirikan· pu variga saṁ samaravikrānta, rakai vka pu kutak·, saṁ pamagat· tiruAn· pu Asaṅā saṁ śiva-Astra kapuA InaṁsǝAn· pasak-pasak· vdihan· kalyāga <abbr>yu</abbr> <num value="1">1</num> mas· <abbr>su</abbr> <num value="1">1</num> Iṁ sovaṁ-sovaṁ, ra<lb 
+n="1v9" break="no"/>kai halaran· pu tloḍhuṁ<!-- St. tloḍuṁ, see remarks LCD -->, 
+<!-- argr has finished checkingh the edition down to here on 2020-11-24 -->
+samagat dalman saṁ sukhapaṁgil, rakai palarhyaṁ pu puñjaṁ, maṁhuri pu cakra, paṁkur pu śivadhyāna, tavān pu sūryya, tirip pu kṛmṇa vadihati pu ḍapit, makudur
+<lb n="1v10"/>pu samvṛda, kapua inaṁsǝan pasak-pasak· vdihan raṁga <abbr>yu</abbr> 1 mas <abbr>mā</abbr> 8 iṁ sovaṁ-sovaṁ // samagat kinivaṁ makavanva ikanaṁ i poḥ sinuśuk kinivaṁ pu bnat anakvanva iṁ kavu sīma kapatihan i
+<lb n="1v11" break="no"/>naṁsǝan pasak-pasak· vdihan kalyāga <abbr>yu</abbr> 1 mas <abbr>su</abbr> 14 kbo 1 vḍus 1 pada 1 saṁ kinivaṁ anakbi pu tuṇḍuṁ kain pinilai savlaḥ mas <abbr>mā</abbr> 8 // paminaṁ i saṁ hyaṁ kudur vdihan <abbr>yu</abbr> 1 mas <abbr>mā</abbr> 4 saṁ juru i
+<lb n="1v12"/>Ayamtǝas 2 saṁ miramiraḥ pu rayuṁ anakvanuA I miramiraḥ vatak vadihati maṁraṁkappi saṁ halaran pu dhanada anakvanuA I paṁramvan sīma vadihati, saṁ juru i makudur 2 saṁ taṁkilsugiḥ pu mankai ana<lb 
+n="1v14" break="no"/>k vanuA I mantyāsiḥ vatak makudur, maṁraṁkappi saṁ maṇḍyāṁin anakvanuA I kahaṁatan vatak hamyas kapua vinaiḥ pasak-pasak· vdihan <abbr>yu</abbr> 1 mas <abbr>mā</abbr> 4 iṁ sovaṁ-sovaṁ, saṁ tuhān mamuat vuvus ka<lb 
+n="1v14" break="no"/>baiḥ parujar i hino saṁ kaṇḍamuhi pu tuṁgaṁ anakvanuA I gunuṁan vatak taṁkilan, citralaikhā saṁ vatuvarani pu manǝsǝ:r anakvanuA I tutuganniṁtaṇḍa i taṁkilan, parujarri halu saṁ vimga pu damodara anakvanuA I
+<lb n="1v15"/>paṇḍavutan vatak tirurāṇu, parujari sirikan saṁ hujuṁgaluḥ pu ayuddha anakvanuA I truvanban vatak tirurāṇu, citralekhā saṁ dharmmasinta pu samudra anakvanuA I pāstamvir, parujarri vka saṁ viridiḥ pu ḍaṇu A<lb 
+n="1v16" break="no"/>nakvanuA I skarttan vatak layuvataṁ, citralekhā saṁ halaṁmanuk pu govinda anakvanuA I vanuAtṁaḥ vatak vurusiki, parujar i tiruan saṁ sumuḍan ḍapunta katimamaṁ anakvanuA I vuṁkuḍu vatak kili<lb 
+n="1v17" break="no"/>pan, kapua vinaihan pasak-pasak· vdihan <abbr>yu</abbr> i mas <abbr>mā</abbr> 4 iṁ soaṁsoaṁ // parujarri halaran saṁ ravanu pu batu anakvanuA I hinapit vatak vka, parujarri dalinan saṁ varyyaṁ pu lakṣaṇa anakvanuA
+<lb n="1v18"/>I vvatan vatak dalinan, parujarri palarhyaṁ saṁ tumapal pu baka anakvanuA I tuṁgumanoṁan, parujarri maṁhuri saṁ ranugra pu gupura anakvanuA I hinapit vatak vka, parujarri vka saṁ dadalan pu samodaya<lb 
+n="1v19" break="no"/>nak vanuA I siṁhapura vatak halu madāṁ maṁasǝ: i mamrati, parujarri tavān saṁ dhāluk pu .. ruy anakvanuA I ralua vatak vurusiki, parujarri tirip saṁ rapaḍaṁ pu rāghū anakvanuA I yugihan vatak
 
 <pb n="2r"/>
-<lb n="2r1"/>dalinan, kapua vinaih pasakpasak vdihan yu 1 mas mā 2 iṁ sovaṁ sovaṁ // pihujuṁ ni parujar saṁ mānak katiga i paṁkur lua si raṁhal muaṁ si sañjaya, i tavān muṁgi si masusū muaṁ vvatan pai
-<lb n="2r2"/>si caṁka, i tirip panavuṁan si lakā kapua vinaiḥ pasakpasak vdihan yu 1 mas mā 1 iṁ sovaṁsovaṁ // i vadihati lumaku manuśuk si pārthava anakvanua i taṁkilan vatak mamrati, i makudu<lb 
-n="2r3"/>r lumaku manuśuk saṁṁuttara anakvanua i varakvarak vatak hino, kapua vinaiḥ pasakpasak vdihan yu 2 mā 15 kahop paṁaṁkat panuṁsuṁ muaṁ saṁu nira muliḥ iṁ sovaṁsovaṁ, vadvā rakryān mapa<lb 
-n="2r4" break="no"/>tiḥ i hino paṁuraṁ milu manuśuk saṁ marumvi pu mana anakvanua i marumvi vatak hino, paṁuraṁ i halu si naitra anakvanua i pamǝhaṁan vatak manimpiki, paṁuraṁ i sirikan rakai paṁgaṁ anakvanua
-<lb n="2r5"/>I siṁhapura vatak halu, paṁuraṁ i vka rakai sañjat anakvanua i samalagi vatak asampañjaṁ, paṁuraṁ i paṁkur saṁ dhyāna anakvanua i glaṁglaṁ vatak kalumvarak, kapua vinaiḥ pasakpasak vdihan
-<lb n="2r6"/>yu i mas mā 10 kahop pavaiḥ saṁu nira muliḥ iṁ sovaṁsovaṁ, kinon rakai vvatan humarappa ikaṁ śuśukan parujar nira si rapilaṁ anakvanua i tarumvajaṁ vatak hino vinaiḥ pasakpasak vdi<lb 
-n="2r7" break="no"/>han yu 1 mas su i mā 4 juruni maṁraṁkat i vvatan pu kaiśava anakvanua i matṁǝr patīrthan, muaṁ saṁ vluran pu dumva, kapua vinaiḥ pasakpasak vdihan bvat lvitan sahlai mas mā 8 iṁ sovaṁsovaṁ .
-<lb n="2r8"/>saṁ rataji maṁilala sukadbā i poḥ si paṁadaggan anakvanua i kahuripan vatak lunturan vinaiḥ pasakpasak vdihan yu i mas mā 8 // juruniṁ kanayakān i kinivaṁ si lagai anakvanua i
-<lb n="2r9"/>kavu kapatihan vinaiḥ pasakpasak vdihan yu 1 mas mā 4 paṁuraṁ saṁ kinivaṁ vadvā nira milua irikaṁ śuśukan prāṇa 5 si śala rama ni barubuh anakvanua ri vuaṁkalaṁ vatak kinivaṁ, muaṁ si gasyak ramani
-<lb n="2r10"/>gavaṁ anakvanua i vvaraṁ vatak talaṁ, muaṁ si saṁkhara rama ni vidyū anakvanua i kilipan vatak kilipan, muaṁ daladap anakvanua i kandaṁ vatak valakas, muaṁ si prajñā anakvanua i tamyaṁ vatak pa<lb 
-n="2r11" break="no"/>ku vaṅi, kapuA vinaihan pasakpasak vdihan yu i mas mā 2 iṁ sovaṁsovaṁ, paṁuraṁ sira kriṁ 2 si purul rama ni vudyaṁ anakvanua i tuṁguyuṁ vatak kinivaṁ, muaṁ si gunuṁ rama ni pakudān, kapua vinaiḥ
-<lb n="2r12"/>pasakpasak mas mā 2 iṁ sovaṁsovaṁ, paṁuraṁ saṁ manimpiki pu mamvi rama ni manojña anakvanua i tarumbajaṁ vinaiḥ pasak vdihan sahlai mas ku 2 // patiḥ i kinivaṁ nayaka saṁ rakavu si dṛpiṁ rama ni paṁalaḥ
-<lb n="2r13"/>muaṁ saṁ gǝgǝl rama ni tuṁgaṁ, kapua vinaiḥhan pasakpasak vdihan yu i mas mā 4 kbo i vḍus 5 patiḥ lampuran i kavu si katimahā vinaiḥ pasak vdihan yu i mas mā 4 muvaḥ patiḥ lampuran
-<lb n="2r14"/>prāṇa 3 rakai vadarā, si ralua, si lmaḥhiḍi, kapua vinaihan pasakpasak vdihan yu 1 mas mā 2 iṁ sovaṁsovaṁ, parujar niṁ patiḥ 2 si ravakan anakvanua i kilipan vatak kinivaṁ, muaṁ si vahu
-<lb n="2r15"/>gyan rama ni purul anakvanua i vinaṁun vatak kinivaṁ kapua vinaiḥ pasakpasak vdihan yu 1 mas mā 2 iṁ sovaṁsovaṁ, vahuta i kinivaṁ sira sǝaṁ si barut rama ni lucir anakvanua i sǝaṁ kavahu<lb 
-n="2r16"/>tān i kinivaṁ vinaiḥ pasakpasak vdihan yu 1 mas mā 4 kbo 1 vahuta lampuran vinaiḥ pasakpasak mā 6 kinabaihanya, pihujuṁ niṁ vahuta 2 si caṁkir anakvanua i sǝaṁ vinaiḥ vdihan
-<lb n="2r17"/>yu i mas mā 4 muvaḥ pihujuṁ niṁ vahuta si purul anakvanua i vinaṁun vatak kinivaṁ vinaiḥ pasak vdihan yu 1 mā 2 // rāma māgman i poḥ irikanaṁ vanua sinuśuk anuṁ kabayan prati
-<lb n="2r18"/>śāra i kahayvakna nikaṁ vanua i poḥ, saṁ tuha banua si gupi rama ni javil, kalima si rǝmma rama ni gaṇṭih, juru si saṇḍak rama ni libat, muvaḥ juru si virat rama ni nuṁgū, si aṁgai, si kuyū .
-<lb n="2r19"/>parujarniṁ juru si krit, patṁahan niṁ juru si sǝgǝl rama ni basava, tuha kalaṁ si suk rama ni turus, vinkas si rutut rama ni buhara, tuha guśali si tato rama ni sāgi, gusti praṇa 6 prathama
+<lb n="2r1"/>dalinan, kapua vinaih pasak-pasak· vdihan <abbr>yu</abbr> 1 mas <abbr>mā</abbr> 2 iṁ sovaṁ sovaṁ // pihujuṁni parujar saṁ mānak katiga i paṁkur lua si raṁhal muAṁ si sañjaya, i tavān muṁgi si masusū muAṁ vvatan pai
+<lb n="2r2"/>si caṁka, i tirip panavuṁan si lakā kapua vinaiḥ pasak-pasak· vdihan <abbr>yu</abbr> 1 mas <abbr>mā</abbr> 1 iṁ sovaṁ-sovaṁ // i vadihati lumaku manuśuk si pārthava anakvanuA I taṁkilan vatak mamrati, i makudu<lb 
+n="2r3"/>r lumaku manuśuk saṁṁuttara anakvanuA I varakvarak vatak hino, kapua vinaiḥ pasak-pasak· vdihan <abbr>yu</abbr> 2 <abbr>mā</abbr> 15 kahop paṁaṁkat panuṁsuṁ muAṁ saṁu nira muliḥ iṁ sovaṁ-sovaṁ, vadvā rakryān mapa<lb 
+n="2r4" break="no"/>tiḥ i hino paṁuraṁ milu manuśuk saṁ marumvi pu mana anakvanuA I marumvi vatak hino, paṁuraṁ i halu si naitra anakvanuA I pamǝhaṁan vatak manimpiki, paṁuraṁ i sirikan rakai paṁgaṁ anakvanuA
+<lb n="2r5"/>I siṁhapura vatak halu, paṁuraṁ i vka rakai sañjat anakvanuA I samalagi vatak asampañjaṁ, paṁuraṁ i paṁkur saṁ dhyāna anakvanuA I glaṁglaṁ vatak kalumvarak, kapua vinaiḥ pasak-pasak· vdihan
+<lb n="2r6"/>yu i mas <abbr>mā</abbr> 10 kahop pavaiḥ saṁu nira muliḥ iṁ sovaṁ-sovaṁ, kinon rakai vvatan humarappa ikaṁ śuśukan parujar nira si rapilaṁ anakvanuA I tarumvajaṁ vatak hino vinaiḥ pasak-pasak· vdi<lb 
+n="2r7" break="no"/>han <abbr>yu</abbr> 1 mas <abbr>su</abbr> i <abbr>mā</abbr> 4 juruni maṁraṁkat i vvatan pu kaiśava anakvanuA I matṁǝr patīrthan, muAṁ saṁ vluran pu dumva, kapua vinaiḥ pasak-pasak· vdihan bvat lvitan sahlai mas <abbr>mā</abbr> 8 iṁ sovaṁ-sovaṁ .
+<lb n="2r8"/>saṁ rataji maṁilala sukadbā i poḥ si paṁadaggan anakvanuA I kahuripan vatak lunturan vinaiḥ pasak-pasak· vdihan <abbr>yu</abbr> i mas <abbr>mā</abbr> 8 // juruniṁ kanayakān i kinivaṁ si lagai anakvanuA I
+<lb n="2r9"/>kavu kapatihan vinaiḥ pasak-pasak· vdihan <abbr>yu</abbr> 1 mas <abbr>mā</abbr> 4 paṁuraṁ saṁ kinivaṁ vadvā nira milua irikaṁ śuśukan prāṇa 5 si śala ramani barubuh anakvanuA ri vuaṁkalaṁ vatak kinivaṁ, muAṁ si gasyak ramani
+<lb n="2r10"/>gavaṁ anakvanuA I vvaraṁ vatak talaṁ, muAṁ si saṁkhara ramani vidyū anakvanuA I kilipan vatak kilipan, muAṁ daladap anakvanuA I kandaṁ vatak valakas, muAṁ si prajñā anakvanuA I tamyaṁ vatak pa<lb 
+n="2r11" break="no"/>ku vaṅi, kapuA vinaihan pasak-pasak· vdihan <abbr>yu</abbr> i mas <abbr>mā</abbr> 2 iṁ sovaṁ-sovaṁ, paṁuraṁ sira kriṁ 2 si purul ramani vudyaṁ anakvanuA I tuṁguyuṁ vatak kinivaṁ, muAṁ si gunuṁ ramani pakudān, kapua vinaiḥ
+<lb n="2r12"/>pasak-pasak· mas <abbr>mā</abbr> 2 iṁ sovaṁ-sovaṁ, paṁuraṁ saṁ manimpiki pu mamvi ramani manojña anakvanuA I tarumbajaṁ vinaiḥ pasak vdihan sahlai mas ku 2 // patiḥ i kinivaṁ nayaka saṁ rakavu si dṛpiṁ ramani paṁalaḥ
+<lb n="2r13"/>muAṁ saṁ gǝgǝl ramani tuṁgaṁ, kapua vinaiḥhan pasak-pasak· vdihan <abbr>yu</abbr> i mas <abbr>mā</abbr> 4 kbo i vḍus 5 patiḥ lampuran i kavu si katimahā vinaiḥ pasak vdihan <abbr>yu</abbr> i mas <abbr>mā</abbr> 4 muvaḥ patiḥ lampuran
+<lb n="2r14"/>prāṇa 3 rakai vadarā, si ralua, si lmaḥhiḍi, kapua vinaihan pasak-pasak· vdihan <abbr>yu</abbr> 1 mas <abbr>mā</abbr> 2 iṁ sovaṁ-sovaṁ, parujarniṁ patiḥ 2 si ravakan anakvanuA I kilipan vatak kinivaṁ, muAṁ si vahu
+<lb n="2r15"/>gyan ramani purul anakvanuA I vinaṁun vatak kinivaṁ kapua vinaiḥ pasak-pasak· vdihan <abbr>yu</abbr> 1 mas <abbr>mā</abbr> 2 iṁ sovaṁ-sovaṁ, vahuta i kinivaṁ sira sǝaṁ si barut ramani lucir anakvanuA I sǝaṁ kavahu<lb 
+n="2r16"/>tān i kinivaṁ vinaiḥ pasak-pasak· vdihan <abbr>yu</abbr> 1 mas <abbr>mā</abbr> 4 kbo 1 vahuta lampuran vinaiḥ pasak-pasak· <abbr>mā</abbr> 6 kinabaihanya, pihujuṁniṁ vahuta 2 si caṁkir anakvanuA I sǝaṁ vinaiḥ vdihan
+<lb n="2r17"/>yu i mas <abbr>mā</abbr> 4 muvaḥ pihujuṁniṁ vahuta si purul anakvanuA I vinaṁun vatak kinivaṁ vinaiḥ pasak vdihan <abbr>yu</abbr> 1 <abbr>mā</abbr> 2 // rāma māgman i poḥ irikanaṁ vanuA sinuśuk anuṁ kabayan prati
+<lb n="2r18"/>śāra i kahayvakna nikaṁ vanuA I poḥ, saṁ tuha banua si gupi ramani javil, kalima si rǝmma ramani gaṇṭih, juru si saṇḍak ramani libat, muvaḥ juru si virat ramani nuṁgū, si aṁgai, si kuyū .
+<lb n="2r19"/>parujarniṁ juru si krit, patṁahanniṁ juru si sǝgǝl ramani basava, tuha kalaṁ si suk ramani turus, vinkas si rutut ramani buhara, tuha guśali si tato ramani sāgi, gusti praṇa 6 prathama
 <pb n="2v"/>
-<lb n="2v1"/>gusti kaṇḍit rama nu buṭǝl, muvaḥ gusti si kandǝl rama ni ḍuḍuk, muvaḥ gusti si pula rama ni varuvu, muvaḥ gusti si kirim rama ni gimuḥ, muvaḥ gusti si caṁal rama ni cakaṁ, muvaḥ gusti si jamaḥ rama ni
-<lb n="2v2"/>baisus, parujar 2 si mula rama ni buddhi. muaṁ si gamana piṇḍa rāma māgman prāṇa 17 // rāma maratā i poḥ si kabya rama ni sima, si gaḍiṁ rama ni hampaluṁ, si karyyut rama ni capah, si cuṇṭǝṁ rama ni
-<lb n="2v3"/>krap, si paṇḍe rama ni hiṇḍaṁ, si taṁkiraṁ rama ni tambiluṁ, si katak rama ni pavan, si pandǝt rama ni bantǝr, si liṁir rama m vǝlǝt, si brakāra rama ni kuruḥ, si kudyal rama ni tarambal, si maṁga rama ni ga
-<lb n="2v4"/>rga, si guruntuṁ rama ni tatuk, si sādha rama ni dhūta, piṇḍa rāma maratā prāna 14 // raiṇanta si .... inaṁ ni piṁul, si tiris inaṁ ni gaṇṭiḥ, si virikan inaṁ ni javil, si jabvaḥ inaṁ ni śuddha, si limvayā
-<lb n="2v5"/>inaṁ ni kamman, si vulakan inaṁ ni gaḍiṁ, piṇḍa raiṇanta prāṇa 6 // rarāma bhumaṇa [fn. 1: De heer De Casparis leest: rarâ mabhramaṇa.] tinonton si kārigna, si dariṇī, muaṁ si rumpuk, muaṁ vǝrǝvǝrǝḥnya, si javay, si baryyut // rāma tpi siriṁ milu sākśī
-<lb n="2v6"/>riṁ manuśuk sima, kalaṁ si brita rama ni taram anakvanua iṁ pulai vatak galaṁ, tuha banva si palvak rama ni turubut anakvanua ri vtuan, vatak kinivaṁ, juru si vaṁun rama ni vira anakvanua ri dadam sīma kudur .
-<lb n="2v7"/>tuha banua si vavā rama ni gampvar anakvanua i vuaṁṁhijo vatak luvakan, juru si pyaṁ rama ni muṇḍu anakvanua iṁ sukup sīma kudur, tuha banua si (b)anya rama ni vava ri kasisap vatak kayo, tuha kalaṁ 
-<lb n="2v8"/>si niti rama ni vḍuṁ anakvanua i paskaran vatak laṁitan, tuha kalaṁ si saṁkhara 1 anakvanua i sampū sīma haji. maṁmit savaḥ haji i yaluhur 2 si ndandok rama ni hasin anakvanua i sǝaṁ vahuta ri kinivaṁ, muaṁ
-<lb n="2v9"/> ...... anakvanua i buṁur vatak kinivaṁ, piṇḍa vanua tpisiriṁ sapuluḥ vanua, piṇḍa rāma umilu sākṣi niṁ sīma prāṇa 10 kapua vinaiḥhan pasakpasak vdihan yu i mā 2 iṁ sovaṁsovaṁ // maṁ<lb 
-n="2v10" break="no"/>kanaṁ manuluppakan rāmanta vrai muaṁ kaluaṁ tinaḍaḥ saṁ vahuta hyaṁ kudur muaṁ vadvā rakryān saṁ paṁuraṁ kabaiḥ muaṁ rāmanta kabaiḥ, manulup si rapǝ:ṁ anakvanua i vaduri vatak rumviga, vinaiḥ
-<lb n="2v11"/>vdihan yu i mas mā 2 // maṁkana saṁ madāṁ. muaṁ saṁ maṁla prāṇa 3 pu vilut anakvanua i vraṁ sīma ni vihāra vaitanniṁ havān, muaṁ si janar anakvanua iṁ malio vatak vka, muaṁ si bayur
-<lb n="2v12"/>anakvanua i marhyaṁ i sīma mahārāja lumāḥ iṁ śataśṛṁga, kapua vinaiḥ pasakpasak vdihan yu 1 imas mā 2 iṁ sovaṁsovaṁ // saṁ mūlavuddha 2 huluvras ḍapunta pivvi anakvanua i ravuaṁ
-<lb n="2v13"/>vatak kinivaṁ, muaṁ si lañot rama ni mulat anakvanua i vuaṁvulu vatak luvakan kapua vinaiḥ vdihan yu 1 mas ku 2 iṁ sovaṁsovaṁ, mapaḍahi matuvuṁ si pati rama ni turavus ana<lb 
-n="2v14" break="no"/>k vanua i rapoḥ vinaiḥ vdihan yu 1 mas mā 1 ku 1 muvah mapaḍahi syuha rama ni vakul anakvanua i hināṁan vatak luvakan vinaiḥ mas ku 2 marǝgaṁ si vicar rama ni viṣama anak vanu<lb 
-n="2v15" break="no"/>A i hijo vatak luvakan vinaiḥ vdihan yu 1 mas mā 1 // matapukan 2 si mala anakvanua i savyan vatak kinivaṁ, muaṁ si parasi anakvanua i tira vatak mḍaṁ kapua vinaiḥ mas mā 1
-<lb n="2v16"/>Iṁ sovaṁsovaṁ, mabañol jurunya 2 si lugunduṁ anakvanua i rasuk vatak luvakan, muaṁ si kulika anakvanua i luṁlaṁ vatak tnǝp vinaiḥ vdihan yu 1 mas mā 6 kinabaihannya
-<lb n="2v17"/>ruAṁ juru // saji niṁ munuśuk sīma vdihan saṁ hyaṁ brahmā yu 1 mas mā 1 vdihan saṁ hyaṁ śuśuk kulumpaṁ yu 4 mas mā 4 vaduṁ 1 rimvas 1 patupatuk 1 lukai 1 tampilan 1 liṁgis 4 tataḥ i
+<lb n="2v1"/>gusti kaṇḍit rama nu buṭǝl, muvaḥ gusti si kandǝl ramani ḍuḍuk, muvaḥ gusti si pula ramani varuvu, muvaḥ gusti si kirim ramani gimuḥ, muvaḥ gusti si caṁal ramani cakaṁ, muvaḥ gusti si jamaḥ rama ni
+<lb n="2v2"/>baisus, parujar 2 si mula ramani buddhi. muAṁ si gamana piṇḍa rāma māgman prāṇa 17 // rāma maratā i poḥ si kabya ramani sima, si gaḍiṁ ramani hampaluṁ, si karyyut ramani capah, si cuṇṭǝṁ rama ni
+<lb n="2v3"/>krap, si paṇḍe ramani hiṇḍaṁ, si taṁkiraṁ ramani tambiluṁ, si katak ramani pavan, si pandǝt ramani bantǝr, si liṁir rama m vǝlǝt, si brakāra ramani kuruḥ, si kudyal ramani tarambal, si maṁga ramani ga
+<lb n="2v4"/>rga, si guruntuṁ ramani tatuk, si sādha ramani dhūta, piṇḍa rāma maratā prāna 14 // raiṇanta si .... inaṁni piṁul, si tiris inaṁni gaṇṭiḥ, si virikan inaṁni javil, si jabvaḥ inaṁni śuddha, si limvayā
+<lb n="2v5"/>inaṁni kamman, si vulakan inaṁni gaḍiṁ, piṇḍa raiṇanta prāṇa 6 // rarāma bhumaṇa [fn. 1: De heer De Casparis leest: rarâ mabhramaṇa.] tinonton si kārigna, si dariṇī, muAṁ si rumpuk, muAṁ vǝrǝvǝrǝḥnya, si javay, si baryyut // rāma tpi siriṁ milu sākśī
+<lb n="2v6"/>riṁ manuśuk sima, kalaṁ si brita ramani taram anakvanuA Iṁ pulai vatak galaṁ, tuha banva si palvak ramani turubut anakvanuA ri vtuan, vatak kinivaṁ, juru si vaṁun ramani vira anakvanuA ri dadam sīma kudur .
+<lb n="2v7"/>tuha banua si vavā ramani gampvar anakvanuA I vuaṁṁhijo vatak luvakan, juru si pyaṁ ramani muṇḍu anakvanuA Iṁ sukup sīma kudur, tuha banua si (b)anya ramani vava ri kasisap vatak kayo, tuha kalaṁ 
+<lb n="2v8"/>si niti ramani vḍuṁ anakvanuA I paskaran vatak laṁitan, tuha kalaṁ si saṁkhara 1 anakvanuA I sampū sīma haji. maṁmit savaḥ haji i yaluhur 2 si ndandok ramani hasin anakvanuA I sǝaṁ vahuta ri kinivaṁ, muAṁ
+<lb n="2v9"/> ...... anakvanuA I buṁur vatak kinivaṁ, piṇḍa vanuA tpisiriṁ sapuluḥ vanuA, piṇḍa rāma umilu sākṣiniṁ sīma prāṇa 10 kapua vinaiḥhan pasak-pasak· vdihan <abbr>yu</abbr> i <abbr>mā</abbr> 2 iṁ sovaṁ-sovaṁ // maṁ<lb 
+n="2v10" break="no"/>kanaṁ manuluppakan rāmanta vrai muAṁ kaluaṁ tinaḍaḥ saṁ vahuta hyaṁ kudur muAṁ vadvā rakryān saṁ paṁuraṁ kabaiḥ muAṁ rāmanta kabaiḥ, manulup si rapǝ:ṁ anakvanuA I vaduri vatak rumviga, vinaiḥ
+<lb n="2v11"/>vdihan <abbr>yu</abbr> i mas <abbr>mā</abbr> 2 // maṁkana saṁ madāṁ. muAṁ saṁ maṁla prāṇa 3 pu vilut anakvanuA I vraṁ sīmani vihāra vaitanniṁ havān, muAṁ si janar anakvanuA Iṁ malio vatak vka, muAṁ si bayur
+<lb n="2v12"/>anakvanuA I marhyaṁ i sīma mahārāja lumāḥ iṁ śataśṛṁga, kapua vinaiḥ pasak-pasak· vdihan <abbr>yu</abbr> 1 imas <abbr>mā</abbr> 2 iṁ sovaṁ-sovaṁ // saṁ mūlavuddha 2 huluvras ḍapunta pivvi anakvanuA I ravuaṁ
+<lb n="2v13"/>vatak kinivaṁ, muAṁ si lañot ramani mulat anakvanuA I vuaṁvulu vatak luvakan kapua vinaiḥ vdihan <abbr>yu</abbr> 1 mas ku 2 iṁ sovaṁ-sovaṁ, mapaḍahi matuvuṁ si pati ramani turavus ana<lb 
+n="2v14" break="no"/>k vanuA I rapoḥ vinaiḥ vdihan <abbr>yu</abbr> 1 mas <abbr>mā</abbr> 1 ku 1 muvah mapaḍahi syuha ramani vakul anakvanuA I hināṁan vatak luvakan vinaiḥ mas ku 2 marǝgaṁ si vicar ramani viṣama anak vanu<lb 
+n="2v15" break="no"/>A i hijo vatak luvakan vinaiḥ vdihan <abbr>yu</abbr> 1 mas <abbr>mā</abbr> 1 // matapukan 2 si mala anakvanuA I savyan vatak kinivaṁ, muAṁ si parasi anakvanuA I tira vatak mḍaṁ kapua vinaiḥ mas <abbr>mā</abbr> 1
+<lb n="2v16"/>Iṁ sovaṁ-sovaṁ, mabañol jurunya 2 si lugunduṁ anakvanuA I rasuk vatak luvakan, muAṁ si kulika anakvanuA I luṁlaṁ vatak tnǝp vinaiḥ vdihan <abbr>yu</abbr> 1 mas <abbr>mā</abbr> 6 kinabaihannya
+<lb n="2v17"/>ruAṁ juru // sajiniṁ munuśuk sīma vdihan saṁ hyaṁ brahmā <abbr>yu</abbr> 1 mas <abbr>mā</abbr> 1 vdihan saṁ hyaṁ śuśuk kulumpaṁ <abbr>yu</abbr> 4 mas <abbr>mā</abbr> 4 vaduṁ 1 rimvas 1 patupatuk 1 lukai 1 tampilan 1 liṁgis 4 tataḥ i
 <lb n="2v18"/>vaṁkyul i kris 1 kampit 1 gulumi 1 pamāse 1 dom 1 kurumbhāgi 1 kampil 1 paṁlivǝtan 1 tahas 1 padyusan 1 kavah 1 papañjutan 1 saragi inuman 1 saragi paivakan 1
 </p>
          </div>
@@ -155,19 +160,57 @@ n="2v15" break="no"/>A i hijo vatak luvakan vinaiḥ vdihan yu 1 mas mā 1 // ma
         <div type="bibliography">
 	<!--bibliography encoded as per section §9.4 -->
 	<!-- NB: you are encouraged to experiment with encoding bibliography to the extent you have the bibliographic data available, but it is not mandatory at this stage, because our bibliographic data are normally assembled along with other metadata in spreadsheets and will be imported from there into our xml files by a semi-automated process at a later stage. -->
-           <p><!-- formulate epigraphic lemma here, using the items of primary bibliography --></p>
+           <p>First edityed by W. F. Stutterheim (1940). Numerous corrigenda noted by Damais 1955</p>
+<!-- 
+2 a, ligne 2 : lire sang pârthawa.
+— h : lire sang naîtra.
+— 6 : lire sang ra pilang.
+— 8 : lire sang lagai.
+— 9 : lire sang sala et sang gasyak.
+— 10 : lire sang sangkhara et sang prajnà.
+— 1 1 : lire sang ra kring; sang purul et sang gunung.
+— i 3 : lire sang katimahà.
+— 1 à : lire sang ra lua et sang Imah hidi.
+— 1 5 : lire sang ra sěang et sang barut.
+2 b, ligne 1 i : lire sang janar et sang bayur.
+Nous proposons de plus les corrections suivantes :
+1 b, ligne a : rakryân au lieu de rakyân.
+— h : padam au lieu de padam.
+— 5 : pamrarsi au lieu de pamrasi.
+— 1 6 : skar ttân au lieu de skarttan.
+— 19 : dâluk au lieu de dhâluk.
+на, — 7 : mangrakat au lieu de mangrangkat.
+~ 19 : sxsuk (= si isuk) au lieu de si suk.
+ai, — 1 : ramani butel au lieu de rama nu buteî.
+— 3 : si prakâra au lieu de si brakâra.
+— h : inangni suddhâ au lieu de inangni suddha.
+— 5 : si wulatan au lieu de si wulakan.
+— 5 : bhûmana au lieu de bhumana.
+— 7 : si wapra au îieu de si wawâ.
+— 7 : si kanyâ au lieu de et (b)anyâ.
+— i3 : si patang au lieu de sipati.
+— lu: syusâ (= si usa) au lieu de syuha.
+— 1 â : si bicar au lieu de si voicar.
+— 18 : pamâjha au lieu de pamâse (cf. EEI, III : go, note 1). Dans cette variété
+d'écriture, le ma et le sa sont presque identiques. Aussi il faut, à la ligne 9 de ib, évidemment lire pu
+krsna, bien que, paléographiquement, krmna soit défendable
+ -->
         	<listBibl type="primary">
-				<bibl n="siglum"/><!-- one <bibl/> per item of primary bibliography. Every entry mentionned in apparatus  should hava a @n to declare its sigla -->
-			</listBibl>
+		<bibl n="S">W.F. Stutterheim, INI I, 1940, 3-18 [text, plates]</bibl>
+	</listBibl>
            <listBibl type="secondary">
               <bibl/><!-- one <bibl/> per item of secondary bibliography -->
+<bibl>L.-Ch. Damais, « Extrait des rapports sur les conférences Langues et civilisation indonésiennes », EPHE, IVe section (sciences historiques et philologiques), Annuaire 1965/66 (Paris 1965), 413-422.</bibl>
            </listBibl>
         </div>
       </body>
   </text>
 </TEI>
 <!-- 
-
+Rujukan: Sarkar, CIJ II, 1972: 51-52 (tk+tj ing); Damais, BEFEO, 47(1), 1955: 42-45 (tk); Damais, BEFEO, 46(1), 1952: 46-7; Stutterheim, INI, 1940: 3-28 (tk + F); OV, 1939: 19, 21.
+Rujukan: Foto OD no. 14439-53. 
+-->
+<!-- 
 OORKONDE VAN BALITUNG UIT 905 A.D. (RANDOESARI I)
 door DR. W. F. STUTTERHEIM.
 
@@ -319,7 +362,7 @@ Uit het bovenstaande kunnen wij nog een verdere gevolgtrekking maken.
 	Wijders wil ik in het voorbijgaan nog wijzen op het voorkomen van een pu tloḍung als rakai halaran; kan dit, zoo vraag ik mij af, de van 919-921 regeerende latere koning Tuloḍong zijn ? Die is dan echter Raka van Layang en niet Raka van Halaran.
 	Sprekende van ambtenaren zou ik hier nadere aandacht willen wijden aan de autoriteiten, ambtenaren, beambten, burgers enz., die iets met de stichting te maken hadden en wier titel en naam werden vereeuwigd tezamen met het geschenk, dat hij of zij bij die gelegenheid in ontvangst nam.
 	In de eerste plaats de geschenken zelf. Het zijn kleeren, goud, buffels, schapen, rijst en sangu (mondkost).
-	De kleeren zijn, zooals wij boven reeds zagen, voor mannen de wdihan (thans: bǝbǝd), voor vrouwen de kain (thans: tapih). Eenig verder verschil heeft er echter toch nog bestaan, daar de wdihan's bijna zonder uitzondering in stellen (yu = yuga, span, stel van twee) werden gegeven, de kain's bij hlai (= vel) of wlah (= kant). Nu weten wij dat men vroeger ook een bovenkleed heeft gekend, de Indische uttarīya, dat meestal als een gevouwen sléṇḍang om de schouders werd gedragen en aldus in India nog immer gedragen wordt. Ik vermoed dus, dat met yu een stel van beneden- en bovenkleed werd bedoeld, doch ik begrijp dan niet goed, waarom de vrouwen het met slechts één kleed moesten stellen. Uit het huidig gebruik in India zoowel als uit de godenbeeldjes blijkt, dat men ook voor vrouwen een beneden- en bovenkleed heeft gekend. Opgemerkt moet echter worden, dat de reliefs zulk een opgevouwen bovenkleed bij vrouwen gemeenlijk niet toonen.
+	De kleeren zijn, zooals wij boven reeds zagen, voor mannen de wdihan (thans: bǝbǝd), voor vrouwen de kain (thans: tapih). Eenig verder verschil heeft er echter toch nog bestaan, daar de wdihan's bijna zonder uitzondering in stellen (yu = yuga, span, stel van twee) werden gegeven, de kain's bij hlai (= vel) of wlah (= kant). Nu weten wij dat men vroeger ook een bovenkleed heeft gekend, de Indische uttarīya, dat meestal als een gevouwen sléṇḍang om de schouders werd gedragen en aldus in India nog immer gedragen wordt. Ik vermoed dus, dat met <abbr>yu</abbr> een stel van beneden- en bovenkleed werd bedoeld, doch ik begrijp dan niet goed, waarom de vrouwen het met slechts één kleed moesten stellen. Uit het huidig gebruik in India zoowel als uit de godenbeeldjes blijkt, dat men ook voor vrouwen een beneden- en bovenkleed heeft gekend. Opgemerkt moet echter worden, dat de reliefs zulk een opgevouwen bovenkleed bij vrouwen gemeenlijk niet toonen.
 	Er wordt voorts nog een duidelijk verschil gemaakt tusschen enkele soorten van wdihan's. De gewone noemt men wdihan zonder meer, doch de koning krijgt een wdihan jaro.
  
 [17]
@@ -327,9 +370,9 @@ Uit het bovenstaande kunnen wij nog een verdere gevolgtrekking maken.
 Wil dit zeggen ,,vorstelijke kain" en moeten wij lezen jero, zooveel als dalǝm? Of moeten wij denken aan de djaro's van pagǝr's en ramen, dus aan ,,stijlen" ? Dan zou het op een versieringsmotief kunnen slaan. De grootmoeder van den koning krijgt natuurlijk ook een kain jaro.
 	Een soort minder is de wdihan kalyāga, die aan den Rijksbestuurder, de vier hoogste raka's en samagat's geschonken wordt. Deze soort zou rood geweest zijn. Dan komt de wdihan rangga voor de negen lagere raka's en pamagafs, wat zooveel als ,,gekleurde kain" zou beteekenen. Dan is er nog een wdihan van lwitan-stof, welke stof ik niet ken, en tenslotte een kain pinilai, wat eveneens een mij onbekende soort is.
 	Overbodig er hier op te wijzen, dat de toekenning van bepaalde kain-soorten aan bepaalde personen niet willekeurig was en ook niet alleen met de kostbaarheid samenhing; bepaalde patronen behoorden bij bepaalde ambtenaren en titels.
-	Wat het geschonken goud betreft, zoo wordt dat op de gebruikelijke wijze aangeduid met de afkortingen su (= suwarṇa), mā (= māṣa) en ku (= kupang). Hun onderlinge verhouding staat vrijwel vast en kan als volgt worden uitgedrukt; 1 suwarṇa (= 1 tahil) = 16 mā = 64 ku [fn. 1: Deze verhouding geldt voor den Archipel en berust op de volgende plaatsen: v.d.T. sub vocibus tahil; mas (bug. ama = 1/16 tahil); kupang (bug. 4 upang = 1 mas) en Groeneveldt, Notes, p. 52. De Voor-Indische systemen (zie Barnett, Antiquities of India, p. 206 vlgg.) geven echter een verhouding: 1 suwarṇa = 16 māṣa = 80 raktikā's. De suwarṇa wordt daar dus niet in 64 kupang's doch in 80 raktikā's verdeeld.]). Hun waarde is uiteraard niet nauwkeurig te bepalen, ook al nemen wij aan, dat de waarde, welke in den Compagniestijd aan koepang, tahil enz. gehecht werd, overeenkwam met die uit 905 A.D.
+	Wat het geschonken goud betreft, zoo wordt dat op de gebruikelijke wijze aangeduid met de afkortingen <abbr>su</abbr> (= suwarṇa), <abbr>mā</abbr> (= māṣa) en ku (= kupang). Hun onderlinge verhouding staat vrijwel vast en kan als volgt worden uitgedrukt; 1 suwarṇa (= 1 tahil) = 16 <abbr>mā</abbr> = 64 ku [fn. 1: Deze verhouding geldt voor den Archipel en berust op de volgende plaatsen: v.d.T. sub vocibus tahil; mas (bug. ama = 1/16 tahil); kupang (bug. 4 upang = 1 mas) en Groeneveldt, Notes, p. 52. De Voor-Indische systemen (zie Barnett, Antiquities of India, p. 206 vlgg.) geven echter een verhouding: 1 suwarṇa = 16 māṣa = 80 raktikā's. De suwarṇa wordt daar dus niet in 64 kupang's doch in 80 raktikā's verdeeld.]). Hun waarde is uiteraard niet nauwkeurig te bepalen, ook al nemen wij aan, dat de waarde, welke in den Compagniestijd aan koepang, tahil enz. gehecht werd, overeenkwam met die uit 905 A.D.
 	Gaan wij uit van 1 tahil = 1/16 kati, dan worden de verschillende gewichten aldus: suwarṇa = 0.038601 kg, māṣa = 0.002412 kg, kupang = 0.000603 kg. Hierbij valt het op, dat het gewicht van een māṣa zeer dicht gelegen is bij het gemiddelde der te Gianjar opgegraven gouden muntjes, waarvan het lichtste 0.002145 kg, het zwaarste 0.002525 kg woog [fn. 2: O.V. 1929, p. 72.]. De bij Barnett en Monier Williams opgegeven bedragen kloppen hier niet mede en leiden tot geheel andere resultaten.
-	Het totaal gewicht der goudgeschenken (su 30, mā 356, ku 19) zou dan hebben bedragen 2.028159 kg aan goud.
+	Het totaal gewicht der goudgeschenken (su 30, <abbr>mā</abbr> 356, ku 19) zou dan hebben bedragen 2.028159 kg aan goud.
 	Dan komen de buffels (kbo), waarvan er totaal 4, en de schapen (wḍus), waarvan er 11 worden weggegeven. Vervolgens wordt nog gesproken van 1 pada, wat ik op grond van het voorkomen van dit woord in andere oorkonden opvat als een maat voor bras, gepelde rijst, en 7 porties sangu, leeftocht, alsmede enkele niet nader gespecificeerde tractaties bij vertrek en aankomst der genoodigden.
 Het totaal der geschenken wordt dan: 187 enkele stuks kain, 2.023 kg aan goud, 4 buffels, 11 schapen, rijst en sangoe. En dit alles op te brengen door een paar dorpen in het Prambanansche ! Men behoeft zich niet af te vragen of de vrijmaking van de vorstelijke belastingen ook iets waard was.
 	Thans dan de autoriteiten, die bovengenoemde geschenken in ontvangst hadden te nemen.
@@ -374,7 +417,7 @@ Het totaal der geschenken wordt dan: 187 enkele stuks kain, 2.023 kg aan goud, 4
 [21]
 
 	Achter elken term van onderstaande opsomming der saji's wordt aangegeven waar deze voorkomt, waarbij de letter A staat voor de oorkonde uit 879, B voor die uit 879, C voor 883, D voor 901, E voor 902, F voor 905 en G voor de ongedateerde.
-	In de eerste plaats dan de omschrijving van de lijst, zooals deze in de oorkonden gegeven wordt: saji sang hyang watu kulumpang (A), saji ning watu pinakasīma (B), saji ning manusuk sīma (EF), saji ni manusuk (G), terwijl C geen eigenlijke opsomming geeft en spreekt van pinakawalang halu en D midden in een zin begint met kulumpang (een voorafgaande plaat ontbreekt). Uit deze omschrijvingen blijkt, dat men sprak van saji voor ,,den heiligen steen voor het rijststampen" (watu kulumpang), voor ,,den steen, die beschouwd wordt als (de belichaming van) het gebied" en voor ,,het afbakenen" (van het gebied). Aan een verklaring van den term walang halu zal ik mij hier niet wagen; ik volsta met te verwijzen naar de beschouwingen, welke Bosch aan den term halu in verband met watu tihang heeft gewijd[fn. 1: Zie O.V. 1925 p. 46.]. Waarschijnlijk wordt met de geheele uitdrukking niet de steen zelf bedoeld, doch de ambtenaar. Mogen wij dus in de gevallen E, F en G inderdaad voorshands spreken van ,,benoodigdheden", zulks kan in ieder geval niet geschieden in de gevallen A en B. Daar kan de beteekenis wel nauwelijks een andere zijn dan „offergaven".
+	In de eerste plaats dan de omschrijving van de lijst, zooals deze in de oorkonden gegeven wordt: saji sang hyang watu kulumpang (A), saji ning watu pinakasīma (B), saji ning manusuk sīma (EF), sajini manusuk (G), terwijl C geen eigenlijke opsomming geeft en spreekt van pinakawalang halu en D midden in een zin begint met kulumpang (een voorafgaande plaat ontbreekt). Uit deze omschrijvingen blijkt, dat men sprak van saji voor ,,den heiligen steen voor het rijststampen" (watu kulumpang), voor ,,den steen, die beschouwd wordt als (de belichaming van) het gebied" en voor ,,het afbakenen" (van het gebied). Aan een verklaring van den term walang halu zal ik mij hier niet wagen; ik volsta met te verwijzen naar de beschouwingen, welke Bosch aan den term halu in verband met watu tihang heeft gewijd[fn. 1: Zie O.V. 1925 p. 46.]. Waarschijnlijk wordt met de geheele uitdrukking niet de steen zelf bedoeld, doch de ambtenaar. Mogen wij dus in de gevallen E, F en G inderdaad voorshands spreken van ,,benoodigdheden", zulks kan in ieder geval niet geschieden in de gevallen A en B. Daar kan de beteekenis wel nauwelijks een andere zijn dan „offergaven".
 	Thans dan de namen dier offergaven, uit de bovengenoemde oorkonden tot één reeks samengesteld:
 	
 wdihan (zonder nadere aanduiding in ACDEF) of wdihan rangga (B) of wdihan ragi (G). Dus bǝbǝd's, al dan niet gekleurd (rangga = kleur) of van een patroon (ragi) voorzien. In stellen (yu = yuga). Aantallen: 1, 4 of 5.
@@ -414,7 +457,7 @@ padyūsan (DF), waschbekken. 1.
 padamaran (ABEG), lampje van koper (Bali: voor den pedanda). 1.
 karantiga (D), kaars. 1.
 papañjutan (F), lamp (= padamaran). 1.
-tahas (EFG, alwaar foutief tahap), schaal, talam. 1. Deze beteekenis blijkt onmiskenbaar uit het korte opschrift op den buitenkant van den rand van een talam (archaeologische verzameling Kon. Bat. Gen. no. 6893) van het Midden-Javaansche type (met naar buiten omgebogen opstaanden rand). Dit opschrift luidt: // tahas ni kuwuk (t. van Koewoek). Hiermede is dus de origineele naam vastgesteld van de bronzen borden, welke gemeenlijk met den naam talam worden aangeduid[fn. 1:  Zie Djawa 1937 p. 37, alwaar de juistheid van den naam talam in twijfel werd getrokken, en Jaarboek 1940 : 88.].
+tahas (EFG, alwaar foutief tahap), schaal, talam. 1. Deze beteekenis blijkt onmiskenbaar uit het korte opschrift op den buitenkant van den rand van een talam (archaeologische verzameling Kon. Bat. Gen. no. 6893) van het Midden-Javaansche type (met naar buiten omgebogen opstaanden rand). Dit opschrift luidt: // tahasni kuwuk (t. van Koewoek). Hiermede is dus de origineele naam vastgesteld van de bronzen borden, welke gemeenlijk met den naam talam worden aangeduid[fn. 1:  Zie Djawa 1937 p. 37, alwaar de juistheid van den naam talam in twijfel werd getrokken, en Jaarboek 1940 : 88.].
 saragi pewakan (paiwakan) (DF), visch-(vleesch-)gereedschap. 1 of 2.
 saragi pangangan (lees: panganan4?) (EG), eetgereedschap. 1.
 saragi inuman (F), drinkgereedschap. 1.
@@ -438,7 +481,7 @@ hapū salimas (D), één limas (bakje?) kalk.
 hawu salimas (D), één limas asch.
 panginangan (D), sirih-pruim, d.w.z. de ingredienten tezamen. 1. 
 argha (EG), voetwaschwater. 5.
-pasilih (G), p. galuh (E), wisselkleeren, van het patroon galuh? yu 1.
+pasilih (G), p. galuh (E), wisselkleeren, van het patroon galuh? <abbr>yu</abbr> 1.
 gandha (G), reukwerk.
 gandhalepa (E), reukzalf.
 kamwang (E), bloemen, voor het offer.
@@ -484,7 +527,7 @@ Batavia, November 1939.
 
 Bijlage 1.
 
-Alphahetische lijst van in de oorkonde van Balitung uit 905 A.D. voorkomende, met si, sang of rama ni ingeleide eigennamen[fn. 1: z beteekent, dat de naam voorkomt achter rama ni, dus die van een zoon (of dochter?) is. De met sang ingeleide namen zijn cursief gedrukt. De met sang ingeleide plaatsnamen zijn niet opgenomen.].
+Alphahetische lijst van in de oorkonde van Balitung uit 905 A.D. voorkomende, met si, sang of ramani ingeleide eigennamen[fn. 1: z beteekent, dat de naam voorkomt achter rama ni, dus die van een zoon (of dochter?) is. De met sang ingeleide namen zijn cursief gedrukt. De met sang ingeleide plaatsnamen zijn niet opgenomen.].
 
 anggal
 baisus z
