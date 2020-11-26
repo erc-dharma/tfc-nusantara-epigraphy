@@ -88,7 +88,7 @@
             <listApp>
                 <app loc="1">
                     <lem><unclear>ṅa</unclear>rana</lem>
-                    <rdg source="HasanDjafar1994_01">purana</rdg>
+                    <rdg source="bib:HasanDjafar1994_01">purana</rdg>
                     <note>The sign read as <foreign>pu</foreign> by HD is quite faded, but resembles much more closely the <foreign>ṅa</foreign> in line 8. Moreover, the vocalization <foreign>u</foreign> below the aksara to the left (<foreign>tu</foreign>) is perfectly clear, so it is very hard to suppose the presence of another such vocalization which would be totally invisible right next to it.</note>
                 </app>
                 <app loc="1-2">
@@ -100,36 +100,36 @@
                 </app>
                 <app loc="5-6">
                     <lem><choice><orig>ṅaha<lb n="6" break="no"/>lipukən</orig><reg>ṅahalimpukən</reg></choice></lem>
-                    <rdg source="HasanDjafar1994_01">ṅaha<gap reason="lost" extent="unknown" unit="chars"></gap>lipukən</rdg>
+                    <rdg source="bib:HasanDjafar1994_01">ṅaha<gap reason="lost" extent="unknown" unit="chars"></gap>lipukən</rdg>
                     <note>See the preceding note. Hasan Djafar presume some gap between <foreign>ṅaha</foreign> and <foreign>lipukən</foreign>, which in our opinion we are dealing with single word broken by the mear transition to a new line.</note>
                 </app>
                 <app loc="7">
                     <lem>ñuruḥ</lem>
-                    <rdg source="HasanDjafar1994_01">ñaraḥ</rdg>
+                    <rdg source="bib:HasanDjafar1994_01">ñaraḥ</rdg>
                     <note>Even though the verb <foreign>ñuruḥ</foreign> does not occure in MdS, we find the nominal derivation <foreign>pañuruhan</foreign> in OSd, namely in SSK.6.</note>
                 </app>
                 <app loc="7-8"> 
                     <lem><unclear>di</unclear>si suk·laja<unclear>t</unclear>i</lem>
-                    <rdg source="HasanDjafar1994_01">dv isi suk· laja<gap reason="lost" extent="unknown" unit="chars"/>i </rdg>
+                    <rdg source="bib:HasanDjafar1994_01">dv isi suk· laja<gap reason="lost" extent="unknown" unit="chars"/>i </rdg>
                     <note>There indeed seems to be some element below the <foreign>akṣara</foreign> di (cf. Hasan Djafar’s <foreign>dv</foreign>), but in our opinion it is most likely to be accidental.</note>
                 </app>
                 <app loc="8">
                     <lem>ṅaR̥buḥkən·</lem>
-                    <rdg source="HasanDjafar1994_01">ṅaRbaḥkən</rdg>
+                    <rdg source="bib:HasanDjafar1994_01">ṅaRbaḥkən</rdg>
                     <note>There is clearly a vocalisation <foreign>u</foreign> in the stone.</note>
                 </app>
                 <app loc="8-9">
                     <lem>kayu</lem>
-                    <rdg source="HasanDjafar1994_01">ka<gap reason="lost" extent="unknown" unit="chars"/>su</rdg>
+                    <rdg source="bib:HasanDjafar1994_01">ka<gap reason="lost" extent="unknown" unit="chars"/>su</rdg>
                 </app>
                 <app loc="9">
                 <lem>ṅalaAn</lem>
-                <rdg source="HasanDjafar1994_01">ṅalasan</rdg>
+                <rdg source="bib:HasanDjafar1994_01">ṅalasan</rdg>
                     <note>It more likely to read as <foreign>A</foreign> because its quite diferent with <foreign>sa</foreign> as sugested by Hasan Djafar (cf. <foreign>saṅ disi</foreign> in the same line). This <foreign>A</foreign> is quite similar with Linggawangi inscription.</note>
                 </app>
                 <app loc="10–11">
                     <lem>mipat<unclear cert="high">i</unclear>kən·</lem>
-                    <rdg source="HasanDjafar1994_01">mipatā<gap reason="lost" extent="unknown" unit="chars"/>Iś·</rdg>
+                    <rdg source="bib:HasanDjafar1994_01">mipatā<gap reason="lost" extent="unknown" unit="chars"/>Iś·</rdg>
                 </app>
             </listApp>  
             </div>            

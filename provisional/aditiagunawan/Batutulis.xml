@@ -81,7 +81,7 @@
          <lb n="3"/>baduga maharaja, ratu ha<unclear cert="low">j</unclear>i ḍi pakvan· pajajaran· sri sa<unclear>ṁ</unclear> ratu ḍe<lb 
 	n="4" break="no"/>vata pun·</p> <p>ya nu ñusuk· na pakvan· ḍyə Anak· rahyi ḍeva nis·<lb 
 	n="5" break="no"/>kala, sa siḍa mok·ta ḍi gunuṁ tiga, <choice><orig>qəcu</orig><reg>qəñ·cu</reg></choice><!-- Arlo: do you find this c clearer than that at the beginning of line 6? --> rahyiṁ <unclear>n</unclear>is·kala vas·tu
-        <lb n="6"/><choice><orig>kaca:na</orig><reg>kañcana</reg></choice><!-- Arlo: actually the c seems quite clear to me; the length mark is of course unexpected, but it seems clear enough; I suppose we should here to normalize the c to ñc as in the case of qəñcu -->, saṁ siḍa mok·ta ka nusa laraṁ,</p> 
+        <lb n="6"/>ka<choice><orig>ca:</orig><reg>ñca</reg></choice>na<!-- Arlo: actually the c seems quite clear to me; the length mark is of course unexpected, but it seems clear enough; I suppose we should here to normalize the c to ñc as in the case of qəñcu -->, saṁ siḍa mok·ta ka nusa laraṁ,</p> 
                 <p>ya syi nu <unclear>ñ</unclear>yin· sakaka<lb 
 	n="7" break="no"/>la, gugun<unclear>uṅ</unclear>an·, <unclear>ṅa</unclear>balay·,, ñyin· samiḍa, ñyin· saṁ hyi talaga <supplied reason="lost" evidence="paralel">va</supplied><lb 
 	n="8" break="no"/>R̥na mahavijaya,</p> <p>ya s<supplied reason="lost">yi pun·</supplied>,,</p> <p><g type="symbol" subtype="tennisball"/><g type="symbol" subtype="tennisball"/> I saka, pañca pan·ḍa<lb 
@@ -92,17 +92,17 @@
                 <listApp>
                     <app loc="1">
                       	<lem>vaṁ<unclear cert="low">ṅa</unclear> <unclear>p</unclear>un·</lem>
-		<rdg source="HasanDjafar2011_01">vaṁ na pun</rdg>
+		<rdg source="bib:HasanDjafar2011_01">vaṁ na pun</rdg>
 		<note>On the shape of <foreign>ṅa</foreign>, see <foreign>ṅabalay</foreign> in l. 7.</note><!-- Arlo: but in line 7, we also have <unclear>ṅa</unclear>balay·!!! -->
                     </app>
                     <app loc="2">
                   	<lem>ḍy<choice><sic>i</sic><corr>ǝ</corr></choice>, viṅaran·</lem>
-		<rdg source="HasanDjafar2011_01">diya viṅaran</rdg>
+		<rdg source="bib:HasanDjafar2011_01">diya viṅaran</rdg>
 		<note>A punctuation sign is clearly discernible between <foreign>ḍyi</foreign> and <foreign>viṅaran</foreign> on the estampage. Hasan Djafar suggests emending <foreign>viṅaran</foreign> to <foreign>diṅaran</foreign>.</note>
                     </app>
                     <app loc="2">
                        	<lem>p<choice><sic>ra</sic><corr>u</corr></choice>n·</lem>
-		<rdg source="HasanDjafar2011_01">prana</rdg>
+		<rdg source="bib:HasanDjafar2011_01">prana</rdg>
 		<note>Hasan Djafar's reading seems impossible to us, for there is unmistakably a sign between the <foreign>n</foreign> and the following <foreign>ḍi</foreign>, and this sign can only be a paten or punctuation. We feel compelled to emend because no word <foreign>pran</foreign> seems to exist in Sundanese or Javanese.<!-- Arlo: this argument only works against the reading pran· with paten; but  what about the possibility, explicitly mentioned in the preceding sentence, that that sign in question is a ","? --></note>
 
                     </app>
@@ -112,36 +112,36 @@
                     </app>
                     <app loc="4">
                                     <lem>ñusuk· na</lem>
-                                    <rdg source="HasanDjafar2011_01">ñusuk·na</rdg>
-                                    <note>All predecessors have by their non-insertion of a space between <foreign>ñusuk</foreign> and <foreign>na</foreign> implied that <foreign>na</foreign> is a pronominal clitic, but it seems more convincing to take it as article <foreign xml:lang="x-oldsun-Latn">na</foreign> (<bibl><ptr target="Hardjadibrata2003_01"/><citedRange>547</citedRange></bibl>).<!-- Arlo: In general, I think we must assume readers share with us a basic understanding of Old Sundanese grammar and lexicon, so that a dictionary reference for such a frequently occurring word as na can be considered superfluous. If we do want to support our choice with a referencem is there not a page in N&T's book, that would be a more pertinent specifically to the interpretation of OS texts? --></note>
+                                    <rdg source="bib:HasanDjafar2011_01">ñusuk·na</rdg>
+                                    <note>All predecessors have by their non-insertion of a space between <foreign>ñusuk</foreign> and <foreign>na</foreign> implied that <foreign>na</foreign> is a pronominal clitic, but it seems more convincing to take it as article <foreign xml:lang="x-oldsun-Latn">na</foreign> (<bibl><ptr target="bib:Hardjadibrata2003_01"/><citedRange>547</citedRange></bibl>).<!-- Arlo: In general, I think we must assume readers share with us a basic understanding of Old Sundanese grammar and lexicon, so that a dictionary reference for such a frequently occurring word as na can be considered superfluous. If we do want to support our choice with a referencem is there not a page in N&T's book, that would be a more pertinent specifically to the interpretation of OS texts? --></note>
                     </app>
                     <app loc="4">
                                     <lem>rahyi</lem>
-                                    <rdg source="HasanDjafar2011_01">rahiyaṁ</rdg> 
+                                    <rdg source="bib:HasanDjafar2011_01">rahiyaṁ</rdg> 
                                     <note>We do not see the <foreign>anusvāra</foreign>/<foreign>cecak</foreign>.</note>
                     </app>
                     <app loc="5">
                                     <lem>sa siḍa</lem>
-                                    <rdg source="HasanDjafar2011_01">saṁ sida</rdg> 
+                                    <rdg source="bib:HasanDjafar2011_01">saṁ sida</rdg> 
                                     <note>Hasan Djafar explains that the <foreign>anusvāra</foreign>/<foreign>cecak</foreign> is present although hard to read. We are inclined to assume that it is absent. Cf. the cases of <foreign>sa ratu</foreign> and <foreign>rahyi</foreign> for <foreign>saṁ ratu</foreign> and <foreign>rahyiṁ</foreign> (= <foreign>rahiyaṁ</foreign>) above.</note><!-- Arlo: in all such cases, our edition(s) may want to make explicit how the words are to be normalized. See my comment just added to EG 6.1. -->
                     </app>
                     <app loc="5">
                                     <lem>mok·ta</lem>
-                                    <rdg source="HasanDjafar2011_01">mok·ta</rdg>
+                                    <rdg source="bib:HasanDjafar2011_01">mok·ta</rdg>
                                     <note>We find a special <foreign>ka</foreign> with stroke underline that represents <foreign>paten</foreign>.</note>
                     </app>
                     <app loc="5">
                                     <lem>gunuṁ</lem>
-                                    <rdg source="HasanDjafar2011_01">guna</rdg>
-                                    <note>There can be no doubt about our reading. See the toponym Gunuṅ Tiga in the <title>Fragment of Carita Parahyaṅan</title> (4b.4) as cited by Pleyte (<bibl rend="omitname"><ptr target="Pleyte1911_01"/><citedRange>176</citedRange></bibl>): <foreign>gunuṅ tiga hulu alas utama jaṅkar</foreign>.<!-- Arlo: is there a reliable edition of CP that we could refer to in addition to the Pleyte reference? Or at least you can give a precise textual reference in the same way that you cite CP under  <app loc="6">--></note>
+                                    <rdg source="bib:HasanDjafar2011_01">guna</rdg>
+                                    <note>There can be no doubt about our reading. See the toponym Gunuṅ Tiga in the <title>Fragment of Carita Parahyaṅan</title> (4b.4) as cited by Pleyte (<bibl rend="omitname"><ptr target="bib:Pleyte1911_01"/><citedRange>176</citedRange></bibl>): <foreign>gunuṅ tiga hulu alas utama jaṅkar</foreign>.<!-- Arlo: is there a reliable edition of CP that we could refer to in addition to the Pleyte reference? Or at least you can give a precise textual reference in the same way that you cite CP under  <app loc="6">--></note>
                     </app>
                     <app loc="5">
                                     <lem><choice><orig>qəcu</orig><reg>qəñcu</reg></choice></lem><!-- case: add nasal ñ --><!-- Arlo: see my comment above. Let's await Dan's reponse to my comment in EG 6.1. -->
-                                    <rdg source="HasanDjafar2011_01">I<supplied reason="omitted">ñ·</supplied>cu</rdg>
+                                    <rdg source="bib:HasanDjafar2011_01">I<supplied reason="omitted">ñ·</supplied>cu</rdg>
                     </app>
                     <app loc="5">
                                     <lem><unclear>n</unclear>is·kala</lem>
-                                    <rdg source="HasanDjafar2011_01">nis·kala</rdg>
+                                    <rdg source="bib:HasanDjafar2011_01">nis·kala</rdg>
                                     <note>The first consonant is very hard to read as <foreign>n</foreign>, but that is what is must be.</note>
                     </app>
                     <app loc="6">
