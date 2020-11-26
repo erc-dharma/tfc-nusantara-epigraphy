@@ -1,0 +1,100 @@
+%! program = pdflatex
+
+\documentclass[12pt]{article}
+\usepackage{ucs}
+\usepackage[utf8x]{inputenc}
+\usepackage{prasasti-indonesia}
+\usepackage[en]{metre}
+
+\frenchspacing
+
+\title{The inscription <foreign>Wanua Tengah III}}
+\author{Arlo Griffiths}
+\date{\small \today}
+
+\begin{document}
+\maketitle
+
+\subsection*{Introduction}
+
+Sukarto K. Atmodjo, “Prasasti Sipater dan prasasti Wangkud”, Rapat Evalusasi Hasil Penelitian Arkeologi II, 1985: 229–240, observations concerning provenance on p.~230:
+
+\begin{quote}
+Temuan prasasti yang sangat penting akhir-akhir ini dipandang dari segi Epigrafi dan Sejarah Indonesia Kuno, yaitu temuan dua lembar lempengan tembaga di Dukuh Dunglo, Desa Gandulan, Kecamatan Kaloran (Kabupaten Temanggung).
+\end{quote}
+
+\red{}
+In n.~19 (p.~237), Sukarto explains that Kusen was the first to decipher the inscription; that Sukarto produced a corrected reading at the request of the Suaka Sejarah dan Purbakala Prambanan, before he came to see Boechari's reading. It seems that Sukarto never published nor circulated his own reading.
+
+%Bibliography:
+%Trigangga, BA (Y), 1994 (khusus): 22, 23-25 (T sebagian), 26; Kusen, BA (Y), 1994 (khusus): 82-94; Dwiyanto, PIA IV, 1986: 92-110; Kusen, Kompas 06/05/1984: 10; Boechari, several paper collected in 2012; Wisseman Christie; Sundberg.
+
+\subsubsection*{Constitution of the text}
+The text presented below was constituted in the following manner. The transliteration contained in the unpublished typescript entitled ``Transkripsi sementara prasasti Wanua Tṅah III'' (ca.\ 1983), left by Prof.\ Boechari (B), was entered into a computer file. This transliteration was then checked against the original by inspection of the two bronze plates bearing inventory numbers 1118 and 1119 at BPPP Prambanan on 19--21 January 2010, and later checked again against photographs taken in Prambanan. Variant readings of Boechari were duly noted, and at a later stage variant readings from another transliteration, prepared by Kusen (K),\footnote{Contained in his <foreign>Faktor-faktor penyebab terjadinya perubahan status sawah di Wanua Tengah dalam masa pemerintahan raja-raja Mataram kuno abad 8-10</foreign>, Laporan Penelitian, Fakultas Sastra Universitas Gadjah Mada, Yogyakarta 1988--89, p.~15-25.} were also incorporated. It appears that Kusen's transliteration is for faces 1b and most of 2a based on Boechari's, with some normalization and adaptation of punctuation, but it starts to diverge quite strongly, with numerous generally inferior readings, from about l. 2a22 onwards.\par
+
+\subsubsection*{Editorial conventions and symbols}
+The text of the inscriptions is divided into paragraphs. Line numbers of the original plates are printed in parentheses and in bold face. Sanskrit stanza numbers are printed in roman numerals. The edition further makes use of the following editorial symbols and conventions:\footnote{The transliteration conventions, except for that of the lowest level punctuation sign, have been explained in the file \texttt{transliterasi.pdf}.}
+
+\begin{convlist}
+%\item['a etc.\hfill] denote akṣara <foreign>a</foreign> etc.
+%\item[\virama\hfill] denotes virāma/paten.
+\item[(...)\hfill] surround graphic elements whose identification is visually uncertain. (<foreign>a/o</foreign>), e.g., represents an element that could be read both as <foreign>a</foreign> or as <foreign>o</foreign>.
+%\item[{[...]}\hfill] In the case of the inscription Ratu Baka F, these brackets surround those sequences of akṣaras that must have been present on the portion of the stone that is now lost, and <foreign>italic</foreign> akṣaras within these brackets are diagnostic restitutions of lacunae that satisfy the requirements of the meter, seem to suit the immediate context, and seem coherent with the diction found in the rest of the Kumbhayoni corpus. The usual metrical symbols indicate missing akṣaras and there prosodic value inferable from the meter. They are placed outside of square brackets in the preserved portion of the text, in which case the stone has suffered damage making the akṣara(s) in question illegible.
+%\item[C\hfill] represents any consonant sign.
+%\item[V\hfill] represents any vowel element.
+%\item[+...+\hfill] surround graphic elements added by the engraver.
+%\item[=\hfill] marks word boundaries between consonants that are written together in one ligature
+\item[\danda\hfill] represents the punctuation sign called <foreign>daṇḍa</foreign> in Sanskrit, mostly occuring in pairs (\ddanda).
+\item[// \hfill] represents an elaborate stylized form apparently derived from \ddanda.
+\item[\MC\hfill] represents the lowest level punctuation sign that is found at x-height and takes a shape apparently identical to the numerical 0 sign in this inscription.
+%\item[?$^n$\hfill] Un nombre $n$ d'\textit{ak\d{s}ara} illisibles.
+\end{convlist}
+
+\noindent
+In the critical apparatus, the diamond sign (\sep) separates adopted from rejected readings. The comma sign (,) separates different rejected readings from each other. Only significant variant readings of B and K are cited here, and this is done precisely in the form typed by their authors, the form given by B being chosen if B and K have an identical variant reading represented in different transliteration systems. B and K use a different system of transliteration from that adopted here, giving <foreign>w</foreign> for my <foreign>v</foreign>, full-stop for my \MC\ and not explicitly marking akṣara vowels or virāma; moreover K does not distinguish <foreign>h</foreign> from visarga or <foreign>ṅ</foreign> from anusvāra (noting both as <foreign>ng</foreign>). B uses the engma sign (<foreign>\engma</foreign>) for anusvāra; K uses <foreign>ë</foreign> for pəpət (and <foreign>rë</foreign>/<foreign>lë</foreign> for <foreign>r̥</foreign>/<foreign>\VsXlv</foreign>), and often omits the tilde in <foreign>ñ</foreign>. Both sometimes use underlining, presumably to indicate uncertain readings: such underlining is below rendered by means of italics. These facts are assumed to be known in making use of the critical apparatus, and are not reported as variants. Differences with regard to placement of word-boundaries are equally ignored.
+
+%%%%
+%Engraver's errors: omission of anusvāra; d for j.
+
+\par\medskip\noindent
+\red{Notes for discussion of incorporation of older inscriptions:
+%see jesuit Bakker's little booklet on Indonesian Epigraphy
+\begin{itemize}
+\item in Sukabumi inscription: ed. van Stein Callenfels. blz. 116-119
+\item van Naerssen p. 21: ``Een ander voorbeeld is de oorkonde van Kembang Aroem uit 824 Śaka, met een toevoeging in 825 Śaka (Ed. F.D.K. Bosch in O.V. 1925 blz, 41-49).''
+\end{itemize}}
+
+
+
+
+
+\subsubsection*{Translation
+
+\end{document}
+
+\begin{center}
+\textit{Face 2a}
+\end{center}
+
+NOTES
+wuara: very rare in fact non-existent elsewhere in OJ epigraphy. Cf.\ the very to-the-point remark in Kusen's introduction, and cf. āsīt ... in the Canggal inscription.
+
+rahyangta: a title specifically assosciated with Sanjaya
+
+vanua = pura: cf. Kulke, Kadatuan Srivijaya, p. 171
+
+tutuganniṁ: study this phrase
+	tutugan niṁ or tutugann iṁ?
+
+Email Jan Wisseman Christie 16/02/2010
+About the expression 'tutugan ning tanda': I have been unsure exactly how to translate the phrase, which appears not only in inscriptions issued by Balitung (Poh, Sangsang, Wanua Tengah III), but also in those issued by Daksa (Wuru Tunggal) and by Sindok (Añjukladang/OJO 46 and Paradah II/OJO 48), and possibly later. I have relied on Zoetmulder's translation of 'tutugan' as 'a groove or incision', and 'tanda' as 'a sign, banner', to arrive at a translation of 'written down as a sign' - that is 'subject of a prasasti' . This differs a bit from Kusen's translation, 'inscribed as a sign perfection', since I think that the phrase would need to be reversed (ie. 'tanda ning tutugan') to produce such a meaning. I don't think that Stutterheim was right to think that the whole phrase represented a place name, or that Damais was right to think that 'tutugan' was a place name.
+	The phrase appears to have been a description of a type of place rather than the name of a place. In all of the inscriptions listed above in which the expression occurs, it appears attached to the name of a place that had religious associations. In Poh, the witness who was resident in 'tutugan ning tanda' of Tangkilan was a religious personage. In Sangsang, the official demarcating, on the orders of the king, a sima involving part of his apanage (watak), was resident of 'Patapan (hermitage) tutuganning tanda. In Wanua Tengah III, 'Pikatan tutugan ning tanda' was the site of a bihara (monastery). In Wuru Tunggal, the repayment of a debt owed to a religious personage was received by the resident of 'Wuru Tunggal tutuganning tanda'. In Añjukladang, the community of Añjukladang was connected to the 'sang hyang prasada kabhaktyan of Sri Jayamrta'. And in Paradah II, land at Paradah, in the 'tutuganing tanda i Paradah', was the site of a sang hyang dharmma kamulan', apparently an ancestor shrine.
+	I assume that the status of all of these holy places had been formalized by the issuing of a royal charter of some sort. That's as far as I have gone in thinking about the subject. What do you think?
+
+	PKMB p. 180, Prasasti Pamintihan = E. 88, Va, l. 6: ... mwa{\engma} pasākṣi yāthākrama ri taṇḍa rakryan samudāya...
+
+
+
+UNITS OF MEASURE
+.dpa sihvaa
+tuu: see Boechari, ``Perbanditan'', n. 17 (16 in the reprint).
