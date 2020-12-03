@@ -86,14 +86,14 @@
          <div type="edition" xml:lang="kaw-Latn">
 <p><pb n="1r"/>
 <fw n="1r" place="left"><num value="1">1</num></fw>
-<lb n="1r1"/> // vrūhanekaṅ āṅlakoni hanagiḥ titiL̥man· riṁ valaṇḍit·, yen andikaniṅo<unclear>ṁ</unclear> de
+<lb n="1r1"/> // vrūhanekaṅ āṅlakoni hanagiḥ titiL̥man· riṁ valaṇḍit·, yen andikaniṅo<unclear>ṁ</unclear>, de
 &#x2028;<lb n="1r2" break="no"/>ne kaṅ deśa hiṁ valaṇḍit·, mamaṅgis·, lili, jəbiṁ, kacaba,</p>
 <p>I rehane luvara dene ha&#x2028;
 <lb n="1r3" break="no"/>nagiḥ titiL̥man·, I rehekaṅ deśa I valaṇḍit deśa Ila-hila, hulun hyaṅira saṁ hyaṁ
-&#x2028;<lb n="1r4"/><choice><reg>gunuṁ</reg><orig>guṇuṁ</orig></choice> brāḥma, Iku ta havaL̥ra sakvehiṅ voṁ sakahuban deniṅ deśa I valaṇḍit·, ta
-&#x2028;<lb n="1r5" break="no"/>n· katagiha titiL̥man·, Ayo tinatab·, I reh iṅ deśa Ila-Ila,</p>
+&#x2028;<lb n="1r4"/><choice><reg>gunuṁ</reg><orig>guṇuṁ</orig></choice> brāhma, Iku ta havaL̥ra sakvehiṅ voṁ sakahuban deniṅ deśa I valaṇḍit·, ta
+&#x2028;<lb n="1r5" break="no"/>n· katagiha titiL̥man·, Ayo tinatab·, I rehiṅ deśa Ila-Ila,</p>
 <p>kaṁ rājamūdra ye&#x2028;&#x2028;<pb n="1v" break="no"/>
-<lb n="1v1" break="no"/>n uvus <unclear>kavaca, kagugona</unclear> dene kaṁ voṁ valaṇḍit·, tithi, māsa, ka, <num value="5">5</num>, śiraḥ <num value="3">3</num>, //
+<lb n="1v1" break="no"/>n uvus <unclear>kavaca, kagugona</unclear> dene kaṁ voṁ valaṇḍit·, tithi, māsa, <abbr>ka</abbr>, <num value="5">5</num>, śiraḥ <num value="3">3</num>, //
 </p>
          </div>
          <div type="apparatus">
@@ -105,14 +105,15 @@
          </div>
          <div type="translation">
  	<!--translation encoded as per EG §9.2 -->
-<!--on hulu-vrassan-nya, see De Casparis, Pras. Indonesia II, 243, n. 205: "The hulu wras is very often mentioned among the rāmas. The term probably denotes the village elder who was in charge of a provision of rice belonging to the village as a whole. Van Vollenhoven notices the presence of similar village elders in modern Javanese villages (op. cif., p. 30), but considers the function an innovation of recent times; the latter conclusion might not he correct in view of what we see in Old Javanese inscriptions."-->
+<!--It  shall  be  known  by  those  who  act  as  claimants  of  titileman  (dues  claimable  at  new moon) at Walandit, that Our command with respect to the districts of Walandit, Mamanggis, Lili, Jebing, Kacaba, inasmuch as they shall be exempt in respect to the 3.claimants  of  titileman,  because  of  that  district  of  Walandit  is  a  hila-hila (sacred) district, of Spirits’ servants, (worshipping) the honored holy 4.mountain  Brahma,  therefore  now  shall  have  an interdict all people living in the shade of the district of Walandit: 5.no <foreign>titileman</foreign> shall be requested from them.  Let  they  not  be  examined, because the district is hila-hila (sacred). This <supplied reason="subaudible">document bearing the</supplied> Royal seal <supplied reason="explanation"><foreign>rājamūdra</foreign></supplied>, once it has been read, is to be kept by those people of Walandit. Tithi, fifth month (Margashirsa, ~Nov/Dec), [year] unit 3. -->
          </div>
          <div type="commentary">
-            <!--commentary encoded as per section §9.3 -->
+          <p>This inscription is composed in a variety of Middle Javanese language attested in a small group of charters of the turn of the fifteenth century (Patapan, Sailamandi, Renek, Biluluk). In its phonology, the Old Javanese diphthongs <foreign>ya</foreign> and <foreign>wa</foreign> have systematically been collapsed to the Middle Javanese <foreign>e</foreign> and <foreign>o</foreign>.</p>
+          <p>Gunung Brāhma is of course Mount Bromo in the Tengger Massif.</p>
          </div>
         <div type="bibliography">
 	<!--bibliography encoded as per section §9.4 -->
-	<p>First edited by Boechari (<bibl rend="omitname"><ptr target="bib:Boechari1985-1986_01"/><citedRange unit="page">112</citedRange> <citedRange unit="item">E.49</citedRange></bibl>); re-edited here by Marine Schoettel from the estampage of the plate made available by the Museum Nasional Indonesia.</p>
+	<p>First edited by Brandes, then reedited by Boechari (<bibl rend="omitname"><ptr target="bib:Boechari1985-1986_01"/><citedRange unit="page">112</citedRange> <citedRange unit="item">E.28</citedRange></bibl>); re-edited here by Marine Schoettel from the estampage of the plate made available by the Museum Nasional Indonesia.</p>
             <listBibl type="secondary">
 	 <bibl><ptr target="bib:NBG"/><date>1914</date><citedRange unit="volume">LII</citedRange><citedRange unit="page">44-45, 52, 192</citedRange></bibl>
 </listBibl>
@@ -120,4 +121,4 @@
       </body>
   </text>
 </TEI>
-<!-- To be understtod in connection with Walandit A (E. 28), Patapan I (E. 57), Sailamandi, Renek, Biluluk, Tirah (E. 58) -->
+<!-- To be understtod in connection with Walandit B (E. 28), Patapan I (E. 57), Sailamandi, Renek, Biluluk, Tirah (E. 58) -->
