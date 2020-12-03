@@ -135,7 +135,9 @@
         <div type="bibliography">
               <p>First published by van Naerssen (<bibl rend="omitname"><ptr target="vanNaerssen1941_01-1"/><citedRange unit="page">71-73</citedRange></bibl>. Re-edited by Arlo Griffiths and Marine Schoettel from photographs furnished by the Weltmuseum.</p>
               <listBibl type="primary">
-                    </listBibl>
+                <bibl/>
+              </listBibl>
+                    
                     <listBibl type="secondary">
                  <bibl><ptr target="bib:NBG"/><date>1917</date><citedRange unit="volume">55</citedRange><citedRange unit="page">105, 191</citedRange></bibl>
                </listBibl>
