@@ -84,7 +84,7 @@
          <div type="edition" xml:lang="kaw-Latn">
 <pb n="1r"/>
 <p>
-<lb n="1r1"/>// vruhanekaṅ amupu tuturun·, savarnnaniṅ amupu tuturun iṅ aṅaR̥mba, paṅalasan·, parambi<lb
+<lb n="1r1"/>// vruhanekaṅ amupu tuturun·, savarnnaniṅ amupu tuturun iṅ aṅaR̥mba, paṅalasan·, paramb<unclear>ə</unclear><lb
 n="1r2" break="no"/>kəl·, mantrī, huṇḍahagi, yen andikaniṅoṁ, denekaṅ aṅaR̥mba hiṁ devaR̥ṣi,</p>
 <p>
   si samasanak iṁ mariñchi
@@ -103,7 +103,10 @@ n="1r5" break="no"/>vuhan·, susukan·, luputa riṁ bletepe sakiṅ uṇḍahag
          </div>
          <div type="apparatus">
            <listApp>
-             <app></app>
+             <app loc="1r1">
+               <lem>paramb<unclear>ə</unclear><lb break="no"/>kəl·</lem>
+               <rdg>parambikəl</rdg>
+             </app>
            </listApp>
          </div>
          <div type="translation" resp="part:argr masc">
@@ -114,7 +117,7 @@ n="1r5" break="no"/>vuhan·, susukan·, luputa riṁ bletepe sakiṅ uṇḍahag
            <p>.</p>
          </div>
         <div type="bibliography">
-              <p>First edited by Issatriadi (<bibl rend="omitname"><ptr target="bib:Issatriadi1975_01"/></bibl>), then by Machi Suhadi (<bibl rend="omitname"><ptr target="bib:MachiSuhadi2003_01"/></bibl>). Re-edited here by Arlo Griffiths and Marine Schoettel from photos of the plate taken at Museum Mpu Tantular by Niggel Bullough and Arlo Griffiths.</p>
+              <p>First edited by Issatriadi (<bibl rend="omitname"><ptr target="bib:Issatriadi1975_01"/></bibl>), then by Machi Suhadi (<bibl rend="omitname"><ptr target="bib:MachiSuhadi2003_01"/></bibl>). Re-edited here by Arlo Griffiths and Marine Schoettel from photos of the plate taken at Museum Mpu Tantular by Nigel Bullough and Arlo Griffiths.</p>
               <listBibl type="primary">
                 <bibl n="I">
                     <ptr target="bib:Issatriadi1975_01"/>
