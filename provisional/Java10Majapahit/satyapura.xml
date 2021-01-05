@@ -189,7 +189,7 @@
          </div>
         <div type="bibliography">
 	<!--bibliography encoded as per section §9.4 -->
-            <p>First edited by Brandes (<bibl rend="omitname"><ptr target="bib:BrandesKrom1913_01"/><citedRange unit="page">255-256</citedRange><citedRange unit="item">CXX</citedRange></bibl>), edited again by Boechari (<bibl rend="omitname"><ptr target="bib:Boechari1985-1986_01"/><citedRange unit="page">100-101</citedRange><citedRange unit="item">E.37</citedRange></bibl>); re-edited here by Marine Schoettel from estampages of the Museum Nasional Indonesia.</p>
+            <p>First edited by Brandes (<bibl rend="omitname"><ptr target="bib:Brandes1913_01"/><citedRange unit="page">255-256</citedRange><citedRange unit="item">CXX</citedRange></bibl>), edited again by Boechari (<bibl rend="omitname"><ptr target="bib:Boechari1985-1986_01"/><citedRange unit="page">100-101</citedRange><citedRange unit="item">E.37</citedRange></bibl>); re-edited here by Marine Schoettel from estampages of the Museum Nasional Indonesia.</p>
              <listBibl type="secondary">
              <bibl/>
            </listBibl>

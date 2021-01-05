@@ -174,7 +174,7 @@
         <div type="bibliography">
           <!--Bibliography still needs to be updated to new guidelines-->
 	<!--bibliography encoded as per section §9.4 -->
-            <p>First published by Krom (<bibl rend="omitname"><ptr target="bib:NBG"/><citedRange unit="volume">49</citedRange><date>1911</date><citedRange>XXVI</citedRange></bibl>); edited by Boechari (<bibl rend="omitname"><ptr target="bib:Boechari1985-1985_01"/><citedRange unit="page">88-89</citedRange><citedRange unit="item">E.29</citedRange></bibl>) and re-edited by Marine Schoettel and Arlo Griffiths in May 2020 from the estampages in the Kern Institute, held in the Special Collections of the Leiden University Library.</p>
+            <p>First published by Krom (<bibl rend="omitname"><ptr target="bib:NBG49_1911"/><citedRange unit="volume">49</citedRange><date>1911</date><citedRange>XXVI</citedRange></bibl>); edited by Boechari (<bibl rend="omitname"><ptr target="bib:Boechari1985-1986_01"/><citedRange unit="page">88-89</citedRange><citedRange unit="item">E.29</citedRange></bibl>) and re-edited by Marine Schoettel and Arlo Griffiths in May 2020 from the estampages in the Kern Institute, held in the Special Collections of the Leiden University Library.</p>
              <listBibl type="secondary">
                  <bibl/>
              </listBibl>
