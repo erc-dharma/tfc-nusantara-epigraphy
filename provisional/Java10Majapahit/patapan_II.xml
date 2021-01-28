@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
    <teiHeader>
       <fileDesc>
@@ -98,7 +101,7 @@
 <lb n="1v1"/> sirāmpu kartta, buyut i gsaṁ, sira sura<unclear>g</unclear>a, buyut i pamuluṁ, sira dāna, deśeṁ patapan·, sakehiṁ raramātuh<choice><orig>a</orig><reg>ā</reg></choice>no
 <lb n="1v2" break="no"/>m·, samadāya, buyut aṅaR̥p sira pavuḥ, haṅalihi sira vit<choice><orig>a</orig><reg>ā</reg></choice>na, hanigani sira mañca, juru same sirāsu, kabaya
 <lb n="1v3" break="no"/>n sira mr̥tti, sira śănti,</p><p>yatika kabeḥ samānakṣyani duk sirāmpu śivātmaka haveḥ pamgat taṅsyan·, Anakira
-<lb n="1v4"/> mpu śivātmaka, <num value="8">8</num>, sirāmpu netra, sirāmpu marmma, sirāmpu ghora, sirāmpv aṁga<add place="below" rend="kākapada"><unclear>ra</unclear></add>rjja, sirāmpu hari, sirāmpu
+<lb n="1v4"/> mpu śivātmaka, <num value="8">8</num>, sirāmpu netra, sirāmpu marmma, sirāmpu ghora, sirāmpv aṁga<add place="below" rend="mark"><unclear>ra</unclear></add>rjja, sirāmpu hari, sirāmpu
 <lb n="1v5"/> sara sija, sira kraṇḍa, vadon·, sira nāginī // 0 // <g type="gomutraFinal">§</g></p>
          </div>
          <div type="apparatus">

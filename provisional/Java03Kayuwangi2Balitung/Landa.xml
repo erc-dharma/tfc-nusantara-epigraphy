@@ -1,84 +1,91 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Landa</title>
-            	<respStmt>
-            		<resp>EpiDoc Encoding</resp>
-            		<resp>intellectual authorship of edition</resp>
-            		<persName ref="part:argr">
-            			<forename>Arlo</forename>
-            			<surname>Griffiths</surname>
-            		</persName>
-            	</respStmt>
-            </titleStmt>
-            <publicationStmt>
-                <authority>DHARMA</authority>
-                <pubPlace>Lyon</pubPlace>
-                <idno type="filename">Landa</idno>
-                <availability>
-                    <licence target="https://creativecommons.org/licenses/by/4.0/">
-                        <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Landa</title>
+            <respStmt>
+               <resp>EpiDoc Encoding</resp>
+               <resp>intellectual authorship of edition</resp>
+               <persName ref="part:argr">
+                  <forename>Arlo</forename>
+                  <surname>Griffiths</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>DHARMA</authority>
+            <pubPlace>Lyon</pubPlace>
+            <idno type="filename">Landa</idno>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/">
+                  <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
                             Licence. To view a copy of the licence, visit
                             https://creativecommons.org/licenses/by/4.0/ or send a letter to
                             Creative Commons, 444 Castro Street, Suite 900, Mountain View,
                             California, 94041, USA.</p>
-                    	<p>Copyright (c) 2019-2025 by Arlo Griffiths.</p>
-                    </licence>
-                </availability>
-                <date from="2019" to="2025">2019-2025</date>
-            </publicationStmt>
-            <sourceDesc><!-- only the handDesc can be filled in at this stage -->
-                <msDesc><!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
-                    <msIdentifier>
-                        <repository>DHARMAbase</repository>
-                        <idno/><!-- don't modify this -->
-                    </msIdentifier>
-                    <msContents><!-- describe the intellectual content of an inscription -->
-                        <summary><!-- //// NOT MANDATORY  ////--></summary> <!-- offers the possibility to give a summary of the inscription's content -->
-                    </msContents>
-                    <physDesc>
-                        <handDesc>
-                            <p>Same hand as in Wuang Got and Marsmu?<!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EGD 11.2. --></p>
-                        </handDesc>
-                    </physDesc>
-                </msDesc>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <p>This project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
-            </projectDesc>
-            <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/><!-- UPDATE the link once the release is made official -->
-            <listPrefixDef>
-                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
-                    <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
-                </prefixDef>
-                <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
-                    <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_IdListMembers_V01.xml</ref> file.</p>
-                </prefixDef>
-            </listPrefixDef>
-        </encodingDesc>
-        <revisionDesc>
-        	<change who="part:argr" when="2021-01-27" status="draft">finished initial encoding of the inscription</change>
-        	<change who="part:argr" when="2021-01-21" status="draft">started initial encoding of the inscription</change>
-        </revisionDesc>
-    </teiHeader>
-    <text xml:space="preserve">
+                  <p>Copyright (c) 2019-2025 by Arlo Griffiths.</p>
+               </licence>
+            </availability>
+            <date from="2019" to="2025">2019-2025</date>
+         </publicationStmt>
+         <sourceDesc><!-- only the handDesc can be filled in at this stage -->
+            <msDesc><!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
+               <msIdentifier>
+                  <repository>DHARMAbase</repository>
+                  <idno/>
+                  <!-- don't modify this -->
+               </msIdentifier>
+               <msContents><!-- describe the intellectual content of an inscription -->
+                  <summary><!-- //// NOT MANDATORY  ////--></summary>
+                  <!-- offers the possibility to give a summary of the inscription's content -->
+               </msContents>
+               <physDesc>
+                  <handDesc>
+                     <p>Same hand as in Wuang Got and Marsmu?<!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EGD 11.2. --></p>
+                  </handDesc>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>This project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
+         </projectDesc>
+         <schemaRef type="guide"
+                    key="EGDv01"
+                    url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+         <!-- UPDATE the link once the release is made official -->
+         <listPrefixDef>
+            <prefixDef ident="bib"
+                       matchPattern="([a-zA-Z0-9\-\_]+)"
+                       replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+               <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
+            </prefixDef>
+            <prefixDef ident="part"
+                       matchPattern="([a-z]+)"
+                       replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+               <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_IdListMembers_V01.xml</ref> file.</p>
+            </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <revisionDesc>
+         <change who="part:argr" when="2021-01-27" status="draft">finished initial encoding of the inscription</change>
+         <change who="part:argr" when="2021-01-21" status="draft">started initial encoding of the inscription</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="kaw-Latn">
 <p><pb n="1r"/>
-<lb n="1r1"/> <g type="ddandaHooked"/> <g type="circleHigh"/> <g type="ddandaHooked"/> mūlaniṁ savaḥ sīma I kvak· tam<supplied reason="omitted">p</supplied>aḥ <num value="4">4</num> maknā I saṁ makarma I prāsāda I laṇḍa<g type="circleHigh">.</g> marhyaṁ tampaḥ <num value="2">2</num> muAṁ *lañjānya<g type="circleHigh">.</g> gavaya<lb 
-n="1r2" break="no"/>nira *dumavuttana dukut·niṁ prāsāda I ruhur·<g type="circleHigh">.</g> muAṁ tamvak·<g type="circleHigh">.</g> muAṁ mataga Ikanaṁ masavaḥ Iṁ sīma gumavaya Ikanaṁ *pamahu-jaṅgān·
+<lb n="1r1"/> <g type="ddandaHooked"/> <g type="circleHigh"/> <g type="ddandaHooked"/> mūlaniṁ savaḥ sīma I kvak· tam<supplied reason="omitted">p</supplied>aḥ <num value="4">4</num> maknā I saṁ makarma I prāsāda I laṇḍa<g type="circleHigh">.</g> marhyaṁ tampaḥ <num value="2">2</num> muAṁ *lañjānya<g type="circleHigh">.</g> gavaya<lb n="1r2" break="no"/>nira *dumavuttana dukut·niṁ prāsāda I ruhur·<g type="circleHigh">.</g> muAṁ tamvak·<g type="circleHigh">.</g> muAṁ mataga Ikanaṁ masavaḥ Iṁ sīma gumavaya Ikanaṁ *pamahu-jaṅgān·
 <lb n="1r3"/>*kyan· mahala<g type="circleHigh">.</g> muAṁ pacaruAn· *kyan mahala<g type="circleHigh">.</g> muAṁ humarappa Ikanaṁ biśuva<g type="circleHigh">.</g> muAṁ caru Aṅkan parbvaṇĭ<g type="circleHigh">.</g> savaha saṁ hyaṁ tampaḥ <num value="1">1</num><g type="circleHigh">.</g>
-<lb n="1r4"/> paknānya pabiśuvā muAṁ pacaru Akan parvva<space type="binding-hole"/>ṇĭ<supplied reason="omitted"><g type="circleHigh">.</g></supplied> lañjānya tamvahani bhukti saṁ paṅajyan· I laṇḍa<g type="circleHigh">.</g> savaha saṁ devata Iṁ paca<lb 
-n="1r5" break="no"/>ṇḍyan· I kvak suku<!-- OJO su ku --> <num value="1">1</num> paknānya caru Akan Amāvăṣya sava<supplied reason="omitted">ha</supplied>ni vka saṁ devata lumāḥ I kvak· suku<!-- OJO su ku --> <num value="3">3</num> Asiṁṅ umuliḥ I kvak gavayani<lb 
-n="1r6" break="no"/>ra <space type="descender"/> manapuA manamvaḥ-hyaṁṅa<g type="circleHigh">.</g> muAṁ humara<supplied reason="omitted">ppa</supplied> Ikanaṁ patula Akan· Amāvaṣya <g type="ddandaHooked"/> <g type="circleHigh"/> <g type="ddandaHooked"/></p> <p>muvaḥ mūlaniṁ savaḥ sīma I mulak· tampaḥ <num value="2">2</num> blaḥ <num value="1">1</num> pa<lb 
-n="1r7" break="no"/>knānya savaha saṁ paṅajyan· I laṇḍa tampaḥ <num value="1">1</num> muAṁ lañjānya<g type="circleHigh">.</g> savaha saṁ devakarmma blaḥ <num value="1">1</num> gavayanira manamvaḥ-hyaṁṅa manapuA I dala<pb n="1v" break="no"/><lb 
-n="1v1" break="no"/>m·<supplied reason="omitted"><g type="circleHigh">.</g></supplied> savahaniṁ ma<choice><sic>pa</sic><corr>saṁ</corr></choice>gar· muAṁ manapu I laṇḍa tampaḥ <num value="1">1</num> <g type="ddandaHooked"/> <g type="circleHigh"/> <g type="ddandaHooked"/></p>
+<lb n="1r4"/> paknānya pabiśuvā muAṁ pacaru Akan parvva<space type="binding-hole"/>ṇĭ<supplied reason="omitted"><g type="circleHigh">.</g></supplied> lañjānya tamvahani bhukti saṁ paṅajyan· I laṇḍa<g type="circleHigh">.</g> savaha saṁ devata Iṁ paca<lb n="1r5" break="no"/>ṇḍyan· I kvak suku<!-- OJO su ku --> <num value="1">1</num> paknānya caru Akan Amāvăṣya sava<supplied reason="omitted">ha</supplied>ni vka saṁ devata lumāḥ I kvak· suku<!-- OJO su ku --> <num value="3">3</num> Asiṁṅ umuliḥ I kvak gavayani<lb n="1r6" break="no"/>ra <space type="descender"/> manapuA manamvaḥ-hyaṁṅa<g type="circleHigh">.</g> muAṁ humara<supplied reason="omitted">ppa</supplied> Ikanaṁ patula Akan· Amāvaṣya <g type="ddandaHooked"/> <g type="circleHigh"/> <g type="ddandaHooked"/></p> <p>muvaḥ mūlaniṁ savaḥ sīma I mulak· tampaḥ <num value="2">2</num> blaḥ <num value="1">1</num> pa<lb n="1r7" break="no"/>knānya savaha saṁ paṅajyan· I laṇḍa tampaḥ <num value="1">1</num> muAṁ lañjānya<g type="circleHigh">.</g> savaha saṁ devakarmma blaḥ <num value="1">1</num> gavayanira manamvaḥ-hyaṁṅa manapuA I dala<pb n="1v" break="no"/><lb n="1v1" break="no"/>m·<supplied reason="omitted"><g type="circleHigh">.</g></supplied> savahaniṁ ma<choice><sic>pa</sic><corr>saṁ</corr></choice>gar· muAṁ manapu I laṇḍa tampaḥ <num value="1">1</num> <g type="ddandaHooked"/> <g type="circleHigh"/> <g type="ddandaHooked"/></p>
          </div>
          <div type="apparatus">
                  <listApp>
@@ -138,7 +145,7 @@ n="1v1" break="no"/>m·<supplied reason="omitted"><g type="circleHigh">.</g></su
 	</app>
                </listApp>
          </div>
-         <div type="translation" xml:lang="eng">
+         <div type="translation">
  	<p n="1r1-1r6">The wet-ricefield capital of the freehold at Kvak is 4 <foreign>tampah</foreign>, to serve for those who work in the temple at Laṇḍa. The Marhyaṅ <supplied reason="subaudible">may use</supplied> 2 <foreign>tampah</foreign> with its <foreign>lañjān</foreign>. His task shall be to cut the grass of the upper temple, and the fence, and he shall summon those who work the wet-rice fields in the freehold to carry out the <foreign>pamahu-jaṅgān</foreign> which is ever worse, the <foreign>pacaruan</foreign> which is ever worse, and to attend the equinox and the offering every period of change of the moon. The wet-rice field of the deity <supplied reason="explanation"><foreign>saṅ hyaṅ</foreign></supplied> shall be 1 <foreign>tampah</foreign>, to serve for the costs of worship at the time of the equinox and the costs of offerings every period of change of the moon. Its <foreign>lañjān</foreign> is for additional food of the teacher(s) at Laṇḍa. The wet-rice field of the deified ancestor <supplied reason="explanation"><foreign>saṅ devata</foreign></supplied> in the funerary temple <supplied reason="explanation"><foreign>pacaṇḍyan</foreign></supplied> at Kvak shall be 1 <foreign>suku</foreign>, to serve for offerings every new moon. The wet-rice fields of the descendants of the deified ancestor who rests at Kvak shall be 3 <foreign>suku</foreign>. Whoever returns to Kvak, his tasks shall be to sweep, to worship and to attend the <foreign>patula</foreign> every new moon.</p>
 	<p n="1r71-1v1">And the wet-ricefield capital of the freehold at Mulak is 2 <foreign>tampah</foreign>, 1 <foreign>blah</foreign>. <supplied reason="subaudible">Of this</supplied>, 1 <foreign>tampah</foreign> with its <foreign>lañjān</foreign> shall serve as wet-rice field of the teacher(s) at Laṇḍa; 1 <foreign>blah</foreign> shall be the wet-rice field of those who do the deity's work <supplied reason="subaudible">and</supplied> his tasks shall be to worship, to sweep in the interior temple; 1 <foreign>tampah</foreign> shall be the wet-rice field of those who have a shrine and who sweep at Laṇḍa.</p>
          </div>
