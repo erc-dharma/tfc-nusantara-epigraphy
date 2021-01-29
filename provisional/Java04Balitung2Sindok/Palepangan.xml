@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
    <teiHeader>
       <fileDesc>
@@ -8,7 +11,7 @@
             <title>Palepangan</title>
             <respStmt>
                <resp>EpiDoc Encoding</resp>
-            	<resp>intellectual authorship of edition</resp>
+               <resp>intellectual authorship of edition</resp>
                <persName ref="part:argr">
                   <forename>Arlo</forename>
                   <surname>Griffiths</surname>
@@ -87,8 +90,7 @@
          <div type="edition" xml:lang="kaw-Latn">
 <pb n="1r"/>
 <!-- empty -->
-<p><pb n="1v"/><lb n="1v1"/><g type="ddanda"/> <g type="circle"/> <g type="ddanda"/> svasti śaka-varṣātīta <num value="828">828</num> punaḥ-śravaṇa-māsa, tithi Aṣṭami kr̥ṣṇa-pa<space type="binding-hole"/>kṣa, <abbr>ha</abbr>, <abbr>va</abbr>, <abbr>śu</abbr>, vāra, Irikā divasa rāmanta I paL̥paṅan makabehan·, I<lb 
-n="1v2" break="no"/>nanugrahān· vineḥ makmitana prasasti de rakryān· mapatiḥ I hino pu dakṣottama bāhubajra-pratipakṣakṣaya,</p> <p>samvandhanya saṅkā I tan patūtnikanaṁ
+<p><pb n="1v"/><lb n="1v1"/><g type="ddanda"/> <g type="circle"/> <g type="ddanda"/> svasti śaka-varṣātīta <num value="828">828</num> punaḥ-śravaṇa-māsa, tithi Aṣṭami kr̥ṣṇa-pa<space type="binding-hole"/>kṣa, <abbr>ha</abbr>, <abbr>va</abbr>, <abbr>śu</abbr>, vāra, Irikā divasa rāmanta I paL̥paṅan makabehan·, I<lb n="1v2" break="no"/>nanugrahān· vineḥ makmitana prasasti de rakryān· mapatiḥ I hino pu dakṣottama bāhubajra-pratipakṣakṣaya,</p> <p>samvandhanya saṅkā I tan patūtnikanaṁ
 <lb n="1v3"/>rāma lavan· saṁ năyaka bhagavanta jyotiṣa,<!-- comma ignored by Boechari --> Ikana savaḥnya sinaṅguḥ lamvit· <num value="2">2</num> kinon ta ya modhāra, pirak· <abbr>dhā</abbr> <num value="6">6</num> I satampaḥ-satampaḥ<supplied reason="omitted">,</supplied> kunaṁ sa<space type="descender"/>ṅkā ri
 <lb n="1v4"/>hǝ:tnya tan· vnaṁ modhāra samaṅkana,<!-- comma ignored by Boechari --> ya ta mataṁṅ yan panamvaḥ rā<space type="descender"/>manta I rakryān· mapa<space type="descender"/>tiḥ<supplied reason="omitted">,</supplied> kinonakan· savaḥnya U<unclear>k</unclear>uran· Iṁ tampaḥ haji, sinaṅguḥ
 <lb n="1v5"/>tampaḥ haji,<!-- comma ignored by Boechari --> sātus· ḍpa sihvā pañjaṁnya,<!-- comma ignored by Boechari --> s<unclear>ǝ</unclear>ṅkǝ:nya tluṁ puluḥ ḍpa sihvā,<!-- comma ignored by Boechari --> kinon· maṅukura vadvā rakryān· I hino saṁ brahmā muAṁ rovaṁ <abbr>samgat·</abbr> priṁ sa<unclear>ṁ</unclear> kañcur·
@@ -114,7 +116,7 @@ n="1v12" break="no"/>ṅan· sapasug banu<choice><sic>Ā</sic><corr>A,</corr></c
                   </app>
 <app loc="1v1">
 	<lem source="bib:Damais1955_01 bib:Boechari1985-1986_01">kr̥ṣṇa-pa<space type="binding-hole"/>kṣa</lem>
-	<rdg source=" bib:Bosch1917_02">śukla-pakṣa</rdg>
+	<rdg source="bib:Bosch1917_02">śukla-pakṣa</rdg>
 </app>	
 <app loc="1v3">
 	<lem>Ikana</lem>

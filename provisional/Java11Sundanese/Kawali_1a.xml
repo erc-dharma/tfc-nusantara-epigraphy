@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
    <teiHeader>
       <fileDesc>
@@ -101,24 +104,24 @@
             <div type="apparatus">
                 <listApp>
                     <app loc="1">
-                        <lem source="Noorduyn1976_01 TitiSurtiNastiti1996_01">tapak· va<lb n="2" break="no"/>lar</lem>
-                        <rdg source="Holle1867_01 Pleyte1911_03">tapa kava<lb n="2" break="no"/>li</rdg>
+                        <lem source="bib:Noorduyn1976_01 bib:TitiSurtiNastiti1996_01">tapak· va<lb n="2" break="no"/>lar</lem>
+                        <rdg source="bib:Holle1867_01 bib:Pleyte1911_03">tapa kava<lb n="2" break="no"/>li</rdg>
                     </app>
                     <app loc="2">
-                        <lem source="Holle186701_01 Pleyte1911_03 Noorduyn1976_01">tapa</lem>
-                        <rdg source="TitiSurtiNastiti1996_01">tapa<supplied reason="omitted">k</supplied></rdg>
+                        <lem source="bib:Holle186701_01 bib:Pleyte1911_03 Noorduyn1976_01">tapa</lem>
+                        <rdg source="bib:TitiSurtiNastiti1996_01">tapa<supplied reason="omitted">k</supplied></rdg>
                     </app>
                     <app loc="2">
-                        <lem source="Noorduyn1976_01 TitiSurtiNastiti1996_01">I<lb n="3" break="no"/>ña</lem>
-                        <rdg source="Holle1867_01 Pleyte1911_03">bha<lb n="3" break="no"/>gya</rdg>
+                        <lem source="bib:Noorduyn1976_01 bib:TitiSurtiNastiti1996_01">I<lb n="3" break="no"/>ña</lem>
+                        <rdg source="bib:Holle1867_01 bib:Pleyte1911_03">bha<lb n="3" break="no"/>gya</rdg>
                     </app>
                     <app loc="4">
                         <lem>ma<unclear reason="eccentric_ductus">ṅ</unclear>aḍəg·</lem>
                         <note>The shape of <foreign>ṅa</foreign> is unusual. Cf. the more careful execution of this <foreign>aksara</foreign> in <ref target="Kawali_2.xml">Kawali II</ref>, line 2 <foreign>ṅə</foreign>.</note>
                     </app>
                     <app loc="6">
-                        <lem source="Holle1867_01 Noorduyn1976_01">sa<lb n="7" break="no"/>kuli<choice><orig>li</orig><reg>liṁ</reg></choice></lem>
-                        <rdg source="Pleyte1911_03 TitiSurtiNastiti1996_01">sakuliliṁ</rdg>
+                        <lem source="bib:Holle1867_01 bib:Noorduyn1976_01">sa<lb n="7" break="no"/>kuli<choice><orig>li</orig><reg>liṁ</reg></choice></lem>
+                        <rdg source="bib:Pleyte1911_03 bib:TitiSurtiNastiti1996_01">sakuliliṁ</rdg>
                         <note>Since no <foreign>ṁ</foreign> is ever clearly written in this inscription, we consider it unlikely that one was engraved here.</note>
                     </app>
                 </listApp>
@@ -128,7 +131,7 @@
                 <p>These are the footprints <supplied reason="explanation"><foreign>tapak valar</foreign></supplied> of the one of praiseworthy asceticism. He, his majesty king Wastu, ruling in the fortress Kawali, is the one who beautifies the palace Sura Wisesa; who digs a moat around the city; who bring all regions under cultivation. If there is a later <supplied reason="explanation">king</supplied>, he must do good works, so that success in the world be long-lasting.</p>
             </div>
 
-            <div type="translation" xml:lang="ind" source="TitiSurtiNastiti1996_01">
+            <div type="translation" xml:lang="ind" source="bib:TitiSurtiNastiti1996_01">
                 <p>Inilah tanda bekas beliau yang mulia Prabu Raja Wastu <supplied reason="subaudible">yang</supplied> berkuasa di kota Kawali yang memperindah keraton Surawisesa yang membuat parit <supplied reason="subaudible">di</supplied> sekeliling ibukota, yang memakmurkan seluruh desa.</p>
                 <p>Semoga ada penerus raja yang melaksanakan berbuat kebajikan agar lama jaya di dunia.</p>
                 </div>

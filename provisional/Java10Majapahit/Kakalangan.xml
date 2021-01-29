@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
    <teiHeader>
       <fileDesc>
@@ -85,9 +88,7 @@
            <pb n="2r"/>
            <p>
              <lb n="2r1"/>R̥nǝk·, makamukhy<unclear>ā</unclear> Ika<unclear>ṁ</unclear> savaḥ,</p>
-             <p>kuna<unclear>ṁ</unclear> tiṅkaḥni caturdeśanikaṁ kaka<supplied reason="omitted">la</supplied>ṅan·, hiṅanya vetan· lor· dudu<lb
-               n="2r2" break="no"/>g· Akalihan· lvaḥ lāvan· pakǝmbaṅan·, Aṅulvan· satapǝl· vatǝs· lāvan· savaḥ maṇḍa<lb n="2r3" break="no"/>la, Irikaṁṅ iṁ gologok·, Aṅidul· Atut· kali satapǝl· vatǝs· lāvan· Iṁ <unclear>siṁnaḥ</unclear> Aṅa<lb n="2r4" break="no"/>v<unclear>e</unclear>tan· dudug· tka riṁ lvaḥ Aṅavetan· tka riṁ <unclear>ta</unclear>l· rvaṁ siki, Aṅavetan· tka riṁ lvaḥ Akalihan· lvaḥ la<pb n="2v" break="no"/><lb
-             n="2v1" break="no"/>van· pakǝmbaṅan·, kasphuṭa tke savaḥnya rvaṁ jǝ̄ṁ, muvaḥ hana ta savaḥnikaṁ kakalaṅan· rvaṁ liriḥ A<unclear>n</unclear>lat· riṁ
+             <p>kuna<unclear>ṁ</unclear> tiṅkaḥni caturdeśanikaṁ kaka<supplied reason="omitted">la</supplied>ṅan·, hiṅanya vetan· lor· dudu<lb n="2r2" break="no"/>g· Akalihan· lvaḥ lāvan· pakǝmbaṅan·, Aṅulvan· satapǝl· vatǝs· lāvan· savaḥ maṇḍa<lb n="2r3" break="no"/>la, Irikaṁṅ iṁ gologok·, Aṅidul· Atut· kali satapǝl· vatǝs· lāvan· Iṁ <unclear>siṁnaḥ</unclear> Aṅa<lb n="2r4" break="no"/>v<unclear>e</unclear>tan· dudug· tka riṁ lvaḥ Aṅavetan· tka riṁ <unclear>ta</unclear>l· rvaṁ siki, Aṅavetan· tka riṁ lvaḥ Akalihan· lvaḥ la<pb n="2v" break="no"/><lb n="2v1" break="no"/>van· pakǝmbaṅan·, kasphuṭa tke savaḥnya rvaṁ jǝ̄ṁ, muvaḥ hana ta savaḥnikaṁ kakalaṅan· rvaṁ liriḥ A<unclear>n</unclear>lat· riṁ
              <lb n="2v2"/>lmaḥ pakǝmbaṅan·, satapǝl· vatǝs· lāvan ikaṁ <unclear>ka</unclear>kurugan·, muvaḥ Iṁ gǝmpǝṁ savaḥ tluṁ jǝ̄ṁ, katṅaḥ deni
              <lb n="2v3" break="no"/>kaṁ lmaḥ bataṁ vetan·, lmaḥ bola kulvan·, piṇḍanikaṁ savaḥnikaṁ kakalaṅan· bataṅ·, <num value="7">7</num> jǝ̄ṁ samodaya
              <lb n="2v4" break="no"/>nya kabeḥ<!--read or supply a comma here?--></p>
@@ -121,7 +122,7 @@
          </div>
          <div type="translation" resp="part:argr masc">
    <!--translation encoded as per EGD §9.2 -->
- <p></p>
+ <p/>
         </div>
         <div type="translation" xml:lang="ndl" source="bib:vanNaerssen1941_01-1">
           <p><foreign>sanək</foreign>, <supplied reason="explanation">dat is</supplied> om te beginnen de <foreign>savah</foreign>. Wat nu betreft de gesteldheid van de grenzen van het gebied der <foreign>kalang</foreign>s: de grens hiervan Oost-Noord loopt uit op het water en Pakəmbaṅan. Naar het westen vormt zij een grenslijn met de <foreign>savah</foreign> van de <foreign>maṇḍala</foreign> van Gologok. Naar het zuiden volgt zij de <foreign>kali</foreign>, een grenslijn vormende met Sirah. Naar het oosten loopt zij uit op het water <supplied reason="explanation">van daar</supplied> naar het oosten tot de twee <foreign>tal</foreign>-boomen, <supplied reason="explanation">van daar</supplied> naar het oosten tot het water en tevens tot het water en Pakəmbaṅan <gap reason="illegible"/> tot aan de <foreign>savah</foreign> hiervan twee <foreign>jöṅ</foreign>.</p>

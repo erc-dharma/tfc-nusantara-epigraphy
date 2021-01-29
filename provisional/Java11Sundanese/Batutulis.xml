@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
    <teiHeader>
       <fileDesc>
@@ -9,7 +12,7 @@
             <respStmt>
                <resp>EpiDoc encoding</resp>
                <resp>intellectual authorship of edition</resp>
-               <persName ref="part:agdu">
+               <persName ref="part:adgu">
                   <name>Aditia Gunawan</name>
                </persName>
             </respStmt>
@@ -102,14 +105,9 @@
                 <p>
          <lb n="1"/><g type="symbol" subtype="tennisball"/><g type="symbol" subtype="tennisball"/> vaṁ<unclear>ṅa</unclear> <unclear>p</unclear>un· I<unclear>n</unclear>i sakakala, pr<unclear>ə</unclear>bu ratu purane pun·, ḍivas·tu
          <lb n="2"/>ḍy<choice><sic>i</sic><corr>ǝ</corr></choice>, viṅaran· prəbu guru ḍe<unclear>va</unclear>ta p<choice><sic>ra</sic><corr>u</corr></choice>n· ḍivas·tu ḍyə ḍiṅaran· sri
-         <lb n="3"/>baduga maharaja, ratu ha<unclear cert="low">j</unclear>i ḍi pakvan· pajajaran· sri sa<unclear>ṁ</unclear> ratu ḍe<lb 
-	n="4" break="no"/>vata pun·</p> <p>ya nu ñusuk· na pakvan· ḍyə Anak· rahyi ḍeva nis·<lb 
-	n="5" break="no"/>kala, sa siḍa mok·ta ḍi gunuṁ tiga, <choice><orig>qəcu</orig><reg>qəñ·cu</reg></choice><!-- Arlo: do you find this c clearer than that at the beginning of line 6? --> rahyiṁ <unclear>n</unclear>is·kala vas·tu
+         <lb n="3"/>baduga maharaja, ratu ha<unclear cert="low">j</unclear>i ḍi pakvan· pajajaran· sri sa<unclear>ṁ</unclear> ratu ḍe<lb n="4" break="no"/>vata pun·</p> <p>ya nu ñusuk· na pakvan· ḍyə Anak· rahyi ḍeva nis·<lb n="5" break="no"/>kala, sa siḍa mok·ta ḍi gunuṁ tiga, <choice><orig>qəcu</orig><reg>qəñ·cu</reg></choice><!-- Arlo: do you find this c clearer than that at the beginning of line 6? --> rahyiṁ <unclear>n</unclear>is·kala vas·tu
         <lb n="6"/>ka<choice><orig>ca:</orig><reg>ñca</reg></choice>na<!-- Arlo: actually the c seems quite clear to me; the length mark is of course unexpected, but it seems clear enough; I suppose we should here to normalize the c to ñc as in the case of qəñcu -->, saṁ siḍa mok·ta ka nusa laraṁ,</p> 
-                <p>ya syi nu <unclear>ñ</unclear>yin· sakaka<lb 
-	n="7" break="no"/>la, gugun<unclear>uṅ</unclear>an·, <unclear>ṅa</unclear>balay·,, ñyin· samiḍa, ñyin· saṁ hyi talaga <supplied reason="lost" evidence="paralel">va</supplied><lb 
-	n="8" break="no"/>R̥na mahavijaya,</p> <p>ya s<supplied reason="lost">yi pun·</supplied>,,</p> <p><g type="symbol" subtype="tennisball"/><g type="symbol" subtype="tennisball"/> I saka, pañca pan·ḍa<lb 
-	n="9" break="no"/>va ṅ<unclear>ə</unclear>ban· bumi <g type="symbol" subtype="tennisball"/><g type="symbol" subtype="tennisball"/>
+                <p>ya syi nu <unclear>ñ</unclear>yin· sakaka<lb n="7" break="no"/>la, gugun<unclear>uṅ</unclear>an·, <unclear>ṅa</unclear>balay·,, ñyin· samiḍa, ñyin· saṁ hyi talaga <supplied reason="lost" evidence="parallel">va</supplied><lb n="8" break="no"/>R̥na mahavijaya,</p> <p>ya s<supplied reason="lost">yi pun·</supplied>,,</p> <p><g type="symbol" subtype="tennisball"/><g type="symbol" subtype="tennisball"/> I saka, pañca pan·ḍa<lb n="9" break="no"/>va ṅ<unclear>ə</unclear>ban· bumi <g type="symbol" subtype="tennisball"/><g type="symbol" subtype="tennisball"/>
          <lb n="3"/>baduga maharaja, ratu ha<unclear cert="low">j</unclear>i ḍi pakvan· pajajaran· sri sa<unclear>ṁ</unclear> ratu ḍe<lb n="4" break="no"/>vata pun·</p> <p>ya nu ñusuk· na pakvan· ḍyə Anak· rahyi ḍeva nis·<lb n="5" break="no"/>kala, sa siḍa mok·ta ḍi gunuṁ tiga, <choice><orig>qəcu</orig><reg>qəñ·cu</reg></choice><!-- Arlo: do you find this c clearer than that at the beginning of line 6? --> rahyiṁ <unclear>n</unclear>is·kala vas·tu
         <lb n="6"/><choice><orig>kaca:na</orig><reg>kañcana</reg></choice><!-- Arlo: actually the c seems quite clear to me; the length mark is of course unexpected, but it seems clear enough; I suppose we should here to normalize the c to ñc as in the case of qəñcu -->, saṁ siḍa mok·ta ka nusa laraṁ,</p> 
                 <p>ya syi nu <unclear>ñ</unclear>yin· sakaka<lb n="7" break="no"/>la, gugun<unclear>uṅ</unclear>an·, <unclear>ṅa</unclear>balay·,, ñyin· samiḍa, ñyin· saṁ hyi talaga <supplied reason="lost" evidence="parallel">va</supplied><lb n="8" break="no"/>R̥na mahavijaya,</p> <p>ya s<supplied reason="lost">yi pun·</supplied>,,</p> <p><g type="symbol" subtype="tennisball"/><g type="symbol" subtype="tennisball"/> I saka, pañca pan·ḍa<lb n="9" break="no"/>va ṅ<unclear>ə</unclear>ban· bumi <g type="symbol" subtype="tennisball"/><g type="symbol" subtype="tennisball"/>

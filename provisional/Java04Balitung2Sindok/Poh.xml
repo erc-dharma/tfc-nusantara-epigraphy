@@ -1,123 +1,121 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Poh (Randusari I)</title>
-            	<respStmt>
-            		<resp>EpiDoc encoding</resp>
-            		<resp>intellectual authorship of edition</resp>
-            		<persName ref="part:argr">
-            			<forename>Arlo</forename>
-            			<surname>Griffiths</surname>
-            		</persName>
-            	</respStmt>
-            </titleStmt>
-            <publicationStmt>
-                <authority>DHARMA</authority>
-                <pubPlace>Lyon</pubPlace>
-                <idno type="filename">Poh</idno>
-                <availability>
-                    <licence target="https://creativecommons.org/licenses/by/4.0/">
-                        <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Poh (Randusari I)</title>
+            <respStmt>
+               <resp>EpiDoc encoding</resp>
+               <resp>intellectual authorship of edition</resp>
+               <persName ref="part:argr">
+                  <forename>Arlo</forename>
+                  <surname>Griffiths</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>DHARMA</authority>
+            <pubPlace>Lyon</pubPlace>
+            <idno type="filename">Poh</idno>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/">
+                  <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
                             Licence. To view a copy of the licence, visit
                             https://creativecommons.org/licenses/by/4.0/ or send a letter to
                             Creative Commons, 444 Castro Street, Suite 900, Mountain View,
                             California, 94041, USA.</p>
-                        <p>Copyright (c) 2019-2025 by Arlo Griffiths.</p>
-                    </licence>
-                </availability>
-                <date from="2019" to="2025">2019-2025</date>
-            </publicationStmt>
-            <sourceDesc><!-- only the handDesc can be filled in at this stage -->
-                <msDesc><!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
-                    <msIdentifier>
-                        <repository>DHARMAbase</repository>
-                        <idno/><!-- don't modify this -->
-                    </msIdentifier>
-                    <msContents><!-- describe the intellectual content of an inscription -->
-                        <summary><!-- //// NOT MANDATORY  ////--></summary> <!-- offers the possibility to give a summary of the inscription's content -->
-                    </msContents>
-                    <physDesc>
-                        <handDesc>
-                            <p>	See remarks Damais. 
+                  <p>Copyright (c) 2019-2025 by Arlo Griffiths.</p>
+               </licence>
+            </availability>
+            <date from="2019" to="2025">2019-2025</date>
+         </publicationStmt>
+         <sourceDesc><!-- only the handDesc can be filled in at this stage -->
+            <msDesc><!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
+               <msIdentifier>
+                  <repository>DHARMAbase</repository>
+                  <idno/>
+                  <!-- don't modify this -->
+               </msIdentifier>
+               <msContents><!-- describe the intellectual content of an inscription -->
+                  <summary><!-- //// NOT MANDATORY  ////--></summary>
+                  <!-- offers the possibility to give a summary of the inscription's content -->
+               </msContents>
+               <physDesc>
+                  <handDesc>
+                     <p>	See remarks Damais. 
 			The basic punctuation sign takes the shape of a raised circle. 
 			Use of ḍha.
 		</p>
-                            <!-- If you need to identify individual hands (EGD §7.5/) in addition to one or more paragraphs of general palaeographic description, wrap <summary> around the <p> or <p>s above, and, outside <summary>, create <handNote> elements for each hand as follows:
+                     <!-- If you need to identify individual hands (EGD §7.5/) in addition to one or more paragraphs of general palaeographic description, wrap <summary> around the <p> or <p>s above, and, outside <summary>, create <handNote> elements for each hand as follows:
 						<summary><p><p/></summary>
 						<handNote xml:id="Pallava00001_hand1"></handNote>
 						<handNote xml:id="Pallava00001_hand2"></handNote>
 					 -->
-                        </handDesc>
-                    </physDesc>
-                </msDesc>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
-                <p>This project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
-            </projectDesc>
-            <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/><!-- UPDATE the link once the release is made official -->
-            <listPrefixDef>
-                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
-                    <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
-                </prefixDef>
-                <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
-                    <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_IdListMembers_V01.xml</ref> file.</p>
-                </prefixDef>
-            </listPrefixDef>
-        </encodingDesc>
-        <revisionDesc>
-        	<change who="part:argr" when="2020-11-24" status="draft">started initial encoding of the inscription</change>
-        </revisionDesc>
-    </teiHeader>
-    <text xml:space="preserve">
+                  </handDesc>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>This project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
+         </projectDesc>
+         <schemaRef type="guide"
+                    key="EGDv01"
+                    url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+         <!-- UPDATE the link once the release is made official -->
+         <listPrefixDef>
+            <prefixDef ident="bib"
+                       matchPattern="([a-zA-Z0-9\-\_]+)"
+                       replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+               <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
+            </prefixDef>
+            <prefixDef ident="part"
+                       matchPattern="([a-z]+)"
+                       replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+               <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_IdListMembers_V01.xml</ref> file.</p>
+            </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <revisionDesc>
+         <change who="part:argr" when="2020-11-24" status="draft">started initial encoding of the inscription</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="kaw-Latn">
             <pb n="1r"/><!--Blank outer page.-->
 <p><pb n="1v"/>
-<lb n="1v1"/> <g type="dandaSerif"/><g type="dandaSerif"/> <g type="spiralL"/> <g type="dandaSerif"/><g type="dandaSerif"/> svasti śakavarṣātīta<!-- St. śakavarsātīta --> <num value="827">82<unclear>7</unclear></num> śravaṇa-māsa tithi trayodaśi, śuklapakṣa, paniruAn·, pon·, budhavāra, Aiśānya-sthāna, pūrvvāṣāḍha-nakṣatra,<!-- St. pūrvvāṣāḍha, see remarks Damais --> Aśvi-devatā, viskambhayoga, tatkāla Ājñă<!-- St. Ājñā --> śrī mahā<lb 
-n="1v2" break="no"/>rāja rakai vatu kura dyaḥ balituṁ śrī dharmmodayamahāsambhu, misor· I rakyān·<!-- thus LCD, St. rakyān· --> mapatiḥ I hino, muAṁ I rakai vvatan·, kumonnakan· Ikanaṁ vanuA I poḥ muAṁṅ anaknya vanuA ri rumasan·, riṁ nyū, kapva vatak·
+<lb n="1v1"/> <g type="dandaSerif"/><g type="dandaSerif"/> <g type="spiralL"/> <g type="dandaSerif"/><g type="dandaSerif"/> svasti śakavarṣātīta<!-- St. śakavarsātīta --> <num value="827">82<unclear>7</unclear></num> śravaṇa-māsa tithi trayodaśi, śuklapakṣa, paniruAn·, pon·, budhavāra, Aiśānya-sthāna, pūrvvāṣāḍha-nakṣatra,<!-- St. pūrvvāṣāḍha, see remarks Damais --> Aśvi-devatā, viskambhayoga, tatkāla Ājñă<!-- St. Ājñā --> śrī mahā<lb n="1v2" break="no"/>rāja rakai vatu kura dyaḥ balituṁ śrī dharmmodayamahāsambhu, misor· I rakyān·<!-- thus LCD, St. rakyān· --> mapatiḥ I hino, muAṁ I rakai vvatan·, kumonnakan· Ikanaṁ vanuA I poḥ muAṁṅ anaknya vanuA ri rumasan·, riṁ nyū, kapva vatak·
 <lb n="1v3"/>kinivaṁ, śuśukan· paṅguhanya mamulus· mas· <abbr>su</abbr> <num value="4">4</num> tanya<!-- St. tanpa --><space type="descender"/> vadvāyun·, gavai<space type="descender"/>ni vanvanya sāmas·, paknānyan· sinuśuk· muAṁ kalaṁnya sīmā saṁ hyaṁ caitya mahayva siluṁluṁ saṁ devata saṁ lumāḥ I pastika, tan·
-<lb n="1v4"/>katamāna deni saprakāraniṁ maṅilala drabya haji tikasan·, kriṁ, paḍam·,<!-- St. padam· --> rumvān·, paraṇakan·, Air haji, tapa haji, tuha dagaṁ, manimpiki, makalaṅkaṁ, limus· galuḥ, taji, paṅaruhan·, kataṅgaran, pi<lb 
-n="1v5" break="no"/>nilai, vanva I dalam·, hulun haji, pamrasi, mapaḍahi, maṅiduṁ, mahaliman· Ityevamādi saprakāra kabaiḥ tan hana deyan· tumamā Iriya, saṁ hyaṁ caitya saṁ devata saṁ lumāḥ Iṁ pastika Ataḥ basa<lb 
-n="1v6" break="no"/>-pramāṇā I sovarani sukhaduḥkhanya kabaiḥ, maṅasǝAkan· Ikanaṁ rāma kabaiḥ I poḥ, riṁ rumasan·, riṁ nyū, pasak-pasak· I śrī mahārāja vdihan· jaro <abbr>yu</abbr> <num value="1">1</num> mas· pagǝḥ <abbr>su</abbr> <num value="5">5</num> nini haji rakai vvatan· pu tammǝr
+<lb n="1v4"/>katamāna deni saprakāraniṁ maṅilala drabya haji tikasan·, kriṁ, paḍam·,<!-- St. padam· --> rumvān·, paraṇakan·, Air haji, tapa haji, tuha dagaṁ, manimpiki, makalaṅkaṁ, limus· galuḥ, taji, paṅaruhan·, kataṅgaran, pi<lb n="1v5" break="no"/>nilai, vanva I dalam·, hulun haji, pamrasi, mapaḍahi, maṅiduṁ, mahaliman· Ityevamādi saprakāra kabaiḥ tan hana deyan· tumamā Iriya, saṁ hyaṁ caitya saṁ devata saṁ lumāḥ Iṁ pastika Ataḥ basa<lb n="1v6" break="no"/>-pramāṇā I sovarani sukhaduḥkhanya kabaiḥ, maṅasǝAkan· Ikanaṁ rāma kabaiḥ I poḥ, riṁ rumasan·, riṁ nyū, pasak-pasak· I śrī mahārāja vdihan· jaro <abbr>yu</abbr> <num value="1">1</num> mas· pagǝḥ <abbr>su</abbr> <num value="5">5</num> nini haji rakai vvatan· pu tammǝr
 <lb n="1v7"/>kain· jaro savlaḥ mas· <abbr>su</abbr> <num value="5">5</num> <g type="ddandaHooked">.</g> I rakryān mapatiḥ I hino saṁ śrī dakṣottamabāhubajrapratipakṣakṣaya InaṁsǝAn· pasak-pasak· vdihan· kalyāga <abbr>yu</abbr> <num value="1">1</num><!-- St. reads "," here, but there is none --> mas· <abbr>su</abbr> <num value="1">1</num> <abbr>mā</abbr> <num value="4">4</num> I rakai halu pu vīravikrama,
-<lb n="1v8"/>rakai sirikan· pu variga saṁ samaravikrānta, rakai vka pu kutak·, saṁ pamagat· tiruAn· pu Asaṅā saṁ śiva-Astra kapuA InaṁsǝAn· pasak-pasak· vdihan· kalyāga <abbr>yu</abbr> <num value="1">1</num> mas· <abbr>su</abbr> <num value="1">1</num> Iṁ sovaṁ-sovaṁ, ra<lb 
-n="1v9" break="no"/>kai halaran· pu tloḍhuṁ<!-- St. tloḍuṁ, see remarks LCD -->, 
+<lb n="1v8"/>rakai sirikan· pu variga saṁ samaravikrānta, rakai vka pu kutak·, saṁ pamagat· tiruAn· pu Asaṅā saṁ śiva-Astra kapuA InaṁsǝAn· pasak-pasak· vdihan· kalyāga <abbr>yu</abbr> <num value="1">1</num> mas· <abbr>su</abbr> <num value="1">1</num> Iṁ sovaṁ-sovaṁ, ra<lb n="1v9" break="no"/>kai halaran· pu tloḍhuṁ<!-- St. tloḍuṁ, see remarks LCD -->, 
 <!-- argr has finished checkingh the edition down to here on 2020-11-24 -->
 samagat dalman saṁ sukhapaṁgil, rakai palarhyaṁ pu puñjaṁ, maṁhuri pu cakra, paṁkur pu śivadhyāna, tavān pu sūryya, tirip pu kṛmṇa vadihati pu ḍapit, makudur
 <lb n="1v10"/>pu samvṛda, kapua inaṁsǝan pasak-pasak· vdihan raṁga <abbr>yu</abbr> 1 mas <abbr>mā</abbr> 8 iṁ sovaṁ-sovaṁ // samagat kinivaṁ makavanva ikanaṁ i poḥ sinuśuk kinivaṁ pu bnat anakvanva iṁ kavu sīma kapatihan i
 <lb n="1v11" break="no"/>naṁsǝan pasak-pasak· vdihan kalyāga <abbr>yu</abbr> 1 mas <abbr>su</abbr> 14 kbo 1 vḍus 1 pada 1 saṁ kinivaṁ anakbi pu tuṇḍuṁ kain pinilai savlaḥ mas <abbr>mā</abbr> 8 // paminaṁ i saṁ hyaṁ kudur vdihan <abbr>yu</abbr> 1 mas <abbr>mā</abbr> 4 saṁ juru i
-<lb n="1v12"/>Ayamtǝas 2 saṁ miramiraḥ pu rayuṁ anakvanuA I miramiraḥ vatak vadihati maṁraṁkappi saṁ halaran pu dhanada anakvanuA I paṁramvan sīma vadihati, saṁ juru i makudur 2 saṁ taṁkilsugiḥ pu mankai ana<lb 
-n="1v14" break="no"/>k vanuA I mantyāsiḥ vatak makudur, maṁraṁkappi saṁ maṇḍyāṁin anakvanuA I kahaṁatan vatak hamyas kapua vinaiḥ pasak-pasak· vdihan <abbr>yu</abbr> 1 mas <abbr>mā</abbr> 4 iṁ sovaṁ-sovaṁ, saṁ tuhān mamuat vuvus ka<lb 
-n="1v14" break="no"/>baiḥ parujar i hino saṁ kaṇḍamuhi pu tuṁgaṁ anakvanuA I gunuṁan vatak taṁkilan, citralaikhā saṁ vatuvarani pu manǝsǝ:r anakvanuA I tutuganniṁtaṇḍa i taṁkilan, parujarri halu saṁ vimga pu damodara anakvanuA I
-<lb n="1v15"/>paṇḍavutan vatak tirurāṇu, parujari sirikan saṁ hujuṁgaluḥ pu ayuddha anakvanuA I truvanban vatak tirurāṇu, citralekhā saṁ dharmmasinta pu samudra anakvanuA I pāstamvir, parujarri vka saṁ viridiḥ pu ḍaṇu A<lb 
-n="1v16" break="no"/>nakvanuA I skarttan vatak layuvataṁ, citralekhā saṁ halaṁmanuk pu govinda anakvanuA I vanuAtṁaḥ vatak vurusiki, parujar i tiruan saṁ sumuḍan ḍapunta katimamaṁ anakvanuA I vuṁkuḍu vatak kili<lb 
-n="1v17" break="no"/>pan, kapua vinaihan pasak-pasak· vdihan <abbr>yu</abbr> i mas <abbr>mā</abbr> 4 iṁ soaṁsoaṁ // parujarri halaran saṁ ravanu pu batu anakvanuA I hinapit vatak vka, parujarri dalinan saṁ varyyaṁ pu lakṣaṇa anakvanuA
-<lb n="1v18"/>I vvatan vatak dalinan, parujarri palarhyaṁ saṁ tumapal pu baka anakvanuA I tuṁgumanoṁan, parujarri maṁhuri saṁ ranugra pu gupura anakvanuA I hinapit vatak vka, parujarri vka saṁ dadalan pu samodaya<lb 
-n="1v19" break="no"/>nak vanuA I siṁhapura vatak halu madāṁ maṁasǝ: i mamrati, parujarri tavān saṁ dhāluk pu .. ruy anakvanuA I ralua vatak vurusiki, parujarri tirip saṁ rapaḍaṁ pu rāghū anakvanuA I yugihan vatak
+<lb n="1v12"/>Ayamtǝas 2 saṁ miramiraḥ pu rayuṁ anakvanuA I miramiraḥ vatak vadihati maṁraṁkappi saṁ halaran pu dhanada anakvanuA I paṁramvan sīma vadihati, saṁ juru i makudur 2 saṁ taṁkilsugiḥ pu mankai ana<lb n="1v14" break="no"/>k vanuA I mantyāsiḥ vatak makudur, maṁraṁkappi saṁ maṇḍyāṁin anakvanuA I kahaṁatan vatak hamyas kapua vinaiḥ pasak-pasak· vdihan <abbr>yu</abbr> 1 mas <abbr>mā</abbr> 4 iṁ sovaṁ-sovaṁ, saṁ tuhān mamuat vuvus ka<lb n="1v14" break="no"/>baiḥ parujar i hino saṁ kaṇḍamuhi pu tuṁgaṁ anakvanuA I gunuṁan vatak taṁkilan, citralaikhā saṁ vatuvarani pu manǝsǝ:r anakvanuA I tutuganniṁtaṇḍa i taṁkilan, parujarri halu saṁ vimga pu damodara anakvanuA I
+<lb n="1v15"/>paṇḍavutan vatak tirurāṇu, parujari sirikan saṁ hujuṁgaluḥ pu ayuddha anakvanuA I truvanban vatak tirurāṇu, citralekhā saṁ dharmmasinta pu samudra anakvanuA I pāstamvir, parujarri vka saṁ viridiḥ pu ḍaṇu A<lb n="1v16" break="no"/>nakvanuA I skarttan vatak layuvataṁ, citralekhā saṁ halaṁmanuk pu govinda anakvanuA I vanuAtṁaḥ vatak vurusiki, parujar i tiruan saṁ sumuḍan ḍapunta katimamaṁ anakvanuA I vuṁkuḍu vatak kili<lb n="1v17" break="no"/>pan, kapua vinaihan pasak-pasak· vdihan <abbr>yu</abbr> i mas <abbr>mā</abbr> 4 iṁ soaṁsoaṁ // parujarri halaran saṁ ravanu pu batu anakvanuA I hinapit vatak vka, parujarri dalinan saṁ varyyaṁ pu lakṣaṇa anakvanuA
+<lb n="1v18"/>I vvatan vatak dalinan, parujarri palarhyaṁ saṁ tumapal pu baka anakvanuA I tuṁgumanoṁan, parujarri maṁhuri saṁ ranugra pu gupura anakvanuA I hinapit vatak vka, parujarri vka saṁ dadalan pu samodaya<lb n="1v19" break="no"/>nak vanuA I siṁhapura vatak halu madāṁ maṁasǝ: i mamrati, parujarri tavān saṁ dhāluk pu .. ruy anakvanuA I ralua vatak vurusiki, parujarri tirip saṁ rapaḍaṁ pu rāghū anakvanuA I yugihan vatak
 
 <pb n="2r"/>
 <lb n="2r1"/>dalinan, kapua vinaih pasak-pasak· vdihan <abbr>yu</abbr> 1 mas <abbr>mā</abbr> 2 iṁ sovaṁ sovaṁ // pihujuṁni parujar saṁ mānak katiga i paṁkur lua si raṁhal muAṁ si sañjaya, i tavān muṁgi si masusū muAṁ vvatan pai
-<lb n="2r2"/>si caṁka, i tirip panavuṁan si lakā kapua vinaiḥ pasak-pasak· vdihan <abbr>yu</abbr> 1 mas <abbr>mā</abbr> 1 iṁ sovaṁ-sovaṁ // i vadihati lumaku manuśuk si pārthava anakvanuA I taṁkilan vatak mamrati, i makudu<lb 
-n="2r3"/>r lumaku manuśuk saṁṁuttara anakvanuA I varakvarak vatak hino, kapua vinaiḥ pasak-pasak· vdihan <abbr>yu</abbr> 2 <abbr>mā</abbr> 15 kahop paṁaṁkat panuṁsuṁ muAṁ saṁu nira muliḥ iṁ sovaṁ-sovaṁ, vadvā rakryān mapa<lb 
-n="2r4" break="no"/>tiḥ i hino paṁuraṁ milu manuśuk saṁ marumvi pu mana anakvanuA I marumvi vatak hino, paṁuraṁ i halu si naitra anakvanuA I pamǝhaṁan vatak manimpiki, paṁuraṁ i sirikan rakai paṁgaṁ anakvanuA
+<lb n="2r2"/>si caṁka, i tirip panavuṁan si lakā kapua vinaiḥ pasak-pasak· vdihan <abbr>yu</abbr> 1 mas <abbr>mā</abbr> 1 iṁ sovaṁ-sovaṁ // i vadihati lumaku manuśuk si pārthava anakvanuA I taṁkilan vatak mamrati, i makudu<lb n="2r3"/>r lumaku manuśuk saṁṁuttara anakvanuA I varakvarak vatak hino, kapua vinaiḥ pasak-pasak· vdihan <abbr>yu</abbr> 2 <abbr>mā</abbr> 15 kahop paṁaṁkat panuṁsuṁ muAṁ saṁu nira muliḥ iṁ sovaṁ-sovaṁ, vadvā rakryān mapa<lb n="2r4" break="no"/>tiḥ i hino paṁuraṁ milu manuśuk saṁ marumvi pu mana anakvanuA I marumvi vatak hino, paṁuraṁ i halu si naitra anakvanuA I pamǝhaṁan vatak manimpiki, paṁuraṁ i sirikan rakai paṁgaṁ anakvanuA
 <lb n="2r5"/>I siṁhapura vatak halu, paṁuraṁ i vka rakai sañjat anakvanuA I samalagi vatak asampañjaṁ, paṁuraṁ i paṁkur saṁ dhyāna anakvanuA I glaṁglaṁ vatak kalumvarak, kapua vinaiḥ pasak-pasak· vdihan
-<lb n="2r6"/>yu i mas <abbr>mā</abbr> 10 kahop pavaiḥ saṁu nira muliḥ iṁ sovaṁ-sovaṁ, kinon rakai vvatan humarappa ikaṁ śuśukan parujar nira si rapilaṁ anakvanuA I tarumvajaṁ vatak hino vinaiḥ pasak-pasak· vdi<lb 
-n="2r7" break="no"/>han <abbr>yu</abbr> 1 mas <abbr>su</abbr> i <abbr>mā</abbr> 4 juruni maṁraṁkat i vvatan pu kaiśava anakvanuA I matṁǝr patīrthan, muAṁ saṁ vluran pu dumva, kapua vinaiḥ pasak-pasak· vdihan bvat lvitan sahlai mas <abbr>mā</abbr> 8 iṁ sovaṁ-sovaṁ .
+<lb n="2r6"/>yu i mas <abbr>mā</abbr> 10 kahop pavaiḥ saṁu nira muliḥ iṁ sovaṁ-sovaṁ, kinon rakai vvatan humarappa ikaṁ śuśukan parujar nira si rapilaṁ anakvanuA I tarumvajaṁ vatak hino vinaiḥ pasak-pasak· vdi<lb n="2r7" break="no"/>han <abbr>yu</abbr> 1 mas <abbr>su</abbr> i <abbr>mā</abbr> 4 juruni maṁraṁkat i vvatan pu kaiśava anakvanuA I matṁǝr patīrthan, muAṁ saṁ vluran pu dumva, kapua vinaiḥ pasak-pasak· vdihan bvat lvitan sahlai mas <abbr>mā</abbr> 8 iṁ sovaṁ-sovaṁ .
 <lb n="2r8"/>saṁ rataji maṁilala sukadbā i poḥ si paṁadaggan anakvanuA I kahuripan vatak lunturan vinaiḥ pasak-pasak· vdihan <abbr>yu</abbr> i mas <abbr>mā</abbr> 8 // juruniṁ kanayakān i kinivaṁ si lagai anakvanuA I
 <lb n="2r9"/>kavu kapatihan vinaiḥ pasak-pasak· vdihan <abbr>yu</abbr> 1 mas <abbr>mā</abbr> 4 paṁuraṁ saṁ kinivaṁ vadvā nira milua irikaṁ śuśukan prāṇa 5 si śala ramani barubuh anakvanuA ri vuaṁkalaṁ vatak kinivaṁ, muAṁ si gasyak ramani
-<lb n="2r10"/>gavaṁ anakvanuA I vvaraṁ vatak talaṁ, muAṁ si saṁkhara ramani vidyū anakvanuA I kilipan vatak kilipan, muAṁ daladap anakvanuA I kandaṁ vatak valakas, muAṁ si prajñā anakvanuA I tamyaṁ vatak pa<lb 
-n="2r11" break="no"/>ku vaṅi, kapuA vinaihan pasak-pasak· vdihan <abbr>yu</abbr> i mas <abbr>mā</abbr> 2 iṁ sovaṁ-sovaṁ, paṁuraṁ sira kriṁ 2 si purul ramani vudyaṁ anakvanuA I tuṁguyuṁ vatak kinivaṁ, muAṁ si gunuṁ ramani pakudān, kapua vinaiḥ
+<lb n="2r10"/>gavaṁ anakvanuA I vvaraṁ vatak talaṁ, muAṁ si saṁkhara ramani vidyū anakvanuA I kilipan vatak kilipan, muAṁ daladap anakvanuA I kandaṁ vatak valakas, muAṁ si prajñā anakvanuA I tamyaṁ vatak pa<lb n="2r11" break="no"/>ku vaṅi, kapuA vinaihan pasak-pasak· vdihan <abbr>yu</abbr> i mas <abbr>mā</abbr> 2 iṁ sovaṁ-sovaṁ, paṁuraṁ sira kriṁ 2 si purul ramani vudyaṁ anakvanuA I tuṁguyuṁ vatak kinivaṁ, muAṁ si gunuṁ ramani pakudān, kapua vinaiḥ
 <lb n="2r12"/>pasak-pasak· mas <abbr>mā</abbr> 2 iṁ sovaṁ-sovaṁ, paṁuraṁ saṁ manimpiki pu mamvi ramani manojña anakvanuA I tarumbajaṁ vinaiḥ pasak vdihan sahlai mas ku 2 // patiḥ i kinivaṁ nayaka saṁ rakavu si dṛpiṁ ramani paṁalaḥ
 <lb n="2r13"/>muAṁ saṁ gǝgǝl ramani tuṁgaṁ, kapua vinaiḥhan pasak-pasak· vdihan <abbr>yu</abbr> i mas <abbr>mā</abbr> 4 kbo i vḍus 5 patiḥ lampuran i kavu si katimahā vinaiḥ pasak vdihan <abbr>yu</abbr> i mas <abbr>mā</abbr> 4 muvaḥ patiḥ lampuran
 <lb n="2r14"/>prāṇa 3 rakai vadarā, si ralua, si lmaḥhiḍi, kapua vinaihan pasak-pasak· vdihan <abbr>yu</abbr> 1 mas <abbr>mā</abbr> 2 iṁ sovaṁ-sovaṁ, parujarniṁ patiḥ 2 si ravakan anakvanuA I kilipan vatak kinivaṁ, muAṁ si vahu
-<lb n="2r15"/>gyan ramani purul anakvanuA I vinaṁun vatak kinivaṁ kapua vinaiḥ pasak-pasak· vdihan <abbr>yu</abbr> 1 mas <abbr>mā</abbr> 2 iṁ sovaṁ-sovaṁ, vahuta i kinivaṁ sira sǝaṁ si barut ramani lucir anakvanuA I sǝaṁ kavahu<lb 
-n="2r16"/>tān i kinivaṁ vinaiḥ pasak-pasak· vdihan <abbr>yu</abbr> 1 mas <abbr>mā</abbr> 4 kbo 1 vahuta lampuran vinaiḥ pasak-pasak· <abbr>mā</abbr> 6 kinabaihanya, pihujuṁniṁ vahuta 2 si caṁkir anakvanuA I sǝaṁ vinaiḥ vdihan
+<lb n="2r15"/>gyan ramani purul anakvanuA I vinaṁun vatak kinivaṁ kapua vinaiḥ pasak-pasak· vdihan <abbr>yu</abbr> 1 mas <abbr>mā</abbr> 2 iṁ sovaṁ-sovaṁ, vahuta i kinivaṁ sira sǝaṁ si barut ramani lucir anakvanuA I sǝaṁ kavahu<lb n="2r16"/>tān i kinivaṁ vinaiḥ pasak-pasak· vdihan <abbr>yu</abbr> 1 mas <abbr>mā</abbr> 4 kbo 1 vahuta lampuran vinaiḥ pasak-pasak· <abbr>mā</abbr> 6 kinabaihanya, pihujuṁniṁ vahuta 2 si caṁkir anakvanuA I sǝaṁ vinaiḥ vdihan
 <lb n="2r17"/>yu i mas <abbr>mā</abbr> 4 muvaḥ pihujuṁniṁ vahuta si purul anakvanuA I vinaṁun vatak kinivaṁ vinaiḥ pasak vdihan <abbr>yu</abbr> 1 <abbr>mā</abbr> 2 // rāma māgman i poḥ irikanaṁ vanuA sinuśuk anuṁ kabayan prati
 <lb n="2r18"/>śāra i kahayvakna nikaṁ vanuA I poḥ, saṁ tuha banua si gupi ramani javil, kalima si rǝmma ramani gaṇṭih, juru si saṇḍak ramani libat, muvaḥ juru si virat ramani nuṁgū, si aṁgai, si kuyū .
 <lb n="2r19"/>parujarniṁ juru si krit, patṁahanniṁ juru si sǝgǝl ramani basava, tuha kalaṁ si suk ramani turus, vinkas si rutut ramani buhara, tuha guśali si tato ramani sāgi, gusti praṇa 6 prathama
@@ -130,13 +128,10 @@ n="2r16"/>tān i kinivaṁ vinaiḥ pasak-pasak· vdihan <abbr>yu</abbr> 1 mas <
 <lb n="2v6"/>riṁ manuśuk sima, kalaṁ si brita ramani taram anakvanuA Iṁ pulai vatak galaṁ, tuha banva si palvak ramani turubut anakvanuA ri vtuan, vatak kinivaṁ, juru si vaṁun ramani vira anakvanuA ri dadam sīma kudur .
 <lb n="2v7"/>tuha banua si vavā ramani gampvar anakvanuA I vuaṁṁhijo vatak luvakan, juru si pyaṁ ramani muṇḍu anakvanuA Iṁ sukup sīma kudur, tuha banua si (b)anya ramani vava ri kasisap vatak kayo, tuha kalaṁ 
 <lb n="2v8"/>si niti ramani vḍuṁ anakvanuA I paskaran vatak laṁitan, tuha kalaṁ si saṁkhara 1 anakvanuA I sampū sīma haji. maṁmit savaḥ haji i yaluhur 2 si ndandok ramani hasin anakvanuA I sǝaṁ vahuta ri kinivaṁ, muAṁ
-<lb n="2v9"/> ...... anakvanuA I buṁur vatak kinivaṁ, piṇḍa vanuA tpisiriṁ sapuluḥ vanuA, piṇḍa rāma umilu sākṣiniṁ sīma prāṇa 10 kapua vinaiḥhan pasak-pasak· vdihan <abbr>yu</abbr> i <abbr>mā</abbr> 2 iṁ sovaṁ-sovaṁ // maṁ<lb 
-n="2v10" break="no"/>kanaṁ manuluppakan rāmanta vrai muAṁ kaluaṁ tinaḍaḥ saṁ vahuta hyaṁ kudur muAṁ vadvā rakryān saṁ paṁuraṁ kabaiḥ muAṁ rāmanta kabaiḥ, manulup si rapǝ:ṁ anakvanuA I vaduri vatak rumviga, vinaiḥ
+<lb n="2v9"/> ...... anakvanuA I buṁur vatak kinivaṁ, piṇḍa vanuA tpisiriṁ sapuluḥ vanuA, piṇḍa rāma umilu sākṣiniṁ sīma prāṇa 10 kapua vinaiḥhan pasak-pasak· vdihan <abbr>yu</abbr> i <abbr>mā</abbr> 2 iṁ sovaṁ-sovaṁ // maṁ<lb n="2v10" break="no"/>kanaṁ manuluppakan rāmanta vrai muAṁ kaluaṁ tinaḍaḥ saṁ vahuta hyaṁ kudur muAṁ vadvā rakryān saṁ paṁuraṁ kabaiḥ muAṁ rāmanta kabaiḥ, manulup si rapǝ:ṁ anakvanuA I vaduri vatak rumviga, vinaiḥ
 <lb n="2v11"/>vdihan <abbr>yu</abbr> i mas <abbr>mā</abbr> 2 // maṁkana saṁ madāṁ. muAṁ saṁ maṁla prāṇa 3 pu vilut anakvanuA I vraṁ sīmani vihāra vaitanniṁ havān, muAṁ si janar anakvanuA Iṁ malio vatak vka, muAṁ si bayur
 <lb n="2v12"/>anakvanuA I marhyaṁ i sīma mahārāja lumāḥ iṁ śataśṛṁga, kapua vinaiḥ pasak-pasak· vdihan <abbr>yu</abbr> 1 imas <abbr>mā</abbr> 2 iṁ sovaṁ-sovaṁ // saṁ mūlavuddha 2 huluvras ḍapunta pivvi anakvanuA I ravuaṁ
-<lb n="2v13"/>vatak kinivaṁ, muAṁ si lañot ramani mulat anakvanuA I vuaṁvulu vatak luvakan kapua vinaiḥ vdihan <abbr>yu</abbr> 1 mas ku 2 iṁ sovaṁ-sovaṁ, mapaḍahi matuvuṁ si pati ramani turavus ana<lb 
-n="2v14" break="no"/>k vanuA I rapoḥ vinaiḥ vdihan <abbr>yu</abbr> 1 mas <abbr>mā</abbr> 1 ku 1 muvah mapaḍahi syuha ramani vakul anakvanuA I hināṁan vatak luvakan vinaiḥ mas ku 2 marǝgaṁ si vicar ramani viṣama anak vanu<lb 
-n="2v15" break="no"/>A i hijo vatak luvakan vinaiḥ vdihan <abbr>yu</abbr> 1 mas <abbr>mā</abbr> 1 // matapukan 2 si mala anakvanuA I savyan vatak kinivaṁ, muAṁ si parasi anakvanuA I tira vatak mḍaṁ kapua vinaiḥ mas <abbr>mā</abbr> 1
+<lb n="2v13"/>vatak kinivaṁ, muAṁ si lañot ramani mulat anakvanuA I vuaṁvulu vatak luvakan kapua vinaiḥ vdihan <abbr>yu</abbr> 1 mas ku 2 iṁ sovaṁ-sovaṁ, mapaḍahi matuvuṁ si pati ramani turavus ana<lb n="2v14" break="no"/>k vanuA I rapoḥ vinaiḥ vdihan <abbr>yu</abbr> 1 mas <abbr>mā</abbr> 1 ku 1 muvah mapaḍahi syuha ramani vakul anakvanuA I hināṁan vatak luvakan vinaiḥ mas ku 2 marǝgaṁ si vicar ramani viṣama anak vanu<lb n="2v15" break="no"/>A i hijo vatak luvakan vinaiḥ vdihan <abbr>yu</abbr> 1 mas <abbr>mā</abbr> 1 // matapukan 2 si mala anakvanuA I savyan vatak kinivaṁ, muAṁ si parasi anakvanuA I tira vatak mḍaṁ kapua vinaiḥ mas <abbr>mā</abbr> 1
 <lb n="2v16"/>Iṁ sovaṁ-sovaṁ, mabañol jurunya 2 si lugunduṁ anakvanuA I rasuk vatak luvakan, muAṁ si kulika anakvanuA I luṁlaṁ vatak tnǝp vinaiḥ vdihan <abbr>yu</abbr> 1 mas <abbr>mā</abbr> 6 kinabaihannya
 <lb n="2v17"/>ruAṁ juru // sajiniṁ munuśuk sīma vdihan saṁ hyaṁ brahmā <abbr>yu</abbr> 1 mas <abbr>mā</abbr> 1 vdihan saṁ hyaṁ śuśuk kulumpaṁ <abbr>yu</abbr> 4 mas <abbr>mā</abbr> 4 vaduṁ 1 rimvas 1 patupatuk 1 lukai 1 tampilan 1 liṁgis 4 tataḥ i
 <lb n="2v18"/>vaṁkyul i kris 1 kampit 1 gulumi 1 pamāse 1 dom 1 kurumbhāgi 1 kampil 1 paṁlivǝtan 1 tahas 1 padyusan 1 kavah 1 papañjutan 1 saragi inuman 1 saragi paivakan 1
@@ -151,7 +146,7 @@ n="2v15" break="no"/>A i hijo vatak luvakan vinaiḥ vdihan <abbr>yu</abbr> 1 ma
                   </app>
                </listApp>
          </div>
-         <div type="translation" xml:lang="eng">
+         <div type="translation">
  	<!--translation encoded as per EGD §9.2 -->
          </div>
          <div type="commentary">
