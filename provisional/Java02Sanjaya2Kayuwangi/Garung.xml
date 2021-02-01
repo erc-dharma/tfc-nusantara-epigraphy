@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
    <teiHeader>
       <fileDesc>
@@ -18,7 +21,7 @@
             </respStmt>
             <respStmt>
                <resp>intellectual authorship of edition</resp>
-               <persName source="https://viaf.org/viaf/3854483">
+               <persName ref="https://viaf.org/viaf/3854483">
                   <forename>Roelof</forename>
                   <surname>Goris</surname>
                </persName>
@@ -154,12 +157,12 @@
                        <rdg source="bib:Sarkar1971-1972_01">senamukha</rdg>
                    </app>
                    <app loc="1v5">
-                       <lem source=" bib:Goris1928_01 bib:Sarkar1971-1972_01">tuha dagaṁ</lem>
+                       <lem source="bib:Goris1928_01 bib:Sarkar1971-1972_01">tuha dagaṁ</lem>
                        <rdg source="bib:Poerbatjaraka1920_01">tuha dagaṁ,</rdg>
                    </app>
                    <app loc="1v5">
                        <lem source="bib:Poerbatjaraka1920_01">Ityevamādi</lem>
-                       <rdg source=" bib:Goris1928_01 bib:Sarkar1971-1972_01">Ityemādi</rdg><!-- argr2ekba: see my comment above; does Goris/Sarkar write why they chose an incorrected reading? --><!--ekba2argr: I don'rtfind any explanation from both Goris and Sarkar regarding the use of Itvemādi instead of Ityevamādi-->
+                       <rdg source="bib:Goris1928_01 bib:Sarkar1971-1972_01">Ityemādi</rdg><!-- argr2ekba: see my comment above; does Goris/Sarkar write why they chose an incorrected reading? --><!--ekba2argr: I don'rtfind any explanation from both Goris and Sarkar regarding the use of Itvemādi instead of Ityevamādi-->
                    </app>
                    <app loc="1v6">
                        <lem source="bib:Goris1928_01 bib:Sarkar1971-1972_01">drabya</lem>

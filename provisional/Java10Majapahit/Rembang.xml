@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
    <teiHeader>
       <fileDesc>
@@ -85,8 +88,7 @@
            <pb n="1r"/>
            <p>
            <lb n="1r1"/><gap reason="lost" extent="unknown" unit="character"/>śrī rājasanāgara<!--supply comma here?--> maṅkana ya ta dvāra-nava-rana-<gap reason="lost" extent="unknown" unit="character"/>
-           <lb n="1r2"/><gap reason="lost" extent="unknown" unit="character"/>ja, kumaliliranāṁ saṁjñāniṁ tuha-tuha, <unclear>I</unclear>kaṁ <unclear>p</unclear>añji paṅalaḥ, makamaṅgalyājñā p<choice><orig>a</orig><reg>ā</reg></choice>duka śrī <supplied reason="lost">tribhuvanottuṅgarājade</supplied><lb
-           n="1r3" break="no"/><gap reason="lost" extent="unknown" unit="character"/>vī jayaviṣṇuvārddhan<unclear>ī</unclear> nāma rājñyābhiṣekā<unclear>,</unclear> <unclear>p</unclear>vāmatya-vikrama-jitāri-nātha-yoṣid-alaka<gap reason="lost"/>
+           <lb n="1r2"/><gap reason="lost" extent="unknown" unit="character"/>ja, kumaliliranāṁ saṁjñāniṁ tuha-tuha, <unclear>I</unclear>kaṁ <unclear>p</unclear>añji paṅalaḥ, makamaṅgalyājñā p<choice><orig>a</orig><reg>ā</reg></choice>duka śrī <supplied reason="lost">tribhuvanottuṅgarājade</supplied><lb n="1r3" break="no"/><gap reason="lost" extent="unknown" unit="character"/>vī jayaviṣṇuvārddhan<unclear>ī</unclear> nāma rājñyābhiṣekā<unclear>,</unclear> <unclear>p</unclear>vāmatya-vikrama-jitāri-nātha-yoṣid-alaka<gap reason="lost"/>
 <lb n="1r4"/><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost">sthāpita ṅkā</supplied>ne nagare kahuripan dyaḥ śrī gitārjja, sākṣad arddha-rāja-parameśvarī, muAṁ <orig>nagara</orig> śrī kr̥tavarddhana,<gap reason="lost"/>
 <lb n="1r5"/><gap reason="lost" extent="unknown" unit="character"/>kāraṇa-vaṣi sāntanasamāvijanola <gap reason="lost"/> prātijanakānavarata<gap reason="lost"/></p><pb n="1v"/>
          </div>
@@ -109,7 +111,7 @@
              </app>
              <app loc="1r3">
                <lem source="bib:Bosch1917_01">°viṣṇuvārddhan<unclear>ī</unclear></lem>
-               <rdg source="bib:Boechari1985-1986_01">°viṣṇuvārddhanā></rdg>
+               <rdg source="bib:Boechari1985-1986_01">°viṣṇuvārddhanā&gt;</rdg>
                <!--I'm not sure how to interpret the diacritic on this akṣara in PKMN-->
              </app>
              <app loc="1r3">

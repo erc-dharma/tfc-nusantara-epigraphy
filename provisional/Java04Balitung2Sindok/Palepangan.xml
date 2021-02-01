@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
    <teiHeader>
       <fileDesc>
@@ -8,7 +11,7 @@
             <title>Palepangan</title>
             <respStmt>
                <resp>EpiDoc Encoding</resp>
-            	<resp>intellectual authorship of edition</resp>
+               <resp>intellectual authorship of edition</resp>
                <persName ref="part:argr">
                   <forename>Arlo</forename>
                   <surname>Griffiths</surname>
@@ -76,6 +79,7 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
+         <change who="part:argr" when="2021-01-21" status="draft">integrated some corrigenda of the reading proposed by Marine Schoettel</change>
          <change who="part:argr" when="2021-01-20" status="draft">finished initial encoding of the inscription</change>
          <change who="part:axja" when="2020-11-03" status="draft">Updating toward the encoding template v03</change>
          <change who="part:argr" when="2020-09-22" status="draft">started initial encoding of the inscription</change>
@@ -86,16 +90,15 @@
          <div type="edition" xml:lang="kaw-Latn">
 <pb n="1r"/>
 <!-- empty -->
-<p><pb n="1v"/><lb n="1v1"/><g type="ddanda"/> <g type="circle"/> <g type="ddanda"/> svasti śaka-varṣātīta <num value="828">828</num> punaḥ-śravaṇa-māsa, tithi Aṣṭami kr̥ṣṇa-pa<space type="binding-hole"/>kṣa, <abbr>ha</abbr>, <abbr>va</abbr>, <abbr>śu</abbr>, vāra, Irikā divasa rāmanta I paL̥paṅan makabehan·, I<lb 
-n="1v2" break="no"/>nanugrahān· vineḥ makmitana prasasti de rakryān· mapatiḥ I hino pu dakṣottama bāhubajra pratipakṣakṣaya,</p> <p>samvandhanya saṅkā I tan patūtnikanaṁ
-<lb n="1v3"/>rāma lavan· saṁ năyaka bhagavanta jyotiṣa Ikana savaḥnya sinaṅguḥ lamvit· <num value="2">2</num> kinon ta ya modhāra, pirak· <abbr>dhā</abbr> <num value="6">6</num> I satampaḥ-satampaḥ<supplied reason="omitted">,</supplied> kunaṁ sa<space type="descender"/>ṅkā ri
-<lb n="1v4"/>hǝ:tnya tan· vnaṁ modhāra samaṅkana,<!-- comma ignored by Boechari --> ya ta mataṅ yan panamvaḥ rā<space type="descender"/>manta I rakryān· mapa<space type="descender"/>tiḥ<supplied reason="omitted">,</supplied> kinonakan· savaḥnya U<unclear>k</unclear>uran· Iṁ tampaḥ haji, sinaṅguḥ
+<p><pb n="1v"/><lb n="1v1"/><g type="ddanda"/> <g type="circle"/> <g type="ddanda"/> svasti śaka-varṣātīta <num value="828">828</num> punaḥ-śravaṇa-māsa, tithi Aṣṭami kr̥ṣṇa-pa<space type="binding-hole"/>kṣa, <abbr>ha</abbr>, <abbr>va</abbr>, <abbr>śu</abbr>, vāra, Irikā divasa rāmanta I paL̥paṅan makabehan·, I<lb n="1v2" break="no"/>nanugrahān· vineḥ makmitana prasasti de rakryān· mapatiḥ I hino pu dakṣottama bāhubajra-pratipakṣakṣaya,</p> <p>samvandhanya saṅkā I tan patūtnikanaṁ
+<lb n="1v3"/>rāma lavan· saṁ năyaka bhagavanta jyotiṣa,<!-- comma ignored by Boechari --> Ikana savaḥnya sinaṅguḥ lamvit· <num value="2">2</num> kinon ta ya modhāra, pirak· <abbr>dhā</abbr> <num value="6">6</num> I satampaḥ-satampaḥ<supplied reason="omitted">,</supplied> kunaṁ sa<space type="descender"/>ṅkā ri
+<lb n="1v4"/>hǝ:tnya tan· vnaṁ modhāra samaṅkana,<!-- comma ignored by Boechari --> ya ta mataṁṅ yan panamvaḥ rā<space type="descender"/>manta I rakryān· mapa<space type="descender"/>tiḥ<supplied reason="omitted">,</supplied> kinonakan· savaḥnya U<unclear>k</unclear>uran· Iṁ tampaḥ haji, sinaṅguḥ
 <lb n="1v5"/>tampaḥ haji,<!-- comma ignored by Boechari --> sātus· ḍpa sihvā pañjaṁnya,<!-- comma ignored by Boechari --> s<unclear>ǝ</unclear>ṅkǝ:nya tluṁ puluḥ ḍpa sihvā,<!-- comma ignored by Boechari --> kinon· maṅukura vadvā rakryān· I hino saṁ brahmā muAṁ rovaṁ <abbr>samgat·</abbr> priṁ sa<unclear>ṁ</unclear> kañcur·
 <lb n="1v6"/>mijilakan ya lamvit· <num value="1">1</num> tampaḥ <num value="7">7</num> blaḥ <num value="1">1</num> Ikana samaṅkana ya ta kinon· mo<unclear>dhāra,</unclear> pirak· <abbr>dhā</abbr> <num value="6">6</num> I satampaḥ-satampaḥ<supplied reason="omitted">,</supplied> jari rāmanta matahil· pirak· <space type="descender"/> <abbr>dhā</abbr>
 <lb n="1v7"/><num value="6">6</num> I satampaḥ-satampaḥ<supplied reason="omitted">,</supplied> piṇḍa pirak· patahil·<!-- corr. satahil? --> rāmanta rikanaṁ savaḥ lamvit· <num value="1">1</num> tampaḥ <num value="7">7</num> blaḥ <num value="1">1</num> pirak· <abbr>kā</abbr> <num value="5">5</num> <abbr>dhā</abbr> <num value="5">5</num> len· saṅkā ri pilih<!-- Boechari piliḥ--> mas· muA<unclear>ṁ</unclear> kaṭik· prāṇa,
 <lb n="1v8"/><num value="8">8</num> mara I bhaṭāra prāṇa <num value="4">4</num> I saṁ năyaka prāṇa <num value="4">4</num> piṇḍa savaḥni<!-- thus Sarkar and Boechari — or read -niṁ --> kaṭik· lamvit· <num value="1">1</num> tampaḥ <num value="1">1</num> suku <num value="1">1</num> kinabehanya, savaḥ rāmanta lamvit· <num value="1">1</num> blaḥ <num>1</num> katuhala<lb 
-n="1v9" break="no"/>san· tampaḥ <num value="2">2</num> kapkanan· tampaḥ <num value="1">1</num> nāhan· pratyekani savaḥ rāmanta sampun yan<!-- or edit sampunyan? --> inukur i<!-- supply a lost anusvāra here? see 1v4 --> tampaḥ haji, len· sumaṅkā rika hana ta savaḥ bhaṭāra kmitan rā<lb 
-n="1v10" break="no"/>manta lamvit· <num value="1">1</num> dmak·ni p<choice><sic>aj</sic><corr>ād</corr></choice>amūla lamvit· <num value="1">1</num> tan inukur· Ikā Āpan· hĭnanyan· svabhāvanya,<!-- comma ignored by  Boechari --> muAṁ lañjān·<!-- Boechari lañjan· --> pirak· <abbr>dhā</abbr> <num value="14">14</num> patukan· pirak· <abbr>dhā</abbr> <num value="4">4</num><g type="ddanda">.</g> panurat pira<lb 
+n="1v9" break="no"/>san· tampaḥ <num value="2">2</num> kapkanan· tampaḥ <num value="1">1</num> nāhan· pratyekani savaḥ rāmanta sampunyan inukur· I<!-- supply a lost anusvāra here? see 1v4 --> tampaḥ haji, len· sumaṅkā rika hana ta savaḥ bhaṭāra kmitan· rā<lb 
+n="1v10" break="no"/>manta lamvit· <num value="1">1</num> dmak·ni p<choice><sic>aj</sic><corr>ād</corr></choice>amūla lamvit· <num value="1">1</num> tan inukur· Ikā Āpan· hĭnanyan· svabhāvanya,<!-- comma ignored by  Boechari --> muAṁ lañjān·<!-- Boechari lañjan· --> pirak· <abbr>dhā</abbr> <num value="14">14</num> patukan· pirak· <abbr>dhā</abbr> <num value="4">4</num><g type="ddanda">.</g> panurat· pira<lb 
 n="1v11" break="no"/>k· mā <num value="4">4</num><unclear><g type="ddanda">.</g></unclear><!-- punctuation ignored in previous editions  --> Umijil· ri māgha vinava saṁ Umikul· vali bhaṭāra, pavḍus· pirak· <abbr>mā</abbr> <num value="8">8</num> Umijil· ri sasāṅan·, nāhan· Anugraha rakryān· mapatiḥ I rāmanta I paL̥pa<lb 
 n="1v12" break="no"/>ṅan· sapasug banu<choice><sic>Ā</sic><corr>A,</corr></choice></p> <p>tatra sākṣī<!-- S B: saksī--> <abbr>samgat·</abbr> priṁ<!-- B: pri --> ḍapunta Udāra Anak vanuA I srāṅan· pumpunanni bihāra Iṁ pahai, Amasaṅakan· <space type="descender"/>I rakryān· mapatiḥ <unclear>d</unclear>y<unclear>aḥ</unclear> <unclear>va</unclear><lb n="1v13" break="no"/>no Anak vanuA I syutan·<!-- ū? k? kh? --> vatǝk· tiru raṇu, tuha kalaṁ rikaṁ kāla pu baruṇa, pu palinī, tuha banuA pu kmir·, pu gamana, pu gambir·, gusti pu karṇa, pu Aruṇa, pu
 <lb n="1v14"/><unclear>vā</unclear>ri, guru pu tarañja<space type="descender"/>l·, parujar· pu pradhāna, maṁraṁkpi pu kuḍut·, vinkas· pu sādha, tuha banuA I lampahan· pu gammar·, variga pu bur·, huler pu bay·, nā<lb n="1v15" break="no"/>han· kvaiḥnira maṅagam· kon·,<!-- comma ignored by Sarkar Boechari --> kumayatnākan· Uja<choice><orig>r</orig><reg>r r</reg></choice>akryān· mapatiḥ I hino, likhitapātra citralekha <abbr>samgat·</abbr> priṁ</p>
@@ -113,7 +116,7 @@ n="1v12" break="no"/>ṅan· sapasug banu<choice><sic>Ā</sic><corr>A,</corr></c
                   </app>
 <app loc="1v1">
 	<lem source="bib:Damais1955_01 bib:Boechari1985-1986_01">kr̥ṣṇa-pa<space type="binding-hole"/>kṣa</lem>
-	<rdg source=" bib:Bosch1917_02">śukla-pakṣa</rdg>
+	<rdg source="bib:Bosch1917_02">śukla-pakṣa</rdg>
 </app>	
 <app loc="1v3">
 	<lem>Ikana</lem>
@@ -170,8 +173,11 @@ n="1v12" break="no"/>ṅan· sapasug banu<choice><sic>Ā</sic><corr>A,</corr></c
                </listApp>
          </div>
          <div type="translation">
- 	<p n="1v1-1v2">Hail! Elapsed Śaka year 828, intercalary month of Śravaṇa, eighth <foreign>tithi</foreign> of the waxing fortnight, Haryaṅ, Vās, Thursday. That was the time that the elders of Palepangan were collectively granted the privilege of being allowed to keep a charter by the lord minister of Hino, <foreign>pu</foreign> Dakṣottama Bāhubajra Pratipakṣakṣaya.</p>
-	<p n="1v2-1v12">The occasion for it was due to the elders not being in accord with the <foreign>nāyaka</foreign> of the reverend Jyotiṣa <supplied reason="subaudible">that</supplied> their wet ricefield is considered as <supplied reason="subaudible">measuring</supplied> 2 <foreign>lamvit</foreign>. They were ordered to raise <supplied reason="explanation"><foreign>udhāra</foreign></supplied> 6 <foreign>dhāraṇa</foreign> of silver for every single <foreign>tampah</foreign>. But due to its narrowness (or: their limitedness [of means]) they were not able to extract that much. That is why the elders petitioned <supplied reason="explanation">sambah</supplied> the lord minister. Their wet ricefield was ordered to be measured by the royal <foreign>tampah</foreign>. The royal <foreign>tampah</foreign> is considered to be a hundred <foreign>ḍpa sihvā</foreign> in length, its outer limit thirty <foreign>ḍpa sihvā</foreign>. The assistant of the lord of Hino, <supplied reason="explanation">namely</supplied> <foreign>saṅ</foreign> Brahmā, as well as the companion of the officiant of Priṅ <supplied reason="explanation">called</supplied> <foreign>saṅ</foreign> Kañcur, were ordered to measure. They produced <supplied reason="subaudible">as result</supplied> 1 <foreign>lamvit</foreign>, 7 <foreign>tampah</foreign>, 1 <foreign>blah</foreign>. As much as that <supplied reason="explanation">aforementioned sum</supplied> they were ordered to raise: 6 <foreign>dhāraṇa</foreign> of silver for every single <foreign>tampah</foreign> <foreign>jari</foreign>. Thereupon <supplied reason="explanation"><foreign>jari</foreign></supplied>, the elders contributed in <foreign>tahil</foreign> <supplied reason="explanation">tax</supplied> 6 <foreign>dhāraṇa</foreign> of silver for every single <foreign>tampah</foreign>. The total amount of money <supplied reason="explanation"><foreign>pirak</foreign></supplied> serving the elders to contribute <foreign>tahil</foreign> on the ricefield of 1 <foreign>lamvit</foreign>, 7 <foreign>tampah</foreign>, 1 <foreign>blah</foreign>, was 5 <foreign>kāṭi</foreign> and 5 <foreign>dhāraṇa</foreign> of silver<!-- 105 dharana / 6 = 17.5 tampah -->, besides <foreign>pilih mas</foreign> and 8 laborers <supplied reason="explanation"><foreign>kaṭik</foreign></supplied>, 4 of them for the deity, 4 of them for the <foreign>nāyaka</foreign>. The total amount of wet ricefield of the laborers was 1 <foreign>lamvit</foreign>, 1 <foreign>tampah</foreign>, 1 <foreign>suku</foreign> held in common. The wet ricefield of the elders was 1 <foreign>lamvit</foreign>, 1 <foreign>blah</foreign>; the <supplied reason="subaudible">wet ricefield</supplied> of the forest inspector was 2 <foreign>tampah</foreign>; the the <supplied reason="subaudible">wet ricefield</supplied> of the surveyor of markets was 1 <foreign>tampah</foreign>. Such was the specification of the wet ricefields after they had been measured in <foreign>tampah haji</foreign>. Besides them there was 1 <foreign>lamvit</foreign> of wet ricefield of the deity kept by the elders as endowment for the temple manager <supplied reason="explanation"><foreign>pādamūla</foreign></supplied>. It was not measured, because of the destituteness of his condition. And the <foreign>lañjān</foreign> of 14 <foreign>dhāraṇa</foreign> of silver; the <foreign>patukan</foreign> of 4 <foreign>māṣa</foreign> of silver; the <foreign>panurat</foreign> of 4 <foreign>dhāraṇa</foreign> of silver — they are due <supplied reason="explanation"><foreign>umijil</foreign></supplied> in Māgha <supplied reason="subaudible">and</supplied> taken by the one who carries on the <foreign>pikul</foreign> the deity's offerings. The <foreign>pavḍus</foreign> of 4 <foreign>māṣa</foreign> of silver is due in the Ninth <supplied reason="subaudible">month</supplied> <supplied reason="explanation">Caitra</supplied>. Thus was the grant of the lord minister of Hino to the elders of Palepangan with all the village inhabitants.</p>
+ 	<p n="1v1-1v2">Hail! Elapsed Śaka year 828, intercalary month of Śravaṇa, eighth <foreign>tithi</foreign> of the waning fortnight, Haryaṅ, Vās, Friday. That was the time that the elders of Palepangan were collectively granted the privilege of being allowed to keep a charter by the lord minister of Hino, <foreign>pu</foreign> Dakṣottama Bāhubajra Pratipakṣakṣaya.</p>
+	<p n="1v2-1v12">The occasion for it was due to the elders not being in accord with the <foreign>nāyaka</foreign> of the reverend Jyotiṣa <supplied reason="subaudible">that</supplied> their wet ricefield is considered as <supplied reason="subaudible">measuring</supplied> 2 <foreign>lamvit</foreign>. They were ordered to pay <supplied reason="explanation"><foreign>udhāra</foreign></supplied> 6 <foreign>dhāraṇa</foreign> of silver for every single <foreign>tampah</foreign>. But due to its deficiency <supplied reason="explanation">compared to said estimate</supplied> they were not able to pay that much. That is why the elders petitioned <supplied reason="explanation">sambah</supplied> the lord minister. Their wet ricefield was ordered to be measured by the royal <foreign>tampah</foreign>. The royal <foreign>tampah</foreign> is considered to be a hundred <foreign>ḍpa sihvā</foreign> in length, thirty <foreign>ḍpa sihvā</foreign> in breadth. The assistant of the lord of Hino, <supplied reason="explanation">namely</supplied> <foreign>saṅ</foreign> Brahmā, as well as the officiant of Priṅ's companion <supplied reason="explanation">called</supplied> <foreign>saṅ</foreign> Kañcur, were ordered to measure. They produced <supplied reason="subaudible">as result</supplied> 1 <foreign>lamvit</foreign>, 7 <foreign>tampah</foreign>, 1 <foreign>blah</foreign>. As much as that <supplied reason="explanation">aforementioned sum</supplied> they <supplied reason="explanation">namely the elders</supplied> were ordered to raise: 6 <foreign>dhāraṇa</foreign> of silver for every single <foreign>tampah</foreign> <foreign>jari</foreign>. 
+	Thereupon <supplied reason="explanation"><foreign>jari</foreign></supplied>, the elders contributed in <foreign>tahil</foreign> <supplied reason="explanation">tax</supplied> 6 <foreign>dhāraṇa</foreign> of silver for every single <foreign>tampah</foreign>. The total amount of money <supplied reason="explanation"><foreign>pirak</foreign></supplied> serving the elders to contribute <foreign>tahil</foreign> on the ricefield of 1 <foreign>lamvit</foreign>, 7 <foreign>tampah</foreign>, 1 <foreign>blah</foreign>, was 5 <foreign>kāṭi</foreign> and 5 <foreign>dhāraṇa</foreign> of silver<!-- 105 dharana / 6 = 17.5 tampah -->, besides <foreign>pilih mas</foreign> and 8 laborers <supplied reason="explanation"><foreign>kaṭik</foreign></supplied>, 4 of them for the deity, 4 of them for the <foreign>nāyaka</foreign>. The total amount of wet ricefield of the laborers was 1 <foreign>lamvit</foreign>, 1 <foreign>tampah</foreign>, 1 <foreign>suku</foreign> held in common. The wet ricefield of the elders was 1 <foreign>lamvit</foreign>, 1 <foreign>blah</foreign>; the <supplied reason="subaudible">wet ricefield</supplied> of the forest inspector was 2 <foreign>tampah</foreign>; the the <supplied reason="subaudible">wet ricefield</supplied> of the surveyor of markets was 1 <foreign>tampah</foreign>. Such was the specification of the wet ricefields after they had been measured in <foreign>tampah haji</foreign>. 
+	Besides them there was 1 <foreign>lamvit</foreign> of wet ricefield of the deity kept by the elders as endowment for the temple manager <supplied reason="explanation"><foreign>pādamūla</foreign></supplied>. 
+	It was not measured, because of the destituteness of his condition. And the <foreign>lañjān</foreign> of 14 <foreign>dhāraṇa</foreign> of silver; the <foreign>patukan</foreign> of 4 <foreign>māṣa</foreign> of silver; the <foreign>panurat</foreign> of 4 <foreign>dhāraṇa</foreign> of silver — they are due <supplied reason="explanation"><foreign>umijil</foreign></supplied> in Māgha <supplied reason="subaudible">and</supplied> taken by the one who carries on the <foreign>pikul</foreign> the deity's offerings. The <foreign>pavḍus</foreign> of 4 <foreign>māṣa</foreign> of silver is due in the Ninth <supplied reason="subaudible">month</supplied> <supplied reason="explanation">Caitra</supplied>. Thus was the grant of the lord minister of Hino to the elders of Palepangan with all the village inhabitants.</p>
 	<p n="1v12-1v15">The witnesses to it were:
 <list>
 <item>the officiant of Priṅ <supplied reason="subaudible">and</supplied> the <foreign>ḍapunta</foreign> Udāra, natives of the village of Sraṅan, domain of the monastery at Pahai, teaming up  (?) with the lord mnsiter <foreign>dyah</foreign> Vano, native of the village of Syutan, district of Tiru Raṇu;</item> 
@@ -191,7 +197,10 @@ Thus was the total of those holding office, who devoted their full attention to 
          </div>
          <div type="commentary">
             <!--commentary encoded as per section §9.3 -->
-<p>The term <foreign>modhāra</foreign> has not so far been properly explained. Sarkar (n. 14= n/ 16) states: <q>The text has <foreign>modhāra</foreign>, whereof the root appears to be <foreign>u(d)dhara</foreign>. The term therefore appears to have the same significance as <foreign>soddhara</foreign> in <foreign>soddhara haji</foreign> (= <foreign>dravya haji</foreign>).</q> The latter thus seems to mean <q>All the king's dues</q>? 
+<p>The term <foreign>modhāra</foreign> has not so far been properly explained. Sarkar (n. 14= n/ 16) states: <q>The text has <foreign>modhāra</foreign>, whereof the root appears to be <foreign>u(d)dhara</foreign>. The term therefore appears to have the same significance as <foreign>soddhara</foreign> in <foreign>soddhara haji</foreign> (= <foreign>dravya haji</foreign>).</q> The latter thus seems to mean <q>All the king's dues
+
+Luitan (823 Śaka) r.1: "mapatiḥ i hino umajarakan parṇaḥ nikanaŋ sawaḥ kmitanya tan wnaŋ maṅisī uddhāra saŋkā ri höt nikanaŋ sinaṅguḥ satampaḥ"
+</q>? 
 	Cf. OJED <foreign>uddhāra</foreign> (Skt selecting a passage, selection, extract) <foreign>aṅuddhāra</foreign> <q>to make selections</q>
 	<!--MW: '<uddhaara>    m. (in some senses perhaps from 1. <uddh.r>), the act of raising, elevating, lifting up; drawing out, pulling out Gaut. MBh. Comm. on B.rAArUp.; removing, extinction, payment (of a debt); taking away, deduction; omission Mn. Comm. on Yaaj;n.; selection, a part to be set aside, selected part; exception TS. "SBr. AitBr. Mn. &c.; selecting (a passage), selection, extract (of a book) Comm. on Kir. x, 10; extraction, deliverance, redemption, extrication MBh. Prab. &c.; a portion, share; a surplus (given by the Hinduu law to the eldest son beyond the shares of the younger ones) W.; the first part of a patrimony W.; the sixth part of booty taken in war (which belongs to the prince) W.; a debt (esp. one not bearing interest), KaatyDh.; obligation Da;s.; recovering property; refutation Car. Comm. on Nyaayad.; (<aa>) f. the plant Cocculus Cordifolius L.; (<am>) n. a fire-place L.-->
 	Sircar, IEG, p. 348: uddhāra (LP), borrowed on trust or credit; cf. udhār. (IE 8-5), same as udranga; cf. Tamil uttāra*
@@ -201,9 +210,9 @@ Thus was the total of those holding office, who devoted their full attention to 
 <p>On <foreign>jari</foreign>, cf. notes in translation file for Kinewu. OJED's suggestion <foreign>thereupon</foreign> s.v. <foreign>jarīya</foreign> works well here.</p>
 <p>Wisseman Christie 2004: 92: "20 dharana ... = 1 kati".</p>
 <p>"There were apparently 4 suku or 2 blah in 1 tampah, and 10 tampah in 1 lamwit." Barrett-Jones 1984: 145 comes to a different conclusion.</p>
-<p>On <foreign>kaṭik</foreign>, see Stutterheim 1925: 241 f n. 61. Barrett-Jones 1984: 128 and Tiga Prasasti Jaman Balitung p. 41 n. 10.</p>
+<p>On <foreign>kaṭik</foreign>, see Stutterheim 1925: 241 f n. 61. Barrett-Jones 1984: 128 and Tiga Prasasti Jaman Balitung p. 41 n. 10. Connection with <foreign>patik</foreign>?sam</p>
 <p>On <foreign>hĭnanyan svabhāvanira</foreign>, see Sarvadharma 3r3–4 <foreign>ya tikānmahakən trāsanya, An tinitiḥ byət· deniṁ thāni bala, pinisakitan· tan kinavruhan hĭnanya</foreign> <q>That resulted in their fear of being heavily imposed by the Thāni Bala; that they would be tormented without their misery being known</q>.</p>
-<p>The term <foreign>lañjā</foreign>, not recorded in OJED, occurs three times in the Landa inscription: 
+<p n="10">The term <foreign>lañjān</foreign>, not recorded in OJED, occurs three times in the Landa inscription: 
 <list>
 	<item>1r1–2: <foreign>mūlaniṁ savaḥ sīma i kvak tam[pa]ḥ 4 maknā i saṁ makarma i prasāda i laṇḍa, marhyaṁ tampaḥ 2 muAṁ lañjānya, gavayanira dumavuttana dukut niṁ prasāda i ruhur</foreign></item>   
 	<item>1r4: <foreign>paknānya pabiśuvā muAṁ pacaru Aṁkan parvvaṇi lañjānya tamvahani bhukti saṁ paṅajyan i laṇḍa</foreign></item>
@@ -222,6 +231,17 @@ Another possible occurrence is found in Rumwiga 1r3.
 		<bibl n="Boe"><ptr target="bib:Boechari1985-1986_01"/><citedRange unit="page">124-126</citedRange> <citedRange unit="item">E.63</citedRange></bibl><!-- with b&w photo on p. 124 -->
 	</listBibl>
            <listBibl type="secondary">
+	<bibl/><bibl><ptr target="bib:Krom1919_01"/><citedRange unit="page">8-14</citedRange></bibl>
+<!-- Krom 1919: demonstration that terms used are incompatible with a date in 848 and explanation of why number signs 2 and 4 are liable to be confused. Conclusion: date is 829. -->
+	<bibl/><bibl><ptr target="bib:Bosch1920_02"/><citedRange unit="item">1</citedRange><citedRange unit="page">98-101</citedRange></bibl>
+<!-- Bosch 1920: rejection of Krom's arguments on these grounds: "Niets belet ons te gelooven, dat de kanselarij-stijl op Midden-Java tot in het midden der 9de Çaka-eeuw ouderwetsche allures behouden heeft en dientengevolge de tekst van de midden-Javaansche plaat van 848 meer overeenkomst vertoont met de kwart-eeuw oudere edicten dan met de gelijktijdige Oost-Javaansche. Een feit, dat voor deze verklaring pleit, vindt men in de Jayapattra van 849, welke eveneens midden-Javaansche oorkonde een even korte, even ,,ouderwetsche" dateering bevat als de plaat van 848.
+	Zoolang dus niet de onomstootelijke bewijzen geleverd zijn, dat de 4 van het jaartal 848 op eene H even onbegrijpelijke als onvergeefelijke vergissing van den
+graveur berust, 6f overtuigend is aangetoond, dat in een bepaalde periode der Javaansche epigraphie het teeken voor de 4 ook voor de 2 gebruikt is, meenen wij
+aan de verlokkingen van het jaartal 828 — met zijn eenvoudige oplossing van het vraagstuk — weerstand te moeten bieden en ons te blijven houden aan 848 onder
+aanvaarding van alle tegenstrijdigheden en moeielijkheden, die het in het leven heeft geroepen."
+	A short rejoinder is offered by Krom in a footnote on the last page. He maintains his position. -->
+	<bibl/><bibl><ptr target="bib:Muusses1923_01"/><citedRange unit="page">105</citedRange></bibl>
+<!-- simple listing of this inscription -->
 	<bibl/><bibl><ptr target="bib:Bosch1924_02"/><citedRange unit="page">229</citedRange><citedRange unit="note">1</citedRange></bibl>
 <!-- "De pseudo 4, die bij de bespreking van de oorkonde van Mpu Sindok van 828 schrijver dezes parten heeft gespeeld (Zie Oudh. Versl. 1917, Bijlage M; Dr. Krom, Bijdr. Kon. Inst. 75 p. 8 vlg.; Oudh. Versl. 1920 Bijl. I, met noot van Dr. Krom op p. 100) is hiermede, hopen we, voor goed ontmaskerd."  -->
               <bibl/><bibl><ptr target="bib:Stutterheim1937_02"/><citedRange unit="page">154</citedRange></bibl>
@@ -270,7 +290,7 @@ Tempat temuan: Daerah Borobudur, kabupaten Magelang, Jawa Tengah.
 Angka tahun: 828 Śaka (15 Agustus 906).
  
 Nama raja: (Tidak ada, tetapi menyebut nama Rakryān Mapatiḥ i Hino Pu Dakṣottama Bāhubajra Pratipakṣakṣaya.
-
+j
 Satu lempengan tembaga berukuran 36,5 x 17,3 cm, di bagian atas tengah ada lubang bundar kecil. Bertulisan 15 baris di satu sisinya. Huruf dan bahasanya Java Kuna.
 
 Referensi: Krom, BKI, 75, 1919, p. 8 sq. 
@@ -278,6 +298,6 @@ Photos	EFEO GROB03804 <https://collection.efeo.fr/ws/web/app/collection/record/2
 	OD-5197
 	Boechari, p. 124
 
-Krom, HJG, ?: 186; OV, 1923: 105; OV, 1922: 85; OV, 1920: 98dst; Krom, BKI, 75, 1919: 8 sq. (tk)
+Krom, HJG, ?: 186; 
 
 -->
