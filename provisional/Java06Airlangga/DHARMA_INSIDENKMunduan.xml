@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Munduan</title>
+            <respStmt>
+               <resp>EpiDoc encoding</resp>
+               <persName ref="part:ekba">
+                  <name>Eko Bastiawan</name>
+               </persName>
+               <persName ref="part:argr">
+                  <forename>Arlo</forename>
+                  <surname>Griffiths</surname>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>intellectual authorship of edition</resp>
+               <persName ref="part:argr">
+                  <forename>Arlo</forename>
+                  <surname>Griffiths</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>DHARMA</authority>
+            <pubPlace>Malang</pubPlace>
+            <idno type="filename">DHARMA_INSIDENKMunduan</idno>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/">
+                  <p>This work is licenced under the Creative Commons Attribution 4.0 Unported Licence. To view a copy of the licence, visit https://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.</p>
+                  <p>Copyright (c) 2019-2025 by Eko Bastiawan &amp; Arlo Griffiths</p>
+               </licence>
+            </availability>
+            <date from="2019" to="2025">2019-2025</date>
+         </publicationStmt>
+         <sourceDesc><!-- only the handDesc can be filled in at this stage -->
+            <msDesc><!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
+               <msIdentifier>
+                  <repository>DHARMAbase</repository>
+                  <idno/>
+                  <!-- don't modify this -->
+               </msIdentifier>
+               <msContents><!-- describe the intellectual content of an inscription -->
+                  <summary><!-- //// NOT MANDATORY  ////--></summary>
+                  <!-- offers the possibility to give a summary of the inscription's content -->
+               </msContents>
+               <physDesc>
+                  <handDesc>
+                     <p><!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EG 11.2. --></p>
+                  </handDesc>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>This project DHARMA has received funding from the European Research Council (ERC)
+                        under the European Union's Horizon 2020 research and innovation programme (grant
+                        agreement no 809994).</p>
+         </projectDesc>
+         <schemaRef type="guide"
+                    key="EGDv01"
+                    url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+         <listPrefixDef>
+            <prefixDef ident="bib"
+                       matchPattern="([a-zA-Z0-9\-\_]+)"
+                       replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+               <p>Public URIs with the prefix bib to point to a Zotero Group Library named
+                            ERC-DHARMA whose data are open to the public.</p>
+            </prefixDef>
+            <prefixDef ident="part"
+                       matchPattern="([a-z]+)"
+                       replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+               <p>Internal URIs using the part prefix to point to person elements in the
+                            <ref>DHARMA_IdListMembers_V01.xml</ref> file.</p>
+            </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <revisionDesc>
+         <change who="part:axja" when="2020-11-03" status="draft">Updating toward the encoding template v03</change>
+         <change who="part:ekba" when="2020-09-08" status="draft">initial encoding of the inscription</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:space="preserve">
+      <body>
+         <div type="edition" xml:lang="kaw-Latn">
+             <pb n="1r"/><!--Blank outer page.-->
+             <p><pb n="1v"/>
+                 <lb n="1v1"/><g type="ddandaOrnate">.</g>svasti śakavarṣātīta <num value="728">728</num> māghamāsa navami śuklapakṣa, <abbr>ha</abbr>, <abbr>U</abbr>, <abbr>vr̥</abbr>, vāra, tatkāla rakai patapān· pu manuku, sumusu<supplied reason="lost">k ika</supplied><lb n="1v2" break="no"/>naṁ lmaḥ I muṇḍuAn· muAṁ I haji huma, padmaknira I vaduĀnira saṁ patoran·, buAt=hajyanya makmitana vivi ramvaiya makna p<gap reason="lost" quantity="2" unit="character"/>
+                 <lb n="1v3"/>luAni kuramvit· saṁ hyaṁ taṇḍa I patapān· I dlāhaniṁ dlāha, ṅaranyan· pakmitan· vivi saṁ madmak·, dadi ya magavai poma<supplied reason="lost">hān·</supplied>
+                 <lb n="1v4"/>I vinduvindunikanaṁ lmaḥ, yā ta prastāvanyan· I vala vindu ṅaran ikana pomahanya, matəhər· ya Inanugrahān· tan· ka<lb n="1v5" break="no"/>tamāna deniṁ Er baraṅan·, muAṁ saprakāraniṁ maṅilala saṁ parānya maduAl· mavli, ṅunivaiḥ yan· hana sukhaduḥ<supplied reason="lost">kha</supplied><lb n="1v6" break="no"/>nya Ityevamādi tan· katamāna Ataḥ ya, nahan· paṅanugraha rakai patapān· pu manuku I vaduĀnira <unclear>sa</unclear>ṁ <supplied reason="lost">pato</supplied><lb n="1v7" break="no"/>ran· muAṁ I sakvaiḥnikanaṁ Umuṅgu rikanaṁ I vala vindu, yāpuAn· hana UmulaḥUlaḥ Ike paṅanugraha d<supplied reason="lost">lāhaniṁ</supplied><pb n="2r" break="no"/><lb n="2r1" break="no"/>dlāha pañcamahāpataka paṅguhanya, patiḥ I patapān· rikanaṁ kāla, kayumvuṅan· saṁ rupyan·, mantyasiḥ vaduĀ ra<unclear>kai</unclear>
+                 <lb n="2r2"/>patapān· saṁ paliṇḍuA, partaya saṁ pagəḥ kapuA vinaiḥ pasakpasak· pirak· <abbr>dhā</abbr> <num value="1">1</num> vḍihan· <abbr>yu</abbr> <num value="1">1</num> soAṁ-soAṁ <unclear>lu</unclear><lb n="2r3" break="no"/><unclear>pa</unclear>ṇḍaka Er baraṅan· pirak· <abbr>mā</abbr> <num value="8">8</num> vḍihan· <abbr>yu</abbr> <num value="1">1</num> soAṁ-soAṁ, vahuta ptir· paṇḍakyan· pirak <abbr>dhā</abbr> <num value="1">1</num> vḍihan· <abbr>yu</abbr> <num>1</num> soA<supplied reason="lost">ṁ</supplied><lb n="2r4" break="no"/>soAṁ, pituṁtuṁnya <num value="4">4</num> pirak· <abbr>mā</abbr> <num value="4">4</num> soAṁ-soAṁ, rāma I muṇḍuAn· si bunā, kalima si sruka, juru muR̥<unclear>ṁ</unclear> si klat·, sa
+                 <lb n="2r5"/><gap reason="lost" quantity="1" unit="character"/><unclear>l</unclear>· si kulinā, ḍaṇḍa muR̥ṁ sy andhani, kaṇḍaṅan· lamvəs· si tija, kalima I haji huma si sruva, juru siniṁ, parvuvu<supplied reason="lost">s·</supplied>
+                 <lb n="2r6"/><gap reason="lost" quantity="3" unit="character"/>, maṇḍər paraṁ si guṇī, Ikana kabaiḥ kapuA vinaiḥ pasək-pasək· pirak· vḍihan· kāyānurupa, sumurat· 
+                 <lb n="2r7"/><gap reason="lost" quantity="4" unit="character"/><unclear>m</unclear><supplied reason="lost">r</supplied><unclear>a</unclear>prasasti citralekha rakai patapān· saṁ minaṅa vinaiḥ pirak· <abbr>mā</abbr> <num value="8">8</num> vḍihan· <abbr>yu</abbr> <num value="1">1</num><g type="ddanda">.</g><g type="gomutraFinal">.</g>
+             </p>
+         </div>
+         <div type="apparatus">
+           <!--apparatus encoded as per EG §9.1, basic elements for apparatus below-->
+               <listApp>
+                  <app loc="1v1">
+                      <lem>manuku</lem>
+                      <rdg source="bib:Nakada1986_01">manukū</rdg>
+                      </app>
+                   <app loc="1v2">
+                      <lem source="bib:Nakada1986_01">buAthajyanya</lem>
+                      <note>The <foreign>t</foreign> and <foreign>h</foreign> are joined in a ligature, and not written as simple akṣara <foreign>th</foreign>.</note>                      
+                   </app>
+                   <app loc="1v2">
+                      <lem>ramvaiya</lem>
+                       <rdg source="bib:Nakada1986_01">ramvaiḥ ya</rdg>
+                      <note>The (single!) circular trace between <foreign>mvai</foreign> and <foreign>ya</foreign> is probably accidental.</note>                      
+                   </app>
+                   <app loc="1v3">
+                      <lem source="bib:Nakada1986_01">ṅaranyan·</lem>
+                      <note>Understand<foreign>ṅaran nyan</foreign>?</note>
+                      </app>
+                   <app loc="1v4">
+                      <lem>ikana</lem>
+                      <rdg source="bib:Nakada1986_01">ikanaṁ</rdg>
+                      </app>
+                   <app loc="1v5">
+                      <lem source="bib:Nakada1986_01">Er baraṅan·</lem>
+                      <note>Cf. <foreign>Air Baraṅan</foreign> in Mantyasih inscriptions.</note>
+                      </app>
+                   <app loc="1v5">
+                      <lem source="bib:Nakada1986_01">saṁ parānya</lem>
+                      <note>Read <foreign>saparānya</foreign>? The apparent cecak can be considered accidental. Cf. <bibl><ptr target="bib:Brandes1913_01"/><citedRange unit="page">59</citedRange><citedRange unit="item">XXXVII</citedRange></bibl> <foreign>mangilala drabya haji saparānya sadeçānya</foreign>; OJODDV p. 59 <!--ekba 2 argr: I can't find the reference yet--><foreign>saparanya</foreign>.</note>
+                      </app>
+                   <app loc="1v6">
+                      <lem>manuku</lem>
+                      <rdg source="bib:Nakada1986_01">manukū</rdg>
+                      </app>
+                   <app loc="2r1">
+                      <lem>dlāha</lem>
+                      <rdg source="bib:Nakada1986_01">ha</rdg>
+                       <note>Nakada mistakenly places the first syllable in the lacuna at the end of 1r7.</note>
+                      </app>
+                   <app loc="2r2">
+                      <lem>soAṁ-soAṁ <unclear>lu</unclear>-</lem>
+                      <rdg source="bib:Nakada1986_01">soAṁ-soAṁ <supplied reason="lost">, lu</supplied>-</rdg>
+                       <note>The <foreign>lu</foreign> is still discernible, and the space before it is well preserved, without showing any trace of a punctuation sign.</note>
+                      </app>
+                   <app loc="2r3"><!--ekba 2 argr: perhaps we can merge  this with 2r2 above?-->
+                      <lem><unclear>pa</unclear>ṇḍaka</lem>
+                      <rdg source="bib:Nakada1986_01">ṇḍaka</rdg>
+                       <note>Perhaps read <foreign>ṇḍauka</foreign>? How precisely it is spelled remains unclear, but the intended toponym must be <foreign>lupaṇḍak</foreign>.</note>
+                       </app>
+                   <app loc="2r3">
+                      <lem source="bib:Nakada1986_01">vahuta ptir· paṇḍakyan·</lem>
+                       <note>Cf. <bibl><ptr target="bib:Casparis1956_01"/><citedRange unit="page">234</citedRange></bibl>; <bibl><ptr target="bib:Boechari1985-1986_01"/><citedRange unit="page">58</citedRange></bibl>. See discussion <bibl><ptr target="bib:Casparis1950_01"/><citedRange unit="page">154-155</citedRange></bibl>.</note>
+                       </app>
+                   <app loc="2r4-2r5"><!-- I have modified this but I am not sure what to do with the [......i] in Nakada-->
+                       <lem>si bunā, kalima si sruka, juru muR̥<unclear>ṁ</unclear> si klat·, sa<gap reason="lost" quantity="1" unit="character"/><unclear>l</unclear>· si kulinā</lem>
+                      <rdg source="bib:Nakada1986_01">si bunā, [......i] kulinā</rdg>
+                       <note>Everything that follows on this line after <foreign>si bunā</foreign> is omitted by Nakada (perhaps due to eye-skip to <foreign>kalima</foreign> in the next line).</note>
+                       </app>
+                   <app loc="2r6">
+                      <lem>kāyānurupa</lem>
+                      <rdg source="bib:Nakada1986_01">kayānurūpa</rdg>
+                      </app>
+                   <app loc="2r7">
+                      <lem><unclear>m</unclear><supplied reason="lost">r</supplied><unclear>a</unclear>prasasti</lem>
+                      <rdg source="bib:Nakada1986_01">ma prasasti</rdg>
+                       <note>It is likely that the plate originally read <foreign>tāmraprasasti</foreign>.</note>
+                      </app>
+                   <app loc="2r7">
+                      <lem><g type="gomutraFinal">.</g></lem>
+                      <rdg source="bib:Nakada1986_01">kha</rdg>
+                       <note>Nakada reports the reading <g type="ddandaOrnate">.</g> by Oemar for the same sign.</note>
+                      </app>
+               </listApp>         
+         </div>
+         <div type="translation" resp="part:argr">
+ 	<!--translation encoded as per EG §9.2 -->
+	<p>Hail! Elapsed Śaka year 728, month of Māgha, ninth of the waxing fortnight, Hariyaṅ, Umanis, Thursday. At that time<foreign> Rakai</foreign> Patapān Pu Manuku demarcated the land of Muṇḍuan and of <foreign>Haji</foreign> Huma, given as apanage to his servant Patoran. His royal corvée will be to guard the goats … the extent of the kuramvit of the holy insignia of Patapān down to the future’s future. The name is ‘The place of guarding of the goats by the apanage holder’. And so he made a dwelling at the <foreign>vindu-vindus</foreign> of the land. That is the reason that the dwelling is called ‘Vala Vindu’. Thereupon he was given the grant that <supplied reason="subaudible">the land</supplied> may not be entered by the Er Baraṅan, and by all kinds of collectors … of buying and selling. Especially those who have <supplied reason="subaudible">a record of</supplied> good or bad deeds, may the <supplied reason="subaudible">land</supplied> not be entered <supplied reason="subaudible">by them</supplied>. Thus was the grant of <foreign>Raka</foreign> Patapān Pu Manuku to his servant Patoran, and to all who reside in Vala Vindu. If there are who disturb this grant, their reward into the future’s future is <supplied reason="subaudible">that of</supplied> the five great sins</p>
+	<p>The minister of Patapān at that time was the Kayumvuṅan <supplied reason="subaudible">called</supplied> Rupyan; the Mantyasih, servant of the <foreign>Rakai </foreign>Patapān, was the one <supplied reason="subaudible">named</supplied> Palindua; the Partaya was the one <supplied reason="subaudible">named</supplied> Pagəh. All of them were given gifts of 1 <foreign>dhāraṇa</foreign> of silver, 1 <foreign>yugala</foreign> of cloth per person. For the Lupaṇḍak(s) of the Er Baraṅan: 8 <foreign>māṣas</foreign> of gold; 1 <foreign>yugala</foreign> of cloth per person. For the Wahuta Pətir and the Paṇḍakyan: 1 <foreign>dhāraṇa</foreign> of silver, 1 <foreign>yugala</foreign> of cloth per person. For the 4 <foreign>pituṅtuṅs</foreign> of the <supplied reason="subaudible">two villages</supplied>, 4 <foreign>māṣas</foreign> of silver per person. The headman of Muṇḍuan <supplied reason="subaudible">named</supplied> Bunā, the <foreign>kalima</foreign> <supplied reason="subaudible">named</supplied> Sruka, the <foreign>juru murəṅ</foreign> <supplied reason="subaudible">named</supplied> Klat, the … <supplied reason="subaudible">named</supplied> Kulinā, the <foreign>daṇḍa murəṅ</foreign> <supplied reason="subaudible">named</supplied> Andhani, the <foreign>kaṇḍaṅan lavəs</foreign> <supplied reason="subaudible">named</supplied> Tija; the <foreign>kalima</foreign> of <foreign>Haji</foreign> Huma <supplied reason="subaudible">named</supplied> Sruva, the <foreign>juru siniṅ</foreign>, <foreign>parvuvus</foreign>, the <foreign>maṇḍər paraṅ</foreign> <supplied reason="subaudible">named</supplied> Guṇī: all of them they were given gifts in silver and cloth in accordance with their efforts. Minaṅa, the scribe of <foreign>Rakai</foreign> Patapān who wrote the … copper-decree, was given 8 <foreign>māṣa</foreign> of silver, 1 <foreign>yugala</foreign> of cloth.</p>         
+         </div>
+         <div type="commentary">
+            <!--commentary encoded as per section §9.3 -->
+     <p n="1v3">The noun <foreign>kuramwit</foreign> must lay at the basis of the place name <foreign>Kuramwitan</foreign> attested in a few inscriptions; perhaps it is derived from an (unattested) base <foreign>kamwit</foreign>. Connection with <foreign>keramat</foreign>? There is a word <foreign>kerambit</foreign> meaning ‘small sickle’ in Malay.</p>
+             <p n="2r1-2r3">On the toponyms figuring here, see <bibl><ptr target="bib:Casparis1950_01"/><citedRange unit="page">151-160</citedRange></bibl>.</p>
+             <p n="2r4-2r5">Note that the two <foreign>kalimas</foreign> bear the names Sruka and Sruva, which are evidently (derived from) the Sanskrit words for two types of ritual spoons, the sruk and the sruva. This parallelism of names suggests a strong connection of some sort between the two persons in question, despite their affiliation with two different villages.</p>
+         </div>
+        <div type="bibliography">
+	<!--bibliography encoded as per section §9.4 -->
+            <p>First edited by Nakada (<bibl rend="omitname"><ptr target="bib:Nakada1986_01"/><citedRange unit="page">1-22</citedRange><citedRange unit="volume">28</citedRange><!--I am not sure with this volume part--></bibl>). Re-edited here by Arlo Griffiths from photos provided by Ninie Susanti (made by her student Kunta).</p>
+            <listBibl type="primary">
+                    <bibl n="N">
+                      <ptr target="bib:Nakada1986_01"/>
+                      <citedRange unit="page">1-22</citedRange>
+                      <citedRange unit="volume">28</citedRange>
+                    </bibl>
+                  </listBibl>
+            <listBibl type="secondary"><!-- At the moment I have not been able to find  "Weatherbee 2000: 347 n. 13" from your note, Does the reference belongs here? -->
+             <bibl/>
+           </listBibl>
+        </div>
+      </body>
+  </text>
+</TEI>
