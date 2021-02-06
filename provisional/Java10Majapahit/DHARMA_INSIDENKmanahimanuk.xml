@@ -47,7 +47,7 @@
                </msContents>
                <physDesc>
                   <handDesc>
-                      <p><!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EG 11.2. -->This inscription uses an unusual shape of basic punctuation, which does not look like a comma but rather like a simple vertical bar or daṇḍa. The pasangan <s>, <ṣ> and <p> are written in the modern fashion (?) on the same line, and not below the line as it is still usually the case in the Majapahit period. We observe two shapes of anusvāra in this inscription, with the alternative round shape appearing for instance l. 2v5. The scribe uses two ways of forming akṣara lā:
+                     <p><!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EG 11.2. -->This inscription uses an unusual shape of basic punctuation, which does not look like a comma but rather like a simple vertical bar or daṇḍa. The pasangan &lt;s&gt;, &lt;ṣ&gt; and &lt;p&gt; are written in the modern fashion (?) on the same line, and not below the line as it is still usually the case in the Majapahit period. We observe two shapes of anusvāra in this inscription, with the alternative round shape appearing for instance l. 2v5. The scribe uses two ways of forming akṣara lā:
                               with tarung placed to the right of the akṣara, most frequent
                               with tarung written in “superscript” form: 3r1 prajālāṅkarā</p>
                      <!-- If you need to identify individual hands (EG §7.5/) in addition to one or more paragraphs of general palaeographic description, wrap <summary> around the <p> or <p>s above, and, outside <summary>, create <handNote> elements for each hand as follows:
@@ -180,7 +180,7 @@ n="6v1" break="no"/>ṅ an<choice><orig>a</orig><reg>ā</reg></choice>di kabhukt
 </app>
 <app loc="3r3">
 <lem source="bib:Brandes1913_01">°m<choice><orig>ā</orig><reg>a</reg></choice>ṇḍala</lem>
-<rdg source="Boechari1985-1986_01">°māndala</rdg>
+<rdg source="bib:Boechari1985-1986_01">°māndala</rdg>
 </app>
 <app loc="3r3">
 <lem>pr<choice><sic>a</sic><corr>ā</corr></choice>ṁmu<lb/>khe</lem>

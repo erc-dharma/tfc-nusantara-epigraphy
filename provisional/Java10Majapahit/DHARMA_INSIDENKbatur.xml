@@ -91,7 +91,7 @@
 <lb n="Ar1"/><gap reason="lost" quantity="4" unit="character"/><foreign xml:lang="san-Latn">-sambhāra-samārtthya</foreign>, rakryan apatiḥ riṁ kahuripan·, mpu taṇḍiṁ, <foreign xml:lang="san-Latn">naya-vīnaya-guṇānurūpāntaḥpura-rakṣa</foreign><!--I am not entirely certain the compound actually ends there, although rakṣa is a plausible final term-->
 <lb n="Ar2"/><supplied reason="lost">, rakryan də</supplied>muṁ mpu kapat·,<!--make a note in the apparatus for Krom's additions--> <foreign xml:lang="san-Latn">śūra-sapatna-mar<choice><orig>ddh</orig><reg>rd</reg></choice>ana</foreign>, rakryan kanuruhan·, mpu pakis·, <foreign xml:lang="san-Latn">vairi-bala-vīrāntaka</foreign>, rakryan·
 <lb n="Ar3"/><supplied reason="lost">raṅga, mpu</supplied><gap reason="lost" quantity="3" unit="character" precision="low"/>ma <foreign xml:lang="san-Latn">ripu-saṅ<choice><orig>ghy</orig><reg>gh</reg></choice>a-pra<choice><orig>n</orig><reg>ṇ</reg></choice>āśa</foreign>, rakryan tumǝṅguṁ, mpu nala, <foreign xml:lang="san-Latn">sādhu-rakṣaṇāsādhu-nigraha-tatpara</foreign>, makapurassa
-<lb n="Ar4" break="no"/><supplied reason="lost">ra rakryan apatiḥ riṁ</supplied> jaṅgala kaḍiri, mpu mada, <foreign xml:lang="san-Latn">raṇa-maddhyāryy-anukūla-karaṇa</foreign>, <foreign xml:lang="san-Latn">para-sainya-śiraḥ-kapāla-gan<unclear>v</unclear>otpāna <!--em. something here, either utpāda or utpanna, and garva/gardha (pride, arrogance?)-->ma
+<lb n="Ar4" break="no"/><supplied reason="lost">ra rakryan apatiḥ riṁ</supplied> jaṅgala kaḍiri, mpu mada, <foreign xml:lang="san-Latn">raṇa-maddhyāryy-anukūla-karaṇa</foreign>, <foreign xml:lang="san-Latn">para-sainya-śiraḥ-kapāla-gan<unclear>v</unclear>otpāna <!--em. something here, either utpāda or utpanna, and garva/gardha (pride, arrogance?)-->ma</foreign>
 <lb n="Ar5" break="no"/><gap reason="lost" quantity="3" unit="character" precision="low"/><foreign xml:lang="san-Latn">yendhikopāya-samārtthya</foreign>, sākṣāt praṇālāmratisubaddhakǝn paṁḍiri śrī mahārāja sinivi riṁ sayavadv<choice><orig>i</orig><reg>ī</reg></choice>pa-ma<lb
 n="Ar6" break="no"/><supplied reason="lost">ṇḍala-dvī</supplied>pāntara, makan<choice><orig>ā</orig><reg>a</reg></choice>ryyama <!--makanaryama, see parallels in AVj 48.2, etc. But does this refer back or forward? Probably this designation is better suited to the apatih Gajah Mada than to the samgəts--> saṁ <foreign xml:lang="san-Latn">nyāy<choice><sic>a</sic><corr>ā</corr></choice>nyāya-vyavahāra-vicchedaka</foreign>, saṁ pamgǝt i tiruAn·, ḍaṅ ācāryya śi<pb
 n="Av" break="no"/><lb
@@ -144,6 +144,7 @@ n="6" break="no"/><gap reason="lost" quantity="22" unit="character" precision="l
 <lb n="6"/><gap reason="lost" quantity="40" unit="character" precision="low"/>
   </p>
   </div>
+         </div>
 <div type="apparatus">
            <!--apparatus encoded as per EG §9.1, basic elements for apparatus below-->
                <listApp><!-- one <app> for each apparatus entry -->
