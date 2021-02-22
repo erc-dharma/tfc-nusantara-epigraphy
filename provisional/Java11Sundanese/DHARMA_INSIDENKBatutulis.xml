@@ -101,7 +101,7 @@
    </teiHeader>
    <text xml:space="preserve">
         <body>
-            <div type="edition" xml:lang="x-oldsun-Latn">
+            <div type="edition" xml:lang="osn-Latn">
                 <p>
          <lb n="1"/><g type="symbol" subtype="tennisball"/><g type="symbol" subtype="tennisball"/> vaṁ<unclear>ṅa</unclear> <unclear>p</unclear>un· I<unclear>n</unclear>i sakakala, pr<unclear>ə</unclear>bu ratu purane pun·, ḍivas·tu
          <lb n="2"/>ḍy<choice><sic>i</sic><corr>ǝ</corr></choice>, viṅaran· prəbu guru ḍe<unclear>va</unclear>ta p<choice><sic>ra</sic><corr>u</corr></choice>n· ḍivas·tu ḍyə ḍiṅaran· sri
@@ -138,7 +138,7 @@
                     <app loc="4">
                                     <lem>ñusuk· na</lem>
                                     <rdg source="bib:HasanDjafar2011_01">ñusuk·na</rdg>
-                                    <note>All predecessors have by their non-insertion of a space between <foreign>ñusuk</foreign> and <foreign>na</foreign> implied that <foreign>na</foreign> is a pronominal clitic, but it seems more convincing to take it as article <foreign xml:lang="x-oldsun-Latn">na</foreign> (<bibl><ptr target="bib:Hardjadibrata2003_01"/><citedRange>547</citedRange></bibl>).<!-- Arlo: In general, I think we must assume readers share with us a basic understanding of Old Sundanese grammar and lexicon, so that a dictionary reference for such a frequently occurring word as na can be considered superfluous. If we do want to support our choice with a referencem is there not a page in N&T's book, that would be a more pertinent specifically to the interpretation of OS texts? --></note>
+                                    <note>All predecessors have by their non-insertion of a space between <foreign>ñusuk</foreign> and <foreign>na</foreign> implied that <foreign>na</foreign> is a pronominal clitic, but it seems more convincing to take it as article <foreign xml:lang="osn-Latn">na</foreign> (<bibl><ptr target="bib:Hardjadibrata2003_01"/><citedRange>547</citedRange></bibl>).<!-- Arlo: In general, I think we must assume readers share with us a basic understanding of Old Sundanese grammar and lexicon, so that a dictionary reference for such a frequently occurring word as na can be considered superfluous. If we do want to support our choice with a referencem is there not a page in N&T's book, that would be a more pertinent specifically to the interpretation of OS texts? --></note>
                     </app>
                     <app loc="4">
                                     <lem>rahyi</lem>

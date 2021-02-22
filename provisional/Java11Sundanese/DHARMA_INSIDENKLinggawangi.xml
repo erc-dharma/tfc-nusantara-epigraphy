@@ -93,7 +93,7 @@
    </teiHeader>
    <text xml:space="preserve">
         <body>
-            <div type="edition" xml:lang="x-oldsun-Latn">
+            <div type="edition" xml:lang="osn-Latn">
                 <p> 
                     <lb n="1"/><unclear>//</unclear> ba <num value="3">3</num> guna <num value="3">3</num> Apuy· <num value="3">3</num> 
                     <lb n="2"/>di <choice><orig>vva</orig><reg>vvaṁ</reg></choice><!-- case: suplied nasal ṅ/ṁ/anusvavara --> <num value="1">1</num>, Iti sakakala rumata<lb n="3" break="no"/>k· <choice><orig>disusuku</orig><reg>disusuk ku</reg></choice><!-- case: degemination k.--> baṭāri hyaṁ pun·</p>
