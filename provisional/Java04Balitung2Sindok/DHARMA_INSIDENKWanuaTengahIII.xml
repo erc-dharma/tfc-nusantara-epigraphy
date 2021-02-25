@@ -93,6 +93,7 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
+         <change who="part:argr" when="2021-02-24" status="draft">started revision of the encoding</change>
          <change who="part:axja" when="2020-11-03" status="draft">Updating toward the encoding template v03</change>
          <change who="part:ekba" when="2020-09-24" status="draft">initial encoding of the inscription</change>
       </revisionDesc>
@@ -101,20 +102,24 @@
       <body>
          <div type="edition" xml:lang="kaw-Latn"><!-- update the @xml:lang value, see EGD §7.2-->
             <pb n="1r"/><!-- blank -->
-	<p><pb n="1v"/><lb n="1v1"/><g type="ddandaOrnate"/> vuAra sira rahyaṁta I hāra ṅarannira Ari rahyaṁta ri mḍaṁ, sira ta magavai bihāra I pikatan· tutuganni<unclear>ṁ</unclear> taṇḍa,</p>
+	<p>
+<pb n="1v"/><lb n="1v1"/><g type="ddandaCross"/> vuAra sira rahyaṁta I hāra ṅarannira Ari rahyaṁta ri mḍaṁ, sira ta magavai bihāra I pikatan· tutuganni<unclear>ṁ</unclear> taṇḍa,</p>
 <!-- 1v1 \footnote{// \sep\ the liminal sign is ignored here both by B and K. Cf.\ the n.\ on l.\ 1b12 below.} -->
 <!-- 1v1 \footnote{hāra B \sep\ hara K.} -->
-	<p>Iṁ śaka <num value="668">668</num> Aśujimāsa pañcādaśi śukla, <abbr>pa</abbr> <abbr>pa</abbr>pa <abbr>Aṁ</abbr>, <lb n="1v2"/>Aḍiri rakai panaṅkaran·, sira ta Umarpaṇākan· Ikanaṁ savaḥ haji lān· I vanuA tṅaḥ vatak· pikatan· rikanaṁ bihāra I pikatan·, luĀnikanaṁ savaḥ paṅavaitanya lambyan· <lb n="1v3"/> lor· ḍpa sihvā <num value="182">182</num> paṅavaitanya lambyan· kidul· ḍpa sihvā <num value="162">162</num> paṅalor·nya lamvyan· vaitan· ḍpa sihvā <num value="160">160</num> paṅidul·nya lamvyan· kuluAn· ḍpa sihvā <num value="162">162</num> viniḥ<lb n="1v4" break="no"/>nya tū <num value="3">3</num></p>
+	<p>Iṁ śaka <num value="668">668</num> Aśuji-māsa pañcādaśi śukla, <abbr>pa</abbr> <abbr>pa</abbr> <abbr>Aṁ</abbr>, 
+<lb n="1v2"/>Aḍiri rakai panaṅkaran·, sira ta Umarpaṇākan· Ikanaṁ savaḥ haji lān· I vanuA tṅaḥ vatak· pikatan· rikanaṁ bihāra I pikatan·, luĀnikanaṁ savaḥ paṅavaitanya lambyan· ⌈<lb 
+n="1v3" break="no"/>lor· ḍpa sihvā <num value="182">182</num> paṅavaitanya lambyan· kidul· ḍpa sihvā <num value="162">162</num> paṅalor·nya lamvyan· vaitan· ḍpa sihvā <num value="160">160</num> paṅidul·nya lamvyan· kuluAn· ḍpa sihvā <num value="162">162</num> viniḥ<lb 
+n="1v4" break="no"/>nya <abbr>tū</abbr> <num value="3">3</num></p>
 <!-- 	1v1 \footnote{Aśujimāsa K \sep\ asuji māsa B.}
 	1v1 \footnote{pañcādaśi B \sep\ pañcadaśi K.}
 	1v2 \footnote{Aḍiri \sep\ read Aṁdiri? One might assume that the desired anusvāra is concealed in, i.e.\ overlaps with, the descending extremity of the loop of the liminal sign at the start of the first line. Note however that the same loop in the akṣara I also tends to show a circle at the end, without this implying any anusvāra belonging to the line below it. Note also the similar case in line 6, which causes doubt as to the necessity of restoring an anusvāra in both cases.}
 	1v2\footnote{paṅavaitanya B \sep\ pangawetanya K.}
 	1v3\footnote{lambyan B \sep\ lamwyan K.}
-	1v3\footnote{lor \sep\ the pūrvamātra e-sign stands at the end of line 2.}
 	1v3\footnote{lambyan B \sep\ lamwyan K.} -->
-	<p>Iṁ śaka <num value="706">706</num> cetramāsa daśami śukla, <abbr>pa</abbr> <abbr>ka</abbr> <abbr>śa</abbr>, vāra, Aṁḍiri rake panaraban·, tann inulahulaḥ Ikanaṁ savaḥ lān· I vanuA tṅaḥ An tama rikanaṁ bihāra I pikatan·,</p>
+	<p>Iṁ śaka <num value="706">706</num> cetra-māsa daśami śukla, <abbr>pa</abbr> <abbr>ka</abbr> <abbr>śa</abbr>, vāra, Aṁḍiri rake panaraban·, tann inulahulaḥ Ikanaṁ savaḥ lān· I vanuA tṅaḥ An tama rikanaṁ bihāra I pikatan·,</p>
 	<!-- 1v4 \footnote{3 Iṁ B \sep\ 3. Iṁ K.}-->
-	<p>Iṁ śaka <num value="725">725</num> cetra<lb n="1v5" break="no"/>māsa śaṣṭi śukla, <abbr>pa</abbr> <abbr>U</abbr> <abbr>śu</abbr>, vāra, maṁḍiri rake varak· dyaḥ manara, sira ta Umabak· Ikanaṁ sīma pjaḥ rake varak· siraṁ lumāḥ Iṁ kelāsa,</p>
+	<p>Iṁ śaka <num value="725">725</num> cetra<lb 
+n="1v5" break="no"/>māsa śaṣṭi śukla, <abbr>pa</abbr> <abbr>U</abbr> <abbr>śu</abbr>, vāra, maṁḍiri rake varak· dyaḥ manara, sira ta Umabak· Ikanaṁ sīma<supplied reason="omitted">,</supplied> pjaḥ rake varak· siraṁ lumāḥ Iṁ kelāsa,</p>
 <!--           	1v5 \footnote{śaṣṭi K \sep\ ṣaṣṭi B.}
 	1v5 \footnote{śu, vāra, K \sep\ śu wāra. B.} 
 	1v5 \footnote{°ḍiri rake varak \sep\ °ḍiri rakai warak BK.}
@@ -444,9 +449,15 @@
                      <lem><!-- fill in a lemma here --></lem>
                      <rdg source="bib:AuthorYear_01"><!-- update the @source value, fill in variant reading here --></rdg>
                   </app>
+<!-- 	1v1 \footnote{Aśujimāsa K \sep\ asuji māsa B.}
+	1v1 \footnote{pañcādaśi B \sep\ pañcadaśi K.}
+	1v2 \footnote{Aḍiri \sep\ read Aṁdiri? One might assume that the desired anusvāra is concealed in, i.e.\ overlaps with, the descending extremity of the loop of the liminal sign at the start of the first line. Note however that the same loop in the akṣara I also tends to show a circle at the end, without this implying any anusvāra belonging to the line below it. Note also the similar case in line 6, which causes doubt as to the necessity of restoring an anusvāra in both cases.}
+	1v2\footnote{paṅavaitanya B \sep\ pangawetanya K.}
+	1v3\footnote{lambyan B \sep\ lamwyan K.}
+	1v3\footnote{lambyan B \sep\ lamwyan K.} -->
                </listApp>
          </div>
-         <div type="translation">
+         <div type="translation" resp="part:argr">
  	<!--translation encoded as per EGD §9.2 -->
 <p n="1v1">There once was a prince of Hāra, younger brother of the prince of Mḍaṅ. He founded the monastery at Pikatan <foreign>tutuganniṁ taṇḍa</foreign>.<!-- tutugan: cf. Mūla --></p>
 <p n="1v2-1v4">On Śaka 668, month Aśuji, fifteenth, waxing, Paniruan (of the 6-day week), Pahiṅ (of the 5-day week), Tuesday, did Rakai Panaṅkaran mount the throne. He endowed the king's <foreign>lān</foreign> wet rice-field in Vanua Tṅah, domain of Pikatan, to the monastery at Pikatan. The extent of the wet rice-field from east to west on the north side is 182 <foreign>ḍpa sihvā</foreign>; from east to west on the south side it is 162 <foreign>ḍpa sihvā</foreign>; from north to south on the east side it is 160 <foreign>ḍpa sihvā</foreign>; from south to north on the west side it is 162 <foreign>ḍpa sihvā</foreign>. Its seed is 3 <foreign>tū</foreign>.</p>
