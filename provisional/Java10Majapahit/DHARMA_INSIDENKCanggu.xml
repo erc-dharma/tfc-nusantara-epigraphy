@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
    <teiHeader>
       <fileDesc>
@@ -137,8 +137,7 @@
                     </fw>
                         <lb n="3v1"/>ri nyāyānyāyani pakṣanikaṁ vyavahārī kāliḥ,</p>
                 <p>
-                muvaḥ <roleName>dharmmādhyakṣa riṁ kasogatan</roleName>, <roleName>puṁkv ī padləgan</roleName>, ḍaṅ ācāryya <persName>nādendra</persName>, <foreign xml:lang="san-Latn">boddha<lb
-                n="3v2" break="no"/>tarkkavyākaraṇaśāstraparisamāpta</foreign>, makanaryyama, <roleName>dharmmādhyakṣa riṁ kaśaivan</roleName>·, nāma puṣpapāta, ḍaṅ ācāryya <persName>dharmmarāja</persName>, makapadasthan· sa
+                muvaḥ <roleName>dharmmādhyakṣa riṁ kasogatan</roleName>, <roleName>puṁkv ī padləgan</roleName>, ḍaṅ ācāryya <persName>nādendra</persName>, <foreign xml:lang="san-Latn">boddha<lb n="3v2" break="no"/>tarkkavyākaraṇaśāstraparisamāpta</foreign>, makanaryyama, <roleName>dharmmādhyakṣa riṁ kaśaivan</roleName>·, nāma puṣpapāta, ḍaṅ ācāryya <persName>dharmmarāja</persName>, makapadasthan· sa
                         <lb n="3v3" break="no"/>ṅ āryya <roleName>rājaparākrama</roleName>, <foreign xml:lang="san-Latn">mahādvija-bhujaṅga-saṁrakṣaṇa-dharmmādhyakṣa-saṁyojita</foreign>, sinārabhāra pāduka śrī mahārāja dharmmădhyakṣa, maka§
                         <lb n="3v4" break="no"/>don karakṣan para puṁku riṁ kaśaivan·, makādi mahādvija,
                 </p>
@@ -223,8 +222,7 @@
                         <lb n="10v2" break="no"/>kṣa ri kaśaiva<supplied reason="omitted">n</supplied>, dharmmādhyakṣa riṁ kasogatan·, kapva vineḥ pasə:k-pasə:k·, sayathākrama, saṁ dharmmopapatti samudāya, tapva
                         <lb n="10v3"/>vine<unclear>ḥ</unclear> pasə:k-pasə:k·, sayathākrama, makaphalāmratisubaddhāknānugraha pāduka śrī mahārāja, Irikaṅ anambaṅi sayavadvī
                         <lb n="10v4" break="no"/>pamaṇḍala, makādi pañji mărggabhaya, ky ajaran· rata, mvaṁ pañjy aṅrakṣāji, ky ajaran· rāgi, tlas labdhāpagəḥ, kunə<unclear>ṁ</unclear> yan hana U
-                        <lb n="10v5" break="no"/>mula-hulaḥ sarasa saṁ hyaṅ ājñā haji praśāsti, kmitanikaṅ anambaṅi sayavadvīpamaṇḍala, makādi pañji mărggabhaya, ky a<lb
-                        n="10v6" break="no"/>jaran· rata, mvaṁ pañjy aṅrakṣāji, ky ajaran· rāgi, ṅuniveḥ yan paṁlbura kasvatantranikaṅ anambaṅi sayavadvīpamaṇḍala, A
+                        <lb n="10v5" break="no"/>mula-hulaḥ sarasa saṁ hyaṅ ājñā haji praśāsti, kmitanikaṅ anambaṅi sayavadvīpamaṇḍala, makādi pañji mărggabhaya, ky a<lb n="10v6" break="no"/>jaran· rata, mvaṁ pañjy aṅrakṣāji, ky ajaran· rāgi, ṅuniveḥ yan paṁlbura kasvatantranikaṅ anambaṅi sayavadvīpamaṇḍala, A
                  </p>
                 <pb n="11r" break="no"/><gap reason="lost" quantity="1" unit="page"/>
                 </div>

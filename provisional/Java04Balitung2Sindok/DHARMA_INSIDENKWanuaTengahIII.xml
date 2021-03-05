@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
    <teiHeader>
       <fileDesc>
@@ -105,9 +105,7 @@
 	<p>
 <pb n="1v"/><lb n="1v1"/><g type="ddandaCross"/> vuAra sira rahyaṁta I hāra ṅarannira Ari rahyaṁta ri mḍaṁ, sira ta magavai bihāra I pikatan· tutuganni<unclear>ṁ</unclear> taṇḍa,</p>
 	<p>Iṁ śaka <num value="668">668</num> Aśuji-māsa pañcādaśi <abbr>śukla</abbr>, <abbr>pa</abbr> <abbr>pa</abbr> <abbr>Aṁ</abbr>, 
-<lb n="1v2"/>Aḍiri rakai panaṅkaran·, sira ta Umarpaṇākan· Ikanaṁ savaḥ haji lān· I vanuA tṅaḥ vatak· pikatan· rikanaṁ bihāra I pikatan·, luĀnikanaṁ savaḥ paṅavaitanya lambyan· ⌈<lb 
-n="1v3" break="no"/>lor· ḍpa sihvā <num value="182">182</num> paṅavaitanya lambyan· kidul· ḍpa sihvā <num value="162">162</num> paṅalor·nya lamvyan· vaitan· ḍpa sihvā <num value="160">160</num> paṅidul·nya lamvyan· kuluAn· ḍpa sihvā <num value="162">162</num> viniḥ<lb 
-n="1v4" break="no"/>nya <abbr>tū</abbr> <num value="3">3</num></p>
+<lb n="1v2"/>Aḍiri rakai panaṅkaran·, sira ta Umarpaṇākan· Ikanaṁ savaḥ haji lān· I vanuA tṅaḥ vatak· pikatan· rikanaṁ bihāra I pikatan·, luĀnikanaṁ savaḥ paṅavaitanya lambyan· ⌈<lb n="1v3" break="no"/>lor· ḍpa sihvā <num value="182">182</num> paṅavaitanya lambyan· kidul· ḍpa sihvā <num value="162">162</num> paṅalor·nya lamvyan· vaitan· ḍpa sihvā <num value="160">160</num> paṅidul·nya lamvyan· kuluAn· ḍpa sihvā <num value="162">162</num> viniḥ<lb n="1v4" break="no"/>nya <abbr>tū</abbr> <num value="3">3</num></p>
 <!-- 	1v1 \footnote{Aśujimāsa K \sep\ asuji māsa B.}
 	1v1 \footnote{pañcādaśi B \sep\ pañcadaśi K.}
 	1v2 \footnote{Aḍiri \sep\ read Aṁdiri? One might assume that the desired anusvāra is concealed in, i.e.\ overlaps with, the descending extremity of the loop of the liminal sign at the start of the first line. Note however that the same loop in the akṣara I also tends to show a circle at the end, without this implying any anusvāra belonging to the line below it. Note also the similar case in line 6, which causes doubt as to the necessity of restoring an anusvāra in both cases.}
@@ -116,8 +114,7 @@ n="1v4" break="no"/>nya <abbr>tū</abbr> <num value="3">3</num></p>
 	1v3\footnote{lambyan B \sep\ lamwyan K.} -->
 	<p>Iṁ śaka <num value="706">706</num> cetra-māsa daśami <abbr>śukla</abbr>, <abbr>pa</abbr> <abbr>ka</abbr> <abbr>śa</abbr>, vāra, Aṁḍiri rake panaraban·, tann inulah-ulaḥ Ikanaṁ savaḥ lān· I vanuA tṅaḥ An tama rikanaṁ bihāra I pikatan·,</p>
 	<!-- 1v4 \footnote{3 Iṁ B \sep\ 3. Iṁ K.}-->
-	<p>Iṁ śaka <num value="725">725</num> cetra<lb 
-n="1v5" break="no"/>-māsa śaṣṭi <abbr>śukla</abbr>, <abbr>pa</abbr> <abbr>U</abbr> <abbr>śu</abbr>, vāra, maṁḍiri rake varak· dyaḥ manara, sira ta Umabak· Ikanaṁ sīma<supplied reason="omitted">,</supplied> pjaḥ rake varak· siraṁ lumāḥ Iṁ kelāsa,</p>
+	<p>Iṁ śaka <num value="725">725</num> cetra<lb n="1v5" break="no"/>-māsa śaṣṭi <abbr>śukla</abbr>, <abbr>pa</abbr> <abbr>U</abbr> <abbr>śu</abbr>, vāra, maṁḍiri rake varak· dyaḥ manara, sira ta Umabak· Ikanaṁ sīma<supplied reason="omitted">,</supplied> pjaḥ rake varak· siraṁ lumāḥ Iṁ kelāsa,</p>
 <!--         1v5 \footnote{śaṣṭi K \sep\ ṣaṣṭi B.}
 	1v5 \footnote{śu, vāra, K \sep\ śu wāra. B.} 
 	1v5 \footnote{°ḍiri rake varak \sep\ °ḍiri rakai warak BK.}
@@ -125,19 +122,14 @@ n="1v5" break="no"/>-māsa śaṣṭi <abbr>śukla</abbr>, <abbr>pa</abbr> <abbr
 	1v5 \footnote{lumāḥ Iṁ \sep\ lumāḥ i B, lumah i K.}	 -->
 	<p>Iṁ śaka <num value="749">749</num> śravaṇa-māsa, caturdaśi <abbr>kr̥ṣṇa</abbr>, <abbr>vā</abbr> <abbr>pa</abbr> <abbr>śu</abbr> vāra, maṁ<lb n="1v6" break="no"/>ḍiri dyaḥ gula, tan·n uvaḥ Ataḥ Ikanaṁ sīma rikanaṁ bihāra I pikatan·,</p>
 <!--	1v5\footnote{vā pa śu B \sep\ wa pa śu K.}	-->         
-	<p>Iṁ śaka <num value="750">750</num> māgha-māsa dvitīya <abbr>śukla</abbr>, <abbr>pa</abbr> <abbr>U</abbr> <abbr>Ā</abbr>, vāra, Aḍiri rake garuṁ Anak· saṁ lumāḥ I tūk·, sira ta Umaluyakan· Ikanaṁ sa<lb 
-n="1v7" break="no"/>vaḥ sīma Irikanaṁ bīhāra I pikatan·</p>
+	<p>Iṁ śaka <num value="750">750</num> māgha-māsa dvitīya <abbr>śukla</abbr>, <abbr>pa</abbr> <abbr>U</abbr> <abbr>Ā</abbr>, vāra, Aḍiri rake garuṁ Anak· saṁ lumāḥ I tūk·, sira ta Umaluyakan· Ikanaṁ sa<lb n="1v7" break="no"/>vaḥ sīma Irikanaṁ bīhāra I pikatan·</p>
 <!--	1v6\footnote{Aḍiri \sep\ read Aṁdiri? Cf. l. 2.}
          	1v6\footnote{tūk \sep\ Boechari notes here (n.\ 1): “Ada kemungkinan untuk membaca <foreign>tluk</foreign> di sini. Tetapi di belakang, yaitu pada
          	lempengan ke-II sisi depan baris ke-10 (II.A.10) kami menjumpai <foreign>ḍaṅ ācāryya iṁ tūk dhāneśvara</foreign>.” This is misleading. The only possible
          	reading here is tūk.}
          	1v7\footnote{bīhāra \sep\ bihāra BK.}	-->
-	<p>svasti śaka-varṣātīta <num value="751">751</num> mārggaśīra-māsa tithi caturdaśi śukla-pakṣa, <abbr>vu</abbr> <abbr>va</abbr> <abbr>vr̥</abbr>, vāra, tatkāla śrī mahārāja rakai garuṁ Umaluyaka<lb 
-n="1v8" break="no"/>n· Ikanaṁ savaḥ haji lān· I vanuA tṅaḥ sīmani bihāra I pikatan·, Ikana binabak· śrī mahārāja saṁ lumāḥ Iṁ kelāsa, patiḥ tatkāla vka pu taṅgal·, sirikan pu sūryya, pikatan· pu pañculiṁ, mamava 
-<lb n="1v9"/>bīhāra sa<supplied reason="omitted">ṁ</supplied> vatu humalaṁ, vruḥ ḍaṅ ācāryya devendra, Anuṁ Umilu kinon· śrī mahārāja, Umaluyakna Ikanaṁ savaḥ Iṁ vihāra I pikatan· vahuta makudur· I vka I sirikan· I palar hyaṁ, I hala<lb 
-n="1v10" break="no"/>ran·, I vlahan·, I <choice><sic>j</sic><corr>d</corr></choice>alinan·, I paṅkur·, I tavān·, I tirip·, I lampi, I vatu humalaṁ, I pikatan·, I mamrati, I tilimpik·, I tiruAn·, I maṁhuri, patiḥ I pikatan· saṁ vanuA tṅaḥ pu culiṁ<!-- = pu pañculiṁ, 1v8? -->, saṁ <lb 
-n="1v11"/>tuṅgal aṅin· pu ramvat·, lekan pu glam·, saṁ ra gunuṁ pu Intap·, saṁ samalagi pu talisū, ḍaṅ ācāryya paṅajyan· I pikatan· bhadracandra, patati vandāmi bhadrasūryya, vihārasvāmi saṁṅ āryya, pañcavā<lb 
-n="1v12" break="no"/>ra punta mandana <g type="ddandaOrnate">.</g></p>
+	<p>svasti śaka-varṣātīta <num value="751">751</num> mārggaśīra-māsa tithi caturdaśi śukla-pakṣa, <abbr>vu</abbr> <abbr>va</abbr> <abbr>vr̥</abbr>, vāra, tatkāla śrī mahārāja rakai garuṁ Umaluyaka<lb n="1v8" break="no"/>n· Ikanaṁ savaḥ haji lān· I vanuA tṅaḥ sīmani bihāra I pikatan·, Ikana binabak· śrī mahārāja saṁ lumāḥ Iṁ kelāsa, patiḥ tatkāla vka pu taṅgal·, sirikan pu sūryya, pikatan· pu pañculiṁ, mamava 
+<lb n="1v9"/>bīhāra sa<supplied reason="omitted">ṁ</supplied> vatu humalaṁ, vruḥ ḍaṅ ācāryya devendra, Anuṁ Umilu kinon· śrī mahārāja, Umaluyakna Ikanaṁ savaḥ Iṁ vihāra I pikatan· vahuta makudur· I vka I sirikan· I palar hyaṁ, I hala<lb n="1v10" break="no"/>ran·, I vlahan·, I <choice><sic>j</sic><corr>d</corr></choice>alinan·, I paṅkur·, I tavān·, I tirip·, I lampi, I vatu humalaṁ, I pikatan·, I mamrati, I tilimpik·, I tiruAn·, I maṁhuri, patiḥ I pikatan· saṁ vanuA tṅaḥ pu culiṁ<!-- = pu pañculiṁ, 1v8? -->, saṁ <lb n="1v11"/>tuṅgal aṅin· pu ramvat·, lekan pu glam·, saṁ ra gunuṁ pu Intap·, saṁ samalagi pu talisū, ḍaṅ ācāryya paṅajyan· I pikatan· bhadracandra, patati vandāmi bhadrasūryya, vihārasvāmi saṁṅ āryya, pañcavā<lb n="1v12" break="no"/>ra punta mandana <g type="ddandaOrnate">.</g></p>
 <!--	1v7\footnote{pikatan· svasti B \sep\ pikatan. swasti K.}
          	1v7\footnote{mārggaśīra° \sep\ mārggasīra B, mārggasira K.}
          	1v7\footnote{caturdaśi \red{BK} \sep\ comparison with the Sanskrit text below proves that this is an error for caturthi.}
@@ -265,8 +257,7 @@ n="1v12" break="no"/>ra punta mandana <g type="ddandaOrnate">.</g></p>
          	1v17\footnote{manārākhyeṇa rāgiṇā \sep\ manārākhye narāgiṇā B, manarakhye ṇarāgiṇā K.}
          	1v17\footnote{°nāyanā \sep\ read °nāyakā?}
          	1v17\footnote{vihāranāyanāyasya gāruṁsaṁjñābhi° \sep\ wihāraḥ yanāyasya. ga - - sajñā-i° B; wihārah ya nāyasya. ga  - -  sajna -i° K.}	 -->
-         	<p>nahan· praśasti rake ga<pb n="2r" break="no"/><lb 
-n="2r1" break="no"/>ruṁ Ar· Uvahakan· Ikanaṁ savaḥ sīma Iṁ bihāra I pikatan·, pjaḥ rake garuṁ,</p>
+         	<p>nahan· praśasti rake ga<pb n="2r" break="no"/><lb n="2r1" break="no"/>ruṁ Ar· Uvahakan· Ikanaṁ savaḥ sīma Iṁ bihāra I pikatan·, pjaḥ rake garuṁ,</p>
 <!--	2r1\footnote{sīma Iṁ bihāra B \sep\ sīma ni bihāra K.}	 -->
          	<p>Iṁ śaka <num value="768">768</num> phālguṇamāsa pratipāda kr̥ṣṇa, <abbr>pa</abbr> <abbr>ka</abbr> <abbr>Ā</abbr>, vāra, maṁḍiri rake pikatan· dyaḥ salaḍū, sira kapiṇḍuAniṁ lumabvur· Ikana<!-- check na --> sīma, pjaḥ rake pikatan·,</p>
 <!--	2r1\footnote{phālguṇa° \sep\ the shape of phā seems somewhat unusual (cf. below, l. 4), so that the akṣara here resembles ḍā.}
@@ -586,5 +577,3 @@ variant readings not recorded:
 	- e/ai
 
 -->
-
-

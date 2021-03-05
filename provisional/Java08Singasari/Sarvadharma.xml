@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
@@ -49,7 +53,7 @@
                </msContents>
                <physDesc>
                   <handDesc>
-                     <p></p>
+                     <p/>
                      <!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EG 11.2. -->
                   </handDesc>
                </physDesc>
@@ -89,93 +93,34 @@
          <div type="edition" xml:lang="kaw-Latn">
 <pb n="1r"/><!--Blank outer page.-->
 <p><pb n="1v"/><fw place="left" rend="bt-rotated" n="1v"><num value="1">1</num></fw>
-<lb n="1v1"/>// svasti śrī śakavarṣātīta, I śaka, <num value="1191">1191</num>, kărttikamāsa tithi, pañcamĭ śū<lb 
-   n="1v2" break="no"/>klapakṣa, <abbr>vā</abbr>, <abbr>ka</abbr>, <abbr>vr̥</abbr>, vāra, laṅkir·, Uttarāṣāḍhanakṣatra, viśvade<lb 
-      n="1v3" break="no"/> vatā, gaṇḍayoga, vair<choice><sic>adya</sic><corr>ājya</corr></choice>muhūrtta, baruṇaparvveśa, valavakaraṇa,
-<lb n="1v4"/><unclear>v</unclear>r̥cchikarāśi, Irika divaśany ājñā śrī sakalajagatnătheśa, nārasiṅhamūrttyani<lb 
-   n="1v5"/> nditaparākrama, Aśeṣarājānyacūḍāmaṇiṇārpitacaraṇāravinda, śokasantapi<lb 
-      n="1v6" break="no"/>tasujanahr̥dayāmbujāvavodhanasvabhāva śrīkr̥tanagaranāmabhiṣeka, tinaḍaḥ de rakrya<lb 
-         n="1v7" break="no"/>n mahāmantri katriṇi, rakryan mantri hino, rakryan mantri sirikan·, rakryan mantri halu, Umiṁsor i para taṇḍa
+<lb n="1v1"/>// svasti śrī śakavarṣātīta, I śaka, <num value="1191">1191</num>, kărttikamāsa tithi, pañcamĭ śū<lb n="1v2" break="no"/>klapakṣa, <abbr>vā</abbr>, <abbr>ka</abbr>, <abbr>vr̥</abbr>, vāra, laṅkir·, Uttarāṣāḍhanakṣatra, viśvade<lb n="1v3" break="no"/> vatā, gaṇḍayoga, vair<choice><sic>adya</sic><corr>ājya</corr></choice>muhūrtta, baruṇaparvveśa, valavakaraṇa,
+<lb n="1v4"/><unclear>v</unclear>r̥cchikarāśi, Irika divaśany ājñā śrī sakalajagatnătheśa, nārasiṅhamūrttyani<lb n="1v5"/> nditaparākrama, Aśeṣarājānyacūḍāmaṇiṇārpitacaraṇāravinda, śokasantapi<lb n="1v6" break="no"/>tasujanahr̥dayāmbujāvavodhanasvabhāva śrīkr̥tanagaranāmabhiṣeka, tinaḍaḥ de rakrya<lb n="1v7" break="no"/>n mahāmantri katriṇi, rakryan mantri hino, rakryan mantri sirikan·, rakryan mantri halu, Umiṁsor i para taṇḍa
 <pb n="2r"/>
 <lb n="2r1"/>rakryan· ri pakirakiran makabehan· rakryan apatiḥ makasikasir kbo AR̥maṁ, rakryan· dmuṁ
-<lb n="2r2"/> van· ḍaṅ ācāryya śivanātha, mapañji tanutama, I piṅsorny ăjñā śrīmahārāja, ku-§mapañji vipakṣa, rakryan· kanuruhan· mapañjy anurida, makādi saṁ mantrī vāgmima<g type="squiggleVertical">§</g><lb 
-   n="2r3" break="no"/>ya, paramanĭtijña, nūṣāntaramadhuranāthānukŭlakāraṇa, mapasəṅgahan· saṁ rāma<lb 
-   n="2r4" break="no"/>pati, tan kavuntat· saṁ pamgət i tirvan· ḍaṅ ācāryya dharmmadeva, saṁ pamgat iṁ kaṇḍamuhi,
-<lb n="2r5"/>ḍaṅ ācāryya smaradahana, saṁ pamgət i maṅhuri ḍaṅ ācāryya smaradeva, saṁ pamgət iṁ jamba ḍaṅ ā<lb 
-   n="2r6" break="no"/>cāryya śivanātha, saṁ pamgət iṁ pañjaṁ jĭva ḍaṅ ācāryyăgraja, mpuṅku dharmmădhyakṣa riṁ kaśe<lb 
-      n="2r7" break="no"/>van· ḍaṅ ācāryya śivanātha, mapañji tanutama, I piṅsorny ăjñā śrīmahārāja, ku<g type="squiggleVertical">§</g><pb n="2v" break="no"/><fw place="left" rend="bt-rotated" n="2v"><num value="2">2</num></fw><lb 
-         n="2v1" break="no"/> monakən saṁ hyaṁ dharmma riṁ bhagañjiṁ, riṁ kapuluṅan·, riṁ laukeśvara, tkeṁ viṣaya punpunan·
-<lb n="2v2"/>saṁ hyaṁ dharmma, paryyaṅan·, kalaṁ, kalagyan·, dharmma jumput·, Ityevamādi, padamla<g type="squiggleVertical">§</g><lb 
-   n="2v3" break="no"/>kna saṁ hyaṁ rājapraśāsti macihna kr̥tanagara, kapaṅkva deni viṣaya punpunan· saṁ hyaṁ sa<g type="squiggleVertical">§</g><lb 
-      n="2v4" break="no"/>rvvadharmma, magəhakna paṁrakṣa śrīmahārāja, ri kasvatantran· saṁ hyaṁ sarvvadharmma, sambandha, mpu<lb 
-         n="2v5" break="no"/>ṅku dhar<unclear>m</unclear>mădhyakṣan mapañji tanutama, dinulur deni viṣaya punpunan· saṁ hyaṁ sarvvadharmma, sapi<g type="squiggleVertical">§</g><lb n="2v6" break="no"/>nasukniṁ bhūmi jaṅgala pañjalu, pinakasopănanyan· maR̥k i saṁ rāmapati, mintona<lb 
-               n="2v7" break="no"/>kən· bvat· deniṁ <unclear>thāni</unclear> bala, pin<supplied reason="lost">r</supplied>atisāra tumūtaknaṁ byə<supplied reason="omitted">t· </supplied>ḍaṅhaniṁ thāni bala sovaṁ-⌈<pb n="3r" break="no"/><lb 
-                  n="3r1" break="no"/>sovaṁ, byət· hajyan· lakvalakvan adoh a<unclear>pa</unclear>R̥<supplied reason="omitted">k</supplied> Amijilakən padadar·, pamḍihan·, pagaga<lb 
-                     n="3r2" break="no"/>R̥m·, mareṁ juru, buyut·, kabayan·, Aveḥ patumbak tamvi, paṅhulu bañu, pacəL̥bu, ṅūni-<g type="squiggleVertical">§</g><lb 
-                        n="3r3" break="no"/>ṅūni pamūjā<supplied reason="omitted">ṁ</supplied>kən tahun·, paḍacaṅan·, ya tikānmahakən trāsanya, An tinitiḥ byət·<g type="squiggleVertical">§</g><lb 
-                           n="3r4" break="no"/>deniṁ thāni bala, pinisakitan· tan kinavruhan hĭnanya, nimittanyan apuluṁ rahy api<g type="squiggleVertical">§</g>
-<lb n="3r5" break="no"/>ṇḍ<choice><orig>i</orig><reg>ī</reg></choice>dbhūta sakavat bhūmi jaṅgala paṁjalu, maR̥k ri saṁ rāmapati, mva<unclear>ṁ</unclear> ri rakryan apatiḥ, makaso<lb 
-   n="3r6" break="no"/>păna mpuṅku dharmmădhyakṣa mapañji tanutama, saṁ rāmapati pva satatadharmmacintana, tan luptan·
-<lb n="3r7"/>kuminkin i karakṣāniṁ sarvvadharmma, pitovi pvan hana turunyānugraha bhaṭāra jaya śrī viṣṇuva<pb n="3v" break="no"/><fw place="left" rend="bt-rotated" n="3v"><num value="3">3</num></fw><lb 
-         n="3v1" break="no"/>rddhana Irikaṁ sarvvadharmman sapiha sakeṁ thāni bala, ṅūnikāla saṅ apañji patipati dha<lb 
-            n="3v2" break="no"/>rmmādhikāraṇa, nimittanyan enak<choice><sic>ka</sic><corr> ta</corr></choice> kaniścayan ik<choice><sic>i</sic><corr>u</corr></choice> pinintonakən saṅ apañji tanuta<lb 
-               n="3v3" break="no"/>ma ri saṁ rāmapati, kăraṇa saṁ rāmapati, dinulur de rakryan apatiḥ, sacchāya mvaṁ saṅ apañji ta<g type="squiggleVertical">§</g><lb 
-                  n="3v4" break="no"/>nutama, maR̥k ri śrīmahārāja, riṁ viṣaya punpunan saṁ hyaṁ sarvvadharmma, mratisubadakna panapiḥ bha<g type="squiggleVertical">§</g><lb 
-                     n="3v5" break="no"/>ṭāra jaya śrī viṣṇuvarddhana, riṁ viṣaya punpunan saṁ hyaṁ sarvvadharmma sakeṁ thāni bala, makadona
-<lb n="3v6"/>kasvatantran saṁ hyaṁ sarvvadharmma, maṁdadyakna sthiratarani paliṅgiḥ śrīmahārāja riṁ ratnasiṅhā<g type="squiggleVertical">§</g><lb 
-   n="3v7" break="no"/>sana, pinakekac<supplied reason="lost">ch</supplied>ātraniṁ sayavadvĭpa, pinakottuṅgadeva saṁ samantaprabhu riṁ bhūmi<g type="squiggleVertical">§</g>
+<lb n="2r2"/> van· ḍaṅ ācāryya śivanātha, mapañji tanutama, I piṅsorny ăjñā śrīmahārāja, ku-§mapañji vipakṣa, rakryan· kanuruhan· mapañjy anurida, makādi saṁ mantrī vāgmima<g type="squiggleVertical">§</g><lb n="2r3" break="no"/>ya, paramanĭtijña, nūṣāntaramadhuranāthānukŭlakāraṇa, mapasəṅgahan· saṁ rāma<lb n="2r4" break="no"/>pati, tan kavuntat· saṁ pamgət i tirvan· ḍaṅ ācāryya dharmmadeva, saṁ pamgat iṁ kaṇḍamuhi,
+<lb n="2r5"/>ḍaṅ ācāryya smaradahana, saṁ pamgət i maṅhuri ḍaṅ ācāryya smaradeva, saṁ pamgət iṁ jamba ḍaṅ ā<lb n="2r6" break="no"/>cāryya śivanātha, saṁ pamgət iṁ pañjaṁ jĭva ḍaṅ ācāryyăgraja, mpuṅku dharmmădhyakṣa riṁ kaśe<lb n="2r7" break="no"/>van· ḍaṅ ācāryya śivanātha, mapañji tanutama, I piṅsorny ăjñā śrīmahārāja, ku<g type="squiggleVertical">§</g><pb n="2v" break="no"/><fw place="left" rend="bt-rotated" n="2v"><num value="2">2</num></fw><lb n="2v1" break="no"/> monakən saṁ hyaṁ dharmma riṁ bhagañjiṁ, riṁ kapuluṅan·, riṁ laukeśvara, tkeṁ viṣaya punpunan·
+<lb n="2v2"/>saṁ hyaṁ dharmma, paryyaṅan·, kalaṁ, kalagyan·, dharmma jumput·, Ityevamādi, padamla<g type="squiggleVertical">§</g><lb n="2v3" break="no"/>kna saṁ hyaṁ rājapraśāsti macihna kr̥tanagara, kapaṅkva deni viṣaya punpunan· saṁ hyaṁ sa<g type="squiggleVertical">§</g><lb n="2v4" break="no"/>rvvadharmma, magəhakna paṁrakṣa śrīmahārāja, ri kasvatantran· saṁ hyaṁ sarvvadharmma, sambandha, mpu<lb n="2v5" break="no"/>ṅku dhar<unclear>m</unclear>mădhyakṣan mapañji tanutama, dinulur deni viṣaya punpunan· saṁ hyaṁ sarvvadharmma, sapi<g type="squiggleVertical">§</g><lb n="2v6" break="no"/>nasukniṁ bhūmi jaṅgala pañjalu, pinakasopănanyan· maR̥k i saṁ rāmapati, mintona<lb n="2v7" break="no"/>kən· bvat· deniṁ <unclear>thāni</unclear> bala, pin<supplied reason="lost">r</supplied>atisāra tumūtaknaṁ byə<supplied reason="omitted">t· </supplied>ḍaṅhaniṁ thāni bala sovaṁ-⌈<pb n="3r" break="no"/><lb n="3r1" break="no"/>sovaṁ, byət· hajyan· lakvalakvan adoh a<unclear>pa</unclear>R̥<supplied reason="omitted">k</supplied> Amijilakən padadar·, pamḍihan·, pagaga<lb n="3r2" break="no"/>R̥m·, mareṁ juru, buyut·, kabayan·, Aveḥ patumbak tamvi, paṅhulu bañu, pacəL̥bu, ṅūni-<g type="squiggleVertical">§</g><lb n="3r3" break="no"/>ṅūni pamūjā<supplied reason="omitted">ṁ</supplied>kən tahun·, paḍacaṅan·, ya tikānmahakən trāsanya, An tinitiḥ byət·<g type="squiggleVertical">§</g><lb n="3r4" break="no"/>deniṁ thāni bala, pinisakitan· tan kinavruhan hĭnanya, nimittanyan apuluṁ rahy api<g type="squiggleVertical">§</g>
+<lb n="3r5" break="no"/>ṇḍ<choice><orig>i</orig><reg>ī</reg></choice>dbhūta sakavat bhūmi jaṅgala paṁjalu, maR̥k ri saṁ rāmapati, mva<unclear>ṁ</unclear> ri rakryan apatiḥ, makaso<lb n="3r6" break="no"/>păna mpuṅku dharmmădhyakṣa mapañji tanutama, saṁ rāmapati pva satatadharmmacintana, tan luptan·
+<lb n="3r7"/>kuminkin i karakṣāniṁ sarvvadharmma, pitovi pvan hana turunyānugraha bhaṭāra jaya śrī viṣṇuva<pb n="3v" break="no"/><fw place="left" rend="bt-rotated" n="3v"><num value="3">3</num></fw><lb n="3v1" break="no"/>rddhana Irikaṁ sarvvadharmman sapiha sakeṁ thāni bala, ṅūnikāla saṅ apañji patipati dha<lb n="3v2" break="no"/>rmmādhikāraṇa, nimittanyan enak<choice><sic>ka</sic><corr> ta</corr></choice> kaniścayan ik<choice><sic>i</sic><corr>u</corr></choice> pinintonakən saṅ apañji tanuta<lb n="3v3" break="no"/>ma ri saṁ rāmapati, kăraṇa saṁ rāmapati, dinulur de rakryan apatiḥ, sacchāya mvaṁ saṅ apañji ta<g type="squiggleVertical">§</g><lb n="3v4" break="no"/>nutama, maR̥k ri śrīmahārāja, riṁ viṣaya punpunan saṁ hyaṁ sarvvadharmma, mratisubadakna panapiḥ bha<g type="squiggleVertical">§</g><lb n="3v5" break="no"/>ṭāra jaya śrī viṣṇuvarddhana, riṁ viṣaya punpunan saṁ hyaṁ sarvvadharmma sakeṁ thāni bala, makadona
+<lb n="3v6"/>kasvatantran saṁ hyaṁ sarvvadharmma, maṁdadyakna sthiratarani paliṅgiḥ śrīmahārāja riṁ ratnasiṅhā<g type="squiggleVertical">§</g><lb n="3v7" break="no"/>sana, pinakekac<supplied reason="lost">ch</supplied>ātraniṁ sayavadvĭpa, pinakottuṅgadeva saṁ samantaprabhu riṁ bhūmi<g type="squiggleVertical">§</g>
 <pb n="4r"/>
-<lb n="4r1"/>jaṅgala paṁjalu, maṅkana rasani hatur· saṁ rāmapati, vinurivuri deni haturakryan apati<lb  
-  n="4r2" break="no"/>ḥ, piniR̥səpakən· deni saṅ apañji tanutama, śrīmahārāja pva prabhu dev<unclear>ā</unclear>ṅśa, dharmmamū<lb 
-     n="4r3" break="no"/>rttyavatāra, <unclear>I</unclear>nahakən· bhaṭāra paramakāraṇa, sumapvana kaləṅkaniṁ bhūvana, munarjīvakna
+<lb n="4r1"/>jaṅgala paṁjalu, maṅkana rasani hatur· saṁ rāmapati, vinurivuri deni haturakryan apati<lb n="4r2" break="no"/>ḥ, piniR̥səpakən· deni saṅ apañji tanutama, śrīmahārāja pva prabhu dev<unclear>ā</unclear>ṅśa, dharmmamū<lb n="4r3" break="no"/>rttyavatāra, <unclear>I</unclear>nahakən· bhaṭāra paramakāraṇa, sumapvana kaləṅkaniṁ bhūvana, munarjīvakna
 <lb n="4r4"/>sarvvadharmma, maluyaknaṁ jagaddhita, makavyakti gati saṁ prabhu, An· smR̥tyādivihitaśīlānucāra,
-<lb n="4r5"/>pitovi pvan kakavaśa deni haturniṁ paḍa vāgmimaya, sarisaryy aṅhaturakən heyopade<lb 
-  n="4r6" break="no"/>ya, kāraṇa śrīmahārāja, An vavaṁ maṅanumoda ri hatur· saṁ rāmapati, dinulur·
-<lb n="4r7"/>de rakryan apatiḥ, sacchāya mvaṁ saṅ apañji tanutama, Ann ikaṁ viṣaya punpunan saṁ hyaṁ sa<pb n="4v" break="no"/><fw place="left" rend="bt-rotated" n="4v"><num value="4">4</num></fw><lb 
-         n="4v1" break="no"/> rvvadharmmā, sapiha sakeṁ thāni bala, maryy anūtakna byət· ḍaṅhani<unclear>ṁ</unclear> thāni bala, byət hajya<lb 
-            n="4v2" break="no"/>n agə̄ṅ aḍmit·, lakvalakvan adoh apaR̥ turun·turun sagəm· sarakut· sakeṁ thāni<g type="squiggleVertical">§</g>
-<lb n="4v3"/>bala, maryy amijilakna padadar·, pamḍihan·, pagagaR̥m·, mareṁ juru, buyut·, kabaya<lb 
-   n="4v4" break="no"/>n·, maryy aveha papiṇḍa paṁti, patikl aṅgas·, paṅhulu bañu, mareṁ thāni balanya sovaṁso<lb 
-      n="4v5" break="no"/>vaṁ, kunəṁ yan panuku bañu Ikaṁ thāni bala paṅaśrayanya, tumūtātukva saṅ anutsāra<g type="squiggleVertical">§</g><lb 
-         n="4v6" break="no"/>ni savaḥnya Ikaṁ kalagyan·, tan pamijilakna panulis·, kunəṁṅ ikaṁ tan· pgata vijila<lb 
-            n="4v7" break="no"/>knanya mareṁ thāni bala, pamŭjā juga, vyaktyanyan tan· pgata pamaraśrayanya riṁ thāni bala<g type="squiggleVertical">§</g>
+<lb n="4r5"/>pitovi pvan kakavaśa deni haturniṁ paḍa vāgmimaya, sarisaryy aṅhaturakən heyopade<lb n="4r6" break="no"/>ya, kāraṇa śrīmahārāja, An vavaṁ maṅanumoda ri hatur· saṁ rāmapati, dinulur·
+<lb n="4r7"/>de rakryan apatiḥ, sacchāya mvaṁ saṅ apañji tanutama, Ann ikaṁ viṣaya punpunan saṁ hyaṁ sa<pb n="4v" break="no"/><fw place="left" rend="bt-rotated" n="4v"><num value="4">4</num></fw><lb n="4v1" break="no"/> rvvadharmmā, sapiha sakeṁ thāni bala, maryy anūtakna byət· ḍaṅhani<unclear>ṁ</unclear> thāni bala, byət hajya<lb n="4v2" break="no"/>n agə̄ṅ aḍmit·, lakvalakvan adoh apaR̥ turun·turun sagəm· sarakut· sakeṁ thāni<g type="squiggleVertical">§</g>
+<lb n="4v3"/>bala, maryy amijilakna padadar·, pamḍihan·, pagagaR̥m·, mareṁ juru, buyut·, kabaya<lb n="4v4" break="no"/>n·, maryy aveha papiṇḍa paṁti, patikl aṅgas·, paṅhulu bañu, mareṁ thāni balanya sovaṁso<lb n="4v5" break="no"/>vaṁ, kunəṁ yan panuku bañu Ikaṁ thāni bala paṅaśrayanya, tumūtātukva saṅ anutsāra<g type="squiggleVertical">§</g><lb n="4v6" break="no"/>ni savaḥnya Ikaṁ kalagyan·, tan pamijilakna panulis·, kunəṁṅ ikaṁ tan· pgata vijila<lb n="4v7" break="no"/>knanya mareṁ thāni bala, pamŭjā juga, vyaktyanyan tan· pgata pamaraśrayanya riṁ thāni bala<g type="squiggleVertical">§</g>
 <pb n="5r"/>
-<lb n="5r1"/>yapvan hana kahaR̥p· saṁ prabhu rikaṁ viṣaya punpunan saṁ hyaṁ sarvvadharmma, byət hajyanan·, lakva<lb 
-   n="5r2" break="no"/>lakvan·, pinta palaku salviranya kevala katəmva ri mpuṅku dharmmădhyakṣa juga, tan kahava<g type="squiggleVertical">§</g><lb 
-      n="5r3" break="no"/>ta sakeṁ thāni bala, kunəṁ kolahulaha saṁ hyaṁ rājapraśāsti, An pinūjā denikaṁ viṣa<lb 
-         n="5r4" break="no"/>ya punpunan saṁ hyaṁ sarvvadharmma, Amaguta pajə̄ṁ kuniṁ, Acuriṁṅa rahinavṅi, ndan hayva tekaṁ viṣaya
+<lb n="5r1"/>yapvan hana kahaR̥p· saṁ prabhu rikaṁ viṣaya punpunan saṁ hyaṁ sarvvadharmma, byət hajyanan·, lakva<lb n="5r2" break="no"/>lakvan·, pinta palaku salviranya kevala katəmva ri mpuṅku dharmmădhyakṣa juga, tan kahava<g type="squiggleVertical">§</g><lb n="5r3" break="no"/>ta sakeṁ thāni bala, kunəṁ kolahulaha saṁ hyaṁ rājapraśāsti, An pinūjā denikaṁ viṣa<lb n="5r4" break="no"/>ya punpunan saṁ hyaṁ sarvvadharmma, Amaguta pajə̄ṁ kuniṁ, Acuriṁṅa rahinavṅi, ndan hayva tekaṁ viṣaya
 <lb n="5r5"/>punpunan saṁ hyaṁ sarvvadharmmāṅhiras vatək·, Aṅivva rare, Abañvabañva, Apupaka, Avaraṁvaraṅa, ri
-<lb n="5r6"/>kălani kapūjān saṁ hyaṁ rājapraśāsti, muvaḥ kavnaṅa knanikaṁ viṣaya punpunan saṁ hyaṁ sarvvadharmma, ka<lb 
-   n="5r7" break="no"/>laṁ kalagyan·, paryyaṅan·, mvaṁ dharmma jumput·, ri kālanyan pamūjā ri saṁ hyaṁ prasāda kabhaktyanya
-<pb n="5v" /><fw place="left" rend="bt-rotated" n="5v"><num value="5">5</num></fw>
+<lb n="5r6"/>kălani kapūjān saṁ hyaṁ rājapraśāsti, muvaḥ kavnaṅa knanikaṁ viṣaya punpunan saṁ hyaṁ sarvvadharmma, ka<lb n="5r7" break="no"/>laṁ kalagyan·, paryyaṅan·, mvaṁ dharmma jumput·, ri kālanyan pamūjā ri saṁ hyaṁ prasāda kabhaktyanya
+<pb n="5v"/><fw place="left" rend="bt-rotated" n="5v"><num value="5">5</num></fw>
 <lb n="5v1"/>sovaṁ-sovaṁ, vnaṅajnva halaṁ, Asumpi[ṁ] tuñjuṁ sinivak·, muvaḥ Anugraha śrīmahārāja,
-<lb n="5v2"/>Amaluyakən kasvatantran saṁ hyaṁ sarvvadharmma, tan kaknana tekaṁ viṣaya punpunan saṁ hyaṁ sarvva<lb 
-   n="5v3" break="no"/>dharmma, riṁ pamḍaṁ, taṅhiran·, pakudur paṅhuraṁ, pakris·, pasraḥ, Aṅaṅgva valī, tuvuḥ vatu, huri<lb 
-      n="5v4" break="no"/>p anak·, kəmbaṁṅ i pə̄ṁ, tutuñjuṁ, kəpəl saṁ ratu, tuṅgakniṁ varyyaṁ, navagraha, nagapuspa, vnaṅa<lb 
-         n="5v5" break="no"/>nusuna saL̥̄, Aguntiṅe ruhur bale, vnaṅañjamaha kavula, Amupuha kavulenakvakə<lb 
-            n="5v6" break="no"/>n·, Amupuhaṅrahana, Iṅ irus·, Iṅ irir·, Iṁ parud·, Amaṅana salvirniṁ rājamaṅśa, kadya<lb 
-               n="5v7" break="no"/>ṅgāniṁ baḍavaṁ, vḍus guntiṁ, karuṁ puliḥ, pjaḥ Anirara, Asu tugəl·, Ananəma kamale rum<del rend="strikeout">b</del>ambat i-
+<lb n="5v2"/>Amaluyakən kasvatantran saṁ hyaṁ sarvvadharmma, tan kaknana tekaṁ viṣaya punpunan saṁ hyaṁ sarvva<lb n="5v3" break="no"/>dharmma, riṁ pamḍaṁ, taṅhiran·, pakudur paṅhuraṁ, pakris·, pasraḥ, Aṅaṅgva valī, tuvuḥ vatu, huri<lb n="5v4" break="no"/>p anak·, kəmbaṁṅ i pə̄ṁ, tutuñjuṁ, kəpəl saṁ ratu, tuṅgakniṁ varyyaṁ, navagraha, nagapuspa, vnaṅa<lb n="5v5" break="no"/>nusuna saL̥̄, Aguntiṅe ruhur bale, vnaṅañjamaha kavula, Amupuha kavulenakvakə<lb n="5v6" break="no"/>n·, Amupuhaṅrahana, Iṅ irus·, Iṅ irir·, Iṁ parud·, Amaṅana salvirniṁ rājamaṅśa, kadya<lb n="5v7" break="no"/>ṅgāniṁ baḍavaṁ, vḍus guntiṁ, karuṁ puliḥ, pjaḥ Anirara, Asu tugəl·, Ananəma kamale rum<del rend="strikeout">b</del>ambat i-
 <pb n="6r"/>
-<lb n="6r1"/>ṅ umaḥ, Ananəma kəmba<supplied reason="lost">ṁ</supplied> kun<unclear>ə</unclear><supplied reason="lost">ṁ</supplied> ri haR̥pan·, ananəma galuguḥ, Adr̥vyapatətəṅaha<del>·</del>n·, Aṅa<lb 
-   n="6r2" break="no"/>ṅgva gaḍiṁ, Ikaṁ juru kula, maṅkana rasany anugraha śrīkr̥tanagara, ri viṣaya punpunan saṁ hyaṁ sa<lb 
-      n="6r3" break="no"/>rvvadharmma sakavat bhūmi jaṅgala paṁjalu, ri vruhanikaṁ sakalajana ryy atiśayani kadharmmaparā<lb 
-         n="6r4" break="no"/>yaṇan· śrīmahārāja, An pinakekacchātraniṁ sayavadvīpa, maluyakən· paṅekĭ<g type="squiggleVertical">§</g><lb 
-            n="6r5" break="no"/>kr̥tā bhūmi jaṅgala paṁjalu, mataṅyan dadi ta saṁ hyaṁ rājapraśāsti, malavə̄lavə̄ kr̥tanaga<lb 
-               n="6r6" break="no"/>ra, magəhakən kasvatantran saṁ hyaṁ sarvvadharmma, sampun· Umuṅgviṁ ripta, hinləpan· pĭtavastra, pinaṅkva<lb 
-                  n="6r7" break="no"/>kən irikaṁ viṣaya dharmmasamudāya, ri sanmukha para taṇḍa rakryan· makabehan·, maṅhatur<del>i</del>akna<g type="squiggleVertical">§</g><pb n="6v" break="no"/><fw place="left" rend="bt-rotated" n="6v"><num value="6">6</num></fw><lb 
-                     n="6v1" break="no"/> kaṁ viṣaya dharmma, sādhana, <abbr>kā</abbr>, <num value="1">1</num>, <abbr>sū</abbr>, <num value="5">5</num>, ri śrīmahārāja, pamuspanyan sampun· kr̥tānu<g type="squiggleVertical">§</g><lb 
-                        n="6v2"/>graha, kunəṁ ri sḍəṅanyan· hanaṅruddhāmuṅkil·muṅkila ri rasa saṁ hyaṁ rājapraśāsti, salviranya<g type="squiggleVertical">§</g>
+<lb n="6r1"/>ṅ umaḥ, Ananəma kəmba<supplied reason="lost">ṁ</supplied> kun<unclear>ə</unclear><supplied reason="lost">ṁ</supplied> ri haR̥pan·, ananəma galuguḥ, Adr̥vyapatətəṅaha<del>·</del>n·, Aṅa<lb n="6r2" break="no"/>ṅgva gaḍiṁ, Ikaṁ juru kula, maṅkana rasany anugraha śrīkr̥tanagara, ri viṣaya punpunan saṁ hyaṁ sa<lb n="6r3" break="no"/>rvvadharmma sakavat bhūmi jaṅgala paṁjalu, ri vruhanikaṁ sakalajana ryy atiśayani kadharmmaparā<lb n="6r4" break="no"/>yaṇan· śrīmahārāja, An pinakekacchātraniṁ sayavadvīpa, maluyakən· paṅekĭ<g type="squiggleVertical">§</g><lb n="6r5" break="no"/>kr̥tā bhūmi jaṅgala paṁjalu, mataṅyan dadi ta saṁ hyaṁ rājapraśāsti, malavə̄lavə̄ kr̥tanaga<lb n="6r6" break="no"/>ra, magəhakən kasvatantran saṁ hyaṁ sarvvadharmma, sampun· Umuṅgviṁ ripta, hinləpan· pĭtavastra, pinaṅkva<lb n="6r7" break="no"/>kən irikaṁ viṣaya dharmmasamudāya, ri sanmukha para taṇḍa rakryan· makabehan·, maṅhatur<del>i</del>akna<g type="squiggleVertical">§</g><pb n="6v" break="no"/><fw place="left" rend="bt-rotated" n="6v"><num value="6">6</num></fw><lb n="6v1" break="no"/> kaṁ viṣaya dharmma, sādhana, <abbr>kā</abbr>, <num value="1">1</num>, <abbr>sū</abbr>, <num value="5">5</num>, ri śrīmahārāja, pamuspanyan sampun· kr̥tānu<g type="squiggleVertical">§</g><lb n="6v2"/>graha, kunəṁ ri sḍəṅanyan· hanaṅruddhāmuṅkil·muṅkila ri rasa saṁ hyaṁ rājapraśāsti, salviranya<g type="squiggleVertical">§</g>
 <lb n="6v3"/>yadyan· caturvarṇna, brăhmaṇa, kṣatrīya, vaiśya, śudra, Atha ca, caturăśrami, brahmācāri,<g type="squiggleVertical">§</g>
-<lb n="6v4"/>gr̥hastha, vanaprastha, bhikṣuka, makādi saṁ prabhu mantry anăgata, mvaṁ piṅhay ākurug anak thāni, yā<lb 
-   n="6v5" break="no"/>vat umulahulahi rasa saṁ hyaṁ rājapraśāsti, tan atguḥ karakṣan i kasvatantran· saṁ hyaṁ sarvvadharmma<g type="squiggleVertical">§</g>
-<lb n="6v6"/>tasmāt· kabyət karmmaknanya, sakulagotranyāmuktya phalaniṁ pātaka, mahāpātaka, Atipāta<lb 
-   n="6v7" break="no"/>ka, phalanyan maṅulahakən hanyăyapravr̥tti, kavulatan de saṁ hyaṁ trayodaśasākṣī <g type="ddandaOrnate"/> A<g type="squiggleVertical">§</g><pb n="7r" break="no"/><fw place="left" rend="bt-rotated" n="7r"><num value="7">7</num></fw><lb n="7r1" break="no"/>dityacandrāv ānilau nalaś cā, dyoḥ bhūmir apau hr̥dayaṁ’ yamāś ca, Ahaś ca rātri<lb 
-      n="7r2" break="no"/>ś ca tathāś ca sandhyā, dharmmaś ca janāti naraya vr̥ttaṁ’ || maṅkana pva || yo rājānugrahaṁ hatvā, ⌈<lb 
-         n="7r3"/>mauhăt mŭrkho naro hi saḥ, parāparakulais sarvvaiḥ, roravaṁ yantu sarvvadā || yăvat bhū<lb 
-   n="7r4" break="no"/>tanikaḥ sr̥ṣṭvā, tāvad janmī punar yyadī, kṣudrajantuśariraṇi, prāpnuyāc ca naro dhama || ya<lb 
-      n="7r5" break="no"/>di syān mānuṣibhūtaḥ, klivaḥ kuṣṭaś ca bāmaṇaḥ, Andho matto hy apasmāro, kubjāḥ pa<lb 
-         n="7r6" break="no"/>ṅguḥ kunis tathā || nahan ta tmahanyan dadi vvaṁ ri huvusnyan· tuməmpuḥ riṁ mahārorava || Ā<lb 
-            n="7r7" break="no"/>stu, Astu, Astu || Om̐ namaśivāya || @ || @@
+<lb n="6v4"/>gr̥hastha, vanaprastha, bhikṣuka, makādi saṁ prabhu mantry anăgata, mvaṁ piṅhay ākurug anak thāni, yā<lb n="6v5" break="no"/>vat umulahulahi rasa saṁ hyaṁ rājapraśāsti, tan atguḥ karakṣan i kasvatantran· saṁ hyaṁ sarvvadharmma<g type="squiggleVertical">§</g>
+<lb n="6v6"/>tasmāt· kabyət karmmaknanya, sakulagotranyāmuktya phalaniṁ pātaka, mahāpātaka, Atipāta<lb n="6v7" break="no"/>ka, phalanyan maṅulahakən hanyăyapravr̥tti, kavulatan de saṁ hyaṁ trayodaśasākṣī <g type="ddandaOrnate"/> A<g type="squiggleVertical">§</g><pb n="7r" break="no"/><fw place="left" rend="bt-rotated" n="7r"><num value="7">7</num></fw><lb n="7r1" break="no"/>dityacandrāv ānilau nalaś cā, dyoḥ bhūmir apau hr̥dayaṁ’ yamāś ca, Ahaś ca rātri<lb n="7r2" break="no"/>ś ca tathāś ca sandhyā, dharmmaś ca janāti naraya vr̥ttaṁ’ || maṅkana pva || yo rājānugrahaṁ hatvā, ⌈<lb n="7r3"/>mauhăt mŭrkho naro hi saḥ, parāparakulais sarvvaiḥ, roravaṁ yantu sarvvadā || yăvat bhū<lb n="7r4" break="no"/>tanikaḥ sr̥ṣṭvā, tāvad janmī punar yyadī, kṣudrajantuśariraṇi, prāpnuyāc ca naro dhama || ya<lb n="7r5" break="no"/>di syān mānuṣibhūtaḥ, klivaḥ kuṣṭaś ca bāmaṇaḥ, Andho matto hy apasmāro, kubjāḥ pa<lb n="7r6" break="no"/>ṅguḥ kunis tathā || nahan ta tmahanyan dadi vvaṁ ri huvusnyan· tuməmpuḥ riṁ mahārorava || Ā<lb n="7r7" break="no"/>stu, Astu, Astu || Om̐ namaśivāya || @ || @@
 </p> 
          </div>
          <div type="apparatus">
@@ -260,7 +205,7 @@
                      <note>The e-vocalization of the ensuing <foreign>sovaṁ</foreign> follows after <foreign>sovaṁ</foreign>, so that 3r1 should have started with <foreign>sāvaṁ</foreign>. The scribe however resume with a repetition of the entire vocalization.</note>
                   </app>
                   <app loc="3r1">
-                      <lem >adoh a<unclear>pa</unclear>R̥<supplied reason="omitted">k</supplied></lem>
+                      <lem>adoh a<unclear>pa</unclear>R̥<supplied reason="omitted">k</supplied></lem>
                      <rdg source="bib:Brandes1913_01">adohapaR̥</rdg>
                      <note>The scribe seems to have started placing a subscript part under the akṣara <foreign>pa</foreign> which, if completed, would have turned it into an <foreign>R̥</foreign>, but realised he needed to place it below the following akṣara, and thereupon not to have deepened the subscript sign. We might see here a reflection of a two-step engraving process. Alternatively, we may be dealing with an attempt to erase an element after it had been engraved. See note under 5v7. The text must here be corrected to <foreign>apaR̥k</foreign>, as is shown by many parallels for this combination with adoh.</note> 
                   </app>
@@ -309,7 +254,7 @@
                      <note>BhP <foreign>saṅ Korava Pāṇḍava, yatna ri karakṣān iṅ pr̥thivīmaṇḍala</foreign>; Deśavarṇana 75.1 <foreign>nitya kuminkin i svasthā parārtha saṅ śrī narendrā</foreign>.</note>
                   </app>
                   <app loc="3r7">
-                      <lem source="bib:Brandes1913_01"></lem>
+                      <lem source="bib:Brandes1913_01"/>
                      <note>Or should one understand  <foreign>hana-aturunyānu-?</foreign></note>
                   </app>
                   <app loc="3v1">
@@ -487,103 +432,103 @@
                      <note>Perhaps restore <foreign>sarvvadharmma</foreign>.</note>            
             </app>
             <app loc="6v1">
-               <lem >sādhana</lem>
+               <lem>sādhana</lem>
                <rdg source="bib:Brandes1913_01">sā( )na</rdg>            
             </app>
             <app loc="6v1">
-               <lem ><abbr>sū</abbr>, <num value="5">5</num></lem>
+               <lem><abbr>sū</abbr>, <num value="5">5</num></lem>
                <rdg source="bib:Brandes1913_01"><abbr>sū</abbr>, <num value="5">3</num></rdg>            
             </app>
             <app loc="6v2">
-               <lem >sḍəṅanyan·</lem>
+               <lem>sḍəṅanyan·</lem>
                <rdg source="bib:Brandes1913_01">sḍəṅanya</rdg>            
             </app>
             <app loc="6v3">
-               <lem >kṣatrīya, vaiśya</lem>
+               <lem>kṣatrīya, vaiśya</lem>
                <rdg source="bib:Brandes1913_01">kṣatriya, veśya</rdg>            
             </app>
             <app loc="6v3">
-               <lem >Atha ca</lem>
+               <lem>Atha ca</lem>
                <rdg source="bib:Brandes1913_01">Athava</rdg>            
             </app>
             <app loc="6v3">
-               <lem >caturaśrami</lem>
+               <lem>caturaśrami</lem>
                <rdg source="bib:Brandes1913_01">caturaśrama</rdg>            
             </app>
             <app loc="6v3-6v5">
-               <lem >yā<lb n="6v5" break="no"/>vat</lem>
+               <lem>yā<lb n="6v5" break="no"/>vat</lem>
                <rdg source="bib:Brandes1913_01">ya<lb n="6v5" break="no"/>vat</rdg> 
                <note>There is a stroke above the consonant at the end of l. 4, that seems to have been intended to make long <foreign>ā</foreign>, as in (7r4) <foreign>prāpnuyāc</foreign>.</note>
             </app>
             <app loc="6v6">
-               <lem >tasmāt</lem>
+               <lem>tasmāt</lem>
                <rdg source="bib:Brandes1913_01">tasmat</rdg>            
             </app>
              <app loc="6v7">
-               <lem >kavulatan</lem>
+               <lem>kavulatan</lem>
                <rdg source="bib:Brandes1913_01">kavulakan</rdg>
                 <note>Pigeaud conjectured <foreign>kavulikan</foreign> (II, p. 134)</note>
             </app>
             <app loc="6v7">
-               <lem >sākṣī <g type="ddandaOrnate"/> A</lem>
+               <lem>sākṣī <g type="ddandaOrnate"/> A</lem>
                <rdg source="bib:Brandes1913_01">sākṣī, Ā-</rdg>
             </app>
             <app loc="7r1">
-               <lem >°candrāv ānilau</lem>
+               <lem>°candrāv ānilau</lem>
                <rdg source="bib:Brandes1913_01">°candrāpānilo</rdg>
             </app>
             <app loc="7r1">
-               <lem >ahaś ca rātri</lem>
+               <lem>ahaś ca rātri</lem>
                <rdg source="bib:Brandes1913_01">āhaśca rātra</rdg>
             </app>
             <app loc="7r2">
-               <lem >sandhyā</lem>
+               <lem>sandhyā</lem>
                <rdg source="bib:Brandes1913_01">sanmyā</rdg>
                <note>Pigeaud already conjectured <foreign>sandhya</foreign> (II, p. 134).</note>
             </app>
             <app loc="7r2">
-               <lem >janāti naraya</lem>
+               <lem>janāti naraya</lem>
                <rdg source="bib:Brandes1913_01">jānākinarāya</rdg>
                <note>The first syllable certainly does not bear an <foreign>ā</foreign>-vocalization. Pigeaud already conjectured <foreign>jānāti</foreign> (II, p. 134).</note>
             </app>
             <app loc="7r4">
-               <lem  source="bib:Brandes1913_01">sr̥ṣṭvā</lem>
+               <lem source="bib:Brandes1913_01">sr̥ṣṭvā</lem>
                <note>Pigeaud conjectured <foreign>dr̥ṣṭvā</foreign> (II, p. 134).</note>
             </app>
             <app loc="7r4">
-               <lem >janmī</lem>
+               <lem>janmī</lem>
                <rdg source="bib:Brandes1913_01">janmi</rdg>
             </app>
             <app loc="7r4">
-               <lem >yyadī</lem>
+               <lem>yyadī</lem>
                <rdg source="bib:Brandes1913_01">yyadi</rdg>
             </app>
              <app loc="7r4">
-               <lem >prāpnuyāc ca</lem>
+               <lem>prāpnuyāc ca</lem>
                <rdg source="bib:Brandes1913_01">prāpnuyarcca</rdg>
                 <note>The <foreign>tarung</foreign>, misread as <foreign>layar</foreign> by Brandes, has been added secondarily; cf. 4r2 <foreign>dev<unclear>ā</unclear>ṅśa</foreign>.</note>
             </app>
             <app loc="7r5">
-               <lem >Andho matto hy apasmāro</lem>
+               <lem>Andho matto hy apasmāro</lem>
                <rdg source="bib:Brandes1913_01">An(  )omattohyapasmaro</rdg>
                 <note>Pigeaud had already conjectured <foreign>andho</foreign> (II, p. 134)</note>
             </app>
             <app loc="7r5">
-               <lem >kubjāḥ</lem>
+               <lem>kubjāḥ</lem>
                <rdg source="bib:Brandes1913_01">kubjaḥ</rdg>
             </app>
             <app loc="7r6">
-               <lem  source="bib:Brandes1913_01">kunis</lem>
+               <lem source="bib:Brandes1913_01">kunis</lem>
                <note>Pigeaud conjecture <foreign>kudhī</foreign> must be ignored.</note>
             </app>
             <app loc="7r6">
-               <lem >ta tmahanyan</lem>
+               <lem>ta tmahanyan</lem>
                <rdg source="bib:Brandes1913_01">katmahanyan</rdg>
             </app>
          </div>
          <div type="translation" resp="part:argr">
  	<!--translation encoded as per EG §9.2 -->
-	<p></p>
+	<p/>
          </div>
          <div type="commentary">
             <!--commentary encoded as per section §9.3 -->
@@ -591,7 +536,7 @@
          </div>
         <div type="bibliography">
 	<!--bibliography encoded as per section §9.4 -->
-            <p></p>
+            <p/>
              <listBibl type="secondary">
              <bibl/>
            </listBibl>
