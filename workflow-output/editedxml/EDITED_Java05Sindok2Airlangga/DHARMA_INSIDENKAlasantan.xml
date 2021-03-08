@@ -1,4 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
@@ -108,7 +111,7 @@
                  <fw place="left" rend="tb-rotated" n="3r"><num value="3">3</num></fw>
 <lb n="3r1"/>sə̄ṁ rāḥ hlai <num value="1">1</num> təĀsan· dyaḥ toloboṁ Atəhə<supplied reason="lost">r a</supplied>taḥ ma<supplied reason="lost">ṁ</supplied>harap· babak· I bavaṁ vinaiḥ pasək-pasək· <abbr>su</abbr> <num value="1">1</num> <abbr>mā</abbr> <num value="4">4</num> vḍihan· <abbr>yu</abbr> <num value="1">1</num>, samgat· muṅgaṁ pu maṅubər· vanuA ri muṅgaṁ tuhān i<unclear>ṁ</unclear> ka<lb n="3r2" break="no"/>nayakān· ri halu vḍihan· hlai <num value="1">1</num> kakaran· pu munda vḍihan· hlai <num value="1">1</num> dyaḥ ghoṣa Amasaṅakan· I rakryān· bavaṁ mapapan· dyaḥ gula vḍihan· hlai <num value="1">1</num> dyaḥ pataL̥san· vatak halu vanuA
 <lb n="3r3"/> I tumurun· vḍihan· hlai <num value="1">1</num> saṁ jula, partaya ri Air banuA vanuA I virikan· vḍihan· hlai <num value="1">1</num> sa<unclear>ṁ</unclear> praśānta tuhānn iṁ kalula I kanuruhan· vanuA I taṅunan· vḍihan· hlai <num value="1">1</num>, patiḥ dyaḥ
-<lb n="3r4"/>bajra, dyaḥ kumo <num value="2">2</num> vḍihan· hlai <num value="1">1</num> sovaṁ-sovaṁ, patiḥ maṁharap· babak· I paḍaṁ I paṅkaja saṁ baruṇa <abbr>mā</abbr> <num source="4">4</num> vḍihan· <abbr>yu</abbr> <num source="1">1</num><supplied reason="omitted">,</supplied> patiḥ I lmaḥ tulis· saṁ kilipan· <abbr>mā</abbr> <num value="2">2</num> vḍihan· <abbr>yu</abbr> <num value="1">1</num>, tu<lb n="3r5" break="no"/>mpuk· <abbr>mā</abbr> <num value="1">1</num> vḍihan· hlai <num value="1">1</num> dəAn· kāma patiḥ I paḍaṁ <abbr>mā</abbr> <num value="2">2</num> vḍihan· hlai <num value="1">1</num>, rāvaṇa <abbr>mā</abbr> <num value="1">1</num> vḍihan· hlai <num value="1">1</num>, bikər·, hujuṁ, juṁhur·, dəmə, gacəm·, <abbr>ku</abbr> <num value="2">2</num> vḍihan· hlai <num value="1">1</num> sovaṁ-so<lb n="3r6" break="no"/> vaṁ, pnik· patiḥ I lmaḥ tulis· maṁharap· babak· vḍihan· hlai <num value="1">1</num>, candra, bhanū, bakaṭəl·, ḍaluṁ vḍihan· hlai <num value="1">1</num> sovaṁ-sovaṁ, patiḥ I bavaṁ manujendra vḍihan· hlai <num value="1">1</num> Anak·nya ruA vinaiḥ <abbr>ku</abbr>
+<lb n="3r4"/>bajra, dyaḥ kumo <num value="2">2</num> vḍihan· hlai <num value="1">1</num> sovaṁ-sovaṁ, patiḥ maṁharap· babak· I paḍaṁ I paṅkaja saṁ baruṇa <abbr>mā</abbr> <num value="4">4</num> vḍihan· <abbr>yu</abbr> <num value="1">1</num><supplied reason="omitted">,</supplied> patiḥ I lmaḥ tulis· saṁ kilipan· <abbr>mā</abbr> <num value="2">2</num> vḍihan· <abbr>yu</abbr> <num value="1">1</num>, tu<lb n="3r5" break="no"/>mpuk· <abbr>mā</abbr> <num value="1">1</num> vḍihan· hlai <num value="1">1</num> dəAn· kāma patiḥ I paḍaṁ <abbr>mā</abbr> <num value="2">2</num> vḍihan· hlai <num value="1">1</num>, rāvaṇa <abbr>mā</abbr> <num value="1">1</num> vḍihan· hlai <num value="1">1</num>, bikər·, hujuṁ, juṁhur·, dəmə, gacəm·, <abbr>ku</abbr> <num value="2">2</num> vḍihan· hlai <num value="1">1</num> sovaṁ-so<lb n="3r6" break="no"/> vaṁ, pnik· patiḥ I lmaḥ tulis· maṁharap· babak· vḍihan· hlai <num value="1">1</num>, candra, bhanū, bakaṭəl·, ḍaluṁ vḍihan· hlai <num value="1">1</num> sovaṁ-sovaṁ, patiḥ I bavaṁ manujendra vḍihan· hlai <num value="1">1</num> Anak·nya ruA vinaiḥ <abbr>ku</abbr>
 <lb n="3r7"/><num value="2">2</num> sovaṁ-sovaṁ, vahuta I mapapan· maṁharap· babak· caitra, Urak·, Arja, <abbr>su</abbr> <num value="1">1</num> <abbr>mā</abbr> <num value="4">4</num> kinabehanya vḍihan· <abbr>yu</abbr> <num value="1">1</num> sovaṁ-sovaṁ, vahuta I mapapan· bandhu ramani rakā, buR̥ṁ, kuñjar·,
 <lb n="3r8"/>paradhīpa, baliba, śrayisinta, tahimbək·, parujar· jaluk·, sūṅan·, kulumā, baracaḥ, maṁḍampak·, vinkas· surupī, dhara, <abbr>su</abbr> <num value="7">7</num> kinabaihanya vḍihan· hlai <num value="1">1</num> sovaṁ-sovaṁ vahuta I pagə<lb n="3r9" break="no"/>ruyuṁ maṁharap· babak· bayad· <abbr>su</abbr> <num value="1">1</num> <abbr>mā</abbr> <num value="4">4</num> vḍihan· <abbr>yu</abbr> <num value="1">1</num>, vahuta I vsivsi maṁharap· babak· baiśākha <abbr>su</abbr> <num value="1">1</num> <abbr>mā</abbr> <num value="4">4</num> vḍihan· <abbr>yu</abbr> <num value="1">1</num>, rāma ryy ālasantan· saṁ dr̥vyak·, rambay·, sukhamī, cleṁ, vinaiḥ
 <lb n="3r10"/>vḍihan· hlai <num value="1">1</num> sovaṁ-sovaṁ <abbr>su</abbr> <num value="1">1</num> kinabehanya, rāma ri lmaḥ tulis· milu, kaki śila, pahəḥ, dhanemvi, kuludū, bandī vineḥ vḍihan· hlai <num value="1">1</num> sovaṁ-sovaṁ, rāma I skar bila, pəgeṁ, rāma ka<lb n="3r11" break="no"/> bayān· maṅambaḥ vḍihan· hlai <num value="1">1</num> sovaṁ-sovaṁ, rāma I L̥buḥ runtiṁ, kalaṁ susup· vḍihan· hlai <num value="1">1</num> sovaṁ-sovaṁ, rāma I paḍaṅan· vunyaṁ, tuha kalaṁ karuk· vḍihan· hle <num value="1">1</num> sovaṁ-sovaṁ, rāma
@@ -378,8 +381,8 @@
                        <rdg source="bib:Wibowo1979_01">virikan·</rdg>
                    </app>
                    <app loc="3r4">
-                       <lem><abbr>yu</abbr> <num source="1">1</num>,</lem>
-                       <rdg source="bib:Wibowo1979_01"><abbr>yu</abbr> <num source="1">1</num></rdg>
+                       <lem><abbr>yu</abbr> <num value="1">1</num>,</lem>
+                       <rdg source="bib:Wibowo1979_01"><abbr>yu</abbr> <num value="1">1</num></rdg>
                    </app>
                    <app loc="3r5">
                        <lem>kāma</lem>
@@ -517,7 +520,7 @@
                    </app>
                    <app loc="4r4">
                        <lem source="bib:Wibowo1979_01">babata</lem>
-                       <note>See correction babakan proposed by  Trigangga (<bibl><ptr target="bib:Trigangga2003_01"/>, <citedRange>23</citedRange>, <citedRange unit="note">41</citedRange></bibl>, <ref target="Linggasuntan.xml">Linggasuntan</ref> face C, line 32 ) and  <bibl><ptr target="Brandes1913_01"/><citedRange unit="item">XLVI </citedRange></bibl> or  <ref target="AnjukLadang.xml">Anjukladang</ref>, back, last line.</note>
+                       <note>See correction babakan proposed by  Trigangga (<bibl><ptr target="bib:Trigangga2003_01"/>, <citedRange>23</citedRange>, <citedRange unit="note">41</citedRange></bibl>, <ref target="Linggasuntan.xml">Linggasuntan</ref> face C, line 32 ) and  <bibl><ptr target="bib:Brandes1913_01"/><citedRange unit="item">XLVI </citedRange></bibl> or  <ref target="AnjukLadang.xml">Anjukladang</ref>, back, last line.</note>
                    </app>
                    <app loc="4r4">
                        <lem>patyanantā</lem>
@@ -546,7 +549,7 @@
                    <app loc="4r8">
                        <lem>jalamm er·</lem>
                        <rdg source="bib:Wibowo1979_01">jalamm ər·</rdg>
-                       <note>See correction <foreign>dalam er</foreign> Trigangga (<bibl><ptr target="bib:Trigangga2003_01"/>, <citedRange>23</citedRange>, <citedRange unit="note">43</citedRange></bibl>). Same error in <ref target="Paradah.xml">Paraḍah</ref>(<bibl><ptr target="Brandes1913_01"/><citedRange unit="item">XLVIII</citedRange></bibl>), back l. 34? See also <ref target="RukamII.xml">Rukam II</ref>, l. 18. The form dalam air is found in <bibl><ptr target="Brandes1913_01"/><citedRange unit="item">CII b</citedRange></bibl>, l. 11.
+                       <note>See correction <foreign>dalam er</foreign> Trigangga (<bibl><ptr target="bib:Trigangga2003_01"/>, <citedRange>23</citedRange>, <citedRange unit="note">43</citedRange></bibl>). Same error in <ref target="Paradah.xml">Paraḍah</ref>(<bibl><ptr target="bib:Brandes1913_01"/><citedRange unit="item">XLVIII</citedRange></bibl>), back l. 34? See also <ref target="RukamII.xml">Rukam II</ref>, l. 18. The form dalam air is found in <bibl><ptr target="bib:Brandes1913_01"/><citedRange unit="item">CII b</citedRange></bibl>, l. 11.
 </note>
                    </app>
                    <app loc="4r8">
@@ -880,9 +883,9 @@ Only the lord founder of the freehold herself shall have authority over all thei
                     </bibl>
                   </listBibl>
             <listBibl type="secondary">
-                <bibl><ptr target="NurhadiMagetsari+al1979_01"/><citedRange unit="page">6</citedRange></bibl>
-                <bibl><ptr target="RitaFitriati1990_01"/><citedRange unit="page">106, 110-111, 124</citedRange></bibl>
-                <bibl><ptr target="HadiSidomulyo2011_01"/><citedRange unit="page">135, 137</citedRange></bibl>
+                <bibl><ptr target="bib:NurhadiMagetsari+al1979_01"/><citedRange unit="page">6</citedRange></bibl>
+                <bibl><ptr target="bib:RitaFitriati1990_01"/><citedRange unit="page">106, 110-111, 124</citedRange></bibl>
+                <bibl><ptr target="bib:HadiSidomulyo2011_01"/><citedRange unit="page">135, 137</citedRange></bibl>
            </listBibl>
         </div>
       </body>
