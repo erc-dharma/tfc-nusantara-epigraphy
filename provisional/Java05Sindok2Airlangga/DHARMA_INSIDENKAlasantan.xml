@@ -26,8 +26,8 @@
          </titleStmt>
          <publicationStmt>
             <authority>DHARMA</authority>
-            <pubPlace>Malang</pubPlace>
-            <idno type="filename">Alasantan</idno>
+            <pubPlace>Malang; Lyon</pubPlace>
+            <idno type="filename">DHARMA_INSIDENKAlasantan</idno>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/">
                   <p>This work is licenced under the Creative Commons Attribution 4.0 Unported Licence. To view a copy of the licence, visit https://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.</p>
@@ -80,6 +80,7 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
+          <change who="part:argr" when="2020-03-08" status="draft">started revisions</change>
           <change who="part:ekba" when="2020-03-06" status="draft">creation of initial encoding of the inscription</change>
       </revisionDesc>
    </teiHeader>
