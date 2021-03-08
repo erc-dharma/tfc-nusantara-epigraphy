@@ -1,4 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
@@ -130,6 +133,7 @@
 <lb n="2.18"/>dyaḥ maluA, Amaṁ rakryān· bavaṁ pu bukəṁ <abbr>mā</abbr> <num value="10">10</num> vḍihan· hlai <num value="1">1</num> sovaṁ-sovaṁ, rakryān· vulat patiḥ dyaḥ ḍohol· vinaiḥ vḍihan· jaro haji hlai <num value="1">1</num>, <abbr>samgat·</abbr> si jana pupujut· vḍihan·
                  <pb n="3r"/>
                  <fw place="left" rend="tb-rotated" n="3r"><num value="3">3</num></fw>
+<<<<<<< HEAD
 <lb n="3.1"/>sə̄ṁ rāḥ hlai <num value="1">1</num> təĀsan· dyaḥ toloboṁ Atəhə<supplied reason="lost">r a</supplied>taḥ ma<supplied reason="lost">ṁ</supplied>harap· babak· I bavaṁ vinaiḥ pasək-pasək· <abbr>su</abbr> <num value="1">1</num> <abbr>mā</abbr> <num value="4">4</num> vḍihan· <abbr>yu</abbr> <num value="1">1</num>, <abbr>samgat·</abbr> muṅgaṁ pu maṅubər· vanuA ri muṅgaṁ tuhān i<unclear>ṁ</unclear> ka<lb 
     n="3.2" break="no"/>nayakā<space type="descender"/>n· ri halu vḍihan· hlai <num value="1">1</num> kakaran· pu munda vḍihan· hlai <num value="1">1</num> dyaḥ ghoṣa Amasaṅakan· I rakryān· bavaṁ mapapan· dyaḥ gula vḍihan· hlai <num value="1">1</num> dyaḥ pataL̥san· vatak halu vanuA
 <lb n="3.3"/>I tumurun· vḍihan· hlai <num value="1">1</num> saṁ jula, partaya ri Air banuA vanuA I vi<space type="descender"/>rikan· vḍihan· hlai <num value="1">1</num> sa<unclear>ṁ</unclear> praśānta tuhānn iṁ kalula I kanuruhan· vanuA I taṅunan· vḍiha<space type="descender"/>n· hlai <num value="1">1</num>, patiḥ dyaḥ
@@ -169,6 +173,47 @@
     n="4.18" break="no"/>ri<supplied reason="lost">ha</supplied>n· muvaḥ Atəhi<space type="descender"/>r· masavuṅan· manaṅgap· ta<space type="descender"/>pukan· maṅaran· kampallan· vinaiḥ <abbr>mā</abbr> <num value="2">2</num> mabañol· maṅaran· paṅinaṅan· vḍihan· hlai <num value="1">1</num> si tarata<space type="descender"/>kan· <abbr>ku</abbr> <num value="2">2</num> vidu maṅaran· vāhu vi<lb 
         n="4.19" break="no"/><unclear>nai</unclear>ḥ <abbr>mā</abbr> <num value="2">2</num> vḍihan· hlai <num value="1">1</num> I tlasniṁ manonto<unclear>n</unclear>· men·men· muliḥ sira kabaiḥ Irikaṁ vṅi manaṅgap· taṁ rakryān· vayaṁ maṅaran· si kapuluṅan·, vinaiḥ <abbr>mā</abbr> <num value="2">2</num> vḍihan· hlai <num value="1">1</num> nāhan· kramanikaṁ
 <lb n="4.20"/>susukan· śima paṅurumbigyan· ryy ālasantan· tkap· rakryān· kabayān· I vruha saṁ sādhujana kabaiḥ I pa<space type="descender"/>gəḥ saṁ hyaṁ śīma likhitapātra saṁ kīrti citralekha I mahārāja <g type="ddandaHooked">.</g> <g type="circleTarget">.</g> <g type="ddandaHooked">.</g> <g type="circleTarget">.</g> <g type="ddandaHooked">.</g> 
+=======
+<lb n="3r1"/>sə̄ṁ rāḥ hlai <num value="1">1</num> təĀsan· dyaḥ toloboṁ Atəhə<supplied reason="lost">r a</supplied>taḥ ma<supplied reason="lost">ṁ</supplied>harap· babak· I bavaṁ vinaiḥ pasək-pasək· <abbr>su</abbr> <num value="1">1</num> <abbr>mā</abbr> <num value="4">4</num> vḍihan· <abbr>yu</abbr> <num value="1">1</num>, samgat· muṅgaṁ pu maṅubər· vanuA ri muṅgaṁ tuhān i<unclear>ṁ</unclear> ka<lb 
+    n="3r2" break="no"/>nayakān· ri halu vḍihan· hlai <num value="1">1</num> kakaran· pu munda vḍihan· hlai <num value="1">1</num> dyaḥ ghoṣa Amasaṅakan· I rakryān· bavaṁ mapapan· dyaḥ gula vḍihan· hlai <num value="1">1</num> dyaḥ pataL̥san· vatak halu vanuA
+<lb n="3r3"/> I tumurun· vḍihan· hlai <num value="1">1</num> saṁ jula, partaya ri Air banuA vanuA I virikan· vḍihan· hlai <num value="1">1</num> sa<unclear>ṁ</unclear> praśānta tuhānn iṁ kalula I kanuruhan· vanuA I taṅunan· vḍihan· hlai <num value="1">1</num>, patiḥ dyaḥ
+<lb n="3r4"/>bajra, dyaḥ kumo <num value="2">2</num> vḍihan· hlai <num value="1">1</num> sovaṁ-sovaṁ, patiḥ maṁharap· babak· I paḍaṁ I paṅkaja saṁ baruṇa <abbr >mā</abbr> <num value="4">4</num> vḍihan· <abbr>yu</abbr> <num value="1">1</num><supplied reason="omitted">,</supplied> patiḥ I lmaḥ tulis· saṁ kilipan· <abbr>mā</abbr> <num value="2">2</num> vḍihan· <abbr>yu</abbr> <num value="1">1</num>, tu<lb 
+    n="3r5" break="no"/>mpuk· <abbr>mā</abbr> <num value="1">1</num> vḍihan· hlai <num value="1">1</num> dəAn· kāma patiḥ I paḍaṁ <abbr>mā</abbr> <num value="2">2</num> vḍihan· hlai <num value="1">1</num>, rāvaṇa <abbr>mā</abbr> <num value="1">1</num> vḍihan· hlai <num value="1">1</num>, bikər·, hujuṁ, juṁhur·, dəmə, gacəm·, <abbr>ku</abbr> <num value="2">2</num> vḍihan· hlai <num value="1">1</num> sovaṁ-so<lb 
+        n="3r6" break="no"/> vaṁ, pnik· patiḥ I lmaḥ tulis· maṁharap· babak· vḍihan· hlai <num value="1">1</num>, candra, bhanū, bakaṭəl·, ḍaluṁ vḍihan· hlai <num value="1">1</num> sovaṁ-sovaṁ, patiḥ I bavaṁ manujendra vḍihan· hlai <num value="1">1</num> Anak·nya ruA vinaiḥ <abbr>ku</abbr>
+<lb n="3r7"/><num value="2">2</num> sovaṁ-sovaṁ, vahuta I mapapan· maṁharap· babak· caitra, Urak·, Arja, <abbr>su</abbr> <num value="1">1</num> <abbr>mā</abbr> <num value="4">4</num> kinabehanya vḍihan· <abbr>yu</abbr> <num value="1">1</num> sovaṁ-sovaṁ, vahuta I mapapan· bandhu ramani rakā, buR̥ṁ, kuñjar·,
+<lb n="3r8"/>paradhīpa, baliba, śrayisinta, tahimbək·, parujar· jaluk·, sūṅan·, kulumā, baracaḥ, maṁḍampak·, vinkas· surupī, dhara, <abbr>su</abbr> <num value="7">7</num> kinabaihanya vḍihan· hlai <num value="1">1</num> sovaṁ-sovaṁ vahuta I pagə<lb 
+    n="3r9" break="no"/>ruyuṁ maṁharap· babak· bayad· <abbr>su</abbr> <num value="1">1</num> <abbr>mā</abbr> <num value="4">4</num> vḍihan· <abbr>yu</abbr> <num value="1">1</num>, vahuta I vsivsi maṁharap· babak· baiśākha <abbr>su</abbr> <num value="1">1</num> <abbr>mā</abbr> <num value="4">4</num> vḍihan· <abbr>yu</abbr> <num value="1">1</num>, rāma ryy ālasantan· saṁ dr̥vyak·, rambay·, sukhamī, cleṁ, vinaiḥ
+<lb n="3r10"/>vḍihan· hlai <num value="1">1</num> sovaṁ-sovaṁ <abbr>su</abbr> <num value="1">1</num> kinabehanya, rāma ri lmaḥ tulis· milu, kaki śila, pahəḥ, dhanemvi, kuludū, bandī vineḥ vḍihan· hlai <num value="1">1</num> sovaṁ-sovaṁ, rāma I skar bila, pəgeṁ, rāma ka<lb 
+    n="3r11" break="no"/> bayān· maṅambaḥ vḍihan· hlai <num value="1">1</num> sovaṁ-sovaṁ, rāma I L̥buḥ runtiṁ, kalaṁ susup· vḍihan· hlai <num value="1">1</num> sovaṁ-sovaṁ, rāma I paḍaṅan· vunyaṁ, tuha kalaṁ karuk· vḍihan· hle <num value="1">1</num> sovaṁ-sovaṁ, rāma
+<lb n="3r12"/> I tirim· paṇḍai, tuha kalaṁ manaḥ vḍihan· hlai <num value="1">1</num> sovaṁ-sovaṁ, rāma Iṁ lāpan· rūpa, tuha kalaṁ kūrma vḍihan· hlai <num value="1">1</num> sovaṁ-sovaṁ, rāma I vulu taji kurul· vḍihan· hlai <num value="1">1</num>, vi<unclear>la</unclear> ryy āla<lb 
+    n="3r13"/>santan· si piluk· vḍihan· hlai <num value="1">1</num>, paṅuraṁ balun· <abbr>mā</abbr> <num value="1">1</num>, krīṁ landəp· <abbr>mā</abbr> <num value="1">1</num>, makudur lumakvānusuk· ḍaṇḍər· <abbr>mā</abbr> <num value="10">10</num> vḍihan· <abbr>yu</abbr> <num value="1">1</num> sahopakaraṇa saṅkap· riṁ saji, vadihati lumakvānusu<lb 
+        n="3r14" break="no"/>k· harava <abbr>mā</abbr> <num value="10">10</num> vḍihan· <abbr>yu</abbr> <num value="1">1</num> sahopakaraṇa saṅkap· Iṁ saji, I tlasniṁ mavaiḥ pasak-pasak· muAṁ vḍihan· I sira kabaiḥ, pinarṇaḥ Ikaṁ saji I saṁ makudur· I sorniṁ vitāna ma<lb 
+            n="3r15" break="no"/>ṅārgha saṁ pinakaviku sumaṁskāra Ikaṁ təAs· susuk· muAṁ kulumpaṁ, maṁḍiri ta saṁ makudur· maṅañjali I saṁ hyaṁ təAs· maluṅguḥ I sor·niṁ vitāna māndəlan· pāda humaR̥pakan· saṁ
+<lb n="3r16"/>hyaṁ təAs· masiṅhal· vḍihan· <abbr>yu</abbr> <num value="1">1</num> tumūt· saṁ vadihati, lumkas saṁ makudur maṅuyut· manətək· gulūniṁ hayam· linaṇḍəsakan· Iṁ kulumpaṁ mamantiṅakan· hantlū Iṁ vatu śima, ma<lb 
+    n="3r17" break="no"/>maṁmaṁ manapathe saminaṁmaṁnira daṅū I katguhakna saṁ hyaṁ śima, Indaḥ ta kita kamuṁ hyaṁ Iṁ śri haricandana Agasti mahāR̥ṣi, pūrba dakṣiṇa paścimottara, maddhya Ūrdhvamadhaḥ ravi śa<lb 
+        n="3r18" break="no"/>śi kṣiti jala pavana hutāśana yajamānākāśa dharma Ahorātri sandhyā hr̥daya, yakṣa rākṣasa piśāca pretāsura garuḍa gandharba, catvāri lokapāla yama baruṇa
+<lb n="3r19"/>kuvera vāsava, muAṁ putra devatā pañcakuśika nandīśvara mahākāla <choice><sic>ma</sic><corr>ṣa</corr></choice>dvināyaka nāgarājā durgā devī, caturaśra Ananta surendra, Anakta hyaṁ kālamr̥tyu gaṇa bhūta, kita pra<pb n="4r" break="no"/><fw place="left" rend="tb-rotated" n="4r"><num value="4">4</num></fw><lb 
+    n="4r1" break="no"/><supplied reason="lost">siddha</supplied> ma<unclear>ṁ</unclear>rakṣa ka<unclear>ḍa</unclear>tva<supplied reason="lost">n</supplied>· śrī mahārāja I mḍaṁ Iṁ bhūmi matarām· kita Umilu manarīra Umasuk iṁ sarbaśarīra kita sakala sākṣībhūta tumon· madoḥ lavan· mapaṜ Iṁ rahina riṁ vṅi At· ḍəṅəĀkan· ta Ikeṁ <unclear>sa</unclear><lb 
+        n="4r2" break="no"/><supplied reason="lost">maya</supplied> <unclear>śa</unclear>patha sum<supplied reason="lost">paḥ</supplied> pamaṁmaṁ mami ri kita hiyaṁ kabaiḥ yāvat· Ikaṁṅ vaṁ durācāra tan māgam· tan makmit· Irikeṁ śapatha sinrahakan· saṁ vahuta hyaṁ kudur· hadyan hulun· matuha raray· lakilaki <unclear>va</unclear><lb 
+            n="4r3" break="no"/>dvan· viku gr̥hastha <unclear>mu</unclear>Aṁ patiḥ vahuta rāma, Asiṁ Umulah-ulaḥ Ikeṁ lmaḥ varuk· ryy ālasantan· śīma paṅurumbigyan· Inarpaṇakan· śrī mahārāja I rakryān· kabayān· Ibu rakryān· mapatiḥ ri halu,
+<lb n="4r4"/>dyaḥ sahasra <unclear>I dlā</unclear>haniṁ dlāha babata ta ya ṅuniveḥ yan· davuta saṁ hyaṁ vatu śīma tasmāt· kabvataknanya patyanantā ya kamuṁ hyaṁ deyantāt patī ya tatt anoliha I vuntat· tat tiṁhala I likuR̥n·
+<lb n="4r5"/>taruṁ riṅ adəgan· tampyal· I viraṅan· Uvahi I tṅanan· tutuḥ tuṇḍunya blaḥ kapālanya, sbitakan· vtaṅnya rantan· Ususnya vətvakan· ḍalmanya ḍuḍuk=hatinya, təhər· pəpəddakan· vkassakan· prāṇāntika, ya<lb 
+    n="4r6" break="no"/><supplied reason="lost">n</supplied>· para riṅ alas· paṅanann iṁ moṁ patukann iṁ Ulā, puliraknaniṁ devamanyuḥ yan· para riṁ tgal· Alapann iṁ glap· sampalann iṁ rākṣasa paṅananniṁ vvīl· si pamuṅvan·, tamolaḥ ya ri sthānanya sarbaroga ruma<lb 
+        n="4r7" break="no"/><unclear>ñca</unclear> ya, Araḥ ta kita kamuṁ hyaṁ kuśika garga metrī kuruṣya pātāñjala suvuk· lor· suvuk kidul· kulvan· vetan· bvaṅakan· riṅ ākāśa salambitakan· Iṁ hyaṁ kabaiḥ tibākan· Iṁ mahāsamudra
+<lb n="4r8"/>klammakan· Iṁ <unclear>ḍavuha</unclear>n· <unclear>A</unclear>lapan· sa<supplied reason="lost">ṁ</supplied> hyaṁ jalamm er· dudutanniṁ tuviran· saṅhapann iṁ vuhaya, ṅkānan· matya Ikaṁṅ vaṁ Anyāya luməbur· Ikeṁ śīma paṅurumbigyan· ryy ālasantan· Upadravā riṁ devata ka<lb 
+    n="4r9" break="no"/>baiḥ bhraṣṭā liputanniṁ ḍhīra muliha Iṁ kanaraka, tibākan· riṁ mahārorava klān de saṁ yamabala, palūn de saṁ kiṅkara piṁpitu Ata yan· bimbān· pāpā Ata ya saṁsārā sajīvakāla salvīrniṁ duḥ<choice><sic>l</sic><corr>kh</corr></choice>a paṅgu<lb 
+        n="4r10" break="no"/>hanya sarūpaniṁ lara hiḍəpənya sakelikniṁ ma<unclear>ṁ</unclear>janma dadyananya Avūka tan· təmuAṁ śama, vkassakan· havu kerir· maṅkanātmahananikaṁṅ vaṁ Anyāya luməbur· Ikaṁ śīma paṅurumbigyan· ryy ālasantan·,
+<lb n="4r11"/> <unclear>I</unclear> tlas sa<unclear>ṁ</unclear> makudur maṅuyut· masalin· sira kabaiḥ kapva maluṅguḥ Iṁ tkan· pasək· tumut· krama saṁ hana riṁ kon· patiḥ vahuta rāma kabayān· muAṁ rāma təpi siriṁ kulapatī punta matuha rarai, la<lb 
+    n="4r12" break="no"/>ki-laki vadvan· kaniṣṭ<unclear>h</unclear>amaddhyamottama tan· hana kāntun· Ilu manaḍaḥ riṁ pkan· ryy ālasantan· kinuran·kuran· InaṁsəAn· skul· dāndānan· hinirusan· klakla Ambil-ambil· kasyan· litlit· tlu sa<lb 
+        n="4r13" break="no"/>raṇak· saṅasaṅān· haryyas· rumbarumbaḥ kuluban· tetis· tumpuk·tumpuk· ḍeṁ hañaṁ ḍeṁ hasin· kakap· huraṁ, bijañjan· kaḍivas· kavan· laya-layar· hala-hala hantlū Ina<lb 
+            n="4r14" break="no"/>risuṇḍa Atak· pāhan· piṇḍa limas· Iṁ saron· saṅ abheda saṅkeṅ ivak·, kvaiḥnikaṁ kbo pinaṅan· <num value="3">3</num> Ikaṁ saviji praṁ paṁpaṁ pinaṅan· taṇḍa rakryān· muAṁ patiḥ vahuta Ikaṁ <num value="2">2</num> pinaṅan·
+<lb n="4r15"/>kinabehan· de taṇḍa rakryān· muAṁ patiḥ vahuta rāma, kidaṁ <num value="3">3</num> c<choice><sic>olo</sic><corr>ele</corr></choice>ṁ <num value="1">1</num> haṅsa <num value="1">1</num> pinaṅan· kinabehan· Aṅinum· siddhu, tvak· kilaṁ pintlu sovaṁ vinuvuhan· tambul· Inañjapan· kuravu ku<lb 
+    n="4r16" break="no"/>ri<unclear>ma,</unclear> hasam· dva-dval· madulur· malariḥ Umaṁsə̄ taṁ jənu skar· Anabəḥ ta saṁ matuvuṁ maṁḍiri rakai vulat patiḥ samgat· sijana saṁ tuhān· I halu patiḥ vahuta rāma, Anambaḥ humarap· I sārah-araḥ
+<lb n="4r17"/>śrī mahārāja, muAṁ rakryān mapatiḥ kamnā sira maṅigla, tuvuṁ buṁkuk· gaṇḍiṁ Iniglakannira, tlas nira maṅigəl· maluṅguḥ sira muvaḥ vinuvuhan· tambul· linarihan· piṇḍuA sovaṁ Umaṁsə̄ ta<unclear>ṁ</unclear> baṁlus· lina<lb 
+    n="4r18" break="no"/>ri<supplied reason="lost">ha</supplied>n· muvaḥ Atəhir· masavuṅan· manaṅgap· tapukan· maṅaran· kampallan· vinaiḥ <abbr>mā</abbr> <num value="2">2</num> mabañol· maṅaran· paṅinaṅan· vḍihan· hlai <num value="1">1</num> si taratakan· <abbr>ku</abbr> <num value="2">2</num> vidu maṅaran· vāhu vi<lb 
+        n="4r19" break="no"/><unclear>nai</unclear>ḥ <abbr>mā</abbr> <num value="2">2</num> vḍihan· hlai <num value="1">1</num> I tlasniṁ manonto<unclear>n</unclear>· men·men· muliḥ sira kabaiḥ Irikaṁ vṅi manaṅgap· taṁ rakryān· vayaṁ maṅaran· si kapuluṅan·, vinaiḥ <abbr>mā</abbr> <num value="2">2</num> vḍihan· hlai <num value="1">1</num> nāhan· kramanikaṁ
+<lb n="4r20"/>susukan· śima paṅurumbigyan· ryy ālasantan· tkap· rakryān· kabayān· I vruha saṁ sādhujana kabaiḥ I pagəḥ saṁ hyaṁ śīma likhitapātra saṁ kīrti citralekha I mahārāja <g type="ddandaHooked">.</g> <g type="circleTarget">.</g> <g type="ddandaHooked">.</g> <g type="circleTarget">.</g> <g type="ddandaHooked">.</g> 
+>>>>>>> 01c11cb1e40107769b2a61b3e8ad95626e4f1252
              </p>
          </div>
          <div type="apparatus">
@@ -425,8 +470,8 @@
                        <rdg source="bib:Wibowo1979_01">virikan·</rdg>
                    </app>
                    <app loc="3r4">
-                       <lem><abbr>yu</abbr> <num source="1">1</num>,</lem>
-                       <rdg source="bib:Wibowo1979_01"><abbr>yu</abbr> <num source="1">1</num></rdg>
+                       <lem><abbr>yu</abbr> <num value="1">1</num>,</lem>
+                       <rdg source="bib:Wibowo1979_01"><abbr>yu</abbr> <num value="1">1</num></rdg>
                    </app>
                    <app loc="3r5">
                        <lem>kāma</lem>
@@ -564,7 +609,7 @@
                    </app>
                    <app loc="4r4">
                        <lem source="bib:Wibowo1979_01">babata</lem>
-                       <note>See correction babakan proposed by  Trigangga (<bibl><ptr target="bib:Trigangga2003_01"/>, <citedRange >23</citedRange>, <citedRange unit="note">41</citedRange></bibl>, <ref target="Linggasuntan.xml">Linggasuntan</ref> face C, line 32 ) and  <bibl><ptr target="Brandes1913_01"/><citedRange unit="item">XLVI </citedRange></bibl> or  <ref target="AnjukLadang.xml">Anjukladang</ref>, back, last line.</note>
+                       <note>See correction babakan proposed by  Trigangga (<bibl><ptr target="bib:Trigangga2003_01"/>, <citedRange >23</citedRange>, <citedRange unit="note">41</citedRange></bibl>, <ref target="Linggasuntan.xml">Linggasuntan</ref> face C, line 32 ) and  <bibl><ptr target="bib:Brandes1913_01"/><citedRange unit="item">XLVI </citedRange></bibl> or  <ref target="AnjukLadang.xml">Anjukladang</ref>, back, last line.</note>
                    </app>
                    <app loc="4r4">
                        <lem>patyanantā</lem>
@@ -593,7 +638,7 @@
                    <app loc="4r8">
                        <lem>jalamm er·</lem>
                        <rdg source="bib:Wibowo1979_01">jalamm ər·</rdg>
-                       <note>See correction <foreign>dalam er</foreign> Trigangga (<bibl><ptr target="bib:Trigangga2003_01"/>, <citedRange>23</citedRange>, <citedRange unit="note">43</citedRange></bibl>). Same error in <ref target="Paradah.xml">Paraḍah</ref>(<bibl><ptr target="Brandes1913_01"/><citedRange unit="item">XLVIII</citedRange></bibl>), back l. 34? See also <ref target="RukamII.xml">Rukam II</ref>, l. 18. The form dalam air is found in <bibl><ptr target="Brandes1913_01"/><citedRange unit="item">CII b</citedRange></bibl>, l. 11.
+                       <note>See correction <foreign>dalam er</foreign> Trigangga (<bibl><ptr target="bib:Trigangga2003_01"/>, <citedRange>23</citedRange>, <citedRange unit="note">43</citedRange></bibl>). Same error in <ref target="Paradah.xml">Paraḍah</ref>(<bibl><ptr target="bib:Brandes1913_01"/><citedRange unit="item">XLVIII</citedRange></bibl>), back l. 34? See also <ref target="RukamII.xml">Rukam II</ref>, l. 18. The form dalam air is found in <bibl><ptr target="bib:Brandes1913_01"/><citedRange unit="item">CII b</citedRange></bibl>, l. 11.
 </note>
                    </app>
                    <app loc="4r8">
@@ -927,9 +972,9 @@ Only the lord founder of the freehold herself shall have authority over all thei
                     </bibl>
                   </listBibl>
             <listBibl type="secondary">
-                <bibl><ptr target="NurhadiMagetsari+al1979_01"/><citedRange unit="page">6</citedRange></bibl>
-                <bibl><ptr target="RitaFitriati1990_01"/><citedRange unit="page">106, 110-111, 124</citedRange></bibl>
-                <bibl><ptr target="HadiSidomulyo2011_01"/><citedRange unit="page">135, 137</citedRange></bibl>
+                <bibl><ptr target="bib:NurhadiMagetsari+al1979_01"/><citedRange unit="page">6</citedRange></bibl>
+                <bibl><ptr target="bib:RitaFitriati1990_01"/><citedRange unit="page">106, 110-111, 124</citedRange></bibl>
+                <bibl><ptr target="bib:HadiSidomulyo2011_01"/><citedRange unit="page">135, 137</citedRange></bibl>
            </listBibl>
         </div>
       </body>
