@@ -31,7 +31,11 @@
          <publicationStmt>
             <authority>DHARMA</authority>
             <pubPlace>Malang</pubPlace>
+<<<<<<< HEAD
+            <idno type="filename">DHARMA_INSIDENKSarvadharma</idno>
+=======
             <idno type="filename">Sarvadharma</idno>
+>>>>>>> 232cc7cfec261926cfb341df120c87d97af63bcd
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/">
                   <p>This work is licenced under the Creative Commons Attribution 4.0 Unported Licence. To view a copy of the licence, visit https://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.</p>
@@ -85,6 +89,10 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
+<<<<<<< HEAD
+         <change who="part:ekba" when="2021-03-19" status="draft">renamed the file</change>
+=======
+>>>>>>> 232cc7cfec261926cfb341df120c87d97af63bcd
          <change who="part:ekba" when="2020-02-11" status="draft">started initial encoding of the inscription</change>
       </revisionDesc>
    </teiHeader>
