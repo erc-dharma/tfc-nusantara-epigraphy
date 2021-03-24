@@ -115,7 +115,7 @@
 <lb n="4r4"/>ri daL̥m nāgara, marmmanikaṁ <choice><orig>vyāvahari</orig><reg>vyavahāri</reg></choice> kāliḥ sacchaya mampak-āmpak· humatur i taṇḍa rakryan· riṁ
 <lb n="4r5"/>pakira-kiran makabehan·, mintonakǝn· <unclear>pakṣa</unclear>nya <unclear>so</unclear>vaṁ-sova<unclear>ṁ</unclear>, kunǝṁ suṅan· vara-varaḥ Aki<pb n="4v"/><lb n="4v1"/>sant<choice><orig>a</orig><reg>ā</reg></choice>na, mapañji śaraṇa, muAṁ sarovaṁnya, ki karṇna, mapañji manākara, Ajaran· reka, ki siran·, ki jumput·<g type="filler">§</g>
 <lb n="4v2"/><unclear>U</unclear>ṅsun madr̥vya lmaḥ punaṁ manah i manuk·, kayoniṁ savaḥ, Aḍavuṁ, liriḥ, 1, I beR̥m·, liriḥ, 1, I pa⌈
-<lb n="4v3" break="no"/>jnon· kiduliṅ umaḥ, liriḥ, 2, pajnon· kubvan·, kuñci, 1, paṅeran·, kubvan·, kuñci 1 tiga th<choice><orig>a</orig><reg>ā</reg></choice>ni, ka
+<lb n="4v3" break="no"/>jnon· kidul iṅ umaḥ, liriḥ, 2, pajnon· kubvan·, kuñci, 1, paṅeran·, kubvan·, kuñci 1 tiga th<choice><orig>a</orig><reg>ā</reg></choice>ni, ka
 <lb n="4v4" break="no"/>yoniṁ savaḥ vareṁ, liriḥ, 1, kayon·, valuntas·, liriḥ, 10, tiga thāni kubvan·, kuñci, 1, dinanā
 <lb n="4v5" break="no"/>kǝn iṁ tuha-tuha mariṁ katy<choice><orig>a</orig><reg>ā</reg></choice>gan· pakaṇḍaṅan·, liriḥ, <num value="16"><unclear>16</unclear></num>, mariṁ maṇḍala riṁ kuku<supplied reason="omitted">b·</supplied>, liriḥ, 2, mariṁ jaṅgan iṁ pa<pb n="5r" break="no"/><fw n="5r" rend="bt-rotated" place="left"><num value="5"><unclear>5</unclear></num></fw><lb n="5r1" break="no"/>ṅle, liriḥ <num value="1">1</num>, kabhukti deniṅ a<unclear>ma</unclear>dr̥<unclear>vy</unclear>akǝn·, liriḥ <num value="33">33</num>, piṇḍa liriḥ <num value="67">67</num>, punika ta sthiti bhukti saṅkeṁ tu
 <lb n="5r2" break="no"/>ha-tuha, bapa, kaki buyut·, pit<unclear>uṁ</unclear>, Aṅgas·, muniṁ, kr̥pǝk·, tan hana<supplied reason="lost">ṁ</supplied> suvanda, Apan an<choice><orig>a</orig><reg>ā</reg></choice>di kabhuktyanipun·, maka
@@ -154,12 +154,6 @@
                      <lem source="bib:Brandes1913_01">°pra<lb/>vāla-buddhi°</lem>
                      <rdg source="bib:Boechari1985-1986_01">°pravālanbuddhi°</rdg>
                   </app>
-<!--
-                  <app loc="2v1">
-                     <lem>mahāmantri</lem>
-                     <rdg source="bib:Boechari1985-1986_01">mahāmantrī</rdg>
-                     <note>We would indeed expect a long <hi rend="italic">ī</hi>, for this is the spelling adopted in other adjacent occurrences of the same word, however the plate shows no trace of it.</note>
-                  </app>-->
                   <app loc="2v4">
                      <lem source="bib:Brandes1913_01">nāla</lem>
                      <rdg source="bib:Boechari1985-1986_01">nala</rdg>
@@ -237,7 +231,7 @@
          </div>
         <div type="bibliography">
 	<!--bibliography encoded as per section §9.4 -->
-	<p>First edited by Brandes, republished by Ppigeaud and edited again by Boechari (<bibl rend="omitname"><ptr target="bib:Boechari1985-1986_01"/><citedRange unit="page">97-100</citedRange> <citedRange unit="item">E.35</citedRange></bibl>); re-edited here by Marine Schoettel from the estampage of the plate made available by the Museum Nasional Indonesia.</p>
+	<p>First edited by Brandes, republished by Pigeaud and edited again by Boechari (<bibl rend="omitname"><ptr target="bib:Boechari1985-1986_01"/><citedRange unit="page">97-100</citedRange> <citedRange unit="item">E.35</citedRange></bibl>); re-edited here by Marine Schoettel from the estampage of the plate made available by the Museum Nasional Indonesia.</p>
             <listBibl type="secondary">
 	 <bibl><ptr target="bib:NBG"/><date>1914</date><citedRange unit="volume">LII</citedRange><citedRange unit="page">44-45, 52, 192</citedRange></bibl>
 </listBibl>
