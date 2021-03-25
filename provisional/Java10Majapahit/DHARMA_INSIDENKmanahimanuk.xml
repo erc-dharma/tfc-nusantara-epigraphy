@@ -47,7 +47,7 @@
                </msContents>
                <physDesc>
                   <handDesc>
-                     <p><!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EG 11.2. -->This inscription uses an unusual shape of basic punctuation, which does not look like a comma but rather like a simple vertical bar or daṇḍa. The pasangan &lt;s&gt;, &lt;ṣ&gt; and &lt;p&gt; are written in the modern fashion (?) on the same line, and not below the line as it is still usually the case in the Majapahit period. We observe two shapes of anusvāra in this inscription, with the alternative round shape appearing for instance l. 2v5. The scribe uses two ways of forming akṣara lā:
+                     <p><!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EG 11.2. -->This inscription uses an unusual shape of basic punctuation, which does not look like a comma but rather like a simple vertical bar or <foreign>daṇḍa</foreign>. The pasangan <foreign>s</foreign>, <foreign>ṣ</foreign> and <foreign>p</foreign> are written in the <quote>modern</quote> fashion on the same line, instead of below the line as it is still usually the case in the Majapahit period. We observe two shapes of anusvāra in this inscription, with the alternative round shape appearing for instance l. 2v5. The scribe uses two ways of forming akṣara <foreign>lā</foreign>:
                               with tarung placed to the right of the akṣara, most frequent
                               with tarung written in “superscript” form: 3r1 prajālāṅkarā</p>
                      <!-- If you need to identify individual hands (EG §7.5/) in addition to one or more paragraphs of general palaeographic description, wrap <summary> around the <p> or <p>s above, and, outside <summary>, create <handNote> elements for each hand as follows:
@@ -100,8 +100,8 @@ n="2r5" break="no"/>vāla-buddhi-sahitā</foreign>, sārddhanārīśvara muAṁ 
 <lb n="2v3" break="no"/>kabehan·, saṅ āryya sen<choice><orig>a</orig><reg>ā</reg></choice>pati pu tanu, saṅ āryyātmarāja pu taṇḍiṁ, rakryan· dmuṁ pu gaṣṭi, rakryan ka
 <lb n="2v4" break="no"/>nuruhan· pu turut·, rakryan· raṅga pu lurukan·, rakryan tumǝṅguṁ pu nāla, <foreign xml:lang="san-Latn">sā<choice><orig>d</orig><reg>dh</reg></choice>u-gopika-durjjana-vi<g type="filler">§</g>
 <lb n="2v5" break="no"/>nigraha-tatpara</foreign>, mavastha patiḥ ri pajaṁ, samahiriṁ muAṁ rake juru paṅalasan· pu pṭul·, <foreign xml:lang="san-Latn">naya-vi<pb n="3r" break="no"/>
-<fw n="3r" rend="bt-rotated" place="left"><num value="3">3</num></fw>
-<lb n="3r1" break="no"/>na<unclear>ya-dhara</unclear></foreign>, makapramu<choice><orig>k</orig><reg>kh</reg></choice>a sa<supplied reason="lost">ṁ</supplied> mantr<unclear>ī</unclear>ṅgitājñā prajālaṅ<choice><sic>karā</sic><corr>kāra</corr></choice>, rake mapatiḥ pu mada, <foreign xml:lang="san-Latn">sakala-nīti-vr̥ha<g type="filler">§</g>
+<fw n="3r" rend="bt-rotated" place="left"><num value="3">3</num></fw><lb
+n="3r1" break="no"/>na<unclear>ya-dhara</unclear></foreign>, makapramu<choice><orig>k</orig><reg>kh</reg></choice>a sa<supplied reason="lost">ṁ</supplied> mantr<unclear>ī</unclear>ṅgitājñā prajālaṅ<choice><sic>karā</sic><corr>kāra</corr></choice>, rake mapatiḥ pu mada, <foreign xml:lang="san-Latn">sakala-nīti-vr̥ha<g type="filler">§</g>
 <lb n="3r2" break="no"/>spati-saṅgrāmikā</foreign>, prāṇarakṣaka śrī mahārāja pra<choice><orig>na</orig><reg>ṇā</reg></choice>lāmratisubaddhakǝn· paṅḍiri śrī mahārājā
 <lb n="3r3" break="no"/>ṅkǝn· <choice><orig>I</orig><reg>Ī</reg></choice>śvaraprativimba, gumavayakǝn· hitakarmmaniṁ yavadvīpam<choice><orig>ā</orig><reg>a</reg></choice>ṇḍala, muAṁ viśīrṇnaniṁ pr<choice><sic>a</sic><corr>ā</corr></choice>ṁmu
 <lb n="3r4" break="no"/>khe pāduka śrī mahārāja, dharmm<choice><orig>a</orig><reg>ā</reg></choice>dhyakṣa riṁ kasevan·, saṅ āryya rājaparākrama, ḍaṅ ācā<g type="filler">§</g>
@@ -115,9 +115,9 @@ n="2r5" break="no"/>vāla-buddhi-sahitā</foreign>, sārddhanārīśvara muAṁ 
 <lb n="4r4"/>ri daL̥m nāgara, marmmanikaṁ <choice><orig>vyāvahari</orig><reg>vyavahāri</reg></choice> kāliḥ sacchaya mampak-āmpak· humatur i taṇḍa rakryan· riṁ
 <lb n="4r5"/>pakira-kiran makabehan·, mintonakǝn· <unclear>pakṣa</unclear>nya <unclear>so</unclear>vaṁ-sova<unclear>ṁ</unclear>, kunǝṁ suṅan· vara-varaḥ Aki<pb n="4v"/><lb n="4v1"/>sant<choice><orig>a</orig><reg>ā</reg></choice>na, mapañji śaraṇa, muAṁ sarovaṁnya, ki karṇna, mapañji manākara, Ajaran· reka, ki siran·, ki jumput·<g type="filler">§</g>
 <lb n="4v2"/><unclear>U</unclear>ṅsun madr̥vya lmaḥ punaṁ manah i manuk·, kayoniṁ savaḥ, Aḍavuṁ, liriḥ, 1, I beR̥m·, liriḥ, 1, I pa⌈
-<lb n="4v3" break="no"/>jnon· kidul iṅ umaḥ, liriḥ, 2, pajnon· kubvan·, kuñci, 1, paṅeran·, kubvan·, kuñci 1 tiga th<choice><orig>a</orig><reg>ā</reg></choice>ni, ka
-<lb n="4v4" break="no"/>yoniṁ savaḥ vareṁ, liriḥ, 1, kayon·, valuntas·, liriḥ, 10, tiga thāni kubvan·, kuñci, 1, dinanā
-<lb n="4v5" break="no"/>kǝn iṁ tuha-tuha mariṁ katy<choice><orig>a</orig><reg>ā</reg></choice>gan· pakaṇḍaṅan·, liriḥ, <num value="16"><unclear>16</unclear></num>, mariṁ maṇḍala riṁ kuku<supplied reason="omitted">b·</supplied>, liriḥ, 2, mariṁ jaṅgan iṁ pa<pb n="5r" break="no"/><fw n="5r" rend="bt-rotated" place="left"><num value="5"><unclear>5</unclear></num></fw><lb n="5r1" break="no"/>ṅle, liriḥ <num value="1">1</num>, kabhukti deniṅ a<unclear>ma</unclear>dr̥<unclear>vy</unclear>akǝn·, liriḥ <num value="33">33</num>, piṇḍa liriḥ <num value="67">67</num>, punika ta sthiti bhukti saṅkeṁ tu
+<lb n="4v3" break="no"/>jnon· kidul iṅ umaḥ, liriḥ, <num value="2">2</num>, pajnon· kubvan·, kuñci, <num value="1">1</num>, paṅeran·, kubvan·, kuñci <num value="1">1</num> tiga th<choice><orig>a</orig><reg>ā</reg></choice>ni, ka
+<lb n="4v4" break="no"/>yoniṁ savaḥ vareṁ, liriḥ, <num value="1">1</num>, kayon·, valuntas·, liriḥ, <num value="10">10</num>, tiga thāni kubvan·, kuñci, <num value="1">1</num>, dinanā
+<lb n="4v5" break="no"/>kǝn iṁ tuha-tuha mariṁ katy<choice><orig>a</orig><reg>ā</reg></choice>gan· pakaṇḍaṅan·, liriḥ, <num value="16"><unclear>16</unclear></num>, mariṁ maṇḍala riṁ kuku<supplied reason="omitted">b·</supplied>, liriḥ, <num value="2">2</num>, mariṁ jaṅgan iṁ pa<pb n="5r" break="no"/><fw n="5r" rend="bt-rotated" place="left"><num value="5"><unclear>5</unclear></num></fw><lb n="5r1" break="no"/>ṅle, liriḥ <num value="1">1</num>, kabhukti deniṅ a<unclear>ma</unclear>dr̥<unclear>vy</unclear>akǝn·, liriḥ <num value="33">33</num>, piṇḍa liriḥ <num value="67">67</num>, punika ta sthiti bhukti saṅkeṁ tu
 <lb n="5r2" break="no"/>ha-tuha, bapa, kaki buyut·, pit<unclear>uṁ</unclear>, Aṅgas·, muniṁ, kr̥pǝk·, tan hana<supplied reason="lost">ṁ</supplied> suvanda, Apan an<choice><orig>a</orig><reg>ā</reg></choice>di kabhuktyanipun·, maka
 <lb n="5r3" break="no"/>vyakti kīrttini tuha-tuhani<unclear>ṁ</unclear> Uṅsun· bale I maṇḍala <unclear>I kasḍa</unclear>han·, <choice><orig>s</orig><reg>ś</reg></choice>akak<choice><orig>a</orig><reg>ā</reg></choice>la, <num value="919">919</num>, vayuhanǝṅaḥ ra
 <lb n="5r4" break="no"/>kva Aranipun·, pu<unclear>ni</unclear>ka ta <unclear>sa</unclear>m<choice><orig>a</orig><reg>ā</reg></choice>na<unclear>kā</unclear>la lāvan· savaḥ, Apituvin tan hana savahipun samasānak i punaṁ sī
@@ -151,16 +151,16 @@ n="2r5" break="no"/>vāla-buddhi-sahitā</foreign>, sārddhanārīśvara muAṁ 
                      <rdg source="bib:Boechari1985-1986_01">Ājñā</rdg>
                   </app>
                   <app loc="2r4">
-                     <lem source="bib:Brandes1913_01">°pra<lb/>vāla-buddhi°</lem>
-                     <rdg source="bib:Boechari1985-1986_01">°pravālanbuddhi°</rdg>
+                     <lem source="bib:Brandes1913_01">-pra<lb/>vāla-buddhi-</lem>
+                     <rdg source="bib:Boechari1985-1986_01">-pravālanbuddhi-</rdg>
                   </app>
                   <app loc="2v4">
                      <lem source="bib:Brandes1913_01">nāla</lem>
                      <rdg source="bib:Boechari1985-1986_01">nala</rdg>
                   </app>
                   <app loc="2v4">
-                     <lem source="bib:Brandes1913_01">sā<choice><orig>d</orig><reg>dh</reg></choice>u°</lem>
-                     <rdg source="bib:Boechari1985-1986_01">sadu°</rdg>
+                     <lem source="bib:Brandes1913_01">sā<choice><orig>d</orig><reg>dh</reg></choice>u-</lem>
+                     <rdg source="bib:Boechari1985-1986_01">sadu-</rdg>
                   </app>
                   <app loc="3r1">
                      <lem>sa<supplied reason="lost">ṁ</supplied> mantr<unclear>ī</unclear>ṅgitājñā</lem>
@@ -223,7 +223,7 @@ n="2r5" break="no"/>vāla-buddhi-sahitā</foreign>, sārddhanārīśvara muAṁ 
                </listApp>
          </div>
          <div type="translation" resp="part:masc">
-  <p n="1v1">by royal consecration name, Dyah Hayam Vuruk. It was accompanied by the order of Her Majesty the illustrious Tribhuvanottuṅgarājadevī Jayaviṣṇuvardhanī, an image of the Goddess who is auspicious for all kings, splendid by the glowing heat of...,    was the one called the deified ancestor <supplied reason="subaudible">resting</supplied> at Hāra, younger brother of the deified ancestor <supplied reason="subaudible">resting</supplied> at Mḍaṅ. He founded the monastery at Pikatan <foreign>tutuganniṁ taṇḍa</foreign>.<!-- tutugan: cf. Mūla --></p>
+  <p n="1v1">by royal consecration name, Dyah Hayam Vuruk. It was accompanied by the order of Her Majesty the illustrious Tribhuvanottuṅgarājadevī Jayaviṣṇuvardhanī, an image of the Goddess who is auspicious for all kings, splendid by the glowing heat of...,</p>
  	<!--translation encoded as per EG §9.2 -->
 <!--on hulu-vrassan-nya, see De Casparis, Pras. Indonesia II, 243, n. 205: "The hulu wras is very often mentioned among the rāmas. The term probably denotes the village elder who was in charge of a provision of rice belonging to the village as a whole. Van Vollenhoven notices the presence of similar village elders in modern Javanese villages (op. cif., p. 30), but considers the function an innovation of recent times; the latter conclusion might not he correct in view of what we see in Old Javanese inscriptions."-->
          </div>
