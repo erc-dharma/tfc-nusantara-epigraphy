@@ -90,6 +90,7 @@
       <body>
          <div type="edition" xml:lang="kaw-Latn">
 <p><pb n="2r"/>
+<!--There seems to be a number 1 in the left margin though-->
 <lb n="2r1"/>śeka, dyaḥ hayām· vuruk·, Iniriṁ deny ājñā pāduka śrī tribhuvanottuṅgarājadevī jayaviṣṇuva<lb
 n="2r2" break="no"/>rddhani, <foreign xml:lang="san-Latn">sakala-rāja-maṅgala-bhavatī-pratim<choice><orig>a</orig><reg>ā</reg></choice></foreign>, <foreign xml:lang="san-Latn">lalita-manohara-jñāna-pratāpa-śobhita</foreign>, sārddhanār<choice><orig>i</orig><reg>ī</reg></choice><g type="filler">§</g><lb
 n="2r3" break="no"/>śvara muAṁ pāduka bhaṭāra śrī kr̥tavarddhana, <foreign xml:lang="san-Latn">Aśeṣa-rāja-praṇipata-māṇḍitā</foreign>, sacchaya muAṁ Ājñ<choice><orig>a</orig><reg>ā</reg></choice> pā<lb
@@ -101,7 +102,7 @@ n="2r5" break="no"/>vāla-buddhi-sahitā</foreign>, sārddhanārīśvara muAṁ 
 <lb n="2v4" break="no"/>nuruhan· pu turut·, rakryan· raṅga pu lurukan·, rakryan tumǝṅguṁ pu nāla, <foreign xml:lang="san-Latn">sā<choice><orig>d</orig><reg>dh</reg></choice>u-gopika-durjjana-vi<g type="filler">§</g>
 <lb n="2v5" break="no"/>nigraha-tatpara</foreign>, mavastha patiḥ ri pajaṁ, samahiriṁ muAṁ rake juru paṅalasan· pu pṭul·, <foreign xml:lang="san-Latn">naya-vi<pb n="3r" break="no"/>
 <fw n="3r" rend="bt-rotated" place="left"><num value="3">3</num></fw><lb
-n="3r1" break="no"/>na<unclear>ya-dhara</unclear></foreign>, makapramu<choice><orig>k</orig><reg>kh</reg></choice>a sa<supplied reason="lost">ṁ</supplied> mantr<unclear>ī</unclear>ṅgitājñā prajālaṅ<choice><sic>karā</sic><corr>kāra</corr></choice>, rake mapatiḥ pu mada, <foreign xml:lang="san-Latn">sakala-nīti-vr̥ha<g type="filler">§</g>
+n="3r1" break="no"/>na<unclear>ya-dhara</unclear></foreign>, makapramu<choice><orig>k</orig><reg>kh</reg></choice>a sa<supplied reason="lost">ṁ</supplied> mantr<unclear>ī</unclear>ṅgit<choice><orig>ā</orig><reg>a</reg></choice>jñāprajālaṅ<choice><sic>karā</sic><corr>kāra</corr></choice>, rake mapatiḥ pu mada, <foreign xml:lang="san-Latn">sakala-nīti-vr̥ha<g type="filler">§</g>
 <lb n="3r2" break="no"/>spati-saṅgrāmikā</foreign>, prāṇarakṣaka śrī mahārāja pra<choice><orig>na</orig><reg>ṇā</reg></choice>lāmratisubaddhakǝn· paṅḍiri śrī mahārājā
 <lb n="3r3" break="no"/>ṅkǝn· <choice><orig>I</orig><reg>Ī</reg></choice>śvaraprativimba, gumavayakǝn· hitakarmmaniṁ yavadvīpam<choice><orig>ā</orig><reg>a</reg></choice>ṇḍala, muAṁ viśīrṇnaniṁ pr<choice><sic>a</sic><corr>ā</corr></choice>ṁmu
 <lb n="3r4" break="no"/>khe pāduka śrī mahārāja, dharmm<choice><orig>a</orig><reg>ā</reg></choice>dhyakṣa riṁ kasevan·, saṅ āryya rājaparākrama, ḍaṅ ācā<g type="filler">§</g>
@@ -111,7 +112,7 @@ n="3r1" break="no"/>na<unclear>ya-dhara</unclear></foreign>, makapramu<choice><o
 <lb n="3v4" break="no"/>karaṇa-śāstra-parisamāpta</foreign>, samgǝt i maṅhuri, ḍaṅ ācāryya smaranātha, bhairavapakṣa <foreign xml:lang="san-Latn">nyāya-vy<choice><orig>a</orig><reg>ā</reg></choice>ka
 <lb n="3v5" break="no"/>raṇa-śāstra-parisamāpta</foreign>, samgǝt i jāmba, ḍaṅ ācāryya jayasmara, sorapakṣa <foreign xml:lang="san-Latn"><choice><orig>śaṅkya</orig><reg>sāṁkhya</reg></choice>-śāstra-parisamā<pb n="4r" break="no"/><fw n="4r" rend="bt-rotated" place="left"><num value="4">4</num></fw><lb n="4r1" break="no"/>pta,</foreign> samgǝt i pamuAtan· ḍaṅ ācāryyāgreśvara <unclear>bhai</unclear>ravapakṣa <foreign xml:lang="san-Latn">nyāya-vy<choice><orig>a</orig><reg>ā</reg></choice>karaṇa-śāstra-parisamāpta</foreign>,
 <lb n="4r2"/> samgǝt i kaṇḍaṅan rarai, ḍaṅ ācāryya mun<unclear>īnd</unclear>ra<unclear>,</unclear> <foreign xml:lang="san-Latn">boddha-śāstra-parisamāpta</foreign>,</p><p>maṁrasa-rasani saṅka ri gə:ṁniy a
-<lb n="4r3" break="no"/><choice><orig>d</orig><reg>dh</reg></choice>imuktinikaṁ vyavahāri kāliḥ, k<choice><sic>u</sic><corr>a</corr></choice>pva pgat kavivakṣanya de <unclear>saṁ</unclear> pragvivāka matguḥ ri kapakṣa<choice><orig>d</orig><reg>dh</reg></choice>armman·
+<lb n="4r3" break="no"/><choice><orig>d</orig><reg>dh</reg></choice>imuktinikaṁ vyavahāri kāliḥ, ku<unclear>m</unclear>va pgat kavivakṣanya de <unclear>saṁ</unclear> pragvivāka matguḥ ri kapakṣa<choice><orig>d</orig><reg>dh</reg></choice>armman·
 <lb n="4r4"/>ri daL̥m nāgara, marmmanikaṁ <choice><orig>vyāvahari</orig><reg>vyavahāri</reg></choice> kāliḥ sacchaya mampak-āmpak· humatur i taṇḍa rakryan· riṁ
 <lb n="4r5"/>pakira-kiran makabehan·, mintonakǝn· <unclear>pakṣa</unclear>nya <unclear>so</unclear>vaṁ-sova<unclear>ṁ</unclear>, kunǝṁ suṅan· vara-varaḥ Aki<pb n="4v"/><lb n="4v1"/>sant<choice><orig>a</orig><reg>ā</reg></choice>na, mapañji śaraṇa, muAṁ sarovaṁnya, ki karṇna, mapañji manākara, Ajaran· reka, ki siran·, ki jumput·<g type="filler">§</g>
 <lb n="4v2"/><unclear>U</unclear>ṅsun madr̥vya lmaḥ punaṁ manah i manuk·, kayoniṁ savaḥ, Aḍavuṁ, liriḥ, 1, I beR̥m·, liriḥ, 1, I pa⌈
@@ -184,7 +185,7 @@ n="3r1" break="no"/>na<unclear>ya-dhara</unclear></foreign>, makapramu<choice><o
 <rdg source="bib:Brandes1913_01-">darmmarāja</rdg>
 </app>
                   <app loc="3r5">
-                     <lem source="bib:Brandes1913_01">ḍaṅ</lem>
+                     <lem source="bib:Brandes1913_01">, ḍaṅ</lem>
                      <rdg source="bib:Boechari1985-1986_01">daṅ</rdg>
 <note>Boechari also omits the preceding comma.</note>
                   </app>
@@ -193,9 +194,8 @@ n="3r1" break="no"/>na<unclear>ya-dhara</unclear></foreign>, makapramu<choice><o
                      <rdg source="bib:Brandes1913_01">paṁ</rdg>
                   </app>
                   <app loc="4r3">
-                     <lem>k<choice><sic>u</sic><corr>a</corr></choice>pva</lem>
+                     <lem source="bib:Brandes1913_01">ku<unclear>m</unclear>va</lem>
                      <rdg source="bib:Boechari1985-1986_01">kupva</rdg>
-                     <rdg source="bib:Brandes1913_01">kumva</rdg>
                   </app>
  <app loc="4v1">
 <lem source="bib:Brandes1913_01"><num value="16"><unclear>16</unclear></num></lem>
@@ -223,9 +223,24 @@ n="3r1" break="no"/>na<unclear>ya-dhara</unclear></foreign>, makapramu<choice><o
                </listApp>
          </div>
          <div type="translation" resp="part:masc">
-  <p n="1v1">by royal consecration name, Dyah Hayam Vuruk. It was accompanied by the order of Her Majesty the illustrious Tribhuvanottuṅgarājadevī Jayaviṣṇuvardhanī, an image of the Goddess who is auspicious for all kings, splendid by the glowing heat of...,</p>
- 	<!--translation encoded as per EG §9.2 -->
-<!--on hulu-vrassan-nya, see De Casparis, Pras. Indonesia II, 243, n. 205: "The hulu wras is very often mentioned among the rāmas. The term probably denotes the village elder who was in charge of a provision of rice belonging to the village as a whole. Van Vollenhoven notices the presence of similar village elders in modern Javanese villages (op. cif., p. 30), but considers the function an innovation of recent times; the latter conclusion might not he correct in view of what we see in Old Javanese inscriptions."-->
+  <p n="1v1-1v5">by royal consecration name, Dyah Hayam Vuruk, being accompanied by the order of Her Majesty the illustrious Tribhuvanottuṅgarājadevī Jayaviṣṇuvardhanī, an image of the Goddess who is auspicious for all kings <supplied reason="explanation">i.e. Śrī?</supplied>, splendid by the glory of her charming and captivating knowledges, <supplied reason="subaudible">in union</supplied> like an Ardhanārīśvara with His Majesty the illustrious Lord Kr̥tavardhana, adorned by the obeisance of all kings, together with the order of Her Majesty the illustrious Vijayadevī, a perfect ornament of heroism mounted in the royal diadem of the Great King, possessed of a mind which has as shoots all virtues, <supplied reason="subaudible">in union</supplied> like an Ardhanārīśvara with His Majesty the illustrious Lord Vijayarājasa, adorned by his heroism on the battlefield.</p>
+  <p n="2r1-2r2"><supplied reason="subaudible">These orders</supplied> were received by the Three rakryan great ministers, i.e. the rakryan great minister of Hino, Dyah Īśvara, the rakryan great minister of Sirikan, Dyah Ipo, the rakryan great minister of Halu, Dyah Kañciṅ,</p>
+  <p n="2r2-2v4">It came down to all the ranking officials in the council: the Honorable army general Pu Tanu; the Honorable <foreign>ātmarāja</foreign> Pu Taṇḍiṅ; the rakryan Dmuṅ Pu Gaṣṭi, the rakryan Kanuruhan Pu Turut; the rakryan Raṅga Pu Lurukan;
+the rakryan Tuməṅguṅ Pu Nāla, protector of virtuous people and dedicated to subduing wicked people, bearing the title of chief minister <supplied reason="explanation"><foreign>patih</foreign></supplied> of Pajaṅ, accompanied by the rake head of the royal guard <supplied reason="explanation"><foreign>paṅalasan</foreign></supplied> <!--See Robson, Notes on the Early Kidung Literature 1979--> Pu Pṭul, <hi rend='italic'>possessed of good policy and humility</hi>; and in the first place the minister who was an ornament of the <supplied reason="subaudible">king's</supplied> subjects skilled in interpreting the signs, the rake chief minister Pu Mada, <hi rend='italic'>one who fights in battles like Vr̥haspati in all his strategies/policies</hi>, <hi rend='italic'>a preserver of the life</hi> of the illustrious Great King: a pedestal bolstering the reign of the illustrious Great King who is like a reflection of Īśvara, causing good actions to be carried out in the orb of the island of Java, as well as causing the destruction of those who attack his majesty the illustrious Great King;</p>
+<p n="2v4-3v2">the administrator of Śaiva domains/affairs, the Honorable <foreign>rājaparākrama</foreign>, the revered master <supplied reason="subaudible">called</supplied> Dharmarāja, the administrator of Buddhist domains/affairs, the Honorable <foreign>(a)dhirāja</foreign>, the revered master <supplied reason="subaudible">called</supplied> Kanakamuni, <hi rend='italic'>consummate in Buddhist doctrine and Grammar</hi>, and moreover <!--Or connect this with maṅrasa-rasani 3v2: "After that the judges..., Once they were done"-->, the speakers/teachers of religious law <supplied reason="explanation"><foreign>dharma-pravaktā</foreign></supplied>, who settle litigations:
+<list rend="bulleted">
+<item>the officiant of Tirvan, the Honorable <foreign>vaṅśādhiraja</foreign>, the revered master <supplied reason="subaudible">called</supplied> Śivanātha, of the Bhairava school, consummate in the sciences of Nyāya and Grammar;</item>
+<item>the officiant of Kaṇḍamuhi, the revered master <supplied reason="subaudible">called</supplied> Marmmanātha, with the byname Āṅśuman, of the Saura school, consummate in the sciences of Nyāya and Grammar;</item>
+<item>the officiant of Maṅhuri, the revered master <supplied reason="subaudible">called</supplied> Smaranātha, of the Bhairava school, consummate in the sciences of Nyāya and Grammar;</item>
+<item>the officiant of Jamba, the revered master <supplied reason="subaudible">called</supplied> Jayasmara, of the Saura school, consummate in the science of Sāṁkhya;</item>
+<item>the officiant of Pamvatan, the revered master <supplied reason="subaudible">called</supplied> Agreśvara, of the Bhairava school, consummate in the sciences of Nyāya and Grammar;</item>
+<item>the officiant of Kaṇḍaṅan junior, the revered master <supplied reason="subaudible">called</supplied> Munīndra, consummate in Buddhist science/doctrine,</item></list>,
+</p>
+<p n="3v2-3v5">Having reflected <!--or connect with tlas karuhun, supra?-->upon the reasons for the great endeavours <!--or adhimukti as "trust, confidence"?--> of both litigants, thus was their litigation settled by the judges who are steadfast in the keeping of the religious law <supplied reason="explanation"><foreign>dharma</foreign></supplied> inside the capital. That was the reason <!--See marma in OJED "deep, very penetrating"--> why both the litigants together one after another (?, mampak-āmpak) respectfully reported to all the ranking officials in the council, exposing their respective cases (sides of the argument).</p>
+<p n="4r1">As for the testimony of Aki Santana, the one with the byname Śaraṇa, with all his companions, ki Karṇa, with the byname Manākara, Ajaran Reka, ki Siran, ki Jumput:</p>
+<p n="4r1-4v1">“I am the one who owns this land <supplied reason="subaudible">called</supplied> Manah i Manuk. The arrangement/agreement <supplied reason="explanation"><foreign>kāyvan</foreign></supplied> about the irrigated rice fields: in Aḍavuṅ 1 lirih; in Berəm, 1 lirih; in Pajənon south of the habitations, 2 lirih in Pajənon, a garden [of] 1 kuñci in Paṅeran, a garden of 1 kuñci in Tiga Thani; the arrangement/agreement  of the irrigated rice fields of Vareṅ is 1 lirih and a wood in Valuntas, 10 lirih in Tiga Thani and a garden of 1 kuñci. 16 lirih were given away by my ancestors to the hermitage of Pakaṇḍaṅan, 2 lirih to the maṇḍala community in Kuku(b), 1 lirih to the jaṅgan (rural doctor Pi) in Paṅle.</p>
+
+
          </div>
          <div type="commentary">
             <!--commentary encoded as per section §9.3 -->
