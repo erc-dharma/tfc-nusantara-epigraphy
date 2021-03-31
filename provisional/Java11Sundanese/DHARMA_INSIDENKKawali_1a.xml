@@ -12,7 +12,7 @@
             <respStmt>
                <resp>EpiDoc encoding</resp>
                <resp>intellectual authorship of edition</resp>
-               <persName ref="part:agdu">
+               <persName ref="part:adgu">
                   <name>Aditia Gunawan</name>
                </persName>
             </respStmt>
@@ -113,7 +113,7 @@
                     <!--1–2. tapak· valar N HD TSN ◇ tapa kata F; tapa kavali P; tapa‹k› kavali RK. ― 2. nu syi muliA tapa H ◇ nusya muṅi atapa F; nu saṁ hyaṁ muliA tapa P; nu siya muliA tapa N RK; nu siya muliA tapa‹k·› HD TSN. — 2–3. Iña ◇ N HD TSN RK; bhagya F H P. —  6–7. sakulili‹ṁ› H N ◇ sakulili F; sakuliliṁ HD TSN RK; it may be doubted that any panyecek was written here — 8. pa‹n›dǝri ◇ padǝri F; pa‹n›dǝ:ri H N HD TSN RK; pandǝ:ri P. — 9. hǝbǝl ◇ hǝbǝṅ F; hǝ:bǝ:l H P N HD TSN RK.
 -->
                     <app loc="2">
-                        <lem source="bib:Holle1867_01 ">nu syi muliA tapa</lem>
+                        <lem source="bib:Holle1867_01">nu syi muliA tapa</lem>
                         <rdg source="bib:Friederich1855_01">nusya muṅi atapa</rdg>
                         <rdg source="bib:Pleyte1911_01">nu saṁ hyaṁ muliA tapa</rdg>
                         <rdg source="bib:Noorduyn1976_01 bib:RichadianaKartakusuma2005_01">nu siya muliA tapa</rdg>
