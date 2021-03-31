@@ -118,7 +118,7 @@
 	<!--bibliography encoded as per section §9.4 -->
 	<p>First edited by Brandes, then reedited by Boechari (<bibl rend="omitname"><ptr target="bib:Boechari1985-1986_01"/><citedRange unit="page">112</citedRange> <citedRange unit="item">E.28</citedRange></bibl>); re-edited here by Marine Schoettel from the estampage of the plate made available by the Museum Nasional Indonesia.</p>
             <listBibl type="secondary">
-	 <bibl><ptr target="bib:NBG"/><date>1914</date><citedRange unit="volume">LII</citedRange><citedRange unit="page">44-45, 52, 192</citedRange></bibl>
+	 <bibl><ptr target="bib:NBG52_1914"/><date>1914</date><citedRange unit="volume">LII</citedRange><citedRange unit="page">44-45, 52, 192</citedRange></bibl>
 </listBibl>
         </div>
       </body>

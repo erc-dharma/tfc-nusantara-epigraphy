@@ -120,7 +120,7 @@
 	<!--bibliography encoded as per section §9.4 -->
 	<p>First edited by Cohen Stuart, re-edited by Boechari (<bibl rend="omitname"><ptr target="bib:Boechari1985-1986_01"/><citedRange unit="page">87</citedRange> <citedRange unit="item">E.27</citedRange></bibl>); re-edited here by Marine Schoettel from the estampage of the plate made available by the Museum Nasional Indonesia.</p>
             <listBibl type="secondary">
-	 <bibl><ptr target="bib:NBG"/><date>1886</date><citedRange unit="volume">IV</citedRange><citedRange unit="page">140-145</citedRange></bibl>
+	 <bibl><ptr target="bib:NBG04_1866"/><date>1886</date><citedRange unit="volume">IV</citedRange><citedRange unit="page">140-145</citedRange></bibl>
 </listBibl>
         </div>
       </body>

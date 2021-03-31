@@ -138,8 +138,8 @@
 	<!--bibliography encoded as per section §9.4 -->
             <p>First edited, probably by F.D.K. Bosch, in <bibl><ptr target="bib:OV1918"/></bibl>; re-edited by Damais (<bibl rend="omitname"><ptr target="bib:Damais1955_01"/></bibl>); edited again by Boechari (<bibl rend="omitname"><ptr target="bib:Boechari1985-1986_01"/></bibl>); re-edited here by Arlo Griffiths from a photo of the rubbing kept in Leiden.</p>
            <listBibl type="primary">
-		<bibl n="FDKB" rend="journal">
-			<ptr target="bib:OV_1918"/>
+		<bibl n="FDKB">
+			<ptr target="bib:OV1918"/>
 			<citedRange unit="appendix">Q</citedRange>
 			<citedRange unit="page">169</citedRange>
 		</bibl>

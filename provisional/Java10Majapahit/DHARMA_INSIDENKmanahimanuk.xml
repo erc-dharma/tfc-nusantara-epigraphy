@@ -178,11 +178,11 @@ n="3r1" break="no"/>na<unclear>ya-dhara</unclear></foreign>, makapramu<choice><o
 </app>
 <app loc="3r3">
 <lem>pr<choice><sic>a</sic><corr>ā</corr></choice>ṁmu<lb/>khe</lem>
-<rdg source="bib:Brandes1913_01 Boechari1985-1986_01">praṁmuke</rdg>
+<rdg source="bib:Brandes1913_01 bib:Boechari1985-1986_01">praṁmuke</rdg>
 </app>
 <app loc="3r5">
 <lem source="bib:Boechari1985-1986_01">darmmarāja</lem>
-<rdg source="bib:Brandes1913_01-">darmmarāja</rdg>
+<rdg source="bib:Brandes1913_01">darmmarāja</rdg>
 </app>
                   <app loc="3r5">
                      <lem source="bib:Brandes1913_01">, ḍaṅ</lem>
@@ -251,7 +251,7 @@ the rakryan Tuməṅguṅ Pu Nāla, protector of virtuous people and dedicated t
 	<!--bibliography encoded as per section §9.4 -->
 	<p>First edited by Brandes, republished by Pigeaud and edited again by Boechari (<bibl rend="omitname"><ptr target="bib:Boechari1985-1986_01"/><citedRange unit="page">97-100</citedRange> <citedRange unit="item">E.35</citedRange></bibl>); re-edited here by Marine Schoettel from the estampage of the plate made available by the Museum Nasional Indonesia.</p>
             <listBibl type="secondary">
-	 <bibl><ptr target="bib:NBG"/><date>1914</date><citedRange unit="volume">LII</citedRange><citedRange unit="page">44-45, 52, 192</citedRange></bibl>
+	 <bibl><ptr target="bib:NBG52_1914"/><date>1914</date><citedRange unit="volume">LII</citedRange><citedRange unit="page">44-45, 52, 192</citedRange></bibl>
 </listBibl>
         </div>
       </body>

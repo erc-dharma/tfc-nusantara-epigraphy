@@ -101,8 +101,8 @@
          <div type="apparatus">
            <!--apparatus encoded as per EG §9.1, basic elements for apparatus below-->
                <listApp>
-                  <app>
-                  </app>
+                  <app/>
+                  
                </listApp>         
          </div>
          <div type="translation" resp="part:argr">

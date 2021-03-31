@@ -120,7 +120,7 @@
      </app>
            </listApp>
          </div>
-         <div type="translation" resp="part:argr masc">
+         <div type="translation" resp="part:argr part:masc">
    <!--translation encoded as per EGD §9.2 -->
  <p/>
         </div>
@@ -140,7 +140,7 @@
               </listBibl>
                     
                     <listBibl type="secondary">
-                 <bibl><ptr target="bib:NBG"/><date>1917</date><citedRange unit="volume">55</citedRange><citedRange unit="page">105, 191</citedRange></bibl>
+                 <bibl><ptr target="bib:NBG55_1917"/><date>1917</date><citedRange unit="volume">55</citedRange><citedRange unit="page">105, 191</citedRange></bibl>
                </listBibl>
         </div>
       </body>

@@ -113,33 +113,33 @@ samast<choice><orig>ā</orig><reg>a</reg></choice>-kṣatriya-cūḍāmaṇi-pat
                <listApp><!-- one <app> for each apparatus entry -->
                   <app loc="1v2">
                       <lem>puṣ<choice><sic>p</sic><corr>y</corr></choice>ānakṣatra</lem>
-                      <rdg source="bib:Krom1911_04 bib:Damais1955_01 bib:Boechari1985-1985_01">puṣpānakṣatra</rdg>
+                      <rdg source="bib:Krom1911_04 bib:Damais1955_01 bib:Boechari1985-1986_01">puṣpānakṣatra</rdg>
                   </app>
                   <app loc="1v3">
                       <lem>°yauga</lem>
-                      <rdg source="bib:Krom1911_04 bib:Damais1955_01 bib:Boechari1985-1985_01">°yoga</rdg>
+                      <rdg source="bib:Krom1911_04 bib:Damais1955_01 bib:Boechari1985-1986_01">°yoga</rdg>
                       <note>The vocalization on <foreign>y</foreign> here is clearly different from that in <foreign>trayodaśī</foreign> in line 1.</note>
                       </app>
                    <app loc="1v4">
                       <lem>lauka°</lem>
-                      <rdg source="bib:Krom1911_04 bib:Damais1955_01 bib:Boechari1985-1985_01">loka°</rdg>
+                      <rdg source="bib:Krom1911_04 bib:Damais1955_01 bib:Boechari1985-1986_01">loka°</rdg>
                       </app>
                    <app loc="1v6">
                       <lem>samast<choice><orig>ā</orig><reg>a</reg></choice>kṣatriya°</lem>
-                      <rdg source="bib:bib:Krom1911_04">samastākṣatriya°</rdg>
-                      <rdg source="bib:Damais1955_01 bib:Boechari1985-1985_01">samastākṣakriya°</rdg>
+                      <rdg source="bib:Krom1911_04">samastākṣatriya°</rdg>
+                      <rdg source="bib:Damais1955_01 bib:Boechari1985-1986_01">samastākṣakriya°</rdg>
                        <note>Understand <foreign>samastakṣatriya°</foreign>.</note>
                       </app>
                    <app loc="1v7">
                       <lem>hiṇo</lem>
-                      <rdg source="bib:Krom1911_04 bib:Damais1955_01 bib:Boechari1985-1985_01">hino</rdg>
+                      <rdg source="bib:Krom1911_04 bib:Damais1955_01 bib:Boechari1985-1986_01">hino</rdg>
                        </app>
                    <app loc="1v8">
                       <lem>Umisor</lem>
-                      <rdg source="bib:Krom1911_04 bib:Damais1955_01 bib:Boechari1985-1985_01">Umiṅsor</rdg>
+                      <rdg source="bib:Krom1911_04 bib:Damais1955_01 bib:Boechari1985-1986_01">Umiṅsor</rdg>
                        </app>
                    <app loc="1v9">
-                       <lem source="bib:Krom1911_04 bib:Boechari1985-1985_01">nayavid iṅgitajña</lem>
+                       <lem source="bib:Krom1911_04 bib:Boechari1985-1986_01">nayavid iṅgitajña</lem>
                       <note>Cf. KR 11.49 <foreign>kapīndra sugrīva vəruh riṅ iṅgita</foreign>; RY 6.9: <foreign>mahāprajña rikaṅ nayeṅgita</foreign>. See also <ref target="Adanadan.xml">Adan-Adan </ref><foreign>suśīlendikajñasarvvanayānitidakṣa</foreign>.</note>
                    </app>
 	<app loc="1v10">
@@ -161,8 +161,8 @@ samast<choice><orig>ā</orig><reg>a</reg></choice>-kṣatriya-cūḍāmaṇi-pat
 	<!--bibliography encoded as per section §9.4 -->
             <p>First edited by Krom (<bibl rend="omitname"><ptr target="bib:krom1911_04"/></bibl>); re-edited by Damais (<bibl rend="omitname"><ptr target="bib:Damais1955_01"/></bibl>); edited again by Boechari (<bibl rend="omitname"><ptr target="bib:Boechari1985-1986_01"/></bibl>); re-edited here by Arlo Griffiths from a Photo of OD 2155 and estampage in Kern Institute collection, Leiden University Library.</p>
            <listBibl type="primary">
-		<bibl n="K" rend="journal">
-			<ptr target="bibbib:krom1911_04"/>
+		<bibl n="K">
+			<ptr target="bib:krom1911_04"/>
 			<citedRange unit="appendix">61</citedRange>
 			<citedRange unit="page">117-123</citedRange>
 		</bibl>
@@ -178,8 +178,8 @@ samast<choice><orig>ā</orig><reg>a</reg></choice>-kṣatriya-cūḍāmaṇi-pat
                                                                         </bibl>
            </listBibl>
              <listBibl type="secondary">
-                 <bibl><ptr target="bib:NBG"/><date>1911</date><citedRange unit="volume">49</citedRange><citedRange unit="page">121</citedRange></bibl>
-                 <bibl><ptr target="bib:NBG"/><date>1912</date><citedRange unit="volume">50</citedRange><citedRange unit="page">77</citedRange></bibl>
+                 <bibl><ptr target="bib:NBG49_1911"/><date>1911</date><citedRange unit="volume">49</citedRange><citedRange unit="page">121</citedRange></bibl>
+                 <bibl><ptr target="bib:NBG50_1912"/><date>1912</date><citedRange unit="volume">50</citedRange><citedRange unit="page">77</citedRange></bibl>
                  <bibl><ptr target="bib:Damais1952_01"/><citedRange unit="page">72-73</citedRange><citedRange unit="item">A.172</citedRange></bibl>
                  <bibl><ptr target="bib:Damais1962_03"/><citedRange unit="page">414</citedRange><citedRange unit="note">6</citedRange></bibl>
                  <bibl><ptr target="bib:MuhammadYamin1962_01"/><citedRange unit="page">173-175</citedRange></bibl>
