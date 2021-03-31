@@ -1,4 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
    <teiHeader>
       <fileDesc>
@@ -102,8 +107,8 @@
                     <lb n="2"/><gap reason="lost" extent="unknown" unit="chars"/> sri maḥ<unclear>ha</unclear>ra<unclear>ja</unclear> ra <unclear>t</unclear><supplied reason="lost">u</supplied>
                     <lb n="3"/><supplied reason="lost" evidence="parallel">ha</supplied><unclear>j</unclear><supplied reason="lost">i</supplied> ri pakvan· sya saṁ ra<unclear>t</unclear><supplied reason="lost">u</supplied>
                     <lb n="4"/><supplied reason="lost" evidence="parallel">de</supplied><unclear>va</unclear>ta pun·, masa sya
-                    <lb n="5"/>ṅrətakən· bumi <choice><orig>ṅaha<lb n="6" break="no"/>lipukən</orig><reg>ṅahalimpukən</reg></choice>· na bvan·na 
-                    <lb n="7"/>ñuruḥ saṁ <unclear>di</unclear>si suk·laja<lb n="8" break="no"/><unclear>t</unclear>i ṅaR̥buḥkən· Ikaṁ ka<lb n="9" break="no"/>yu si <choice><orig>pr̥dakaḥ</orig><reg>pr̥ndakaḥ</reg></choice>, ṅalaAn·
+                    <lb n="5"/>ṅrətakən· bumi ṅaha<lb n="6" break="no"/>li<supplied reason="omitted">m</supplied>pukən· na bvan·na 
+                    <lb n="7"/>ñuruḥ saṁ <unclear>di</unclear>si suk·laja<lb n="8" break="no"/><unclear>t</unclear>i ṅaR̥buḥkən· Ikaṁ ka<lb n="9" break="no"/>yu si pr̥<supplied reason="omitted">n</supplied>dakaḥ, ṅalaAn·
                     <lb n="10"/>na Udubasu, mipati<lb n="11" break="no"/>kən·n ikaṁ kala</p>
             </div>
         <div type="apparatus">
@@ -113,9 +118,6 @@
                     <rdg source="bib:HasanDjafar1994_01">purana</rdg>
                     <note>The sign read as <foreign>pu</foreign> by HD is quite faded, but resembles much more closely the <foreign>ṅa</foreign> in line 8. Moreover, the vocalization <foreign>u</foreign> below the sign to the left (<foreign>tu</foreign>) is perfectly clear, so it is very hard to suppose the presence of another such vocalization which would be totally invisible right next to it.</note>
                 </app>
-                <app loc="1-2">
-                    <note>At the transition between these lines, one might restore <foreign>baduga</foreign> or <foreign>prəbu</foreign>.</note>
-                </app>
                 <app loc="3">
                     <lem><supplied reason="lost" evidence="parallel">ha</supplied><unclear>j</unclear><supplied reason="lost">i</supplied></lem>
                     <note>In Hasan Djafar’s eye-copy, the consonant <foreign>j</foreign> is clear, but the estampages do not allow to confirm this reading. Nevertheless, comparison with Batutulis, line 3, strongly suggests that indeed one needs to restore <foreign>haji</foreign>.</note>
@@ -124,8 +126,8 @@
                     <lem>ṅrǝtakǝn·</lem>
                     <rdg source="bib:HasanDjafar1994_01">ṅrǝtakǝ:n</rdg>
                 </app>
-                <app loc="5-6">
-                    <lem><choice><orig>ṅaha<lb n="6" break="no"/>lipukən</orig><reg>ṅahalimpukən</reg></choice></lem>
+                <app loc="5">
+                    <lem>ṅaha<lb n="6" break="no"/>li<supplied reason="omitted">m</supplied>pukən·</lem>
                     <rdg source="bib:HasanDjafar1994_01">ṅaha<gap reason="lost" extent="unknown" unit="chars"/>lipukən</rdg>
                     <note>HD notes that some aksaras are lost in a gap between <foreign>ṅaha</foreign> and <foreign>lipukən</foreign>, due to damage suffered by the end of line 5 and in the beginning of line 6. But in our opinion, there is no reason to presume any loss of <foreign>aksaras</foreign> here at all.</note>
                 </app>
@@ -134,7 +136,7 @@
                     <rdg source="bib:HasanDjafar1994_01">ñaraḥ</rdg>
                     <note>It is clear in the estampage that there are two <foreign>panyuku</foreign>s.</note>
                 </app>
-                <app loc="7-8"> 
+                <app loc="7"> 
                     <lem><unclear>di</unclear>si suk·laja<unclear>t</unclear>i</lem>
                     <rdg source="bib:HasanDjafar1994_01">dv isi suk· laja<gap reason="lost" extent="unknown" unit="chars"/>i </rdg>
                     <note>There indeed seems to be some element below the <foreign>akṣara</foreign> di (cf. Hasan Djafar’s <foreign>dv</foreign>), but in our opinion it is most likely to be accidental.</note>
@@ -144,13 +146,13 @@
                     <rdg source="bib:HasanDjafar1994_01">ṅaRbaḥkən</rdg>
                     <note>There is clearly a <foreign>panyuku</foreign>.</note>
                 </app>
-                <app loc="8-9">
-                    <lem>kayu</lem>
+                <app loc="8">
+                    <lem>ka<lb n="9" break="no"/>yu</lem>
                     <rdg source="bib:HasanDjafar1994_01">ka<gap reason="lost" extent="unknown" unit="chars"/>su</rdg>
                     <note>Although damage to the stone has made some part of the left vertical stroke of <foreign>y</foreign> disappear, the aksara <foreign>yu</foreign> can still be read with certainty. Its width is definitely greater than that expected for <foreign>su</foreign>.</note>
                 </app>
                 <app loc="9">
-                    <lem>si <choice><orig>pr̥dakaḥ</orig><reg>pr̥ndakaḥ</reg></choice></lem>
+                    <lem>si pr̥<supplied reason="omitted">n</supplied>dakaḥ</lem>
                     <rdg source="bib:HasanDjafar1994_01">si padakaḥ</rdg>
                     <note>We see quite clearly a round stroke under <foreign>p</foreign> that must represent <foreign>pasangan r̥</foreign>.</note>
                 </app>
@@ -159,14 +161,14 @@
                 <rdg source="bib:HasanDjafar1994_01">ṅalasan</rdg>
                     <note>The shape of <foreign>A</foreign> is slightly different than that of <foreign>sa</foreign> (cf. <foreign>saṁ</foreign> in line 3).</note>
                 </app>
-                <app loc="10–11">
-                    <lem>mipat<unclear cert="high">i</unclear>kən·</lem>
+                <app loc="10">
+                    <lem>mipat<unclear>i</unclear>kən·</lem>
                     <rdg source="bib:HasanDjafar1994_01">mipatā<gap reason="lost" extent="unknown" unit="chars"/>Iś·</rdg>
                 </app>
             </listApp>  
             </div>            
            
-            <div type="translation">
+            <div type="translation" resp="part:adgu part:argr">
                 <p><gap reason="lost"/> Ratu by name, <gap reason="lost"/> Sri Maharaja king of kings in Pakuan. He was Saṅ Ratu Devata, when he made the world prosperous, pleased the earth, by ordering the <foreign>disi</foreign> Suklajati to fell the widely branching trees, removed Udubasu, killed Kala.</p>
             </div>
             
@@ -176,7 +178,9 @@
             
         <div type="bibliography">
            <p>The inscription was first discovered in the early 1990s (<bibl><ptr target="bib:TonyDjubiantono1994_01"/></bibl>) and first published by Hasan Djafar (<bibl rend="omitname"><ptr target="bib:HasanDjafar1991_01"/><citedRange>28-29</citedRange></bibl> and <bibl rend="omitname"><ptr target="bib:HasanDjafar1994_01"/></bibl>). The last mentioned publication contains an eye-copy. There is no translation available until now. A photo of the stone was published in SNI ed. 2008, p. 380 <!-- ADIT: To be verifed in the library -->. We visited the site in June and September 2013, and during our second visit were able to make two estampages which are now part of the EFEO collection in Paris (inventory numbers n. 2309 and n. 2310). Re-edited here by Aditia Gunawan &amp; Arlo Griffiths, using Hasan Djafar’s eye-copy and comparing it first with the photos we had taken of the original, and subsequently we reverified our reading based on the EFEO estampages.</p>
-           
+           <listBibl type="primary">
+               <bibl n="HD"><ptr target="HasanDjafar1994_01"/></bibl>
+           </listBibl>
             <listBibl type="secondary">  
                <bibl><ptr target="bib:TonyDjubiantono1994_01"/></bibl>
            </listBibl>
