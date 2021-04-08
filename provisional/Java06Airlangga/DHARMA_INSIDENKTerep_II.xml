@@ -26,7 +26,7 @@
          <publicationStmt>
             <authority>DHARMA</authority>
             <pubPlace>Malang</pubPlace>
-            <idno type="filename">DHARMA_INSIDENKTerepII</idno>
+            <idno type="filename">DHARMA_INSIDENKTerep_II</idno>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/">
                   <p>This work is licenced under the Creative Commons Attribution 4.0 Unported Licence. To view a copy of the licence, visit https://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.</p>
@@ -79,7 +79,7 @@
                        matchPattern="([a-z]+)"
                        replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
                <p>Internal URIs using the part prefix to point to person elements in the
-                            <ref>DHARMA_IdListMembers_V01.xml</ref> file.</p>
+                            <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
             </prefixDef>
          </listPrefixDef>
       </encodingDesc>
@@ -127,90 +127,90 @@
                                 <listApp>                    
                                     <app loc="2r1">
                         <lem source="bib:NinnySusantiTejowasono2003_01">va<choice><sic>kət·</sic><corr>tək·</corr></choice></lem>
-                        <rdg source="bib:Boechari1985-1985_01">vatek</rdg>
+                        <rdg source="bib:Boechari1985-1986_01">vatek</rdg>
                     </app>
                                     <app loc="2r1">
-                        <lem source="bib:Boechari1985-1985_01 bib:NinnySusantiTejowasono2003_01">gar<choice><sic>a</sic><corr>u</corr></choice>ḍamukha</lem>
+                        <lem source="bib:Boechari1985-1986_01 bib:NinnySusantiTejowasono2003_01">gar<choice><sic>a</sic><corr>u</corr></choice>ḍamukha</lem>
                     </app>
                                     <app loc="2r3">
                         <lem>saṁke</lem>
-                          <rdg source="bib:Boechari1985-1985_01 bib:NinnySusantiTejowasono2003_01">sake</rdg>
+                          <rdg source="bib:Boechari1985-1986_01 bib:NinnySusantiTejowasono2003_01">sake</rdg>
                     </app>
                                     <app loc="2v1">
                         <lem source="bib:NinnySusantiTejowasono2003_01">ta</lem>
-                          <rdg source="bib:Boechari1985-1985_01 ">tak</rdg>
+                          <rdg source="bib:Boechari1985-1986_01">tak</rdg>
                                         <note>Ninny Susanti Tejowasono notes correctly that there no <foreign>k</foreign> has been written here.</note>
                     </app>
                                     <app loc="2v1">
                         <lem>sampun·</lem>
-                          <rdg source="bib:Boechari1985-1985_01 bib:NinnySusantiTejowasono2003_01 ">sāmpun·</rdg>
+                          <rdg source="bib:Boechari1985-1986_01 bib:NinnySusantiTejowasono2003_01">sāmpun·</rdg>
                     </app>
                                     <app loc="2v3">
-                        <lem source="bib:Boechari1985-1985_01 bib:NinnySusantiTejowasono2003_01 ">ni<supplied reason="omitted">mi</supplied>tta</lem>
+                        <lem source="bib:Boechari1985-1986_01 bib:NinnySusantiTejowasono2003_01">ni<supplied reason="omitted">mi</supplied>tta</lem>
                          </app>
                                     <app loc="7r1">
                         <lem source="bib:NinnySusantiTejowasono2003_01">pagəhakna</lem>
-                          <rdg source="bib:Boechari1985-1985_01">pagehakna</rdg>
+                          <rdg source="bib:Boechari1985-1986_01">pagehakna</rdg>
                     </app>
                                     <app loc="7r2">
-                        <lem source="bib:Boechari1985-1985_01 bib:NinnySusantiTejowasono2003_01"><unclear>m</unclear>ulahu<surplus>lahu</surplus>laḥ</lem>
+                        <lem source="bib:Boechari1985-1986_01 bib:NinnySusantiTejowasono2003_01"><unclear>m</unclear>ulahu<surplus>lahu</surplus>laḥ</lem>
                     </app>
                                     <app loc="7r2-7r3">
                         <lem>mo<supplied reason="omitted">n·</supplied> kryan·-<unclear>krya</unclear>n·</lem>
-                         <rdg source="bib:Boechari1985-1985_01 bib:NinnySusantiTejowasono2003_01">mo kryan· kryan·</rdg> 
+                         <rdg source="bib:Boechari1985-1986_01 bib:NinnySusantiTejowasono2003_01">mo kryan· kryan·</rdg> 
                                         <note>Neither Boechari nor Ninny Susanti Tejowasono notes that an akṣara <foreign>n·</foreign> has been omitted here.</note>
                     </app>
                                     <app loc="7v2">
                         <lem source="bib:NinnySusantiTejowasono2003_01">R̥ṅyə:kən</lem>
-                         <rdg source="bib:Boechari1985-1985_01">reṅyə:kə:n</rdg>  
+                         <rdg source="bib:Boechari1985-1986_01">reṅyə:kə:n</rdg>  
                     </app>
                                     <app loc="7v2">
                         <lem>durācārāmahaya</lem>
-                         <rdg source="bib:Boechari1985-1985_01 bib:NinnySusantiTejowasono2003_01">durācārā mahala</rdg>  
+                         <rdg source="bib:Boechari1985-1986_01 bib:NinnySusantiTejowasono2003_01">durācārā mahala</rdg>  
                     </app>
                                     <app loc="8r2">
                         <lem>vkasak<choice><sic>i</sic><corr>ə</corr></choice>n·</lem>
-                         <rdg source="bib:Boechari1985-1985_01">vkasakən</rdg>
+                         <rdg source="bib:Boechari1985-1986_01">vkasakən</rdg>
                          <rdg source="bib:NinnySusantiTejowasono2003_01">vkasakin·</rdg>
                     </app>
                                     <app loc="8r2">
                         <lem>paṅgiha</lem>
-                         <rdg source="bib:Boechari1985-1985_01">paṅgihaṁ</rdg>
+                         <rdg source="bib:Boechari1985-1986_01">paṅgihaṁ</rdg>
                          <rdg source="bib:NinnySusantiTejowasono2003_01">paṅgihan</rdg>
                     </app>
                                     <app loc="8r3">
-                        <lem source="bib:Boechari1985-1985_01 bib:NinnySusantiTejowasono2003_01">sa<supplied reason="omitted">ṁ</supplied></lem>
+                        <lem source="bib:Boechari1985-1986_01 bib:NinnySusantiTejowasono2003_01">sa<supplied reason="omitted">ṁ</supplied></lem>
                     </app>
                                     <app loc="8r3">
                         <lem>bhuktyā</lem>
-                         <rdg source="bib:Boechari1985-1985_01">bhuktyāṁ</rdg>
+                         <rdg source="bib:Boechari1985-1986_01">bhuktyāṁ</rdg>
                          <rdg source="bib:NinnySusantiTejowasono2003_01">bhuktyān</rdg>
                     </app>
                                     <app loc="8r3-8r4">
                         <lem>mahăpātaka</lem>
-                         <rdg source="bib:Boechari1985-1985_01 bib:NinnySusantiTejowasono2003_01">mahāpātaka</rdg>
+                         <rdg source="bib:Boechari1985-1986_01 bib:NinnySusantiTejowasono2003_01">mahāpātaka</rdg>
                     </app>
                                     <app loc="8r4">
                         <lem>vvaṁṅ</lem>
-                         <rdg source="bib:Boechari1985-1985_01 bib:NinnySusantiTejowasono2003_01">vvaṅ</rdg>
+                         <rdg source="bib:Boechari1985-1986_01 bib:NinnySusantiTejowasono2003_01">vvaṅ</rdg>
                     </app>
                                     <app loc="8v2">
                         <lem>tumāmbo<supplied reason="omitted">ṁ</supplied></lem>
-                         <rdg source="bib:Boechari1985-1985_01">tumamboṁ</rdg>
+                         <rdg source="bib:Boechari1985-1986_01">tumamboṁ</rdg>
                          <rdg source="bib:NinnySusantiTejowasono2003_01">tumambon</rdg>
                             <note>Ninny Susanti Tejowasono indicated that the final <foreign>n</foreign> is an error: “Citralekha lupa membubuhkan anusvara di atas huruf <foreign>bo</foreign>, karena seharusnya <foreign>tumamboṁ</foreign> bukan <foreign>tumambo</foreign>”.</note>
                                     </app>
                                     <app loc="8v3">
                         <lem>rī patapān·</lem>
-                         <rdg source="bib:Boechari1985-1985_01 bib:NinnySusantiTejowasono2003_01  ">riṁ patapān·</rdg>
+                         <rdg source="bib:Boechari1985-1986_01 bib:NinnySusantiTejowasono2003_01">riṁ patapān·</rdg>
                     </app>
                                     <app loc="8v3">
                         <lem source="bib:NinnySusantiTejowasono2003_01">bhaṭārī</lem>
-                         <rdg source="bib:Boechari1985-1985_01">bhatārī</rdg>
+                         <rdg source="bib:Boechari1985-1986_01">bhatārī</rdg>
                     </app>
                                     <app loc="8v4">
                         <lem>hulu</lem>
-                         <rdg source="bib:Boechari1985-1985_01 bib:NinnySusantiTejowasono2003_01">huku</rdg>
+                         <rdg source="bib:Boechari1985-1986_01 bib:NinnySusantiTejowasono2003_01">huku</rdg>
                                         <note>Ninny Susanti Tejowasono adds a note showing that she understood <foreign>huku</foreign> to be a wrong reading.</note>
                     </app>
                 </listApp>         

@@ -24,7 +24,7 @@
          <publicationStmt>
             <authority>DHARMA</authority>
             <pubPlace>Paris</pubPlace>
-            <idno type="filename">DHARMA_INSIDENKkawali_1b</idno>
+            <idno type="filename">DHARMA_INSIDENKKawali_1b</idno>
             <!-- Replace by filename, e.g. Pallava00001 -->
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/">
@@ -79,7 +79,7 @@
                        matchPattern="([a-z]+)"
                        replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
                <p>Internal URIs using the part prefix to point to person elements in the
-                            <ref>DHARMA_IdListMembers_V01.xml</ref> file.</p>
+                            <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
             </prefixDef>
          </listPrefixDef>
       </encodingDesc>
@@ -105,16 +105,16 @@
             <div type="apparatus">
                 <listApp>
                     <app loc="3">
-                        <lem source="bib:Noorduyn1988_01 HasanDjafar1991_01 TitiSurtiNastiti1996_01">IA</lem>
+                        <lem source="bib:Noorduyn1988_01 bib:HasanDjafar1991_01 bib:TitiSurtiNastiti1996_01">IA</lem>
                         <rdg source="bib:RichadianaKartakusuma2005_01">Iña</rdg>
                         <note><foreign>IA</foreign> is presumbaly an equivalent of <foreign>ya</foreign> in Kebantenan.</note>
                     </app>
                     <app>
-                        <lem source="bib:Noorduyn1988_01 HasanDjafar1991_01 TitiSurtiNastiti1996_01">Ager</lem>
+                        <lem source="bib:Noorduyn1988_01 bib:HasanDjafar1991_01 bib:TitiSurtiNastiti1996_01">Ager</lem>
                         <rdg source="bib:RichadianaKartakusuma2005_01">A<choice><orig>g</orig><reg>ṅg</reg></choice>er</rdg>
                     </app>
                     <app loc="4">
-                        <lem source="bib:Noorduyn1988_01 HasanDjafar1991_01 TitiSurtiNastiti1996_01">Iña R̥<choice><orig>p</orig><reg>mp</reg></choice>ag·</lem>
+                        <lem source="bib:Noorduyn1988_01 bib:HasanDjafar1991_01 bib:TitiSurtiNastiti1996_01">Iña R̥<choice><orig>p</orig><reg>mp</reg></choice>ag·</lem>
                         <rdg source="bib:RichadianaKartakusuma2005_01">IA R̥mpag·</rdg>
                     </app>
                 </listApp>
@@ -159,8 +159,8 @@
                 
            <listBibl type="secondary">
               <bibl><ptr target="bib:Raffles1817_01"/><citedRange>58</citedRange></bibl>
-            <bibl><ptr target="bib:NBG"/><date>1864</date><citedRange unit="volume">2</citedRange><citedRange unit="page">186, 255</citedRange></bibl>
-            <bibl><ptr target="bib:NBG"/><date>1866</date><citedRange unit="volume">4</citedRange><citedRange unit="page">118</citedRange></bibl>
+            <bibl><ptr target="bib:NBG02_1864"/><date>1864</date><citedRange unit="volume">2</citedRange><citedRange unit="page">186, 255</citedRange></bibl>
+            <bibl><ptr target="bib:NBG04_1866"/><date>1866</date><citedRange unit="volume">4</citedRange><citedRange unit="page">118</citedRange></bibl>
              <bibl><ptr target="bib:Pleyte1913_01"/><citedRange>295</citedRange></bibl>
              <bibl><ptr target="bib:ROD"/><date>1915</date><citedRange unit="page">95-96</citedRange><citedRange unit="item">291</citedRange></bibl>
             <bibl><ptr target="bib:Casparis1975_01"/><citedRange>54-56</citedRange></bibl>

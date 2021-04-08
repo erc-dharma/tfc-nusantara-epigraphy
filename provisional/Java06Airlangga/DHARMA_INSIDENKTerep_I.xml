@@ -26,7 +26,7 @@
          <publicationStmt>
             <authority>DHARMA</authority>
             <pubPlace>Malang</pubPlace>
-            <idno type="filename">DHARMA_INSIDENKTerepI</idno>
+            <idno type="filename">DHARMA_INSIDENKTerep_I</idno>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/">
                   <p>This work is licenced under the Creative Commons Attribution 4.0 Unported Licence. To view a copy of the licence, visit https://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.</p>
@@ -79,7 +79,7 @@
                        matchPattern="([a-z]+)"
                        replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
                <p>Internal URIs using the part prefix to point to person elements in the
-                            <ref>DHARMA_IdListMembers_V01.xml</ref> file.</p>
+                            <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
             </prefixDef>
          </listPrefixDef>
       </encodingDesc>
@@ -111,11 +111,11 @@
                 <listApp>
                     <app loc="2v3">
                       <lem>pratijñānira</lem>
-                      <rdg source="bib:Boechari1985-1985_01 bib:NinnySusantiTejowasono2003_01">pratijñā nira</rdg>
+                      <rdg source="bib:Boechari1985-1986_01 bib:NinnySusantiTejowasono2003_01">pratijñā nira</rdg>
                       </app>
                     <app loc="3v3">
                       <lem>āṅgə:ḥ</lem>
-                      <rdg source="bib:Boechari1985-1985_01">āṅgāḥ</rdg>
+                      <rdg source="bib:Boechari1985-1986_01">āṅgāḥ</rdg>
                        <rdg source="bib:NinnySusantiTejowasono2003_01">āṅgaḥ</rdg>
                         <note>With n. 11 “Sesuai dengan isi prasasti, alih aksara yang benar adalah <foreign>ibwakalihanāṅgoḥ</foreign>.” Emend <foreign>kāṅgə:ḥ</foreign>?</note>
                       </app>

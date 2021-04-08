@@ -82,7 +82,7 @@
                        matchPattern="([a-z]+)"
                        replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
                <p>Internal URIs using the part prefix to point to person elements in the
-                            <ref>DHARMA_IdListMembers_V01.xml</ref> file.</p>
+                            <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
             </prefixDef>
          </listPrefixDef>
       </encodingDesc>
@@ -109,7 +109,7 @@
            <!--apparatus encoded as per EG §9.1, basic elements for apparatus below-->
                <listApp>
                    <app loc="1v1">
-                       <lem source="bib:Damais1952_03 bib:Sarkar1971-1972_01"><num value="741">741</num></lem>
+                       <lem source="bib:Damais1952_01 bib:Sarkar1971-1972_01"><num value="741">741</num></lem>
                        <rdg source="bib:Poerbatjaraka1920_01"><num value="861">861</num></rdg>
                        <rdg source="bib:Goris1928_01"><num value="751">751</num></rdg>
                    </app>
@@ -133,7 +133,7 @@
                    <app loc="1v2">
                        <lem source="bib:Sarkar1971-1972_01">ājñānira,</lem>
                        <rdg source="bib:Poerbatjaraka1920_01">ājñanira,</rdg>
-                       <rdg source="bib:bib:Goris1928_01">ājñānira</rdg>
+                       <rdg source="bib:Goris1928_01">ājñānira</rdg>
                    </app>
                    <app loc="1v3">
                        <lem source="bib:Goris1928_01 bib:Sarkar1971-1972_01">pu managguṅi,</lem>

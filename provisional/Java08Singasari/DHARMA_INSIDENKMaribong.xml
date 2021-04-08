@@ -79,7 +79,7 @@
                        matchPattern="([a-z]+)"
                        replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
                <p>Internal URIs using the part prefix to point to person elements in the
-                            <ref>DHARMA_IdListMembers_V01.xml</ref> file.</p>
+                            <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
             </prefixDef>
          </listPrefixDef>
       </encodingDesc>
@@ -104,10 +104,11 @@
          <div type="edition" xml:lang="kaw-Latn">
 <pb n="1r"/><!--Blank outer page.-->
 <p><pb n="1v"/>
- <lb n="1v1"/><g type="ddandaOrnate"/> Avighnam astu,<g type="ddandaOrnate"/> svasti śrī śakavarṣātīta, <num value="1170">1170</num>, Aśujimāsa, tithi, pañcamī śuklapakṣa, <abbr>vā</abbr>, 
-<lb n="1v2"/><abbr>ka</abbr>, <abbr>vr̥</abbr>, vāra, laṅkir·, Uttarāsāḍanakṣatra, viśvadevatā, māhendramaṇḍala, gaṇḍayoga, vairā<lb n="1v3" break="no"/>jyamuhūrtta, baruṇaparvveśa, valavakaraṇa, mr̥ccikarāśī, </p>
- <p part="I">Irika divasanyājñā <foreign xml:lang="san-Latn">śrī sakala<choice><sic>kha</sic><corr>la</corr></choice>lană<lb n="1v4" break="no"/>kulamadhu<choice><sic>mārddana</sic><corr>mardana</corr></choice>kamalekṣaṇa</foreign>, nāmābhiṣeka śrī jayaviṣṇuvarddhana, saṁ mapañji sminiṅ rāt·, <foreign xml:lang="san-Latn">svapi<lb n="1v5" break="no"/>tāmahāstavanābhinnāśrăntalokapālaka</foreign>, kumonakən Irikaṁ vanva I mariboṁ, vatək atagan· jipaṁ, 
-<lb n="1v6"/>pagavayakna saṁ hyaṅ ājñā haji praśāsti, mataṇḍa śrī jayaviṣṇuvarddhanalāñcana, Umuṅgve salaḥ sikiniṁ tāmra ri</p>
+ <lb n="1v1"/><g type="ddandaOrnate"/> Avighnam astu,<g type="ddandaOrnate"/> svasti śrī śaka-varṣātīta, <num value="1170">1170</num>, Aśuji-māsa, tithi, pañcamī śukla-pakṣa, <abbr>vā</abbr>,
+<lb n="1v2"/><abbr>ka</abbr>, <abbr>vr̥</abbr>, vāra, laṅkir·, Uttarāsāḍa-nakṣatra, viśva-devatā, māhendra-maṇḍala, gaṇḍa-yoga, vairā<lb n="1v3" break="no"/>jya-muhūrtta, baruṇa-parvveśa, valava-karaṇa, mr̥ccika-rāśī, </p>
+ <p part="I">Irika divasany ājñā <foreign xml:lang="san-Latn">śrī sakala-<choice><sic>kha</sic><corr>la</corr></choice>lană<lb n="1v4" break="no"/>-kula-madhu-<choice><sic>mārdda</sic><corr>marda</corr></choice>na-kamalekṣaṇa</foreign>, nāmābhiṣeka śrī jayaviṣṇuvarddhana, saṁ mapañji sminiṅ rāt·,
+ <foreign xml:lang="san-Latn">sva-pi<lb n="1v5" break="no"/>tāmahāstavanābhinnāśrănta-loka-pālaka</foreign>, kumonakən Irikaṁ vanva I mariboṁ, vatək atagan· jipaṁ,
+<lb n="1v6"/>pagavayakna saṁ hyaṅ ājñā haji praśāsti, mataṇḍa śrī jayaviṣṇuvarddhana-lāñcana, Umuṅgve salaḥ sikiniṁ tāmra ri</p>
          </div>
          <div type="apparatus">
            <!--apparatus encoded as per EG §9.1, basic elements for apparatus below-->
@@ -120,7 +121,7 @@
                      <lem>ri</lem>
                       <note>The  word broken off here was <foreign>ripta</foreign>. For the full formula, see <ref target="AirAsih.xml">Air Asih</ref> a3, <ref target="Parablyan.xml">Parablyan</ref> a2, <ref target="Sukhamerta.xml">Sukhāmr̥ta</ref> 10b4.</note>
                   </app>
-               </listApp>         
+               </listApp>
          </div>
          <div type="translation" resp="part:argr">
  	<!--translation encoded as per EG §9.2 -->
@@ -137,8 +138,8 @@
 	<!--bibliography encoded as per section §9.4 -->
             <p>First edited, probably by F.D.K. Bosch, in <bibl><ptr target="bib:OV1918"/></bibl>; re-edited by Damais (<bibl rend="omitname"><ptr target="bib:Damais1955_01"/></bibl>); edited again by Boechari (<bibl rend="omitname"><ptr target="bib:Boechari1985-1986_01"/></bibl>); re-edited here by Arlo Griffiths from a photo of the rubbing kept in Leiden.</p>
            <listBibl type="primary">
-		<bibl n="FDKB" rend="journal">
-			<ptr target="bib:OV_1918"/>
+		<bibl n="FDKB">
+			<ptr target="bib:OV1918"/>
 			<citedRange unit="appendix">Q</citedRange>
 			<citedRange unit="page">169</citedRange>
 		</bibl>
@@ -151,7 +152,7 @@
 		   <ptr target="bib:Boechari1985-1986_01"/>
                                                                            <citedRange unit="page">170</citedRange>
                                                                         <citedRange unit="item">E.55</citedRange>
-                                                                        </bibl>		
+                                                                        </bibl>
            </listBibl>
              <listBibl type="secondary">
              <bibl><ptr target="bib:Damais1952_01"/><citedRange unit="page">72-73</citedRange><citedRange unit="item">A.171</citedRange></bibl>

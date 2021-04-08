@@ -8,7 +8,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Siku Lalawa</title>
+            <title>Padang Roco</title>
             <respStmt>
                <resp>EpiDoc encoding</resp>
                <persName ref="part:ekba">
@@ -30,7 +30,7 @@
          <publicationStmt>
             <authority>DHARMA</authority>
             <pubPlace>Malang</pubPlace>
-            <idno type="filename">DHARMA_INSIDENKSikuLalawa</idno>
+            <idno type="filename">DHARMA_INSIDENKPadangRoco</idno>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/">
                   <p>This work is licenced under the Creative Commons Attribution 4.0 Unported Licence. To view a copy of the licence, visit https://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.</p>
@@ -52,7 +52,7 @@
                </msContents>
                <physDesc>
                   <handDesc>
-                     <p/>
+                     <p></p>
                      <!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EG 11.2. -->
                   </handDesc>
                </physDesc>
@@ -84,30 +84,62 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
-         <change who="part:ekba" when="2020-12-23" status="draft">started initial encoding of the inscriptionn</change>
+         <change who="part:ekba" when="2020-03-29" status="draft">created initial encoding of the inscription</change>
       </revisionDesc>
    </teiHeader>
    <text xml:space="preserve">
       <body>
-         <div type="edition" xml:lang="kaw-Latn">
-<p part="F"><pb n="11r" break="no"/><lb n="11r1" break="no"/>ṅan·, midə:r aṅulvan aṅidul atūt· pagə:r·, Asiḍaktan· lāvan· halaṅan·, muvaḥ maṅidul umnə:r· tkeṁ siku la<lb n="11r2" break="no"/>lavāmluk aṅulvan·, pañjaṁnya, ḍpa, <num value="30">30</num>, blaḥ, muvaḥ maṅidul· saṅkeṁ siku lalavākalihan· gaL̥ṁ lāvan· hala<lb n="11r3" break="no"/>ṅan·,, midə:r aṅulvan akalihan· gaL̥ṁ lāvan· halaṅan·, midə:r aṅidul akalihan·, gaL̥ṁ lāvan· halaṅan· <unclear>d</unclear>u<lb n="11r4" break="no"/>dug· tkeṅ agneya, vatə:s kulumpaṁ kinatigan· lāvan· halaṅan· kidul· taratap·, maṅulvan· saṅke
-<lb n="11r5"/>Agneya, Aniku lalavā, pañjaṁnya, ḍpa, <num value="27">27</num>, midə:r aṅidul· saṅke siku lalavākalihan· gaL̥<unclear>ṁ</unclear> lāva<lb n="11r6" break="no"/>n taratap·, dudug maṅidul· Atūt· piṅgirni kubvan asiḍaktan· lāvan· taratap·, muvaḥ Aṅulvan akalihan·
-<lb n="11r7"/>gaL̥ṁ lāvan· taratap·, muvaḥ midə:r aṅidul aniku lalavā, pañjaṁnya, ḍpa, <num value="19">19</num>, midə:r aṅulvan· saṅkeṁ siku
-<lb n="11r8"/>lalavākalihan· gaL̥ṁ lāvan· taratap·, midə:r aṅidul aniku lalavā, pañjaṁnya, ḍpa, <num value="26">26</num>, Akalihan·
-<pb n="11v"/><fw place="right" rend="bt-rotated" n="11v"><num value="11">11</num></fw>
-<lb n="11v1"/>gaL̥ṁ lāvan· taratap·, midə:r aṅulvan· saṅkeṁ siku lalavākalihan· gaL̥ṁ lāvan· taratap·, dudug· maṅu<lb n="11v2" break="no"/>lvan· makahīṅan piṅgirniṁ kali vetan·, muvaḥ midə:r aṅidul· piṅgirniṁ kali vetan·, Akalihan· gaL̥<unclear>ṁ</unclear> lāva<lb n="11v3" break="no"/>n taratap·, Andə:L̥s aṅidul· saṅkeṁ kali dudug· tkeṁ gaL̥ṅ agə:ṁ kinalihan· lāvan· taratap· midə:r aṅu<lb n="11v4" break="no"/>lvan· saṅkeṁ gaL̥ṅ agə:ṁ vatə:s kinalihan· lāvan· taratap·, Andə:L̥s aṅulvan atūt· gaL̥ṅ agə:ṁ kinalihan·
-<lb n="11v5"/>lāva<choice><orig>n</orig><reg>n n</reg></choice>ūṣa, midə:r aṅidul· saṅkeṁ gaL̥ṅ agə:ṁ kinalihan· lāva<choice><orig>n</orig><reg>n n</reg></choice>ūṣa, muvaḥ midə:r aṅetan andə:L̥s· makahī<lb n="11v6" break="no"/>ṅan piṅgirniṁ lvaḥ kulvan·, Aṅidul atūt· piṅgirniṁ lvaḥ kulvan· Aniku lalavā, pañjaṁnya, ḍpa, <num value="49">49</num>, midə:r aṅu<lb n="11v7" break="no"/>lvan· saṅkeṁ siku lalavātūt· piṅgir· tan padravya lvaḥ saṁ hyaṁ dharmma, midə:r aṅalor· saṅke piṅgirniṁ lvaḥ <unclear>A<g type="squiggleVertical">§</g></unclear><lb n="11v8" break="no"/>niku lalavā, pañjaṁnya, dpa, <num value="13">13</num>, Akalihan gaL̥ṁ lāvan· taratap·, aṅulvan· saṅkeṁ siku lalavā,</p>
+         <div type="edition" xml:lang="omy-Latn">
+<p>
+<milestone type="pagelike" unit="faces" n="ABCD"/>
+<lb n="ABCD1"/><milestone unit="face" n="A"/><g type="ddanda"/> svasti śrī śaka-varṣātīta, <num value="1208">1208</num>, bhādravādamāsa, ti<milestone unit="face" n="B" break="no"/>thi pratipada śukla-pakṣa, mavulu, vāge, vr̥haspati-vāra, madaṅkuṅan·, grahacāra n<unclear>ai</unclear>ritistha, viśākā<milestone unit="face" n="C"/>nakṣatra, cakra-{devatā,  ???- ma}ṇḍala, śubha-<g type="squiggleVertical">§</g><lb n="ABCD2" break="no"/><milestone unit="face" n="A" break="no"/>yoga, kuvera-parbeśa, kiṅstughna-muhūrtta, kanyā-rāśi, I<milestone unit="face" n="b" break="no"/>nan· tatkāla pāduka bharāla Āryyāmoghapāśalokeśvara catudaśātmikā sapta-ratna-sahita, diĀntat·<milestone unit="face" n="C"/>dari bhūmi jāva ka svarṇnabhūmi dipratiṣtha di dharmmāśraya, Akan·
+<lb n="ABCD3"/><milestone unit="face" n="A"/>punya śrī viśvarūpa kumāra, prakāranaṅ ditītaḥ pāduka śrī ma<milestone unit="face" n="B" break="no"/>hārājādhirājaśrīkr̥tanagaravikramadharmmottuṅgadeva maṅiriṅkan· pāduka bharāla, rakryān· mahāmantri dyaḥ <milestone unit="face" n="C"/>Advayabrahma, rakryān· srīkan· dyaḥ sugatabrahma, mūAṁ
+<lb n="ABCD4"/><milestone unit="face" n="A"/>, samagat· payānan haṅ dīpaṅkaradāsa, rakryān damuṅ pu vīra, <milestone unit="face" n="B"/>kunaṁ punyeni yogya diAnumodanā Oleḥ sakaprajā di bhūmi malāyū, brāhmaṇaḥ kṣatriya vaiśya sūdra, Ā<milestone unit="face" n="C" break="no"/>ryyamāddhyāt, śrī mahārāja śrīmat· tribhuvanarājamaulivarmmade<milestone unit="face" n="D" break="no"/>va pramuka <g type="ddanda"/> 
+<lg n="ABCD4" met="anuṣṭubh">
+   <l n="a">Anena k<unclear>u</unclear>śal<unclear>e</unclear>nāha<unclear>ṁ</unclear>,</l> 
+<l n="b">buddhatvam idhigamya ca,</l>  
+<l n="c">tārayeyañ jagat <supplied reason="lost">sa</supplied>rmā,</l>
+<l n="d">m āgādhāt· bhavasāgarāt· <g type="ddanda"/></l>
+</lg>
+</p>
          </div>
          <div type="apparatus">
            <!--apparatus encoded as per EG §9.1, basic elements for apparatus below-->
                <listApp>
-                  <app/>
-                  
+                  <app loc="ABCD1">
+                      <lem source="bib:Krom1917_01">vāge</lem>
+                      <note>It would also be possible to read vāg<unclear>ai</unclear>.</note>
+                  </app>
+                  <app loc="ABCD1">
+                      <lem>madaṅkuṅan·</lem>
+                     <rdg source="bib:Krom1917_01">maḍaṅkuṅan</rdg>
+                  </app>
+                  <app loc="ABCD1">
+                      <lem>śubha-<g type="squiggleVertical">§</g></lem>
+                     <rdg source="bib:Krom1917_01">śubha</rdg>
+                  </app>
+                  <app loc="ABCD2">
+                      <lem>catudaśātmikā</lem>
+                     <rdg source="bib:Krom1917_01">caturdaśātmika</rdg>
+                  </app>
+                  <app loc="ABCD2">
+                      <lem>diĀntat·</lem>
+                     <rdg source="bib:Krom1917_01">diĀntuk</rdg>
+                     <note>Read <foreign>Aṅkut</foreign>, <foreign>Aṅkat</foreign> or <foreign>Antar</foreign>?</note>
+                  </app>
+                  <app loc="ABCD4">
+                      <lem>diAnumodanā Oleḥ</lem>
+                     <rdg source="bib:Krom1917_01">diAnumodanāñjaleḥ</rdg>
+                  </app>
+                  <app loc="ABCD4">
+                      <lem>pramuka</lem>
+                     <rdg source="bib:Krom1917_01">pramukha</rdg>
+                  </app>
                </listApp>         
          </div>
          <div type="translation" resp="part:argr">
  	<!--translation encoded as per EG §9.2 -->
-	<p/>
+	<p></p> 
          </div>
          <div type="commentary">
             <!--commentary encoded as per section §9.3 -->
@@ -115,9 +147,17 @@
          </div>
         <div type="bibliography">
 	<!--bibliography encoded as per section §9.4 -->
-            <p/>
+            <p>First edited by Krom (<bibl rend="omitname"><ptr target="bib:Krom1917_01"/></bibl>) and then improved reading was presented by Damais (<bibl rend="omitname"><ptr target="bib:Damais1955_01"/></bibl>. Re-edited here by Arlo Griffiths from the stone at Museum Nasional.</p>
+           <listBibl type="primary">
+	<bibl n="K">
+	   <ptr target="bib:Krom1917_01"/>
+	</bibl>
+                                    <bibl n="D">
+	   <ptr target="bib:Damais1955_01"/>
+	</bibl>
+              </listBibl>
              <listBibl type="secondary">
-             <bibl/>
+                <bibl><ptr target="bib:OV1912"/><citedRange unit="page">49</citedRange><citedRange unit="item">51</citedRange></bibl>
            </listBibl>
         </div>
       </body>

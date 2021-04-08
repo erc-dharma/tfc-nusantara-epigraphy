@@ -74,7 +74,7 @@
                        matchPattern="([a-z]+)"
                        replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
                <p>Internal URIs using the part prefix to point to person elements in the
-                            <ref>DHARMA_IdListMembers_V01.xml</ref> file.</p>
+                            <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
             </prefixDef>
          </listPrefixDef>
       </encodingDesc>
@@ -97,10 +97,10 @@
   Umiṅsor mare taṇḍa ra<unclear>kr</unclear><milestone unit="face" n="b" break="no"/><unclear>ya</unclear>n· riṁ pakira-kiran· maka<unclear>bh</unclear>ehan·<supplied reason="lost"><g type="circleMed">.</g> ra</supplied><milestone unit="face" n="C" break="no"/><supplied reason="lost">kr</supplied><unclear>ya</unclear>n mapatiḥ<g type="circleMed">.</g> n<choice><orig>a</orig><reg>ā</reg></choice>m<choice><orig>a</orig><reg>ā</reg></choice><choice><orig>b</orig><reg>bh</reg></choice>i<choice><orig>ś</orig><reg>h</reg></choice>ita, pu <unclear>t</unclear>reves·, <foreign xml:lang="san-Latn">sakala-ripu-nala<!--Or -ripv-anala?-->-kāraṇa</foreign>, rakryan· dm<choice><sic>i</sic><corr>uṁ</corr></choice><g type="circleMed">.</g> n<choice><orig>a</orig><reg>ā</reg></choice>m<choice><orig>a</orig><reg>ā</reg></choice><choice><orig>p</orig><reg>bh</reg></choice>i<choice><orig>ś</orig><reg>h</reg></choice>ita<g type="circleMed">.</g> pu tan·pa ro<milestone unit="face" n="d" break="no"/>vaṁ, <foreign xml:lang="san-Latn">rāja-śevātidakṣa</foreign>, rakryān kanuruhan·<supplied reason="lost">,</supplied><lb n="6"/><milestone unit="face" n="A"/><unclear>n</unclear><choice><orig>a</orig><reg>ā</reg></choice>m<choice><orig>a</orig><reg>ā</reg></choice>biśita<g type="circleMed">.</g> pu ṇlen·<g type="circleMed">.</g> <foreign xml:lang="san-Latn">samara-<unclear>kā</unclear>ryy<choice><orig>a</orig><reg>ā</reg></choice>rambhāṅgibhukā</foreign>, rakryan· raṅga, nămăbihita, pu <unclear>nejy</unclear>ota, <foreign xml:lang="san-Latn">raṇa-maddhyabera<milestone unit="face" n="b" break="no"/>va-stuta</foreign>, rakryan· tuməṅguṁ, nămabi[śita pu] <milestone unit="face" n="C"/>puguḥ, saAt· <foreign xml:lang="san-Latn">sabhivālanānipajanigraha-tadpara</foreign>, makapramuka saṁ vr̥dvamantri dha(r)mmapravaktā mahagusubavanoge XX <milestone unit="face" n="d"/>makataṅgvan· b(u)ddhi-stiratarāmagəhakə[n·]
 </p>
 
-(6A)
+<ab>(6A)</ab>
 
-(7A) rasa saṁ hyaṁ kuṭāra mānava, saṅ āryya patipati nāmapiśitā, X pu kapat·, vr̥ddhasenāpat(i)  nipaleX[ni]ṅḍipā (7b)para, dipatisenom· senapati [nā](7C)[ma]pihita, mapanji Elām·, saṁ sākṣāt· pinakādipatini sanagara, hi nidhi XX sakala locita, tatvarahaṣyārtha XX (7d) X , XX Cila-sādhu-parirakṣaka, saṅ āryya [ja-]
-
+<ab>(7A) rasa saṁ hyaṁ kuṭāra mānava, saṅ āryya patipati nāmapiśitā, X pu kapat·, vr̥ddhasenāpat(i)  nipaleX[ni]ṅḍipā (7b)para, dipatisenom· senapati [nā](7C)[ma]pihita, mapanji Elām·, saṁ sākṣāt· pinakādipatini sanagara, hi nidhi XX sakala locita, tatvarahaṣyārtha XX (7d) X , XX Cila-sādhu-parirakṣaka, saṅ āryya [ja-]
+</ab>
            <p><pb n="1r"/><lb n="1r1"/><g type="ddanda"/>Iku vruhane si para same sahuma<unclear>n</unclear>· pagər·, para vadanā, buyut iṁ gəsaṁ, hasḍahan tani hi təruṁ, pa&#x2028;<lb n="1r2" break="no"/>tiḥ nadi, pacataṇḍa hi təruṁ, haryya visanā, makaṅuni haṅucap gave tani riṁ majapahit·, haryya&#x2028;
 <lb n="1r3"/><unclear>v</unclear>arani,</p>
 <p>yen andikani ṅoṁ, dene bhūmine si darani, kaṅ iṁ śelamaṇḍi, sabhūmine si darani,

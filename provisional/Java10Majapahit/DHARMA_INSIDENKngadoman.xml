@@ -85,7 +85,7 @@
                        matchPattern="([a-z]+)"
                        replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
                <p>Internal URIs using the part prefix to point to person elements in the
-                            <ref>DHARMA_IdListMembers_V01.xml</ref> file.</p>
+                            <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
             </prefixDef>
          </listPrefixDef>
       </encodingDesc>
@@ -149,7 +149,7 @@
          </app>
            </listApp>
          </div>
-         <div type="translation" resp="part:masc argr">
+         <div type="translation" resp="part:masc part:argr">
    <!--translation encoded as per EGD §9.2 -->
  <p>Om. Made by Śrī Sarasvatī. The mountain Hardi Damaluṅ, the life of the Earth, was churning. The bathing place of Paləmaran would overflow, for God Vidhi <supplied reason="explanation">i.e. Brahmā?</supplied> gave instructions <supplied reason="explanation"><foreign>amidhyani</foreign></supplied> to the Sun and the Moon to illuminate the bad and good of divine men, those who seek, those who make a line of succession. The established sacred site will be entered by divine men. And those <supplied reason="explanation"><foreign>paḍa</foreign></supplied> who watch, who are intent, who listen, will be free from defilement, will be invested with memory of <supplied reason="subaudible">former</supplied> births. Should anyone enter, he shall not come provided with live-stock, shall not bring wives <foreign>pituṅ</foreign> to have intercourse with, shall not be obsessed with sex <supplied reason="subaudible">nor</supplied> owning possessions <supplied reason="explanation"><foreign>avastu</foreign></supplied>. May there be Fortune! In the Śaka year 1371.</p>
         </div>

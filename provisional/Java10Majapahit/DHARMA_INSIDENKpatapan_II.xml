@@ -79,7 +79,7 @@
                        matchPattern="([a-z]+)"
                        replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
                <p>Internal URIs using the part prefix to point to person elements in the
-                            <ref>DHARMA_IdListMembers_V01.xml</ref> file.</p>
+                            <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
             </prefixDef>
          </listPrefixDef>
       </encodingDesc>
@@ -108,61 +108,61 @@
                 <listApp>
                   <app loc="1r2">
                     <lem>taṅsen</lem>
-                    <rdg source="bib:Boechari1985-1985_01">taraṅsan</rdg>
+                    <rdg source="bib:Boechari1985-1986_01">taraṅsan</rdg>
                   </app>
                   <app loc="1r4">
                       <lem>marmma</lem>
-                      <rdg source="bib:Boechari1985-1985_01">dharmma</rdg>
+                      <rdg source="bib:Boechari1985-1986_01">dharmma</rdg>
                       <note>The akṣara <hi rend="italic">ma</hi> looks clear to us. In any case the name must be the same as in 1v4, where Boechari correctly read marmma.</note>
                   </app>
                   <app loc="1r4">
                       <lem>bana</lem>
-                      <rdg source="bib:Boechari1985-1985_01">gana</rdg>
+                      <rdg source="bib:Boechari1985-1986_01">gana</rdg>
                       <note>Throughout the inscription, differences between akṣaras <hi rend="italic">ba</hi> and <hi rend="italic">ga</hi> are hardly visible.</note>
                   </app>
                   <app loc="1r5">
                       <lem>kaśaivan</lem>
-                      <rdg source="bib:Boechari1985-1985_01">kacañśayavan</rdg>
+                      <rdg source="bib:Boechari1985-1986_01">kacañśayavan</rdg>
                   </app>
                   <app loc="1r5">
                       <lem>kasogatan</lem>
-                      <rdg source="bib:Boechari1985-1985_01">kosagatan</rdg>
+                      <rdg source="bib:Boechari1985-1986_01">kosagatan</rdg>
                   </app>
                   <app loc="1v1">
                       <lem resp="part:masc">sura<unclear>g</unclear>a</lem>
                       <rdg resp="part:argr">surabha</rdg>
                       <!--masc2argr: One would expect to see an aksara quite similar to "ca" l. 1r5 for a "bha", which I don't really think we can read here-->
-                      <rdg source="bib:Boechari1985-1985_01">suraba</rdg>
+                      <rdg source="bib:Boechari1985-1986_01">suraba</rdg>
                   </app>
                   <app loc="1v1">
                       <lem>raramātuh<choice><orig>a</orig><reg>ā</reg></choice>-</lem>
-                      <rdg source="bib:Boechari1985-1985_01">rara matuha</rdg>
+                      <rdg source="bib:Boechari1985-1986_01">rara matuha</rdg>
                   </app>
                   <app loc="1v2">
                       <lem>vit<choice><orig>a</orig><reg>ā</reg></choice>na</lem>
-                      <rdg source="bib:Boechari1985-1985_01">vitana</rdg>
+                      <rdg source="bib:Boechari1985-1986_01">vitana</rdg>
                       <note>One could also (perhaps more easily) read <foreign>vihana</foreign>.</note>
                   </app>
                   <app loc="1v3">
                       <lem>mr̥tti</lem>
-                      <rdg source="bib:Boechari1985-1985_01">mr̥ttī</rdg>
+                      <rdg source="bib:Boechari1985-1986_01">mr̥ttī</rdg>
                   </app>
                   <app loc="1v3">
                       <lem>taṅsyan</lem>
-                      <rdg source="bib:Boechari1985-1985_01">taraṅsan</rdg>
+                      <rdg source="bib:Boechari1985-1986_01">taraṅsan</rdg>
                   </app>
                   <app loc="1v4">
                       <lem>aṁga<add place="below" rend="kākapada"><unclear>ra</unclear></add>rjja</lem>
-                      <rdg source="bib:Boechari1985-1985_01">aṁgarjja</rdg>
+                      <rdg source="bib:Boechari1985-1986_01">aṁgarjja</rdg>
                       <note>There is a clear <foreign>kākapada</foreign> sign above the line, while the syllable to be inserted is noted below. The reading of that syllable is not entirely certain.</note>
                   </app>
                   <app loc="1v4-5">
                       <lem>sirāmpu sara sija</lem>
-                      <rdg source="bib:Boechari1985-1985_01">sira mpu sara sija</rdg>
+                      <rdg source="bib:Boechari1985-1986_01">sira mpu sara sija</rdg>
                   </app>
                   <app loc="1v5">
                       <lem>kraṇḍa</lem>
-                      <rdg source="bib:Boechari1985-1985_01">kraṇṭa</rdg>
+                      <rdg source="bib:Boechari1985-1986_01">kraṇṭa</rdg>
                   </app>
                 </listApp>
          </div>
