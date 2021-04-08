@@ -77,19 +77,21 @@
     <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="san-Latn">
-<lg><lb n="1">ye dharmmā hetuprabhavā hetun teṣāṃ tathāgato
-<lb n="1">2. hyavadat teṣāñ ca yo nirodhaḥ evamvādī ma
-<lb n="1">3. hāśramaṇaḥ </lg>
+<lg n="1" met="āryā">
+<l n="ab"><lb n="1"/>ye dharmmā hetuprabhavā hetun teṣāṃ ta<lb n="2" break="no"/>thāgato hy avadat</l>
+<l>teṣāñ ca yo niro<lb n="3" break="no"/>dhaḥ| Evamvādī mahāśramaṇaḥ</l>
+</lg>
 
-<p>deyadharmmo yaṃ pravaramahāyā
-<lb n="1">4. nayāyinaḥ paramaratnopāsakaḥ śrīma
-<lb n="1">5. hārājādhirājaḥ śrī kṛtanagaravikrama
-<lb n="1">6. jñānava(jr)ottuṃgadevamahārājaḥ yad atra
-<lb n="1">7. puṇyan tad bhavatv ācāryyopādhyāyamātāpi
-<lb n="1">8. tṛpūrvvaṅgamaṃ kṛtvā sakalasatvarāśer a
-<lb n="1">9. nuttara(jñ)ānapha(l)āvāptaya (i)ti||</p>
-
-
+<p><lb n="4"/>deyadharmmo 'yam pravara-mahāyāna<lb 
+n="5" break="no"/>-yāyinaḥ parama-ratnopāsakaḥ 
+<lb n="6"/>śrī-mahārājādhirājaḥ śrī-kr̥<lb 
+n="7" break="no"/>tanagara-vikrama-jñāna-vajro<lb 
+n="8" break="no"/>ttuṁga-deva-mahārājaḥ yad a<lb 
+n="9" break="no"/>tra puṇyan tad bhavatv ācāryyo<lb 
+n="10" break="no"/>pādhyāya-mātā-pitr̥-pūrvvaṁ<lb 
+n="11" break="no"/>gamaṁ kr̥tvā sakala-satva-rāśe<lb 
+n="12" break="no"/>r anuttara-jñāna-phalāvāptaya 
+<lb n="13"/>Iti||</p>
          </div>
          <div type="apparatus">
            <!--apparatus encoded as per EGD §9.1, basic elements for apparatus below-->
@@ -100,7 +102,7 @@
                   </app>
                </listApp>
          </div>
-         <div type="translation">
+         <div type="translation" resp="part:argr">
  	<!--translation encoded as per EGD §9.2 -->
          </div>
          <div type="commentary">
