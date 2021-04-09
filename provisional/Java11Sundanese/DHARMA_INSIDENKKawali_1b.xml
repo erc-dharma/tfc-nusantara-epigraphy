@@ -95,7 +95,7 @@
    <text xml:space="preserve">
         <body>
             <div type="edition" xml:lang="osn">
-                <lg>
+                <lg n="1">
                     <l n="a"><milestone n="1" unit="face"/><lb n="1"/>hayuA ḍiponaḥ-p<unclear>o</unclear><add place="below">naḥ</add></l>
                     <l n="b"><milestone n="2" unit="face"/>hayuA ḍicavuḥ-cavu<unclear>ḥ</unclear></l>
                     <l n="c"><milestone n="3" unit="face"/>IA neker Iña Ager</l>
@@ -109,7 +109,7 @@
                         <rdg source="bib:RichadianaKartakusuma2005_01">Iña</rdg>
                         <note><foreign>IA</foreign> is presumbaly an equivalent of <foreign>ya</foreign> in Kebantenan.</note>
                     </app>
-                    <app>
+                    <app loc="3">
                         <lem source="bib:Noorduyn1988_01 bib:HasanDjafar1991_01 bib:TitiSurtiNastiti1996_01">Ager</lem>
                         <rdg source="bib:RichadianaKartakusuma2005_01">A<choice><orig>g</orig><reg>ṅg</reg></choice>er</rdg>
                     </app>
@@ -137,22 +137,22 @@
 </p>
                 
            <listBibl type="primary">
-                <bibl>
+                <bibl n="CMP">
                     <ptr target="bib:Pleyte1911_01"/><citedRange>97</citedRange>
                 </bibl>
-                <bibl>
+                <bibl n="JN">
                     <ptr target="bib:Noorduyn1976_01"/>
                 </bibl>
-               <bibl>
+               <bibl n="JN">
                    <ptr target="bib:Noorduyn1988_01"/><citedRange>309-310</citedRange>
                </bibl>
-               <bibl>
+               <bibl n="HD">
                    <ptr target="bib:HasanDjafar1991_01"/><citedRange>6</citedRange>
                </bibl>
-                <bibl>
+                <bibl n="TSN">
                     <ptr target="bib:TitiSurtiNastiti1996_01"/><citedRange>1-13</citedRange>
                 </bibl>
-               <bibl>
+               <bibl n="RK">
                    <ptr target="bib:RichadianaKartakusuma2005_01"/><citedRange>49</citedRange>
                </bibl>
             </listBibl>

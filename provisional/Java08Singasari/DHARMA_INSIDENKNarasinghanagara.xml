@@ -128,9 +128,9 @@
 	</app>
                </listApp>
          </div>
-         <div type="translation">
- 	<!--translation encoded as per EGD §9.2 -->
-         </div>
+         <!--<div type="translation">
+ 	<!-\-translation encoded as per EGD §9.2 -\->
+         </div>-->
          <div type="commentary">
             <p n="14v2"><foreign>kanyā<unclear>g</unclear>ata</foreign>: one might prima facie prefer the reading <foreign>kanyāśata</foreign>, but comparison with <title>Ślokāntara</title> 2 certifies that <foreign>kanyāgata</foreign> is intended.</p>
          </div>
