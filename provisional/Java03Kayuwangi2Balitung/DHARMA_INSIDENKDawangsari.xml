@@ -93,15 +93,15 @@
          <div type="edition" xml:lang="san-Latn"><!-- update the @xml:lang value, see EGD §7.2-->
             <!--edition encoded as per EGD §§2−7-->
          </div>
-         <div type="apparatus">
-           <!--apparatus encoded as per EGD §9.1, basic elements for apparatus below-->
-               <listApp><!-- one <app> for each apparatus entry -->
-                  <app loc="line"><!-- update the value of @loc.-->
-                     <lem><!-- fill in a lemma here --></lem>
-                     <rdg source="bib:AuthorYear_01"><!-- update the @source value, fill in variant reading here --></rdg>
+        <!-- <div type="apparatus">
+           <!-\-apparatus encoded as per EGD §9.1, basic elements for apparatus below-\->
+               <listApp><!-\- one <app> for each apparatus entry -\->
+                  <app loc="line"><!-\- update the value of @loc.-\->
+                     <lem><!-\- fill in a lemma here -\-></lem>
+                     <rdg source="bib:AuthorYear_01"><!-\- update the @source value, fill in variant reading here -\-></rdg>
                   </app>
                </listApp>
-         </div>
+         </div>-->
          <div type="translation" resp="part:argr">
  	<!--translation encoded as per EGD §9.2 -->
          </div>
