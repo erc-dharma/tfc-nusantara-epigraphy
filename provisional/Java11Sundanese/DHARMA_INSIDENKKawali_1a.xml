@@ -110,8 +110,6 @@
                         <rdg source="bib:Holle1867_01 bib:Pleyte1911_01">tapa kava<lb n="2" break="no"/>li</rdg>
                         <rdg source="bib:RichadianaKartakusuma2005_01">tapa<supplied reason="omitted">k</supplied> kavali</rdg>
                     </app>
-                    <!--1–2. tapak· valar N HD TSN ◇ tapa kata F; tapa kavali P; tapa‹k› kavali RK. ― 2. nu syi muliA tapa H ◇ nusya muṅi atapa F; nu saṁ hyaṁ muliA tapa P; nu siya muliA tapa N RK; nu siya muliA tapa‹k·› HD TSN. — 2–3. Iña ◇ N HD TSN RK; bhagya F H P. —  6–7. sakulili‹ṁ› H N ◇ sakulili F; sakuliliṁ HD TSN RK; it may be doubted that any panyecek was written here — 8. pa‹n›dǝri ◇ padǝri F; pa‹n›dǝ:ri H N HD TSN RK; pandǝ:ri P. — 9. hǝbǝl ◇ hǝbǝṅ F; hǝ:bǝ:l H P N HD TSN RK.
--->
                     <app loc="2">
                         <lem source="bib:Holle1867_01">nu syi muliA tapa</lem>
                         <rdg source="bib:Friederich1855_01">nusya muṅi atapa</rdg>
@@ -146,8 +144,8 @@
                 </listApp>
             </div>
 
-            <div type="translation" resp="part:adgu part:argr"><!-- argr2adgu: I have added resp="part:adgu part:argr" to solve the validation problem, please do it also in all other files and remove this comment  -->
-                <p>These are the footprints <supplied reason="explanation"><foreign>tapak valar</foreign></supplied> of the one of praiseworthy asceticism. He, his majesty king Wastu, ruling in the fortress Kawali, is the one who beautifies the palace Sura Wisesa; who digs a moat around the city; who bring all regions under cultivation. If there is a later <supplied reason="explanation">king</supplied>, he must do good works, so that success in the world be long-lasting.</p>
+            <div type="translation" resp="part:adgu part:argr">
+                <p>These are the footprints <supplied reason="explanation"><foreign>tapak valar</foreign></supplied> of the one of praiseworthy asceticism. He, his majesty king Wastu, ruling in the city Kawali, is the one who beautifies the palace Surawisésa; who dug a moat around the city, who planted crops in villages. If there is one in the future, he must be observant of <supplied reason="explanation">pake</supplied> good works, so that success in the world will be long-lasting.</p>
             </div>
 
             <div type="translation" xml:lang="ind" source="bib:TitiSurtiNastiti1996_01">
@@ -160,11 +158,11 @@
                 <p n="7-8"><foreign>sakalaḍesa</foreign> ◇ The word <foreign>sakala</foreign>, of Sanskrit origin, means <q>all</q> here as it does in Sanskrit and in OJ when it is the first member of a compound (<bibl><ptr target="bib:Zoetmulder1982_01"/><citedRange unit="entry">sakala 2</citedRange></bibl>). It is surprising that in the Old Sundanese corpus, this word is only attested with this meaning in this inscription. In manuscripts, we always find <foreign>sagala</foreign> in the meaning <q>all</q>, while sakala usually refers to the <q>manifest world</q>, as the opposite of <foreign>niskala</foreign>, as it does in Old Javanese (<bibl><ptr target="bib:Zoetmulder1982_01"/><citedRange unit="entry">sakala 1</citedRange></bibl>)</p>
          </div>
         <div type="bibliography">
-<p>The inscription was initially read by Friederich (<bibl rend="omitname"><ptr target="bib:Friederich1855_01"/><citedRange>149-182</citedRange></bibl>), then by Holle (<bibl rend="omitname"><ptr target="bib:Holle1867_01"/><citedRange>464-470</citedRange></bibl>, Pleyte (<bibl rend="omitname"><ptr target="bib:Pleyte1911_01"/><citedRange>167-169</citedRange></bibl>), Noorduyn (<bibl rend="omitname"><ptr target="bib:Noorduyn1976_01"/></bibl>), Hasan Djafar (<bibl rend="omitname"><ptr target="bib:HasanDjafar1991_01"/><citedRange>6</citedRange></bibl>) and most recently by Titi Surti Nastiti (<bibl rend="omitname"><ptr target="bib:TitiSurtiNastiti1996_01"/><citedRange>1-13</citedRange></bibl>). Noorduyn's report made a significant contribution with critical new readings, but it is unfortunately not widely available. Titi Surti Nastiti's study includes an Indonesian translation. The text is re-edited and translated into English here by Aditia Gunawan &amp; Arlo Griffiths from various photos. In our apparatus, variant readings are cited from Friederich, Holle, Pleyte, Noorduyn, Titi Surti Nastiti, and Richadiana Kartakusuma's editions.</p>
+<p>The inscription was initially read by Friederich (<bibl rend="omitname"><ptr target="bib:Friederich1855_01"/><citedRange>149-174</citedRange></bibl>), then by Holle (<bibl rend="omitname"><ptr target="bib:Holle1867_01"/><citedRange>464-470</citedRange></bibl>, Pleyte (<bibl rend="omitname"><ptr target="bib:Pleyte1911_01"/><citedRange>167-169</citedRange></bibl>), Noorduyn (<bibl rend="omitname"><ptr target="bib:Noorduyn1976_01"/></bibl>), Hasan Djafar (<bibl rend="omitname"><ptr target="bib:HasanDjafar1991_01"/><citedRange>6</citedRange></bibl>) and most recently by Titi Surti Nastiti (<bibl rend="omitname"><ptr target="bib:TitiSurtiNastiti1996_01"/><citedRange>1-13</citedRange></bibl>). Noorduyn's report made a significant contribution with critical new readings, but it is unfortunately not widely available. Titi Surti Nastiti's study includes an Indonesian translation. The text is re-edited and translated into English here by Aditia Gunawan &amp; Arlo Griffiths from various photos. In our apparatus, variant readings are cited from Friederich, Holle, Pleyte, Noorduyn, Titi Surti Nastiti, and Richadiana Kartakusuma's editions.</p>
             
             <listBibl type="primary">
                 <bibl n="F">
-                    <ptr target="bib:Friederich1855_01"/><citedRange>149-182</citedRange>
+                    <ptr target="bib:Friederich1855_01"/><citedRange>149-174</citedRange>
                 </bibl>
                 <bibl n="H">
                     <ptr target="bib:Holle1867_01"/><citedRange>464-470</citedRange>
