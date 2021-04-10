@@ -202,7 +202,7 @@
             <p>First edited by Poerbatjaraka (<bibl rend="omitname"><ptr target="bib:Poerbatjaraka1920_01"/></bibl>). Re-edited by Goris (<bibl rend="omitname"><ptr target="bib:Goris1928_01"/></bibl>).<!-- argr2ekba: so these first two editions did not come with a Dutch translation? --><!-- ekba2argr: As far as I am aware,the first two editions did not include a Dutch translation--> Reproducing  of Poerbtajaraka's and Goris' editions<!-- argr2ekba: always try to determine, and make explicit in such sentences as this one, whether HBS saw the original or a reproduction if it, or whether he's just reproducing, with more or less precision, a previously published edition --><!--ekba2arlo: I have modified the sentence-->, to which is added a translation into English, by H.B. Sarkar (<bibl rend="omitname"><ptr target="bib:Sarkar1971-1972_01"/></bibl>).</p>
             <listBibl type="primary">
                 <bibl n="P">
-                    <ptr target="bib:Poerbatjaraka1920_01"/>
+                    <ptr target="bib:Poerbatjaraka1920_01"/><citedRange unit="item">II</citedRange>
                 </bibl>
                 <bibl n="RG">
                     <ptr target="bib:Goris1928_01"/>

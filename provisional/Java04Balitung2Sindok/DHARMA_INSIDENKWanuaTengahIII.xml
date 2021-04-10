@@ -450,9 +450,9 @@ n="2v17" break="no"/>naiḥ vḍihan· R̥ṅga <abbr>yu</abbr> <num value="1">1
 	1v5 <lem>lumāḥ Iṁ</lem><rdg source="bib:..">lumāḥ i B, lumah i K.}	 -->
 <app loc="1v3">
 <lem>lambyan</lem>
-<rdg source="bib:...">lamvyan</rdg>
+<rdg source="bib:Boechari2012_33">lamvyan</rdg>
 </app>
-<app loc="N">
+<!--<app loc="N">
 <lem>...</lem>
 <rdg source="bib:...">...</rdg>
 </app>
@@ -479,7 +479,7 @@ n="2v17" break="no"/>naiḥ vḍihan· R̥ṅga <abbr>yu</abbr> <num value="1">1
 <app loc="2v13">
 <lem>...</lem>
 <rdg source="bib:...">...</rdg>
-</app>
+</app>-->
 <app loc="2v1">
 	<lem>lampuran· anak·,</lem>
 	<rdg source="bib:Boechari2012_33">lampuran· <gap reason="undefined" extent="unknown"/> Anak·</rdg>
@@ -517,7 +517,7 @@ n="2v17" break="no"/>naiḥ vḍihan· R̥ṅga <abbr>yu</abbr> <num value="1">1
 </app>
 <app loc="2v11">
 	<lem><abbr>ku</abbr> <num value="3">3</num> muvaḥ</lem>
-	<rdg source="bib:Boechari2012 bib:Kusen1988_01">ku <num value="2">2</num> muvaḥ</rdg>
+	<rdg source="bib:Boechari2012_33 bib:Kusen1988_01">ku <num value="2">2</num> muvaḥ</rdg>
 </app>
 <!-- 	
 	2v1<lem source="bib:Boechari2012_33">ratha</lem><rdg source="bib:..">rawa K.}
