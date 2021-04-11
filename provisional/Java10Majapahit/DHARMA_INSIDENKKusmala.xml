@@ -141,42 +141,42 @@
                 <listApp>
                     <app loc="1">
                      <lem>pañcadaś<unclear>i</unclear></lem>
-                     <rdg source="bib:SteinCallenfels_1918">paṇcadaśi</rdg>
+                     <rdg source="bib:OV1918">paṇcadaśi</rdg>
                     </app>
                     <app loc="1">
                      <lem>śuklapakṣā</lem>
-                     <rdg source="bib:SteinCallenfels_1918">śuklapakṣa</rdg>
+                     <rdg source="bib:OV1918">śuklapakṣa</rdg>
                     </app>
                     <app loc="2">
                      <lem>A</lem>
-                     <rdg source="bib:SteinCallenfels_1918">Ā</rdg>
+                     <rdg source="bib:OV1918">Ā</rdg>
                     </app>
                     <!--@Daniel : This syllable is an abbreviation, should I also copy the <abbr> tag
                         in the apparatus?-->
                     <app loc="2">
                      <lem>pahaṁ</lem>
-                     <rdg source="bib:SteinCallenfels_1918">pahāṁ</rdg>
+                     <rdg source="bib:OV1918">pahāṁ</rdg>
                     </app>
                     <app loc="2">
                      <lem>divaśanika sampu<unclear>ṇna</unclear>nikana<unclear>ṁ</unclear></lem>
-                     <rdg source="bib:SteinCallenfels_1918">divaśa <unclear>ni</unclear> kasampurnnanikanaṅ</rdg>
+                     <rdg source="bib:OV1918">divaśa <unclear>ni</unclear> kasampurnnanikanaṅ</rdg>
                     </app>
                      <app loc="3">
                      <lem>raṅgaḥ <unclear>sa</unclear>p<unclear>u</unclear></lem>
-                     <rdg source="bib:SteinCallenfels_1918">raṅga sapu</rdg>
+                     <rdg source="bib:OV1918">raṅga sapu</rdg>
                     </app>
                       <app loc="3">
                      <lem>makamaṅgalā</lem>
-                     <rdg source="bib:SteinCallenfels_1918">makamaṅgala</rdg>
+                     <rdg source="bib:OV1918">makamaṅgala</rdg>
                     </app>
                      <app loc="3-4">
                      <lem>rakak iṅ amūrvva<lb n="4" break="no"/>bumi</lem>
-                     <rdg source="bib:SteinCallenfels_1918">ṅamurvvabumi</rdg>
+                     <rdg source="bib:OV1918">ṅamurvvabumi</rdg>
                     </app>
                     <!--MS@Daniel: should we keep the <lb> in the lem?, check VSC's reading-->
                     <app loc="4">
                     <lem>jur<unclear>u</unclear></lem>
-                    <rdg source="bib:SteinCallenfels_1918"><choice><unclear>ju</unclear><unclear>mu</unclear></choice></rdg>
+                    <rdg source="bib:OV1918"><choice><unclear>ju</unclear><unclear>mu</unclear></choice></rdg>
                     <!--MS: should add a gap (<gap
                             reason="undefined"/>?) after the ju/mu in VSC's reading-->
                     </app>
@@ -195,10 +195,10 @@
                     </app>
                     <app loc="7">
                         <lem><unclear>I</unclear> vetan</lem>
-                        <rdg source="bib:SteinCallenfels_1918">vetan</rdg>
+                        <rdg source="bib:OV1918">vetan</rdg>
                     </app>
                     <app loc="7">
-                        <lem source="bib:SteinCallenfels_1918"><choice><sic>ma</sic><corr>sa</corr></choice>maṅkanā</lem>
+                        <lem source="bib:OV1918"><choice><sic>ma</sic><corr>sa</corr></choice>maṅkanā</lem>
                     </app>
                     <app loc="7">
                       <lem>pāduka baṭāre mātahun</lem>
