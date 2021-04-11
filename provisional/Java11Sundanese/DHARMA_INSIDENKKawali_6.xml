@@ -83,6 +83,7 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
+         <change who="part:axja" when="2021-04-10" status="draft">Updating language, comments, and translation</change>
          <change who="part:axja" when="2020-11-03" status="draft">Updating toward the encoding template v03</change>
          <change who="part:axja" when="2020-03-27" status="draft">adding the handDesc template</change>
          <change who="part:axja" when="2020-01-09" status="draft">Update the template</change>
@@ -91,9 +92,9 @@
    </teiHeader>
    <text xml:space="preserve">
         <body>
-            <div type="edition" xml:lang="osn">
+            <div type="edition" xml:lang="osn-Latn">
                 <p>
-                    <lb n="1"/>ø Ini pəR̥ti
+                    <lb n="1"/>ø Ini pəR̥ti<supplied reason="omitted">ṁ</supplied>
                     <lb n="2" break="no"/>gal· nu Atis·
                     <lb n="3" break="no"/>ti rasa </p> <p>Aya ma nu
                     <lb n="4"/>ṅəsi ḍayəḥ Ivə
@@ -102,25 +103,41 @@
                 </p>
             </div>
             <div type="apparatus">
-     <app loc="1-2">
-         <lem>pəR̥tigal·</lem>
-         <note>Previous scholars have read <foreign>pəR̥tiṁgal</foreign>, but not <foreign>anusvāra</foreign>/<foreign>cecak</foreign> is found.</note>
+     <app loc="1">
+        <!--1. pəR̥ti‹ṁ›gal· TSN ◇ pəR̥tiṁgal· RK. — 5. bvatvaḥ ◇ botoḥ TSN RK. — 6. kvakvaro ◇ kokoro TSN RK. -->
+         <lem source="bib:TitiSurtiNastiti1996_01">pəR̥ti<supplied reason="omitted">ṁ</supplied><lb n="2" break="no"/>gal·</lem>
+        <rdg source="bib:RichadianaKartakusuma2005_01">pəR̥tiṁgal·</rdg>
      </app>
+               <app loc="5">
+                  <lem>bvatvaḥ</lem>
+                  <rdg source="bib:TitiSurtiNastiti1996_01 bib:RichadianaKartakusuma2005_01">botoḥ</rdg>
+               </app>
+               <app loc="6">
+                  <lem>kvakvaro</lem>
+                  <rdg source="bib:TitiSurtiNastiti1996_01 bib:RichadianaKartakusuma2005_01">kokoro</rdg>
+               </app>
+               
             </div>
            
-            <div type="translation">
-                <p>This is the abode of those who are of stable emotions (<foreign>atisti rasa</foreign>). If one resides here, he should not gamble: it will lead to suffering.</p>
+            <div type="translation" resp="part:adgu part:argr">
+                <p>This is the relic of those who are of stable emotions <supplied reason="explanation"><foreign>atisti rasa</foreign></supplied>. If one resides here, one should not gamble: it will lead to suffering.</p>
             </div>
             <div type="commentary">
-                <p>Titi Surti Nastiti (1996: 26 with n. 12 p. 33) takes <foreign>aya ma</foreign> as standing at the end of a sentence, which to our knowledge does not agree with the usage we see in Old Sundanese texts, nor with modern Sundanese language. The resulting translation in any case makes no sense.</p>
+               <p n="1"> <foreign>pəR̥ti‹ṁ›gal</foreign> ◇ The prefix <foreign>pǝrǝ-</foreign>, <foreign>prǝ</foreign> or <foreign>pra</foreign> is not commonly used in OS. So far we have encountered <foreign>prǝbakti</foreign> <q>devotion, worship</q> and <foreign>prǝtapa</foreign> <q>ascetic</q>. All instances are nouns, whether designating agents (<foreign>prǝtapa</foreign>) or actions (<foreign>prǝbakti</foreign>). It must be noted that the base <foreign>tiṅgal</foreign> in OS (as in MdS and MdJ) never seems to have the meaning <q>to reside, to live (in a place)</q> familiar from Malay, but rather means <q>to be left behind</q>. We have the impression that <foreign>prǝtiṅgal</foreign> here has a meaning similar to MdS <foreign>titinggal</foreign> <q>relic, inheritance</q> and to that expressed by <foreign>tapak-valar</foreign> in <ref target="DHARMA_INSIDENKKawali_1a.xml">Kawa1a</ref>. Compare how in Malay the expression <foreign>jejak</foreign> has the same meaning as <foreign>peninggalan</foreign>.</p>
+               <p n="2-3"> <foreign>Atis·ti</foreign> ◇ Cf. <title>Sasana Mahaguru</title> 32: <foreign>nu ka‹ṅ›ken joṅ ta ma, na gǝiṅ atisti pasanta</foreign> <q>what is comparable to a seaboat is the stable and peaceful mind</q>. It is not clear whom <foreign>nu Atis·ti rasa</foreign> refers to, whether it is the same as <foreign>nu sia mulia tapa</foreign> in <ref target="DHARMA_INSIDENKKawali_1a.xml">Kawa1a</ref>, i.e., King Wastu, another former king (or kings), or the hermit (or hermits). In our opinion, the first and second are the most plausible interpretations. However, the third interpretation need not be incompatible with the other two as kings themselves may be ascetics. Cf. <title>Carita Parahyaṅan</title> 11a, 39a, 24b, passages which narrate how several kings became ascetics (<foreign>ṅarajarǝsi</foreign>).</p>
+               <p n="4"> <foreign>ivǝ</foreign> ◇ A variant of <foreign>iyǝ</foreign> <q>this, here</q>, MdS <foreign>ieu</foreign>. Cf. <title>Carita Parahyaṅan</title> 12r <foreign>ivǝ keh pamalaan ai‹ṅ›, tǝhǝr bava ku kita kǝdǝ-kǝdǝ</foreign>! <q>this is my punishment, so you take <supplied reason="subaudible">him</supplied> with force</q>.</p>
             </div>
-            <div type="bibliography">
-	<!--bibliography encoded as per section §9.4 -->
-	<!-- NB: you are encouraged to experiment with encoding bibliography to the extent you have the bibliographic data available, but it is not mandatory at this stage, because our bibliographic data are normally assembled along with other metadata in spreadsheets and will be imported from there into our xml files by a semi-automated process at a later stage. -->
-           <p><!-- formulate epigraphic lemma here, using the items of primary bibliography --></p>
-           <listBibl type="secondary">
-              <bibl/><!-- one <bibl/> per item of secondary bibliography -->
-           </listBibl>
+            <div type="bibliography">	
+           <p>This inscription was accidentally discovered on 3 October 1995 by Sopar, the caretaker of the site  (<bibl><ptr target="bib:TitiSurtiNastiti1996_01"/><citedRange unit="page">19</citedRange></bibl>). A decipherment of the text was published for the first time by Titi Surti Nastiti (<bibl rend="omitname"><ptr target="bib:TitiSurtiNastiti1996_01"/></bibl>) and reproduced in Titi Surti Nastiti &amp; Hasan Djafar (<bibl rend="omitname"><ptr target="bib:TitiSurtiNastiti+HasanDjafar_2016"/></bibl>), while Richadiana Kartakusuma (<bibl rend="omitname"><ptr target="bib:RichadianaKartakusuma2005_01"/></bibl>) offered a slightly different reading.
+</p>
+            <listBibl type="primary">
+                <bibl n="TSN">
+                    <ptr target="bib:TitiSurtiNastiti1996_01"/><citedRange>26</citedRange>
+                </bibl>
+                <bibl n="RK">
+                    <ptr target="bib:RichadianaKartakusuma2005_01"/><citedRange>50</citedRange>
+                </bibl>
+            </listBibl>
         </div>
         </body>
     </text>
