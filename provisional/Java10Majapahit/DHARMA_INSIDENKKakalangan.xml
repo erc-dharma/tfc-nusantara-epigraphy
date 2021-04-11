@@ -134,10 +134,10 @@
 <p>Identity of the Parameśvarī.</p>
          </div>
         <div type="bibliography">
-              <p>First published by van Naerssen (<bibl rend="omitname"><ptr target="vanNaerssen1941_01-1"/><citedRange unit="page">71-73</citedRange></bibl>. Re-edited by Arlo Griffiths and Marine Schoettel from photographs furnished by the Weltmuseum.</p>
-              <listBibl type="primary">
+              <p>First published by van Naerssen (<bibl rend="omitname"><ptr target="bib:vanNaerssen1941_01-1"/><citedRange unit="page">71-73</citedRange></bibl>. Re-edited by Arlo Griffiths and Marine Schoettel from photographs furnished by the Weltmuseum.</p>
+              <!--<listBibl type="primary">
                 <bibl/>
-              </listBibl>
+              </listBibl>-->
                     
                     <listBibl type="secondary">
                  <bibl><ptr target="bib:NBG55_1917"/><date>1917</date><citedRange unit="volume">55</citedRange><citedRange unit="page">105, 191</citedRange></bibl>

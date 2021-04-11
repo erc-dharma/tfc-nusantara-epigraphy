@@ -417,10 +417,10 @@
                    </app>
                </listApp>         
          </div>
-         <div type="translation">
- 	<!--translation encoded as per EG §9.2 -->
+        <!-- <div type="translation">
+ 	<!-\-translation encoded as per EG §9.2 -\->
              <p/>
-         </div>
+         </div>-->
          <div type="commentary">
             <!--commentary encoded as per section §9.3 -->
              <p/>
