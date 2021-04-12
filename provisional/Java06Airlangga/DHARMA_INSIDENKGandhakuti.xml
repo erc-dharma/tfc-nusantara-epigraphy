@@ -84,6 +84,7 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
+        <change who="part:ekba" when="2020-04-13" status="draft">updated apparatus</change>
          <change who="part:axja" when="2020-11-03" status="draft">Updating toward the encoding template v03</change>
          <change who="part:ekba" when="2020-07-06" status="draft">Revised the initial encoding</change>
          <change who="part:ekba" when="2020-04-10" status="draft">updated the line numbering</change>
@@ -172,6 +173,7 @@
                       <note><foreign>tumurun· tan pahāmbāl· turuny anugrahanira</foreign>: it seems that either the word <foreign>tumurun</foreign> or the word <foreign>turuny</foreign> is redundant. But it must be noted how often <foreign>turuny anugraha</foreign> appears in this corpus without a clear difference of meaning from <foreign>anugraha</foreign> itself. This means the redundancy is probably only apparent.</note>
                        </app>
                   <app loc="1r4">
+                    <lem source="bib:Boechari1985-1986_01 bib:NinnySusantiTejowasono2003_01">matəkəta</lem>
                       <note><foreign>matəkəta</foreign>: emend <foreign>mitəkəta</foreign>? <foreign>mitəkət ta</foreign>? <foreign>mitəkəti</foreign>? <foreign>mitəkətana</foreign>?</note>
                        </app>
                     <app loc="1r4">
@@ -192,6 +194,7 @@
                     <rdg source="bib:Boechari1985-1986_01">mpu</rdg>
                        </app>
                     <app loc="1r5">
+                      <lem source="bib:Boechari1985-1986_01 bib:NinnySusantiTejowasono2003_01">turuny anugrahanira</lem>
                       <note><foreign>turuny anugrahanira</foreign>: are these words redundant?</note>
                        </app>
                     <app loc="1v1">
@@ -280,9 +283,6 @@
                       <lem source="bib:NinnySusantiTejowasono2003_01">kulaputra</lem>
                       <rdg source="bib:Boechari1985-1986_01">kulaputra,</rdg>
                       </app>
-                    <app loc="2r4">
-                      <note>Boechari (1985-1986) adds another syllable <foreign>ma</foreign> at the end of line 5, but this must be a misprint</note>
-                      </app>
                   <app loc="2r4-2r5">
                     <lem>sikaran <supplied reason="omitted">t</supplied>a</lem>
                     <rdg source="bib:Boechari1985-1986_01 bib:NinnySusantiTejowasono2003_01">sikarana</rdg>
@@ -292,8 +292,8 @@
                     <lem>dharmma</lem>
                     <rdg source="bib:Boechari1985-1986_01 bib:NinnySusantiTejowasono2003_01">dharmma ma</rdg>
                     <rdg source="bib:NinnySusantiTejowasono2003_01"/><!--ekba: NST's PDF is unclear-->
-                      <note/>
-                      </app>
+                     <note>Boechari  adds another syllable <foreign>ma</foreign> at the end of line 5, but this must be a misprint.</note>                      
+                  </app>
                     <app loc="2v1">
                       <lem>doṣānya</lem>
                       <rdg source="bib:Boechari1985-1986_01 bib:NinnySusantiTejowasono2003_01">doṣanya</rdg>
