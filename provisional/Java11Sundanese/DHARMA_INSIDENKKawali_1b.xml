@@ -165,6 +165,10 @@
              <bibl><ptr target="bib:Pleyte1913_01"/><citedRange>295</citedRange></bibl>
              <bibl><ptr target="bib:ROD"/><date>1915</date><citedRange unit="page">95-96</citedRange><citedRange unit="item">291</citedRange></bibl>
             <bibl><ptr target="bib:Casparis1975_01"/><citedRange unit="page">54-56</citedRange></bibl>
+                              <bibl><ptr target="bib:DirmanSurachmat1986_01"/></bibl>
+               <bibl><ptr target="bib:NandangRusnandar1999_01"/></bibl>
+               <bibl><ptr target="bib:MachiSuhadi1999_01"/></bibl>
+               <bibl><ptr target="bib:DjadjaSukardjaS2002_01"/></bibl>
     <!-- one <bibl/> per item of secondary bibliography -->
            </listBibl>
         </div>

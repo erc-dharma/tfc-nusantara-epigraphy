@@ -138,6 +138,12 @@
                     <ptr target="bib:RichadianaKartakusuma2005_01"/><citedRange>50</citedRange>
                 </bibl>
             </listBibl>
+               <listBibl>
+                <bibl><ptr target="bib:DirmanSurachmat1986_01"/></bibl>
+               <bibl><ptr target="bib:NandangRusnandar1999_01"/></bibl>
+               <bibl><ptr target="bib:MachiSuhadi1999_01"/></bibl>
+               <bibl><ptr target="bib:DjadjaSukardjaS2002_01"/></bibl>
+               </listBibl>
         </div>
         </body>
     </text>
