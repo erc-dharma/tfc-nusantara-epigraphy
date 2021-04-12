@@ -189,6 +189,10 @@
                     <ptr target="bib:HasanDjafar1991_01"/><citedRange>10-11</citedRange>
                 </bibl>
             </listBibl>
+           <listBibl type="secondary">
+              <bibl><ptr target="bib:NBG05_1867"/><date>1867</date><citedRange unit="volume">5</citedRange><citedRange unit="page">38</citedRange></bibl>
+            <bibl><ptr target="bib:NBG08_1870"/><date>1870</date><citedRange unit="volume">8</citedRange><citedRange unit="page">74, 80-81</citedRange></bibl>
+           </listBibl>
         </div>
         </body>
     </text>
