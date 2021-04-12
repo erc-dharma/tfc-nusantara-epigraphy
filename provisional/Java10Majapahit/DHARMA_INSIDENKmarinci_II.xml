@@ -79,6 +79,7 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
+        <change who="part:masc" when="2020-04-11" status="draft">changes made in apparatus and bibliography, resolving issue</change>
          <change who="part:masc" when="2020-12-20" status="draft">initial encoding of the inscription</change>
       </revisionDesc>
    </teiHeader>
@@ -106,6 +107,14 @@
                <lem>paramb<unclear>ə</unclear><lb break="no"/>kəl·</lem>
                <rdg source="bib:MachiSuhadi+RichadianaKartakusuma1996_01">parambikəl</rdg>
              </app>
+             <app loc="1r4">
+               <lem>pavsi</lem>
+               <rdg source="bib:MachiSuhadi+RichadianaKartakusuma1996_01">pavrəpi</rdg>
+             </app>
+             <app loc="1v2">
+               <lem>sa<lb/>masanak</lem>
+               <rdg source="bib:MachiSuhadi+RichadianaKartakusuma1996_01">samasavak</rdg>
+             </app>
            </listApp>
          </div>
          <div type="translation" resp="part:argr part:masc">
@@ -116,14 +125,14 @@
            <p>.</p>
          </div>
         <div type="bibliography">
-              <p>First edited by Issatriadi (<bibl rend="omitname"><ptr target="bib:Issatriadi1975_01"/></bibl>), then by Machi Suhadi (<bibl rend="omitname"><ptr target="bib:MachiSuhadi2003_01"/></bibl>). Re-edited here by Arlo Griffiths and Marine Schoettel from photos of the plate taken at Museum Mpu Tantular by Nigel Bullough and Arlo Griffiths.</p>
+              <p>First edited by Issatriadi (<bibl rend="omitname"><ptr target="bib:Issatriadi1975_01"/></bibl>), then by Machi Suhadi (<bibl rend="omitname"><ptr target="bib:MachiSuhadi+RichadianaKartakusuma1996_01"/></bibl>). Re-edited here by Arlo Griffiths and Marine Schoettel from photos of the plate taken at Museum Mpu Tantular by Nigel Bullough and Arlo Griffiths.</p>
               <listBibl type="primary">
                 <bibl n="I">
                     <ptr target="bib:Issatriadi1975_01"/>
                 	<citedRange unit="page">5-14</citedRange>
                 </bibl>
                 <bibl n="MS">
-                    <ptr target="bib:MachiSuhadi2003_01"/>
+                    <ptr target="bib:MachiSuhadi+RichadianaKartakusuma1996_01"/>
                 	<citedRange unit="page">19</citedRange>
                 </bibl>
                     </listBibl>

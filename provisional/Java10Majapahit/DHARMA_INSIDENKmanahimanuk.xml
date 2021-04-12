@@ -82,6 +82,7 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
+          <change who="part:masc" when="2021-04-11" status="draft">modified disambiguation characters, resolving issue</change>
          <change who="part:masc" when="2020-06-14" status="draft">updates following comments by argr in google doc</change>
          <change who="part:masc" when="2020-06-08" status="draft">initial encoding of the inscription</change>
       </revisionDesc>
