@@ -8,7 +8,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Mariñci II</title>
+            <title>Marinci II</title>
             <respStmt>
                <resp>EpiDoc encoding</resp>
                <resp>intellectual authorship of edition</resp>
@@ -79,64 +79,61 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
-        <change who="part:masc" when="2020-04-11" status="draft">changes made in apparatus and bibliography, resolving issue</change>
-         <change who="part:masc" when="2020-12-20" status="draft">initial encoding of the inscription</change>
+        <change who="part:masc" when="2020-04-11" status="draft">changes made in apparatus and bibliography, resolving issue #?</change>
+         <change who="part:masc" when="2020-12-20" status="draft"> started initial encoding of the inscription</change>
       </revisionDesc>
    </teiHeader>
    <text xml:space="preserve">
       <body>
-         <div type="edition" xml:lang="kaw-Latn">
+  <div type="edition" xml:lang="kaw-Latn">
 <pb n="1r"/>
 <p>
-<lb n="1r1"/>// vruhanekaṅ amupu tuturun·, savarnnaniṅ amupu tuturun iṅ aṅaR̥mba, paṅalasan·, paramb<unclear>ə</unclear><lb n="1r2" break="no"/>kəl·, mantrī, huṇḍahagi, yen andikaniṅoṁ, denekaṅ aṅaR̥mba hiṁ devaR̥ṣi,</p>
-<p>
-  si samasanak iṁ mariñchi
-<lb n="1r3"/>I rehane luputa riṁ tuturun·, sakalviraniṁ tuturun· titisara saki daL̥m·, luput iṁ padadaḥ, pa<lb n="1r4" break="no"/>tatar·, pavivaha, pasahaṁ, pabata, palantaran·, pakamas·, papiṅgan·, pavsi, papañjalin·, para<lb n="1r5" break="no"/>vuhan·, susukan·, luputa riṁ bletepe sakiṅ uṇḍahagi, luputa riṁ jajalukan·, tu<choice><orig>nḍ</orig><reg>ṇḍ</reg></choice>an·, la<pb n="1v" break="no"/><lb n="1v1" break="no"/>van dene kakayune rehaniṁ tan kanagaraha, tan ana haməraṅa, hanuta polahe sajīva-jīva, Ayo
-<lb n="1v2" break="no"/>hiṅ uvahan·,
-</p>
-<p>
-  kaṁ rājamūdra lamun uvus den·-vaca kagugona denekaṅ aṅaR̥mba riṁ devaR̥ṣi, si sa<lb n="1v3" break="no"/>masanak iṁ mariñch<unclear>ī</unclear>,
-</p>
-<p>
-   tith<unclear>i</unclear>, <abbr>ka</abbr>, <num value="4">4</num>, śiraḥ, <num value="4">4</num> // 0 //
-</p>
-         </div>
-         <div type="apparatus">
-           <listApp>
-             <app loc="1r1">
-               <lem>paramb<unclear>ə</unclear><lb break="no"/>kəl·</lem>
-               <rdg source="bib:MachiSuhadi+RichadianaKartakusuma1996_01">parambikəl</rdg>
-             </app>
-             <app loc="1r4">
-               <lem>pavsi</lem>
-               <rdg source="bib:MachiSuhadi+RichadianaKartakusuma1996_01">pavrəpi</rdg>
-             </app>
-             <app loc="1v2">
-               <lem>sa<lb/>masanak</lem>
-               <rdg source="bib:MachiSuhadi+RichadianaKartakusuma1996_01">samasavak</rdg>
-             </app>
-           </listApp>
-         </div>
-         <div type="translation" resp="part:argr part:masc">
+<lb n="1r1"/><g type="ddandaOrnate"/> vruhanekaṅ amupu tuturun·, savarnnaniṅ amupu tuturun iṅ aṅaR̥mba, paṅalasan·, paramb<unclear>ə</unclear><lb
+n="1r2" break="no"/>kəl·, mantrī, huṇḍahagi, yen andikaniṅoṁ, denekaṅ aṅaR̥mba hiṁ devaR̥ṣi,</p>
+<p>si samasanak iṁ mariñchi
+  <lb n="1r3"/>I rehane luputa riṁ tuturun·, sakalviraniṁ tuturun· titisara saki daL̥m·, luput iṁ padadaḥ, pa<lb
+  n="1r4" break="no"/>tatar·, pavivaha, pasahaṁ, pabata, palantaran·, pakamas·, papiṅgan·, pavsi, papañjalin·, para<lb n="1r5" break="no"/>vuhan·, susukan·, luputa riṁ bletepe sakiṅ uṇḍahagi, luputa riṁ jajalukan·, tu<choice><orig>nḍ</orig><reg>ṇḍ</reg></choice>an·, la<pb n="1v" break="no"/><lb n="1v1" break="no"/>van dene kakayune rehaniṁ tan kanagaraha, tan ana haməraṅa, hanuta polahe sajīva-jīva, Ayo
+<lb n="1v2" break="no"/>hiṅ uvahan·,</p>
+<p>kaṁ rājamūdra lamun uvus den·-vaca kagugona denekaṅ aṅaR̥mba riṁ devaR̥ṣi, si sa<lb
+  n="1v3" break="no"/>masanak iṁ mariñch<unclear>ī</unclear>,</p>
+<p>tith<unclear>i</unclear>, <abbr>ka</abbr>, <num value="4">4</num>, śiraḥ, <num value="4">4</num> <g type="ddandaOrnate"/> <g type="circleLarge"/> <g type="ddandaOrnate"/></p>
+  </div>
+  <div type="apparatus">
+     <listApp>
+       <app loc="1r1">
+         <lem>paramb<unclear>ə</unclear><lb break="no"/>kəl·</lem>
+         <rdg source="bib:MachiSuhadi+RichadianaKartakusuma1996_01">parambikəl</rdg>
+       </app>
+       <app loc="1r4">
+         <lem>pavsi</lem>
+         <rdg source="bib:MachiSuhadi+RichadianaKartakusuma1996_01">pavrəpi</rdg>
+       </app>
+       <app loc="1v2">
+         <lem>sa<lb/>masanak</lem>
+         <rdg source="bib:MachiSuhadi+RichadianaKartakusuma1996_01">samasavak</rdg>
+       </app>
+     </listApp>
+   </div>
+   <div type="translation" resp="part:argr part:masc">
    <!--translation encoded as per EGD §9.2 -->
- <p>It  shall  be  known  by  those  who  collect <foreign>tuturun</foreign> taxes, all of the different types of tax-collectors, the <foreign>paṅalasan</foreign>, </p>
-        </div>
-         <div type="commentary">
-           <p>.</p>
-         </div>
-        <div type="bibliography">
-              <p>First edited by Issatriadi (<bibl rend="omitname"><ptr target="bib:Issatriadi1975_01"/></bibl>), then by Machi Suhadi (<bibl rend="omitname"><ptr target="bib:MachiSuhadi+RichadianaKartakusuma1996_01"/></bibl>). Re-edited here by Arlo Griffiths and Marine Schoettel from photos of the plate taken at Museum Mpu Tantular by Nigel Bullough and Arlo Griffiths.</p>
-              <listBibl type="primary">
-                <bibl n="I">
-                    <ptr target="bib:Issatriadi1975_01"/>
-                	<citedRange unit="page">5-14</citedRange>
-                </bibl>
-                <bibl n="MS">
-                    <ptr target="bib:MachiSuhadi+RichadianaKartakusuma1996_01"/>
-                	<citedRange unit="page">19</citedRange>
-                </bibl>
-                    </listBibl>
-        </div>
+ <p>It  shall  be  known  by  those  who  collect <foreign>tuturun</foreign> taxes, all of the different types of tax-collectors, the <foreign>paṅalasan</foreign>, the <foreign>parambəkəl</foreign>, the  </p>
+  </div>
+   <div type="commentary">
+     <p>.</p>
+   </div>
+  <div type="bibliography">
+<p>First edited by Issatriadi (<bibl rend="omitname"><ptr target="bib:Issatriadi1975_01"/></bibl>), then by Machi Suhadi (<bibl rend="omitname"><ptr target="bib:MachiSuhadi+RichadianaKartakusuma1996_01"/></bibl>). Re-edited here by Arlo Griffiths and Marine Schoettel from photos of the plate taken at Museum Mpu Tantular by Nigel Bullough and Arlo Griffiths.</p><!-- photos RIMG2271, RIMG2272 -->
+  <listBibl type="primary">
+    <bibl n="I">
+        <ptr target="bib:Issatriadi1975_01"/>
+    	<citedRange unit="page">5-14</citedRange>
+    </bibl>
+    <bibl n="MS+RK">
+        <ptr target="bib:MachiSuhadi+RichadianaKartakusuma1996_01"/>
+    	<citedRange unit="page">8-9</citedRange><citedRange unit="item">I</citedRange>
+    </bibl>
+  </listBibl>
+  </div>
       </body>
   </text>
 </TEI>
