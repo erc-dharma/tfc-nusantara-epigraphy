@@ -48,7 +48,8 @@
                </msContents>
                <physDesc>
                   <handDesc>
-                     <p>Neat script with mildly elongated virāma (spanning two akṣaras).</p>
+                     <p>Neat script with mildly elongated virāma (spanning two akṣaras), the baseline and topline perfectly parallel.</p>
+                     <p>A small bird in flight is drawn in the left margin of the recto. The bird species could be either a parrot or a phoenix, compare with similar emblems on Tirah and even more strikingly Pamintihan. </p>
                   </handDesc>
                </physDesc>
             </msDesc>
@@ -79,7 +80,7 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
-        <change who="part:masc" when="2020-04-11" status="draft">changes made in apparatus and bibliography, resolving issue #?</change>
+        <change who="part:masc" when="2020-04-11" status="draft">changes made in apparatus and bibliography, resolving issue #49</change>
          <change who="part:masc" when="2020-12-20" status="draft"> started initial encoding of the inscription</change>
       </revisionDesc>
    </teiHeader>
@@ -89,12 +90,12 @@
 <pb n="1r"/>
 <p>
 <lb n="1r1"/><g type="ddandaOrnate"/> vruhanekaṅ amupu tuturun·, savarnnaniṅ amupu tuturun iṅ aṅaR̥mba, paṅalasan·, paramb<unclear>ə</unclear><lb
-n="1r2" break="no"/>kəl·, mantrī, huṇḍahagi, yen andikaniṅoṁ, denekaṅ aṅaR̥mba hiṁ devaR̥ṣi,</p>
+n="1r2" break="no"/>kəl·, mantrī, huṇḍahagi, yen andikaniṅoṁ, denekaṅ aṅaR̥mba hiṁ deva-R̥ṣi,</p>
 <p>si samasanak iṁ mariñchi
   <lb n="1r3"/>I rehane luputa riṁ tuturun·, sakalviraniṁ tuturun· titisara saki daL̥m·, luput iṁ padadaḥ, pa<lb
   n="1r4" break="no"/>tatar·, pavivaha, pasahaṁ, pabata, palantaran·, pakamas·, papiṅgan·, pavsi, papañjalin·, para<lb n="1r5" break="no"/>vuhan·, susukan·, luputa riṁ bletepe sakiṅ uṇḍahagi, luputa riṁ jajalukan·, tu<choice><orig>nḍ</orig><reg>ṇḍ</reg></choice>an·, la<pb n="1v" break="no"/><lb n="1v1" break="no"/>van dene kakayune rehaniṁ tan kanagaraha, tan ana haməraṅa, hanuta polahe sajīva-jīva, Ayo
 <lb n="1v2" break="no"/>hiṅ uvahan·,</p>
-<p>kaṁ rājamūdra lamun uvus den·-vaca kagugona denekaṅ aṅaR̥mba riṁ devaR̥ṣi, si sa<lb
+<p>kaṁ rājamūdra lamun uvus den·-vaca kagugona denekaṅ aṅaR̥mba riṁ deva-R̥ṣi, si sa<lb
   n="1v3" break="no"/>masanak iṁ mariñch<unclear>ī</unclear>,</p>
 <p>tith<unclear>i</unclear>, <abbr>ka</abbr>, <num value="4">4</num>, śiraḥ, <num value="4">4</num> <g type="ddandaOrnate"/> <g type="circleLarge"/> <g type="ddandaOrnate"/></p>
   </div>
@@ -102,36 +103,56 @@ n="1r2" break="no"/>kəl·, mantrī, huṇḍahagi, yen andikaniṅoṁ, deneka�
      <listApp>
        <app loc="1r1">
          <lem>paramb<unclear>ə</unclear><lb break="no"/>kəl·</lem>
-         <rdg source="bib:MachiSuhadi+RichadianaKartakusuma1996_01">parambikəl</rdg>
+         <rdg source="bib:Issatriadi1975_01 bib:MachiSuhadi+RichadianaKartakusuma1996_01">parambikəl</rdg>
+         <note>Compare with the <ref target="Selamandi_I.xml">Selamandi I</ref> inscription, line 1v4: <foreign>hantukira parambəkəl·</foreign>.</note>
+       </app>
+       <app loc="1r2">
+         <lem>mariñchi</lem>
+         <rdg source="bib:Issatriadi1975_01 bib:MachiSuhadi+RichadianaKartakusuma1996_01">mariñci</rdg>
        </app>
        <app loc="1r4">
          <lem>pavsi</lem>
-         <rdg source="bib:MachiSuhadi+RichadianaKartakusuma1996_01">pavrəpi</rdg>
+         <rdg source="bib:Issatriadi1975_01 bib:MachiSuhadi+RichadianaKartakusuma1996_01">pavrəpi</rdg>
        </app>
        <app loc="1v2">
-         <lem>sa<lb/>masanak</lem>
+         <lem source="bib:Issatriadi1975_01">sa<lb/>masanak</lem>
          <rdg source="bib:MachiSuhadi+RichadianaKartakusuma1996_01">samasavak</rdg>
+       </app>
+       <app loc="1v3">
+         <lem>mariñch<unclear>ī</unclear></lem>
+         <rdg source="bib:Issatriadi1975_01 bib:MachiSuhadi+RichadianaKartakusuma1996_01">mariñci</rdg>
        </app>
      </listApp>
    </div>
    <div type="translation" resp="part:argr part:masc">
    <!--translation encoded as per EGD §9.2 -->
- <p>It  shall  be  known  by  those  who  collect <foreign>tuturun</foreign> taxes, all of the different types of tax-collectors, the <foreign>paṅalasan</foreign>, the <foreign>parambəkəl</foreign>, the  </p>
+ <p>Let it be  known  by  those  who  collect <foreign>tuturun</foreign> ('tithing', following Issatriadi?)
+  contributions, all of the different types of people who collect the <foreign>tuturun</foreign> from the aṅarəmba religious people, <supplied reason="subaudible">namely</supplied> the <foreign>paṅalasan</foreign>, the <foreign>parambəkəl</foreign>, the <foreign>paṅalasan</foreign>, the <foreign>parambəkəl</foreign>, the mantri, the uṇḍahagi: Our order with regard to the ṅarəmba among the deva-r̥ṣi, all of the relatives (or brotherhood?) at Marinchi, <supplied reason="subaudible">is</supplied>.</p>
+<p>
+  It is to the effect <supplied reason="explanation">i rehanya</supplied> that they should be exempt from <foreign>tuturun</foreign> contributions, any kind of tuturun that is a titisara from the royal compound. They are exempt from <foreign>padadah</foreign>, <foreign>patatar</foreign>, pavivaha (contribution for mariages), <foreign>pasahang</foreign>, <foreign>pabata</foreign>, <foreign>palantaran</foreign>, pakamas ("pajak pembuatan perhiasan dari emas"), papiṅgan ("pajak pembuatan piring pinggan"), pavsi, papañjalin (pajak penjalin).</p>
   </div>
    <div type="commentary">
      <p>.</p>
    </div>
   <div type="bibliography">
-<p>First edited by Issatriadi (<bibl rend="omitname"><ptr target="bib:Issatriadi1975_01"/></bibl>), then by Machi Suhadi (<bibl rend="omitname"><ptr target="bib:MachiSuhadi+RichadianaKartakusuma1996_01"/></bibl>). Re-edited here by Arlo Griffiths and Marine Schoettel from photos of the plate taken at Museum Mpu Tantular by Nigel Bullough and Arlo Griffiths.</p><!-- photos RIMG2271, RIMG2272 -->
+<p>First edited by Issatriadi with a translation in Indonesian and an interesting commentary (<bibl rend="omitname"><ptr target="bib:Issatriadi1975_01"/></bibl>), re-edited by Machi Suhadi and Richadiana Kartakusuma (<bibl rend="omitname"><ptr target="bib:MachiSuhadi+RichadianaKartakusuma1996_01"/></bibl>), then republished by Machi Suhadi adding multiple mistakes to the edition (<bibl rend="omitname"><ptr target="bib:MachiSuhadi2003_01"/></bibl>).  Re-edited here by Arlo Griffiths and Marine Schoettel from photos of the plate taken at Museum Mpu Tantular by Nigel Bullough and Arlo Griffiths.</p><!-- photos RIMG2271, RIMG2272-->
   <listBibl type="primary">
     <bibl n="I">
         <ptr target="bib:Issatriadi1975_01"/>
-    	<citedRange unit="page">5-14</citedRange>
+    	<citedRange unit="page">6-14</citedRange>
     </bibl>
     <bibl n="MS+RK">
         <ptr target="bib:MachiSuhadi+RichadianaKartakusuma1996_01"/>
     	<citedRange unit="page">8-9</citedRange><citedRange unit="item">I</citedRange>
     </bibl>
+  </listBibl>
+  <listBibl type="secondary">
+     <bibl n="MS">
+     <ptr target="bib:MachiSuhadi2003_01"/>
+     	<citedRange unit="page">19</citedRange>
+      <citedRange unit="page">II</citedRange>
+      <citedRange unit="item">I</citedRange>
+     </bibl><!-- one <bibl/> per item of secondary bibliography . Every entry mentionned in apparatus  should hava a @n to declare its sigla -->
   </listBibl>
   </div>
       </body>
