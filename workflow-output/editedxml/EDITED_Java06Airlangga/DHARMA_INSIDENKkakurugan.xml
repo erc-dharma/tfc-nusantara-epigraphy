@@ -26,7 +26,7 @@
          <publicationStmt>
             <authority>DHARMA</authority>
             <pubPlace>Malang</pubPlace>
-            <idno type="filename">DHARMA_INSIDENKKakurugan</idno>
+            <idno type="filename">DHARMA_INSIDENKkakurugan</idno>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/">
                   <p>This work is licenced under the Creative Commons Attribution 4.0 Unported Licence. To view a copy of the licence, visit https://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.</p>
@@ -79,7 +79,7 @@
                        matchPattern="([a-z]+)"
                        replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
                <p>Internal URIs using the part prefix to point to person elements in the
-                            <ref>DHARMA_IdListMembers_V01.xml</ref> file.</p>
+                            <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
             </prefixDef>
          </listPrefixDef>
       </encodingDesc>
@@ -358,7 +358,7 @@
                       </app>
                     <app loc="5v4">
                       <lem>cārik·</lem>
-                        <rdg source="bib:Boechari1985-1986_01 NinnySusantiTejowasono2003_01">carik·</rdg>
+                        <rdg source="bib:Boechari1985-1986_01 bib:NinnySusantiTejowasono2003_01">carik·</rdg>
                       </app>
                     <app loc="5v4">
                       <lem source="bib:Boechari1985-1986_01">pāduka</lem>
@@ -378,7 +378,7 @@
                       </app>
                     <app loc="6r3">
                       <lem>Avavara</lem>
-                        <rdg source="bib:Boechari1985-1986_01 NinnySusantiTejowasono2003_01">Avaravara</rdg>
+                        <rdg source="bib:Boechari1985-1986_01 bib:NinnySusantiTejowasono2003_01">Avaravara</rdg>
                       </app>
                     <app loc="6r3-6r4">
                       <lem source="bib:NinnySusantiTejowasono2003_01">muvaḥ</lem>
@@ -398,22 +398,22 @@
                       </app>
                   <app loc="6r5">
                       <lem>sumla<choice><sic>p</sic><corr>t</corr></choice>·</lem>
-                        <rdg source="bib:Boechari1985-1986_01 NinnySusantiTejowasono2003_01">sumlap·</rdg>
+                        <rdg source="bib:Boechari1985-1986_01 bib:NinnySusantiTejowasono2003_01">sumlap·</rdg>
                     <note>Cf. 2v2.</note>
                       </app>
                     <app loc="6v1">
                       <lem>jə: ṁ</lem>
-                        <rdg source="bib:Boechari1985-1986_01 NinnySusantiTejowasono2003_01">jəṁ</rdg>
+                        <rdg source="bib:Boechari1985-1986_01 bib:NinnySusantiTejowasono2003_01">jəṁ</rdg>
                       </app>
                     <app loc="6v1">
-                      <lem source="bib:Boechari1985-1986_01 ">mā</lem>
+                      <lem source="bib:Boechari1985-1986_01">mā</lem>
                         <rdg source="bib:NinnySusantiTejowasono2003_01">ma</rdg>
                       </app>                  
                 </listApp>
             </div>
-            <div type="translation">
-                <!--translation encoded as per EG §9.2 -->
-            </div>
+           <!-- <div type="translation">
+                <!-\-translation encoded as per EG §9.2 -\->
+            </div>-->
             <div type="commentary">
                 <!--commentary encoded as per section §9.3 -->
             </div>
