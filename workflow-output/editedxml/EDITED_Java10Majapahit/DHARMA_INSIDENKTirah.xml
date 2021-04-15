@@ -81,7 +81,7 @@
                        matchPattern="([a-z]+)"
                        replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
                <p>Internal URIs using the part prefix to point to person elements in the
-                            <ref>DHARMA_IdListMembers_V01.xml</ref> file.</p>
+                            <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
             </prefixDef>
          </listPrefixDef>
       </encodingDesc>
@@ -123,15 +123,15 @@
                 <listApp>
                     <app loc="1r3">
                      <lem>babakane</lem>
-                     <rdg source="bib:SteinCallenfels_1918">babatane</rdg>
+                     <rdg source="bib:OV1918">babatane</rdg>
                     </app>
                     <app loc="1r3">
                      <lem>babakan</lem>
-                     <rdg source="bib:SteinCallenfels_1918">babatan</rdg>
+                     <rdg source="bib:OV1918">babatan</rdg>
                     </app>
                     <app loc="1v1">
                       <lem>varggaṁ taman· sabhūmī</lem>
-                      <rdg source="bib:SteinCallenfels_1918">vargga taman sabhumi</rdg>
+                      <rdg source="bib:OV1918">vargga taman sabhumi</rdg>
                     </app>
                 </listApp>
             </div>

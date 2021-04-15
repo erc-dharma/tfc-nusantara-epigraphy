@@ -82,7 +82,7 @@
                        matchPattern="([a-z]+)"
                        replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
                <p>Internal URIs using the part prefix to point to person elements in the
-                            <ref>DHARMA_IdListMembers_V01.xml</ref> file.</p>
+                            <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
             </prefixDef>
          </listPrefixDef>
       </encodingDesc>
@@ -161,7 +161,7 @@ mañavriṁ maṅlākha, maṅapus· maṅubar· manahab· manuk·, maṁdyūn·
 </app>
                </listApp>         
          </div>
-         <div type="translation" source="bib:bib:Sarkar1971-1972_01"><!-- please encode this literally as Sarkar's translation, so use @source rather than @resp; follow EGD; I will make my own translation in due course -->
+         <div type="translation" source="bib:Sarkar1971-1972_01"><!-- please encode this literally as Sarkar's translation, so use @source rather than @resp; follow EGD; I will make my own translation in due course -->
  	<!--translation encoded as per EG §9.2 -->
                                     <!--taken from that published by H.B. Sarkar.-->
 <p n="1r1">Hail! The śaka year expired, 849, the month of Vaiśākha, first day of the bright half of the month,...</p>

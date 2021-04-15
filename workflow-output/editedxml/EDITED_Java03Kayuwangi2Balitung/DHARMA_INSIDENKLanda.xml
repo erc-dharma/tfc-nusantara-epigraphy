@@ -70,7 +70,7 @@
             <prefixDef ident="part"
                        matchPattern="([a-z]+)"
                        replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
-               <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_IdListMembers_V01.xml</ref> file.</p>
+               <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
             </prefixDef>
          </listPrefixDef>
       </encodingDesc>
@@ -122,7 +122,7 @@
 	</app>
 	<app loc="1r6">
                      <lem>humara<supplied reason="omitted">ppa</supplied></lem>
-                     <rdg source="bib:Brandes1913_01 bibBoechari1985-1986_01">humara</rdg>
+                     <rdg source="bib:Brandes1913_01 bib:Boechari1985-1986_01">humara</rdg>
                   </app>
 	<app loc="1r6">
                      <lem source="bib:Boechari1985-1986_01">patula</lem>

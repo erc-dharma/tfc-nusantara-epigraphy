@@ -79,7 +79,7 @@
                        matchPattern="([a-z]+)"
                        replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
                <p>Internal URIs using the part prefix to point to person elements in the
-                            <ref>DHARMA_IdListMembers_V01.xml</ref> file.</p>
+                            <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
             </prefixDef>
          </listPrefixDef>
       </encodingDesc>
@@ -230,63 +230,63 @@
                 <listApp>
                     <app loc="1r4">
                      <lem>-nr̥pāntaropāyana-</lem>
-                     <rdg source="bib:SteinCallenfels_1918">-nr̥pāntaropayana-</rdg>
+                     <rdg source="bib:OV1918">-nr̥pāntaropayana-</rdg>
                     </app>
                     <app loc="1v2">
                        <lem>-sannibhārthi-</lem>
-                       <rdg source="bib:SteinCallenfels_1918">-sannibhārtha-</rdg>
+                       <rdg source="bib:OV1918">-sannibhārtha-</rdg>
                     </app>
                     <app loc="3r1">
                      <lem>-vicchedaka</lem>
-                     <rdg source="bib:SteinCallenfels_1918">-viccedaka</rdg>
+                     <rdg source="bib:OV1918">-viccedaka</rdg>
                     </app>
                     <app loc="10r1">
                      <lem>amalakv aphalăśramanyānambut</lem>
-                     <rdg source="bib:BrandesKrom1913_01">amalaku phalaśramanyānambut</rdg>
+                     <rdg source="bib:Brandes1913_01">amalaku phalaśramanyānambut</rdg>
                     </app>
                     <app loc="10r3">
                      <lem>tekaṅ</lem>
-                     <rdg source="bib:BrandesKrom1913_01">ṭekaṅ</rdg>
+                     <rdg source="bib:Brandes1913_01">ṭekaṅ</rdg>
                     </app>
                     <app loc="10r4">
                      <lem>mahārghyavastrapramukanamaskăra</lem>
-                     <rdg source="bib:BrandesKrom1913_01">mahārghyavastrapramukhanamaskara</rdg>
+                     <rdg source="bib:Brandes1913_01">mahārghyavastrapramukhanamaskara</rdg>
                     </app>
                     <app loc="10r5">
                      <lem>anāmbaṅi</lem>
-                     <rdg source="bib:BrandesKrom1913_01">anambaṅi</rdg>
+                     <rdg source="bib:Brandes1913_01">anambaṅi</rdg>
                     </app>
                     <app loc="10r6">
                      <lem>-lăñ̃caṇa</lem>
-                     <rdg source="bib:BrandesKrom1913_01">-lañ̃cana</rdg>
+                     <rdg source="bib:Brandes1913_01">-lañ̃cana</rdg>
                     </app>
                     <app loc="10r6">
                      <lem>sīnūṅan</lem>
-                     <rdg source="bib:BrandesKrom1913_01">sinuṅan</rdg>
+                     <rdg source="bib:Brandes1913_01">sinuṅan</rdg>
                     </app>
                      <app loc="10r6">
                      <lem>dəmuṁ</lem>
-                     <rdg source="bib:BrandesKrom1913_01">ḍəmuṁ</rdg>
+                     <rdg source="bib:Brandes1913_01">ḍəmuṁ</rdg>
                     </app>
                       <app loc="10v1-2">
                      <lem>dharmmādhyakṣa ri kaśaiva</lem> <!--Check plate-->
-                     <rdg source="bib:BrandesKrom1913_01">dharmmadhyakṣa ri̇̇ṅ kaśaiva<unclear>n</unclear></rdg>
+                     <rdg source="bib:Brandes1913_01">dharmmadhyakṣa ri̇̇ṅ kaśaiva<unclear>n</unclear></rdg>
                     </app>
                      <app loc="10v2">
                      <lem>dharmmādhyakṣa riṁ kasogatan·</lem>
-                     <rdg source="bib:BrandesKrom1913_01">saṅ dharmmadhyakṣa riṁ kasogatan·</rdg>
+                     <rdg source="bib:Brandes1913_01">saṅ dharmmadhyakṣa riṁ kasogatan·</rdg>
                     </app>
                     <app loc="10v2">
                     <lem>tapva</lem>
-                    <rdg source="bib:BrandesKrom1913_01">kapva</rdg>
+                    <rdg source="bib:Brandes1913_01">kapva</rdg>
                     </app>
                     <app loc="10v3">
                     <lem>makaphalāmratisubaddhāknānugraha</lem>
-                    <rdg source="bib:BrandesKrom1913_01">makaphala, mratisubaddhāknānugraha</rdg>
+                    <rdg source="bib:Brandes1913_01">makaphala, mratisubaddhāknānugraha</rdg>
                     </app>
                 </listApp>
             </div>
-            <div type="translation" xml:lang="en" source="bib:Pigeaud1960-1963_01">
+            <div type="translation" source="bib:Pigeaud1960-1963_01">
                 <p>Hail! Prosperity! The elapsed śaka year 1280, the month of Śrāvaṇa, the first lunar day of the waxing fortnight, Haryaṅ, Umanis, Saturday (śanaiścara), week of Madaṅkuṅan, the planet (grahacāra) being in the north-east, nakṣatra of Puṣya, the deity being Jīva, the south-east, [i.e.] Agni’s, section of the sky (maṇḍala), the conjunction (yoga) being Bajra, the hour Rodra, the parveśa śaśi, the half lunar day (karaṇa) Nāga, the zodiac Cancer (karkaṭa):</p>
                 <p>that was the time of the order of the footsoles of the Illustrious Lord of the
                     state of Majapahit (Tiktavilva) having the royal consecration name Rājasanagara, renowned in the battlefield, he who is served by manifold choicest women similar to heavenly women whom were gifts of other kings defeated by his ministers, having as birth name dyaḥ Hayam Vuruk, under the auspices of the order of the footsoles of the Illustrious one named Tribhuvanottuṅgarājadevī Jayaviṣṇuvarddhanī by royal consecration, an abode of treasures of good qualities in the performance of dance, etc. , of spotless mind in likeness to holy water, established yonder in the city of Kahuripan, dyaḥ Gītārjā, evidently the chief Queen who shares one body with the Lord king (‘protector of the earth’) Kr̥tavarddhana, whose uninterrupted liberality was that of a father for his offspring, desiring the total contentment of his subjects, he was like the showering of rain causing great prosperity for [all] things that are beginning with grain, dwelling in the court known as Tumapĕl, dyaḥ Cakreśvara, working for the increase of the lineage of Hari, he causes the continuous succession and offspring of the footsoles of the Lord Viṣṇuvarddhana to flourish, [this Viṣṇuvarddhana] who attained release at Mandāragiri, and also all the activities and good practices which are the mark of the Lord Viṣṇuvarddhana, they indeed were continously followed by him as he was a ‘protector of the world’.</p>

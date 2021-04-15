@@ -78,7 +78,7 @@
                        matchPattern="([a-z]+)"
                        replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
                <p>Internal URIs using the part prefix to point to person elements in the
-                            <ref>DHARMA_IdListMembers_V01.xml</ref> file.</p>
+                            <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
             </prefixDef>
          </listPrefixDef>
       </encodingDesc>
@@ -417,10 +417,10 @@
                    </app>
                </listApp>         
          </div>
-         <div type="translation">
- 	<!--translation encoded as per EG §9.2 -->
+        <!-- <div type="translation">
+ 	<!-\-translation encoded as per EG §9.2 -\->
              <p/>
-         </div>
+         </div>-->
          <div type="commentary">
             <!--commentary encoded as per section §9.3 -->
              <p/>
