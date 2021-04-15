@@ -425,38 +425,17 @@ n="2v17" break="no"/>naiḥ vḍihan· R̥ṅga <abbr>yu</abbr> <num value="1">1
 <lem>...</lem>
 <rdg source="bib:...">...</rdg>
 </app>
-<app loc="N">
-<lem>...</lem>
-<rdg source="bib:...">...</rdg>
-</app>
-<app loc="N">
-<lem>...</lem>
-<rdg source="bib:...">...</rdg>
-</app>
-<app loc="N">
-<lem>...</lem>
-<rdg source="bib:...">...</rdg>
-</app>
-<app loc="N">
-<lem>...</lem>
-<rdg source="bib:...">...</rdg>
-</app>
-<app loc="N">
-<lem>...</lem>
-<rdg source="bib:...">...</rdg>
-</app>
-<app loc="2v13">
-<lem>...</lem>
-<rdg source="bib:...">...</rdg>
-</app>-->
-<!--	2r21<lem>maṅaruḥ</lem><rdg source="bib:Boechari2012_33 bib:Kusen1988_01">ma - -  uḥ</rdg>
-	2r21<lem source="bib:Boechari2012_33">piṅhai</lem><rdg source="bib:Kusen1988_01">pinghe</rdg>
 -->
-<!-- @@@ Arlo to resume encoding app from here upward  -->
+
+<app loc="2r21">	
+	<lem>maṅaruḥ</lem>
+	<rdg source="bib:Boechari2012_33 bib:Kusen1988_01">ma<gap reason="illegible" quantity="1" unit="character"/><seg type="aksara"><seg type="component" subtype="body"><gap reason="illegible" quantity="1" unit="component"/></seg>u</seg>ḥ</rdg>
+</app>
+<!--	2r21<lem source="bib:Boechari2012_33">piṅhai</lem><rdg source="bib:Kusen1988_01">pinghe</rdg> -->
 <app loc="2r21">	
 	<lem>bikrāmī, muvaḥ</lem>
-	<rdg source="bib:Boechari2012_33">bikra<unclear>m</unclear>i <seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg>u</seg><seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg>a</seg></rdg>
-	<rdg source="bib:Kusen1988_01">bikra<seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg>i</seg><seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg>u</seg><seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg>a</seg></rdg>
+	<rdg source="bib:Boechari2012_33">bikra<unclear>m</unclear>i <seg type="aksara"><seg type="component" subtype="body"><gap reason="illegible" quantity="1" unit="component"/></seg>u</seg><seg type="aksara"><seg type="component" subtype="body"><gap reason="illegible" quantity="1" unit="component"/></seg>a</seg></rdg>
+	<rdg source="bib:Kusen1988_01">bikra<seg type="aksara"><seg type="component" subtype="body"><gap reason="illegible" quantity="1" unit="component"/></seg>i</seg><seg type="aksara"><seg type="component" subtype="body"><gap reason="illegible" quantity="1" unit="component"/></seg>u</seg><seg type="aksara"><seg type="component" subtype="body"><gap reason="illegible" quantity="1" unit="component"/></seg>a</seg></rdg>
 </app>
 <!--	2r22<lem source="bib:Boechari2012_33">lābha, muvaḥ</lem><rdg source="bib:Kusen1988_01">lāgah muwah</rdg>
 	2r22<lem>guṇuṁ</lem><rdg source="bib:Boechari2012_33 bib:Kusen1988_01">gunuṁ</rdg>
@@ -589,7 +568,7 @@ only more significant variant readings recorded from here to line 11
 	<lem>Anuṁ mavay·</lem>
 	<rdg source="bib:Boechari2012_33">Anuṁ mavuy·</rdg>
 	<rdg source="bib:Kusen1988_01"><unclear>pada</unclear>mapuy·</rdg>
-	<note>It seems that <foreign>mavay</foreign> is the term intended in the context (<bibl><ptr target="bib:Zoetmulder1982_01"/><citedRange unit="entry"><foreign>mavvay</foreign></citedRange></bibl>), so it seems better not to read the <foreign>suku</foreign> before <foreign>y·</foreign> that was read by both Boechari and Kusen. The photographs don't show a clear <foreign>suku</foreign> there.</note>
+	<note>It seems that <foreign>mavay</foreign> is the term intended in the context (<bibl><ptr target="bib:Zoetmulder1982_01"/><citedRange unit="entry"><foreign>mavvay</foreign></citedRange></bibl>), and so it is better not to read the <foreign>suku</foreign> before <foreign>y·</foreign> that was read by both Boechari and Kusen. The photographs don't show a clear <foreign>suku</foreign> there.</note>
 </app>
 <!--	2v9 <lem source="bib:Boechari2012_33">sutə</lem><rdg source="bib:Kusen1988_01">suti</rdg>
 	2v9 <lem source="bib:Boechari2012_33">kinabaiḥhanya</lem><rdg source="bib:Kusen1988_01">kinabaiḥhan·</rdg>
