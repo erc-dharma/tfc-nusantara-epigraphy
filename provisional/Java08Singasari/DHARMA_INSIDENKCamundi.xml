@@ -84,6 +84,7 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
+                                   <change who="part:ekba" when="2021-04-20" status="draft">revised initial encoding of based on argr suggestions</change>
       	<change who="part:argr" when="2021-04-15" status="draft">revised initial encoding of the inscription</change>
       	<change who="part:ekba" when="2021-03-29" status="draft">created initial encoding of the inscription</change>
       </revisionDesc>
@@ -95,10 +96,10 @@
 <lb n="01"/><unclear>0</unclear> <supplied reason="lost">nama</supplied>ś cāmuṇḍyai
 </ab>
 <p>
-<lb n="1"/><supplied reason="lost"><g type="ddandaOrnate"/> 0 <g type="ddandaOrnate"/> s</supplied>v<supplied reason="lost">as</supplied>t<supplied reason="lost">i śa</supplied>ka-varṣātīta, <choice><sic><num value="1">1</num>---</sic><corr><num value="1214">1214</num></corr></choice><!-- argr2ekba: this is not the correct way to encode such a situation; you should encode <num value="1214">1<supplied reason="lost">214</supplied></num>   -->
+<lb n="1"/><supplied reason="lost"><g type="ddandaOrnate"/> 0 <g type="ddandaOrnate"/> s</supplied>v<supplied reason="lost">as</supplied>t<supplied reason="lost">i śa</supplied>ka-varṣātīta, <num value="1214">1<supplied reason="lost">214</supplied></num>
 <lb n="2"/>caitra-māsa, tithi, <supplied reason="lost">ca</supplied>turdaśī kr̥ṣṇa-<supplied reason="lost">pak</supplied>ṣa<supplied reason="lost">, <abbr>tu</abbr>, <abbr>va</abbr>,</supplied>
 <lb n="3"/><abbr><supplied reason="lost">v</supplied>r̥</abbr>, vāra, juluṁ pujut·, paścimastha grahacāra, Aśviṇī-<supplied reason="lost">nakṣatra, Aśvi-deva</supplied><lb n="4" break="no"/>tā, māhendra-maṇḍala, prīti-yoga, vairājya-muhūrtta, śākunī-karaṇa <supplied reason="lost">m</supplied>e<lb 
-   n="5" break="no"/>śa-rāśī, //<!-- argr2ekba: encode with proper <g type="...">.</g> --> tatkāla kapratiṣṭān· pāduka bhaṭārī makatəvək· huvus·
+   n="5" break="no"/>śa-rāśī, <g type="ddandaOrnate">.</g> tatkāla kapratiṣṭān· pāduka bhaṭārī makatəvək· huvus·
 <lb n="6"/><supplied reason="lost">ś</supplied>r<supplied reason="lost">ī ma</supplied>hārāja digvijaya riṁ sakala-loka ma<unclear>n</unclear>u<choice><sic>y</sic><corr>l</corr></choice>uyi sakala-dvīpāntara
 <lb n="7"/><g type="ddandaOrnate"/> śu<supplied reason="lost">bha</supplied>m bhavatu <g type="ddandaOrnate"/>
 </p>
@@ -107,18 +108,18 @@
            <!--apparatus encoded as per EG §9.1, basic elements for apparatus below-->
                <listApp>
                   <app loc="1">
-                      <lem source="bib:Damais1955_01"><choice><sic><num value="1">1</num>---</sic><corr><num value="1214">1214</num></corr></choice></lem>
-<!-- argr2ekba: it is not allowed to have only <lem> in <app> without any <rdg> and/or <note>; also, replace the contents of <lem> as instructed above -->
+                      <lem source="bib:Damais1955_01"><num value="1214">1<supplied reason="lost">214</supplied></num></lem>
+                         <note>Only the first number that can be  observed clearly from stone in the present day.  Combining all the dating elements available, Damais was able to  recover the date of the inscription.</note>
                   </app>
                   <app loc="6">
                       <lem>ma<unclear>n</unclear>u<choice><sic>y</sic><corr>l</corr></choice>uyi</lem>
                      <rdg source="bib:Damais1955_01">pavuyayi</rdg>
-                     <rdg source="bib:Boechari1959_01">mavuyuṁ</rdg><!-- argr2ekba: here, you should have filled in mavuyuṁ yi  -->
+                     <rdg source="bib:Boechari1959_01">mavuyuṁ yi</rdg>
                      <note>Cf. <foreign>an siniwi niṅ sayavadvīpa manuluyi nūṣāntara madhura</foreign> (<bibl><ptr target="bib:Blom1939_01"/></bibl>, <bibl><ptr target="bib:Naerssen1941_02"/></bibl>); <foreign>pinakaikacchātra niṅ bhuvana sayavadvīpamaṇḍala, anuluyani nūṣāntara</foreign> (<bibl><ptr target="bib:Boechari1985-1986_01"></ptr><citedRange unit="page">187</citedRange></bibl>). See also INI p. 40 and 41.</note><!--I don't remember what does INI here stand for-->
                   </app>
                   <app loc="6">
                      <lem source="bib:Boechari1959_01">sakaladvīpāntara</lem>
-                     <rdg source="bib:Damais1955_01">sa.....</rdg><!-- argr2ekba: here you should have encoded sa<gap reason="lost" extent="unknown"/> -->
+                     <rdg source="bib:Damais1955_01">sa<gap reason="lost" extent="unknown"/></rdg>
                   </app>
                </listApp>         
          </div>
@@ -131,21 +132,33 @@
      <p/>
          </div>
         <div type="bibliography">
-            <p>First edited by Krom (<bibl rend="omitname"><ptr target="bib:Damais1955_01"/></bibl>)<!-- argr2ekba: the mention of Krom and Damais here is confusing — it seems you have carelessly copy/pasted from your Padang Roco file --> and then by Damais (<bibl rend="omitname"><ptr target="bib:Damais1962_01"/></bibl>. Re-edited here by Arlo Griffiths.</p>
+            <p>First edited by Goris (<bibl rend="omitname"><ptr target="bib:OV1928"/></bibl>), then by Damais (<bibl rend="omitname"><ptr target="bib:Damais1955_01"/></bibl>) and re-edited here by Arlo Griffiths.</p>
            <listBibl type="primary">
-<!-- argr2ekba: please move here the entry for Goris' reading in OV1928 that you have given in sec. bibl. -->
+                                    <bibl n="G">
+                                       <ptr target="bib:OV1928"/>
+                                       <citedRange unit="page">32</citedRange>
+                                       <citedRange unit="plate">14</citedRange>
+                                       </bibl>
 	<bibl n="D">
-	   <ptr target="bib:Krom1917_01"/><!-- argr2ekba: this reference presumably to be replaced by bib:Damais1955_01 and <citedRange>151-153</citedRange> -->
-	</bibl>
+	   <ptr target="bib:Damais1955_01"/>
+	   <citedRange>151-153</citedRange>
+	   </bibl>
                                     <bibl n="B">
-	   <ptr target="bib:Boechari1962_01"/><!-- argr2ekba: evidently you didn't check this at all, because it was a mistake in my gdoc. The intended article is Boechari1959_01, reprinted as Boechari2012_22 — please create <bibl> entries for both; you should also specify the <citedRange> as indicated in the gsheet-->
-	</bibl>
+	   <ptr target="bib:Boechari1959_01"/>
+                                       <citedRange>407</citedRange>
+                                       </bibl>
+                                    <bibl n="B">
+                                       <ptr target="bib:Boechari2012_21"/>
+                                       <citedRange>337</citedRange>
+                                    </bibl>
               </listBibl>
              <listBibl type="secondary">
-                <bibl><ptr target="bib:OV1928"/><citedRange unit="page">32</citedRange></bibl><!--I have not yet included pl.14-->
-<!-- argr2ekba: this should be moved to primary bibl.; why have you not encoded the plate 14? the way to do it is <citedRange unit="plate">14</citedRange>. -->
                 <bibl><ptr target="bib:Blom1939_01"/><citedRange unit="page">141-142</citedRange></bibl>
+                <bibl><ptr target="bib:Damais1952_01"/><citedRange unit="page">72-73</citedRange></bibl>
+                <bibl><ptr target="bib:Bosch1956_01"/><citedRange unit="page">19</citedRange><citedRange unit="note">24</citedRange></bibl>
                 <bibl><ptr target="bib:Damais1962_03"/></bibl>
+                <bibl ><ptr target="bib:NurhadiMagetsari+al1979_01"/><citedRange unit="page">40-41</citedRange></bibl>
+                <bibl><ptr target="bib:Eade+Gislen2000_01"/><citedRange unit="page">101-102</citedRange></bibl>
            </listBibl>
         </div>
       </body>
