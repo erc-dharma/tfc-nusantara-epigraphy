@@ -5,100 +5,113 @@
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Sangsang</title>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Sangsang</title>
             <respStmt>
-               <resp>EpiDoc Encoding</resp>
-               <resp>intellectual authorship of edition</resp>
-               <persName ref="part:argr">
-                  <forename>Arlo</forename>
-                  <surname>Griffiths</surname>
-               </persName>
-            </respStmt>
-         </titleStmt>
-         <publicationStmt>
-            <authority>DHARMA</authority>
-            <pubPlace><!-- Fill in here the place or places where the encoding has been done --></pubPlace>
-            <idno type="filename">DHARMA_INSIDENKSangsang</idno>
-            <!-- Replace by filename, e.g. Pallava00001 -->
-            <availability>
-               <licence target="https://creativecommons.org/licenses/by/4.0/">
-                  <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
+            		<resp>EpiDoc Encoding</resp>
+            		<resp>intellectual authorship of edition</resp>
+            		<persName ref="part:argr">
+            			<forename>Arlo</forename>
+            			<surname>Griffiths</surname>
+            		</persName>
+            	</respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>DHARMA</authority>
+                <pubPlace>Lyon</pubPlace>
+                <idno type="filename">DHARMA_INSIDENKSangsang</idno>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
                             Licence. To view a copy of the licence, visit
                             https://creativecommons.org/licenses/by/4.0/ or send a letter to
                             Creative Commons, 444 Castro Street, Suite 900, Mountain View,
                             California, 94041, USA.</p>
-                  <p>Copyright (c) 2019-2025 by John
-                            Doe.</p>
-                  <!-- replace year and name, use format "Forename1 Surname1 & Forename2 Surname2" or "Forename1 Surname1, Forename2 Surname2 & Forename3 Surname3"  if necessary — the copyright is that of the encoder(s) -->
-               </licence>
-            </availability>
-            <date from="2019" to="2025">2019-2025</date>
-         </publicationStmt>
-         <sourceDesc><!-- only the handDesc can be filled in at this stage -->
-            <msDesc><!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
-               <msIdentifier>
-                  <repository>DHARMAbase</repository>
-                  <idno/>
-                  <!-- don't modify this -->
-               </msIdentifier>
-               <msContents><!-- describe the intellectual content of an inscription -->
-                  <summary><!-- //// NOT MANDATORY  ////--></summary>
-                  <!-- offers the possibility to give a summary of the inscription's content -->
-               </msContents>
-               <physDesc>
-                  <handDesc>
-                     <p><!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EGD 11.2. --></p>
-                     <!-- If you need to identify individual hands (EGD §7.5/) in addition to one or more paragraphs of general palaeographic description, wrap <summary> around the <p> or <p>s above, and, outside <summary>, create <handNote> elements for each hand as follows:
-						<summary><p><p/></summary>
-						<handNote xml:id="Pallava00001_hand1"></handNote>
-						<handNote xml:id="Pallava00001_hand2"></handNote>
-					 -->
-                  </handDesc>
-               </physDesc>
-            </msDesc>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <projectDesc>
-            <p>This project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
-         </projectDesc>
-         <schemaRef type="guide"
-                    key="EGDv01"
-                    url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
-         <!-- UPDATE the link once the release is made official -->
-         <listPrefixDef>
-            <prefixDef ident="bib"
-                       matchPattern="([a-zA-Z0-9\-\_]+)"
-                       replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
-               <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
-            </prefixDef>
-            <prefixDef ident="part"
-                       matchPattern="([a-z]+)"
-                       replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
-               <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
-            </prefixDef>
-         </listPrefixDef>
-      </encodingDesc>
-      <revisionDesc>
-         <change who="part:argr" when="2021-02-04" status="draft">started initial encoding of the inscription</change>
-      </revisionDesc>
-   </teiHeader>
-   <text xml:space="preserve">
+                    	<p>Copyright (c) 2019-2025 by Arlo Griffiths.</p>
+                    </licence>
+                </availability>
+                <date from="2019" to="2025">2019-2025</date>
+            </publicationStmt>
+            <sourceDesc><!-- only the handDesc can be filled in at this stage -->
+                <msDesc><!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/><!-- don't modify this -->
+                    </msIdentifier>
+                    <msContents><!-- describe the intellectual content of an inscription -->
+                        <summary><!-- //// NOT MANDATORY  ////--></summary> <!-- offers the possibility to give a summary of the inscription's content -->
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p><!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EGD 11.2. --></p>
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
+            </projectDesc>
+            <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/><!-- UPDATE the link once the release is made official -->
+            <listPrefixDef>
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                    <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
+                </prefixDef>
+                <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+                    <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <revisionDesc>
+        	<change who="part:argr" when="2021-04-21" status="draft">started initial encoding</change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="kaw-Latn">
+<p><pb n="1r"/><lb n="1r1"/><g type="ddandaCross"/> svasti śaka-varṣātīta <num value="829">829</num> baiśākha-māsa tithi caturthi kr̥ṣṇa-pakṣa mavulu, vagai soma-vāra Uttarāṣāḍha-nakṣatra, <unclear>ś</unclear>ukla<unclear>yo</unclear><lb 
+n="1r2" break="no"/>ga tatkāla Anugraha śrī mahārāja rakai vatu kura dyaḥ ba<space type="descender"/>litu<unclear>ṁ</unclear> śrī dharmmodaya mahāsambhu tumurun· I rakryān· mapatiḥ I <unclear>h</unclear><supplied reason="lost">i</supplied><lb 
+n="1r3" break="no"/>no pu dakṣottama bāhubajra pratipakṣākṣaya kumon· samgat· lamva pu layaṁ Anak va<space type="descender"/>nuA I patapā<space type="descender"/>n· tutuganniṁ taṇḍa
+<lb n="1r4"/>su<unclear>musu</unclear>ka Ikanaṁ vanuA I saṁsaṁ vatak· lamva, gavai <abbr>ku</abbr> <num value="2">2</num> dravya-hajinya mas· <abbr>su</abbr> <num value="6">6</num> mas· kavahutān· <abbr>su</abbr> <num value="2">2</num> <unclear>A</unclear>vur· hinavu-ha<lb 
+n="1r5" break="no"/>vu samvandhānya kinon· sumusuka Ikanaṁ vanuA vuAra kuṭī I hujuṅ ga<unclear>l</unclear>uḥ vatak· la<unclear>m</unclear>va <unclear>ya ta</unclear> pinuliḥ samgat· lamva pinahayunira jina<lb 
+n="1r6" break="no"/>ryyakan·nira vihāra ya samvandhānyar· Inanūgrahān· kinon· sumusuka Ikanāṁ vanuA I saṁsaṁ sĭmā pun·punnananikanaṁ vihāra gavai<lb 
+n="1r7" break="no"/>nira, kunaṁ parṇnaḥhanyan· sīmā tan· katamāna de saṁ mānak· paṅkur· ta<unclear>vā</unclear>n· tirip·, <unclear>mu</unclear>Aṁ soAraniṁ maṅilala drabya haji, kriṁ pa<unclear>ḍa</unclear><lb 
+n="1r8" break="no"/>m· pamaṇikan·, maṇiga lva malañjaṁ maṁhuri makalaṅkaṁ tapa haji Air haji tuha gośali tuha dagaṁ tuhān <supplied reason="omitted">n</supplied>amvi t<unclear>u</unclear>hān· hañjama<lb 
+n="1r9" break="no"/><unclear>n·</unclear> Uṇḍahagi manimpiki paṇḍai vṣi, valya<unclear>n·</unclear> paranakan· vidu maṅiduṁ t<unclear>u</unclear>ha paḍahi varahan· sambal· sumvul· vatak· I dalam· si<lb 
+n="1r10" break="no"/>ṅgaḥ pamr̥ṣi hulun· haji Ityaivamādi tan· tumamā Iri<unclear>kanaṁ</unclear> vanuA, parṇnaḥni <unclear>pa</unclear>rmmasanya tumamā I bhaṭāra I vihāra I h<unclear>u</unclear>juṅ galuḥ
+<lb n="1r11"/>deyanya mavaiḥ mannaṅahana Iṁ parmasan·, Iṁ kataṇḍan·, samaṅkana suka-du<unclear>ḥ</unclear>khanya, ma<unclear>ya</unclear>ṁ <unclear>ta</unclear>n· <unclear>pa</unclear>vuAḥ ḍaṇḍa ku<supplied reason="omitted">ḍa</supplied>ṇḍa <unclear>bha</unclear>ṇḍihālādi tuma<lb 
+n="1r12"/>mā I <unclear>bha</unclear>ṭāra Ataḥ Ikana, Ājñă haji, kinonnakan· I<unclear>ka</unclear>naṁ masamvyavahā<unclear>ra</unclear> hana<unclear>ṁ</unclear> ṅk<unclear>ā</unclear>na hīṁhīṁṅana kvaiḥhanya paṇḍai mas·, paṇḍai v<unclear>s</unclear>i, <unclear>ta</unclear><lb 
+n="1r13" break="no"/>mvaga <unclear>ga</unclear>ṅ<unclear>ś</unclear>a, tluṁ Ububan·, Iṁ sasīma, macadar· <num value="4">4</num> maṅaraḥ lumpaṁ <num value="3">3</num> maṅulaṁ tluṁ tuhān· Iṁ sasīma, kboAnya <num value="20">20</num> Iṁ sat<unclear>u</unclear>hān·, sa<unclear>pi</unclear>
+<lb n="1r14"/><supplied reason="lost"><num value="40">40</num> vḍu</supplied>s· <space type="descender"/> 80 Aṇḍaḥ vantayan· 1 parahu <unclear>1</unclear> bhaṭāra <num value="1">1</num> mas<unclear>u</unclear>ṁhara <num value="3">3</num> tan· patuṇḍāna, maguluṅan· tlu<unclear>ṁ</unclear> pasaṁ samaṅkana tan·
+<pb n="1v"/><lb n="1v1"/><unclear>k</unclear>nā<unclear>na</unclear> <supplied reason="lost">I pa</supplied>rmasan· yāpuAn· <unclear>pi</unclear>nikul· <unclear>da</unclear>gaṅanya kadyaṅgāniṁ mabasana masayaṁ makacapuri kapas· vuṅkuḍu tā<supplied reason="lost">mbra</supplied> gaṅsa sobuban· I satuhā<lb 
+n="1v2" break="no"/>n·, garam· paḍak· lṅa gula, saprakāraniṁ duAl· pinikul· kalima bantal· I satuhān· pikul·-pikula<space type="descender"/>nanya, tluṁ tuhān· Iṁ sasī<lb 
+n="1v3" break="no"/>ma Ikanaṁ samaṅkana tan· knāna de saṁ maṅilala drabya haji, yāpuAn· lviḥ kvaiḥnya saṁkā Irikānaṁ paṁhīṁhīṁ Iriya knāna Ikana sakalviḥ<lb 
+n="1v4" break="no"/>nya de saṁ maṅilala sodhāra haji, kunaṁ Ikanaṁ mañamvul·, mañavriṁ maṅap<unclear>u</unclear>s·, maṁlākha, Uṇḍahagi mamu<unclear>b</unclear>u<unclear>t</unclear>· maṅubar·, manahab· manuk·
+<lb n="1v5"/><unclear>ma</unclear>misaṇḍuṁ maṅanamm-anam·, mamukat· vuṅkuḍu manaru<space type="descender"/>b· maṁdyūn· maṅgula maṁhapū, Ityaivamādi kapuA ya tribhāgān· sadūman·, Umarā
+<lb n="1v6"/><unclear>I</unclear> bhaṭāra sadūman· Umarā I saṁ maṅilala drabya haji sadūman· Umarā I sa<unclear>ṁ</unclear> makmitan· sīma, maṅkana Ājñă haji paṁhiṁ-<unclear>hiṁ</unclear> I rihāṁ mapamvyavahā<lb 
+n="1v7" break="no"/>ra hana ṅkāna maṅasiAkan· samgat· lamva pasamvaḥ I śrī mahārāja vḍihan· piliḥ ma<space type="descender"/>gǝ:ṁ <abbr>yu</abbr> <num value="1">1</num> vḍihan· jagā <abbr>yu</abbr> <num value="1">1</num> mas· <abbr><unclear>s</unclear>u</abbr> <num value="1">1</num> <abbr>mā</abbr> <num value="4">4</num> rakryān· mapati<supplied reason="omitted">ḥ</supplied>
+<lb n="1v8"/><unclear>I</unclear> hin<orig>au</orig> InaṁsiAn· vḍihan· kalyāga <abbr>yu</abbr> <num value="1">1</num> mas· <abbr>su</abbr> dhava kryān· I halu pu vīravīkrama InaṁsiAn· vḍihan· talyāga <abbr>yu</abbr> <num value="1">1</num> mas· <abbr>su</abbr> <num value="1">1</num> r<choice><sic>i</sic><corr>a</corr></choice>kryā<lb 
+n="1v9"/>n· vka vu <unclear>ku</unclear>tak· Ina<supplied reason="omitted">ṁ</supplied>sǝAn· gḍihan· kalyāga <abbr>yu</abbr> <num value="1">1</num> mas· <abbr>su</abbr> <num value="1">1</num> rakryān· sirikān· pu vāriga InaṁsiAn· vḍihan· kalyākha <abbr>yu</abbr> <num value="1">1</num> mas· <abbr>su</abbr> <num value="1">1</num> <abbr>samga<lb 
+n="1v10" break="no"/>t·</abbr> tiruAn· pu śivăstra InasiAn· vḍihan· kalāy· <abbr>yu</abbr> <num value="1">1</num> mas· <abbr>su</abbr> 1 rakai pagar vsi pu yayak· InisǝAn· vḍihan <abbr>yu</abbr> <num value="1">1</num> mas· <abbr>mā</abbr> <num value="8">8</num> <abbr>samgat·</abbr>
+<lb n="1v11"/>mamrati pu Uttara Irasisan· vḍahan· <abbr>yu</abbr> <num value="1">1</num> mas· <abbr>mā</abbr> <num value="8">8</num> <abbr>samgat·</abbr> vadhihati pu ḍapit· makudur· pu sāmvrida paṅkur· pu rañjan· tavān· pu pañjaluAn· kapu<lb 
+n="1v12" break="no"/>A vineḥ pasak·-papak· vḍihan· <abbr>yu</abbr> <num value="1">1</num> mas· <abbr>mā</abbr> <num value="8">8</num> sevaṁ-sovaṁ samgat· juru I <unclear>k</unclear>adaṅayan· samga<space type="descender"/>t· <unclear>va</unclear>limvaṅan· pu bhĭma Inasisan· vḍiha<lb 
+n="1v13" break="no"/>n· kalyāga <abbr>yu</abbr> <num value="1">1</num> mas· <abbr>mā</abbr> <num value="8">8</num> t<unclear>u</unclear>hān· I vavihati saṁ <unclear>v</unclear>inuṅkuvan· pu <unclear>A</unclear>dhikăra vinaiḥ vḍihan· <abbr>yu</abbr> <num value="1">1</num> <abbr>mā</abbr> <num value="4">4</num> I makudur· saṁ mira-mira, vinaiḥ vḍiha<lb 
+n="1v14" break="no"/>n· <abbr>yu</abbr> <num value="1">1</num> mas· <abbr>mā</abbr> <num value="6">6</num> pataṁ<unclear>hne</unclear> valimviṅan· <unclear>tanuvu</unclear>k· UAṅi kapuA vinaiḥ vḍihan· <abbr>yu</abbr> <num value="1">1</num> mas· <abbr>mă</abbr> <num value="1">3</num> vuhutaknam· ma<unclear>rvlaṁ</unclear> vahuta <gap reason="illegible" unit="character" quantity="1"/>
+<lb n="1v15"/><unclear>vḍi</unclear>nuA hujuṁ ma<space type="descender"/>sipādhan· kapuA vinaiḥ vḍihan· <abbr>yu</abbr> <num value="1">1</num> has· <abbr>mā</abbr> <num value="2">2</num> soAṁ-sovaṁ <unclear>A/pu/R̥</unclear>vaṁ dyaḥ <unclear>U/da</unclear>dis· Anak vanuA I kilipan· vinaiḥ vḍihan· <unclear>y</unclear>u</p><!-- add part="I" on opening tag -->
          </div>
-         <!--<div type="apparatus">
-           <!-\-apparatus encoded as per EGD §9.1, basic elements for apparatus below-\->
-               <listApp><!-\- one <app> for each apparatus entry -\->
-                  <app loc="line"><!-\- update the value of @loc.-\->
-                     <lem><!-\- fill in a lemma here -\-></lem>
-                     <rdg source="bib:AuthorYear_01"><!-\- update the @source value, fill in variant reading here -\-></rdg>
+         <div type="apparatus">
+           <!--apparatus encoded as per EGD §9.1, basic elements for apparatus below-->
+               <listApp><!-- one <app> for each apparatus entry -->
+                  <app loc="1r13"><!-- update the value of @loc.-->
+                     <lem>sa<unclear>pi</unclear><lb n="1r14"/><supplied reason="lost"><num value="40">40</num> vḍu</supplied>s· <space type="descender"/> 80 Aṇḍaḥ vantayan· <num value="1">1</num></lem>
+                     <rdg source="bib:Naerssen1937_01">sapa<lb/><gap reason="lost" quantity="1" unit="character"/>0 <gap reason="lost" quantity="3" unit="character" precision="low"/>80 Aṇḍaḥ vantayan· <num value="1">1</num></rdg>
+	<note>We supply the lost characters by comparison with <ref target="DHARMA_INSIDENKTelang.xml">Telang</ref> (2r7) and <ref target="DHARMA_INSIDENKWukajanaI.xml">Wukajana I</ref> (1v5). Van Naerssen had already indicated in his edition that the same characters could be supplied from <ref target="DHARMA_INSIDENKLinggasuntan.xml">Linggasuntan</ref>, where we read in A22 <foreign>kbo 30 sapi 40 vḍus· 80 Aṇḍaḥ savantayan·</foreign>.</note>
                   </app>
                </listApp>
-         </div>-->
+         </div>
          <div type="translation" resp="part:argr">
  	<!--translation encoded as per EGD §9.2 -->
          </div>
