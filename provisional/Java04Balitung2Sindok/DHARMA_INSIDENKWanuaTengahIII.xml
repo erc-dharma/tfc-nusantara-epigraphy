@@ -858,7 +858,11 @@ The 2 who recited/performed <foreign>śānti</foreign>:<!--\footnote{I find no o
 		<bibl n="B"><ptr target="bib:Boechari2012_33"/><citedRange unit="item">6</citedRange></bibl>
 	</listBibl>
            <listBibl type="secondary">
-              <bibl n="siglum"/><!-- one <bibl/> per item of secondary bibliography . Every entry mentionned in apparatus  should hava a @n to declare its sigla -->
+	<bibl><ptr target="bib:Kusen1984_01"/></bibl>
+	<bibl><ptr target="bib:DjokoDwiyanto1986_01"/></bibl>
+	<bibl><ptr target="bib:Trigangga1994_01"/></bibl>
+	<bibl><ptr target="bib:WissemanChristie2001_01"/><citedRange unit="item">???</citedRange></bibl>
+	<bibl><ptr target="bib:Boechari2012_32"/></bibl>
            </listBibl>
         </div>
       </body>
