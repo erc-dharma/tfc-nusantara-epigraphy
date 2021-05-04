@@ -66,15 +66,16 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
+        	<change who="part:argr" when="2021-05-04" status="draft">finished initial encoding</change>
         	<change who="part:argr" when="2021-04-21" status="draft">started initial encoding</change>
         </revisionDesc>
     </teiHeader>
     <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="kaw-Latn">
-<p><pb n="1r"/><lb n="1r1"/><g type="ddandaCross"/> svasti śaka-varṣātīta <num value="829">829</num> baiśākha-māsa tithi caturthi kr̥ṣṇa-pakṣa mavulu, vagai soma-vāra Uttarāṣādha-nakṣatra, <unclear>ś</unclear>ukla<unclear>yo</unclear><lb 
-n="1r2" break="no"/>ga tatkāla Anugraha śrī mahārāja rakai vatu kura dyaḥ ba<space type="descender"/>litu<unclear>ṁ</unclear> śrī dharmmodaya mahāsambhu tumurun· I rakryān· mapatiḥ I <unclear>h</unclear><supplied reason="lost">i</supplied><lb 
-n="1r3" break="no"/>no pu dakṣottama bāhubajra pratipakṣākṣaya kumon· <abbr>samgat·</abbr> lamva pu layaṁ Anak va<space type="descender"/>nuA I patapā<space type="descender"/>n· tutuganniṁ taṇḍa
+<p><pb n="1r"/><lb n="1r1"/><g type="ddandaCross"/> svasti śaka-varṣātīta <num value="829">829</num> baiśākha-māsa tithi caturthi kr̥ṣṇa-pakṣa mavulu, vagai soma-vāra<supplied reason="omitted">,</supplied> Uttarāṣādha-nakṣatra, <unclear>ś</unclear>ukla<unclear>yo</unclear><lb 
+n="1r2" break="no"/>ga tatkāla Anugraha śrī mahārāja rakai vatu kura dyaḥ ba<space type="descender"/>litu<unclear>ṁ</unclear> śrī dharmmodaya-mahāsambhu tumurun· I rakryān· mapatiḥ I <unclear>h</unclear><supplied reason="lost">i</supplied><lb 
+n="1r3" break="no"/>no pu dakṣottama-bāhu-bajra-pratipakṣ<choice><sic>ā</sic><corr>a</corr></choice>-kṣaya kumon· <abbr>samgat·</abbr> lamva pu layaṁ Anak va<space type="descender"/>nuA I patapā<space type="descender"/>n· tutuganniṁ taṇḍa
 <lb n="1r4"/>su<unclear>musu</unclear>ka Ikanaṁ vanuA I saṁsaṁ vatak· lamva, gavai <abbr>ku</abbr> <num value="2">2</num> dravya-hajinya mas· <abbr>su</abbr> <num value="6">6</num> mas· kavahutān· <abbr>su</abbr> <num value="2">2</num> <unclear>A</unclear>vur· hinavu-ha<lb 
 n="1r5" break="no"/>vu</p><p>samvandhānya kinon· sumusuka Ikanaṁ vanuA vuAra kuṭī I hujuṅ ga<unclear>l</unclear>uḥ vatak· la<unclear>m</unclear>va <unclear>ya ta</unclear> pinuliḥ <abbr>samgat·</abbr> lamva pinahayunira jina<lb 
 n="1r6" break="no"/>ryyakan·nira vihāra ya samvandhānyar· Inanūgrahān· kinon· sumusuka Ikanāṁ vanuA I saṁsaṁ sĭmā pun·punnananikanaṁ vihāra gavai<lb 
@@ -82,15 +83,15 @@ n="1r7" break="no"/>nira,</p> <p>kunaṁ parṇnaḥhanyan· sīmā tan· katam�
 n="1r8" break="no"/>m· pamaṇikan·, maṇiga lva malañjaṁ maṁhuri makalaṅkaṁ tapa haji Air haji tuha gośali tuha dagaṁ tuhān <supplied reason="omitted">n</supplied>amvi t<unclear>u</unclear>hān· hañjama<lb 
 n="1r9" break="no"/><unclear>n·</unclear> Uṇḍahagi manimpiki paṇḍai vṣi, valya<unclear>n·</unclear> paranakan· vidu maṅiduṁ t<unclear>u</unclear>ha paḍahi varahan· sambal· sumvul· vatak· I dalam· si<lb 
 n="1r10" break="no"/>ṅgaḥ pamr̥ṣi hulun· haji Ityaivamādi tan· tumamā Iri<unclear>kanaṁ</unclear> vanuA, parṇnaḥni <unclear>pa</unclear>rmmasanya tumamā I bhaṭāra I vihāra I h<unclear>u</unclear>juṅ galuḥ
-<lb n="1r11"/>deyanya mavaiḥ mannaṅahana Iṁ parmasan·, Iṁ kataṇḍan·, samaṅkana suka-du<unclear>ḥ</unclear>khanya, ma<unclear>ya</unclear>ṁ <unclear>ta</unclear>n· <unclear cert="low">pa</unclear>vuAḥ ḍaṇḍa ku<supplied reason="omitted">ḍa</supplied>ṇḍa <unclear>bha</unclear>ṇḍihālādi tuma<lb 
-n="1r12"/>mā I <unclear>bha</unclear>ṭāra Ataḥ Ikana, Ājñă haji,</p> <p>kinonnakan· I<unclear>ka</unclear>naṁ masamvyavahā<unclear>ra</unclear> hana<unclear>ṁ</unclear> ṅk<unclear>ā</unclear>na hīṁhīṁṅana kvaiḥhanya paṇḍai mas·, paṇḍai v<unclear>s</unclear>i, <unclear>ta</unclear><lb 
+<lb n="1r11"/>deyanya mavaiḥ mannaṅahana Iṁ parmasan·, Iṁ kataṇḍan·, samaṅkana suka-du<unclear>ḥ</unclear>khanya, ma<unclear>ya</unclear>ṁ <unclear>ta</unclear>n· <unclear cert="low">pa</unclear>vuAḥ ḍaṇḍa-ku<supplied reason="omitted">ḍa</supplied>ṇḍa <unclear>bha</unclear>ṇḍihālādi tuma<lb 
+n="1r12" break="no"/>mā I <unclear>bha</unclear>ṭāra Ataḥ Ikana, Ājñă haji,</p> <p>kinonnakan· I<unclear>ka</unclear>naṁ masamvyavahā<unclear>ra</unclear> hana<unclear>ṁ</unclear> ṅk<unclear>ā</unclear>na hīṁ-hīṁṅana kvaiḥhanya paṇḍai mas·, paṇḍai v<unclear>s</unclear>i, <unclear>ta</unclear><lb 
 n="1r13" break="no"/>mvaga <unclear>ga</unclear>ṅ<unclear>ś</unclear>a, tluṁ Ububan·, Iṁ sasīma, macadar· <num value="4">4</num> maṅaraḥ lumpaṁ <num value="3">3</num> maṅulaṁ tluṁ tuhān· Iṁ sasīma, kboAnya <num value="20">20</num> Iṁ sat<unclear>u</unclear>hān·, sa<unclear>pi</unclear>
-<lb n="1r14"/><supplied reason="lost"><num value="40">40</num> vḍu</supplied>s· <space type="descender"/> 80 Aṇḍaḥ vantayan· 1 parahu <unclear>1</unclear> bhaṭāra <num value="1">1</num> mas<unclear>u</unclear>ṁhara <num value="3">3</num> tan· patuṇḍāna, maguluṅan· tlu<unclear>ṁ</unclear> pasaṁ samaṅkana tan·
-<pb n="1v"/><lb n="1v1"/><unclear>k</unclear>nā<unclear>na</unclear> <supplied reason="lost">I pa</supplied>rmasan· yāpuAn· <unclear>pi</unclear>nikul· <unclear>da</unclear>gaṅanya kadyaṅgāniṁ mabasana masayaṁ makacapuri kapas· vuṅkuḍu tā<supplied reason="lost">mbra</supplied> gaṅsa sobuban· I satuhā<lb 
-n="1v2" break="no"/>n·, garam· paḍa<choice><sic>k</sic><corr>t</corr></choice>· lṅa gula, saprakāraniṁ duAl· pinikul· kalima bantal· I satuhān· pikul·-pikula<space type="descender"/>nanya, tluṁ tuhān· Iṁ sasī<lb 
-n="1v3" break="no"/>ma Ikanaṁ samaṅkana tan· knāna de saṁ maṅilala drabya haji, yāpuAn· lviḥ kvaiḥnya saṁkā Irikānaṁ paṁhīṁhīṁ Iriya knāna Ikana sakalviḥ<lb 
-n="1v4" break="no"/>nya de saṁ maṅilala sodhāra haji,</p> <p>kunaṁ Ikanaṁ mañamvul·, mañavriṁ maṅap<unclear>u</unclear>s·, maṁlākha, Uṇḍahagi mamu<unclear>b</unclear>u<unclear>t</unclear>· maṅubar·, manahab· manuk·
-<lb n="1v5"/><unclear>ma</unclear>misaṇḍuṁ maṅanamm-anam·, mamukat· vuṅkuḍu manaru<space type="descender"/>b· maṁdyūn· maṅgula maṁhapū, Ityaivamādi kapuA ya tribhāgān· sadūman·, Umarā
+<lb n="1r14"/><supplied reason="lost"><num value="40">40</num> vḍu</supplied>s· <space type="descender"/> 80 Aṇḍaḥ vantayan· 1 parahu <unclear>A</unclear>bhaṭāra <num value="1">1</num> mas<unclear>u</unclear>ṁhara <num value="3">3</num> tan· patuṇḍāna, maguluṅan· tlu<unclear>ṁ</unclear> pasaṁ samaṅkana tan·
+<pb n="1v"/><lb n="1v1"/><unclear>k</unclear>nā<unclear>na</unclear> <supplied reason="lost">I pa</supplied>rmasan· yāpuAn· <unclear>pi</unclear>nikul· <unclear>da</unclear>gaṅanya kady aṅgāniṁ mabasana masayaṁ makacapuri kapas· vuṅkuḍu tā<supplied reason="lost">mbra</supplied> gaṅsa <surplus>sobuban· I satuhā<lb 
+n="1v2" break="no"/>n·,</surplus> garam· paḍa<choice><sic>k</sic><corr>t</corr></choice>· lṅa gula, saprakāraniṁ duAl· pinikul· kalima bantal· I satuhān· pikul·-pikula<space type="descender"/>nanya, tluṁ tuhān· Iṁ sasī<lb 
+n="1v3" break="no"/>ma Ikanaṁ samaṅkana tan· knāna de saṁ maṅilala drabya haji, yāpuAn· lviḥ kvaiḥnya saṁkā Irikānaṁ paṁhīṁ-hīṁ Iriya knāna Ikana sakalviḥ<lb 
+n="1v4" break="no"/>nya de saṁ maṅilala sodhāra haji,</p> <p>kunaṁ Ikanaṁ mañamvul·, mañavriṁ maṅap<unclear>u</unclear>s·, maṁlākha, Uṇḍahagi mamu<unclear>b</unclear>u<unclear>t</unclear>·<supplied reason="omitted">,</supplied> maṅubar·, manahab· manuk·
+<lb n="1v5"/><unclear>ma</unclear>misaṇḍuṁ<supplied reason="omitted">,</supplied> maṅanamm-anam·, mamukat· vuṅkuḍu manaru<space type="descender"/>b· maṁdyūn· maṅgula maṁhapū, Ityaivamādi kapuA ya tribhāgān· sadūman·, Umarā
 <lb n="1v6"/><unclear>I</unclear> bhaṭāra sadūman· Umarā I saṁ maṅilala drabya haji sadūman· Umarā I sa<unclear>ṁ</unclear> makmitan· sīma, maṅkana Ājñă haji paṁhiṁ-<unclear>hiṁ</unclear> Iri<choice><sic>h</sic><corr>k</corr></choice>āṁ ma<choice><sic>p</sic><corr>s</corr></choice>amvyavahā<lb 
 n="1v7" break="no"/>ra hana ṅkāna</p> <p part="I">maṅas<choice><sic>i</sic><corr>ǝ</corr></choice>Akan· <abbr>samgat·</abbr> lamva pasamvaḥ I śrī mahārāja vḍihan· piliḥ ma<space type="descender"/>gǝ:ṁ <abbr>yu</abbr> <num value="1">1</num> vḍihan· <choice><sic>jagā</sic><corr>kalyāga</corr></choice> <abbr>yu</abbr> <num value="1">1</num> mas· <abbr><unclear reason="eccentric_ductus">s</unclear>u</abbr> <num value="1">1</num> <abbr>mā</abbr> <num value="4">4</num> rakryān· mapati<supplied reason="omitted">ḥ</supplied>
 <lb n="1v8"/><unclear reason="eccentric_ductus">I</unclear> hin<orig>au</orig> Inaṁs<choice><sic>i</sic><corr>ǝ</corr></choice>An· vḍihan· kalyāga <abbr>yu</abbr> <num value="1">1</num> mas· <abbr>su</abbr> <choice><sic>dha</sic><corr><num value="1">1</num></corr></choice> <choice><sic>v</sic><corr>r</corr></choice>akryān· I halu pu vīravīkrama Inaṁs<choice><sic>i</sic><corr>ǝ</corr></choice>An· vḍihan· <choice><sic>t</sic><corr>k</corr></choice>alyāga <abbr>yu</abbr> <num value="1">1</num> mas· <abbr>su</abbr> <num value="1">1</num> r<choice><sic>i</sic><corr>a</corr></choice>kryā<lb 
@@ -98,7 +99,7 @@ n="1v9" break="no"/>n· vka <choice><sic>v</sic><corr>p</corr></choice>u <unclea
 n="1v10" break="no"/>t·</abbr> tiruAn· pu śivăstra Inas<choice><sic>i</sic><corr>ǝ</corr></choice>An· vḍihan· <choice><sic>kalāy·</sic><corr>kalyāga</corr></choice> <abbr>yu</abbr> <num value="1">1</num> mas· <abbr>su</abbr> 1 rakai pagar vsi pu yayak· In<choice><sic>i</sic><corr>aṁ</corr></choice>sǝAn· vḍihan <abbr>yu</abbr> <num value="1">1</num> mas· <abbr>mā</abbr> <num value="8">8</num> <abbr>samgat·</abbr>
 <lb n="1v11"/>mamrati pu Uttara I<choice><sic>rasisa</sic><corr>naṁsǝA</corr></choice>n· vḍ<choice><sic>a</sic><corr>i</corr></choice>han· <abbr>yu</abbr> <num value="1">1</num> mas· <abbr>mā</abbr> <num value="8">8</num> <abbr>samgat·</abbr> va<choice><sic>dh</sic><corr>d</corr></choice>ihati pu ḍapit· makudur· pu sāmvrida paṅkur· pu rañjan· tavān· pu pañjaluAn· kapu<lb 
 n="1v12" break="no"/>A vineḥ pasak·-pa<choice><sic>p</sic><corr>s</corr></choice>ak· vḍihan· <abbr>yu</abbr> <num value="1">1</num> mas· <abbr>mā</abbr> <num value="8">8</num> s<choice><sic>e</sic><corr>o</corr></choice>vaṁ-sovaṁ <abbr>samgat·</abbr> juru I <unclear>k</unclear>adaṅayan· <abbr>samga<space type="descender"/>t·</abbr> <unclear>va</unclear>limv<choice><sic>a</sic><corr>i</corr></choice>ṅan· pu bhĭma I<choice><sic>nasisa</sic><corr>naṁsǝA</corr></choice>n· vḍiha<lb 
-n="1v13" break="no"/>n· kalyāga <abbr>yu</abbr> <num value="1">1</num> mas· <abbr>mā</abbr> <num value="8">8</num> t<unclear>u</unclear>hān· I va<choice><sic>v</sic><corr>d</corr></choice>ihati saṁ <unclear>v</unclear>inuṅkuvan· pu <unclear>A</unclear>dhikăra vinaiḥ vḍihan· <abbr>yu</abbr> <num value="1">1</num> <abbr>mā</abbr> <num value="4">4</num> I makudur· saṁ mira-mira, vinaiḥ vḍiha<lb 
+n="1v13" break="no"/>n· kalyāga <abbr>yu</abbr> <num value="1">1</num> mas· <abbr>mā</abbr> <num value="8">8</num> t<unclear>u</unclear>hān· I va<choice><sic>v</sic><corr>d</corr></choice>ihati saṁ <unclear>v</unclear>inuṅkuvan· pu <unclear>A</unclear>dhikăra vinaiḥ vḍihan· <abbr>yu</abbr> <num value="1">1</num> <abbr>mā</abbr> <num value="4">4</num> I makudur· saṁ mira-mira<supplied reason="omitted">ḥ</supplied>, vinaiḥ vḍiha<lb 
 n="1v14" break="no"/>n· <abbr>yu</abbr> <num value="1">1</num> mas· <abbr>mā</abbr> <num value="6">6</num> pataṁ<unclear>hne</unclear> valimviṅan· <unclear>tanuvu</unclear>k· UAṅi kapuA vinaiḥ vḍihan· <abbr>yu</abbr> <num value="1">1</num> mas· <abbr>mă</abbr> <num value="1">3</num> vuhutaknam· ma<unclear>rvlaṁ</unclear> vahuta <gap reason="illegible" unit="character" quantity="1"/>
 <lb n="1v15"/><unclear>vḍi</unclear>nuA hujuṁ ma<space type="descender"/>sipādhan· kapuA vinaiḥ vḍihan· <abbr>yu</abbr> <num value="1">1</num> <choice><sic>h</sic><corr>m</corr></choice>as· <abbr>mā</abbr> <num value="2">2</num> soAṁ-sovaṁ <choice><unclear>A</unclear><unclear>pu</unclear><unclear>R̥</unclear></choice>vaṁ dyaḥ <choice><unclear>U</unclear><unclear>da</unclear></choice>dis· Anak vanuA I kilipan· vinaiḥ vḍihan· <unclear>y</unclear>u</p>
          </div>
@@ -165,10 +166,33 @@ n="1v14" break="no"/>n· <abbr>yu</abbr> <num value="1">1</num> mas· <abbr>mā<
                      <rdg source="bib:Naerssen1937_01">sapa<lb/><gap reason="lost" quantity="1" unit="character"/>0 <gap reason="lost" quantity="3" unit="character" precision="low"/>80 Aṇḍaḥ vantayan· <num value="1">1</num></rdg>
 	<note>We supply the lost characters by comparison with <ref target="DHARMA_INSIDENKTelang.xml">Telang</ref> (2r7) and <ref target="DHARMA_INSIDENKWukajanaI.xml">Wukajana I</ref> (1v5). Van Naerssen had already indicated in his edition that the same characters could be supplied from <ref target="DHARMA_INSIDENKLinggasuntan.xml">Linggasuntan</ref>, where we read in A22 <foreign>kbo 30 sapi 40 vḍus· 80 Aṇḍaḥ savantayan·</foreign>.</note>
 </app>
+<app loc="1r14">
+<lem>parahu <unclear>A</unclear>bhaṭāra</lem>
+<rdg source="bib:Naerssen1937_01">parahu <gap reason="undefined" unit="character" quantity="1"/> bhaṭāra</rdg>
+<note>The reading is rather clear in the corresponding passage of <ref target="DHARMA_INSIDENKWukajana1.xml">Wukajana I</ref> (1v5).</note>
+</app>
 <app loc="1v1">
 	<lem><unclear>k</unclear>nā<unclear>na</unclear> <supplied reason="lost">I pa</supplied>rmasan·</lem>
 	<rdg source="bib:Naerssen1937_01">knā<supplied reason="lost">na I para</supplied>masan·</rdg>
 </app>
+<!-- 
+tā[mbra] gaṅsa ⟨⟨sobuban· I satuhā(1v2)n·,⟩⟩ garam· paḍak· lṅa gula
+comparison with Wukajana I shows that sobuban I satuhan is intrusive
+
+1v1
+comparison with Ayam Teas suggests that eyeskip has taken place from gaṅsa to gaṅsa, whereby an etensive passage has been lost:
+
+AT I
+(1v2) masayaṁ25, makacapuri kapas· vuṅkuḍu26 tamvaga gaṅsa27 vsi28, timaḥ garas·29 paḍat vǝAs lga
+(1v3) gula, sapukān·niṁ duAl· kalima bantal· Iṁ satuhān· pikul-pikul·lananya, vaṇḍai30 malaṁ
+(1v4) tamvaga, gaṅsa31, vsi32, sobuban· Iṁ satuhān· tannǝnun·33 cadar· bataṁ34 pacadaran·
+Iṁ sa śῑma35. ma
+
+AT III
+(1v1) ... maka(c)apuri kapas· vuṅkuḍu tabaga gaṅṣa
+(1v2) vsi phalaphalǝ (ka)dut· kalamvi (laruna) tima(ḥ) garam· paḍat· vǝAs· lṅa gullaka subamiri bamipali Aṅavari Ahātyavammadi
+(1v3) (sa)prakarani duAl· pinikul· kalima ba(ntal· I sa)tuhan· pikullanya paṇḍa Amas· tabaga gaṁsa vsa sobuban· I satuhan·
+ -->
 <app loc="1v1">
 	<lem>Irikānaṁ</lem>
 	<rdg source="bib:Naerssen1937_01">Inikānaṁ</rdg>
@@ -282,19 +306,83 @@ n="1v14" break="no"/>n· <abbr>yu</abbr> <num value="1">1</num> mas· <abbr>mā<
                </listApp>
          </div>
          <div type="translation" resp="part:argr">
- 	<!--translation encoded as per EGD §9.2 -->
+ 	<p n="1r1-5">Hail! Elapsed Śaka year 829, month of Vaiśākha, fourth <foreign>tithi</foreign> of the waning fortnight, Mavulu, Vagai, Monday, lunar mansion Uttarāṣāḍha, conjunction Śukla: that was the time of the grant of the Great King, Raka of Vatu Kura, <foreign>dyah</foreign> Balituṅ, Śrī Dharmodayamahāśambhu, which descended to the <foreign>rakryān</foreign> Minister of Hino, <foreign>pu</foreign> Dakṣottamabāhuvajrapratipakṣakṣaya, ordering the officiant of Lamva, <supplied reason="explanation">called</supplied> <foreign>pu</foreign> Layaṅ, native of the village Patapān, <foreign>tutuganniṅ taṇḍa</foreign>, to demarcate the village of Saṅsaṅ, district of Lamva, <supplied reason="subaudible">whose</supplied> corvée is 2 <foreign>kupaṅ</foreign>; whose royal tax is 6 <foreign>suvarṇa</foreign> of gold; <supplied reason="subaudible">whose</supplied> gold for the Vahutas is 2 <foreign>suvarṇa</foreign>; <supplied reason="subaudible">whose</supplied> <foreign>avur</foreign><!-- cf. MdS awur 'waste money'? --> is scattered.</p>
+	<p n="1r5-7">The occasion that he was ordered to demarcate the village: there was a <foreign>kuṭī</foreign> at Hujuṅ Galuh, district of Lamva. It was restored by the officiant of Lamva. It was embellished by him. It was made into <supplied reason="explanation"><foreign>jinaryakan</foreign></supplied> a monastery by him. That was the occasion that he was granted to be ordered to demarcate the village of Saṅsaṅ to become a <foreign>sīma</foreign> <supplied reason="subaudible"> and</supplied> a domain of the monastery he had established.</p>
+	<p n="1r7-12">As for its status when it would become a <foreign>sīma</foreign>: it would be entered neither by the dignitaries Paṅkur, Tavān <supplied reason="subaudible">and</supplied> Tirip, nor by any of the collectors of royal tax. The <foreign>kriṅ</foreign>, the <foreign>paḍam</foreign>, the <foreign>pamaṇikan</foreign>, the <foreign>maṇiga</foreign>, the <foreign>lva</foreign><!-- or read lca? -->, the <foreign>malañjaṅ</foreign>, the <foreign>maṅhuri</foreign>, the <foreign>makalaṅkaṅ</foreign>, the <foreign>tapa haji</foreign>, the <foreign>air haji</foreign>, the overseer of smiths, the overseer of merchants, the overseer of Namvi, the overseers of Hañjamans <supplied reason="subaudible">and</supplied> carpenters, the <foreign>manimpiki</foreign>, the iron smiths, the healers <supplied reason="explanation"><foreign>valyan</foreign></supplied>, the <foreign>paranakan</foreign>, the signing actors, the chief drummer, the <foreign>varahan</foreign>, the <foreign>sambal sumvul</foreign>, the courtiers, the <foreign>siṅgah</foreign>, the <foreign>pamr̥ṣi</foreign>, the royal servants, and so forth: they will not have access to the village. The status of its <foreign>parmasan</foreign> is to accrue to the Lord <supplied reason="explanation">i.e., the Buddha</supplied> of the monastery at Hujuṅ Galuh. Its <supplied reason="explanation">the village's? the monastery's?</supplied> future course of action is to allow giving half of the <foreign>parmasan</foreign> to the group of officers. Likewise its <q>vicissitudes of life</q> — blossom that does not bear fruit, <foreign>ḍaṇḍa-kuḍaṇḍa</foreign>, <foreign>bhaṇḍihala</foreign>, etc. — they will accrue only to the Lord. <supplied reason="subaudible">Thus was</supplied> the king's order.</p>
+	<p n="1r12-1v4">An order was given regarding the traders present there that their numbers would be limited:
+<list>
+<item>gold smiths, iron smiths, bronze <supplied reason="subaudible">smiths</supplied>, copper <supplied reason="subaudible">smiths</supplied>: three bellows in the whole <foreign>sīma</foreign></item><!-- or 'per sīma', a trace of a general rule imperfectly adapted to the specific context? -->
+<item><foreign>cadar</foreign> workers 4, <foreign>cadar</foreign> workers 3 pounding blocks</item>
+<item>cattle buyers three tradesmen in the whole <foreign>sīma</foreign> <supplied reason="subaudible">and</supplied> 20 head of water buffalo per year, 40 of cattle, 80 of sheep, 1 cage of ducks</item>
+<item>1 boat with a deity <supplied reason="explanation">? <foreign>abhaṭāra</foreign></supplied>, 3 with a mast, that may not have <foreign> tuṇḍān</foreign></item>
+<item>wagoners: three yokes</item>
+</list>
+Up to those limits they shall not be subjected to <foreign>parmasan</foreign>. 
+
+If their wares are borne by shoulder pole, for instance cloth vendors, tinkers, <foreign>kacapuri</foreign> makers, <supplied reason="subaudible">vendors of</supplied> cotton, <foreign>vuṅkuḍu</foreign>, bronze, copper <gap reason="omitted"/>, block salt, sesame oil, sugar — all kinds of wares  that are borne by shoulder pole: altogether their load carried by shoulder pole shall be five bundles per tradesman, <supplied reason="subaudible">and</supplied> three tradesmen in the whole <foreign>sīma</foreign>. Up to those limits they shall not be subjected <supplied reason="subaudible">to any impost</supplied> by the collectors of royal tax. If their number is higher than the limit <supplied reason="subaudible">set</supplied> upon them, the surplus shall we subjected
+Smiths <supplied reason="subaudible">working</supplied> gold, bronze, copper <supplied reason="subaudible">to impost</supplied> by the collectors of all royal levies.</p>
+<p n="1v4-7">As for those who paint black, who make <foreign>camvriṅ</foreign>, who twist ropes (?), who dye, carpenters, turners, bird catchers, <supplied reason="subaudible">bird</supplied> snarers, weavers, those who tie <foreign>vuṅkuḍu</foreign>, shed makers, potters, sugar makers, lime makers, etc.: all of them <supplied reason="explanation">i.e., the impost they pay?</supplied> will be divided in three. One share will accrue to the Lord <supplied reason="subaudible">of the monastery</supplied>, one share will accrue to the collectors of royal tax, one share will acrrue to the keeper of the <foreign>sīma</foreign>. Thus was the king's order limiting the traders present there.</p>
+<p n="1v7-15">The officiant of Lamva offered to the Great King as token of obedience 
+	1 <foreign>yugala</foreign> of <foreign>pilih magə̄ṅ</foreign> cloth, 
+	1 <foreign>yugala</foreign> of <foreign>kalyāga</foreign> cloth, 
+	1 <foreign>suvarṇa</foreign>, 4 <foreign>māṣa</foreign> of gold.
+The <foreign>rakryān</foreign> Minister of Hino was offered
+	1 <foreign>yugala</foreign> of <foreign>kalyāga</foreign> cloth, 
+	1 <foreign>suvarṇa</foreign> of gold.
+The <foreign>rakryān</foreign> of Halu, <foreign>pu</foreign> Vīravīkrama, was offered
+	1 <foreign>yugala</foreign> of <foreign>kalyāga</foreign> cloth, 
+	1 <foreign>suvarṇa</foreign> of gold.
+ The <foreign>rakryān</foreign> of Vka, <foreign>pu</foreign> Kutak, was offered
+	1 <foreign>yugala</foreign> of <foreign>kalyāga</foreign> cloth, 
+	1 <foreign>suvarṇa</foreign> of gold.
+ The <foreign>rakryān</foreign> of Sirikan, <foreign>pu</foreign> Variga, was offered
+	1 <foreign>yugala</foreign> of <foreign>kalyāga</foreign> cloth, 
+	1 <foreign>suvarṇa</foreign> of gold.
+ The officiant of Tiruan, <foreign>pu</foreign> Śivāstra, was offered
+	1 <foreign>yugala</foreign> of <foreign>kalyāga</foreign> cloth, 
+	1 <foreign>suvarṇa</foreign> of gold.
+ The <foreign>raka</foreign> of Pagar Vsi, <foreign>pu</foreign> Yayak, was offered
+	1 <foreign>yugala</foreign> of cloth, 
+	8 <foreign>māṣa</foreign> of gold.
+The officiant of Mamrati, <foreign>pu</foreign> Uttara, was offered
+	1 <foreign>yugala</foreign> of cloth, 
+	8 <foreign>māṣa</foreign> of gold.
+The officiant of Vadihati, <foreign>pu</foreign> Ḍapit, the <foreign>makudur</foreign>, <foreign>pu</foreign> Samvr̥ddha, the <foreign>paṅkur</foreign>, <foreign>pu</foreign> Rañjan, the <foreign>tavān</foreign>, <foreign>pu</foreign> Pañjaluan, were all given as tribute  
+	1 <foreign>yugala</foreign> of cloth, 
+	8 <foreign>māṣa</foreign> of gold, per person.
+The officiant foreman of Kadaṅayan <supplied reason="subaudible">also serving as</supplied> the officiant of Valimviṅan, <foreign>pu</foreign> Bhīma, was offered
+	1 <foreign>yugala</foreign> of <foreign>kalyāga</foreign> cloth, 
+	8 <foreign>māṣa</foreign> of gold.
+The headman of Vadihati <supplied reason="subaudible">also serving as</supplied> the <foreign>vinuṅkuvan</foreign>, <foreign>pu</foreign> Adhikāra, was given
+	1 <foreign>yugala</foreign> of cloth, 
+	4 <foreign>māṣa</foreign> of gold.
+<supplied reason="subaudible">The headman</supplied> of Mira-mirah was given
+	1 <foreign>yugala</foreign> of cloth, 
+	6 <foreign>māṣa</foreign> of gold.
+ <foreign>pataṅhne valimviṅan tanuvuk· uaṅi</foreign> all were given 
+	1 <foreign>yugala</foreign> of cloth, 
+	3 <foreign>māṣa</foreign> of gold.
+
+<foreign>vuhutaknam marvlaṅ vahuta <gap reason="ellipsis"/> vḍinua hujuṅ masipādhan</foreign> all were given 
+	1 <foreign>yugala</foreign> of cloth, 
+	2 <foreign>māṣa</foreign> of gold, per person.
+The <foreign>(a/pu)vaṅ</foreign> <foreign>dyah</foreign> (U/Da)dis, native of the village of Kilipan, was given <supplied reason="subaudible">1</supplied> <foreign>yugala</foreign></p>
          </div>
+ 	<!--<div type="translation" xml:lang="ndl" source="bib:Naerssen1935_01">
+ 	<p></p>
+         </div>-->
          <div type="commentary">
             <!--commentary encoded as per section §9.3 -->
          </div>
         <div type="bibliography">
-           <p>First edited, without diacritical marks but with Dutch translation, by F. H. van Naerssen (<bibl rend="omitname"><ptr target="bib:Naerssen1935_01"/></bibl>); republished, with proper diacritical marks and historical study, though without translation, by the same scholar (<bibl rend="omitname"><ptr target="bib:Naerssen1937_01"/></bibl>); the first four lines edited by L.-Ch. Damais (<bibl rend="omitname"><ptr target="bib:Damais1955_01"/></bibl>); the whole text re[ublished, based on van Naerssen's edition, with a translation into English, by H. Bh. Sarkar (<bibl rend="omitname"><ptr target="bib:Sarkar1971-1972_01"/></bibl>) . Re-edited here by Arlo Griffiths from photographs of the plate.</p>
+           <p>First edited, without diacritical marks but with Dutch translation, by F. H. van Naerssen (<bibl rend="omitname"><ptr target="bib:Naerssen1935_01"/></bibl>); republished, with proper diacritical marks and historical study, though without translation, by the same scholar (<bibl rend="omitname"><ptr target="bib:Naerssen1937_01"/></bibl>); the first four lines edited by L.-Ch. Damais (<bibl rend="omitname"><ptr target="bib:Damais1955_01"/></bibl>); the whole text republished with a translation into English, both based on van Naerssen's work, by H. Bh. Sarkar (<bibl rend="omitname"><ptr target="bib:Sarkar1971-1972_01"/></bibl>) . Re-edited here by Arlo Griffiths from photographs of the plate.</p>
         	<listBibl type="primary">
 		<bibl n="vN1935"><ptr target="bib:Naerssen1935_01"/></bibl>
 		<bibl n="vN"><ptr target="bib:Naerssen1937_01"/></bibl>
 		<bibl n="S"><ptr target="bib:Sarkar1971-1972_01"/><citedRange unit="volume">2</citedRange><citedRange unit="page">85-98</citedRange><citedRange unit="item">72</citedRange></bibl>
 			</listBibl>
            <listBibl type="secondary">
+<bibl><ptr target="bib:Krom1931_01"/><citedRange unit="page">188</citedRange><citedRange unit="note">4</citedRange></bibl>
 <bibl>
 		<ptr target="bib:Damais1951_01"/>
 		<citedRange unit="page">23-24</citedRange>
@@ -313,16 +401,19 @@ n="1v14" break="no"/>n· <abbr>yu</abbr> <num value="1">1</num> mas· <abbr>mā<
 <!-- "On trouvera dans EEI, I : 24 la réduction de cette date. En voici les éléments : NL le 16-1V-907 ЕС. Le 4 krsna est le 4-V-907 ЕС.
 	Début d'un cycle le 19-X-906 ЕС. MA WA SO en est le 198e jour, soit le 4 mai 907 EC."
 -->
-<bibl><ptr target="bib:Damais1970_01"/><citedRange unit="page">52</citedRange><citedRange unit="item">138</citedRange></bibl>
+	</bibl>
+	<bibl>
+		<ptr target="bib:Damais1970_01"/><citedRange unit="page">52</citedRange><citedRange unit="item">138</citedRange></bibl>
 	<bibl>
 		<ptr target="bib:Nakada1982_01"/>
 		<citedRange unit="page">94-95</citedRange>
 		<citedRange unit="part">1</citedRange>
 		<citedRange unit="item">98</citedRange>
 	</bibl>
-	<bibl><ptr target="bib:Eade+Gislen2000_01"/><citedRange unit="page">38-39</citedRange></bibl>
+	<bibl>
+		<ptr target="bib:Eade+Gislen2000_01"/><citedRange unit="page">38-39</citedRange>
 	</bibl>
-           </listBibl>
+	</listBibl>
         </div>
       </body>
   </text>
