@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Anjatan: Foundation Charter of the Amr̥tamaṅgala Monastery</title>
+            	<respStmt>
+            		<resp>EpiDoc Encoding</resp>
+            		<persName ref="part:argr">
+            			<forename>Arlo</forename>
+            			<surname>Griffiths</surname>
+            		</persName>
+            	</respStmt>
+            	<respStmt>
+            		<resp>intellectual authorship of edition</resp>
+            		<persName ref="part:argr">
+            			<forename>Arlo</forename>
+            			<surname>Griffiths</surname>
+            		</persName>
+            		<persName ref="part:wjsa">
+            			<forename>Wayan Jarrah</forename>
+            			<surname>Sastrawan</surname>
+            		</persName>
+            	</respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>DHARMA</authority>
+                <pubPlace>Lyon</pubPlace>
+                <idno type="filename">DHARMA_INSIDENKAnjatan</idno>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
+                            Licence. To view a copy of the licence, visit
+                            https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                            Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                            California, 94041, USA.</p>
+                    	<p>Copyright (c) 2019-2025 by Arlo Griffiths.</p>
+                    </licence>
+                </availability>
+                <date from="2019" to="2025">2019-2025</date>
+            </publicationStmt>
+            <sourceDesc><!-- only the handDesc can be filled in at this stage -->
+                <msDesc><!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/><!-- don't modify this -->
+                    </msIdentifier>
+                    <msContents><!-- describe the intellectual content of an inscription -->
+                        <summary><!-- //// NOT MANDATORY  ////--></summary> <!-- offers the possibility to give a summary of the inscription's content -->
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p><!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EGD 11.2. --></p>
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
+            </projectDesc>
+            <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/><!-- UPDATE the link once the release is made official -->
+            <listPrefixDef>
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                    <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
+                </prefixDef>
+                <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+                    <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <revisionDesc>
+        	<change who="part:argr" when="2021-05-20" status="draft">started initial encoding</change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:space="preserve">
+      <body>
+         <div type="edition" xml:lang="kaw-Latn">
+<p part="F"><pb n="2r" break="no"/><lb n="2.1" break="no"/>mp<unclear>u</unclear>lan·, pakaluṁkuṁ, kaR̥<unclear>ṁR̥</unclear>ṅan·, tpuṁ kavuṁ, suṁsuṁ paṅuraṁ, pasuk alas·, sipat· vilut·, juṁkuṁ, pāṅin-aṅin· pamāvasya, hopan·, saṇḍuṁ lamur·, panrāṅan·, skar tahun·, pabayai, pi<add place="below">ṇḍa</add>
+<lb n="2.2"/>rāma mag<unclear>ma</unclear>n·, panigaṁ blaḥ, pa<unclear>ka</unclear>ra<unclear>pa</unclear>, tampə: sirir·, pinta palaku, tuluṁ hutaṁ, pobhaya, kipa-kipaḥ, pavalanda, pakan <unclear>t</unclear>ahun·, paniriṁ, pa<unclear>t</unclear>arub·, pakikis·,  paprãyaścitta,
+<lb n="2.3"/>Avuran·, pavuvuḥ, taṇḍan·, kḍi, valyan·, sambal·, sumbul·, hulun· <unclear>ha</unclear>ji, jəṅgi, pavuluṁ-v<unclear>u</unclear>luṁ, vidu maṅiduṁ, siṅgaḥ, pa<unclear>m</unclear>r̥si, vatək i jro Ityevamvādi kabaiḥ, An tan· tamā ta ya Iri⌈<lb 
+n="2.4" break="no"/>keṁ vanva riṅ añjatān· sabhuktyan· saṁ hyaṁ kuṭi riṅ amr̥tamaṅgala,</p> <p>samaṁkana Ikanaṁ sukha-duḥkha magə:ṁ maḍmit·, kady aṅgāniṁ mayaṁ <unclear>t</unclear>an· pavvaḥ, valu rumambat iṁ natar·, vipati, vankay· kābunan·, rāḥ ka<lb 
+n="2.5" break="no"/>sav<unclear cert="low">u</unclear>r iṁ havan·, māti <unclear>t</unclear>ibā, māti kaL̥L̥̄, māti sinambər iṁ glap·, hi<add place="below">du</add> kasirat·, dūlihatən·, sahasa, vākcapala, mamiji<unclear>la</unclear>kən· vuri riṁ kikir·, mamūk·, ma<unclear>m</unclear>puṁpaṁ, lūdān·, tūtān·, Aṅśa pratyaṅśa
+<lb n="2.6"/>, <unclear>ḍa</unclear>ṇḍa kuḍəṇḍa, maṇḍihalādi prakāra, An saṁ hyaṁ kuṭi Iṅ amr̥tamaṅgala pramāṇa Irikā,</p> <p>samaṁkana Ikanaṁ masambyavahāra satamolaḥ I saṁ hyaṁ kuṭi riṅ amr̥tamaṅgala, An kapva ya hīnīṅan·
+<lb n="2.7"/><unclear>de</unclear> śrī mahārāja, kramāṇya, matitiḥ sakulit·, Alavay· sapatiga, Abasana satuhan·, Aṅavari sa<unclear>t</unclear>uhan·, pakajaṅan· satuhan·, pahiḍanan· satuhan·, Amanantən· sapahavvan·, yā-
+<lb n="2.8" break="no"/>pvan· pinikul· d<unclear>va</unclear>l<unclear>n</unclear>ya, kady aṅgāniṅ ṅda, vu<unclear>ya</unclear>ḥ, Acan·, kamiri, bavaṁ, laja, pipakan·, L̥ṅa, laruṅ<unclear>an·</unclear>, kasumbha, vsi-vsi, vaja, pr̥mata, hadas·, Atak·, bras·, kalapa, vvaḥ, səR̥ḥ, pisaṁ,
+<lb n="2.9"/>gula, Ityevamādi kabeḥ, An kakiva pabantalan· juga ya, tan· L̥viha saṁkerikā, yapvan· <unclear>pa</unclear>ṅulaṁ kbo prāṇa <num value="40">40</num> kbovanya, yan sapi prāṇa <num value="40">40</num> sapyanya, yan· paṅulaṁ celeṁ <num value="50">50</num> ⌈<lb 
+n="2.10" break="no"/>celaiṅanya, yan· vḍus· prāṇa <num value="40">40</num> vḍusanya, Itik· savantayan·, Agritan· rvaṁ pasaṅan·, Aparahu sasiki, Ikā ta kabaiḥ tan· knānā ta ya soddhāra haji, Asiṁ sadeśa-parāna<lb 
+n="2.11" break="no"/>nya, yapvan· paṇḍay· vsi, gaṅsa, tamra, mās·, sapaR̥An· sovaṁ ṅunivaiḥ Ikanaṁ maṁdyūn·, mañarub·, mañambul·, mañavriṁ, maṁlākha, mamahaṁ, mamuṁkuḍu, manūla vuṁkuḍu,
+<lb n="2.12"/>tka riṁ maṅanam-anam·, magavay payuṁ, ruṅki, taṅgī, vakul·, kalasā, magavay· kisī, manaṅkəb· manuk·, mamisaṇḍuṁ manuk·, makala-kalā, mamuli, manavi, Aṇ ḍaṁ saṅgha Iṅ amr̥<pb 
+n="3r" break="no"/><lb n="3.1" break="no"/>tamaṅgalātaḥ pramāṇa I sadr̥bya-hajinya kabaiḥ, kramānya, tribhāgān·, sadūmān· mapaknā I bhaṭāra, sadūmān· ma<unclear>pa</unclear>knā I <unclear>ḍa</unclear>ṁ saṅgha, pahayva samananāni sapariskāranika pa<lb 
+n="3.2" break="no"/>hayvan· saṁ hyaṁ k<unclear>u</unclear>ṭi riṅ amr̥tamaṅga<unclear>la, sa</unclear>dūmān· maparṇnaha I saṁ dharmma<unclear>nya</unclear>, maṁkana tiṅkaḥ so<unclear>dhā</unclear>ra ha<unclear>j</unclear>i huvus kapāṭa ri saṁ hyaṁ rājapraśāsti, pagǝ-pageḥ I kasusukan· saṁ hyaṁ ku<lb 
+n="3.3" break="no"/>ṭi riṅ amr̥tamaṅgala,</p> <p>mari ta parṇnaḥnika<unclear>ṁ</unclear> vanva riṅ añjatan thāni bala giri<unclear>m</unclear> baṅi, ma<unclear>ṁ</unclear>kana Ikanaṁ lmaḥ savaḥ kāṅin-aṅinan· tka ri kǝbvanya blaḥ 1 sahuvus· kapāṭa, manhǝn ataḥ parṇnahnikā lma-
+<lb n="3.4" break="no"/>ḥ kāṅin-aṅinan· An· maṅkai, kevalā saṁ hyaṁ kuṭi riṅ amr̥tamaṅgalātaḥ pramāṇa Irikā kabaiḥ, tka ri salbak·-vukirnya kabeḥ makādi savaḥ prakāra, kunaṁ pva kadeyaknanikaṁ vanva
+<lb n="3.5"/>riṅ añjatan· tka riṁ kalpi<unclear>ka</unclear> mamarāśraya, An kapvātaḥ kumatuturaknaṁi sapūrbvasthiti, pratidina mabuncaṁ-hajya riṁ samananāni<unclear>ka pa</unclear>hayvan· saṁ hyaṁ kuṭi Iṅ amr̥tamaṅgala Aṅkǝn· manis·, ku<lb 
+n="3.6" break="no"/>meṇḍǝṁ tikā tka ri kadeyaknanikanaṁ piṅhai makurug anak thāni vatǝk· girim baṅi, tka ri sapiṅgir· siriṁnikaṁ vanva riṅ añjatan·, karuhun· saṅ inanugrahan· śrī mahārāja mapaknā Irikanaṁ girim ba<lb 
+n="3.7" break="no"/>ṅi, tka ri saṅ anā<supplied reason="omitted">ga</supplied>ta vineḥ girim baṅi, Apan· thāni vatǝk· girim baṅi tatvabhūtanya ṅūni, samaṅkana samgat· Aṅin-aṅin· maṅkai lāvan saṅ anāgatāṅin-aṅin·, An samatǝkyǝna ta sira Umimbuha sa<lb 
+n="3.8" break="no"/>kaparipūrṇnāknani damǝl· śrī mahārāja saṁ hyaṁ kuṭi Iṅ amr̥tamaṅgala, makavuṁka<unclear>la</unclear>na I tan· hananira deyan umulah-<unclear>u</unclear>laha Ikanaṁ vanva Iṅ añjatan· tka ri savaḥnya, mvaṁ Ikanaṁ lmaḥ savaḥ kā<lb 
+n="3.9" break="no"/>ṅin-aṅinan· ṅuniveḥ kǝbvanya blaḥ <num value="1">1</num> yathānya tan pamuhara pramāda magǝ:ṁ I sira, Āpan· sampun· pagǝḥni rasa saṁ hyaṁ rājapraśāsti pagǝ-pagǝḥ I kasusukanikanaṁ vanva Iṅ añjatan· masavaḥ tampaḥ <num value="1">1</num>
+<lb n="3.10"/>blaḥ <num value="1">1</num> lāvan ikanaṁ savaḥ lmaḥ kāṅin-aṅinan· tka ri kǝbvanya blaḥ <num value="1">1</num> ṅuniveḥ lbak·-vukirnya kabeḥ, maṁkana rasa saṁ hyaṅ ājñā haji praśāsti pagǝ-pagǝḥ ri kasus<unclear>u</unclear>kanikaṁ vanva riṅ añjatan· tka riṁ savaḥ kāṅi<lb 
+n="3.11" break="no"/>n-aṅinan· de śrī mahārāja, meṅǝt pva mpuṁku I tinakǝr· ryy ātiśayani kavaṅunan· saṁ hyaṁ buddhaśāśana de śrī mahārāja, ri huvus· mpuṁku I tinakǝr· pinadamlakan· śrī mahārāja kuṭi riṅ am<unclear>r̥</unclear>tama<lb 
+n="3.12" break="no"/>ṅgala, Andǝlanani buddha-prativimba-namaskāra mpu<unclear>ṁ</unclear>ku I tinakǝr·, makabhuktyan· Ikanaṁ vanva riṅ añjatan·, lāvan ikanaṁ savaḥ lmaḥ kāṅin-aṅinan· mataṁnyan· paṁhaturakǝn· mpuṁku I tinakǝr· mās <abbr><supplied reason="omitted">s</supplied>u</abbr> <num value="5">5</num> <abbr>mā</abbr></p><!-- add part="F" on final <p> -->
+         </div>
+         <div type="apparatus">
+           <!--apparatus encoded as per EGD §9.1, basic elements for apparatus below-->
+               <listApp><!-- one <app> for each apparatus entry -->
+<app loc="2.1">
+	<lem>kaR̥<unclear>ṁR̥</unclear>ṅan·</lem>
+	<note>Cf. Baru (23), Gandhakuti (3r4).</note>
+</app>
+<app loc="2.4"><lem>riṅ añjatān·</lem>
+<note>That this toponym should be read añjatān· and not ṅañjatān· is demonstrated by the reference to a rakyrān· Añjatan in Dalinan (4r3).</note>
+</app>
+               </listApp>
+         </div>
+         <div type="translation" resp="part:argr">
+ 	<!--translation encoded as per EGD §9.2 -->
+         </div>
+         <div type="commentary">
+            <!--commentary encoded as per section §9.3 -->
+         </div>
+        <div type="bibliography">
+	<!--bibliography encoded as per section §9.4 -->
+	<!-- NB: you are encouraged to experiment with encoding bibliography to the extent you have the bibliographic data available, but it is not mandatory at this stage, because our bibliographic data are normally assembled along with other metadata in spreadsheets and will be imported from there into our xml files by a semi-automated process at a later stage. -->
+           <p><!-- formulate epigraphic lemma here, using the items of primary bibliography --></p>
+        	<listBibl type="primary">
+				<bibl n="siglum"/><!-- one <bibl/> per item of primary bibliography. Every entry mentionned in apparatus  should hava a @n to declare its sigla -->
+			</listBibl>
+           <listBibl type="secondary">
+              <bibl/><!-- one <bibl/> per item of secondary bibliography -->
+           </listBibl>
+        </div>
+      </body>
+  </text>
+</TEI>
