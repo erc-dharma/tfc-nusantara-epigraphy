@@ -43,7 +43,7 @@
                </msContents>
                <physDesc>
                   <handDesc>
-                     <p>The hand seems similar to inscriptions of the late fourteenth century, early fifteenth, albeit with less flourish than those of the Western kraton. <foreign>Cakra</foreign>s and <foreign>virama</foreign>s descending below the x-line are particularly emphasized, stretching in long horizontal threads below the line.</p>
+                     <p>The hand seems similar to inscriptions of the late fourteenth century, early fifteenth, albeit with less flourish than those of the Eastern kraton. <foreign>Cakra</foreign>s and <foreign>virama</foreign>s descending below the x-line are particularly emphasized, stretching in long horizontal threads below the line.</p>
                      <!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EG 11.2. -->
                   </handDesc>
                </physDesc>
@@ -82,22 +82,17 @@
    <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="kaw-Latn">
-<p><pb n="15r"/>
-<lb n="15r1"/>vat <!--possibility of starting with break="no" here?, and restoring yāvat?--> ikaṁ vvaṁ tan magəhakən tan akmitike saṁ hyaṅ ājñā haji praśāsti, kmitani saṁ hyaṁ dharmmeṅ satyapurā, sāvakanya, mon brahmaṇa,
-<lb n="15r2"/>kṣatriya, vaiśya, <choice><reg>śūdra</reg><orig>ṣudra</orig></choice>, piṁhe, vahuta rama, Asiṁ sakavvaṅanya, yāvat umulah-ulaḥ pagəḥnyānugraha śrī mahārāja, ta
-<lb n="15r3" break="no"/>smāt· kabvataknanya, patyananta hyaṁ kamuṁ hyaṁ, deyantat patīya, tan panoliha ri vuntat·, tan tiṅhala ri likuran·
-<lb n="15r4"/>taruṁ riṁ paṅadəgan·, tāmpyal· ri hiriṅan·, Uvahi ri təṅənan·, tutuhuṇḍu hatinya, rantan ususnya, vətvakən daL̥manya, si
-<lb n="15r5" break="no"/>vakapālanya, paṅan dagiṁnya, Inum raḥnya, pəpədakən· vkasakən prāṇāntika, maṅkana yan pareṅ alas·, paṅanən iṁ moṁ, sahu  <pb n="15v" break="no"/><fw n="15v" rend="tb-rotated" place="left">
-    <num value="15">15</num>
-  </fw><lb n="15v1" break="no"/>tən iṅ ulā mandhi, yapvan pareṁ tgal· sambəR̥n iṁ glap·, yapvan pareṁ vve, saṁhapən iṁ vuhaya, Alapən iṁ daL̥m er·, Umu-
-<lb n="15v2" break="no"/>ṅgv iṅ umaḥ, Avuka tan təmu sama, saṁsāra tanpa bisa //</p>
+<pb n="15r"/>
+<p part="F"><lb n="15r1"/>vat <!--possibility of starting with break="no" here?, and restoring yāvat?--> ikaṁ vvaṁ tan magəhakən tan akmit ike saṁ hyaṅ ājñā haji praśāsti, kmitani saṁ hyaṁ dharmmeṅ satyapurā, sāvakanya, mon br<choice><orig>a</orig><reg>ā</reg></choice>hmaṇa,
+<lb n="15r2"/>kṣatriya, vaiśya, <choice><reg>śūdra</reg><orig>ṣudra</orig></choice>, piṁhe, vahuta rama, Asiṁ sakavvaṅanya, yāvat umulah-ulaḥ pagəḥnyānugraha śrī mahārāja, ta<lb n="15r3" break="no"/>smāt· kabvataknanya, patyananta hyaṁ kamuṁ hyaṁ, deyantat patīya, tan panoliha ri vuntat·, tan tiṅhala ri likuran·
+<lb n="15r4"/>taruṁ riṁ paṅadəgan·, tāmpyal· ri hiriṅan·, Uvahi ri təṅənan·, tutuh uṇḍu hatinya, rantan ususnya, vətvakən daL̥manya, si<lb n="15r5" break="no"/>va<choice><orig>k</orig><reg>k k</reg></choice>apālanya, paṅan dagiṁnya, Inum raḥnya, pəpədakən· vkasakən prāṇāntika, maṅkana yan pareṅ alas·, paṅanən iṁ moṁ, sahu<pb n="15v" break="no"/><fw n="15v" rend="tb-rotated" place="left">
+    <num value="15">15</num></fw><lb n="15v1" break="no"/>tən iṅ ulā mandhi, yapvan pareṁ tgal· sambəR̥n iṁ glap·, yapvan pareṁ vve, saṁhapən iṁ vuhaya, Alapən iṁ daL̥m er·, Umu<lb n="15v2" break="no"/>ṅgv iṅ umaḥ, Av<choice><orig>u</orig><reg>ū</reg></choice>ka tan təmu s<choice><orig>a</orig><reg>ā</reg></choice>ma, saṁsāra tan pabisa //</p>
 <p>
-<foreign xml:lang="san-Latn">yāvac chandraś cha sūryyaś cha, bhuvanāni prakāśate</foreign> // den kadi lavasaṁ <!--add normalization with <choice><orig>lavasaṁ</orig><reg>lavas saṁ</reg></choice>?-->
-<lb n="15v3"/>hyaṁ candrāditya, sumnəṅ aṇḍabhuvana, maṅkana lavasanikaṁ vvaṅ amuktya saṁsāra riṅ ihatra paratra, phalanyan anyā<unclear>y</unclear>apravr̥tti
- <lb n="15v4" break="no"/>nya, yan ahyun anirṇnakna saṁ hyaṅ ājñā haji praśāsti, śrī vikramavarddhanalăñchaṇa, kmitanikanaṁ dharmmeṁ satyapurā, maṅkana
+<foreign xml:lang="san-Latn">yāvac chandraś cha sūryyaś cha, bhuvanāni prakāśate</foreign> // den kadi <choice><orig>lavasaṁ</orig><reg>lavas saṁ</reg></choice> <!--add normalization with <choice><orig>lavasaṁ</orig><reg>lavas saṁ</reg></choice>?-->
+<lb n="15v3"/>hyaṁ candrāditya, sumnəṅ aṇḍabhuvana, maṅkana lavasanikaṁ vvaṅ amuktya saṁsāra riṅ ihatra paratra, phalanyan anyā<unclear>y</unclear>apravr̥tti<lb n="15v4" break="no"/>nya, yan ahyun anirṇnakna saṁ hyaṅ ājñā haji praśāsti, śrī vikramavarddhanalăñchaṇa, kmitanikanaṁ dharmmeṁ satyapurā, maṅkana
 <lb n="15v5"/>rasany ānugraha pāduka śrī mahārāja // 0 //
 </p>
-<ab>om̐ vāgīśvaryyai namaḥ, siddhir astu, o<supplied reason="lost">ṁ</supplied> // o //</ab>
+<ab>Om̐ vāgīśvaryyai namaḥ, siddhir astu, O<supplied reason="lost">ṁ</supplied> // o //</ab>
          </div>
          <div type="apparatus">
     <!--MS: Brandes' readings still need to be added-->
@@ -177,7 +172,7 @@
                       <rdg source="bib:Boechari1985-1986_01">vāgīśvaryai ya</rdg>
                   </app>
                   <app loc="15v5">
-                      <lem>siddhir astu, o<supplied reason="lost">ṁ</supplied></lem>
+                      <lem>siddhir astu, O<supplied reason="lost">ṁ</supplied></lem>
                       <note>Boechari omits the punctuation.</note>
                   </app>
                </listApp>

@@ -39,7 +39,7 @@
                   <!-- don't modify this -->
                </msIdentifier>
                <msContents><!-- describe the intellectual content of an inscription -->
-                  <summary><!-- //// NOT MANDATORY  ////--></summary>
+                  <summary>This inscription and that of <ref target="Parung_II.xml">Parung II</ref> are two copies of the same document: a victory charter (<foreign>jaya soṅ</foreign>) issued in favor of the elders of Paruṅ. Both copies are fragmentary documents: based on their contents, these isolated copper plates form the last plates of what must have been a larger set. In each case, the preserved text begins in the middle of a word: <foreign>mani uṅsun</foreign>. Parung I is the most complete copy of the two. While the last lines of the document are preserved in Parung I, <ref target="Parung_II.xml">Parung II</ref> breaks off with the words <foreign>muṅvakna mne hləm</foreign>, making for a difference of roughly two lines between the two copies.</summary>
                   <!-- offers the possibility to give a summary of the inscription's content -->
                </msContents>
                <physDesc>
@@ -109,7 +109,7 @@
                   </app>
                   <app loc="1r4">
                   <lem source="bib:CohenStuart1875_01 bib:Boechari1985-1986_01">varaṁ</lem>
-                  <note>Emend <foreign>viraṁ</foreign>? The expression <foreign>tan viraṅ</foreign> or <foreign>tan aviraṅ</foreign> occurs in a variety of Old Javanese sources, including in the <title>Sumanasāntaka</title>, in the <title>Bhomāntaka</title>, etc.</note>
+                  <note>Emend <foreign>viraṁ</foreign>? The expression <foreign>tan viraṅ</foreign> or <foreign>tan aviraṅ</foreign> occurs in a variety of Old Javanese sources, including in the <foreign>kakavin</foreign> <title>Sumanasāntaka</title>, <title>Bhomāntaka</title>, <title>Bharatayuddha</title> 29.4b (<foreign>males mojar koṅ wök tan awiraṅ ikiṅ moha kuhaka</foreign>, ), <title>Ghatotkacāśraya</title> (<foreign>ndan maṅke təḍanən ri tan viraṅani ṅvaṅ avədi katəkāna duryaśa</foreign>, 43.5) etc.</note>
                   </app>
                </listApp>
          </div>
