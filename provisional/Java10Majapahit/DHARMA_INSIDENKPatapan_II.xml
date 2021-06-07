@@ -152,7 +152,7 @@
                       <rdg source="bib:Boechari1985-1986_01">taraṅsan</rdg>
                   </app>
                   <app loc="1v4">
-                      <lem>aṁga<add place="below" rend="kākapada"><unclear>ra</unclear></add>rjja</lem>
+                      <lem>aṁga<add place="below" rend="mark"><unclear>ra</unclear></add>rjja</lem><!-- rend = kākapada -->
                       <rdg source="bib:Boechari1985-1986_01">aṁgarjja</rdg>
                       <note>There is a clear <foreign>kākapada</foreign> sign above the line, while the syllable to be inserted is noted below. The reading of that syllable is not entirely certain.</note>
                   </app>
