@@ -121,7 +121,7 @@
                   </app>
                   <app loc="1r1">
                       <lem>b<choice><sic>u</sic><corr>a</corr></choice>ḍuga</lem>
-                      <rdg source="bib:Holle1867_02 bib:Pleyte1911_01 bib:Boechari1985-1986_01 bib:HasanDjafar1991_0">baduga</rdg>
+                      <rdg source="bib:Holle1867_02 bib:Pleyte1911_01 bib:Boechari1985-1986_01 bib:HasanDjafar1991_01">baduga</rdg>
                       <note>Looking at the element <foreign>baduga</foreign> in <ref target="DHARMA_INSIDENKBatutulis.xml">Batutulis</ref>, it is clear that <foreign>buduga</foreign> here must be an error, which all previous editors have either failed to notice or silently corrected. OS manuscripts always have <foreign>baduga</foreign> (cf. CP.30a, AG.1v). This word is probably a Sundanese development of Skt. <foreign>pāduka</foreign>.</note>
                   </app>
                     <app loc="1r2">
@@ -130,8 +130,8 @@
                   </app>
                   <app loc="1r2">
                         <lem>ma na</lem>
-                        <rdg source="bib:Holle1867_02 bib:Pleyte1911_01 bib:Boechari1985-1986_01 bib:HasanDjafar1991_0">mana</rdg>
-                      <note>All predecessors read as one word, mana, on which <ptr target="bib:Boechari19851985-1986_01"/> and <ptr target="bib:HasanDjafar1991_01"/> note <quote>Maksudnya: nana</quote>.</note>
+                        <rdg source="bib:Holle1867_02 bib:Pleyte1911_01 bib:Boechari1985-1986_01 bib:HasanDjafar1991_01">mana</rdg>
+                      <note>All predecessors read as one word, mana, on which <ptr target="bib:Boechari1985-1986_01"/> and <ptr target="bib:HasanDjafar1991_01"/> note <quote>Maksudnya: nana</quote>.</note>
                   </app>
                     <app loc="1r2">
                         <lem>lə<lb n="1r3" break="no"/>maḥ</lem>
