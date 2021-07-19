@@ -100,31 +100,31 @@
  	<listApp>
                   <app loc="4">
                      <lem>parānnikā</lem>
-                     <rdg source="bib:Stutterheim1940_02 bib:MachiSuhadi+Sukarto1986_01">parānnika</rdg>
+                     <rdg source="bib:Stutterheim1940_02 bib:MachiSuhadi+SukartoAtmodjo1986_01">parānnika</rdg>
                   </app>
 	<app loc="5">
                      <lem>vur<unclear>u</unclear>ntuṁ</lem>
-                     <rdg source="bib:Stutterheim1940_02 bib:MachiSuhadi+Sukarto1986_01">varantuṁ</rdg>
+                     <rdg source="bib:Stutterheim1940_02 bib:MachiSuhadi+SukartoAtmodjo1986_01">varantuṁ</rdg>
                   </app>
                   <app loc="8">
                      <lem>kuḍu</lem>
                      <rdg source="bib:Stutterheim1940_02">kuḍa</rdg>
-	       <rdg source="bib:MachiSuhadi+Sukarto1986_01">kudu</rdg>
+	       <rdg source="bib:MachiSuhadi+SukartoAtmodjo1986_01">kudu</rdg>
 	       <note>Stutterheim's reading is no doubt a misprint, as we find Kuḍu in his translation. The reading of Machi Suhadi &amp; Soekarto very frequently, as here, fails to distinguish <foreign>ḍ</foreign> from <foreign>d</foreign>.</note>
                   </app>
 	<app loc="8">
                      <lem>sukha</lem>
-                     <rdg source="bib:Stutterheim1940_02 bib:MachiSuhadi+Sukarto1986_01">suku</rdg>
+                     <rdg source="bib:Stutterheim1940_02 bib:MachiSuhadi+SukartoAtmodjo1986_01">suku</rdg>
 	       <note>It would be possible to read <unclear>sukhu</unclear>, but <unclear>suku</unclear> is out of the question.</note>
                   </app>
 	<app loc="9">
-                     <lem source="bib:MachiSuhadi+Sukarto1986_01">samvok·</lem>
+                     <lem source="bib:MachiSuhadi+SukartoAtmodjo1986_01">samvok·</lem>
                      <rdg source="bib:Stutterheim1940_02">sambok·</rdg>
                   </app>
 	<app loc="9">
                      <lem>Umeḥhakan·n ikāṁ</lem>
                      <rdg source="bib:Stutterheim1940_02">Unmeḥhakan· nikāṁ</rdg>
-	       <rdg source="bib:MachiSuhadi+Sukarto1986_01">Umeḥhakan· nikāṁ</rdg>
+	       <rdg source="bib:MachiSuhadi+SukartoAtmodjo1986_01">Umeḥhakan· nikāṁ</rdg>
 	<note>The intrusion of <foreign>n</foreign> into Stutterheim's reading is presumably a mere misprint; the fact that he (as subsequently Machi Suhadi &amp; Soekarto) inserts a space before <foreign>nikāṁ</foreign> reflects a difference in (or absentmindedness with regard to) grammatical analysis.</note>
                   </app>
 	  <app loc="10">
@@ -133,11 +133,11 @@
                   </app>
 	<app loc="10">
                      <lem>sukha</lem>
-                     <rdg source="bib:Stutterheim1940_02 bib:MachiSuhadi+Sukarto1986_01">sakha</rdg>
+                     <rdg source="bib:Stutterheim1940_02 bib:MachiSuhadi+SukartoAtmodjo1986_01">sakha</rdg>
                   </app>
 	<app loc="12">
                      <lem>va<choice><sic>d</sic><corr>n</corr></choice>va</lem>
-                     <rdg source="bib:Stutterheim1940_02 bib:MachiSuhadi+Sukarto1986_01">vanva</rdg>
+                     <rdg source="bib:Stutterheim1940_02 bib:MachiSuhadi+SukartoAtmodjo1986_01">vanva</rdg>
                   </app>
                </listApp>         
          </div>
@@ -208,10 +208,10 @@ Zoetmulder suggests that the Old Javanese usage goes back to <q><foreign>dewagar
 <p n="12">The meaning of <foreign>satetīsus</foreign> remains obscure. Could sate be an error for <foreign>saṅke</foreign>, and the last sentence be translated as <q>Written by Jyotiḥ from Tīsus</q>?</p>
          </div>
         <div type="bibliography">
-           <p>First edited by W. F. Stutterheim (<bibl><ptr target="bib:Stutterheim1940_02"/></bibl>), with a photographic reproduction of the plate and a translation into Dutch. Not included in <bibl><ptr target="bib:Sarkar1971-1972_01"/></bibl>, but re-edited with a translation into Indonesian by Machi Suhadi &amp; M.M. Soekarto (<bibl><ptr target="bib:MachiSuhadi+Sukarto1986_01"/><citedRange unit="page">29-33</citedRange></bibl>), who do not cite Stutterheim but obviously made use of his publication. Re-edited here again by Arlo Griffiths from the OD photos, with a translation into English.</p>
+           <p>First edited by W. F. Stutterheim (<bibl><ptr target="bib:Stutterheim1940_02"/></bibl>), with a photographic reproduction of the plate and a translation into Dutch. Not included in <bibl><ptr target="bib:Sarkar1971-1972_01"/></bibl>, but re-edited with a translation into Indonesian by Machi Suhadi &amp; M.M. Soekarto (<bibl><ptr target="bib:MachiSuhadi+SukartoAtmodjo1986_01"/><citedRange unit="page">29-33</citedRange></bibl>), who do not cite Stutterheim but obviously made use of his publication. Re-edited here again by Arlo Griffiths from the OD photos, with a translation into English.</p>
 	<listBibl type="primary">
 		<bibl n="S"><ptr target="bib:Stutterheim1940_02"/></bibl>
-		<bibl n="MS&amp;S"><ptr target="bib:MachiSuhadi+Sukarto1986_01"/><citedRange unit="page">29-33</citedRange></bibl>
+		<bibl n="MS&amp;S"><ptr target="bib:MachiSuhadi+SukartoAtmodjo1986_01"/><citedRange unit="page">29-33</citedRange></bibl>
 	</listBibl>
  	<listBibl type="secondary">
 		<bibl><ptr target="bib:OV1938"/><citedRange>19, 21</citedRange></bibl>
