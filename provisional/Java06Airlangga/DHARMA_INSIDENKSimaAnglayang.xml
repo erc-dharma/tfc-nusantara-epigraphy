@@ -77,6 +77,7 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
+          <change who="part:ekba" when="2020-08-12" status="draft">updated the encoding up to 4v7</change>
          <change who="part:axja" when="2020-11-03" status="draft">Updating toward the encoding template v03</change>
          <change who="part:ekba " when="2020-10-10" status="draft">encoded plate 5, 8, and 9</change>
          <change who="part:ekba " when="2020-05-19" status="draft">continued tagging the lines of text and added apparatus</change>
@@ -91,10 +92,10 @@
         <body>
             <div type="edition" xml:lang="kaw-Latn">
            <p><pb n="4r"/>
-<lb n="4r1"/><unclear>rihaśa</unclear>, <unclear>A</unclear>nn ikaṁ pjaḥ Anāpatya ta ṅaranikā<unclear>ṁ</unclear> magavaya yaśa, ma<add place="below" rend="mark">ka</add>phalā svarga <supplied reason="omitted">ka</supplied>lpasanya saṁka ri pañc<choice><orig>ā</orig><reg>a</reg></choice>gatisaṁsāra, saduman marerikaṁ sumaṅgaḥ <unclear>dara</unclear><gap reason="lost" quantity="1" unit="character"/><lb n="4r2" break="no"/><gap reason="lost" quantity="1" unit="character"/><unclear>·</unclear> simāṅlayaṁ, tan hana deyan· v<unclear>i</unclear>haṅa, mvaṁ tan sor·-lviha deniṁ madum· dr̥byanikaṁ pjaḥh anāpatya, maṅkana tiṅkaḥ vidhi pāduka śrĭ mahārāja I
-<lb n="4r3"/>mpuṅku śaiva sogata R̥ṣi mahābrāhmaṇa, mvaṁ baṇigrāma para vulu pañcadeśa, tka rikaṁ simāṅlayaṁ, samaṅāśraya I saṁ hyaṁ sarvvadharmma, mvaṁ samaṅasth<supplied reason="lost">ā</supplied><lb n="4r4" break="no"/>na I jātakanira, makatəvək· ri kālani kocapanikaṁ Adagaṁ pjaḥ Anāpatya riṁ yaso mva<supplied reason="lost">ṁ</supplied> mpuṅku riṁ yaśo ḍaṅ āryya jñănasena, yathānya<lb n="4r5" break="no"/>n menaka patut· padulur· mpuṅku śaiva sogata R̥ṣi, mahābrāhmaṇa, mvaṁ baṇigrāma para vulu pañcadeśa, sama marāśraya ri sa<unclear>ṁ</unclear> hyaṁ sarvvadha<lb n="4r6" break="no"/>rmma, Apan· kapvāpagəḥ rasa saṁ hyaṁ Ajñā haji praśāsti kmitanira riṁ muhun malama, Atəhər tājñā pāduka śrĭ mahārāja, I baṇigrāma para vulu pa<lb n="4r7" break="no"/>ñcadeśa, tka rikanaṁ sīmāṅlayaṁ samaṅasthăna I saṁ hyaṁ sarvvadharmma, An meṅətātaḥ baṇigrāma mvaṁṅ ikanaṁ sīmāṅlayaṁ kabeḥ samaṅāśraya ri saṁ hyaṁ <supplied reason="omitted">sarvva</supplied> dha<pb n="4v" break="no"/><fw n="4v" place="left"><num value="4">4</num></fw><lb n="4v1" break="no"/><unclear>r</unclear>mma tka ri jātakanira, Irikana<unclear>ṁ</unclear> pūrvvasthiti sapinahayuni mamarāśraya ri lāgi, tan deyən· madaməl·-damla puriḥ, makaphalā tan pamuharānya <supplied reason="lost">p</supplied>r<supplied reason="lost">a</supplied><lb n="4v2" break="no"/>māda magəhi baṇigrāma tka rikanaṁ sīmāṅlayaṁ kabeḥ, samaṅkana ri sḍəṅanyan· tan aṅgā baṇigrāma mvaṁ Ikanaṁ sĭmāṅlayaṁ kabeḥ, Irikanaṁ vi<unclear>dh</unclear><supplied reason="lost">i</supplied>
+<lb n="4r1"/><unclear>v</unclear>iha<unclear>ṅa</unclear>, <unclear>A</unclear>nn ikaṁ pjaḥ Anāpatya ta ṅaranikā<unclear>ṁ</unclear> magavaya yaśa, ma<add place="below" rend="mark">ka</add>phalā svarga <supplied reason="omitted">ka</supplied>lpasanya saṁka ri pañcāgatisaṁsāra, sadŭman marerikaṁ sumaṅgaḥ <unclear>mara</unclear><lb n="4r2" break="no"/><gap reason="lost" quantity="1" unit="character"/><unclear>·</unclear> simāṅlayaṁ, tan hana deyan· v<unclear>i</unclear>haṅa, mvaṁ tan sor·-lviha deniṁ madum· dr̥byanikaṁ pjaḥh anāpatya, maṅkana tiṅkaḥ vidhi pāduka śrĭ mahārāja I
+<lb n="4r3"/>mpuṅku śaiva sogata R̥ṣi mahābrāhmaṇa, mvaṁ baṇigrāma para vulu pañcadeśa, tka rikaṁ simāṅlayaṁ, samaṅāśraya I saṁ hyaṁ sarvvadharmma, mvaṁ samaṅasth<supplied reason="lost">ā</supplied><lb n="4r4" break="no"/>na I jātakanira, makatəvək· ri kālani kocapanikaṁ Adagaṁ pjaḥ Anāpatya riṁ yaso mva<supplied reason="lost">ṁ</supplied> mpuṅku riṁ yaśo ḍaṅ āryya jñănasena, yathānya<lb n="4r5" break="no"/>n menaka patut· padulur· mpuṅku śaiva sogata R̥ṣi, mahābrāhmaṇa, mvaṁ baṇigrāma para vulu pañcadeśa, sama marāśraya ri sa<unclear>ṁ</unclear> hyaṁ sarvvadha<lb n="4r6" break="no"/>rmma, Apan· kapvāpagəḥ rasa saṁ hyaṁ Ajñā haji praśāsti kmitanira riṁ muhun malama, Atəhər tājñā pāduka śrĭ mahārāja, I baṇigrāma para vulu pa<lb n="4r7" break="no"/>ñcadeśa, tka rikanaṁ sīmāṅlayaṁ samaṅasthăna I saṁ hyaṁ sarvvadharmma, An meṅətātaḥ baṇigrāma mvaṁṅ ikanaṁ sīmāṅlayaṁ kabeḥ samaṅāśraya ri saṁ hyaṁ <supplied reason="omitted">sarvva</supplied> dha<pb n="4v" break="no"/><fw n="4v" place="left"><num value="4">4</num></fw><lb n="4v1" break="no"/><unclear>r</unclear>mma tka ri jātakanira, Irikana<unclear>ṁ</unclear> pūrvvasthiti sapinahayuni mamarāśraya ri lāgi, tan deyən· madaməl·-damla puriḥ, makaphalā tan pamuharānya <supplied reason="lost">p</supplied>r<supplied reason="lost">a</supplied><lb n="4v2" break="no"/>māda magə<choice><sic>h</sic><corr>ṅ </corr></choice>i baṇigrāma tka rikanaṁ sīmāṅlayaṁ kabeḥ, samaṅkana ri sḍəṅanyan· tan aṅgā baṇigrāma mvaṁ Ikanaṁ sĭmāṅlayaṁ kabeḥ, Irikanaṁ vi<unclear>dh</unclear><supplied reason="lost">i</supplied>
 <lb n="4v3"/>pāduka śrĭ mahārāja, An· hayva baṇigrāma mvaṁṅ ikaṁ sīmāṅlayaṁ kabeḥ tamolaḥ mamarāśraya ri saṁ hyaṁ sarvvadharmma, yan· maṁkanā yāpvan·
-<lb n="4v4"/>hana baṇigrāma mvaṁṅ ikaṁ sĭmāṅlayaṁ kamatān· kentasa tan pasuṁ ri kapālihani dr̥byanika<unclear>ṁ</unclear> madaga<unclear>ṁ</unclear> pjaḥ Anăpatya, yāvat tamolaḥ I saṁ hyaṁ sarvva<lb n="4v5" break="no"/>dharmma, mvaṁ paṅasthāna ri jātakanira, ya saṁkanāni pramādanya, salvirniṁ laṅghana I saṁ hyaṁṅ ājñā haji lvirānya, knāna ya nigraha, <abbr>mā</abbr> <abbr><unclear>k</unclear>ā</abbr> <num value="1">1</num>, <abbr>su</abbr> <num value="5">5</num> <g type="ddandaOrnate">.</g>
+<lb n="4v4"/>hana baṇigrāma mvaṁṅ ikaṁ sĭmāṅlayaṁ kamatān· kentasa tan pasuṁ ri kapālihani dr̥byanika<unclear>ṁ</unclear> madaga<unclear>ṁ</unclear> pjaḥ Anăpatya, yāvat tamolaḥ I saṁ hyaṁ sarvva<lb n="4v5" break="no"/>dharmma, mvaṁ <choice><sic>p</sic><corr>p</corr></choice>aṅasthāna ri jātakanira, ya saṁkanāni pramādanya, salvirniṁ laṅghana I saṁ hyaṁṅ ājñā haji lvirānya, knāna ya nigraha, <abbr>mā</abbr> <abbr><unclear>k</unclear>ā</abbr> <num value="1">1</num>, <abbr>su</abbr> <num value="5">5</num> <g type="ddandaOrnate">.</g>
 <lb n="4v6"/>maṅkana rasany anugraha pāduka śrĭ mahārāja, I mpu<choice><sic>ṇ</sic><corr>ṅ</corr></choice>ku śeva sogata R̥ṣi mahăbrāhmaṇa, kapagəhaknanira hlam· tka ri dlāhaniṁ dlāha<unclear>,</unclear> pra<lb n="4v7" break="no"/>tyeka taṇḍa rakryān· ri pakira-kirān·<add place="above">,</add> pinakasākṣīrikaṁ kāla, samgət· laṅka pu liṅir·, samgət· maṁhuryy aṅilala pu candragomi, samgət·
                <pb n="5r"/>
 <lb n="5r1"/>t<unclear>i</unclear>rvan· pu puṇḍarīka, samgǝt· luc<unclear>ǝ</unclear>m· ka<unclear>baya</unclear>n· pu <unclear>minaghna</unclear>pāda, samgǝt· <gap reason="lost" quantity="3" unit="character"/>· kabayan· pu <gap reason="lost" quantity="2" unit="character"/>, rakryan· lasun· mapapan· pu maṅuṇḍuḥ, rakrya<lb n="5r2" break="no"/>n· <unclear>rahuram</unclear>· kabayan· pu A <gap reason="lost" quantity="3" unit="character"/>, rakryan· <unclear>ja</unclear>sun· vuṅkal· pu <gap reason="lost" quantity="3" unit="character"/>· makādi <add place="below">ra</add>kryan· kanuruhan· pu dharmmamūrtti narot<supplied reason="omitted">t</supplied>ama dānaśūra pasǝk· <abbr><unclear>mā</unclear></abbr>
@@ -157,71 +158,40 @@
                 <!--apparatus encoded as per EG §9.1, basic elements for apparatus below-->
                 <listApp>
                     <app loc="4r1">
-                        <lem source="bib:TitiSurtiNastiti2016_01"><unclear>rihaśa</unclear></lem>
-                        <note>The reading, if it is correct, could be the three last syllables of a variant spelling of the word <foreign>parihāsa</foreign> “ridicule”. We suspect it is possible to read <foreign>vihaṅa</foreign> instead (cf. occurrence of this word in 4r2), and a third possibility might be to read <foreign>ribhaśa</foreign> which could be the remnant of <foreign>paribhaśa</foreign>, variant spelling of <foreign>paribhāṣa</foreign> “proverb”.</note>
+                        <lem><unclear>v</unclear>iha<unclear>ṅa</unclear></lem>
+                        <note>The reading is quite uncertain, but there is an occurrence of <foreign>vihaṅa</foreign> word in line 2.</note>
                     </app>
-                    <app loc="4r1">
-                        <lem source="bib:TitiSurtiNastiti2016_01"><unclear>A</unclear>nn</lem>
-                        <note>It would also seem possible to read <foreign><unclear>ta</unclear>nn</foreign>.</note>
-                        </app>
                 <app loc="4r1">
-                        <lem source="bib:TitiSurtiNastiti2016_01">pjaḥ Anāpatya</lem>
-                        <note>In the absence of a complete context, it is hard to be sure, but we strongly expect a scribal error here, because the sentence would seem to make much better sense if it were <foreign>pjaḥ tan· Anāpatya</foreign>.</note>
+                        <lem>ikaṁ pjaḥ Anāpatya</lem>
+                        <note>The sense seems to require supplying <foreign>tan</foreign> either before <foreign>pjaḥ</foreign> or before <foreign>Anāpatya</foreign>.</note>
+                </app>
+                     <app loc="4r1">
+                        <lem>magavaya yaśa</lem>
+                        <note>Correct <foreign>magavay· yaśa</foreign>? Cf. <ref target="DHARMA_INSIDENKPucangan.xml">Pucangan</ref> B30 <foreign>madamǝl· yaśa</foreign>.</note>
                 </app>
                     <app loc="4r1">
-                        <lem>ma<add place="below" rend="mark">ka</add>phalā</lem>
-                        <rdg source="bib:TitiSurtiNastiti2016_01">makapalā</rdg>
+                        <lem>svarga <supplied reason="omitted">ka</supplied>lpasanya saṁka ri pañcāgatisaṁsāra</lem>
+                        <note>Cf. Agastyaparva (<bibl><ptr target="bib:Gonda1933_02"/><citedRange unit="page">395</citedRange>, <citedRange unit="line">24</citedRange></bibl> <foreign>yatanyan lǝpasa saṅka riṅ pisañcagati-saṅsārārṇava</foreign> and Saṅ Hyaṅ Hayu (<bibl><ptr target="bib:UndangADarsa1998_01"/><citedRange unit="page"> 159</citedRange>, §11 last paragraph</bibl>) <foreign>tan inucap makabalaṅ svarga kalpasǝn</foreign>.</note>
                     </app>
-                    <app loc="4r1">
-                        <lem>lpasanya</lem>
-                        <rdg source="bib:TitiSurtiNastiti2016_01">lpasannya</rdg>
-                    </app>
-                    <app loc="4r1">
-                        <lem>sumaṅgaḥ <unclear>dara</unclear><gap reason="lost" quantity="2" unit="character"/><unclear>·</unclear> simāṅlayaṁ</lem>
-                        <rdg source="bib:TitiSurtiNastiti2016_01">sumaṅga śimāṅlayaṁ</rdg>
-                    </app>
-                    <app loc="4r2">
-                        <lem>v<unclear>i</unclear>haṅa</lem>
-                        <rdg source="bib:TitiSurtiNastiti2016_01">vahaṅa</rdg>
-                    </app>
-                    <app loc="4r3">
-                        <lem>R̥ṣi</lem>
-                        <rdg source="bib:TitiSurtiNastiti2016_01">pr̥thi</rdg>
-                    </app>
-                    <app loc="4r3-4r4">
-                        <lem>samaṅasth<supplied reason="lost">ā</supplied>na</lem>
-                        <rdg source="bib:TitiSurtiNastiti2016_01">samaṅasthana</rdg>
-                        <note>See <foreign>paṅasthāna</foreign> elsewhere in this inscription.</note>
-                    </app>
-                    <app loc="4r5">
-                        <lem>R̥ṣi</lem>
-                        <rdg source="bib:TitiSurtiNastiti2016_01">pr̥thi</rdg>
-                    </app>
-                    <app loc="4r7">
-                        <lem>meṅətātaḥ</lem>
-                        <rdg source="bib:TitiSurtiNastiti2016_01">menətātaḥ</rdg>
+                    <app loc="4r6">
+                        <lem>muhun</lem>
+                        <note>The reading with <foreign>m-</foreign> is secure.</note>
                     </app>
                     <app loc="4v1">
-                        <lem source="bib:TitiSurtiNastiti2016_01">jātakanira</lem>
-                        <note>See <bibl><ptr target="bib:Casparis1940_01"/>, <citedRange>57-58</citedRange></bibl>, on the meaning of <foreign>jātaka</foreign>.</note>
-                        </app>
-                    <app loc="4v1">
-                        <lem>makaphalā</lem>
-                        <rdg source="bib:TitiSurtiNastiti2016_01">makaḍalā</rdg>
+                        <lem></lem><!--ekba2argr: Please suggest what to be inserted here-->
+                        <note>Cf. <ref target="DHARMA_INSIDENKKusambyan.xml">Kusambyan</ref> B32 and <ref target="DHARMA_INSIDENKAdulengen.xml">Adulengen</ref> 3r1–2 <foreign>tan pagavayakna puriḥ, mvaṁ vistăra, kevala sapūrvva-sthitinya sakapaṅgih riṁ muhun· malama juga pagəhaknanya lāvan tan· pintana saprakāra</foreign>.</note>
                     </app>
-                    <app loc="4v1">
-                        <lem>pamuharānya</lem>
-                        <rdg source="bib:TitiSurtiNastiti2016_01">puharanya</rdg>
+                    <app loc="4v1-4v2">
+                        <lem>makaphalā tan pamuharānya <supplied reason="lost">p</supplied>r<supplied reason="lost">a</supplied><lb n="4v2" break="no"/>māda magə<choice><sic>h</sic><corr>ṅ </corr></choice>i </lem>
+                        <note>Cf. <ref target="DHARMA_INSIDENKBaru.xml">Baru</ref> Cdef8 <foreign>yathānya tan· pamuhara pramāda riṁ sira</foreign> and <ref target="DHARMA_INSIDENKAnjatan.xml">Anjatan</ref> 4r9 <foreign>yathānya tan pamuhara pramāda magǝ:ṁ I sira</foreign>. The latter parallel makes clear that we need to correct <foreign>magəhi</foreign> to <foreign>magəṅ i</foreign>.</note>
                     </app>
                     <app loc="4v5">
-                        <lem><unclear>k</unclear>ā</lem>
-                        <rdg source="bib:TitiSurtiNastiti2016_01">śa</rdg>
+                        <lem>mvaṁ <choice><sic>p</sic><corr>m</corr></choice>aṅasthāna ri jātakanira</lem>
+                        <note>Cf. 4r3–4 <foreign>samaṅasth<supplied reason="lost">ā</supplied><lb n="4r4" break="no"/>na I jātakanira</foreign>.</note>                
                     </app>
-                    <app loc="4v6">
-                        <lem>mpu<choice><sic>ṇ</sic><corr>ṅ</corr></choice>ku</lem>
-                        <rdg source="bib:TitiSurtiNastiti2016_01">mpuṅku</rdg>
-                        <note>TSN adds a note “<foreign>Baca: mpuṅku</foreign>” which suggests she intended to read <foreign>mpuṇku</foreign>, as we find on the plate. Or course, this is a scribal error for or sloppy execution of <foreign>mpuṅku</foreign>.</note>
-                    </app>
+                    
+                    
+                    
                     <app loc="4v6">
                         <lem>R̥ṣi</lem>
                         <rdg source="bib:TitiSurtiNastiti2016_01">pr̥thi</rdg>
