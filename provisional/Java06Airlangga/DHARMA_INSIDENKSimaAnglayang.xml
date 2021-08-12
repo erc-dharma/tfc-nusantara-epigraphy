@@ -155,7 +155,6 @@
 <lb n="17v4"/>paroṇḍonan·, pasarpan·, poṣadhan·, Amet kaka, mvaṁṅ inaṁ, Aṁlpas· bhasmā, magalaḥ, mamanaḥ, magaṇḍi, mavuluṁ-vuluṁ, hulun haji, vatək i jro, si<lb n="17v5" break="no"/>ṅgaḥ, tumut· Usyan· śrĭ mahārāja, An· tan deyən ata kāminta tinuṇḍa, yatan pakasoṁ saṁ hyaṁ Ajñā haji, mvaṁ tan· paR̥but·-R̥butanăṅālapa<lb n="17v6" break="no"/>na yan· halintaṁ riṁ hnū gə:ṁ, kevalāgavayānurāga sopacārā I rikanaṁ tanayan thāni, samaṅkana sira ri parahasyan·, An tan· dumaṇāta sira sumaṅgaha Ika<lb n="17v7" break="no"/>ṅ vaṁ sahāyaniṅ amutra hyaṁ mvaṁ katibān· tulis kaṅāśvāsa, An· sampun· kinavruhan deni vvaṅ akveḥ ri tan· siṅgiḥnya makolah ikaṁ sapaṁdaliḥ Iriya, tka</p>
             </div>
             <div type="apparatus">
-                <!--apparatus encoded as per EG §9.1, basic elements for apparatus below-->
                 <listApp>
                     <app loc="4r1">
                         <lem><unclear>v</unclear>iha<unclear>ṅa</unclear></lem>
@@ -171,27 +170,27 @@
                 </app>
                     <app loc="4r1">
                         <lem>svarga <supplied reason="omitted">ka</supplied>lpasanya saṁka ri pañcāgatisaṁsāra</lem>
-                        <note>Cf. Agastyaparva (<bibl><ptr target="bib:Gonda1933_02"/><citedRange unit="page">395</citedRange>, <citedRange unit="line">24</citedRange></bibl> <foreign>yatanyan lǝpasa saṅka riṅ pisañcagati-saṅsārārṇava</foreign> and Saṅ Hyaṅ Hayu (<bibl><ptr target="bib:UndangADarsa1998_01"/><citedRange unit="page"> 159</citedRange>, §11 last paragraph</bibl>) <foreign>tan inucap makabalaṅ svarga kalpasǝn</foreign>.</note>
+                        <note>Cf. <title>Agastyaparva</title> (<bibl><ptr target="bib:Gonda1933_02"/><citedRange unit="page">395</citedRange>, <citedRange unit="line">24</citedRange></bibl> <foreign>yatanyan lǝpasa saṅka riṅ pisañcagati-saṅsārārṇava</foreign> and <title>Saṅ Hyaṅ Hayu</title> (<bibl><ptr target="bib:UndangADarsa1998_01"/><citedRange unit="page">159 §11 last paragraph</citedRange></bibl>) <foreign>tan inucap makabalaṅ svarga kalpasǝn</foreign>.</note>
                     </app>
                     <app loc="4r6">
                         <lem>muhun</lem>
                         <note>The reading with <foreign>m-</foreign> is secure.</note>
                     </app>
                     <app loc="4v1">
-                        <lem></lem><!--ekba2argr: Please suggest what to be inserted here-->
+                        <lem></lem><!--ekba2argr: Please suggest what to be inserted here--><!-- argr2ekba: best to make it a <note> in the translation. -->
                         <note>Cf. <ref target="DHARMA_INSIDENKKusambyan.xml">Kusambyan</ref> B32 and <ref target="DHARMA_INSIDENKAdulengen.xml">Adulengen</ref> 3r1–2 <foreign>tan pagavayakna puriḥ, mvaṁ vistăra, kevala sapūrvva-sthitinya sakapaṅgih riṁ muhun· malama juga pagəhaknanya lāvan tan· pintana saprakāra</foreign>.</note>
                     </app>
-                    <app loc="4v1-4v2">
+                    <app loc="4v1">
                         <lem>makaphalā tan pamuharānya <supplied reason="lost">p</supplied>r<supplied reason="lost">a</supplied><lb n="4v2" break="no"/>māda magə<choice><sic>h</sic><corr>ṅ </corr></choice>i </lem>
                         <note>Cf. <ref target="DHARMA_INSIDENKBaru.xml">Baru</ref> Cdef8 <foreign>yathānya tan· pamuhara pramāda riṁ sira</foreign> and <ref target="DHARMA_INSIDENKAnjatan.xml">Anjatan</ref> 4r9 <foreign>yathānya tan pamuhara pramāda magǝ:ṁ I sira</foreign>. The latter parallel makes clear that we need to correct <foreign>magəhi</foreign> to <foreign>magəṅ i</foreign>.</note>
                     </app>
                     <app loc="4v5">
                         <lem>mvaṁ <choice><sic>p</sic><corr>m</corr></choice>aṅasthāna ri jātakanira</lem>
-                        <note>Cf. 4r3–4 <foreign>samaṅasth<supplied reason="lost">ā</supplied><lb n="4r4" break="no"/>na I jātakanira</foreign>.</note>                
+                        <note>Cf. 4r3–4 <foreign>samaṅasth<supplied reason="lost">ā</supplied><lb n="4r4" break="no"/>na I jātakanira</foreign>.</note>
                     </app>
-                    
-                    
-                    
+
+
+
                     <app loc="4v6">
                         <lem>R̥ṣi</lem>
                         <rdg source="bib:TitiSurtiNastiti2016_01">pr̥thi</rdg>
