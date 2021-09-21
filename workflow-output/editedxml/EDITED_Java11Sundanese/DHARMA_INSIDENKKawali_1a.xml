@@ -97,7 +97,7 @@
                 <p>
                      <lb n="1"/><g type="symbol" subtype="spider"/> nihan· tapak· va<lb n="2" break="no"/>lar nu syi muliA tapa I<lb n="3" break="no"/>ña paR̥bu raja vas·tu
                      <lb n="4"/>ma<unclear reason="eccentric_ductus">ṅ</unclear>aḍəg· ḍi kuta kava<lb n="5" break="no"/>li nu mahayu na kaḍatuAn·
-                     <lb n="6"/>suravisesa nu marigi sa<lb n="7" break="no"/>kulili<supplied reason="omitted">ṁ</supplied> ḍayəḥ nu najur sakala<lb n="8" break="no"/>ḍesa Aya ma nu pa<supplied reason="omitted">n</supplied>ḍəri<!-- argr2adgu: should we not opt for encoding pa<supplied reason="omitted">n</supplied>ḍǝri? if so, please make the necessary changes in all files. --> pake na
+                     <lb n="6"/>suravisesa nu marigi sa<lb n="7" break="no"/>kulili<supplied reason="omitted">ṁ</supplied> ḍayəḥ nu najur sakala<lb n="8" break="no"/>ḍesa Aya ma nu pa<supplied reason="omitted">n</supplied>ḍəri<!-- argr2adgu: should we not opt for encoding pa<supplied reason="omitted">n</supplied>ḍəri? if so, please make the necessary changes in all files. --> pake na
                      <lb n="9"/>gave raḥhayu pakən· həbəl· ja<lb n="10" break="no"/>ya ḍi na buAna
                 </p>
                 
@@ -132,14 +132,14 @@
                         <note>It may be doubted that any <foreign>panyecek</foreign> was written here.</note>
                     </app>
                     <app loc="8">
-                        <lem>pa<supplied reason="omitted">n</supplied>ḍǝri</lem>
-                        <rdg source="bib:Friederich1855_01">padǝri</rdg>
-                        <rdg source="bib:Holle1867_01 bib:Noorduyn1976_01 bib:HasanDjafar1991_01 bib:TitiSurtiNastiti1996_01 bib:RichadianaKartakusuma2005_01">pandǝ: ri</rdg>
+                        <lem>pa<supplied reason="omitted">n</supplied>ḍəri</lem>
+                        <rdg source="bib:Friederich1855_01">padəri</rdg>
+                        <rdg source="bib:Holle1867_01 bib:Noorduyn1976_01 bib:HasanDjafar1991_01 bib:TitiSurtiNastiti1996_01 bib:RichadianaKartakusuma2005_01">pandə: ri</rdg>
                     </app>
                     <app loc="9">
-                        <lem>hǝbǝl</lem>
-                        <rdg source="bib:Friederich1855_01">hǝbǝṅ</rdg>
-                        <rdg source="bib:Holle1867_01 bib:Noorduyn1976_01 bib:HasanDjafar1991_01 bib:TitiSurtiNastiti1996_01 bib:RichadianaKartakusuma2005_01">hǝ: bǝ: l</rdg>
+                        <lem>həbəl</lem>
+                        <rdg source="bib:Friederich1855_01">həbəṅ</rdg>
+                        <rdg source="bib:Holle1867_01 bib:Noorduyn1976_01 bib:HasanDjafar1991_01 bib:TitiSurtiNastiti1996_01 bib:RichadianaKartakusuma2005_01">hə: bə: l</rdg>
                     </app>
                 </listApp>
             </div>

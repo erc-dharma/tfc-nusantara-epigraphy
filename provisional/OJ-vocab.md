@@ -58,7 +58,7 @@
 |------------------------------|-----------------------|
 | baṅavan                      | river                 |
 | kali                         | stream                |
-| lor/kidul/vetan/kulon amǝnǝr | straight N/S/E/W      |
+| lor/kidul/vetan/kulon amənər | straight N/S/E/W      |
 | maniku lalavā                | taking a sharp turn   |
 | maṣidaktan                   | adjoining             |
 | sapakliran lavan             | along with, following |
