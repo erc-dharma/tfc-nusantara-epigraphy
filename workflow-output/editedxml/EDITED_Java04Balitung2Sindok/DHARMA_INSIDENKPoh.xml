@@ -48,9 +48,12 @@
                <physDesc>
                   <handDesc>
                      <p>	See remarks Damais. 
-			The basic punctuation sign takes the shape of a raised circle. 
-			Use of ḍha.
-		</p>
+The basic punctuation sign takes the shape of a raised circle. 
+The scribe has a proclivity for ś where s or ṣ are expected: 
+	see the consistent spelling śuśuk and the spelling sākśī.
+The cecak is sometimes so large as to resemble ulu (2r1 sovaṁ)
+	Damais 1955: 44: <q>Dans ce texte, le <foreign>cĕcak</foreign> est relativement gros et — ce qui est rare — il peut dans certains cas se confondre à première vue avec le <foreign>hulu</foreign> (signe vocalique pour -<foreign>i</foreign>) lorsque ce dernier est un peu plus petit qu’à la normale. Une différence subsiste cependant : alors que le <foreign>cĕcak</foreign> est nettement séparé de l’aksara auquel il se rapporte, le <foreign>hulu</foreign> le touche presque invariablement. Tenant compte de ces détails et de l’aide apportée par le contexte, il est rare qu’un doute subsiste.</q>
+                     </p>
                      <!-- If you need to identify individual hands (EGD §7.5/) in addition to one or more paragraphs of general palaeographic description, wrap <summary> around the <p> or <p>s above, and, outside <summary>, create <handNote> elements for each hand as follows:
 						<summary><p><p/></summary>
 						<handNote xml:id="Pallava00001_hand1"></handNote>
@@ -98,54 +101,194 @@
 <lb n="1v8"/>rakai sirikan· pu variga saṁ samaravikrānta, rakai vka pu kutak·, saṁ pamagat· tiruAn· pu Asaṅā saṁ śiva-Astra kapuA InaṁsəAn· pasak-pasak· vdihan· kalyāga <abbr>yu</abbr> <num value="1">1</num> mas· <abbr>su</abbr> <num value="1">1</num> Iṁ sovaṁ-sovaṁ, ra<lb n="1v9" break="no"/>kai halaran· pu tloḍuṁ<!-- St., tloḍhuṁ LCD, see remarks LCD but see also ḍapit further on -->, 
 <!-- argr has finished checking the edition down to here on 2020-11-24 -->
 samagat· dalinan· saṁ sukha paṁgil·, rakai palar hyaṁ pu puñjaṁ, maṁhuri pu cakra, paṅkur· pu śivadhyāna, tavān· pu sūryya, tirip· pu kr̥<choice><sic>m</sic><corr>ṣ</corr></choice>ṇa vadihati pu ḍapit·, makudur
-<lb n="1v10"/>pu sambr̥da<!-- St. samvṛda -->, kapuA InaṁsəAn· pasak-pasak· vdihan raṅga <abbr>yu</abbr> <num value="1">1</num> mas· <abbr>mā</abbr> <num value="8">8</num> Iṁ sovaṁ-sovaṁ<g type="ddanda">.</g> samagat· kinivaṁ makavanva Ikanaṁ I poḥ sinuśuk· kinivaṁ pu bnat· Anak vanva Iṁ kavu sīma kapatihan· I<lb n="1v11" break="no"/>naṁsə<space type="descender"/>an pasak-pasak· vdihan· kalyāga <abbr>yu</abbr> <num value="1">1</num> mas· <abbr>su</abbr> <num value="14">14</num> kbo <num value="1">1</num> vḍus· <num value="1">1</num> pada <num value="1">1</num> saṁ kinivaṁ Anakbi pu tuṇḍuṁ kain· pinilai savlaḥ mas· <abbr>mā</abbr> <num value="8">8</num><g type="ddanda">.</g> paminaṁ I saṁ hyaṁ kudur· vdihan <abbr>yu</abbr> <num value="1">1</num> mas· <abbr>mā</abbr> <num value="4">4</num> saṁ juru I
-<lb n="1v12"/>Ayam· təAs· <num value="2">2</num> saṁ mira-miraḥ pu rayuṁ Anak vanuA I mira-miraḥ vatak· vadihati maṁraṅkappi saṁ halaran pu dhana<space type="descender"/>da Anak vanuA I paṁramvan· sīma vadihati, saṁ juru I makudur· 2 saṁ taṁkil· sugiḥ pu mankai Ana<lb n="1v14" break="no"/>k vanuA I mantyāsiḥ vatak makudur·, maṁraṅkappi saṁ maṇḍyāṅin· Anak vanuA I kahaṅatan· vatak hamyas· kapuA vinaiḥ pasak-pasak· vdihan· <abbr>yu</abbr> <num value="1">1</num> mas· <abbr>mā</abbr> <num value="4">4</num> Iṁ sovaṁ-sovaṁ, saṁ tuhān· mamuAt· vuvus· ka<lb n="1v14" break="no"/>baiḥ parujar· I hino saṁ kaṇḍamuhi pu tuṅgaṁ Anak vanuA I gunuṅan· vatak· taṅkilan·, citralaikhā saṁ vatu varani pu manəsə:r· Anak vanuA I tutuganniṁ taṇḍa I taṅkilan·, parujarr i halu saṁ viṣa<add place="below">ga</add><!-- St. vimga — or read m and correct ṣ here too?--> pu damodara Anak vanuA I
-<lb n="1v15"/>paṇḍavutan· vatak tiru rāṇu, parujarr i<!-- St. parujar i --> sirikan· saṁ hujuṁ galuḥ pu Ayuddha Anak vanuA I truvanban· vatak· tiru rāṇu, citralekhā saṁ dharmmasinta pu samudra Anak vanuA I pās· tamvir·, parujarr i vka saṁ viridiḥ pu ḍaṇu A<lb n="1v16" break="no"/>nak vanuA I skar ttān·<!--  St. ttan ‚ cf. Panggumulang and Rukam --> vatak· layu vataṁ, citralekhā saṁ halaṁ manuk pu govinda Anak vanuA I vanuA tṅaḥ vatak· vuru siki, parujar· I tiruAn· saṁ sumuḍan· ḍapunta katimamaṁ Anak vanuA I vuṅkuḍu vatak kili<lb n="1v17" break="no"/>pan·, kapuA vinaihan· pasak-pasak· vdihan <abbr>yu</abbr> I mas· <abbr>mā</abbr> <num value="4">4</num> Iṁ soAṁ-soAṁ<g type="ddanda">.</g> parujarr i halaran· saṁ ra vanu pu batu Anak vanuA I hinapit· vatak· vka, parujarr i dalinan· saṁ varyyaṁ pu lakṣaṇa Anak vanuA
+<lb n="1v10"/>pu sambr̥da<!-- St. samvṛda -->, kapuA InaṁsəAn· pasak-pasak· vdihan raṅga <abbr>yu</abbr> <num value="1">1</num> mas· <abbr>mā</abbr> <num value="8">8</num> Iṁ sovaṁ-sovaṁ<g type="ddanda">.</g> samagat· kinivaṁ makavanva Ikanaṁ I poḥ sinuśuk· kinivaṁ pu bnat· Anak vanva Iṁ kavu sīma kapatihan· I<lb n="1v11" break="no"/>naṁsə<space type="descender"/>an pasak-pasak· vdihan· kalyāga <abbr>yu</abbr> <num value="1">1</num> mas· <abbr>su</abbr> <num value="14">14</num> kbo <num value="1">1</num> vḍus· <num value="1">1</num> pada <num value="1">1</num> saṁ kinivaṁ Anakbi pu tuṇḍuṁ kain· pinilai savlaḥ mas· <abbr>mā</abbr> <num value="8">8</num><g type="ddanda">.</g> paminaṁ I saṁ hyaṁ kudur· vdihan· <abbr>yu</abbr> <num value="1">1</num> mas· <abbr>mā</abbr> <num value="4">4</num> saṁ juru I
+<lb n="1v12"/>Ayam· təAs· <num value="2">2</num> saṁ mira-miraḥ pu rayuṁ Anak vanuA I mira-miraḥ vatak· vadihati maṁraṅkappi saṁ halaran pu dhana<space type="descender"/>da Anak vanuA I paṁramvan· sīma vadihati, saṁ juru I makudur· <num value="2">2</num> saṁ taṅkil· sugiḥ pu mankai Ana<lb n="1v13" break="no"/>k vanuA I mantyāsiḥ vatak makudur·, maṁraṅkappi saṁ maṇḍyāṅin· Anak vanuA I kahaṅatan· vatak hamyas· kapuA vinaiḥ pasak-pasak· vdihan· <abbr>yu</abbr> <num value="1">1</num> mas· <abbr>mā</abbr> <num value="4">4</num> Iṁ sovaṁ-sovaṁ, saṁ tuhān· mamuAt· vuvus· ka<lb n="1v14" break="no"/>baiḥ parujar· I hino saṁ kaṇḍamuhi pu tuṅgaṁ Anak vanuA I gunuṅan· vatak· taṅkilan·, citralaikhā saṁ vatu varani pu manəsə:r· Anak vanuA I tutuganniṁ taṇḍa I taṅkilan·, parujarr i halu saṁ viṣa<add place="below">ga</add><!-- St. vimga — or read m and correct ṣ here too?--> pu damodara Anak vanuA I
+<lb n="1v15"/>paṇḍavutan· vatak tiru rāṇu, parujarr i<!-- St. parujar i --> sirikan· saṁ hujuṁ galuḥ pu Ayuddha Anak vanuA I truvanban· vatak· tiru rāṇu, citralekhā saṁ dharmmasinta pu samudra Anak vanuA I pās· tamvir·, parujarr i vka saṁ viridiḥ pu ḍaṇu A<lb n="1v16" break="no"/>nak vanuA I skar ttān·<!--  St. ttan ‚ cf. Panggumulang and Rukam --> vatak· layu vataṁ, citralekhā saṁ halaṁ manuk pu govinda Anak vanuA I vanuA tṅaḥ vatak· vuru siki, parujar· I tiruAn· saṁ sumuḍan· ḍapunta katimamaṁ Anak vanuA I vuṅkuḍu vatak kili<lb n="1v17" break="no"/>pan·, kapuA vinaihan· pasak-pasak· vdihan· <abbr>yu</abbr> I mas· <abbr>mā</abbr> <num value="4">4</num> Iṁ soAṁ-soAṁ<g type="ddanda">.</g> parujarr i halaran· saṁ ra vanu pu batu Anak vanuA I hinapit· vatak· vka, parujarr i dalinan· saṁ varyyaṁ pu lakṣaṇa Anak vanuA
 <!-- argr has finished checking the edition down to here on 2021-06-22 -->
-<lb n="1v18"/>I vvatan vatak dalinan, parujarr i palar hyaṁ saṁ tumapal pu baka anak vanuA I tuṁgumanoṁan, parujarr i maṁhuri saṁ ranugra pu gupura anak vanuA I hinapit vatak vka, parujarr i vka saṁ dadalan pu samodaya<lb n="1v19" break="no"/>nak vanuA I siṁhapura vatak halu madāṁ maṁasə:i mamrati, parujarr i tavān saṁ dhāluk pu .. ruy anak vanuA I raluA vatak vuru siki, parujarri tirip saṁ rapaḍaṁ pu rāghū anakvanuA I yugihan vatak
-
+<lb n="1v18"/>I vvatan· vatak· dalinan·, parujarr i palar hyaṁ saṁ tumapal· pu baka Anak vanuA I tuṅgu manoṅan·, parujarr i maṅhuri saṁ ranuĪ pu gupura Anak vanuA I hinapit· vatak vka, parujarr i vka saṁ dadalan· pu samodaya<lb n="1v19" break="no"/><supplied reason="omitted">A</supplied>nak vanuA I siṁhapura vatak halu madāṁ maṁasə:I mamrati, parujarr i tavān· saṁ ḍāluk· <unclear>p</unclear><supplied reason="lost">u tu</supplied>ruy· Anak vanuA I raluA vatak· vuru siki, parujarr i tirip· saṁ ra paḍaṁ pu rāghū Anak vanuA Iy ugihan· vatak·
 <pb n="2r"/>
-<lb n="2r1"/>dalinan, kapuA vinaih pasak-pasak· vdihan <abbr>yu</abbr> 1 mas <abbr>mā</abbr> 2 iṁ sovaṁ sovaṁ // pihujuṁni parujar saṁ mānak katiga i paṁkur lua si raṁhal muAṁ si sañjaya, i tavān muṁgi si masusū muAṁ vvatan pai
-<lb n="2r2"/>si caṁka, i tirip panavuṁan si lakā kapua vinaiḥ pasak-pasak· vdihan <abbr>yu</abbr> 1 mas <abbr>mā</abbr> 1 iṁ sovaṁ-sovaṁ // i vadihati lumaku manuśuk si pārthava anakvanuA I taṁkilan vatak mamrati, i makudu<lb n="2r3"/>r lumaku manuśuk saṁṁuttara anakvanuA I varakvarak vatak hino, kapua vinaiḥ pasak-pasak· vdihan <abbr>yu</abbr> 2 <abbr>mā</abbr> 15 kahop paṁaṁkat panuṁsuṁ muAṁ saṁu nira muliḥ iṁ sovaṁ-sovaṁ, vadvā rakryān mapa<lb n="2r4" break="no"/>tiḥ i hino paṁuraṁ milu manuśuk saṁ marumvi pu mana anakvanuA I marumvi vatak hino, paṁuraṁ i halu si naitra anakvanuA I paməhaṁan vatak manimpiki, paṁuraṁ i sirikan rakai paṁgaṁ anakvanuA
-<lb n="2r5"/>I siṁhapura vatak halu, paṁuraṁ i vka rakai sañjat anakvanuA I samalagi vatak asampañjaṁ, paṁuraṁ i paṁkur saṁ dhyāna anakvanuA I glaṁglaṁ vatak kalumvarak, kapua vinaiḥ pasak-pasak· vdihan
-<lb n="2r6"/>yu i mas <abbr>mā</abbr> 10 kahop pavaiḥ saṁu nira muliḥ iṁ sovaṁ-sovaṁ, kinon rakai vvatan humarappa ikaṁ śuśukan parujar nira si rapilaṁ anakvanuA I tarumvajaṁ vatak hino vinaiḥ pasak-pasak· vdi<lb n="2r7" break="no"/>han <abbr>yu</abbr> 1 mas <abbr>su</abbr> i <abbr>mā</abbr> 4 juruni maṁraṁkat i vvatan pu kaiśava anakvanuA I matṁər patīrthan, muAṁ saṁ vluran pu dumva, kapua vinaiḥ pasak-pasak· vdihan bvat lvitan sahlai mas <abbr>mā</abbr> 8 iṁ sovaṁ-sovaṁ .
-<lb n="2r8"/>saṁ rataji maṁilala sukadbā i poḥ si paṁadaggan anakvanuA I kahuripan vatak lunturan vinaiḥ pasak-pasak· vdihan <abbr>yu</abbr> i mas <abbr>mā</abbr> 8 // juruniṁ kanayakān i kinivaṁ si lagai anakvanuA I
-<lb n="2r9"/>kavu kapatihan vinaiḥ pasak-pasak· vdihan <abbr>yu</abbr> 1 mas <abbr>mā</abbr> 4 paṁuraṁ saṁ kinivaṁ vadvā nira milua irikaṁ śuśukan prāṇa 5 si śala ramani barubuh anakvanuA ri vuaṁkalaṁ vatak kinivaṁ, muAṁ si gasyak ramani
-<lb n="2r10"/>gavaṁ anakvanuA I vvaraṁ vatak talaṁ, muAṁ si saṁkhara ramani vidyū anakvanuA I kilipan vatak kilipan, muAṁ daladap anakvanuA I kandaṁ vatak valakas, muAṁ si prajñā anakvanuA I tamyaṁ vatak pa<lb n="2r11" break="no"/>ku vaṅi, kapuA vinaihan pasak-pasak· vdihan <abbr>yu</abbr> i mas <abbr>mā</abbr> 2 iṁ sovaṁ-sovaṁ, paṁuraṁ sira kriṁ 2 si purul ramani vudyaṁ anakvanuA I tuṁguyuṁ vatak kinivaṁ, muAṁ si gunuṁ ramani pakudān, kapua vinaiḥ
-<lb n="2r12"/>pasak-pasak· mas <abbr>mā</abbr> 2 iṁ sovaṁ-sovaṁ, paṁuraṁ saṁ manimpiki pu mamvi ramani manojña anakvanuA I tarumbajaṁ vinaiḥ pasak vdihan sahlai mas ku 2 // patiḥ i kinivaṁ nayaka saṁ rakavu si dṛpiṁ ramani paṁalaḥ
-<lb n="2r13"/>muAṁ saṁ gəgəl ramani tuṁgaṁ, kapua vinaiḥhan pasak-pasak· vdihan <abbr>yu</abbr> i mas <abbr>mā</abbr> 4 kbo i vḍus 5 patiḥ lampuran i kavu si katimahā vinaiḥ pasak vdihan <abbr>yu</abbr> i mas <abbr>mā</abbr> 4 muvaḥ patiḥ lampuran
-<lb n="2r14"/>prāṇa 3 rakai vadarā, si ralua, si lmaḥhiḍi, kapua vinaihan pasak-pasak· vdihan <abbr>yu</abbr> 1 mas <abbr>mā</abbr> 2 iṁ sovaṁ-sovaṁ, parujarniṁ patiḥ 2 si ravakan anakvanuA I kilipan vatak kinivaṁ, muAṁ si vahu
-<lb n="2r15"/>gyan ramani purul anakvanuA I vinaṁun vatak kinivaṁ kapua vinaiḥ pasak-pasak· vdihan <abbr>yu</abbr> 1 mas <abbr>mā</abbr> 2 iṁ sovaṁ-sovaṁ, vahuta i kinivaṁ sira səaṁ si barut ramani lucir anakvanuA I səaṁ kavahu<lb n="2r16"/>tān i kinivaṁ vinaiḥ pasak-pasak· vdihan <abbr>yu</abbr> 1 mas <abbr>mā</abbr> 4 kbo 1 vahuta lampuran vinaiḥ pasak-pasak· <abbr>mā</abbr> 6 kinabaihanya, pihujuṁniṁ vahuta 2 si caṁkir anakvanuA I səaṁ vinaiḥ vdihan
-<lb n="2r17"/>yu i mas <abbr>mā</abbr> 4 muvaḥ pihujuṁniṁ vahuta si purul anakvanuA I vinaṁun vatak kinivaṁ vinaiḥ pasak vdihan <abbr>yu</abbr> 1 <abbr>mā</abbr> 2 // rāma māgman i poḥ irikanaṁ vanuA sinuśuk anuṁ kabayan prati
-<lb n="2r18"/>śāra i kahayvakna nikaṁ vanuA I poḥ, saṁ tuha banua si gupi ramani javil, kalima si rəmma ramani gaṇṭih, juru si saṇḍak ramani libat, muvaḥ juru si virat ramani nuṁgū, si aṁgai, si kuyū .
-<lb n="2r19"/>parujarniṁ juru si krit, patṁahanniṁ juru si səgəl ramani basava, tuha kalaṁ si suk ramani turus, vinkas si rutut ramani buhara, tuha guśali si tato ramani sāgi, gusti praṇa 6 prathama
+<lb n="2r1"/>dalinan·, kapuA vinaiḥ pasak-pasak· vdihan· <abbr>yu</abbr> <num value="1">1</num> mas· <abbr>mā</abbr> <num value="2">2</num> Iṁ sovaṁ<!-- this really looks more like sovi -->-sovaṁ<g type="ddandaHooked">.</g> pihujuṁni parujar saṁ mānak· katiga I paṅkur· luA si raṅhal· muAṁ si sañjaya, I tavān· muṅgi si masusū muAṁ vvatan pai
+<lb n="2r2"/>si caṅka, I tirip· panavuṅan· si lakā kapuA vinaiḥ pasak-pasak· vdihan· <abbr>yu</abbr> <num value="1">1</num> mas· <abbr>mā</abbr> <num value="1">1</num> Iṁ sovaṁ-sovaṁ<g type="ddandaHooked">.</g> I vadihati lumaku manuśuk· si pārthava Anak vanuA I taṅkilan· vatak· mamrati, I makudu<lb n="2r3"/>r· lumaku manuśuk· saṁṅ uttara Anak vanuA I varak-varak· vatak hino, kapuA vinaiḥ pasak-pasak· vdihan· <abbr>yu</abbr> <num value="2">2</num> <abbr>mā</abbr> <num value="15">15</num> kahop· paṅaṅkat· panuṁsuṁ muAṁ saṅunira muliḥ Iṁ sovaṁ-sovaṁ, vadvā rakryān· mapa<lb n="2r4" break="no"/>tiḥ I hino paṅuraṁ milu manuśuk· saṁ marumvi pu mana Anak vanuA I marumvi vatak hino, paṅuraṁ I halu saṁ naitra Anak vanuA I paməhaṅan· vatak· manimpiki, paṅuraṁ I sirikan· rakai paṅgaṁ Anak vanuA
+<lb n="2r5"/>I siṅhapura vatak halu, paṅuraṁ I vka rakai sañjat· Anak vanuA I samalagi vatak· Asam pañjaṁ, paṅuraṁ I paṅkur· saṁ dhyāna Anak vanuA I glaṁ-glaṁ vatak· kalum varak·, kapuA vinaiḥ pasak-pasak· vdihan·
+<lb n="2r6"/><abbr>yu</abbr> <num value="1">1</num> mas· <abbr>mā</abbr> <num value="10">10</num> kahop· pavaiḥ saṅunira muliḥ Iṁ sovaṁ-sovaṁ, kinon rakai vvatan· humarappa Ikaṁ śuśukan· parujarnira saṁ ra pilaṁ Anak vanuA I tarum vajaṁ vatak hino vinaiḥ pasak-pasak· vdi<lb n="2r7" break="no"/>han· <abbr>yu</abbr> <num value="1">1</num> mas· <abbr>su</abbr> <num value="1">1</num> <abbr>mā</abbr> <num value="4">4</num> juruniṁ maṁrakat· I vvatan· pu kaiśava Anak vanuA I matṅər· patīrthān·, muAṁ saṁ vluran· pu dumva, kapuA vinaiḥ pasak-pasak· vdihan· bvat· lvītan· sahlai mas· <abbr>mā</abbr> <num value="8">8</num> Iṁ sovaṁ-sovaṁ,
+<!-- argr has finished checking the edition down to here on 2021-10-17 -->
+<lb n="2r8"/>saṁ ra taji maṅilala <choice><unclear>s</unclear><unclear>p</unclear></choice>ukad· bā I poḥ saṁ paṅadaggan· Anak vanuA I kahuripan· vatak· lunturan· vinaiḥ pasak-pasak· vdihan· <abbr>yu</abbr> <num value="1">1</num> mas· <abbr>mā</abbr> <num value="8">8</num><g type="ddandaHooked">.</g> juruniṁ kanayakān· I kinivaṁ saṁ lagai Anak vanuA I
+<lb n="2r9"/>kavu kapatihan· vinaiḥ pasak-pasak· vdihan· <abbr>yu</abbr> <num value="1">1</num> mas· <abbr>mā</abbr> <num value="4">4</num> paṅuraṁ saṁ kinivaṁ vadvānira miluA Irikaṁ śuśukan· prāṇa <num value="5">5</num> saṁ śala ramani barubuḥ Anak vanuA ri vuAṁ kalaṁ vatak kinivaṁ, muAṁ saṁ gasyak· ramani
+<lb n="2r10"/>gavaṁ Anak vanuA I vvaraṁ vatak· talaṁ, muAṁ saṁ saṁkhara ramani vidyū Anak vanuA I kilipan· vatak kilipan·, muAṁ daladap· Anak vanuA I kaṇḍaṁ vatak· valakas·, muAṁ saṁ prajña Anak vanuA I tamyaṁ vatak pa<lb n="2r11" break="no"/>ku vaṅi, kapuA vinaihan· pasak-pasak· vdihan· <abbr>yu</abbr> <num value="1">1</num> mas· <abbr>mā</abbr> <num value="2">2</num> Iṁ sovaṁ-sovaṁ, paṅuraṁ saṁ ra kriṁ <num value="2">2</num> saṁ purul· ramani vudyaṁ Anak vanuA I tuṅguyuṁ vatak kinivaṁ, muAṁ saṁ gunuṁ ramani pakudān·, kapuA vinaiḥ
+<lb n="2r12"/>pasak-pasak· mas· <abbr>mā</abbr> <num value="2">2</num> Iṁ sovaṁ-sovaṁ, paṅuraṁ saṁ manimpiki pu mamvi ramani manojña Anak vanuA I tarum bajaṁ vinaiḥ pasak· vdihan· sahlai mas· <abbr>ku</abbr> <num value="2">2</num><g type="ddandaHooked">.</g> patiḥ I kinivaṁ nayaka saṁ ra kavu si dr̥piṁ ramani paṅalaḥ
+<lb n="2r13"/>muAṁ saṁ gəgəl· ramani tuṅgaṁ, kapuA vinaiḥhan· pasak-pasak· vdihan· <abbr>yu</abbr> <num value="1">1</num> mas· <abbr>mā</abbr> <num value="4">4</num> kbo <num value="1">1</num> vḍus· <num value="5">5</num> patiḥ lampuran· I kavu saṁ katimahā vinaiḥ pasak· vdihan· <abbr>yu</abbr> <num value="1">1</num> mas· <abbr>mā</abbr> <num value="4">4</num> muvaḥ patiḥ lampuran·
+<lb n="2r14"/>prāṇa <num value="3">3</num> rakai vadarā, saṁ ra luA, saṁ lmaḥ hiḍi, kapuA vinaihan· pasak-pasak· vdihan· <abbr>yu</abbr> <num value="1">1</num> mas· <abbr>mā</abbr> <num value="2">2</num> Iṁ sovaṁ-sovaṁ, parujarniṁ patiḥ <num value="2">2</num> saṁ ra vakan· Anak vanuA I kilipan· vatak kinivaṁ, muAṁ si vahu<lb n="2r15" break="no"/>gyan· ramani purul· Anak vanuA I vinaṅun· vatak kinivaṁ,<!-- St. omits , --> kapuA vinaiḥ pasak-pasak· vdihan· <abbr>yu</abbr> <num value="1">1</num> mas· <abbr>mā</abbr> <num value="2">2</num> Iṁ sovaṁ-sovaṁ, vahuta I kinivaṁ saṁ ra səAṁ saṁ barut· ramani lucir· Anak vanuA I səAṁ kavahu<lb n="2r16" break="no"/>tān· I kinivaṁ vinaiḥ pasak-pasak· vdihan· <abbr>yu</abbr> <num value="1">1</num> mas· <abbr>mā</abbr> <num value="4">4</num> kbo <num value="1">1</num> vahuta lampuran· vinaiḥ pasak-pasak· <abbr>mā</abbr> <num value="6">6</num> kinabaihanya, pihujuṁniṁ vahuta <num value="2">2</num> si caṅkir Anak vanuA I səAṁ vinaiḥ vdihan·
+<lb n="2r17"/><abbr>yu</abbr> <num value="1">1</num> mas· <abbr>mā</abbr> 4 muvaḥ pihujuṁniṁ vahuta saṁ purul· Anak vanuA I vinaṅun· vatak· kinivaṁ vinaiḥ pasak· vdihan· <abbr>yu</abbr> <num value="1">1</num> <abbr>mā</abbr> <num value="2">2</num><g type="ddanda">.</g> rāma māgman· I poḥ Irikanaṁ vanuA sinuśuk· Anuṁ kabayan prati<lb n="2r18" break="no"/>śāra I kahayvaknanikaṁ vanuA I poḥ, saṁ tuha banuA si gupi ramani javil·, kalima si rəmma ramani gaṇṭiḥ, juru si saṇḍak· ramani libat·, muvaḥ juru si virat· ramani nuṅgū, si Aṅgal·, si kuyū,
+<lb n="2r19"/>parujarniṁ juru si krit·, patṅahanniṁ juru si səgəl· ramani basava, tuha kalaṁ sīsuk· ramani turus·, vinkas· si rutut· rama<unclear>ni</unclear> buhara, tuha guśali si tato ramani sāgi, gusti prāṇa <num value="6">6</num> pra<unclear>tha</unclear>ma
 <pb n="2v"/>
-<lb n="2v1"/>gusti kaṇḍit rama nu buṭəl, muvaḥ gusti si kandəl ramani ḍuḍuk, muvaḥ gusti si pula ramani varuvu, muvaḥ gusti si kirim ramani gimuḥ, muvaḥ gusti si caṁal ramani cakaṁ, muvaḥ gusti si jamaḥ rama ni
-<lb n="2v2"/>baisus, parujar 2 si mula ramani buddhi. muAṁ si gamana piṇḍa rāma māgman prāṇa 17 // rāma maratā i poḥ si kabya ramani sima, si gaḍiṁ ramani hampaluṁ, si karyyut ramani capah, si cuṇṭəṁ rama ni
-<lb n="2v3"/>krap, si paṇḍe ramani hiṇḍaṁ, si taṁkiraṁ ramani tambiluṁ, si katak ramani pavan, si pandət ramani bantər, si liṁir rama m vələt, si brakāra ramani kuruḥ, si kudyal ramani tarambal, si maṁga ramani ga
-<lb n="2v4"/>rga, si guruntuṁ ramani tatuk, si sādha ramani dhūta, piṇḍa rāma maratā prāna 14 // raiṇanta si .... inaṁni piṁul, si tiris inaṁni gaṇṭiḥ, si virikan inaṁni javil, si jabvaḥ inaṁni śuddha, si limvayā
-<lb n="2v5"/>inaṁni kamman, si vulakan inaṁni gaḍiṁ, piṇḍa raiṇanta prāṇa 6 // rarāma bhumaṇa [fn. 1:De heer De Casparis leest:rarâ mabhramaṇa.] tinonton si kārigna, si dariṇī, muAṁ si rumpuk, muAṁ vərəvərəḥnya, si javay, si baryyut // rāma tpi siriṁ milu sākśī
-<lb n="2v6"/>riṁ manuśuk sima, kalaṁ si brita ramani taram anakvanuA Iṁ pulai vatak galaṁ, tuha banva si palvak ramani turubut anakvanuA ri vtuan, vatak kinivaṁ, juru si vaṁun ramani vira anakvanuA ri dadam sīma kudur .
-<lb n="2v7"/>tuha banua si vavā ramani gampvar anakvanuA I vuaṁṁhijo vatak luvakan, juru si pyaṁ ramani muṇḍu anakvanuA Iṁ sukup sīma kudur, tuha banua si (b)anya ramani vava ri kasisap vatak kayo, tuha kalaṁ 
-<lb n="2v8"/>si niti ramani vḍuṁ anakvanuA I paskaran vatak laṁitan, tuha kalaṁ si saṁkhara 1 anakvanuA I sampū sīma haji. maṁmit savaḥ haji i yaluhur 2 si ndandok ramani hasin anakvanuA I səaṁ vahuta ri kinivaṁ, muAṁ
-<lb n="2v9"/> ...... anakvanuA I buṁur vatak kinivaṁ, piṇḍa vanuA tpisiriṁ sapuluḥ vanuA, piṇḍa rāma umilu sākṣiniṁ sīma prāṇa 10 kapua vinaiḥhan pasak-pasak· vdihan <abbr>yu</abbr> i <abbr>mā</abbr> 2 iṁ sovaṁ-sovaṁ // maṁ<lb n="2v10" break="no"/>kanaṁ manuluppakan rāmanta vrai muAṁ kaluaṁ tinaḍaḥ saṁ vahuta hyaṁ kudur muAṁ vadvā rakryān saṁ paṁuraṁ kabaiḥ muAṁ rāmanta kabaiḥ, manulup si rapə:ṁ anakvanuA I vaduri vatak rumviga, vinaiḥ
-<lb n="2v11"/>vdihan <abbr>yu</abbr> i mas <abbr>mā</abbr> 2 // maṁkana saṁ madāṁ. muAṁ saṁ maṁla prāṇa 3 pu vilut anakvanuA I vraṁ sīmani vihāra vaitanniṁ havān, muAṁ si janar anakvanuA Iṁ malio vatak vka, muAṁ si bayur
-<lb n="2v12"/>anakvanuA I marhyaṁ i sīma mahārāja lumāḥ iṁ śataśṛṁga, kapua vinaiḥ pasak-pasak· vdihan <abbr>yu</abbr> 1 imas <abbr>mā</abbr> 2 iṁ sovaṁ-sovaṁ // saṁ mūlavuddha 2 huluvras ḍapunta pivvi anakvanuA I ravuaṁ
-<lb n="2v13"/>vatak kinivaṁ, muAṁ si lañot ramani mulat anakvanuA I vuaṁvulu vatak luvakan kapua vinaiḥ vdihan <abbr>yu</abbr> 1 mas ku 2 iṁ sovaṁ-sovaṁ, mapaḍahi matuvuṁ si pati ramani turavus ana<lb n="2v14" break="no"/>k vanuA I rapoḥ vinaiḥ vdihan <abbr>yu</abbr> 1 mas <abbr>mā</abbr> 1 ku 1 muvah mapaḍahi syuha ramani vakul anakvanuA I hināṁan vatak luvakan vinaiḥ mas ku 2 marəgaṁ si vicar ramani viṣama anak vanu<lb n="2v15" break="no"/>A i hijo vatak luvakan vinaiḥ vdihan <abbr>yu</abbr> 1 mas <abbr>mā</abbr> 1 // matapukan 2 si mala anakvanuA I savyan vatak kinivaṁ, muAṁ si parasi anakvanuA I tira vatak mḍaṁ kapua vinaiḥ mas <abbr>mā</abbr> 1
-<lb n="2v16"/>Iṁ sovaṁ-sovaṁ, mabañol jurunya 2 si lugunduṁ anakvanuA I rasuk vatak luvakan, muAṁ si kulika anakvanuA I luṁlaṁ vatak tnəp vinaiḥ vdihan <abbr>yu</abbr> 1 mas <abbr>mā</abbr> 6 kinabaihannya
-<lb n="2v17"/>ruAṁ juru // sajiniṁ munuśuk sīma vdihan saṁ hyaṁ brahmā <abbr>yu</abbr> 1 mas <abbr>mā</abbr> 1 vdihan saṁ hyaṁ śuśuk kulumpaṁ <abbr>yu</abbr> 4 mas <abbr>mā</abbr> 4 vaduṁ 1 rimvas 1 patupatuk 1 lukai 1 tampilan 1 liṁgis 4 tataḥ i
-<lb n="2v18"/>vaṁkyul i kris 1 kampit 1 gulumi 1 pamāse 1 dom 1 kurumbhāgi 1 kampil 1 paṁlivətan 1 tahas 1 padyusan 1 kavah 1 papañjutan 1 saragi inuman 1 saragi paivakan 1
+<!-- argr has finished checking the edition down to here on 2021-10-18 -->
+<lb n="2v1"/>gusti kaṇḍit· ramani buṭəl·, muvaḥ gusti si kandəl· ramani ḍuḍuk·, <unclear>muva</unclear>ḥ gusti si pula ramani varuvu, muvaḥ gusti si kirim· ramani gimuḥ, muvaḥ gusti si caṅal· ramani cakaṁ, muvaḥ gusti si jamaḥ ramani
+<lb n="2v2"/>baisus·, parujar· <num value="2">2</num> si mula ramani buddhi, muAṁ si gamana piṇ<choice><orig>d</orig><reg>ḍ</reg></choice>a rāma māgman· prāṇa <num value="17">17</num><g type="ddandaHooked">.</g>  rāma maratā I poḥ si kabya ramani sīma, si gaḍiṁ ramani hampaluṁ, si karyyut ramani capaḥ, si cuṇṭəṁ ramani
+<lb n="2v3"/>krap·, si paṇḍe ramani hiṇḍaṁ, si taṅkiraṁ ramani tambiluṁ, si katak· ramani pava<unclear>n·</unclear>, si <unclear>pa</unclear>ndət· ramani bantər·, si liṅir· ramani vələt·, si prakāra ramani kuruḥ, si kudyal· ramani tarambal·, si maṅga ramani ga<lb n="2v4" break="no"/>rga, si guruntuṁ ramani tatuk·, si sādha ramani dhūta, piṇ<choice><orig>d</orig><reg>ḍ</reg></choice>a rāma maratā prāṇa <num value="14">14</num><g type="ddanda">.</g> <unclear>raiṇa</unclear>nta si <gap reason="illegible" quantity="2" unit="character"/> Inaṁni piṅul·, si tiris· Inaṁni <unclear>ga</unclear>ṇṭiḥ, si virikan· Inaṁni javil·, si jabvaḥ Inaṁni śuddhā, si limvayā
+<lb n="2v5"/>Inaṁni kamman·, si vulatan· Inaṁni gaḍiṁ, piṇ<choice><orig>d</orig><reg>ḍ</reg></choice>a raiṇanta prāṇa <num value="6">6</num><g type="ddanda">.</g> rarā mabh<choice><sic>ū</sic><corr>ra</corr></choice>maṇa tinonton· si kārigna, si dariṇī, muAṁ si rumpuk·, muAṁ vəR̥-vəR̥ḥnya, si javay·, si baryyut·<g type="ddandaHooked">.</g> rāma tpi siriṁ milu sāk<choice><orig>ś</orig><reg>ṣ</reg></choice>ī
+<lb n="2v6"/>riṁ manuśuk· sĭma, kalaṁ si brita ramani taram· Anak vanuA Iṁ pulai vatak· galaṁ, tuha banva si palvak· ramani turubut· Anak vanuA ri vtuAn·, vatak kinivaṁ, juru si vaṅun· ramani vīra Anak vanuA ri dadam· sīma kudur·,
+<lb n="2v7"/>tuha banua si vapra ramani gampvar· Anak vanuA I vuAṁṅ hijo vatak· luvakan·, juru si pyaṁ ramani muṇḍu Anak vanuA I<!-- St. Iṁ --> sukup· sīma kudur·, tuha banuA si <unclear>dh</unclear>any<unclear>ā</unclear> ramani va<unclear>va</unclear><gap reason="illegible" unit="character" quantity="1"/> <supplied reason="omitted">Anak vanuA</supplied> ri kasisap· vatak· kayo, tuha kalaṁ 
+<lb n="2v8"/>si niti ramani vḍuṁ Anak vanuA I paskaran· vatak· laṅitan·, tuha kalaṁ si saṁkhara Anak vanuA I sampū sīma haji, maṅmit· savaḥ haji iy aluhur· <num value="2">2</num> si ndandok· ramani hasin· Anak vanuA I səAṁ vahuta ri kinivaṁ, muAṁ
+<lb n="2v9"/><gap reason="illegible" unit="character" quantity="1"/><seg type="aksara"><seg type="body"><gap reason="illegible" unit="component" quantity="1"/></seg>ī</seg><unclear>n</unclear>i Anak vanuA I buṅur· vatak kinivaṁ, piṇ<choice><orig>d</orig><reg>ḍ</reg></choice>a vanuA tpi siriṁ sapuluḥ vanuA, piṇ<choice><orig>d</orig><reg>ḍ</reg></choice>a rāma Umilu sākṣiniṁ sīma prāṇa <num value="10">10</num> kapuA vinaiḥhan· pasak-pasak· vdihan· <abbr>yu</abbr> <num value="1">1</num> <abbr>mā</abbr> <num value="2">2</num> Iṁ sovaṁ-sovaṁ<g type="ddandaHooked">.</g> maṁ<lb n="2v10" break="no"/>@@@@kanaṁ manuluppakan<!-- maṅalappakan? --> rāmanta vrai muAṁ kaluaṁ tinaḍaḥ saṁ vahuta hyaṁ kudur muAṁ vadvā rakryān saṁ paṅuraṁ kabaiḥ muAṁ rāmanta kabaiḥ, manulup si rapə:ṁ anak vanuA I vaduri vatak rumviga, vinaiḥ
+<lb n="2v11"/>vdihan· <abbr>yu</abbr> i mas <abbr>mā</abbr> <num value="2">2</num> // maṁkana saṁ madāṁ. muAṁ saṁ maṁla prāṇa 3 pu vilut anak vanuA I vraṁ sīmani vihāra vaitanniṁ havān, muAṁ si janar anak vanuA Iṁ malio vatak vka, muAṁ si bayur
+<lb n="2v12"/>anak vanuA I marhyaṁ i sīma mahārāja lumāḥ iṁ śataśṛṁga, kapuA vinaiḥ pasak-pasak· vdihan· <abbr>yu</abbr> <num value="1">1</num> imas <abbr>mā</abbr> <num value="2">2</num> iṁ sovaṁ-sovaṁ // saṁ mūlavuddha <num value="2">2</num> huluvras ḍapunta pivvi anak vanuA I ravuaṁ
+<lb n="2v13"/>vatak kinivaṁ, muAṁ si lañot ramani mulat anak vanuA I vuaṁvulu vatak luvakan kapuA vinaiḥ vdihan· <abbr>yu</abbr> <num value="1">1</num> mas ku <num value="2">2</num> iṁ sovaṁ-sovaṁ, mapaḍahi matuvuṁ si pati ramani turavus ana<lb n="2v14" break="no"/>k vanuA I rapoḥ vinaiḥ vdihan· <abbr>yu</abbr> <num value="1">1</num> mas <abbr>mā</abbr> <num value="1">1</num> ku <num value="1">1</num> muvah mapaḍahi syuha ramani vakul anak vanuA I hināṁan vatak luvakan vinaiḥ mas ku <num value="2">2</num> marəgaṁ si vicar ramani viṣama anak vanu<lb n="2v15" break="no"/>A i hijo vatak luvakan vinaiḥ vdihan· <abbr>yu</abbr> <num value="1">1</num> mas <abbr>mā</abbr> <num value="1">1</num> // matapukan <num value="2">2</num> si mala anak vanuA I savyan vatak kinivaṁ, muAṁ si parasi anak vanuA I tira vatak mḍaṁ kapuA vinaiḥ mas <abbr>mā</abbr> 1
+<lb n="2v16"/>Iṁ sovaṁ-sovaṁ, mabañol jurunya <num value="2">2</num> si lugunduṁ anak vanuA I rasuk vatak luvakan, muAṁ si kulika anak vanuA I luṁlaṁ vatak tnəp vinaiḥ vdihan· <abbr>yu</abbr> <num value="1">1</num> mas <abbr>mā</abbr> 6 kinabaihannya
+<lb n="2v17"/>ruAṁ juru // sajiniṁ munuśuk sīma vdihan saṁ hyaṁ brahmā <abbr>yu</abbr> <num value="1">1</num> mas <abbr>mā</abbr> <num value="1">1</num> vdihan saṁ hyaṁ śuśuk kulumpaṁ <abbr>yu</abbr> 4 mas <abbr>mā</abbr> 4 vaduṁ <num value="1">1</num> rimvas <num value="1">1</num> patupatuk <num value="1">1</num> lukai <num value="1">1</num> tampilan <num value="1">1</num> liṁgis 4 tataḥ i
+<lb n="2v18"/>vaṁkyul i kris <num value="1">1</num> kampit <num value="1">1</num> gulumi <num value="1">1</num> pamāse<!-- pamajhe --> <num value="1">1</num> dom <num value="1">1</num> kurumbhāgi <num value="1">1</num> kampil <num value="1">1</num> paṁlivətan <num value="1">1</num> tahas <num value="1">1</num> padyusan <num value="1">1</num> kavaḥ <num value="1">1</num> papañjutan <num value="1">1</num> saragi inuman <num value="1">1</num> saragi paivakan <num value="1">1</num>
 </p>
          </div>
-         <!--<div type="apparatus">
-           <!-\-apparatus encoded as per EGD §9.1, basic elements for apparatus below-\->
-               <listApp><!-\- one <app> for each apparatus entry -\->
-                  <app loc="line"><!-\- update the value of @loc.-\->
-                     <lem><!-\- fill in a lemma here -\-></lem>
-                     <rdg source="bib:AuthorYear_01"><!-\- update the @source value, fill in variant reading here -\-></rdg>
+         <div type="apparatus">    
+               <listApp>
+                  <app loc="1v18">
+                     <lem>ranuĪ</lem>
+                     <rdg source="bib:Stutterheim1940_01">ranugra</rdg>
                   </app>
+	    <app loc="1v19">
+	       <lem>ḍāluk· <unclear>p</unclear><supplied reason="lost">u tu</supplied>ruy·</lem>
+	       <rdg source="bib:Stutterheim1940_01">dhāluk· pu<gap reason="lost" quantity="1" unit="character"/>ruy·</rdg>
+	      <note>Restored after <ref target="DHARMA_INSIDENKRukam.xml">Rukam</ref> 1v16.</note>
+	</app>
+<app loc="2r4">
+<lem source="bib:Damais1955_01">saṁ naitra</lem>
+<rdg source="bib:Stutterheim1940_01">si naitra</rdg>
+</app>
+<app loc="2r6">
+<lem source="bib:Damais1955_01">saṁ ra pilaṁ</lem>
+<rdg source="bib:Stutterheim1940_01">si rapilaṁ</rdg>
+</app>
+<app loc="2r7">
+<lem>juruniṁ maṁrakat·</lem>
+<rdg source="bib:Stutterheim1940_01">juruni maṁraṁkat·</rdg>
+</app>
+<app loc="2r7">
+<lem>patīrthān·</lem>
+<rdg source="bib:Stutterheim1940_01">patīrthan·</rdg>
+</app>
+<app loc="2r7">
+<lem>lvītan·</lem>
+<rdg source="bib:Stutterheim1940_01">lvitan·</rdg>
+</app>
+<app loc="2r8">
+<lem>saṁ paṅadaggan·</lem>
+<rdg source="bib:Stutterheim1940_01">si paṅadaggan·</rdg>
+</app>
+<app loc="2r8">
+<lem source="bib:Damais1955_01">saṁ lagai</lem>
+<rdg source="bib:Stutterheim1940_01">si lagai</rdg>
+</app>
+<app loc="2r9">
+<lem source="bib:Damais1955_01">saṁ śala</lem>
+<rdg source="bib:Stutterheim1940_01">si śala</rdg>
+</app>
+<app loc="2r9">
+<lem source="bib:Damais1955_01">saṁ gasyak·</lem>
+<rdg source="bib:Stutterheim1940_01">si gasyak·</rdg>
+</app>
+<app loc="2r10">
+<lem source="bib:Damais1955_01">saṁ saṁkhara</lem>
+<rdg source="bib:Stutterheim1940_01">si saṁkhara</rdg>
+</app>
+<app loc="2r10">
+<lem source="bib:Damais1955_01">saṁ prajña</lem>
+<rdg source="bib:Stutterheim1940_01">si prajñā</rdg>
+</app>
+<app loc="2r11">
+<lem source="bib:Damais1955_01">saṁ ra kriṁ</lem>
+<rdg source="bib:Stutterheim1940_01">sira kriṁ</rdg>
+</app>
+<app loc="2r11">
+<lem source="bib:Damais1955_01">saṁ purul·</lem>
+<rdg source="bib:Stutterheim1940_01">si purul·</rdg>
+</app>
+<app loc="2r11">
+<lem source="bib:Damais1955_01">saṁ gunuṁ</lem>
+<rdg source="bib:Stutterheim1940_01">si gunuṁ</rdg>
+</app> 
+<app loc="2r13">
+<lem source="bib:Damais1955_01">saṁ katimahā</lem>
+<rdg source="bib:Stutterheim1940_01">si katimahā</rdg>
+</app> 
+<app loc="2r14">
+<lem source="bib:Damais1955_01">saṁ ra luA</lem>
+<rdg source="bib:Stutterheim1940_01">si raluA</rdg>
+</app> 
+<app loc="2r14">
+<lem source="bib:Damais1955_01">saṁ lmaḥ hiḍi</lem>
+<rdg source="bib:Stutterheim1940_01">si lmaḥhiḍi</rdg>
+</app>
+<app loc="2r14">
+<lem>saṁ ra vakan·</lem>
+<rdg source="bib:Stutterheim1940_01">si ravakan·</rdg>
+<note>Stutterheim’s reading was corrected in <bibl><ptr target="bib:Damais1970_01"/><citedRange unit="page">607</citedRange><citedRange unit="note">1</citedRange></bibl>.</note>
+</app>
+<app loc="2r15">
+<lem source="bib:Damais1955_01">saṁ ra səAṁ saṁ barut·</lem>
+<rdg source="bib:Stutterheim1940_01">sira səAṁ si barut·</rdg>
+</app>
+<app loc="2r17">
+<lem>saṁ purul·</lem>
+<rdg source="bib:Stutterheim1940_01">si purul·</rdg>
+<note>Stutterheim’s reading was accepted in <bibl><ptr target="bib:Damais1970_01"/><citedRange unit="page">763</citedRange></bibl>.</note>
+</app>
+<app loc="2r19">
+<lem source="bib:Damais1955_01">sīsuk·</lem>
+<rdg source="bib:Stutterheim1940_01">si suk·</rdg>
+</app>
+<app loc="2r19">
+<lem>prāṇa·</lem>
+<rdg source="bib:Stutterheim1940_01">praṇa</rdg>
+</app>
+<app loc="2r19">
+<lem source="bib:Stutterheim1940_01">pra<unclear>tha</unclear>ma</lem>
+<note>The reading is plausible, but we would <foreign>prima facie</foreign> read <foreign>pravama</foreign> here.</note>
+</app>
+<app loc="2v1">
+<lem source="bib:Damais1955_01">ramani buṭəl·</lem>
+<rdg source="bib:Stutterheim1940_01">rama nu buṭəl·</rdg>
+</app>
+<app loc="2v2">
+<lem>sīma</lem>
+<rdg source="bib:Stutterheim1940_01">sima</rdg>
+</app>
+<app loc="2v3">
+<lem source="bib:Damais1955_01">si prakāra</lem>
+<rdg source="bib:Stutterheim1940_01">si brakāra</rdg>
+</app>
+<app loc="2v4">
+<lem source="bib:Damais1955_01">śuddhā</lem>
+<rdg source="bib:Stutterheim1940_01">śuddha</rdg>
+</app>
+<app loc="2v5">
+<lem source="bib:Damais1955_01">si vulatan·</lem>
+<rdg source="bib:Stutterheim1940_01">si vulakan·</rdg>
+</app>
+<app loc="2v5">
+<lem>rarā mabh<choice><sic>ū</sic><corr>ra</corr></choice>maṇa</lem>
+<rdg source="bib:Stutterheim1940_01">śuddha</rdg>
+<rdg source="bib:Damais1955_01">rarāma bhūmaṇa</rdg>
+<note>The correction we adopt was already proposed to Stutterheim by De Casparis. See <bibl><ptr target="bib:Stutterheim1940_01"/><citedRange unit="page">7</citedRange><citedRange unit="note">1</citedRange></bibl></note>
+<!-- [fn. 1: De heer De Casparis leest: rarâ mabhramaṇa.]-->
+</app>
+<!--<app loc="2v6">
+<lem>vīra</lem>
+<rdg source="bib:Stutterheim1940_01">vira</rdg>
+<note>Stutterheim's reading was silently corrected in <bibl><ptr target="bib:Damais1970_01"/><citedRange unit="page">582</citedRange></bibl>.</note>
+</app>-->
+<app loc="2v7">
+<lem source="bib:Damais1955_01">si vapra</lem>
+<rdg source="bib:Stutterheim1940_01">si vavā</rdg>
+</app>
+<app loc="2v7">
+<lem>si <unclear>dh</unclear>any<unclear>ā</unclear></lem>
+<rdg source="bib:Stutterheim1940_01">si <unclear>b</unclear>anya</rdg>
+<rdg source="bib:Damais1955_01">si kanyā</rdg>
+<note>Damais’ reading seems <foreign>a priori</foreign> implausible, as one would expect <foreign>kanyā</foreign> (which means <q>maiden</q> in Sanskrit) to be a name for a woman.</note>
+</app>
+
+
                </listApp>
-         </div>-->
+         </div>
         <!-- <div type="translation">
  	<!-\-translation encoded as per EGD §9.2 -\->
          </div>-->
@@ -159,7 +302,7 @@ samagat· dalinan· saṁ sukha paṁgil·, rakai palar hyaṁ pu puñjaṁ, ma�
            <p>First edited by W. F. Stutterheim (1940). Numerous corrigenda noted by Damais 1955.</p>
 <!-- 
 2 a, ligne 2 : lire sang pârthawa.
-— h : lire sang naîtra.
+— 3 : lire sang naîtra.
 — 6 : lire sang ra pilang.
 — 8 : lire sang lagai.
 — 9 : lire sang sala et sang gasyak.
@@ -182,7 +325,7 @@ ai, — 1 : ramani butel au lieu de rama nu buteî.
 — h : inangni suddhâ au lieu de inangni suddha.
 — 5 : si wulatan au lieu de si wulakan.
 — 5 : bhûmana au lieu de bhumana.
-— 7 : si wapra au îieu de si wawâ.
+— 7 : si wapra au lieu de si wawâ.
 — 7 : si kanyâ au lieu de et (b)anyâ.
 — i3 : si patang au lieu de sipati.
 — lu: syusâ (= si usa) au lieu de syuha.
@@ -192,11 +335,12 @@ d'écriture, le ma et le sa sont presque identiques. Aussi il faut, à la ligne 
 krsna, bien que, paléographiquement, krmna soit défendable
  -->
         	<listBibl type="primary">
-		<bibl n="S">W.F. Stutterheim, INI I, 1940, 3-18 [text, plates]</bibl>
+	<bibl n="S"><ptr target="bib:Stutterheim1940_01"/></bibl>
+                    <!-- W.F. Stutterheim, INI I, 1940, 3-18 [text, plates] -->
 	</listBibl>
            <listBibl type="secondary">
-	<bibl n="D"><ptr target="bib:Damais1955_01"/><citedRange>xxx-yyy</citedRange>
-	   </bibl>
+	<bibl n="D"><ptr target="bib:Damais1955_01"/><citedRange>42-45</citedRange></bibl>
+	<bibl><ptr target="bib:Damais1970_01"/></bibl>
               <bibl/><!-- one <bibl/> per item of secondary bibliography -->
 <bibl>L.-Ch. Damais, « Extrait des rapports sur les conférences Langues et civilisation indonésiennes », EPHE, IVe section (sciences historiques et philologiques), Annuaire 1965/66 (Paris 1965), 413-422.</bibl>
            </listBibl>
