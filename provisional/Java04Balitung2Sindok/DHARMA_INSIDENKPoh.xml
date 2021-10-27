@@ -50,7 +50,7 @@
                      <p>See remarks Damais 1955 and 1965. 
 The basic punctuation sign takes the shape of a raised circle. 
 The scribe has a proclivity for <foreign>ś</foreign> where <foreign>s</foreign> or <foreign>ṣ</foreign> are expected: see the consistent spelling <foreign>śuśuk</foreign> and the spelling <foreign>sākśī</foreign>.
-It seems ncertain whether Damais was right to identify <foreign>ḍh</foreign> in 1v1; he was certainly not right when he suggested that unaspirated ḍ is common in the inscription. Although several cases are found (paḍaṁ, mapaḍahi, saṇḍaṁ, etc.), it is remarkable that expected pasangan ḍ is consistently realized as d in the words vḍihan and piṇḍa.
+It seems uncertain whether Damais was right to identify <foreign>ḍh</foreign> in 1v1; he was certainly not right when he suggested that unaspirated ḍ is common in the inscription. Although several cases are found (paḍaṁ, mapaḍahi, saṇḍaṁ, etc.), it is remarkable that expected pasangan ḍ is consistently realized as d in the words vḍihan and piṇḍa.
 The cecak is sometimes so large as to resemble ulu (2r1 sovaṁ)
 	Damais 1955: 44: <q>Dans ce texte, le <foreign>cĕcak</foreign> est relativement gros et — ce qui est rare — il peut dans certains cas se confondre à première vue avec le <foreign>hulu</foreign> (signe vocalique pour -<foreign>i</foreign>) lorsque ce dernier est un peu plus petit qu'à la normale. Une différence subsiste cependant : alors que le <foreign>cĕcak</foreign> est nettement séparé de l'aksara auquel il se rapporte, le <foreign>hulu</foreign> le touche presque invariablement. Tenant compte de ces détails et de l'aide apportée par le contexte, il est rare qu'un doute subsiste.</q>
 		</p>
@@ -89,28 +89,31 @@ The cecak is sometimes so large as to resemble ulu (2r1 sovaṁ)
          <div type="edition" xml:lang="kaw-Latn">
             <pb n="1r"/><!--Blank outer page.-->
 <p><pb n="1v"/>
-<lb n="1v1"/> <g type="dandaSerif"/><g type="dandaSerif"/> <g type="spiralL"/> <g type="dandaSerif"/><g type="dandaSerif"/> svasti śakavarṣātīta<!-- St. śakavarsātīta --> <num value="827">82<unclear>7</unclear></num> śravaṇa-māsa tithi trayodaśi, śuklapakṣa, paniruAn·, pon·, budhavāra, Aiśānya-sthāna, pūrvvāṣāḍha-nakṣatra,<!-- St. pūrvvāṣāḍa, see remarks Damais --> Aśvi-devatā, viskambhayoga, tatkāla Ājñă<!-- St. Ājñā --> śrī mahā<lb n="1v2" break="no"/>rāja rakai vatu kura dyaḥ balituṁ śrī dharmmodayamahāsambhu, misor· I rakyān·<!-- thus LCD, St. rakyān· --> mapatiḥ I hino, muAṁ I rakai vvatan·, kumonnakan· Ikanaṁ vanuA I poḥ muAṁṅ anaknya vanuA ri rumasan·, riṁ nyū, kapva vatak·
-<lb n="1v3"/>kinivaṁ, śuśukan· paṅguhanya mamulus· mas· <abbr>su</abbr> <num value="4">4</num> tanya<!-- St. tanpa --><space type="descender"/> vadvāyun·, gavai<space type="descender"/>ni vanvanya sāmas·, paknānyan· sinuśuk· muAṁ kalaṁnya sīmā saṁ hyaṁ caitya mahayva siluṁluṁ saṁ devata saṁ lumāḥ I pastika, tan·
-<lb n="1v4"/>katamāna deni saprakāraniṁ maṅilala drabya haji tikasan·, kriṁ, paḍam·,<!-- St. padam· --> rumvān·, paraṇakan·, Air haji, tapa haji, tuha dagaṁ, manimpiki, makalaṅkaṁ, limus· galuḥ, taji, paṅaruhan·, kataṅgaran, pi<lb n="1v5" break="no"/>nilai, vanva I dalam·, hulun haji, pamrasi, mapaḍahi, maṅiduṁ, mahaliman· Ityevamādi saprakāra kabaiḥ tan hana deyan· tumamā Iriya, saṁ hyaṁ caitya saṁ devata saṁ lumāḥ Iṁ pastika Ataḥ basa<lb n="1v6" break="no"/>-pramāṇā I sovarani sukhaduḥkhanya kabaiḥ, maṅasəAkan· Ikanaṁ rāma kabaiḥ I poḥ, riṁ rumasan·, riṁ nyū, pasak-pasak· I śrī mahārāja v<choice><orig>d</orig><reg>ḍ</reg></choice>ihan· jaro <abbr>yu</abbr> <num value="1">1</num> mas· pagəḥ <abbr>su</abbr> <num value="5">5</num> nini haji rakai vvatan· pu tammər
+<lb n="1v1"/> <g type="dandaSerif"/><g type="dandaSerif"/> <g type="spiralL"/> <g type="dandaSerif"/><g type="dandaSerif"/> svasti śaka-varṣātīta <num value="827">82<unclear>7</unclear></num> śravaṇa-māsa tithi trayodaśi, śukla-pakṣa, paniruAn·, pon·, budha-vāra, Aiśānya-sthāna, pūrvvāṣāḍha-nakṣatra, Aśvi-devatā, viskambhayoga, tatkāla Ājñă śrī mahā<lb 
+n="1v2" break="no"/>rāja rakai vatu kura dyaḥ balituṁ śrī dharmmodayamahāsambhu, misor· I rakryān· mapatiḥ I hino, muAṁ I rakai vvatan·, kumonnakan· Ikanaṁ vanuA I poḥ muAṁṅ anaknya vanuA ri rumasan·, riṁ nyū, kapva vatak·
+<lb n="1v3"/>kinivaṁ, śuśukan· paṅguhanya mamulus· mas· <abbr>su</abbr> <num value="4">4</num> tan ya<!--tanya<!-\- St. tanpa -\-><space type="descender"/>--> vadvāyun·, gavai<space type="descender"/>ni vanvanya sāmas·, paknānyan· sinuśuk· muAṁ kalaṁnya sīmā saṁ hyaṁ caitya mahayva siluṁluṁ saṁ devata saṁ lumāḥ I pastika, tan·
+<lb n="1v4"/>katamāna deni saprakāraniṁ maṅilala drabya haji tikasan·, kriṁ, paḍam·, rumvān·, paraṇakan·, Air haji, tapa haji, tuha dagaṁ, manimpiki, makalaṅkaṁ, limus· galuḥ, taji, paṅaruhan·, kataṅgaran, pi<lb 
+n="1v5" break="no"/>nilai, vanva I dalam·, hulun haji, <choice><orig>pamrarsi</orig><reg>pamr̥ṣi</reg></choice>, mapaḍahi, maṅiduṁ, mahaliman· Ityevamādi saprakāra kabaiḥ tan hana deyan· tumamā Iriya, saṁ hyaṁ caitya saṁ devata saṁ lumāḥ Iṁ pastika Ataḥ basa<lb 
+n="1v6" break="no"/>-pramāṇā I sovarani sukhaduḥkhanya kabaiḥ, maṅasəAkan· Ikanaṁ rāma kabaiḥ I poḥ, riṁ rumasan·, riṁ nyū, pasak-pasak· I śrī mahārāja v<choice><orig>d</orig><reg>ḍ</reg></choice>ihan· jaro <abbr>yu</abbr> <num value="1">1</num> mas· pagəḥ <abbr>su</abbr> <num value="5">5</num> nini haji rakai vvatan· pu tammər
 <lb n="1v7"/>kain· jaro savlaḥ mas· <abbr>su</abbr> <num value="5">5</num> <g type="ddandaHooked">.</g> I rakryān mapatiḥ I hino saṁ śrī dakṣottamabāhubajrapratipakṣakṣaya InaṁsəAn· pasak-pasak· v<choice><orig>d</orig><reg>ḍ</reg></choice>ihan· kalyāga <abbr>yu</abbr> <num value="1">1</num><!-- St. reads "," here, but there is none --> mas· <abbr>su</abbr> <num value="1">1</num> <abbr>mā</abbr> <num value="4">4</num> I rakai halu pu vīravikrama,
 <lb n="1v8"/>rakai sirikan· pu variga saṁ samaravikrānta, rakai vka pu kutak·, saṁ pamagat· tiruAn· pu Asaṅā saṁ śiva-Astra kapuA InaṁsəAn· pasak-pasak· v<choice><orig>d</orig><reg>ḍ</reg></choice>ihan· kalyāga <abbr>yu</abbr> <num value="1">1</num> mas· <abbr>su</abbr> <num value="1">1</num> Iṁ sovaṁ-sovaṁ, ra<lb 
-n="1v9" break="no"/>kai halaran· pu tloḍuṁ<!-- St., tloḍhuṁ LCD, see remarks LCD but see also ḍapit further on -->, 
+n="1v9" break="no"/>kai halaran· pu tloḍuṁ, 
 <!-- argr has finished checking the edition down to here on 2020-11-24 -->
 samagat· dalinan· saṁ sukha paṁgil·, rakai palar hyaṁ pu puñjaṁ, maṁhuri pu cakra, paṅkur· pu śivadhyāna, tavān· pu sūryya, tirip· pu kr̥<choice><sic>m</sic><corr>ṣ</corr></choice>ṇa vadihati pu ḍapit·, makudur
 <lb n="1v10"/>pu sambr̥da<!-- St. samvṛda -->, kapuA InaṁsəAn· pasak-pasak· vdihan raṅga <abbr>yu</abbr> <num value="1">1</num> mas· <abbr>mā</abbr> <num value="8">8</num> Iṁ sovaṁ-sovaṁ<g type="ddanda">.</g> samagat· kinivaṁ makavanva Ikanaṁ I poḥ sinuśuk· kinivaṁ pu bnat· Anak vanva Iṁ kavu sīma kapatihan· I<lb 
-n="1v11" break="no"/>naṁsə<space type="descender"/>an pasak-pasak· v<choice><orig>d</orig><reg>ḍ</reg></choice>ihan· kalyāga <abbr>yu</abbr> <num value="1">1</num> mas· <abbr>su</abbr> <num value="14">14</num> kbo <num value="1">1</num> vḍus· <num value="1">1</num> pada <num value="1">1</num> saṁ kinivaṁ Anakbi pu tuṇḍuṁ kain· pinilai savlaḥ mas· <abbr>mā</abbr> <num value="8">8</num><g type="ddanda">.</g> paminaṁ I saṁ hyaṁ kudur· v<choice><orig>d</orig><reg>ḍ</reg></choice>ihan· <abbr>yu</abbr> <num value="1">1</num> mas· <abbr>mā</abbr> <num value="4">4</num> saṁ juru I
-<lb n="1v12"/>Ayam· təAs· <num value="2">2</num> saṁ mira-miraḥ pu rayuṁ Anak vanuA I mira-miraḥ vatak· vadihati maṁraṅkappi saṁ halaran pu dhana<space type="descender"/>da Anak vanuA I paṁramvan· sīma vadihati, saṁ juru I makudur· <num value="2">2</num> saṁ taṅkil· sugiḥ pu mankai Ana<lb 
+n="1v11" break="no"/>naṁsə<space type="descender"/>an· pasak-pasak· v<choice><orig>d</orig><reg>ḍ</reg></choice>ihan· kalyāga <abbr>yu</abbr> <num value="1">1</num> mas· <abbr>su</abbr> <num value="14">14</num> kbo <num value="1">1</num> vḍus· <num value="1">1</num> pada <num value="1">1</num> saṁ kinivaṁ Anakbi pu tuṇḍuṁ kain· pinilai savlaḥ mas· <abbr>mā</abbr> <num value="8">8</num><g type="ddanda">.</g> paminaṁ I saṁ hyaṁ kudur· v<choice><orig>d</orig><reg>ḍ</reg></choice>ihan· <abbr>yu</abbr> <num value="1">1</num> mas· <abbr>mā</abbr> <num value="4">4</num> saṁ juru I
+<lb n="1v12"/>Ayam· təAs· <num value="2">2</num> saṁ mira-miraḥ pu rayuṁ Anak vanuA I mira-miraḥ vatak· vadihati maṁraṅkappi saṁ halaran· pu dhana<space type="descender"/>da Anak vanuA I paṁramvan· sīma vadihati, saṁ juru I makudur· <num value="2">2</num> saṁ taṅkil· sugiḥ pu mankai Ana<lb 
 n="1v13" break="no"/>k vanuA I mantyāsiḥ vatak makudur·, maṁraṅkappi saṁ maṇḍyāṅin· Anak vanuA I kahaṅatan· vatak hamyas· kapuA vinaiḥ pasak-pasak· v<choice><orig>d</orig><reg>ḍ</reg></choice>ihan· <abbr>yu</abbr> <num value="1">1</num> mas· <abbr>mā</abbr> <num value="4">4</num> Iṁ sovaṁ-sovaṁ, saṁ tuhān· mamuAt· vuvus· ka<lb 
-n="1v14" break="no"/>baiḥ parujar· I hino saṁ kaṇḍamuhi pu tuṅgaṁ Anak vanuA I gunuṅan· vatak· taṅkilan·, citralaikhā saṁ vatu varani pu manəsə:r· Anak vanuA I tutuganniṁ taṇḍa I taṅkilan·, parujarr i halu saṁ viṣa<add place="below">ga</add><!-- St. vimga — or read m and correct ṣ here too?--> pu damodara Anak vanuA I
-<lb n="1v15"/>paṇḍavutan· vatak tiru rāṇu, parujarr i<!-- St. parujar i --> sirikan· saṁ hujuṁ galuḥ pu Ayuddha Anak vanuA I truvanban· vatak· tiru rāṇu, citralekhā saṁ dharmmasinta pu samudra Anak vanuA I pās· tamvir·, parujarr i vka saṁ viridiḥ pu ḍaṇu A<lb 
-n="1v16" break="no"/>nak vanuA I skar ttān·<!--  St. ttan ‚ cf. Panggumulang and Rukam --> vatak· layu vataṁ, citralekhā saṁ halaṁ manuk pu govinda Anak vanuA I vanuA tṅaḥ vatak· vuru siki, parujar· I tiruAn· saṁ sumuḍan· ḍapunta katimamaṁ Anak vanuA I vuṅkuḍu vatak kili<lb 
+n="1v14" break="no"/>baiḥ parujar· I hino saṁ kaṇḍamuhi pu tuṅgaṁ Anak vanuA I gunuṅan· vatak· taṅkilan·, citralaikhā saṁ vatu varani pu manəsə:r· Anak vanuA I tutuganniṁ taṇḍa I taṅkilan·, parujarr i halu saṁ viṣa<add place="below">ga</add> pu damodara Anak vanuA I
+<lb n="1v15"/>paṇḍavutan· vatak tiru rāṇu, parujarr i sirikan· saṁ hujuṁ galuḥ pu Ayuddha Anak vanuA I truvanban· vatak· tiru rāṇu, citralekhā saṁ dharmmasinta pu samudra Anak vanuA I pās· tamvir·, parujarr i vka saṁ viridiḥ pu ḍaṇu A<lb 
+n="1v16" break="no"/>nak vanuA I skar ttān· vatak· layu vataṁ, citralekhā saṁ halaṁ manuk pu govinda Anak vanuA I vanuA tṅaḥ vatak· vuru siki, parujar· I tiruAn· saṁ sumuḍan· ḍapunta katimamaṁ Anak vanuA I vuṅkuḍu vatak kili<lb 
 n="1v17" break="no"/>pan·, kapuA vinaihan· pasak-pasak· v<choice><orig>d</orig><reg>ḍ</reg></choice>ihan· <abbr>yu</abbr> I mas· <abbr>mā</abbr> <num value="4">4</num> Iṁ soAṁ-soAṁ<g type="ddanda">.</g> parujarr i halaran· saṁ ra vanu pu batu Anak vanuA I hinapit· vatak· vka, parujarr i dalinan· saṁ varyyaṁ pu lakṣaṇa Anak vanuA
 <!-- argr has finished checking the edition down to here on 2021-06-22 -->
 <lb n="1v18"/>I vvatan· vatak· dalinan·, parujarr i palar hyaṁ saṁ tumapal· pu baka Anak vanuA I tuṅgu manoṅan·, parujarr i maṅhuri saṁ ranuĪ pu gupura Anak vanuA I hinapit· vatak vka, parujarr i vka saṁ dadalan· pu samodaya<lb 
 n="1v19" break="no"/><supplied reason="omitted">A</supplied>nak vanuA I siṁhapura vatak halu madāṁ maṁasə: I mamrati, parujarr i tavān· saṁ ḍāluk· <unclear>p</unclear><supplied reason="lost">u tu</supplied>ruy· Anak vanuA I raluA vatak· vuru siki, parujarr i tirip· saṁ ra paḍaṁ pu rāghū Anak vanuA Iy ugihan· vatak·
 <pb n="2r"/>
 <lb n="2r1"/>dalinan·, kapuA vinaiḥ pasak-pasak· v<choice><orig>d</orig><reg>ḍ</reg></choice>ihan· <abbr>yu</abbr> <num value="1">1</num> mas· <abbr>mā</abbr> <num value="2">2</num> Iṁ sovaṁ<!-- this really looks more like sovi -->-sovaṁ<g type="ddandaHooked">.</g> pihujuṁni parujar saṁ mānak· katiga I paṅkur· luA si raṅhal· muAṁ si sañjaya, I tavān· muṅgi si masusū muAṁ vvatan pai
-<lb n="2r2"/>si caṅka, I tirip· panavuṅan· si lakā kapuA vinaiḥ pasak-pasak· v<choice><orig>d</orig><reg>ḍ</reg></choice>ihan· <abbr>yu</abbr> <num value="1">1</num> mas· <abbr>mā</abbr> <num value="1">1</num> Iṁ sovaṁ-sovaṁ<g type="ddandaHooked">.</g> I vadihati lumaku manuśuk· si pārthava Anak vanuA I taṅkilan· vatak· mamrati, I makudu<lb 
+<lb n="2r2"/>si caṅka, I tirip· panavuṅan· si lakā kapuA vinaiḥ pasak-pasak· v<choice><orig>d</orig><reg>ḍ</reg></choice>ihan· <abbr>yu</abbr> <num value="1">1</num> mas· <abbr>mā</abbr> <num value="1">1</num> Iṁ sovaṁ-sovaṁ<g type="ddandaHooked">.</g> I vadihati lumaku manuśuk· saṁ pārthava Anak vanuA I taṅkilan· vatak· mamrati, I makudu<lb 
 n="2r3"/>r· lumaku manuśuk· saṁṅ uttara Anak vanuA I varak-varak· vatak hino, kapuA vinaiḥ pasak-pasak· v<choice><orig>d</orig><reg>ḍ</reg></choice>ihan· <abbr>yu</abbr> <num value="2">2</num> <supplied reason="omitted">mas·</supplied> <abbr>mā</abbr> <num value="15">15</num> kahop· paṅaṅkat· panuṁsuṁ muAṁ saṅunira muliḥ Iṁ sovaṁ-sovaṁ, vadvā rakryān· mapa<lb 
 n="2r4" break="no"/>tiḥ I hino paṅuraṁ milu manuśuk· saṁ marumvi pu mana Anak vanuA I marumvi vatak hino, paṅuraṁ I halu saṁ naitra Anak vanuA I paməhaṅan· vatak· manimpiki, paṅuraṁ I sirikan· rakai paṅgaṁ Anak vanuA
 <lb n="2r5"/>I siṅhapura vatak halu, paṅuraṁ I vka rakai sañjat· Anak vanuA I samalagi vatak· Asam pañjaṁ, paṅuraṁ I paṅkur· saṁ dhyāna Anak vanuA I glaṁ-glaṁ vatak· kalum varak·, kapuA vinaiḥ pasak-pasak· v<choice><orig>d</orig><reg>ḍ</reg></choice>ihan·
@@ -153,6 +156,49 @@ n="2v15" break="no"/>A I hijo vatak· <supplied reason="lost">lu</supplied><uncl
          </div>
          <div type="apparatus">    
                <listApp>
+<app loc="1v1">
+<lem source="bib:Damais1955_01">śakavarṣātīta·</lem>
+<rdg source="bib:Stutterheim1940_01">śakavarsātīta</rdg>
+</app>
+<app loc="1v1">
+<lem source="bib:Damais1955_01">pūrvvāṣāḍha-</lem>
+<rdg source="bib:Stutterheim1940_01">pūrvvāṣāḍa-</rdg>
+<note>See the elaborate palaeographic discussion on the disctintion <foreign>ḍ/ḍh</foreign> in <bibl><ptr target="bib:Damais1955_01"/><citedRange unit="page">43-33</citedRange></bibl>.</note>
+</app>
+<app loc="1v1">
+<lem source="bib:Damais1955_01">Ājñă</lem>
+<rdg source="bib:Stutterheim1940_01">Ājñā</rdg>
+</app>
+<app loc="1v2">
+<lem source="bib:Damais1955_01">rakryān·</lem>
+<rdg source="bib:Stutterheim1940_01">rakyān·</rdg>
+</app>
+                   <app loc="1v3">
+                     <lem>tan ya</lem>
+                     <rdg source="bib:Stutterheim1940_01">tanpa</rdg>
+                  </app>
+<app loc="1v4">
+<lem source="bib:Damais1955_01">paḍam·</lem>
+<rdg source="bib:Stutterheim1940_01">padam·</rdg>
+</app>
+<app loc="1v5">
+<lem><choice><orig>pamrarsi</orig><reg>pamr̥ṣi</reg></choice></lem>
+<rdg source="bib:Damais1955_01">pamrarsi</rdg>
+<rdg source="bib:Stutterheim1940_01">pamrasi</rdg>
+</app>
+<app loc="1v14">
+<lem>viṣa<add place="below">ga</add></lem>
+<rdg source="bib:Stutterheim1940_01">vimga</rdg>
+</app>
+<app loc="1v15">
+<lem>parujarr i sirikan·</lem>
+<rdg source="bib:Stutterheim1940_01">parujar i sirikan·</rdg>
+</app>
+<app loc="1v16">
+<lem source="bib:Damais1955_01">skar ttān·</lem>
+<rdg source="bib:Stutterheim1940_01">skarttan·</rdg>
+<!--  cf. Panggumulan and Rukam -->
+</app>
                   <app loc="1v18">
                      <lem>ranuĪ</lem>
                      <rdg source="bib:Stutterheim1940_01">ranugra</rdg>
@@ -162,6 +208,10 @@ n="2v15" break="no"/>A I hijo vatak· <supplied reason="lost">lu</supplied><uncl
 	       <rdg source="bib:Stutterheim1940_01">dhāluk· pu<gap reason="lost" quantity="1" unit="character"/>ruy·</rdg>
 	      <note>Restored after <ref target="DHARMA_INSIDENKRukam.xml">Rukam</ref> 1v16.</note>
 	</app>
+<app loc="2r2">
+<lem source="bib:Damais1955_01">saṁ pārthava</lem>
+<rdg source="bib:Stutterheim1940_01">si pārthava</rdg>
+</app>
 <app loc="2r4">
 <lem source="bib:Damais1955_01">saṁ naitra</lem>
 <rdg source="bib:Stutterheim1940_01">si naitra</rdg>
