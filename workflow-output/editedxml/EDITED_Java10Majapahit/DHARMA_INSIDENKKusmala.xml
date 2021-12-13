@@ -182,16 +182,16 @@
                     </app>
                     <app loc="4">
                     <lem><unclear>ā</unclear>jñā</lem>
-                    <rdg source="bib:SteinCallenfels_1919">ājña</rdg>
+                    <rdg source="bib:SteinCallenfels1919_01">ājña</rdg>
                     </app>
                     <app loc="5-6">
                     <lem>păduka ba<unclear>ṭāre</unclear> matahun śrĭ baṭăra <persName>vijayarājasănantavikramottuṅga<lb n="6" break="no"/>deva</persName></lem>
                     <!--MS: same question for lb-->
-                    <rdg source="bib:SteinCallenfels_1919">pāduka bāṭare matahun śri bāṭara vijayarājasānantavikramottuṅgadeva</rdg>
+                    <rdg source="bib:SteinCallenfels1919_01">pāduka bāṭare matahun śri bāṭara vijayarājasānantavikramottuṅgadeva</rdg>
                     </app>
                     <app loc="6">
                     <lem>para s<unclear>a</unclear>mya</lem>
-                    <rdg source="bib:SteinCallenfels_1919">parasāmya</rdg>
+                    <rdg source="bib:SteinCallenfels1919_01">parasāmya</rdg>
                     </app>
                     <app loc="7">
                         <lem><unclear>I</unclear> vetan</lem>
@@ -202,34 +202,34 @@
                     </app>
                     <app loc="7">
                       <lem>pāduka baṭāre mātahun</lem>
-                      <rdg source="bib:SteinCallenfels_1919">pādukā baṭare matahun</rdg>
+                      <rdg source="bib:SteinCallenfels1919_01">pādukā baṭare matahun</rdg>
                     </app>
                     <!--MS: sic corr for matahun-->
                     <app loc="8">
                       <lem>kas<unclear>u</unclear>kaniṁ rāt</lem>
-                      <rdg source="bib:SteinCallenfels_1919">kas<choice><sic>a</sic><corr>u</corr></choice>kanirat</rdg>
+                      <rdg source="bib:SteinCallenfels1919_01">kas<choice><sic>a</sic><corr>u</corr></choice>kanirat</rdg>
                         <note>The emendation adopted by van Stein Callenfels was suggested by Brandes.</note>
                     </app>
                     <app loc="8">
                       <lem>sampŭrṇna</lem>
-                      <rdg source="bib:SteinCallenfels_1919">sampurnna</rdg>
+                      <rdg source="bib:SteinCallenfels1919_01">sampurnna</rdg>
                     </app>
                     <app loc="10">
                         <lem>hatītadurggamahaLp</lem>
-                        <rdg source="bib:SteinCallenfels_1919">atita durgga mahaləp</rdg>
+                        <rdg source="bib:SteinCallenfels1919_01">atita durgga mahaləp</rdg>
                     </app>
                     <app loc="10">
                       <lem>maparipŭrṇna</lem>
-                      <rdg source="bib:SteinCallenfels_1919">maparipurnna</rdg>
+                      <rdg source="bib:SteinCallenfels1919_01">maparipurnna</rdg>
                     </app>
                      <app loc="11">
                         <lem>sah aṅaran</lem>
-                        <rdg source="bib:SteinCallenfels_1919">sah aṅāran</rdg>
+                        <rdg source="bib:SteinCallenfels1919_01">sah aṅāran</rdg>
                          <note>It is not clear why van Stein Callenfels felt the need to emend to <hi rend="italic">aṅāran</hi> (following Poerbatjaraka), while he correctly read <hi rend="italic">sa haṅaran</hi>.</note>
                     </app>
                     <app loc="14">
                         <lem>asusaṁrama</lem>
-                        <rdg source="bib:SteinCallenfels_1919">asuṅ paramasukanikaṅ</rdg>
+                        <rdg source="bib:SteinCallenfels1919_01">asuṅ paramasukanikaṅ</rdg>
                         <note>This passage is difficult. Van Stein Callenfels read <hi rend="italic">asu saṁ rama</hi> but emended following Poerbatjaraka,
                             whose reconstruction does not convince us. Other possibilities would be
                             to emend asusaṅgrāma (see OJED 1665), asusaṅkrama  or asusambrahma (OJED 1636.5).</note>
@@ -241,7 +241,7 @@
                     <!--MS: suppr note, mettre source VSC dans LEM-->
                     <app loc="15-16">
                         <lem>mav<unclear>i</unclear>prakṣa<lb n="16" break="no"/><unclear>t</unclear>i</lem>
-                        <rdg source="bib:SteinCallenfels_1919">mavipraksati</rdg>
+                        <rdg source="bib:SteinCallenfels1919_01">mavipraksati</rdg>
                         <note><hi rend="italic">mapviprakṣati</hi> seems to be a hapax. In the OJED corpus, we find the reading <hi rend="italic">kaviprakṣati</hi>, which seems to be an emendation of Zoetmulder.</note>
                     </app>
                     <app loc="16">
@@ -251,7 +251,7 @@
                     <!--MS: chercher kākapāda dans EG et supprimer note.-->
                     <app loc="16">
                         <lem>haṅuhaṁṅune</lem>
-                        <rdg source="bib:SteinCallenfels_1919">haṅuhaṅune</rdg>
+                        <rdg source="bib:SteinCallenfels1919_01">haṅuhaṅune</rdg>
                     </app>
                     <app loc="16">
                         <lem>saṅ <choice><sic>uhulun</sic><corr>ahulun</corr></choice></lem>
@@ -260,7 +260,7 @@
                     <!--MS: source dans LEM-->
                     <app loc="17">
                         <lem>makaṅaran</lem>
-                        <rdg source="bib:SteinCallenfels_1919">makaṅāran</rdg>
+                        <rdg source="bib:SteinCallenfels1919_01">makaṅāran</rdg>
                     </app>
                 </listApp>
             </div>
