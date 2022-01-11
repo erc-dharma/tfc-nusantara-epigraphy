@@ -4,8 +4,9 @@
       <title>DHARMA_INSIDENKPadingding. Padingding</title>
       <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/erc-dharma/project-documentation@latest/stylesheets/inscriptions/global.css">
       <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/malihu-custom-scrollbar-plugin/3.1.5/jquery.mCustomScrollbar.min.css">
    </head>
-   <body>
+   <body class="font-weight-light" data-spy="scroll" data-target="#myScrollspy" data-offset="5">
       <nav class="navbar navbar-expand-lg navbar-light bg-light"><a class="navbar-brand" href="https://erc-dharma.github.io/">ERC-DHARMA</a><button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button><div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav mr-auto">
                <li class="nav-item active"><a class="nav-link" href="https://erc-dharma.github.io/">Home <span class="sr-only">(current)</span></a></li>
@@ -18,17 +19,37 @@
                      Controlled Vocabularies
                      </a><div class="dropdown-menu" aria-labelledby="navbarDropdown"><a class="dropdown-item" href="https://erc-dharma.github.io/controlled-vocabularies/DHARMA_mdt_artefactControlledVoc">Artefacts – Controlled Vocabularies</a><a class="dropdown-item" href="https://erc-dharma.github.io/controlled-vocabularies/DHARMA_mdt_artefactClosedLists">Artefacts – Closed List</a><a class="dropdown-item" href="https://erc-dharma.github.io/controlled-vocabularies/DHARMA_mdt_textControlledVoc">Texts – Controlled Vocabularies</a><a class="dropdown-item" href="https://erc-dharma.github.io/controlled-vocabularies/DHARMA_mdt_textClosedLists">Texts – Closed List for texts</a></div>
                </li>
-               <li class="nav-item dropdown"><a class="nav-link dropdown-toggle" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+               <li class="nav-item dropdown"><a class="nav-link dropdown-toggle" id="navbarDropdownDoc" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                      Documentation
-                     </a><div class="dropdown-menu" aria-labelledby="navbarDropdown"><a class="dropdown-item" href="https://erc-dharma.github.io/project-documentation/atom/UsingAtom_v01">Starting with Atom</a><a class="dropdown-item" href="https://erc-dharma.github.io/project-documentation/atom/UsingAtomGit_v01">Starting with Atom &amp; Git</a><a class="dropdown-item" href="https://erc-dharma.github.io/project-documentation/atom/UsingAtomTeletype_v01">Starting with Atom Teletype</a><a class="dropdown-item" href="https://erc-dharma.github.io/project-documentation/git/DHARMA_git_guide_v01">Starting with git</a><a class="dropdown-item" href="https://erc-dharma.github.io/project-documentation/github-issuetracker/UsingGitHubIssueTracker.pdf">Starting with GitHub issues</a><a class="dropdown-item" href="https://erc-dharma.github.io/project-documentation/github-issuetracker/UsingMarkdownSyntax_v01">Starting with markdown</a><a class="dropdown-item" href="https://erc-dharma.github.io/project-documentation/encoding-diplomatic/DHARMA%20EGD%20v1%20release.pdf">Encoding Guide for Diplomatic editions</a><a class="dropdown-item" href="https://erc-dharma.github.io/project-documentation/FNC/DHARMA_FNC_v01.1.pdf">File Naming Conventions</a><a class="dropdown-item" href="https://erc-dharma.github.io/project-documentation/transliteration/DHARMA%20Transliteration%20Guide%20v3%20release.pdf">Transliteration Guide</a><a class="dropdown-item" href="https://erc-dharma.github.io/project-documentation/zotero/DHARMA_ZoteroGuide_v01.1.1.pdf">Zotero Guide</a></div>
+                     </a><div class="dropdown-menu" aria-labelledby="navbarDropdown"><a class="dropdown-item" href="https://erc-dharma.github.io/project-documentation/encoding-diplomatic/DHARMA%20EGD%20v1%20release.pdf">Encoding Guide for Diplomatic editions</a><a class="dropdown-item" href="critEd_elements">Critical Editions Memo</a><a class="dropdown-item" href="https://erc-dharma.github.io/project-documentation/FNC/DHARMA_FNC_v01.1.pdf">File Naming Conventions</a><a class="dropdown-item" href="https://erc-dharma.github.io/project-documentation/transliteration/DHARMA%20Transliteration%20Guide%20v3%20release.pdf">Transliteration Guide</a><a class="dropdown-item" href="https://erc-dharma.github.io/project-documentation/zotero/DHARMA_ZoteroGuide_v01.1.1.pdf">Zotero Guide</a></div>
+               </li>
+               <li class="nav-item dropdown"><a class="nav-link dropdown-toggle" id="navbarDropdownDoc" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                     Training
+                     </a><div class="dropdown-menu" aria-labelledby="navbarDropdown"><a class="dropdown-item" href="https://erc-dharma.github.io/project-documentation/atom/UsingAtom_v01">Starting with Atom</a><a class="dropdown-item" href="https://erc-dharma.github.io/project-documentation/atom/UsingAtomGit_v01">Starting with Atom &amp; Git</a><a class="dropdown-item" href="https://erc-dharma.github.io/project-documentation/atom/UsingAtomTeletype_v01">Starting with Atom Teletype</a><a class="dropdown-item" href="https://erc-dharma.github.io/project-documentation/git/DHARMA_git_guide_v01">Starting with git</a><a class="dropdown-item" href="https://erc-dharma.github.io/project-documentation/github-issuetracker/UsingGitHubIssueTracker.pdf">Starting with GitHub issues</a><a class="dropdown-item" href="https://erc-dharma.github.io/project-documentation/github-issuetracker/UsingMarkdownSyntax_v01">Starting with markdown</a><a class="dropdown-item" href="https://erc-dharma.github.io/digital-areal/">Starting with XML in French</a></div>
                </li>
                <li class="nav-item"><a class="nav-link" href="https://erc-dharma.github.io/arie">ARIE</a></li>
                <li class="nav-item"><a class="nav-link" href="https://www.zotero.org/groups/1633743/erc-dharma/library">Zotero Library</a></li>
+               <li class="nav-item"><a class="nav-link" href="https://dharma.hypotheses.org/">Blog</a></li>
             </ul>
          </div>
       </nav>
       <div class="container">
-         <div class="edition-content col-10">
+         <div id="sidebar-wrapper" class="collapse">
+            <nav id="myScrollspy">
+               <ul class="nav nav-pills flex-column">
+                  <li class="nav-item"><a class="nav-link" href="#metadatadiv">Metadata</a></li>
+                  <li class="nav-item"><a class="nav-link" href="#edition">Edition</a><ul class="nav-second nav-pills">
+                        <li class="nav-item-second nav-item"><a class="nav-link" href="#14r">Folio 14r</a></li>
+                        <li class="nav-item-second nav-item"><a class="nav-link" href="#14v">Folio 14v</a></li>
+                     </ul>
+                  </li>
+                  <li class="nav-item"><a class="nav-link" href="#apparatus">Apparatus</a></li>
+                  <li class="nav-item"><a class="nav-link" href="#translation">English Translation</a></li>
+                  <li class="nav-item"><a class="nav-link" href="#commentary">Commentary</a></li>
+                  <li class="nav-item"><a class="nav-link" href="#bibliography">Bibliography</a></li>
+               </ul>
+            </nav>
+         </div><a class="btn btn-info" data-toggle="collapse" href="#sidebar-wrapper" role="button" aria-expanded="false" aria-controls="sidebar-wrapper" id="toggle-table-contents">☰ Document Outline</a><div class="edition-content col-10">
             <h1>Padingding</h1>
             <div id="metadatadiv">
                <h2>Metadata</h2>
@@ -41,12 +62,12 @@
             </div>  
             <div id="edition" lang="kaw-Latn">
                <h2>Edition</h2>  
-               <p>  <a id="al14r1"><!--0--></a><sup class="linenumber">14r1</sup>kali, ḍpa, 522, Asiḍaktan· lavan· lmaḥ dharmma muAṁ lmaḥ paḍi<span class="notBold">(</span>ṁ<span class="notBold cas1.1">)</span>ḍiṁ, maṅalor sadāṅavetan mātra maṅlivati kali sakeṁ tumaṁ, manutug· tpiniṁ ka- <br id="al14r2"><sup class="linenumber">14r2</sup>li muvaḥ, ḍpa, 701, Asiḍaktan lavan· lmaḥ paḍiṁḍiṁ, maṅetan aniku lalava, ḍpa, 10,
+               <p>  <a id="al14r1"></a><sup class="linenumber">14r1</sup>kali, ḍpa, 522, Asiḍaktan· lavan· lmaḥ dharmma muAṁ lmaḥ paḍi<span class="notBold">(</span>ṁ<span class="notBold cas1.1">)</span>ḍiṁ, maṅalor sadāṅavetan mātra maṅlivati kali sakeṁ tumaṁ, manutug· tpiniṁ ka- <br id="al14r2"><sup class="linenumber">14r2</sup>li muvaḥ, ḍpa, 701, Asiḍaktan lavan· lmaḥ paḍiṁḍiṁ, maṅetan aniku lalava, ḍpa, 10,
                   Asiḍaktan lavan· lmaḥ paḍiṁḍiṁ, maṅalor amnər maṅlivati ka- | <br id="al14r3"><sup class="linenumber">14r3</sup>li sake<span class="notBold cas1.1">(</span>ṁ<span class="notBold">)</span> siku lalava, manutug· tpi vetan· tan padr̥vya kali, manutug· tpiniṁ kali dharmmaga,
                   ḍpa, 300, Asiḍaktan lavan· lmaḥ paḍiṁḍiṁ, maṅalor amga- | <br id="al14r4"><sup class="linenumber">14r4</sup>t· kali dharmmaga, maṅlivati vidhāra, manutug· tumaṁ, Asiḍaktan lavan· lmaḥ paḍiṁdiṁ,
                   muAṁ lmaḥ paṅeran·, maṅetan amnər sakeṁ tumaṁ, manutug· siku lala- | <br id="al14r5"><sup class="linenumber">14r5</sup>va, ḍpa, 339, Asiḍaktan lavan· lmaḥ paṅeran·, maṅalor aniku lalava, ḍpa, 10, maṅetan
                   amnər sakeṁ siku lalava, manutug siku lalava | <br id="al14r6"><sup class="linenumber">14r6</sup> muvaḥ, ḍpa, 482, Asidaktan lavan· lmah paṅeran·, maṅalor aniku lalava, ḍpa, 105,
-                  Aṅetan aniku lalava, ḍpa, 20, maṅalor ani- <br id="al14v1"><sup>⎘ plate 14v </sup><sup class="linenumber">14v1</sup>ku lalava muvaḥ, ḍpa, 124, maṅetan aniku lalava muvaḥ, ḍpa, 35, maṅalor aniku lalava
+                  Aṅetan aniku lalava, ḍpa, 20, maṅalor ani- <br id="al14v1"><sup id="14v">⎘ plate 14v </sup><sup class="linenumber">14v1</sup>ku lalava muvaḥ, ḍpa, 124, maṅetan aniku lalava muvaḥ, ḍpa, 35, maṅalor aniku lalava
                   muvaḥ, ḍpa, 160, Ika ta kabeḥ Asiḍakta- <br id="al14v2"><sup class="linenumber">14v2</sup>n lavan· lmaḥ paṅeran·, maṅetan amnər sakeṁ siku lalava, manutug· rupit·, ḍpa, 900,
                   Asiḍaktan lavan· lmaḥ paṅeran·, maṅalor i tpi kulva- | <br id="al14v3"><sup class="linenumber">14v3</sup>niṁ rupit·, maniku lalava, ḍpa, 35, Asiḍaktan lavan· lmaḥ paṅeran<sup>🧭</sup>·, maṅetan amnər maṅlivati rupit sakeṁ siku lalava, manutug· siku lalava mu- <br id="al14v4"><sup class="linenumber">14v4</sup>vaḥ, ḍpa, 75, Asiḍaktan lavan· lmaḥ pajənvan·, maṅalor aniku lalava, ḍpa, 47, maṅetan
                   aniku lalava, ḍpa, 20, maṅalor aniku lalava <br id="al14v5"><sup class="linenumber">14v5</sup>muvaḥ, ḍpa, 40, Ika ta kabeḥ Asiḍaktan lavan· lmaḥ pajənvan<sup>🧭</sup>·, maṅetan amnər sakeṁ siku lalava, manutug tugu tṅahiṁ mărgga, ḍpa, 96, Asiḍaktan
@@ -80,5 +101,5 @@
       </div>
       <footer class="footer mt-auto py-3">
          <div>Copyright © 2019-2025 by Arlo Griffiths &amp; Marine Schoettel</div>
-      </footer><script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script><script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-Piv4xVNRyMGpqkS2by6br4gNJ7DXjqk09RmUpJ8jgGtD7zP9yug3goQfGII0yAns" crossorigin="anonymous"></script><script src="https://cdn.jsdelivr.net/gh/erc-dharma/project-documentation@master/stylesheets/criticalEditions/loader.js"></script></body>
+      </footer><script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script><script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-Piv4xVNRyMGpqkS2by6br4gNJ7DXjqk09RmUpJ8jgGtD7zP9yug3goQfGII0yAns" crossorigin="anonymous"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/malihu-custom-scrollbar-plugin/3.1.5/jquery.mCustomScrollbar.concat.min.js"></script><script src="https://cdn.jsdelivr.net/gh/erc-dharma/project-documentation@latest/stylesheets/criticalEditions/loader.js"></script></body>
 </html>

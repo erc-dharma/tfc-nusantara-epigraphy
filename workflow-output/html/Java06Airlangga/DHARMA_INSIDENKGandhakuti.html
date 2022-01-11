@@ -4,8 +4,9 @@
       <title>DHARMA_INSIDENKGandhakuti. Gandhakuti</title>
       <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/erc-dharma/project-documentation@latest/stylesheets/inscriptions/global.css">
       <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/malihu-custom-scrollbar-plugin/3.1.5/jquery.mCustomScrollbar.min.css">
    </head>
-   <body>
+   <body class="font-weight-light" data-spy="scroll" data-target="#myScrollspy" data-offset="5">
       <nav class="navbar navbar-expand-lg navbar-light bg-light"><a class="navbar-brand" href="https://erc-dharma.github.io/">ERC-DHARMA</a><button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button><div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav mr-auto">
                <li class="nav-item active"><a class="nav-link" href="https://erc-dharma.github.io/">Home <span class="sr-only">(current)</span></a></li>
@@ -18,17 +19,41 @@
                      Controlled Vocabularies
                      </a><div class="dropdown-menu" aria-labelledby="navbarDropdown"><a class="dropdown-item" href="https://erc-dharma.github.io/controlled-vocabularies/DHARMA_mdt_artefactControlledVoc">Artefacts – Controlled Vocabularies</a><a class="dropdown-item" href="https://erc-dharma.github.io/controlled-vocabularies/DHARMA_mdt_artefactClosedLists">Artefacts – Closed List</a><a class="dropdown-item" href="https://erc-dharma.github.io/controlled-vocabularies/DHARMA_mdt_textControlledVoc">Texts – Controlled Vocabularies</a><a class="dropdown-item" href="https://erc-dharma.github.io/controlled-vocabularies/DHARMA_mdt_textClosedLists">Texts – Closed List for texts</a></div>
                </li>
-               <li class="nav-item dropdown"><a class="nav-link dropdown-toggle" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+               <li class="nav-item dropdown"><a class="nav-link dropdown-toggle" id="navbarDropdownDoc" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                      Documentation
-                     </a><div class="dropdown-menu" aria-labelledby="navbarDropdown"><a class="dropdown-item" href="https://erc-dharma.github.io/project-documentation/atom/UsingAtom_v01">Starting with Atom</a><a class="dropdown-item" href="https://erc-dharma.github.io/project-documentation/atom/UsingAtomGit_v01">Starting with Atom &amp; Git</a><a class="dropdown-item" href="https://erc-dharma.github.io/project-documentation/atom/UsingAtomTeletype_v01">Starting with Atom Teletype</a><a class="dropdown-item" href="https://erc-dharma.github.io/project-documentation/git/DHARMA_git_guide_v01">Starting with git</a><a class="dropdown-item" href="https://erc-dharma.github.io/project-documentation/github-issuetracker/UsingGitHubIssueTracker.pdf">Starting with GitHub issues</a><a class="dropdown-item" href="https://erc-dharma.github.io/project-documentation/github-issuetracker/UsingMarkdownSyntax_v01">Starting with markdown</a><a class="dropdown-item" href="https://erc-dharma.github.io/project-documentation/encoding-diplomatic/DHARMA%20EGD%20v1%20release.pdf">Encoding Guide for Diplomatic editions</a><a class="dropdown-item" href="https://erc-dharma.github.io/project-documentation/FNC/DHARMA_FNC_v01.1.pdf">File Naming Conventions</a><a class="dropdown-item" href="https://erc-dharma.github.io/project-documentation/transliteration/DHARMA%20Transliteration%20Guide%20v3%20release.pdf">Transliteration Guide</a><a class="dropdown-item" href="https://erc-dharma.github.io/project-documentation/zotero/DHARMA_ZoteroGuide_v01.1.1.pdf">Zotero Guide</a></div>
+                     </a><div class="dropdown-menu" aria-labelledby="navbarDropdown"><a class="dropdown-item" href="https://erc-dharma.github.io/project-documentation/encoding-diplomatic/DHARMA%20EGD%20v1%20release.pdf">Encoding Guide for Diplomatic editions</a><a class="dropdown-item" href="critEd_elements">Critical Editions Memo</a><a class="dropdown-item" href="https://erc-dharma.github.io/project-documentation/FNC/DHARMA_FNC_v01.1.pdf">File Naming Conventions</a><a class="dropdown-item" href="https://erc-dharma.github.io/project-documentation/transliteration/DHARMA%20Transliteration%20Guide%20v3%20release.pdf">Transliteration Guide</a><a class="dropdown-item" href="https://erc-dharma.github.io/project-documentation/zotero/DHARMA_ZoteroGuide_v01.1.1.pdf">Zotero Guide</a></div>
+               </li>
+               <li class="nav-item dropdown"><a class="nav-link dropdown-toggle" id="navbarDropdownDoc" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                     Training
+                     </a><div class="dropdown-menu" aria-labelledby="navbarDropdown"><a class="dropdown-item" href="https://erc-dharma.github.io/project-documentation/atom/UsingAtom_v01">Starting with Atom</a><a class="dropdown-item" href="https://erc-dharma.github.io/project-documentation/atom/UsingAtomGit_v01">Starting with Atom &amp; Git</a><a class="dropdown-item" href="https://erc-dharma.github.io/project-documentation/atom/UsingAtomTeletype_v01">Starting with Atom Teletype</a><a class="dropdown-item" href="https://erc-dharma.github.io/project-documentation/git/DHARMA_git_guide_v01">Starting with git</a><a class="dropdown-item" href="https://erc-dharma.github.io/project-documentation/github-issuetracker/UsingGitHubIssueTracker.pdf">Starting with GitHub issues</a><a class="dropdown-item" href="https://erc-dharma.github.io/project-documentation/github-issuetracker/UsingMarkdownSyntax_v01">Starting with markdown</a><a class="dropdown-item" href="https://erc-dharma.github.io/digital-areal/">Starting with XML in French</a></div>
                </li>
                <li class="nav-item"><a class="nav-link" href="https://erc-dharma.github.io/arie">ARIE</a></li>
                <li class="nav-item"><a class="nav-link" href="https://www.zotero.org/groups/1633743/erc-dharma/library">Zotero Library</a></li>
+               <li class="nav-item"><a class="nav-link" href="https://dharma.hypotheses.org/">Blog</a></li>
             </ul>
          </div>
       </nav>
       <div class="container">
-         <div class="edition-content col-10">
+         <div id="sidebar-wrapper" class="collapse">
+            <nav id="myScrollspy">
+               <ul class="nav nav-pills flex-column">
+                  <li class="nav-item"><a class="nav-link" href="#metadatadiv">Metadata</a></li>
+                  <li class="nav-item"><a class="nav-link" href="#edition">Edition</a><ul class="nav-second nav-pills">
+                        <li class="nav-item-second nav-item"><a class="nav-link" href="#1r">Folio 1r</a></li>
+                        <li class="nav-item-second nav-item"><a class="nav-link" href="#1v">Folio 1v</a></li>
+                        <li class="nav-item-second nav-item"><a class="nav-link" href="#2r">Folio 2r</a></li>
+                        <li class="nav-item-second nav-item"><a class="nav-link" href="#2v">Folio 2v</a></li>
+                        <li class="nav-item-second nav-item"><a class="nav-link" href="#3r">Folio 3r</a></li>
+                        <li class="nav-item-second nav-item"><a class="nav-link" href="#3v">Folio 3v</a></li>
+                        <li class="nav-item-second nav-item"><a class="nav-link" href="#4r">Folio 4r</a></li>
+                        <li class="nav-item-second nav-item"><a class="nav-link" href="#4v">Folio 4v</a></li>
+                     </ul>
+                  </li>
+                  <li class="nav-item"><a class="nav-link" href="#apparatus">Apparatus</a></li>
+                  <li class="nav-item"><a class="nav-link" href="#bibliography">Bibliography</a></li>
+               </ul>
+            </nav>
+         </div><a class="btn btn-info" data-toggle="collapse" href="#sidebar-wrapper" role="button" aria-expanded="false" aria-controls="sidebar-wrapper" id="toggle-table-contents">☰ Document Outline</a><div class="edition-content col-10">
             <h1>Gandhakuti</h1>
             <div id="metadatadiv">
                <h2>Metadata</h2>
@@ -39,40 +64,40 @@
             </div>  
             <div id="edition" lang="kaw-Latn">
                <h2>Edition</h2>  
-               <p>  <a id="al1r1"><!--0--></a><sup>⎘ plate 1r </sup><sup class="linenumber">1r1</sup><span class="symbol">circleTarget</span>  <span class="symbol">dashDoubledot</span><span class="symbol">circleTarget</span> svasti śakavarṣătĭtta , I saka, 964, mărgga⟨śira⟩măśa, tithi, navamĭ sūklapakṣa,
+               <p>  <a id="al1r1"></a><sup id="1r">⎘ plate 1r </sup><sup class="linenumber">1r1</sup><span class="symbol">circleTarget</span>  <span class="symbol">dashDoubledot</span><span class="symbol">circleTarget</span> svasti śakavarṣătĭtta , I saka, 964, mărgga⟨śira⟩măśa, tithi, navamĭ sūklapakṣa,
                   tuṁ, pa, bu, vāra, vuyai Uta Aṣṭade- <br id="al1r2"><sup class="linenumber">1r2</sup>śa, Uttarabhadravadanakṣatra, Ahibuddhādevata, vāra Ika ta divaśa turunya, nugrahanira
                   Aji pāduka mpuṅku saṁ pina- <br id="al1r3"><sup class="linenumber">1r3</sup>khacatraniṁ bhuvaṇa, śevakasaptati mpu mogha mr<span class="orig">¡a!</span><span class="reg">⟨ār⟩</span>th<span class="orig">¡ā!</span><span class="reg">⟨a⟩</span>n<span class="orig">¡a!</span><span class="reg">⟨ā⟩</span>kən· kaha{kaha}yvaknaniṁ bhūvaṇa, tlas· karuhun di:rghayūraro- | <br id="al1r4"><sup class="linenumber">1r4</sup>gya haji pāduka mpūṅku, tumurun· tan pahāmbāl· turuny anugrahanira, matəkəta sira
                   L̥̄maḥ, Irikaṁ rāma I kambaṁ śrī, ma- <br id="al1r5"><sup class="linenumber">1r5</sup>s <span class="abbreviation">sū</span> 10, <span class="abbreviation">mā</span> 10, ri lmaḥniṁ paniklan· sūsūr· mpū bhoma, turuny anugrahanira, vkanira Innahaknira
-                  ri dharmma gandhakuṭi Iṁ kā- <br id="al1v1"><sup>⎘ plate 1v </sup><sup>fw:&nbsp;1 </sup><sup class="linenumber">1v1</sup>mbaṁ śrī, denira Aji pāduka mpūṅku, Ika Um<span class="sic">¿guṁ?</span><span class="corr">⟨uṅgu⟩</span> riṁ dharmma gandhakuṭi Iṁ kambaṁ śrī, vkanira vnaṁṅāṅāṅgva payuṁ kut limo, vnaṁ Apayūṁṅa
+                  ri dharmma gandhakuṭi Iṁ kā- <br id="al1v1"><sup id="1v">⎘ plate 1v </sup><sup>fw:&nbsp;1 </sup><sup class="linenumber">1v1</sup>mbaṁ śrī, denira Aji pāduka mpūṅku, Ika Um<span class="sic">¿guṁ?</span><span class="corr">⟨uṅgu⟩</span> riṁ dharmma gandhakuṭi Iṁ kambaṁ śrī, vkanira vnaṁṅāṅāṅgva payuṁ kut limo, vnaṁ Apayūṁṅa
                   pa- <br id="al1v2"><sup class="linenumber">1v2</sup>gut· sūsūn· putiḥ, vnaṁ Aṅāṅgva savatək i jro nāgara kabaiḥ, vnaṁ Agilaṁgilaṁ gaḍiṁ,
                   vnaṁṅ amaṅana rājamaṅśa, kadyaṅganiṁ vḍus gu- <br id="al1v3"><sup class="linenumber">1v3</sup>ntiṁ, baḍavaṁ, karuṁ puliḥ, karuṁ matiṅ gantuṅan·, taluvaḥ, Asu sər·, Avavara sĕmpal·,
                   Apalaṅka binubut· riṁ balai, ma⟨⟨ra⟩⟩bya ḍa- <br id="al1v4"><sup class="linenumber">1v4</sup>yaṁ, Ahuluna ḍayaṁ, pujut· jə:ṅgi, Amu<span class="orig">¡(ṁ)puh a!</span><span class="reg">⟨puhā⟩</span>ṅrahana, Aṁguntiṅamupuheṁ tumpər·, tan sikaran deniṁ Air aji, vnaṁ Ariṁriṁ banantən·
-                  <br id="al1v5"><sup class="linenumber">1v5</sup>Avidhanāga banantən·, Apa<span class="orig">¡tarā!</span><span class="reg">⟨ṭāra⟩</span>ṇa banantən·, Asurāga maR̥mpva, Aj<span class="orig">¡ə:nva!</span><span class="reg">⟨nva ha⟩</span>laṁ, Askara tuñjuṁ sinivak·, mavijākuniṁ, Anā- <br id="al2r1"><sup>⎘ plate 2r </sup><sup class="linenumber">2r1</sup>ṇḍaṅa vali, ḍulaṁ paṁṇḍarahan·, Adodota tuñjuṁ Ijo, kuñit sadaṅan·, navagraha, pasiliḥ
+                  <br id="al1v5"><sup class="linenumber">1v5</sup>Avidhanāga banantən·, Apa<span class="orig">¡tarā!</span><span class="reg">⟨ṭāra⟩</span>ṇa banantən·, Asurāga maR̥mpva, Aj<span class="orig">¡ə:nva!</span><span class="reg">⟨nva ha⟩</span>laṁ, Askara tuñjuṁ sinivak·, mavijākuniṁ, Anā- <br id="al2r1"><sup id="2r">⎘ plate 2r </sup><sup class="linenumber">2r1</sup>ṇḍaṅa vali, ḍulaṁ paṁṇḍarahan·, Adodota tuñjuṁ Ijo, kuñit sadaṅan·, navagraha, pasiliḥ
                   galuḥ, pras vataṁ, Aṅuṅku- <br id="al2r2"><sup class="linenumber">2r2</sup>ṅa curiṁ tluṁ vṅi, pras vataṁ silih asiḥ, buntər·, majnū kanaka smutadulur·, maskar
                   ama<span class="orig">¡th!</span><span class="reg">⟨v⟩</span>aca, jaruju kunaṁ, Apayuṅa k<span class="orig">¡ə!</span><span class="reg">⟨u⟩</span>t limo pagut·, ta- <br id="al2r3"><sup class="linenumber">2r3</sup>n sikaran <span class="sic">¿ta de?</span><span class="corr">⟨de⟩</span> raksana vali, Apan· vkanira Aji pāduka mpuṅku, Inastityakən muṅgva riṁ dharmma gandhakuṭi
                   Iṁ kambaṁ śrī, vnaṁ katmvananiṁ stri| <br id="al2r4"><sup class="linenumber">2r4</sup>laraṅan·, burvan saki saṅkanya kunaṁ, sakavvaṅanya, <span class="sic">¿mvaṁ n?</span><span class="corr">⟨mon⟩</span> huluna rak<span class="sic">¿s?</span><span class="corr">⟨ry⟩</span>an·, rājaputra, rājaputri, kulaputra kulaputri, tan sika- <br id="al2r5"><sup class="linenumber">2r5</sup>ran ⟨t⟩a saṁ hyaṁ dharmma gandhakuṭi Iṁ kambaṁ śri, sūsūk· dharmma Aji pādukā mpūṅku,
-                  Apan parṇnaḥ saṁ hyaṁ pathāni gilaṁgilaṁ, parṇnaḥ saṁ hyaṁ dharmma <br id="al2v1"><sup>⎘ plate 2v </sup><sup>fw:&nbsp;2 </sup><sup class="linenumber">2v1</sup>Inanakĕn de bhaṭāra prājapati, tan kahavāta sira deni doṣānya saṅke saṅkanya, maṅkana
+                  Apan parṇnaḥ saṁ hyaṁ pathāni gilaṁgilaṁ, parṇnaḥ saṁ hyaṁ dharmma <br id="al2v1"><sup id="2v">⎘ plate 2v </sup><sup>fw:&nbsp;2 </sup><sup class="linenumber">2v1</sup>Inanakĕn de bhaṭāra prājapati, tan kahavāta sira deni doṣānya saṅke saṅkanya, maṅkana
                   tiṅkaḥ saṁ hyaṁ dharmma gandhakuṭi riṁ kambaṁ śri, su- <br id="al2v2"><sup class="linenumber">2v2</sup>suk· dharmma paniklan susurira Aji pādukā mpuṅku, katmva de santāna prātisantānira,
                   Anak putu buyut· cicik muniṁ pituṁ <br id="al2v3"><sup class="linenumber">2v3</sup>Aṅ<span class="notBold">(</span>ś<span class="notBold cas1.1">)</span>a siraji pādukā mpuṅku, saṁ muṅgu Iṁ dharmma gandhakuṭi Iṁ kambaṁ śrī, nihan turuni
                   Anugrahanira, paniṁkahnira Aji pādukā <br id="al2v4"><sup class="linenumber">2v4</sup>mpuṅku, kunəṁ ri s<span class="notBold cas1.1">(</span>ḍ<span class="notBold cas1.1">)</span>əṅanyan parasrayaṁnaniṅ ahutaṁ saṅke saṁkanya, yan satahil hutaṁnikaṁ vvaṁ, <span class="abbreviation">mā</span> 2, panatalanya, ya⟨n⟩ sor saṅkeri- <br id="al2v5"><sup class="linenumber">2v5</sup>ka, saya<span class="orig">¡ta!</span><span class="reg">⟨thā⟩</span>sambhava panatalanya, maṅkana rāṣany ajñā pāduka śrī mahărājā Aji pāduka mpuṅku, vnaṅ
-                  aṅ<span class="sic">¿<span class="orig">¡k!</span>?</span>untiṁ rarai riṁ palaṅka sūsū- <br id="al3r1"><sup>⎘ plate 3r </sup><sup>fw:&nbsp;3 </sup><sup class="linenumber">3r1</sup>n binubut·, tan kaknana vulu paravulu, ludan tutan·, ḍampulan· lañcuran·, hopan·,
+                  aṅ<span class="sic">¿<span class="orig">¡k!</span>?</span>untiṁ rarai riṁ palaṅka sūsū- <br id="al3r1"><sup id="3r">⎘ plate 3r </sup><sup>fw:&nbsp;3 </sup><sup class="linenumber">3r1</sup>n binubut·, tan kaknana vulu paravulu, ludan tutan·, ḍampulan· lañcuran·, hopan·,
                   kipaḥ-kipaḥ, tuluṁ byət·, pi- <br id="al3r2"><sup class="linenumber">3r2</sup>nta palaku, Aṅśa pratya<span class="sic">¿kṣ?</span><span class="corr">⟨ṅś⟩</span>a, ḍaṇḍa kuḍaṇḍa, skar tahun·, pamavaṣya, sūṁsūṁ paṅuraṁ, sūṁsūṁ partaya nāyāka, kriṁ
                   limbakavaḥ, <br id="al3r3"><sup class="linenumber">3r3</sup>paḍəm· limus· galuḥ, manimpiki, salyūt·, taṅkil· tr̥pan·, L̥̄bə⟦b⟧⟨⟨L̥̄⟩⟩b·, sipat·
                   vilu⟦·⟧⟨⟨t·⟩⟩, pjaḥ lek·, palamak·, <br id="al3r4"><sup class="linenumber">3r4</sup>tpuṁ kavuṁ, misra paramisra, misra hino, hulun haji, tapa haji, sambal·, sumbul·,
                   kaR̥ṁR̥ṅan· siṅgaḥ pabr̥si, ramanaṁ, rakā- <br id="al3r5"><sup class="linenumber">3r5</sup>dut·, bhūpati panarapati, valu rumambat iṁ natar·, raḥ kasavur iṁ natar·, vaṅkai kabunan·,
                   paliḥ kuvu, Amijilakən· <br id="al3r6"><sup class="linenumber">3r6</sup>vuryyaniṁ kikir·, malandaṁ, L̥̄ca, kutak·, taṅkil·, kataṅgaran·, piniṅhai, maṅugai,
-                  maguñjo, makalākalā, mā- <br id="al3v1"><sup>⎘ plate 3v </sup><sup>fw:&nbsp;3 </sup><sup class="linenumber">3v1</sup>nahāb·, manambər·, manuk·, duhitək·, vli havu, vli vaduṁ, vli pañjut·, vli kadut·,
+                  maguñjo, makalākalā, mā- <br id="al3v1"><sup id="3v">⎘ plate 3v </sup><sup>fw:&nbsp;3 </sup><sup class="linenumber">3v1</sup>nahāb·, manambər·, manuk·, duhitək·, vli havu, vli vaduṁ, vli pañjut·, vli kadut·,
                   juru jalu, juru kuruṁ, juru gusali, juru nambi, <br id="al3v2"><sup class="linenumber">3v2</sup>juru kuṇḍi, juru juḍi, juru jalir·, juru Uñjaman·, pjaḥ tan pamayaṁ, vilaṁ thani,
                   mati tibā, mati kaL̥̄bu, mati sināhut iṁ <br id="al3v3"><sup class="linenumber">3v3</sup>Ulā, mati siniṅhat iṁ sapi, matiyaṅipi, mati sinambər iṁ glap·, mabaṁ vriṁ, maṅuri,
                   maṅilāla, maṇiga, manuṁkal vuṁkuḍu, <br id="al3v4"><sup class="linenumber">3v4</sup>Amahaṁ, pahavuhavu, Avaruga Inantun·, pobhaya, parājabhāya, paṅinaṅin·, Aṁluputaknamuk·,
                   tan paṁlaṅutakna mastaka ya- <br id="al3v5"><sup class="linenumber">3v5</sup>n poliḥ maliṁ, vnaṁ Apadagaṅa, Aṅulaṁ sapi, satuhan·, Aṅulaṁ kbo, satuhan·, Aṅulaṁ
-                  vḍus·, satuhan·, Aṅavari satuhan·, A- <br id="al4r1"><sup>⎘ plate 4r </sup><sup class="linenumber">4r1</sup>parahu satuhan·, Apadagaṅa satuhan·, madr̥vya paṇḍe satuhan·, Amalantən satuhan·,
+                  vḍus·, satuhan·, Aṅavari satuhan·, A- <br id="al4r1"><sup id="4r">⎘ plate 4r </sup><sup class="linenumber">4r1</sup>parahu satuhan·, Apadagaṅa satuhan·, madr̥vya paṇḍe satuhan·, Amalantən satuhan·,
                   huṇḍahagi satuhan·, Ity<span class="sic">¿a?</span><span class="corr">⟨e⟩</span>vamadi, <br id="al4r2"><sup class="linenumber">4r2</sup>salviniṁ magə:gəkarmma, caturpaḍa satuhan· sovaṁ, yapvan· L̥̄viḥ saṅkerikā, knana
                   ya dr̥vyaji, deni baṇigrama baṇigrami, maṅkana rā- <br id="al4r3"><sup class="linenumber">4r3</sup>ṣany anugrahaji păduka mpuṅku, katmva deniṁ santana prātisantānanira, Ika ta kabeḥ,
                   vnaṁ savatə:k i jro nāgāra kabeḥ, ta- <br id="al4r4"><sup class="linenumber">4r4</sup>n sikṣān de saṅ anăgata vali, tlas· karuhun saṅ anăgata prābhū, yapvan hana tan pamisiṁgiḥ
                   ṣārāṣani turuny anugraha ha- <br id="al4r5"><sup class="linenumber">4r5</sup>ji pāduka mpuṅku, tan· vuruṁ ḍaṇḍan de saṁ hyaṁ catulokaphāla, Indra, yama, baruṇa
                   kuv<span class="notBold cas1.1">(</span>ai<span class="notBold">)</span>ra, Agneya, neriti, bayabya, <br id="al4r6"><sup class="linenumber">4r6</sup>Aisanya, kunaṁ yan hana mabakamibika, joḥ tasmāt· karbvat· karmmaknanya, kadi bvatniṁ
-                  Akāsa lavan· pr̥thivi maṅkana bvata- <br id="al4v1"><sup>⎘ plate 4v </sup><sup>fw:&nbsp;4 </sup><sup class="linenumber">4v1</sup>na papānya, yan padyusa mareṁ baṅavan ṣaṅanən i vuhaya, tuviran·, yan pareṁ săgara
+                  Akāsa lavan· pr̥thivi maṅkana bvata- <br id="al4v1"><sup id="4v">⎘ plate 4v </sup><sup>fw:&nbsp;4 </sup><sup class="linenumber">4v1</sup>na papānya, yan padyusa mareṁ baṅavan ṣaṅanən i vuhaya, tuviran·, yan pareṁ săgara
                   katarahana, buntəL̥̄niṁ tarahan·, sahu- <br id="al4v2"><sup class="linenumber">4v2</sup>təniṁ Ulā L̥̄mpe, Ulā buyutan·, Ulā yan·, lumakva riṁṅ udan sāmbəR̥niṁ glap·, hudan
                   tan udan· ya yan sambəR̥niṁ glap·, luma- <br id="al4v3"><sup class="linenumber">4v3</sup>ku riṁ guṇuṁ kalbu riṁ juraṁ paraṁ, tan tike Umaḥnya, lbvakna riṁ tambra, riṁ kavaḥ
                   pupuhən iṁ gadā vsi, harvakna riṁ curiga, de saṁ kiṁkarabala, <br id="al4v4"><sup class="linenumber">4v4</sup>dalihən tan sakolaḥnya, pabaṁbaṁṅatvək· pādukanira, Ujar hajyakna, taḍahə⟨n⟩ saṁ hyaṁ
@@ -144,5 +169,5 @@
       </div>
       <footer class="footer mt-auto py-3">
          <div>Copyright © 2019-2025 by Eko Bastiawan &amp; Arlo Griffiths</div>
-      </footer><script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script><script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-Piv4xVNRyMGpqkS2by6br4gNJ7DXjqk09RmUpJ8jgGtD7zP9yug3goQfGII0yAns" crossorigin="anonymous"></script><script src="https://cdn.jsdelivr.net/gh/erc-dharma/project-documentation@master/stylesheets/criticalEditions/loader.js"></script></body>
+      </footer><script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script><script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-Piv4xVNRyMGpqkS2by6br4gNJ7DXjqk09RmUpJ8jgGtD7zP9yug3goQfGII0yAns" crossorigin="anonymous"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/malihu-custom-scrollbar-plugin/3.1.5/jquery.mCustomScrollbar.concat.min.js"></script><script src="https://cdn.jsdelivr.net/gh/erc-dharma/project-documentation@latest/stylesheets/criticalEditions/loader.js"></script></body>
 </html>

@@ -4,8 +4,9 @@
       <title>DHARMA_INSIDENKKabhagavanan. Kabhagavanan</title>
       <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/erc-dharma/project-documentation@latest/stylesheets/inscriptions/global.css">
       <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/malihu-custom-scrollbar-plugin/3.1.5/jquery.mCustomScrollbar.min.css">
    </head>
-   <body>
+   <body class="font-weight-light" data-spy="scroll" data-target="#myScrollspy" data-offset="5">
       <nav class="navbar navbar-expand-lg navbar-light bg-light"><a class="navbar-brand" href="https://erc-dharma.github.io/">ERC-DHARMA</a><button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button><div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav mr-auto">
                <li class="nav-item active"><a class="nav-link" href="https://erc-dharma.github.io/">Home <span class="sr-only">(current)</span></a></li>
@@ -18,17 +19,39 @@
                      Controlled Vocabularies
                      </a><div class="dropdown-menu" aria-labelledby="navbarDropdown"><a class="dropdown-item" href="https://erc-dharma.github.io/controlled-vocabularies/DHARMA_mdt_artefactControlledVoc">Artefacts – Controlled Vocabularies</a><a class="dropdown-item" href="https://erc-dharma.github.io/controlled-vocabularies/DHARMA_mdt_artefactClosedLists">Artefacts – Closed List</a><a class="dropdown-item" href="https://erc-dharma.github.io/controlled-vocabularies/DHARMA_mdt_textControlledVoc">Texts – Controlled Vocabularies</a><a class="dropdown-item" href="https://erc-dharma.github.io/controlled-vocabularies/DHARMA_mdt_textClosedLists">Texts – Closed List for texts</a></div>
                </li>
-               <li class="nav-item dropdown"><a class="nav-link dropdown-toggle" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+               <li class="nav-item dropdown"><a class="nav-link dropdown-toggle" id="navbarDropdownDoc" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                      Documentation
-                     </a><div class="dropdown-menu" aria-labelledby="navbarDropdown"><a class="dropdown-item" href="https://erc-dharma.github.io/project-documentation/atom/UsingAtom_v01">Starting with Atom</a><a class="dropdown-item" href="https://erc-dharma.github.io/project-documentation/atom/UsingAtomGit_v01">Starting with Atom &amp; Git</a><a class="dropdown-item" href="https://erc-dharma.github.io/project-documentation/atom/UsingAtomTeletype_v01">Starting with Atom Teletype</a><a class="dropdown-item" href="https://erc-dharma.github.io/project-documentation/git/DHARMA_git_guide_v01">Starting with git</a><a class="dropdown-item" href="https://erc-dharma.github.io/project-documentation/github-issuetracker/UsingGitHubIssueTracker.pdf">Starting with GitHub issues</a><a class="dropdown-item" href="https://erc-dharma.github.io/project-documentation/github-issuetracker/UsingMarkdownSyntax_v01">Starting with markdown</a><a class="dropdown-item" href="https://erc-dharma.github.io/project-documentation/encoding-diplomatic/DHARMA%20EGD%20v1%20release.pdf">Encoding Guide for Diplomatic editions</a><a class="dropdown-item" href="https://erc-dharma.github.io/project-documentation/FNC/DHARMA_FNC_v01.1.pdf">File Naming Conventions</a><a class="dropdown-item" href="https://erc-dharma.github.io/project-documentation/transliteration/DHARMA%20Transliteration%20Guide%20v3%20release.pdf">Transliteration Guide</a><a class="dropdown-item" href="https://erc-dharma.github.io/project-documentation/zotero/DHARMA_ZoteroGuide_v01.1.1.pdf">Zotero Guide</a></div>
+                     </a><div class="dropdown-menu" aria-labelledby="navbarDropdown"><a class="dropdown-item" href="https://erc-dharma.github.io/project-documentation/encoding-diplomatic/DHARMA%20EGD%20v1%20release.pdf">Encoding Guide for Diplomatic editions</a><a class="dropdown-item" href="critEd_elements">Critical Editions Memo</a><a class="dropdown-item" href="https://erc-dharma.github.io/project-documentation/FNC/DHARMA_FNC_v01.1.pdf">File Naming Conventions</a><a class="dropdown-item" href="https://erc-dharma.github.io/project-documentation/transliteration/DHARMA%20Transliteration%20Guide%20v3%20release.pdf">Transliteration Guide</a><a class="dropdown-item" href="https://erc-dharma.github.io/project-documentation/zotero/DHARMA_ZoteroGuide_v01.1.1.pdf">Zotero Guide</a></div>
+               </li>
+               <li class="nav-item dropdown"><a class="nav-link dropdown-toggle" id="navbarDropdownDoc" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                     Training
+                     </a><div class="dropdown-menu" aria-labelledby="navbarDropdown"><a class="dropdown-item" href="https://erc-dharma.github.io/project-documentation/atom/UsingAtom_v01">Starting with Atom</a><a class="dropdown-item" href="https://erc-dharma.github.io/project-documentation/atom/UsingAtomGit_v01">Starting with Atom &amp; Git</a><a class="dropdown-item" href="https://erc-dharma.github.io/project-documentation/atom/UsingAtomTeletype_v01">Starting with Atom Teletype</a><a class="dropdown-item" href="https://erc-dharma.github.io/project-documentation/git/DHARMA_git_guide_v01">Starting with git</a><a class="dropdown-item" href="https://erc-dharma.github.io/project-documentation/github-issuetracker/UsingGitHubIssueTracker.pdf">Starting with GitHub issues</a><a class="dropdown-item" href="https://erc-dharma.github.io/project-documentation/github-issuetracker/UsingMarkdownSyntax_v01">Starting with markdown</a><a class="dropdown-item" href="https://erc-dharma.github.io/digital-areal/">Starting with XML in French</a></div>
                </li>
                <li class="nav-item"><a class="nav-link" href="https://erc-dharma.github.io/arie">ARIE</a></li>
                <li class="nav-item"><a class="nav-link" href="https://www.zotero.org/groups/1633743/erc-dharma/library">Zotero Library</a></li>
+               <li class="nav-item"><a class="nav-link" href="https://dharma.hypotheses.org/">Blog</a></li>
             </ul>
          </div>
       </nav>
       <div class="container">
-         <div class="edition-content col-10">
+         <div id="sidebar-wrapper" class="collapse">
+            <nav id="myScrollspy">
+               <ul class="nav nav-pills flex-column">
+                  <li class="nav-item"><a class="nav-link" href="#metadatadiv">Metadata</a></li>
+                  <li class="nav-item"><a class="nav-link" href="#edition">Edition</a><ul class="nav-second nav-pills">
+                        <li class="nav-item-second nav-item"><a class="nav-link" href="#1r">Folio 1r</a></li>
+                        <li class="nav-item-second nav-item"><a class="nav-link" href="#1v">Folio 1v</a></li>
+                        <li class="nav-item-second nav-item"><a class="nav-link" href="#2r">Folio 2r</a></li>
+                        <li class="nav-item-second nav-item"><a class="nav-link" href="#2v">Folio 2v</a></li>
+                     </ul>
+                  </li>
+                  <li class="nav-item"><a class="nav-link" href="#apparatus">Apparatus</a></li>
+                  <li class="nav-item"><a class="nav-link" href="#translation">English Translation</a></li>
+                  <li class="nav-item"><a class="nav-link" href="#commentary">Commentary</a></li>
+                  <li class="nav-item"><a class="nav-link" href="#bibliography">Bibliography</a></li>
+               </ul>
+            </nav>
+         </div><a class="btn btn-info" data-toggle="collapse" href="#sidebar-wrapper" role="button" aria-expanded="false" aria-controls="sidebar-wrapper" id="toggle-table-contents">☰ Document Outline</a><div class="edition-content col-10">
             <h1>Kabhagavanan</h1>
             <div id="metadatadiv">
                <h2>Metadata</h2>
@@ -39,21 +62,21 @@
             </div>  
             <div id="edition" lang="kaw-Latn">
                <h2>Edition</h2>  
-               <p>  <a id="al1r1"><!--0--></a><sup>⎘ plate 1r </sup><sup class="linenumber">1r1</sup>// I śaka 1261, māghamāsa, tithi navam<span class="notBold">(</span>ī<span class="notBold">)</span> kr̥ṣṇapakṣa, ma, U, A, vāra, vuye </p>  
+               <p>  <a id="al1r1"></a><sup id="1r">⎘ plate 1r </sup><sup class="linenumber">1r1</sup>// I śaka 1261, māghamāsa, tithi navam<span class="notBold">(</span>ī<span class="notBold">)</span> kr̥ṣṇapakṣa, ma, U, A, vāra, vuye </p>  
                <p>Irikā divaśa rakryan· juru <br id="al1r2"><sup class="linenumber">1r2</sup>pu<span class="notBold">(</span>s<span class="notBold cas1.1">)</span>padanta, m<span class="notBold cas1.1">(</span>uk<span class="notBold cas1.1">)</span>utā<span class="notBold cas1.1">(</span>dh<span class="notBold cas1.1">)</span>arṣaṇāmnaṅ aṁvyavahāra, makalaga mpu sāvitra tlas· pingat de saṁ mantrī tumapəl samudāya
                   <br id="al1r3"><sup class="linenumber">1r3</sup>mvaṁ saṁṅ upapati, makaprasthāva <span class="notBold cas1.1">(</span>ga<span class="notBold cas1.1">)</span>ti mpu sāvitra<span class="notBold cas1.1">(</span>,<span class="notBold cas1.1">)</span> sāhasāṅdalih i rakryan· juru puspadanta malap· lmaḥ kabha- <br id="al1r4"><sup class="linenumber">1r4</sup>gavānan· sapuluḥ liriḥ, maṅkana pakṣa mpu sāvitra, kunaṁ pakṣa rakryan· juru puspadanta
                   lmaḥ saṅke k<span class="notBold cas1.1">(</span>u<span class="notBold">)</span>li- | <br id="al1r5"><sup class="linenumber">1r5</sup>t kaki Ikaṁ bhinuktinya sapuluḥ liriḥ, maṅkanāṁvivāda ya tika pinametakən pramāṇa,
                   </p>  
                <p>Inunda<span class="notBold">(</span>ṁ<span class="notBold cas1.1">)</span> ta<span class="notBold cas1.1">(</span>ṁ sa<span class="notBold">)</span>siriṅan· sa- <br id="al1r6"><sup class="linenumber">1r6</sup>taṅgəḥnyaṁ kāliḥ makādi I sumbul·, li[ṁ]nyan tinañan·, siṅgiḥ pukulun· juru puspadanta
-                  madr̥vya Ikaṁ savaḥ-sa- <br id="al1v1"><sup>⎘ plate 1v </sup><sup class="linenumber">1v1</sup>vaḥ sapuluḥ liriḥ I sagiri, yapvan ikaṁ savaḥ kabhagavanan· sapuluḥ liriḥ muvaḥ, maṅkanājarnya
+                  madr̥vya Ikaṁ savaḥ-sa- <br id="al1v1"><sup id="1v">⎘ plate 1v </sup><sup class="linenumber">1v1</sup>vaḥ sapuluḥ liriḥ I sagiri, yapvan ikaṁ savaḥ kabhagavanan· sapuluḥ liriḥ muvaḥ, maṅkanājarnya
                   makabehan·, vva- <br id="al1v2"><sup class="linenumber">1v2</sup>ntən· ta pukulun· paṅhulu bañunya rvaṁ kupaṁ sovaṁ, kataṅgapan denikaṁ rāma sumbul·,
                   vyaktyanyan bheda, muva- | <br id="al1v3"><sup class="linenumber">1v3</sup>h ajariṁkaṁ juru mantən· maṅaran gambyok·, Aki gaṇḍi <span class="orig">¡yo!</span><span class="reg">⟨yva⟩</span> pukulun· vka bhagavān· riṁ kr̥ta, muktyakən ikaṁ sa- <br id="al1v4"><sup class="linenumber">1v4</sup>puluḥ liriḥ juga, An⟨an⟩tara saṅkerika, mpu kili nuda, vkasan saṁ mapañji śūrajaya
                   muktyakən kabhagavānan katkeṁ <br id="al1v5"><sup class="linenumber">1v5</sup>maṅke, kevalātutur ikaṁ sa⟨⟨pu⟩⟩luḥ liriḥ juga, pisaniṅu vyāparāṅipikipika Ikaṁ savaḥ
                   kapara thani An· nāṁ <br id="al1v6"><sup class="linenumber">1v6</sup>sapuluḥ liriḥ, maṅkana varaḥ kihadyan· gambyok·, </p>  
-               <p>yatika pinramāṇakan saṁ mantrī samudāya, mataṁ- <br id="al2r1"><sup>⎘ plate 2r </sup><sup class="linenumber">2r1</sup>nyan· balavān· rakryan· juru puspadanta<span class="notBold">(</span>,<span class="notBold cas1.1">)</span> sor mpu sāvitra, pratyeka saṅ amgat·, rakryan· raṅga A<span class="notBold cas1.1">(</span>k<span class="notBold cas1.1">)</span>i taṅga, muvah aki <br id="al2r2"><sup class="linenumber">2r2</sup><span class="notBold cas1.1">(</span>ka<span class="notBold cas1.1">)</span>pe, rakryan· kanuruhan· Aki jo<span class="notBold cas1.1">(</span>ṁ<span class="notBold cas1.1">)</span>, muvaḥ mahiṣāṅivuṁ, rakryan· tuməṅguṁ Aki makara, muvah aki raṅgāsəm-asəm· <br id="al2r3"><sup class="linenumber">2r3</sup>, rakryan· dmuṁ Aki R̥ma, muvah aki goleṁ, rakryan apatiḥ ravi, muvaḥ rake mali, saṁ
+               <p>yatika pinramāṇakan saṁ mantrī samudāya, mataṁ- <br id="al2r1"><sup id="2r">⎘ plate 2r </sup><sup class="linenumber">2r1</sup>nyan· balavān· rakryan· juru puspadanta<span class="notBold">(</span>,<span class="notBold cas1.1">)</span> sor mpu sāvitra, pratyeka saṅ amgat·, rakryan· raṅga A<span class="notBold cas1.1">(</span>k<span class="notBold cas1.1">)</span>i taṅga, muvah aki <br id="al2r2"><sup class="linenumber">2r2</sup><span class="notBold cas1.1">(</span>ka<span class="notBold cas1.1">)</span>pe, rakryan· kanuruhan· Aki jo<span class="notBold cas1.1">(</span>ṁ<span class="notBold cas1.1">)</span>, muvaḥ mahiṣāṅivuṁ, rakryan· tuməṅguṁ Aki makara, muvah aki raṅgāsəm-asəm· <br id="al2r3"><sup class="linenumber">2r3</sup>, rakryan· dmuṁ Aki R̥ma, muvah aki goleṁ, rakryan apatiḥ ravi, muvaḥ rake mali, saṁ
                   prāṇapati, makādhipati <br id="al2r4"><sup class="linenumber">2r4</sup>saṅ āryya śūrasiṅha, muvaḥ sa<span class="notBold cas1.1">(</span>ṁ<span class="notBold cas1.1">)</span> bhujaṅga mantrī, saṁ mapañjy antaraga, saṁ mapañji <span class="orig">¡cāya!</span><span class="reg">⟨chāya⟩</span>guṇa, saṁ pamg<span class="notBold cas1.1">(</span>ə<span class="notBold cas1.1">)</span>t saliṅs<span class="notBold cas1.1">(</span>i<span class="notBold">)</span>ṅan·, makā- <br id="al2r5"><sup class="linenumber">2r5</sup>di saṁ mapañji surapati, muvaḥ saṁ pamgət i kaṇḍamuhi, samgət· pamvatan·, samaṅkana
                   kveḥ saṅ amgat· ,,,</p>  
-               <p>  <br id="al2v1"><sup>⎘ plate 2v </sup><sup class="linenumber">2v1</sup>// Iṁ śāka, 1261, māgha māsa tithi navamī kr̥ṣa </p>  </div>  
+               <p>  <br id="al2v1"><sup id="2v">⎘ plate 2v </sup><sup class="linenumber">2v1</sup>// Iṁ śāka, 1261, māgha māsa tithi navamī kr̥ṣa </p>  </div>  
             <div id="apparatus">
                <h2>Apparatus</h2>
                <p>  <sup class="linenumberapp">1r2</sup>  <span class="lemma">pu<span class="notBold">(</span>s<span class="notBold">)</span>padanta</span><span class="tooltipSiglum" trigger="hover" data-toggle="tooltip" data-placement="top" title=""></span>  <span>• It would also be possible to read <span class="italic">puṣpadanta</span>. However, other instances of that name in this epigraph are consistently spelled
@@ -96,5 +119,5 @@
       </div>
       <footer class="footer mt-auto py-3">
          <div>Copyright © 2019-2025 by Marine Schoettel &amp; Arlo Griffiths</div>
-      </footer><script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script><script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-Piv4xVNRyMGpqkS2by6br4gNJ7DXjqk09RmUpJ8jgGtD7zP9yug3goQfGII0yAns" crossorigin="anonymous"></script><script src="https://cdn.jsdelivr.net/gh/erc-dharma/project-documentation@master/stylesheets/criticalEditions/loader.js"></script></body>
+      </footer><script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script><script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-Piv4xVNRyMGpqkS2by6br4gNJ7DXjqk09RmUpJ8jgGtD7zP9yug3goQfGII0yAns" crossorigin="anonymous"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/malihu-custom-scrollbar-plugin/3.1.5/jquery.mCustomScrollbar.concat.min.js"></script><script src="https://cdn.jsdelivr.net/gh/erc-dharma/project-documentation@latest/stylesheets/criticalEditions/loader.js"></script></body>
 </html>

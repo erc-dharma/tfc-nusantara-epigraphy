@@ -4,8 +4,9 @@
       <title>DHARMA_INSIDENKKurungan. Kurungan (Randusari II)</title>
       <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/erc-dharma/project-documentation@latest/stylesheets/inscriptions/global.css">
       <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/malihu-custom-scrollbar-plugin/3.1.5/jquery.mCustomScrollbar.min.css">
    </head>
-   <body>
+   <body class="font-weight-light" data-spy="scroll" data-target="#myScrollspy" data-offset="5">
       <nav class="navbar navbar-expand-lg navbar-light bg-light"><a class="navbar-brand" href="https://erc-dharma.github.io/">ERC-DHARMA</a><button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button><div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav mr-auto">
                <li class="nav-item active"><a class="nav-link" href="https://erc-dharma.github.io/">Home <span class="sr-only">(current)</span></a></li>
@@ -18,17 +19,37 @@
                      Controlled Vocabularies
                      </a><div class="dropdown-menu" aria-labelledby="navbarDropdown"><a class="dropdown-item" href="https://erc-dharma.github.io/controlled-vocabularies/DHARMA_mdt_artefactControlledVoc">Artefacts – Controlled Vocabularies</a><a class="dropdown-item" href="https://erc-dharma.github.io/controlled-vocabularies/DHARMA_mdt_artefactClosedLists">Artefacts – Closed List</a><a class="dropdown-item" href="https://erc-dharma.github.io/controlled-vocabularies/DHARMA_mdt_textControlledVoc">Texts – Controlled Vocabularies</a><a class="dropdown-item" href="https://erc-dharma.github.io/controlled-vocabularies/DHARMA_mdt_textClosedLists">Texts – Closed List for texts</a></div>
                </li>
-               <li class="nav-item dropdown"><a class="nav-link dropdown-toggle" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+               <li class="nav-item dropdown"><a class="nav-link dropdown-toggle" id="navbarDropdownDoc" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                      Documentation
-                     </a><div class="dropdown-menu" aria-labelledby="navbarDropdown"><a class="dropdown-item" href="https://erc-dharma.github.io/project-documentation/atom/UsingAtom_v01">Starting with Atom</a><a class="dropdown-item" href="https://erc-dharma.github.io/project-documentation/atom/UsingAtomGit_v01">Starting with Atom &amp; Git</a><a class="dropdown-item" href="https://erc-dharma.github.io/project-documentation/atom/UsingAtomTeletype_v01">Starting with Atom Teletype</a><a class="dropdown-item" href="https://erc-dharma.github.io/project-documentation/git/DHARMA_git_guide_v01">Starting with git</a><a class="dropdown-item" href="https://erc-dharma.github.io/project-documentation/github-issuetracker/UsingGitHubIssueTracker.pdf">Starting with GitHub issues</a><a class="dropdown-item" href="https://erc-dharma.github.io/project-documentation/github-issuetracker/UsingMarkdownSyntax_v01">Starting with markdown</a><a class="dropdown-item" href="https://erc-dharma.github.io/project-documentation/encoding-diplomatic/DHARMA%20EGD%20v1%20release.pdf">Encoding Guide for Diplomatic editions</a><a class="dropdown-item" href="https://erc-dharma.github.io/project-documentation/FNC/DHARMA_FNC_v01.1.pdf">File Naming Conventions</a><a class="dropdown-item" href="https://erc-dharma.github.io/project-documentation/transliteration/DHARMA%20Transliteration%20Guide%20v3%20release.pdf">Transliteration Guide</a><a class="dropdown-item" href="https://erc-dharma.github.io/project-documentation/zotero/DHARMA_ZoteroGuide_v01.1.1.pdf">Zotero Guide</a></div>
+                     </a><div class="dropdown-menu" aria-labelledby="navbarDropdown"><a class="dropdown-item" href="https://erc-dharma.github.io/project-documentation/encoding-diplomatic/DHARMA%20EGD%20v1%20release.pdf">Encoding Guide for Diplomatic editions</a><a class="dropdown-item" href="critEd_elements">Critical Editions Memo</a><a class="dropdown-item" href="https://erc-dharma.github.io/project-documentation/FNC/DHARMA_FNC_v01.1.pdf">File Naming Conventions</a><a class="dropdown-item" href="https://erc-dharma.github.io/project-documentation/transliteration/DHARMA%20Transliteration%20Guide%20v3%20release.pdf">Transliteration Guide</a><a class="dropdown-item" href="https://erc-dharma.github.io/project-documentation/zotero/DHARMA_ZoteroGuide_v01.1.1.pdf">Zotero Guide</a></div>
+               </li>
+               <li class="nav-item dropdown"><a class="nav-link dropdown-toggle" id="navbarDropdownDoc" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                     Training
+                     </a><div class="dropdown-menu" aria-labelledby="navbarDropdown"><a class="dropdown-item" href="https://erc-dharma.github.io/project-documentation/atom/UsingAtom_v01">Starting with Atom</a><a class="dropdown-item" href="https://erc-dharma.github.io/project-documentation/atom/UsingAtomGit_v01">Starting with Atom &amp; Git</a><a class="dropdown-item" href="https://erc-dharma.github.io/project-documentation/atom/UsingAtomTeletype_v01">Starting with Atom Teletype</a><a class="dropdown-item" href="https://erc-dharma.github.io/project-documentation/git/DHARMA_git_guide_v01">Starting with git</a><a class="dropdown-item" href="https://erc-dharma.github.io/project-documentation/github-issuetracker/UsingGitHubIssueTracker.pdf">Starting with GitHub issues</a><a class="dropdown-item" href="https://erc-dharma.github.io/project-documentation/github-issuetracker/UsingMarkdownSyntax_v01">Starting with markdown</a><a class="dropdown-item" href="https://erc-dharma.github.io/digital-areal/">Starting with XML in French</a></div>
                </li>
                <li class="nav-item"><a class="nav-link" href="https://erc-dharma.github.io/arie">ARIE</a></li>
                <li class="nav-item"><a class="nav-link" href="https://www.zotero.org/groups/1633743/erc-dharma/library">Zotero Library</a></li>
+               <li class="nav-item"><a class="nav-link" href="https://dharma.hypotheses.org/">Blog</a></li>
             </ul>
          </div>
       </nav>
       <div class="container">
-         <div class="edition-content col-10">
+         <div id="sidebar-wrapper" class="collapse">
+            <nav id="myScrollspy">
+               <ul class="nav nav-pills flex-column">
+                  <li class="nav-item"><a class="nav-link" href="#metadatadiv">Metadata</a></li>
+                  <li class="nav-item"><a class="nav-link" href="#edition">Edition</a><ul class="nav-second nav-pills">
+                        <li class="nav-item-second nav-item"><a class="nav-link" href="#1v">Folio 1v</a></li>
+                     </ul>
+                  </li>
+                  <li class="nav-item"><a class="nav-link" href="#apparatus">Apparatus</a></li>
+                  <li class="nav-item"><a class="nav-link" href="#translation">English Translation</a></li>
+                  <li class="nav-item"><a class="nav-link" href="#translation">Dutch Translation</a></li>
+                  <li class="nav-item"><a class="nav-link" href="#commentary">Commentary</a></li>
+                  <li class="nav-item"><a class="nav-link" href="#bibliography">Bibliography</a></li>
+               </ul>
+            </nav>
+         </div><a class="btn btn-info" data-toggle="collapse" href="#sidebar-wrapper" role="button" aria-expanded="false" aria-controls="sidebar-wrapper" id="toggle-table-contents">☰ Document Outline</a><div class="edition-content col-10">
             <h1>Kurungan (Randusari II)</h1>
             <div id="metadatadiv">
                <h2>Metadata</h2>
@@ -41,7 +62,7 @@
             </div>  
             <div id="edition" lang="kaw-Latn">
                <h2>Edition</h2>  
-               <p>  <a id="al1"><!--0--></a><sup>⎘ plate 1v </sup><sup class="linenumber">1</sup><span class="symbol">ddandaHooked</span>  <span class="lang" lang="san-Latn"><i>namaś śivāya</i></span> | svasti śaka-varṣātīta 807 jyaiṣṭa-māsa daśamĭ <span class="abbreviation">śukla</span>| tuṁlai| vagai vr̥haspati| vāra| tatkāla ḍaṅ ācāryya munīndra{|} <br id="al2"><sup class="linenumber">2</sup>mamli savaḥ karamān· I parhyaṅan· vatak· vuru tuṅgal· Iṁ kuruṅan· ṅarannikāṁ savaḥ|
+               <p>  <a id="al1"></a><sup id="1v">⎘ plate 1v </sup><sup class="linenumber">1</sup><span class="symbol">ddandaHooked</span>  <span class="lang" lang="san-Latn"><i>namaś śivāya</i></span> | svasti śaka-varṣātīta 807 jyaiṣṭa-māsa daśamĭ <span class="abbreviation">śukla</span>| tuṁlai| vagai vr̥haspati| vāra| tatkāla ḍaṅ ācāryya munīndra{|} <br id="al2"><sup class="linenumber">2</sup>mamli savaḥ karamān· I parhyaṅan· vatak· vuru tuṅgal· Iṁ kuruṅan· ṅarannikāṁ savaḥ|
                   sīmā saṁ hyaṁ padevāharān· vəlyannya pirak· kāṭi 1 pa- <br id="al3"><sup class="linenumber">3</sup>sak·-pasak· I rāmanta pirak· dhāraṇa 3 hana ta paṅanak· rāmanta ri hutaṁnira <span class="abbreviation">dhā</span> 7 Anuṁ milu pinakapasak·-pasak· muAṁ vivi 1 pa<span class="notBold">(</span>da<span class="notBold">)</span> 1 pira- <br id="al4"><sup class="linenumber">4</sup>k· <span class="abbreviation">mā</span> 4| piṇḍa pirak· vyaya kāṭi 1| <span class="abbreviation">dhā</span> 10 <span class="abbreviation">mā</span> 4 parānnikā pirak· panahur· hutaṁniṁ vanva I parhyaṅan·</p>  
                <p>Anuṁ rāma rikāṁ kāla _ patiḥ saṁ parhyaṅan· <br id="al5"><sup class="linenumber">5</sup>saṁ gola| parujar·niṁ patiḥ saṁ java| vahuta pu geṣṭī| tan· papituṁtuṁ| kalaṁ pu paṅgil·
                   gusti lor· pu gayat·| gusti tṅaḥ pu vur<span class="notBold">(</span>u<span class="notBold cas1.1">)</span>ntuṁ gusti kidul· <br id="al6"><sup class="linenumber">6</sup>pu sr̥ṣṭi| vinkas· pu kalula| variga si dharinī| huler· pu yogī| parujar· pu R̥ṣi|
@@ -140,8 +161,8 @@
                   to a large degree on how one is to interpret the sentence(s) in lines 9-10 <span class="lang" lang="eng"><i>nāhan· sira rāma Umeḥhakan·n ikāṁ savaḥ śīma ḍaṁ ācāryya munīndra| huvus śuddha-pariśuddha</i></span>.</p>  
                <p><sup class="linenumber">2</sup>The status expressed by the compound <span class="lang" lang="eng"><i>savaḥ karamān</i></span> clearly stands in opposition to the new status expressed, in line 9, by the compound
                   <span class="lang" lang="eng"><i>savaḥ śīma</i></span>.</p>  
-               <p><sup class="linenumber">2</sup>The word <span class="lang" lang="eng"><i>padevāharān</i></span>, derived from a base <span class="lang" lang="eng"><i>devāhara</i></span>, is registered in <a href="http://zotero.org/groups/1633743/items/KLAFLPWV">Zoetmulder 1982</a>: s.v. devahara, divahara, with glosses ‘place of worship, temple, chapel’. It is
-                  remarkable that all published occurrences of <span class="lang" lang="eng"><i>padevāharān</i></span> in transmitted Old Javanese texts are found in the <span class="italic">Rāmāyaṇa</span>, a fact that may be added to the cumulative evidence in support for the dating of
+               <p><sup class="linenumber">2</sup>The word <span class="lang" lang="eng"><i>padevāharān</i></span>, derived from a base <span class="lang" lang="eng"><i>devāhara</i></span>, is registered in <a href="http://zotero.org/groups/1633743/items/KLAFLPWV">Zoetmulder 1982</a>: <i>s.v. </i><span class="lang" lang="eng"><i>devahara</i></span>, <span class="lang" lang="eng"><i>divahara</i></span>, with glosses ‘place of worship, temple, chapel’. It is remarkable that all published
+                  occurrences of <span class="lang" lang="eng"><i>padevāharān</i></span> in transmitted Old Javanese texts are found in the <span class="italic">Rāmāyaṇa</span>, a fact that may be added to the cumulative evidence in support for the dating of
                   this text to the 9th century CE. The relevant stanzas are as follows (ed. <a href="http://zotero.org/groups/1633743/items/72CKYCP2">2015</a>, transl. <a href="http://zotero.org/groups/1633743/items/2QQ4ACTA">Robson 2015</a>): 
                   <ul class="notBulleted">  
                      <li>20.52 <span class="lang" lang="eng"><i>rikaṅ kāla sakrodha taṅ meghanāda, masəṅhit pəjah tuṅgaṅan mvaṅ ratha syūh, masuk
@@ -172,8 +193,8 @@
                   (<span class="lang" lang="eng"><i>maṅagam kon</i></span>), i.e. charged with a definite function, e.g.&nbsp;with the supervision over the bridges
                   in the village (<span class="lang" lang="eng"><i>hulu wuatan</i></span>), and (b) those „taking rest” (<span class="lang" lang="eng"><i>maratā</i></span>), i.e., probably, those who were formerly charged with a definite function, but retired
                   afterwards’. This interpretation is accepted in <a href="http://zotero.org/groups/1633743/items/LY3PDBUX">Barrett Jones 1984</a>: 108, and is close to the one advocated by Boechari <a href="http://zotero.org/groups/1633743/items/4NYA8TDX">1981</a> (<a href="http://zotero.org/groups/1633743/items/9DNJ8FQU">2012</a>: page 301, note 28); <a href="http://zotero.org/groups/1633743/items/YMJYXWN2">1986</a> (<a href="http://zotero.org/groups/1633743/items/9DNJ8FQU">2012</a>: 323). But it seems to me that we can attempt to translate <span class="lang" lang="eng"><i>ma-ratā</i></span> in a manner that requires taking less freedom with regard to the meanings allowed
-                  in <a href="http://zotero.org/groups/1633743/items/KLAFLPWV">Zoetmulder 1982</a>: s.v. ratā, aratā, namely ‘flat, level, even, flush with the ground; shared equally,
-                  divided evenly, each alike, one and all’.</p>  
+                  in <a href="http://zotero.org/groups/1633743/items/KLAFLPWV">Zoetmulder 1982</a>: <i>s.v. </i><span class="lang" lang="eng"><i>ratā</i></span>, <span class="lang" lang="eng"><i>aratā</i></span>, namely ‘flat, level, even, flush with the ground; shared equally, divided evenly,
+                  each alike, one and all’.</p>  
                <p><sup class="linenumber">8, 10</sup>Note the correspondences <span class="lang" lang="eng"><i>pu</i></span> Kes / <span class="lang" lang="eng"><i>punta</i></span> Keṣ (with different spelling for the final consonants), <span class="lang" lang="eng"><i>pu</i></span> Kamala / <span class="lang" lang="eng"><i>punta</i></span> Kamala, <span class="lang" lang="eng"><i>pu</i></span> Sukha / <span class="lang" lang="eng"><i>punta</i></span> Sukha. By contrast, the two occurrences of the name Vuruntuṅ (in lines 5 and 7) are
                   both labeled as <span class="lang" lang="eng"><i>pu</i></span>. Stutterheim, apparently not noticing these correspondences, did not read the names
                   consistently in all cases.</p>  
@@ -232,5 +253,5 @@
       </div>
       <footer class="footer mt-auto py-3">
          <div>Copyright © 2019-2025 by Arlo Griffiths.</div>
-      </footer><script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script><script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-Piv4xVNRyMGpqkS2by6br4gNJ7DXjqk09RmUpJ8jgGtD7zP9yug3goQfGII0yAns" crossorigin="anonymous"></script><script src="https://cdn.jsdelivr.net/gh/erc-dharma/project-documentation@master/stylesheets/criticalEditions/loader.js"></script></body>
+      </footer><script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script><script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-Piv4xVNRyMGpqkS2by6br4gNJ7DXjqk09RmUpJ8jgGtD7zP9yug3goQfGII0yAns" crossorigin="anonymous"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/malihu-custom-scrollbar-plugin/3.1.5/jquery.mCustomScrollbar.concat.min.js"></script><script src="https://cdn.jsdelivr.net/gh/erc-dharma/project-documentation@latest/stylesheets/criticalEditions/loader.js"></script></body>
 </html>
