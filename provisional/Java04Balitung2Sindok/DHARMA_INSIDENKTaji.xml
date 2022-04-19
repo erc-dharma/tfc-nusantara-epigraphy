@@ -97,8 +97,8 @@
          <div type="apparatus">
            <!--apparatus encoded as per EGD §9.1, basic elements for apparatus below-->
                <listApp>
-	<app loc="1r2"><lem source="Br">karaṇa</lem>
-  <rdg source="Boe">kāraṇa</rdg>
+	<app loc="1r2"><lem source="bib:Brandes1913_01">karaṇa</lem>
+  <rdg source="bib:Boechari1985-1986_01">kāraṇa</rdg>
 	</app>
                </listApp>
          </div>
@@ -109,7 +109,7 @@
         <div type="bibliography">
         	<listBibl type="primary">
 		<bibl n="Br"><ptr target="bib:Brandes1913_01"/><citedRange unit="page">28-31</citedRange><citedRange unit="item">23</citedRange></bibl>
-    <bibl n="Boe"><ptr target="bib:Boechari1985-1986_01"/><citedRange unit="page">28-31</citedRange><citedRange unit="item">23</citedRange></bibl>
+    <bibl n="Boe"><ptr target="bib:Boechari1985-1986_01"/><citedRange unit="page">43-46</citedRange><citedRange unit="item">E. 12</citedRange></bibl>
   </listBibl>
            <listBibl type="secondary"><bibl></bibl></listBibl>
         </div>
