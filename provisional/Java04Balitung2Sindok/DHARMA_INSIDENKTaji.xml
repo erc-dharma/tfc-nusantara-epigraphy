@@ -12,14 +12,14 @@
             <respStmt>
                <resp>EpiDoc Encoding</resp>
                <resp>intellectual authorship of edition</resp>
-               <persName ref="part:argr">
-                  <forename>Arlo</forename>
-                  <surname>Griffiths</surname>
-               </persName>
                <persName ref="part:wjsa">
                   <forename>Wayan</forename>
                   <forename>Jarrah</forename>
                   <surname>Sastrawan</surname>
+               </persName>
+               <persName ref="part:argr">
+                  <forename>Arlo</forename>
+                  <surname>Griffiths</surname>
                </persName>
             </respStmt>
          </titleStmt>
@@ -34,7 +34,7 @@
 							https://creativecommons.org/licenses/by/4.0/ or send a letter to
 							Creative Commons, 444 Castro Street, Suite 900, Mountain View,
 							California, 94041, USA.</p>
-                  <p>Copyright (c) 2019-2025 by Arlo Griffiths and Wayan Jarrah Sastrawan.</p>
+                  <p>Copyright (c) 2019-2025 by Wayan Jarrah Sastrawan and Arlo Griffiths.</p>
                </licence>
             </availability>
             <date from="2019" to="2025">2019-2025</date>
@@ -88,7 +88,10 @@
    </teiHeader>
    <text xml:space="preserve">
       <body>
-         <div type="edition" xml:lang="kaw-Latn">
+         <div type="edition" resp="part:wjsa" xml:lang="kaw-Latn">
+           <pb n="1r"/><p><lb n="1r1"/><g type="ddandaCross"/> svasti śaka-varṣātīta <num value="825">823</num> caitra-māsa dvitīya kr̥ṣṇa-pakṣa, vurukuṁ, <choice><reg>pahiṁ</reg><orig>pahīṁ</orig></choice>, budha, vāra, Āditya-stha, Anurādha-nakṣatra, mitra-devata, varīyā<lb
+           n="1r2" break="no"/>n·-yoga, <choice><corr>taitila</corr><sic>taithila</sic></choice>-karaṇa,
+         </p>
        </div>
          <div type="apparatus">
            <!--apparatus encoded as per EGD §9.1, basic elements for apparatus below-->
