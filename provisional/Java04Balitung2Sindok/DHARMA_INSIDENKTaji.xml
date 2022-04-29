@@ -163,15 +163,15 @@
       <lem source="bib:Brandes1913_01">-dhurandhara</lem>
       <rdg source="bib:Boechari1985-1986_01">-dhurandara</rdg>
     </app>
-  <app loc="1r3"><lem source="bib:Boechari1985-1986_01">paṅavetanya</lem> Boe] paṅavetannya Br.</app>
-  <app loc="1r3"><lem>Anu<supplied reason="omitted">ṁ</supplied></lem>] Anuṁ Br Boe.</app>
-  <app loc="1r4"><lem source="bib:Brandes1913_01">maṅās·</lem> Br] maṅas· Boe.</app>
-  <app loc="1r4"><lem source="bib:Boechari1985-1986_01">kiṇḍayut·</lem> Boe] kaṇḍiyut· Br.</app>
-  <app loc="1r5"><lem source="bib:Brandes1913_01">tavḍak·</lem> Br] tavdak· Boe.</app>
-  <app loc="1r7"><lem source="bib:Brandes1913_01">ṅarannikanaṁ kabikuAn· Iṁ</lem> Br] ṅarannikanan kabikuAn· In Boe. Most likely a misprint in Boechari.</app>
-  <app loc="1r7"><lem source="bib:Brandes1913_01">-sabhā</lem> Br] -sabha Boe.</app>
-  <app loc="1r9"><lem source="bib:Brandes1913_01">-pakṣakṣaya</lem> Br] -pakṣasaya Boe.</app>
-  <app loc="1r9"><lem>rakryān I sirikan·</lem>] rakryān sirikan· Br, rakryān I sirikin· Boe.</app>
+  <app loc="1r3"><lem source="bib:Boechari1985-1986_01">paṅavetanya</lem><rdg source="bib:Brandes1913_01">paṅavetannya</rdg></app>
+  <app loc="1r3"><lem>Anu<supplied reason="omitted">ṁ</supplied></lem><rdg source="bib:Brandes1913_01 bib:Boechari1985-1986_01">Anuṁ</rdg></app>
+  <app loc="1r4"><lem source="bib:Brandes1913_01">maṅās·</lem><rdg source="bib:Boechari1985-1986_01">maṅas·</rdg></app>
+  <app loc="1r4"><lem source="bib:Boechari1985-1986_01">kiṇḍayut·</lem><rdg source="bib:Brandes1913_01">kaṇḍiyut·</rdg></app>
+  <app loc="1r5"><lem source="bib:Brandes1913_01">tavḍak·</lem><rdg source="bib:Boechari1985-1986_01">tavdak·</rdg></app>
+  <app loc="1r7"><lem source="bib:Brandes1913_01">ṅarannikanaṁ kabikuAn· Iṁ</lem><rdg source="bib:Boechari1985-1986_01">ṅarannikanan kabikuAn· In</rdg><note>"Most likely a misprint in Boechari"</note></app>
+  <app loc="1r7"><lem source="bib:Brandes1913_01">-sabhā</lem><rdg source="bib:Boechari1985-1986_01">-sabha</rdg></app>
+  <app loc="1r9"><lem source="bib:Brandes1913_01">-pakṣakṣaya</lem><rdg source="bib:Boechari1985-1986_01">-pakṣasaya</rdg></app>
+  <app loc="1r9"><lem>rakryān I sirikan·</lem><rdg source="bib:Brandes1913_01">rakryān sirikan·</rdg><rdg source="bib:Boechari1985-1986_01">rakryān I sirikin·</rdg></app>
   <app loc="1r9"><lem source="bib:Boechari1985-1986_01">saṁ pamgat·</lem><rdg source="bib:Brandes1913_01">sapamgat</rdg></app>
 
 
