@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?> <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?> <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?> <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Watu Kura I (824 Ś, 902-02-27 [?])</title>
+            <respStmt>
+               <resp>EpiDoc Encoding</resp>
+               <persName ref="part:wjsa">
+                  <forename>Wayan Jarrah</forename>
+                  <surname>Sastrawan</surname>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>intellectual authorship of edition</resp>
+               <persName ref="part:argr">
+                  <forename>Arlo</forename>
+                  <surname>Griffiths</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>DHARMA</authority>
+            <pubPlace>Paris</pubPlace>
+            <idno type="filename">DHARMA_INSIDENKWatuKuraI</idno>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/">
+                  <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
+                                            Licence. To view a copy of the licence, visit
+                                            https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                                            Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                                            California, 94041, USA.</p>
+                  <p>Copyright (c) 2019-2025 by Arlo Griffiths.</p>
+               </licence>
+            </availability>
+            <date from="2019" to="2025">2019-2025</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>DHARMAbase</repository>
+                  <idno/>
+               </msIdentifier>
+               <msContents>
+                  <summary/>
+               </msContents>
+               <physDesc>
+                  <handDesc>
+                     <p/>
+                  </handDesc>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
+         </projectDesc>
+         <schemaRef type="guide"
+                    key="EGDv01"
+                    url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+         <listPrefixDef>
+            <prefixDef ident="bib"
+                       matchPattern="([a-zA-Z0-9\-\_]+)"
+                       replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+               <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
+            </prefixDef>
+            <prefixDef ident="part"
+                       matchPattern="([a-z]+)"
+                       replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
+               <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_idListMembers_v01.xml</ref> file.</p>
+            </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <revisionDesc>
+         <change who="part:axja" when="2022-08-16">Transforming docx into xml</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:space="preserve">
+           <body> 
+                   <div type="edition">
+                           <div type="textpart">
+                              <head xml:lang="eng">Plate 1. verso. [plate number 1 in left margin, rotated 90° clockwise vis-à-vis text]</head>
+                      <p><lb n="1v1"/> // Ø // svasti śaka-varṣātīta, 824, śravaṇa-māsa, tithi, pañcadaśi śukla-pakṣa, pā, pa, Aṁ, vāra, 
+                         <lb n="1v2"/> maḍaṅkuṅan·, saptakāraṇa viṣṭi, pūrvvăṣāḍhā-nakṣatra, śiva-yoga, tatkāla mahārāja rake vatu kura<g>§</g> 
+                         <lb n="1v3"/> dyaḥ balituṁ, śrī Ĭśvarakeśavotsavatuṅga, maveḥ panīma, mā, kā 1, I rāmanta I vatu kura, parṇnaḥ 
+                         <lb n="1v4"/>
+                        dharmma paṅasthūlan· ri sira, Aṅkən· pūrṇnamaniṁ bhadravāda, kabhaktyana de rāmanta I vatu kura, kunəṁ Ikaṁ sava 
+                        <lb n="1v5" break="no"/>ḥ, gagā, R̥ṇək·, kəbuAn·, ya tikāmijilakna pirak·, mā 1, Iṁ sarahi, duvan· babadan·, mā 3,</p></div>
+                        <div type="textpart">
+                           <head xml:lang="eng">Plate 2. recto.</head>
+                           <p><lb n="2r1"/> I mata panas·, mā, sū 1, mā 4, payaman·, mā, sū 1, mā 4, buhara suvul·, mā 5, buhara Uṇḍuḥ, mā 3<unclear>,</unclear>
+                        <lb n="2r2"/> buhara tṅaḥ, mā 5, buhara hoya, mā 5, buhara paṅanten·, mā 2, bareṁ, mā 10, muAṁ paṅrāga ska
+                        <lb n="2r3" break="no"/>r·, mā, ku 2, bras·, ku 1, riṁ salavaṁ, muvaḥ mā, ku 1, bras·, ku 1, riṁ salavaṁ, kāryya panaman· pūrṇnamaniṁ <g>§</g>
+                        <lb n="2r4"/> jyeṣṭa, muvaḥ mā, ku 1, bras·, ku 1, riṁ salavaṁ, pūrṇnamaniṁ cetra, muAṅ ikaṁ ravi galuḥ I babadan·,
+                        <lb n="2r5"/> maveḥ timba-timban·, ḍulaṅan·, Akṣeṇya I bhaṭāra dharmma, muAṁ bukakuṇḍur·, pakna pamūjā rāma</p></div>
+                      <div type="textpart">
+                         <head xml:lang="eng">Plate 2. verso.[plate number 2 in left margin, rotated 90° clockwise vis-à-vis text]</head>
+                         <p><lb n="2v1" break="no"/>nta I bhaṭāra dharmma, śeṣanya, maraha I saṅkarmmanya, mamūjā, Upakalpa, devakarmma, Anapū, devadāsa,
+                            <lb n="2v2"/> pasiṅhir·, sahana saṅkarmma kummit bhaṭāra makadr̥vya ya, muAṁ gavay bhūṣaṇa de rāmanta, bāhurākṣa, kira
+                            <lb n="2v3" break="no"/>t bāhu, bukaśrī, pakna ri bhaṭāra dharmma, muAṁ paṅguhaniṁ tahil·, sū 3, mā 14, ku 2, mijil· riṅ aśuji-māsa,
+                            <lb n="2v4"/> muvaḥ sū 3, mā 14, ku 2, mijil· riṁ cetra, rāma Irikaṁ kāla, tumarima Ikaṁ mās· panīma, vinkas· saṁ <g>§</g>
+                            <lb n="2v5"/>druma rāmani viddha, tuha kalaṁ saṁ jāti rāmani santa, gusti saṁ jātuka rāmani śruta, parujar· si dhari si dūta, va</p></div> 
+                            <div type="textpart">
+                               <head xml:lang="eng">Plate 3. recto.</head>
+                               <p><lb n="3r1" break="no"/>riga si teja, dāridra, rāmā<surplus>na</surplus> marata saṁ gariyan· saṁ subhara saṁ vindava, nāhan· kveḥni rāmanta I vatu ku
+                            <lb n="3r2" break="no"/>ra, tumarima Ikanāṁ mās· panīma saṅke haji, muAṁ milu sumusuk· Ikanāṁ dharmma, Ika ta kabeḥ kapva byapā
+                            <lb n="3r3" break="no"/>ra I bhaṭāra dharmma I vatu kura, ya tika tan katamana de saṁ maṅilala dr̥vya haji, mīśra paramīśra, vulu-vulu
+                            <lb n="3r4"/> prakāra, kriṁ, paḍəm apuy·, kula pamgət·, vadihati, makudur·, tavan·, kula paṅkur·, pagaran·‚ kavur hyaṁ,
+                            <lb n="3r5"/> taji, tapa haji, Air haji, malandaṁ, lca, lab-lab·, manimpiki, tuhālup·, tuha dagaṁ, maṁguñjai, maṁrumbai, <g>§</g></p></div>
+                            <div type="textpart"><head xml:lang="eng">Plate 3. verso.[plate number 3 in left margin, rotated 90° clockwise vis-à-vis text]</head>  
+                            <p><lb n="3v1"/> vatu tajəm·, salvit·, pakalaṅkaṁ, guñjan·, tuṇḍan·, salaran·, piniṅlai, kataṅgaran·, pamr̥ṣi, hulu<g>§</g>
+                            <lb n="3v2" break="no"/>n haji, paranakan·, rāma jātaka, vihărasvǎmi, parmmasan·, pamasaṁ, Avuran·, Urutan·, ḍampulan·, sikpa
+                            <lb n="3v3" break="no"/>n·, puluṁ paḍi, mapaḍahi, valyan·, vidu maṅiduṁ, kecaka, tarimba, tapukan·, mabika, vargga I daL̥m·,
+                            <lb n="3v4"/> paṇḍe mās·, tāmra, kaṅsa, vsi, ḍaḍap·, Amaraṅgi, Uṇḍahagi, Atviḥ, Amahat·, Amanantən·, Aṅu⌈
+                            <lb n="3v5" break="no"/>ge, Agiliṅan·, Aṅulaṁ, joroṁ, kuñjalan·, tətəpan·, Ityevamādi, pāt· Ika lvirnya, muvaḥ vnaṁ sama</p></div>
+                      <div type="textpart">
+                         <head xml:lang="eng">Plate 4</head>
+                         <p>Missing.</p></div>
+                      <div type="textpart">
+                         <head xml:lang="eng">Plate 5. recto.</head>
+                         <p><lb n="5r1"/> babadan·, mata panas·, payaman·, buhara suvul·, buhara Uṇḍuḥ, buhara tṅaḥ, buhara hoya, buhara pa-
+                      <lb n="5r2"/>ṅanten·, bareṁ, vatək antulan·, I dharmma hajī vatu kura, tumŭt krama saṁ haneṁ kon· patiḥ vahuta rāma ka<g>§</g>
+                      <lb n="5r3" break="no"/>bayan·, muAṁ rāma tpi siriṁ kabeḥ, matuha manvām· laki-laki vadvan· kaniṣṭa-maddhyamottama, kapva ma<g>§</g>
+                      <lb n="5r4" break="no"/>naḍaḥ tan hana kantuna rīṅ irusan· kla-kla Ambəl-ambəl·, kasyan·, lət-lət·, bhaṇḍa kaṇḍi paliḍva parisukha <g>§</g>
+                      <lb n="5r5"/> saṅ amaṅan·, tahu lan vagalan· haryyas· kuluban· suṇḍa rumbaḥ Ityevamādi, tan hana kakuraṁ, maṅka</p></div>
+                      <div type="textpart">
+                         <head xml:lang="eng">Plate 5. verso. [plate number 5 in left margin, rotated 90° clockwise vis-à-vis text]</head>
+                         <p><lb n="5v1" break="no"/>na taṁ haraṁ-haraṁ, ḍeṁ kakap·, kaḍivas·, taṅiri, hnus·, huraṁ, biluṁluṁ prakāra, paripūrṇna Ikā kabeḥ, muAṁ <g>§</g>
+                            <lb n="5v2"/> pāṇa siddhu mastava kiñca kilaṁ tvak· paripūrṇna Ikā kabeḥ, mataṅ yan· tan parāryyan· saṁ manaḍahakən tahapa
+                            <lb n="5v3" break="no"/>n·, mataṁṅ yan vijaḥ sira kabeḥ, muAṁ men-men·, si patiṅhalan·, mabañol·, si pati bañcil·, muAṁ si bari
+                            <lb n="5v4"/> pacəḥ, Atapukan·, si giraṁ hyasən·, matəkapakən sira kabeḥ, dinmakan· kupaṁ, 2, sovaṁ-sovaṁ, I tlasnira ka
+                            <lb n="5v5" break="no"/>beḥ manaḍaḥ, maṅḍiri saṁ makudur vadihati patiḥ pramukha, kapu<supplied reason="omitted">A</supplied> manəmbaḥ I sārah-araḥ śrī mahārāja, muAṁ ra<g>§</g></p></div>
+                            <div type="textpart">
+                               <head xml:lang="eng">Plate 6.</head>
+                               <p>Missing.</p></div>
+                            <div type="textpart">
+                               <head xml:lang="eng">Final plate. recto.</head>
+                               <p><lb n="7r1" break="no"/> tiṅkaḥ samya hajī vatu kura, //Ø//, Iṁ śaka, 1270, Ăṣāḍhā-māsa, tīthi, Ekădaśi śuklapakṣa, pā, va, 
+                            <lb n="7r2"/> ca, vāra, juluṁ, //Ø// : :,</p></div>
+                       
+                   </div>
+                       <div type="apparatus">
+                          <app loc="1v2"><lem>pūrvvăṣādhā-</lem><rdg source="bib:Naerssen1977_01"/></app>
+                          <app loc="1v3"><lem>Ĭśvarakeśavotsava-</lem><rdg source="bib:Naerssen1977_01">Ĭśvarakeṣavotsava</rdg></app>
+                          <app loc="1v5"><lem>R̥ṇək·</lem><rdg source="bib:Naerssen1977_01">R̥nək·</rdg></app>
+                          <app loc="2v5"><lem>saṁ jātuka rāmani śruta</lem><rdg source="bib:Naerssen1977_01">saṁ jātu karāman i śruta</rdg></app>
+                        <app loc="3r5"><lem>tuhālup·</lem><note>cf. Kalimusan r3 for the same term.</note></app>
+                          <app loc="3v2–3"><lem>sikpan·</lem><rdg source="bib:Naerssen1977_01">siṁpkan·</rdg></app>
+                          <app loc="5r2"><note>The passage of several lines from tumŭt krama onwards has a loose parallel in an inscription of Sindok, Paradah II, line 90ff: tumūt krama saṁ hana rikān piṅhai vahuta rāma kabayan muAṁ rāma tpi siriṁ kulapati punta matuha rarai laki-laki vadvan (91) kaniṣṭa-madhyamottama tan hana kantun ilu manaḍaḥ Iṁ paglaran iṁ pkan kinuR̥n-kuR̥n inaṁsəAn skul dākdannan hinirusan kla-kla Ambill-ambil ta(92)syan lid-lid tlu sanek paliddha takiḥ pariṅ suka varagalan saṅa-saṅān rumba-rumbaḥ kuluban tekis tumpuk-tumpuk ḍeṁ hanaṁ ḍeṁ hasin kakab (93) rumahan kadivas kavan huraṁ gtam biluṁluṁ laya-layar hala-hala hantiga Inari sunda, Atak pəhan tahu lan ginaṅannan haryyas piṇḍa gaṅan iṁ saro(94)n limas 12 len saṅkā rikaṁ Ivak knas prakāra Anaḍaḥ sira kabaiḥ yathāsukha maṅinuṁ siddhu ciñca tuAak pintiga sovaṁ vinuvuhan tambul inañjapan· (95) kuravu kurima, ...</note></app>
+                          <app loc="5v1"><lem>muaṁ<g>§</g></lem><rdg source="bib:Naerssen1977_01">om.</rdg></app>
+                          <app loc="5v3"><lem>patiṅhalan·</lem><note>the engraver has erased an unwanted ulu above the pa (i.e., corrected pi to pa).</note></app>
+                          <app loc="7r1"><lem>Ăṣāḍhā-</lem><rdg source="bib:Naerssen1977_01">Aṣādhā-</rdg></app>
+                       </div>
+              <div type="commentary">
+                    <head xml:lang="eng">Dating</head>
+                    <p>This inscription is a 14th-century copy (1270 Śaka = 1348 CE) of a Balitung-era charter of 824 Śaka (902 CE). It likely went through several rounds of copying. The earlier date of 824 Śaka is severely corrupted, as explained by Damais: “II s'agit d'une copie faite en 1270 śaka (voir Watukura B, Liste A. 18 5) et il doit y avoir une erreur dans les données car celles-ci sont irréductibles sans correction.” (1955: 194). According to van Naerssen: “Some anachronisms found in the text show beyond doubt that the copyist of the Çaka year 1270 did not have the original charter of the Çaka year 824 at his disposal, but had to copy a document made at the time of King Wawa or King Sindok (about the middle of the tenth century).” We find several instances of phraseology that are typical of the Sindok period (929–951 CE):</p>
+                    <p>	1) van Naerssen 1941: 104 writes that “De aanvangswoorden van de pericope waarin de lijst der maṅilala dṛvya haji wordt ingeleid, is gelijk aan die der oorkonden uit Wawa’s en Siṇḍok’s tijd (cf. de Inleiding blz. 12).” The ref. to p. 12 makes clear that he meant the occurrence of the word mīśra paramīśra, vulu-vulu prakāra in 3r3–4.</p>
+                    <p>	2) the passage from 5r2 onwards with extensive parallel in Paradah II.</p>
+                    <p>	3) 5v5 kapu<supplied reason="omitted">A</supplied> manəmbaḥ I sārah-araḥ, śrī mahārāja: these words find parallels only in two inscriptions of Sindok, viz. Alasantan 4.16–17 Anambaḥ humarap· I sārah-araḥ śrī mahārāja; Paradah II 95–96 kapuA manambaḥ humaR̥p i sārah-araḥniṁkahanān śrī mahārāja</p>
+                    <p>4) cf. also the occurrence of samgət Laṅka in Watukura II, 3v2.</p>
+              </div>
+               <div type="bibliography">
+                  <p>Read by Arlo Griffiths and Marine Schoettel in March 2021 from photographs taken by the Royal Library of Copenhagen in 2012. </p>
+                         <listBibl type="primary">
+                            <bibl>
+                               <ptr target="bib:Brandes1913_01"/>
+                               <citedRange>31–32</citedRange>
+                               <citedRange>no. XXIV</citedRange>
+                               <note>Brandes’ edition consisted only of two sides, each belonging to a different plate. The first published side belongs is the verso side of plate 1 of Watukura I (OLD JAV 1), while the second published side is the verso side of plate 3 of Watukura II (OLD JAV 7).</note></bibl>
+                        <bibl>
+                           <ptr>Van Naerssen OJODDV</ptr>
+                           <citedRange>82–101</citedRange>
+                           <citedRange>no. VIII</citedRange>
+                        </bibl>
+                        <bibl>
+                           <ptr target="bib:Sarkar1971-1972_01"/>
+                           <citedRange>21-23</citedRange>
+                           <note>Sarkar simply reproduced Brandes’ hybrid edition, without taking into account van Naerssen’s 1941 study of the plates which identified their correct order.</note>
+                        </bibl>
+                        <bibl n="vN">
+                           <ptr target="bib:Naerssen1977_01"/>
+                           <citedRange>58–61</citedRange></bibl>
+                         </listBibl>
+                   
+                        <listBibl type="secondary">
+                           <bibl>
+                              <ptr target="bib:NBG36_1898"/>
+                              <citedRange>88–89</citedRange>
+                           </bibl>
+                        <bibl>
+                           <ptr target="bib:Damais1955_01"/>
+                           <citedRange>192–194</citedRange>
+                           <citedRange>A. 71</citedRange>
+                        </bibl>
+                        </listBibl>
+                   
+                </div>
+ <!-- 
+<div>
+                    <head xml:lang="eng">Artefact</head>
+                    <p>A set of plates, originally numbering 7 or more, of which only 5 are currently known to scholars. The extant plates are held in the Royal Library of Denmark in Copenhagen. Concordance of original textual structure with the set Copenhagen OLD JAV 1-5:</p>
+                    <p>Plate 1 		OLD JAV 1</p>
+                    <p>Plate 2 		OLD JAV 2</p>
+                    <p>Plate 3 		OLD JAV 3</p>
+                    <p>Plate 4 		missing</p>
+                    <p>Plate 5 		OLD JAV 4</p>
+                    <p>Plate 6 		missing</p>
+                    <p>Final plate 		OLD JAV 5</p>
+                </div>
+                <div>
+                    <head xml:lang="eng">Provenance</head>
+                    <p>The plates of Watukura I were purchased in 1952, along with five other plates (OLD JAV 6–10), from a certain Mrs. Nørgaard of Klampenborg. According to van Naerssen: “They were bought by Mr. Nørgaard from Baroness Dahlerup, who received them from a relative, who bought them in Java from a European family. That happened probably sometime within the last quarter of the nineteenth century.” (1977: 53). In a report to the Bataviaasch Genootschap, Brandes remarked that “Prof. Kern ontving deze rubbings van Prof. Vilh. Thomsen van Kopenhagen, die door de bezitster der platen, Mevr. de Baronesse von D., in de gelegenheid gesteld was ze te maken” (1898: 88). This indicates that the plates must have been bought from Baroness Dahlerup by Nørgaard sometime after 1898. Van Naerssen’s inquiries about the plates, which began in 1938 during the course of his doctoral studies, found the plates already in Nørgaard’s possession by this time.</p>
+                    <p>The text gives implicit and explicit indications of having been copied in East Java, certainly under the Majapahit administration of the mid-14th century, and very likely also during the reign of Siṇḍok in the mid-10th century (see Commentary below). The location of the central toponym Watukura has not yet been confidently established, though it has provoked considerable scholarly discussion. We find most convincing the arguments of Hadi Sidomulyo (p.c. 2016<note place="comment"
+                        resp="#Jarrah_Sastrawan" n="161">These are the notes Hadi shared at Trawas in 2016 entitled "A Review of the Historical Record for Eastern Java". Wisseman Christie also noted the locations of these modern toponyms in her Register III: 21</note><note place="comment" resp="#Arlo_Griffiths"
+                        n="162">You might write to him to ask if those arguments have been published anywhere.</note>), who argued on the basis of other toponyms in this inscription (Babadan, Buhara and Bareng) that the vatak Watu Kura should be located in present-day kecamatan Krian, kabupaten Sidoarjo, East Java. All in all, the provenance of this artefact is almost certainly East Java and quite probably the Sidoarjo area.</p>
+                </div>
+ -->           
+           </body>
+                     </text>
+</TEI>
