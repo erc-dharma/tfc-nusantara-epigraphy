@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
@@ -90,22 +90,22 @@
              <div type="edition">
                <div type="textpart">
                  <head xml:lang="eng">Recto</head>
-                 <p><lb n="1r1"/> // svasti śakavarṣātῑta 822 punaḥ-posyamāsa tithi Aṣṭami śuklapakṣa, ha,<lb n="1r2"/> ka, vr̥, vāra, tatkāla Ăjñă śrῑ mahărāja rake vatu kura dyaḥ dharm<note place="comment">Interesting non-gemination</note>odaya mahāsambhu
+                 <p><lb n="1r1"/> // svasti śakavarṣātῑta 822 punaḥ-posyamāsa tithi Aṣṭami śuklapakṣa, ha,<lb n="1r2"/> ka, vr̥, vāra, tatkāla Ăjñă śrῑ mahărāja rake vatu kura dyaḥ dharmodaya mahāsambhu
                  <lb n="1r3"/> tumurun· I rakryān mapatiḥ I hino pu bāhubajrapratipakṣakṣaya rake halu pu
                  <lb n="1r4"/> saṁgrāmanurāddhara, rake sirikan· pu samaravikrănta, rake vka pu bhāsvara, rakepaga vsa
-               <lb n="1r5"/> pu vī<note place="comment">I can't really see the long ī</note><note place="comment">@arlo.cik@gmail.com On second glance, I'm more sure this is vĭra-</note>ravikrama, rake bavaṁ pu maṁlavan· samgat· tiruAn· pu śivāstra, maṁhuri pu
+               <lb n="1r5"/> pu vīravikrama, rake bavaṁ pu maṁlavan· samgat· tiruAn· pu śivāstra, maṁhuri pu
                  cak<unclear>r</unclear>a
                  <lb n="1r6"/> vadihatῑ pu ḍapit, makudu<supplied reason="omitted">r</supplied>· pu sāmvr̥da, kumonnakan· soĀraniṁ va_nuA sima I Aya 
                  <lb n="1r7" break="no"/>m təAs· hiṁhiṁṅana Ikanaṁ masamvya_vahāra hana ṁkāna Anuṁ tan· knā de saṁ maṅilala nra
-                 <lb n="1r8" break="no"/>bya haji tluṁ tuhān· Iṁ sasamvya_vahāra Iṁ sasῑma, yan· paṅula<unclear>ṁ</unclear> kb<note place="comment">I struggle to distinguish pasangan b and v here, and I incline to read them all v. Do you have a sense for their distinction?</note>o ya ruAṁ puluḥ 
-                 <lb n="1r9"/> kb<note place="comment">v?</note>oAnya, sapi pataṁ puluḥ vəhus· vuAluṁ puluḥ Aṇḍaḥ<note place="comment">Hard to read, could it be "yaṇḍāḥ"?</note> savanthayan· maguluṅa</p></div> 
+                 <lb n="1r8" break="no"/>bya haji tluṁ tuhān· Iṁ sasamvya_vahāra Iṁ sasῑma, yan· paṅula<unclear>ṁ</unclear> kbo ya ruAṁ puluḥ 
+                 <lb n="1r9"/> kboAnya, sapi pataṁ puluḥ vəhus· vuAluṁ puluḥ Aṇḍaḥ savanthayan· maguluṅa</p></div> 
                  <div type="textpart">
                    <head xml:lang="eng">Verso</head>
                    <p><lb n="1v1"/> tluṁ pasaṁ, maṅaraḥ tluṁ lumpaṁ Iṁ saśῑma, yāpuAn· pinikul· dagaṁnya, kady aṅtāniṁ mabasana
-                     <lb n="1v2"/> masayaṁ, makacapuri kapas· vuṅkuḍu tamvaga gaṅsa vsi, timaḥ garas· paḍat vəAs lṅa<note place="comment">An eyeskip here, see AT III for the missing elements in this list: "phalaphalǝ (ka)dut· kalamvi (laruna)"</note>
-                     <lb n="1v3"/> gula, sapukān·niṁ duAl· kalima bantal· I<note place="comment">Witasari: Iṁ</note><note place="comment">any need to keep a trace of this?</note> satuhān· pikul-pikul·lananya, vaṇḍai malaṁ
+                     <lb n="1v2"/> masayaṁ, makacapuri kapas· vuṅkuḍu tamvaga gaṅsa vsi, timaḥ garas· paḍat vəAs lṅa
+                     <lb n="1v3"/> gula, sapukān·niṁ duAl· kalima bantal· I satuhān· pikul-pikul·lananya, vaṇḍai malaṁ
                      <lb n="1v4"/> tamvaga, gaṅsa, vsi, sobuban· Iṁ satuhān· tannənun· cadar· bataṁ pacadaran· Iṁ saśῑma, ma
-                     <lb n="1v5" break="no"/>ya<note place="comment">Could we read this 'ya' instead as a ligated 'para'? Cf. AT III 1v4.</note>hu ka<unclear>be</unclear>ḥ hana rayav· təAs· 3 tapa Amasu<unclear>ṁ</unclear>hāra 3 Iṁ saparahu kapuA<note place="comment">Given the roughness of this hand, I can't rule out that this is just a 'p'</note> matu
+                     <lb n="1v5" break="no"/>yahu ka<unclear>be</unclear>ḥ hana rayav· təAs· 3 tapa Amasu<unclear>ṁ</unclear>hāra 3 Iṁ saparahu kapuA matu
                      <lb n="1v6" break="no"/>ṅgalana tuṇḍān· masu<unclear>ṁ</unclear>hara 2 I<unclear>ṁ</unclear> satuṇḍān· //</p></div>
                
              </div>

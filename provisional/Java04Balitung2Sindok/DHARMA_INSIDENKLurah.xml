@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
@@ -90,7 +90,7 @@
                     <p><lb n="2v1"/> si<unclear>ra</unclear>,  ṅuni-ṅuni yan luṅha ra<unclear>b</unclear>i tan padesa sira muva<supplied reason="omitted">ḥ</supplied> saṁ kuna<unclear>ṁ</unclear> yan ana sira lu
                        <lb n="2v2" break="no"/>ṅha ḍi<unclear>va</unclear>l <unclear>sa</unclear>ma ya lu_raḥ, human· <space type="binding-hole"/> pu tajen ana re, sal<supplied reason="omitted">v</supplied>irni<unclear>ṁ</unclear> gave luraḥ
                     <lb n="2v3"/> kanalan sira muvaḥ yen ana, sira latuḥ skal· kayi sujita sira satahun· r
-                       <lb n="2v4" break="no"/>i<note place="comment">Orphaned diacritics iṁ at the beginning of 2v4, with the ra akṣara left behind at 2v3!</note>ṁ adoḥ, ma<unclear>ra</unclear> sira muliha, Ana sira luṅha taruṁ gahakira sa<unclear>ji</unclear>i ta sira sotaḥ</p></div>
+                       <lb n="2v4" break="no"/>iṁ adoḥ, ma<unclear>ra</unclear> sira muliha, Ana sira luṅha taruṁ gahakira sa<unclear>ji</unclear>i ta sira sotaḥ</p></div>
     
                    </div>
                        <div type="apparatus">

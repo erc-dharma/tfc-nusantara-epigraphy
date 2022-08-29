@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
@@ -92,8 +92,8 @@
                     <p><lb n="1r1"/> // <unclear>sva</unclear>sti śakavarṣātῑta <unclear>822 punaḥ-posya māsa tithi Aṣṭami</unclear> śukla, pakṣa, ha, ka, vr̥, vāra tatkālaniṁ  Ājñă śrῑ mahārāja ra
                     <lb n="1r2" break="no"/>kai vatu kura  dyaḥ  balituṁ, śrῑ dharmmodaya mahāsambhu, tumurun· I rakryān·
                     mapatiḥ I hino, pu dakṣottama bāhubajra pratipakṣā
-                    <lb n="1r3" break="no"/>kṣaya, rake<note place="comment">Check</note> halu, pu <unclear>saṁgrāmadurānddhara rake sirikan· pu samā<note place="comment">Do we want long or short here? Damais has samara</note>ravi</unclear>krănta, rake<note place="comment">Check</note> vka, pu bhasvara, rake pagar vsi, pu vῑravikrama, ra
-                    <lb n="1r4" break="no"/>ke bavaṁ, <unclear>pu maṁlawan·, samgat tiruAn pu śivastra, maṁhuri pu cakra<note place="comment">Damais reads cakradhara – see if there is enough space for two more akṣara</note>,</unclear> vadihatī, pu ḍapit·, makudur·, <unclear>pu samvr̥da,</unclear> kumonnakan·
+                    <lb n="1r3" break="no"/>kṣaya, rake halu, pu <unclear>saṁgrāmadurānddhara rake sirikan· pu samāravi</unclear>krănta, rake vka, pu bhasvara, rake pagar vsi, pu vῑravikrama, ra
+                    <lb n="1r4" break="no"/>ke bavaṁ, <unclear>pu maṁlawan·, samgat tiruAn pu śivastra, maṁhuri pu cakra,</unclear> vadihatī, pu ḍapit·, makudur·, <unclear>pu samvr̥da,</unclear> kumonnakan·
                     <lb n="1r5"/> <unclear>sovaraniṅ anak vanuA</unclear> ṇyā _· śīma viṇ //
                     <lb n="1r6"/> vadihatī, kudur·, kanakbanuAn·, kavahutan·, I <gap reason="lost" extent="unknown" unit="character" cert="low"/> mvyā vatak ha(
                     <lb n="1r7"/> k.........kapayaha.... .masambyavahāra lan·, ...................... maṅ ilala drabya haji, tava

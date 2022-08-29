@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
@@ -892,7 +892,7 @@
                        </div>
              <div type="commentary">
                <p>The short and long forms of the ulu and suku are often not distinguished, with the scribe using the corresponding short forms for ī and ū. Word-final anusvāra is often omitted, and there is persistent confusion between pa, ma, and ha, e.g. the repeated error kamuAṁ for kapuAṁ. In the word maṁguñjai, the diacritic -ai was written to very closely resemble ra (2r4) and ri (7r5) at the time of reissue.</p>
-                    <p>There are certain spelling idiosyncrasies throughout, such as Ityaivamadhi for Ityaivamādi (7v4,7v5, 8r1) and vadəhati for vadihati (4r1, 8r2). Similar to other tinulad texts<note place="comment">Is it you who have you identified this as a characteristic of tinulads, or do you take it from a source that can be cited? Interesting...</note><note place="comment">This is my own impression, but I can spend a bit of time substantiating it if you like</note><note place="comment">please do!</note>, there is a general preference for using pasangan and diacritic vowels at word boundaries, instead of virāma and independent vowels (e.g. pasuk alas· instead of pasuk· Alas· in 2v1 and molih amaliṁ instead of moliḥ Amaliṁ in 8r1). </p>
+                    <p>There are certain spelling idiosyncrasies throughout, such as Ityaivamadhi for Ityaivamādi (7v4,7v5, 8r1) and vadəhati for vadihati (4r1, 8r2). Similar to other tinulad texts, there is a general preference for using pasangan and diacritic vowels at word boundaries, instead of virāma and independent vowels (e.g. pasuk alas· instead of pasuk· Alas· in 2v1 and molih amaliṁ instead of moliḥ Amaliṁ in 8r1). </p>
                     <p>A number of the above-mentioned errors are easily explained as based on misinterpretation of an earlier script form and thus lend a certain credibility to the global textual fidelity of this reissue vis-à-vis the 10th-c. original: a faithful attempt seems to have been made to reproduce an original, as opposed to a scenario of rigorous editing at the time of reissue.</p>
              </div>
                    
@@ -915,7 +915,7 @@
                       <citedRange>E. 71</citedRange></bibl>
                     <bibl>
                       <ptr>Anjali</ptr>
-                      <note place="comment">@jarrah.sastrawan@gmail.com complete this_Assigned to Jarrah Sastrawan_</note>
+                      
                     </bibl>
 </listBibl>               
                <listBibl type="secondary">
