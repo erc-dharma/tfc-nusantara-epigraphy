@@ -123,14 +123,14 @@
                     <app loc="1v8"><lem>pasak-pasak·</lem><rdg source="bib:TitiSurtiNastiti+al1982_01">pasək-pasək·</rdg></app>
                     <app loc="1v9"><lem>tuhānni<unclear>ṁ</unclear> kanayakān·</lem><rdg source="bib:TitiSurtiNastiti+al1982_01">tuhānni kanayakān·</rdg></app>
                     <app loc="1v9"><lem>tuhānniṁ lampuran·</lem><rdg source="bib:TitiSurtiNastiti+al1982_01">tuhānni lampuran·</rdg></app>
-                    <app loc="1v9–10"><note place="comment">@jarrah.sastrawan@gmail.comI used to note things like this, but in EpiDoc we are (for some reason) allowed to encode only the line on which a lemma begins. So we might as well switch to that notation also in this file._Assigned to Jarrah Sastrawan_</note><lem>tuhānniṁ maṁrakat·</lem><rdg source="bib:TitiSurtiNastiti+al1982_01">tuhānni maṁrakat·</rdg></app>
+                    <app loc="1v9–10"><lem>tuhānniṁ maṁrakat·</lem><rdg source="bib:TitiSurtiNastiti+al1982_01">tuhānni maṁrakat·</rdg></app>
                     <app loc="1v10"><lem>dhanakī</lem><rdg source="bib:TitiSurtiNastiti+al1982_01">dhanaki</rdg></app>
                     <app loc="1v10"><lem>kelāsa</lem><rdg source="bib:TitiSurtiNastiti+al1982_01">kelāśa</rdg></app>
-                    <app loc="1v10–11"><lem>rāmanta <unclear>I</unclear> luItan·</lem><note place="comment">@jarrah.sastrawan@gmail.comDelete this?_Assigned to Jarrah Sastrawan_</note></app>
+                    <app loc="1v10–11"><lem>rāmanta <unclear>I</unclear> luItan·</lem></app>
                     <app loc="1v11"><lem>kā<unclear>la</unclear></lem><rdg source="bib:TitiSurtiNastiti+al1982_01">kala</rdg></app>
                     <app loc="1v11"><lem source="bib:TitiSurtiNastiti+al1982_01">maṁraṅkipi</lem><rdg>Corr. maṁraṅkapi</rdg></app>
                     <app loc="1v12"><lem>codya</lem><rdg source="bib:TitiSurtiNastiti+al1982_01">codhya</rdg></app>
-                    <app loc="1v12"><lem>rumpuṁ</lem><rdg source="bib:TitiSurtiNastiti+al1982_01">rumpun</rdg> <note>Possibly a printing error, since T represents ṁ using the character <supplied reason="omitted">ŋ</supplied><note place="comment">I’d avoid these angle brackets here, certainly if the intended meaning is “graphemic  notation” (for which plain angle brackets &lt;...&gt; ought to be used). I think the brackets are unnecessary here.</note></note></app>
+                    <app loc="1v12"><lem>rumpuṁ</lem><rdg source="bib:TitiSurtiNastiti+al1982_01">rumpun</rdg> <note>Possibly a printing error, since T represents ṁ using the character <supplied reason="omitted">ŋ</supplied></note></app>
                     <app loc="1v12"><lem>sabaṁ</lem><rdg source="bib:TitiSurtiNastiti+al1982_01">saban</rdg> <note>Possibly a printing error, see the entry above</note></app>                       
                        </div>
                    <div type="bibliography">
