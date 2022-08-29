@@ -1,14 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml version="1.0" encoding="UTF-8"?> <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?> <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?> <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Barsahan (~830 Śaka, ~908 CE)</title>
+            <title>Sang Makudur (~830 Śaka, ~908 CE)</title>
             <respStmt>
                <resp>EpiDoc Encoding</resp>
                <persName ref="part:wjsa">
@@ -20,7 +15,7 @@
          <publicationStmt>
             <authority>DHARMA</authority>
             <pubPlace>Paris</pubPlace>
-            <idno type="filename">DHARMA_INSIDENKBarsahan</idno>
+            <idno type="filename">DHARMA_INSIDENKSangMakudur</idno>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/">
                   <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
@@ -28,7 +23,7 @@
                                             https://creativecommons.org/licenses/by/4.0/ or send a letter to
                                             Creative Commons, 444 Castro Street, Suite 900, Mountain View,
                                             California, 94041, USA.</p>
-                  <p>Copyright (c) 2019-2025 by Wayan Jarrah Sastrawan.</p>
+                  <p>Copyright (c) 2019-2025 by .</p>
                </licence>
             </availability>
             <date from="2019" to="2025">2019-2025</date>
@@ -75,10 +70,24 @@
       </revisionDesc>
    </teiHeader>
    <text xml:space="preserve">
-           <body> 
-               <div type="commentary">
-                  <p>It is not evident why many scholars situate the inscription around 908. We suspect the only reason is that Damais 1970 classed this as "ca. 830 Śaka", while subsequent scholars have missed the nuance intended by “ca.”. Our impression is that it is certainly several decades post-Balitung. There are several terminological correspondences with Sindok and even Airlangga. See provisional text in Sindok file.<note place="comment">In that case, shall we delete this here and study it only in the Siṇḍok file? @arlo.cik@gmail.com_Assigned to Arlo Griffiths_</note><note place="comment">Yes, certainly. But I thought we might want to keep a stub on it here, for the very reason that Damais (1970) and several scholars relying on Damais have included Barsahan in the reign of Balitung, to which it (in my view) definitely doesn't belong. In other words, material for a paragraph on "what we have not included" in our future Introduction.</note></p>
-               </div>
-           </body>
-                     </text>
+           <body>
+              <div type="edition">
+                 
+              </div>
+              <div type="apparatus">
+                 <app/>
+              </div>
+              <div type="commentary">
+                 <p/>
+              </div>
+              <div type="bibliography">
+                 <listBibl type="primary"> 
+                 <bibl/>
+                 </listBibl>
+                 <listBibl type="secondary">
+                    <bibl/>
+                 </listBibl>
+              </div>
+           </body> 
+ </text>
 </TEI>
