@@ -84,7 +84,7 @@
            <body> 
                    <div type="edition">
                      <div type="textpart"><head xml:lang="eng">Plate 1.</head>
-                   <p><lb n="1v1"/> // svasti śa<supplied reason="omitted">ka</supplied>varmātīta 827 śravaṇa-māsa tithi pratipāda śukla-pakṣa pa U śu vāra Ăśleṣă-nakṣatra varīyān·-yoga ta
+                   <p><lb n="1v1"/> // svasti <choice><sic>śa<supplied reason="omitted">ka</supplied>varmātīta</sic><corr>śakavarṣātīta</corr></choice> 827 śravaṇa-māsa tithi pratipāda śukla-pakṣa pa U śu vāra Ăśleṣă-nakṣatra varīyān·-yoga ta
 <lb break="no" n="1v2"/>tkālanikanaṁ rāma I rumviga vatak· rumviga mapuluṁ taṇḍas· muAṁ pinakānak· kabaiḥ manamvaḥ I samgat· mo
 <lb break="no" n="1v3"/>maḥ-Umaḥ mamrati pu Uttara muAṁ rakryān· vuṁkal· tihaṁ pu vĭravikrama rakryān· ri hino mahāmantri śrī dakṣottama-bāhuba
 <lb break="no" n="1v4"/>jra-pratipakṣa-kṣaya maminta Inanugrahān· mapasaṁ-gunuṅa pirak· kā 4 muAṁ piliḥ-masnya sāmas· riṁ satahil· satahun· ku
@@ -114,7 +114,7 @@
                        
                    </div>
                        <div type="apparatus">
-                                <app loc="1v1"><lem source="bib:MachiSuhadi1983_01">śa<supplied reason="omitted">ka</supplied>varmātīta</lem><rdg>Corr. śakavarṣātīta.</rdg></app>
+                                <app loc="1v1"><lem source="bib:MachiSuhadi1983_01">śa<supplied reason="omitted">ka</supplied>varmātīta</lem></app>
                             
                                 <app loc="1v1"><lem>Ăśleṣă</lem><rdg source="bib:MachiSuhadi1983_01">Ăslesă</rdg><rdg source="bib:HerniPramastuti+al2007_01">Ăslemă</rdg></app>
                             
@@ -196,7 +196,6 @@
                  </bibl>
                     <bibl>
                       <ptr target="bib:Supraptiningsih1984_01"/>
-                      
                     </bibl>
                     <bibl n="PAY">
                       <ptr target="bib:HerniPramastuti+al2007_01"/>

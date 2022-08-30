@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?> <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?> <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?> <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?> <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
    <teiHeader>
       <fileDesc>
@@ -87,7 +87,7 @@
                    <div type="edition">
                      <div type="textpart">
                      <head xml:lang="eng">Plate 1. recto.</head>
-                   <p><lb n="1r1"/> _ _ svasti śaka-varṣātīta ḍuĀmvilan·, Atus·, Aliḥ baiśakha-māsa‚ tithi caturdaśĭ kr̥ṣṇapakṣa, tu, U, so, vāra‚ tatkāla saṁ paṅaruhan·, pu ca-
+                   <p><lb n="1r1"/> _ _ svasti śaka-varṣātīta ḍuĀmvilan·, Atus·, Aliḥ baiśakha-māsa‚ tithi <choice><sic>caturdaśĭ</sic><corr>cathurthī</corr></choice> kr̥ṣṇapakṣa, tu, U, so, vāra‚ tatkāla saṁ paṅaruhan·, pu ca-
 <lb n="1r2"/>kra mamuAt·, gavai varaṁ baṁ mas·. tuṅgal·, brat sāṅgappan·, kati‚ rambutnya Udi‚ payuṁ pirak·‚ mavaṅku maḍaṇḍa mapuñcak·, mas· tuṅgal·, brat sā-
 <lb n="1r3"/>ṅgappan·, kati masnya Udi tigaṁ kati puṇya śrī mahārāja rakai ka_yu vaṅi I bhaṭāra I saliṁsiṅan·, rikana<unclear>ṁ</unclear> kāla saṁ paṅaruhan·, dinamakka-
 <lb n="1r4"/>n·, tan katamāna dainiṁ paraṇakkan·, muAṁ sikappan·, halu varak·, kriṁ patiṅhalan·, paḍa_mm apuy·, valyan·, muAṁ rumvān·, sahana-
@@ -106,7 +106,7 @@
 <lb n="1v4"/> tuha gusali ramani sarad·, tuha ka_laṁ pu <unclear>ta</unclear>laga, pu saṅka ramani catha, gusti pu piṅul· ramani Astira, parujar· pu livū ramani ra-
 <lb n="1v5"/>kṣaṇa, tuha gusali pu saṅka <unclear>rama</unclear>ni mūla, vinkas· pu hl<unclear>i</unclear> ramani tuṅgū, rāma maratā pu basa ramani sañjaya nā Anuṁ hana de saṁ pa-
 <lb n="1v6"/>ṅaruhan· prayatnā ri<unclear>ṁ</unclear> Ujar haji ṅunivaiḥ rakry<unclear>ā</unclear>n· mava<unclear>nuA</unclear> tan tamā ri Ataggan· saṁ paṅaruhan·, sa<unclear>ṁ</unclear> paṅaruhan· Ataḥ pra-
-<lb n="1v7"/>māṇā Iriya, _ _ svasti śaka-varṣātīta 827 mārggaṣira-māsa vaturdaśĭ kr̥ṣṇa-pakṣa, mavulu, pahiṁ, vr̥⟨ha⟩spati vāra ta-
+<lb n="1v7"/>māṇā Iriya, _ _ svasti śaka-varṣātīta 827 <choice><sic>mārggaṣira</sic><corr>mārggaśira</corr></choice>-māsa vaturdaśĭ kr̥ṣṇa-pakṣa, mavulu, pahiṁ, vr̥⟨ha⟩spati vāra ta-
 <lb n="1v8"/><unclear>t</unclear>kāla saṁ tuha gusali bapani Ikā mavaiḥ manaḍaha I rāmanta I kikil vatu makabeḥhan·, majaryyakan· sira haḍaṁṅan· savi
 <lb n="1v9"/> <unclear>l</unclear> pa<unclear>t</unclear>iḥ I kikil vatu Irikanaṁ kāla, pu kataṁ, kalaṁ pu dava, gusti pu baṅklə, vinkas· pu taliki, rāma kaki gatī, kaki gunuṁ, pu jinhi pu
 <lb n="1v10"/> pula, pu kamalī, pu parahita, kali I kakaran· pu tguḥ, vinkas· p<unclear>u</unclear> Ekā, hulu turuś·, I suru tbal vu maṅol,
@@ -132,7 +132,7 @@
                    </div>
                        <div type="apparatus">
                             
-                                <app loc="1r1"><lem source="bib:Boechari1985-1986_01">caturdaśĭ</lem><rdg source="bib:CohenStuart1875_01">caturdacĭ</rdg> <note>Probably a misprint in C, which represents ś as ç.</note> <rdg>Corr. cathurthī</rdg><note>as the solar elements coincide on the 4th not the 14th day of the waning fortnight. See Damais 1955: 173–174.</note></app>
+                                <app loc="1r1"><lem source="bib:Boechari1985-1986_01">caturdaśĭ</lem><rdg source="bib:CohenStuart1875_01">caturdacĭ</rdg> <note>Probably a misprint in C, which represents ś as ç.</note><note>as the solar elements coincide on the 4th not the 14th day of the waning fortnight. See Damais 1955: 173–174.</note></app>
                             
                                 <app loc="1r2"><lem source="bib:Boechari1985-1986_01">sāṅgappan·</lem><rdg source="bib:CohenStuart1875_01">saṅgappan·</rdg></app>
                             
@@ -153,7 +153,7 @@
                             
                                 <app loc="1v6"><lem source="bib:Boechari1985-1986_01">prayatnā</lem><rdg source="bib:CohenStuart1875_01">prayatna</rdg></app>
                             
-                                <app loc="1v7"><lem source="bib:Boechari1985-1986_01">mārggaṣira</lem><rdg source="bib:CohenStuart1875_01">mārggaśira</rdg><rdg>Corr. mārggaśira.</rdg></app>
+                                <app loc="1v7"><lem source="bib:Boechari1985-1986_01">mārggaṣira</lem><rdg source="bib:CohenStuart1875_01">mārggaśira</rdg></app>
                             
                                 <app loc="1v7"><lem source="bib:CohenStuart1875_01">caturdaśĭ</lem><rdg source="bib:Boechari1985-1986_01">vaturdaśĭ</rdg></app>
                             

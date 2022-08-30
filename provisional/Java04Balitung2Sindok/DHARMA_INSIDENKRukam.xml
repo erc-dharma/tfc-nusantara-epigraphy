@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?> <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?> <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?> <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?> <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
    <teiHeader>
       <fileDesc>
@@ -138,7 +138,7 @@
 <lb break="no" n="2r14"/>dyādhara devaputra nandīśvara mahākāla nāgarājā vināyaka sakvaiḥ ta devata prasiddha maṁrakṣa kaḍatvan· śrī mahārāja I bhūmi java kita Umasuk· I hatiniṁṅvaṁ kabaiḥ tan·
 <lb n="2r15"/> kavnaṁ tinahannan· kyan hanā puA Anyāyā Umulaḥ-Ulaḥha Ikiṁ sī<supplied reason="omitted">ma</supplied> ṅunivaiḥ An· L̥bura ya ḍuḍuk· hatinya sbittakan· vtaṁnya Udulla<unclear>k</unclear>an· pahuṁnya vijilakan· dalammanya tampyal· I vi
 <lb break="no" n="2r16"/>raṅan· Uvahi I tṅannan· yan para ya riṅ alas· patukanniṁ Ulā paṅannan·niṁ moṁ puliraknaniṁ devamanyuḥ yan para ya riṁ tgal· Alapanniṁ glap· spalanniṁ rākṣasa saṁhampanniṁ vuĪl· sipamu
-<lb break="no" n="2r17"/>An· Andaḥ ta kamuṁ hyaṁ kusi<supplied reason="omitted">ka</supplied> gargga metrī kurupya pātāñjala suvuk· lor· kidul· kulvan· vaitan· buaṅṁakan· Iṁṅ ākāśā yanaṁṅ vaṁ Umalaḥ-Ulaḥ Ikeṁ sīma rakryān· sañjīvana de
+<lb break="no" n="2r17"/>An· <choice><sic>Andaḥ</sic><corr>Īndaḥ</corr></choice> ta kamuṁ hyaṁ <choice><sic>kusi<supplied reason="omitted">ka</supplied> gargga</sic><corr>kuśika</corr></choice> metrī kurupya pātāñjala suvuk· lor· kidul· kulvan· vaitan· buaṅṁakan· Iṁṅ ākāśā yanaṁṅ vaṁ <choice><sic>Umalaḥ-Ulaḥ</sic><corr>Umulaḥ-Ulah</corr></choice> Ikeṁ sīma rakryān· sañjīvana de
 <lb break="no" n="2r18"/>yantā matī ya sampal· salamvittakann i hyaṁ kabaiḥ tibākan· Iṁ mahāsamudra kəlamakan· Iṁ ḍavuhan· Alapp ya jalam er· saṁhapp ya vuhaya Aṅkānan matya yanaṁṅ vaṁ Anyāyā Umu
 <lb break="no" n="2r19"/>laḥ-Ulaḥ Ikeṁ sīma Upadravā Iṁ devata tātan· tmu Aṁsāma bhraṣṭā liputtan·niṁ dəra muliha riṁ naraka tibā Iṁ mahārorava yanaṁṅ uvaṁ laṁghanā Iṁ Ājña haji I sampun yan maṁka
 <lb break="no" n="2r20"/>na manamvaḥ Ikanaṁ patiḥ vahuta muAṁ rāma tpi siriṁ muAṁ rāma sinusuk· laki-laki vadvan· kabaiḥ I saṁ hyaṁ vatu sīma muAṁ kulumpa<unclear>ṁ</unclear> Umuvaḥ sira kabaiḥ I ronnira sampun· muvaḥ sira
@@ -157,9 +157,9 @@
                           <app loc="1v2"><lem>tuntur·</lem><rdg source="B N">guntur·</rdg><note>It seems impossible to read gu here, for the u-vocalisation is attached to the right vertical, as is characteristic of tu, However, even if the scribe made an error, we must understand guntur·.</note></app>
                           <app loc="1v3"><lem>paṅguḥhanya</lem><rdg source="TPMB">paṅguḥhannya</rdg></app>
 <app loc="1v3"><lem>kamalun·</lem><rdg source="TPMB">kamulān·</rdg><note>Clearly we must understand kamulān, but I cannot see a suku from ma in either photo, and the stroke under the la seems too low to be a length marker.</note></app>
-                                <app loc="2r7"><lem>Andaḥ</lem><rdg>corr. Īndaḥ.</rdg></app>
-                          <app loc="2r17"><lem>kusi<supplied reason="omitted">ka</supplied> gargga</lem><rdg source="TSN">kusiga gargga </rdg><rdg>corr. kuśika.</rdg></app>
-                          <app loc="2r17"><lem source="TSN">Umalaḥ-Ulaḥ</lem><rdg>corr. Umulaḥ-Ulah.</rdg></app>
+                                <app loc="2r7"><lem>Andaḥ</lem></app>
+                          <app loc="2r17"><lem>kusi<supplied reason="omitted">ka</supplied> gargga</lem><rdg source="TSN">kusiga gargga</rdg></app>
+                          <app loc="2r17"><lem source="TSN">Umalaḥ-Ulaḥ</lem></app>
                             <app loc="2r18"><lem>Aṅkānan</lem><note>it might be possible to read Aṅgānan.</note></app>
                        </div>
                

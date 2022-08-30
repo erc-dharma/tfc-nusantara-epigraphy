@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?> <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?> <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?> <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?> <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
    <teiHeader>
       <fileDesc>
@@ -84,7 +84,7 @@
                            <div type="textpart">
                               <head xml:lang="eng">Side A/B</head>
                               <p><lb n="1"/><gap reason="lost" extent="unknown"/> Anak vanuA I <del>1</del>ṇḍar· <choice><unclear>va</unclear><unclear>ja</unclear></choice>k°ja <del>5</del> <del>5</del> nu <del>5</del> <gap reason="lost" extent="unknown"/>
-<lb n="2"/> <gap reason="lost" extent="unknown"/> <supplied reason="lost">tiruA</supplied>n· sumuḍan· sakati<unclear>maAm</unclear>ə Anakg <unclear>v</unclear>anuA I vuṅkuḍu vatak· ki<unclear>lipan·</unclear> <del>36</del> <gap reason="lost" extent="unknown"/> 
+<lb n="2"/> <gap reason="lost" extent="unknown"/> <supplied reason="lost">tiruA</supplied>n· sumuḍan· <choice><sic>sakati<unclear>maAm</unclear>ə</sic><corr>saṁ katimamaṁ</corr></choice> Anakg <unclear>v</unclear>anuA I vuṅkuḍu vatak· ki<unclear>lipan·</unclear> <del>36</del> <gap reason="lost" extent="unknown"/> 
 <lb n="3"/><gap reason="lost" extent="unknown"/>· parujar· I <unclear>maṁ</unclear><gap reason="lost" extent="unknown"/> hu<supplied reason="lost">ri</supplied> <supplied reason="lost">ranuĪ</supplied><gap reason="lost" extent="unknown"/>   bhasa<supplied reason="lost">ṁ</supplied> gupura sanakh vanuA I hinapit· vata <unclear>k·</unclear> <supplied reason="lost">vka</supplied> <del>4</del>
 <lb n="4"/> <gap reason="lost" extent="unknown"/> n· <del>1</del>natoda <del>6</del> A I s<supplied reason="lost">i</supplied>ṅhapura vatak· ma<unclear>mra</unclear>ti parujar· I takaCVvān· rā<supplied reason="lost">luk</supplied> <del>9</del>
 <lb n="5"/> <gap reason="lost" extent="unknown"/> <supplied reason="lost">ka</supplied>ṇḍam<supplied reason="lost">u</supplied>Chia vatak· CV<unclear>da</unclear>n·, parujar· I ti<supplied reason="lost">ri</supplied>CVp·ā <del>3</del>rā <del>5</del>A I Uvagihan· <unclear>vata</unclear>k· dalihaCV piha <del>2</del> luṅgaC·, paru-
@@ -113,7 +113,6 @@
                    </div>
                        <div type="apparatus">
                           <app loc="1"><lem>sakati<unclear>mam</unclear>ə</lem>
-                             <rdg>Corr. saṁ katimamaṁ</rdg> 
                              <note>cf. Panggumulan 2v3, Poh 1v16, Bhatari 11.</note>
                           </app>  
                        </div>

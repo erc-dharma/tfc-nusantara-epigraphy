@@ -87,16 +87,16 @@
 <head xml:lang="eng">Recto</head>                             
                               <p><lb n="r1"/> // @ //  svasti śaka-varṣātīta 828 bhadravā
 <lb n="r2" break="no"/>da-māsa tithi pañcamī kr̥ṣṇa-pakṣa văs· va
-<lb n="r3" break="no"/>gai vr̥haspati-văra svatī-nakṣatra byatipā
+<lb n="r3" break="no"/>gai vr̥haspati-văra <choice><orig>svatī-</orig><reg>svāti-</reg></choice>nakṣatra byatipā
 <lb n="r4" break="no"/>da-yoga tatkālanikanaṁ vanuA I ka
 <lb n="r5" break="no"/>ṇḍaṅan· muAṁ Anaknya ri vanuA I Er hijo
 <lb n="r6"/> vata<supplied reason="omitted">k·</supplied> vuṅkal· tpat· śīmāni parhyaṅan· I
-<lb n="r7"/> prasāja vatat· patapān· maṅas<unclear>ə:</unclear> I
+<lb n="r7"/> prasāja <choice><sic>vatat·</sic><corr>vatak·</corr></choice> patapān· maṅas<unclear>ə:</unclear> I
 <lb n="r8"/>lumku pinagəḥhakan· parṇaḥnyan· śīma de
 <lb n="r9"/> rakryān· I vuṅkal· tihaṅ pu vīravikrama <unclear>A-</unclear>
-<lb n="r10"/>n· saṁ hyaṁ parhyaṅan· I prasāja vatat·
+<lb n="r10"/>n· saṁ hyaṁ parhyaṅan· I prasāja <choice><sic>vatat·</sic><corr>vatak·</corr></choice>
 <lb n="r11"/> patapān· maṅasə: I lumku ja ma<unclear>ka</unclear>pun·
-<lb n="r12" break="no"/>punana ya muAṁ saṁ pramāna riṁ sapaṅguhanya <unclear>muAṁ</unclear>
+<lb n="r12" break="no"/>punana ya muAṁ saṁ <choice><sic>pramāna</sic><corr>pramāṇa</corr></choice> riṁ sapaṅguhanya <unclear>muAṁ</unclear>
 <lb n="r13"/> saprakārani sukha-du<supplied reason="omitted">ḥ</supplied>khanya muAṁ kilalā</p>
                            </div>
 <div type="textpart">
@@ -120,18 +120,18 @@
 </div>                       
                    </div>
                        <div type="apparatus">
-                        <app loc="r3"><lem source="bib:Brandes1913_01 bib:Sarkar1971-1972_01">svatī-</lem> <rdg>Norm. svāti-</rdg></app>
+                        <app loc="r3"><lem source="bib:Brandes1913_01 bib:Sarkar1971-1972_01">svatī-</lem></app>
                           <app loc="r5"><lem>I Er hijo</lem> <rdg source="bib:Brandes1913_01">I hijo</rdg><rdg source="bib:Sarkar1971-1972_01">I Ehijo</rdg></app>
                         <app loc="r5"><lem source="bib:Sarkar1971-1972_01">vata<supplied reason="omitted">k·</supplied></lem> <rdg source="bib:Brandes1913_01">vatu</rdg></app>
                         <app loc="r7"><lem source="bib:Brandes1913_01 bib:Sarkar1971-1972_01">prasājā</lem><rdg>Norm. prasādā</rdg></app>
-                          <app loc="r7"><lem source="bib:Brandes1913_01 bib:Sarkar1971-1972_01">vatat·</lem><rdg>Corr. vatak·</rdg></app>
+                          <app loc="r7"><lem source="bib:Brandes1913_01 bib:Sarkar1971-1972_01">vatat·</lem></app>
                           <app loc="r8"><lem>de</lem><rdg source="bib:Brandes1913_01 bib:Sarkar1971-1972_01">Om.</rdg></app>
                           <app loc="r9"><lem>rakryān·</lem><rdg source="bib:Brandes1913_01 bib:Sarkar1971-1972_01">rakryan·</rdg></app>
 	<app loc="r9"><lem>vīravikrama</lem><rdg source="bib:Brandes1913_01 bib:Sarkar1971-1972_01">vĭravikrama</rdg></app>
 	<app loc="r9–10"><lem><unclear>A</unclear>n·</lem><rdg source="bib:Brandes1913_01 bib:Sarkar1971-1972_01">n·</rdg></app>
-	<app loc="r10"><lem source="bib:Brandes1913_01 bib:Sarkar1971-1972_01">vatat·</lem><rdg>Corr. vatak·</rdg></app>
+	<app loc="r10"><lem source="bib:Brandes1913_01 bib:Sarkar1971-1972_01">vatat·</lem></app>
 	<app loc="r11–12"><lem>ja ma<unclear>ka</unclear>pun·punana</lem><rdg source="bib:Brandes1913_01 bib:Sarkar1971-1972_01">ja matapun·punana</rdg></app>
-	<app loc="r12"><lem source="bib:Brandes1913_01 bib:Sarkar1971-1972_01">pramāna</lem><rdg>Corr. pramāṇa</rdg></app>
+	<app loc="r12"><lem source="bib:Brandes1913_01 bib:Sarkar1971-1972_01">pramāna</lem></app>
         <app loc="r12"><lem>riṁ</lem><rdg>ri</rdg></app>
                        </div>
                <div type="commentary">
@@ -152,8 +152,7 @@
                            <citedRange>pl. 7</citedRange>
                         </bibl>
                         <bibl n="S">
-                           <ptr target="bib:Sarkar1971-1972_01">CIJ II</ptr>
-                           <citedRange>60–63</citedRange>
+                           <ptr target="bib:Sarkar1971-1972_01"/>                           <citedRange>60–63</citedRange>
                            <citedRange>no. 69</citedRange>
                            <note>There are enough differences from B to regard Sarkar’s readings as independent.</note></bibl>
 

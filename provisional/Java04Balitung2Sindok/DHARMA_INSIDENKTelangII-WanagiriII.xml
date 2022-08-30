@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?> <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?> <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?> <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?> <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
    <teiHeader>
       <fileDesc>
@@ -87,7 +87,7 @@
                       <div type="textpart"><head xml:lang="eng">Plate 1. recto. </head>
                            <p><lb n="1r1"/> × svasti śaka-varṣatīta 825 poṣa-māsa tithi ṣaṣṭi kr̥ṣṇa, vu, ka, vu, vāra, tatkālani Ăjñă śrī mahārāja rakai vatu kura dyaḥ balitu<unclear>ṁ</unclear>
 <lb n="1r2"/> śrī dharmmodaya mahā-sambhu, tumurun· I rakryān· mapatiḥ I hino pu dakṣa bāhubajraprahipakṣakṣaya, rakai halu pu vīravikra
-<lb n="1r3" break="no"/>ma, rake sirikan· pu samaravikrānta, rake vka pu bhāsvara, hiruAn· pu śivāstra, maṁhuri pu cakra, vadihati pu ḍapit·, makudur· 
+<lb n="1r3" break="no"/>ma, rake sirikan· pu samaravikrānta, rake vka pu bhāsvara, <choice><sic>hiruAn·</sic><corr>tiruAn·</corr></choice> pu śivāstra, maṁhuri pu cakra, vadihati pu ḍapit·, makudur· 
 <lb n="1r4"/> pu sāmvr̥da, kumon· rake vlar· pu sudarśana, sumiddhākna sot· saṁ devata lumāḥ Iṁ śataśr̥ṅga, magavaya kamalir· muAṁ kamulā
 <lb n="1r5" break="no"/>n muAṁ parahu, Irikanaṁ luAḥ Iṁ paparahuAn·, I huvus·nikana gavai rakai vlar kamalir· 1 Umaḥ kamulān· 3 paṁlivtanya 1 tkan·
 <lb n="1r6"/> pasək· 1 giliran· 2 parahu 2 dadi Ikanaṁ vanuA I tlaṁ muAṁ I mahai, I paparahuAn· kapuA vatak· huvusan· Inalap· śīmānīkana<unclear>ṁ</unclear>
@@ -108,7 +108,7 @@
                    </div>
                        <div type="apparatus">
 <app loc="1r2"><lem source="bib:Stutterheim1934_04">-prahi-</lem><rdg source="bib:TitiSurtiNastiti2015_01">-prati-</rdg><rdg>Corr. -prati-.</rdg></app>
-<app loc="1r3"><lem>hiruAn·</lem><rdg source="bib:Stutterheim1934_04 bib:TitiSurtiNastiti2015_01">tiruAn</rdg><rdg>Corr. tiruAn·.</rdg></app>
+<app loc="1r3"><lem>hiruAn·</lem><rdg source="bib:Stutterheim1934_04 bib:TitiSurtiNastiti2015_01">tiruAn</rdg></app>
 <app loc="2v1"><lem>-di tiṇḍiḥ</lem><rdg source="bib:Stutterheim1934_04 bib:TitiSurtiNastiti2015_01">-ni tiṇḍiḥ</rdg></app>
 <app loc="2v1"><lem>si vul·</lem><rdg source="bib:Stutterheim1934_04 bib:TitiSurtiNastiti2015_01">si bṅal·</rdg></app>
 <app loc="2v1"><lem>kaṇḍal·</lem><rdg source="bib:Stutterheim1934_04">gāṇḍal</rdg><rdg source="bib:TitiSurtiNastiti2015_01">gaṇḍal·</rdg></app>
