@@ -92,20 +92,20 @@
                  <head xml:lang="eng">Recto</head>
                  <p><lb n="1r1"/> // svasti śakavarṣātῑta 822 punaḥ-posyamāsa tithi Aṣṭami śuklapakṣa, ha,<lb n="1r2"/> ka, vr̥, vāra, tatkāla Ăjñă śrῑ mahărāja rake vatu kura dyaḥ dharmodaya mahāsambhu
                  <lb n="1r3"/> tumurun· I rakryān mapatiḥ I hino pu bāhubajrapratipakṣakṣaya rake halu pu
-                 <lb n="1r4"/> saṁgrāmanurāddhara, rake sirikan· pu samaravikrănta, rake vka pu bhāsvara, rakepaga vsa
+                 <lb n="1r4"/> <choice><sic>saṁgrāmanurāddhara</sic><corr>saṁgrāmadhurandhara</corr></choice>, rake sirikan· pu samaravikrănta, rake vka pu bhāsvara, rake<choice><sic>paga vsa</sic><corr>pagar vsi</corr></choice>
                <lb n="1r5"/> pu vīravikrama, rake bavaṁ pu maṁlavan· samgat· tiruAn· pu śivāstra, maṁhuri pu
                  cak<unclear>r</unclear>a
                  <lb n="1r6"/> vadihatῑ pu ḍapit, makudu<supplied reason="omitted">r</supplied>· pu sāmvr̥da, kumonnakan· soĀraniṁ va_nuA sima I Aya 
-                 <lb n="1r7" break="no"/>m təAs· hiṁhiṁṅana Ikanaṁ masamvya_vahāra hana ṁkāna Anuṁ tan· knā de saṁ maṅilala nra
-                 <lb n="1r8" break="no"/>bya haji tluṁ tuhān· Iṁ sasamvya_vahāra Iṁ sasῑma, yan· paṅula<unclear>ṁ</unclear> kbo ya ruAṁ puluḥ 
-                 <lb n="1r9"/> kboAnya, sapi pataṁ puluḥ vəhus· vuAluṁ puluḥ Aṇḍaḥ savanthayan· maguluṅa</p></div> 
+                 <lb n="1r7" break="no"/>m təAs· hiṁhiṁṅana Ikanaṁ masamvya_vahāra hana ṁkāna Anuṁ tan· knā de saṁ maṅilala <choice><sic>nra
+                 <lb n="1r8" break="no"/>bya</sic><corr>drabya</corr></choice> haji tluṁ tuhān· Iṁ sasamvya_vahāra Iṁ sasῑma, yan· paṅula<unclear>ṁ</unclear> kbo ya ruAṁ puluḥ 
+                 <lb n="1r9"/> kboAnya, sapi pataṁ puluḥ <choice><sic>vəhus·</sic><corr>vəḍus·</corr></choice> vuAluṁ puluḥ Aṇḍaḥ <choice><sic>savanthayan·</sic><corr>savantayan</corr></choice> maguluṅa</p></div> 
                  <div type="textpart">
                    <head xml:lang="eng">Verso</head>
-                   <p><lb n="1v1"/> tluṁ pasaṁ, maṅaraḥ tluṁ lumpaṁ Iṁ saśῑma, yāpuAn· pinikul· dagaṁnya, kady aṅtāniṁ mabasana
-                     <lb n="1v2"/> masayaṁ, makacapuri kapas· vuṅkuḍu tamvaga gaṅsa vsi, timaḥ garas· paḍat vəAs lṅa
+                   <p><lb n="1v1"/> tluṁ pasaṁ, maṅaraḥ tluṁ lumpaṁ Iṁ saśῑma, yāpuAn· pinikul· dagaṁnya, <choice><sic>kady aṅtāniṁ</sic><corr>kady aṅganiṁ</corr></choice> mabasana
+                     <lb n="1v2"/> masayaṁ, makacapuri kapas· vuṅkuḍu tamvaga gaṅsa vsi, timaḥ <choice><sic>garas·</sic><corr>garam·</corr></choice> paḍat vəAs lṅa
                      <lb n="1v3"/> gula, sapukān·niṁ duAl· kalima bantal· I satuhān· pikul-pikul·lananya, vaṇḍai malaṁ
-                     <lb n="1v4"/> tamvaga, gaṅsa, vsi, sobuban· Iṁ satuhān· tannənun· cadar· bataṁ pacadaran· Iṁ saśῑma, ma
-                     <lb n="1v5" break="no"/>yahu ka<unclear>be</unclear>ḥ hana rayav· təAs· 3 tapa Amasu<unclear>ṁ</unclear>hāra 3 Iṁ saparahu kapuA matu
+                     <lb n="1v4"/> tamvaga, gaṅsa, vsi, sobuban· Iṁ satuhān· tannənun· cadar· <choice><sic>bataṁ</sic><corr>pataṁ</corr></choice> pacadaran· Iṁ saśῑma, ma
+                     <lb n="1v5" break="no"/>yahu ka<unclear>be</unclear>ḥ hana <choice><sic>rayav·</sic><corr>Ayam·</corr></choice> təAs· 3 tapa Amasu<unclear>ṁ</unclear>hāra 3 Iṁ saparahu kapuA matu
                      <lb n="1v6" break="no"/>ṅgalana tuṇḍān· masu<unclear>ṁ</unclear>hara 2 I<unclear>ṁ</unclear> satuṇḍān· //</p></div>
                
              </div>
@@ -114,27 +114,27 @@
                  <app loc="1r1"><lem source="bib:Stutterheim1938_03 bib:Damais1952_01">śuklapakṣa</lem> <rdg source="bib:Boechari1985-1986_01">suklapakṣa</rdg></app>
 	<app loc="1r2"><lem source="bib:Stutterheim1938_03 bib:Damais1952_01 bib:Boechari1985-1986_01">Ăjñă</lem><rdg source="bib:Sarkar1971-1972_01">Ājñā</rdg></app>
 	<app loc="1r2"><lem source="bib:Stutterheim1938_03 bib:Damais1952_01">mahărāja</lem><rdg source="bib:Sarkar1971-1972_01 bib:Boechari1985-1986_01">mahārāja</rdg></app>
-        <app loc="1r4"><lem source="bib:Stutterheim1938_03 bib:Damais1952_01 bib:Boechari1985-1986_01">saṁgrāmanurāddhara</lem><rdg>Corr. saṁgrāmadhurandhara</rdg><note>passim in this corpus</note></app>
-	<app loc="1r4"><lem source="bib:Boechari1985-1986_01">paga vsa</lem><rdg source="bib:Stutterheim1938_03 bib:Damais1952_01 bib:Sarkar1971-1972_01">pagar vsi</rdg><rdg>Corr. pagar vsi</rdg></app>
+        <app loc="1r4"><lem source="bib:Stutterheim1938_03 bib:Damais1952_01 bib:Boechari1985-1986_01">saṁgrāmanurāddhara</lem><note>passim in this corpus</note></app>
+	<app loc="1r4"><lem source="bib:Boechari1985-1986_01">paga vsa</lem><rdg source="bib:Stutterheim1938_03 bib:Damais1952_01 bib:Sarkar1971-1972_01">pagar vsi</rdg></app>
 	<app loc="1r5"><lem source="bib:Stutterheim1938_03">maṁlavan·</lem><rdg source="bib:Damais1952_01 bib:Sarkar1971-1972_01 bib:Boechari1985-1986_01">malavan·</rdg></app>
         <app loc="1r5"><lem source="bib:Stutterheim1938_03 bib:Damais1952_01 bib:Boechari1985-1986_01">maṁhuri</lem><rdg source="bib:Sarkar1971-1972_01">maṁhūri</rdg></app>
 	<app loc="1r6"><lem>vadihatī</lem><rdg source="bib:Stutterheim1938_03 bib:Damais1952_01 bib:Sarkar1971-1972_01 bib:Boechari1985-1986_01">vadihati</rdg></app>
 	<app loc="1r6"><lem source="bib:Damais1952_01 bib:Sarkar1971-1972_01 bib:Boechari1985-1986_01">sāmvr̥da</lem><rdg source="bib:Stutterheim1938_03">sāmvrada</rdg></app> 
         <app loc="1r7"><lem>masamvyavahāra</lem><rdg source="bib:Stutterheim1938_03 bib:Sarkar1971-1972_01 bib:Boechari1985-1986_01">masambyavahāra</rdg></app>
-	<app loc="1r7-8"><lem source="bib:Stutterheim1938_03 bib:Boechari1985-1986_01">nrabya</lem><rdg source="bib:Sarkar1971-1972_01">drabya</rdg><rdg>Corr. drabya</rdg></app>
+	<app loc="1r7-8"><lem source="bib:Stutterheim1938_03 bib:Boechari1985-1986_01">nrabya</lem><rdg source="bib:Sarkar1971-1972_01">drabya</rdg></app>
 	<app loc="1r8"><lem source="bib:Boechari1985-1986_01">sasamvya_vahāra</lem><rdg source="bib:Stutterheim1938_03 bib:Sarkar1971-1972_01">sasambya_vahāra</rdg></app>
-	<app loc="1r9"><lem source="bib:Stutterheim1938_03 bib:Sarkar1971-1972_01 bib:Boechari1985-1986_01">vəhus·</lem><rdg>Corr. vəḍus·</rdg></app>
-	<app loc="1r9"><lem>savanthayan·</lem><rdg source="bib:Stutterheim1938_03 bib:Sarkar1971-1972_01 bib:Boechari1985-1986_01">savantayan·</rdg><rdg>Corr. savantayan</rdg></app>
+	<app loc="1r9"><lem source="bib:Stutterheim1938_03 bib:Sarkar1971-1972_01 bib:Boechari1985-1986_01">vəhus·</lem></app>
+	<app loc="1r9"><lem>savanthayan·</lem><rdg source="bib:Stutterheim1938_03 bib:Sarkar1971-1972_01 bib:Boechari1985-1986_01">savantayan·</rdg></app>
 	<app loc="1r9"><lem>maguluṅa</lem><rdg source="bib:Boechari1985-1986_01">maṁguluṅa</rdg></app>
                </div>
                <div type="textpart">
                  <app loc="1v1"><lem source="bib:Stutterheim1938_03 bib:Sarkar1971-1972_01">saśīma</lem><rdg source="bib:Boechari1985-1986_01">sasīma</rdg></app>
-        <app loc="1v1"><lem>kady aṅtāniṁ</lem><rdg source="bib:Stutterheim1938_03 bib:Sarkar1971-1972_01 bib:Boechari1985-1986_01"> kady aṅgāniṁ</rdg><rdg>Corr. kady aṅganiṁ</rdg></app>
-	<app loc="1v2"><lem source="bib:Stutterheim1938_03 bib:Sarkar1971-1972_01 bib:Boechari1985-1986_01">garas·</lem><rdg>Corr. garam·</rdg></app>
+        <app loc="1v1"><lem>kady aṅtāniṁ</lem><rdg source="bib:Stutterheim1938_03 bib:Sarkar1971-1972_01 bib:Boechari1985-1986_01"> kady aṅgāniṁ</rdg></app>
+	<app loc="1v2"><lem source="bib:Stutterheim1938_03 bib:Sarkar1971-1972_01 bib:Boechari1985-1986_01">garas·</lem></app>
 	<app loc="1v2"><lem>lṅa</lem><rdg source="bib:Stutterheim1938_03 bib:Sarkar1971-1972_01 bib:Boechari1985-1986_01">lga</rdg><note>Cf. <ref target="DHARMA_INSIDENKAyamTeas_III.xml">Ayam Təas III</ref> (1v2)</note></app>
-	<app loc="1v4"><lem>bataṁ</lem><rdg source="bib:Stutterheim1938_03 bib:Sarkar1971-1972_01 bib:Boechari1985-1986_01">pataṁ</rdg><rdg>Corr. pataṁ</rdg></app>
+	<app loc="1v4"><lem>bataṁ</lem><rdg source="bib:Stutterheim1938_03 bib:Sarkar1971-1972_01 bib:Boechari1985-1986_01">pataṁ</rdg></app>
 	<app loc="1v5"><lem>ka<unclear>be</unclear>ḥ</lem><rdg source="bib:Stutterheim1938_03 bib:Sarkar1971-1972_01 bib:Boechari1985-1986_01"> kadoḥ</rdg><note>Cf. <ref target="DHARMA_INSIDENKAyamTeas_III.xml">Ayam Təas III</ref> (1v4)</note></app>
-	<app loc="1v5"><lem>rayav·</lem><rdg source="bib:Stutterheim1938_03 bib:Sarkar1971-1972_01 bib:Boechari1985-1986_01"> Ayav·</rdg><rdg>Corr. Ayam·</rdg></app>
+	<app loc="1v5"><lem>rayav·</lem><rdg source="bib:Stutterheim1938_03 bib:Sarkar1971-1972_01 bib:Boechari1985-1986_01"> Ayav·</rdg></app>
 	<app loc="1v5"><lem>3 tapa</lem><rdg source="bib:Stutterheim1938_03 bib:Sarkar1971-1972_01 bib:Boechari1985-1986_01">Atapa</rdg></app>
 	<app loc="1v5"><lem>kapuA</lem><rdg source="bib:Stutterheim1938_03 bib:Sarkar1971-1972_01 bib:Boechari1985-1986_01">kabuA</rdg></app>
 	<app loc="1v5-6"><lem source="bib:Boechari1985-1986_01">matuṅgalana</lem><rdg source="bib:Stutterheim1938_03 bib:Sarkar1971-1972_01">makuṅgalana</rdg></app>

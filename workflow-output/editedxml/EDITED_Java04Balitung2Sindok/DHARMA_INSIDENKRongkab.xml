@@ -92,8 +92,8 @@
             <head xml:lang="eng">Recto</head>
             <p><lb n="1r1"/> // svasti śaka-varṣătĭta 823 kă<supplied reason="omitted">r</supplied>tika-măsa, tithi daśamĭ sukla-pakṣa vā, va A văra śatabhiśa-nakṣatra bāru
 <lb n="1r2" break="no"/>na-daivatā hasa-yūga, tatkālanikanaṁ rāma I roṁkab· vinaiḥ mamuputta kaṭik· pră
-<lb n="1r3" break="no"/>ṇa ga de saṁ pamaggat· Umaṅgit· pu parvvatta, saṁkā ri nāśani vanvanya maṅaśa
-<lb n="1r4" break="no"/>Akkan· Ikanaṁ rāma pasak·-pasak· I saṁ pamaggat· pirak· kā 10  juru
+<lb n="1r3" break="no"/>ṇa ga de saṁ pamaggat· Umaṅgit· pu parvvatta, saṁkā ri nāśani vanvanya <choice><sic>maṅaśa
+<lb n="1r4" break="no"/>Akkan·</sic><corr>maṅasəAkan·</corr></choice> Ikanaṁ rāma pasak·-pasak· I saṁ pamaggat· pirak· kā 10  juru
 <lb n="1r5" break="no"/>ni kanayakān· saṁ tamvalaṁ Anak· vanva I kukap· vatak· pagar· vsi, Ata
 <lb n="1r6" break="no"/>ṇḍa pu pavī, juruniṁ la<supplied reason="omitted">m</supplied>puran· pu dhānada kapva Anak· vanva I turai, vatak· tu
 <lb n="1r7" break="no"/>rai, juruniṁ vadvā rarai pu gaṇḍaura Anak· vanva I sḍəḥ vatak· taṁkillan·
@@ -112,7 +112,7 @@
 <lb n="1v7" break="no"/>hati săkṣī saṁ pamaggat· vadihati pu ḍapit· Anak· vanva I pa<unclear>ṁ</unclear>ḍamuAn· vatak· vadihati Inasə
 <lb n="1v8" break="no"/>An· pasak·-pasak· pirak· dhāra 4 tuhān· miraḥ-miraḥ p<unclear>u</unclear> rayuṁ sanak· I miraḥ-miraḥ vatak· vadi<supplied reason="omitted">hati</supplied> ma<supplied reason="omitted">ṁ</supplied>
 <lb n="1v9" break="no"/>ra<supplied reason="omitted">ṁ</supplied>kappi saṁ halaran· pu dhānada Anak· vanva I paṇḍamuAn· vatak· vadihati kapva Ina<unclear>ṁ</unclear>səAn· pa
-<lb n="1v10" break="no"/>sak·-pasak· pirak· dhā 2 I sovaṁ-sova<unclear>ṁ</unclear> vahutta hya<unclear>ṁ</unclear> tu_mut· magunadosa sa<unclear>ṁ</unclear> siṅgaḥ vvaḥ pu ra
+<lb n="1v10" break="no"/>sak·-pasak· pirak· dhā 2 I sovaṁ-sova<unclear>ṁ</unclear> vahutta hya<unclear>ṁ</unclear> tu_mut· <choice><orig>magunadosa</orig><reg>maguṇadoṣa</reg></choice> sa<unclear>ṁ</unclear> siṅgaḥ vvaḥ pu ra
 <lb n="1v11" break="no"/>hula, Anak· vanva I miraḥ-miraḥ vatak· vadihati muAṁ sa<supplied reason="omitted">ṁ</supplied> habūn· Anak· vanva I turayun· vatak· si
 <lb n="1v12" break="no"/>garan· kapva InasəAn· pasak·-pasak· pirak· mā 7 I sova<unclear>ṁ</unclear>-sovaṁ karamān· saṁ hadyan· vahu
 <lb n="1v13" break="no"/><gap quantity="6" reason="lost" unit="character"/>tta hya<unclear>ṁ</unclear> makabaiḥhan· pirak· dhā 1 kinabaiḥhannira likhitta-patra pu ravi ◌◌◌</p>
@@ -124,7 +124,7 @@
 <app loc="1r2"><lem source="bib:BarrettJones1984_01 bib:TerryliaFeisrami2013_01">hasa-yūga</lem><rdg source="bib:Boechari1985-1986_01">hāsa-yūga</rdg></app>
 <app loc="1r3"><lem source="bib:BarrettJones1984_01 bib:TerryliaFeisrami2013_01">ga</lem><rdg source="bib:Boechari1985-1986_01">1</rdg><rdg>Corr. 1</rdg><note>The top stroke indicates this is ga though context demands that we read 1.</note></app>
 <app loc="1r3"><lem source="bib:Boechari1985-1986_01 bib:TerryliaFeisrami2013_01">parvvatta</lem><rdg source="bib:BarrettJones1984_01">parvatta</rdg></app>
-<app loc="1r3-4"><lem source="bib:BarrettJones1984_01 bib:Boechari1985-1986_01 bib:TerryliaFeisrami2013_01">maṅaśa-Akkan·</lem><rdg>Norm. maṅasəAkan·</rdg></app>
+<app loc="1r3-4"><lem source="bib:BarrettJones1984_01 bib:Boechari1985-1986_01 bib:TerryliaFeisrami2013_01">maṅaśa-Akkan·</lem></app>
 <app loc="1r4"><lem source="bib:TerryliaFeisrami2013_01">kā 10</lem><rdg source="bib:BarrettJones1984_01 bib:Boechari1985-1986_01">kā 1</rdg></app>
 <app loc="1r6"><lem source="bib:Boechari1985-1986_01 bib:TerryliaFeisrami2013_01">juruniṁ la<supplied reason="omitted">m</supplied>puran·</lem><rdg source="bib:BarrettJones1984_01">juruni laṁpuran·</rdg></app>
 <app loc="1r7"><lem source="bib:TerryliaFeisrami2013_01">juruniṁ vadvā</lem><rdg source="bib:BarrettJones1984_01">juruniṁ vadva</rdg><rdg source="bib:Boechari1985-1986_01">juruni vadvā</rdg></app>
@@ -150,7 +150,7 @@
 <app loc="1v8"><lem source="bib:BarrettJones1984_01 bib:Boechari1985-1986_01 bib:TerryliaFeisrami2013_01">vadi<supplied reason="omitted">hati</supplied></lem><note>Cf. above (1v7) and Damais (1970: 866-868), s.v. ‘mirah-mirah’.</note></app>
 <app loc="1v8-9"><lem source="bib:TerryliaFeisrami2013_01">ma<supplied reason="omitted">ṁ</supplied>rakappi</lem><rdg source="bib:BarrettJones1984_01">maṁraṁkappi</rdg><rdg source="bib:Boechari1985-1986_01">maṁrakappi </rdg></app>
 <app loc="1v9"><lem source="bib:Boechari1985-1986_01">Ina<unclear>ṁ</unclear>seAn·</lem><rdg source="bib:BarrettJones1984_01 bib:TerryliaFeisrami2013_01">InasəAn·</rdg> <note>Probably a misprint in Boechari of e for ə.I’d probably not even record such a variant reading or at least keep it hidden in a comment in my XML file.Thread kept as reminder</note></app>
-<app loc="1v10"><lem source="bib:Boechari1985-1986_01 bib:TerryliaFeisrami2013_01">magunadosa</lem><rdg source="bib:BarrettJones1984_01">maṅunadosa</rdg><rdg>Norm. maguṇadoṣa.</rdg></app>
+<app loc="1v10"><lem source="bib:Boechari1985-1986_01 bib:TerryliaFeisrami2013_01">magunadosa</lem><rdg source="bib:BarrettJones1984_01">maṅunadosa</rdg></app>
 <app loc="1v11"><lem source="bib:BarrettJones1984_01">sa<supplied reason="omitted">ṁ</supplied> habūn</lem><rdg source="bib:Boechari1985-1986_01 bib:TerryliaFeisrami2013_01">saṁ habūn</rdg></app>
 <app loc="1v12"><lem source="bib:BarrettJones1984_01 bib:TerryliaFeisrami2013_01">InasəAn·</lem><rdg source="bib:Boechari1985-1986_01">InaseAn·</rdg> <note>Probably a misprint in Boechari.</note></app>
 <app loc="1v12"><lem source="bib:Boechari1985-1986_01 bib:TerryliaFeisrami2013_01">mā 7 I</lem><rdg source="bib:BarrettJones1984_01">mā - na</rdg> <note>Barrett Jones did not read any numeral.</note></app>
