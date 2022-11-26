@@ -77,6 +77,7 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
+            <change who="part:argr" when="2022-11-26" status="draft">finished encoding the inscription</change>
             <change who="part:argr" when="2022-11-24" status="draft">started encoding the inscription</change>
         </revisionDesc>
     </teiHeader>
@@ -125,15 +126,44 @@ n="11" break="no"/>ji tiga-tiga yan· sira vənaṅa, <foreign xml:lang="san-Lat
                      <lem>kabe<unclear>ḥ</unclear></lem>
                      <rdg source="bib:Brandes1913_01">kubera</rdg>
  </app>
-
+<app loc="5">
+                     <lem>kiṅkāra</lem>
+                     <rdg source="bib:Brandes1913_01">tiṅkara</rdg>
+<note>A note indicates that Brandes did take into account the alternative reading <foreign>kiṅkara</foreign>.</note>
+ </app>
+<app loc="6">
+                     <lem>matmahana</lem>
+                     <rdg source="bib:Brandes1913_01">ma<unclear>tra</unclear> hana</rdg>
+ </app>
+<app loc="7">
+                     <lem>Amandi</lem>
+                     <rdg source="bib:Brandes1913_01">Amukti</rdg>
+ </app>
                   <app loc="7">
                      <lem>săkṣăt·</lem>
                      <rdg source="bib:Brandes1913_01">sakr̥t·</rdg>
 <note>The reading is ambiguous and, in the absence of other cases of <foreign>pasangan</foreign> <foreign>ṣ</foreign> or vowel marker <foreign>r̥</foreign> in this inscription, it is hard to exclude Brandes's reading. My choice is based mainly on the fact that the word <foreign>sākṣāt</foreign> is typical of this kind of context whereas the Sanskrit word <foreign>sakr̥t</foreign>, which Brandes thought he recognized, does not seem to have entered Old Javanese lexicon at all.</note>
                   </app>
-<!-- 11. The Sanskrit dative forms ending in <unclear>-āya</unclear> reconstructed here and in the following lines are all uncertain -->
-<!-- gunuṁ (mvaṁ sva)[rgga] (15) [ma]ṅkana ◇ Reconstruction very uncertain. Possible alternative: gunuṁ (svargga) [ma](15)ṅkana. Cf. Gilikan Xr7–8 kadi tguḥ saṁ hyaṁ guṇuṁ tahan· hana Umulaḥ-Ulaḥ sira maṅkana tguhanikeṁ lmaḥ savaḥ puṇya śrī maharāja sīmā bhaṭāra iṁ glam· and Agastyaparva 47.24–26 kadi hīrabajra pinakvakən riṅ vatu, kadi təguhnika, mvaṅ pisaniṅun ika molaha. maṅkana təguhnikaṅ manah mvaṅ pagəhnya. ri təlasnyan enaka pagəhnika pratiṣṭhānikaṅ manah riṅ antahṛdaya. -->
-               </listApp>
+<app loc="9">
+                     <lem>Irikāṁ</lem>
+                     <rdg source="bib:Brandes1913_01">ṅuri<gap reason="undefined" extent="unknown"/></rdg>
+ </app>
+<app loc="11">
+                     <lem>-mahābhūt<supplied reason="lost">āya</supplied></lem>
+                     <rdg source="bib:Brandes1913_01">-mahābhūta<gap reason="undefined" extent="unknown"/></rdg>
+<note>The Sanskrit dative forms ending in <unclear>-āya</unclear> reconstructed here and in the following lines are all uncertain, the <foreign>tarung</foreign> nowhere being evidently present/preserved.</note>
+ </app>
+<app loc="13">
+                     <lem>Indrādibhyo</lem>
+                     <rdg source="bib:Brandes1913_01">Indrādibyo</rdg>
+ </app>
+<app loc="14">
+                     <lem>katguḥhaniṁ gunuṁ <unclear cert="low">mvaṁ sva</unclear><supplied reason="lost">rgga</supplied>
+<lb n="15"/><supplied reason="lost">ma</supplied>ṅkana tguha<unclear>n</unclear>iṁ sĭma</lem>
+                     <rdg source="bib:Brandes1913_01">katguḥ<gap reason="undefined" extent="unknown"/><lb n="15"/><unclear>Ina</unclear>tguhana sima</rdg>
+<note>My reconstruction is quite uncertain. A possible alternative would be <foreign>gunuṁ <unclear>svargga</unclear> <supplied reason="lost">ma</supplied><lb n="15"/>ṅkana</foreign>. Cf. <ref target="DHARMA_INSIDENKGilikan.xml">Gilikan</ref> Xr7–8 <foreign>kadi tguḥ saṁ hyaṁ guṇuṁ tahan· hana Umulaḥ-Ulaḥ sira maṅkana tguhanikeṁ lmaḥ savaḥ puṇya śrī maharāja sīmā bhaṭāra iṁ glam·</foreign> and <title>Agastyaparva</title> 47.24–26 <foreign>kadi hīrabajra pinakvakən riṅ vatu, kadi təguhnika, mvaṅ pisaniṅun ika molaha, maṅkana təguhnikaṅ manah mvaṅ pagəhnya</foreign>.</note>
+ </app>
+         </listApp>
          </div>
          <div type="translation" resp="part:argr">
 	<p n="1"><gap reason="ellipsis"/> disturbed by the lords high ministers Hino, Halu <supplied reason="subaudible">and</supplied> Sirikan.</p>
