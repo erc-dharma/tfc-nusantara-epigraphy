@@ -35,7 +35,7 @@
                             https://creativecommons.org/licenses/by/4.0/ or send a letter to
                             Creative Commons, 444 Castro Street, Suite 900, Mountain View,
                             California, 94041, USA.</p>
-                  <p>Copyright (c) 2019-2025 by Arlo Griffiths.</p>
+                  <p>Copyright (c) 2019-2025 by Arlo Griffiths</p>
                </licence>
             </availability>
             <date from="2019" to="2025">2019-2025</date>
@@ -115,6 +115,7 @@
 <app loc="1">
                      <lem>raken·</lem>
                      <rdg source="bib:Brandes1913_01">ra<gap reason="undefined" extent="unknown"/></rdg>
+		<note>The spelling <foreign>raken</foreign> is a rare variant for <foreign>rakryān</foreign>.See <bibl><ptr target="bib:Damais1970_01"/><citedRange unit="page">273</citedRange><citedRange unit="note">2</citedRange></bibl>.</note>
                   </app>
 	    <app loc="1">
                      <lem>Alu sir<unclear>i</unclear>kān·, ku<unclear>naṁ</unclear></lem>
@@ -144,7 +145,7 @@
                   <app loc="7">
                      <lem>săkṣăt·</lem>
                      <rdg source="bib:Brandes1913_01">sakr̥t·</rdg>
-<note>The reading is ambiguous and, in the absence of other cases of <foreign>pasangan</foreign> <foreign>ṣ</foreign> or vowel marker <foreign>r̥</foreign> in this inscription, it is hard to exclude Brandes’s reading. My choice is based mainly on the fact that the word <foreign>sākṣāt</foreign> is typical of this kind of context whereas the Sanskrit word <foreign>sakr̥t</foreign>, which Brandes thought he recognized, does not seem to have entered Old Javanese lexicon at all.</note>
+<note>The reading is ambiguous and, in the absence of other cases of <foreign>pasangan</foreign> <foreign>ṣ</foreign> or vowel marker <foreign>r̥</foreign> in this inscription, it is hard to exclude Brandes’s reading. My choice is based mainly on the fact that the word <foreign>sākṣāt</foreign> is typical of this kind of context whereas the Sanskrit word <foreign>sakr̥t</foreign>, which Brandes thought he recognized, never seems to have entered Old Javanese lexicon at all.</note>
                   </app>
 <app loc="9">
                      <lem>Irikāṁ</lem>
@@ -177,7 +178,7 @@
          <div type="commentary">
             <p>Of this inscription engraved on a large stela, text remains on only one principal face, more particularly the end of the inscription which must have begun on the opposite principal face, it being unknown whether the lateral faces were ever engraved. The reconstructions at the beginnings and ends of several lines proposed here are in several cases somewhat tentative.
 </p>
-	<p>The inscription was considered by Boechari (<bibl rend="omitname"><ptr target="bib:Boechari1990_01"/></bibl>) to mention Airlangga with his <q>priestly title</q> but it seems unlikely that the inscription has any connection with Airlangga at all. Rather, it seems plausible that the <foreign>śrī pāduka mpuṅku </foreign> mentioned in the text as a manifestation of the divine Triad can, with reference to the <ref target="DHARMA_INSIDENKSukhamerta.xml">Sukhamerta charter</ref> (10r2–3, <foreign><gap reason="ellipsis"/> śrī mahārāja, Āpan sira prabhu devamūrtti, viriñjinărāyanaśaṅkarātmā, sākṣāt paśarīran· bhaṭāra tripuruṣa sira</foreign>), be interpreted as a posthumous reference to Kertarajasa (alias Raden Wijaya), the first ruler of Majapahit. Particularities of spelling, as well as palaeographic considerations, support the hypothesis that the inscription was engraved during the Majapahit period.</p>
+	<p>The inscription was considered by Boechari (<bibl rend="omitname"><ptr target="bib:Boechari1990_01"/></bibl>) to mention Airlangga with his <q>priestly title</q> but it seems unlikely that the inscription has any connection with Airlangga at all. Rather, it seems plausible that the <foreign>śrī pāduka mpuṅku </foreign> mentioned in the text as a manifestation of the divine Triad can, with reference to the <ref target="DHARMA_INSIDENKSukhamerta.xml">Sukhamerta charter</ref> (10r2–3, <foreign><gap reason="ellipsis"/> śrī mahārāja, Āpan sira prabhu devamūrtti, viriñjinărāyanaśaṅkarātmā, sākṣāt paśarīran· bhaṭāra tripuruṣa sira</foreign>), be interpreted as a posthumous reference to Kertarajasa (alias Raden Wijaya), the first ruler of Majapahit.<note>Cf. the way that <foreign>pāduka mpuṅku</foreign> is used for a deceased king referred to as Bhaṭāra Guru in the <ref target="DHARMA_INSIDENKSumengka.xml">Sumengka charter</ref>, line 3.</note> Particularities of spelling, as well as palaeographic considerations, support the hypothesis that the inscription was engraved during the Majapahit period.</p>
 <!-- Tripuruṣa: 
 OJR 24.2a Sāngsə̄ sang tiga devata Tripuruṣa pratyakṣa māvak katon,
 Several occurrences in Sutasoma, Koravāśrama, Tantri Kamandaka
