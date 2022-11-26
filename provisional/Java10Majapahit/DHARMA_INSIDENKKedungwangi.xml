@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>The Stela of Kedungwangi (Lawadan)</title>
+                <title>The Stela of Kedungwangi (Lawan)</title>
                 <respStmt>
                     <resp>EpiDoc Encoding</resp>
                     <persName ref="part:argr">
@@ -117,6 +117,7 @@ n="11" break="no"/>ji tiga-tiga yan· sira vənaṅa, Om̐ pañca-mahābhūt<sup
          </div>
          <div type="commentary">
             <p>Of this inscription engraved on a large stela, text remains on only one principal face, more particularly the end of the inscription which must have begun on the opposite principal face, it being unknown whether the lateral faces were ever engraved. The reconstructions at the beginnings and ends of several lines proposed here are in several cases somewhat tentative.</p>
+	<p>The inscription was considered by Bechari (<bibl rend="omitname"><ptr target="bib:Boechari1990_01"/></bibl>) to mention Airlangga with his <q>priestly title</q> but it seems unlikely that the inscription as any connection with Airlangga at all. Rather, it seems plausible that the <foreign>pāduka ppuṅku bhaṭāra</foreign> Tripuruṣa mentioned in the text can, with reference to the <ref target="DHARMA_INSIDENKSukhamerta.xml">Sukhamerta charter</ref> (10v2–3), be interpreted as a posthumous reference to Kertarajasa (alias Raden Wijaya), the first ruler of Majapahit.</p>
          </div>
         <div type="bibliography">
            <p>First edited by  Brandes (<bibl rend="omitname"><ptr target="bib:Brandes1913_01"/></bibl>); re-edited here by Arlo Griffiths based on an orthophoto extracted from a 3D-model. Brandes' edition, based on an estampage, left open gaps at the beginnings and ends of most lines.</p>
@@ -124,8 +125,12 @@ n="11" break="no"/>ji tiga-tiga yan· sira vənaṅa, Om̐ pañca-mahābhūt<sup
 	<bibl n="B"><ptr target="bib:Brandes1913_01"/><citedRange unit="page">247</citedRange><citedRange unit="item">113</citedRange></bibl>
 	</listBibl>
            <listBibl type="secondary">
-	<bibl>Verbeek 221</bibl>
-              <bibl>Rapp. 207</bibl>
+	<bibl><ptr target="bib:Verbeek1891_01"/><citedRange unit="page">221</citedRange><citedRange unit="item">434</citedRange></bibl>
+              <bibl><ptr target="bib:Knebel1907_02"/><citedRange unit="page">270</citedRange></bibl>
+	<bibl><ptr target="bib:ROD1915"/><citedRange unit="page">249</citedRange><citedRange unit="item">1825</citedRange></bibl>
+	<bibl><ptr target="bib:Boechari1990_01"/><citedRange unit="page">130</citedRange></bibl>
+<!-- Nini S., Diss., 2003: 490-1$Wibowo, 2001: 30. -->
+<!-- Abklat OB no. 537. -->
            </listBibl>
         </div>
       </body>
