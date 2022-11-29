@@ -14,18 +14,14 @@
                <resp>intellectual authorship of edition</resp>
                <!-- this may be the same as the creator of the file -->
                <persName ref="part:adgu">
-                  <persName>
-                     <name>Aditia Gunawan</name>
-                  </persName>
+                  <name>Aditia Gunawan</name>
                </persName>
             </respStmt>
             <respStmt>
                <resp>intellectual authorship of edition</resp>
                <persName ref="part:argr">
-                  <persName>
-                     <forename>Arlo</forename>
-                     <surname>Griffiths</surname>
-                  </persName>
+                  <forename>Arlo</forename>
+                  <surname>Griffiths</surname>
                </persName>
             </respStmt>
          </titleStmt>

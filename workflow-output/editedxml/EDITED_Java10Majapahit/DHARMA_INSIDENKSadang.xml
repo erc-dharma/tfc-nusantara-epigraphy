@@ -11,7 +11,13 @@
             <title>Sadang</title>
             <respStmt>
                <resp>EpiDoc encoding</resp>
-               <resp>Intellectual authorship of edition</resp>
+               <persName ref="part:masc">
+                  <forename>Marine</forename>
+                  <surname>Schoettel</surname>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>intellectual authorship of edition</resp>
                <persName ref="part:masc">
                   <forename>Marine</forename>
                   <surname>Schoettel</surname>

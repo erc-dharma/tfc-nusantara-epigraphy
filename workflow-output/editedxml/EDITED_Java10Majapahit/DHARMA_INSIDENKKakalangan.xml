@@ -11,6 +11,16 @@
             <title>Kakalangan</title>
             <respStmt>
                <resp>EpiDoc encoding</resp>
+               <persName ref="part:argr">
+                  <forename>Arlo</forename>
+                  <surname>Griffiths</surname>
+               </persName>
+               <persName ref="part:masc">
+                  <forename>Marine</forename>
+                  <surname>Schoettel</surname>
+               </persName>
+            </respStmt>
+            <respStmt>
                <resp>intellectual authorship of edition</resp>
                <persName ref="part:argr">
                   <forename>Arlo</forename>

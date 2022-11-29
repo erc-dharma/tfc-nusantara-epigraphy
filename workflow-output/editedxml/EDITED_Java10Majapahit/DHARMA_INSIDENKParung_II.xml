@@ -11,6 +11,12 @@
             <title>Parung II</title>
             <respStmt>
                <resp>EpiDoc encoding</resp>
+               <persName ref="part:masc">
+                  <forename>Marine</forename>
+                  <surname>Schoettel</surname>
+               </persName>
+            </respStmt>
+            <respStmt>
                <resp>intellectual authorship of edition</resp>
                <persName ref="part:masc">
                   <forename>Marine</forename>

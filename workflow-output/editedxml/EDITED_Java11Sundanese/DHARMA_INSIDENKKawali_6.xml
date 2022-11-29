@@ -14,9 +14,7 @@
                <resp>intellectual authorship of edition</resp>
                <!-- this may be the same as the creator of the file -->
                <persName ref="part:adgu">
-                  <persName>
-                     <name>Aditia Gunawan</name>
-                  </persName>
+                  <name>Aditia Gunawan</name>
                </persName>
             </respStmt>
          </titleStmt>

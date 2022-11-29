@@ -11,7 +11,13 @@
             <title>Marsmu</title>
             <respStmt>
                <resp>EpiDoc encoding</resp>
-               <resp>Intellectual authorship of the edition</resp>
+               <persName ref="part:argr">
+                  <forename>Arlo</forename>
+                  <surname>Griffiths</surname>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>intellectual authorship of edition</resp>
                <persName ref="part:argr">
                   <forename>Arlo</forename>
                   <surname>Griffiths</surname>

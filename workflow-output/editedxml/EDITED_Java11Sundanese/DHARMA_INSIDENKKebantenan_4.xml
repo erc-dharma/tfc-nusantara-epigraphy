@@ -10,19 +10,19 @@
          <titleStmt>
             <title>Kebantenan 4</title>
             <respStmt>
-               <resp>creation of the file</resp>
-               <resp>intellectual authorship of edition</resp>
+               <resp>EpiDoc encoding</resp>
                <persName ref="part:adgu">
                   <name>Aditia Gunawan</name>
                </persName>
             </respStmt>
             <respStmt>
                <resp>intellectual authorship of edition</resp>
+               <persName ref="part:adgu">
+                  <name>Aditia Gunawan</name>
+               </persName>
                <persName ref="part:argr">
-                  <persName>
-                     <forename>Arlo</forename>
-                     <surname>Griffiths</surname>
-                  </persName>
+                  <forename>Arlo</forename>
+                  <surname>Griffiths</surname>
                </persName>
             </respStmt>
          </titleStmt>

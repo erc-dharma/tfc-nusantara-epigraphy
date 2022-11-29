@@ -14,9 +14,7 @@
                <resp>intellectual authorship of edition</resp>
                <!-- this may be the same as the creator of the file -->
                <persName ref="part:ekba"><!-- update the id -->
-                  <persName>
-                     <name>Eko Bastiawan</name>
-                  </persName>
+                  <name>Eko Bastiawan</name>
                </persName>
             </respStmt>
          </titleStmt>

@@ -11,19 +11,19 @@
             <title>Huludayeuh</title>
             <!--Change the title of the file, e.g. Raktamālā grant of the time of Budhagupta, year 159-->
             <respStmt>
-               <resp>creation of the file</resp>
-               <resp>intellectual authorship of edition</resp>
+               <resp>EpiDoc encoding</resp>
                <persName ref="part:adgu">
                   <name>Aditia Gunawan</name>
                </persName>
             </respStmt>
             <respStmt>
                <resp>intellectual authorship of edition</resp>
+               <persName ref="part:adgu">
+                  <name>Aditia Gunawan</name>
+               </persName>
                <persName ref="part:argr">
-                  <persName>
-                     <forename>Arlo</forename>
-                     <surname>Griffiths</surname>
-                  </persName>
+                  <forename>Arlo</forename>
+                  <surname>Griffiths</surname>
                </persName>
             </respStmt>
          </titleStmt>

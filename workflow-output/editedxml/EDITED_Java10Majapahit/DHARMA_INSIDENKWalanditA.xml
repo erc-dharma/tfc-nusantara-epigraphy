@@ -10,8 +10,14 @@
          <titleStmt>
             <title>Walandit A</title>
             <respStmt>
-               <resp>Encoding of the file</resp>
-               <resp>Intellectual authorship of the edition</resp>
+               <resp>EpiDoc encoding</resp>
+               <persName ref="part:masc">
+                  <forename>Marine</forename>
+                  <surname>Schoettel</surname>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>intellectual authorship of edition</resp>
                <persName ref="part:masc">
                   <forename>Marine</forename>
                   <surname>Schoettel</surname>
