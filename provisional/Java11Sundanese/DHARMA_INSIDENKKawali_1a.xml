@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
@@ -9,22 +9,24 @@
       <fileDesc>
          <titleStmt>
             <title>Kawali I (a)</title>
-            <respStmt>
-               <resp>EpiDoc encoding</resp>
-               <resp>intellectual authorship of edition</resp>
-               <persName ref="part:adgu">
-                  <name>Aditia Gunawan</name>
-               </persName>
-            </respStmt>
-            <respStmt>
-               <resp>intellectual authorship of edition</resp>
-               <persName ref="part:argr">
-                  <persName>
-                     <forename>Arlo</forename>
-                     <surname>Griffiths</surname>
-                  </persName>
-               </persName>
-            </respStmt>
+             <respStmt>
+                 <resp>EpiDoc encoding</resp>
+                 <persName ref="part:adgu">
+                     <name>Aditia Gunawan</name>
+                 </persName>
+             </respStmt>
+             <respStmt>
+                 <resp>intellectual authorship of edition</resp>
+                 <persName ref="part:adgu">
+                     <name>Aditia Gunawan</name>
+                 </persName>      
+                 <persName ref="part:argr">
+                     <persName>
+                         <forename>Arlo</forename>
+                         <surname>Griffiths</surname>
+                     </persName>
+                 </persName>
+             </respStmt>
          </titleStmt>
          <publicationStmt>
             <authority>DHARMA</authority>

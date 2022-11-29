@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
@@ -10,18 +10,28 @@
             <titleStmt>
                 <title>Foundation Charter of the Dalinan Monastery (villages Wukajana, Tumpak &amp; Vuru Tlu), 825 Śaka</title>
             	<respStmt>
-            		<resp>EpiDoc Encoding</resp>
+            		<resp>EpiDoc encoding</resp>
+            		<persName ref="part:argr">
+            			<forename>Arlo</forename>
+            			<surname>Griffiths</surname>
+            		</persName>
+            		<persName ref="part:wjsa">
+            			<forename>Wayan</forename>
+            			<forename>Jarrah</forename>
+            			<surname>Sastrawan</surname>
+            		</persName>            	</respStmt>
+            	<respStmt>
             		<resp>intellectual authorship of edition</resp>
             		<persName ref="part:argr">
             			<forename>Arlo</forename>
             			<surname>Griffiths</surname>
             		</persName>
-                <persName ref="part:wjsa">
+            		<persName ref="part:wjsa">
             			<forename>Wayan</forename>
-                  <forename>Jarrah</forename>
+            			<forename>Jarrah</forename>
             			<surname>Sastrawan</surname>
             		</persName>
-            	</respStmt>
+            	</respStmt>     
             </titleStmt>
         	<publicationStmt>
         		<authority>DHARMA</authority>

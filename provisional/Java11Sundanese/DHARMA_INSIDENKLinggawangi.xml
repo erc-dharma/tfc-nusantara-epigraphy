@@ -1,25 +1,27 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>Linggawangi</title>
-            <respStmt>
-               <resp>creation of the file</resp>
-               <resp>intellectual authorship of edition</resp>
-               <persName ref="part:agdu">
-                  <name>Aditia Gunawan</name>
-               </persName>
-            </respStmt>
-            <respStmt>
-               <resp>intellectual authorship of edition</resp>
-               <persName ref="part:argr">
-                  <persName>
-                     <forename>Arlo</forename>
-                     <surname>Griffiths</surname>
-                  </persName>
-               </persName>
-            </respStmt>
+             <respStmt>
+                 <resp>EpiDoc encoding</resp>
+                 <persName ref="part:adgu">
+                     <name>Aditia Gunawan</name>
+                 </persName>
+             </respStmt>
+             <respStmt>
+                 <resp>intellectual authorship of edition</resp>
+                 <persName ref="part:adgu">
+                     <name>Aditia Gunawan</name>
+                 </persName>      
+                 <persName ref="part:argr">
+                     <persName>
+                         <forename>Arlo</forename>
+                         <surname>Griffiths</surname>
+                     </persName>
+                 </persName>
+             </respStmt>
          </titleStmt>
          <publicationStmt>
             <authority>DHARMA</authority>
