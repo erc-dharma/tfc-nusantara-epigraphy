@@ -138,11 +138,12 @@
                  <div type="bibliography">
 <p>Previously edited by Brandes in OJO, no. 27 [siglum B].</p>
                     <listBibl type="primary">
-                       <bibl>Rouffaer, NBG, 1909, p. LXXX.</bibl>
+                    <bibl><ptr target="bib:Rouffaer1909_02"/><citedRange unit="page">LXXX</citedRange></bibl>
                     <bibl>Rapp., 1911, p. 59</bibl>
                     <bibl>OJO‚ p. 25, no. 27</bibl>
-                    <bibl>Catalogus Groeneveldt, p. 388</bibl>
-                    <bibl>Verbeek, Oudheden, p. 8; OJO‚ p. 35</bibl>
+                    <bibl><ptr target="bib:Groeneveldt1887_01"/><citedRange unit="page">388</citedRange></bibl>
+                    <bibl><ptr target="bib:Verbeek1891_01"/><citedRange unit="page">8</citedRange></bibl> 
+                    <bibl>OJO‚ p. 35</bibl>
                     </listBibl>
                  </div>
 

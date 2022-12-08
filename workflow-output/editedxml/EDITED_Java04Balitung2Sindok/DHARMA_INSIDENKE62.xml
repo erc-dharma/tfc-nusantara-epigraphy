@@ -105,7 +105,7 @@
 	<app loc="1v3"><lem>mataIla</lem><rdg source="bib:Bosch1925_01">matu Iṁ</rdg><rdg source="bib:Boechari1985-1986_01">maḍu Iṁ</rdg><note>Likely derived from <foreign>tahil</foreign></note></app>
 	<app loc="1v4"><lem>tluṁ tuhān·</lem><rdg source="bib:Bosch1925_01"><gap reason="lost" quantity="1" unit="character"/> tuhān·</rdg><rdg source="bib:Boechari1985-1986_01">satuhan</rdg></app>
 	<app loc="1v5"><lem source="bib:Boechari1985-1986_01">Iṁ satuhān</lem>  <rdg source="bib:Bosch1925_01">Iṁ su tuhān</rdg> </app>
-	<app loc="1v6"><note>This whole line is omitted from <ptr target="bib:Boechari1985-1986_01"/></note></app>
+	<app loc="1v6"><lem><gap reason="lost" quantity="1" unit="character"/>l· kalīma bakul· I satuhān· <gap reason="lost" quantity="2" unit="character"/> kapuA <gap reason="lost" quantity="5" unit="character"/> sasīma <gap reason="lost" quantity="3" unit="character"/></lem><note>This whole line is omitted from <ptr target="bib:Boechari1985-1986_01"/></note></app>
 <app loc="1v6"><lem>kalīma bakul·</lem> <rdg source="bib:Bosch1925_01"><gap reason="lost" quantity="1" unit="character"/> līma bakal·</rdg></app>
 <app loc="1v6"><lem>satuhān</lem> <rdg source="bib:Bosch1925_01"><gap reason="lost" quantity="1" unit="character"/> tuhan</rdg></app>
 <app loc="1v7"><lem>tluṁ</lem> <rdg source="bib:Bosch1925_01"><gap reason="lost" quantity="1" unit="character"/></rdg><rdg source="bib:Boechari1985-1986_01">ndu</rdg></app>
