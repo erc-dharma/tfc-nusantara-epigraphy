@@ -18,7 +18,7 @@
             </respStmt>
             <respStmt>
                <resp>intellectual authorship of edition</resp>
-               <persName ref="">
+               <persName ref="http://viaf.org/viaf/61590117">
                   <forename>Louis-Charles</forename>
                   <surname>Damais</surname>
                </persName>
@@ -91,7 +91,7 @@
                        <div type="apparatus"/>                  
               <div type="bibliography">
                  <listBibl type="primary">
-                    <bibl>
+                    <bibl n="D">
                        <ptr target="bib:Damais1955_01"/>
                        <citedRange>117–118</citedRange>
                        <citedRange>A. 65</citedRange>

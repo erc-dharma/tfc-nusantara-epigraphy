@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?> <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?> <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?> <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?> <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
    <teiHeader>
       <fileDesc>
@@ -133,11 +133,12 @@
                  <div type="bibliography">
 <p>Previously edited by Brandes in OJO, no. 27 [siglum B].</p>
                     <listBibl type="primary">
-                       <bibl>Rouffaer, NBG, 1909, p. LXXX.</bibl>
+                    <bibl><ptr target="bib:Rouffaer1909_02"/><citedRange unit="page">LXXX</citedRange></bibl>
                     <bibl>Rapp., 1911, p. 59</bibl>
                     <bibl>OJO‚ p. 25, no. 27</bibl>
-                    <bibl>Catalogus Groeneveldt, p. 388</bibl>
-                    <bibl>Verbeek, Oudheden, p. 8 ; OJO‚ p. 35</bibl>
+                    <bibl><ptr target="bib:Groeneveldt1887_01"/><citedRange unit="page">388</citedRange></bibl>
+                    <bibl><ptr target="bib:Verbeek1891_01"/><citedRange unit="page">8</citedRange></bibl> 
+                    <bibl>OJO‚ p. 35</bibl>
                     </listBibl>
                  </div>
 
