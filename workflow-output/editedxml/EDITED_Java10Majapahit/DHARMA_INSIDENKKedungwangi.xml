@@ -190,7 +190,7 @@ Agastyaparva
         <div type="bibliography">
            <p>First edited by  Brandes (<bibl rend="omitname"><ptr target="bib:Brandes1913_01"/></bibl>); re-edited here by Arlo Griffiths based on an orthophoto extracted from a 3D-model. Brandes’ edition, based on an estampage, left open gaps at the beginnings and ends of most lines. Variant readings which only concern gaps in Brandes’ text being filled are not recorded in my apparatus.</p>
         	<listBibl type="primary">
-	<bibl n="B"><ptr target="bib:Brandes1913_01"/><citedRange unit="page">247</citedRange><citedRange unit="item">113</citedRange></bibl>
+	<bibl n="B"><ptr target="bib:Brandes1913_01"/><citedRange unit="page">247</citedRange><citedRange unit="item">CXIII</citedRange></bibl>
 	</listBibl>
            <listBibl type="secondary">
 	<bibl><ptr target="bib:Verbeek1891_01"/><citedRange unit="page">221</citedRange><citedRange unit="item">434</citedRange></bibl>
