@@ -236,7 +236,9 @@ n="38" break="no"/><gap reason="illegible" unit="character" quantity="5"/> <uncl
 <bibl><ptr target="bib:Kern1915_01"/></bibl>
 <bibl><ptr target="bib:Krom1917_02"/></bibl>
 <bibl><ptr target="bib:Krom1931_01"/><citedRange>201-203</citedRange></bibl>
-<!-- See BEFEO 45 (1951), pp. 28–29 ; Ibid 46 (1952), p. 56 f.n. 1. -->
+<bibl><ptr target="bib:Damais1951_01"/><citedRange unit="page">28-29</citedRange></bibl>
+<bibl><ptr target="bib:Damais1952_01"/><citedRange unit="page">56-57</citedRange><citedRange unit="part">A</citedRange><citedRange unit="item">106</citedRange></bibl>
+ <bibl><ptr target="bib:Damais1955_01"/><citedRange unit="page">102-103</citedRange></bibl>
            </listBibl>
         </div>
       </body>
