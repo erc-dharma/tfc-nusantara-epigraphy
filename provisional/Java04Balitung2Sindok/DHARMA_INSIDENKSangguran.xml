@@ -90,6 +90,7 @@
 	<text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="kaw-Latn">
+<div type="textpart" subtype="zone" n="1"><head xml:lang="eng">Originally planned layout</head>
 <ab><milestone type="pagelike" unit="face" n="A"/><label>Front</label><!-- §5.4. --><lb n="A1"/><unclear>|| 0 || Avighnam astu ||</unclear></ab>
 
 <lg met="āryā" n="1">
@@ -99,70 +100,83 @@
 <p><lb n="A3"/>// svasti śaka-varṣātīta <num value="850">850</num> śravaṇa-māsa tithi caturdaśi śukla-pakṣa, <abbr>vu</abbr>‚ <abbr>ka</abbr>‚ <abbr>śa</abbr>‚ vāra‚ hastā-nakṣatra, viṣṇu-devatā‚ sobhāgya<lb n="A4" break="no"/>-<unclear>yo</unclear>ga,</p> 
 
 <p>Irikā divasani Ājnă śrī mahārāja, rakai paṅkaja dyaḥ vava śrī vijayalokanāmo<choice><sic>s</sic><corr>t</corr></choice>tuṅga, tinaḍaḥ rakryān·<!-- B S read "," here but it's probably just a sratch --> mapatiḥ I hino <unclear>pu si</unclear><lb 
-n="5" break="no"/><unclear>ṇḍo</unclear>k· śrī Īśānavikrama, Umiṅsor· I samgat· momah-umaḥ kāliḥ maḍaṇḍər· pu padma‚ Aṅgəhan· pu kuṇḍala, kumonakan· Ikanaṁ va<lb 
-n="6" break="no"/><unclear>nu</unclear>A I saṁ<space type="defect"/>guran· vatək· vaharu‚ gavai <abbr>ma</abbr> <num value="2">2</num> p<choice><sic>u</sic><corr>a</corr></choice>ṅguhan· tapak· mas· <abbr>su</abbr> <num value="6">6</num> sīmān· susukan· denīkanaṁ punta I manañjuṁ maṅaran· ḍaṅ ācāryya <unclear>ḍa</unclear><lb 
-n="7" break="no"/><gap reason="illegible" unit="character" quantity="1"/>li<unclear>ci</unclear>khya‚ muAṁ manahil· <space type="other" unit="character" quantity="3"/> śyaṅgudī, səpət·, ḍa pu jambaṁ, kəsək·, ḍa pu bhairava, basya‚ lukiṁ‚ bhaṇḍa‚ tamblaṁ, haḍaṁ‚ cigər·‚ ḍa pu ruyut·
+n="A5" break="no"/><unclear>ṇḍo</unclear>k· śrī Īśānavikrama, Umiṅsor· I samgat· momah-umaḥ kāliḥ maḍaṇḍər· pu padma‚ Aṅgəhan· pu kuṇḍala, kumonakan· Ikanaṁ va<lb 
+n="A6" break="no"/><unclear>nu</unclear>A I saṁ<space type="defect"/>guran· vatək· vaharu‚ gavai <abbr>ma</abbr> <num value="2">2</num> p<choice><sic>u</sic><corr>a</corr></choice>ṅguhan· tapak· mas· <abbr>su</abbr> <num value="6">6</num> sīmān· susukan· denīkanaṁ punta I manañjuṁ maṅaran· ḍaṅ ācāryya <unclear>ḍa</unclear><lb 
+n="A7" break="no"/><gap reason="illegible" unit="character" quantity="1"/>li<unclear>ci</unclear>khya‚ muAṁ manahil· <space type="other" unit="character" quantity="3"/> śyaṅgudī, səpət·, ḍa pu jambaṁ, kəsək·, ḍa pu bhairava, basya‚ lukiṁ‚ bhaṇḍa‚ tamblaṁ, haḍaṁ‚ cigər·‚ ḍa pu ruyut·
 <lb n="A8"/>vilaṁ keñja, durdig·, suji sugas·, Arpaṇākna I bhaṭāra I saṁ hyaṁ prasāda kabha<space type="other" unit="character" quantity="2"/>ktyan· Iṁ sīma kajuru-gusalyan· I manañjuṁ, paknānya sīma punpuna<lb 
-n="9" break="no"/>na bhaṭāra, Umahayva Asiṁ samananā I saṁ hyaṁ dharmma <space type="defect"/> saṅkānaniṁ śiva-caru-nivedya I bhaṭāra prātidina, maṅkana Iṣṭa-<space type="descender"/>prayojana śrī mahā<lb 
-n="10" break="no"/>rāja muAṁ rakryān· mapatiḥ rikanaṁ vanuA I saṅguran· Inarpaṇnākan· I bhaṭāra I saṁ hyaṁ prāsāda kabhaktyan· Iṁ sīma kajuru-gusalyan· I manañjuṁ
+n="A9" break="no"/>na bhaṭāra, Umahayva Asiṁ samananā I saṁ hyaṁ dharmma <space type="defect"/> saṅkānaniṁ śiva-caru-nivedya I bhaṭāra prātidina, maṅkana Iṣṭa-<space type="descender"/>prayojana śrī mahā<lb 
+n="A10" break="no"/>rāja muAṁ rakryān· mapatiḥ rikanaṁ vanuA I saṅguran· Inarpaṇnākan· I bhaṭāra I saṁ hyaṁ prāsāda kabhaktyan· Iṁ sīma kajuru-gusalyan· I manañjuṁ
 <lb n="A11"/>māri <!-- supply vatak·? --> vaharu parṇnahanya svatantra tan· katamāna deniṁ patiḥ va<space type="defect"/>huta muAṁ saprakāraniṁ maṅilala drabya haji Iṁ daṅū‚ miśra para-miśra vulu-vulu 
 <lb n="A12"/>prakāra, paṅuraṁ<unclear>,</unclear> kriṁ, paḍam·, manimpiki, paranakan·, limus galuḥ‚ paṅa<unclear>ru</unclear>han·, taji‚ vatu tajam·‚ sukun·‚ halu varak·‚ rakadut·<supplied reason="omitted">,</supplied>
 <lb n="A13"/>pinilai, kataṅgaran·, tapa haji, Air haji, malandaṁ, L̥ca, L̥blab·‚ kalaṁkaṁ, kutak·‚ taṅkil·, tr̥pan·, salvit·‚ tuha dagaṁ, juru gusali‚
 <lb n="A14"/>tuhān <supplied reason="omitted">n</supplied>ambi, tuhān huñjaman·, tuhān juḍi‚ juru jalir·, pamaṇikan·, miśra hino‚ vli hapū, vli vaduṁ‚ vli tambaṁ‚ vli pañjut·‚ vli haR̥ṁ‚ pabisar·‚ palamak·<supplied reason="omitted">,</supplied>
 <lb n="A15"/>pakaluṅkuṁ, Urutan·, dampulan·, tpuṁ kavuṁ‚ suṁsuṁ paṅuraṁ‚ pasuk alas·, payuṅan·, sipat·, vilut·, pāṅin-aṅin·, pamāvaśya, puluṁ pa<lb 
-n="16" break="no"/>ḍi, skar ta<space type="descender"/>hun·‚ panrāṅan·, panusuḥ, hopan·‚ sambal· sumbul· hulun· haji pamr̥<space type="defect"/>ṣi vatak· I jro, Ityaivamādi tan tamā Irikanaṁ va<lb 
-n="17" break="no"/>nuA, sīma I saṁguran·, kevalā bhaṭāra I saṁ hyaṁ prāsāda kabhaktyān· Iṁ sīma kajuru-gusalyān· I manañjuṁ Ataḥ pramāṇā I sadr̥bya-hajinya kabaiḥ<supplied reason="omitted">,</supplied>
+n="A16" break="no"/>ḍi, skar ta<space type="descender"/>hun·‚ panrāṅan·, panusuḥ, hopan·‚ sambal· sumbul· hulun· haji pamr̥<space type="defect"/>ṣi vatak· I jro, Ityaivamādi tan tamā Irikanaṁ va<lb 
+n="A17" break="no"/>nuA, sīma I saṁguran·, kevalā bhaṭāra I saṁ hyaṁ prāsāda kabhaktyān· Iṁ sīma kajuru-gusalyān· I manañjuṁ Ataḥ pramāṇā I sadr̥bya-hajinya kabaiḥ<supplied reason="omitted">,</supplied>
 <lb n="A18"/>samaṅkana <space type="other" unit="character" quantity="3"/> Ikanaṁ sukha-duḥkha kady āṅgāniṁ mayaṁ tan· pavvaḥ‚ valū rumambat· Iṁ natar·‚ vipa<space type="descender"/>ti vaṅkai kābunān·, rāḥ kasavur· Iṁ da<lb 
-n="19" break="no"/>lan·, văk·capalā‚ duhilatan·, hidu kasirat·, hastacapalā<supplied reason="omitted">,</supplied> mami<space type="descender"/>jilakan· turaḥniṁ kikir·‚ mamūk·<supplied reason="omitted">,</supplied> mamumpaṁ, ludān·‚ tūta<lb 
-n="20" break="no"/>n·, ḍaṇḍa kuḍaṇḍa<supplied reason="omitted">,</supplied> bhaṇḍihalādi, bhaṭāra I saṁ hyaṁ prāsāda kabhaktyān· Ataḥ parānani drabya-hajinya, kūnaṁ Ikanaṁ miśra‚ mañambul·<supplied reason="omitted">,</supplied>
+n="A19" break="no"/>lan·, văk·capalā‚ duhilatan·, hidu kasirat·, hastacapalā<supplied reason="omitted">,</supplied> mami<space type="descender"/>jilakan· turaḥniṁ kikir·‚ mamūk·<supplied reason="omitted">,</supplied> mamumpaṁ, ludān·‚ tūta<lb 
+n="A20" break="no"/>n·, ḍaṇḍa kuḍaṇḍa<supplied reason="omitted">,</supplied> bhaṇḍihalādi, bhaṭāra I saṁ hyaṁ prāsāda kabhaktyān· Ataḥ parānani drabya-hajinya, kūnaṁ Ikanaṁ miśra‚ mañambul·<supplied reason="omitted">,</supplied>
 <lb n="A21"/>mañaṁvriṁ maṁlākha, maṅubar·‚ matarub·‚ maṅapus·‚ manūla vu<space type="defect"/>ṅkuḍu‚ maṁgula‚ maṁdyun·‚ maṁhapū‚ mamubut·‚ maṁluruṁ‚ maga<space type="descender"/>vai
 <lb n="A22"/>ruṅki, payuṁ vlū, mopiḥ‚ Akajaṁ, magavai <space type="defect"/> kī<space type="defect"/>sī<supplied reason="omitted">,</supplied> maṅanam-a<space type="descender"/>nam·, manavaṁ, manahəb·, mamisaṇḍuṁ manuk·‚ makala-kalā
 <lb n="A23"/>kapva ya tribhāgā<space type="descender"/>n· dra<unclear>b</unclear>ya-hajinya, sadūmān· Umarā <space type="defect"/> I bha<space type="defect"/>ṭāra, sadūman· Umarā I saṁ makmitan· sīma, sadūman maparaha I saṁ maṅilala drabya haji,
 <lb n="A24"/>kapva Ikanaṁ masambyavahāra hana ṅkāna hiniṁ-hīṅan· kv<unclear>ai</unclear>hanya Anuṁ tan· knā de saṁ maṅilala drabya ha<space type="descender"/>ji‚ tluṁ tuhān· Iṁ sasambyavahāra Iṁ sasī<lb 
-n="25" break="no"/>ma, yan paṅulaṁ kbo <num value="20">20</num> sapi <num value="40">40</num> vḍus· <num value="80">80</num> Aṇḍaḥ savantayan·‚ maguluṅan· tluṁ pasaṁ, maṅaraḥ tluṁ lumpaṁ‚ paṇḍai sobuba<space type="descender"/>n·‚ paḍahi tluṁ taṁ<lb 
-n="26" break="no"/>kilan·‚ matitiḥ sakulit·, Uṇḍahagi satuhān·, macadar pataṁ pacadaran·, pa<space type="defect"/>rahu <num value="1">1</num> masuṁhara <num value="3">3</num> tan patuṇḍāna, 
+n="A25" break="no"/>ma, yan paṅulaṁ kbo <num value="20">20</num> sapi <num value="40">40</num> vḍus· <num value="80">80</num> Aṇḍaḥ savantayan·‚ maguluṅan· tluṁ pasaṁ, maṅaraḥ tluṁ lumpaṁ‚ paṇḍai sobuba<space type="descender"/>n·‚ paḍahi tluṁ taṁ<lb 
+n="A26" break="no"/>kilan·‚ matitiḥ sakulit·, Uṇḍahagi satuhān·, macadar pataṁ pacadaran·, pa<space type="defect"/>rahu <num value="1">1</num> masuṁhara <num value="3">3</num> tan patuṇḍāna, 
 yāpvan pinikul· dagaṁnya ka<lb 
-n="27" break="no"/>dy a<unclear>ṅgā</unclear>niṁ mabasana, ma<unclear>sayaṁ</unclear>, makacapuri, maṅuñjal·, maṅavari, kapas·‚ vuṅku<unclear>d</unclear>u, vsi, tambaga‚ gaṁsa‚ timaḥ, paḍat·, pamaja, vuyaḥ‚ lṅa‚ bras·, gu<unclear>la</unclear><supplied reason="omitted">,</supplied>
+n="A27" break="no"/>dy a<unclear>ṅgā</unclear>niṁ mabasana, ma<unclear>sayaṁ</unclear>, makacapuri, maṅuñjal·, maṅavari, kapas·‚ vuṅku<unclear>d</unclear>u, vsi, tambaga‚ gaṁsa‚ timaḥ, paḍat·, pamaja, vuyaḥ‚ lṅa‚ bras·, gu<unclear>la</unclear><supplied reason="omitted">,</supplied>
 <lb n="A28"/>bsar·‚ kasumba, saprakāraniṁ dval· pinikul· kalima vantal· Iṁ satuhān· pikul-pikulananya Iṁ sasīma <space type="defect"/> <unclear>I</unclear>kanaṁ samaṅkana tan· knāna de saṁ maṅila<lb 
-n="29" break="no"/>la drabya haji, saparānanya sadeśanya, ndān· makmitana ya tulis· maṅkai lvīranya‚ yāpvan· lbiḥ saṅkā rikanaṁ sapaṁhīṁ Iriya‚ knāna <choice><orig>ś</orig><reg>s</reg></choice>akalbiḥnya de saṁ maṅilala
+n="A29" break="no"/>la drabya haji, saparānanya sadeśanya, ndān· makmitana ya tulis· maṅkai lvīranya‚ yāpvan· lbiḥ saṅkā rikanaṁ sapaṁhīṁ Iriya‚ knāna <choice><orig>ś</orig><reg>s</reg></choice>akalbiḥnya de saṁ maṅilala
 <lb n="A30"/>so<unclear>dhā</unclear>ra haji tan· <unclear>A</unclear><space type="defect"/>dhikāna, Irikanaṁ kāla maṅasəĀkan· Ikanaṁ punta I manañjuṁ pasak·-pasak· I śrī mahārāja pirak· <abbr>kā</abbr> <num value="1">1</num> vḍihan· ta<lb 
-n="31" break="no"/>pis· <abbr>yu</abbr> <num value="1">1</num> rakryān· mapatiḥ I hino śrī Īśānavikrama InaṁsəĀn· <unclear>pasak-pa</unclear>sak· pirak· <abbr>kā</abbr> <num value="1">1</num> vḍihan· tapis· <abbr>yu</abbr> <num value="1">1</num> <unclear>ra</unclear>kai sirikan· pu marai<lb 
-n="32" break="no"/>ndra, rakai vka pu balyaṁ, samgat· momah-<unclear>u</unclear>maḥ kāliḥ maḍaṇdər·, Aṅgəhan· InaṁsəĀn· pasak-pasak· pirak· <abbr>dhā</abbr> <num value="5">5</num> vḍihan· <abbr>yu</abbr> <num value="1">1</num> sovaṁ-sovaṁ
+n="A31" break="no"/>pis· <abbr>yu</abbr> <num value="1">1</num> rakryān· mapatiḥ I hino śrī Īśānavikrama InaṁsəĀn· <unclear>pasak-pa</unclear>sak· pirak· <abbr>kā</abbr> <num value="1">1</num> vḍihan· tapis· <abbr>yu</abbr> <num value="1">1</num> <unclear>ra</unclear>kai sirikan· pu marai<lb 
+n="A32" break="no"/>ndra, rakai vka pu balyaṁ, samgat· momah-<unclear>u</unclear>maḥ kāliḥ maḍaṇdər·, Aṅgəhan· InaṁsəĀn· pasak-pasak· pirak· <abbr>dhā</abbr> <num value="5">5</num> vḍihan· <abbr>yu</abbr> <num value="1">1</num> sovaṁ-sovaṁ
 <lb n="A33"/>tiruAn· ḍa punta taritip·, Amrāti havaṁ vicakṣaṇa, pulu vatu pu paṇḍamuAn·‚ halaran· pu guṇottama, maṁhuri pu maṅuvil·, vadihati
 <lb n="A34"/>pu dinakara‚ makudur· pu balavān·, InaṁsəĀn· pasak-pasak· pirak· <abbr>dhā</abbr> <num value="1">1</num> <abbr>mā</abbr> <num value="4">4</num> vḍihan· <abbr>yu</abbr> <num value="1">1</num> sovaṁ, vaharu rikaṁ kālaṁ pu variga Inaṁsə<lb 
-n="35" break="no"/>Ān· pasak-pasak· pirak· <abbr>dhā</abbr> <num value="1"><unclear>1</unclear></num> <supplied reason="omitted"><abbr>ma</abbr></supplied> <num value="4">4</num> vḍihan· <abbr><unclear>y</unclear>u</abbr> <num value="1">1</num> samgat· Anakbi <abbr>dhā</abbr> <num value="7">7</num> <abbr>mā</abbr> <num value="8">8</num> kain· vlaḥ <num value="1">1</num><supplied reason="omitted">,</supplied> saṁ tuhān· I vaharu vinaiḥ pasak-pasak·
-<lb n="A36"/>pirak· <abbr>dhā</abbr> <num value="6">6</num> kinabai<unclear>ḥ</unclear>hanira, tuhān· I vadihati <unclear reason="eccentric_ductus">pu</unclear> mira-miraḥ saṁ halaṁ pahu<unclear>ṁ</unclear>, halara<space type="descender"/>n· saṁ suddhyā<unclear>sth</unclear>a<unclear>,</unclear> <unclear>tu</unclear>hān· I makudur· <unclear reason="eccentric_ductus">pu</unclear> vatu
+n="A35" break="no"/>Ān· pasak-pasak· pirak· <abbr>dhā</abbr> <num value="1"><unclear>1</unclear></num> <supplied reason="omitted"><abbr>ma</abbr></supplied> <num value="4">4</num> vḍihan· <abbr><unclear>y</unclear>u</abbr> <num value="1">1</num> samgat· Anakbi <abbr>dhā</abbr> <num value="7">7</num> <abbr>mā</abbr> <num value="8">8</num> kain· vlaḥ <num value="1">1</num><supplied reason="omitted">,</supplied> saṁ tuhān· I vaharu vinaiḥ pasak-pasak·
+<lb n="A36"/>pirak· <abbr>dhā</abbr> <num value="6">6</num> kinabai<unclear>ḥ</unclear>hanira, tuhān· I vadihati <num value="2">2</num> mira-miraḥ saṁ halaṁ pahu<unclear>ṁ</unclear>, halara<space type="descender"/>n· saṁ suddhyā<unclear>sth</unclear>a<unclear>,</unclear> <unclear>tu</unclear>hān· I makudur· <num value="2">2</num> vatu
 <lb n="A37"/>valaiṁ saṁ <choice><unclear>bhū</unclear><unclear>ra</unclear></choice>te, <gap reason="illegible" unit="character" quantity="2"/> saṁ vari<space type="descender"/>ṅin·, 
 <!-- in Sindok file 
 - several occurrences of vatu valaiṁ saṁ ra mājha
 - one occurrence of vatu valaIṁ saṁ variṅin·
  -->
-paṅura<unclear>ṁ</unclear> I vadihati saṁ ra vuṅu, manuṅgu saṁ hovaṅśa, paṅuraṁ I makudur· saṁ ra kvəl·‚ manuṅgu saṁ <unclear>ku</unclear><lb 
-n="38" break="no"/><gap reason="illegible" unit="character" quantity="5"/> <unclear>vinai</unclear>ḥ pirak· pasak-pasak· vḍihan· <abbr>yu</abbr> <num value="1">1</num> sovaṁ-sovaṁ<supplied reason="omitted">,</supplied> ri s<unclear>th</unclear>iranya vanu<unclear>A</unclear> I saṁguran· <gap reason="illegible" unit="character" quantity="8"/> <gap reason="lost" unit="character" quantity="1"/> 
-<milestone type="pagelike" unit="face" n="B"/><label>Back</label>
-<lb n="B1"/> ... kvaiḥ, manuṅgu si vka
-<lb n="B2"/> X X lunavuhak· X X X X t· X X X X X X X vaye katkananira ...              vḍihan· vayaṁ gu(st)i  Ck(u)lu-
-<lb n="B3"/>lumpaṁ‚ vinaiḥ pasak-pasak· pirak· <abbr>mā</abbr> 1, vḍihan· <abbr>yu</abbr> <num value="1">1</num>sovaṁ-sovaṁ, saṁ tuhān· I pakaraṇān· makabaihan· juru (ka)[na](ya)kā_n·
-<lb n="B4"/>I hino samgat· guṇuṅan· pu tun·tun·‚ juru vadvā rarai, saṁ ra guyu‚ juru kalula pu vali, kaṇḍamuhi saṁ geṣṭa, parujar· I siri-
-<lb n="B5"/>kan· hujuṁ galuḥ, I vka viri_diḥ, I kanuruhan· saṁ rokat, I sbaṁ saṁ vimala‚ I bavaṁ saṁ	jalaṁ, I maḍaṇḍər· saṁ cakra, ryy āṅgəhan· saṁ tu-
-<lb n="B6"/>han·, I tiruAn· sumuḍan· ḍa punta saṅgama, I hujuṁ saṁ pavuduka_n· vinaiḥ pasak-pasak· pira_k· <abbr>dhā</abbr> <num value="2">2</num>mā <num value="8">8</num>kinabaihanya, saṁ citrale⟨kha⟩
-<lb n="B7"/> I hino pasak-pasak· <abbr>dhā</abbr> <num value="2">2</num> <abbr>mā</abbr> <num value="8">8</num> kinabai(ha)[nya], patiḥ juru kāliḥ vasaḥ saṁ kulumpaṁ, kuci saṁ ra kavil·<unclear>,</unclear> pasak-pasak· <abbr>dhā</abbr> <num value="1">1</num> <abbr>mā</abbr> <num value="4">4</num> sovaṁ-so<lb n="B8" break="no"/>vaṁ, parujarnya piṁsor hyaṁ paskaran·, pasak-pasak· pirak· <abbr><unclear>mā</unclear></abbr> <num value="5"><unclear>5</unclear></num> sovaṁ-sovaṁ, lumaku manusuk· I vadihati saṁ kamala, (l)umaku manusuk· I makudur· saṁ taja-
-<lb n="B9"/>(m·) _ _ I su(su)han· saṁṅ astuti saṁ balā, I tapa haji saṁ pacintān· vinaiḥ pasak-pasak· <abbr>dhā</abbr> <num value="1">1</num>vḍihan· <abbr>yu</abbr> <num value="1">1</num> sovaṁ-sovaṁ, patiḥ I kanuruhan· [saṁ maṅhambin·] saṁ (jā)ta
-<lb n="B10"/>patiḥ I hujuṁ saṁ kahyunan·, patiḥ vaharu saṁ nīla‚ patiḥ I tugaran· saṁ _ mala, patiḥ samgat· I vaharu saṁ gambo‚ patiḥ paṅkur· saṁ maṅka, saṁ raṅga vinaiḥ pasak-pasak· <abbr>dhā</abbr> <num value="1">1</num> vḍi-
-<lb n="B11" break="no"/>han· <abbr>yu</abbr> <num value="1">1</num> sovaṁ_-sovaṁ, patiḥ lampuran· saṁ prasama, pasak-pasak· pirak· <abbr>mā</abbr> <num value="8">8</num> vḍihan· hlai <num value="1">1</num> parujar patiḥ si manohara pa_sak-pasak· <abbr>dhā</abbr> <num value="1">1</num> vḍihan <abbr>yu</abbr> <num value="1">1</num> parujar patiḥ I ka<lb n="B12" break="no"/>nuru_han· si ja_lu_k·, si rambət‚ parujar patiḥ I vaharu si bṅal·<supplied reason="omitted">,</supplied> si tañjak·, si cacu‚ pasak-pasak· pirak· <abbr>mā</abbr> <num value="8">8</num> vḍihan· hlai <num value="1">1</num> sovaṁ-sovaṁ, [vahu]ta I vaharu si ba-
-<lb n="B13"/>lu_syak· _ si kəndul·, tuha kalaṁ‚ vinaiḥ pasak-pasak· <abbr>dhā</abbr> <num value="1">1</num> vḍihan· <abbr>yu</abbr> <num value="1">1</num> sovaṁ-sovaṁ, piluṅgaḥ si rāji‚ si bantan·‚ piṇḍat· [vinaiḥ]    vḍihan· hlai <num value="1">1</num>
+paṅura<unclear>ṁ</unclear> I vadihati saṁ ra vuṅu, manuṅgu saṁ hovaṅka, paṅuraṁ I makudur· saṁ ra kvəl·‚ manuṅgu saṁ <unclear>ku</unclear><milestone type="pagelike" unit="face" n="B" break="no"/><label>Back</label><lb 
+n="B3" break="no"/>lumpaṁ‚ vinaiḥ pasak-pasak· pirak· <abbr>mā</abbr> <num value="1">1</num>, vḍihan· <abbr>yu</abbr> <num value="1">1</num> sovaṁ-sovaṁ, saṁ tuhān· I pakaraṇān· makabaihan· juru <unclear>ka</unclear><supplied reason="lost">na</supplied><unclear>ya</unclear>kā<space type="defect"/>n·
+<lb n="B4"/>I hino samgat· guṇuṅan· pu tun·tun·‚ juru vadvā rarai, saṁ ra guyu‚ juru kalula pu vali, kaṇḍamuhi saṁ geṣṭa, parujar· I siri<lb 
+n="B5" break="no"/>kan· hujuṁ galuḥ, I vka viri_diḥ, I kanuruhan· saṁ rokat, I sbaṁ saṁ vimala‚ I bavaṁ saṁ jalaṁ, I maḍaṇḍər· saṁ cakra, ryy āṅgəhan· saṁ tu<lb 
+n="B6" break="no"/>han·, I tiruAn· sumuḍan· ḍa punta saṅgama, I hujuṁ saṁ pavuduka_n· vinaiḥ pasak-pasak· pira_k· <abbr>dhā</abbr> <num value="2">2</num> <abbr>mā</abbr> <num value="8">8</num> kinabaihanya, saṁ citrale<supplied reason="omitted">kha</supplied>
+<lb n="B7"/>I hino pasak-pasak· <abbr>dhā</abbr> <num value="2">2</num> <abbr>mā</abbr> <num value="8">8</num> kinabai(ha)[nya], patiḥ juru kāliḥ vasaḥ saṁ kulumpaṁ, kuci saṁ ra kavil·<unclear>,</unclear> pasak-pasak· <abbr>dhā</abbr> <num value="1">1</num> <abbr>mā</abbr> <num value="4">4</num> sovaṁ-so<lb 
+n="B8" break="no"/>vaṁ, parujarnya piṁsor hyaṁ paskaran·, pasak-pasak· pirak· <abbr><unclear>mā</unclear></abbr> <num value="5"><unclear>5</unclear></num> sovaṁ-sovaṁ, lumaku manusuk· I vadihati saṁ kamala, (l)umaku manusuk· I makudur· saṁ taja<lb 
+n="B9" break="no"/>(m·) _ _ I su(su)han· saṁṅ astuti saṁ balā, I tapa haji saṁ pacintān· vinaiḥ pasak-pasak· <abbr>dhā</abbr> <num value="1">1</num> vḍihan· <abbr>yu</abbr> <num value="1">1</num> sovaṁ-sovaṁ, patiḥ I kanuruhan· [saṁ maṅhambin·] saṁ (jā)ta
+<lb n="B10"/>patiḥ I hujuṁ saṁ kahyunan·, patiḥ vaharu saṁ nīla‚ patiḥ I tugaran· saṁ _ mala, patiḥ samgat· I vaharu saṁ gambo‚ patiḥ paṅkur· saṁ maṅka, saṁ raṅga vinaiḥ pasak-pasak· <abbr>dhā</abbr> <num value="1">1</num> vḍi<lb 
+n="B11" break="no"/>han· <abbr>yu</abbr> <num value="1">1</num> sovaṁ_-sovaṁ, patiḥ lampuran· saṁ prasama, pasak-pasak· pirak· <abbr>mā</abbr> <num value="8">8</num> vḍihan· hlai <num value="1">1</num> parujar patiḥ si manohara pa_sak-pasak· <abbr>dhā</abbr> <num value="1">1</num> vḍihan <abbr>yu</abbr> <num value="1">1</num> parujar patiḥ I ka<lb 
+n="B12" break="no"/>nuru_han· si ja_lu_k·, si rambət‚ parujar patiḥ I vaharu si bṅal·<supplied reason="omitted">,</supplied> si tañjak·, si cacu‚ pasak-pasak· pirak· <abbr>mā</abbr> <num value="8">8</num> vḍihan· hlai <num value="1">1</num> sovaṁ-sovaṁ, [vahu]ta I vaharu si ba<lb 
+n="B13" break="no"/>lu_syak· _ si kəndul·, tuha kalaṁ‚ vinaiḥ pasak-pasak· <abbr>dhā</abbr> <num value="1">1</num> vḍihan· <abbr>yu</abbr> <num value="1">1</num> sovaṁ-sovaṁ, piluṅgaḥ si rāji‚ si bantan·‚ piṇḍat· [vinaiḥ]    vḍihan· hlai <num value="1">1</num>
 <lb n="B14"/>sovaṁ_-sovaṁ, rāma _ tpi si_riṁ milu pinakasākṣīniṁ manusuk· sĭma I tugaran· gusti si lakṣita, tuha kalaṁ si yogya‚ vinaiḥ pasak-pasa_k· pirak·
 <lb n="B15"/><abbr>mā</abbr> <num value="8">8</num> vḍihan· <abbr><unclear>yu</unclear></abbr> <num value="1">1</num>_ sovaṁ-sovaṁ‚ I kajavān·<supplied reason="omitted">,</supplied> I pavaṅkuAn·, si surā‚ I kḍi_ _-kḍi si pahaṁ, I buṁkaliṅan· si tiñjo‚ Iṁ kapatihan· si piṅul·,
 <lb n="B16"/>I ḍahu si tambas· vinaiḥ pasak-pasak· pirak· <abbr>mā</abbr> <num value="4">4</num> sovaṁ‚ pa_tiḥ I vuṅa-vuṅa pirak· <abbr>mā</abbr> <num value="4">4</num> ri(ṁ) papanahan· vinkas· si mañjava_(t·)‚ I kajar· kulapati si
 <lb n="B17"/>kaṇḍi, I tampur· si təṅəran· vinaiḥ pasak-pasak· pirak· <abbr>mā</abbr> <num value="4">4</num>sovaṁ, si mañā si kəsək· si vudalu si kudi‚ matətəṅən·, si luluk· vinaiḥ pasak· pirak·
-<lb n="B18"/><abbr>mā</abbr> <num value="4">4</num> vḍihan· hlai <num value="1">1</num> sovaṁ‚ Abañol· si lulut·‚ si s(p)at·, si hiR̥ṁ‚ vinaiḥ vḍihan· hlai <num value="1">1</num> sovaṁ, Avayaṁ si rahina pirak· <abbr>mā</abbr> <num value="4">4</num> vḍihan· <abbr>yu</abbr> <num value="1">1</num>saṁ boddhi‚ saṁ mārgga‚ vi-
-<lb n="B19"/>naiḥ vḍihan· <abbr>yu</abbr> <num value="1">1</num> sovaṁ, I tlasniṁ mavaiḥ pasak-pasak· muAṁ vḍihan· I sira kabaiḥ pinarṇnaḥ Ikanaṁ saji I saṁ makudur· I sorniṁ vitāna‚ maṅārgha ta saṁ pinakaviku
-<lb n="B20"/>sumaṅask(āra) Ikanaṁ susuk· muAṁ kulumpaṁ, maṇḍiri ta saṁ makudur· maṅañjali I saṁ hyaṁ təAs· maluṅguḥ I sorniṁ vitāna‚ mān·dlan· pāda humaR̥ppakan· saṁ hyaṁ tə<lb n="B21" break="no"/>As·, masiṅhal· vḍihan· <abbr>yu</abbr> <num value="1">1</num> tumŭt saṁ va_dihati, lumkas· saṁ makudur· maṅuyut· manətə_k· gulūniṁ hayām·‚ linaṇḍəssakan· Iṁ kulumpaṁ, mama_ntiṅa-
-<lb n="B22"/>kan· han·tlū Iṁ vatu sīma, mamaṁmaṁ manapathe saminaṁmaṁnira daṅū‚ I katguhakna saṁ hyaṁ vatu sīma‚ Ikana liṁnira‚ Īndaḥ ta kita kamuṁ hyaṁ I baprakeśvara A<lb n="B23" break="no"/>[ga]sti mahā_R̥ṣi pūrvva dakṣiṇa paścimottara maddhya Ūrddha(m adha)ḥ ravi śaśī kṣi_ti jala pavana hūtāśana yajamānākāśa dha_rmma Ahorātra sa<lb n="B24" break="no"/>ndhyā hr̥daya, ya_k(ṣ)a rāk(ṣ)asa pisāca pre_ _ _tāsura garuḍa gandharvva catvāri lokapāla, yama varuṇa kuvai(ra) bāśava muAṁ putra deva<lb n="B25" break="no"/>_ta pañca kuśika‚ nandīśvara mahākāla ṣadvinā_yaka nāgarājā du_rggādevī caturāśra, Ananta surendra, (A)nanta hyaṁ kālamr̥tyu
-<lb n="B26"/>gaṇabhū_ta kita pra_ _siddha maṁrakṣa kaḍatva_n· śrī mahārāja I mḍaṁ I(ṁ) bhūmi matarā_m· kita Umi_lu ma_narīra, Umasuk iṁ sarvva-<lb n="B27" break="no"/>sarīra kita sakala sākṣī-bhūta tumon madoḥ lāvan mapaR̥̄‚ riṁ rahina‚ riṁ vṅi At· ḍəṅəĀkan· ta Ikeṁ samaya sapatha sumpaḥ pamaṁmaṁma<lb n="B28" break="no"/>mi ri kita hiyaṁ kabaiḥ, yavat· Ikanaṁṅ vaṁ (du)rācāra tan mā_gum tan· makmit· Irikeṁ sapatha sinrāhakan· saṁ vahuta hyaṁ kudur·‚ hadyan· hulun· matuha ra<lb n="B29" break="no"/>rai laki-laki vadvan·‚ viku grahastha muAṁ patiḥ vahuta rāma Asiṁ Umu_lah-ulaḥ Ikeṁ vanuA I saṅguran·‚ sīma Ina_rpaṇākan·nikanaṁ punta I mana<lb n="B30"/>ñjuṁ I bhaṭāra‚ I saṁ hyaṁ prāsāda kabhaktyan· Iṁ sīma kajuru-gusalyan·‚ I dlāhaniṁ dlāha vavaka ta ya ṅuni_vaiḥ yan ḍavuta saṁ hyaṁ vatu sīma, tasmā_t ka<lb n="B31" break="no"/>_buAtaknanya, patyanantāta ya kamuṁ hyaṁ, deyanta t pa_tīya‚ tat ta_noliha I vuntat·, tat ⟨t⟩iṁhala I likura_n·, taruṁ Iṅadəga_n· tampya<lb n="B32" break="no"/>(l)·, I viraṅa_n·‚ tutuḥ tuṇḍanya vlaḥ kapālanya‚ sbitakan·, vtaṁnya rantann ususnya vtuAkan· ḍalmanya‚ ḍuḍuk· hatīnya paṅan dagiṁnya Inum· rāḥnya təhər pə_pə<lb n="B33" break="no"/>(da)kan·, vkasakan·, prāṇantika, yan· para riṅ alas paṅananniṁ moṁ‚ patukniṁṅ Ulā pulīraknaniṁ devamanyu, yan para riṁ tgal·, Alappa_nniṁ glap·, sampalaniṁ rākṣasa,
-<lb n="B34"/>[pa]ṅananniṁ vuIl· si pamuṅuAn· Araḥ ta kita kamuṁ hyaṁ kuśika gargga metrī kuruṣya pātāñjala, suvuk· lor· suvuk kidu_ _l· suvuk kuluAn·, ⟨suvuk·⟩ vai<lb n="B35" break="no"/>(ta)n·, buAṅakan· ri_ _ṅ ākāśa, salambitakan· I hyaṁ kabaiḥ‚ tibāka_ _ _n· riṁ mahāsamudra‚ klammakan· Iṁ ḍav(u)han· Alappan· saṁ jalamm er· du<lb n="B36" break="no"/>dutanniṁ tuviran· saṁhapanniṁ vuhaya‚ ṅkāna n matya Ika_naṁ ṅvaṁ Anyāya lumbur· Ikeṁ vanuA sĭma I saṁgura_n· I saṅguran· Upadravā riṁ devata bhrāṣṭa liputanni(ṁ)
-<lb n="B37"/>ḍira muliha riṁ kanaraka‚ tibāka_n· Iṁ mahārorava<supplied reason="omitted">,</supplied> klan de saṁ yamabala‚ palun de saṁ kiṅkara‚ piṁpitva Ata yan· bimbān· pāpa Ata ya‚ saṁ<lb n="B38" break="no"/>sāra sajīvakāla, salvi⟨r⟩niṁ duḥkha paṅguhanya sarūpaniṁ lara hiḍapannya, (m)akelikniṁ maṁjanma dadya(na)nya, Avūka tan· tammuAṁ sāma, vkasakan· havu kairir·, maṅka<lb n="B39" break="no"/>nā tmahananikanaṁṅ vaṁ Anyāya l(u)mbura Ikeṁ śīma I saṅguran·, I tlas· saṁ makudur maṅuhuk· masalin ta sira kabaiḥ<supplied reason="omitted">,</supplied> kapva ma_luṅguḥ Iṁ tkan pasək· tumūt· krama saṁ
-<lb n="B40"/>hana riṁ kon· pa_tiḥ vahuta rāma kabayan· muAṁ rāma tpi siriṁ kabaiḥ, matuha, manvam laki-laki vadvan· kaniṣṭamaddhyamot⟨t⟩ama‚ tan hana kān(t)un·, Umilu manaḍaḥ riṁ pa<lb n="B41" break="no"/>glaran·, kinuran·-kuran· InaṁsəAn· skul· dandānan·, hinirusan· kla-kla Ambil-ambil·, kasyan· lit-lit· tlu saranak· saṅa-saṅān· haryyas· rumba-ru<lb n="B42" break="no"/>mbaḥ kuluban· tetis· tumpuk-tumpuk· ḍeṁ hañaṁ ḍeṁ hasin· kakap· biluṁluṁ ka_ḍivas· huraṁ ka_van· laya-layar· hala-hala han(t)iga Inariṁ
+<lb n="B18"/><abbr>mā</abbr> <num value="4">4</num> vḍihan· hlai <num value="1">1</num> sovaṁ‚ Abañol· si lulut·‚ si s(p)at·, si hiR̥ṁ‚ vinaiḥ vḍihan· hlai <num value="1">1</num> sovaṁ, Avayaṁ si rahina pirak· <abbr>mā</abbr> <num value="4">4</num> vḍihan· <abbr>yu</abbr> <num value="1">1</num> saṁ boddhi‚ saṁ mārgga‚ vi<lb 
+n="B19" break="no"/>naiḥ vḍihan· <abbr>yu</abbr> <num value="1">1</num> sovaṁ, I tlasniṁ mavaiḥ pasak-pasak· muAṁ vḍihan· I sira kabaiḥ pinarṇnaḥ Ikanaṁ saji I saṁ makudur· I sorniṁ vitāna‚ maṅārgha ta saṁ pinakaviku
+<lb n="B20"/>sumaṅask(āra) Ikanaṁ susuk· muAṁ kulumpaṁ, maṇḍiri ta saṁ makudur· maṅañjali I saṁ hyaṁ təAs· maluṅguḥ I sorniṁ vitāna‚ mān·dlan· pāda humaR̥ppakan· saṁ hyaṁ tə<lb 
+n="B21" break="no"/>As·, masiṅhal· vḍihan· <abbr>yu</abbr> <num value="1">1</num> tumŭt saṁ va_dihati, lumkas· saṁ makudur· maṅuyut· manətə_k· gulūniṁ hayām·‚ linaṇḍəssakan· Iṁ kulumpaṁ, mama_ntiṅa<lb 
+n="B22" break="no"/>kan· han·tlū Iṁ vatu sīma, mamaṁmaṁ manapathe saminaṁmaṁnira daṅū‚ I katguhakna saṁ hyaṁ vatu sīma‚ Ikana liṁnira‚ Īndaḥ ta kita kamuṁ hyaṁ I baprakeśvara A<lb 
+n="B23" break="no"/>[ga]sti mahā_R̥ṣi pūrvva dakṣiṇa paścimottara maddhya Ūrddha(m adha)ḥ ravi śaśī kṣi_ti jala pavana hūtāśana yajamānākāśa dha_rmma Ahorātra sa<lb 
+n="B24" break="no"/>ndhyā hr̥daya, ya_k(ṣ)a rāk(ṣ)asa pisāca pre_ _ _tāsura garuḍa gandharvva catvāri lokapāla, yama varuṇa kuvai(ra) bāśava muAṁ putra deva<lb n="B25" break="no"/>_ta pañca kuśika‚ nandīśvara mahākāla ṣadvinā_yaka nāgarājā du_rggādevī caturāśra, Ananta surendra, (A)nanta hyaṁ kālamr̥tyu
+<lb n="B26"/>gaṇabhū_ta kita pra_ _siddha maṁrakṣa kaḍatva_n· śrī mahārāja I mḍaṁ I(ṁ) bhūmi matarā_m· kita Umi_lu ma_narīra, Umasuk iṁ sarvva-<lb 
+n="B27" break="no"/>sarīra kita sakala sākṣī-bhūta tumon madoḥ lāvan mapaR̥̄‚ riṁ rahina‚ riṁ vṅi At· ḍəṅəĀkan· ta Ikeṁ samaya sapatha sumpaḥ pamaṁmaṁ ma<space type="descender"/><lb 
+n="B28" break="no"/>mi ri kita hiyaṁ kabaiḥ, yāvat· Ikanaṁṅ vaṁ (du)rācāra tan mā_gum tan· makmit· Irikeṁ sapatha sinrāhakan· saṁ vahuta hyaṁ kudur·‚ hadyan· hulun· matuha ra<lb 
+n="B29" break="no"/>rai laki-laki vadvan·‚ viku grahastha muAṁ patiḥ vahuta rāma A_siṁ Umu_lah-ulaḥ Ikeṁ vanuA I saṅguran·‚ sīma Ina_rpaṇākan·nikanaṁ punta I mana<lb 
+n="B30" break="no"/>ñjuṁ I bhaṭāra‚ I saṁ hyaṁ prāsāda kabhaktyan· Iṁ sīma kajuru-gusalyan·‚ I dlāhaniṁ dlāha vavaka ta ya ṅuni_vaiḥ yan ḍavuta saṁ hyaṁ vatu sīma, tasmā_t· ka<lb 
+n="B31" break="no"/>_buAtaknanya, patyanantāta ya kamuṁ hyaṁ, deyanta t pa_tīya‚ tat ta_noliha I vuntat·, tat <supplied reason="omitted">t</supplied>iṁhala I likura_n·, taruṁ Iṅ adəga_n·(,) tampya<lb 
+n="B32" break="no"/>(l)· I viraṅa_n·‚ tutuḥ tuṇḍanya vlaḥ kapālanya sbitakan· vtaṁnya rantann ususnya vtuAkan· ḍalmanya‚ ḍuḍuk· hatīnya paṅan dagiṁnya Inum· rāḥnya təhər pə_pə<lb 
+n="B33" break="no"/>(da)kan· vkasakan· prāṇantika, yan· para riṅ alas paṅananniṁ moṁ‚ patukniṁṅ U_lā pulīraknaniṁ devamanyu, yan para riṁ tgal· Alappa_nniṁ glap·, sampalaniṁ rākṣasa,
+<lb n="B34"/>[pa]ṅananniṁ vuIl· si pamuṅuAn·, Araḥ ta kita kamuṁ hyaṁ kuśika gargga metrī kuruṣya pātāñjala, suvuk· lor· suvuk kidu_ _l· suvuk kuluAn· <supplied reason="omitted">suvuk·</supplied> vai<lb 
+n="B35" break="no"/>(ta)n·, buAṅakan· ri_ _ṅ ākāśa, salambitakan· I hyaṁ kabaiḥ‚ tibāka_ _ _n· riṁ mahāsamudra‚ klammakan· Iṁ ḍavuhan· Alapan· saṁ jalamm er· du<lb 
+n="B36" break="no"/>dutanniṁ tuviran· saṁhapanniṁ vuhaya‚ ṅkānan matya Ika_naṁṅ vaṁ Anyāya lumbur· Ikeṁ vanuA sĭma I saṁgura_n· Upadravā riṁ devatā bhrāṣṭa liputanni(ṁ)
+<lb n="B37"/>ḍira muliha riṁ kanaraka‚ tibāka_n· Iṁ mahārorava<supplied reason="omitted">,</supplied> klan de saṁ yamabala‚ palun de saṁ kiṅkara‚ piṁpitva Ata yan· bimbān· pāpa Ata ya‚ saṁ<lb 
+n="B38" break="no"/>sāra sajīvakāla, salvi<supplied reason="omitted">r</supplied>niṁ duḥkha paṅguhanya sarūpaniṁ lara hiḍapannya, (m)akelikniṁ maṁjanma dadya(na)nya, Avūka tan· tammuAṁ sāma, vkasakan· havu kairir·, maṅka<lb 
+n="B39" break="no"/>nā tmahananikanaṁṅ vaṁ Anyāya l(u)mbura Ikeṁ śīma I saṅguran·, I tlas· saṁ makudur maṅuhuk· masalin ta sira kabaiḥ<supplied reason="omitted">,</supplied> kapva ma_luṅguḥ Iṁ tkan pasək· tumūt· krama saṁ
+<lb n="B40"/>hana riṁ kon· pa_tiḥ vahuta rāma kabayan· muAṁ rāma tpi siriṁ kabaiḥ, matuha, manvam laki-laki vadvan· kaniṣṭamaddhyamot<supplied reason="omitted">t</supplied>ama‚ tan hana kān(t)un·, Umilu manaḍaḥ riṁ pa<lb 
+n="B41" break="no"/>glaran·, kinuran·-kuran· InaṁsəAn· skul· dandānan·, hinirusan· kla-kla Ambil-ambil·, kasyan· lit-lit· tlu saranak· saṅa-saṅān· haryyas· rumba-ru<lb n="B42" break="no"/>mbaḥ kuluban· tetis· tumpuk-tumpuk· ḍeṁ hañaṁ ḍeṁ hasin· kakap· biluṁluṁ ka_ḍivas· huraṁ ka_van· laya-layar· hala-hala han(t)iga Inariṁ
 <lb n="B43"/>suṇ(ṭ)a Atak· pəhan·, piṇḍa gaṅan· Iṁ saron· <num value="8">8</num> len· sankā riṁ knas· Ivak· prakāra<supplied reason="omitted">,</supplied> Anaḍaḥ ta sira kabaiḥ, yathāsuka maṅinum· siddhu‚ ciñca, kilaṁ
 <lb n="B44"/>(tu)Ak· piṁtiga sovaṁ‚ vinuvuhan· tambul· Inañjapan· k(u)ravu kurima, Asam· dvadval·, kapva madulur malariḥ, Umaṁsə: taṁ jnu skar· rujak· (Ana)_bə(ḥ) ta saṁ
 <lb n="B45"/>(ma)tuvuṁ (maṁḍ)iri ta sira kabaiḥ patiḥ pramu(kha), manambaḥ humarap· I (sā)rah-araḥ(niṁ ka)hanā_n· śrī mahărāja, muAṁ rakryān· mapa_ _tiḥ, I tlasniṁ manambaḥ maṅi<milestone type="pagelike" unit="face" n="c" break="no"/><label>Proper right</label><lb n="c1" break="no"/>[gal· rā](vaṇa)-hasta, sampun· saṅkap· Ika[naṁ]
@@ -173,9 +187,19 @@ n="38" break="no"/><gap reason="illegible" unit="character" quantity="5"/> <uncl
 <lb n="c11"/>[Umi]ntonakan· guṇanya, Irikanaṁ vṅi manaṁ<lb n="c12" break="no"/>gap· ta sira vayaṁ maṅaran· rahina, nā<lb n="c13" break="no"/>han· kramanikanaṁ susukan· sīma I sa<lb n="c14" break="no"/>ṅguran·, s(u)mpun· samprayukta, likhita
 <lb n="c15"/>citralekha I hino lakṣaṇa // 0 //
 </p>
+</div>
+<div type="textpart" subtype="zone" n="2"><head xml:lang="eng">Extra lines at bottom of A and top of B</head>
+<ab><milestone type="pagelike" unit="face" n="A"/><lb n="A38"/><gap reason="illegible" unit="character" quantity="5"/> <unclear>vinai</unclear>ḥ pirak· pasak-pasak· vḍihan· <abbr>yu</abbr> <num value="1">1</num> sovaṁ-sovaṁ<supplied reason="omitted">,</supplied> ri s<unclear>th</unclear>iranya vanu<unclear>A</unclear> I saṁguran· <gap reason="illegible" unit="character" quantity="8"/> <gap reason="lost" unit="character" quantity="1"/></ab> 
+<milestone type="pagelike" unit="face" n="B"/>
+<ab>
+<lb n="B1"/> prayatnakna <gap reason="illegible" unit="character" quantity="6"/> lava <gap reason="illegible" unit="character" quantity="6"/> Atavakadusīrahi kvaiḥ, Aṅuṅguṅ i vka <gap reason="illegible" unit="character" quantity="3"/> paṅura
+<lb n="B2"/> <gap reason="illegible" unit="character" quantity="2"/> lunavuhak· <gap reason="illegible" unit="character" quantity="4"/> t· Ahalulu <gap reason="illegible" unit="character" quantity="3"/> vvaye katmuAni putra-putr(i) <gap reason="illegible" unit="character" quantity="2"/> gvampimmilipuru <gap reason="illegible" unit="character" quantity="2"/> vka lu
+</ab>
+         </div>
          </div>
          <div type="apparatus">
            <!--apparatus encoded as per EGD §9.1, basic elements for apparatus below-->
+<div type="textpart" subtype="zone" n="1"><head xml:lang="eng">Originally planned layout</head>
                <listApp>
                   <app loc="4">
                      <lem>mapatiḥ I hino <unclear>pu si</unclear><lb n="A5" break="no"/><unclear>ṇḍo</unclear>k· śrī Īśānavikrama</lem>
@@ -201,6 +225,7 @@ n="38" break="no"/><gap reason="illegible" unit="character" quantity="5"/> <uncl
                      <lem>ḍaṅ ācāryya <unclear>ḍa</unclear><lb n="A7" break="no"/><gap reason="illegible" unit="character" quantity="1"/>li<unclear>ci</unclear>khya</lem>
 	      <rdg source="bib:Brandes1913_01 bib:Sarkar1971-1972_01">ḍaṅ āryya <lb n="A7"/><gap reason="undefined" extent="unknown"/><unclear>kya</unclear></rdg>
                   </app>
+<!-- 
 <app loc="4">
                      <lem></lem>
 	      <rdg source="bib:Brandes1913_01 bib:Sarkar1971-1972_01"></rdg>
@@ -209,13 +234,18 @@ n="38" break="no"/><gap reason="illegible" unit="character" quantity="5"/> <uncl
                      <lem></lem>
 	      <rdg source="bib:Brandes1913_01 bib:Sarkar1971-1972_01"></rdg>
                   </app>
+-->
                </listApp>
+</div>
+<div type="textpart" subtype="zone" n="2"><head xml:lang="eng">Extra lines at bottom of A and top of B</head>
+</div>
          </div>
          <div type="translation" resp="part:argr">
  	<!--translation encoded as per EGD §9.2 -->
          </div>
          <div type="commentary">
-<p>The same opening stanza is also found in the <ref target="DHARMA_INSIDENKSugihManek.xml">Sugih Manek</ref> charter. See <bibl><ptr target="bib:Kern1915_01"/></bibl>.</p>         
+<p>The same opening stanza is also found in the <ref target="DHARMA_INSIDENKSugihManek.xml">Sugih Manek</ref> charter. See <bibl><ptr target="bib:Kern1915_01"/></bibl>.</p>
+<p>The lowest line of face A and the uppermost two lines of fave B are less neatly engraved and much less easily readable than all other lines. Moreover, these three lines turn out to disrupt the originally planned layout. That the text as originally planned flows from the 37th physical line of face A to the 3rd physical line of face B is revealed by comparison with parallel passages in inscriptions of the Sindok corpus (Linggasuntan A33–37, Gulung-Gulung B6–10, Jeru-Jeru A25–27, Turyan A26–28, Masahar B6–8). It remains unclear whether the additional lines form a single insertion or two, and where the lines of text are to be inserted.</p>         
 </div>
         <div type="bibliography">
 	<!--bibliography encoded as per section §9.4 -->
