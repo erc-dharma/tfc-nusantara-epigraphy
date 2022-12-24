@@ -89,7 +89,7 @@
 	<text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="kaw-Latn">
-<div type="textpart" subtype="zone" n="1"><head xml:lang="eng">Originally planned layout</head>
+<div type="textpart" subtype="zone" n="1"><head xml:lang="eng">Main text</head>
 <ab><milestone type="pagelike" unit="face" n="A"/><label>Front</label><!-- §5.4. --><lb n="A1"/><unclear><g type="ddandaCross"/> <g type="circleLarge"/> <g type="ddandaCross"/> Avighnam astu <g type="ddandaCross"/></unclear></ab>
 
 <lg met="āryā" n="1">
@@ -104,7 +104,8 @@ n="A6" break="no"/><unclear>nu</unclear>A I saṁ<space type="defect"/>guran· v
 n="A7" break="no"/><gap reason="illegible" unit="character" quantity="1"/>li<unclear>ci</unclear>khya‚ muAṁ manahil· <space type="other" unit="character" quantity="3"/> śyaṅgudī, səpət·, ḍa pu jambaṁ, kəsək·, ḍa pu bhairava, basya‚ lukiṁ‚ bhaṇḍa‚ tamblaṁ, haḍaṁ‚ cigər·‚ ḍa pu ruyut·
 <lb n="A8"/>vilaṁ keñja, durdig·, suji sugas·, Arpaṇākna I bhaṭāra I saṁ hyaṁ prasāda kabha<space type="other" unit="character" quantity="2"/>ktyan· Iṁ sīma kajuru-gusalyan· I manañjuṁ, paknānya sīma punpuna<lb 
 n="A9" break="no"/>na bhaṭāra, Umahayva Asiṁ samananā I saṁ hyaṁ dharmma <space type="defect"/> saṅkānaniṁ śiva-caru-nivedya I bhaṭāra prātidina, maṅkana Iṣṭa-<space type="descender"/>prayojana śrī mahā<lb 
-n="A10" break="no"/>rāja muAṁ rakryān· mapatiḥ rikanaṁ vanuA I saṅguran· Inarpaṇnākan· I bhaṭāra I saṁ hyaṁ prāsāda kabhaktyan· Iṁ sīma kajuru-gusalyan· I manañjuṁ
+n="A10" break="no"/>rāja muAṁ rakryān· mapatiḥ rikanaṁ vanuA I saṅguran· Inarpaṇnākan· I bhaṭāra I saṁ hyaṁ prāsāda kabhaktyan· Iṁ sīma kajuru-gusalyan· I manañjuṁ</p> 
+<p>
 <lb n="A11"/>māri <!-- supply vatak·? --> vaharu parṇnahanya svatantra tan· katamāna deniṁ patiḥ va<space type="defect"/>huta muAṁ saprakāraniṁ maṅilala drabya haji Iṁ daṅū‚ miśra para-miśra vulu-vulu 
 <lb n="A12"/>prakāra, paṅuraṁ<unclear>,</unclear> kriṁ, paḍam·, manimpiki, paranakan·, limus galuḥ‚ paṅa<unclear>ru</unclear>han·, taji‚ vatu tajam·‚ sukun·‚ halu varak·‚ rakadut·<supplied reason="omitted">,</supplied>
 <lb n="A13"/>pinilai, kataṅgaran·, tapa haji, Air haji, malandaṁ, L̥ca, L̥blab·‚ kalaṁkaṁ, kutak·‚ taṅkil·, tr̥pan·, salvit·‚ tuha dagaṁ, juru gusali‚
@@ -125,12 +126,12 @@ yāpvan pinikul· dagaṁnya ka<lb
 n="A27" break="no"/>dy a<unclear>ṅgā</unclear>niṁ mabasana, ma<unclear>sayaṁ</unclear>, makacapuri, maṅuñjal·, maṅavari, kapas·‚ vuṅku<unclear>d</unclear>u, vsi, tambaga‚ gaṁsa‚ timaḥ, paḍat·, pamaja, vuyaḥ‚ lṅa‚ bras·, gu<unclear>la</unclear><supplied reason="omitted">,</supplied>
 <lb n="A28"/>bsar·‚ kasumba, saprakāraniṁ dval· pinikul· kalima vantal· Iṁ satuhān· pikul-pikulananya Iṁ sasīma <space type="defect"/> <unclear>I</unclear>kanaṁ samaṅkana tan· knāna de saṁ maṅila<lb 
 n="A29" break="no"/>la drabya haji, saparānanya sadeśanya, ndān· makmitana ya tulis· maṅkai lvīranya‚ yāpvan· lbiḥ saṅkā rikanaṁ sapaṁhīṁ Iriya‚ knāna <choice><orig>ś</orig><reg>s</reg></choice>akalbiḥnya de saṁ maṅilala
-<lb n="A30"/>so<unclear>dhā</unclear>ra haji tan· <unclear>A</unclear><space type="defect"/>dhikāna, Irikanaṁ kāla maṅasəĀkan· Ikanaṁ punta I manañjuṁ pasak·-pasak· I śrī mahārāja pirak· <abbr>kā</abbr> <num value="1">1</num> vḍihan· ta<lb 
+<lb n="A30"/>so<unclear>dhā</unclear>ra haji tan· <unclear>A</unclear><space type="defect"/>dhikāna,</p> <p>Irikanaṁ kāla maṅasəĀkan· Ikanaṁ punta I manañjuṁ pasak·-pasak· I śrī mahārāja pirak· <abbr>kā</abbr> <num value="1">1</num> vḍihan· ta<lb 
 n="A31" break="no"/>pis· <abbr>yu</abbr> <num value="1">1</num> rakryān· mapatiḥ I hino śrī Īśānavikrama InaṁsəĀn· <unclear>pasak-pa</unclear>sak· pirak· <abbr>kā</abbr> <num value="1">1</num> vḍihan· tapis· <abbr>yu</abbr> <num value="1">1</num> <unclear>ra</unclear>kai sirikan· pu marai<lb 
 n="A32" break="no"/>ndra, rakai vka pu balyaṁ, samgat· momah-<unclear>u</unclear>maḥ kāliḥ maḍaṇdər·, Aṅgəhan· InaṁsəĀn· pasak-pasak· pirak· <abbr>dhā</abbr> <num value="5">5</num> vḍihan· <abbr>yu</abbr> <num value="1">1</num> sovaṁ-sovaṁ
 <lb n="A33"/>tiruAn· ḍa punta taritip·, Amrāti havaṁ vicakṣaṇa, pulu vatu pu paṇḍamuAn·‚ halaran· pu guṇottama, maṁhuri pu maṅuvil·, vadihati
 <lb n="A34"/>pu dinakara‚ makudur· pu balavān·, InaṁsəĀn· pasak-pasak· pirak· <abbr>dhā</abbr> <num value="1">1</num> <abbr>mā</abbr> <num value="4">4</num> vḍihan· <abbr>yu</abbr> <num value="1">1</num> sovaṁ, vaharu rikaṁ kālaṁ pu variga Inaṁsə<lb 
-n="A35" break="no"/>Ān· pasak-pasak· pirak· <abbr>dhā</abbr> <num value="1"><unclear>1</unclear></num> <supplied reason="omitted"><abbr>ma</abbr></supplied> <num value="4">4</num> vḍihan· <abbr><unclear>y</unclear>u</abbr> <num value="1">1</num> samgat· Anakbi <abbr>dhā</abbr> <num value="7">7</num> <abbr>mā</abbr> <num value="8">8</num> kain· vlaḥ <num value="1">1</num><supplied reason="omitted">,</supplied> saṁ tuhān· I vaharu vinaiḥ pasak-pasak·
+n="A35" break="no"/>Ān· pasak-pasak· pirak· <abbr>dhā</abbr> <num value="1"><unclear>1</unclear></num> <supplied reason="omitted"><abbr>mā</abbr></supplied> <num value="4">4</num> vḍihan· <abbr><unclear>y</unclear>u</abbr> <num value="1">1</num> samgat· Anakbi <abbr>dhā</abbr> <num value="7">7</num> <abbr>mā</abbr> <num value="8">8</num> kain· vlaḥ <num value="1">1</num><supplied reason="omitted">,</supplied> saṁ tuhān· I vaharu vinaiḥ pasak-pasak·
 <lb n="A36"/>pirak· <abbr>dhā</abbr> <num value="6">6</num> kinabai<unclear>ḥ</unclear>hanira, tuhān· I vadihati <num value="2">2</num> mira-miraḥ saṁ halaṁ pahu<unclear>ṁ</unclear>, halara<space type="descender"/>n· saṁ suddhyā<unclear>sth</unclear>a<unclear>,</unclear> <unclear>tu</unclear>hān· I makudur· <num value="2">2</num> vatu
 <lb n="A37"/>valaiṁ saṁ <choice><unclear>bhū</unclear><unclear>ra</unclear></choice>te, <gap reason="illegible" unit="character" quantity="2"/> saṁ vari<space type="descender"/>ṅin·, 
 <!-- in Sindok file 
@@ -205,17 +206,18 @@ n="c14" break="no"/>ṅguran·, s<subst><del>u</del><add place="overstrike">a</a
 </p>
 </div>
 <div type="textpart" subtype="zone" n="2"><head xml:lang="eng">Extra lines at bottom of A and top of B</head>
-<ab><milestone type="pagelike" unit="face" n="A"/><lb n="A38"/><gap reason="illegible" unit="character" quantity="5"/> <unclear>vinai</unclear>ḥ pirak· pasak-pasak· vḍihan· <abbr>yu</abbr> <num value="1">1</num> sovaṁ-sovaṁ<supplied reason="omitted">,</supplied> ri s<unclear>th</unclear>iranya vanu<unclear>A</unclear> I saṁguran· <gap reason="illegible" unit="character" quantity="8"/> <gap reason="lost" unit="character" quantity="1"/></ab> 
-<milestone type="pagelike" unit="face" n="B"/>
 <ab>
-<lb n="B1"/> prayatnakna <gap reason="illegible" unit="character" quantity="6"/> lava <gap reason="illegible" unit="character" quantity="6"/> Atavakadusīrahi kvaiḥ, Aṅuṅguṅ i vka <gap reason="illegible" unit="character" quantity="3"/> paṅura
+<lb n="A38"/><gap reason="illegible" unit="character" quantity="5"/> <unclear>vinai</unclear>ḥ pirak· pasak-pasak· vḍihan· <abbr>yu</abbr> <num value="1">1</num> sovaṁ-sovaṁ<supplied reason="omitted">,</supplied> ri s<unclear>th</unclear>iranya vanu<unclear>A</unclear> I saṁguran· <gap reason="illegible" unit="character" quantity="8"/> <gap reason="lost" unit="character" quantity="1"/>
+</ab> 
+<ab>
+<lb n="B1"/>prayatnakna <gap reason="illegible" unit="character" quantity="6"/> lava <gap reason="illegible" unit="character" quantity="6"/> Atavakadusīrahi kvaiḥ, Aṅuṅguṅ i vka <gap reason="illegible" unit="character" quantity="3"/> paṅura
 <lb n="B2"/> <gap reason="illegible" unit="character" quantity="2"/> lunavuhak· <gap reason="illegible" unit="character" quantity="4"/> t· Ahalulu <gap reason="illegible" unit="character" quantity="3"/> vvaye katmuAni putra-putr(i) <gap reason="illegible" unit="character" quantity="2"/> gvampimmilipuru <gap reason="illegible" unit="character" quantity="2"/> vka lu
 </ab>
          </div>
          </div>
          <div type="apparatus">
            <!--apparatus encoded as per EGD §9.1, basic elements for apparatus below-->
-<div type="textpart" subtype="zone" n="1"><head xml:lang="eng">Originally planned layout</head>
+<div type="textpart" subtype="zone" n="1"><head xml:lang="eng">Main text</head>
                <listApp>
 	<app loc="A3">
 <lem>hastā-nakṣatra</lem>
