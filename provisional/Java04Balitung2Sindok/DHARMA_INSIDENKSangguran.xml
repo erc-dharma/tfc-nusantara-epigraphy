@@ -160,7 +160,7 @@ n="B13" break="no"/>lu<space type="defect"/>syak· <space type="defect"/> si kə
 <lb n="B14"/>sovaṁ<space type="defect"/>-sovaṁ, rāma <space type="defect"/> tpi si<space type="descender"/>riṁ milu pinakasākṣīniṁ manusuk· sĭma I tugaran· gusti si lakṣita, tuha kalaṁ si yogya‚ vinaiḥ pasak-pasa<space type="descender"/>k· pirak·
 <lb n="B15"/><abbr>mā</abbr> <num value="8">8</num> vḍihan· <abbr><unclear>yu</unclear></abbr> <num value="1">1</num> <space type="defect"/> sovaṁ-sovaṁ‚ I kajavān·<gap reason="omitted" extent="unknown"/><supplied reason="omitted">,</supplied> I pavaṅkuAn·, si surā‚ I kḍi<space type="descender"/>-kḍi si pahaṁ, I buṁkaliṅan· si tiñjo‚ Iṁ kapatihan· si piṅul·,
 <lb n="B16"/>I ḍahu si tambas· vinaiḥ pasak-pasak· pirak· <abbr>mā</abbr> <num value="4">4</num> sovaṁ‚ pa<space type="descender"/>tiḥ I vuṅa-vuṅa pirak· <abbr>mā</abbr> <num value="4">4</num> ri<unclear>ṁ</unclear> papanahan· vinkas· si mañjava<space type="descender"/><unclear>t</unclear>·‚ I kajar· kulapati si
-<lb n="B17"/>kaṇḍi, I tampur· si təṅəran· vinaiḥ pasak-pasak· pirak· <abbr>mā</abbr> <num value="4">4</num> sovaṁ, si mañā si kəsək· si vudalu si kudi‚ matətəṅən·, si luluk· vinaiḥ pasak· pirak·
+<lb n="B17"/>kaṇḍi, I tampur· si təṅəran· vinaiḥ pasak-pasak· pirak· <abbr>mā</abbr> <num value="4">4</num> sovaṁ, si mañā si kəsək· si vudalu si kudi‚ matətə<unclear>ṅə</unclear>n·, si luluk· vinaiḥ pasak· pirak·
 <lb n="B18"/><abbr>mā</abbr> <num value="4">4</num> vḍihan· hlai <num value="1">1</num> sovaṁ‚ Abañol· si lulut·‚ si s<unclear>p</unclear>at·, si hiR̥ṁ‚ vinaiḥ vḍihan· hlai <num value="1">1</num> sovaṁ, Avayaṁ si rahina pirak· <abbr>mā</abbr> <num value="4">4</num> vḍihan· <abbr>yu</abbr> <num value="1">1</num> saṁ boddhi‚ saṁ mārgga‚ vi<lb 
 n="B19" break="no"/>naiḥ vḍihan· <abbr>yu</abbr> <num value="1">1</num> sovaṁ,</p> 
 <p>I tlasniṁ mavaiḥ pasak-pasak· muAṁ vḍihan· I sira kabaiḥ pinarṇnaḥ Ikanaṁ saji I saṁ makudur· I sorniṁ vitāna‚ maṅārgha ta saṁ pinakaviku
@@ -281,9 +281,9 @@ It states that the transcription is based on Hasan Djafar’s “Prasasti Sanggu
         	<listBibl type="primary">
 <bibl n="CS"><ptr target="bib:CohenStuart1875_01"/><citedRange unit="item">XXIX</citedRange><citedRange unit="page">XV–XVII, XXIX, 37</citedRange></bibl>
 <bibl n="B"><ptr target="bib:Brandes1913_01"/><citedRange unit="item">XXXI</citedRange><citedRange unit="page">42-49</citedRange></bibl>
-<bibl n="S"><ptr target="bib:Sarkar1971-1972_01"/><citedRange unit="volume">II</citedRange><citedRange unit="page">227-248-55</citedRange><citedRange unit="item">XCVI</citedRange>
-                    </bibl>
-	</listBibl>
+<bibl n="S"><ptr target="bib:Sarkar1971-1972_01"/><citedRange unit="volume">II</citedRange><citedRange unit="page">227-248-55</citedRange><citedRange unit="item">XCVI</citedRange></bibl>
+<bibl n="HD"><ptr target="bib:HasanDjafar2010_02"/></bibl>
+              	</listBibl>
            <listBibl type="secondary">
 <bibl><ptr target="bib:Raffles1817_01"/><citedRange unit="volume">2</citedRange><citedRange unit="page">59</citedRange><citedRange unit="page">ccxxi-cxxiii</citedRange></bibl>
 <bibl><ptr target="bib:Raffles1830_01"/><citedRange unit="volume">2</citedRange><citedRange unit="page">63</citedRange><citedRange unit="item">cxxvii-cxxix</citedRange></bibl>
