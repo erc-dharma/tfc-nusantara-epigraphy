@@ -51,12 +51,6 @@ However, if you need to do it locally, you can access all DHARMA RelexNG and Sch
 | Wi | Wibowo |
 
 
-|  |  |  |
-|--|--|--|
-|  |  |  |
-|  |  |  |
-|  |  |  |
-
 
 
 
