@@ -38,13 +38,13 @@ However, if you need to do it locally, you can access all DHARMA RelexNG and Sch
 
 ## Editors' Sigla
 
-- Item Ba	Barrett-Jones 1984
-- Item Boe	Boechari 1985–1986
-- Item Br	Brandes 1913
-- item Da	Damais 1955
-- item Sa	Sarkar 1971–1972
-- St		Stutterheim (various)
-- vN		van Naerssen 1941, 1977
+ -  Ba	Barrett-Jones 1984
+ -  Boe	Boechari 1985–1986
+ -  Br	Brandes 1913
+ -  Da	Damais 1955
+ -  Sa	Sarkar 1971–1972
+ -  St	Stutterheim (various)
+ -  vN	van Naerssen 1941, 1977
 
 
 
