@@ -39,7 +39,7 @@ However, if you need to do it locally, you can access all DHARMA RelexNG and Sch
 ## Editors' Sigla
 
 | Siglum | Author |
-|--|--|--|
+|--|--|
 | S | Barrett-Jones  | 
 | Boe |	Boechari  |
 | Br | Brandes  |
@@ -49,6 +49,14 @@ However, if you need to do it locally, you can access all DHARMA RelexNG and Sch
 | St  | Stutterheim  |
 | vN | van Naerssen |
 | Wi | Wibowo |
+
+
+|  |  |  |
+|--|--|--|
+|  |  |  |
+|  |  |  |
+|  |  |  |
+
 
 
 
