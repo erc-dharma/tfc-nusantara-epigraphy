@@ -36,6 +36,18 @@ If you use an online validation processing, the processing instructions should b
 ```
 However, if you need to do it locally, you can access all DHARMA RelexNG and Schematron in their latest version in the projection-documentation repository under [schema/latest](https://github.com/erc-dharma/project-documentation/tree/master/schema/latest). In this case, you will need to update the `@href` and provide the path between you current file and the schema itself (either as a standalone file or either as a part of the project-documentation repository if you have cloned it)
 
+## Editors' Sigla
+
+- Item Ba	Barrett-Jones 1984
+- Item Boe	Boechari 1985–1986
+- Item Br	Brandes 1913
+- item Da	Damais 1955
+- item Sa	Sarkar 1971–1972
+- St		Stutterheim (various)
+- vN		van Naerssen 1941, 1977
+
+
+
 ## Workflow
 - Before working with this repository, make sure you always the latest version through a `git pull`
 - Create a XML file or edit an existing one.
