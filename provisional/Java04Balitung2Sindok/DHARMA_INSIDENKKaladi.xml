@@ -97,7 +97,6 @@
                              <lb n="1r5"/> tinaḍaḥ rakryăn· mapatiḥ I hino pu <choice><sic>dakṣantama</sic><corr>dakṣottama</corr></choice> băhubajrapratipakṣākṣaya turun i rakryăn·
                              <lb n="1r6"/> bavaṁ dyaḥ śraḥvaṇa, sambandha, Ikanaṁ lmaḥ Iṅ kaladi, I gayam·, mvaṅ iṁ pyapya, vatək·</p></div>
                      <div type="textpart">
-                     <head xml:lang="eng">[plate number 1, oriented 90° clockwise]</head>
                      <p><pb n="1v"/><lb n="1v1"/> bavaṁ sinəmbahakən· ḍa mpunta suddhara muAṁ ḍa mpunta ḍampi, śĭma pananamāna kambaṁ panikəlana su
                        <lb n="1v2" break="no"/>sur·, sampun· puA ya vinehakən· śĭmān·, sambandha I<add place="below">ka</add>naṁ lmaḥ Iṁ gayām·, muAṁ Iṁ pyapya,
                        <lb n="1v3"/> hlat· guṇan ta kamulanya, Alas· Araṇan· katakutan·, tamolaḥ pahabətan· deniṁ mari
@@ -226,7 +225,6 @@
                    </div>
                    </div>
                        <div type="apparatus">
-                         <div type="textpart">
                             <app loc="1r1">
                       <lem source="bib:Boechari1985-1986_01">śrĭr</lem>
                       <rdg source="bib:BarrettJones1984_01">śrīr</rdg>
@@ -260,8 +258,6 @@
                     <lem source="bib:BarrettJones1984_01">i rakryăn·</lem>
                       <rdg source="bib:Boechari1985-1986_01">i rakryān·</rdg>
                 </app>
-                         </div>
-                         <div type="textpart">
                                 <app loc="1v1">
                     <lem source="bib:Boechari1985-1986_01">suddhara</lem>
                       <rdg source="bib:BarrettJones1984_01">sudḍara</rdg>
@@ -299,8 +295,6 @@
                     <lem>muA<unclear>ṁ</unclear></lem>
                       <rdg source="bib:BarrettJones1984_01 bib:Boechari1985-1986_01">muA<supplied reason="omitted">ṁ</supplied></rdg>
                      </app>
-                         </div>
-                      <div type="textpart">
                          <app loc="2r3">
                     <lem source="bib:Boechari1985-1986_01">kutak·</lem>
                       <rdg source="bib:BarrettJones1984_01">kutāk·</rdg>
@@ -327,9 +321,7 @@
                      <rdg source="bib:Boechari1985-1986_01">palahak·</rdg>
 
                 </app>
-                      </div>
-                         <div type="textpart">
-                           <app loc="2v1">
+                     <app loc="2v1">
                              <lem source="bib:Boechari1985-1986_01">paguluṁ</lem>
                              <rdg source="bib:BarrettJones1984_01">pagul·</rdg>
                            </app>
@@ -341,9 +333,7 @@
                     <lem source="bib:BarrettJones1984_01">suka-duḥka</lem>
                       <rdg source="bib:Boechari1985-1986_01">sukha-duḥka</rdg>
                 </app>
-                         </div>
-                         <div type="textpart">
-                           <app loc="4v1">
+                             <app loc="4v1">
 	  <lem source="bib:Boechari1985-1986_01">ḍatar·</lem>
 	  <rdg source="bib:BarrettJones1984_01">vatar·</rdg>
                            </app>
@@ -375,9 +365,7 @@
                     <lem>kabyāpāran·</lem>
                     <rdg source="bib:BarrettJones1984_01 bib:Boechari1985-1986_01">kabyaḥ aran·</rdg>
                 </app>
-                         </div>
-                         <div type="textpart">
-                           <app loc="6r1">
+                         <app loc="6r1">
                     <lem>kabyāpāran·</lem>
                     <rdg source="bib:BarrettJones1984_01 bib:Boechari1985-1986_01">kabyaḥ aran·</rdg>
                 </app>
@@ -411,9 +399,7 @@
                     <lem/>
                       <rdg source="bib:Boechari1985-1986_01">kamudharmman·</rdg>
                 </app>
-                         </div>
-                         <div type="textpart">
-                         <app loc="6v1">
+                           <app loc="6v1">
                     <lem source="bib:Boechari1985-1986_01">ikā</lem>
                       <rdg source="bib:BarrettJones1984_01">ikha</rdg>
                 </app>
@@ -434,9 +420,7 @@
                     <lem source="bib:Boechari1985-1986_01">saṅkəp·</lem>
                       <rdg source="bib:BarrettJones1984_01">suṅkəp·</rdg>
                 </app>
-                         </div>
-                         <div type="textpart">
-                       <app loc="7r1">
+                           <app loc="7r1">
                     <lem source="bib:Boechari1985-1986_01">mā, 2</lem>
                     <rdg source="bib:BarrettJones1984_01">mā, 1</rdg>
                 </app>
@@ -465,8 +449,6 @@
                       <rdg source="bib:BarrettJones1984_01">son, muka</rdg>
                       <rdg source="bib:Boechari1985-1986_01">śenāmukha</rdg>
                 </app>
-                         </div>
-                         <div type="textpart">
                          <app loc="7v1">
                     <lem>siṅhala</lem>
                       <rdg source="bib:BarrettJones1984_01">siṅhal·</rdg>
@@ -493,9 +475,7 @@
                       <rdg source="bib:BarrettJones1984_01">sakananya</rdg>
                       <rdg source="bib:Boechari1985-1986_01">saṁkanannya</rdg>
                 </app>
-                         </div>
-                         <div type="textpart">
-                     <app loc="8r1">
+                           <app loc="8r1">
                     <lem source="bib:BarrettJones1984_01">sirāt·</lem>
                       <rdg source="bib:Boechari1985-1986_01">sirat·</rdg>
                 </app>
@@ -549,8 +529,6 @@
                     <lem source="bib:BarrettJones1984_01">sakvaiḥniṁ</lem>
                     <rdg source="bib:Boechari1985-1986_01">sakveḥniṁ</rdg>
                 </app>
-                         </div>
-                         <div type="textpart">
                      <app loc="8v2">
                     <lem source="bib:Boechari1985-1986_01">puntakāya</lem>
                       <rdg source="bib:BarrettJones1984_01">punnakāya</rdg>
@@ -576,9 +554,7 @@
                       <rdg source="bib:Boechari1985-1986_01">Iṅkaṁ</rdg>
                         <note>Any chance that this is I<add place="below">ka</add>naṁ with the <add place="below">ka</add> displaced too far to the right? Cf. 1v2</note>
                 </app>
-                         </div>
-                         <div type="textpart">
-                           <app loc="9r1">
+                             <app loc="9r1">
                     <lem source="bib:Boechari1985-1986_01">samgət·</lem>
                       <rdg source="bib:BarrettJones1984_01">pamgət·</rdg>
                 </app>
@@ -625,9 +601,7 @@
                      <rdg source="bib:Boechari1985-1986_01">parujar·</rdg>
                      <note>Cf. 4v3.</note>
                 </app>
-                         </div>
-                         <div type="textpart">
-                    <app loc="9v2">
+                             <app loc="9v2">
                     <lem source="bib:Boechari1985-1986_01">dharmmi</lem>
                     <rdg source="bib:BarrettJones1984_01">dharmma</rdg>
                 </app>
@@ -652,9 +626,7 @@
                     <lem source="bib:Boechari1985-1986_01">varci</lem>
                       <rdg source="bib:BarrettJones1984_01">vaca</rdg>
                 </app>
-                         </div>
-                         <div type="textpart">
-                      <app loc="10r1">
+                          <app loc="10r1">
                     <lem>Avatəs· si bsi</lem>
                       <rdg source="bib:Boechari1985-1986_01">Avatəs· siṁ bsi</rdg>
                 </app>
@@ -705,8 +677,6 @@
                     <lem source="bib:Boechari1985-1986_01">limutni</lem>
                       <rdg source="bib:BarrettJones1984_01">limurni</rdg>
                 </app>
-                         </div>
-                         <div type="textpart">
                          <app loc="10v1">
                     <lem source="bib:BarrettJones1984_01">anak· banuA kabaiḥ</lem>
                       <rdg source="bib:Boechari1985-1986_01">anak· kabaiḥ</rdg>
@@ -737,7 +707,6 @@
                     <lem source="bib:Boechari1985-1986_01">prāṣaṣṭi kayatnakna</lem>
                     <rdg source="bib:BarrettJones1984_01">prāṣaṣdi kayatna</rdg>
                 </app>
-                       </div>
                        </div>
              <div type="commentary">
                <p>The short and long forms of the ulu and suku are often not distinguished, with the scribe using the corresponding short forms for ī and ū. Word-final anusvāra is often omitted, and there is persistent confusion between pa, ma, and ha, e.g. the repeated error <hi rend="italic">kamuAṁ</hi> for <hi rend="italic">kapuAṁ</hi>. In the word <hi rend="italic">maṁguñjai</hi>, the diacritic -ai was written to very closely resemble ra (2r4) and ri (7r5) at the time of reissue.</p>
