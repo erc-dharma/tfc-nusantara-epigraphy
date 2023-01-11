@@ -88,62 +88,51 @@
    </teiHeader>
    <text xml:space="preserve">
            <body>
-                   <div type="edition">
-                           <div type="textpart">
-                             <p><pb n="1r"/><lb n="1r1"/> // 0 // śrĭr astu jagaddhitāya // 0 // svasti śaka-varṣatĭta, 831, Āṣāḍa-māsa
+                   <div type="edition" xml:lang="kaw-Latn">
+                             <p xml:lang="san-Latn"><pb n="1r"/><lb n="1r1"/> // 0 // śrĭr astu jagaddhitāya // 0 // </p>
+                             <p>svasti śaka-varṣatĭta, 831, Āṣāḍa-māsa
                              <lb n="1r2"/> tithi Aṣṭami śukla-pakṣa, ba, va, Aṁ, vāra mahatal· Uttara-<choice><sic>granārasta</sic><corr>grahacāra-stha</corr></choice>, hasta-nakṣatra, dinā
                              <lb n="1r3" break="no"/>kṣabdeto śiva-yoga, kuvera-parvveśa, băyabya-maṇḍala, svetā-muhŭ<supplied reason="omitted">r</supplied>tta<supplied reason="omitted">,</supplied> viṣṭi-kara
-                             <lb n="1r4" break="no"/>ṇa, nyaravi, tatkālanyānugraha śrī mahārāja rake <choice><sic>vatu kara</sic><corr>vatu kura</corr></choice> dyaḥ balituṁ śrĭ dharmodaya mahāsambhu
+                             <lb n="1r4" break="no"/>ṇa, nyaravi, </p><p>tatkālanyānugraha śrī mahārāja rake <choice><sic>vatu kara</sic><corr>vatu kura</corr></choice> dyaḥ balituṁ śrĭ dharmodaya mahāsambhu
                              <lb n="1r5"/> tinaḍaḥ rakryăn· mapatiḥ I hino pu <choice><sic>dakṣantama</sic><corr>dakṣottama</corr></choice> băhubajrapratipakṣākṣaya turun i rakryăn·
-                             <lb n="1r6"/> bavaṁ dyaḥ śraḥvaṇa, sambandha, Ikanaṁ lmaḥ Iṅ kaladi, I gayam·, mvaṅ iṁ pyapya, vatək·</p></div>
-                     <div type="textpart">
-                     <p><pb n="1v"/><lb n="1v1"/> bavaṁ sinəmbahakən· ḍa mpunta suddhara muAṁ ḍa mpunta ḍampi, śĭma pananamāna kambaṁ panikəlana su
+                             <lb n="1r6"/> bavaṁ dyaḥ śraḥvaṇa, </p><p part="I">sambandha, Ikanaṁ lmaḥ Iṅ kaladi, I gayam·, mvaṅ iṁ pyapya, vatək·
+                     <pb n="1v"/><fw place="left" rend="tb-rotated" n="1v"><num value="1">1</num></fw><lb n="1v1"/> bavaṁ sinəmbahakən· ḍa mpunta suddhara muAṁ ḍa mpunta ḍampi, śĭma pananamāna kambaṁ panikəlana su
                        <lb n="1v2" break="no"/>sur·, sampun· puA ya vinehakən· śĭmān·, sambandha I<add place="below">ka</add>naṁ lmaḥ Iṁ gayām·, muAṁ Iṁ pyapya,
                        <lb n="1v3"/> hlat· guṇan ta kamulanya, Alas· Araṇan· katakutan·, tamolaḥ pahabətan· deniṁ mari
                        <lb n="1v4" break="no"/>vuṁ, <choice><orig>dhumurbalākən·</orig><reg>dumurbalākən·</reg></choice> Ikaṁ banyāga muAṁ hilirān· riṁ rahina riṁ kuL̥m·, kunəṁ yathānyan· Ubhayaguṇa I
                        <lb n="1v5" break="no"/>kanaṁ Alas· dadhyā savaḥ lāvan· māryya katakutan· mari vatək· bavaṁ pārṇnaḥnya svatantra tan· kata
-                       <lb n="1v6" break="no"/>mān· deniṁ patiḥ vahuta muA<unclear>ṁ</unclear> saprakăraniṁ maṅilala dr̥vya haji ri daṅu, miśra paramiśra vulu-vulu</p>
-                     </div>
-                       <div type="textpart">
-                       <p><pb n="2r"/><lb n="2r1"/> saprakāra, paṅura<supplied reason="omitted">ṁ</supplied> kri<supplied reason="omitted">ṁ</supplied>, manamī, manimpiki, paranakan·, limus·, galuḥ, paṅaruhan·, taji, vatu ta
+                       <lb n="1v6" break="no"/>mān· deniṁ patiḥ vahuta muA<unclear>ṁ</unclear> saprakăraniṁ maṅilala dr̥vya haji ri daṅu, miśra paramiśra vulu-vulu<pb n="2r"/><lb n="2r1"/> saprakāra, paṅura<supplied reason="omitted">ṁ</supplied> kri<supplied reason="omitted">ṁ</supplied>, manamī, manimpiki, paranakan·, limus·, galuḥ, paṅaruhan·, taji, vatu ta
                          <lb n="2r2" break="no"/>jəm·, sukun·, <choice><sic>palu</sic><corr>halu</corr></choice>varak·, rakadut·, miniṅley·, kataṅgarān·, tapa haji, Air haji,
                          <lb n="2r3"/> malandaṁ, L̥ca, L̥bəL̥b·, kalaṅkaṁ, kutak·, taṅkil·, tr̥pan·, salvit·, tuha dagaṁ, ju
                          <lb n="2r4" break="no"/>ru salit·, maṁrumbai, <choice><sic>pa<unclear>ṁ</unclear>guñjai</sic><corr>maṁguñjai</corr></choice>, tuha nambi, tu<supplied reason="omitted">ha</supplied>n uñjaman·, vatu valaṁ, pamaṇikan·, maṇiga,
                          <lb n="2r5"/>sikəpan·, rumban·, vila<supplied reason="omitted">ṁ</supplied> vadva, viji kavaḥ, tiṅkəs·, <choice><sic>havə</sic><corr>māvī</corr></choice>, tuhan· juḍi, juru jalir·, mi
                          <lb n="2r6" break="no"/>śra hino,
-                        <choice><sic>dli</sic><corr>vli</corr></choice> hapu, <choice><sic>dli</sic><corr>vli</corr></choice> vaduṁ, <choice><sic>dli</sic><corr>vli</corr></choice> kambaṁ, <choice><sic>dli</sic><corr>vli</corr></choice> pañjut·, <choice><sic>dli</sic><corr>vli</corr></choice> haR̥ṁ, <choice><sic>palapāk·</sic><corr>palamāk·</corr></choice>, pakaluṅkuṁ, Urutān·,</p></div>
-                        <div type="textpart">
-                          <p><pb n="2v"/><lb n="2v1"/> dampulan·, tpuṁ kavuṁ, suṁsuṁ paṅur·, pasuk alas·, payuṅan·, puluṁ paḍi, pabəsar·, paguluṁ, paṅi
+                        <choice><sic>dli</sic><corr>vli</corr></choice> hapu, <choice><sic>dli</sic><corr>vli</corr></choice> vaduṁ, <choice><sic>dli</sic><corr>vli</corr></choice> kambaṁ, <choice><sic>dli</sic><corr>vli</corr></choice> pañjut·, <choice><sic>dli</sic><corr>vli</corr></choice> haR̥ṁ, <choice><sic>palapāk·</sic><corr>palamāk·</corr></choice>, pakaluṅkuṁ, Urutān·,
+                          <pb n="2v"/><lb n="2v1"/> dampulan·, tpuṁ kavuṁ, suṁsuṁ paṅur·, pasuk alas·, payuṅan·, puluṁ paḍi, pabəsar·, paguluṁ, paṅi
                           <lb n="2v2" break="no"/>n·<add place="below">n-aṅin·</add> sipat· vilut·, pamavaśya, hopan·, panrāṅan·, skar tahun·, panusuḥ, turun-turun·, <choice><sic>pamali
                           <lb n="2v3" break="no"/>han·</sic><corr>mamalihan·</corr></choice>, kḍi valyan·, vidu maṅiduṁ, sambāl·, <supplied reason="omitted">sumbul·,</supplied> hulun· haji, mamr̥ki <choice><sic>vatəs·</sic><corr>vatək·</corr></choice><surplus>,</surplus> I jro Ityaiva
                           <lb n="2v4" break="no"/>mādi, tan· tāma Irikaṁ śĭma Iṁ gayām·, muAṁ I pyapya, pramāṇa I sadr̥vya-hajinya
                           <lb n="2v5"/> kabeḥ, samaṅkana Ikaṅaṁ suka-duḥka, kady āṅganiṁ mayaṁ tan <choice><sic>mavvara</sic><corr>mavvaḥ</corr></choice>, valuḥ rumambat iṁ nata
                           <lb n="2v6" break="no"/>r·, vipati vaṅke kabunan·, rāḥ kasavur iṁ natar·, vāk·capala, duhilatən·, hidu ka</p>
-                          </div>
-                          <pb n="3r"/><gap reason="lost" quantity="6" unit="line"/>
+                        <pb n="3r"/><gap reason="lost" quantity="6" unit="line"/>
                           <pb n="3v"/><gap reason="lost" quantity="6" unit="line"/>
-                     <div type="textpart">
-                       <p><pb n="4r"/><lb n="4r1" break="no"/> paṅura<unclear>ṁ</unclear> I <choice><sic>pakudur·</sic><corr>makudur·</corr></choice> si ḍatar·, paṅuraṁ I <choice><sic>vadəhati dyan·</sic><corr>vadihati dyaḥ</corr></choice> vintuṅan·, patiḥ paṅhaR̥<supplied reason="omitted">p</supplied> saṁ taruA, saṁ vuruju
+
+                       <p part="M"><pb n="4r"/><lb n="4r1" break="no"/> paṅura<unclear>ṁ</unclear> I <choice><sic>pakudur·</sic><corr>makudur·</corr></choice> si ḍatar·, paṅuraṁ I <choice><sic>vadəhati dyan·</sic><corr>vadihati dyaḥ</corr></choice> vintuṅan·, patiḥ paṅhaR̥<supplied reason="omitted">p</supplied> saṁ taruA, saṁ vuruju
                               <lb n="4r2"/> InaṁsəAn· <choice><sic>vḍəhan·</sic><corr>vḍihan·</corr></choice> raṅga yu 1 ken· blaḥ, 1 mā, su 1, mā, 4, sovaṁ-sovaṁ, patiḥ lampuran·, saṁ
                               <lb n="4r3"/> kəlpuAn·, saṁ nadraṁta, <choice><sic>kamuAṁ</sic><corr>kapuAṁ</corr></choice> InaṁsəAn· vḍihan·, raṅga yu, 1, ken· blaḥ, 1 mā su 1, mā,
                               <lb n="4r4"/> 4, sovaṁ-sovaṁ, dyaḥ basa vinaiḥ, mā, 10, saṁ karuA, saṁ guṇuṅan·, saṅ jambat·, saṁ manəkṣa, saṁ
                               <lb n="4r5"/> śikāra, saṅ ayuta, saṁ vatu manuṅgul·, dyaḥ <choice><sic>rāyava</sic><corr>rāghava</corr></choice>, dyaḥ madri saṁ nini, saṁ cupiṁ, saṁ sahəl·, ka
-                              <lb n="4r6" break="no"/>muAṁ InaṁsəAn·, mā, 4, vḍihan· raṅga yu, 1, sovaṁ-sovaṁ, vahuta paliñjuAn· maṁhaR̥p·</p>
-                       </div>
-                       <div type="textpart">
-                         <p><pb n="4v"/>lb n="4v1" break="no"/> saṁ babat·, saṁ babahan·, saṁ bantən·, kamuAṁ Ina<supplied reason="omitted">ṁ</supplied>səAn·, mā, su 1, mā 4 vḍihan· raṅga yu, 1, sovaṁ
+                              <lb n="4r6" break="no"/>muAṁ InaṁsəAn·, mā, 4, vḍihan· raṅga yu, 1, sovaṁ-sovaṁ, vahuta paliñjuAn· maṁhaR̥p·
+                         <pb n="4v"/>lb n="4v1" break="no"/> saṁ babat·, saṁ babahan·, saṁ bantən·, kamuAṁ Ina<supplied reason="omitted">ṁ</supplied>səAn·, mā, su 1, mā 4 vḍihan· raṅga yu, 1, sovaṁ
 <lb n="4v2" break="no"/> ken· blaḥ, 1, saṁ manəsər· vinaiḥ, mā 8, vahuta lampurān·, saṁ tambai, saṁ marumuḥ
 <lb n="4v3" break="no"/> sa<supplied reason="omitted">ṁ</supplied> marapat·, saṁ vijivar·, saṁ lampuran·, kamuAṁ vinehan·, mā 4, vḍihan· raṅga yu,
 <lb n="4v4" break="no"/> 1, sovaṁ-sovaṁ, ḍaṅ ācāryya netra vineḥ, mā, 8, ken· blaḥ, 1, <choice><sic>marujar</sic><corr>parujar</corr></choice><choice><sic>matiḥ</sic><corr>patiḥ</corr></choice> saṁ
 <lb n="4v5" break="no"/> ḍavas·, si Uñju, si L̥kən·, si kuriñja, si lumbuṁ, si ptaṁ, si dum·, kamuAṁ vineḥ, mā 2, vḍi
 <lb n="4v6" break="no"/>han· raṅga hle, 1, sovaṁ-so<supplied reason="omitted">vaṁ</supplied>, si hujuṁ, si runda, si lalu, si tanayan·, si nāmanta, vahuta rā<add place="below">ma</add>, si darmmā,
 </p>
-                         </div>
                          <pb n="5r"/><gap reason="lost" quantity="6" unit="line"/>
                          <pb n="5v"/><gap reason="lost" quantity="6" unit="line"/>
-                     <div type="textpart">
-
-                       <p><pb n="6r"/><lb n="6r1"/> ken· blaḥ, 1, sovaṁ-sovaṁ, tlas· kabyāpāran· taṇḍa rakryān·, muAṁ piṅhai vahuta rāma, tinana
+                       <p part="F"><pb n="6r"/><lb n="6r1"/> ken· blaḥ, 1, sovaṁ-sovaṁ, tlas· kabyāpāran· taṇḍa rakryān·, muAṁ piṅhai vahuta rāma, tinana
                          <lb n="6r2" break="no"/>han ta Ika śĭma təAs· muAṁ katimaṁ <choice><sic>dhe</sic><corr>de</corr></choice> rakryān· bavaṁ dyaḥ śravaṇa, ṅkāna kidul· tapəl· vatəs·
                          <lb n="6r3"/> lavan· Iṅ kaṇḍaṁ, tuhun· hiṅannikaṁ sĭma Iṅ gayam·, kidul iṅ kāli maṅuluAn·, muvaḥ pahiṅanan·,
                          <lb n="6r4"/> muAṁ Ikaṅ kapuluṅan·, Ikaṁ pagər maṅavetan· kidul iṅ kali, muvaḥ hana ta savaḥ saṅaṅ liriḥ lo
