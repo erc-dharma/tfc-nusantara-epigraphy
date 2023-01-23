@@ -18,6 +18,10 @@
                   <forename>Arlo</forename>
                   <surname>Griffiths</surname>
                </persName>
+               <persName ref="part:wjsa">
+                  <forename>Wayan Jarrah</forename>
+                  <surname>Sastrawan</surname>
+               </persName>
             </respStmt>
             <respStmt>
                <resp>intellectual authorship of edition</resp>
@@ -81,6 +85,7 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
+         <change who="part:wjsa" when="2023-01-23" status="draft">small edit to translation; fixed misplaced note in translation</change>
          <change who="part:argr" when="2020-09-25" status="draft">major round of revisions: collated Oemar, modified translation</change>
          <change who="part:ekba" when="2020-09-14" status="draft">revised the encoding suggested by argr</change>
          <change who="part:argr" when="2020-09-13" status="draft">first round of revisions</change>
@@ -218,13 +223,11 @@ maybe read:
 	<p n="1v1-2r1">Hail! Elapsed Śaka year 728, month of Māgha, ninth <supplied reason="explanation"><foreign>tithi</foreign></supplied> of the waxing fortnight, Hariyaṅ, Umanis, Thursday. At thatv time the <foreign>rakai</foreign> of Patapān <supplied reason="explanation">called</supplied> <foreign>pu</foreign> Manuku demarcated the land of Muṇḍuan and of Haji Huma, his gift as apanage to his servant <supplied reason="explanation">called</supplied> <foreign>saṅ</foreign> Patoran. 
 <!-- tor 'to serve dishes'!!! -->
 
-His royal corvée will be to guard the luxuriant goats <supplied reason="explanation">? <foreign>vivi rambai</foreign></supplied> 
+His royal corvée will be to guard the bearded goats <supplied reason="explanation"><foreign>vivi rambai</foreign></supplied> 
 <!-- or understand vivir ambe 'spread out the bed'? -->
 <gap reason="omitted"/> the width of the <foreign>kuramvit</foreign> of the holy banner of Patapān down to the future’s future. As its name is ‘The place for guarding of the goats by the apanage holder’, so he made a dwelling at the <foreign>vindu-vindu</foreign>s of the land. That is the reason that the dwelling is called ‘Vala Vindu’. 
 
 His/Their name, insofar as he guard/they guard the goats, is apanage holder.
-vindu in modern Javanese can mean 'well'
-Kurambitan 791
 
 Thereupon he was given the grant that <supplied reason="subaudible">the land</supplied> may not be entered by the Er Baraṅan, and by all kinds of exploiters wherever they go to trade. Especially if there are any <supplied reason="explanation">fines to be imposed for</supplied> ‘vicissitudes of life’ <supplied reason="explanation"><foreign>sukha-duḥkha</foreign></supplied>, etc., it may still not be entered <supplied reason="subaudible">by them</supplied>. Thus was the grant of the <foreign>rakai</foreign> of Patapān <foreign>pu</foreign> Manuku to his servant Patoran, and to all who reside in Vala Vindu. If there are who disturb this grant, their reward <supplied reason="subaudible">into</supplied> the future’s future is <supplied reason="subaudible">that of</supplied> the five great sins.</p>
 <!-- hana umulah-uk;ah: check Z whether absence of nominalizin moprheme is described -->
@@ -235,15 +238,16 @@ Thereupon he was given the grant that <supplied reason="subaudible">the land</su
          </div>
          <div type="commentary">
             <!--commentary encoded as per section §9.3 -->
-     	<p n="1v3">The noun <foreign>kuramvit</foreign> must lay at the basis of the place name Kuramvitan attested in a few inscriptions.
+     	<p n="1v3">The noun <foreign>kuramvit</foreign> must lay at the basis of the place name Kuramvitan attested in a few inscriptions.  cf. Kurambitan 791
 	<!--perhaps it is derived from an (unattested) base <foreign>kamvit</foreign>. -->
 	Is there a connection with the word <foreign>kerambit</foreign> meaning <q>small sickle</q> in Malay?</p>
-	<p n="1v5">Er Baraṅan: cf. Air Baraṅan in the Mantyasih inscriptions. The meaning <q>by all kinds of exploiters wherever they go to trade</q> seems unusual.</p>
+	<p n="1v4"><foreign>vala vindu</foreign>: <foreign>vindu</foreign> in modern Javanese can mean ’well’.</p>
+   <p n="1v5">Er Baraṅan: cf. Air Baraṅan in the Mantyasih inscriptions. The meaning <q>by all kinds of exploiters wherever they go to trade</q> seems unusual.</p>
 <!-- the Er Barańan occurs again at the end! -->
 <!-- Marine: "[as well as] all others who trade" -->
 <!-- Jarrah: see katamana as equivalent to kaknāna 'not affected by' . Though OJED doesn't make it clear, in ModJav tama and kena are equivalent -->
 <!-- Madhawapura, Plate B, Frankfurt 4. OJO DDV. “… tan kaknāna dravya haji saparanyan adval avli, -->
-	<p n="2r4">pituṅtuṅ: the meaning is unlikely to be <q>chief</q>, as tentatively proposed in OJED; rather, the words <foreign>pihujuṅ</foreign> and <foreign>piluṅgah</foreign> seems to be quasi synonyms.</p>
+	<p n="2r4"><foreign>pituṅtuṅ</foreign>: the meaning is unlikely to be <q>chief</q>, as tentatively proposed in OJED; rather, the words <foreign>pihujuṅ</foreign> and <foreign>piluṅgah</foreign> seems to be quasi synonyms.</p>
              <p n="2r1-2r3">On the toponyms figuring here, see <bibl><ptr target="bib:Casparis1950_01"/><citedRange unit="page">151-160</citedRange></bibl>.</p>
              <p n="2r4-2r5">Note that the two <foreign>kalima</foreign>s bear the names Sruka and Sruva, which are evidently (derived from) the Sanskrit words for two types of ritual spoons, the <foreign>sruk</foreign> and the <foreign>sruva</foreign>. This parallelism of names suggests a strong connection of some sort between the two persons in question, despite their affiliation with two different villages.</p>
 <!-- message from Jarrah:
