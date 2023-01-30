@@ -94,6 +94,7 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
+         <change who="part:wjsa" when="2023-01-30" status="draft">Fixed the way choices are encoded</change>
         <change who="part:wjsa" when="2022-05-20" status="draft">Tidied up line breaks and added full apparatus</change>
          <change who="part:wjsa" when="2022-04-29" status="draft">Started encoding the inscription</change>
       </revisionDesc>
@@ -106,7 +107,7 @@
            n="1r3" break="no"/>tan· paṅidulnya ḍpa sihuĀ 93 kidul· paṅabaratnya ḍpa sihuĀ 112 kabarat· paṅalornya ḍpa sihuĀ 93 lor paṅavetanya ḍpa sihuĀ 112 Anu<supplied reason="omitted">ṁ</supplied> ma<lb
            n="1r4" break="no"/>kalmaḥ Ikanaṁ lmaḥ Anak vanuA I taji, ṅarannikanaṁ malmaḥ, si tukai ramani tihaṁ, muAṁ si padas· Ibuni suməg·, si məṇḍut· Ibuni maṅās·, si kiṇḍayut· rāmani
            <lb n="1r5"/>bəR̥tək·, si tavḍak· ramani səmək·, si kuśala ramani ṇḍanaḥ, si glo ramani kulir·, si bṅal· ramani kalihan·, Ubhaya-sanmata patūtni vuvusnya sakvaiḥnya,
-           <lb n="1r6"/>salmaḥ praśama Umehakann ikanaṁ lmaḥ muAṁ Ikanaṁ rāma I taji kabaiḥ, Ubhaya-niścita kapuA maṅayubhāgyan sinusuk· Ikanaṁ lmaḥ de rakryān·, nāhan mataṅya<lb
+           <lb n="1r6"/>salmaḥ pra<choice><corr>s</corr><sic>ś</sic></choice>ama Umehakann ikanaṁ lmaḥ muAṁ Ikanaṁ rāma I taji kabaiḥ, Ubhaya-niścita kapuA maṅayubhāgyan sinusuk· Ikanaṁ lmaḥ de rakryān·, nāhan mataṅya<lb
            n="1r7" break="no"/>n· sinusuk· de rakryān· ginavai kabikuAn·, ṅarannikanaṁ kabikuAn· Iṁ devasabhā muAṁ savaḥ I taji salamvit· sīmānikanaṁ kabikuAn·, ṅarannikanaṁ savaḥ Iṁ nyū
            <lb n="1r8"/>nāhan· paR̥ṁnya sinusuk·, de rakryān· rikanaṁ kāla<supplied reason="omitted">,</supplied></p> <p part="I">makon· rakryān· maṅasəAkna pasak·-pasak· I rakryān· mapatiḥ, savyavasthāniṁ manusuk· sīmā daṅū, raka<lb
            n="1r9" break="no"/>rayān· ri hino pu bāhubajrapratipakṣaḳsaya, rakryān· I sirikan· pu samaravikrānta, rakryān· I vka pu kutak·, saṁ pamgat· tiruAn· saṁ śivā<lb
