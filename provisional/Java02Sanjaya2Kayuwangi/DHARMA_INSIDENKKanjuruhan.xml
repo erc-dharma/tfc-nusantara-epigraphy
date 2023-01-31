@@ -8,7 +8,7 @@
     <teiHeader>
     	<fileDesc>
     		<titleStmt>
-    			<title>The Kanjuruhan Charter</title>
+    			<title>The Kanjuruhan Charter (682 Śaka)</title>
     			<respStmt>
     				<resp>EpiDoc Encoding</resp>
     				<persName ref="part:argr">
@@ -83,7 +83,7 @@
 <ab xml:lang="kaw-Latn"><lb n="1"/>|| svasti śaka-varṣātīta <num value="682">682</num></ab>
 
 <lg met="anuṣṭubh" n="1">
-	<l n="a"><lb n="2"/>|| Āsīt· nara-pati<choice><orig>ḥ</orig><reg>r</reg></choice> dhīmān</l> 
+	<l n="a"><lb n="2"/>|| Āsī<choice><orig>t·</orig><reg>n</reg></choice> nara-pati<choice><orig>ḥ</orig><reg>r</reg></choice> dhīmān</l> 
 	<l n="b">deva-siṁhaḥ pra<lb n="3" break="no"/>tāpavān·</l>
 	<l n="c">yena gupt<unclear>ā</unclear> purī bhāti</l>
 	<l n="d">pūtikeśva<lb n="4" break="no"/>ra-pāvitā</l>
