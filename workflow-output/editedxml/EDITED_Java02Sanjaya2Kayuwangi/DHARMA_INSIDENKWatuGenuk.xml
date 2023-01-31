@@ -87,14 +87,14 @@
 <lg n="1" met="anuṣṭubh">
    <l n="a"><lb n="1"/>mahādeve mudā bhaktiḥ</l> 
    <l n="b">tridhā yasya viśeṣata<unclear>ḥ</unclear></l>
-   <l n="c"><lb n="2"/><unclear>ma</unclear>hāy<unclear cert="low">au</unclear>ve sadā bhuktiḥ</l> 
+   <l n="c"><lb n="2"/>sahāye v<choice><sic>e</sic><corr>ai</corr></choice> sadā bhuktiḥ</l> 
    <l n="d">sudhāmno ’sya vaśe sataḥ</l>
 </lg>
 <lg n="2" met="sragdharā">
    <l n="a"><lb n="3"/>yaẖ kālo varṣa-māsa-prabhr̥tir iha budhair ggaṇyate vi<unclear>stareṇa</unclear></l>
-   <l n="b"><lb n="4"/>yad dhema-śleṣṭa-miṣṭañ jagati vih X ta ma X riya X X X X</l>
-   <l n="c"><lb n="5"/>dampatyor yyogato yaḫ prabhavati tanayas so yadā cendriyā <gap reason="illegible"/></l>
-   <l n="d"><lb n="6"/>viṣṇu<unclear>r</unclear> bhāryyāṁ sutantrīn mr̥<seg rend="check">tatam</seg> iha <unclear cert="low">mudābhāryya simlyena</unclear> X X</l>
+   <l n="b"><lb n="4"/>yad dhema-śleṣṭa-miṣṭañ jagati <unclear>va</unclear>huvi<unclear>dha</unclear> tama X riya X X X X</l>
+   <l n="c"><lb n="5"/>dampatyor yyogato yaḫ prabhavati tanayas so yadā cendriyā <gap reason="illegible" quantity="1" unit="character"/></l>
+   <l n="d"><lb n="6"/>viṣṇu<unclear>r</unclear> bhāryyāṁ sutantrīn mr̥<seg rend="check">tatam</seg><!-- spṛhatum? --> iha <unclear cert="low">mudābhāryya simlyena</unclear> X X</l>
 </lg>
 
          </div>
@@ -113,8 +113,7 @@
             <!--commentary encoded as per section §9.3 -->
          </div>
         <div type="bibliography">
-	<!--bibliography encoded as per section §9.4 -->
-           <p><!-- formulate epigraphic lemma here, using the items of primary bibliography --></p>
+           <p>Read by Arlo Griffiths on 31st January 2023 from photos and a 3D model furnished respectively by Kusworo Rahadyan and by Goenawan Sambodo.</p>
         	<listBibl type="primary">
 				<bibl n="siglum"/><!-- one <bibl/> per item of primary bibliography. Every entry mentionned in apparatus  should hava a @n to declare its sigla -->
 			</listBibl>
