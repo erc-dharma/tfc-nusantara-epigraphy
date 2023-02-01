@@ -77,13 +77,13 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
+         <change who="part:argr" when="2023-02-01" status="draft">finished basic encoding</change>
          <change who="part:argr" when="2023-01-31" status="draft">first commit of initial reading</change>
       </revisionDesc>
    </teiHeader>
    <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="san-Latn">
-            <!--edition encoded as per EGD §§2−7-->
 <lg n="1" met="anuṣṭubh">
    <l n="a"><lb n="1"/>mahādeve mudā bhaktiḥ</l> 
    <l n="b">tridhā yasya viśeṣata<unclear>ḥ</unclear></l>
@@ -92,25 +92,26 @@
 </lg>
 <lg n="2" met="sragdharā">
    <l n="a"><lb n="3"/>yaẖ kālo varṣa-māsa-prabhr̥tir iha budhair ggaṇyate vi<unclear>stareṇa</unclear></l>
-   <l n="b"><lb n="4"/>yad dhema-śleṣṭa-miṣṭañ jagati <unclear>va</unclear>huvi<unclear>dha</unclear> tama X riya X X X X</l>
-   <l n="c"><lb n="5"/>dampatyor yyogato yaḫ prabhavati tanayas so yadā cendriyā <gap reason="illegible" quantity="1" unit="character"/></l>
-   <l n="d"><lb n="6"/>viṣṇu<unclear>r</unclear> bhāryyāṁ sutantrīn mr̥<seg rend="check">tatam</seg><!-- spṛhatum? --> iha <unclear cert="low">mudābhāryya simlyena</unclear> X X</l>
+   <l n="b"><lb n="4"/>yad dhema <sic>śleṣṭa</sic>-miṣṭañ jagati <unclear>va</unclear>huvi<unclear>dhaṁ</unclear> <unclear cert="low">pū</unclear>raya <seg met="+-+="><gap reason="illegible" quantity="4" unit="character"/></seg></l>
+   <l n="c"><lb n="5"/>dampatyor yyogato yaḫ prabhavati tanayas so yadā cendriyā<seg met="="><gap reason="illegible" quantity="1" unit="character"/></seg></l>
+   <l n="d"><lb n="6"/>viṣṇ<unclear cert="low">u</unclear>ṁ bhāryyāṁ sutan trīn mr̥<seg rend="check">tatam</seg><!-- spṛhatum? --> iha <unclear cert="low">mudābh</unclear>āryyasiddhyena <seg met="+="><gap reason="illegible" quantity="2" unit="character"/></seg></l>
 </lg>
 
          </div>
-         <!-- <div type="apparatus">
+         <div type="apparatus">
                <listApp>
-                  <app loc="line">
-                     <lem>...</lem>
-                     <rdg>...</rdg>
+                  <app loc="4">
+                     <lem><sic>śleṣṭa</sic>-</lem>
+                     <note>This word cannot be accepted as it stands. But I am unsure whether to emend it to <foreign>śliṣṭa</foreign>, <foreign>śleṣma</foreign> or <foreign>śleṣa</foreign>.</note>
                   </app>
                </listApp>
-         </div> -->
+         </div>
          <div type="translation" resp="part:argr">
- 	<!--translation encoded as per EGD §9.2 -->
+ 	<p rend="stanza" n="1">The well-mannered one who, with joy, has particular devotion to Mahādeva three times <supplied reason="explanation">per day</supplied> always benefits from the Companion <supplied reason="explanation">Śiva</supplied>, being in <supplied reason="subaudible">His</supplied> control.</p>
+	<p rend="stanza" n="2">Time, which the wise men here exhaustively starting by years and months; gold, which in <supplied reason="subaudible">this</supplied> world variously ...; the son who is born from the union of spouses ... and when ... the senses ...; Viṣṇu, his wife <supplied reason="subaudible">and</supplied> their son, the three, ... here ... </p>
          </div>
          <div type="commentary">
-            <!--commentary encoded as per section §9.3 -->
+           <p>The text is incomplete. Traces of the very top of a 7th line are visible on the photos. Unusual cross marks occupy the space between lines 1 and 2. Extra space is left open between stanzas 1 and 2.</p>
          </div>
         <div type="bibliography">
            <p>Read by Arlo Griffiths on 31st January 2023 from photos and a 3D model furnished respectively by Kusworo Rahadyan and by Goenawan Sambodo.</p>
