@@ -110,7 +110,7 @@
 	<bibl n="siglum"/>
 	</listBibl>
            <listBibl type="secondary">
-              <bibl/><!-- one <bibl/> per item of secondary bibliography -->
+              <bibl/>
            </listBibl>
         </div>
       </body>
