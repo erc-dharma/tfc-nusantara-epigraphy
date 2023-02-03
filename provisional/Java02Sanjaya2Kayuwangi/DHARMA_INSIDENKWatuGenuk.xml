@@ -68,6 +68,7 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
+        	<change who="part:argr" when="2023-02-03" status="draft">improved edition and translation</change>
         	<change who="part:argr" when="2023-02-01" status="draft">finished basic encoding</change>
         	<change who="part:argr" when="2023-01-31" status="draft">first commit of initial reading</change>
         </revisionDesc>
@@ -91,14 +92,16 @@
          </div>
          <!-- <div type="apparatus"/>  -->
          <div type="translation" resp="part:argr">
- 	<p rend="stanza" n="1">The well-housed one who, with joy, has particular devotion to Mahādeva <supplied reason="explanation">i.e.,Śiva</supplied> three times <supplied reason="explanation">per day</supplied> always has at will the enjoyment of companionship.</p>
-	<p rend="stanza" n="2"><supplied reason="subaudible">As</supplied> time, which the wise men here count exhaustively starting by years and months; <supplied reason="subaudible">as</supplied> the most precious gold, which in <supplied reason="subaudible">this</supplied> world is desired variously ...; as the son who is born from the union of spouses' organs, <supplied reason="subaudible">so</supplied> I constantly bow, with joy, to the three here — Viṣṇu, his wife <supplied reason="subaudible">and</supplied> their son — for the success of undertakings.</p>
+ 	<p rend="stanza" n="1">He who, with joy, has particular devotion to Mahādeva <supplied reason="explanation">i.e.,Śiva</supplied> three times <supplied reason="explanation">per day</supplied>, that good one is a fine locus <supplied reason="explanation">for Śiva, or for devotion to Śiva</supplied> and always has at will the pleasure of <supplied reason="explanation">Śiva as</supplied> a companion.</p>
+	<p rend="stanza" n="2"><supplied reason="subaudible">As</supplied> time, which the learned reckon extensively using <supplied reason="explanation">such units of measure as</supplied> years, months, etc.; 
+<supplied reason="subaudible">as</supplied> best kind of gold which is desired in the world in its various forms ...;<note>The expression <q>best kind of gold</q> (<foreign>hema śreṣṭham ... bahuvidham</foreign>) may be an allusion to the passage of chapter 2.13 of the <title>Arthaśāstra</title> which presents a classification of types of gold. In that chapter (2.13.4), we read: <foreign>kiñjalka-varṇaṃ mr̥du snigdham anādi bhrājiṣṇu ca śreṣṭham</foreign> <q>The best kind has the color of lotus filament and is soft, smooth, not sonorous, and radiant</q> (<bibl><ptr target="bib:Olivelle2013_01"/><citedRange>130</citedRange></bibl>).</note> as the son who is born from the union of spouses' organs, <supplied reason="subaudible">so</supplied> I constantly bow, with joy, to the three here — Viṣṇu, his wife <supplied reason="subaudible">and</supplied> their son — for the success of undertakings.</p>
          </div>
          <div type="commentary">
            <p>The text is incomplete. Traces of the very top of a 7th line are visible on the photos. Unusual cross marks occupy the space between lines 1 and 2. Extra space is left open between stanzas 1 and 2.</p>
+	<p>The interpretation of stanza II is quite uncertain, partly because of the lacuna at the end of line 4 and the uncertainty of the readings at the ends of lines 5 and 6. One has the impression that the three figures mentioned in the fourth verse quarter somehow correspond to the items Time (Viṣṇu), Gold (= Lakṣmī, Viṣṇu's wife) and Son of the preceding three verse quarters, though the identification of Viṣṇu with Time is not a standard one and it is not clear who the son would be.</p>
          </div>
         <div type="bibliography">
-           <p>Read by Arlo Griffiths on 31st January 2023 from photos and a 3D model furnished respectively by Kusworo Rahadyan and by Goenawan Sambodo.</p>
+           <p>Read by Arlo Griffiths on 31st January through 3 February, 2023 from photos and a 3D model furnished respectively by Kusworo Rahadyan and by Goenawan Sambodo.</p>
         <!--	<listBibl type="primary"/>
            <listBibl type="secondary"/>-->
         </div>
