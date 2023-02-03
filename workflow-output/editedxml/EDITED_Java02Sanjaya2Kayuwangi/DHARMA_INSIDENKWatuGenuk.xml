@@ -49,7 +49,7 @@
                </msContents>
                <physDesc>
                   <handDesc>
-                     <p>One instance each of <foreign>jihvāmūlīya</foreign> (<foreign>ẖ</foreign>) and <foreign>upadhmānīya</foreign> (<foreign>ḫ</foreign>), known elsewhere in Java only in the inscriptions of Pūrṇavarman.</p>
+                     <p>Script indicating a dating to the late 8th or in the 9th century. One instance each of <foreign>jihvāmūlīya</foreign> (<foreign>ẖ</foreign>) and <foreign>upadhmānīya</foreign> (<foreign>ḫ</foreign>), known elsewhere in Java only in the inscriptions of Pūrṇavarman.</p>
                   </handDesc>
                </physDesc>
             </msDesc>
@@ -93,34 +93,23 @@
 <lg n="2" met="sragdharā">
    <l n="a"><lb n="3"/>yaẖ kālo varṣa-māsa-prabhr̥tir iha budhair ggaṇyate vi<unclear>stareṇa</unclear></l>
    <l n="b"><lb n="4"/>yad dhema ś<unclear reason="eccentric_ductus">r</unclear>eṣṭham iṣṭañ jagati <unclear>va</unclear>huvi<unclear>dhaṁ</unclear> <unclear cert="low">pū</unclear>raya <seg met="+-+="><gap reason="illegible" quantity="4" unit="character"/></seg></l>
-   <l n="c"><lb n="5"/>dampatyor yyogato yaḫ prabhavati tanayas so ya<unclear>th</unclear>ā cendriyā<seg met="="><gap reason="illegible" quantity="1" unit="character"/></seg></l>
+   <l n="c"><lb n="5"/>dampatyor yyogato yaḫ prabhavati tanayas so ya<unclear>th</unclear>ā cendriyā<unclear cert="low">ṇāṁ</unclear></l>
    <l n="d"><lb n="6"/>viṣṇ<unclear cert="low">u</unclear>ṁ bhāryyāṁ sutan trīn <unclear>sa</unclear>tatam iha <unclear cert="low">mudā</unclear> kāryyasiddhyai na<unclear cert="low">māmi</unclear></l>
 </lg>
 
          </div>
-         <div type="apparatus">
-               <listApp>
-                  <app loc="4">
-                     <lem><sic>śleṣṭa</sic>-</lem>
-                     <note>This word cannot be accepted as it stands. But I am unsure whether to emend it to <foreign>śliṣṭa-</foreign>, <foreign>śleṣma-</foreign> or <foreign>śleṣa-</foreign>. Another possibility might be to read <foreign>śl</foreign> as <foreign>śc</foreign> and divide the words differently: <foreign>yad-dhemaś ceṣṭa-</foreign>.</note>
-                  </app>
-               </listApp>
-         </div>
+         <!-- <div type="apparatus"/>  -->
          <div type="translation" resp="part:argr">
  	<p rend="stanza" n="1">The well-housed one who, with joy, has particular devotion to Mahādeva <supplied reason="explanation">i.e.,Śiva</supplied> three times <supplied reason="explanation">per day</supplied> always has at will the enjoyment of companionship.</p>
-	<p rend="stanza" n="2"><supplied reason="subaudible">As</supplied> time, which the wise men here exhaustively starting by years and months; <supplied reason="subaudible">as</supplied> the best gold, which in <supplied reason="subaudible">this</supplied> world is desired variously ...; as the son who is born from the union of the spouses’ organs — <supplied reason="subaudible">so</supplied> I constantly bow, with joy, to the three here — Viṣṇu, his wife <supplied reason="subaudible">and</supplied> their son — for the success of undertakings.</p>
+	<p rend="stanza" n="2"><supplied reason="subaudible">As</supplied> time, which the wise men here count exhaustively starting by years and months; <supplied reason="subaudible">as</supplied> the most precious gold, which in <supplied reason="subaudible">this</supplied> world is desired variously ...; as the son who is born from the union of spouses’ organs, <supplied reason="subaudible">so</supplied> I constantly bow, with joy, to the three here — Viṣṇu, his wife <supplied reason="subaudible">and</supplied> their son — for the success of undertakings.</p>
          </div>
          <div type="commentary">
            <p>The text is incomplete. Traces of the very top of a 7th line are visible on the photos. Unusual cross marks occupy the space between lines 1 and 2. Extra space is left open between stanzas 1 and 2.</p>
          </div>
         <div type="bibliography">
            <p>Read by Arlo Griffiths on 31st January 2023 from photos and a 3D model furnished respectively by Kusworo Rahadyan and by Goenawan Sambodo.</p>
-        	<listBibl type="primary">
-	<bibl n="siglum"/>
-	</listBibl>
-           <listBibl type="secondary">
-              <bibl/>
-           </listBibl>
+        <!--	<listBibl type="primary"/>
+           <listBibl type="secondary"/>-->
         </div>
       </body>
   </text>
