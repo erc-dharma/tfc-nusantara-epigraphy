@@ -113,8 +113,7 @@
 <lb n="3v3" break="no"/>stra-parisamāpta</foreign>, samgət i kaṇḍamuhi, ḍaṅ ācāryya marmmanātha, mapañjy āṁśuman·, sorapakṣa <foreign xml:lang="san-Latn">nyāya-vy<choice><orig>a</orig><reg>ā</reg></choice>
 <lb n="3v4" break="no"/>karaṇa-śāstra-parisamāpta</foreign>, samgət i maṅhuri, ḍaṅ ācāryya smaranātha, bhairavapakṣa <foreign xml:lang="san-Latn">nyāya-vy<choice><orig>a</orig><reg>ā</reg></choice>ka
 <lb n="3v5" break="no"/>raṇa-śāstra-parisamāpta</foreign>, samgət i jāmba, ḍaṅ ācāryya jayasmara, sorapakṣa <foreign xml:lang="san-Latn"><choice><orig>śaṅkya</orig><reg>sāṁkhya</reg></choice>-śāstra-parisamā<pb n="4r" break="no"/><fw n="4r" rend="bt-rotated" place="left"><num value="4">4</num></fw><lb n="4r1" break="no"/>pta,</foreign> samgət i pamuAtan· ḍaṅ ācāryyāgreśvara <unclear>bhai</unclear>ravapakṣa <foreign xml:lang="san-Latn">nyāya-vy<choice><orig>a</orig><reg>ā</reg></choice>karaṇa-śāstra-parisamāpta</foreign>,
-<lb n="4r2"/> samgət i kaṇḍaṅan rarai, ḍaṅ ācāryya mun<unclear>īnd</unclear>ra<unclear>,</unclear> <foreign xml:lang="san-Latn">boddha-śāstra-parisamāpta</foreign>,</p><p>maṁrasa-rasani saṅka ri gə:ṁniy a
-<lb n="4r3" break="no"/><choice><orig>d</orig><reg>dh</reg></choice>imuktinikaṁ vyavahāri kāliḥ, ku<unclear>m</unclear>va pgat kavivakṣanya de <unclear>saṁ</unclear> pragvivāka matguḥ ri kapakṣa<choice><orig>d</orig><reg>dh</reg></choice>armman·
+<lb n="4r2"/> samgət i kaṇḍaṅan rarai, ḍaṅ ācāryya mun<unclear>īnd</unclear>ra<unclear>,</unclear> <foreign xml:lang="san-Latn">boddha-śāstra-parisamāpta</foreign>,</p><p>maṁrasa-rasani saṅka ri gə:ṁniy a<lb n="4r3" break="no"/><choice><orig>d</orig><reg>dh</reg></choice>imuktinikaṁ vyavahāri kāliḥ, ku<unclear>m</unclear>va pgat kavivakṣanya de <unclear>saṁ</unclear> pragvivāka matguḥ ri kapakṣa<choice><orig>d</orig><reg>dh</reg></choice>armman·
 <lb n="4r4"/>ri daL̥m nāgara, marmmanikaṁ <choice><orig>vyāvahari</orig><reg>vyavahāri</reg></choice> kāliḥ sacchaya mampak-āmpak· humatur i taṇḍa rakryan· riṁ
 <lb n="4r5"/>pakira-kiran makabehan·, mintonakən· <unclear>pakṣa</unclear>nya <unclear>so</unclear>vaṁ-sova<unclear>ṁ</unclear>, kunəṁ suṅan· vara-varaḥ Aki<pb n="4v"/><lb n="4v1"/>sant<choice><orig>a</orig><reg>ā</reg></choice>na, mapañji śaraṇa, muAṁ sarovaṁnya, ki karṇna, mapañji manākara, Ajaran· reka, ki siran·, ki jumput·<g type="filler">§</g>
 <lb n="4v2"/><unclear>U</unclear>ṅsun madr̥vya lmaḥ punaṁ manah i manuk·, kayoniṁ savaḥ, Aḍavuṁ, liriḥ, 1, I beR̥m·, liriḥ, 1, I pa⌈
@@ -256,7 +255,11 @@ hayaṅ ñaho di (568)pupuja di saṅgar ma, patah, puja daun, gәlar (569)palaj
          </div>
         <div type="bibliography">
 	<!--bibliography encoded as per section §9.4 -->
-	<p>First edited by Brandes, republished by Pigeaud and edited again by Boechari (<bibl rend="omitname"><ptr target="bib:Boechari1985-1986_01"/><citedRange unit="page">97-100</citedRange> <citedRange unit="item">E.35</citedRange></bibl>); re-edited here by Marine Schoettel from the estampage of the plate made available by the Museum Nasional Indonesia.</p>
+	<p>First edited by Brandes, republished by Pigeaud and edited again by Boechari; re-edited here by Marine Schoettel from the estampage of the plate made available by the Museum Nasional Indonesia.</p>
+	<listBibl type="primary">
+<bibl n="Br"><ptr target="bib:Brandes1913_01"/><citedRange unit="page">???</citedRange><citedRange unit="item">???</citedRange></bibl>
+<bibl n="Boe"><ptr target="bib:Boechari1985-1986_01"/><citedRange unit="page">97-100</citedRange><citedRange unit="item">E.35</citedRange></bibl>
+	</listBibl>
             <listBibl type="secondary">
 	 <bibl><ptr target="bib:NBG52_1914"/><date>1914</date><citedRange unit="volume">LII</citedRange><citedRange unit="page">44-45, 52, 192</citedRange></bibl>
 </listBibl>
