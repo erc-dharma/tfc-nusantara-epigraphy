@@ -32,7 +32,7 @@
     <git-clone-pull repository="https://github.com/erc-dharma/project-documentation.git" dest="project-documentation" />
     <git-clone-pull repository="https://github.com/erc-dharma/mdt-texts.git" dest="mdt-texts" />
 
-    <fileset id="xmlFiles" dir="./provisional" includes="**/*.xml"/>
+    <fileset id="xmlFiles" dir="./xml" includes="*.xml"/>
     <fileset id="htmlFiles" dir="./workflow-output/editedxml" includes="**/*.xml"/>
     <!-- Steps for the mdt -->
     <fileset id="mdtFiles" dir="./mdt-texts/output" includes="DHARMA_mdt_INSIDENK*.xml"/>

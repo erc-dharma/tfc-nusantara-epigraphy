@@ -21,20 +21,6 @@ jobs:
        - name: Build with Ant
          run: ant -noinput -buildfile build.xml
 
-# create a package with the resulting XML files.
-       - name: Archive XML
-         uses: actions/upload-artifact@v2
-         with:
-           name: DHARMA_XMLCollection
-           path: workflow-output/editedxml
-
-       # create a package with the resulting html files.
-       - name: Archive HTML
-         uses: actions/upload-artifact@v2
-         with:
-           name: DHARMA_HTMLCollection
-           path: workflow-output/html
-
        - name: Updating the edited texts in the repository
          run: |
           git config user.name github-actions
