@@ -69,6 +69,7 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
+        	<change who="part:argr" when="2023-04-06" status="draft">finished encoding the inscriptions</change>
         	<change who="part:argr" when="2023-03-01" status="draft">first commit of draft encoding</change>
         </revisionDesc>
     </teiHeader>
@@ -79,40 +80,40 @@
 <lb n="3"/>// svasti śaka-varṣātīta
 <lb n="4"/><num value="709">709</num> caitra-māsa ṣaṣṭi kr̥ṣṇa-pakṣa
 <lb n="5"/>śukra-vāra vurukuṁ pon· tatkāla ḍaṁ karayān·
-<lb n="6"/><gap reason="lost" quantity="3" unit="character"/>ś<unclear>mī</unclear> senāpati, mamulaṁṅa<unclear>ka</unclear>n sīma ḍi vanva I
+<lb n="6"/><gap reason="lost" quantity="2" unit="character"/>śr̥<unclear>ī</unclear> senāpati, mamulaṁṅa<unclear>ka</unclear>n sīma ḍi vanva I
 <lb n="7"/>ḍisunuḥ ḍaṁ karayān· humaṇḍiṁ ḍapunta tīs· mahāla<unclear>kṣma</unclear> ḍisu<lb 
 n="8" break="no"/>nuḥ ḍaṁ karayān· vakka saṁ ḍanu<choice><sic> I,</sic><corr>, I</corr></choice> ḍisunuḥ ḍapunta maṁṅuhu<supplied reason="lost">r</supplied>i
 <lb n="9"/>ḍapunta tīra, ḍisunuḥ ḍaṁ tiruAn· <unclear>saṁ</unclear> galaha, saṁ
-<lb n="10"/>ḍisunuḥ ḍapunta rājasiṁh<unclear>eś</unclear>varaḥ
-<lb n="11"/>saṁ vayur· saṁ pravalā nāma
+<lb n="10"/>ḍisunuḥ ḍapunta rāja<space type="descender"/>siṁh<unclear>eś</unclear>varaḥ
+<lb n="11"/>saṁ vayur· saṁ pravalā nāma,
 <lb n="12"/>manurat·
-<lb n="1"/>bhagavānta tā <gap reason="illegible" quantity="1" unit="character"/> <unclear>ḍa</unclear><supplied reason="lost">ṁ</supplied>
-<lb n="2" break="no"/><unclear>ka</unclear>rayān· <unclear>su</unclear><space type="ascender" quantity="2" unit="character"></space><seg rend="check">(jana)ma</seg>
+<lb n="1"/>bhagavānta t<unclear>ā</unclear><gap reason="illegible" quantity="1" unit="character"/> <unclear reason="eccentric_ductus">ḍa</unclear><supplied reason="lost">ṁ</supplied>
+<lb n="2" break="no"/><unclear>ka</unclear>rayān· <unclear>sva</unclear><space type="ascender" quantity="2" unit="character"/><unclear>sthā</unclear> năma
 </p>
          </div>
-        <!-- <div type="apparatus">
+        <div type="apparatus">
                <listApp>
-                  <app loc="line">
-                     <lem></lem>
-                     <rdg source="bib:AuthorYear_01"></rdg>
+                  <app loc="6">
+                     <lem>śr̥<unclear>ī</unclear> senāpati</lem>
+                     <rdg source="bib:GoenawanASambodo2018_02">śr̥ī rānāpati</rdg>
+<note>For other examples, from South and Southeast Asia, of the redundant spelling <foreign>r̥ī</foreign> for <foreign>rī</foreign>, see <bibl><ptr target="bib:Griffiths+al2017_01"/><citedRange unit="page">78</citedRange><citedRange unit="note">83</citedRange></bibl>.</note>
                   </app>
                </listApp>
-         </div> -->
+         </div>
          <div type="translation" resp="part:argr">
- 	<!--translation encoded as per EGD §9.2 -->
+ 	<p></p>
          </div>
          <div type="commentary">
-            <!--commentary encoded as per section §9.3 -->
+            <p>The two upper physical lines have been engraved there secondarily, when the engraver ran out of space at the bottom of the stone. The text therefore begins on line 3 and end on line 2. The misreading of the segment <foreign>śr̥<unclear>ī</unclear> senāpati</foreign> in line 6 in the initial reading by Goenawan Sambodo has led to the inscription becoming known under the name Sri Ranapati.</p>
          </div>
         <div type="bibliography">
-	<!--bibliography encoded as per section §9.4 -->
-           <p><!-- formulate epigraphic lemma here, using the items of primary bibliography --></p>
+	<p>First edited and informally published by Goenawan Sambodo. Re-edited here by Arlo Griffiths from photographs.</p>
         	<listBibl type="primary">
-				<bibl n="siglum"/><!-- one <bibl/> per item of primary bibliography. Every entry mentionned in apparatus  should hava a @n to declare its sigla -->
+	<bibl n="siglum"><ptr target="bib:GoenawanASambodo2018_02"/></bibl>
 			</listBibl>
-           <listBibl type="secondary">
-              <bibl/><!-- one <bibl/> per item of secondary bibliography -->
-           </listBibl>
+           <!-- <listBibl type="secondary">
+              <bibl/>
+           </listBibl> -->
         </div>
       </body>
   </text>
