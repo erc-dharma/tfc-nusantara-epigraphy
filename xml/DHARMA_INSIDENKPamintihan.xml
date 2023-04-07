@@ -199,7 +199,8 @@ Damais 1955, 85 n. 2
 <app loc="3v3"><lem source="bib:Boechari1985-1986_01">iṁ kali</lem><rdg source="bib:Bosch1922_01">ikaṁ li</rdg><note>Bosch's reading was corrected already by <bibl><ptr target="bib:Muusses1929_01"/><citedRange unit="page">208</citedRange><citedRange unit="note">1</citedRange></bibl>.</note></app>
 <!--	3v4. tkeṅ aiśānya: tkaṅ aiṣanya Bosch, tkeṅ aisānya Boechari, 
 	3v5. aiśānya tkeṁ: aiṣanya tkaṁ Bosch, aiṣānya tkeṁ Boechari. -->
-<app loc="3v6"><lem source="bib:Bosch1922_01 bib:Boechari1985-1986_01">tataṇḍaṅan·</lem><note>It is perhaps also possible to read <foreign>kataṇḍaṅan·</foreign> or <foreign>kakaṇḍaṅan·</foreign>.</note></app>
+<app loc="3v6"><lem source="bib:Bosch1922_01 bib:Boechari1985-1986_01">tataṇḍaṅan·</lem>
+<note>It is perhaps also possible to read <foreign>kataṇḍaṅan·</foreign> or <foreign>kakaṇḍaṅan·</foreign>.</note></app>
 <!-- 	4r. pcal 9, kasine: pcal 8, kasine Bosch. Reading of the numeral sign corrected by Muusses 1929: 208.
 	4r. 18: corr. 28. See Muusses 1929: 208 n. 1.
 	4r. kaparabyāpăra: kaparabyāmara Bosch. Certaibly a misreading by Bosch.
@@ -226,12 +227,11 @@ Damais 1955, 85 n. 2
  	<!--translation encoded as per EGD §9.2 -->
          </div>
          <div type="commentary">
-            <p>Discovered as a set of 4 out of an original set of 5 plates. Plate number 2 was not among the discovered plates. Plate number 4 has been lost after its first decipherment by Bosch. Only plates 1, 3 and 5 presently remain accessible. The meaning of the decoration with plant on stand and bird in left margin of 1v remains unclear.
-</p>
+            <p>Discovered as a set of 4 out of an original set of 5 plates. Plate number 2 was not among the discovered plates. Plate number 4 has been lost after its first decipherment by Bosch. Only plates 1, 3 and 5 presently remain accessible. The meaning of the decoration with plant on stand and bird in the left margin of 1v remains unclear.</p>
          </div>
         <div type="bibliography">
 	<!--bibliography encoded as per section §9.4 -->
-           <p>First deciphered by Bosch with a translation into Dutch of a small section; this edition reproduced and furnished with a complete translation into  Indonesian by Muhammad Yamin; the text of plates 1, 3 and 5 re-edited by Boechari. The text of plates 1, 3 and 5 is re-edited here from photos; since no photos of plate 4 are available, and since the edition by Bosch does not indicate line numbers while it also uses a somewhat normalized romanization system, I have had to guess where line breaks fall and have had to guess the real spelling of the text on the plate.</p>
+           <p>First deciphered by <bibl><ptr target="bib:Bosch1922_01"/></bibl> in somewhat normalized spelling and with a translation into Dutch of a small section; this edition reproduced and furnished with a complete translation into  Indonesian by <bibl><ptr target="bib:MuhammadYamin1962_02"/></bibl>; the text of plates 1, 3 and 5 re-edited by <bibl><ptr target="bib:Boechari1985-1986_01"/></bibl>. The text of plates 1, 3 and 5 is re-edited here from photos; since no photos of plate 4 are available, and since the edition by Bosch does not indicate line numbers while it also uses a somewhat normalized romanization system, I have had to guess where line breaks fall and have had to guess the real spelling of the text on the plate.</p>
         	<listBibl type="primary">
 	<bibl n="OV"><ptr target="bib:Bosch1922_01"/></bibl>
 	<bibl n="PKMN"><ptr target="bib:Boechari1985-1986_01"/></bibl>
