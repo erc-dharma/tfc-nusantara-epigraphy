@@ -124,7 +124,7 @@ n="4r" break="no"/><lb n="4r1"/>kanak· pcal·, <num value="40">40</num>, pacele
 <lb n="4r5"/>pamintihan·, kayon· tambak· kulvan·, pcal·, 3, ya tika kabhuktya denikaṁ plaṁ puñcu, maṅkana rasany anugraha pāduka śrī mahārāja ri saṅ āryya suruṁ,
 <lb n="4r6"/>tuhun tiṅkaḥnikaṁ sīma ri pamintihan·, kevala svatantrādəg riṅgit·, tan kaparabyāpăra deniṁ nāyaka turun-turun sāgəm· sarakut·, lakva-lakvan bva<pb 
 n="4v" break="no"/><lb n="4v1" break="no"/>t-hajyanan·, mvaṁ vinava saṁ mānakatrīṇi, lvirnya paṅkur·, tavan·, tirip·, piṅhe, vahuta rāma, mvaṁ sakveḥ saṁ maṅilala dr̥vya haji vulu-vulu
-<lb n="4v2"/>prakāra miśra para miśra maṅhuryyaṅilala, suṅgiṁ, paṅaruhan·, po galuḥ, taji, sukun·, halu varak·<supplied reason="omitted">,</supplied> manimpiki, maniga, pamaṇikan·,
+<lb n="4v2"/>prakāra miśra para miśra maṅhuryyaṅilala, suṅgiṁ, paṅaruhan·, po<supplied reason="omitted">ḥ</supplied> galuḥ, taji, sukun·, halu varak·<supplied reason="omitted">,</supplied> manimpiki, maniga, pamaṇikan·,
 <lb n="4v3"/>piniṅle, tapa haji<supplied reason="omitted">,</supplied> Er haji, malandaṁ, lca, lab-lab·, taṅkil·, vilaṁ vanva, pakuda, pahasti, puluṁ padi, pavlaṁ-vlaṁ, pāmavāsya, sinagiha, juru
 <lb n="4v4"/>jalir·<supplied reason="omitted">,</supplied> juru huñjəman·, sahulun haji kabeḥ, Ityevamădi, tan tamātaḥ Irikeṁ sīma pan· svatantra, maṅkana taṁ sukhaduḥkha
 <lb n="4v5"/>kady aṅganiṁ mayaṁ tan pavvaḥ, valū rumambat iṁ natar·, vaṅtek kābutan·, māmuk·, mamumpaṁ, ludan·, tūtan·, Aṅśa pratyaṅśa, daṇḍa kudaṇḍa 
@@ -201,12 +201,12 @@ Damais 1955, 85 n. 2
 <app loc="3v6"><lem source="bib:Bosch1922_01 bib:Boechari1985-1986_01">tataṇḍaṅan·</lem>
 <note>It is perhaps also possible to read <foreign>kataṇḍaṅan·</foreign> or <foreign>kakaṇḍaṅan·</foreign>.</note></app>
 	<app loc="4r1"><lem>pcal· <num value="9">9</num>, kasine</lem>
-<rdg source="bib:Bosch1922_01">pcal· 8, kasine</rdg><note>Reading of the numeral sign corrected by <bibl><ptr target="bib:Muusses1929_01"/><citedRange unit="page">208</citedRange></bibl>. This part of the inscription not included by Boechari.</note></app>
+<rdg source="bib:Bosch1922_01">pcal· 8, kasine</rdg><note>Reading of the numeral sign corrected by <bibl><ptr target="bib:Muusses1929_01"/><citedRange unit="page">208</citedRange></bibl>. Plate 4 is not included in Boechari's edition.</note></app>
  	<app loc="4r3"><lem><num value="18"><choice><sic>1</sic><corr>2</corr></choice>8</num></lem><note>See <bibl><ptr target="bib:Muusses1929_01"/><citedRange unit="page">208</citedRange><citedRange unit="note">1</citedRange></bibl>.</note></app>
-<!--	4r6. kaparabyāpăra: kaparabyāmara Bosch. Certaibly a misreading by Bosch.
-	4v. -hajyanan: -lajyanan. Certainly a misreading by Bosch.
-	4v. po galuḥ: corr. poḥ galuḥ. See Narasinghanagara (14v8) miśra, paṅhuraṁ, kriṁ, paḍə:m·, manimpiki, parānakan·, limus· galuḥ, maṁriñca, maṅhuri, paraṁ, suṅka, dhura, paṅaruhan·, poḥ galuḥ, suṅgiṁ, ... 
-	4v. vaṅtek kābutan: corr. vaṅke kābunan.
+	<app loc="4r6"><lem>kaparabyāpăra</lem><rdg source="bib:Bosch1922_01">kaparabyāmara</rdg><note>Certainly a misreading by Bosch.</note></app>
+	<app loc="4v1"><lem>-hajyanan·</lem><rdg source="bib:Bosch1922_01">-lajyanan</rdg><note>Certainly a misreading by Bosch.</note></app>
+	<app loc="4v2"><lem>po<supplied reason="omitted">ḥ</supplied></lem><note>See <ref target="DHARMA_INSIDENKNarasinghanagara.xml">Narasinghanagara</ref> (14v8) <foreign>miśra, paṅhuraṁ, kriṁ, paḍə:m·, manimpiki, parānakan·, limus· galuḥ, maṁriñca, maṅhuri, paraṁ, suṅka, dhura, paṅaruhan·, poḥ galuḥ, suṅgiṁ, ...</foreign>.</note></app>
+<!--	4v. vaṅtek kābutan: corr. vaṅke kābunan.
 	4v. maṇḍihalādi: maṇḍihaludi Bosch. Certainly a misreading by Bosch, given existence of a shape of lā with suku-like subscript. See his misreading mūlu for mūlā in 1v2.
 	4v. agave: avave Bosch. Certainly a misreading by Bosch. Cf. Tuhanyaru (7r4) Aṅgula, Aṁdyun·, Amubut·, Agave suri, Agave kisi, vusu-vusu, payuṁ vlu, mopiḥ, Anipaḥ, ruṅki and Geneng II (25–26) maṁgula, ma⟨ṁ⟩dyun·, mamubut·, magave kisi, payuṁ vlu, mopiḥ, manipa[ḥ,] vusu-vusu, ruṅki, maṅanam-anām·, magave suri, manavaṁ, mañjariṁ, manəpis·, ...
 	5r1. Añjariṁ: Boechari, abariṁ Bosch.
