@@ -52,11 +52,17 @@
                      <p>According to De Casparis (<bibl rend="omitname">
                            <ptr target="bib:Casparis1975_01"/>
                         </bibl>), the charter <q>is written in traditional Majapahit script</q>. The scholar rightly points out the curiosity of the <foreign>akṣara</foreign>
-                        <foreign>ma</foreign>, <q>written in two parts, not unlike the <foreign>ma</foreign> of the Ādityavarman inscriptions.</q> Relying only on a photo of the first plate, he was of course unable to observe the subtle but unmistakable change in the script on the fifth plate, where <foreign>ma</foreign> is written in normal manner.
+                        <foreign>ma</foreign>, <q>written in two parts, not unlike the <foreign>ma</foreign> of the Ādityavarman inscriptions.</q> Relying only on a photo of the first plate, he was unable to observe the subtle but unmistakable change in the script on the fifth plate, where <foreign>ma</foreign> is written in normal manner. There is also other evidence that plate 5 may have been written by a different hand than plates 1 and 3: 
 
-• k and t are either sometimes confused or written in such a manner that k looks like t (kuvera, aṅlakvakən)
+<list rend="bulleted">
+                           <item>the <foreign>pepet</foreign> markers take the form seen in Balinese mss. on plates 1+3 (e.g. 3r1 <foreign>jə:ṁ</foreign>, 3r3 <foreign>kədəvaṁ</foreign>, 3r3 <foreign>hinilaṅakən·</foreign>) while the shape is that of a plain <foreign>ulu</foreign> with two dots inside on plate (e.g. 5r2 <foreign>sahəṇḍag</foreign>, 5r4 <foreign>tləs</foreign>, 5r5 <foreign>pinasākṣyakən</foreign>)</item>
+                           <item>the ‘normal’ shape of <foreign>bh</foreign>, with the two legs running into each other and a top curl parting from the joint is seen on plates 1+3 (e.g. in 1v4 <foreign>suraprabhāva</foreign>, 3r3 <foreign>bhakti</foreign>, 3r4 <foreign>prabhu</foreign> and <foreign>bhakti</foreign>&#x2028;, 3r5 twice <foreign>bhakti</foreign>) while a shape very similar to that of <foreign>sa</foreign> (and indeed misread as such by previous scholars), where the two legs do not clearly meet each other and there is no top curl, is seen on plate 5 (5r2 <foreign>bhaṇḍanya</foreign>, 5r5 <foreign>sabhāmaddhya</foreign>, 5v1 <foreign>bhasmībhūta</foreign>)</item>
+                        </list>
 
-<!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EGD 11.2. --></p>
+To this may be added the fact that on plates 1 and 3 <foreign>k</foreign> and <foreign>t</foreign> are either sometimes confused or written in such a manner that <foreign>k</foreign> looks like <foreign>t</foreign> (<foreign>kuvera</foreign>, <foreign>aṅlakvakən</foreign>). This may also have been the case on the no longer available plate 4, where Bosch read <foreign>vaṅte</foreign> for expected <foreign>vaṅke</foreign> (4v5). No such case has been encountered on plate 5. The fact that no photo is available for plate 4 makes it impossible to be sure whether its hand was that of ptlates 1 ands 3 or rather that of 5.</p>
+                     <p>On plates 1 and 3, the engraver uses two ways of forming akṣara <foreign>lā</foreign>: the normal manner is with <foreign>tarung</foreign> placed to the right of the <foreign>akṣara</foreign>, but exceptionally we find a special <foreign>tarung</foreign> written in subscript form which may especially be confused with cakra and has indeed been misread as such by Bosch   (1r2 <foreign>mūlānakṣatra</foreign>, 3r1 <foreign>lot</foreign>). No relevant case has been found on plate 5. Decorative extensions to <foreign>cakra</foreign>s are seen several times on all available plates. Also throughout the charter, we find the bipartite shape of  <foreign>pasagan</foreign>
+                        <foreign>s</foreign> that is also typical in contemporary manuscripts preserved on Java as well as in Balinese manuscripts down to the present (3v1 <foreign>vet saṅ</foreign>, 3r2 and 3r4 <foreign>dhīrotsāha</foreign>, 3v5–6 <foreign>pamintihan sumlap</foreign>, 5r2 <foreign>ndan sarvva</foreign>).</p>
+                     <!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EGD 11.2. -->
                      <!-- If you need to identify individual hands (EGD §7.5/) in addition to one or more paragraphs of general palaeographic description, wrap <summary> around the <p> or <p>s above, and, outside <summary>, create <handNote> elements for each hand as follows:
 						<summary><p><p/></summary>
 						<handNote xml:id="Pallava00001_hand1"></handNote>
@@ -111,9 +117,9 @@ Nous trouvons ici pour la première fois dans une inscription MA(nis) au lieu de
 <pb n="2r"/><gap reason="lost" quantity="6" unit="line"/>
 <pb n="2v"/><gap reason="lost" quantity="6" unit="line"/>
 
-<p part="F"><pb n="3r"/><lb n="3r1"/>suruṁ ciradāsa de śrī mahārāja, tuhu-tuhv atyanta suṣṭubhaktinye jə:ṁ pāduka śrī mahārāja, satatāṅla<choice><sic>t</sic><corr>k</corr></choice>vakən· dharmmaniṁ sevaka, lot ka<lb n="3r2" break="no"/>hudanan· kapyayan· tan humiḍəp· ṅel· ṅliḥ, dhīrotsāha mamrihakən· katuṣṭabuddhin· ri śrī mahārāja, makavyakti hananikaṁ durjjana ri pra&#x2028;<lb n="3r3" break="no"/>deśanikaṁ kədəvaṁ, ya tika tlas· parikṣīrṇna sahananya kabeḥ, hinilaṅakən· tkap· saṅ āryya suruṁ, maṅkana kakatonani kasuṣṭubhaktin kadhīro&#x2028;<lb n="3r4" break="no"/>tsāhan· saṅ āryya suruṁ, ya tikāṅde paramasantuṣṭa ri śrī mahārāja, śrī mahārāja pva sira prabhu devātmaka, tan dadi *ketihan siḥ deniṁ vvaṁ bhakti&#x2028;
+<p part="F"><pb n="3r"/><lb n="3r1"/>suruṁ ciradāsa de śrī mahārāja, tuhu-tuhv atyanta suṣṭu-bhaktinye jə:ṁ pāduka śrī mahārāja, satatāṅla<choice><sic>t</sic><corr>k</corr></choice>vakən· dharmmaniṁ sevaka, lot ka<lb n="3r2" break="no"/>hudanan· kapyayan· tan humiḍəp· ṅel· ṅliḥ, dhīrotsāha mamrihakən· katuṣṭa-buddhin· ri śrī mahārāja, makavyakti hananikaṁ durjjana ri pra&#x2028;<lb n="3r3" break="no"/>deśanikaṁ kədəvaṁ, ya tika tlas· parikṣīrṇna sahananya kabeḥ, hinilaṅakən· tkap· saṅ āryya suruṁ, maṅkana kakatonani kasuṣṭu-bhaktin kadhīro&#x2028;<lb n="3r4" break="no"/>tsāhan· saṅ āryya suruṁ, ya tikāṅde paramasantuṣṭa ri śrī mahārāja, śrī mahārāja pva sira prabhu devātmaka, tan dadi *ketihan siḥ deniṁ vvaṁ bhakti&#x2028;
 <lb n="3r5"/>ri sira, sumahasraguṇa pamaL̥snira siḥ riṁ vvaṁ dr̥ḍabhaktinye sira, saṅ āryya suruṁ pvātyanta dr̥ḍabhaktinya ri sira, mataṅyan sinuṁnirānugraha L̥maḥ sīma
-<lb n="3r6"/>vanva makaṅaran pamintihan·, Irika ta saṁ pamgət· jāmbi, binvat-sārāṅupācāra saṁ hyaṁ rājapraśāsti, makāntyarasa mratisubaddha⟨kə⟩na sīmatvanikaṁ pami&#x2028;&#x2028;<pb n="3v" break="no"/><fw n="3v" place="left" rend="tb-rotated"><num value="3">3</num></fw><lb n="3v1" break="no"/>ntihan·, An təlas inanugrahakən· de śrī mahārāja ri saṅ āryya suruṁ, tumusa tka riṁ vka-vet saṅ āryya suruṁ tka ri hləmniṁ hləm·, kunəṁ parimāṇaniṁ pra&#x2028;<lb n="3v2" break="no"/>deśanikaṁ pamintihan·, riṁ pūrvvāsiḍaktan· mvaṁ plaṁ puñcu, riṅ āgneyāsiḍaktan lavan· gigiḍaḥ, riṁ dakṣiṇāsiḍaktan· mvaṅ ḍampak·, riṁ nairity a&#x2028;§<lb n="3v3" break="no"/>siḍaktan lavan ḍampak· mvaṁ madəviṁ, riṁ paścimāsiḍaktan· mvaṁ gəmpol·, riṁ bāyabyāsiḍaktan· gəmpol· mvaṁ babaṅər·, maṅetan iṁ kali si§&#x2028;<lb n="3v4" break="no"/>garada tkeṅ uttara, Asiḍaktan lavan babaṅər· mvaṁ kabalan·, maṅetan· muvaḥ tkeṅ aiśānya, Asiḍaktan· mvaṁ kabalan·, maṅidul·
+<lb n="3r6"/>vanva makaṅaran pamintihan·, Irika ta saṁ pamgət· jāmbi, binvat-sārāṅupācāra saṁ hyaṁ rājapraśāsti, makāntyarasa mratisubaddha<supplied reason="omitted">kə</supplied>na sīmatvanikaṁ pami&#x2028;&#x2028;<pb n="3v" break="no"/><fw n="3v" place="left" rend="tb-rotated"><num value="3">3</num></fw><lb n="3v1" break="no"/>ntihan·, An təlas inanugrahakən· de śrī mahārāja ri saṅ āryya suruṁ, tumusa tka riṁ vka-vet saṅ āryya suruṁ tka ri hləmniṁ hləm·, kunəṁ parimāṇaniṁ pra&#x2028;<lb n="3v2" break="no"/>deśanikaṁ pamintihan·, riṁ pūrvvāsiḍaktan· mvaṁ plaṁ puñcu, riṅ āgneyāsiḍaktan lavan· gigiḍaḥ, riṁ dakṣiṇāsiḍaktan· mvaṅ ḍampak·, riṁ nairity a&#x2028;§<lb n="3v3" break="no"/>siḍaktan lavan ḍampak· mvaṁ madəviṁ, riṁ paścimāsiḍaktan· mvaṁ gəmpol·, riṁ bāyabyāsiḍaktan· gəmpol· mvaṁ babaṅər·, maṅetan iṁ kali si§&#x2028;<lb n="3v4" break="no"/>garada tkeṅ uttara, Asiḍaktan lavan babaṅər· mvaṁ kabalan·, maṅetan· muvaḥ tkeṅ aiśānya, Asiḍaktan· mvaṁ kabalan·, maṅidul·
 <lb n="3v5"/>saṅkeṅ aiśānya tkeṁ pūrvva muvaḥ, Asiḍaktan· mvaṁ plaṁ puñcu, ṅhiṁ samaṅkana paṅaṣṭadeśanikaṁ sīma ri pamintihan·, hana ta savaḥ pamintiha<lb n="3v6" break="no"/>n sumlap iṁ L̥maḥ plaṁ puñcu, kayon· tambak· vetan· pcal·, <num value="18">18</num>, tataṇḍaṅan·, pcal·, <num value="7">7</num>, puṁ, pcal·, <num value="7">7</num>, pagagalahan·, pcal·, <num value="1">1</num>, siṁ<pb n="4r" break="no"/><lb n="4r1"/>kanak· pcal·, <num value="40">40</num>, paceleṅan·, pcal·, <num value="1">1</num>, piṇḍa kayon iṁ savaḥ <num value="6">6</num>, pcal· <num value="74">74</num>, muvaḥ hana ta savaḥnikaṁ pamintihan· sumlap iṁ L̥maḥ
 <lb n="4r2"/>kabalan·, kayon sirajaṁ, pcal· <num value="5">5</num>, saraṁ pcal· <num value="9">9</num>, kasine, pcal·, <num value="1">1</num>, paṇḍan·, pcal·, <num value="3">3</num>, susuru, pcal· <num value="3">3</num>, tunvan·, pcal·, <num value="3">3</num>, dharmmaga, pcal·, <num value="1">1</num>, 
 <lb n="4r3"/>kamuniṁ pcal·, <num value="3">3</num>, piṇḍa kayon iṁ savaḥ, <num value="8">8</num>, pcal· <num value="18"><choice><sic>1</sic><corr>2</corr></choice>8</num>, samaṅkana gə:ṁnikaṁ savaḥ pamintihan· sumlap iṁ L̥maḥ plaṁ puñcu
@@ -155,10 +161,15 @@ Damais 1955, 85 n. 2
                      <lem source="bib:Damais1955_01 bib:Boechari1985-1986_01">mūlā-</lem>
                      <rdg source="bib:Bosch1922_01">mūlu-</rdg>
                   </app>
+<!-- 1v3. ,,: thus Damais. Bosch and Boechari have a single punctuation sign here. -->
 	<app loc="1v4">
                      <lem source="bib:Damais1955_01">śrīmac-chrī-</lem>
                      <rdg source="bib:Bosch1922_01 bib:Boechari1985-1986_01">śrīmac-crī-</rdg>
                </app>
+<app loc="3r1">
+<lem>°la<choice><sic>t</sic><corr>k</corr></choice>vakən·</lem>
+<rdg source="bib:Bosch1922_01 bib:Boechari1985-1986_01">°latvakən·</rdg>
+</app>
 	<app loc="3r1">
                      <lem source="bib:Boechari1985-1986_01">lot</lem>
                      <rdg source="bib:Bosch1922_01">lret</rdg>
@@ -166,28 +177,29 @@ Damais 1955, 85 n. 2
 <app loc="3r2">
 <lem source="bib:Bosch1922_01">kapyayan·</lem>
 <rdg source="bib:Boechari1985-1986_01">kapyapyan·</rdg></app>
+<!-- 	3r2. katuṣṭabuddhin·: Bosch, katuṣṭabhuddhin· Boechari. -->
+<app loc="3r6">
+<lem>mratisubaddha<supplied reason="omitted">kə</supplied>na</lem>
+<rdg source="bib:Bosch1922_01 bib:Boechari1985-1986_01">mratisubaddhana</rdg></app>
+<app loc="1v6"><lem>kaḍiri</lem><note>Damais stops reading after this.</note></app>
+<app loc="3v1"><lem source="bib:Bosch1922_01">hləmniṁ hləm·</lem><rdg source="bib:Boechari1985-1986_01">hləm·</rdg></app>
+<app loc="3r5"><lem source="bib:Bosch1922_01">pvātyanta</lem><rdg source="bib:Boechari1985-1986_01">pva Atyanta</rdg>
+<note>Here and several times throughout this inscription, Boechari’s edition silently splits <foreign>ā</foreign> resulting from sandhi between two words. Further cases will not be noted.</note></app>
 <!-- 
-	1v3. ,,: thus Damais. Bosch and Boechari have a single punctuation sign here.
-	1v6. kaḍiri: Damais stops reading after this.
-	3r1. -lakvakən·: -latvakən· Bosch Boechari.
-	3r2. katuṣṭabuddhin·: Bosch, katuṣṭabhuddhin· Boechari.
-	3r5. pvātyanta: Bosch, pva Atyanta Boechari.
 	3r5. mataṅyan: Boechari, matayan Bosch.
 	3r5. -nirānugraha: Bosch, -nira Anugraha Boechari.
-	3r6. mratisubaddha⟨kə⟩na: mratisubaddhana Bosch Boechari.
-	3v1. hləmniṁ hləm·: Bosch, hləm· Boechari.
 	3v2. pamintihan·: pamithihan Boechari.
 	3v2. pūrvvāsiḍaktan·: pūrvva sidaktan Bosch, pūrvva sidaktan Boechari.
 	3v2. āgneyāsiḍaktan: Bosch, āgneya Asiḍaktan Boechari.
-	3v2. dakṣiṇāsiḍaktan·: dakṣiṇa siḍaktan· Bosch, dakṣiṇa Asiḍaktan· Boechari.
-	3v3. madəviṁ, riṁ: madəviḥ, riṁ Bosch, madəviḥ riṁ Boechari.
-	3v3. paścimāsiḍaktan·: paścima siḍaktan· Bosch, paścima Asiḍaktan· Boechari.
-	3v3. bāyabyāsiḍaktan·: Bosch, bāyabya Asiḍaktan· Boechari.
-	3v3. iṁ kali: Boechari, ikaṁ li Bosch. Reading corrected by Muusses 1929: 208 n. 1.
-	3v4. tkeṅ aiśānya: tkaṅ aiṣanya Bosch, tkeṅ aisānya Boechari, 
-	3v5. aiśānya tkeṁ: aiṣanya tkaṁ Bosch, aiṣānya tkeṁ Boechari.
-	3v6. tataṇḍaṅan·: tataṇḍanan· Bosch Boechari. It is perhaps also possible to read kataṇḍaṅan· or kakaṇḍaṅan·.
-	4r. pcal 9, kasine: pcal 8, kasine Bosch. Reading of the numeral sign corrected by Muusses 1929: 208.
+	3v2. dakṣiṇāsiḍaktan·: dakṣiṇa siḍaktan· Bosch, dakṣiṇa Asiḍaktan· Boechari. -->
+<app loc="3v3"><lem>madəviṁ, riṁ</lem><rdg source="bib:Bosch1922_01">madəviḥ, riṁ</rdg><rdg source="bib:Boechari1985-1986_01">madəviḥ riṁ</rdg></app>
+<!--	3v3. paścimāsiḍaktan·: paścima siḍaktan· Bosch, paścima Asiḍaktan· Boechari.
+	3v3. bāyabyāsiḍaktan·: Bosch, bāyabya Asiḍaktan· Boechari. -->
+<app loc="3v3"><lem source="bib:Boechari1985-1986_01">iṁ kali</lem><rdg source="bib:Bosch1922_01">ikaṁ li</rdg><note>Bosch’s reading was corrected already by <bibl><ptr target="bib:Muusses1929_01"/><citedRange unit="page">208</citedRange><citedRange unit="note">1</citedRange></bibl>.</note></app>
+<!--	3v4. tkeṅ aiśānya: tkaṅ aiṣanya Bosch, tkeṅ aisānya Boechari, 
+	3v5. aiśānya tkeṁ: aiṣanya tkaṁ Bosch, aiṣānya tkeṁ Boechari. -->
+<app loc="3v6"><lem source="bib:Bosch1922_01 bib:Boechari1985-1986_01">tataṇḍaṅan·</lem><note>It is perhaps also possible to read <foreign>kataṇḍaṅan·</foreign> or <foreign>kakaṇḍaṅan·</foreign>.</note></app>
+<!-- 	4r. pcal 9, kasine: pcal 8, kasine Bosch. Reading of the numeral sign corrected by Muusses 1929: 208.
 	4r. 18: corr. 28. See Muusses 1929: 208 n. 1.
 	4r. kaparabyāpăra: kaparabyāmara Bosch. Certaibly a misreading by Bosch.
 	4v. -hajyanan: -lajyanan. Certainly a misreading by Bosch.
@@ -199,7 +211,8 @@ Damais 1955, 85 n. 2
 	5r2. sarvva rva: Cf. Padlegan III 27 kapva rva tuhan· ri sasimā, daṇḍanya kalima sahəṇḍak·.
 	5r2. bhaṇḍanya: saṇḍanya Bosch Boechari. Cf. Warunggahan 12r5 kunəṅ hiṅani bhaṇḍanyān pikul·-pikulan·. 
 	5r2. sahəṇḍag·: Cf. sahəṇḍak in Padlegan III 27 and sakaṇḍag in Geneng II.
-	5r4. deniṁ: deni Bosch Boechari.
+ -->
+<!-- 	5r4. deniṁ: deni Bosch Boechari.
 	5r5. sabhāmaddhya: sasāmaddhya Bosch Boechari.
 	5r6. yathākrama: yāthā krama Bosch Boechari.
 	5v1. Umaṅguhaknaṁ: Bosch, Umaṅguhankanṁ Boechari.
