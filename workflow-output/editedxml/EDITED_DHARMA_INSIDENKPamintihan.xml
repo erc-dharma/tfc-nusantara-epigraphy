@@ -186,8 +186,7 @@ Damais 1955, 85 n. 2
 <app loc="3v1"><lem source="bib:Bosch1922_01">hləmniṁ hləm·</lem><rdg source="bib:Boechari1985-1986_01">hləm·</rdg></app>
 <app loc="3r5"><lem source="bib:Bosch1922_01">pvātyanta</lem><rdg source="bib:Boechari1985-1986_01">pva Atyanta</rdg>
 <note>Here and several times throughout this inscription, Boechari’s edition silently splits <foreign>ā</foreign> resulting from sandhi between two words. Further cases will not be noted.</note></app>
-<!-- 
-	3r5. mataṅyan: Boechari, matayan Bosch.
+<!-- 	3r5. mataṅyan: Boechari, matayan Bosch.
 	3r5. -nirānugraha: Bosch, -nira Anugraha Boechari.
 	3v2. pamintihan·: pamithihan Boechari.
 	3v2. pūrvvāsiḍaktan·: pūrvva sidaktan Bosch, pūrvva sidaktan Boechari.
@@ -201,9 +200,10 @@ Damais 1955, 85 n. 2
 	3v5. aiśānya tkeṁ: aiṣanya tkaṁ Bosch, aiṣānya tkeṁ Boechari. -->
 <app loc="3v6"><lem source="bib:Bosch1922_01 bib:Boechari1985-1986_01">tataṇḍaṅan·</lem>
 <note>It is perhaps also possible to read <foreign>kataṇḍaṅan·</foreign> or <foreign>kakaṇḍaṅan·</foreign>.</note></app>
-<!-- 	4r. pcal 9, kasine: pcal 8, kasine Bosch. Reading of the numeral sign corrected by Muusses 1929: 208.
-	4r. 18: corr. 28. See Muusses 1929: 208 n. 1.
-	4r. kaparabyāpăra: kaparabyāmara Bosch. Certaibly a misreading by Bosch.
+	<app loc="4r1"><lem>pcal· <num value="9">9</num>, kasine</lem>
+<rdg source="bib:Bosch1922_01">pcal· 8, kasine</rdg><note>Reading of the numeral sign corrected by <bibl><ptr target="bib:Muusses1929_01"/><citedRange unit="page">208</citedRange></bibl>. This part of the inscription not included by Boechari.</note></app>
+ 	<app loc="4r3"><lem><num value="18"><choice><sic>1</sic><corr>2</corr></choice>8</num></lem><note>See <bibl><ptr target="bib:Muusses1929_01"/><citedRange unit="page">208</citedRange><citedRange unit="note">1</citedRange></bibl>.</note></app>
+<!--	4r6. kaparabyāpăra: kaparabyāmara Bosch. Certaibly a misreading by Bosch.
 	4v. -hajyanan: -lajyanan. Certainly a misreading by Bosch.
 	4v. po galuḥ: corr. poḥ galuḥ. See Narasinghanagara (14v8) miśra, paṅhuraṁ, kriṁ, paḍə:m·, manimpiki, parānakan·, limus· galuḥ, maṁriñca, maṅhuri, paraṁ, suṅka, dhura, paṅaruhan·, poḥ galuḥ, suṅgiṁ, ... 
 	4v. vaṅtek kābutan: corr. vaṅke kābunan.
