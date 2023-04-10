@@ -202,7 +202,7 @@ Damais 1955, 85 n. 2
 <app loc="3v6"><lem source="bib:Bosch1922_01 bib:Boechari1985-1986_01">tataṇḍaṅan·</lem>
 <note>It is perhaps also possible to read <foreign>kataṇḍaṅan·</foreign> or <foreign>kakaṇḍaṅan·</foreign>.</note></app>
 	<app loc="4r1"><lem>pcal· <num value="9">9</num>, kasine</lem>
-<rdg source="bib:Bosch1922_01">pcal· 8, kasine</rdg><note>Reading of the numeral sign corrected by <bibl><ptr target="bib:Muusses1929_01"/><citedRange unit="page">208</citedRange></bibl>. Plate 4 is not included in Boechari's edition.</note></app>
+<rdg source="bib:Bosch1922_01">pcal· 8, kasine</rdg><note>Reading of the numeral sign corrected by Muusses <bibl rend="omitname"><ptr target="bib:Muusses1929_01"/><citedRange unit="page">208</citedRange></bibl>. Plate 4 is not included in Boechari's edition.</note></app>
  	<app loc="4r3"><lem><num value="18"><choice><sic>1</sic><corr>2</corr></choice>8</num></lem><note>See <bibl><ptr target="bib:Muusses1929_01"/><citedRange unit="page">208</citedRange><citedRange unit="note">1</citedRange></bibl>.</note></app>
 	<app loc="4r6"><lem>kaparabyāpăra</lem><rdg source="bib:Bosch1922_01">kaparabyāmara</rdg><note>Certainly a misreading by Bosch.</note></app>
 	<app loc="4v1"><lem>-hajyanan·</lem><rdg source="bib:Bosch1922_01">-lajyanan</rdg><note>Certainly a misreading by Bosch.</note></app>
@@ -232,7 +232,7 @@ Damais 1955, 85 n. 2
          </div>
         <div type="bibliography">
 	<!--bibliography encoded as per section §9.4 -->
-           <p>First deciphered by <bibl><ptr target="bib:Bosch1922_01"/></bibl> in somewhat normalized spelling and with a translation into Dutch of a small section; this edition reproduced and furnished with a complete translation into  Indonesian by <bibl><ptr target="bib:MuhammadYamin1962_02"/></bibl>; the text of plates 1, 3 and 5 re-edited by <bibl><ptr target="bib:Boechari1985-1986_01"/></bibl>. The text of plates 1, 3 and 5 is re-edited here from photos; since no photos of plate 4 are available, and since the edition by Bosch does not indicate line numbers while it also uses a somewhat normalized romanization system, I have had to guess where line breaks fall and have had to guess the real spelling of the text on the plate.</p>
+           <p>First deciphered by F. D. K. Bosch (<bibl rend="omitname"><ptr target="bib:Bosch1922_01"/></bibl>) in somewhat normalized spelling and with a translation into Dutch of a small section; this edition reproduced and furnished with a complete translation into Indonesian by Muhammad Yamin (<bibl rend="omitname"><ptr target="bib:MuhammadYamin1962_02"/></bibl>); the text of plates 1, 3 and 5 re-edited by Boechari (<bibl rend="omitname"><ptr target="bib:Boechari1985-1986_01"/></bibl>). The text of plates 1, 3 and 5 is re-edited here from photos; since no photos of plate 4 are available, and since the edition by Bosch does not indicate line numbers while it also uses a less precise romanization system, I have had to guess where line breaks fall and have had to guess the real spelling of the text on the plate.</p>
         	<listBibl type="primary">
 	<bibl n="OV"><ptr target="bib:Bosch1922_01"/></bibl>
 	<bibl n="PKMN"><ptr target="bib:Boechari1985-1986_01"/></bibl>
