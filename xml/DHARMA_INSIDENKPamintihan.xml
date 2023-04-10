@@ -88,7 +88,7 @@ To this may be added the fact that on plates 1 and 3 <foreign>k</foreign> and <f
       <body>
          <div type="edition" xml:lang="kaw-Latn">
 <p><pb n="1v"/><fw n="1v" place="left" rend="tb-rotated"><num value="1">1</num></fw>
-<lb n="1v1"/>// o // Avighnam astu // o // svasti śrī śaka-varṣātīta, <num value="1395">1395</num>, vaiśāka-māsa, <choice><sic>diḍhi</sic><corr>tithi</corr></choice>, tr̥tĭyā kr̥ṣṇa-pakṣa, 
+<lb n="1v1"/>// o // <foreign xml:lang="san-Latn">Avighnam astu</foreign> // o // svasti śrī śaka-varṣātīta, <num value="1395">1395</num>, vaiśāka-māsa, <choice><sic>diḍhi</sic><corr>tithi</corr></choice>, tr̥tĭyā kr̥ṣṇa-pakṣa, 
 <lb n="1v2"/><abbr>ma</abbr>, <abbr>ma</abbr>, <abbr>śu</abbr>, vāra, laṅkir·, Uttarastha-grahacāra, mūlā-nakṣatra, nairitī-devatā, varuṇa-maṇḍala, śubha-yoga, §
 <lb n="1v3"/><choice><sic>t</sic><corr>k</corr></choice>uvera-parvveśa, rodra-muhūrtta, vaṇija-karaṇa, dhanū-rāśī,,</p> 
 <!-- Damais 1955: 86
@@ -136,8 +136,8 @@ n="5r2" break="no"/>ranya, ndan sarvva rva juga, hīṅani bhaṇḍanya kalima 
 n="5r6" break="no"/>rāja, mvaṁ pasākṣī yathākrama ri taṇḍa rakryan samudāya, kunəṁ ri sḍəṅanyan hanāmirudha ryy anugraha śrī mahārāja, mne hlem· katke   
 
 <pb n="5v"/><fw n="5v" place="left" rend="tb-rotated"><num value="5">5</num></fw><lb 
-n="5v1"/>dlāhaniṁ dlāha, Umaṅguhaknaṁ pañca-mahāpātaka, mvaṁ saviparītaniṁ brahmamukhodita saptavr̥ddhi, At:hər bhasmībhūta niravaśeṣaka tke santāna
- <lb n="5v2"/>pratisantānanya kabeḥ, phalanyan umulahakən anyāyapravr̥tti, kavulatan de saṁ hyaṁ trayodaśa-sākṣī, siddhir astu, // 0 //  @
+n="5v1"/>dlāhaniṁ dlāha, Umaṅguhaknaṁ pañca-mahāpātaka, mvaṁ saviparītaniṁ brahmamukhodita saptavr̥ddhi, At:hər bhasmībhūta niravaśeṣa katke santāna
+ <lb n="5v2"/>pratisantānanya kabeḥ, phalanyan umulahakən anyāyapravr̥tti, kavulatan de saṁ hyaṁ trayodaśa-sākṣī, <foreign xml:lang="san-Latn">siddhir astu</foreign>, // 0 //  @
 
 </p>
          </div>
@@ -220,7 +220,7 @@ Damais 1955, 85 n. 2
 	5v1. Umaṅguhaknaṁ: Bosch, Umaṅguhankanṁ Boechari. -->
 <app loc="5v1"><lem>bhasmībhūta</lem><rdg  source="bib:Bosch1922_01 bib:Boechari1985-1986_01">sasmīsūta</rdg></app>
 <app loc="5v2"><lem>phala-</lem><rdg  source="bib:Bosch1922_01 bib:Boechari1985-1986_01">pala-</rdg></app>
-<app loc="5r6"><lem source="bib:Bosch1922_01 bib:Boechari1985-1986_01">pasākṣī yathākrama</lem><note>This sequence at first sight seems suspicious, as one expects <foreign>pasə̄k-pasə̄k sayathākrama</foreign> while pasākṣī is not recorded in <bibl><ptr target="bib:Zoetmulder1982_01"/></bibl>, the <ref target="DHARMA_INSIDENKKatatwan.xml">Katatwan charter</ref> furnishes proof of the existence of a term <foreign>pasākṣī</foreign>: (3v4–5) <foreign>tan hana kantun paḍa ta ya sinuṁ pasākṣī, pasək-pasək·</foreign>.</note></app>
+<app loc="5r6"><lem source="bib:Bosch1922_01 bib:Boechari1985-1986_01">pasākṣī yathākrama</lem><note>This sequence at first sight seems suspicious, as one expects <foreign>pasə̄k-pasə̄k sayathākrama</foreign> while pasākṣī is not recorded in <bibl><ptr target="bib:Zoetmulder1982_01"/></bibl>. However, the <ref target="DHARMA_INSIDENKKatatwan.xml">Katatwan charter</ref> furnishes proof of the existence of a term <foreign>pasākṣī</foreign>: (3v4–5) <foreign>tan hana kantun paḍa ta ya sinuṁ pasākṣī, pasək-pasək·</foreign>.</note></app>
                </listApp>
          </div>
          <div type="translation" resp="part:argr">
