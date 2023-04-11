@@ -32,8 +32,8 @@
             </titleStmt>
             <publicationStmt>
                 <authority>DHARMA</authority>
-                <pubPlace><!-- Fill in here the place or places where the encoding has been done --></pubPlace>
-                <idno type="filename">DHARMA_encodingTemplateInscription_v03</idno>
+                <pubPlace>Jakarta and Malang</pubPlace>
+                <idno type="filename">DHARMA_INSIDENKLinggasuntan</idno>
                 <!-- Replace by filename, e.g. Pallava00001 -->
                 <availability>
                     <licence target="https://creativecommons.org/licenses/by/4.0/">
@@ -42,7 +42,7 @@
                             https://creativecommons.org/licenses/by/4.0/ or send a letter to
                             Creative Commons, 444 Castro Street, Suite 900, Mountain View,
                             California, 94041, USA.</p>
-                        <p>Copyright (c) 2019-2025 by Eko Bastiawan &amp; Arlo Griffithss</p>
+                        <p>Copyright (c) 2019-2025 by Eko Bastiawan &amp; Arlo Griffiths</p>
                         </licence>
                 </availability>
                 <date from="2019" to="2025">2019-2025</date>
@@ -92,7 +92,7 @@
       <body>
 <div type="edition" xml:lang="kaw-Latn">
 <p><milestone type="pagelike" unit="face" n="A"/><label xml:lang="eng">Front</label>
-<lb n="A1"/> //Oṃ Avighnam astu// svasti śakavarṣātīta 851 bhadravāda-māsa, tithi dvādaśi kr̥ṣṇa-pakṣa
+<lb n="A1"/> //Oṃ Avighnam astu// svasti śaka-varṣātīta 851 bhadravāda-māsa, tithi dvādaśi kr̥ṣṇa-pakṣa
 <lb n="A2"/> pa, pa, vr̥, vāra, māgha-nakṣatra, pitara-devatā, parigha-yoga, Irikā divaśani Ājña śrī ma-
 <lb break="no" n="A3"/>hārāja rake hino <space type="defect"/> pu[1] siṇḍok· śrī Īśānavikrama dharmmotuṅgadeva, Umiṁsor· I samgat· mo-
 <lb break="no" n="A4"/>maḥh-umaḥ kāliḥ maḍaṇḍər· pu padma, Aṅgəhān· pu kuṇḍala, kumonakan· Ikaṁ vanuA I liṅgasuntan·, va-
