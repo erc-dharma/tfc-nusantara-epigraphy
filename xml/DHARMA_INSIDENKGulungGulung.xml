@@ -9,27 +9,31 @@
         <fileDesc>
             <titleStmt>
                 <title>Gulung-Gulung (851 Śaka)</title>
-                <!-- Add your name in the respStmt matching your involvement -->
                 <respStmt>
-                    <resp>EpiDoc Encoding</resp>
-                    <!-- Work done in the file, e.g. editor ...-->
-                    <persName ref="part:jodo"><!-- Update the id -->
-                        <forename>John</forename><!-- Fill in your  names — it is possible to use only <name> instead of <foreame> and <surname> -->
-                        <surname>Doe</surname> </persName>
-                </respStmt>
-                <respStmt>
-                    <resp>intellectual authorship of edition</resp>
-                    <!-- This may be the same as the creator of the file -->
-                    <persName ref="part:jodo"><!-- Update the id -->
-                        <forename>John</forename><!-- Fill in the name of the responsible scholar — it possible to use only <name> instead of <foreame> and <surname> -->
-                        <surname>Doe</surname> </persName>
-                </respStmt>
+               <resp>EpiDoc encoding</resp>
+               <persName ref="part:ekba">
+                  <name>Eko Bastiawan</name>
+               </persName>
+               <persName ref="part:argr">
+                  <forename>Arlo</forename>
+                  <surname>Griffiths</surname>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>intellectual authorship of edition</resp>
+               <persName ref="part:ekba">
+                  <name>Eko Bastiawan</name>
+               </persName>
+               <persName ref="part:argr">
+                  <forename>Arlo</forename>
+                  <surname>Griffiths</surname>
+               </persName>
+            </respStmt>
             </titleStmt>
             <publicationStmt>
                 <authority>DHARMA</authority>
                 <pubPlace><!-- Fill in here the place or places where the encoding has been done --></pubPlace>
                 <idno type="filename">DHARMA_INSIDENKGulungGulung</idno>
-                <!-- Replace by filename, e.g. Pallava00001 -->
                 <availability>
                     <licence target="https://creativecommons.org/licenses/by/4.0/">
                         <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
@@ -37,9 +41,8 @@
                             https://creativecommons.org/licenses/by/4.0/ or send a letter to
                             Creative Commons, 444 Castro Street, Suite 900, Mountain View,
                             California, 94041, USA.</p>
-                        <p>Copyright (c) 2019-2025 by John
-                            Doe.</p><!-- replace year and name, use format "Forename1 Surname1 & Forename2 Surname2" or "Forename1 Surname1, Forename2 Surname2 & Forename3 Surname3"  if necessary — the copyright is that of the encoder(s) -->
-                    </licence>
+                        <p>Copyright (c) 2019-2025 by Eko Bastiawan &amp; Arlo Griffiths</p>
+                        </licence>
                 </availability>
                 <date from="2019" to="2025">2019-2025</date>
             </publicationStmt>
@@ -89,22 +92,14 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
-            <change who="part:axja" when="2020-10-12"
-                >Version 3.2 : moving the xml:lang to the root</change>
-            <change who="part:axja" when="2020-07-02"
-                >Version 3.1: adding the encodingDesc and linking the template with the DHARMA Schema</change>
-            <change who="part:axja" when="2020-03-18"
-                >Version 2: addition of handDesc and summary</change>
-            <change who="part:axja" when="2019-12-18" status="draft">Creation of the
-                template</change>
-            <!-- replace this by a line that has you as @who, that has the @date on which you finished the first basic encoding of the file, and that has the following description of what was finished on that date: "Initial encoding of the file." Then add a <change> entry for each significant change to the file. -->
-        </revisionDesc>
+            <change who="part:argr" when="2023-04-12" status="draft">started revision of the xml</change>
+            <change who="part:axja" when="2023-04-05" status="draft">generated xml from googledoc</change></revisionDesc>
     </teiHeader>
     <text xml:space="preserve">
       <body>
-         <div type="edition" xml:lang="san-Latn">    
-<div type="textpart"><head xml:lang="eng">Front</head>                        
-<ab><lb n="A1"/> // Oṃ <choice><orig>Avīghnam</orig><reg>Avighnam</reg></choice> astu gaṇapataye namaḥ // svasti śaka-varṣātīta 851 baiśākha-māsa tithi navamī śukla-pakṣa <unclear>ma</unclear> <supplied reason="lost">U</supplied>
+      <div type="edition" xml:lang="kaw-Latn">
+<p><milestone type="pagelike" unit="face" n="A"/><label xml:lang="eng">Front</label><lb 
+n="A1"/> // Oṃ <choice><orig>Avīghnam</orig><reg>Avighnam</reg></choice> astu gaṇapataye namaḥ // svasti śaka-varṣātīta 851 baiśākha-māsa tithi navamī śukla-pakṣa <unclear>ma</unclear> <supplied reason="lost">U</supplied>
 <lb n="A2"/> ca vāra pūrvvaphālguṇī-nakṣatra, yoṇi-devatā, Āyuṣmān-yoga, Irikā divaśa rakryān·  hujuṁ pu madhura <choice><orig>lokānu-
 <lb break="no" n="A3"/>rāñjana</orig><reg>lokānurañjana</reg></choice>, manambaḥ I śrī mahārāja rake halu pu siṇḍok· śrī Īśānavikrama dharmmottuṅgadeva, sumīma Ikāṁ dmak ṣavaḥ I
 <lb n="A4"/> guluṅ-guluṁ tapak· su 7, muAṁ Alas· I bantaran· satṅaḥ, paknānya dharmmakṣetrā savahani kuśala rakryān· hujuṁ saṁ hyaṁ
@@ -133,9 +128,7 @@
 <lb break="no" n="A27"/><supplied reason="lost">jaṁ</supplied> Agavai kisi, maṅanam-anam·, mamubut·, manavaṁ, makala-kalā, mamisaṇḍuṁ manuk·, bhaṭāra ri prāsāda Ataḥ pramāṇa I sadra<supplied reason="lost">bya</supplied>-
 <lb break="no" n="A28"/>hajinya, samaṅkana Ikanaṁ parahu pavalijān· 1, masuṁhara 2 tan· patuṇḍāna, Adagaṁ kapas·, vuṅkuḍu, Abasana kalima banta<unclear>l·</unclear>
 <lb n="A29"/> Aṅuñjal· 1 paṇḍai vsi satarub·, paṇḍai mas· 1 paṇḍai tambaga 1 kaṁsa 1 Aṅulaṁ kbo savurugan· sapi prāṇa 3 vḍu<supplied reason="lost">s·</supplied>
-<lb n="A30"/> <supplied reason="lost">sa</supplied><unclear>pa</unclear>raṅgaṁ Aṅulaṅ aṇḍaḥ <unclear>satar</unclear>ub·, samaṅkana kramanikaṁ sīma tan· knā I saluĪrniṁ drabya haji saprakāra, Irikanaṁ <supplied reason="lost">kā</supplied>-</ab></div>        
-<div type="textpart"><head xml:lang="eng">Back</head>
-<ab><lb n="B1"/><supplied reason="lost">la ma</supplied>ṅasəAkan· rakryān· hujuṁ pasək·-pasək·, I śrī mahārāja mas· su 5 vḍihan· tapiś cadar· yu 1 muAṁ I <supplied reason="lost">ra</supplied>-
+<lb n="A30"/> <supplied reason="lost">sa</supplied><unclear>pa</unclear>raṅgaṁ Aṅulaṅ aṇḍaḥ <unclear>satar</unclear>ub·, samaṅkana kramanikaṁ sīma tan· knā I saluĪrniṁ drabya haji saprakāra, Irikanaṁ <supplied reason="lost">kā</supplied><milestone type="pagelike" unit="face" n="B" break="no"/><label xml:lang="eng">Back</label><lb n="B1" break="no"/><supplied reason="lost">la ma</supplied>ṅasəAkan· rakryān· hujuṁ pasək·-pasək·, I śrī mahārāja mas· su 5 vḍihan· tapiś cadar· yu 1 muAṁ I <supplied reason="lost">ra</supplied>-
 <lb break="no" n="B2"/>kryān· kabaiḥ, kapuA vinaiḥ pasək·-pasək· kāyānurūpa, rakai sirikan· dyah amarendra, vka dyaḥ balyaṁ, rakryā<supplied reason="lost">n· mo</supplied>-
 <lb break="no" n="B3"/><supplied reason="lost">ma</supplied>h-umaḥ kāliḥ maḍaṇdər· pu padma, Aṅgəhan· pu kuṇḍala, tiruan· ḍapunta taritip· InaṁsəAn· pasək· mā 1,  vḍi<supplied reason="lost">ha</supplied>-
 <lb break="no" n="B4"/><supplied reason="lost">n·</supplied> tapiś cadar· yu 1 sovaṁ-sovaṁ, halaran· pu guṇottama, InaṁsəAn· pasək· mā 1, vḍihan· ragi yu 1 mamrāti havaṁ
@@ -164,9 +157,8 @@
 <lb break="no" n="B27"/>hān· I kanuruhan· saṁ ra baṇir saṁ ra vujaṁ, vuṅkal kiluṁ, saṁ părtha, vinaiḥ mas· su 1 mā 4 kinabaihānnira vḍihan· ragi hlai 1 so-
 <lb break="no" n="B28"/>vaṁ-sovaṁ, tpi siriṁ Ilu pinakasākṣī rakryān·, juru gotra I kanuruhan· rakai paṅambuhan·, rakai siñjalan· vinaiḥ mā 4 vḍi-
 <lb break="no" n="B29"/>han· yu 1 sovaṁ-sovaṁ, gotra I tampuran· saṁ mādhava bapa dyaḥ damū muAṁ dyaḥ damū, vinaiḥ mā 2 vḍihan· hlai 1
-<lb n="B30"/> sovaṁ-sovaṁ devata kaki I balaṇḍit· saṁ śivarāśi vineḥ pasək· mā 4 punta I paṅavan· Uṅgər· pramukha, vinai<unclear>ḥ</unclear></ab></div>
-<div type="textpart"><head xml:lang="eng">Proper right</head>
-<ab><lb n="c1"/> <supplied reason="lost">pasək· mā 4 kinabaihannira patiḥ tpi si</supplied>-
+<lb n="B30"/> sovaṁ-sovaṁ devata kaki I balaṇḍit· saṁ śivarāśi vineḥ pasək· mā 4 punta I paṅavan· Uṅgər· pramukha, vinai<unclear>ḥ</unclear>
+<milestone type="pagelike" unit="face" n="c"/><label xml:lang="eng">Proper right</label><lb n="c1"/> <supplied reason="lost">pasək· mā 4 kinabaihannira patiḥ tpi si</supplied>-
 <lb break="no" n="c2"/><supplied reason="lost">riṁ vinai</supplied>ḥ pasək· karūman· I 
 <lb n="c3"/> kanuruhan· saṁ jātaḥ, maṅhambi<supplied reason="lost">n·</supplied>
 <lb n="c4"/> saṁ hiraṇya, patiḥ pamgat·
@@ -194,9 +186,9 @@
 <lb break="no" n="c26"/><unclear>R̥</unclear>ṣi saṁ hyaṁ I daśadeśa Ū<supplied reason="lost">rdhamadhaḥ</supplied>
 <lb n="c27"/> ravi śaśī kṣiti ja<supplied reason="lost">la pa</supplied>va<supplied reason="lost">na hutāsana</supplied>
 <lb n="c28"/> yajamānākāśa dharmma Aho<unclear>rātra</unclear>
-<lb n="c29"/> <gap reason="illegible" quantity="2" unit="character"/> yakṣa rakṣasa pisāca, preta</ab></div>
-<div type="textpart"><head xml:lang="eng">Proper left</head>
-<ab><lb n="d1"/><supplied reason="lost">sura</supplied> <gap reason="lost" quantity="5" unit="character"/>
+<lb n="c29"/> <gap reason="illegible" quantity="2" unit="character"/> yakṣa rakṣasa pisāca, preta
+<milestone type="pagelike" unit="face" n="d"/><label xml:lang="eng">Proper left</label><lb 
+n="d1"/><supplied reason="lost">sura</supplied> <gap reason="lost" quantity="5" unit="character"/>
 <lb n="d2"/> <supplied reason="lost">gandharvva yama</supplied>
 <lb n="d3"/> <supplied reason="lost">baruṇa kuvaira bāsava muAṁ</supplied>
 <lb n="d4"/> <supplied reason="lost">putra devatā pañcakuśika nā</supplied>-                
@@ -225,9 +217,9 @@
 <lb n="d27"/><supplied reason="lost">nya</supplied> pañca mahāpātaka tmunyan<unclear>·</unclear>
 <lb n="d28"/> yan· liṁnira ri tlasniṁ manusuk·
 <lb n="d29"/> lumkas· ta makuR̥n-kuR̥n· ri sira ka-
-<lb break="no" n="d30"/>baiḥ, maṁglar· kavuṁ skul· paripūrṇna</ab></div>
-<div type="textpart"><head xml:lang="eng">Left upper part</head>
-<ab><lb n="e1"/> hara-hara saṅka<space type="defect"/>p· vulu ka- 
+<lb break="no" n="d30"/>baiḥ, maṁglar· kavuṁ skul· paripūrṇna
+<milestone type="pagelike" unit="face" n="e"/><label xml:lang="eng">Proper left upper part</label>
+<lb n="e1"/> hara-hara saṅka<space type="defect"/>p· vulu ka- 
 <lb n="e2"/>ṇḍari kaḍivas· ḍeṁ hañaṁ ḍeṁ 
 <lb n="e3"/> hasin· saL̥r· capa-capa, ruma- 
 <lb n="e4"/>han· huraṁ biluṁluṁ hala-ha-                        
@@ -241,9 +233,7 @@
 <lb n="e12"/> riṁ piṇḍva piṁtiga, vinuvuhan ta sira ta-
 <lb break="no" n="e13"/><supplied reason="lost">mb</supplied>ul· <unclear cert="low">paḍḍīsa</unclear> salvirniṁ ta<supplied reason="lost">mbul·</supplied> <supplied reason="lost">sapra</supplied>-
 <lb break="no" n="e14"/><supplied reason="lost">kāra vinuvuhakan· tadananta</supplied>-
-<lb break="no" n="e15"/><supplied reason="lost">ra patṅaḥ manaḍaḥ kinon· sira ka</supplied>-</ab></div> 
-<div type="textpart"><head xml:lang="eng">Right upper part</head> 
-<ab><lb n="f1"/>baiḥ vasiha gaṅan· vinai- 
+<lb break="no" n="e15"/><supplied reason="lost">ra patṅaḥ manaḍaḥ kinon· sira ka</supplied><milestone type="pagelike" unit="face" n="f" break="no"/><label xml:lang="eng">Proper right upper part</label><lb n="f1" break="no"/>baiḥ vasiha gaṅan· vinai- 
 <lb n="f2"/>han· ta sira jnu skar· tlas saṅkap· mu- 
 <lb n="f3"/>vaḥ ta sira manaḍaḥ yathās<unclear>u</unclear>-
 <lb break="no" n="f4"/><unclear>kha</unclear> men-men· rakryan· 
@@ -257,9 +247,8 @@
 <lb break="no" n="f12"/>tip·-pramukha vinaiḥ mā
 <lb n="f13"/> 4 kinabaihanya, ci<supplied reason="lost">hna</supplied>-
 <lb break="no" n="f14"/><supplied reason="lost">nya</supplied>n· tlas· mapagəḥ <gap reason="lost" quantity="3" unit="character"/>
-<lb n="f15"/> <gap reason="lost" quantity="10" unit="character" precision="low"/>
-         </ab></div>
-         </div>
+<lb n="f15"/> <gap reason="lost" quantity="10" unit="character" precision="low"/></p>
+</div>
          <div type="apparatus">
            <!--apparatus encoded as per EGD §9.1, basic elements for apparatus below-->
                <listApp><app loc="A1"><lem source="bib:Damais1955_01 bib:Nakada1990_01 bib:Trigangga2003_01">Avīghnam</lem><rdg source="bib:Brandes1913_01">Avignam</rdg></app> 
