@@ -375,8 +375,7 @@
 	<bibl n="N">
 	   <ptr target="bib:Naerssen1941_01"/>
 	</bibl>
-                                    <bibl n="B">
-	   <ptr target="bib:Boechari1985-1986_01"/>
+      <bibl n="B"><ptr target="bib:Boechari1985-1986_01"/>
 	</bibl>
               </listBibl>
              <listBibl type="secondary">
