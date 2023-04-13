@@ -186,6 +186,9 @@ n="2v8" break="no"/>ṣṇu-pratirūpa, pagavayana svātma-pratiṣṭa saṁ pa
         <div type="bibliography">
 	<!--bibliography encoded as per section §9.4 -->
             <p/>
+            <listBibl type="primary">
+	<bibl n="N"><ptr target="bib:Naerssen1941_01"/><citedRange>????</citedRange></bibl>
+              </listBibl>
              <listBibl type="secondary">
              <bibl/>
            </listBibl>
