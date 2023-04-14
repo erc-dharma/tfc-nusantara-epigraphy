@@ -8,7 +8,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Air Asih</title>
+            <title>Air Asih (between 1177 and 1208 Śaka)</title>
             <respStmt>
                <resp>EpiDoc encoding</resp>
                <persName ref="part:ekba">
@@ -34,7 +34,7 @@
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/">
                   <p>This work is licenced under the Creative Commons Attribution 4.0 Unported Licence. To view a copy of the licence, visit https://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.</p>
-                  <p>Copyright (c) 2019-2025 by Arlo Griffithss</p>
+                  <p>Copyright (c) 2019-2025 by Arlo Griffiths</p>
                </licence>
             </availability>
             <date from="2019" to="2025">2019-2025</date>
@@ -91,8 +91,8 @@
    <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="kaw-Latn">
-<p part="F"><lb n="2r1"/>tan kavuntat saṁ pamgət i tirvan·, ḍaṅ ācāryya dharmmadeva, saṁ pamgət iṁ kaṇḍamuhi, ḍaṅ ācāryya smaradahana, saṁ pam<choice><sic>t</sic><corr>g</corr></choice>ət iṁ maṅhu<lb 
-n="2r2" break="no"/>ri, ḍaṅ ācaryya smaradeva, I piṅso<supplied reason="omitted">r</supplied>nyājñā śrī mahārāja, kumonakən saṁ pam<supplied reason="omitted">g</supplied>ət iṁ Air asiḥ, ḍa<supplied reason="omitted">ṁ</supplied> hyaṁ bhăskara, pada<lb 
+<p part="F"><pb n="2r"/><lb n="2r1"/>tan kavuntat saṁ pamgət i tirvan·, ḍaṅ ācāryya dharmmadeva, saṁ pamgət iṁ kaṇḍamuhi, ḍaṅ ācāryya smaradahana, saṁ pam<choice><sic>t</sic><corr>g</corr></choice>ət iṁ maṅhu<lb 
+n="2r2" break="no"/>ri, ḍaṅ ācaryya smaradeva, I piṅso<supplied reason="omitted">r</supplied>ny ājñā śrī mahārāja, kumonakən saṁ pam<supplied reason="omitted">g</supplied>ət iṁ Air asiḥ, ḍa<supplied reason="omitted">ṁ</supplied> hyaṁ bhăskara, pada<lb 
 n="2r3" break="no"/>mlakna saṁ hyaṁ rājapraśāsti, macihna kr̥tanagara, Umuṅgve salaḥ siki<surplus>,</surplus>niṅ upala, tāmra, ripta, kapaṅkva de saṁ pamgət iṁ Ai<lb 
 n="2r4" break="no"/>r asiḥ,</p> 
 <p>sambandha, gati saṁ pamgət iṁ Air asiḥ mahābrāhmaṇa R̥gveda-pāraga, śaṅkadhara, sākṣāt· pinakātmarakṣa de śrī ma<lb 
