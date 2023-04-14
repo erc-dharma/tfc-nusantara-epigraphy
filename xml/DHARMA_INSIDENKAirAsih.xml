@@ -185,12 +185,13 @@ n="2v8" break="no"/>ṣṇu-pratirūpa, pagavayana svātma-pratiṣṭa saṁ pa
          </div>
         <div type="bibliography">
 	<!--bibliography encoded as per section §9.4 -->
-            <p>First edited, with translation into Dutch, in  <bibl><ptr target="bib:Naerssen1941_01"/></bibl> .</p>
+            <p>First edited, with translation into Dutch, in <bibl><ptr target="bib:Naerssen1941_01"/></bibl>. Re-edited here by Arlo Griffiths from photographs of the plate.</p>
             <listBibl type="primary">
 	            <bibl n="vN"><ptr target="bib:Naerssen1941_01"/><citedRange unit="item">I</citedRange><citedRange unit="page">29-38</citedRange></bibl>
             </listBibl>
              <listBibl type="secondary">
              <bibl><ptr target="bib:OV1929"/><citedRange unit="page">156</citedRange></bibl>
+             <!-- https://lib.ui.ac.id/detail?id=20156377&lokasi=lokal -->
            </listBibl>
         </div>
       </body>
