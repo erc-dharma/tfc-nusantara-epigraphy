@@ -94,6 +94,7 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
+      <change who="part:wjsa" when="2023-04-21" status="draft">Tidied up encoding for plate 7 verso</change>
          <change who="part:wjsa" when="2023-01-30" status="draft">Fixed the way choices are encoded</change>
         <change who="part:wjsa" when="2022-05-20" status="draft">Tidied up line breaks and added full apparatus</change>
          <change who="part:wjsa" when="2022-04-29" status="draft">Started encoding the inscription</change>
@@ -157,9 +158,9 @@ n="7r8" break="no"/>n·, muAṁ mas· ku 2 panumvasa hasap· maknā ri bhaṭār
 n="7r11" break="no"/>hakna ri saṁ maṅilala drabya haji, maṅkanātaḥ parṇnahanikanaṁ kilalān· kabaiḥ yan uṅgu rikanaṁ kabikuAn· riṁ devasabhā, mataṅyan maṁkana parṇnaḥnikanaṁ kilalān· kabaiḥ Anu<lb
 n="7r12" break="no"/>graha śrī mahārāja rake vatu kura dyaḥ balituṁ, I rakryān· ri vatu tihaṁ pu saṁgrāmadhurandhara, nāhan· lvīrni kasaṁskārānnikanaṁ sīmā Iṁ kabikuAn· riṁ devasabhā, muAṁ sīmānya
 <pb n="7v"/>
-<lb n="7v1"/>savaḥ mataṅya deyanikanaṁ saṁ caturvarṇna vuluḥ panavī patiḥ vahuta kalaṁ gusti variga vinkas parujar tuha banuA muA sovāraniṁ rāma maratā Anak vanuA kabaiḥ katguhakna<lb
-n="7v2" break="no"/>ntā ikiṁ sīmā I taji kabikuAn iṁ devasabhā, sīmā rakryan i vatu tihaṁ yāpuAn· hana kumira-kira kalvurananikiṅ sīmā, pañcamahāpā<supplied reason="omitted">ta</supplied>ka paṅguhanya, manurat jayapātra
-<lb n="7v3"/>citralekha I dmu<supplied reason="omitted">ṁ</supplied> saṅ neṣṭi. // o //
+<lb n="7v1"/>savaḥ mataṅya deyanikanaṁ saṁ caturvarṇna vuluḥ panavī patiḥ vahuta kalaṁ gusti variga vinkas<supplied reason="omitted">·</supplied> parujar tuha banuA muA<supplied reason="omitted">ṁ</supplied> sovāraniṁ rāma maratā Anak vanuA kabaiḥ katguhakna<lb
+n="7v2" break="no"/>ntā Ikiṁ sīmā I taji kabikuAn<supplied reason="omitted">·</supplied> Iṁ devasabhā, sīmā rakryan I vatu tihaṁ yāpuAn· hana kumira-kira kalvurananikiṁ sīmā, pañcamahāpā<supplied reason="omitted">ta</supplied>ka paṅguhanya, manurat jayapātra
+<lb n="7v3"/>citralekha I dmu<supplied reason="omitted">ṁ</supplied> saṅ neṣṭi <g type="ddandaCross"/><g type="circle">.</g><g type="ddandaCross"/>
          </p>
        </div>
          <div type="apparatus">
@@ -246,6 +247,9 @@ n="7v2" break="no"/>ntā ikiṁ sīmā I taji kabikuAn iṁ devasabhā, sīmā r
   <app loc="7r12"> <lem source="bib:Brandes1913_01">lvīrni</lem><rdg source="bib:Boechari1985-1986_01">lvirni</rdg></app>
   	<app loc="7r12"> <lem>sīmā</lem><rdg source="bib:Brandes1913_01 bib:Boechari1985-1986_01">sīma</rdg> </app>
   	<app loc="7r12"> <lem>sīmānya</lem><rdg source="bib:Brandes1913_01 bib:Boechari1985-1986_01">sīmanya</rdg></app>
+   <app loc="7v1"> <lem>muA<supplied reason="omitted">ṁ</supplied></lem><rdg source="bib:Brandes1913_01 bib:Boechari1985-1986_01">sīmanya</rdg></app>
+   <app loc="7v1"> <lem source="bib:Boechari1985-1986_01">kabikuAn</lem><rdg source="bib:Brandes1913_01">kabibuAn</rdg></app>
+   <app loc="7v1"> <lem source="bib:Boechari1985-1986_01">sīmā</lem><rdg source="bib:Brandes1913_01">sīma</rdg></app>
    </listApp>
          </div>
          <div type="translation" resp="part:wjsa">
