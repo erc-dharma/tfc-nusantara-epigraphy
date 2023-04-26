@@ -104,32 +104,32 @@
          <div type="apparatus">
            <!--apparatus encoded as per EG §9.1, basic elements for apparatus below-->
                <listApp>
-                  <app loc="ABCD1">
+                  <app loc="1">
                       <lem source="bib:Krom1917_01">vāge</lem>
                       <note>It would also be possible to read vāg<unclear>ai</unclear>.</note>
                   </app>
-                  <app loc="ABCD1">
+                  <app loc="1">
                       <lem>madaṅkuṅan·</lem>
                      <rdg source="bib:Krom1917_01">maḍaṅkuṅan</rdg>
                   </app>
-                  <app loc="ABCD1">
+                  <app loc="1">
                       <lem>śubha-<g type="squiggleVertical">§</g></lem>
                      <rdg source="bib:Krom1917_01">śubha</rdg>
                   </app>
-                  <app loc="ABCD2">
+                  <app loc="22">
                       <lem>catudaśātmikā</lem>
                      <rdg source="bib:Krom1917_01">caturdaśātmika</rdg>
                   </app>
-                  <app loc="ABCD2">
+                  <app loc="2">
                       <lem>diĀntat·</lem>
                      <rdg source="bib:Krom1917_01">diĀntuk</rdg>
                      <note>Read <foreign>Aṅkut</foreign>, <foreign>Aṅkat</foreign> or <foreign>Antar</foreign>?</note>
                   </app>
-                  <app loc="ABCD4">
+                  <app loc="4">
                       <lem>diAnumodanā Oleḥ</lem>
                      <rdg source="bib:Krom1917_01">diAnumodanāñjaleḥ</rdg>
                   </app>
-                  <app loc="ABCD4">
+                  <app loc="4">
                       <lem>pramuka</lem>
                      <rdg source="bib:Krom1917_01">pramukha</rdg>
                   </app>
