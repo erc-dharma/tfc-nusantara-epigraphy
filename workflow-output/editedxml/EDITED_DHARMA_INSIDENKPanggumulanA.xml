@@ -141,7 +141,6 @@
                        <app loc="1v1">
                        <lem source="bib:TitiSurtiNastiti+al1982_01">poṣa</lem>
                        <rdg source="bib:Bosch1925_02">pauṣa</rdg></app>
-                            
                                 <app loc="1v1">
                                 <lem><choice><orig>jaiṣṭa</orig><reg>jyaiṣṭha</reg></choice></lem>
                                 <rdg source="bib:TitiSurtiNastiti+al1982_01">jaiṣṭa</rdg>
@@ -396,24 +395,37 @@
                
             <div type="commentary">
               <p>An alternative designation for this inscription is Kembang Arum.</p>
-              <p>- comma punctuation takes shape of median circle</p>
-              <p>- tarung in taling/tarung combination is attached in the manner of p and h even to other consonants (as in no, so, ...)</p>
-              <p>- anusvāra sometimes used for phonemic /m/ in the word inuṁ “drink” (3r20, 3v3), but sometimes we find the usual spelling inum· (3v4).</p>
-              <p>- pasangan ḍ is sometimes not clearly distinguished from pasangan d, resulting in non-standard pairings with ṇ: e.g. Aṇdabhuvaṇa, paṇdavutan</p>
-              <p>91</p><p>On the ceremonies involving the <foreign>sima </foreign>stones, see Titi Surti Nastiti (2018): 189–191.</p>
+              <p>Distinctive features of the script include:
+              <list><item>The comma punctuation takes shape of median circle.</item> 
+              <item>The <foreign>tarung</foreign> is attached in the manner of p and h even to other consonants (as in no, so, etc.)</item>
+              <item>The <foreign>anusvāra</foreign> sometimes used for phonemic /m/ in the word <foreign>inuṁ</foreign> “drink” (3r20, 3v3), but sometimes we find the usual spelling <foreign>inum·</foreign> (3v4).</item>
+              <item><foreign>Pasangan</foreign> ḍ is sometimes not clearly distinguished from <foreign>pasangan</foreign> d, resulting in non-standard pairings with ṇ: e.g. Aṇdabhuvaṇa, paṇdavutan</item></list></p>
+              <p>On the ceremonies involving the <foreign>sīma</foreign>stones, see Titi Surti Nastiti <bibl rend="omitname"><ptr target="bib:TitiSurtiNastiti2018_01"/><citedRange>189–191</citedRange></bibl>.</p>
             </div>
              <div type="bibliography">
-               <p>We collate readings from the OV version. We collate readings from the Pasar di Jawa version, taking into account further corrections supplied by Titi Surti Nastiti in June 2020. </p>
+               <p>For the readings of <bibl n="T" rend="siglum"/>, we have taken into account further corrections supplied by Titi Surti Nastiti in June 2020.</p>
                <listBibl type="primary">
                  <bibl n="B">                   
                    <ptr target="bib:Bosch1925_02"/>
-                   <citedRange>41- (Bijlage B)</citedRange> 
-                   <note>reproduced with English translation in H.B.Sarkar (1972) Corpus of the Inscriptions of Java, pp. 24-41.</note> 
+                   <citedRange unit="page">41-49</citedRange>
+<citedRange unit="appendix">B</citedRange>
+                   <note>Reproduced with English translation in H.B.Sarkar <bibl rend="omitname"><ptr target="bib:Sarkar1971-1972_01"/></bibl></note> 
                    </bibl>
                  <bibl n="T">
-                   <ptr target="bib:TitiSurtiNastiti+al1982_01"/>
-                   <note>The reading was republished with corrections as Appendix B.I. in Titi Surti Nastiti (2003) Pasar di Jawa.</note> 
+                   <ptr target="bib:TitiSurtiNastiti2003_01"/>
+                   <note>The reading was originally published in <bibl><ptr target="bib:TitiSurtiNastiti+al1982_01"/></bibl>. </note> 
                  </bibl>
+               </listBibl>
+               <listBibl type="secondary">
+               <bibl>
+               <ptr target="bib:TitiSurtiNastiti+al1982_01"/>
+               <citedRange unit="page">13-22</citedRange>
+               <citedRange unit="page">30-35</citedRange>
+               </bibl>
+               <bibl rend="omitname"><ptr target="bib:Sarkar1971-1972_01"/>
+               <citedRange unit="page">24-41</citedRange>
+               <citedRange unit="item">LXIV</citedRange>
+               </bibl>
                </listBibl>
              </div>
   <!-- 
