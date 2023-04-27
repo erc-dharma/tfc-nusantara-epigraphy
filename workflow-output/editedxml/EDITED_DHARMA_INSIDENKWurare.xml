@@ -103,7 +103,7 @@
 	</lg>
          	<lg n="2" met="anuṣṭubh">
 		<l n="a"><lb n="2"/>// Anv atas sarvva-siddhim vā,</l> 
-		<l n="b">vande’haṅ gauravāt sadā,</l>
+		<l n="b">vande ’haṅ gauravāt sadā,</l>
 		<l n="c">śaka-kālam idaṁ vakṣye,</l>
 		<l n="d">rāja-kīrtti-prakāśanaṁ<!-- anusvāra seems to be normal here -->, <num value="2">2</num>, //</l>
 	</lg>
@@ -182,7 +182,7 @@
 	<lg n="15" met="anuṣṭubh">
 		<l n="a"><lb n="15"/>sinta-nāmni ca parvve ca,</l> 
 		<l n="b">karaṇe viṣṭi-saṁskr̥te,</l>
-		<l n="c">Anurādhe’pi nakṣatre, </l>
+		<l n="c">Anurādhe ’pi nakṣatre, </l>
 		<l n="d">mitre māhendra-maṇḍale, <num value="15">15</num> //</l>
 	</lg>	
 	<lg n="16" met="anuṣṭubh">
@@ -198,9 +198,9 @@
 		<l n="d">kṣity-ekībhāva-kāraṇāt·,<!-- presence of comma to be confirmed --> <num value="17">17</num> //</l>
 	</lg>	
 	<lg n="18" met="anuṣṭubh">
-		<l n="a"><lb n="18"/>Athāsya dāsa-bhūto’haṁ<!-- apparently a normal anusvāra -->,</l> 
+		<l n="a"><lb n="18"/>Athāsya dāsa-bhūto ’haṁ<!-- apparently a normal anusvāra -->,</l> 
 		<l n="b">nādajño nāma kīrttitaḥ,</l>
-		<l n="c">vidyā-hīno’pi sammūḍho,</l>
+		<l n="c">vidyā-hīno ’pi sammūḍho,</l>
 		<l n="d">dharmma-kriy<supplied reason="omitted">ā</supplied><!-- the long ā invisible on estampage; can it be confirmed on the stoe -->sv atatparaḥ, <num value="18">18</num> //</l>
 	</lg>	
 	<lg n="19" met="anuṣṭubh">
@@ -220,7 +220,7 @@
 	<app loc="3">
                      <lem>śreṣ<choice><orig>ṭ</orig><reg>ṭh</reg></choice>a</lem>
                      <rdg source="bib:Kern1917_02 bib:Poerbatjaraka1922_01">śreṣṭha</rdg>
-	<note>All previous editions silently correct <foreign>ṭ</foreign> to <foreign>ṭh</foreign>. Cf. st. XIII for two clear cases of a proper <foreign>ṣṭh</foreign>, and XV for a clear case of <foreign>ṣṭ</foreign>. There is no doubt the lapicide here engraved <foreign>ṣṭ</foreign>. See also the remarks of Damais (<bibl rend="omitname"><ptr target="bib:Damais1955_01"/><citedRange unit="page">58</citedRange><citedRange unit="note">1</citedRange><citedRange unit="page">79</citedRange><citedRange unit="note">3</citedRange></bibl><!-- how to handle such separate page numbers with separate note numbers? -->) on the distinction <foreign>ṣth/ṣṭ</foreign> in Javanese inscriptions.</note> 
+	<note>All previous editions silently correct <foreign>ṭ</foreign> to <foreign>ṭh</foreign>. Cf. st. XIII for two clear cases of a proper <foreign>ṣṭh</foreign>, and XV for a clear case of <foreign>ṣṭ</foreign>. There is no doubt the lapicide here engraved <foreign>ṣṭ</foreign>. See also the remarks of Damais (<bibl rend="omitname"><ptr target="bib:Damais1955_01"/><citedRange unit="page">58</citedRange><citedRange unit="note">1</citedRange><citedRange unit="page">79</citedRange><citedRange unit="note">3</citedRange></bibl><!-- how to handle such separate page numbers with separate note numbers? -->) on the distinction <foreign>ṣth/ṣṭ</foreign> in Javanese inscriptions.</note> 
 	</app>
 <app loc="3">
                <lem>bharāḍasaṁjñakaḥ</lem>
@@ -229,7 +229,7 @@
 </app>
 <app loc="5">
 <lem>sāmarthya</lem>
-<note>Kern (n. 3) observes <quote>Het casus-teeken ontbreekt</quote>. It would be possible to read <foreign>°sāmarthyaṁ</foreign> although the hole in the stone that could represent anusvāra can equally be treated as a cavity in the stone. However, it is seems unproblematic to consider that the whole of pāda c forms the initial part of a long compound ending with <foreign>kumbhabajrodakena</foreign> in d.</note>
+<note>Kern (n. 3) observes <quote>Het casus-teeken ontbreekt</quote>. It would be possible to read <foreign>°sāmarthyaṁ</foreign> although the hole in the stone that could represent anusvāra can equally be treated as a cavity in the stone. However, it is seems unproblematic to consider that the whole of pāda c forms the initial part of a long compound ending with <foreign>kumbhabajrodakena</foreign> in d.</note>
 </app>
 <app loc="5">
 	<lem>bajrodakena</lem>

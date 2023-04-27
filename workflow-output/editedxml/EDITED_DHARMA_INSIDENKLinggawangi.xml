@@ -123,7 +123,7 @@
                 </app>
                 <app loc="3">
                     <lem><choice><orig>disusuku</orig><reg>disusuk ku</reg></choice></lem>
-                    <note>For the same phenomenon of consonant degemination, cf. manuscript Perpusnas L 426B, no. 13: <foreign>hya <choice><reg>pəpək ku</reg><orig>pəpəku</orig></choice> pənuḥ kita maṁke</foreign> <q>Now you are filled by fullness</q>.<!-- Dan: what markup is needed for the quotation marks around a translation such as here? Use <quote>, as in other cases?--></note>
+                    <note>For the same phenomenon of consonant degemination, cf. manuscript Perpusnas L 426B, no. 13: <foreign>hya <choice><reg>pəpək ku</reg><orig>pəpəku</orig></choice> pənuḥ kita maṁke</foreign> <q>Now you are filled by fullness</q>.<!-- Dan: what markup is needed for the quotation marks around a translation such as here? Use <quote>, as in other cases?--></note>
                 </app>
             </listApp>  
             </div>            

@@ -122,7 +122,7 @@
                   <app loc="1r1">
                       <lem>b<choice><sic>u</sic><corr>a</corr></choice>ḍuga</lem>
                       <rdg source="bib:Holle1867_02 bib:Pleyte1911_01 bib:Boechari1985-1986_01 bib:HasanDjafar1991_01">baduga</rdg>
-                      <note>Looking at the element <foreign>baduga</foreign> in <ref target="DHARMA_INSIDENKBatutulis.xml">Batutulis</ref>, it is clear that <foreign>buduga</foreign> here must be an error, which all previous editors have either failed to notice or silently corrected. OS manuscripts always have <foreign>baduga</foreign> (cf. CP.30a, AG.1v). This word is probably a Sundanese development of Skt. <foreign>pāduka</foreign>.</note>
+                      <note>Looking at the element <foreign>baduga</foreign> in <ref target="DHARMA_INSIDENKBatutulis.xml">Batutulis</ref>, it is clear that <foreign>buduga</foreign> here must be an error, which all previous editors have either failed to notice or silently corrected. OS manuscripts always have <foreign>baduga</foreign> (cf. CP.30a, AG.1v). This word is probably a Sundanese development of Skt. <foreign>pāduka</foreign>.</note>
                   </app>
                     <app loc="1r2">
                       <lem source="bib:Pleyte1911_01">śri</lem>
@@ -162,7 +162,7 @@
                     <app loc="1r4">
                         <lem source="bib:Holle1867_02 bib:Pleyte1911_01">tebeḥ</lem>
                         <rdg source="bib:Boechari1985-1986_01 bib:HasanDjafar1991_01">te beḥ</rdg>
-                        <note><ptr target="bib:Boechari1985-1986_01"/> and <ptr target="bib:HasanDjafar1991_01"/> note: <quote>te [baca: ti] beḥ</quote>, but the word <foreign>tebeh</foreign> is commonly used in OS texts. Cf. Bujaṅga Manik 662, 1082, 1160.</note>
+                        <note><ptr target="bib:Boechari1985-1986_01"/> and <ptr target="bib:HasanDjafar1991_01"/> note: <quote>te [baca: ti] beḥ</quote>, but the word <foreign>tebeh</foreign> is commonly used in OS texts. Cf. Bujaṅga Manik 662, 1082, 1160.</note>
                     </app>
                     <app loc="1r4">
                         <lem>ciraAb</lem>
@@ -175,7 +175,7 @@
                     </app>
                     <app loc="1v1">
                         <lem>L̥vəṁ</lem>
-                        <rdg source="bib:Holle1867_02 bib:Pleyte1911_01 bib:Boechari1985-1986_01 bib:HasanDjafar1991_01">lə: və: ṁ</rdg>
+                        <rdg source="bib:Holle1867_02 bib:Pleyte1911_01 bib:Boechari1985-1986_01 bib:HasanDjafar1991_01">lə:və:ṁ</rdg>
                     </app>
                     <app loc="1v1">
                         <lem source="bib:HasanDjafar1991_01">mo mihape ya</lem>
@@ -185,7 +185,7 @@
                     
                     <app loc="1v3">
                         <lem>kagiraṁkən</lem>
-                        <rdg source="bib:Holle1867_02 bib:Pleyte1911_01 bib:Boechari1985-1986_01 bib:HasanDjafar1991_01">kagiraṁkə: n</rdg>
+                        <rdg source="bib:Holle1867_02 bib:Pleyte1911_01 bib:Boechari1985-1986_01 bib:HasanDjafar1991_01">kagiraṁkə:n</rdg>
                     </app>
                     <app loc="1v3">
                         <lem>laraṁṅan</lem>
@@ -193,7 +193,7 @@
                     </app>
                     <app loc="1v3">
                         <lem>pigəsanən·na</lem>
-                        <rdg source="bib:Holle1867_02 bib:Pleyte1911_01 bib:Boechari1985-1986_01 bib:HasanDjafar1991_01">pigə: sanə: nna</rdg>
+                        <rdg source="bib:Holle1867_02 bib:Pleyte1911_01 bib:Boechari1985-1986_01 bib:HasanDjafar1991_01">pigə:sanə:nna</rdg>
                     </app>
                     <app loc="1v4">
                         <lem source="bib:Holle1867_02 bib:Pleyte1911_01 bib:HasanDjafar1991_01">vaya</lem>
@@ -202,12 +202,12 @@
                     <app loc="1v4">
                         <lem>kəḍə</lem>
                         <rdg source="bib:Pleyte1911_01">kədə:</rdg>
-                        <rdg source="bib:Holle1867_02 bib:Boechari1985-1986_01 bib:HasanDjafar1991_01">kə: də:</rdg>
+                        <rdg source="bib:Holle1867_02 bib:Boechari1985-1986_01 bib:HasanDjafar1991_01">kə:də:</rdg>
                     </app>
                     <app loc="1v4">
                         <lem>bənaṁṅiṁ</lem>
-                        <rdg source="bib:Holle1867_02 bib:Boechari1985-1986_01">bə: naṅiṁ</rdg>
-                        <rdg source="bib:Pleyte1911_01 bib:HasanDjafar1991_01">bə: naṁṅiṁ</rdg>
+                        <rdg source="bib:Holle1867_02 bib:Boechari1985-1986_01">bə:naṅiṁ</rdg>
+                        <rdg source="bib:Pleyte1911_01 bib:HasanDjafar1991_01">bə:naṁṅiṁ</rdg>
                     </app>
                     <app loc="1v5">
                         <lem>kenaIṁ</lem>
@@ -234,7 +234,7 @@
              <p n="1v4-5"><foreign>kenaIṁ</foreign> ◇ For an explanation of the pronominal suffix -iṅ (corresponding to pronoun aiṅ), see <bibl><ptr target="bib:Noorduyn+Teeuw2006_01"/><citedRange unit="page">48</citedRange></bibl>.</p>
          </div>
         <div type="bibliography">
-           <p>The inscription was read first by Holle (<bibl rend="omitname"><ptr target="bib:Holle1867_02"/><citedRange unit="page">562</citedRange><citedRange unit="plate">1</citedRange></bibl>) and then by Pleyte (<bibl rend="omitname"><ptr target="bib:Pleyte1911_01"/><citedRange unit="page">169</citedRange></bibl>). Boechari (<bibl rend="omitname"><ptr target="bib:Boechari1985-1986_01"/><citedRange unit="page">104-105</citedRange></bibl>) provided a new reading although without any translation. The most recent reading is the one by Hasan Djafar (<bibl rend="omitname"><ptr target="bib:HasanDjafar1991_01"/><citedRange unit="page">11</citedRange></bibl>), now with Indonesian translation. Re-edited here by Aditia Gunawan &amp; Arlo Griffiths from  Leiden rubbings and a photograph.</p> 
+           <p>The inscription was read first by Holle (<bibl rend="omitname"><ptr target="bib:Holle1867_02"/><citedRange unit="page">562</citedRange><citedRange unit="plate">1</citedRange></bibl>) and then by Pleyte (<bibl rend="omitname"><ptr target="bib:Pleyte1911_01"/><citedRange unit="page">169</citedRange></bibl>). Boechari (<bibl rend="omitname"><ptr target="bib:Boechari1985-1986_01"/><citedRange unit="page">104-105</citedRange></bibl>) provided a new reading although without any translation. The most recent reading is the one by Hasan Djafar (<bibl rend="omitname"><ptr target="bib:HasanDjafar1991_01"/><citedRange unit="page">11</citedRange></bibl>), now with Indonesian translation. Re-edited here by Aditia Gunawan &amp; Arlo Griffiths from  Leiden rubbings and a photograph.</p> 
           <listBibl type="primary">
                 <bibl n="H">
                     <ptr target="bib:Holle1867_02"/><citedRange unit="page">562</citedRange>

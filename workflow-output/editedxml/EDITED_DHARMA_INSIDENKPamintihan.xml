@@ -154,7 +154,7 @@ Nous trouvons ici pour la première fois dans une inscription MA(nis) au lieu de
 	<app loc="1v1">
                      <lem source="bib:Damais1955_01 bib:Boechari1985-1986_01"><choice><sic>diḍhi</sic><corr>tithi</corr></choice></lem>
                      <rdg source="bib:Bosch1922_01">didi</rdg>
-	<note>There is a note number 1 after this word in PKMN, but no corresponding note is found at the end of the edition. See the discussion of the odd misspelling in <bibl><ptr target="bib:Damais1955_01"/><citedRange unit="page">85</citedRange><citedRange unit="note">2</citedRange></bibl>.
+	<note>There is a note number 1 after this word in PKMN, but no corresponding note is found at the end of the edition. See the discussion of the odd misspelling in <bibl><ptr target="bib:Damais1955_01"/><citedRange unit="page">85</citedRange><citedRange unit="note">2</citedRange></bibl>.
 </note></app>
 <!-- 
 Damais 1955, 85 n. 2
@@ -210,15 +210,15 @@ Damais 1955, 85 n. 2
  	<app loc="4r3"><lem><choice><sic><num value="18">18</num></sic><corr><num value="18">28</num></corr></choice></lem><note>See <bibl><ptr target="bib:Muusses1929_01"/><citedRange unit="page">208</citedRange><citedRange unit="note">1</citedRange></bibl>.</note></app>
 	<app loc="4r6"><lem>kaparabyāpăra</lem><rdg source="bib:Bosch1922_01">kaparabyāmara</rdg><note>Certainly a misreading by Bosch.</note></app>
 	<app loc="4v1"><lem>-hajyanan·</lem><rdg source="bib:Bosch1922_01">-lajyanan</rdg><note>Certainly a misreading by Bosch.</note></app>
-	<app loc="4v2"><lem>po<supplied reason="omitted">ḥ</supplied></lem><note>See <ref target="DHARMA_INSIDENKNarasinghanagara.xml">Narasinghanagara</ref> (14v8) <foreign>miśra, paṅhuraṁ, kriṁ, paḍə: m·, manimpiki, parānakan·, limus· galuḥ, maṁriñca, maṅhuri, paraṁ, suṅka, dhura, paṅaruhan·, poḥ galuḥ, suṅgiṁ, ...</foreign>.</note></app>
+	<app loc="4v2"><lem>po<supplied reason="omitted">ḥ</supplied></lem><note>See <ref target="DHARMA_INSIDENKNarasinghanagara.xml">Narasinghanagara</ref> (14v8) <foreign>miśra, paṅhuraṁ, kriṁ, paḍə:m·, manimpiki, parānakan·, limus· galuḥ, maṁriñca, maṅhuri, paraṁ, suṅka, dhura, paṅaruhan·, poḥ galuḥ, suṅgiṁ, ...</foreign>.</note></app>
 	<app loc="4r5"><lem><choice><sic>vaṅtek kābutan·</sic><corr>vaṅke kābunan·</corr></choice></lem><note>It seems very likely that Bosch’ reading <foreign>vaṅke kābunan·</foreign> is his error rather than that of the engraver, though the doubling of <foreign>k</foreign> is unexpected whether as an error of the engraver or of the decipherer.</note></app>	
 	<app loc="4v6"><lem>maṇḍihalādi</lem><rdg source="bib:Bosch1922_01">maṇḍihaludi</rdg><note>Certainly a misreading by Bosch, given the existence of a shape of <foreign>lā</foreign> with <foreign>suku</foreign>-like subscript. See also his misreading <foreign>mūlu</foreign> for <foreign>mūlā</foreign> in 1v2.</note></app>
-	<app loc="4v6"><lem>agave</lem><rdg source="bib:Bosch1922_01">avave</rdg><note>Certainly a misreading by Bosch. Cf. <ref target="DHARMA_INSIDENKTuhanyaru.xml">Tuhanyaru</ref> (7r4) <!-- Aṅgula, Aṁdyun·, Amubut·, Agave suri, Agave kisi, vusu-vusu, payuṁ vlu, mopiḥ, Anipaḥ, ruṅki --> and <ref target="DHARMA_INSIDENKGenengII.xml">Geneng II</ref> (25–26)<!-- maṁgula, ma⟨ṁ⟩dyun·, mamubut·, magave kisi, payuṁ vlu, mopiḥ, manipa[ḥ,] vusu-vusu, ruṅki, maṅanam-anām·, magave suri, manavaṁ, mañjariṁ, manəpis·, .. -->.</note></app>
+	<app loc="4v6"><lem>agave</lem><rdg source="bib:Bosch1922_01">avave</rdg><note>Certainly a misreading by Bosch. Cf. <ref target="DHARMA_INSIDENKTuhanyaru.xml">Tuhanyaru</ref> (7r4) <!-- Aṅgula, Aṁdyun·, Amubut·, Agave suri, Agave kisi, vusu-vusu, payuṁ vlu, mopiḥ, Anipaḥ, ruṅki --> and <ref target="DHARMA_INSIDENKGenengII.xml">Geneng II</ref> (25–26)<!-- maṁgula, ma⟨ṁ⟩dyun·, mamubut·, magave kisi, payuṁ vlu, mopiḥ, manipa[ḥ,] vusu-vusu, ruṅki, maṅanam-anām·, magave suri, manavaṁ, mañjariṁ, manəpis·, .. -->.</note></app>
 	<app loc="5r1"><lem>Añjariṁ</lem><rdg source="bib:Bosch1922_01">abariṁ</rdg></app>
 <!--	5r2. sarvva rva: Cf. Padlegan III 27 kapva rva tuhan· ri sasimā, daṇḍanya kalima sahəṇḍak·. -->
 <app loc="5r2"><lem>bhaṇḍanya</lem><rdg source="bib:Bosch1922_01 bib:Boechari1985-1986_01">saṇḍanya</rdg>
-<note>Cf. <ref target="DHARMA_INSIDENKWarunggahan.xml">Warunggahan</ref> (12r5) <foreign>kunəṅ hiṅani bhaṇḍanyān pikul·-pikulan·</foreign>.</note></app>
-<app loc="5r2"><lem>sahəṇḍag·</lem><note>Cf. <foreign>sahəṇḍak</foreign> in <ref target="DHARMA_INSIDENKPadleganIII.xml">Padlegan III</ref> (27) and <foreign>sakaṇḍag</foreign> <ref target="DHARMA_INSIDENKGenengII.xml">Geneng II</ref> (27).</note></app>
+<note>Cf. <ref target="DHARMA_INSIDENKWarunggahan.xml">Warunggahan</ref> (12r5) <foreign>kunəṅ hiṅani bhaṇḍanyān pikul·-pikulan·</foreign>.</note></app>
+<app loc="5r2"><lem>sahəṇḍag·</lem><note>Cf. <foreign>sahəṇḍak</foreign> in <ref target="DHARMA_INSIDENKPadleganIII.xml">Padlegan III</ref> (27) and <foreign>sakaṇḍag</foreign> <ref target="DHARMA_INSIDENKGenengII.xml">Geneng II</ref> (27).</note></app>
 <!-- 	5r4. deniṁ: deni Bosch Boechari. -->
 <app loc="5r5"><lem>sabhāmaddhya</lem><rdg source="bib:Bosch1922_01 bib:Boechari1985-1986_01">sasāmaddhya</rdg></app>
 <!-- 	5r6. yathākrama: yāthā krama Bosch Boechari.  

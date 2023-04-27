@@ -104,7 +104,7 @@
                   <app loc="2r1">
                      <lem source="bib:Boechari2012_33">amabaki</lem>
                      <rdg source="bib:Stutterheim1925_04">amataki</rdg>
-                     <note>Stutterheim misreads this word with <foreign>t</foreign> instead of <foreign>b</foreign> throughout his edition. Further instances will not be noted.</note>
+                     <note>Stutterheim misreads this word with <foreign>t</foreign> instead of <foreign>b</foreign> throughout his edition. Further instances will not be noted.</note>
 <!-- 2r1. mabaki: Stutterheim membaca nama ini secara konsekwen buyut amataki. Dari foto yang kami terima dari Direktorat Perlindungan dan Pembinaan Peninggalan Sejarah dan Purbakala jelas bahwa huruf yang kedua dari belakang itu ialah huruf ba.-->
                   </app>
                   <app loc="2r1">
@@ -144,7 +144,7 @@
          </div>
         <div type="bibliography">
 	<!--bibliography encoded as per section §9.4 -->
-           <p>First edited by Stutterheim without translation; edited again by Boechari with Indonesian translation. Re-edited here by Arlo Griffiths from photographs.</p>
+           <p>First edited by Stutterheim without translation; edited again by Boechari with Indonesian translation. Re-edited here by Arlo Griffiths from photographs.</p>
         	<listBibl type="primary">
                 <bibl n="S"><ptr target="bib:Stutterheim1925_04"/><citedRange unit="item">I</citedRange><citedRange unit="page">57-59</citedRange></bibl>
 				<bibl n="B"><ptr target="bib:Boechari2012_33"/><citedRange unit="item">VIII</citedRange><citedRange unit="page">494-499</citedRange></bibl>

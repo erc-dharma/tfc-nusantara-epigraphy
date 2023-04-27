@@ -118,7 +118,7 @@
                    </app>
                    <app loc="1r4">
                        <lem>ṅahəryanan·</lem>
-                       <rdg source="bib:Holle1872_01 bib:Pleyte1911_01 bib:Boechari1985-1986_01 bib:HasanDjafar1991_01">hahə: ryanan·</rdg>
+                       <rdg source="bib:Holle1872_01 bib:Pleyte1911_01 bib:Boechari1985-1986_01 bib:HasanDjafar1991_01">hahə:ryanan·</rdg>
                        <note><ptr target="bib:HasanDjafar1991_01"/> add a note <quote>[baca: ṅahöryanan·]</quote></note>
                    </app>
                    <app loc="1v1">
@@ -126,7 +126,7 @@
                        <rdg source="bib:Holle1872_01">pa<supplied reason="omitted">m</supplied>bahna</rdg>
                        <rdg source="bib:Pleyte1911_01">paambahna</rdg>
                        <rdg source="bib:Boechari1985-1986_01 bib:HasanDjafar1991_01">pa<supplied reason="omitted">am</supplied>baḥna</rdg>
-                       <note>We prefer to assume that an aksara <foreign>L̥</foreign> has been omitted by the engraver, since the aksaras <foreign>ba</foreign> and <foreign>L̥</foreign> are quite similar in shape, so that we can understand <foreign>paləbahna</foreign> as in MdS <q>place where something is located</q>. Cf. also the functionally equivalent use of <foreign>ḍi</foreign> in <ref target="DHARMA_INSIDENKKebantenan_2.xml">Kebantenan 2</ref> fol.1v4 <foreign>kəḍə ḍi bənaṁṅiṁ ṅagurat</foreign>.</note>
+                       <note>We prefer to assume that an aksara <foreign>L̥</foreign> has been omitted by the engraver, since the aksaras <foreign>ba</foreign> and <foreign>L̥</foreign> are quite similar in shape, so that we can understand <foreign>paləbahna</foreign> as in MdS <q>place where something is located</q>. Cf. also the functionally equivalent use of <foreign>ḍi</foreign> in <ref target="DHARMA_INSIDENKKebantenan_2.xml">Kebantenan 2</ref> fol.1v4 <foreign>kəḍə ḍi bənaṁṅiṁ ṅagurat</foreign>.</note>
                    </app>
                    <app loc="1v1">
                        <lem>ku ṅaIṁ</lem>
@@ -145,7 +145,7 @@
             <!--commentary encoded as per section §9.3 -->
          </div>
         <div type="bibliography">
-           <p>The inscription was read first by Holle (<bibl rend="omitname"><ptr target="bib:Holle1872_01"/><citedRange unit="page">367-369</citedRange><citedRange unit="plate">V</citedRange></bibl>), following his previous reading of other plates (<bibl><ptr target="bib:Holle1867_02"/></bibl>). Subsequently, Pleyte (<bibl rend="omitname"><ptr target="bib:Pleyte1911_01"/><citedRange unit="page">170</citedRange></bibl>) gave a new reading and Dutch translation. Boechari (<bibl rend="omitname"><ptr target="bib:Boechari1985-1986_01"/><citedRange unit="page">104-105</citedRange></bibl>) provided a new reading although without any translation. The most recent reading is the one by Hasan Djafar (<bibl rend="omitname"><ptr target="bib:HasanDjafar1991_01"/><citedRange>11</citedRange></bibl>), now with Indonesian translation. Our reading is the result of autopsy by Aditia Gunawan on May 23rd, 2013. Alas, no usable reproduction is available for this plate, which is extremely thinly engraved and therefore hard to photograph.</p> 
+           <p>The inscription was read first by Holle (<bibl rend="omitname"><ptr target="bib:Holle1872_01"/><citedRange unit="page">367-369</citedRange><citedRange unit="plate">V</citedRange></bibl>), following his previous reading of other plates (<bibl><ptr target="bib:Holle1867_02"/></bibl>). Subsequently, Pleyte (<bibl rend="omitname"><ptr target="bib:Pleyte1911_01"/><citedRange unit="page">170</citedRange></bibl>) gave a new reading and Dutch translation. Boechari (<bibl rend="omitname"><ptr target="bib:Boechari1985-1986_01"/><citedRange unit="page">104-105</citedRange></bibl>) provided a new reading although without any translation. The most recent reading is the one by Hasan Djafar (<bibl rend="omitname"><ptr target="bib:HasanDjafar1991_01"/><citedRange>11</citedRange></bibl>), now with Indonesian translation. Our reading is the result of autopsy by Aditia Gunawan on May 23rd, 2013. Alas, no usable reproduction is available for this plate, which is extremely thinly engraved and therefore hard to photograph.</p> 
           <listBibl type="primary">
                 <bibl n="H">
                     <ptr target="bib:Holle1872_01"/><citedRange unit="page">367-369</citedRange>

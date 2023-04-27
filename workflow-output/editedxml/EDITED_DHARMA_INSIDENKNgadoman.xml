@@ -124,14 +124,14 @@
            <listApp>
              <app loc="1">
                  <lem source="bib:CohenStuart1872_01">Om̐</lem>
-                 <note>The <foreign>anunāsika</foreign> is noted with a sign identical to the <foreign>layar</foreign> used elsewhere in this inscription. See <bibl><ptr target="bib:CohenStuart1872_01"/><citedRange unit="page">279</citedRange></bibl>.</note>
+                 <note>The <foreign>anunāsika</foreign> is noted with a sign identical to the <foreign>layar</foreign> used elsewhere in this inscription. See <bibl><ptr target="bib:CohenStuart1872_01"/><citedRange unit="page">279</citedRange></bibl>.</note>
              </app>
              <app loc="1">
                <lem>ha<choice><orig>d</orig><reg>rd</reg></choice>i damaluṁ</lem><!-- argr2masc: used <supplied> for inserting the layar? masc2argr: I am not convinced that this should be considered a case of omission.-->
                  <rdg source="bib:CohenStuart1872_01">hadi damaluṁ</rdg>
                  <!--Should we try to record somehow that Cohen Stuart was already hesitating, as he adds in his edition of 1872 "(of umalung?)"". I'm not sure how to convert the editor's markup here.-->
                  <rdg source="bib:CohenStuart1875_01 bib:Casparis1975_01">hadi Umaluṁ</rdg>
-                 <note>Damaluṅ is one of the names anciently given to Mt. Merbabu and the term <foreign>hardi</foreign>, albeit part of the toponym, is to be distinguished from the proper noun. The colocations <foreign>Ardi Damaluṅ</foreign> or <foreign>Hardi Pamrihan</foreign> are commonly used to refer to this mountain in the colophons of Merapi-Merbabu manuscripts (as for instance in L 187, L 53, L 220, Mal-Pol 165). See <bibl><ptr target="bib:KuntaraWiryamartana1993_01"/><citedRange unit="page">505</citedRange></bibl>.</note>
+                 <note>Damaluṅ is one of the names anciently given to Mt. Merbabu and the term <foreign>hardi</foreign>, albeit part of the toponym, is to be distinguished from the proper noun. The colocations <foreign>Ardi Damaluṅ</foreign> or <foreign>Hardi Pamrihan</foreign> are commonly used to refer to this mountain in the colophons of Merapi-Merbabu manuscripts (as for instance in L 187, L 53, L 220, Mal-Pol 165). See <bibl><ptr target="bib:KuntaraWiryamartana1993_01"/><citedRange unit="page">505</citedRange></bibl>.</note>
              </app>
              <app loc="1">
                  <lem source="bib:CohenStuart1872_01 bib:Casparis1975_01">Uri<lb n="2" break="no"/>piṁ</lem>

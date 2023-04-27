@@ -122,12 +122,12 @@
                    </app>
                    <app loc="1r3">
                        <lem source="bib:Holle1867_02 bib:Pleyte1911_01">ṅahəriAnan·</lem>
-                       <rdg source="bib:Boechari1985-1986_01 bib:HasanDjafar1991_01">ṅahə: riyanan·</rdg>
+                       <rdg source="bib:Boechari1985-1986_01 bib:HasanDjafar1991_01">ṅahə:riyanan·</rdg>
                    </app>
                    <app loc="1r4">
                        <lem>ṅahəriyanan·</lem>
-                       <rdg source="bib:Holle1867_02 bib:Pleyte1911_01">ṅahə: riAnan·</rdg>
-                       <rdg source="bib:Boechari1985-1986_01 bib:HasanDjafar1991_01">ṅahə: riyanan·</rdg>
+                       <rdg source="bib:Holle1867_02 bib:Pleyte1911_01">ṅahə:riAnan·</rdg>
+                       <rdg source="bib:Boechari1985-1986_01 bib:HasanDjafar1991_01">ṅahə:riyanan·</rdg>
                    </app>
                    <app loc="1r4">
                        <lem source="bib:Holle1867_02 bib:Pleyte1911_01">ciləbu</lem>
@@ -136,9 +136,9 @@
                    </app>
                    <app loc="1r5">
                        <lem>ṅahəriAnan·</lem>
-                       <rdg source="bib:Holle1867_02">ṅahə: riAnan·</rdg>
+                       <rdg source="bib:Holle1867_02">ṅahə:riAnan·</rdg>
                        <rdg source="bib:Pleyte1911_01">həriAnan</rdg>
-                       <rdg source="bib:Boechari1985-1986_01 bib:HasanDjafar1991_01">ṅahə: riyanan·</rdg>
+                       <rdg source="bib:Boechari1985-1986_01 bib:HasanDjafar1991_01">ṅahə:riyanan·</rdg>
                    </app>
                    <app loc="1r6">
                        <lem>⌈<lb n="1r7" break="no"/>kena, saṁgar</lem>
@@ -147,9 +147,9 @@
                    </app>
                    <app loc="1r7">
                        <lem>mibuhayakən· na</lem>
-                       <rdg source="bib:Holle1867_02">mibuhayakə: na</rdg>
-                       <rdg source="bib:Pleyte1911_01 bib:Boechari1985-1986_01">mibuhayakə: nna</rdg>
-                       <rdg source="bib:HasanDjafar1991_01">mibuhayakə: n·na</rdg>
+                       <rdg source="bib:Holle1867_02">mibuhayakə:na</rdg>
+                       <rdg source="bib:Pleyte1911_01 bib:Boechari1985-1986_01">mibuhayakə:nna</rdg>
+                       <rdg source="bib:HasanDjafar1991_01">mibuhayakə:n·na</rdg>
                    </app>
                    <app loc="1r7">
                        <lem>karatu<unclear>ya</unclear>n</lem>
@@ -169,7 +169,7 @@
              <p n="7"><foreign>karatuyan</foreign> ◇ We assume that this is a variant spelling of <foreign>karatuan</foreign>. Cf the nearly identical structure seen in <ref target="DHARMA_INSIDENKKebantenan_1.xml">Keba1.2v2</ref>: <foreign>mibuhayakən· na kacaritaAn·</foreign> <q>to cherish the code of conduct</q> applied to the hermits, while in the present context, it is the king who cherishes the kingship.</p>
          </div>
         <div type="bibliography">
-           <p>The inscription was read first by Holle (<bibl rend="omitname"><ptr target="bib:Holle1867_02"/><citedRange unit="page">564</citedRange></bibl>), and then by Pleyte (<bibl><ptr target="bib:Pleyte1911_01"/><citedRange unit="page">197</citedRange></bibl>). Boechari (<bibl rend="omitname"><ptr target="bib:Boechari1985-1986_01"/><citedRange unit="item">E.42-E.45</citedRange><citedRange unit="page">106</citedRange></bibl>) provided a new reading although without any translation. The most recent reading is the one by Hasan Djafar (<bibl rend="omitname"><ptr target="bib:HasanDjafar1991_01"/><citedRange>12-15</citedRange></bibl>), now with Indonesian translation. The new reading offered here was made by Aditia Gunawan based on autopsy on May 23rd, 2013. No reliable visual documentation is available.</p> 
+           <p>The inscription was read first by Holle (<bibl rend="omitname"><ptr target="bib:Holle1867_02"/><citedRange unit="page">564</citedRange></bibl>), and then by Pleyte (<bibl><ptr target="bib:Pleyte1911_01"/><citedRange unit="page">197</citedRange></bibl>). Boechari (<bibl rend="omitname"><ptr target="bib:Boechari1985-1986_01"/><citedRange unit="item">E.42-E.45</citedRange><citedRange unit="page">106</citedRange></bibl>) provided a new reading although without any translation. The most recent reading is the one by Hasan Djafar (<bibl rend="omitname"><ptr target="bib:HasanDjafar1991_01"/><citedRange>12-15</citedRange></bibl>), now with Indonesian translation. The new reading offered here was made by Aditia Gunawan based on autopsy on May 23rd, 2013. No reliable visual documentation is available.</p> 
           <listBibl type="primary">
                 <bibl n="H">
                     <ptr target="bib:Holle1867_02"/><citedRange unit="page">564</citedRange></bibl>

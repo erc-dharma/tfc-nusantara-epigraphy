@@ -278,7 +278,7 @@
 	<app loc="1v1">
 		<lem><g type="ddandaCross"/></lem>
 		<rdg source="bib:Kusen1988_01 bib:Boechari2012_33"/>
-	<note>The liminal sign is ignored here both by Kusen and Boechari. Cf. the apparatus entry on line 1v12 below.</note>
+	<note>The liminal sign is ignored here both by Kusen and Boechari. Cf. the apparatus entry on line 1v12 below.</note>
 	</app>
 	<!--<app loc="1v1"><lem source="bib:Boechari2012_33">hāra</lem><rdg source="bib:Kusen1988_01">hara</rdg></app>
                 <app loc="1v1"><lem source="bib:Kusen1988_01">Aśuji-māsa</lem><rdg source="bib:Boechari2012_33">Asuji-māsa</rdg></app>
@@ -299,7 +299,7 @@
 </app>
 <app loc="1v10">
 <lem>jalinan·</lem>
-<note>Boechari notes here (n. 3): “Di dalam prasasti-prasasti yang lain jabatan ini dieja <foreign>dalinan</foreign>.” This is also what we find in stanza VIII. But since <foreign>jalinan</foreign> is found twice further on (2r12, 2r13), and since spelling variation <foreign>d/j</foreign> is not unknown in Old Javanese, we believe the spelling <foreign>jalinan</foreign> was intentional.</note></app>
+<note>Boechari notes here (n. 3): “Di dalam prasasti-prasasti yang lain jabatan ini dieja <foreign>dalinan</foreign>.” This is also what we find in stanza VIII. But since <foreign>jalinan</foreign> is found twice further on (2r12, 2r13), and since spelling variation <foreign>d/j</foreign> is not unknown in Old Javanese, we believe the spelling <foreign>jalinan</foreign> was intentional.</note></app>
 <!--        1v17<lem>ādattaṁ vararendreṇa</lem><rdg source="bib:Boechari2012_33">ādatta wārāndreṇa</rdg><rdg source="bib:Kusen1988_01">adatta wārāndreṇa</rdg>; corr. ādattaṁ varakendreṇa.
          	1v17<lem>manārākhyeṇa rāgiṇā</lem><rdg source="bib:Boechari2012_33">manārākhye narāgiṇā</rdg><rdg source="bib:Kusen1988_01">manarakhye ṇarāgiṇā</rdg>
          	1v17<lem>°nāyanā</lem><rdg source="bib:..">read °nāyakā?}
@@ -495,7 +495,7 @@
 	<lem>saṁ nīla muAṁ saṁ drampuAs·</lem>
 	<rdg source="bib:Boechari2012_33">saṁ nila muAṁ saṁ drampuAs·</rdg>
 	<rdg source="bib:Kusen1988_01">saṁ nila muAṁ saṁ drampuAn·</rdg>
-	<note>Boechari had observed (n. 9) that the same two persons figures in <ref target="DHARMA_INSIDENKKinewu.xml">Kinewu</ref> (line 16–17).</note>
+	<note>Boechari had observed (n. 9) that the same two persons figures in <ref target="DHARMA_INSIDENKKinewu.xml">Kinewu</ref> (line 16–17).</note>
 </app>
 <app loc="2r19">
 	<lem>maṅabaiḥhi</lem>
@@ -563,7 +563,7 @@
 <app loc="2r24">
 	<lem source="bib:Boechari2012_33">vahuta I tira <gap reason="lost" quantity="4" unit="character"/></lem>
 	<rdg source="bib:Kusen1988_01">sovaṁ I ti<gap reason="lost" quantity="7" unit="character"/></rdg>
-	<note>Perhaps a part of the lacuna is to be filled in with <foreign>siṅgaṁ</foreign>: cf. 2r23 <foreign>tira siṅgaṁ</foreign>.</note>
+	<note>Perhaps a part of the lacuna is to be filled in with <foreign>siṅgaṁ</foreign>: cf. 2r23 <foreign>tira siṅgaṁ</foreign>.</note>
 </app>
 <!--
 	2r25<lem>vineḥ vḍihan R̥ṁga</lem><rdg source="bib:Boechari2012_33">winaiḥ wḍihan r̥ṅga</rdg><rdg Kusen1988_01>wineh wḍihan rëngga</rdg>
@@ -651,7 +651,7 @@ only more significant variant readings recorded from here to line 11
 	<lem>Anuṁ mavay·</lem>
 	<rdg source="bib:Boechari2012_33">Anuṁ mavuy·</rdg>
 	<rdg source="bib:Kusen1988_01"><unclear>pada</unclear>mapuy·</rdg>
-	<note>It seems that <foreign>mavay</foreign> is the term intended in the context (<bibl><ptr target="bib:Zoetmulder1982_01"/><citedRange unit="entry"><foreign>mavvay</foreign></citedRange></bibl>), and so it is better not to read the <foreign>suku</foreign> before <foreign>y·</foreign> that was read by both Boechari and Kusen. The photographs don’t show a clear <foreign>suku</foreign> there.</note>
+	<note>It seems that <foreign>mavay</foreign> is the term intended in the context (<bibl><ptr target="bib:Zoetmulder1982_01"/><citedRange unit="entry"><foreign>mavvay</foreign></citedRange></bibl>), and so it is better not to read the <foreign>suku</foreign> before <foreign>y·</foreign> that was read by both Boechari and Kusen. The photographs don’t show a clear <foreign>suku</foreign> there.</note>
 </app>
 <!--	2v9 <lem source="bib:Boechari2012_33">sutə</lem><rdg source="bib:Kusen1988_01">suti</rdg>
 	2v9 <lem source="bib:Boechari2012_33">kinabaiḥhanya</lem><rdg source="bib:Kusen1988_01">kinabaiḥhan·</rdg>
@@ -659,7 +659,7 @@ only more significant variant readings recorded from here to line 11
 <app loc="2v10">
 	<lem source="bib:Boechari2012_33"><abbr>mā</abbr> <num value="1">1</num> AR̥ggaṁ</lem>
 	<rdg source="bib:Kusen1988_01">mā<unclear>tuA</unclear> Iṁ</rdg>
-	<note>One could edit <foreign><supplied reason="omitted">mas·</supplied> <abbr>mā</abbr> <num value="1">1</num></foreign>. But cf. 2b16-17 below, where we find two more cases of omission of the type of precious metal. I therefore assume that the omission is a kind of shorthand, rather than an unintentional omission.</note>
+	<note>One could edit <foreign><supplied reason="omitted">mas·</supplied> <abbr>mā</abbr> <num value="1">1</num></foreign>. But cf. 2b16-17 below, where we find two more cases of omission of the type of precious metal. I therefore assume that the omission is a kind of shorthand, rather than an unintentional omission.</note>
 </app>
 <!--	2v10 <lem source="bib:Boechari2012_33">si kesava</lem><rdg  source="bib:Kusen1988_01"><unclear>garāsa</unclear>va</rdg> -->
 <app loc="2v11">
@@ -674,14 +674,14 @@ only more significant variant readings recorded from here to line 11
 <app loc="2v13">
 	<lem source="bib:Boechari2012_33">ḍaṅ ăcā<unclear reason="eccentric_ductus">ryya</unclear> I Air hijo vetan·</lem>
 	<rdg source="bib:Kusen1988_01">ḍaṅ ācāryya I gvar hijo vetan·</rdg>
-	<note>As noted by Boechari (n. 11), the shape of <foreign>ăcā<unclear reason="eccentric_ductus">ryya</unclear></foreign> is very eccentric. <!-- <q>Ligatur <foreign>ryya</foreign> ditulis agak aneh, yaitu dengan menempelkan bentuk seperti kaki belakang huruf ha pada ligatur <foreign>yya</foreign> (\red{[SIGN]}). Dengan demikian mungkin kita harus membacanya <foreign>acāryyā</foreign>''</q>. -->The <foreign>tarung</foreign> on <foreign>ṅ</foreign> seems to have been omitted because there was no space for it, just as the <foreign>layar</foreign> seems to have been placed to the right of <foreign>yya</foreign> because there was no space for it in its usual position.</note></app>
+	<note>As noted by Boechari (n. 11), the shape of <foreign>ăcā<unclear reason="eccentric_ductus">ryya</unclear></foreign> is very eccentric. <!-- <q>Ligatur <foreign>ryya</foreign> ditulis agak aneh, yaitu dengan menempelkan bentuk seperti kaki belakang huruf ha pada ligatur <foreign>yya</foreign> (\red{[SIGN]}). Dengan demikian mungkin kita harus membacanya <foreign>acāryyā</foreign>''</q>. -->The <foreign>tarung</foreign> on <foreign>ṅ</foreign> seems to have been omitted because there was no space for it, just as the <foreign>layar</foreign> seems to have been placed to the right of <foreign>yya</foreign> because there was no space for it in its usual position.</note></app>
 <app loc="2v15">
 	<lem source="bib:Boechari2012_33 bib:Kusen1988_01">paṅ<unclear>su</unclear>r·</lem>
-	<note>The reading seems rather uncertain. Is it possible to read <foreign>paṅyar·</foreign> or <foreign>paṅpar·</foreign>?</note>
+	<note>The reading seems rather uncertain. Is it possible to read <foreign>paṅyar·</foreign> or <foreign>paṅpar·</foreign>?</note>
 </app>
 <app loc="2v16">
 	<lem source="bib:Boechari2012_33 bib:Kusen1988_01">si <unclear>d</unclear>ayan<unclear>n</unclear>a</lem>
-	<note>The reading seems rather uncertain. Is it possible to read <foreign>si jayanta</foreign>?</note><!-- or jayanna? yenna? -->
+	<note>The reading seems rather uncertain. Is it possible to read <foreign>si jayanta</foreign>?</note><!-- or jayanna? yenna? -->
 </app>
 <!-- 	2v16 <lem K>I kahaṅatan</lem><rdg source="B">Iṁ kahaṅatan</rdg> -->
 <!--<app loc="2v17">
@@ -699,7 +699,7 @@ only more significant variant readings recorded from here to line 11
 <app loc="2v18">
 <lem source="bib:Boechari2012_33">tmūnyū</lem>
 <rdg source="bib:Kusen1988_01">tmunya</rdg>
-<note>Boechari notes here (n. 12): <q>Seharusnya di sini ditulis <foreign>tmūnya</foreign>. Rupa-rupanya penatah prasasti terpengaruh oleh ligatur yang pertama yang memakai suku panjang dan membubuhkan suku panjang pada ligatur yang terakhir ini</q>.<!-- Check Zoetmulder, TvhA, whether -nyu is acceptable --></note></app>
+<note>Boechari notes here (n. 12): <q>Seharusnya di sini ditulis <foreign>tmūnya</foreign>. Rupa-rupanya penatah prasasti terpengaruh oleh ligatur yang pertama yang memakai suku panjang dan membubuhkan suku panjang pada ligatur yang terakhir ini</q>.<!-- Check Zoetmulder, TvhA, whether -nyu is acceptable --></note></app>
 
                </listApp>
          </div>

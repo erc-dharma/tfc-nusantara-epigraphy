@@ -119,10 +119,10 @@
         <body>
             <div type="edition" xml:lang="osn-Latn">
                 <p>
-         <lb n="1"/><g type="symbol" subtype="tennisball"/><g type="symbol" subtype="tennisball"/> vaṁ<unclear>ṅ</unclear> a<supplied reason="omitted">m</supplied><unclear>p</unclear>un· I<unclear>n</unclear>i sakakala, pr<unclear>ə</unclear>bu ratu pura: n pun·, ḍivas·tu
+         <lb n="1"/><g type="symbol" subtype="tennisball"/><g type="symbol" subtype="tennisball"/> vaṁ<unclear>ṅ</unclear> a<supplied reason="omitted">m</supplied><unclear>p</unclear>un· I<unclear>n</unclear>i sakakala, pr<unclear>ə</unclear>bu ratu pura:n pun·, ḍivas·tu
          <lb n="2"/>ḍy<choice><sic>i</sic><corr>ə</corr></choice>, <choice><sic>v</sic><corr>d</corr></choice>iṅaran· prəbu guru ḍe<unclear>va</unclear>ta p<choice><sic>ra</sic><corr>u</corr></choice>n· ḍivas·tu ḍyə ḍiṅaran· sri
          <lb n="3"/>baduga maharaja, ratu ha<unclear cert="low">j</unclear>i ḍi pakvan· pajajaran· sri sa<supplied reason="omitted">ṁ</supplied> ratu ḍe<lb n="4" break="no"/>vata pun·</p> <p>ya nu ñusuk· na pakvan· ḍyə Anak· rahyi ḍeva nis·<lb n="5" break="no"/>kala, sa<supplied reason="omitted">ṁ</supplied> siḍa mok<unclear>·</unclear>ta ḍi gunuṁ tiga, qə<supplied reason="omitted">ñ</supplied>cu rahyiṁ <unclear>n</unclear>is·kala vas·tu
-        <lb n="6"/>ka<supplied reason="omitted">ñ</supplied>ca: na, saṁ siḍa mok·ta ka nusa laraṁ,</p> 
+        <lb n="6"/>ka<supplied reason="omitted">ñ</supplied>ca:na, saṁ siḍa mok·ta ka nusa laraṁ,</p> 
                 <p>ya syi nu <unclear>ñ</unclear>yin· sakaka<lb n="7" break="no"/>la, gugun<unclear>uṅ</unclear>an·, <unclear>ṅa</unclear>balay·,, ñyin· samiḍa, ñyin· saṁ hyi<supplied reason="omitted">ṁ</supplied> talaga <supplied reason="lost" evidence="parallel">va</supplied><lb n="8" break="no"/>R̥na mahavijaya,</p> <p>ya syi pun·,,</p> <p><g type="symbol" subtype="tennisball"/><g type="symbol" subtype="tennisball"/> I saka, pañca pan·ḍa<lb n="9" break="no"/>va ṅ<unclear>ə</unclear><supplied reason="omitted">m</supplied>ban· bumi <g type="symbol" subtype="tennisball"/><g type="symbol" subtype="tennisball"/></p>
             </div>
             <div type="apparatus">
@@ -134,9 +134,9 @@
 		<note>For the shape of <foreign>ṅa</foreign>, see <foreign>ṅabalay</foreign> in l. 9.</note>
                     </app>
                    <app loc="1">
-                      <lem>pura: na</lem>
+                      <lem>pura:na</lem>
                       <rdg source="bib:HasanDjafar2011_01">purane</rdg>
-                      <note>There is a vertical stroke between <foreign>r</foreign> and <foreign>n</foreign>, which has been interpreted as <foreign>panéléng</foreign> by Pleyte and Hasan Djafar, but we think it is a <foreign>panolong</foreign>, for <foreign>panéléng</foreign> has a different shape in this inscription. See the <foreign>panéléng</foreign>s in <foreign>mok·ta</foreign> (ll. 5 and 6) and in <foreign>ḍeva nis·kala</foreign> (l. 4) — they are all different from the shape we see here in line 1. It seems that the marker in line 1 is intended to be the same as the <foreign>panolong</foreign> we have identified in <foreign>kaca: na</foreign> (l. 5). There is a horizontal stroke on top, but it could be accidental.</note>
+                      <note>There is a vertical stroke between <foreign>r</foreign> and <foreign>n</foreign>, which has been interpreted as <foreign>panéléng</foreign> by Pleyte and Hasan Djafar, but we think it is a <foreign>panolong</foreign>, for <foreign>panéléng</foreign> has a different shape in this inscription. See the <foreign>panéléng</foreign>s in <foreign>mok·ta</foreign> (ll. 5 and 6) and in <foreign>ḍeva nis·kala</foreign> (l. 4) — they are all different from the shape we see here in line 1. It seems that the marker in line 1 is intended to be the same as the <foreign>panolong</foreign> we have identified in <foreign>kaca:na</foreign> (l. 5). There is a horizontal stroke on top, but it could be accidental.</note>
                    </app>
                     <app loc="2">
                   	<lem>ḍy<choice><sic>i</sic><corr>ə</corr></choice>, viṅaran·</lem>
@@ -146,12 +146,12 @@
                     <app loc="2">
                        	<lem>p<choice><sic>ra</sic><corr>u</corr></choice>n·</lem>
 		<rdg source="bib:HasanDjafar2011_01">prana</rdg>
-		<note>Hasan Djafar’s reading seems impossible to us, for there is unmistakably a sign between the <foreign>n</foreign> and the following <foreign>ḍi</foreign>, and this sign can only be a paten or punctuation. We feel compelled to emend because no word <foreign>pran</foreign> seems to exist in Sundanese or Javanese.</note>
+		<note>Hasan Djafar’s reading seems impossible to us, for there is unmistakably a sign between the <foreign>n</foreign> and the following <foreign>ḍi</foreign>, and this sign can only be a paten or punctuation. We feel compelled to emend because no word <foreign>pran</foreign> seems to exist in Sundanese or Javanese.</note>
                     </app>
                     <app loc="2">
                                     <lem>p<choice><sic>ra</sic><corr>u</corr></choice>n·</lem>
                                     <rdg source="bib:HasanDjafar2011_01">prana</rdg>
-                                    <note>This reading seems impossible to us, for there is unmistakably a sign between the <foreign>n</foreign> and the following <foreign>ḍi</foreign>, and this sign can only be <foreign>pamaéh</foreign> or punctuation. Since the word <foreign>pran</foreign> (even if interpreted as <foreign>pəran</foreign>) does not seem to exist in Sundanese, we propose to emend this to <foreign>pun·</foreign>, as in lines 1 and 4.</note>
+                                    <note>This reading seems impossible to us, for there is unmistakably a sign between the <foreign>n</foreign> and the following <foreign>ḍi</foreign>, and this sign can only be <foreign>pamaéh</foreign> or punctuation. Since the word <foreign>pran</foreign> (even if interpreted as <foreign>pəran</foreign>) does not seem to exist in Sundanese, we propose to emend this to <foreign>pun·</foreign>, as in lines 1 and 4.</note>
                     </app>
                     <app loc="4">
                                     <lem>ñusuk· na</lem>
@@ -166,7 +166,7 @@
                     <app loc="5">
                                     <lem>sa<supplied reason="omitted">ṁ</supplied> siḍa</lem>
                                     <rdg source="bib:HasanDjafar2011_01">saṁ sida</rdg> 
-                                    <note>Hasan Djafar explains with a note explaining that the <foreign>panyecek</foreign> is present although hard to read. We are inclined to assume that it is absent. Cf. the cases of <foreign>sa ratu</foreign> and <foreign>rahyi</foreign> for <foreign>saṁ ratu</foreign> and <foreign>rahyiṁ</foreign> (= <foreign>rahiyaṁ</foreign>) above.</note>
+                                    <note>Hasan Djafar explains with a note explaining that the <foreign>panyecek</foreign> is present although hard to read. We are inclined to assume that it is absent. Cf. the cases of <foreign>sa ratu</foreign> and <foreign>rahyi</foreign> for <foreign>saṁ ratu</foreign> and <foreign>rahyiṁ</foreign> (= <foreign>rahiyaṁ</foreign>) above.</note>
                     </app>
                     <app loc="5">
                                     <lem>mok<unclear>·</unclear>ta</lem>
@@ -194,7 +194,7 @@
                     </app>
                     <app loc="7">
                                     <lem>talaga <supplied reason="lost" evidence="parallel">va</supplied><lb n="8" break="no"/>R̥na</lem>
-                                    <note>Restoration proposed by Hasan Djafar. Cf. Pleyte <bibl rend="omitname"><ptr target="bib:Pleyte1911_01"/><citedRange>172</citedRange></bibl>, citation from FCP.6a: <foreign>ti saṁ hyiṁ talaga varna miñak· hanət· sago<supplied reason="omitted">m</supplied>boṁ Uyaḥ salave kəlek lilitan salave təktək ...</foreign> <q>From Talaga Warna: essential oil one <foreign>gombong</foreign>, salt 25 <foreign>kəlek</foreign>, waist cloth 25 <foreign>təktək</foreign>...</q>; cf. also BM 1352-1355, a passage which locates Talaga Varna somewhere around Bukit Agəṅ (presumably the ancient name of present-day Gunung Gede in Bogor)</note>
+                                    <note>Restoration proposed by Hasan Djafar. Cf. Pleyte <bibl rend="omitname"><ptr target="bib:Pleyte1911_01"/><citedRange>172</citedRange></bibl>, citation from FCP.6a: <foreign>ti saṁ hyiṁ talaga varna miñak· hanət· sago<supplied reason="omitted">m</supplied>boṁ Uyaḥ salave kəlek lilitan salave təktək ...</foreign> <q>From Talaga Warna: essential oil one <foreign>gombong</foreign>, salt 25 <foreign>kəlek</foreign>, waist cloth 25 <foreign>təktək</foreign>...</q>; cf. also BM 1352-1355, a passage which locates Talaga Varna somewhere around Bukit Agəṅ (presumably the ancient name of present-day Gunung Gede in Bogor)</note>
                     </app>
                 </listApp>
             </div>                

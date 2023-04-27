@@ -137,9 +137,9 @@
                <!--  <app loc="1v1"><lem source="bib:Stutterheim1938_03 bib:Sarkar1971-1972_01">saśīma</lem><rdg source="bib:Boechari1985-1986_01">sasīma</rdg></app>-->
         <app loc="1v1"><lem>kady aṅ<choice><sic>t</sic><corr>g</corr></choice>āniṁ</lem><rdg source="bib:Stutterheim1938_03 bib:Sarkar1971-1972_01 bib:Boechari1985-1986_01">kady aṅgāniṁ</rdg></app>
 	<!--<app loc="1v2"><lem source="bib:Stutterheim1938_03 bib:Sarkar1971-1972_01 bib:Boechari1985-1986_01">garas·</lem></app>-->
-	<app loc="1v2"><lem>lṅa</lem><rdg source="bib:Stutterheim1938_03 bib:Sarkar1971-1972_01 bib:Boechari1985-1986_01">lga</rdg><note>Cf. <ref target="DHARMA_INSIDENKAyamTeas_III.xml">Ayam Təas III</ref> (1v2)</note></app>
+	<app loc="1v2"><lem>lṅa</lem><rdg source="bib:Stutterheim1938_03 bib:Sarkar1971-1972_01 bib:Boechari1985-1986_01">lga</rdg><note>Cf. <ref target="DHARMA_INSIDENKAyamTeas_III.xml">Ayam Təas III</ref> (1v2)</note></app>
 	<app loc="1v4"><lem><choice><sic>b</sic><corr>p</corr></choice>ataṁ</lem><rdg source="bib:Stutterheim1938_03 bib:Sarkar1971-1972_01 bib:Boechari1985-1986_01">pataṁ</rdg></app>
-	<app loc="1v5"><lem>ka<unclear>be</unclear>ḥ</lem><rdg source="bib:Stutterheim1938_03 bib:Sarkar1971-1972_01 bib:Boechari1985-1986_01">kadoḥ</rdg><note>Cf. <ref target="DHARMA_INSIDENKAyamTeas_III.xml">Ayam Təas III</ref> (1v4)</note></app>
+	<app loc="1v5"><lem>ka<unclear>be</unclear>ḥ</lem><rdg source="bib:Stutterheim1938_03 bib:Sarkar1971-1972_01 bib:Boechari1985-1986_01">kadoḥ</rdg><note>Cf. <ref target="DHARMA_INSIDENKAyamTeas_III.xml">Ayam Təas III</ref> (1v4)</note></app>
 	<app loc="1v5"><lem><choice><sic>rāyav·</sic><corr>ry ayam·</corr></choice></lem><rdg source="bib:Stutterheim1938_03 bib:Sarkar1971-1972_01 bib:Boechari1985-1986_01">Ayav·</rdg></app>
 	<app loc="1v5"><lem>3 tapa</lem><rdg source="bib:Stutterheim1938_03 bib:Sarkar1971-1972_01 bib:Boechari1985-1986_01">Atapa</rdg></app>
 	<app loc="1v5"><lem>kapuA</lem><rdg source="bib:Stutterheim1938_03 bib:Sarkar1971-1972_01 bib:Boechari1985-1986_01">kabuA</rdg></app>

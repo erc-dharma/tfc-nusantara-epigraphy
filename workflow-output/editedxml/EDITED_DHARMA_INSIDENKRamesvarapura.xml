@@ -252,8 +252,8 @@ juru <choice><orig>sa⌈<lb n="13r5" break="no"/>me</orig><reg>sāmya</reg></cho
                        <note>Emend <foreign>jugulan</foreign>?</note>
                    </app>
                    <app loc="6r3-6r4">
-                       <lem>jə: ṁ 1, malas·, jə: ṁ 1, Apaṇḍe</lem>
-                       <rdg source="bib:MachiSuhadi2003_01">jə: ṁ 1, Apaṇḍe</rdg>
+                       <lem>jə:ṁ 1, malas·, jə:ṁ 1, Apaṇḍe</lem>
+                       <rdg source="bib:MachiSuhadi2003_01">jə:ṁ 1, Apaṇḍe</rdg>
                    </app>
                    <app loc="6r4">
                        <lem>savaḥ,</lem>
@@ -261,7 +261,7 @@ juru <choice><orig>sa⌈<lb n="13r5" break="no"/>me</orig><reg>sāmya</reg></cho
                    </app>
                    <app loc="6r4">
                        <lem>cā 2</lem>
-                       <rdg source="bib:MachiSuhadi2003_01">jə: ṁ 2</rdg>
+                       <rdg source="bib:MachiSuhadi2003_01">jə:ṁ 2</rdg>
                    </app>
                    <app loc="6r5">
                        <lem source="bib:MachiSuhadi2003_01">kaputrāṅśanani</lem>
@@ -280,8 +280,8 @@ juru <choice><orig>sa⌈<lb n="13r5" break="no"/>me</orig><reg>sāmya</reg></cho
                        <note>See <ptr target="bib:Brandes1913_01"/> face A, l. 11.</note>
                    </app>
                    <app loc="6r7">
-                       <lem>amnə: r· tkeṁ juraṁ</lem>
-                       <rdg source="bib:MachiSuhadi2003_01">amnə: r· juraṁ</rdg>
+                       <lem>amnə:r· tkeṁ juraṁ</lem>
+                       <rdg source="bib:MachiSuhadi2003_01">amnə:r· juraṁ</rdg>
                    </app>
                    <app loc="6r7">
                        <lem>kijaṅan</lem>
@@ -336,8 +336,8 @@ juru <choice><orig>sa⌈<lb n="13r5" break="no"/>me</orig><reg>sāmya</reg></cho
                        <rdg source="bib:MachiSuhadi2003_01">tke</rdg>
                    </app>
                    <app loc="6v6">
-                       <lem>maṅalor amnə: r·,</lem>
-                       <rdg source="bib:MachiSuhadi2003_01">aṅalor amnə: r·</rdg>
+                       <lem>maṅalor amnə:r·,</lem>
+                       <rdg source="bib:MachiSuhadi2003_01">aṅalor amnə:r·</rdg>
                    </app>
                    <app loc="6v6">
                        <lem>paścima</lem>
@@ -392,7 +392,7 @@ juru <choice><orig>sa⌈<lb n="13r5" break="no"/>me</orig><reg>sāmya</reg></cho
                        <rdg source="bib:MachiSuhadi2003_01">saragi</rdg>
                    </app>
                    <app loc="9r8">
-                       <lem>klə: t<unclear>ə</unclear>k·</lem>
+                       <lem>klə:t<unclear>ə</unclear>k·</lem>
                        <rdg source="bib:MachiSuhadi2003_01">klitik·</rdg>
                    </app>
                    <app loc="9r8">
@@ -420,8 +420,8 @@ juru <choice><orig>sa⌈<lb n="13r5" break="no"/>me</orig><reg>sāmya</reg></cho
                        <rdg source="bib:MachiSuhadi2003_01">siṅpasiṅpan·</rdg>
                    </app>
                    <app loc="9v4-9v5">
-                       <lem>makə: kran· ya, yan</lem>
-                       <rdg source="bib:MachiSuhadi2003_01">makə: kran· , yan</rdg>
+                       <lem>makə:kran· ya, yan</lem>
+                       <rdg source="bib:MachiSuhadi2003_01">makə:kran· , yan</rdg>
                    </app>
                    <app loc="9v6-9v7">
                        <lem>saparanya deśa,</lem>
@@ -440,8 +440,8 @@ juru <choice><orig>sa⌈<lb n="13r5" break="no"/>me</orig><reg>sāmya</reg></cho
                        <note>The first akṣaras of the following plate must have contained <foreign>rmma</foreign>, to make <foreign>dharmma</foreign>.</note>
                    </app>
                    <app loc="11r2">
-                       <lem>kīlalanə: n·</lem>
-                       <rdg source="bib:MachiSuhadi2003_01">kilalanə: n·</rdg>
+                       <lem>kīlalanə:n·</lem>
+                       <rdg source="bib:MachiSuhadi2003_01">kilalanə:n·</rdg>
                    </app>
                    <app loc="11r4">
                        <lem>kavaṁvaṅanya</lem>
@@ -477,7 +477,7 @@ juru <choice><orig>sa⌈<lb n="13r5" break="no"/>me</orig><reg>sāmya</reg></cho
                    </app>
                    <app loc="11r7-11r8">
                        <lem>sū 5, vḍihan·, yuga</lem>
-                       <rdg source="bib:MachiSuhadi2003_01">yū 5, aṅkə: n tahun·, mā 1</rdg>
+                       <rdg source="bib:MachiSuhadi2003_01">yū 5, aṅkə:n tahun·, mā 1</rdg>
                    </app>
                    <app loc="11r8-11v1">
                        <lem>pamūrṣita</lem>
@@ -551,12 +551,12 @@ juru <choice><orig>sa⌈<lb n="13r5" break="no"/>me</orig><reg>sāmya</reg></cho
                    <app loc="12r5">
                        <lem>pabāṅan·</lem>
                        <rdg source="bib:MachiSuhadi2003_01">mabaṅan·</rdg>
-                       <note>See<title>Pararaton</title> 38: 36.</note>
+                       <note>See<title>Pararaton</title> 38:36.</note>
                    </app>
                    <app loc="12r7">
                        <lem>kali sinuṅan· <surplus>sinuṅan·</surplus></lem>
                        <rdg source="bib:MachiSuhadi2003_01">kalisinaman, sinuṅan</rdg>
-                       <note>It seems we are dealing with a simple case of dittography here, unless one needs to emend <foreign>kalimunan</foreign>, cf. 12v1.</note>
+                       <note>It seems we are dealing with a simple case of dittography here, unless one needs to emend <foreign>kalimunan</foreign>, cf. 12v1.</note>
                    </app>
                    <app loc="12r8">
                        <lem>gubar</lem>
@@ -589,8 +589,8 @@ juru <choice><orig>sa⌈<lb n="13r5" break="no"/>me</orig><reg>sāmya</reg></cho
                        <rdg source="bib:MachiSuhadi2003_01">sajare</rdg>
                    </app>
                    <app loc="12v3">
-                       <lem>ki ṭə: L̥ṁ</lem>
-                       <rdg source="bib:MachiSuhadi2003_01">ki jə: l</rdg>
+                       <lem>ki ṭə:L̥ṁ</lem>
+                       <rdg source="bib:MachiSuhadi2003_01">ki jə:l</rdg>
                    </app>
                    <app loc="12v4">
                        <lem>ḍuṅkul·</lem>
@@ -601,8 +601,8 @@ juru <choice><orig>sa⌈<lb n="13r5" break="no"/>me</orig><reg>sāmya</reg></cho
                        <rdg source="bib:MachiSuhadi2003_01">varggaji</rdg>
                    </app>
                    <app loc="12v4-12v5">
-                       <lem>ri mə: mə: li kbo ḍalaṁ</lem>
-                       <rdg source="bib:MachiSuhadi2003_01">riṁ mimə: liṅgoda,</rdg>
+                       <lem>ri mə:mə:li kbo ḍalaṁ</lem>
+                       <rdg source="bib:MachiSuhadi2003_01">riṁ mimə:liṅgoda,</rdg>
                    </app>
                    <app loc="12v5">
                        <lem>R̥caḥ</lem>
@@ -649,7 +649,7 @@ juru <choice><orig>sa⌈<lb n="13r5" break="no"/>me</orig><reg>sāmya</reg></cho
                        <rdg source="bib:MachiSuhadi2003_01">himbal·</rdg>
                    </app>
                    <app loc="13r3">
-                       <lem>və: ñcaran·</lem>
+                       <lem>və:ñcaran·</lem>
                        <rdg source="bib:MachiSuhadi2003_01">voncaran·</rdg>
                    </app>
                    <app loc="13r3-13r4">
@@ -661,7 +661,7 @@ juru <choice><orig>sa⌈<lb n="13r5" break="no"/>me</orig><reg>sāmya</reg></cho
                        <rdg source="bib:MachiSuhadi2003_01">lviniṁ</rdg>
                    </app>
                    <app loc="13r5">
-                       <lem>məṅə: ṁ</lem>
+                       <lem>məṅə:ṁ</lem>
                        <rdg source="bib:MachiSuhadi2003_01">maṅə:</rdg>
                    </app>
                    <app loc="13r7">
@@ -670,7 +670,7 @@ juru <choice><orig>sa⌈<lb n="13r5" break="no"/>me</orig><reg>sāmya</reg></cho
                    </app>
                    <app loc="13r7-13r8">
                        <lem>kalāṅavur·</lem>
-                       <rdg source="bib:MachiSuhadi2003_01">kalə: ṅavur·</rdg>
+                       <rdg source="bib:MachiSuhadi2003_01">kalə:ṅavur·</rdg>
                    </app>
                    <app loc="13r7-13r8">
                        <lem>kalāṅavur … kalāṅavur</lem>
@@ -681,8 +681,8 @@ juru <choice><orig>sa⌈<lb n="13r5" break="no"/>me</orig><reg>sāmya</reg></cho
                        <rdg source="bib:MachiSuhadi2003_01">kapvetaṁ</rdg>
                    </app>
                    <app loc="13v1-13v2">
-                       <lem>pagə: ḥ ku 2</lem>
-                       <rdg source="bib:MachiSuhadi2003_01">pagə: ḥ, ku 2</rdg>
+                       <lem>pagə:ḥ ku 2</lem>
+                       <rdg source="bib:MachiSuhadi2003_01">pagə:ḥ, ku 2</rdg>
                    </app>
                    <app loc="13v2">
                        <lem>lvirniṁ</lem>
@@ -693,7 +693,7 @@ juru <choice><orig>sa⌈<lb n="13r5" break="no"/>me</orig><reg>sāmya</reg></cho
                        <rdg source="bib:MachiSuhadi2003_01">juru ṅaL̥mbaḥ</rdg>
                    </app>
                    <app loc="13v2">
-                       <lem>karabit·, samgə: t· juru same</lem>
+                       <lem>karabit·, samgə:t· juru same</lem>
                        <rdg source="bib:MachiSuhadi2003_01">karabit·,  juru same</rdg>
                    </app>
                    <app loc="13v2-13v3">
@@ -706,7 +706,7 @@ juru <choice><orig>sa⌈<lb n="13r5" break="no"/>me</orig><reg>sāmya</reg></cho
                    </app>
                    <app loc="13v4">
                        <lem>kulāṅus·</lem>
-                       <rdg source="bib:MachiSuhadi2003_01">kulə: ṅus·</rdg>
+                       <rdg source="bib:MachiSuhadi2003_01">kulə:ṅus·</rdg>
                    </app>
                    <app loc="13v5">
                        <lem>kbo</lem>
@@ -721,8 +721,8 @@ juru <choice><orig>sa⌈<lb n="13r5" break="no"/>me</orig><reg>sāmya</reg></cho
                        <rdg source="bib:MachiSuhadi2003_01">lviniṁ</rdg>
                    </app>
                    <app loc="13v8">
-                       <lem>gə: ṇḍoṁ, raṅgaḥ</lem>
-                       <rdg source="bib:MachiSuhadi2003_01">gə: ṇḍo, raṅga</rdg>
+                       <lem>gə:ṇḍoṁ, raṅgaḥ</lem>
+                       <rdg source="bib:MachiSuhadi2003_01">gə:ṇḍo, raṅga</rdg>
                    </app>
                    <app loc="14r1">
                        <lem source="bib:MachiSuhadi2003_01">vadehati</lem>
@@ -738,9 +738,9 @@ juru <choice><orig>sa⌈<lb n="13r5" break="no"/>me</orig><reg>sāmya</reg></cho
                        <note>Understand or emend <foreign>kapvekaṁ</foreign>?</note>
                    </app>
                    <app loc="14r3">
-                       <lem>pasə: k pagə: ḥ, ku 2</lem>
-                       <rdg source="bib:MachiSuhadi2003_01">pasə: k pagə: ḥ ku 2</rdg>
-                       <note>Is <foreign>pirak· </foreign>missing here? If so, restore <foreign>pasə: k pagə: ḥ, pirak· ku 2</foreign>.</note>
+                       <lem>pasə:k pagə:ḥ, ku 2</lem>
+                       <rdg source="bib:MachiSuhadi2003_01">pasə:k pagə:ḥ ku 2</rdg>
+                       <note>Is <foreign>pirak· </foreign>missing here? If so, restore <foreign>pasə:k pagə:ḥ, pirak· ku 2</foreign>.</note>
                    </app>
                    <app loc="14r4">
                        <lem>Iṁ sorniṁ</lem>
@@ -764,19 +764,19 @@ juru <choice><orig>sa⌈<lb n="13r5" break="no"/>me</orig><reg>sāmya</reg></cho
                        <note>See <ref target="Śobhāmṛta.xml">Śobhāmṛta</ref> 6v3 <foreign>maṅliriŋ ta saŋ makudur. mapaṅaliḥ motarasaṅga. mamukhawandhanā</foreign>; <title><abbr>OJO</abbr></title> 48 (943) vo 20: <foreign>maṅḍiri ta saṅ makudur mapaṅalih mottarāsaṅga mamukhabhandana</foreign>; <title><abbr>OJO</abbr></title> 83 (1323) 9a: <foreign>maṅḍiri tekaṅ wadihati riṅ sabhāmadhya i sor niṅ turumbukan, təlas mottarāsaṅga mamukhawandhana</foreign>.</note>
                    </app>
                    <app loc="14r6-14r7">
-                       <lem>mandə: lan· pāda</lem>
-                       <rdg source="bib:MachiSuhadi2003_01">manjə: lan· pə: da</rdg>
+                       <lem>mandə:lan· pāda</lem>
+                       <rdg source="bib:MachiSuhadi2003_01">manjə:lan· pə:da</rdg>
                    </app>
                    <app loc="14r8">
                        <lem>riṁ śrī rāmeśvarapura</lem>
                        <rdg source="bib:MachiSuhadi2003_01">ri śrī rameśvarapura</rdg>
                    </app>
                    <app loc="14v1">
-                       <lem>Au; m Indaḥ</lem>
+                       <lem>Au;m Indaḥ</lem>
                        <rdg source="bib:MachiSuhadi2003_01">Oṃ Inḍaḥ</rdg>
                    </app>
                    <app loc="14v2">
-                       <lem>hya; m <choice><orig>Aricandanāgāsti</orig><reg>haricandana Agastya</reg></choice> mahar̥ṣi, pūrvva</lem>
+                       <lem>hya;m <choice><orig>Aricandanāgāsti</orig><reg>haricandana Agastya</reg></choice> mahar̥ṣi, pūrvva</lem>
                        <rdg source="bib:MachiSuhadi2003_01">hyaṁ  hari candanāgāsti mahār̥ṣi, purvva</rdg>
                    </app>
                    <app loc="14v2">
@@ -786,12 +786,12 @@ juru <choice><orig>sa⌈<lb n="13r5" break="no"/>me</orig><reg>sāmya</reg></cho
                    <app loc="14v2-14v3">
                        <lem>ravi śaśī kṣity āpas tejo kāśa</lem>
                        <rdg source="bib:MachiSuhadi2003_01">ravi śaśi kṣityā paste jokāśa</rdg>
-                       <note>The list is incomplete. Cf. <ref target="Tuhañaru.xml">Tuhañaru</ref> 9v2: <foreign>ravi śaśi pṛthivy āpas tejo bāyv ākāśa</foreign>. This is stil incomplete. In <ref target="Adan-Adan.xml">Adan-Adan</ref> we find a complete list also having <foreign>Yajamāna</foreign>.</note>
+                       <note>The list is incomplete. Cf. <ref target="Tuhañaru.xml">Tuhañaru</ref> 9v2: <foreign>ravi śaśi pṛthivy āpas tejo bāyv ākāśa</foreign>. This is stil incomplete. In <ref target="Adan-Adan.xml">Adan-Adan</ref> we find a complete list also having <foreign>Yajamāna</foreign>.</note>
                    </app>
                    <app loc="14v3">
                        <lem><orig><choice><sic>yakṣasa</sic><corr>yakṣa rākṣasa</corr></choice></orig></lem>
                        <rdg source="bib:MachiSuhadi2003_01">yakṣasa</rdg>
-                       <note>Cf. <ref target="Tuhañaru.xml">Tuhañaru</ref> 9v2.</note>
+                       <note>Cf. <ref target="Tuhañaru.xml">Tuhañaru</ref> 9v2.</note>
                    </app>
                    <app loc="14v3">
                        <lem>piśāca</lem>
@@ -834,8 +834,8 @@ juru <choice><orig>sa⌈<lb n="13r5" break="no"/>me</orig><reg>sāmya</reg></cho
                        <rdg source="bib:MachiSuhadi2003_01">°bhumi°</rdg>
                    </app>
                    <app loc="14v8">
-                       <lem>At· R̥ṅyə: kə: n</lem>
-                       <rdg source="bib:MachiSuhadi2003_01">Atya R̥ṅyə: kə: n</rdg>
+                       <lem>At· R̥ṅyə:kə:n</lem>
+                       <rdg source="bib:MachiSuhadi2003_01">Atya R̥ṅyə:kə:n</rdg>
                    </app>
                    <app loc="14v8">
                        <lem>samaya</lem>
@@ -880,20 +880,20 @@ juru <choice><orig>sa⌈<lb n="13r5" break="no"/>me</orig><reg>sāmya</reg></cho
                    <app loc="15r5">
                        <lem><orig>Upa<sic>ṇari</sic><corr>la si</corr>ma</orig></lem>
                        <rdg source="bib:MachiSuhadi2003_01">Usana rima</rdg>
-                       <note>Cf. <ref target="Mādhavapura.xml">Mādhavapura</ref> Ca5–6 <foreign>ṅunive<unclear>ḥ</unclear> yan paṁdavuta ri saṁ hyaṁ Upala sima, Aṅalihakna ri tan sayogya U<unclear>ṅgvana</unclear>nira</foreign>. The error in the present inscription is easily explained in the light of the graphic similarity between <foreign>ṇarima</foreign> and <foreign>lasima</foreign>.</note>
+                       <note>Cf. <ref target="Mādhavapura.xml">Mādhavapura</ref> Ca5–6 <foreign>ṅunive<unclear>ḥ</unclear> yan paṁdavuta ri saṁ hyaṁ Upala sima, Aṅalihakna ri tan sayogya U<unclear>ṅgvana</unclear>nira</foreign>. The error in the present inscription is easily explained in the light of the graphic similarity between <foreign>ṇarima</foreign> and <foreign>lasima</foreign>.</note>
                    </app>
                    <app loc="15r5-15r6">
-                       <lem>kabyə: t karmmāknanya</lem>
-                       <rdg source="bib:MachiSuhadi2003_01">tampə: t karmma knanya</rdg>
+                       <lem>kabyə:t karmmāknanya</lem>
+                       <rdg source="bib:MachiSuhadi2003_01">tampə:t karmma knanya</rdg>
                    </app>
                    <app loc="15r6">
                        <lem><choice><orig>sa</orig><reg>saṁ</reg></choice>sāra</lem>
                        <rdg source="bib:MachiSuhadi2003_01">sasara</rdg>
-                       <note>Cf. <ref target="Mādhavapura.xml">Mādhavapura</ref>.</note>
+                       <note>Cf. <ref target="Mādhavapura.xml">Mādhavapura</ref>.</note>
                    </app>
                    <app loc="15r6">
                        <lem>dāyānta</lem>
-                       <rdg source="bib:MachiSuhadi2003_01">dāyə: nta</rdg>
+                       <rdg source="bib:MachiSuhadi2003_01">dāyə:nta</rdg>
                    </app>
                    <app loc="15r6-15r7">
                        <lem>yan apa<unclear>ra</unclear>parān·</lem>
@@ -913,11 +913,11 @@ juru <choice><orig>sa⌈<lb n="13r5" break="no"/>me</orig><reg>sāmya</reg></cho
                    </app>
                    <app loc="15v1">
                        <lem>luñcipiṁ paras·</lem>
-                       <rdg source="bib:MachiSuhadi2003_01">luñcə: pi paṁrasya</rdg>
+                       <rdg source="bib:MachiSuhadi2003_01">luñcə:pi paṁrasya</rdg>
                    </app>
                    <app loc="15v2">
-                       <lem>kaduhuṅa kajuṅkə: la pə̄pə̄satikə: l·</lem>
-                       <rdg source="bib:MachiSuhadi2003_01">ta duhuṅa kajaṅkə: la proposatikə: l·</rdg>
+                       <lem>kaduhuṅa kajuṅkə:la pə̄pə̄satikə:l·</lem>
+                       <rdg source="bib:MachiSuhadi2003_01">ta duhuṅa kajaṅkə:la proposatikə:l·</rdg>
                    </app>
                    <app loc="15v2">
                        <lem>ratā</lem>
@@ -928,9 +928,9 @@ juru <choice><orig>sa⌈<lb n="13r5" break="no"/>me</orig><reg>sāmya</reg></cho
                        <rdg source="bib:MachiSuhadi2003_01">valaṅana</rdg>
                    </app>
                    <app loc="15v2">
-                       <lem><orig>ha<choice><sic>li</sic><corr>lili</corr></choice>ṅə: ṅə: na</orig></lem>
+                       <lem><orig>ha<choice><sic>li</sic><corr>lili</corr></choice>ṅə:ṅə:na</orig></lem>
                        <rdg source="bib:MachiSuhadi2003_01">hyaṁ riṅ iraṅina</rdg>
-                       <note>Cf. <ref target="Adan-Adan.xml">Adan-Adan</ref></note>
+                       <note>Cf. <ref target="Adan-Adan.xml">Adan-Adan</ref></note>
                    </app>
                    <app loc="15v2-15v3">
                        <lem>riṅ hudan·</lem>
@@ -938,15 +938,15 @@ juru <choice><orig>sa⌈<lb n="13r5" break="no"/>me</orig><reg>sāmya</reg></cho
                    </app>
                    <app loc="15v3">
                        <lem>samb<choice><orig>ə:</orig><reg>ə</reg></choice>rR̥n</lem>
-                       <rdg source="bib:MachiSuhadi2003_01">sambə: r̥n</rdg>
+                       <rdg source="bib:MachiSuhadi2003_01">sambə:r̥n</rdg>
                    </app>
                    <app loc="15v3">
                        <lem>katibāna bajrāgni tan pavarṣa,</lem>
                        <rdg source="bib:MachiSuhadi2003_01">katibana bajra L̥ttan pavarṣa</rdg>
                    </app>
                    <app loc="15v3-15v4">
-                       <lem>limutə: n· gsə: ṅana</lem>
-                       <rdg source="bib:MachiSuhadi2003_01">sipatə: n· gsə: nana</rdg>
+                       <lem>limutə:n· gsə:ṅana</lem>
+                       <rdg source="bib:MachiSuhadi2003_01">sipatə:n· gsə:nana</rdg>
                    </app>
                    <app loc="15v4">
                        <lem>Agnī</lem>
@@ -969,8 +969,8 @@ juru <choice><orig>sa⌈<lb n="13r5" break="no"/>me</orig><reg>sāmya</reg></cho
                        <rdg source="bib:MachiSuhadi2003_01">raḥnya</rdg>
                    </app>
                    <app loc="15v6">
-                       <lem>Atə: hə: r pə: pə: dakə: n·</lem>
-                       <rdg source="bib:MachiSuhadi2003_01">Atə: hə: r hi pə: pə: dakə: n·</rdg>
+                       <lem>Atə:hə:r pə:pə:dakə:n·</lem>
+                       <rdg source="bib:MachiSuhadi2003_01">Atə:hə:r hi pə:pə:dakə:n·</rdg>
                    </app>
                    <app loc="15v6">
                        <lem>prāṇāntika</lem>
