@@ -22,6 +22,10 @@
                   <forename>Marine</forename>
                   <surname>Schoettel</surname>
                </persName>
+            	<persName ref="part:argr">
+            		<forename>Arlo</forename>
+            		<surname>Griffiths</surname>
+            	</persName>
             </respStmt>
          </titleStmt>
          <publicationStmt>
@@ -50,7 +54,8 @@
                </msContents>
                <physDesc>
                   <handDesc>
-                     <p><!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EG 11.2. --></p>
+                  	<p>The difference between the markers ulu (-i) and pepet (-ə) lies in i having a small opening below, while -ə is opened on the right side and curls back inwards.
+                  	The shape of ḍ is seen in ḍapur, that of dh in dharmma. No distinction is made between ḍ and dh in pasangan position.<!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EG 11.2. --></p>
                      <!-- If you need to identify individual hands (EG §7.5/) in addition to one or more paragraphs of general palaeographic description, wrap <summary> around the <p> or <p>s above, and, outside <summary>, create <handNote> elements for each hand as follows:
 						<summary><p><p/></summary>
 						<handNote xml:id="Pallava00001_hand1"></handNote>
@@ -86,6 +91,7 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
+          <change who="part:argr" when="2023-06-06" status="draft">encoded bibliography and translation</change>
          <change who="part:axja" when="2020-11-03" status="draft">Updating toward the encoding template v03</change>
          <change who="part:masc" when="2020-06-14" status="draft">initial encoding of the inscription</change>
       </revisionDesc>
@@ -94,35 +100,70 @@
       <body>
          <div type="edition" xml:lang="kaw-Latn">
 <p><pb n="1r"/>
-<lb n="1r1"/> // 0 // haji ravuha r<unclear>ikaṁ</unclear> rāma-rāmeṁ valaṇḍit·, makādi buyut·, sambandha, gatini mpu rāma-rāme valaṇḍit· matu<lb n="1r2" break="no"/>ha manvam· kabeḥ, mavivāda makalaga para ḍapur iṁ himad·, kaviv<choice><orig>ā</orig><reg>a</reg></choice>kṣa, lena saṅke saṁ hyaṁ dharmma kabuyutan·, ri ṅū<lb n="1r3" break="no"/>ni kaṁ tkeṁ maṅke, makavyakti hanaṁ praśāsti seṇḍoklañchita, makarasāmagəhakən saṁ hyaṁ dharmma kabuyutan·, An svatāntrādəg riniṁ jā<lb n="1r4" break="no"/>taka punpunan· hetu, kunəṁ suṅan vara-varah i mpu rāma-rāmeṁ valaṇḍit samūdāya, tan· jātaka punpunan saṁke himad· tekaṁ
-<lb n="1r5"/>valaṇḍit·, kevala svatāntra, tan hana viśeṣa heṅūni ri puhun malama, <unclear>ma</unclear>suruhan pūjā-pūjān sapu-sapuAn·, rumakṣaṁ vuAṁ matī
-<lb n="1r6" break="no"/>rthāṅabhakti ṅkāne saṁ hyaṁ dharmma kabuyutan·, saṁsiptanya, kevala tan hanātaḥ paknanya lena <unclear>s</unclear>ira, saṅsip<supplied reason="omitted">t</supplied>a rasa saṁ hyaṁ rājapraśāsti<unclear>,</unclear> ke
-<lb n="1r7" break="no"/>valāmraśāstākən kasvatantran saṁ hyaṁ dharmma kabuyutan·, pramāṇe saL̥bak·-vukir ikaṁ vanuA ri valaṇḍit·, tuhun paknanikaṁ napuṅsa de sa
-<lb n="1r8" break="no"/>ṅ upapati samudāya, makādi saṁ pamgət i tiruAn·, mapañji pativasa, muAṁ saṁ mantrī samudāya, makādi rake mapatiḥ riṁ jaṅgala kaḍiri
+<lb n="1r1"/> // 0 // haji ravuha r<unclear>ikaṁ</unclear> rāma-rāmeṁ valaṇḍit·, makādi buyut·, samban<choice><orig>ḍ</orig><reg>dh</reg></choice>a, gatini mpu rāma-rāme valaṇḍit· matu<lb 
+n="1r2" break="no"/>ha manvam· kabeḥ, mavivāda makalaga para ḍapur iṁ himad·, kaviv<choice><orig>ā</orig><reg>a</reg></choice>kṣa, lena saṅke saṁ hyaṁ dharmma kabuyutan·, ri ṅū<lb 
+n="1r3" break="no"/>ni kaṁ tkeṁ maṅke, makavyakti hanaṁ praśāsti seṇḍok-lañchita, makarasāmagəhakən saṁ hyaṁ dharmma kabuyutan·, An svat<choice><orig>ā</orig><reg>a</reg></choice>ntrādəg ri<choice><sic>niṁ</sic><corr>ṅgit·</corr></choice> jā<lb 
+n="1r4" break="no"/>taka punpunan· hetu, kunəṁ suṅan vara-varah i mpu rāma-rāmeṁ valaṇḍit samūdāya, tan· jātaka punpunan saṁke himad· tekaṁ
+<lb n="1r5"/>valaṇḍit·, kevala svat<choice><orig>ā</orig><reg>a</reg></choice>ntra, tan hana viśeṣa heṅūni ri puhun malama, <unclear>ma</unclear>suruhan pūjā-pūjān sapu-sapuAn·, rumakṣaṁ vuAṁ matī<lb 
+n="1r6" break="no"/>rthāṅabhakti ṅkāne saṁ hyaṁ dharmma kabuyutan·, saṁsiptanya, kevala tan hanātaḥ paknanya lena sira, saṅsip<supplied reason="omitted">t</supplied>a rasa saṁ hyaṁ rājapraśāsti, ke<lb 
+n="1r7" break="no"/>valāmraśāstākən kasvatantran saṁ hyaṁ dharmma kabuyutan·, pramāṇe saL̥bak·-vukir ikaṁ vanuA ri valaṇḍit·, tuhun paknanikaṁ napuṅsa<!-- paknanikanaṁ puṅsa? paknanikaṁ napuṅ sade?  --> de sa<lb 
+n="1r8" break="no"/>ṅ upapati samudāya, makādi saṁ pamgət i tiruAn·, mapañji pativasa, muAṁ saṁ mantrī samudāya, makādi rake mapatiḥ riṁ jaṅgala kaḍiri
 <pb n="1v"/>
-<lb n="1v1"/>pu mada, kunə<unclear>ṁ</unclear> yan· hana thāny aṅrud<unclear>ḍ</unclear>a, kevalāpagəha ri kahayuAkna saṁ hyaṁ dharmma kabuyutan·, maṅkanātaḥ pravr̥tty ācāra mpu rāma
-<lb n="1v2"/>ri valaṇḍit anuṁ sayogya vruhe samanānā saṁ hyaṁ dharmma, saṅsiptanya lab<unclear>ḍ</unclear>āpagəḥ pgat pramāṇeriya, nhər vruḥ ri sanivedya saṁ hyaṁ dharmma ka<lb n="1v3" break="no"/>buyutan·, maṅkanātaḥ pakṣa mpu ḍapur i himad·, nimittanyan sor·, balavān pakṣa mpu rāma ri valaṇḍit·, mak<choice><orig>a</orig><reg>ā</reg></choice>di saṅkeṁ maṅkana, nā<lb n="1v4" break="no"/>han ta pakṣanikaṁ rāma-rāme valaṇḍit·,</p>
-<p>kunəṁ pakṣani mpu ḍapur i himad·, luṅha tka saṅke himad· ktekaṁ kuṇḍi th<choice><orig>a</orig><reg>ā</reg></choice>ni yan· muṅgv i valaṇḍit·, Ā<g type="filler">§</g><lb n="1v5" break="no"/>pan pu ḍapur· i himad· nimittanya mpu rāma-rāme valaṇḍit· vruhe samanānā saṁ hyaṁ dharmma kabuyutan·, makādi buyut·, ndān mataṁgvana<lb n="1v6" break="no"/>kteka śānta-d<choice><orig>a</orig><reg>ā</reg></choice>nta sulakṣaṇa, tan parakriyābhilā<choice><orig>ś</orig><reg>ṣ</reg></choice>ī, mittāṁ praśāsti seṇḍokl<choice><orig>a</orig><reg>ā</reg></choice>ñchita, mājari tan hananiṁ len saṅke saṁ hyaṁ dharmma kabuyutan·
-<lb n="1v7"/>pramāṇe valaṇḍit·, muA<unclear>ṁ</unclear> sārikpuriḥnya saprakāra, makādiṁ tahil· //</p><p> surat samgət i jāmba, surat samgət i pamvatan·, surat pu kaṇḍa<lb n="1v8" break="no"/>ṅan·, surat· rakryan apatiḥ mpu mada, surat saṅ āryya rāj<choice><orig>a</orig><reg>ā</reg></choice>dhīkāra, vkas· taṅan saṁ vaṅśādhipati pamgə<supplied reason="omitted">t i</supplied> tiruAn· //</p>
+<lb n="1v1"/>pu mada, kunəṁ yan· hana thāny aṅrud<choice><orig>ḍ</orig><reg>dh</reg></choice>a, kevalāpagəha ri kahayuAkna saṁ hyaṁ dharmma kabuyutan·, maṅkanātaḥ pravr̥tty ācāra mpu rāma
+<lb n="1v2"/>ri valaṇḍit anuṁ sayogya vruhe samanānā saṁ hyaṁ dharmma, saṅsiptanya lab<choice><orig>ḍ</orig><reg>dh</reg></choice>āpagəḥ pgat pramāṇeriya, nhər vruḥ ri sanivedya saṁ hyaṁ dharmma ka<lb 
+n="1v3" break="no"/>buyutan·, maṅkanātaḥ pakṣa mpu ḍapur i himad·, nimittanyan sor·, balavān pakṣa mpu rāma ri valaṇḍit·, mak<choice><orig>a</orig><reg>ā</reg></choice>di saṅkeṁ maṅkana, nā<lb 
+n="1v4" break="no"/>han ta pakṣanikaṁ rāma-rāme valaṇḍit·,</p>
+<p>kunəṁ pakṣani mpu ḍapur i himad·, luṅha tka saṅke himad· ktekaṁ kuṇḍi th<choice><orig>a</orig><reg>ā</reg></choice>ni yan· muṅgv i valaṇḍit·, Ā<g type="filler">§</g><lb 
+n="1v5" break="no"/>pan pu ḍapur· i himad· nimittanya mpu rāma-rāme valaṇḍit· vruhe samanānā saṁ hyaṁ dharmma kabuyutan·, makādi buyut·, ndān mataṁgvana
+<lb n="1v6"/>kteka śānta d<choice><orig>a</orig><reg>ā</reg></choice>nta sulakṣaṇa, tan parakriyābhilā<choice><orig>ś</orig><reg>ṣ</reg></choice>ī, <supplied reason="omitted">makani</supplied>mittāṁ praśāsti seṇḍok-l<choice><orig>a</orig><reg>ā</reg></choice>ñchita, mājari tan hananiṁ len saṅke saṁ hyaṁ dharmma kabuyutan·
+<lb n="1v7"/>pramāṇe valaṇḍit·, muA<unclear>ṁ</unclear> Ārik-puriḥnya saprakāra, makādiṁ tahil· //</p>
+<p>surat <abbr>samgət</abbr> i jāmba, surat <abbr>samgət</abbr> i pamvatan·, surat pu kaṇḍa<lb 
+n="1v8" break="no"/>ṅan·, surat· rakryan apatiḥ mpu mada, surat saṅ āryya rāj<choice><orig>a</orig><reg>ā</reg></choice>dhīkāra, vkas· taṅan saṁ vaṅśādhipati pamgə<supplied reason="omitted">t i</supplied> tiruAn· //</p>
          </div>
          <div type="apparatus">
            <!--apparatus encoded as per EG §9.1, basic elements for apparatus below-->
-               <listApp><!-- one <app> for each apparatus entry -->
-	<app loc="1r4">
-<lem>suṅan</lem>
-<rdg source="bib:Casparis1940_01">sūṅan</rdg></app>
-                  <app loc="1r4">
+               <listApp>
+<app loc="1v1">
+<lem>samban<choice><orig>ḍ</orig><reg>dh</reg></choice>a</lem>
+<rdg source="bib:Casparis1940_01">sambandha</rdg>
+</app>
+<app loc="1r3">
+<lem>ri<choice><sic>niṁ</sic><corr>ṅgit·</corr></choice></lem>
+<rdg source="bib:Casparis1940_01">riniṁ</rdg>
+<note>Or should we edit <foreign>ri<supplied reason="omitted">ṅgit·</supplied>niṁ</foreign>?</note>
+</app>
+<!--<app loc="1r4">
+	<lem>suṅan</lem>
+	<rdg source="bib:Casparis1940_01">sūṅan</rdg>
+</app>-->
+                 <!-- <app loc="1r4">
                      <lem>samudāya</lem>
                      <rdg source="bib:Casparis1940_01">samūdāya</rdg>
-                  </app>
-                  <app loc="1v2">
+                  </app>-->
+<app loc="1v1">
+<lem>aṅrud<choice><orig>ḍ</orig><reg>dh</reg></choice>a</lem>
+<rdg source="bib:Casparis1940_01">aṅruddha</rdg>
+</app>
+                  <!--<app loc="1v2">
                      <lem>vruḥ</lem>
                      <rdg source="bib:Casparis1940_01">vruh</rdg>
-                  </app>
+                  </app>-->
+<app loc="1v2">
+<lem>lab<choice><orig>ḍ</orig><reg>dh</reg></choice>ā-</lem>
+ <rdg source="bib:Casparis1940_01">labdhā-</rdg>
+</app>
                   <app loc="1v4">
                     <lem>th<choice><orig>a</orig><reg>ā</reg></choice>ni</lem>
                     <rdg source="bib:Casparis1940_01">thāni</rdg>
                   </app>
+<app loc="1v6">
+<lem><supplied reason="omitted">makani</supplied>mittāṁ</lem>
+<rdg source="bib:Casparis1940_01">mittāṁ</rdg>
+</app>
+<app loc="1v7">
+<lem>Ārik-</lem>
+<rdg source="bib:Casparis1940_01">sarik-</rdg>
+</app>
                   <app loc="1v7">
                      <lem>kaṇḍa<lb n="1v8" break="no"/>ṅan</lem>
                      <rdg source="bib:Casparis1940_01">kaṇḍavan</rdg>
@@ -144,7 +185,17 @@
          </div>
         <div type="bibliography">
 	<!--bibliography encoded as per section §9.4 -->
-	<p>First edited by J.G. de Casparis (<bibl rend="omitname"><ptr target="bib:Casparis1940_01"/></bibl>) with translation into Dutch.</p>
+	<p>First edited by J.G. de Casparis (<bibl rend="omitname"><ptr target="bib:Casparis1940_01"/></bibl>) with translation into Dutch; this edition reproduced, with translation into Indonesian and new commentary, by Muhammad Yamin (<bibl rend="omitname"><ptr target="bib:MuhammadYamin1962_02"/></bibl>). Re-edited here by Arlo Griffiths from photos of the plates, and furnished with a translation into English.</p>
+ <listBibl type="primary">
+	            <bibl n="C"><ptr target="bib:Casparis1940_01"/></bibl>
+            </listBibl>
+             <listBibl type="secondary">
+            <bibl><ptr target="bib:MuhammadYamin1962_02"/><citedRange unit="section">XIV</citedRange><citedRange unit="page">83-87</citedRange></bibl>
+           </listBibl>
+<!-- 
+Leiden University Library, Prof. F.H. van Naerssen collection, LOr. 27190
+OD 14462–14463, photos Worsley
+ -->
         </div>
       </body>
   </text>
