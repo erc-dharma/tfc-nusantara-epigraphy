@@ -27,12 +27,12 @@
       </titleStmt>
       <publicationStmt>
         <authority>DHARMA</authority>
-        <pubPlace>Paris</pubPlace>
-        <idno type="filename">DHARMA_INS01Taji</idno>
+        <pubPlace>Paris, Surakarta, Jakarta</pubPlace>
+        <idno type="filename">DHARMA_INSIDENKTajiGunung</idno>
         <availability>
           <licence target="https://creativecommons.org/licenses/by/4.0/">
             <p>This work is licenced under the Creative Commons Attribution 4.0 Unported Licence. To view a copy of the licence, visit https://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.</p>
-            <p>Copyright © 2019-2025 by Tyassanti Kusumo Dewanti and Arlo Griffiths.</p>
+            <p>Copyright © 2019-2025 by Tyassanti Kusumo Dewanti &amp; Arlo Griffiths.</p>
           </licence>
         </availability>
         <date from="2019" to="2025">2019-2025</date>
@@ -70,51 +70,54 @@
       </listPrefixDef>
     </encodingDesc>
     <revisionDesc>
-      <change status="draft" when="2023" who="part:mime">Initial encoding of the inscription</change>
+      <change status="draft" when="2023-06-08" who="part:tykd part:argr">Started adapting Michaël Meyer’s transformation from gdocs to xml</change>
     </revisionDesc>
   </teiHeader>
   <text xml:space="preserve">
     <body>
       <div type="edition" xml:lang="kaw-Latn">
-        <p>
 <!-- Front (A) -->
-Om̐
+<ab><milestone type="pagelike" unit="face" n="A"/><label>Front</label>
+  <lb n="01"/>Om̐
+</ab>
 <!-- Section 1 -->
 <!-- Front main part -->
-<lb n="1.1"/> // Om̐ namaś śivāya namo buddhāya ￮￮￮ svasthā śrī sañjaya-varsā<supplied reason="omitted">tīta</supplied> <num value="19">19</num><unclear>4</unclear> posya-
-<lb break="no" n="1.2"/> māsa tithi tri tīya kr̥ṣṇa-pakṣa tu U <unclear>ś</unclear>u vāra Irikā mūlapra<unclear>tha</unclear>manikai banuAni taji gu-
-<lb break="no" n="1.3"/> nuṁ sinusuk ṣ<unclear>ī</unclear>mā dai rakryan· mahāman·tri muAṁ rakryan· gurum <unclear>va</unclear>ṅi muAṁ samg<unclear>ə</unclear>t·
-<lb n="1.4"/> luA Anuṁ Ayam· təhas· ṅūni An· sinīmma Ikai banuA pu ḍapit· Ana-
-<lb break="no" n="1.5"/> k· banuA I paṇḍamuAn· vatak· vadihati Anuṁ juru-juru I sira saṁ hadyan· mira-mi-
-<lb break="no" n="1.6"/> raḥ Ataḥ vatak· vadihati muAṁ saṁ hadyan· halar·ran· pu dhanada Anak· banuA
-<lb n="1.7"/> I paṇḍamuAn· vatak· vadi hati makalambi haji paṅuraṁnira ry āyām· təhas·
-<lb n="1.8"/> saṁ hadyan· buAṅən· Anak· banuA I gunuṅan· vatak ta<unclear>ṁ</unclear>killan· saṁ Ilu Uma-
-<lb break="no" n="1.9"/> yutti saṁ hyaṅ· buṁkal· sīma susuk· kulumpaṁ ṅū ni muvaḥ samgat· makudur· <unclear>bra</unclear>da Ana-
-<lb break="no" n="1.10"/> k· banuA I vaduṁ poḥ vatak· makudur· Anuṁ sira juru-juru I sira <unclear>saṁ hadya</unclear>n· <unclear>da-</unclear>
-<lb n="1.11"/> vaha Anak· banuA I ra təguḥ vatak· khaməhas· maAṁ dyaḥ maṇḍyāṅin· Anak·
-<lb n="1.12"/> banuA I kahaṅat·tan· vatak· khaməhas· Ataḥ paṅuraṁ I saməgat·
-<lb n="1.13"/> makudur· saṁ Umilu Umuyutti saṁ hyaṁ buṅkal· sĭma susuk· kulumpaṁ dyaḥ raṇḍə
-<lb n="1.14"/> Anak· banuA I liṅai vatak· makudur· vuṅkal· tpat· ṅūni duvə<unclear>g</unclear>·nikai
-<lb n="1.15"/> banuA An· sinĭma pu saranna Anak· banuA Iṅ ulu kabikuAn· ri taṁkillan· va-
-<lb break="no" n="1.16"/> <surplus>tak·</surplus>tak taṁkillan· Ataḥ yāpuAn· hana drohaka Umulaḥh-ulaḥha Ikai
-<lb n="1.17"/> sĭma paṅanugraha rakryan· I sira <surplus>piṅi</surplus> piṁhay· vahuta I vuṅkal· tpat· maka-
-<lb break="no" n="1.18"/> beḥhan· dlāhaniṁ dlāha I vka vet· saṁ piṁhay· vuAra tan· tam·muA pha<surplus>ṁ</surplus>-
-<lb break="no" n="1.19"/> l·lani kadadin· vuAṁ <gap reason="1 akṣ. Illegible – possibly intentionally erased"/> ṅunivaiḥ vka-vetnikāṁ Umulaḥh-ulaḥ Ikaiṁ saṁ
-<lb n="1.20"/> h<unclear>yaṁ</unclear> <supplied reason="omitted">buṅkal·</supplied> s<unclear>ī</unclear>ma susu<unclear>k kulu</unclear>mpaṁ <unclear>Ā</unclear>pan· huvus· sapattha saṁ vahuta hyaṁ m<unclear>u</unclear>Aṁ saṁ ma-
-<lb break="no" n="1.21"/> ka<unclear>la</unclear>mbi haji <unclear>I ri</unclear> ka maṅka<unclear>na</unclear> <unclear>duvəg·</unclear> <unclear>saṁ</unclear> hyaṁ vuṅkal· sīma susuk· kulumpaṁ
-<lb n="1.22"/> śinivi rikaṁ rāt· ṅūni śrī sañjaya na ranāttha haji balituṁ Aśrī yovanna mū-
-<lb break="no" n="1.23"/> <unclear>vaḥ</unclear> juruni kanayakan· I sira pu givaṁ Anak· banuA I poḥ vatak· pagar·
-<lb n="1.24"/> <unclear>vs</unclear>i mūvaḥ juruni lam·puran· pu jaya Anak· banuA I galagaḥ <unclear>vata</unclear>k· khin<unclear>o</unclear>
-<lb n="1.25"/> mūvaḥ juru vaduA raray· saṁ bulibak· Anak· banuA I guva vatak· khīno
-<lb n="1.26"/> mūvaḥ piṁhay· mānak· saṁ hadyan· Ayuḥ Anak· banuA I trirava mūvaḥ paru-
-<lb break="no" n="1.27"/> jar·nira pu l<unclear>ī</unclear>kaṁ mūvaḥ piṁhay· I jro turus· saṁ <supplied reason="omitted">ha</supplied>dyan· mali mūvaḥ saṁ hadya-
-<lb break="no" n="1.28"/> n· galuṁ Anak· banuA I trirava mūvaḥ I trirava pu madhya m<unclear>ū</unclear>vaḥ piṁhay· I <unclear>jr</unclear>o
-<lb n="1.29"/> turus· saṁ hadyan· lvaḥ vatu Anak· banuA I vuAtan·n əmmas· parujar·ni-
-<lb break="no" n="1.30"/> ra pu rinu mūvaḥ rāma kabayan· I savaṁṅan· pu kura mūvaḥ pu bura<unclear>v</unclear>un· mūvaḥ
-<lb n="1.31"/> pu Antiṁ parujar· rāmanta I savaṁṅan· si basinəḥ mūvaḥ magala<unclear>ḥ</unclear> I <unclear>sa</unclear>va<unclear>ṁ</unclear>ṅan· si
-<lb n="1.32"/> bala<add place="below">va</add> mūvaḥ vahuta I savaṁṅan· si kja mūvaḥ bīnkas· I savaṁṅan· pu
+<p><lb n="1.1"/><p xml:lang="san-Latn">// Om̐ namaś śivāya namo buddhāya</p> ￮￮￮ svasthā śrī sañjaya-varsā<supplied reason="omitted">tīta</supplied> <num value="194">19<unclear>4</unclear></num> posya<lb break="no" 
+n="1.2"/>-māsa tithi tri<space type="descender"/>tīya kr̥ṣṇa-pakṣa <abbr>tu</abbr> <abbr>U</abbr> <abbr><unclear>ś</unclear>u</abbr> vāra</p>
+<p>Irikā mūlapra<unclear>tha</unclear>manikai banuAni taji gu<lb break="no" 
+n="1.3"/>nuṁ sinusuk ṣ<unclear>ī</unclear>mā dai rakryan· mahāman·tri muAṁ rakryan· gurum <unclear>va</unclear>ṅi muAṁ <abbr>samg<unclear>ə</unclear>t·</abbr>
+<lb n="1.4"/>luA Anuṁ Ayam· təhas· ṅūni An· sinīmma Ikai banuA pu ḍapit· Ana<lb break="no" 
+n="1.5"/>k· banuA I paṇḍamuAn· vatak· vadihati Anuṁ juru-juru I sira saṁ hadyan· mira-mi<lb break="no" 
+n="1.6"/>raḥ Ataḥ vatak· vadihati muAṁ saṁ hadyan· halar·ran· pu dhanada Anak· banuA
+<lb n="1.7"/>I paṇḍamuAn· vatak· vadi<space type="descender"/>hati makalambi haji paṅuraṁnira ry āyām· təhas·
+<lb n="1.8"/>saṁ hadyan· buAṅən· Anak· banuA I gunuṅan· vatak ta<unclear>ṁ</unclear>killan· saṁ Ilu Uma<lb break="no" 
+n="1.9"/>yutti saṁ hyaṅ· buṁkal· sīma susuk· kulumpaṁ ṅū<space type="descender"/>ni muvaḥ <abbr>samgat·</abbr> makudur· <unclear>bra</unclear>da Ana<lb break="no"
+n="1.10"/>k· banuA I vaduṁ poḥ vatak· makudur· Anuṁ sira juru-juru I sira <unclear>saṁ hadya</unclear>n· <unclear>da</unclear><lb break="no"
+n="1.11"/>vaha Anak· banuA I ra təguḥ vatak· khaməhas· maAṁ dyaḥ maṇḍyāṅin· Anak·
+<lb n="1.12"/>banuA I kahaṅat·tan· vatak· khaməhas· Ataḥ paṅuraṁ I <abbr>saməgat·</abbr>
+<lb n="1.13"/>makudur· saṁ Umilu Umuyutti saṁ hyaṁ buṅkal· sĭma susuk· kulumpaṁ dyaḥ raṇḍə
+<lb n="1.14"/>Anak· banuA I liṅai vatak· makudur· vuṅkal· tpat· ṅūni duvə<unclear>g</unclear>·nikai
+<lb n="1.15"/>banuA An· sinĭma pu saranna Anak· banuA Iṅ ulu kabikuAn· ri taṁkillan· va<lb break="no" 
+n="1.16"/><surplus>tak·</surplus>tak taṁkillan· Ataḥ</p> <p>yāpuAn· hana drohaka Umulaḥh-ulaḥha Ikai
+<lb n="1.17"/>sĭma paṅanugraha rakryan· I sira <surplus>piṅi</surplus>piṁhay· vahuta I vuṅkal· tpat· maka<lb break="no" 
+n="1.18"/>beḥhan· dlāhaniṁ dlāha I vka vet· saṁ piṁhay· vuAra tan· tam·muA pha<surplus>ṁ</surplus><lb break="no" 
+n="1.19"/>l·lani kadadin· vuAṁ <gap reason="illegible" quantity="1" unit="character"/><!-- possibly intentionally erased --> ṅunivaiḥ vka-vetnikāṁ Umulaḥh-ulaḥ Ikaiṁ saṁ
+<lb n="1.20"/>h<unclear>yaṁ</unclear> <supplied reason="omitted">buṅkal·</supplied> s<unclear>ī</unclear>ma susu<unclear>k kulu</unclear>mpaṁ <unclear>Ā</unclear>pan· huvus· sapattha saṁ vahuta hyaṁ m<unclear>u</unclear>Aṁ saṁ ma<lb break="no" 
+n="1.21"/>ka<unclear>la</unclear>mbi haji <unclear>I<space type="descender"/>ri</unclear><space type="descender"/>ka maṅka<unclear>na</unclear> <unclear>duvəg·</unclear> <unclear>saṁ</unclear> hyaṁ vuṅkal· sīma susuk· kulumpaṁ
+<lb n="1.22"/>śinivi rikaṁ rāt· ṅūni śrī sañjaya na<space type="descender"/>ranāttha haji balituṁ Aśrī yovanna mū<lb break="no" 
+n="1.23"/><unclear>vaḥ</unclear>juruni kanayakan· I sira pu givaṁ Anak· banuA I poḥ vatak· pagar·
+<lb n="1.24"/><unclear>vs</unclear>i mūvaḥ juruni lam·puran· pu jaya Anak· banuA I galagaḥ <unclear>vata</unclear>k· khin<unclear>o</unclear>
+<lb n="1.25"/>mūvaḥ juru vaduA raray· saṁ bulibak· Anak· banuA I guva vatak· khīno
+<lb n="1.26"/>mūvaḥ piṁhay· mānak· saṁ hadyan· Ayuḥ Anak· banuA I trirava mūvaḥ paru<lb break="no" 
+n="1.27"/>jar·nira pu l<unclear>ī</unclear>kaṁ mūvaḥ piṁhay· I jro turus· saṁ <supplied reason="omitted">ha</supplied>dyan· mali mūvaḥ saṁ hadya<lb break="no" 
+n="1.28"/>n· galuṁ Anak· banuA I trirava mūvaḥ I trirava pu madhya m<unclear>ū</unclear>vaḥ piṁhay· I <unclear>jr</unclear>o
+<lb n="1.29"/>turus· saṁ hadyan· lvaḥ vatu Anak· banuA I vuAtan·n əmmas· parujar·ni<lb break="no" 
+n="1.30"/>ra pu rinu mūvaḥ rāma kabayan· I savaṁṅan· pu kura mūvaḥ pu bura<unclear>v</unclear>un· mūvaḥ
+<lb n="1.31"/>pu Antiṁ parujar· rāmanta I savaṁṅan· si basinəḥ mūvaḥ magala<unclear>ḥ</unclear> I <unclear>sa</unclear>va<unclear>ṁ</unclear>ṅan· si
+<lb n="1.32"/>bala<add place="below">va</add>mūvaḥ vahuta I savaṁṅan· si kja mūvaḥ bīnkas· I savaṁṅan· pu
 <!-- Section 2 -->
 <!-- Back main part -->
+<milestone type="pagelike" unit="face" n="B"/><label>Back</label>
 <lb n="2.1"/> puñjaṁ mūvaḥ vahuta I jruk· śrī pu danta mūvaḥ <surplus>I jruk· śrī</surplus> pu bajra mūvaḥ pu sakti gusti I jru-
 <lb break="no" n="2.2"/> k· śrī, vinkas· pu tiriṁ rāma maratā I jruk· śrī pu kevala mūvaḥ parujar· rāmanta pu
 <lb n="2.3"/> Am·loḥ mūvaḥ piluṅgaḥ pu mala mūvaḥ pu codya Anak· banuA I bakal· mūvaḥ
@@ -122,8 +125,7 @@ Om̐
 <lb n="2.5"/> vanuA mūvaḥ Aravanas·ta Anak· banuA I bhavantan· maṅla pu kinaṁ Anak· banu-
 <lb break="no" n="2.6"/> A I vuattan· śrĭ sĭma A<add place="below">ṅa</add>sə I ḍihyaṁ mūvaḥ pu tiṇḍi Anak· banuA I hijo sī-
 <lb break="no" n="2.7"/> ma Aṅasə I <unclear>ta</unclear>lun· Atari si kutil· jajamāna pu nătha Anak· banuA I mu-
-<lb break="no" n="2.8"/> ṅgu vatak· taṅkillan· mūvaḥ <unclear>pu</unclear> sukha Anak· banuA I tumurun· mūvaḥ saṁ ha-
-@reason="eccentric_ductus"
+<lb break="no" n="2.8"/> ṅgu vatak· taṅkillan· mūvaḥ <unclear reason="eccentric_ductus">pu</unclear> sukha Anak· banuA I tumurun· mūvaḥ saṁ ha-
 <lb n="2.9"/> dyan· bisañja paḍamm apuy· saṁ hadyan· dumma Anak· banuA I parahita Ataḥ va-
 <lb break="no" n="2.10"/> tak· halu mūvaḥ saṁ hadyan· mahintu I susuḥhan· pu siga mūvaḥ kaki Udiḥ pr̥-
 <lb break="no" n="2.11"/> <unclear>tta</unclear>ya I vuṅkal· tpat· saṁ saraṅgaṁ Ana<supplied reason="omitted">k</supplied> banuA I layaṁ vatak· layaṁ mūvaḥ pr̥ttaya
@@ -264,6 +266,10 @@ Om̐
         <app loc="1.19">
           <lem>kadadin· vuAṁ</lem>
           <note>jarin guna Br, jarin guA[--] Na.</note>
+        </app>
+        <app loc="1.19">
+        <lem>FILL ME IN</lem>
+        <note>The gap may be due to an akṣara having been intentionally deleted.</note>
         </app>
         <app loc="1.19">
           <lem>ṅunivaiḥ</lem>
