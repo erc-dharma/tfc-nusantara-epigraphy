@@ -15,7 +15,10 @@
                   <forename>Marine</forename>
                   <surname>Schoettel</surname>
                </persName>
-               
+            	<persName ref="part:argr">
+            		<forename>Arlo</forename>
+            		<surname>Griffiths</surname>
+            	</persName> 
             </respStmt>
             <respStmt>
                <resp>intellectual authorship of edition</resp>
@@ -23,6 +26,10 @@
                   <forename>Marine</forename>
                   <surname>Schoettel</surname>
                </persName>
+            	<persName ref="part:argr">
+            		<forename>Arlo</forename>
+            		<surname>Griffiths</surname>
+            	</persName>
             </respStmt> 
          </titleStmt>
          <publicationStmt>
@@ -33,7 +40,7 @@
                <licence target="https://creativecommons.org/licenses/by/4.0/">
                   <p>This work is licenced under the Creative Commons Attribution 4.0 Unported Licence. To view a copy of the licence, visit https://creativecommons.org/licenses/by/4.0/ or send a
                      letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.</p>
-                  <p>Copyright (c) 2020 by Marine Schoettel.</p>
+                  <p>Copyright (c) 2020 by Marine Schoettel &amp; Arlo Griffiths.</p>
                </licence>
             </availability>
             <date from="2019" to="2025">2019-2025</date>
@@ -54,9 +61,7 @@
                </msContents>
                <physDesc>
                   <handDesc>
-                     <p><!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EG 11.2. -->This inscription uses an unusual shape of basic punctuation, which does not look like a comma but rather like a simple vertical bar or <foreign>daṇḍa</foreign>. The pasangan <foreign>s</foreign>, <foreign>ṣ</foreign> and <foreign>p</foreign> are written in the <quote>modern</quote> fashion on the same line, instead of below the line as it is still usually the case in the Majapahit period. We observe two shapes of <foreign>anusvāra</foreign> in this inscription, with the alternative round shape appearing for instance l. 2v5. The scribe uses two ways of forming akṣara <foreign>lā</foreign>:
-                              with tarung placed to the right of the akṣara, most frequent
-                              with tarung written in “superscript” form: 3r1 prajālāṅkarā</p>
+                     <p><!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EG 11.2. -->This inscription uses an unusual shape for the basic punctuation sign, which does not look like a raised comma but rather like a simple vertical bar or <foreign>daṇḍa</foreign>. The <foreign>pasangan</foreign> <foreign>s</foreign>, <foreign>ṣ</foreign> and <foreign>p</foreign> are written in the <quote>modern</quote> fashion on the same line, instead of below the line as it is still usually the case in the Majapahit period. We observe two shapes of <foreign>anusvāra</foreign> in this inscription, with the alternative round shape appearing for instance in 2v5.</p>
                      <!-- If you need to identify individual hands (EG §7.5/) in addition to one or more paragraphs of general palaeographic description, wrap <summary> around the <p> or <p>s above, and, outside <summary>, create <handNote> elements for each hand as follows:
 						<summary><p><p/></summary>
 						<handNote xml:id="Pallava00001_hand1"></handNote>
