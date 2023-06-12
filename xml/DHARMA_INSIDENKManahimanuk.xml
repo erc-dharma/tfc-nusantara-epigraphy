@@ -154,19 +154,21 @@ n="6v3" break="no"/>kṣa saṅ apañji <choice><orig>s</orig><reg>ś</reg></cho
 </p>
          </div>
          <div type="apparatus">
-           <!--apparatus encoded as per EG §9.1, basic elements for apparatus below-->
-               <listApp><!-- one <app> for each apparatus entry -->
-	<app loc="2r1">
-<lem>jayaviṣṇuva<lb/>rddhani</lem>
-<rdg source="bib:Boechari1985-1986_01 bib:Brandes1913_01">jayaviṣṇuva<lb/>rddhanī</rdg></app>
-                  <app loc="2r3">
-                     <lem>Ājña</lem>
-                     <rdg source="bib:Boechari1985-1986_01 bib:Brandes1913_01">Ājñā</rdg>
-                  </app>
-                  <app loc="2r4">
+               <listApp>
+<app loc="2r1">
+<lem><choice><orig>ś</orig><reg>ṣ</reg></choice>eka</lem>
+<rdg source="bib:Boechari1985-1986_01 bib:Brandes1913_01">śeka</rdg>
+<note>Restore <foreign>abhiṣeka</foreign>.</note>
+</app>
+<!--<app loc="2r1">
+<lem>jayaviṣṇuva<lb/>rddhanĭ</lem>
+<rdg source="bib:Boechari1985-1986_01 bib:Brandes1913_01">jayaviṣṇuva<lb/>rddhanī</rdg>
+</app>-->
+                  <!--<app loc="2r3">
                      <lem>Ājñă</lem>
-                     <rdg source="bib:Boechari1985-1986_01">Ājñā</rdg>
-                  </app>
+		<rdg source="bib:Brandes1913_01">Ājña</rdg>
+                            <rdg source="bib:Boechari1985-1986_01">Ājñā</rdg>                     
+                  </app>-->
                   <app loc="2r4">
                      <lem source="bib:Brandes1913_01">-pra<lb/>vāla-buddhi-</lem>
                      <rdg source="bib:Boechari1985-1986_01">-pravālanbuddhi-</rdg>
@@ -176,7 +178,8 @@ n="6v3" break="no"/>kṣa saṅ apañji <choice><orig>s</orig><reg>ś</reg></cho
                      <rdg source="bib:Boechari1985-1986_01">nala</rdg>
                   </app>
                   <app loc="2v4">
-                     <lem source="bib:Brandes1913_01">sā<choice><orig>d</orig><reg>dh</reg></choice>u-</lem>
+	       <lem>sā<choice><orig>d</orig><reg>dh</reg></choice>u-</lem>
+                     <rdg source="bib:Brandes1913_01">sādu-</rdg>
                      <rdg source="bib:Boechari1985-1986_01">sadu-</rdg>
                   </app>
                   <app loc="3r1">
@@ -278,9 +281,9 @@ hayaṅ ñaho di (568)pupuja di saṅgar ma, patah, puja daun, gәlar (569)palaj
          </div>
         <div type="bibliography">
 	<!--bibliography encoded as per section §9.4 -->
-	<p>First edited by Brandes, republished by Pigeaud and edited again by Boechari; re-edited here by Marine Schoettel from the estampage of the plate made available by the Museum Nasional Indonesia.</p>
+	<p>First edited by Brandes, republished by Pigeaud and edited again by Boechari; re-edited here by Marine Schoettel &amp; Arlo Griffiths from the estampages of the plates kept at Leiden University Library.</p>
 	<listBibl type="primary">
-<bibl n="Br"><ptr target="bib:Brandes1913_01"/><citedRange unit="page">???</citedRange><citedRange unit="item">???</citedRange></bibl>
+<bibl n="Br"><ptr target="bib:Brandes1913_01"/><citedRange unit="page">207-210</citedRange><citedRange unit="item">LXXXV</citedRange></bibl>
 <bibl n="Boe"><ptr target="bib:Boechari1985-1986_01"/><citedRange unit="page">97-100</citedRange><citedRange unit="item">E.35</citedRange></bibl>
 	</listBibl>
             <listBibl type="secondary">
