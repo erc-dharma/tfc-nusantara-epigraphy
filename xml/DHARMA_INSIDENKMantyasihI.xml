@@ -3,7 +3,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Mantyasih I (829 Śaka, 907-04-11)</title>
+            <title>The Charter of Mantyasih I</title>
             <respStmt>
                <resp>EpiDoc Encoding</resp>
                <persName ref="part:wjsa">
@@ -76,6 +76,7 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
+      <change who="part:wjsa" when="2023-09-04">Cleaning up apparatus</change>
       <change who="part:wjsa" when="2023-09-04">Adding markup for number, abbreviations, etc.</change>
       <change who="part:wjsa" when="2023-08-14">Correcting errors in xml</change>
          <change who="part:axja" when="2022-08-16">Transforming docx into xml</change>
@@ -142,40 +143,30 @@ n="2r23"/>nya svasthā <g type="ddandaHooked">.</g> paṅgāṅan· riṁ pasukk
                    </div>
                        <div type="apparatus">
 <app loc="1r2"><lem>pka</lem><rdg source="bib:Sarkar1971-1972_01">vka</rdg></app>
-<app loc="1r4"><lem>dikhī</lem><rdg source="bib:Sarkar1971-1972_01">ḍiṇī</rdg><note>That the kha akṣara is shaped thus is confirmed by its use in sukha-duḥkha in 1v9. Cf. Mantyasih III (2v6) pu kolā ramani dikhi.</note></app>
-<app loc="1r4"><lem>kr̥sna</lem><rdg source="bib:Sarkar1971-1972_01">sna</rdg><note>Cf. Mantyasih III (2v6): saṁ kr̥ṣṇa ramanī Ananta.</note></app>
+<app loc="1r4"><lem>dikhī</lem><rdg source="bib:Sarkar1971-1972_01">ḍiṇī</rdg><note>That the <foreign>kha</foreign> akṣara is shaped thus is confirmed by its use in the phrase <foreign>sukha-duḥkha</foreign> (1v9). Cf. Mantyasih III (2v6) <foreign>pu kolā ramani dikhi</foreign>.</note></app>
+<app loc="1r4"><lem>kr̥sna</lem><rdg source="bib:Sarkar1971-1972_01">sna</rdg><note>Cf. Mantyasih III (2v6): <foreign>saṁ kr̥ṣṇa ramanī Ananta</foreign>.</note></app>
                           <app loc="1r5"><lem>samvandhanyan·</lem> <rdg source="bib:Sarkar1971-1972_01">sambandanyan·</rdg></app>
-                          <app loc="1r7"><lem source="bib:Sarkar1971-1972_01">Iṇanugrahākan</lem><note>The ṇa is possibly an attempt to correct a botched nā.</note></app>
                           <app loc="1r7"><lem>vanuA</lem><rdg source="bib:Sarkar1971-1972_01">vanva</rdg></app>
                           <app loc="1r8"><lem>maṁrumvai</lem><rdg source="bib:Sarkar1971-1972_01">maṁrumbai</rdg></app>
-                          <app loc="1r8"><lem>samval</lem><rdg source="bib:Sarkar1971-1972_01">sambal</rdg></app><app loc="1r10"><lem source="bib:Sarkar1971-1972_01">InaṁsāAn·</lem><note>simple omission of the pepet sign</note></app>
+                          <app loc="1r8"><lem>samval</lem><rdg source="bib:Sarkar1971-1972_01">sambal</rdg></app>
                           <app loc="1r11"><lem>śivāskra</lem><rdg source="bib:Sarkar1971-1972_01">śivāstra</rdg></app>
-                          <app loc="1r11"><lem source="bib:Sarkar1971-1972_01">InaṁsāAn·</lem><note>simple omission of the pepet sign</note></app>
-                          <app loc="1r13"><lem>blaḥ <supplied reason="omitted">1</supplied></lem><rdg source="bib:Sarkar1971-1972_01">blaḥ</rdg><note>We supply the figure 1, since blah requires quantification. Cf. Mantyasih III (2r1): kain blaḥ 1</note></app>
-                          <app loc="1r13"><lem source="bib:Sarkar1971-1972_01">paṁḍamuA_n·</lem><note>cf. 1r15</note></app>
-                          <app loc="1r17"><lem source="bib:Sarkar1971-1972_01">dhā <unclear>1</unclear></lem><note>The shape of the punctuation is unusually round</note></app>
+                          <app loc="1r13"><lem>blaḥ <supplied reason="omitted">1</supplied></lem><rdg source="bib:Sarkar1971-1972_01">blaḥ</rdg><note>We supply the figure 1, since <foreign>blah</foreign> requires quantification. Cf. Mantyasih III (2r1): <foreign>kain blaḥ 1</foreign></note></app>
                           <app loc="1r17"><lem>kabaihananira</lem><rdg source="bib:Sarkar1971-1972_01"> kavaihanarira</rdg></app>
                           <app loc="1r17"><lem>irikaṁ</lem><rdg source="bib:Sarkar1971-1972_01">irikāṁ</rdg></app>
-                          <app loc="1r17"><lem>Oṇḍo</lem><rdg source="bib:Sarkar1971-1972_01"> Eṇḍo</rdg> <note>Damais (1970: 72, n.1): ‘Et non 'endo' comme Stutterheim a lu, mais qui est parfaitement impossible. Il croyait certainement y voir 'aiṇḍo', lui-même lisant, à la suite de Brandes, 'e' le signe pour 'ai'. Le signe est parfaitement net et ne peut être autre chose que O. On peut voir que Brandes avait également mal lu le passage parallèle dans Mantyasih III’. Cf. Mantyasih III (2r6): rakai Oṇḍo ramani kapur</note></app>
+                          <app loc="1r17"><lem>Oṇḍo</lem><rdg source="bib:Sarkar1971-1972_01"> Eṇḍo</rdg> <note>Damais (1970: 72, n.1): ‘Et non 'endo' comme Stutterheim a lu, mais qui est parfaitement impossible. Il croyait certainement y voir 'aiṇḍo', lui-même lisant, à la suite de Brandes, 'e' le signe pour 'ai'. Le signe est parfaitement net et ne peut être autre chose que O. On peut voir que Brandes avait également mal lu le passage parallèle dans Mantyasih III’. Cf. Mantyasih III (2r6): <foreign>rakai Oṇḍo ramani kapur</foreign></note></app>
                           <app loc="1r17"><lem>baraṅan·</lem> <rdg source="bib:Sarkar1971-1972_01">varaṅan·</rdg></app>
                           <app loc="1r21"><lem>gr̥k·</lem> <rdg source="bib:Sarkar1971-1972_01">grak·</rdg> <note>Cf. Mantyasih III (2r12).</note></app>
                           <app loc="1r21"><lem>vunut·</lem><rdg source="bib:Sarkar1971-1972_01">vurut·</rdg></app>
                           <app loc="1r22"><lem>karṇnī</lem> <rdg source="bib:Sarkar1971-1972_01">karṇni</rdg></app>
-                          <app loc="1r22"><lem source="bib:Sarkar1971-1972_01">dhidhi</lem><note> Possibly an error for vidhi. Cf. Mantyasih III (2r13): si kudha ramani ḍivi.</note></app>
-                          <app loc="1r23"><lem source="bib:Sarkar1971-1972_01">hampran</lem><note> Stutterheim gives the alternative hampūn, but the Hampran inscription published after Stutterheim’s edition confirms hampran. The descender represents ra, not u (cf. patraṅan in 1v15). Cf. Mantyasih III (2r14): I hampran· kalima si Ina.</note></app>
                           <app loc="1r23"><lem>prak tuha</lem><rdg source="bib:Sarkar1971-1972_01"> praktaha</rdg> <note>Cf. Mantyasih III (2v1) prak tuha</note></app>
                           <app loc="1r23"><lem source="bib:Sarkar1971-1972_01">dharmma</lem><note> Cf. Mantyasih III (2v2) dharmī.</note></app>
                           <app loc="1r23"><lem source="bib:Sarkar1971-1972_01">va-Atan·</lem><note> Corr. vuAtan·, cf. Mantyasih III (2v1). Stutterheim (1927: 208, note 76) notes: “Moet wel gelezen worden vu; er staat echter va.”</note></app>
                           <app loc="1r25"><lem><abbr>mā</abbr> 3</lem><rdg source="bib:Sarkar1971-1972_01"><abbr>mā</abbr> <unclear>2</unclear></rdg></app>
                           <app loc="1r25"><lem>majaṅut·</lem><rdg source="bib:Sarkar1971-1972_01">majadut·</rdg><note>Cf. Mantyasih III (2v4).</note></app>
                           <app loc="2r2"><lem>su <num value="2">2</num> <abbr>mā</abbr> <num value="2">2</num> ku 3</lem><rdg source="bib:Sarkar1971-1972_01">su <abbr>mă</abbr> <num value="2">2</num> ku 4</rdg> <note>Cf. Mantyasih III (2v7)</note></app>
-                          <app loc="2r3"><lem source="bib:Sarkar1971-1972_01">taruṁ</lem><note>Possibly corr. karuṁ</note></app>
-                          <app loc="2r5"><lem source="bib:Sarkar1971-1972_01">L̥miḥ</lem><note>cf. 2r15</note></app>
-                          <app loc="2r6"><lem source="bib:Sarkar1971-1972_01">tat</lem></app>
                           <app loc="2r7"><lem>maṁdyun·</lem><rdg source="bib:Sarkar1971-1972_01">maṁdyān·</rdg></app>
                           <app loc="2r7"><lem>laṇḍap·nyun·</lem><rdg source="bib:Sarkar1971-1972_01">laṇḍap·nyān·</rdg></app>
                           <app loc="2r9"><lem>laṇḍapanyun·</lem><rdg source="bib:Sarkar1971-1972_01">laṇḍapan yān·</rdg></app>
-                          <app loc="2r10"><lem source="bib:Sarkar1971-1972_01">tumohana tpitnya</lem></app>
                           <app loc="2r10"><lem>patīyananyu ya</lem><rdg source="bib:Sarkar1971-1972_01">patī yan anyāya</rdg> <note>Cf. Lintakan (3v18), Turyan (b.13)</note></app>
                           <app loc="2r10"><lem>deyanyu</lem><rdg source="bib:Sarkar1971-1972_01">deyanyā S</rdg></app>
                           <app loc="2r11"><lem>denyun·</lem> <rdg source="bib:Sarkar1971-1972_01">denyān·</rdg></app>
@@ -184,18 +175,18 @@ n="2r23"/>nya svasthā <g type="ddandaHooked">.</g> paṅgāṅan· riṁ pasukk
                           <app loc="2r11"><lem>saṁkākan·</lem> <rdg source="bib:Sarkar1971-1972_01">saṁ tākan</rdg></app>
                           <app loc="2r12"><lem>kaḍavuḥ</lem><rdg source="bib:Sarkar1971-1972_01">kaḍavuh </rdg> <note>Probably a typographical error in Stutterheim</note></app>
                           <app loc="2r12"><lem>rā,nya</lem><rdg source="bib:Sarkar1971-1972_01">rāḥnya</rdg></app
-                          ><app loc="2r13"><lem>kavuItanyu</lem><rdg source="bib:Sarkar1971-1972_01"> kavuItanyā</rdg></app>
-                          <app loc="2r15"><lem>pami_səṅəta</lem><rdg source="bib:Sarkar1971-1972_01"> paməsəṅəta</rdg></app>
+                          ><app loc="2r13"><lem>kavuItanyu</lem><rdg source="bib:Sarkar1971-1972_01">kavuItanyā</rdg></app>
+                          <app loc="2r15"><lem>pamisəṅəta</lem><rdg source="bib:Sarkar1971-1972_01">paməsəṅəta</rdg></app>
                           <app loc="2r16"><lem>kavuItan·</lem> <rdg source="bib:Sarkar1971-1972_01">vacu bratan·</rdg></app>
                           <app loc="2r16"><lem>kabuAttaknanya</lem><rdg source="bib:Sarkar1971-1972_01">kabuAtaknanya</rdg></app>                        
                           <app loc="2r17"><lem>vūṁ</lem> <rdg source="bib:Sarkar1971-1972_01">vuṁ</rdg></app>
                           <app loc="2r17"><lem>lvirnyu</lem><rdg source="bib:Sarkar1971-1972_01"> lvirnya</rdg></app>
-                          <app loc="2r17"><lem>patə:ṅgrəĀkna</lem><rdg source="bib:Sarkar1971-1972_01">patə:ṅgrəAkna S</rdg></app>
-                          <app loc="2r18"><lem>bākarakna</lem><rdg source="bib:Sarkar1971-1972_01"> pākarakna</rdg></app>
+                          <app loc="2r17"><lem>patə:ṅgrəĀkna</lem><rdg source="bib:Sarkar1971-1972_01">patə:ṅgrəAkna</rdg></app>
+                          <app loc="2r18"><lem>bākarakna</lem><rdg source="bib:Sarkar1971-1972_01">pākarakna</rdg></app>
                           <app loc="2r19"><lem>kamu<supplied reason="omitted">ṁ</supplied></lem><rdg source="bib:Sarkar1971-1972_01">kamuṁ</rdg></app>
                           <app loc="2r19"><lem>lvaḥ hana</lem><rdg source="bib:Sarkar1971-1972_01">lvaḥ ana</rdg></app>
                           <app loc="2r20"><lem>riṅ alas·</lem><rdg source="bib:Sarkar1971-1972_01">niṅ alas·</rdg></app>
-                          <app loc="2r21"><lem>vadvā</lem><rdg source="bib:Sarkar1971-1972_01">vadva </rdg></app>
+                          <app loc="2r21"><lem>vadvā</lem><rdg source="bib:Sarkar1971-1972_01">vadva</rdg></app>
                           <app loc="2r21"><lem>mapagəḥ</lem><rdg source="bib:Sarkar1971-1972_01">mapagəh</rdg></app>
                           <app loc="2r21"><lem>muAṁ</lem><rdg source="bib:Sarkar1971-1972_01">mvaṁ</rdg></app>
                           <app loc="2r22"><lem>tann aṅgā</lem><rdg source="bib:Sarkar1971-1972_01">tan aṅga</rdg></app>
@@ -206,6 +197,16 @@ n="2r23"/>nya svasthā <g type="ddandaHooked">.</g> paṅgāṅan· riṁ pasukk
                     <p>In this scribal hand, there is a consistent similarity between the pasangan forms for <foreign>yā</foreign> and <foreign>yu</foreign>, which went unaccounted for by Stutterheim. As a result, we often read <foreign>yu</foreign> where he read <foreign>yā</foreign>, e.g. we read 2nd person suffix <foreign>-nyu</foreign> where he read 3rd person <foreign>-nyā</foreign> (2r9, 2r10, 2r13, 2r17). The scribe sometimes adds ornamentation to the <foreign>virāma</foreign>, e.g. <foreign>I tpusan vinkas·</foreign> (1r24), <foreign>vidu si majaṅut·</foreign> (1r25).</p>
 
                     <p>This inscription provides the four examples of the otherwise unattested phrase <foreign>yānaṅvaṁ</foreign>. From the contexts of its occurence, it must mean the same as <foreign>yapuAn· hana vvaṁ</foreign> ("if there is a person"). OJED offers the hypothesis that <foreign>yāna</foreign> is an abbreviation of <foreign>yan ana</foreign>. We tentatively follow this reasoning by marking the whole phrase as an abbreviation, without taking a firm stance on exactly how the abbreviation is formed. We note that when the word <foreign>vvaṁ</foreign> is preceded by the definite article <foreign>ṅ</foreign>, it is spelled <foreign>vaṁ</foreign>. In order to clearly distinguish this from the 1st person pronoun <foreign>ṅvaṅ</foreign>, we mark up <foreign>vaṁ</foreign> as a non-standard spelling. Our treatment of <foreign>vaṁ</foreign> raises an alternative option for <foreign>yānaṅvaṁ</foreign>, which is to mark it up as <abbr>yānaṅ</abbr><choice><orig>vaṁ</orig><reg>vvaṁ</reg></choice>, which we avoid in favour of the simpler first option.</p>
+
+                    <p n="1r7"><foreign>I<choice><orig>ṇ</orig><reg>n</reg></choice>anugrahākann</foreign>: The <foreign>ṇa</foreign> is possibly an attempt to correct a botched <foreign>nā</foreign>.</p>
+
+                    <p n="1r10–1r11">Inaṁs<choice><sic>ā</sic><corr>ə:</corr></choice>Simple omission of the <foreign>pepet</foreign> sign.</p>
+
+                    <p n="1r22"><foreign>dhidhi</foreign>: Possibly an error for <foreign>vidhi</foreign>. Cf. Mantyasih III (2r13): <foreign>si kudha ramani ḍivi</foreign>.</p>
+
+                    <p n="1r23"><foreign>hampran·</foreign>: Stutterheim gives the alternative <foreign>hampūn</foreign>, but the Hampran inscription published after Stutterheim’s edition confirms <foreign>hampran</foreign>. The descender represents <foreign>ra</foreign>, not <foreign>u</foreign> (cf. <foreign>patraṅan</foreign> in 1v15). Cf. Mantyasih III (2r14): <foreign>I hampran· kalima si Ina</foreign>.</p>
+
+                    <p n="1r23"><foreign>dharmma</foreign>: Cf. Mantyasih III (2v2) <foreign>dharmī</foreign>.</p>
 
 
                  <!-- <p>Comments by Stutterheim (p. 174) on the reasons for multiple copies of Mantyasih: “Uit een en ander kan dus reeds blijken, dat dezelfde oorkonde, behalve op de oorkondesteen, ook nog op meerdere bronzen of koperen platen is gegraveerd geweest en niet slechts op één archiefstuk. Of misschien zelfs op steen, brons en papier (lontar); hiervoor zou pleiten het in een oorkonde van Tulodong voorkomende „Surat praçasti çâsana" (Krom, Gesch. 189). Praçasti is hier goed gebruikt voor prāçasti en beteekent lofdicht op steen, çâsana is een schenking op een tâmrapaṭṭa; op koper dus. Men vraagt zich af, voor wie deze afzonderlijke copieën wel bestemd zullen geweest zijn; een antwoord is op deze vraag met eenige waarschijnlijkheid wel te geven. De in dergelijke oorkonden behandelde zaken zijn meestal vrome of andere stichtingen, grondschenkingen. Deze gronden werden, zooals uit verschillende oorkonden blijken kan, van de desa-gemeenschap gekocht of op andere wijze verkregen, zoodat in ieder geval mag worden aangenomen, dat, behalve de vorst, die de schenking deed, en de begiftigde, nog meerderen partij waren. Hierbij is, indien de uiterste zuinigheid met het afschrijven werd betracht, reeds een drietal exemplaren noodig: één voor den begiftigde (op steen), als document, één als archiefstuk voor den vorst en één voor dengene, wien de grond oorspronkelijk had toebehoord. Een drietal exemplaren behoeft ons dus nog niet te verwonderen en aan latere copieën doen denken.”</p> -->
