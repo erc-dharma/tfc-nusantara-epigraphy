@@ -85,8 +85,7 @@
    <text xml:space="preserve">
            <body> 
 
-<div type="edition">
-<div type="textpart">
+<div type="edition"  xml:lang="kaw-Latn">
 <p>
 <pb n="1r"/>
 <lb n="1r1"/><g type="ddandaHooked">.</g>tha<g type="ddandaHooked">.</g> svasti śaka-varṣātīta <num value="829">829</num> caitra-māsa, tithi Ekādaśĭ kr̥ṣṇa-pakṣa, <abbr>tu</abbr>, <abbr>U</abbr>, <abbr>śa</abbr>, vāra, pūrvvabhadravāda-nakṣatra, Ajapāda-devatā, Indra-yoga, tatkāla Ājña śrī mahārāja <abbr>rakai</abbr> vatu kura dyaḥ balituṁ śrī dha<lb break="no" 
@@ -140,7 +139,6 @@ n="2r22"/>siḥ sīma kapatihana, yāpuAn· hana Umulah-ula<supplied reason="omi
 n="2r23"/>nya svasthā <g type="ddandaHooked">.</g> paṅgāṅan· riṁ pasukkan· I rakryān· mavanva pirak· <abbr>kā</abbr> <num value="1">1</num> Ivak· riṅ pannay· tujuṁ hijo bakul· pajuru pirak· <abbr>dhā</abbr> <num value="4">4</num> <g type="ddandaHooked">.</g> likhita citrālekha I valaiṁ punta tarka <g type="ddandaHooked">.</g>tha<g type="ddandaHooked">.</g></p>   
 <pb n="2v"/><!--blank verso side-->
                       </div>
-                   </div>
                        <div type="apparatus">
 <app loc="1r2"><lem>pka</lem><rdg source="bib:Sarkar1971-1972_01">vka</rdg></app>
 <app loc="1r4"><lem>dikhī</lem><rdg source="bib:Sarkar1971-1972_01">ḍiṇī</rdg><note>That the <foreign>kha</foreign> akṣara is shaped thus is confirmed by its use in the phrase <foreign>sukha-duḥkha</foreign> (1v9). Cf. Mantyasih III (2v6) <foreign>pu kolā ramani dikhi</foreign>.</note></app>
