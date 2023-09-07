@@ -91,8 +91,7 @@
    <text xml:space="preserve">
            <body> 
 
-<div type="edition">
-<div type="textpart">
+<div type="edition" xml:lang="kaw-Latn">
 <p>
 <pb n="1r"/>
 <lb n="1r1"/><g type="ddandaHooked">.</g>tha<g type="ddandaHooked">.</g> svasti śaka-varṣātīta <num value="829">829</num> caitra-māsa, tithi Ekādaśĭ kr̥ṣṇa-pakṣa, <abbr>tu</abbr>, <abbr>U</abbr>, <abbr>śa</abbr>, vāra, pūrvvabhadravāda-nakṣatra, Ajapāda-devatā, Indra-yoga, tatkāla Ājña śrī mahārāja <abbr>rakai</abbr> vatu kura dyaḥ balituṁ śrī dha<lb break="no" n="1r2"/>rmmodaya mahāśambhu, Umiṁsor· I rakarayān· mapatiḥ I hino, halu, si<space type="descender"/>rikan·, <choice><sic>pka</sic><corr>vka</corr></choice>, halaran·, tiruAn·, palar hyaṁ, maṁhūri, vadihati, makudu<space type="descender"/>r·, kumonakann ikanaṁ vanuA I mantyāsiḥ viniḥni savaḥnya satū, muAṁ A<lb break="no" n="1r3"/>lasnya I muṇḍuAn·, I kayu pañjaṁ, muAṁ pomahan· Iṁ kuniṁ vanuA kagunturan· pasavahanya ri vunut· kvaiḥni viniḥnya satū hamat· <num value="18">18</num> hop· savaḥ kanayakān·, muAṁ Alasnya I su<space type="descender"/>suṇḍara, I vukir· sumviṁ·, kapuA va<lb break="no" n="1r4"/>tak· patapān·, sinusuk· sīmā kapatihana, paknānya pagantya-gantyana<space type="descender"/>nikanaṁ patiḥ mantyāsiḥ sānak· lavasanya <num value="3">tluṁ</num> tahun· sovaṁ, kvaiḥnikanaṁ patiḥ sapuṇḍuḥ pu <choice><orig><supplied reason="omitted">kr̥</supplied>sna</orig><reg>kr̥ṣṇa</reg></choice> rama<space type="descender"/>ni Ananta,  pu kolā ramani dikhī, pu puñjəṁ
@@ -116,10 +115,9 @@
 <lb n="2r21"/>pinadu<space type="descender"/>luran· vadvā rakryān· sinusu<space type="descender"/>kniṁ kudur· <g type="ddandaHooked">.</g> I sampunyan· maṅkana Umuvaḥ ya I ronya, nahan· cihnanyan· mapagəḥ Ikanaṁ vanuA I mantyāsiḥ muAṁ Iṁ kuniṁ kagunturan· Inanugrāhākan· rikanaṁ patiḥ mantyā<lb break="no" n="2r22"/>siḥ sīma kapatihana, yāpuAn· hana Umulah-ula<supplied reason="omitted">ḥ</supplied> ya dlāhaniṁ dlāha, muAṁ ya tann aṅgā Ikanaṁ patiḥ magantya-gantya sānak· pañca-mahā-pāta<space type="descender"/>ka paṅguhanya, mataṅ ya kayatnāknantā soninikaiṁ praśāsti yathā<lb break="no" n="2r23"/>nya svasthā <g type="ddandaHooked">.</g> paṅgāṅan· riṁ pasukkan· I rakryān· mavanva pirak· <abbr>kā</abbr> <num value="1">1</num> Ivak· riṅ pannay· tujuṁ hijo bakul· pajuru pirak· <abbr>dhā</abbr> <num value="4">4</num> <g type="ddandaHooked">.</g> likhita citrālekha I valaiṁ punta tarka <g type="ddandaHooked">.</g>tha<g type="ddandaHooked">.</g></p>   
 <pb n="2v"/><!--blank verso side-->
                       </div>
-                   </div>
                        <div type="apparatus">
 <app loc="1r2"><lem>pka</lem><rdg source="bib:Sarkar1971-1972_01">vka</rdg></app>
-<app loc="1r4"><lem>dikhī</lem><rdg source="bib:Sarkar1971-1972_01">ḍiṇī</rdg><note>That the <foreign>kha</foreign> akṣara is shaped thus is confirmed by its use in the phrase <foreign>sukha-duḥkha</foreign> (1v9). Cf. Mantyasih III (2v6) <foreign>pu kolā ramani dikhi</foreign>.</note></app>
+<app loc="1r4"><lem>dikhī</lem><rdg source="bib:Sarkar1971-1972_01">ḍiṇī</rdg><note>That the <foreign>kha akṣara</foreign> is shaped thus is confirmed by its use in the phrase <foreign>sukha-duḥkha</foreign> (1v9). Cf. Mantyasih III (2v6) <foreign>pu kolā ramani dikhi</foreign>.</note></app>
 <app loc="1r4"><lem>kr̥sna</lem><rdg source="bib:Sarkar1971-1972_01">sna</rdg><note>Cf. Mantyasih III (2v6): <foreign>saṁ kr̥ṣṇa ramanī Ananta</foreign>.</note></app>
                           <app loc="1r5"><lem>samvandhanyan·</lem> <rdg source="bib:Sarkar1971-1972_01">sambandanyan·</rdg></app>
                           <app loc="1r7"><lem>vanuA</lem><rdg source="bib:Sarkar1971-1972_01">vanva</rdg></app>
