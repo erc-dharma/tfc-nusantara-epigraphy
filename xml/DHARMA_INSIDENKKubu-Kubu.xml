@@ -77,6 +77,7 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
+         <change who="part:wjsa" when="2023-09-07">Correcting xml errors only</change>
          <change who="part:axja" when="2022-08-16">Transforming docx into xml</change>
       </revisionDesc>
    </teiHeader>
@@ -201,7 +202,7 @@
                             
                                 <app loc="3v3"><lem>hulu vvātan·</lem><rdg source="bib:Boechari1985-1986_01">hulu vvatan·</rdg></app>
                             
-                                <app loc="3v4"><lem>tasukhan·</lem><rdg source="bib:Boechari1985-1986_01">kasukhan·</rdg><rdg>Corr. kasukhan·?</rdg></app>
+                                <app loc="3v4"><lem>tasukhan·</lem><rdg source="bib:Boechari1985-1986_01">kasukhan·</rdg></app>
                             
                                 <app loc="3v5"><lem>I vr̥ṇnuṁ</lem><rdg source="bib:Boechari1985-1986_01">1 vr̥ṇnaṁ</rdg></app>
                             
@@ -275,7 +276,7 @@
                             
                                 <app loc="6v3"><lem>vvaṁ</lem><rdg source="bib:Boechari1985-1986_01">mvaṁ</rdg></app>
                             
-                                <app loc="6v4"><lem>saṁ yāma ya</lem><rdg source="bib:Boechari1985-1986_01">saṁ yāmā ya</rdg> <rdg>Corr. yama.</rdg></app>
+                                <app loc="6v4"><lem>saṁ yāma ya</lem><rdg source="bib:Boechari1985-1986_01">saṁ yāmā ya</rdg> </app>
                             
                                 <app loc="7r1"><lem>paṅanən</lem><rdg source="bib:Boechari1985-1986_01">pananən</rdg></app>
                             
@@ -287,13 +288,11 @@
                             
                        </div>
              <div type="commentary">
-               <div>
-                    <head>Script</head>
+               
                     <p>Not only its other physical features, but also its script makes this inscription directly comparable to the Balinese manuscript tradition. These features include the use of combined ulu and suku for akṣara cancellation (vu{ui nt}niṁ, 3r1), the use of a grapheme that is ancestral to the modern Balinese ulu ricem (this is also in Sugih Manek and unpublished amantra foils), and the slant shape of basic punctuation sign. These features are found either very rarely or not at all in contemporary inscriptions.</p>
                     <p>Two forms of the
                         pepet are used here, the usual one with a cross inside the ulu, and a variant with a diagonal stroke that is often rather hard to distinguish from the long . The string paṅanən i pəsut· illustrates this difference, with the cross pepet used in the first instance of ə and the diagonal pepet in the second.</p>
                     <p>This inscription furnishes the earliest known example in Old Javanese epigraphy of the use of superscript r marker combined with an independent vowel sign (described in the DHARMA Transliteration Guide §3.3.8). It is found in parujar= I halu (5v4) and parujar= I halaran· (6r1).</p>
-                </div>
              </div>
                <div type="bibliography">
                  <p>The inscription is apparently mentioned for the first time by Stutterheim in INI, where he simply lists it in a sequence of Balitung inscriptions with the designation “onbekend (Malang)” noting that it is “onuitgegeven” (1940: 13).</p>
