@@ -77,7 +77,7 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
-       <change who="part:wjsa" when="2023-09-20">Updating format of the edition</change>
+       <change who="part:wjsa" when="2023-09-20">Updating format of the edition and apparatus</change>
          <change who="part:wjsa" when="2023-09-07">Correcting xml errors only</change>
          <change who="part:axja" when="2022-08-16">Transforming docx into xml</change>
       </revisionDesc>
@@ -98,20 +98,20 @@ n="1v4"/>mpil· talaṁ <num value="2">rvaṁ</num> tapak· I samuḍuṁ tka ri
          <p part="F">
          <pb n="3r"/>
 <lb n="3r1"/><abbr>mā</abbr> <num value="2">2</num>, juru banva Iṁ pa<choice><sic>t</sic><corr>k</corr></choice>araṇan·, ḍapu śravaṇa, vineḥ vḍihan· <num value="1">1</num> <abbr>mā</abbr> <unclear>1,</unclear> vu<del rend="ui">nt</del>niṁ turus· vineḥ patiḥ saṁ kalyăṇī, saṁ jīvaṇī saṁ dumpil·
-<lb n="3r2"/>dyaḥ L̥gək·, saṁ ḍuṅu, saṁ sumrak·, saṁ vindaḥ, saṁ piṅul·, saṁ saṁkyā, saṁ <space type="binding-hole"/>manuk· kapva vinaiḥ vḍihan· <num value="1">1</num> <abbr>mā</abbr> <num value="2">2</num>, I savvaṁ, parujar patiḥ, saṁ kulā vi<lb break="no" 
+<lb n="3r2"/>dyaḥ L̥gīt·, saṁ ḍuṅu, saṁ sumrak·, saṁ vindaḥ, saṁ piṅul·, saṁ saṁkyā, saṁ <space type="binding-hole"/>manuk· kapva vinaiḥ vḍihan· <num value="1">1</num> <abbr>mā</abbr> <num value="2">2</num>, I savvaṁ, parujar patiḥ, saṁ kulā vi<lb break="no" 
 n="3r3"/>naiḥ vḍihan· <num value="1">1</num> <abbr>ku</abbr> <num value="2">2</num>, parujar· maṁhambin·, saṁ dharmma vineḥ vḍihan· <space type="binding-hole"/><num value="1">1</num> <abbr>ku</abbr> <num value="2">2</num>, parujar kahyunan· saṁ bukīt· vineḥ vḍihan· <num value="1">1</num> <abbr>ku</abbr> <num value="2">2</num>, juru ka<lb break="no"
 n="3r4"/>laṁ, saṁ javaṁ vineḥ vḍihan· <num value="1">1</num> <abbr>ku</abbr> <num value="2">2</num>, Ugal-ugal· saṅ uṅkur· vi<space type="binding-hole"/>naiḥ vḍihan· <num value="1">1</num> <abbr>ku</abbr> <num value="2">2</num>, juruni majajahan· muñcu, saṁ susup·, pajukilan·
 <lb n="3r5"/>saṅ ambān·, mapintu, saṁ bvalu, mvaṁ saṁ <unclear>k</unclear>ahir kapva vinaiḥ vḍihan· rāma tpi siriṁ, pinakasăkṣī, vinkas· I batvan· saṁ jarā, vineḥ vḍihan· <num value="1">1</num> <abbr>ku</abbr> <num value="2">2</num>,
 <pb n="3v"/>
 <lb n="3v1"/>pañjurvan· I brasahan·, saṁ gaḍaṅan·, vineḥ vḍihan· <num value="1">1</num> <abbr>ku</abbr> <num value="2">2</num>, vinkas· saṁ kuḍaṁ vinaiḥ vḍihan· <num value="1">1</num> <abbr>ku</abbr> <num value="2">2</num>, tuha banva saṁ visat· vineḥ vḍihan· <num value="1">1</num>,
-<lb n="3v2"/> gusti saṁ sahan· vineḥ vḍihan· <num value="1">1</num>, vinkas· I kubu-kubu, saṁ buduṅuḥ <space type="binding-hole"/>vinaiḥ vḍihan· <num value="1">1</num> <abbr>ku</abbr> <num value="2">2</num>, rāma matuha ḍapu tapīəl· vineḥ vḍihan· <num value="1">1</num> <abbr>ku</abbr> <num value="2">2</num>
-<lb n="3v3"/> hulu vvātan· I tal-tal· ḍapu mantunī, vineḥ vḍihan· <num value="1">1</num> <abbr>ku</abbr> <num value="2">2</num>, <space type="binding-hole"/>vinkas· Iy uṅgaḥ śrī, saṁ śuddhini, vineḥ vḍihan· <num value="1">1</num> <abbr>ku</abbr> <num value="2">2</num>, ḍapu pagəḥ
+<lb n="3v2"/> gusti saṁ sahan· vineḥ vḍihan· <num value="1">1</num>, vinkas· I kubu-kubu, saṁ buduṅuḥ <space type="binding-hole"/>vinaiḥ vḍihan· <num value="1">1</num> <abbr>ku</abbr> <num value="2">2</num>, rāma matuha ḍapu tapīl· vineḥ vḍihan· <num value="1">1</num> <abbr>ku</abbr> <num value="2">2</num>
+<lb n="3v3"/> hulu vv<unclear>ā</unclear>tan· I tal-tal· ḍapu mantunī, vineḥ vḍihan· <num value="1">1</num> <abbr>ku</abbr> <num value="2">2</num>, <space type="binding-hole"/>vinkas· Iy uṅgaḥ śrī, saṁ śuddhini, vineḥ vḍihan· <num value="1">1</num> <abbr>ku</abbr> <num value="2">2</num>, ḍapu pagəḥ
 <lb n="3v4"/> rāma matuha I kasukhan· vineḥ vḍihan· <num value="1">1</num> <abbr>ku</abbr> <num value="2">2</num>, ḍapu Atyanta <space type="binding-hole"/>rāma matuha I pañjara, mvaṁ saṁ timbun· vineḥ vḍihan· <num value="1">1</num> <abbr>ku</abbr> <num value="2">2</num>, mūla<fw n="3v" place="right" rend="bt-rotated"><num value="3">3</num></fw>
 <lb n="3v5"/> I buñjal· ḍapu vuśī, vineḥ vḍihan· <num value="1">1</num>, kulapati I vr̥ṇnuṁ saṁ ḍaṇḍaka vineḥ vḍihan· <num value="1">1</num>, rāma I katuha-burvan· man· gandhini, vineḥ vḍiha<pb n="4r"/><lb break="no" 
 n="4r1"/>n· <num value="1">1</num> <abbr>ku</abbr> <num value="2">2</num>, <abbr>tuhalas·</abbr> I skār paṇḍan· si R̥ṅu vineḥ vḍihan· <num value="1">1</num>, pinalakvan paR̥pat· rāma Iy uṅgaḥ śrī, mvaṁ I katnahan· vinaiḥ vḍihan·
 <lb n="4r2"/><num value="1">1</num> <abbr>ku</abbr> <num value="2">2</num>, madaṁ rāma I kubu-kubu saṁ tapīl· vinaiḥ ku 2, maṅla <space type="binding-hole"/>saṁ butvan· mvaṁ saṁ bhyāsa saṅka ri batvan· vineḥ <abbr>mā</abbr> <num value="1">1</num>, pinintan· kambaṅ mvaṁ
 <lb n="4r3"/>paravantan·, kulapati Iṅ air gaṅgā Ibuni tr̥b· vinaiḥ <abbr>mā</abbr> <space type="binding-hole"/>1, tuha paḍahi I himad· si bala vineḥ vḍihan· <num value="1">1</num> <abbr>mā</abbr> <num value="2">2</num>, manana<lb break="no" 
-n="4r4"/>m śīma saṁ śāntī, mvaṁ ḍapu pagiḥ, vineḥ vḍihan· paṅaliḥ sa<space type="binding-hole"/>dugala sovaṁ <abbr>mā</abbr> <num value="2">2</num>, gəṁny āmbak· rakryăn hujuṁ mvaṁ R̥ke maja
+n="4r4"/>m śīma saṁ śāntī, mvaṁ ḍapu pagiḥ, vineḥ vḍihan· paṅaliḥ sa<space type="binding-hole"/>dugala sovaṁ <abbr>mā</abbr> <num value="2">2</num>, gəṁny āmbak· rakryăn hujuṁ mvaṁ <abbr>R̥ke</abbr> maja
 <lb n="4r5"/>vuntin·, An dinulur sira maṅdona mare bantan·, de saṁ mapatiḥ, Alaḥ pvaikaṁ bantan· denira, nāhan mataṁnyār panaḍahakənya
 <pb n="4v"/>
 <lb n="4v1"/>Anugraha I śrī mahārāja, I vnaṅanya mapadagaṁ, ṅuniveḥ tan· knanikaṁ śīma Iṁ pinta-pintan·, vulu-vulu, miśra, parāmiśra, tapa haji,
@@ -147,118 +147,57 @@ n="7r2"/>viran·, həL̥niṁ vuhaya, dudutnən saṁ hyaṁ dalamm er·, mare�
             </div>
                        <div type="apparatus">
                         <app loc="1v3"><lem>maṅivyə:</lem><rdg source="bib:Boechari1985-1986_01">maṅivhī</rdg></app>
-                            
-                                <app loc="1v4"><lem>sālap·or lemma sālap·knakna</lem><rdg source="bib:Boechari1985-1986_01">pālap· kna</rdg></app>
-                            
+                                <app loc="1v4"><lem>sālap·kna</lem><rdg source="bib:Boechari1985-1986_01">pālap·kna</rdg></app>
                                 <app loc="1v5"><lem>hyaṁ</lem><rdg source="bib:Boechari1985-1986_01">dyaṁ</rdg></app>
-                            
-                                <app loc="3r1"><lem source="bib:Boechari1985-1986_01">pataraṇan·</lem><note>cf. 1v3.</note></app>
-                            
                                 <app loc="3r1"><lem>śr̥vaṇa</lem><rdg source="bib:Boechari1985-1986_01">śravaṇa</rdg></app>
-                            
                                 <app loc="3r1"><lem>vu<del rend="ui">nt</del>niṁ</lem><rdg source="bib:Boechari1985-1986_01">vuntīniṁ</rdg></app>
-                            
                                 <app loc="3r1"><lem>jīvaṇī</lem><rdg source="bib:Boechari1985-1986_01">jīvanī</rdg></app>
-                            
-                                <app loc="3r2"><lem>L̥gək·</lem><rdg source="bib:Boechari1985-1986_01">ləgit·</rdg></app>
-                            
+                                <app loc="3r2"><lem>L̥gīt·</lem><rdg source="bib:Boechari1985-1986_01">ləgit·</rdg></app>
                                 <app loc="3r2"><lem>ḍuṅu</lem><rdg source="bib:Boechari1985-1986_01">duṅu</rdg></app>
-                            
                                 <app loc="3r2"><lem>kulā</lem><rdg source="bib:Boechari1985-1986_01">kula</rdg></app>
-                            
                                 <app loc="3r4"><lem>saṁ japaṁ</lem><rdg source="bib:Boechari1985-1986_01">saṁ javaṁ</rdg></app>
-                            
                                 <app loc="3r5"><lem>pinakasăkṣī</lem><rdg source="bib:Boechari1985-1986_01">pinakasākṣī</rdg></app>
-                            
                                 <app loc="3v2"><lem>tapīl·</lem><rdg source="bib:Boechari1985-1986_01">tapəl·</rdg></app>
-                            
-                                <app loc="3v2"><lem>ḍapu pagəḥ</lem><rdg source="bib:Boechari1985-1986_01">dapu pagəḥ</rdg> <note>The dental d is probably a misprint in Boe.</note></app>
-                            
-                                <app loc="3v3"><lem>hulu vvātan·</lem><rdg source="bib:Boechari1985-1986_01">hulu vvatan·</rdg></app>
-                            
-                                <app loc="3v4"><lem>tasukhan·</lem><rdg source="bib:Boechari1985-1986_01">kasukhan·</rdg></app>
-                            
-                                <app loc="3v5"><lem>I vr̥ṇnuṁ</lem><rdg source="bib:Boechari1985-1986_01">1 vr̥ṇnaṁ</rdg></app>
-                            
+                                <app loc="3v2"><lem>ḍapu pagəḥ</lem><rdg source="bib:Boechari1985-1986_01">dapu pagəḥ</rdg> <note>The dental <foreign>d</foreign> is probably a misprint in Boechari.</note></app>
+                                <app loc="3v3"><lem>hulu vv<unclear>ā</unclear>tan·</lem><rdg source="bib:Boechari1985-1986_01">hulu vvatan·</rdg></app>
+                                <app loc="3v5"><lem>I vr̥ṇnaṁ</lem><rdg source="bib:Boechari1985-1986_01">1 vr̥ṇnaṁ</rdg></app>
                                 <app loc="4r2"><lem>tapīl· vīneḥ</lem><rdg source="bib:Boechari1985-1986_01">tapəl· vineḥ</rdg></app>
-                            
-                                <app loc="4r2"><lem>batvan· vineḥ mā 1</lem><rdg source="bib:Boechari1985-1986_01">batvan· vineḥ mā mā 1</rdg></app>
-                            
+                                <app loc="4r2"><lem>batvan· vineḥ mā 1</lem><rdg source="bib:Boechari1985-1986_01">batvan· vineḥ mā mā 1</rdg><note>The repetition of <foreign>mā</foreign> is probably a misprint in Boechari.</note></app>
                                 <app loc="4r3"><lem>air gaṅgā</lem><rdg source="bib:Boechari1985-1986_01">air gaṅga</rdg></app>
-                            
                                 <app loc="4r3"><lem>tr̥b· vinaiḥ</lem><rdg source="bib:Boechari1985-1986_01">tr̥b· minaiḥ</rdg> <note>Almost certainly a misprint in Boechari.</note></app>
-                            
                                 <app loc="4r4"><lem>śāntī</lem><rdg source="bib:Boechari1985-1986_01">śānti</rdg></app>
-                            
                                 <app loc="4r4"><lem>R̥ke</lem><rdg source="bib:Boechari1985-1986_01">rəka</rdg></app>
-                            
                                 <app loc="4r5"><lem>dinulur sira</lem><rdg source="bib:Boechari1985-1986_01">dinulu sira</rdg></app>
-                            
                                 <app loc="4r5"><lem>maṅdona</lem><rdg source="bib:Boechari1985-1986_01">maṅdorna</rdg> <note>Probably a misprint in Boechari.</note></app>
-                            
                                 <app loc="4r5"><lem>pvaikaṁ</lem><rdg source="bib:Boechari1985-1986_01">pva Ikaṁ</rdg></app>
-                            
                                 <app loc="4r5"><lem>mataṁnyār panaḍahakənya</lem><rdg source="bib:Boechari1985-1986_01">mataṁnya Arpanaḍahakənya</rdg></app>
-                            
                                 <app loc="4v3"><lem>gandār·</lem><rdg source="bib:Boechari1985-1986_01">gandar·</rdg></app>
-                            
                                 <app loc="4v4"><lem>krāṅan·</lem><rdg source="bib:Boechari1985-1986_01">krānan</rdg></app>
-                            
                                 <app loc="4v4"><lem>taṇḍas·</lem><rdg source="bib:Boechari1985-1986_01">tandas·</rdg></app>
-                            
                                 <app loc="4v5"><lem>śĭma</lem><rdg source="bib:Boechari1985-1986_01">śīma</rdg></app>
-                            
-                                <app loc="5r1"><lem source="bib:Boechari1985-1986_01">celaṁ</lem></app>
-                            
-                                <app loc="5r1"><lem>Aṅuñjal·</lem><rdg source="bib:Boechari1985-1986_01">Aṅuñja</rdg></app>
-                            
-                                <app loc="5r4"><lem source="bib:Boechari1985-1986_01">pu ḍa hyaṁ</lem></app>
-                            
-                                <app loc="5r4"><lem>parabyāpara</lem><rdg source="bib:Boechari1985-1986_01">parabyāpāra</rdg></app>
-                            
-                                <app loc="5v1"><lem source="bib:Boechari1985-1986_01">dakśa</lem></app>
-                            
-                                <app loc="5v1-2"><lem>śivastu</lem><rdg source="bib:Boechari1985-1986_01">savastu</rdg></app>
-                            
-                                <app loc="5v3"><lem>manəsər·</lem><rdg source="bib:Boechari1985-1986_01">manīsər·</rdg><note>one could also read manīsīr·</note></app>
-                            
+                          <app loc="5r1"><lem>Aṅuñjal·</lem><rdg source="bib:Boechari1985-1986_01">Aṅuñja</rdg></app>
+                           <app loc="5r4"><lem>parabyāpara</lem><rdg source="bib:Boechari1985-1986_01">parabyāpāra</rdg></app>
+                                <app loc="5v1"><lem>śivastu</lem><rdg source="bib:Boechari1985-1986_01">savastu</rdg></app>
+                                <app loc="5v3"><lem>manəsər·</lem><rdg source="bib:Boechari1985-1986_01">manīsər·</rdg><note>One could also read manīsīr·</note></app>
                                 <app loc="5v4"><lem>dharmmasinta</lem><rdg source="bib:Boechari1985-1986_01">dharmamatinta</rdg></app>
-                            
                                 <app loc="6r1"><lem>saṁdhi manuk·</lem><rdg source="bib:Boechari1985-1986_01">saṁ dhiṣanak</rdg></app>
-                            
-                                <app loc="6r2-3"><lem>linaṇḍəsakan·</lem><rdg source="bib:Boechari1985-1986_01">linandəsakan·</rdg></app>
-                            
+                                <app loc="6r2"><lem>linaṇḍəsakan·</lem><rdg source="bib:Boechari1985-1986_01">linandəsakan·</rdg></app>
                                 <app loc="6r3"><lem>kulumpaṁ</lem><rdg source="bib:Boechari1985-1986_01">kulumpaṅ·</rdg></app>
-                            
                                 <app loc="6r3"><lem>īndaḥ</lem><rdg source="bib:Boechari1985-1986_01">īndah·</rdg></app>
-                            
                                 <app loc="6r3"><lem>bayabya</lem><rdg source="bib:Boechari1985-1986_01">bayabaya</rdg></app>
-                            
-                                <app loc="6r4"><lem>ākaśa, riṁ</lem><rdg source="bib:Boechari1985-1986_01">Om.</rdg></app>
-                            
+                                <app loc="6r4"><lem>Athavā ākaśa, riṁ lmaḥ</lem><rdg source="bib:Boechari1985-1986_01">Athavā lmaḥ</rdg></app>
                                 <app loc="6r4"><lem>śūkṣma</lem><rdg source="bib:Boechari1985-1986_01">śukṣma</rdg></app>
-                            
                                 <app loc="6v1"><lem>ApaR̥̄</lem><rdg source="bib:Boechari1985-1986_01">ApaR̥</rdg></app>
-                            
                                 <app loc="6v1"><lem>Umulah-ulaḥ</lem><rdg source="bib:Boechari1985-1986_01">Umulaḥ-ulaḥ</rdg></app>
-                            
                                 <app loc="6v1"><lem>vadvā</lem><rdg source="bib:Boechari1985-1986_01">madvā</rdg></app>
-                            
                                 <app loc="6v3"><lem>lāvan·</lem><rdg source="bib:Boechari1985-1986_01">luvan·</rdg></app>
-                            
                                 <app loc="6v3"><lem>reṇanya</lem><rdg source="bib:Boechari1985-1986_01">renanya</rdg></app>
-                            
                                 <app loc="6v3"><lem>vvaṁ</lem><rdg source="bib:Boechari1985-1986_01">mvaṁ</rdg></app>
-                            
                                 <app loc="6v4"><lem>saṁ yāma ya</lem><rdg source="bib:Boechari1985-1986_01">saṁ yāmā ya</rdg> </app>
-                            
                                 <app loc="7r1"><lem>paṅanən</lem><rdg source="bib:Boechari1985-1986_01">pananən</rdg></app>
-                            
                                 <app loc="7r2"><lem>dalamm er·</lem><rdg source="bib:Boechari1985-1986_01">dalamm ər·</rdg></app>
-                            
                                 <app loc="7r2"><lem>pəsut·</lem><rdg source="bib:Boechari1985-1986_01">pəlut·</rdg></app>
-                            
-                                <app loc="7r4"><lem>Umuṅgaḥ</lem><rdg source="bib:Boechari1985-1986_01">Umungaḥ</rdg></app>
+                                <app loc="7r4"><lem>Umuṅgaḥ</lem><rdg source="bib:Boechari1985-1986_01">Umungaḥ</rdg><note>Probably a misprint in Boechari.</note></app>
                             
                        </div>
              <div type="commentary">
