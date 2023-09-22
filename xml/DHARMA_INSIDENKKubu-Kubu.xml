@@ -34,7 +34,7 @@
                                             https://creativecommons.org/licenses/by/4.0/ or send a letter to
                                             Creative Commons, 444 Castro Street, Suite 900, Mountain View,
                                             California, 94041, USA.</p>
-                  <p>Copyright (c) 2019-2025 by Jarrah Sastrawan &amp; Arlo Griffiths.</p>
+                  <p>Copyright (c) 2019-2025 by Wayan Jarrah Sastrawan &amp; Arlo Griffiths.</p>
                </licence>
             </availability>
             <date from="2019" to="2025">2019-2025</date>
@@ -50,6 +50,9 @@
                </msContents>
                <physDesc>
                   <handDesc>
+                    <p>Not only its other physical features, but also its script makes this inscription directly comparable to the Balinese manuscript tradition. These features include the use of combined <foreign>ulu</foreign> and <foreign>suku</foreign> for <foreign>akṣara</foreign> cancellation, e.g. <foreign>vu[[nt]]niṁ</foreign> (3r1), the use of a grapheme that is ancestral to the modern Balinese <foreign>ulu ricem</foreign> (this is also in Sugih Manek and unpublished <foreign>amantra</foreign> foils), and the slant shape of basic punctuation sign. These features are found either very rarely or not at all in contemporary inscriptions.</p>
+                    <p>Two forms of the <foreign>pepet</foreign> are used here, the usual one with a cross inside the <foreign>ulu</foreign>, and a variant with a diagonal stroke that is often rather hard to distinguish from the <foreign>ī</foreign>. The string <foreign>paṅanən i pəsut·</foreign> illustrates this difference, with the cross <foreign>pepet</foreign> used in the first instance of <foreign></foreign>ə and the diagonal <foreign>pepet</foreign> in the second.</p>
+                    <p>This inscription furnishes the earliest known example in Old Javanese epigraphy of the use of superscript <foreign>r</foreign> marker combined with an independent vowel sign (described in the <title>DHARMA Transliteration Guide</title> §3.3.8). It is found in <foreign>parujar= I halu</foreign> (5v4) and <foreign>parujar= I halaran·</foreign> (6r1).</p>
                      <p/>
                   </handDesc>
                </physDesc>
@@ -77,6 +80,7 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
+      <change who="part:wjsa" when="2023-09-22">Cleaning up bibliography and handDesc</change>
        <change who="part:wjsa" when="2023-09-20">Updating format of the edition and apparatus</change>
          <change who="part:wjsa" when="2023-09-07">Correcting xml errors only</change>
          <change who="part:axja" when="2022-08-16">Transforming docx into xml</change>
@@ -88,8 +92,9 @@
             <pb n="1r"/>
             <p part="I">
             <pb n="1v"/>
-            <lb n="1v1"/><g type="ddandaCross">.</g><g type="circleConcentric">.</g><g type="ddandaCross">.</g> svasti saka-varṣatīta <num value="827">827</num> kărtika-māśa tithi <num value="1">pratipāda</num> kr̥ṣṇa-pakṣa, <abbr>ma</abbr>, <abbr>ka</abbr>, <abbr>vr̥</abbr>, vāra, variga, tatkāla ḍapunta mañjala, muAṁ saṁ maṁha<lb break="no"
-            n="1v2"/>mbin· saṁ diha, saṁ dhipa, ḍapu hyaṁ rupin·, sumusuk· Iki tgal· I <space type="binding-hole"/>kubu-kubu bhadrī śīma I rakryān· hujuṁ dyaḥ maṅarak·, mvaṁ rakryān· matu<fw n="1v" place="right" rend="bt-rotated"><num value="1">1</num></fw><lb break="no"
+            <fw n="1v" place="right" rend="bt-rotated"><num value="1">1</num></fw>
+            <lb n="1v1"/><g type="ddandaCross">.</g><g type="circleConcentric">.</g><g type="ddandaCross">.</g> svasti saka-varṣatīta <num value="827">827</num> kărtika-mā<choice><orig>ś</orig><reg>s</reg></choice>a tithi <num value="1">pratipāda</num> kr̥ṣṇa-pakṣa, <abbr>ma</abbr>, <abbr>ka</abbr>, <abbr>vr̥</abbr>, vāra, variga, tatkāla ḍapunta mañjala, muAṁ saṁ maṁha<lb break="no"
+            n="1v2"/>mbin· saṁ diha, saṁ dhipa, ḍapu hyaṁ rupin·, sumusuk· Iki tgal· I <space type="binding-hole"/>kubu-kubu bhadrī śīma I rakryān· hujuṁ dyaḥ maṅarak·, mvaṁ rakryān· matu<lb break="no"
 n="1v3"/>ha <abbr>R̥kai</abbr> maja vuntan· maṁjurva Iṁ pakaraṇăn· I himad· maṅivyə: ca<space type="binding-hole"/>ru Aṅkan· juluṁ, saṅkānani vvay·nya I saṅ apatiḥ I kahyunan·, mana<lb break="no"
 n="1v4"/>mpil· talaṁ <num value="2">rvaṁ</num> tapak· I samuḍuṁ tka ri kubu-kubu <num value="4">pataṁ</num> tapak·, ku<space type="binding-hole"/>naṁ sālap·kna ḍapunta mañjala, mvaṁ saṁ maṁhambin· saṁ diha, saṁ dhipa, ḍapu
 <lb n="1v5"/>hyaṁ rupin·<unclear>,</unclear> mvaṁ Ikanaṁ rāma I kubu-kubu sapasuk banva, vinkas· maṅaran· buduṅuḥ rāma kabayan· ḍapu tapəl·, An pinakahavāniṅ vai, ta</p>
@@ -98,35 +103,37 @@ n="1v4"/>mpil· talaṁ <num value="2">rvaṁ</num> tapak· I samuḍuṁ tka ri
          <p part="F">
          <pb n="3r"/>
 <lb n="3r1"/><abbr>mā</abbr> <num value="2">2</num>, juru banva Iṁ pa<choice><sic>t</sic><corr>k</corr></choice>araṇan·, ḍapu śravaṇa, vineḥ vḍihan· <num value="1">1</num> <abbr>mā</abbr> <unclear>1,</unclear> vu<del rend="ui">nt</del>niṁ turus· vineḥ patiḥ saṁ kalyăṇī, saṁ jīvaṇī saṁ dumpil·
-<lb n="3r2"/>dyaḥ L̥gīt·, saṁ ḍuṅu, saṁ sumrak·, saṁ vindaḥ, saṁ piṅul·, saṁ saṁkyā, saṁ <space type="binding-hole"/>manuk· kapva vinaiḥ vḍihan· <num value="1">1</num> <abbr>mā</abbr> <num value="2">2</num>, I savvaṁ, parujar patiḥ, saṁ kulā vi<lb break="no" 
+<lb n="3r2"/>dyaḥ L̥gīt·, saṁ ḍuṅu, saṁ sumrak·, saṁ vindaḥ, saṁ piṅul·, saṁ saṁkyā, saṁ <space type="binding-hole"/> manuk· kapva vinaiḥ vḍihan· <num value="1">1</num> <abbr>mā</abbr> <num value="2">2</num>, I savvaṁ, parujar patiḥ, saṁ kulā vi<lb break="no" 
 n="3r3"/>naiḥ vḍihan· <num value="1">1</num> <abbr>ku</abbr> <num value="2">2</num>, parujar· maṁhambin·, saṁ dharmma vineḥ vḍihan· <space type="binding-hole"/><num value="1">1</num> <abbr>ku</abbr> <num value="2">2</num>, parujar kahyunan· saṁ bukīt· vineḥ vḍihan· <num value="1">1</num> <abbr>ku</abbr> <num value="2">2</num>, juru ka<lb break="no"
 n="3r4"/>laṁ, saṁ javaṁ vineḥ vḍihan· <num value="1">1</num> <abbr>ku</abbr> <num value="2">2</num>, Ugal-ugal· saṅ uṅkur· vi<space type="binding-hole"/>naiḥ vḍihan· <num value="1">1</num> <abbr>ku</abbr> <num value="2">2</num>, juruni majajahan· muñcu, saṁ susup·, pajukilan·
 <lb n="3r5"/>saṅ ambān·, mapintu, saṁ bvalu, mvaṁ saṁ <unclear>k</unclear>ahir kapva vinaiḥ vḍihan· rāma tpi siriṁ, pinakasăkṣī, vinkas· I batvan· saṁ jarā, vineḥ vḍihan· <num value="1">1</num> <abbr>ku</abbr> <num value="2">2</num>,
 <pb n="3v"/>
+<fw n="3v" place="right" rend="bt-rotated"><num value="3">3</num></fw>
 <lb n="3v1"/>pañjurvan· I brasahan·, saṁ gaḍaṅan·, vineḥ vḍihan· <num value="1">1</num> <abbr>ku</abbr> <num value="2">2</num>, vinkas· saṁ kuḍaṁ vinaiḥ vḍihan· <num value="1">1</num> <abbr>ku</abbr> <num value="2">2</num>, tuha banva saṁ visat· vineḥ vḍihan· <num value="1">1</num>,
-<lb n="3v2"/> gusti saṁ sahan· vineḥ vḍihan· <num value="1">1</num>, vinkas· I kubu-kubu, saṁ buduṅuḥ <space type="binding-hole"/>vinaiḥ vḍihan· <num value="1">1</num> <abbr>ku</abbr> <num value="2">2</num>, rāma matuha ḍapu tapīl· vineḥ vḍihan· <num value="1">1</num> <abbr>ku</abbr> <num value="2">2</num>
-<lb n="3v3"/> hulu vv<unclear>ā</unclear>tan· I tal-tal· ḍapu mantunī, vineḥ vḍihan· <num value="1">1</num> <abbr>ku</abbr> <num value="2">2</num>, <space type="binding-hole"/>vinkas· Iy uṅgaḥ śrī, saṁ śuddhini, vineḥ vḍihan· <num value="1">1</num> <abbr>ku</abbr> <num value="2">2</num>, ḍapu pagəḥ
-<lb n="3v4"/> rāma matuha I kasukhan· vineḥ vḍihan· <num value="1">1</num> <abbr>ku</abbr> <num value="2">2</num>, ḍapu Atyanta <space type="binding-hole"/>rāma matuha I pañjara, mvaṁ saṁ timbun· vineḥ vḍihan· <num value="1">1</num> <abbr>ku</abbr> <num value="2">2</num>, mūla<fw n="3v" place="right" rend="bt-rotated"><num value="3">3</num></fw>
+<lb n="3v2"/> gusti saṁ sahan· vineḥ vḍihan· <num value="1">1</num>, vinkas· I kubu-kubu, saṁ buduṅuḥ <space type="binding-hole"/> vinaiḥ vḍihan· <num value="1">1</num> <abbr>ku</abbr> <num value="2">2</num>, rāma matuha ḍapu tapīl· vineḥ vḍihan· <num value="1">1</num> <abbr>ku</abbr> <num value="2">2</num>
+<lb n="3v3"/> hulu vv<unclear>ā</unclear>tan· I tal-tal· ḍapu mantunī, vineḥ vḍihan· <num value="1">1</num> <abbr>ku</abbr> <num value="2">2</num>, <space type="binding-hole"/> vinkas· Iy uṅgaḥ śrī, saṁ śuddhini, vineḥ vḍihan· <num value="1">1</num> <abbr>ku</abbr> <num value="2">2</num>, ḍapu pagəḥ
+<lb n="3v4"/> rāma matuha I kasukhan· vineḥ vḍihan· <num value="1">1</num> <abbr>ku</abbr> <num value="2">2</num>, ḍapu Atyanta <space type="binding-hole"/> rāma matuha I pañjara, mvaṁ saṁ timbun· vineḥ vḍihan· <num value="1">1</num> <abbr>ku</abbr> <num value="2">2</num>, mūla
 <lb n="3v5"/> I buñjal· ḍapu vuśī, vineḥ vḍihan· <num value="1">1</num>, kulapati I vr̥ṇnuṁ saṁ ḍaṇḍaka vineḥ vḍihan· <num value="1">1</num>, rāma I katuha-burvan· man· gandhini, vineḥ vḍiha<pb n="4r"/><lb break="no" 
-n="4r1"/>n· <num value="1">1</num> <abbr>ku</abbr> <num value="2">2</num>, <abbr>tuhalas·</abbr> I skār paṇḍan· si R̥ṅu vineḥ vḍihan· <num value="1">1</num>, pinalakvan paR̥pat· rāma Iy uṅgaḥ śrī, mvaṁ I katnahan· vinaiḥ vḍihan·
-<lb n="4r2"/><num value="1">1</num> <abbr>ku</abbr> <num value="2">2</num>, madaṁ rāma I kubu-kubu saṁ tapīl· vinaiḥ ku 2, maṅla <space type="binding-hole"/>saṁ butvan· mvaṁ saṁ bhyāsa saṅka ri batvan· vineḥ <abbr>mā</abbr> <num value="1">1</num>, pinintan· kambaṅ mvaṁ
-<lb n="4r3"/>paravantan·, kulapati Iṅ air gaṅgā Ibuni tr̥b· vinaiḥ <abbr>mā</abbr> <space type="binding-hole"/>1, tuha paḍahi I himad· si bala vineḥ vḍihan· <num value="1">1</num> <abbr>mā</abbr> <num value="2">2</num>, manana<lb break="no" 
+n="4r1"/>n· <num value="1">1</num> <abbr>ku</abbr> <num value="2">2</num>, tuhălas· I skār paṇḍan· si R̥ṅu vineḥ vḍihan· <num value="1">1</num>, pinalakvan paR̥pat· rāma Iy uṅgaḥ śrī, mvaṁ I katnahan· vinaiḥ vḍihan·
+<lb n="4r2"/><num value="1">1</num> <abbr>ku</abbr> <num value="2">2</num>, madaṁ rāma I kubu-kubu saṁ tapīl· vinaiḥ ku 2, maṅla <space type="binding-hole"/> saṁ butvan· mvaṁ saṁ bhyāsa saṅka ri batvan· vineḥ <abbr>mā</abbr> <num value="1">1</num>, pinintan· kambaṅ mvaṁ
+<lb n="4r3"/>paravantan·, kulapati Iṅ air gaṅgā Ibuni tr̥b· vinaiḥ <abbr>mā</abbr> <space type="binding-hole"/> 1, tuha paḍahi I himad· si bala vineḥ vḍihan· <num value="1">1</num> <abbr>mā</abbr> <num value="2">2</num>, manana<lb break="no" 
 n="4r4"/>m śīma saṁ śāntī, mvaṁ ḍapu pagiḥ, vineḥ vḍihan· paṅaliḥ sa<space type="binding-hole"/>dugala sovaṁ <abbr>mā</abbr> <num value="2">2</num>, gəṁny āmbak· rakryăn hujuṁ mvaṁ <abbr>R̥ke</abbr> maja
 <lb n="4r5"/>vuntin·, An dinulur sira maṅdona mare bantan·, de saṁ mapatiḥ, Alaḥ pvaikaṁ bantan· denira, nāhan mataṁnyār panaḍahakənya
 <pb n="4v"/>
+<fw n="4v" place="right" rend="tb-rotated"><num value="4">4</num></fw>
 <lb n="4v1"/>Anugraha I śrī mahārāja, I vnaṅanya mapadagaṁ, ṅuniveḥ tan· knanikaṁ śīma Iṁ pinta-pintan·, vulu-vulu, miśra, parāmiśra, tapa haji,
-<lb n="4v2"/>Air haji, paṅuraṁ, kriṁ, salyut·, tr̥pan·, L̥bəL̥b·, maṁ<space type="binding-hole"/>huri, paḍam·, Amrati, malanda<unclear>ṁ</unclear>, L̥ca, makalaṁkaṁ, manimpiki,<fw n="1v" place="right" rend="tb-rotated"><num value="4">4</num></fw>
-<lb n="4v3"/>vatu tajam·, halu varak·, limus galuḥ, paṅaruhan·, <space type="binding-hole"/>Aṅin-aṅin·, kukap· gandār·, sambal·, sumbul· pinila<lb break="no"
-n="4v4"/>y·, kataṅgaran·, ludan·, tutan·, tuṇḍan·, ko<space type="binding-hole"/>ṅan·, pakutakan·, krāṅan·, saṇḍaṅan·, <space type="binding-hole"/>taṇḍasniṅ mās·,
+<lb n="4v2"/>Air haji, paṅuraṁ, kriṁ, salyut·, tr̥pan·, L̥bəL̥b·, maṁ<space type="binding-hole"/>huri, paḍam·, Amrati, malanda<unclear>ṁ</unclear>, L̥ca, makalaṁkaṁ, manimpiki,
+<lb n="4v3"/>vatu tajam·, halu varak·, limus galuḥ, paṅaruhan·, <space type="binding-hole"/> Aṅin-aṅin·, kukap· gandār·, sambal·, sumbul· pinila<lb break="no"
+n="4v4"/>y·, kataṅgaran·, ludan·, tutan·, tuṇḍan·, ko<space type="binding-hole"/>ṅan·, pakutakan·, krāṅan·, saṇḍaṅan·, <space type="descender"/>taṇḍasniṅ mās·,
 <lb n="4v5"/>təpuṁ kavuṁ limbak kavaḥ, Ityaivammădi prakāra salvir·niṁ vulu-vulu magəṁ madmit·, ya tikā tan tama Irikana śĭma, padagaṁnya,
 <pb n="5r"/>
 <lb n="5r1"/>, Amutər·, Aṅulaṅ aṇḍaḥ, Aṅulaṁ kbo, sapi, cel<choice><sic>a</sic><corr>e</corr></choice>ṁ, Abasana, Alavay·, Aḍasara, Aṅuñjal·. vsi-vsi, piku-piku<lb break="no"
-n="5r2"/>lan·, kalima bantal·, Abakul· vva-vvahan·, pucaṁ səR̥ḥ, <space type="binding-hole"/>bavaṁ, pipakan·, Aṅanām·, Amahaṁ, Añambul·, hīṅanya pataṁ
-<lb n="5r3"/>taraju, nāhan· Anugraha śrĭ mahārāja, rakryăn vatu kura, <space type="binding-hole"/>dyaḥ balituṁ, tinaḍaḥ rakryăn· hujuṁ, pu maṅarak·, mvaṅ <abbr>R̥ke</abbr> ma<lb break="no"
+n="5r2"/>lan·, kalima bantal·, Abakul· vva-vvahan·, pucaṁ səR̥ḥ, <space type="binding-hole"/> bavaṁ, pipakan·, Aṅanām·, Amahaṁ, Añambul·, hīṅanya pataṁ
+<lb n="5r3"/>taraju, nāhan· Anugraha śrĭ mahārāja, rakryăn vatu kura, <space type="binding-hole"/> dyaḥ balituṁ, tinaḍaḥ rakryăn· hujuṁ, pu maṅarak·, mvaṅ <abbr>R̥ke</abbr> ma<lb break="no"
 n="5r4"/>ja vuntan·, Umiṅso<supplied reason="omitted">r·</supplied> Irikanaṁ maśīma, saṁ mañjala, saṁ diha, saṁ dhipa, <choice><sic>puḍa</sic><corr>ḍapu</corr></choice>hyaṁ rupin·, I tan· knani śīmanya riṁ parabyāpāra, rovaṁ haji,
 <pb n="5v"/>
-<lb n="5v1"/>rakryān· hino pu dak<choice><orig>ś</orig><reg>ṣ</reg></choice>a, tka Amava śrī, rakryăn· vuṅkal· tihaṁ pu bvalu, sirikan· pu variga, vka pu kutak·, pagər· vsi pu vīra, tiruAn saṁ śi<lb break="no" n="5v2"/>vastu, kanuruhan· pu kalakar·, halaran· pu kiviṁ, palar hyaṁ pu <space type="binding-hole"/>puñjuṁ, dalinan· pu maṅuṅsir·, maṅhuri pu cakra, paṅkur· pu rañjan·,
-<lb n="5v3"/>tavăn pu pañjalvan·, tirip· pu viṣṇu, saṁ mamvatt ujār· I hino, <space type="binding-hole"/>kaṇḍamuhi pu tuṅgaṁ, citralekha vuṅkal· varaṇi, pu manəsər·, paru<lb break="no" 
+<lb n="5v1"/>rakryān· hino pu dak<choice><orig>ś</orig><reg>ṣ</reg></choice>a, tka Amava śrī, rakryăn· vuṅkal· tihaṁ pu bvalu, sirikan· pu variga, vka pu kutak·, pagər· vsi pu vīra, tiruAn saṁ śi<lb break="no" n="5v2"/>vastu, kanuruhan· pu kalakar·, halaran· pu kiviṁ, palar hyaṁ pu <space type="binding-hole"/> puñjuṁ, dalinan· pu maṅuṅsir·, maṅhuri pu cakra, paṅkur· pu rañjan·,
+<lb n="5v3"/>tavăn pu pañjalvan·, tirip· pu viṣṇu, saṁ mamvatt ujār· I hino, <space type="binding-hole"/> kaṇḍamuhi pu tuṅgaṁ, citralekha vuṅkal· varaṇi, pu manəsər·, paru<lb break="no" 
 n="5v4"/>jar= I halu, pu viṣaga, pu dămodara, I sirikan·, hujuṁ galuḥ, pu Āyudha, citralekha dharmmasinta, pu viṣṇu, I vka viridiḥ ḍanu, citralekha ha
 <pb n="6r"/><lb break="no"
 n="6r1"/>laṁ manuk·, pu govinda I tiruAn·, sumuḍan· ḍapunta basura, parujar= I halaran·, saṁdhi manuk·, pu dharmma <g type="circleConcentric">.</g> tlasnika kabaiḥ, humaḍaṁ taṁ vahuta
@@ -136,12 +143,12 @@ n="6r3"/>sakan· I vatu kulumpaṁ, līṁnira <g type="circleConcentric">.</g> 
 <pb n="6v"/>
 <lb n="6v1"/>, tumo Adoḥ ApaR̥̄, yāvat ikanaṅ <choice><orig>vaṁ</orig><reg>vvaṁ</reg></choice> durācāra, Umulah-ulaḥ Ikanaṁ vatu kulumpaṁ, sinusuk· kinabehan·, saṁ vahuta hyaṁ, Akudur·, mvaṁ vadvā
 <lb n="6v2"/>rakryăn·, patiḥ, vahuta, Anak banva kabaiḥ, kadi lvirnikanaṁ han·tlū<space type="binding-hole"/> n təḍas·, R̥mək·, R̥muk·, tan· valuI, I lvirnya, hayām· tan· valuI
-<lb n="6v3"/>, I lvirnya, pəgāt· gulunya, jāḥ tasmăt· kabvat-karmmāknanya, punaḥ bhraṣṭā ya <space type="binding-hole"/>, luvan· vkanya, rabinya, rāma-reṇanya, vvaṁ-sănaknya, kadaṁnya, hatūr taṅgā<lb break="no"
-n="6v4"/>nya, tan· təmvaṁ samaya kabeḥnya sahananya, hitipan i kavaḥ saṁ yāmā <space type="binding-hole"/>ya, muliha riṁ kanarakā ya, mantuka riṅ aveci bhumi saṁ yamaloka ya, mara ya
+<lb n="6v3"/>, I lvirnya, pəgāt· gulunya, jāḥ tasmăt· kabvat-karmmāknanya, punaḥ bhraṣṭā ya <space type="binding-hole"/> , luvan· vkanya, rabinya, rāma-reṇanya, vvaṁ-sănaknya, kadaṁnya, hatūr taṅgā<lb break="no"
+n="6v4"/>nya, tan· təmvaṁ samaya kabeḥnya sahananya, hitipan i kavaḥ saṁ yāmā <space type="binding-hole"/> ya, muliha riṁ kanarakā ya, mantuka riṅ aveci bhumi saṁ yamaloka ya, mara ya
 <pb n="7r"/>
 <lb n="7r1"/>riṅ alas· sahutən iṅ ulā ya, pulukən iṁ moṁ tibā ya, marā ya riṁ tgal· paṅanəniṁ glap· tan pahudan·, mareṁ lvaḥ sahutəniṁ tu<lb break="no"
 n="7r2"/>viran·, həL̥niṁ vuhaya, dudutnən saṁ hyaṁ dalamm er·, mareṁ ta<space type="binding-hole"/>sik· kaR̥mmā ya, kaL̥bvā ya, paṅanəni pəsut·, lumba-lumba,
-<lb n="7r3"/>sahutəniṅ ulā lampay·, nāhan· təmunikaṁṅ <choice><orig>vaṁ</orig><reg>vvaṁ</reg></choice>, bari-bari, <space type="binding-hole"/>Avamāna, Umulah-ulaha Ikiṁ śīma <g type="ddanda">.</g><g type="circleConcentric">.</g><g type="ddanda">.</g><g type="circleConcentric">.</g><g type="ddanda">.</g>śrī dharmmodaya 
+<lb n="7r3"/>sahutəniṅ ulā lampay·, nāhan· təmunikaṁṅ <supplied reason="omitted">v</supplied>vaṁ, bari-bari, <space type="binding-hole"/> Avamāna, Umulah-ulaha Ikiṁ śīma <g type="ddanda">.</g><g type="circleConcentric">.</g><g type="ddanda">.</g><g type="circleConcentric">.</g><g type="ddanda">.</g> śrī dharmmodaya 
 <lb n="7r4"/>, rakryăn· vatu kura, haji balituṁ, Umuṅgaḥ riṁ kaḍatvan· <g type="ddanda">.</g><g type="circleConcentric">.</g><g type="ddanda">.</g><g type="circleConcentric">.</g><g type="ddanda">.</g><g type="circleConcentric">.</g><g type="ddandaCross">.</g></p>
 <pb n="7v"/>
             </div>
@@ -201,10 +208,7 @@ n="7r2"/>viran·, həL̥niṁ vuhaya, dudutnən saṁ hyaṁ dalamm er·, mare�
                             
                        </div>
              <div type="commentary">
-               
-                    <p>Not only its other physical features, but also its script makes this inscription directly comparable to the Balinese manuscript tradition. These features include the use of combined ulu and suku for akṣara cancellation (vu{ui nt}niṁ, 3r1), the use of a grapheme that is ancestral to the modern Balinese ulu ricem (this is also in Sugih Manek and unpublished amantra foils), and the slant shape of basic punctuation sign. These features are found either very rarely or not at all in contemporary inscriptions.</p>
-                    <p>Two forms of the pepet are used here, the usual one with a cross inside the ulu, and a variant with a diagonal stroke that is often rather hard to distinguish from the long . The string paṅanən i pəsut· illustrates this difference, with the cross pepet used in the first instance of ə and the diagonal pepet in the second.</p>
-                    <p>This inscription furnishes the earliest known example in Old Javanese epigraphy of the use of superscript r marker combined with an independent vowel sign (described in the DHARMA Transliteration Guide §3.3.8). It is found in parujar= I halu (5v4) and parujar= I halaran· (6r1).</p>
+
              </div>
                <div type="bibliography">
                  <p>The inscription is apparently mentioned for the first time by Stutterheim in INI, where he simply lists it in a sequence of Balitung inscriptions with the designation “onbekend (Malang)” noting that it is “onuitgegeven” (1940: 13).</p>
@@ -212,29 +216,33 @@ n="7r2"/>viran·, həL̥niṁ vuhaya, dudutnən saṁ hyaṁ dalamm er·, mare�
                  <listBibl type="primary">
                    <bibl n="BJ">
                      <ptr target="bib:BarrettJones1984_01"/>
-                     <citedRange>166–177</citedRange>
-                     <citedRange>Appendix 3</citedRange></bibl>
+                     <citedRange unit="page">166–177</citedRange>
+                     <citedRange unit="appendix">3</citedRange></bibl>
                     <bibl n="B">
                       <ptr target="bib:Boechari1985-1986_01"/>
-                      <citedRange>155–159</citedRange>
-                      <citedRange>E. 75</citedRange>
+                      <citedRange unit="page">155–159</citedRange>
+                      <citedRange unit="item">E. 75</citedRange>
                     </bibl>
                  </listBibl>   
                  <listBibl type="secondary">
                     <bibl>
                       <ptr target="bib:Stutterheim1940_01"/>
-                      <citedRange>13</citedRange>
-                      <citedRange>no. 10</citedRange>
+                      <citedRange unit="page">13</citedRange>
+                      <citedRange unit="item">10</citedRange>
                     </bibl>
                     <bibl>
                       <ptr target="bib:JBG08_1941"/>
-                      <citedRange>110, 123</citedRange><note>Boechari misleadingly reports this citation as JBG (1941–1947), which implies JBG 9 (1941–1947). The same mix-up is found in Boechari’s entry for Ayam Teas II.</note></bibl>
+                      <citedRange unit="page">110, 123</citedRange><note>Boechari misleadingly reports this citation as <title>JBG</title> (1941–1947), which implies <title>JBG</title> 9 (1941–1947). The same mix-up is found in Boechari’s entry for Ayam Teas II.</note></bibl>
                     <bibl>
                       <ptr target="bib:Damais1952_01"/>
-                      <citedRange>46</citedRange></bibl>
+                      <citedRange unit="page">46-47</citedRange>
+                      <citedRange unit="item">A. 77</citedRange>
+                      </bibl>
                     <bibl>
                       <ptr target="bib:Damais1955_01"/>
-                      <citedRange>45</citedRange></bibl>
+                      <citedRange>45</citedRange>
+                      <citedRange unit="item">A. 77</citedRange>
+                      </bibl>
                     </listBibl>
                 </div>
      <!-- 
