@@ -39,7 +39,7 @@
                                             https://creativecommons.org/licenses/by/4.0/ or send a letter to
                                             Creative Commons, 444 Castro Street, Suite 900, Mountain View,
                                             California, 94041, USA.</p>
-                  <p>Copyright (c) 2019-2025 by Jarrah Sastrawan &amp; Arlo Griffiths.</p>
+                  <p>Copyright (c) 2019-2025 by Wayan Jarrah Sastrawan &amp; Arlo Griffiths.</p>
                </licence>
             </availability>
             <date from="2019" to="2025">2019-2025</date>
@@ -82,31 +82,26 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
+       <change who="part:wjsa" when="2023-09-26">Correcting xml format</change>
          <change who="part:axja" when="2022-08-16">Transforming docx into xml</change>
       </revisionDesc>
    </teiHeader>
    <text xml:space="preserve">
            <body> 
-              <div type="edition">
-                 <div type="textpart">
-                    <head xml:lang="eng">Recto</head>
-                    <p><lb n="1r1"/> || svasti śakavarṣātīta 822 punaḥ-poṣyamāsa asṭami suklapakṣa<unclear>,</unclear> ha, ka vr̥ văra, tatkăla Ajña śri mahărăja rake vatu kura
-                    <lb n="1r2"/> dyaḥ dharmmodaya mahāsambhu tumurun· I rakya<supplied reason="omitted">n·</supplied> mapatiḥ I hino pu bahubajrapratipakṣakṣaya rake halu pu sagrāmadharadhara ra
-                    <lb n="1r3" break="no"/>ke sirikan· pu samaravikraṇnta rake vka pu bhasvara rake pagar vsi pu viravikrama rake bava pu malavan· samagat· tiruAn· pu sivastra ma<unclear>ṁ</unclear>hu</p>
-                    <p><lb n="1r4" break="no"/>ri pu cakra vadihati pu ḍapit· makudur· pu samvrida kumonakan· Ikan·ni<unclear>ṁ</unclear> vanuA sima Ayam· təAs· kabeḥ hihiṅana Ikanaṁ ma
-                       <lb n="1r5" break="no"/>samvyavahara hana ṅkana Anuṁ tan· katamana de saṁ maṅilala drabya haji saparanya madaṁ Ama<unclear>vc</unclear>ili  tlu tuhan· I saśima ya <unclear>pa</unclear>Uṅula kvo
-                       <lb n="1r6"/> ya ruAṁ puluḥ kvoAnya <unclear>ya</unclear> sapi pataṁ puluḥ yan· vḍus· vvalu puluḥ yan·ṇḍaḥ savataya guluṁṅan· tlu pasa, maṅaraḥ tlu lupaṁ 
-                       </p>
-                 </div>                 
-                 <div type="textpart">
-                    <head xml:lang="eng">Verso</head>
-                    <p><lb n="1v1"/> Iṁ saśima yapva An· pinikul· dagaṅanya kadya<supplied reason="omitted">ṁ</supplied>gan·ni mabasanā mabisarāra masaya maka<unclear>c</unclear>apuri kapas· vuṅkuḍu tabaga gaṅṣa
-                    <lb n="1v2"/> vsi phalaphalə <unclear>ka</unclear>dut· kalamvi <unclear>laruna</unclear> tima<unclear>ḥ</unclear> garam· paḍat· vəAs· lṅa gulla kasub amiri bamipali Aṅavari Ahātyavammadi
-                    <lb n="1v3"/> <unclear>sa</unclear>prakarani duAl· pinikul· kalima ba<unclear>ntal· I sa</unclear>tuhan· pikullanya paṇḍa Amas· tabaga gaṁsa vsa sobuban· I satuhan·
-                    <lb n="1v4"/> manənan· cadar· pata pacadaran· I sasima ma<unclear>para</unclear>hu kabeḥ hana rayam· təAs· 3 kapva matagallan· tuḍan· suhara 3 
-                    <lb n="1v5"/> I satuḍan· samakana salaha de saṁ maṅilala drabvya haji, saparanyan· maAdaṁ Al·lavəlli I sapradesa kabeḥ
-                    <lb n="1v6"/> makana pra<choice><unclear>hva</unclear><unclear>pya</unclear></choice>ṭī I Aya<unclear>hi</unclear>As·</p></div>
-              </div>
+              <div type="edition" xml:lang="kaw-Latn">
+                    <p><pb n="1r"/><lb n="1r1"/><g type="ddanda">.</g> svasti śakavarṣātīta <num value="822">822</num> punaḥ-poṣyamāsa <num value="8">asṭami</num> suklapakṣa<unclear>,</unclear> <abbr>ha</abbr>, <abbr>ka</abbr><supplied reason="omitted">,</supplied> vr̥<supplied reason="omitted">,</supplied> văra, tatkăla Ăjñă śrĭ mahărăja <abbr>rake</abbr> vatu kura
+                    <lb n="1r2"/>dyaḥ dharmmodaya mahāsambhu tumurun· I rak<supplied reason="omitted">r</supplied>ya<supplied reason="omitted">n·</supplied> mapatiḥ I hino pu bahubajrapratipakṣakṣaya <abbr>rake</abbr> halu pu sa<supplied reason="omitted">ṁ</supplied>grāmadh<choice><sic>a</sic><corr>u</corr></choice>ra<supplied reason="omitted">n</supplied>dhara <abbr>ra<lb break="no"
+                    n="1r3"/>ke</abbr> sirikan· pu samaravikră<choice><orig>ṇ</orig><reg>n</reg></choice>ta <abbr>rake</abbr> vka pu bhasvara <abbr>rake</abbr> pagar vsi pu vĭravikrama <abbr>rake</abbr> bava<supplied reason="omitted">ṁ</supplied> pu malavan· samagat· tiruAn· pu <choice><orig>s</orig><reg>ś</reg></choice>ivăstra ma<unclear>ṁ</unclear>hu</p>
+                    <p><lb n="1r4" break="no"/>ri pu cakra vadihati pu ḍapit· makudur· pu samvrida kumonakan· Ikan·ni<unclear>ṁ</unclear> vanuA sĭma Ayam· təAs· kabeḥ hi<supplied reason="omitted">ṁ</supplied>hiṅana Ikanaṁ ma<lb  break="no"
+                       n="1r5"/>samvyavahara hana ṅkana Anuṁ tan· katamana de saṁ maṅilala drabya haji saparanya madaṁ Ama<unclear>v</unclear>ili  tlu tuhan· I saśima ya <unclear>pa</unclear>ṅula<supplied reason="omitted">ṁ</supplied> kvo
+                       <lb n="1r6"/>ya <num value="20">ruAṁ puluḥ</num> kvoAnya ya sapi <num value="40">pataṁ puluḥ</num> yan· vḍus· <num value="80">vvalu puluḥ</num> yan·ṇḍaḥ savataya<supplied reason="omitted">n·</supplied> guluṁṅan· <num value="3">tlu<supplied reason="omitted">ṁ</supplied></num> pasa<supplied reason="omitted">ṁ</supplied>, maṅaraḥ <num value="3">tlu<supplied reason="omitted">ṁ</supplied></num> lupaṁ 
+                   <pb n="1v"/>
+                   <lb n="1v1"/>Iṁ saśima <choice><orig>yapva An·</orig><reg>yapuAn·</reg></choice> pinikul· dagaṅanya kadya<supplied reason="omitted">ṁ</supplied>gan·ni mabasanā mabisarāra masaya<supplied reason="omitted">ṁ</supplied> maka<unclear>c</unclear>apuri kapas· vuṅkuḍu ta<supplied reason="omitted">m</supplied>baga gaṅṣa
+                    <lb n="1v2"/>vsi phalaphalə <unclear>ka</unclear>dut· kalamvi <unclear>laruna</unclear> tima<unclear>ḥ</unclear> garam· paḍat· vəAs· lṅa gul<surplus>l</surplus>a kasub amiri bamipali Aṅavari <choice><sic>Ahātya</sic><corr>Itye</corr></choice>vammadi
+                    <lb n="1v3"/> <unclear>sa</unclear>prakarani duAl· pinikul· kalima ba<unclear>ntal· I sa</unclear>tuhan· pikullanya paṇḍ<choice><sic>a</sic><corr>i</corr></choice> Amas· ta<supplied reason="omitted">m</supplied>baga gaṁsa vs<choice><sic>a</sic><corr>i</corr></choice> sobuban· I satuhan·
+                    <lb n="1v4"/>manənan· cadar· <num value="4">pata<supplied reason="omitted">ṁ</supplied></num> pacadaran· I sasĭma ma<unclear>para</unclear>hu kabeḥ hana r<supplied reason="omitted">y </supplied>ayam· təAs· 3 kapva mat<choice><sic>a</sic><corr>u</corr></choice>gallan· tuḍan· suhara 3 
+                    <lb n="1v5"/>I satuḍan· samakana salaha de saṁ maṅilala drabvya haji, saparanyan· maAdaṁ Al·lavəlli I sapradesa kabeḥ
+                    <lb n="1v6"/>makana pra<unclear>pya</unclear>ṭī I Aya<choice><unclear>hi</unclear><corr>m tə</corr></choice>As·</p></div>
                <div type="apparatus"/>
                <div type="commentary">
                  <p/>        
