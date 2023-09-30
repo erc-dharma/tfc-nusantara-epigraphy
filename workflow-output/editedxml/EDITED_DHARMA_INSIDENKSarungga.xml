@@ -82,6 +82,7 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
+         <change who="part:argr" when="2023-09-30">Hyphenated śaka-varṣātīta, removed abbr from śukla, inserted translation</change>
          <change who="part:wjsa" when="2023-09-30">Created xml file for Sarungga</change>
       </revisionDesc>
    </teiHeader>
@@ -90,8 +91,8 @@
                    <div type="edition" xml:lang="kaw-Latn">
                    <!-- Read by Wayan Jarrah Sastrawan in November 2022 from photos in Nurul Fadilla Budiana’s S1 thesis. Reread by Wayan Jarrah Sastrawan and Arlo Griffiths on 12 March 2023 directly from the stone.
                     -->
-                          <p><lb n="1"/><g type="ddanda">.</g>svasti śaka varṣātīta<unclear>,</unclear> <num value="823">823</num> jyeṣṭa-māsa
-                          <lb n="2"/>pañcami <abbr>śukla</abbr>, <abbr>ha</abbr> <abbr>va</abbr> <abbr>so</abbr>, kālaniki<unclear>ṁ</unclear> pa<lb break="no" n="3"/>tapān· ri śaruṅga nāmā
+                          <p><lb n="1"/><g type="ddanda">.</g>svasti śaka-varṣātīta<unclear>,</unclear> <num value="823">823</num> jyeṣṭa-māsa
+                          <lb n="2"/>pañcami śukla, <abbr>ha</abbr> <abbr>va</abbr> <abbr>so</abbr>, kālaniki<unclear>ṁ</unclear> pa<lb break="no" n="3"/>tapān· ri śaruṅga nāmā
                           </p>   </div>
                        <div type="apparatus">
                         <app loc="1">
@@ -120,20 +121,21 @@
                             <rdg source="bib:GoenawanASambodo+al2019_01">nāma</rdg>
                         </app>
                      </div>
+ <div type="translation" resp="part:argr part:wjsa">
+           <p>Hail! Elapsed Śaka year 923, month of Jyeṣṭha, fifth <supplied reason="explanation"><foreign>tithi</foreign></supplied>, waxing <supplied reason="explanation">fortnight</supplied>. <supplied reason="subaudible">It was</supplied> the time of <supplied reason="subaudible">establishment of</supplied> this hermitage for the one named Śarūṅga/Śaruṅga.</p>
+         </div>
                    <div type="bibliography">
+<p>First edited ...; re-edited here by Wayan Jarrah Sastrawan &amp; Arlo Griffiths directly from the stone and from photographs.</p>
                        <listBibl type="primary">   
                                    <bibl n="G">
                                        <ptr target="bib:GoenawanASambodo+al2019_01"/>
                                       <citedRange unit="page">69</citedRange>                  
                                    </bibl>
-
                                    <bibl n="N">
                                        <ptr target="bib:NurulFadillaBudiana2021_01"/>
                                       <citedRange unit="page">47-50</citedRange>                  
                                    </bibl>
-                               
                            </listBibl>
-
                    </div>
            </body>
                      </text>
