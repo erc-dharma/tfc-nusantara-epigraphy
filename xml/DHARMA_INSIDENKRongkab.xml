@@ -116,7 +116,7 @@
 <lb n="1v12" break="no"/>garan· kapva InasəAn· pasak·-pasak· pirak· <abbr>mā</abbr> <num value="7">7</num> I sova<unclear>ṁ</unclear>-sovaṁ karamān· saṁ hadyan· vahu
 <lb n="1v13" break="no"/>tta hya<unclear>ṁ</unclear> makabaiḥhan· pirak· <abbr>dhā</abbr> <num value="1">1</num> kinabaiḥhannira likhitta-patra pu ravi <g type="circle">.</g><g type="circle">.</g><g type="circle">.</g></p>
                    </div>
-                   
+
                        <div type="apparatus">
 <app loc="1r1"><lem source="bib:Boechari1985-1986_01 bib:TerryliaFeisrami2013_01">nakṣatra</lem><rdg source="bib:BarrettJones1984_01">naksatra</rdg></app>
 <app loc="1r2"><lem source="bib:TerryliaFeisrami2013_01">daivatā</lem><rdg source="bib:BarrettJones1984_01 bib:Boechari1985-1986_01">devatā</rdg></app>
@@ -157,8 +157,8 @@
                
             <div type="commentary">
               <p>Word-final <foreign>-uA</foreign> is consistently spelled <foreign>-va</foreign> (e.g. <foreign>vanva</foreign>, kapva), which is somewhat unusual for the early tenth century. The word <foreign>vahuta</foreign> is consistently spelled <foreign>vahut<surplus>t</surplus>a</foreign>, and the word <foreign>Inaṁsəan·</foreign> as <foreign>Inaṁsyan</foreign>.</p>
-              <p n="1r1">The date of this inscription, particularly the erroneous astral elements, is discussed at length by Eade and Gislén (2000: 26-30).</p>
-              <p n="1v8"><foreign>vadi<supplied reason="omitted">hati</supplied></foreign>: Cf. above (1v7) and Damais (1970: 866-868), s.v. <foreign>mirah-mirah</foreign>.</p>
+              <p n="1r1">The date of this inscription, particularly the erroneous astral elements, is discussed at length by Eade and Gislén (<bibl rend="omitname"><ptr target="bib:Eade+Gislen2000_01"/></bibl>: 26-30).</p>
+              <p n="1v8"><foreign>vadi<supplied reason="omitted">hati</supplied></foreign>: Cf. above (1v7) and Damais (<bibl rend="omitname"><ptr target="bib:Damais1970_01"/></bibl>), s.v. <foreign>mirah-mirah</foreign>.</p>
               <p n="1v13">This line begins after an indent from the left margin of about six <foreign>akṣara</foreign>s.</p>
             </div>
              <div type="bibliography">
@@ -192,6 +192,11 @@
                      <ptr target="bib:Damais1955_01"/>
                      <citedRange unit="page">175</citedRange>
                      <citedRange unit="item">A. 70</citedRange>
+                   </bibl>
+                   <bibl>
+                     <ptr target="bib:Damais1970_01"/>
+                     <citedRange unit="page">866-868</citedRange>
+                     <citedRange unit="item">mirah-mirah</citedRange>
                    </bibl>
                    <bibl>
                      <ptr target="bib:Eade+Gislen2000_01"/>
