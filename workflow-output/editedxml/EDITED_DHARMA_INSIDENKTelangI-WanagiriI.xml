@@ -8,7 +8,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Charter of Telang, Mahe and Paparahuan I</title>
+            <title>Telang I / Wanagiri I (825 Ś, 904-01-11)</title>
             <respStmt>
                <resp>EpiDoc Encoding</resp>
                <persName ref="part:wjsa">
@@ -82,7 +82,6 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
-         <change who="part:wjsa" when="2023-10-05">Updates to the edition and apparatus</change>
          <change who="part:wjsa" when="2023-09-30">Fixing xml format</change>
          <change who="part:axja" when="2022-08-16">Transforming docx into xml</change>
       </revisionDesc>
@@ -109,14 +108,12 @@
 <pb n="2r"/>
 <lb n="2r1"/><gap reason="lost" unit="character" quantity="2"/> ri tlaṁ gustī, si bharata ramani bahutī, kala<unclear>ṁ</unclear> si vgil· ramani gadit·, kalima si ḍaval· ramani vujil·, vinkas si gahata ramani kaṇḍyal·, variga tamvu ta ramani <unclear>vatū rāma maratā</unclear><!--this needs to be reread-->
 <lb n="2r2"/>nira si gahiṁ ramani hinān·, si guḍir· ramani tiṇḍiḥ, si bṅal· ramani krānti, maṅla si jantur· ramani nalu, makari si gaṇḍal· ramani nabha, maveḥ kamvaṁ si timvul· ramani dayī, nahan· <supplied reason="lost">cihnānikanaṁ vanuA I</supplied>
-<lb n="2r3"/>tlaṁ I mahe Iṁ paparahuAn·<supplied reason="omitted">,</supplied> An· pakabuAt-thajya Ikanaṁ kamulān· muAṁ parahu, Umāri An· vatak· huvusan·, muAṁ tan· katamāna de saṁ mānak· katrīṇi <unclear>paṅku</unclear>r· tavān· tirip· <unclear>muAṁ</unclear> <supplied reason="lost">saprakara</supplied><lb break="no" n="2r4"/>niṁ maṅilala drabya haji kabaiḥ kriṁ, paḍam apuy·, pamaṇikan·, maṇiga, lva, malandaṁ, ma<supplied reason="omitted">ṁ</supplied>huri makalaṅkaṁ, tapa haji, Air haji, vidu<surplus>,</surplus> maṅiduṁ, tuha paḍahi, kḍi, valyan·, paranakan·, <unclear>sambal sumbu</unclear><lb break="no" 
-n="2r5"/>l· vatak· I dalam·, siṅgaḥ pamr̥ṣi, hulun· haji Ityevamāḍi<unclear>,</unclear> tan· tamā Irikanaṁ vanuA ri tlaṁ, Iṁ mahe, Iṁ paparahuAn·, Ikanaṁ dharma Ataḥ parānani saprakārani sukha-duḥkhanya kabaiḥ
+<lb n="2r3"/>tlaṁ I mahe Iṁ paparahuAn· An· pakabuAt-thajya Ikanaṁ kamulān· muAṁ parahu, Umāri An· vatak· huvusan·, muAṁ tan· katamāna de saṁ mānak· katrīṇi <unclear>paṅku</unclear>r· tavān· tirip· <unclear>muAṁ</unclear> <supplied reason="lost">saprakara</supplied><lb break="no" n="2r4"/>niṁ maṅilala drabya haji kabaiḥ kriṁ, paḍam apuy·, pamaṇikan·, maṇiga, lva, malandaṁ, ma<supplied reason="omitted">ṁ</supplied>huri makalaṅkaṁ, tapa haji, Air haji, vidu<surplus>,</surplus> maṅiduṁ, tuha paḍahi, kḍi, valyan·, paranakan·, <unclear>sambal sumbu</unclear><lb break="no" n="2r5"/>l· vatak· I dalam·, siṅgaḥ pamr̥ṣi, hulun· haji Ityevamāḍi<unclear>,</unclear> tan· tamā Irikanaṁ vanuA ri tlaṁ, Iṁ mahe, Iṁ paparahuAn·, Ikanaṁ dharma Ataḥ parānani saprakārani sukha-duḥkhanya kabaiḥ
 <lb n="2r6"/>deyanya mavaiḥ manṅahana parmasan· Iṁ kataṇḍān·, Ājñă haji<supplied reason="omitted">,</supplied> kinonnakan· Ikanaṁ masamvyavahāra ṅkāna hīṁhīṅana kvaihanya, paṇḍai mas· paṇḍai vsi, tamvaga gaṅsa prakāra <gap reason="lost" unit="character" quantity="4"/>
 <lb n="2r7"/>Iṁ <num value="1">sa</num>tuhān· <num value="3">tluṁ</num> tuhān· Iṁ <num value="1">sa</num>sīma<unclear>,</unclear> yan paṅulaṁ kboAnya <num value="20">20</num> sapi <num value="40">40</num> vḍus· <num value="80">80</num> Aṇḍaḥ <num value="1">sa</num>vantayan· Iṁ satuhān· <num value="3">tluṁ</num> tuhān· Iṁ <num value="1">sa</num>sīma, guluṅan· <num value="3">tluṁ</num> pasaṁ<unclear>,</unclear> maṅaraḥ <num value="3">tluṁ</num> lumpaṁ, macadar· <num value="4">pataṁ</num> <unclear>paca</unclear><lb break="no" n="2r8"/>daran·, parahu <num value="1">1</num> suṁharanya <num value="3">3</num> tan· patuṇḍāna, Ikanaṁ samaṅkana tan· knā deniṁ maṅilala drabya haji<supplied reason="omitted">,</supplied> yāpvan· pinikul· dagaṅanya, kady aṅgānniṁ mabasana, masayaṁ, makacapuri, kapas·, vuṅkuḍu<unclear>,</unclear>	
 <lb n="2r9"/>garam·, vəAs·, paḍat·, lṅa, vsi-vsi, tamvaga gaṅsa Ityevamādi saprakāraniṁ duAl· pinikul· kalima bantal· Iṁ <num value="1">sa</num>tuhān· piku-pikulananya, <num value="3">tluṁ</num> tuhān· Iṁ <num value="1">sa</num>sīma, yāpuAn· lviḥ saṅka
-<lb n="2r10"/>riṁ samaṅkana, knāna Ikana sakalviḥnya de saṁ maṅilala soddhāra  ha<choice><sic>d</sic><corr>j</corr></choice>, kunaṁ  Ikanaṁ mañamvul·, maṁlākha, mañavriṁ, maṅapus·, mamubut·, <unclear>ma</unclear>ṅubar·, mamukat·, vuṅkuḍu, manahab· manuk·, mamisa<lb break="no" 
-n="2r11"/>ṇḍuṁ, maṅanam-anam·, maṁgula<supplied reason="omitted">,</supplied> maṁhapū Ityevamādi, kapuA ya <num value="3">tri</num>bhāgān·, <num value="1">sa</num>bhāga Umarā riṁ maṅilala drabya haji, sabhāga Umarā riṁ dharma, sabhāga Umarā riṁ makmitan· dharma<supplied reason="omitted">,</supplied> samaṅkana yan· vuA<gap reason="lost" unit="character" quantity="2"/>
-<lb n="2r12"/>ntas irikanaṁ luAḥ kaniṣṭha, maddhyama<add place="above">,</add> Uttama, saluIranikanaṁ Inantasakanya tan· pintāna Ataḥ Upahan·, yāpvan· paminta Ata<unclear>ḥ</unclear> saUpahan· saluIrni mahāpātaka  paṅguhanya, mataṅya <unclear>de</unclear><lb break="no" n="2r13"/>yanikanaṁ Anak vanuA I tlaṁ, Iṁ mahe, Iṁ paparahuAn· kabaiḥ prayatnā ya ri soninikeṁ praśasti, yathānyan· svasthā <g type="ddandaCross">.</g></p>
+<lb n="2r10"/>riṁ samaṅkana, knāna Ikana sakalviḥnya de saṁ maṅilala soddhāra  ha<choice><sic>d</sic><corr>j</corr></choice>, kunaṁ  Ikanaṁ mañamvul·, maṁlākha, mañavriṁ, maṅapus·, mamubut·, maṅubar·, mamukat·, vuṅkuḍu, manahab· manuk·, mamisa<lb break="no" n="2r11"/>ṇḍuṁ, maṅanam-anam·, maṁgula, maṁhapū Ityevamādi, kapuA ya <num value="3">tri</num>bhāgān·, <num value="1">sa</num>bhāga Umarā riṁ maṅilala drabya haji, sabhāga Umarā riṁ dharma, sabhāga Umarā riṁ makmitan· dharma<supplied reason="omitted">,</supplied> samaṅkana yan· vuA<gap reason="lost" unit="character" quantity="2"/>
+<lb n="2r12"/>ntas irikanaṁ luAḥ kaniṣṭha, maddhyama<add place="above">,</add> Uttama, saluIranikanaṁ Inantasakanya tan· pintāna Ataḥ Upahan·, yāpvan· paminta Ataḥ saUpahan· saluIrni mahāpātaka  paṅguhanya, mataṅya <unclear>de</unclear><lb break="no" n="2r13"/>yanikanaṁ Anak vanuA I tlaṁ, Iṁ mahe, Iṁ paparahuAn· kabaiḥ prayatnā ya ri soninikeṁ praśasti, yathānyan· svasthā <g type="ddandaCross">.</g></p>
 </div>             
                        <div type="apparatus">
                          <app loc="1v3"><lem><unclear>luAḥ</unclear></lem><rdg source="bib:Stutterheim1934_04 bib:TitiSurtiNastiti2015_01">Aḥ</rdg><!--<note>Not sure how to represent this in the apparatus: I can barely read luAḥ but it's a sure bet given the parallel in Telang II, whereas TSN's Aḥ obscures the intended meaningdoes her hyphen mean "one aksaras not read"? if so you could note down <gap reason="lost" unit="character" quantity="1"/>Aḥ TSNNo the hyphen is mine, she gives: "Aḥ [...] Iṁ" with no indication of lost syllables to the left of Aḥ. So I guess we represent her reading just as Aḥ instead. Yes,if no indication of lost syllables, then just cite Aḥ but add a note like this: "Neither S nor T gives any indication of lost syllables to the left." (I haven't check if this is true for S.)</note>-->
@@ -151,13 +148,11 @@ n="2r11"/>ṇḍuṁ, maṅanam-anam·, maṁgula<supplied reason="omitted">,</s
 <app loc="2r8"><lem source="bib:TitiSurtiNastiti2015_01">vuṅku<unclear>ḍu</unclear></lem><rdg source="bib:Stutterheim1934_04">cuṅkuḍu</rdg><note>Stutterheim offered <foreign>vuṅkuḍu</foreign> as an alternative.</note></app>
 <app loc="2r10"><lem>manahab·</lem><rdg source="bib:Stutterheim1934_04 bib:TitiSurtiNastiti2015_01">manuhab·</rdg></app>
 <app loc="2r11"><lem source="bib:TitiSurtiNastiti2015_01">mamisaṇḍuṁ</lem><rdg source="bib:Stutterheim1934_04">maməsaṇḍuṁ</rdg></app>
-<app loc="2r11"><lem>vuA</lem><rdg source="bib:Stutterheim1934_04 bib:TitiSurtiNastiti2015_01">vuAt</rdg> <!--<note>ma-vuAt mantas irikanaṁ luAḥ is elegant, but can we really see -t ma- here?I don't see it. Personally, I am guessing vuAra paṅa- or vuAraṁ ma-. I suspect we want a noun with paN- or a nominalized verb form mantas "one who crosses".</note>--></app>
+<app loc="2r11"><lem>vuAa-</lem><rdg source="bib:Stutterheim1934_04 bib:TitiSurtiNastiti2015_01">vuAat</rdg> <!--<note>ma-vuAt mantas irikanaṁ luAḥ is elegant, but can we really see -t ma- here?I don't see it. Personally, I am guessing vuAra paṅa- or vuAraṁ ma-. I suspect we want a noun with paN- or a nominalized verb form mantas "one who crosses".</note>--></app>
 <app loc="2r12"><lem>kaniṣṭha</lem><rdg source="bib:Stutterheim1934_04 bib:TitiSurtiNastiti2015_01">kaniṣṭa</rdg></app>
 <app loc="2r12"><lem>saluIrni</lem><rdg source="bib:Stutterheim1934_04 bib:TitiSurtiNastiti2015_01">saluṅguḥ</rdg></app></div>
                <div type="commentary">
-                 <p>Each plate is inscribed on one side, and each side contains 13 lines. The format of this charter seems to be like a book, with outer sides left blank. We therefore number the first inscribed side 1 verso and the second side 2 recto. Plate 2 recto ends with the word <foreign>svastha</foreign>, indicating that the text concludes here and no plates are missing from the set. Titi Surti Nastiti (<bibl rend="omitname"><ptr target="bib:TitiSurtiNastiti2015_01"/></bibl>) mistakenly merges the two lines 2r5 and 2r6, with the result that she misnumbers lines 2r7–13 as 2r6–12.</p>
-               <p n="1v1">The date can be converted to 11 January 904.</p>
-               <p n="2r11">We hypothetically reconstruct the lost <foreign>akṣsara</foreign>s at the end of line 2r11 and beginning of 2r12 as follows: samaṅkana yan· <foreign>vuA<supplied reason="lost">raṁ ma</supplied><lb n="2r12"/>ntas irikanaṁ luAḥ</foreign>, which can be translated "Therefore, if there is anyone who crosses the river".</p>
+                 <p>Each plate is inscribed on one side, and each side contains 13 lines. The format of this charter seems to be like a book, with outer sides left blank. We therefore number the first inscribed side 1 verso and the second side 2 recto. Plate 2 recto ends with the word <foreign>svastha</foreign>, indicating that the text concludes here and no plates are missing from the set. TSN mistakenly merges the two lines 2r5 and 2r6, with the result that she misnumbers lines 2r7–13 as 2r6–12.</p>
                </div>
              <div type="bibliography">
                <p>Read by Wayan Jarrah Sastrawan and Arlo Griffiths in October 2021 on the basis of photographs taken by Arlo Griffiths in 2013.</p>
@@ -165,19 +160,18 @@ n="2r11"/>ṇḍuṁ, maṅanam-anam·, maṁgula<supplied reason="omitted">,</s
                     
                     <bibl n="S">
                       <ptr target="bib:Stutterheim1934_04"/> 
-                      <citedRange unit="page">269–295</citedRange>
+                      <citedRange>269–295</citedRange>
                     </bibl>
                     <bibl n="T">
                       <ptr target="bib:TitiSurtiNastiti2015_01"/>
-                      <citedRange unit="page">25–35</citedRange>
+                      <citedRange>25–35</citedRange>
                     </bibl>
                 </listBibl>
              </div>
             <!-- <div>
                     <head>Provenance</head>
-                    <p>The four plates that make up Telang I and Telang II were discovered in 1933 in a yard belonging to Yap Bio Ging, now part of dusun Jatirejo, kelurahan Wonoboyo, kecamatan Wonogiri, kabupaten Wonogiri in Central Java. These plates were given to Mangkunegara VII and remain part of the collection of the Perpustakaan Museum Mangkunegaran in Solo (Titi Surti Nastiti 2015: 25–26). Arlo Griffiths photographed the plates at the <foreign>kraton</foreign> library on 23 April, 2013. The plates were photographed again on 11 March 2023 by Adeline Levivier as part of a BRIN–EFEO research collaboration.</p>
+                    <p>The four plates that make up Telang I and Telang II were discovered in 1933 in a yard belonging to Yap Bio Ging, now part of dusun Jatirejo, kelurahan Wonoboyo, kecamatan Wonogiri, kabupaten Wonogiri in Central Java. These plates were given to Mangkunegara VII and remain part of the collection of the Perpustakaan Museum Mangkunegaran in Solo (Titi Surti Nastiti 2015: 25–26). Arlo Griffiths photographed the plates at the kraton library on 23 April, 2013.</p>
                 </div>
-                
                 <div>
                     <head>Artefact</head>
                     <p>Dimensions: Plate 1: 39 x 18 cm, plate 2: 44 x 18 cm. </p>
