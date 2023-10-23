@@ -89,7 +89,7 @@
 <lb n="1"/><gap reason="illegible" quantity="1" unit="character"/> kolah-olahan· raken· mahāmantri hino Alu sir<unclear>i</unclear>kān·, ku<unclear>naṁ</unclear>
 <lb n="2"/>salvirni<unclear>ṁ</unclear> maṅulah-ulaḥ panugraha śrī pāduka puṅku, Astu salvirniṅ upadrava katmva denya
 <lb n="3"/><supplied reason="lost">sə</supplied>mpaL̥n· de saṁ hyaṁ pañca-mahābhūta, sulambitakna ri hyaṁ kabe<unclear>ḥ</unclear>, si<unclear reason="eccentric_ductus">v</unclear>ak· ka<unclear>pā</unclear><lb 
-n="4" break="no"/>lanya<supplied reason="omitted">,</supplied> davut· Utək·nya<unclear>,</unclear> laṅga rujiranya, Uvad-avid· Ususnya denta kamuṁ hyaṁ pa<lb 
+n="4" break="no"/>lanya<supplied reason="omitted">,</supplied> cavuk· Utək·nya<unclear>,</unclear> laṅga rujiranya, Uvad-avid· Ususnya denta kamuṁ hyaṁ pa<lb 
 n="5" break="no"/><unclear>ñca</unclear>-mahābhūta, vigr<choice><orig>a</orig><reg>aha</reg></choice>n· de saṁ kiṅkāra yamabala, tətəL̥n· riṁ maha<unclear>ro</unclear><lb 
 n="6" break="no"/>rava, matmahana hiris· poḥ, sakinaririsaniṁ sarāt·, Astu vacana śrī pādu<lb 
 n="7" break="no"/><unclear>ka</unclear> mpuṅku Amandi saka riṁ viṣā, Apan· śrī pāduka mpuṅku săkṣăt· bhaṭāra <unclear>bra</unclear><lb 
@@ -127,6 +127,10 @@ n="11" break="no"/>ji tiga-tiga yan· sira vənaṅa, <foreign xml:lang="san-Lat
                      <lem>kabe<unclear>ḥ</unclear></lem>
                      <rdg source="bib:Brandes1913_01">kubera</rdg>
  </app>
+<app loc="4">
+<lem>cavuk·</lem>
+<rdg source="bib:Brandes1913_01">davut·</rdg>
+</app>
 <app loc="5">
                      <lem>kiṅkāra</lem>
                      <rdg source="bib:Brandes1913_01">tiṅkara</rdg>
