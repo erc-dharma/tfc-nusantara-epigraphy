@@ -80,6 +80,7 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
+         <change who="part:wjsa" when="2023-09-22">Adding spaces after personal article ḍa</change>
       <change who="part:wjsa" when="2023-09-22">Cleaning up bibliography and handDesc</change>
        <change who="part:wjsa" when="2023-09-20">Updating format of the edition and apparatus</change>
          <change who="part:wjsa" when="2023-09-07">Correcting xml errors only</change>
@@ -93,16 +94,16 @@
             <p part="I">
             <pb n="1v"/>
             <fw n="1v" place="right" rend="bt-rotated"><num value="1">1</num></fw>
-            <lb n="1v1"/><g type="ddandaCross">.</g><g type="circleConcentric">.</g><g type="ddandaCross">.</g> svasti saka-varṣatīta <num value="827">827</num> kărtika-mā<choice><orig>ś</orig><reg>s</reg></choice>a tithi <num value="1">pratipāda</num> kr̥ṣṇa-pakṣa, <abbr>ma</abbr>, <abbr>ka</abbr>, <abbr>vr̥</abbr>, vāra, variga, tatkāla ḍapunta mañjala, muAṁ saṁ maṁha<lb break="no"
-            n="1v2"/>mbin· saṁ diha, saṁ dhipa, ḍapu hyaṁ rupin·, sumusuk· Iki tgal· I <space type="binding-hole"/>kubu-kubu bhadrī śīma I rakryān· hujuṁ dyaḥ maṅarak·, mvaṁ rakryān· matu<lb break="no"
+            <lb n="1v1"/><g type="ddandaCross">.</g><g type="circleConcentric">.</g><g type="ddandaCross">.</g> svasti saka-varṣatīta <num value="827">827</num> kărtika-mā<choice><orig>ś</orig><reg>s</reg></choice>a tithi <num value="1">pratipāda</num> kr̥ṣṇa-pakṣa, <abbr>ma</abbr>, <abbr>ka</abbr>, <abbr>vr̥</abbr>, vāra, variga, tatkāla ḍa punta mañjala, muAṁ saṁ maṁha<lb break="no"
+            n="1v2"/>mbin· saṁ diha, saṁ dhipa, ḍa pu hyaṁ rupin·, sumusuk· Iki tgal· I <space type="binding-hole"/>kubu-kubu bhadrī śīma I rakryān· hujuṁ dyaḥ maṅarak·, mvaṁ rakryān· matu<lb break="no"
 n="1v3"/>ha <abbr>R̥kai</abbr> maja vuntan· maṁjurva Iṁ pakaraṇăn· I himad· maṅivyə: ca<space type="binding-hole"/>ru Aṅkan· juluṁ, saṅkānani vvay·nya I saṅ apatiḥ I kahyunan·, mana<lb break="no"
-n="1v4"/>mpil· talaṁ <num value="2">rvaṁ</num> tapak· I samuḍuṁ tka ri kubu-kubu <num value="4">pataṁ</num> tapak·, ku<space type="binding-hole"/>naṁ sālap·kna ḍapunta mañjala, mvaṁ saṁ maṁhambin· saṁ diha, saṁ dhipa, ḍapu
-<lb n="1v5"/>hyaṁ rupin·<unclear>,</unclear> mvaṁ Ikanaṁ rāma I kubu-kubu sapasuk banva, vinkas· maṅaran· buduṅuḥ rāma kabayan· ḍapu tapəl·, An pinakahavāniṅ vai, ta</p>
+n="1v4"/>mpil· talaṁ <num value="2">rvaṁ</num> tapak· I samuḍuṁ tka ri kubu-kubu <num value="4">pataṁ</num> tapak·, ku<space type="binding-hole"/>naṁ sālap·kna ḍa punta mañjala, mvaṁ saṁ maṁhambin· saṁ diha, saṁ dhipa, ḍa pu
+<lb n="1v5"/>hyaṁ rupin·<unclear>,</unclear> mvaṁ Ikanaṁ rāma I kubu-kubu sapasuk banva, vinkas· maṅaran· buduṅuḥ rāma kabayan· ḍa pu tapəl·, An pinakahavāniṅ vai, ta</p>
          <pb n="2r"/><gap reason="lost" quantity="5" unit="line" precision="low"/>
          <pb n="2v"/><gap reason="lost" quantity="5" unit="line" precision="low"/>
          <p part="F">
          <pb n="3r"/>
-<lb n="3r1"/><abbr>mā</abbr> <num value="2">2</num>, juru banva Iṁ pa<choice><sic>t</sic><corr>k</corr></choice>araṇan·, ḍapu śravaṇa, vineḥ vḍihan· <num value="1">1</num> <abbr>mā</abbr> <unclear>1,</unclear> vu<del rend="ui">nt</del>niṁ turus· vineḥ patiḥ saṁ kalyăṇī, saṁ jīvaṇī saṁ dumpil·
+<lb n="3r1"/><abbr>mā</abbr> <num value="2">2</num>, juru banva Iṁ pa<choice><sic>t</sic><corr>k</corr></choice>araṇan·, ḍa pu śravaṇa, vineḥ vḍihan· <num value="1">1</num> <abbr>mā</abbr> <unclear>1,</unclear> vu<del rend="ui">nt</del>niṁ turus· vineḥ patiḥ saṁ kalyăṇī, saṁ jīvaṇī saṁ dumpil·
 <lb n="3r2"/>dyaḥ L̥gīt·, saṁ ḍuṅu, saṁ sumrak·, saṁ vindaḥ, saṁ piṅul·, saṁ saṁkyā, saṁ <space type="binding-hole"/> manuk· kapva vinaiḥ vḍihan· <num value="1">1</num> <abbr>mā</abbr> <num value="2">2</num>, I savvaṁ, parujar patiḥ, saṁ kulā vi<lb break="no" 
 n="3r3"/>naiḥ vḍihan· <num value="1">1</num> <abbr>ku</abbr> <num value="2">2</num>, parujar· maṁhambin·, saṁ dharmma vineḥ vḍihan· <space type="binding-hole"/><num value="1">1</num> <abbr>ku</abbr> <num value="2">2</num>, parujar kahyunan· saṁ bukīt· vineḥ vḍihan· <num value="1">1</num> <abbr>ku</abbr> <num value="2">2</num>, juru ka<lb break="no"
 n="3r4"/>laṁ, saṁ javaṁ vineḥ vḍihan· <num value="1">1</num> <abbr>ku</abbr> <num value="2">2</num>, Ugal-ugal· saṅ uṅkur· vi<space type="binding-hole"/>naiḥ vḍihan· <num value="1">1</num> <abbr>ku</abbr> <num value="2">2</num>, juruni majajahan· muñcu, saṁ susup·, pajukilan·
@@ -110,14 +111,14 @@ n="3r4"/>laṁ, saṁ javaṁ vineḥ vḍihan· <num value="1">1</num> <abbr>ku
 <pb n="3v"/>
 <fw n="3v" place="right" rend="bt-rotated"><num value="3">3</num></fw>
 <lb n="3v1"/>pañjurvan· I brasahan·, saṁ gaḍaṅan·, vineḥ vḍihan· <num value="1">1</num> <abbr>ku</abbr> <num value="2">2</num>, vinkas· saṁ kuḍaṁ vinaiḥ vḍihan· <num value="1">1</num> <abbr>ku</abbr> <num value="2">2</num>, tuha banva saṁ visat· vineḥ vḍihan· <num value="1">1</num>,
-<lb n="3v2"/> gusti saṁ sahan· vineḥ vḍihan· <num value="1">1</num>, vinkas· I kubu-kubu, saṁ buduṅuḥ <space type="binding-hole"/> vinaiḥ vḍihan· <num value="1">1</num> <abbr>ku</abbr> <num value="2">2</num>, rāma matuha ḍapu tapīl· vineḥ vḍihan· <num value="1">1</num> <abbr>ku</abbr> <num value="2">2</num>
-<lb n="3v3"/> hulu vv<unclear>ā</unclear>tan· I tal-tal· ḍapu mantunī, vineḥ vḍihan· <num value="1">1</num> <abbr>ku</abbr> <num value="2">2</num>, <space type="binding-hole"/> vinkas· Iy uṅgaḥ śrī, saṁ śuddhini, vineḥ vḍihan· <num value="1">1</num> <abbr>ku</abbr> <num value="2">2</num>, ḍapu pagəḥ
-<lb n="3v4"/> rāma matuha I kasukhan· vineḥ vḍihan· <num value="1">1</num> <abbr>ku</abbr> <num value="2">2</num>, ḍapu Atyanta <space type="binding-hole"/> rāma matuha I pañjara, mvaṁ saṁ timbun· vineḥ vḍihan· <num value="1">1</num> <abbr>ku</abbr> <num value="2">2</num>, mūla
-<lb n="3v5"/> I buñjal· ḍapu vuśī, vineḥ vḍihan· <num value="1">1</num>, kulapati I vr̥ṇnuṁ saṁ ḍaṇḍaka vineḥ vḍihan· <num value="1">1</num>, rāma I katuha-burvan· man· gandhini, vineḥ vḍiha<pb n="4r"/><lb break="no" 
+<lb n="3v2"/> gusti saṁ sahan· vineḥ vḍihan· <num value="1">1</num>, vinkas· I kubu-kubu, saṁ buduṅuḥ <space type="binding-hole"/> vinaiḥ vḍihan· <num value="1">1</num> <abbr>ku</abbr> <num value="2">2</num>, rāma matuha ḍa pu tapīl· vineḥ vḍihan· <num value="1">1</num> <abbr>ku</abbr> <num value="2">2</num>
+<lb n="3v3"/> hulu vv<unclear>ā</unclear>tan· I tal-tal· ḍa pu mantunī, vineḥ vḍihan· <num value="1">1</num> <abbr>ku</abbr> <num value="2">2</num>, <space type="binding-hole"/> vinkas· Iy uṅgaḥ śrī, saṁ śuddhini, vineḥ vḍihan· <num value="1">1</num> <abbr>ku</abbr> <num value="2">2</num>, ḍa pu pagəḥ
+<lb n="3v4"/> rāma matuha I kasukhan· vineḥ vḍihan· <num value="1">1</num> <abbr>ku</abbr> <num value="2">2</num>, ḍa pu Atyanta <space type="binding-hole"/> rāma matuha I pañjara, mvaṁ saṁ timbun· vineḥ vḍihan· <num value="1">1</num> <abbr>ku</abbr> <num value="2">2</num>, mūla
+<lb n="3v5"/> I buñjal· ḍa pu vuśī, vineḥ vḍihan· <num value="1">1</num>, kulapati I vr̥ṇnuṁ saṁ ḍaṇḍaka vineḥ vḍihan· <num value="1">1</num>, rāma I katuha-burvan· man· gandhini, vineḥ vḍiha<pb n="4r"/><lb break="no" 
 n="4r1"/>n· <num value="1">1</num> <abbr>ku</abbr> <num value="2">2</num>, tuhălas· I skār paṇḍan· si R̥ṅu vineḥ vḍihan· <num value="1">1</num>, pinalakvan paR̥pat· rāma Iy uṅgaḥ śrī, mvaṁ I katnahan· vinaiḥ vḍihan·
 <lb n="4r2"/><num value="1">1</num> <abbr>ku</abbr> <num value="2">2</num>, madaṁ rāma I kubu-kubu saṁ tapīl· vinaiḥ ku 2, maṅla <space type="binding-hole"/> saṁ butvan· mvaṁ saṁ bhyāsa saṅka ri batvan· vineḥ <abbr>mā</abbr> <num value="1">1</num>, pinintan· kambaṅ mvaṁ
 <lb n="4r3"/>paravantan·, kulapati Iṅ air gaṅgā Ibuni tr̥b· vinaiḥ <abbr>mā</abbr> <space type="binding-hole"/> 1, tuha paḍahi I himad· si bala vineḥ vḍihan· <num value="1">1</num> <abbr>mā</abbr> <num value="2">2</num>, manana<lb break="no" 
-n="4r4"/>m śīma saṁ śāntī, mvaṁ ḍapu pagiḥ, vineḥ vḍihan· paṅaliḥ sa<space type="binding-hole"/>dugala sovaṁ <abbr>mā</abbr> <num value="2">2</num>, gəṁny āmbak· rakryăn hujuṁ mvaṁ <abbr>R̥ke</abbr> maja
+n="4r4"/>m śīma saṁ śāntī, mvaṁ ḍa pu pagiḥ, vineḥ vḍihan· paṅaliḥ sa<space type="binding-hole"/>dugala sovaṁ <abbr>mā</abbr> <num value="2">2</num>, gəṁny āmbak· rakryăn hujuṁ mvaṁ <abbr>R̥ke</abbr> maja
 <lb n="4r5"/>vuntin·, An dinulur sira maṅdona mare bantan·, de saṁ mapatiḥ, Alaḥ pvaikaṁ bantan· denira, nāhan mataṁnyār panaḍahakənya
 <pb n="4v"/>
 <fw n="4v" place="right" rend="tb-rotated"><num value="4">4</num></fw>
@@ -130,13 +131,13 @@ n="4v4"/>y·, kataṅgaran·, ludan·, tutan·, tuṇḍan·, ko<space type="bin
 <lb n="5r1"/>, Amutər·, Aṅulaṅ aṇḍaḥ, Aṅulaṁ kbo, sapi, cel<choice><sic>a</sic><corr>e</corr></choice>ṁ, Abasana, Alavay·, Aḍasara, Aṅuñjal·. vsi-vsi, piku-piku<lb break="no"
 n="5r2"/>lan·, kalima bantal·, Abakul· vva-vvahan·, pucaṁ səR̥ḥ, <space type="binding-hole"/> bavaṁ, pipakan·, Aṅanām·, Amahaṁ, Añambul·, hīṅanya pataṁ
 <lb n="5r3"/>taraju, nāhan· Anugraha śrĭ mahārāja, rakryăn vatu kura, <space type="binding-hole"/> dyaḥ balituṁ, tinaḍaḥ rakryăn· hujuṁ, pu maṅarak·, mvaṅ <abbr>R̥ke</abbr> ma<lb break="no"
-n="5r4"/>ja vuntan·, Umiṅso<supplied reason="omitted">r·</supplied> Irikanaṁ maśīma, saṁ mañjala, saṁ diha, saṁ dhipa, <choice><sic>puḍa</sic><corr>ḍapu</corr></choice>hyaṁ rupin·, I tan· knani śīmanya riṁ parabyāpāra, rovaṁ haji,
+n="5r4"/>ja vuntan·, Umiṅso<supplied reason="omitted">r·</supplied> Irikanaṁ maśīma, saṁ mañjala, saṁ diha, saṁ dhipa, <choice><orig>pu ḍa</orig><reg>ḍa pu</reg></choice> hyaṁ rupin·, I tan· knani śīmanya riṁ parabyāpāra, rovaṁ haji,
 <pb n="5v"/>
 <lb n="5v1"/>rakryān· hino pu dak<choice><orig>ś</orig><reg>ṣ</reg></choice>a, tka Amava śrī, rakryăn· vuṅkal· tihaṁ pu bvalu, sirikan· pu variga, vka pu kutak·, pagər· vsi pu vīra, tiruAn saṁ śi<lb break="no" n="5v2"/>vastu, kanuruhan· pu kalakar·, halaran· pu kiviṁ, palar hyaṁ pu <space type="binding-hole"/> puñjuṁ, dalinan· pu maṅuṅsir·, maṅhuri pu cakra, paṅkur· pu rañjan·,
 <lb n="5v3"/>tavăn pu pañjalvan·, tirip· pu viṣṇu, saṁ mamvatt ujār· I hino, <space type="binding-hole"/> kaṇḍamuhi pu tuṅgaṁ, citralekha vuṅkal· varaṇi, pu manəsər·, paru<lb break="no" 
 n="5v4"/>jar= I halu, pu viṣaga, pu dămodara, I sirikan·, hujuṁ galuḥ, pu Āyudha, citralekha dharmmasinta, pu viṣṇu, I vka viridiḥ ḍanu, citralekha ha
 <pb n="6r"/><lb break="no"
-n="6r1"/>laṁ manuk·, pu govinda I tiruAn·, sumuḍan· ḍapunta basura, parujar= I halaran·, saṁdhi manuk·, pu dharmma <g type="circleConcentric">.</g> tlasnika kabaiḥ, humaḍaṁ taṁ vahuta
+n="6r1"/>laṁ manuk·, pu govinda I tiruAn·, sumuḍan· ḍa punta basura, parujar= I halaran·, saṁdhi manuk·, pu dharmma <g type="circleConcentric">.</g> tlasnika kabaiḥ, humaḍaṁ taṁ vahuta
 <lb n="6r2"/>patiḥ, vatək· vadihati, makudur·, mamaṁ manapathai, Amantiṅa<space type="binding-hole"/>kan· han·tlū, I vatu susuk·, manətək· guluniṁ hayām·, linaṇḍə<lb break="no"
 n="6r3"/>sakan· I vatu kulumpaṁ, līṁnira <g type="circleConcentric">.</g> Īndaḥ sahananta devata hyaṁ ka<space type="binding-hole"/>baiḥ, pŭrbva, da<unclear>k</unclear>ṣiṇa, paścima, Uttara, Agnaiya, neriti, băyabya,
 <lb n="6r4"/>Airśănyā, riṁ maddhya, I sor·, I ruhur·, Athavā riṅ ākăśa, riṁ lmaḥ, śaśi, sūryya, śoma, Aṅgăra, saṁ hyaṁ śūkṣma śakala <g type="circleConcentric">.</g> săkṣiniṁ manusuk· śīma,
@@ -165,7 +166,7 @@ n="7r2"/>viran·, həL̥niṁ vuhaya, dudutnən saṁ hyaṁ dalamm er·, mare�
                                 <app loc="3r4"><lem>saṁ japaṁ</lem><rdg source="bib:Boechari1985-1986_01">saṁ javaṁ</rdg></app>
                                 <app loc="3r5"><lem>pinakasăkṣī</lem><rdg source="bib:Boechari1985-1986_01">pinakasākṣī</rdg></app>
                                 <app loc="3v2"><lem>tapīl·</lem><rdg source="bib:Boechari1985-1986_01">tapəl·</rdg></app>
-                                <app loc="3v2"><lem>ḍapu pagəḥ</lem><rdg source="bib:Boechari1985-1986_01">dapu pagəḥ</rdg> <note>The dental <foreign>d</foreign> is probably a misprint in Boechari.</note></app>
+                                <app loc="3v2"><lem>ḍa pu pagəḥ</lem><rdg source="bib:Boechari1985-1986_01">da pu pagəḥ</rdg> <note>The dental <foreign>d</foreign> is probably a misprint in Boechari.</note></app>
                                 <app loc="3v3"><lem>hulu vv<unclear>ā</unclear>tan·</lem><rdg source="bib:Boechari1985-1986_01">hulu vvatan·</rdg></app>
                                 <app loc="3v5"><lem>I vr̥ṇnaṁ</lem><rdg source="bib:Boechari1985-1986_01">1 vr̥ṇnaṁ</rdg></app>
                                 <app loc="4r2"><lem>tapīl· vīneḥ</lem><rdg source="bib:Boechari1985-1986_01">tapəl· vineḥ</rdg></app>
