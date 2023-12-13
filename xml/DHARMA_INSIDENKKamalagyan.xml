@@ -8,12 +8,16 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Kamalagyan</title>
+            <title>Kamalagyan charter (959 Śaka)</title>
             <respStmt>
                <resp>EpiDoc encoding</resp>
                <persName ref="part:ekba">
                   <name>Eko Bastiawan</name>
                </persName>
+            	<persName ref="part:argr">
+            		<forename>Arlo</forename>
+            		<surname>Griffiths</surname>
+            	</persName>
             </respStmt>
             <respStmt>
                <resp>intellectual authorship of edition</resp>
@@ -21,6 +25,9 @@
                   <forename>Arlo</forename>
                   <surname>Griffiths</surname>
                </persName>
+            	<persName ref="part:ekba">
+            		<name>Eko Bastiawan</name>
+            	</persName>
             </respStmt>
          </titleStmt>
          <publicationStmt>
@@ -84,6 +91,7 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
+         <change who="part:argr" when="2023-12-13" status="draft">revised initial encoding</change>
          <change who="part:axja" when="2020-11-03" status="draft">Updating toward the encoding template v03</change>
          <change who="part:ekba" when="2020-07-13" status="draft">initial encoding of the inscription</change>
       </revisionDesc>
@@ -92,10 +100,17 @@
       <body>
          <div type="edition" xml:lang="kaw-Latn">
 <p>
- <lb n="1"/><g type="ddandaCross">.</g><g type="circleConcentric">.</g><g type="ddandaCross">.</g> svasti śakavarṣātīta <num value="959">959</num> mārggaśīramāsa, tithi pratipada śuklapakṣa, <abbr>pa</abbr>, <abbr>po</abbr>, <abbr>śu</abbr>, vāra duṅulan· <unclear>graha</unclear>cāra bāyabyastha, jyeṣṭanakṣatra, śakrăgni devatā, dhr̥tiyoga, vavakaraṇa, Irikā divaśany ājñā śrī
-<lb n="2"/>mahārāja rakai halu śrī lokeśvara dharmmavaṅśa Airlaṅgānantavikramottuṅgadeva, tinaḍaḥ rakryān· mahāmantri I hino śrī saṁgrāmavijayaprasādottu<supplied reason="omitted">ṅga</supplied>devi, Umiṅsor I rakryān· kanuruhan· pu dharmmamūrtti narottama dā<lb n="3" break="no"/>naś<unclear>ū</unclear>ra, I piṅsornyājñā śrī mahārāja kumonakan ikāṁ rāma jātaka I kamalagyan· sapasuk thāni kabeḥ, thāni vatək· paṅkaja, Atagan· kəlpurambai, gave <abbr>mā</abbr> <num value="1">1</num> masavaḥ tampaḥ <num value="6">6</num> hinajyan· <abbr>mā</abbr> <abbr>su</abbr> <num value="6">6</num> <abbr>mā</abbr> <num value="7">7</num> <abbr>ku</abbr> <num value="4">4</num>, len·
-<lb n="4"/>drabya hajiniṁ gagā, kbvan· pasəR̥han·, tka riṁ lvaḥ, R̥ṇək·, tpi-tpi, valu-vulu prakāra kabeḥ, piṇḍa samudāya <abbr>mā</abbr> <abbr>su</abbr> <num value="17">17</num> <abbr>mā</abbr> <num value="14">14</num> <abbr>ku</abbr> <num value="4">4</num> <abbr>sā</abbr> <num value="4">4</num> ya tikā Inaṇḍə:An· patahila drabya haji <abbr>mā</abbr> <abbr>su</abbr> <num value="10">10</num> Aṅkan asuji
-<lb n="5"/>māsa I śrī mahārāja, magiliṁ-giliṅan· tan pārik·, tan· papādapaṁL̥yə:, tan· papagaḍuḥ, tan· papilih mas·, len· drabya hajiniṁ kalagyan· saṇḍuṅan· <abbr>mā</abbr> <abbr>su</abbr> <num value="2">2</num> <abbr>mā</abbr> <num value="10">10</num> milu Inaṇḍəḥ matahila <abbr>mā</abbr> <abbr>su</abbr> <num value="2">2</num> kakala<lb n="6" break="no"/>ṅan· madrabya haji <abbr>mā</abbr> <num value="1">1</num> <abbr>ku</abbr> <num value="2">2</num> Inaṇḍəḥ matahila drabya haji <abbr>mā</abbr> <num>1</num> Atəhər·  tan· knā riṁ pintapalaku, buñcaṁ haji, turun·turun· sakupaṁ sātak· sukhaduḥkha magə:ṁ maḍmit· denikāṁ vargga hatur· vargga patiḥ mvaṁ juruniṁ ka<lb n="7" break="no"/>lagyan· raṇu riṁ dharmma, kevalānəmva drabya haji Iṁ sīma ḍavuhan· I kamalagyan· riṁ tambak· riṁ variṅin· sapta juga parṇnahanya kāliḥ, sambandha, śrī mahārāja madaməl· ḍavuhan· riṁ variṅin· sapta lmaḥnikāṅ anak thāni ri kamala<lb n="8" break="no"/>gyan·, puṇyahetu tan· svărtha, kahayvaknaniṁ thāni sapasuk· hilir· lasun paliñjvan·, sijanatyəsan·, pañjigantiṁ, tālan·, daśapaṅkaḥ, paṅkaja, tka riṁ sīma parasīma, kalaṁ, kalagyan·, thāni jumput·, vihāra śā<lb n="9" break="no"/>la, kamŭlan·, parhyaṅan·, para patapān·, makamukhyabhuktyan· saṁ hyaṁ dharmma riṅ īśānabhavana maṅaran· I surapura, samaṅkana kveḥnikāṁ thāni kavāhan· kaḍəḍətan· cariknya denikāṁ kāntən· tmahan· baṅavān· Amgat· ri va<lb n="10" break="no"/>riṅin· sapta, dumadyakan· Unānikāṁ drabya haji mvaṁ hilaṁnikāṁ carik· kabeḥ, Āpan· durlabha kavnaṅan i katambakanikāṁ baṅavan· Amgat· de para sāmya makabehan·, tan· pisan· piṇḍva tinambak· para sāmya,
+ <lb n="1"/><g type="ddandaCross">.</g><g type="circleConcentric">.</g><g type="ddandaCross">.</g> svasti śaka-varṣātīta <num value="959">959</num> mārggaśīra-māsa, tithi pratipada śukla-pakṣa, <abbr>pa</abbr>, <abbr>po</abbr>, <abbr>śu</abbr>, vāra <choice><sic>duṅulan·</sic><corr>dukut·</corr></choice>, cāra bāyabyastha, jyeṣṭa-nakṣatra, śakrăgni-devatā, dhr̥ti-yoga, vava-karaṇa, Irikā divaśany ājñā śrī
+<lb n="2"/>mahārāja rakai halu śrī lokeśvara dharmmavaṅśa Airlaṅgānantavikramottuṅgadeva, tinaḍaḥ rakryān· mahāmantrī I hino śrī saṁgrāmavijayaprasādottu<supplied reason="omitted">ṅga</supplied>devī, Umiṅsor= I rakryān· kanuruhan· pu dharmmamūrtti narottama dā<lb n="3" break="no"/>naś<unclear>ū</unclear>ra, I piṅsornyājñā śrī mahārāja kumonakan ikāṁ rāma jātaka I kamalagyan· sapasuk thāni kabeḥ, thāni vatək· paṅkaja, Atagan· kəlpu rambai, gave <abbr>mā</abbr> <num value="1">1</num> masavaḥ tampaḥ <num value="6">6</num> hinajyan· 
+<!--<choice><orig>māsu</orig><reg>mas <abbr>su</abbr></reg></choice>-->
+mā<supplied reason="subaudible">s</supplied> <abbr>su</abbr> 
+<num value="6">6</num> <abbr>mā</abbr> <num value="7">7</num> <abbr>ku</abbr> <num value="4">4</num>, len·
+<lb n="4"/>drabya-hajiniṁ gagā, kbvan· pasəR̥han·, tka riṁ lvaḥ, R̥ṇək·, tpi-tpi, v<choice><sic>a</sic><corr>u</corr></choice>lu-vulu prakāra kabeḥ, piṇḍa samudāya <abbr>mā</abbr> <abbr>su</abbr> <num value="17">17</num> <abbr>mā</abbr> <num value="12">12</num> <abbr>ku</abbr> <num value="2">2</num> <abbr>sā</abbr> <num value="2">2</num> ya tikā Inaṇḍə<unclear>ḥ</unclear> An· patahila drabya haji <abbr>mā</abbr> <abbr>su</abbr> <num value="2">2</num> Aṅkan asuji<lb 
+n="5" break="no"/>-māsa I śrī mahārāja, magiliṁ-giliṅan· tan pārik·, tan· papādapaṁL̥yə:, tan· papagaḍuḥ, tan· papilih mas·, len· drabya-hajiniṁ kalagyan· saṇḍuṅan· <abbr>mā</abbr> <abbr>su</abbr> <num value="2">2</num> <abbr>mā</abbr> <num value="10">10</num> milu Inaṇḍəḥ matahila <abbr>mā</abbr> <abbr>su</abbr> <num value="2">2</num> kakala<lb 
+n="6" break="no"/>ṅan· madrabya-haji <abbr>mā</abbr> <num value="1">1</num> <abbr>ku</abbr> <num value="2">2</num> Inaṇḍəḥ matahila drabya haji <abbr>mā</abbr> <num>1</num> Atəhər· tan· knā riṁ pinta palaku, buñcaṁ haji, turun·-turun· sakupaṁ sātak·, sukhaduḥkha magə:ṁ maḍmit· denikāṁ vargga hatur·, vargga patiḥ mvaṁ juruniṁ ka<lb 
+n="7" break="no"/>lagyan· raṇu riṁ dharmma, kevalānəmva drabya haji Iṁ sīma ḍavuhan· I kamalagyan· riṁ tambak· riṁ variṅin· sapta juga parṇnahanya kāliḥ,</p> 
+<p>sambandha, śrī mahārāja madaməl· ḍavuhan· riṁ variṅin· sapta, lmaḥnikāṅ anak thāni ri kamala<lb n="8" break="no"/>gyan·, puṇyahetu tan· svărtha, kahayvaknaniṁ thāni sapasuk· hilir· lasun paliñjvan·, sijanatyəsan·, pañjiṁ ganti<surplus>ṁ</surplus>, tālan·, daśapaṅkaḥ, paṅkaja, tka riṁ sīma parasīma, kalaṁ, kalagyan·, thāni jumput·, vihāra śā<lb 
+n="9" break="no"/><!-- Arlo to resume here 2023/12/13 -->la, kamŭlan·, parhyaṅan·, para patapān·, makamukhyabhuktyan· saṁ hyaṁ dharmma riṅ īśānabhavana maṅaran· I surapura, samaṅkana kveḥnikāṁ thāni kavāhan· kaḍəḍətan· cariknya denikāṁ kāntən· tmahan· baṅavān· Amgat· ri va<lb n="10" break="no"/>riṅin· sapta, dumadyakan· Unānikāṁ drabya haji mvaṁ hilaṁnikāṁ carik· kabeḥ, Āpan· durlabha kavnaṅan i katambakanikāṁ baṅavan· Amgat· de para sāmya makabehan·, tan· pisan· piṇḍva tinambak· para sāmya,
 <lb n="11"/>ndātan· kavnaṁ juga parṇnaḥnya, samaṅkana ta śrī mahārāja lumkas· Umatagaknikāṁ tanayan thāni sakalrān deni kīrti pratāpa śrī mahārāja, Inatag· kapva paṁrabdha mabuñcaṁhajya maḍavuhana, sampun ta siddha kadamla<lb n="12" break="no"/>nikāṁ ḍavuhan· de śrī mahārāja, subaddhāpagəḥ huvus· pəpət· hilīnikāṁ bañu, Ikāṁ baṅavan· Amatlū hilīnyāṅalor·, kapva ta sukhamanaḥnikāṁ maparahu samaṁhulu maṅalap· bhāṇḍa ri hujuṁ galuḥ tka
 <lb n="13"/>rikāṁ para puhavaṁ para baṇyāga saṅkāriṁ dvīpāntara, sama ñcantən· ri hujuṁ galuḥ, Ikaṅ anak thāni sakavāhan· kaḍəḍətan· savaḥnya, Atyanta sarvvasukhani manaḥnya makāntaṁ kasavaha muvaḥ savaḥnya kabeḥ An· pinunya<lb n="14" break="no"/>n· tinambak· hilīnikāṁ baṅavān· Amgat· riṁ variṅin· sapta de śrī mahārāja, mataṅyan· ḍavuhan· śrī mahārāja parṇnaḥnikāṁ tambak· riṁ variṅin· sapta, samaṅkana ta śrī mahārāja haṅanaṅan· ri tan· tguhanikāṁ ḍavuhan· 
 <lb n="15"/>deni kveḥnikāṁ vvaṁ mahyūn· maṁL̥bura yaśa, ri sḍaṅanyan· tan· tiṅgīn· rakṣān· parṇnaḥnya Umahana, mataṅyanikā Anak thāni I kamalagyan· tka ri kalagyanya katuduḥ momaha I samīpanikāṁ ḍavuhan· riṁ variṅin· sapta,
@@ -123,8 +138,13 @@
         <div type="bibliography">
 	<!--bibliography encoded as per section §9.4 -->
             <p/>
-             <listBibl type="secondary">
-             <bibl/>
+<listBibl type="primary">
+	<bibl>
+		<ptr target="bib:Brandes1913_01"/><citedRange unit="page">134-136</citedRange><citedRange unit="item">LXI</citedRange>
+	</bibl>
+</listBibl>
+        	<listBibl type="secondary">
+             <bibl><ptr target="bib:Verbeek1891_01"/><citedRange unit="page">9, 249</citedRange><citedRange unit="item">501</citedRange></bibl>
            </listBibl>
         </div>
       </body>
