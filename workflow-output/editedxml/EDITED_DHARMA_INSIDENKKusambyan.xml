@@ -8,26 +8,33 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>kusambyan</title>
-            <!--Change the title of the file, e.g. Raktamālā grant of the time of Budhagupta, year 159-->
-            <respStmt><!-- add an element respStmt for each person involved -->
+            <title>Kusambyan charter (945 Śaka)</title>
+            <respStmt>
+               <resp>EpiDoc encoding</resp>
+               <persName ref="part:argr">
+                  <forename>Arlo</forename>
+                  <surname>Griffiths</surname>
+               </persName>
+            </respStmt>
+            <respStmt>
                <resp>intellectual authorship of edition</resp>
-               <!-- this may be the same as the creator of the file -->
-               <persName ref="part:ekba"><!-- update the id -->
+               <persName ref="part:argr">
+                  <forename>Arlo</forename>
+                  <surname>Griffiths</surname>
+               </persName>
+               <persName ref="part:ekba">
                   <name>Eko Bastiawan</name>
                </persName>
             </respStmt>
          </titleStmt>
          <publicationStmt>
             <authority>DHARMA</authority>
-            <pubPlace><!-- fill in here the place or places where the encoding has been done --></pubPlace>
+            <pubPlace>Jakarta</pubPlace>
             <idno type="filename">DHARMA_INSIDENKKusambyan</idno>
-            <!-- Replace by filename, e.g. Pallava00001 -->
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/">
                   <p>This work is licenced under the Creative Commons Attribution 4.0 Unported Licence. To view a copy of the licence, visit https://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.</p>
-                  <p>Copyright (c) 2019-2025 by Eko Bastiawan.</p>
-                  <!-- Replace year and name, use format "Forename1 Surname1 & Forename2 Surname2" or "Forename1 Surname1, Forename2 Surname2 & Forename3 Surname3"  if necessary — the copyright is that of the encoder(s) -->
+                  <p>Copyright (c) 2019-2025 by Arlo Griffiths &amp; Eko Bastiawan</p>
                </licence>
             </availability>
             <date from="2019" to="2025">2019-2025</date>
@@ -45,7 +52,7 @@
                </msContents>
                <physDesc>
                   <handDesc>
-                     <p><!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EG 11.2. --></p>
+                     <p>The script type is similar to that seen in Lemah Irah.<!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EG 11.2. --></p>
                      <!-- If you need to identify individual hands (EG §7.5/) in addition to one or more paragraphs of general palaeographic description, wrap <summary> around the <p> or <p>s above, and, outside <summary>, create <handNote> elements for each hand as follows:
 						<summary><p><p/></summary>
 						<handNote xml:id="Pallava00001_hand1"></handNote>
@@ -81,19 +88,170 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
-         <change who="part:axja" when="2020-11-03" status="draft">Updating toward the encoding template v03</change>
-         <change who="part:axja" when="2020-03-27" status="draft">adding the handDesc template</change>
-         <change who="part:axja" when="2020-01-09" status="draft">Update the template</change>
-         <!-- add a <change> for each change to the file, the first change should replace this one and record your creation of a file using this template. -->
+         <change who="part:argr" when="2023-12-15" status="draft">started encoding the inscription</change>
       </revisionDesc>
    </teiHeader>
    <text xml:space="preserve">
         <body>
-            <div type="edition" xml:lang="kaw">
-                <ab>
-                   
+            <div type="edition" xml:lang="kaw-Latn">
+<div type="textpart" subtype="zone" n="1"><head xml:lang="eng">Reconstitution of the stela</head>
+<p><milestone type="pagelike" unit="face" n="A"/><label>Front</label>
+<lb n="A1"/> <supplied reason="lost">|| ⚬ ||</supplied> <milestone unit="fragment" n="10.1"/>svas<supplied reason="lost">ti śa</supplied><milestone unit="fragment" n="11.1"/><unclear>ka</unclear>-varṣātī<supplied reason="lost">ta- …</supplied><milestone unit="fragment" n="9.1" break="no"/>-măsa t<unclear>i</unclear><supplied reason="lost">thi ... da</supplied><milestone unit="fragment" n="2.1" break="no"/>śi k<supplied reason="lost">r̥</supplied>ṣṇa-pakṣa <abbr>vu</abbr>, <abbr>ka</abbr>, <abbr>ra</abbr>, vā<supplied reason="lost">ra</supplied> … 
+<lb n="A2"/> <milestone unit="fragment" n="10.2"/><unclear>dhatu</unclear>ṣ<unclear>ā</unclear><supplied reason="lost">-na</supplied>kṣatra, v<supplied reason="lost">... de</supplied><milestone unit="fragment" n="9.2"/><unclear>vatā</unclear>, <unclear>ś</unclear>iva-<unclear>yo</unclear><supplied reason="lost">ga ...</supplied><milestone unit="fragment" n="2.2"/>stha,</p> 
+<p>Irikā di<supplied reason="lost">vaśan</supplied><milestone unit="fragment" n="4.1"/>y <supplied reason="lost">ājñā śrī mahā</supplied>
+<lb n="A3" break="no"/><milestone unit="fragment" n="10.3" break="no"/>rāja, rakai ha<unclear>lu</unclear> <supplied reason="lost">ś</supplied><unclear>rī</unclear><supplied reason="lost">lo</supplied><milestone unit="fragment" n="9.3" break="no"/>k<unclear>e</unclear>ś<unclear>va</unclear>ra <supplied reason="lost">dha</supplied>r<supplied reason="lost">mmavaṅśa Airlaṅgānantavikramottuṅgadeva, t</supplied><milestone unit="fragment" n="2.3" break="no"/>i<supplied reason="lost">naḍaḥ</supplied> <milestone unit="fragment" n="4.2"/>rakryān· <supplied reason="lost">mahāmantri</supplied>
+<lb n="A4"/><milestone unit="fragment" n="10.4"/><unclear>I hi</unclear>no, śrī <supplied reason="lost">saṅgrāma</supplied><milestone unit="fragment" n="9.4" break="no"/><unclear>v</unclear>i<supplied reason="lost">jayadharmmaprasādotuṅgadevī, Umiṅsor· I rakryān· pa</supplied><milestone unit="fragment" n="4.3" break="no"/><unclear>ḍa</unclear>ṁ pu dvija, k<unclear>u</unclear><supplied reason="lost">monakə</supplied>  
+<lb n="A5" break="no"/><milestone unit="fragment" n="10.5" break="no"/><unclear>n i</unclear>kanaṁ ka<supplied reason="lost">rāmān· I kusambyan·</supplied> ... <milestone unit="fragment" n="4.4"/>{traces of 1 akṣara}h·, sī/// + +
+<lb n="A6"/><milestone unit="fragment" n="10.6"/>maṅa<supplied reason="lost">ran·</supplied> ... <milestone unit="fragment" n="4.5"/>{traces of 1 akṣara}<unclear>kna</unclear>, sa ? /// + +
+<lb n="A7"/> <milestone unit="fragment" n="6.1"/>{traces of 1 or 2 akṣaras} ... <milestone unit="fragment" n="4.6"/>{traces of 1 akṣara}·, kakī <unclear>śo</unclear>{traces of 1 akṣara}
+<lb n="A8"/> <milestone unit="fragment" n="6.2"/>nya, kaki k<unclear>ī</unclear>jib·, ba ...  <milestone unit="fragment" n="4.7"/><choice><unclear>p</unclear><unclear>s</unclear></choice>·, kaki 
+<lb n="A9"/> <milestone unit="fragment" n="6.3"/>ta, pukal·, kuvu,///… <milestone unit="fragment" n="4.8"/>{traces of 1 akṣara}<unclear>s</unclear>ir·
+<lb n="A10"/> <milestone unit="fragment" n="6.4"/>gu<unclear>ru</unclear>, bujag·, <unclear>bva</unclear> ... <milestone unit="fragment" n="4.9"/>{traces of 1 akṣara}<unclear>ka</unclear>/// +
+<lb n="A11"/> <milestone unit="fragment" n="6.5"/>R̥nəb·, niha///
+<lb n="A12"/> <milestone unit="fragment" n="6.6"/>samaṁkana kye///<supplied reason="lost">ḥ</supplied>
+<lb n="A13"/> <milestone unit="fragment" n="6.7"/>ṅ ăjña haji <unclear>pa</unclear>///
+<lb n="A14"/> <milestone unit="fragment" n="6.8"/>kabeḥ, ma///
+<lb n="A15"/> <milestone unit="fragment" n="6.9"/>bayān·///
+<lb n="A16"/> <milestone unit="fragment" n="6.10"/>rāga skara///
+<lb n="A17"/> <milestone unit="fragment" n="6.11"/>i///
 
-                </ab>
+<lb n="A24"/> {3 or 4 akṣaras lost} <milestone unit="fragment" n="1.1"/>{traces of 2 or 3 akṣaras, rest entirely lost} ...
+<lb n="A25"/> {2/3 akṣaras lost} <milestone unit="fragment" n="1.2"/>bhaṭāra hyaṁ Ivak· I ku<unclear>sam</unclear>b<unclear>ya</unclear><supplied reason="lost">n</supplied><unclear>·</unclear> {about 14 akṣaras wholly or partly lost} ...
+<lb n="A26"/> {2/3 akṣaras lost} <milestone unit="fragment" n="1.3"/><unclear>A</unclear>ṅkən· pūrṇnamaniṅ asuji-māsa, kabhaktyananikanaṁ karāmān· I kusambyan· sapasuk ṣĭ<lb n="A27" break="no"/><milestone unit="fragment" n="1.4" break="no"/>ma kabeḥ, mapaknā saṅkānaniṁ pamahayvanya samananā ryy āyatana bhaṭāra hyaṁ Ivak· I kusambya<lb n="A28" break="no"/><milestone unit="fragment" n="1.5" break="no"/>n·, kaharan· puṣpapañcopacāra, tila<surplus>,</surplus>-tela, dhūpa, gandhākṣa<supplied reason="omitted">ta</supplied> nivedyādi prakāra, pūjā<lb n="A29" break="no"/><milestone unit="fragment" n="1.6" break="no"/>knanyāṅkən· pūrṇnamani Asuji-māsa, I bhaṭāra hyaṅ ivak· I kusambyan·, maṅkana rasani paṁhyaṁ<lb n="A30" break="no"/><milestone unit="fragment" n="1.7" break="no"/>nikanaṁ karāmān· I kusambyan· sapasuk ṣīma kabeḥ I pāduka śrī mahārāja, kunaṁ saṅkā
+<lb n="A31"/><milestone unit="fragment" n="1.8"/>ri gəṁni kāruṇyānumoda śrī mahārāja I sapaṁhyaṁnikanaṁ karāmān· I kusambyan·<supplied reason="omitted">,</supplied> maka<lb n="A32" break="no"/><milestone unit="fragment" n="1.9" break="no"/>hetu, ri ka<unclear>to</unclear>nani mahābhārani giṇa-kāyotsāhanyan· tana kapālaṅ-alaṁ suṣṭu-bha<lb n="A33" break="no"/><milestone unit="fragment" n="1.10" break="no"/>kti dāśa-bhūta sakucumba makatoḥ svajīvitanyan· pamrihakən· pāduka śrī mahārăja
+<lb n="A34"/><milestone unit="fragment" n="1.11"/>riṁ samarakāryya, ṅūni ri kālanikanaṁ śatru si cṅek·, An tamolaḥ mandəl· makadatvan·
+<lb n="A35"/><milestone unit="fragment" n="1.12"/>I madaṇḍər·, ya tikānuvuhak<unclear>ə</unclear>n· pūrvvaR̥ṇāsama-sama ri manaḥni lbŭni pāduka śrī mahā<lb n="A36" break="no"/><milestone unit="fragment" n="1.13" break="no"/>rāja, kāraṇānyan· Inubhā<unclear>ya</unclear>n ata sapaṁhyaṁnikanaṁ karāmān· I kusambyan· sapasak th<unclear>ā</unclear>ni
+<lb n="A37"/><milestone unit="fragment" n="1.14"/>kabeḥ, de śrĭ mahārāja, makaciḥna ri sampunya vineḥ makmitana saṁ hyaṅ ājñā haji prasasti
+<lb n="A38"/><milestone unit="fragment" n="1.15"/><surplus>s<unclear>t</unclear>i</surplus> pagə-pagəḥ, makarasa, sumĭma thāninya <unclear>I</unclear> kusambyan· maka<supplied reason="omitted">ka</supplied>bhaktyana bhaṭāra hyaṁ
+</p>
+</div>
+<div type="textpart">
+<p>
+<!--Face B (West)
+<lb n="B1"/> … <milestone unit="fragment" n="2.1"/> (thā)n[i] I kusa[m]bya[n]· ? ? ? /// ... <milestone unit="fragment" n="11.1"/> [pūr]ṇ(n)amăniṁ Asuji-
+<lb n="B2"/> [māsa… <milestone unit="fragment" n="2.2"/> juga (ya), (kavala) /// ... <milestone unit="fragment" n="9.1"/> ? /// <milestone unit="fragment" n="11.2"/> ? maṁrāga-skar aṅ[ka]-
+<lb n="B3"/> [n]… <milestone unit="fragment" n="2.3"/>(ta)n(t)rā {traces of 1 akṣara} /// … <milestone unit="fragment" n="9.2"/> kevalā/// ...<milestone unit="fragment" n="11.3"/> {traces of 2 akṣaras}
+<lb n="B4"/> ... <milestone unit="fragment" n="4.1"/>(·) I kusa(m)bya///[n·] ... <milestone unit="fragment" n="9.3"/> sīma I kusambya[n·] ... <milestone unit="fragment" n="10.1"/> {traces of 1 akṣaras} tan pi(ka)
+<lb n="B5"/> ... <milestone unit="fragment" n="4.2"/>(n·) An(·) pŭrṇa(ma) /// ... [māna]<milestone unit="fragment" n="9.4"/>(k)· katriṇi, paṅ[kur·,] <milestone unit="fragment" n="10.2"/> (ta)van· tirip·, ṅu[ni]-
+<lb n="B6"/> [veḥ sa]<milestone unit="fragment" n="4.3"/>prakăra saṁ maṅila(la) [drabya haji vulu-](5.1)vulu (riṁ daṅū) makā(d)[i] <milestone unit="fragment" n="9.5"/> (m)iśra (pa)[ramiśra, paṅuraṁ] <milestone unit="fragment" n="10.3"/> kriṁ, paḍəm·, (ma)-
+<lb n="B7"/> [nimpiki,] <milestone unit="fragment" n="4.4"/> paranakan· lim[u](5.2)[s] galuḥ, maṁriñca, maṁhuri, paraṁ, suṅ(ka) [dhūra‚ paṅaruhan·, taji‚ vatu] <milestone unit="fragment" n="10.4"/>(ta)jǝm·, s(u)///[kun·] 
+<lb n="B8"/> [halu] <milestone unit="fragment" n="4.5"/> varak·, rakasaṁ (5.3) ramanaṁ, pinilai, kataṅgaran·, (ta)///[pa haji, Air haji, malandaṁ lca lab-lab· pa]<milestone unit="fragment" n="10.5"/>(ka)laṅ[kaṁ]
+<lb n="B9"/> [kutak·,] <milestone unit="fragment" n="4.6"/>taṅkil·, (t)[r̥](5.4)(pa)n·, saly[u]t·, vatu valaṁ, (pa)ṅga(re) /// ... <milestone unit="fragment" n="10.6"/> {traces of 1 akṣara}
+<lb n="B10"/> ... [ti]<milestone unit="fragment" n="4.7"/>rvan·, vi[laṁ]  (5.5) thāni, viji kavaḥ, tiṅkəs·, mavi mana///[mbaṅi] ...
+<lb n="B11"/> ... <milestone unit="fragment" n="4.8"/> (maṁguñjai) (5.6)(tu)hānambi, tuhā(n)· juḍi, juru huñjman·, /// ...
+<lb n="B12"/> ... <milestone unit="fragment" n="4.9"/> miśr[āṅin-a](5.7)[ṅ]i(n)· vli pañjut·, vli vaduṁ, vli tambaṁ, palama///[k·] ...
+<lb n="B13"/> ... [sipad vilu](5.8)t·, juṅkuṁ, pāṅin-aṅin·, pamāvasya, /// ...
+<lb n="B14"/> … [pa](5.9)dvā-mās·, pan(l)uṅ-ata(g)·, pinta pa///[laku] <milestone unit="fragment" n="6.1"/> {traces of 3 akṣaras}
+<lb n="B15"/> … [hu](5.10)lun haji, jəṅgi, siṅgaḥ, pamr̥(ṣi)[, mavuluṁ-vuluṁ, vatək i jro] <milestone unit="fragment" n="6.2"/> [Itye]///(va)mādi kabeḥ, tka r[i]
+<lb n="B16"/> [sukha-duḥkha] … (5.11)(A)siṅ ataḥ lviranya, ka[dy aṅganiṁ mayaṁ tan pavvaḥ, valū rumamba]<milestone unit="fragment" n="6.3"/>(t) iṁ (na)tar·, vipati
+<lb n="B17"/> [vaṅke kabunan·, rāḥ kasavur](5.12)i [da]lan·, hid[ū kasirat·] … [capa]<milestone unit="fragment" n="6.4"/>la duhihatǝn·
+<lb n="B18"/> ... (3.1)mamumpaṁ, lūdān·, tūtān·, Aṅśa, pratyaṅśa (ḍ)[əṇḍa] <milestone unit="fragment" n="6.5"/>kuḍaṇḍa, maṇḍi-
+<lb n="B19"/> [halādi] ... [i](3.2)kanaṁ sĭma I kusambyan·, kevalā Ikanaṁ drabya ha[ji] ... <milestone unit="fragment" n="6.6"/>māsu 2 so-
+<lb n="B20"/> [vaṁ-sovaṁ] … [pū](3.3)rṇama riṁ Asujimāsa, I bhaṭāra hyaṅ ivak· (I k)[usambya]<milestone unit="fragment" n="6.7"/>n·‚ kumǝṇḍǝ-
+<lb n="B21"/> [ṅ] … [taṇḍa rakryā](3.4)n·(,) riṁ kabalān· kasiṅgahan·, sovāra sa(ṁ ma)[ṅasə: [ma]<milestone unit="fragment" n="6.8"/>gǝ:ṁ maṇit·
+<lb n="B22"/> … [uma](3.5)r(ā) Ī vadvā haji, vadvā rakryan· (pa)[ra juru ha]<milestone unit="fragment" n="1.1"/>(m)ba (ra)kryān· [ryy avan·]
+<lb n="B23"/> [hamba rakr](3.6)yān· rāja(putra), rāja(putrī)[, kulaputtra, kulaputtrī, makādi] <milestone unit="fragment" n="1.2"/> hamba rakryan· strĭ haji, ma[kādi]
+<lb n="B24"/> [rakryā]<milestone unit="fragment" n="1.3"/>n· śrī parameśvarī, tka rikana[ṁ] mamanaḥ, magalaḥ, magaṇḍi, mahalimān·, makuda, maka[rapa ka-]
+<lb n="B25"/> [ruṅa]<milestone unit="fragment" n="1.4"/>n·, maṁhvan· L̥mbu, maṁhvan· haturan· pādu, haturan· bāṁ pabaraṁka, lāvan· somiriṁ saṁ hyaṅ ā(jña) [ha]-
+<lb n="B26"/> <milestone unit="fragment" n="1.5"/>ji Umarā ri para(d)eśa maṁL̥pas· bhasma, maṁlampa<supplied reason="omitted">ha</supplied>kən· saṁ hyaṁ vuruḥ, Amet· kaka, Inaṁ, mvaṅ ga<supplied reason="omitted">ve</supplied> bahan· [su]-
+<lb n="B27"/> <milestone unit="fragment" n="1.6"/>ṅkul·, saṁ makārmma candana, Uṇḍahagi lañcaṁ, Uṇḍahagi pasagi, parbvantilan·, pasarpān· posadhān·, (dh)ā-
+<lb n="B28"/> <milestone unit="fragment" n="1.7"/>tukriyā, par(ā)hasyan·, Amet akar· davu-davutan·, Aṅiṅū (laṁ)liṁ, Aṅiṅū puyuḥ, mvaṁṅ ayam savuṁ,
+<lb n="B29"/> <milestone unit="fragment" n="1.8"/>hayam· tgəl·, karuṁ, maṅilvakən· saṁ hyaṁ drabya haji baniṁ, baḍavaṁ, kura, vuhaya, vuṅkunus· tumūt u-
+<lb n="B30"/> <milestone unit="fragment" n="1.9"/>(sa)n· śrī mahārāja, An· kapvāta sira sama təkyəna, tan deyən· baryya-baryya śīla molah-ulaḥ, ta-
+<lb n="B31"/> <milestone unit="fragment" n="1.10"/>n· paṅalapa (sa)linaraṅanikanaṁ tanayan thāni, tan· pamraṅa kayu-kayu, priṁ, ptuṁ, hampyal·, sarvvaphala, mū-
+<lb n="B32"/> <milestone unit="fragment" n="1.11"/>laphala, nyu, pucaṁ, səR̥ḥ, tka riṁ vnaṁ-vnaṁ prakāra, lāvan· ri tan· padamil·-damlanira vistăra, mvaṁ puriḥ
+<lb n="B33"/> <milestone unit="fragment" n="1.12"/>ṅūniv(e)ḥ tan· parapedita (t)an· (simirassi) riṁ (ma)kmitan·, (sanipartumatayanhanatamaṁmattanaḥ)nikanaṁ
+<lb n="B34"/> <milestone unit="fragment" n="1.13"/>varga mŭla smi I kusambyan·, mva taṁn· panahi-tikusa, kevalā tarima dāna juga sira, tumaṅgapana
+<lb n="B35"/> <milestone unit="fragment" n="1.14"/>sapasaṁnikanaṁ vargga mūla sīma I kusambyan· sām(yāmīṅka)nā yathāśakti sakavnaṅṅa(nyā)mava de lokabho-
+<lb n="B36"/> <milestone unit="fragment" n="1.15"/>gani(ṁ) sama (ta)kyanira milu Umimbuḥ sapaṅāpura śrī mahārāja, Irikanaṁ vargga mūla sĭma I kusambya[n·]
+<lb n="B37"/> <milestone unit="fragment" n="1.16"/>samaṅ(k)ana (kuma)deyakna saṁ purapra(dhā)na saṁ (sahutnaṅa)nikanaṁ vargga mūla sĭma I kusambyan·, (An·)
+<lb n="B38"/> <milestone unit="fragment" n="1.17"/>kumva ta sira mobhayahita kr(y)an·-kr(y)an· pa(ta)_giḥ, tan· pa(keṁ)koṁnya tan· (sayanya)
+Face c (South)
+Fragment 11: Upward-facing plane
+<lb n="c1"/> <milestone unit="fragment" n="11.1"/> {traces of 1 akṣara}
+<lb n="c2"/> <milestone unit="fragment" n="11.2"/> {traces of 1 akṣara} ke(va)
+<lb n="c3"/> <milestone unit="fragment" n="11.3"/> + /// ? ? juga sira ? ?
+<lb n="c4"/> <milestone unit="fragment" n="11.4"/> ? sakupaṁ satak· ?
+<lb n="c5"/> <milestone unit="fragment" n="11.5"/> (tampak)· (va) + (varaha) ? 
+<lb n="c6"/> <milestone unit="fragment" n="11.6"/> ? ? (ha)na ? ?· (ne) ?
+<lb n="c7"/> <milestone unit="fragment" n="11.7"/> ta hulu(nanu) ? ? nisasī(ma)
+<lb n="c8"/> <milestone unit="fragment" n="11.8"/> tin· {3/4 akṣaras illegible} kani mula
+Fragment 10: upward-facing and sideways-facing planes
+For face c, this fragment shows between 3 and 5 akṣaras from the ends of 3 lines of the upward-facing plane, none legible with certainty. Then it shows between 2 and 5 akṣaras from the ends of 7 lines of the sideways-facing plane, again none legible with certainty. 
+Fragment 6
+<lb n="c19"/> <milestone unit="fragment" n="6.1"/> {7–10 akṣaras illegible}
+<lb n="c20"/> <milestone unit="fragment" n="6.2"/> {7–10 akṣaras illegible}
+<lb n="c21"/> <milestone unit="fragment" n="6.3"/>? ? rumuhun· I s(m)i ku- 
+<lb n="c22"/> <milestone unit="fragment" n="6.4"/>sam(byan·) ? ya vehǝ
+<lb n="c23"/> <milestone unit="fragment" n="6.5"/> ? ? ? ? ? (sa)ṅa ? ?
+<lb n="c24"/> <milestone unit="fragment" n="6.6"/> ? ? ra(ṅ)ya mvaṁ ri vnaṅani-
+<lb n="c25"/> <milestone unit="fragment" n="6.7"/>(ka)na[ṁ] vargga mŭla (sīma) I ku-
+<lb n="c26"/> <milestone unit="fragment" n="6.8"/>sambyan· mapadagaṅa, lvira-
+<lb n="c27"/> <milestone unit="fragment" n="6.9"/>nya, At(i)t(iḥ) rvaṁ tarub·
+<lb n="c28"/> <milestone unit="fragment" n="6.10"/>(A)lavay· rvaṁ tarub·, paṇḍa-
+<lb n="c29"/> <milestone unit="fragment" n="6.11"/>(y)· mās· rvaṁ paR̥An·
+<lb n="c30"/> [pa]<milestone unit="fragment" n="6.12"/>(ṇḍa)y· (vs)i rvaṁ paR̥An·
+<lb n="c31"/> <milestone unit="fragment" n="6.13"/>? ? (t)i ? ? ? ? ?
+Fragment 1
+We are unable to estimate how many lines, if any, have been lost after the last line on fragment 6 and the first line on fragment 1. We tentatively assume that no lost fragment would have intervened, and hence count no lost lines.
+
+<lb n="c32"/> {1–3 akṣaras lost} [rasan]<milestone unit="fragment" n="1.1"/>yānugra(ha)
+<lb n="c33"/> [śrī mahārā]<milestone unit="fragment" n="1.2"/>(ja,) Irikanaṁ
+<lb n="c34"/> [vargga mūla] <milestone unit="fragment" n="1.3"/>(sī)ma I kusa-
+<lb n="c35"/> <milestone unit="fragment" n="1.4"/>m(b)ya[n·] (sa)pasuk ṣīma kabe-
+<lb n="c36"/> <milestone unit="fragment" n="1.5"/>ḥ kapagəhaknanyan tamo-
+<lb n="c37"/> <milestone unit="fragment" n="1.6"/>laḥ I (pa)nataranya (so)vaṁ-
+<lb n="c38"/> <milestone unit="fragment" n="1.7"/>sovaṁ, tan· kolah-u-
+<lb n="c39"/> <milestone unit="fragment" n="1.8"/>laha de saṅ anāgata pra-
+<lb n="c40"/> <milestone unit="fragment" n="1.9"/>bhu mvaṁ saṅ anāgata vineḥ
+<lb n="c41"/> <milestone unit="fragment" n="1.10"/>madaṇḍər· ṅuniveḥ I-
+<lb n="c42"/> <milestone unit="fragment" n="1.11"/>kanaṁ vineḥ ma(k)urug· sa-
+<lb n="c43"/> <milestone unit="fragment" n="1.12"/>(keta) kaliliranani sa(ntā)-
+<lb n="c44"/> <milestone unit="fragment" n="1.13"/>na pratisantā(na)n(i)kanaṁ va-
+<lb n="c45"/> <milestone unit="fragment" n="1.14"/>rgga mūla sima I kusambya[n·]
+<lb n="c46"/> <milestone unit="fragment" n="1.15"/>makatə<supplied reason="omitted">və</supplied>ka paṁ(ḍiri) <supplied reason="omitted">śrī mahārāja</supplied> <surplus>maniratna
+<lb n="c47"/> <milestone unit="fragment" n="1.16"/>? sa</surplus> ri maṇiratnasiṅhāsa-
+<lb n="c48"/> <milestone unit="fragment" n="1.17"/>na makaḍatvan· I vvatan <supplied reason="omitted">m</supplied>as·
+<lb n="c49"/> <milestone unit="fragment" n="1.18"/>(mvaṁ) yāpvan· hana sira lā-
+
+
+Face d (North)
+Looking at the Leiden estampage that shows all faces on fragment 1, and based on comparison with the fully engraved face c (with its estimated number of 49 lines), which bears about 8 more lines below the end of the last line of the incompletely engraved face d, we estimate that face d would have covered 41 lines. Of these 41 lines, vestiges are preserved on fragments 4 (the top of the face) and 1 (the lower part of the face).
+Fragment 4
+<lb n="d12"/> <milestone unit="fragment" n="4.1"/> {traces of 1 akṣara}
+<lb n="d13"/> <milestone unit="fragment" n="4.2"/> ? tya deya///[ntat patī]-
+<lb n="d14"/> <milestone unit="fragment" n="4.3"/>(ya) tatan(o)///[liha I vu]-
+<lb n="d15"/> <milestone unit="fragment" n="4.4"/>(nta)t· tatiṅha(la) /// [ri liku]-
+<lb n="d16"/> <milestone unit="fragment" n="4.5"/>[ran· ta]///(ruṁ) riṅ a///[dgan·]
+Fragment 1
+<lb n="d31"/> <milestone unit="fragment" n="1.1"/>māla-păta(ka) ? ? /// [Avūka]
+<lb n="d32"/> <milestone unit="fragment" n="1.2"/>tan· tmvaṁ sāma, (mipa) /// + +
+<lb n="d33"/> <milestone unit="fragment" n="1.3"/>yan· maṁjanma (p)āpā///[ta ya]
+<lb n="d34"/> <milestone unit="fragment" n="1.4"/>saṁsārā sajīvakāla, (ma)- 
+<lb n="d35"/> <milestone unit="fragment" n="1.5"/>ṅkana tmahananikāṅ vaṁ Anyā-
+<lb n="d36"/> <milestone unit="fragment" n="1.6"/>ya, Umulah-ulaḥ Ikeṁ
+<lb n="d37"/> <milestone unit="fragment" n="1.7"/>sīma I kusambyan·, Anu-
+<lb n="d38"/> <milestone unit="fragment" n="1.8"/>graha śrī mahārāja Iri-
+<lb n="d39"/> <milestone unit="fragment" n="1.9"/>kanaṁ vargga mūla sĭma I ku-
+<lb n="d40"/> <milestone unit="fragment" n="1.10"/>sambyan·, I vruhanira ka⌈-
+<lb n="d41"/> <milestone unit="fragment" n="1.11"/>be[ḥ] prayatna, // Ø //
+Additional Fragments
+Fragment 7
+This cracked fragment shows vestiges of text from an undermined face.
+ 
+(7.1) {traces of 2/3 akṣaras}
+(7.2) ? le(ka) ? ?
+(7.3) ?, Aniru ta ?
+(7.4) ? p(u) ? ?· (ru)
+Fragment 8 
+This fragment shows vestiges of text from an undermined face.
+
+(8.1) + + t·, ?
+(8.2) + ma ?
+(8.3) ? (r/t/k)· ? i-->        
+
+                </p>
+</div>
             </div>
             <!--<div type="apparatus">
                 <!-\-apparatus encoded as per EG §9.1, basic elements for apparatus below-\->
@@ -114,8 +272,8 @@
                 <!--bibliography encoded as per section §9.4 -->
                 <!-- NB: you are encouraged to experiment with encoding bibliography to the extent you have the bibliographic data available, but it is not mandatory at this stage, because our bibliographic data are normally assembled along with other metadata in spreadsheets and will be imported from there into our xml files by a semi-automated process at a later stage. -->
                 <p><!-- formulate epigraphic lemma here, using the items of primary bibliography --></p>
-                <listBibl type="secondary">
-                   <!-- one <bibl/> per item of secondary bibliography -->
+                <listBibl type="primary">
+                   <bibl n="TEA"><ptr target="bib:TitiSurtiNastiti+al2022_01"/><citedRange unit="page">116-140</citedRange></bibl>
                 </listBibl>
             </div>
         </body>

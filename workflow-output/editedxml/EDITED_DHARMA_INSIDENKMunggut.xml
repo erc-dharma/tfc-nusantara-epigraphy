@@ -14,12 +14,19 @@
                <persName ref="part:ekba">
                   <name>Eko Bastiawan</name>
                </persName>
+               <persName ref="part:argr">
+                  <forename>Arlo</forename>
+                  <surname>Griffiths</surname>
+               </persName>
             </respStmt>
             <respStmt>
                <resp>intellectual authorship of edition</resp>
                <persName ref="part:argr">
                   <forename>Arlo</forename>
                   <surname>Griffiths</surname>
+               </persName>
+               <persName ref="part:ekba">
+                  <name>Eko Bastiawan</name>
                </persName>
             </respStmt>
          </titleStmt>
@@ -30,7 +37,7 @@
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/">
                   <p>This work is licenced under the Creative Commons Attribution 4.0 Unported Licence. To view a copy of the licence, visit https://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.</p>
-                  <p>Copyright (c) 2019-2025 by Eko Bastiawan &amp; Arlo Griffiths</p>
+                  <p>Copyright (c) 2019-2025 by Arlo Griffiths &amp; Eko Bastiawan</p>
                </licence>
             </availability>
             <date from="2019" to="2025">2019-2025</date>
@@ -280,8 +287,8 @@
              <listBibl type="primary">
 	<bibl n="D"><ptr target="bib:Damais1955_01"/><citedRange unit="page">64</citedRange></bibl>
 	<bibl n="MS&amp;RK"><ptr target="bib:MachiSuhadi+RichadianaKartakusuma1996_01"/><citedRange unit="page">45, 59</citedRange></bibl>
-	<bibl n="NST"><ptr target="bib:NinnySusantiTejowasono2003_01"/><citedRange unit="page">354-357</citedRange><citedRange unit="item"/>3</bibl>
-             <bibl/>
+	<bibl n="NST"><ptr target="bib:NinnySusantiTejowasono2003_01"/><citedRange unit="page">354-357</citedRange><citedRange unit="item">3</citedRange></bibl>
+<bibl n="TEA"><ptr target="bib:TitiSurtiNastiti+al2022_01"/><citedRange unit="page">...</citedRange></bibl>
            </listBibl>
         </div>
       </body>
