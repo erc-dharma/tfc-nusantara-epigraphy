@@ -9,6 +9,16 @@
       <fileDesc>
          <titleStmt>
             <title>Kuśmala</title>
+         	<respStmt>
+         		<resp>EpiDoc encoding</resp>
+         		<persName ref="part:masc">
+         			<name>Marine Schoettel</name>
+         		</persName>
+         		<persName ref="part:argr">
+         			<forename>Arlo</forename>
+         			<surname>Griffiths</surname>
+         		</persName>
+         	</respStmt>
             <respStmt>
                <resp>intellectual authorship of edition</resp>
                <persName ref="part:argr">
@@ -25,7 +35,7 @@
                <licence target="https://creativecommons.org/licenses/by/4.0/">
                   <p>This work is licenced under the Creative Commons Attribution 4.0 Unported Licence. To view a copy of the licence, visit https://creativecommons.org/licenses/by/4.0/ or send
                             a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.</p>
-                  <p>Copyright (c) 2019-2025 by Arlo Griffiths.</p>
+                  <p>Copyright (c) 2019-2025 by Arlo Griffiths &amp; Marine Schoettel.</p>
                </licence>
             </availability>
             <date from="2019" to="2025">2019-2025</date>
@@ -245,7 +255,7 @@ n="18" break="no"/>kăśita</p>
                     </app>
                 </listApp>
             </div>
-            <div type="translation" resp="part:argr">
+            <div type="translation" resp="part:argr part:masc">
                 <p>Hail! The elapsed śaka year <num value="1272">1272</num>, month of Mārgaśira, fifteenth day of the waxing fortnight, Mavulu, Vagai, Tuesday (aṅgāra), [in the <foreign xml:lang="kaw-Latn">vuku</foreign> of] Pahaṅ. That was the time of the completion of the stone-made dam at <placeName>Kuśmala</placeName> by the rakryan <roleName>Dəmuṅ</roleName>, saṅ <persName>Martabun Raṅgah Sapu</persName>, under the auspices of (<foreign xml:lang="kaw-Latn">makamaṅgala</foreign>) the elder brother <persName>Amūrvabhūmi</persName>, having as attendants the <persName>Raṅgah Avar-avar</persName> and the <persName><roleName>juru</roleName> with the byname <persName>Pupon</persName></persName>. Such is the order of <persName>his Highness the Lord of Matahun</persName>, Śrī Bhaṭāra <persName>Vijayarājasānantavikramottuṅgadeva</persName>, the cause of welfare of the world, [namely] to bring about the happiness of the commoners/vassals coming under the territory of the chiefs to the east of <placeName>Daha</placeName>; likewise is the grace of his Eminence the Lord of Matahun, whose nature is to have affection for [the Goddess] Fame, who causes the happiness of the world: “[i.e. that] <persName>Raṅgah Sapu</persName> with the priests should be determined about making every effort for the restoration of the dam. May it be perfectly accomplished!” Supernatural was the beauty of this pious work in the form of a dam of an extremely rare perfection, it was already perfect thanks to <persName>Raṅgah Sapu</persName>. Truly skilful was his manner of acting, the one named <persName>Pupon</persName>was inseparable, - as his byname -, constantly praised as good, strong, virtuous and able to act. He was ordered by the king not to be careless towards the king:  [A construction] superior in glory, splendid and excellent, very hospitable and the pleasure of whomever saw it, it was, so to say, the perpetual protection restoring the dammed river to its complete charm, being strong [again]. Announcing his duty of paying homage to the ruler, ever eager for a means to see his Majesty: the [dam] at the renowned [place] Kuśmala was at last using the name “śilamat” (could be called).
 </p>
             </div>
