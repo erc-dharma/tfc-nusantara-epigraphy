@@ -8,33 +8,26 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Encoding template for inscription</title>
-            <!--Change the title of the file, e.g. Raktamālā grant of the time of Budhagupta, year 159-->
-            <!-- Add your name in the respStmt matching your involvement -->
+            <title>Gajah Mada’s foundation of a caitya (1351-04-27)</title>
             <respStmt>
                <resp>EpiDoc Encoding</resp>
-               <!-- Work done in the file, e.g. editor ...-->
-               <persName ref="part:jodo"><!-- Update the id -->
-                  <forename>John</forename>
-                  <!-- Fill in your  names — it is possible to use only <name> instead of <foreame> and <surname> -->
-                  <surname>Doe</surname>
+               <persName ref="part:argr">
+                  <forename>Arlo</forename>
+                  <surname>Griffiths</surname>
                </persName>
             </respStmt>
             <respStmt>
                <resp>intellectual authorship of edition</resp>
-               <!-- This may be the same as the creator of the file -->
-               <persName ref="part:jodo"><!-- Update the id -->
-                  <forename>John</forename>
-                  <!-- Fill in the name of the responsible scholar — it possible to use only <name> instead of <foreame> and <surname> -->
-                  <surname>Doe</surname>
+               <persName ref="part:argr">
+                  <forename>Arlo</forename>
+                  <surname>Griffiths</surname>
                </persName>
             </respStmt>
          </titleStmt>
          <publicationStmt>
             <authority>DHARMA</authority>
-            <pubPlace><!-- Fill in here the place or places where the encoding has been done --></pubPlace>
-            <idno type="filename">DHARMA_encodingTemplateInscription_v03</idno>
-            <!-- Replace by filename, e.g. Pallava00001 -->
+            <pubPlace>Jakarta</pubPlace>
+            <idno type="filename">DHARMA_INSIDENKGajahMada</idno>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/">
                   <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
@@ -42,9 +35,7 @@
                             https://creativecommons.org/licenses/by/4.0/ or send a letter to
                             Creative Commons, 444 Castro Street, Suite 900, Mountain View,
                             California, 94041, USA.</p>
-                  <p>Copyright (c) 2019-2025 by John
-                            Doe.</p>
-                  <!-- replace year and name, use format "Forename1 Surname1 & Forename2 Surname2" or "Forename1 Surname1, Forename2 Surname2 & Forename3 Surname3"  if necessary — the copyright is that of the encoder(s) -->
+                  <p>Copyright (c) 2019-2025 by Arlo Griffiths.</p>
                </licence>
             </availability>
             <date from="2019" to="2025">2019-2025</date>
@@ -62,7 +53,7 @@
                </msContents>
                <physDesc>
                   <handDesc>
-                     <p><!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EGD 11.2. --></p>
+                     <p>Same hand as in Mpu Mano and in some Singasari stones.<!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EGD 11.2. --></p>
                      <!-- If you need to identify individual hands (EGD §7.5/) in addition to one or more paragraphs of general palaeographic description, wrap <summary> around the <p> or <p>s above, and, outside <summary>, create <handNote> elements for each hand as follows:
 						<summary><p><p/></summary>
 						<handNote xml:id="Pallava00001_hand1"></handNote>
@@ -95,18 +86,20 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
-         <change who="part:axja" when="2020-10-12">Version 3.2 : moving the xml:lang to the root</change>
-         <change who="part:axja" when="2020-07-02">Version 3.1: adding the encodingDesc and linking the template with the DHARMA Schema</change>
-         <change who="part:axja" when="2020-03-18">Version 2: addition of handDesc and summary</change>
-         <change who="part:axja" when="2019-12-18" status="draft">Creation of the
-                template</change>
-         <!-- replace this by a line that has you as @who, that has the @date on which you finished the first basic encoding of the file, and that has the following description of what was finished on that date: "Initial encoding of the file." Then add a <change> entry for each significant change to the file. -->
+         <change who="part:argr" when="2023-12-16">started encoding the inscription</change>
       </revisionDesc>
    </teiHeader>
    <text xml:space="preserve">
       <body>
-         <div type="edition" xml:lang="san-Latn"><!-- update the @xml:lang value, see EGD §7.2-->
-            <!--edition encoded as per EGD §§2−7-->
+         <div type="edition" xml:lang="kaw-Latn">
+<p><lb n="1"/> // 0 // I śaka, <num value="1214">1214</num>, jyeṣṭa-māsa, Irika divaśani
+<lb n="2"/>kamoktan· pāduka bhaṭāra saṁ lumaḥ ri śivabuddha // : //</p> 
+<p>sva<lb n="3" break="no"/>sti śrī śaka-varṣătĭta, <num value="1273">1273</num>, veśăka-māsa, tithi pratipā<lb n="4" break="no"/>da śuklapakṣa, <abbr>ha</abbr>, <abbr>po</abbr>, <abbr>bu</abbr>, vara, tolu, niritistha-graha-
+<lb n="5"/>căra, mr̥gaśira-nakṣatra, śaśi-devată, bāyabya-maṇḍala
+<lb n="6"/>sobhana-yoga, śveta-muhŭrtta, brahmā-parvveśa, kistughna<lb n="7" break="no"/>-kāraṇa, vr̥ṣabha-răśi,</p> <p>Irika divaśa saṁ mahāmantrimukya, ra<lb n="8" break="no"/>kryan mapatiḥ mpu mada, săkṣăt· praṇăla kta rāsika de bhaṭā<lb n="9" break="no"/>ra saptaprabhu, makādi śrĭ tribhuvanotuṅgadevi mahārā<lb n="10" break="no"/>jasajayaviṣṇuvārddhani, potra potrikā de pāduka bha<lb n="11" break="no"/>ṭāra śrĭ kr̥tanāgara jñăneśvarabajranămābhiṣekā, sama<lb n="12" break="no"/>ṅkana tvək· rakryan mapatiḥ jĭrṇnodhăra, makĭrtti caitya ri 
+<lb n="13"/>mahābrāhmāṇa, śeva sogata, samāṅdulur i kamokta<lb n="14" break="no"/>n· pāduka bhaṭāra, muvaḥ saṁ mahāvr̥ddhamantri lĭnā ri dagan·
+<lb n="15"/>bhaṭāra, doniṁ caitya de rakryan· mapatiḥ paṅabhaktya<lb n="16" break="no"/>nani santăna pratisantăna saṁ paramasatya ri pādadvaya bhaṭā<lb n="17" break="no"/>ra, Ika ta kĭrtti rakryan mapatiḥ ri yavadvĭpamaṇḍala //</p>
+
          </div>
          <div type="apparatus">
            <!--apparatus encoded as per EGD §9.1, basic elements for apparatus below-->
@@ -124,8 +117,7 @@
             <!--commentary encoded as per section §9.3 -->
          </div>
         <div type="bibliography">
-	<!--bibliography encoded as per section §9.4 -->
-           <p><!-- formulate epigraphic lemma here, using the items of primary bibliography --></p>
+<p>Re-edited by Arlo Griffiths, from photo, Comparing two published readings of Brandes (1° ROC 1904, p. 4-5; 2° Tjandi Singasari, p. 38, with plate 66), and an unpublished reading by Boechari. See also Blom, The Antiquities of Singasari, p. 136 (with imprecise reading). Compare furthermore N.J.  Krom, “Epigrafische Bijdragen, III: De Singasari-inscriptie van 1273”, BKI 75 (1919), 19–24; Bosch,“Jîrṇṇoddhâra”, TBG 59 (1919-1921), 326; Griffiths, Mpu Mano.</p>
         	<listBibl type="primary">
 				<bibl n="siglum"/><!-- one <bibl/> per item of primary bibliography. Every entry mentionned in apparatus  should hava a @n to declare its sigla -->
 			</listBibl>
