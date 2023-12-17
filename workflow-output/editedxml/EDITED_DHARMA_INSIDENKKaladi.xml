@@ -721,8 +721,7 @@
                    <citedRange unit="part">A.</citedRange><citedRange unit="item">88</citedRange></bibl>
                  <bibl n="Da">
                    <ptr target="bib:Damais1955_01"/>
-                   <citedRange unit="page">49</citedRange>
-  <note>1r1–1v1 only</note></bibl>
+                   <citedRange unit="page">49<note>1r1–1v1 only</note></citedRange></bibl>
                  <bibl n="AN">
                    <ptr target="bib:AnjaliNayenggita2012_01"/><citedRange unit="page">10-17</citedRange>
                  </bibl>
