@@ -8,7 +8,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Ayam Teas II (822 Śaka – 901-01-01)</title>
+            <title>Charter of Ayam Teas II</title>
             <respStmt>
                <resp>EpiDoc Encoding</resp>
                <persName ref="part:wjsa">
@@ -82,42 +82,37 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
+         <change who="part:wjsa" when="2022-12-23">Fixing validation error</change>
          <change who="part:axja" when="2022-08-16">Transforming docx into xml</change>
       </revisionDesc>
    </teiHeader>
    <text xml:space="preserve">
            <body> 
-                   <div type="edition">
-              <div type="textpart">
-                <head xml:lang="eng">Recto</head>
-                    <p><lb n="1r1"/> // <unclear>sva</unclear>sti śakavarṣātῑta <unclear>822 punaḥ-posya māsa tithi Aṣṭami</unclear> śukla, pakṣa, ha, ka, vr̥, vāra tatkālaniṁ  Ājñă śrῑ mahārāja ra
-                    <lb n="1r2" break="no"/>kai vatu kura  dyaḥ  balituṁ, śrῑ dharmmodaya mahāsambhu, tumurun· I rakryān·
+                   <div type="edition" xml:lang="kaw-Latn">
+                    <p><lb n="1r1"/><g type="ddandaCross">.</g><unclear>sva</unclear>sti śakavarṣātῑta <num value="822"><unclear>822</unclear></num> <unclear>punaḥ-posya māsa tithi Aṣṭami</unclear> śukla, pakṣa, <abbr>ha</abbr>, <abbr>ka</abbr>, <abbr>vr̥</abbr>, vāra tatkālaniṁ  Ājñă śrῑ mahārāja <abbr>ra
+                    <lb n="1r2" break="no"/>kai</abbr> vatu kura  dyaḥ  balituṁ, śrῑ dharmmodaya mahāsambhu, tumurun· I rakryān·
                     mapatiḥ I hino, pu dakṣottama bāhubajra pratipakṣā
-                    <lb n="1r3" break="no"/>kṣaya, rake halu, pu <unclear>saṁgrāmadurānddhara rake sirikan· pu samāravi</unclear>krănta, rake vka, pu bhasvara, rake pagar vsi, pu vῑravikrama, ra
-                    <lb n="1r4" break="no"/>ke bavaṁ, <unclear>pu maṁlawan·, samgat tiruAn pu śivastra, maṁhuri pu cakra,</unclear> vadihatī, pu ḍapit·, makudur·, <unclear>pu samvr̥da,</unclear> kumonnakan·
-                    <lb n="1r5"/> <unclear>sovaraniṅ anak vanuA</unclear> ṇyā _· śīma viṇ //
-                    <lb n="1r6"/> vadihatī, kudur·, kanakbanuAn·, kavahutan·, I <gap reason="lost" extent="unknown" unit="character"/> mvyā vatak ha(
+                    <lb n="1r3" break="no"/>kṣaya, <abbr>rake</abbr> halu, pu <unclear>saṁgrāmadurānddhara</unclear> <abbr><unclear>rake</unclear></abbr> <unclear>sirikan· pu samāravi</unclear>krănta, <abbr>rake</abbr> vka, pu bhasvara, <abbr>rake</abbr> pagar vsi, pu vῑravikrama, <abbr>ra
+                    <lb n="1r4" break="no"/>ke</abbr> bavaṁ, <unclear>pu maṁlawan·, samgat tiruAn pu śivastra, maṁhuri pu cakra,</unclear> vadihatī, pu ḍapit·, makudur·, <unclear>pu samvr̥da,</unclear> kumonnakan·
+                    <lb n="1r5"/> <unclear>sovaraniṅ anak vanuA</unclear> ṇyā <space type="descender"/>· śīma viṇ //
+                    <lb n="1r6"/> vadihatī, kudur·, kanakbanuAn·, kavahutan·, I <gap reason="lost" extent="unknown" unit="character"/> mvyā vatak ha
                     <lb n="1r7"/> k.........kapayaha.... .masambyavahāra lan·, ...................... maṅ ilala drabya haji, tava
                     <lb n="1r8" break="no"/> ..........<supplied reason="lost">kbo ruaṁ  puluḥ  kboAnya</supplied>, sapi, pataṁ puluḥ , vədus· <supplied reason="lost">vualuṁ puluḥ</supplied>........................lu
                     <lb n="1r9"/> <supplied reason="lost">tlu pasaṁ</supplied> maṅaraḥ, tluṁ lumpas·, mati tluḥ. tluṁ tuhān·,  matvriḥ,
                     <lb n="1r10"/> <gap reason="lost"/> <unclear>Iṁ sasīma, yāpuAn· pi</unclear>nikul·, dagaṅanya, kady aṅganniṁ, mabasanā, mabəsara, ma<unclear>saya</unclear>ṅaṁ, makaca<unclear>puri</unclear>
                     <lb n="1r11"/> <gap reason="lost"/> <unclear>ga</unclear>ram·, deṁ paḍat·, ha <gap reason="lost"/>
-                    <lb n="1r12"/>  <gap reason="lost"/> <gap reason="lost"/> </p></div>
-                      <div type="textpart">
-                        <head xml:lang="eng">Verso</head>
+                    <lb n="1r12"/>  <gap reason="lost"/> <gap reason="lost"/> </p>
 <p><lb n="1v1"/> <gap reason="lost"/> ṇḍa <gap reason="lost"/>
 <lb n="1v2"/> <gap reason="lost"/> A<unclear>c</unclear>· <gap reason="lost"/>
-<lb n="1v3"/> <gap reason="lost"/> tavan· <gap reason="lost" quantity="6" unit="character"/> n· pata <unclear>ṇ</unclear>ran <unclear>A</unclear><gap reason="lost" quantity="3" unit="character"/> ṅkana ga <gap reason="lost"/>
+<lb n="1v3"/> <gap reason="lost"/> tavan· <gap reason="lost" quantity="6" unit="character"/>n· pata <unclear>ṇ</unclear>ran <unclear>A</unclear><gap reason="lost" quantity="3" unit="character"/> ṅkana ga <gap reason="lost"/>
 <lb n="1v4"/> <gap reason="lost"/> yan va<unclear>ti</unclear>ha <gap reason="lost"/>
 <lb n="1v5"/> <gap reason="lost"/> maṅ<unclear>i</unclear>lala drabya haji<unclear>, saparanya</unclear>
-<lb n="1v6"/> <gap reason="lost"/> knāna ya sakalv<unclear>i</unclear>r_nya
+<lb n="1v6"/> <gap reason="lost"/> knāna ya sakalv<unclear>i</unclear>r<space type="descender"/>nya
 <lb n="1v7"/> <gap reason="lost"/> ma<unclear>y</unclear>ākha, makapas· makacapu<unclear>r</unclear>i
 <lb n="1v8"/> <gap reason="lost"/> tu<unclear>ma</unclear>ma ri <gap reason="lost"/>
-
-Subsequent lines are lost.</p>
-</div>
-                       
-                   </div>
+</p>
+                 </div>      
+                 
                        <div type="apparatus">
         <app loc="1r1"><lem>varṣātīta</lem> <rdg source="bib:Damais1955_01">varṣātĭta</rdg></app>
 	<app loc="1r1"><lem>tatkālaniṁ Ājñă</lem><rdg source="bib:Damais1955_01">tatkālani Ājñă</rdg></app>
@@ -145,7 +140,6 @@ Subsequent lines are lost.</p>
                  <listBibl type="secondary">
                     <bibl>
                        <ptr target="bib:JBG08_1941"/>
-                       <author>Stutterheim</author>
                        <citedRange>106, 118</citedRange>
                        <note>Note that Nakada erroneously gives the year of publication as 1940 (implying <ptr target="bib:JBG07_1940"/>), while Boechari gives the years 1941-1947 (implying <ptr target="bib:JBG09_1941-1947"/>).</note></bibl>
                     <bibl>
