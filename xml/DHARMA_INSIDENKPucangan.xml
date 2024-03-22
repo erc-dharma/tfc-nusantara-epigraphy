@@ -50,91 +50,91 @@
     </teiHeader>
     <text xml:space="preserve">
 		<body>
-    <div type="edition">
-        <div n="A" subtype="face" type="textpart">
+    <div type="edition" xml:lang="kaw-Latn">
+        <div n="A" subtype="face" type="textpart"><!-- undo the division into textparts -->
             <head xml:lang="eng">Sanskrit Text</head>
-            <ab><lb n="1"/> // 0 // svasti //</ab>
-            <lg met="āryā" n="1">
+            <ab xml:lang="san-Latn"><lb n="1"/> // 0 // svasti //</ab>
+            <lg xml:lang="san-Latn" met="āryā" n="1">
                 <l n="a">tribhir api guṇair upeto nr̥ṇāv vidhāne sthitau tathā pralaye</l>
                 <l n="b">A-guṇa Iti yaḥ prasiddhas tasmai dhātre namas satatam· ⊙</l>
             </lg>
-            <lg met="āryā" n="2">
+            <lg xml:lang="san-Latn" met="āryā" n="2">
                 <l n="a">A-gaṇita-vikrama-guruṇā praṇamya-māna<lb break="no" n="2"/>s surādhipena
                     sadā</l>
                 <l n="b">[A](p)[i] yas trivikrama Iti prathito loke namas tasmai ⊙</l>
             </lg>
-            <lg met="āryā" n="3">
+            <lg xml:lang="san-Latn" met="āryā" n="3">
                 <l n="a">yas sthāṇur apy ati-tarāy yavepsitārtha-prado guṇair jagatām·</l>
                 <l n="b">kalpa-drumam atanum adhaḥ karoti tasmai śivāya <lb n="3"/> namaḥ ⊙ || ⊙</l>
             </lg>
-            <lg met="śārdūlavikrīḍita" n="4">
+            <lg xml:lang="san-Latn" met="śārdūlavikrīḍita" n="4">
                 <l n="a">kīrtyākhaṇḍitayātayā karuṇayā yas strī-paratvan dadhac</l>
                 <l n="b">cāpākarṣaṇataś ca yaḥ praṇihitan tībraṅ kalaṅkaṅ kare</l>
                 <l n="c">yaś cāsac-carite parāṅ-mukhatayā śūro raṇe bhīrutāṁ</l>
                 <l n="d">svair doṣān bhajate gu<lb break="no" n="4"/>ṇais sa jayatād erlaṅga-nāmā
                     nr̥paḥ ⊙</l>
             </lg>
-            <lg met="śārdūlavikrīḍita" n="5">
+            <lg xml:lang="san-Latn" met="śārdūlavikrīḍita" n="5">
                 <l n="a">Āsīn nirjita-bhūri-bhū-dhara-gaṇo bhū-pāla-cūḍā-maṇiḥ</l>
                 <l n="b">prakhyāto bhuvana-traye ’pi mahatā śauryyeṇa siṁhopamaḥ</l>
                 <l n="c">yenorvī suciran dhr̥tāmita-phalā la<lb break="no" n="5"/>kṣmīś ca no
                     gatvarī</l>
                 <l n="d">sa śrī-kīrti-valānvito yava-patiś śrīśāna-tuṅgāhvayaḥ ⊙</l>
             </lg>
-            <lg met="vasantatilaka" n="6">
+            <lg xml:lang="san-Latn" met="vasantatilaka" n="6">
                 <l n="a">tasyātma-jākaluṣa-mānasa-vāsa-ramyā</l>
                 <l n="b">haṁsī yathā sugata-pakṣa-sadāvavaddhā</l>
                 <l n="c">sā rājahaṁsa-mudam eva vivarddhaya<lb break="no" n="6"/>ntī</l>
                 <l n="d">śrīśānatuṅga-vijayeti rarāja rājñī ⊙</l>
             </lg>
-            <lg met="vasantatilaka" n="7">
+            <lg xml:lang="san-Latn" met="vasantatilaka" n="7">
                 <l n="a">mandākinīm iva tadātma-samāṁ samr̥ddhyā</l>
                 <l n="b">kṣīrārṇavaḥ prathita-śuddhi-guṇāntarātmā</l>
                 <l n="c">tāñ cākarot praṇayinīn nayanābhinandī</l>
                 <l n="d">śrī-loka-pāla-nr̥patir nara-nātha-nā<lb break="no" n="7"/>gaḥ ⊙</l>
             </lg>
-            <lg met="śārdūlavikrīḍita" n="8">
+            <lg xml:lang="san-Latn" met="śārdūlavikrīḍita" n="8">
                 <l n="a">tasmāt prādur abhūt prabhāva-vibhavo bhū-bhūṣaṇodbhūtaye</l>
                 <l n="b">bhūtānām bhava-bhāvanodyata-dhiyām bhām bhāvayan bhūtibhiḥ</l>
                 <l n="c">Ābhiś cāpratima-prabhābhir abhayo bhāsvān ivābhyudyataś</l>
                 <l n="d">śatrūṇām ibha-kumbha-kumbha-<lb n="8"/>dalane putraḥ prabhur bhū-bhujām·
                     ⊙</l>
             </lg>
-            <lg met="āryā" n="9">
+            <lg xml:lang="san-Latn" met="āryā" n="9">
                 <l n="a">śrī-makuṭa-vaṅśa-varddhana Iti pratīto nr̥ṇām anupamendraḥ</l>
                 <l n="b">śrīśāna-vaṅśa-tapanas tatāpa śa(t)r(ū)n pratāpena ⊙</l>
             </lg>
-            <lg met="vasantatilaka" n="10">
+            <lg xml:lang="san-Latn" met="vasantatilaka" n="10">
                 <l n="a">tasyādhipasya duhitātimanojña-rupā</l>
                 <l n="b">mūrteva rā<lb break="no" n="9"/>ja-guṇato yava-rāja-lakṣmīḥ</l>
                 <l n="c">dvīpāntare ’pi subhagena babhūva pitrā</l>
                 <l n="d">nāmnā kr̥tā khalu guṇa-priya-dharmma-patnī ⊙</l>
             </lg>
-            <lg met="vasantatilaka" n="11">
+            <lg xml:lang="san-Latn" met="vasantatilaka" n="11">
                 <l n="a">Āsīd asāv api viśiṣṭa-viśuddha-janmā</l>
                 <l n="b">rājānvayād udayanaḥ prathitāt prajātaḥ</l>
                 <l n="c">tāṁ śrī<lb break="no" n="10"/>matīv vidhivad eva mahendra-dattāv</l>
                 <l n="d">vyaktāhvayo nr̥pa-sutām upayacchate sma ⊙</l>
             </lg>
-            <lg met="vasantatilaka" n="12">
+            <lg xml:lang="san-Latn" met="vasantatilaka" n="12">
                 <l n="a">śreṣṭhaḥ prajāsu sakalāsu kalābhirāmo</l>
                 <l n="b">rāmo yathā daśarathāt svaguṇair garīyān·</l>
                 <l n="c">sambhāvitonnata-gatir ma<lb break="no" n="11"/>hasā munīndrair</l>
                 <l n="d">erlaṅga-deva Iti divya-sutas tato ’bhūt· ⊙</l>
             </lg>
-            <lg met="vasantatilaka" n="13">
+            <lg xml:lang="san-Latn" met="vasantatilaka" n="13">
                 <l n="a">śrī-dharmma-vaṁśa Iti pūrva-yavādhipena</l>
                 <l n="b">sambandhinā guṇa-gaṇa-śra(va)ṇotsukena</l>
                 <l n="c">Āhūya sādaram asau sva-sutā-vivāhan</l>
                 <l n="d">drāk sarvathā <lb n="12"/> prathita-kīrttir abhūn mahātmā ⊙</l>
             </lg>
-            <lg met="mañjubhāṣiṇī" n="14">
+            <lg xml:lang="san-Latn" met="mañjubhāṣiṇī" n="14">
                 <l n="a">Atha bhasmasād abhavad āśu tat-puram</l>
                 <l n="b">puru-hūta-rāṣṭram iva – dya – ⏑ – </l>
                 <l n="c">kalinā khalena khalu kiṅkarair vinā</l>
                 <l n="d">sa narottamena sahito vanāny agāt· ⊙</l>
             </lg>
-            <lg met="śārdūlavikrīḍita" n="15">
+            <lg xml:lang="san-Latn" met="śārdūlavikrīḍita" n="15">
                 <l n="a">śākendre śaśa-lāñchanā<lb break="no" n="13"/>[bdhi]-vadane yāte
                     mahā-vatsare</l>
                 <l n="b">māghe māsi sita-trayodaśa-tithau vāre śaśiny utsukaiḥ</l>
@@ -142,20 +142,20 @@
                 <l n="d">śrī-lokeśvara-nīralaṅga-nr̥patiḥ (pā)<lb break="no" n="14"/>hīty apātāṅ
                     kṣitim· ⊙</l>
             </lg>
-            <lg met="vasantatilaka" n="16">
+            <lg xml:lang="san-Latn" met="vasantatilaka" n="16">
                 <l n="a">samrājya-dīkṣitam iman nr̥patin niśamya</l>
                 <l n="b">śakty(ā) jitāri-nikaran nivaho ripūṇām·</l>
                 <l n="c">Adyāpi tad-bhuja-bhujaṅga-talasya śaśvad</l>
                 <l n="d">abhyasyatīha (capa)latvam abhūta-pūrvvam· <lb n="15"/> ⊙</l>
             </lg>
-            <lg met="śārdūlavikrīḍita" n="17">
+            <lg xml:lang="san-Latn" met="śārdūlavikrīḍita" n="17">
                 <l n="a">bhūyāṁso yava-bhū-bhujo bubhujire pr̥thvīv vipakṣe ’rthinas</l>
                 <l n="b">sāmarthyān nr̥pa-janmano na bubhujus taj(jā) narendrāsane</l>
                 <l n="c">kintu śrī-jalalaṅga-deva-nr̥patir vaṁśyo ’dhirājāgraṇīr</l>
                 <l n="d">bhobhuṅkte sa bhu<lb break="no" n="16"/>[na]kti kevalam arin dvandvam
                     bhraman bhūtale ⊙</l>
             </lg>
-            <lg met="śārdūlavikrīḍita" n="18">
+            <lg xml:lang="san-Latn" met="śārdūlavikrīḍita" n="18">
                 <l n="a">bhū-bhr̥n-mastaka-digdha-pāda-yugalas siṁhāsane saṁsthito</l>
                 <l n="b">mantrālaucana-tat-parair ahar-ahas sambhāṣito mantribhiḥ</l>
                 <l n="c">bhāsvadbhir lalanānvi<lb break="no" n="17"/>to niviśate vīraiḥ parīto
@@ -163,19 +163,19 @@
                 <l n="d">jyotis tasya parājaye vijayavac citrīyate santatam· ⊙</l>
                 <l n="e">— enāsya / — air asya / — bhir yasya</l>
             </lg>
-            <lg met="śārdūlavikrīḍita" n="19">
+            <lg xml:lang="san-Latn" met="śārdūlavikrīḍita" n="19">
                 <l n="a">putrān mām ativatsalo ’pi sahasā tyaktvā madīyaḥ patis</l>
                 <l n="b">svarga-strī-gamano <lb n="18"/> ⏑ – ⏑ ⏑ ⏑ to h/py ājñā-vidheyas tava</l>
                 <l n="c">khyātas tvam bhuvane dayālu-hr̥daya(ḥ stai)nyā pravr̥ttiḥ kathaṁ</l>
                 <l n="d">hā rājan· kva kr̥pety arer vanitayā rājāpy upālabhyate ⊙</l>
             </lg>
-            <lg met="vasantatilaka" n="20">
+            <lg xml:lang="san-Latn" met="vasantatilaka" n="20">
                 <l n="a">kaś cin mumukṣu-pa <lb n="19"/> ⏑ – ⏑ ⏑ – ⏑ – –</l>
                 <l n="b">– vāptaye dhana-malāni mahān arātiḥ</l>
                 <l n="c">kaś cit tri-viṣṭapa-mukhān nr̥-varasya mantrān</l>
                 <l n="d">samprāpya śiṣya Iva tena kr̥tas sa Āsīt· ⊙</l>
             </lg>
-            <lg met="śārdūlavikrīḍita" n="21">
+            <lg xml:lang="san-Latn" met="śārdūlavikrīḍita" n="21">
                 <l n="a">tuṅgāsau bhuvana-traya<lb break="no" n="20"/>sya maha – – – ⏑ – – ⏑
                         so<note>Maybe it is possible to read <foreign>... jijñā ⏑
                         so</foreign>?</note></l>
@@ -187,67 +187,67 @@
                 <l n="d">kīrttiḥ śuddhi-karīndra<lb break="no" n="21"/>dā dhavala – – mānyate
                     ’har-niśam· ⊙</l>
             </lg>
-            <lg met="vasantatilaka" n="22">
+            <lg xml:lang="san-Latn" met="vasantatilaka" n="22">
                 <l n="a">Indro [na]reṣu [mati]-vāk-cariteṣu [dha]rmmo</l>
                 <l n="b">vaśyeṣu (pāśa)bhr̥d asau dhana-do ’rthi-sārthe</l>
                 <l n="c">saṁhr̥tya hanta [nr̥pa]-r(ā)d iti loka-pālān</l>
                 <l n="d">e<lb break="no" n="22"/>ko bahum pra ⏑ ⏑ – v vriyate sma dhātrā ⊙</l>
             </lg>
-            <lg met="vasantatilaka" n="23">
+            <lg xml:lang="san-Latn" met="vasantatilaka" n="23">
                 <l n="a">Āsīn (n)r̥p(o) ⏑ ⏑ purī-pralayaṁ sa – – </l>
                 <l n="b">viṣṇu-prabhāva iti tasya suto mahātmā</l>
                 <l n="c">(tañ ca)ndra-bhūta-vadane śaka-rā<lb break="no" n="23"/>ja-varṣa</l>
                 <l n="d">Ekādaśī ⏑ daka – cu ⏑ phalguṇe (v)ā(n)· ⊙</l>
             </lg>
-            <lg met="vasantatilaka" n="24">
+            <lg xml:lang="san-Latn" met="vasantatilaka" n="24">
                 <l n="a">Anyaś ca kaś cid adhamaḥ parudābhidhānas</l>
                 <l n="b">sākṣād daśānana Ivāvyathayaj jaganti</l>
                 <l n="c">– – ⏑ – sya ⏑ ⏑ – ⏑ ⏑ – <lb n="24"/> narendro</l>
                 <l n="d">(rā)mātviramya-ca(ri)to nyavadhīt tam āśu ⊙</l>
             </lg>
-            <lg met="prthvī" n="25">
+            <lg xml:lang="san-Latn" met="prthvī" n="25">
                 <l n="a">tataś ca tad-anantaran nr̥pa-sutañ jigīṣu(r ga)tas</l>
                 <l n="b">tad-ālayam aśeṣam eva sahasābhyadhākṣīn nr̥paḥ</l>
                 <l n="c">punaḥ punar athāgni-bhū<lb n="25"/>ta-vadane śakābde gate</l>
                 <l n="d">(varo) nara-patis tadīya-nagarāṇy adandahyata ⊙</l>
             </lg>
-            <lg met="mālinī" n="26">
+            <lg xml:lang="san-Latn" met="mālinī" n="26">
                 <l n="a">Abhavad api bhuvi strī rākṣasīvogra-vīryyā</l>
                 <l n="b">vyapagata-bhayam asyās saṅkaṭāṅ gām ayāsī<lb break="no" n="26"/>t·</l>
                 <l n="c">jala-nidhi-śara-randhre śāka-samvatsare ’smin·</l>
                 <l n="d">nr̥patir abhinad e[tān tat-kṣa]ṇaṅ khyāta-kīrttiḥ ⊙</l>
             </lg>
-            <lg met="mālinī" n="27">
+            <lg xml:lang="san-Latn" met="mālinī" n="27">
                 <l n="a">jvalana Iva narendro lelihāno dahat tān</l>
                 <l n="b">diśam adhikam a(ja)yyān dakṣiṇān da<lb break="no" n="27"/>kṣiṇatvāt·</l>
                 <l n="c">dhanam atibahu labdhvā tac ca datvātmabhr̥tye</l>
                 <l n="d">dvijapatimunisaṅghe kīrttim evāharat saḥ ⊙</l>
             </lg>
-            <lg met="śārdūlavikrīḍita" n="28">
+            <lg xml:lang="san-Latn" met="śārdūlavikrīḍita" n="28">
                 <l n="a">mānitvād atha śailabhūtalapane śākendravarṣe gate</l>
                 <l n="b">bhadre <lb n="28"/> māsi sitatrayodaśatitho vāre budhe pāvane</l>
                 <l n="c">udyuktair balibhir balair agaṇitair gatvā diśam paścimāṁ</l>
                 <l n="d">rājānav vijayāhvayaṁ samajayad rājā jagatpūjitaḥ ⊙</l>
             </lg>
-            <lg met="mālinī" n="29">
+            <lg xml:lang="san-Latn" met="mālinī" n="29">
                 <l n="a">[A]tha mu(kha)<lb break="no" n="29"/>(śa)rarandhre śākavarṣe ṣṭamākhye</l>
                 <l n="b">suragurusitipakṣe kārtike māsi tasmin·</l>
                 <l n="c">nijabalanigr̥hīto vaiṣṇuguptair upāyais</l>
                 <l n="d">sapadi vijayavarm(m)ā pārthivo dyām aga<lb break="no" n="30"/>cchat· ⊙</l>
             </lg>
-            <lg met="mālinī" n="30">
+            <lg xml:lang="san-Latn" met="mālinī" n="30">
                 <l n="a">m(ukha)-śara-vivarākhye śāka-rājasya varṣe</l>
                 <l n="b">hata-śaśi-guru-vāre kārtike pañcadaśyām·</l>
                 <l n="c">ripu-śirasi mahātmā śrī-yava-dvīpa-rājo</l>
                 <l n="d">jayati nihita-pād<lb break="no" n="31"/>o ratna-siṁhāsana-sthaḥ ⊙</l>
             </lg>
-            <lg met="vasantatilaka" n="31">
+            <lg xml:lang="san-Latn" met="vasantatilaka" n="31">
                 <l n="a">pūrvvādi-dig-vijayinaṁ hata-sarvva-śatrum</l>
                 <l n="b">ekāta-patram avaner jalalaṅga-devam·</l>
                 <l n="c">nānyan nirīkṣitum alaṁ subhujopapīḍaṅ</l>
                 <l n="d">gāḍham pariṣvajati sa<lb break="no" n="32"/>mprati rāja-lakṣmīḥ ⊙</l>
             </lg>
-            <lg met="śārdūlavikrīḍita" n="32">
+            <lg xml:lang="san-Latn" met="śārdūlavikrīḍita" n="32">
                 <l n="a">
                     <supplied reason="lost" evidence="previouseditor">nirjityātha ripūn parākrama-dhanāc chau[r]yyair upāyair api</supplied>
                 </l>
@@ -256,14 +256,14 @@
                     <supplied reason="lost" evidence="previouseditor">kurute puṇyāśramaṁ śrīmataḥ</supplied></l>
                 <l n="d"><supplied reason="lost" evidence="previouseditor">pārśve pūgavato girer nara-patiś śrī-nīralaṅgāhvayaḥ</supplied> ⊙</l>
             </lg>
-            <lg met="sragdharā" n="33">
+            <lg xml:lang="san-Latn" met="sragdharā" n="33">
                 <l n="a">śr̥ṇvanto rājakīyāśramam asamam iman nandanodyāna-deśyaṅ</l>
                 <l n="b">gaccha<lb break="no" n="34"/><supplied reason="lost" evidence="previouseditor">ntas santatan te py ahamahamikayā
                         vismayālolanetrā</supplied></l>
                 <l n="c"><supplied reason="lost" evidence="previouseditor">mālābhiprīti-kārās</supplied> stuti-mukharamukhā mukhyam enan nr̥pāṇām</l>
                 <l n="d">mānīnam manyamānā manum iva mahasā <lb n="35"/> mānanīyav vruvanti ⊙</l>
             </lg>
-            <lg met="śārdūlavikrīḍita" n="34">
+            <lg xml:lang="san-Latn" met="śārdūlavikrīḍita" n="34">
                 <l n="a"><supplied reason="lost" evidence="previouseditor">sādhūnām pathi yātu paura-samitir dharmyā gatir ma</supplied>ntriṇām</l>
                 <l n="b">bhūyād bhūta-hiteṣiṇo muni-janā Itthan na me prārthanā</l>
                 <l n="c">yasmiñ jīvati rājñi ra<lb break="no" n="36"/><supplied reason="lost" evidence="previouseditor">kṣati bhuvan dharmeṇa
@@ -272,7 +272,7 @@
                     ⊙</l>
             </lg>
         </div>
-        <div n="B" subtype="face" type="textpart">
+        <div n="B" subtype="face" type="textpart"><!-- undo the division into textparts -->
             <head xml:lang="eng">Old Javanese Text</head>
             <p><lb n="1"/> // @ // svasti śaka-varṣātīta 963 kārtika-māsa, tithi daśamī śukla-pakṣa,
                 ha, va‚ śu, vāra vayaṁ-vayaṁ, caragraha bāyabyastha, Uttarabhadravā-nakṣatra,
