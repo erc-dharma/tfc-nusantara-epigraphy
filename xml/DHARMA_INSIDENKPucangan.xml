@@ -1803,16 +1803,30 @@
             </bibl>
           </listBibl>
           <listBibl type="secondary">
+             <bibl><ptr target="bib:Kern1885_04"/></bibl>
             <bibl><ptr target="bib:Verbeek1891_01"/><citedRange unit="page">9, 224-225</citedRange><citedRange unit="item">441</citedRange></bibl>
+            <bibl><ptr target="bib:NBG47_1909"/><citedRange unit="page">177, 180-182</citedRange></bibl>
+            <bibl><ptr target="bib:NBG49_1911"/><citedRange unit="page">142</citedRange></bibl>
+            <bibl><ptr target="bib:ROC1911"/><citedRange unit="page">55</citedRange><citedRange unit="item">548</citedRange></bibl>
+            <bibl><ptr target="bib:Krom1911_01"/><citedRange unit="page">249</citedRange></bibl>
+            <bibl><ptr target="bib:Krom1913_01"/><citedRange unit="page">585-591</citedRange></bibl>
+            <bibl><ptr target="bib:Kern1913_03"/></bibl>
+            <bibl><ptr target="bib:OV1913"/><citedRange unit="page">8</citedRange><citedRange unit="item">1514</citedRange></bibl>
+            <bibl><ptr target="bib:ROD1915"/><citedRange unit="page">251–254</citedRange><citedRange unit="item">1834</citedRange></bibl>
+            <bibl><ptr target="bib:OV1918"/><citedRange unit="page">80, 82-83</citedRange></bibl>
+            <bibl><ptr target="bib:KKrom1931_01"/><citedRange unit="page">239, 254, 259, 268-269</citedRange></bibl>
             <bibl><ptr target="bib:Stutterheim1937_01"/><citedRange unit="page">406-410</citedRange></bibl>
+            <bibl><ptr target="bib:Berg1938_02"/><citedRange unit="page">49-64</citedRange></bibl>
+            <bibl><ptr target="bib:TBG81_1941"/><citedRange unit="page"> 424-437</citedRange></bibl>
             <bibl><ptr target="bib:Damais1952_01"/><citedRange unit="page">64-65</citedRange><citedRange unit="item">A. 141</citedRange></bibl>
             <bibl><ptr target="bib:Damais1955_01"/><citedRange unit="page">66-67</citedRange><citedRange unit="item">A. 141</citedRange></bibl>
+            <bibl><ptr target="bib:MuhammadYamin1962_01"/><citedRange unit="page"></citedRange>189-204</bibl>
             <bibl><ptr target="bib:Boechari1968_01"/><citedRange unit="page"></citedRange>7, 10, 12–15</bibl>
             <bibl><ptr target="bib:NurhadiMagetsari+al1979_01"/><citedRange unit="page"></citedRange>213-214</bibl>
             <bibl><ptr target="bib:Boechari1990_01"/><citedRange unit="page"></citedRange>129</bibl>
             <bibl><ptr target="bib:Eade+Gislen2000_01"/><citedRange unit="page">75–36</citedRange></bibl>
             <bibl><ptr target="bib:BudiSantosaWibowo2001_01"/><citedRange unit="page">4</citedRange></bibl>
-
+            <bibl><ptr target="bib:NinnySusantiTejowasono2003_01"/><citedRange unit="page">406-418, 445-456</citedRange></bibl>
           </listBibl>
     </div>
 </body>
