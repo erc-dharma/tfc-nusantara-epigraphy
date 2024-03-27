@@ -16,7 +16,15 @@
          </titleStmt>
          <publicationStmt>
             <authority>DHARMA</authority>
-            <pubPlace/>
+            <pubPlace>Jakarta</pubPlace>
+            <idno type="filename">DHARMA_INSIDENKPucangan</idno>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/">
+                  <p>This work is licenced under the Creative Commons Attribution 4.0 Unported Licence. To view a copy of the licence, visit https://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.</p>
+                  <p>Copyright (c) 2019-2025 by Arlo Griffiths &amp; Eko Bastiawan</p>
+               </licence>
+            </availability>
+            <date from="2019" to="2025">2019-2025</date>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
@@ -36,96 +44,96 @@
          </sourceDesc>
       </fileDesc>
       <revisionDesc>
-         <change who="part:mime" when="2024-03-22" status="draft">Conversion from docx</change>
+         <change who="part:argr" when="2024-03-22" status="draft">started cleaning up the file</change>
+         <change who="part:mime" when="2024-03-22" status="draft">conversion from docx</change>
       </revisionDesc>
    </teiHeader>
    <text xml:space="preserve">
 		<body>
-    <div type="edition">
-        <div n="A" subtype="face" type="textpart">
+    <div type="edition" xml:lang="kaw-Latn">
+        <div n="A" subtype="face" type="textpart"><!-- undo the division into textparts -->
             <head xml:lang="eng">Sanskrit Text</head>
-            <ab><lb n="1"/> // 0 // svasti //</ab>
-            <lg met="āryā" n="1">
+            <ab xml:lang="san-Latn"><lb n="1"/> // 0 // svasti //</ab>
+            <lg xml:lang="san-Latn" met="āryā" n="1">
                 <l n="a">tribhir api guṇair upeto nr̥ṇāv vidhāne sthitau tathā pralaye</l>
                 <l n="b">A-guṇa Iti yaḥ prasiddhas tasmai dhātre namas satatam· ⊙</l>
             </lg>
-            <lg met="āryā" n="2">
-                <l n="a">A-gaṇita-vikrama-guruṇā praṇamya-māna<lb break="no" n="2"/>s surādhipena
-                    sadā</l>
+            <lg xml:lang="san-Latn" met="āryā" n="2">
+                <l n="a">A-gaṇita-vikrama-guruṇā praṇamya-māna<lb break="no" n="2"/>s surādhipena sadā</l>
                 <l n="b">[A](p)[i] yas trivikrama Iti prathito loke namas tasmai ⊙</l>
             </lg>
-            <lg met="āryā" n="3">
+            <lg xml:lang="san-Latn" met="āryā" n="3">
                 <l n="a">yas sthāṇur apy ati-tarāy yavepsitārtha-prado guṇair jagatām·</l>
                 <l n="b">kalpa-drumam atanum adhaḥ karoti tasmai śivāya <lb n="3"/> namaḥ ⊙ || ⊙</l>
             </lg>
-            <lg met="śārdūlavikrīḍita" n="4">
+            <lg xml:lang="san-Latn" met="śārdūlavikrīḍita" n="4">
                 <l n="a">kīrtyākhaṇḍitayātayā karuṇayā yas strī-paratvan dadhac</l>
                 <l n="b">cāpākarṣaṇataś ca yaḥ praṇihitan tībraṅ kalaṅkaṅ kare</l>
                 <l n="c">yaś cāsac-carite parāṅ-mukhatayā śūro raṇe bhīrutāṁ</l>
                 <l n="d">svair doṣān bhajate gu<lb break="no" n="4"/>ṇais sa jayatād erlaṅga-nāmā
                     nr̥paḥ ⊙</l>
             </lg>
-            <lg met="śārdūlavikrīḍita" n="5">
+            <lg xml:lang="san-Latn" met="śārdūlavikrīḍita" n="5">
                 <l n="a">Āsīn nirjita-bhūri-bhū-dhara-gaṇo bhū-pāla-cūḍā-maṇiḥ</l>
                 <l n="b">prakhyāto bhuvana-traye ’pi mahatā śauryyeṇa siṁhopamaḥ</l>
                 <l n="c">yenorvī suciran dhr̥tāmita-phalā la<lb break="no" n="5"/>kṣmīś ca no
                     gatvarī</l>
                 <l n="d">sa śrī-kīrti-valānvito yava-patiś śrīśāna-tuṅgāhvayaḥ ⊙</l>
             </lg>
-            <lg met="vasantatilaka" n="6">
+            <lg xml:lang="san-Latn" met="vasantatilaka" n="6">
                 <l n="a">tasyātma-jākaluṣa-mānasa-vāsa-ramyā</l>
                 <l n="b">haṁsī yathā sugata-pakṣa-sadāvavaddhā</l>
                 <l n="c">sā rājahaṁsa-mudam eva vivarddhaya<lb break="no" n="6"/>ntī</l>
                 <l n="d">śrīśānatuṅga-vijayeti rarāja rājñī ⊙</l>
             </lg>
-            <lg met="vasantatilaka" n="7">
+            <lg xml:lang="san-Latn" met="vasantatilaka" n="7">
                 <l n="a">mandākinīm iva tadātma-samāṁ samr̥ddhyā</l>
                 <l n="b">kṣīrārṇavaḥ prathita-śuddhi-guṇāntarātmā</l>
                 <l n="c">tāñ cākarot praṇayinīn nayanābhinandī</l>
                 <l n="d">śrī-loka-pāla-nr̥patir nara-nātha-nā<lb break="no" n="7"/>gaḥ ⊙</l>
             </lg>
-            <lg met="śārdūlavikrīḍita" n="8">
+            <lg xml:lang="san-Latn" met="śārdūlavikrīḍita" n="8">
                 <l n="a">tasmāt prādur abhūt prabhāva-vibhavo bhū-bhūṣaṇodbhūtaye</l>
                 <l n="b">bhūtānām bhava-bhāvanodyata-dhiyām bhām bhāvayan bhūtibhiḥ</l>
                 <l n="c">Ābhiś cāpratima-prabhābhir abhayo bhāsvān ivābhyudyataś</l>
                 <l n="d">śatrūṇām ibha-kumbha-kumbha-<lb n="8"/>dalane putraḥ prabhur bhū-bhujām·
                     ⊙</l>
             </lg>
-            <lg met="āryā" n="9">
+            <lg xml:lang="san-Latn" met="āryā" n="9">
                 <l n="a">śrī-makuṭa-vaṅśa-varddhana Iti pratīto nr̥ṇām anupamendraḥ</l>
                 <l n="b">śrīśāna-vaṅśa-tapanas tatāpa śa(t)r(ū)n pratāpena ⊙</l>
             </lg>
-            <lg met="vasantatilaka" n="10">
+            <lg xml:lang="san-Latn" met="vasantatilaka" n="10">
                 <l n="a">tasyādhipasya duhitātimanojña-rupā</l>
                 <l n="b">mūrteva rā<lb break="no" n="9"/>ja-guṇato yava-rāja-lakṣmīḥ</l>
                 <l n="c">dvīpāntare ’pi subhagena babhūva pitrā</l>
                 <l n="d">nāmnā kr̥tā khalu guṇa-priya-dharmma-patnī ⊙</l>
             </lg>
-            <lg met="vasantatilaka" n="11">
+            <lg xml:lang="san-Latn" met="vasantatilaka" n="11">
                 <l n="a">Āsīd asāv api viśiṣṭa-viśuddha-janmā</l>
                 <l n="b">rājānvayād udayanaḥ prathitāt prajātaḥ</l>
                 <l n="c">tāṁ śrī<lb break="no" n="10"/>matīv vidhivad eva mahendra-dattāv</l>
                 <l n="d">vyaktāhvayo nr̥pa-sutām upayacchate sma ⊙</l>
             </lg>
-            <lg met="vasantatilaka" n="12">
+            <lg xml:lang="san-Latn" met="vasantatilaka" n="12">
                 <l n="a">śreṣṭhaḥ prajāsu sakalāsu kalābhirāmo</l>
                 <l n="b">rāmo yathā daśarathāt svaguṇair garīyān·</l>
                 <l n="c">sambhāvitonnata-gatir ma<lb break="no" n="11"/>hasā munīndrair</l>
                 <l n="d">erlaṅga-deva Iti divya-sutas tato ’bhūt· ⊙</l>
             </lg>
-            <lg met="vasantatilaka" n="13">
+            <lg xml:lang="san-Latn" met="vasantatilaka" n="13">
                 <l n="a">śrī-dharmma-vaṁśa Iti pūrva-yavādhipena</l>
                 <l n="b">sambandhinā guṇa-gaṇa-śra(va)ṇotsukena</l>
                 <l n="c">Āhūya sādaram asau sva-sutā-vivāhan</l>
                 <l n="d">drāk sarvathā <lb n="12"/> prathita-kīrttir abhūn mahātmā ⊙</l>
             </lg>
-            <lg met="mañjubhāṣiṇī" n="14">
+            <lg xml:lang="san-Latn" met="mañjubhāṣiṇī" n="14">
                 <l n="a">Atha bhasmasād abhavad āśu tat-puram</l>
                 <l n="b">puru-hūta-rāṣṭram iva – dya – ⏑ – </l>
                 <l n="c">kalinā khalena khalu kiṅkarair vinā</l>
                 <l n="d">sa narottamena sahito vanāny agāt· ⊙</l>
             </lg>
-            <lg met="śārdūlavikrīḍita" n="15">
+            <lg xml:lang="san-Latn" met="śārdūlavikrīḍita" n="15">
                 <l n="a">śākendre śaśa-lāñchanā<lb break="no" n="13"/>[bdhi]-vadane yāte
                     mahā-vatsare</l>
                 <l n="b">māghe māsi sita-trayodaśa-tithau vāre śaśiny utsukaiḥ</l>
@@ -133,20 +141,20 @@
                 <l n="d">śrī-lokeśvara-nīralaṅga-nr̥patiḥ (pā)<lb break="no" n="14"/>hīty apātāṅ
                     kṣitim· ⊙</l>
             </lg>
-            <lg met="vasantatilaka" n="16">
+            <lg xml:lang="san-Latn" met="vasantatilaka" n="16">
                 <l n="a">samrājya-dīkṣitam iman nr̥patin niśamya</l>
                 <l n="b">śakty(ā) jitāri-nikaran nivaho ripūṇām·</l>
                 <l n="c">Adyāpi tad-bhuja-bhujaṅga-talasya śaśvad</l>
                 <l n="d">abhyasyatīha (capa)latvam abhūta-pūrvvam· <lb n="15"/> ⊙</l>
             </lg>
-            <lg met="śārdūlavikrīḍita" n="17">
+            <lg xml:lang="san-Latn" met="śārdūlavikrīḍita" n="17">
                 <l n="a">bhūyāṁso yava-bhū-bhujo bubhujire pr̥thvīv vipakṣe ’rthinas</l>
                 <l n="b">sāmarthyān nr̥pa-janmano na bubhujus taj(jā) narendrāsane</l>
                 <l n="c">kintu śrī-jalalaṅga-deva-nr̥patir vaṁśyo ’dhirājāgraṇīr</l>
                 <l n="d">bhobhuṅkte sa bhu<lb break="no" n="16"/>[na]kti kevalam arin dvandvam
                     bhraman bhūtale ⊙</l>
             </lg>
-            <lg met="śārdūlavikrīḍita" n="18">
+            <lg xml:lang="san-Latn" met="śārdūlavikrīḍita" n="18">
                 <l n="a">bhū-bhr̥n-mastaka-digdha-pāda-yugalas siṁhāsane saṁsthito</l>
                 <l n="b">mantrālaucana-tat-parair ahar-ahas sambhāṣito mantribhiḥ</l>
                 <l n="c">bhāsvadbhir lalanānvi<lb break="no" n="17"/>to niviśate vīraiḥ parīto
@@ -154,19 +162,19 @@
                 <l n="d">jyotis tasya parājaye vijayavac citrīyate santatam· ⊙</l>
                 <l n="e">— enāsya / — air asya / — bhir yasya</l>
             </lg>
-            <lg met="śārdūlavikrīḍita" n="19">
+            <lg xml:lang="san-Latn" met="śārdūlavikrīḍita" n="19">
                 <l n="a">putrān mām ativatsalo ’pi sahasā tyaktvā madīyaḥ patis</l>
                 <l n="b">svarga-strī-gamano <lb n="18"/> ⏑ – ⏑ ⏑ ⏑ to h/py ājñā-vidheyas tava</l>
                 <l n="c">khyātas tvam bhuvane dayālu-hr̥daya(ḥ stai)nyā pravr̥ttiḥ kathaṁ</l>
                 <l n="d">hā rājan· kva kr̥pety arer vanitayā rājāpy upālabhyate ⊙</l>
             </lg>
-            <lg met="vasantatilaka" n="20">
+            <lg xml:lang="san-Latn" met="vasantatilaka" n="20">
                 <l n="a">kaś cin mumukṣu-pa <lb n="19"/> ⏑ – ⏑ ⏑ – ⏑ – –</l>
                 <l n="b">– vāptaye dhana-malāni mahān arātiḥ</l>
                 <l n="c">kaś cit tri-viṣṭapa-mukhān nr̥-varasya mantrān</l>
                 <l n="d">samprāpya śiṣya Iva tena kr̥tas sa Āsīt· ⊙</l>
             </lg>
-            <lg met="śārdūlavikrīḍita" n="21">
+            <lg xml:lang="san-Latn" met="śārdūlavikrīḍita" n="21">
                 <l n="a">tuṅgāsau bhuvana-traya<lb break="no" n="20"/>sya maha – – – ⏑ – – ⏑
                         so<note>Maybe it is possible to read <foreign>... jijñā ⏑
                         so</foreign>?</note></l>
@@ -178,92 +186,92 @@
                 <l n="d">kīrttiḥ śuddhi-karīndra<lb break="no" n="21"/>dā dhavala – – mānyate
                     ’har-niśam· ⊙</l>
             </lg>
-            <lg met="vasantatilaka" n="22">
+            <lg xml:lang="san-Latn" met="vasantatilaka" n="22">
                 <l n="a">Indro [na]reṣu [mati]-vāk-cariteṣu [dha]rmmo</l>
                 <l n="b">vaśyeṣu (pāśa)bhr̥d asau dhana-do ’rthi-sārthe</l>
                 <l n="c">saṁhr̥tya hanta [nr̥pa]-r(ā)d iti loka-pālān</l>
                 <l n="d">e<lb break="no" n="22"/>ko bahum pra ⏑ ⏑ – v vriyate sma dhātrā ⊙</l>
             </lg>
-            <lg met="vasantatilaka" n="23">
+            <lg xml:lang="san-Latn" met="vasantatilaka" n="23">
                 <l n="a">Āsīn (n)r̥p(o) ⏑ ⏑ purī-pralayaṁ sa – – </l>
                 <l n="b">viṣṇu-prabhāva iti tasya suto mahātmā</l>
                 <l n="c">(tañ ca)ndra-bhūta-vadane śaka-rā<lb break="no" n="23"/>ja-varṣa</l>
                 <l n="d">Ekādaśī ⏑ daka – cu ⏑ phalguṇe (v)ā(n)· ⊙</l>
             </lg>
-            <lg met="vasantatilaka" n="24">
+            <lg xml:lang="san-Latn" met="vasantatilaka" n="24">
                 <l n="a">Anyaś ca kaś cid adhamaḥ parudābhidhānas</l>
                 <l n="b">sākṣād daśānana Ivāvyathayaj jaganti</l>
                 <l n="c">– – ⏑ – sya ⏑ ⏑ – ⏑ ⏑ – <lb n="24"/> narendro</l>
                 <l n="d">(rā)mātviramya-ca(ri)to nyavadhīt tam āśu ⊙</l>
             </lg>
-            <lg met="prthvī" n="25">
+            <lg xml:lang="san-Latn" met="prthvī" n="25">
                 <l n="a">tataś ca tad-anantaran nr̥pa-sutañ jigīṣu(r ga)tas</l>
                 <l n="b">tad-ālayam aśeṣam eva sahasābhyadhākṣīn nr̥paḥ</l>
                 <l n="c">punaḥ punar athāgni-bhū<lb n="25"/>ta-vadane śakābde gate</l>
                 <l n="d">(varo) nara-patis tadīya-nagarāṇy adandahyata ⊙</l>
             </lg>
-            <lg met="mālinī" n="26">
+            <lg xml:lang="san-Latn" met="mālinī" n="26">
                 <l n="a">Abhavad api bhuvi strī rākṣasīvogra-vīryyā</l>
                 <l n="b">vyapagata-bhayam asyās saṅkaṭāṅ gām ayāsī<lb break="no" n="26"/>t·</l>
                 <l n="c">jala-nidhi-śara-randhre śāka-samvatsare ’smin·</l>
                 <l n="d">nr̥patir abhinad e[tān tat-kṣa]ṇaṅ khyāta-kīrttiḥ ⊙</l>
             </lg>
-            <lg met="mālinī" n="27">
+            <lg xml:lang="san-Latn" met="mālinī" n="27">
                 <l n="a">jvalana Iva narendro lelihāno dahat tān</l>
                 <l n="b">diśam adhikam a(ja)yyān dakṣiṇān da<lb break="no" n="27"/>kṣiṇatvāt·</l>
                 <l n="c">dhanam atibahu labdhvā tac ca datvātmabhr̥tye</l>
                 <l n="d">dvijapatimunisaṅghe kīrttim evāharat saḥ ⊙</l>
             </lg>
-            <lg met="śārdūlavikrīḍita" n="28">
+            <lg xml:lang="san-Latn" met="śārdūlavikrīḍita" n="28">
                 <l n="a">mānitvād atha śailabhūtalapane śākendravarṣe gate</l>
                 <l n="b">bhadre <lb n="28"/> māsi sitatrayodaśatitho vāre budhe pāvane</l>
                 <l n="c">udyuktair balibhir balair agaṇitair gatvā diśam paścimāṁ</l>
                 <l n="d">rājānav vijayāhvayaṁ samajayad rājā jagatpūjitaḥ ⊙</l>
             </lg>
-            <lg met="mālinī" n="29">
+            <lg xml:lang="san-Latn" met="mālinī" n="29">
                 <l n="a">[A]tha mu(kha)<lb break="no" n="29"/>(śa)rarandhre śākavarṣe ṣṭamākhye</l>
                 <l n="b">suragurusitipakṣe kārtike māsi tasmin·</l>
                 <l n="c">nijabalanigr̥hīto vaiṣṇuguptair upāyais</l>
                 <l n="d">sapadi vijayavarm(m)ā pārthivo dyām aga<lb break="no" n="30"/>cchat· ⊙</l>
             </lg>
-            <lg met="mālinī" n="30">
+            <lg xml:lang="san-Latn" met="mālinī" n="30">
                 <l n="a">m(ukha)-śara-vivarākhye śāka-rājasya varṣe</l>
                 <l n="b">hata-śaśi-guru-vāre kārtike pañcadaśyām·</l>
                 <l n="c">ripu-śirasi mahātmā śrī-yava-dvīpa-rājo</l>
                 <l n="d">jayati nihita-pād<lb break="no" n="31"/>o ratna-siṁhāsana-sthaḥ ⊙</l>
             </lg>
-            <lg met="vasantatilaka" n="31">
+            <lg xml:lang="san-Latn" met="vasantatilaka" n="31">
                 <l n="a">pūrvvādi-dig-vijayinaṁ hata-sarvva-śatrum</l>
                 <l n="b">ekāta-patram avaner jalalaṅga-devam·</l>
                 <l n="c">nānyan nirīkṣitum alaṁ subhujopapīḍaṅ</l>
                 <l n="d">gāḍham pariṣvajati sa<lb break="no" n="32"/>mprati rāja-lakṣmīḥ ⊙</l>
             </lg>
-            <lg met="śārdūlavikrīḍita" n="32">
+            <lg xml:lang="san-Latn" met="śārdūlavikrīḍita" n="32">
                 <l n="a">
-                    <u>nirjityātha ripūn parākrama-dhanāc chau[r]yyair upāyair api</u>
+                    <supplied reason="lost" evidence="previouseditor">nirjityātha ripūn parākrama-dhanāc chau[r]yyair upāyair api</supplied>
                 </l>
-                <l n="b"><u>śaktyākhaṇḍita</u>yā khalu bratitayā vā devatārādhanaiḥ</l>
+                <l n="b"><supplied reason="lost" evidence="previouseditor">śaktyākhaṇḍita</supplied>yā khalu bratitayā vā devatārādhanaiḥ</l>
                 <l n="c">rantuñ jāta-mahā-(kra/śra)mas sa <lb n="33"/>
-                    <u>kurute puṇyāśramaṁ śrīmataḥ</u></l>
-                <l n="d"><u>pārśve pūgavato girer nara-patiś śrī-nīralaṅgāhvayaḥ</u> ⊙</l>
+                    <supplied reason="lost" evidence="previouseditor">kurute puṇyāśramaṁ śrīmataḥ</supplied></l>
+                <l n="d"><supplied reason="lost" evidence="previouseditor">pārśve pūgavato girer nara-patiś śrī-nīralaṅgāhvayaḥ</supplied> ⊙</l>
             </lg>
-            <lg met="sragdharā" n="33">
+            <lg xml:lang="san-Latn" met="sragdharā" n="33">
                 <l n="a">śr̥ṇvanto rājakīyāśramam asamam iman nandanodyāna-deśyaṅ</l>
-                <l n="b">gaccha<lb break="no" n="34"/><u>ntas santatan te py ahamahamikayā
-                        vismayālolanetrā</u></l>
-                <l n="c"><u>mālābhiprīti-kārās</u> stuti-mukharamukhā mukhyam enan nr̥pāṇām</l>
+                <l n="b">gaccha<lb break="no" n="34"/><supplied reason="lost" evidence="previouseditor">ntas santatan te py ahamahamikayā
+                        vismayālolanetrā</supplied></l>
+                <l n="c"><supplied reason="lost" evidence="previouseditor">mālābhiprīti-kārās</supplied> stuti-mukharamukhā mukhyam enan nr̥pāṇām</l>
                 <l n="d">mānīnam manyamānā manum iva mahasā <lb n="35"/> mānanīyav vruvanti ⊙</l>
             </lg>
-            <lg met="śārdūlavikrīḍita" n="34">
-                <l n="a"><u>sādhūnām pathi yātu paura-samitir dharmyā gatir ma</u>ntriṇām</l>
+            <lg xml:lang="san-Latn" met="śārdūlavikrīḍita" n="34">
+                <l n="a"><supplied reason="lost" evidence="previouseditor">sādhūnām pathi yātu paura-samitir dharmyā gatir ma</supplied>ntriṇām</l>
                 <l n="b">bhūyād bhūta-hiteṣiṇo muni-janā Itthan na me prārthanā</l>
-                <l n="c">yasmiñ jīvati rājñi ra<lb break="no" n="36"/><u>kṣati bhuvan dharmeṇa
-                        siddhyanti te</u></l>
-                <l n="d"><u>tasmāc chrī-jala</u>laṅga-deva-nr̥-patir dīrghaṁ sa jīvyād iti ⊙ //
+                <l n="c">yasmiñ jīvati rājñi ra<lb break="no" n="36"/><supplied reason="lost" evidence="previouseditor">kṣati bhuvan dharmeṇa
+                        siddhyanti te</supplied></l>
+                <l n="d"><supplied reason="lost" evidence="previouseditor">tasmāc chrī-jala</supplied>laṅga-deva-nr̥-patir dīrghaṁ sa jīvyād iti ⊙ //
                     ⊙</l>
             </lg>
         </div>
-        <div n="B" subtype="face" type="textpart">
+        <div n="B" subtype="face" type="textpart"><!-- undo the division into textparts -->
             <head xml:lang="eng">Old Javanese Text</head>
             <p><lb n="1"/> // @ // svasti śaka-varṣātīta 963 kārtika-māsa, tithi daśamī śukla-pakṣa,
                 ha, va‚ śu, vāra vayaṁ-vayaṁ, caragraha bāyabyastha, Uttarabhadravā-nakṣatra,
@@ -331,68 +339,68 @@
                 [sa](ṅka)ni hilaṁniṁ sahanani han(i)hanituniṁ yavadvīpa, kunaṁ kramani kahilaṁ haji
                 vəṅkər· de śrī mahārāja, [mū]la kaḍatvani(ra) ri ka<lb break="no" n="27"/>paṁ sira
                 naṁ pratiniyata hinārohara deśanirāṅkən· Asujimāsa de śrī mahārāja, muvaḥ Irikāṁ
-                śakakāla 95[7] <u>vvay a</u>ta, samaṁkana (ta) sirar kapa<lb break="no" n="28"/>rājaya ri kapaṁ de śrī mahārāja, sirāmriḥ manusup amet· deśa durgga, matiṅgal·
-                tanaya dāra t<u>ka riṁ rājadrabya rājavāha</u>na prakāra, ri kahləma<lb break="no" n="29"/>nya Irikāṁ śakakāla 959 vaR̥gg anusup· haji ri kapaṁ mvaṁ balanira
-                samāsiḥ ri sira, kavnaṁ ta sira ri sa<u>rasa ratu <gap quantity="1" reason="lost" unit="character"/> vani pa <gap quantity="1" reason="lost" unit="character"/> paṅan·</u>, ha <gap quantity="3" reason="lost" unit="character"/> pinakata<lb break="no" n="30"/>pakan· (t)aṇḍasnira de śrī mahārāja Ar paliṅgiḥ moḍo(ḍa)
-                    <u>ri siṅhāsa</u>(na),</p>
-            <p>sampun· saṁkṣipta ta Ikāṁ pralaya <u>ri yava(</u>dvīpa)<u>, mat</u>l<u>asan ikā</u>
-                saṁgrāma, ta<lb n="31"/>n (hana) <u>saṅśa</u>yani manaḥnikāṁ rāt· An· (p)aṅəb·
-                makapārāyana (c)chā<u>yā</u>ni pāduka śrī mahārāja, mataṅ yar siddh<u>ākən·</u>
-                <u>pratijñānira,</u>
-                <u>madaməl</u>· yaśa pa<lb break="no" n="32"/>tap<u>ān iṁ</u> pucaṅan·
+                śakakāla 95[7] <supplied reason="lost" evidence="previouseditor">vvay a</supplied>ta, samaṁkana (ta) sirar kapa<lb break="no" n="28"/>rājaya ri kapaṁ de śrī mahārāja, sirāmriḥ manusup amet· deśa durgga, matiṅgal·
+                tanaya dāra t<supplied reason="lost" evidence="previouseditor">ka riṁ rājadrabya rājavāha</supplied>na prakāra, ri kahləma<lb break="no" n="29"/>nya Irikāṁ śakakāla 959 vaR̥gg anusup· haji ri kapaṁ mvaṁ balanira
+                samāsiḥ ri sira, kavnaṁ ta sira ri sa<supplied reason="lost" evidence="previouseditor">rasa ratu <gap quantity="1" reason="lost" unit="character"/> vani pa <gap quantity="1" reason="lost" unit="character"/> paṅan·</supplied>, ha <gap quantity="3" reason="lost" unit="character"/> pinakata<lb break="no" n="30"/>pakan· (t)aṇḍasnira de śrī mahārāja Ar paliṅgiḥ moḍo(ḍa)
+                    <supplied reason="lost" evidence="previouseditor">ri siṅhāsa</supplied>(na),</p>
+            <p>sampun· saṁkṣipta ta Ikāṁ pralaya <supplied reason="lost" evidence="previouseditor">ri yava(</supplied>dvīpa)<supplied reason="lost" evidence="previouseditor">, mat</supplied>l<supplied reason="lost" evidence="previouseditor">asan ikā</supplied>
+                saṁgrāma, ta<lb n="31"/>n (hana) <supplied reason="lost" evidence="previouseditor">saṅśa</supplied>yani manaḥnikāṁ rāt· An· (p)aṅəb·
+                makapārāyana (c)chā<supplied reason="lost" evidence="previouseditor">yā</supplied>ni pāduka śrī mahārāja, mataṅ yar siddh<supplied reason="lost" evidence="previouseditor">ākən·</supplied>
+                <supplied reason="lost" evidence="previouseditor">pratijñānira,</supplied>
+                <supplied reason="lost" evidence="previouseditor">madaməl</supplied>· yaśa pa<lb break="no" n="32"/>tap<supplied reason="lost" evidence="previouseditor">ān iṁ</supplied> pucaṅan·
                 Inusa[n·-U]san· raghu, yāṅkən· mantras(t)avanamaskāra śrī mahārāja ri bhaṭāra
-                sāri-sāri, mvaṁ paṁ<u>liṅgānanikāṁ</u>
-                <u>rāt·, karuhun saṅ an</u>ā<lb break="no" n="33"/>gataprabhu hlam i dlāhaniṁ dlāha,
+                sāri-sāri, mvaṁ paṁ<supplied reason="lost" evidence="previouseditor">liṅgānanikāṁ</supplied>
+                <supplied reason="lost" evidence="previouseditor">rāt·, karuhun saṅ an</supplied>ā<lb break="no" n="33"/>gataprabhu hlam i dlāhaniṁ dlāha,
                 ri kramani de śrī mahārāja munarjīvākən· sāśvatāniṁ
-                    <u>sa</u>ya<u>vadv</u>ī<u>pa,</u>
-                <u>Āpan· saṅ anādi prabhu sakveḥnira sinivi riṁ</u>
+                    <supplied reason="lost" evidence="previouseditor">sa</supplied>ya<supplied reason="lost" evidence="previouseditor">vadv</supplied>ī<supplied reason="lost" evidence="previouseditor">pa,</supplied>
+                <supplied reason="lost" evidence="previouseditor">Āpan· saṅ anādi prabhu sakveḥnira sinivi riṁ</supplied>
                 <lb n="34"/> yavadvīpa, ka <gap quantity="3" reason="lost" unit="character"/>
                 sa(dbhāva) <gap quantity="12" reason="lost" unit="character"/> han denira,
-                t(kā)maṅgiḥ hay<u>unira</u>
-                <u>kabeḥ riṅ anādi, tātan· maṅkana śrī mahārāja <gap quantity="1" reason="lost" unit="character"/></u>
+                t(kā)maṅgiḥ hay<supplied reason="lost" evidence="previouseditor">unira</supplied>
+                <supplied reason="lost" evidence="previouseditor">kabeḥ riṅ anādi, tātan· maṅkana śrī mahārāja <gap quantity="1" reason="lost" unit="character"/></supplied>
                 <lb n="35"/> (s)ya(n)iṁ <gap quantity="26" reason="lost" unit="character"/>
-                <u>nira mvaṁ</u>
-                <u>abhimata</u>
-                <u>śrī mahārāja mayva</u>
+                <supplied reason="lost" evidence="previouseditor">nira mvaṁ</supplied>
+                <supplied reason="lost" evidence="previouseditor">abhimata</supplied>
+                <supplied reason="lost" evidence="previouseditor">śrī mahārāja mayva</supplied>
                 <lb n="36"/> (th)ā(n)i [vat]ə[k]· <gap quantity="7" reason="lost" unit="character"/>
                 (maṅaran i) h(i)no(,) <gap quantity="1" reason="lost" unit="character"/> dr̥bya haji
                 mā su 1 <gap quantity="2" reason="lost" unit="character"/> ni <gap quantity="20" reason="lost" unit="character"/>
-                <u>nikāṁ</u>
+                <supplied reason="lost" evidence="previouseditor">nikāṁ</supplied>
                 <lb n="37"/>
-                <u>yaśa patapān</u>· I pucaṅan·, mantən· ta Ikāṁ lmaḥ ri pucaṅan·, I barahə<u>m·, I
-                    bapuri</u>
+                <supplied reason="lost" evidence="previouseditor">yaśa patapān</supplied>· I pucaṅan·, mantən· ta Ikāṁ lmaḥ ri pucaṅan·, I barahə<supplied reason="lost" evidence="previouseditor">m·, I
+                    bapuri</supplied>
                 <gap quantity="26" reason="lost" unit="character"/>
                 <lb n="38"/> ya <gap quantity="10" reason="lost" unit="character"/>· saṁ hyaṁ yaśa
-                patapān i pucaṅan· <u>[tan katamāna deniṁ]</u>
-                <u>vinava saṁ māna [katrīṇi,]</u>
-                <u>pa</u><lb break="no" n="39"/><u>ṅkur·, tavan·, tiri</u>p·, mvaṁ (saṁ
-                    nāyaka)pratya<u>ya</u>, piṅhai vahuta rāma, mvaṁ sakveḥ <u>saṁ maṅilala drabya
-                    haji m</u>
+                patapān i pucaṅan· <supplied reason="lost" evidence="previouseditor">[tan katamāna deniṁ]</supplied>
+                <supplied reason="lost" evidence="previouseditor">vinava saṁ māna [katrīṇi,]</supplied>
+                <supplied reason="lost" evidence="previouseditor">pa</supplied><lb break="no" n="39"/><supplied reason="lost" evidence="previouseditor">ṅkur·, tavan·, tiri</supplied>p·, mvaṁ (saṁ
+                    nāyaka)pratya<supplied reason="lost" evidence="previouseditor">ya</supplied>, piṅhai vahuta rāma, mvaṁ sakveḥ <supplied reason="lost" evidence="previouseditor">saṁ maṅilala drabya
+                    haji m</supplied>
                 <gap quantity="4" reason="lost" unit="character"/>
-                <u>su</u><lb break="no" n="40"/><u>khaduḥkha,</u>
-                <u>sakve</u>ḥ lviranya <gap quantity="6" reason="lost" unit="character"/>
-                <u>sahīṅani lma</u>ḥ saṁ hyaṁ yaśa pa<u>tapān i pucaṅan·</u>
+                <supplied reason="lost" evidence="previouseditor">su</supplied><lb break="no" n="40"/><supplied reason="lost" evidence="previouseditor">khaduḥkha,</supplied>
+                <supplied reason="lost" evidence="previouseditor">sakve</supplied>ḥ lviranya <gap quantity="6" reason="lost" unit="character"/>
+                <supplied reason="lost" evidence="previouseditor">sahīṅani lma</supplied>ḥ saṁ hyaṁ yaśa pa<supplied reason="lost" evidence="previouseditor">tapān i pucaṅan·</supplied>
                 <gap quantity="8" reason="lost" unit="character"/>
                 <lb n="41"/>
                 <gap extent="unknown" reason="lost" unit="character"/>
-                <u>[saṁ maṅilāla] drabya haji vulu-vulu mvaṁ</u>
+                <supplied reason="lost" evidence="previouseditor">[saṁ maṅilāla] drabya haji vulu-vulu mvaṁ</supplied>
                 <gap extent="unknown" reason="lost" unit="character"/>
-                <lb n="42"/><u>siṅ ata lviranya,</u>
-                <u>luməbu</u>[ra] <gap quantity="2" reason="lost" unit="character"/>
-                <u>saṁ hyaṁ yaśa patapān</u> i pucaṅan·, <u>yan· brāhmaṇa kṣatriya veśya, sudra,
-                    caṇḍāla, nāyaka, partyaya,</u>
-                <lb n="43"/> piṅhai va<u>huta rāma</u>
+                <lb n="42"/><supplied reason="lost" evidence="previouseditor">siṅ ata lviranya,</supplied>
+                <supplied reason="lost" evidence="previouseditor">luməbu</supplied>[ra] <gap quantity="2" reason="lost" unit="character"/>
+                <supplied reason="lost" evidence="previouseditor">saṁ hyaṁ yaśa patapān</supplied> i pucaṅan·, <supplied reason="lost" evidence="previouseditor">yan· brāhmaṇa kṣatriya veśya, sudra,
+                    caṇḍāla, nāyaka, partyaya,</supplied>
+                <lb n="43"/> piṅhai va<supplied reason="lost" evidence="previouseditor">huta rāma</supplied>
                 <gap quantity="14" reason="lost" unit="character"/>
-                <u>umulah-u</u>laha kaśva<u>tantrān· saṁ hyaṁ dharmma patapān i pucaṅan· mvaṁ
-                    sahīṅaniṁ lmaḥni</u>
+                <supplied reason="lost" evidence="previouseditor">umulah-u</supplied>laha kaśva<supplied reason="lost" evidence="previouseditor">tantrān· saṁ hyaṁ dharmma patapān i pucaṅan· mvaṁ
+                    sahīṅaniṁ lmaḥni</supplied>
                 <lb n="44"/>
-                <gap quantity="1" reason="lost" unit="character"/> nanira <u>I hino</u>
+                <gap quantity="1" reason="lost" unit="character"/> nanira <supplied reason="lost" evidence="previouseditor">I hino</supplied>
                 <gap quantity="6" reason="lost" unit="character"/>
-                <u>saṁ hyaṁ yaśa patapān·, jaḥ tasmāt· kabvatkarmmāknanya, [bhukt]inira
-                    [pañca]mahā</u><lb break="no" n="45"/>pātaka <gap extent="unknown" reason="lost" unit="character"/>
-                <u>citralekha I pāduka śrī mahārāja</u>
+                <supplied reason="lost" evidence="previouseditor">saṁ hyaṁ yaśa patapān·, jaḥ tasmāt· kabvatkarmmāknanya, [bhukt]inira
+                    [pañca]mahā</supplied><lb break="no" n="45"/>pātaka <gap extent="unknown" reason="lost" unit="character"/>
+                <supplied reason="lost" evidence="previouseditor">citralekha I pāduka śrī mahārāja</supplied>
                 <gap extent="unknown" reason="lost" unit="character"/>
-                <u>sira</u>
+                <supplied reason="lost" evidence="previouseditor">sira</supplied>
                 <gap extent="unknown" reason="lost" unit="character"/><note>K estimates a gap of 17
                     akṣaras between <foreign>pātaka</foreign> and <foreign>citralekha</foreign>,
                     then gaps of 3 akṣaras each after <foreign>mahārāja</foreign> and
@@ -400,7 +408,7 @@
                     be 41 akṣaras, which is far too few. We are unable to verify any akṣaras after
                         <foreign>pātaka</foreign>, and so are unable to propose our own estimates
                     for the three gaps.</note>
-                <lb n="46"/> saṁ hyaṅ ājñā <u>haji praśāsti</u></p>
+                <lb n="46"/> saṁ hyaṅ ājñā <supplied reason="lost" evidence="previouseditor">haji praśāsti</supplied></p>
         </div>
     </div>
     <div type="apparatus">
@@ -1007,7 +1015,7 @@
                 <app loc="27"><lem>pratiniyata</lem> ◇ <em>pratinayaka</em> B K.</app>
                 <app loc="27"><lem>hinārohara deśanirāṅkən·</lem> ◇ K; <em>hina</em> – <em>ro</em> –
                     – <em>deśani raṅkən</em> B.</app>
-                <app loc="27"><lem><u>vvay a</u>ta,</lem> ◇ <note>the punctuation sign after
+                <app loc="27"><lem><supplied reason="lost" evidence="previouseditor">vvay a</supplied>ta,</lem> ◇ <note>the punctuation sign after
                             <foreign>ta</foreign> was ignored by B and K; in the light of its
                         undeniable presence, and of the likely presence of <foreign>ta</foreign> in
                         the next sentence, B and K’s reading <foreign>vvaya ta</foreign> in an area
@@ -1033,12 +1041,12 @@
                     previous editors have omitted the particle <em>ta</em>.</app>
                 <app loc="31"><lem>tan (hana)</lem> ◇ <em>nhana</em> B; <em>(ta)n hana</em> K.</app>
                 <app loc="31"><lem>makapārāyana</lem> ◇ understand <em>makaparāyaṇa</em>.</app>
-                <app loc="31"><lem>rāt· An· (p)aṅəb· makapārāyana (c)chā<u>yā</u>ni</lem> ◇ <gap quantity="9" reason="lost" unit="character"/>
+                <app loc="31"><lem>rāt· An· (p)aṅəb· makapārāyana (c)chā<supplied reason="lost" evidence="previouseditor">yā</supplied>ni</lem> ◇ <gap quantity="9" reason="lost" unit="character"/>
                     <em>pā – yanacchāyāni</em> B; <gap quantity="5" reason="lost" unit="character"/>
                     <em>maka – – yan acchāyā ni</em> K.</app>
-                <app loc="31"><lem>mataṅ yar siddh<u>ākən</u><u>·</u></lem> ◇ <em>mataṅya
+                <app loc="31"><lem>mataṅ yar siddh<supplied reason="lost" evidence="previouseditor">ākən</supplied><supplied reason="lost" evidence="previouseditor">·</supplied></lem> ◇ <em>mataṅya
                         siddhākən</em>· B K.</app>
-                <app loc="31"><lem><u>pratijñānira</u></lem> ◇ K; <em>prājīnānira</em> B.</app>
+                <app loc="31"><lem><supplied reason="lost" evidence="previouseditor">pratijñānira</supplied></lem> ◇ K; <em>prājīnānira</em> B.</app>
                 <app loc="32"><lem>Inusa[n·-U]san· raghu, yāṅkən·</lem> ◇ <gap quantity="4" reason="lost" unit="character"/>
                     <em>san· rake yāṅkən·</em> B; <em>Ista</em> – – <em>s an· rake yāṅkən·</em> K.
                         <note>Both previous editors ignore the punctuation sign after
@@ -1053,7 +1061,7 @@
                         that he had really not understood the present passage.</note></app>
                 <app loc="32"><lem>śrī mahārāja ri bhaṭāra</lem> ◇ B; <em>śrī bhaṭāra</em> K.</app>
                 <app loc="32"><lem>sārisāri</lem> ◇ <em>hari sāri</em> B K.</app>
-                <app loc="32"><lem>paṁ<u>liṅgānanikāṁ</u></lem> ◇ <em>paliṅgānanikāṁ</em> B,
+                <app loc="32"><lem>paṁ<supplied reason="lost" evidence="previouseditor">liṅgānanikāṁ</supplied></lem> ◇ <em>paliṅgānanikāṁ</em> B,
                         <em>paliṅgānanikaṁ</em> K. <note>Both previous editors ignored the first
                         anusvāra, which is crucial to get the correct sense. We are dealing with an
                         irrealis of the word <foreign>paṅliṅgan</foreign>. Cf. Sumanasāntaka 37.3c:
@@ -1078,7 +1086,7 @@
                             <foreign>hayu</foreign> and <foreign>nira</foreign>, implying that
                         Brandes thought there were some illegible akṣaras in the gap. But K
                         indicates no such gap.</note></app>
-                <app loc="35"><lem><u>abhimata</u></lem> ◇ <note>thus B and K; the reading has
+                <app loc="35"><lem><supplied reason="lost" evidence="previouseditor">abhimata</supplied></lem> ◇ <note>thus B and K; the reading has
                         become unverifiable, because the surface of the stone has been lost since
                         their time. In view of the fact that the text twice showed
                             <foreign>abhamata</foreign> instead of expected
@@ -1097,24 +1105,24 @@
                         end of the line, where the surface of the stone has by now entirely peeled
                         off.</note></app>
                 <app loc="37"><lem>mantən· ta</lem> ◇ B; <em>mantən· tā</em> K.</app>
-                <app loc="37"><lem><u>bapuri</u></lem> ◇ <em>basuri</em> B K. <note>Even though
+                <app loc="37"><lem><supplied reason="lost" evidence="previouseditor">bapuri</supplied></lem> ◇ <em>basuri</em> B K. <note>Even though
                         these akṣaras have peeled off by now, we emend the reading of our
                         predecessor by comparison with our reading of the same toponym in line
                         3.</note></app>
                 <app loc="38"><lem>ya <gap quantity="10" reason="lost" unit="character"/>· saṁ</lem>
                     ◇ <note>B and K were unable to read any akṣaras in the damaged stretch before
                             <foreign>saṁ</foreign>.</note></app>
-                <app loc="38"><lem><u>[tan katamāna deniṁ]</u></lem> ◇ <note>the restoration was
+                <app loc="38"><lem><supplied reason="lost" evidence="previouseditor">[tan katamāna deniṁ]</supplied></lem> ◇ <note>the restoration was
                         made by Kern (1917: 106: n. 1), while Brandes left open a gap for the
                         illegibly damaged akṣaras.</note></app>
-                <app loc="39"><lem>mvaṁ (saṁ nāyaka)pratya<u>ya</u></lem> ◇ <em>mvaṁ –</em>
+                <app loc="39"><lem>mvaṁ (saṁ nāyaka)pratya<supplied reason="lost" evidence="previouseditor">ya</supplied></lem> ◇ <em>mvaṁ –</em>
                     <em>nāyaka</em>, <em>partyaya</em> B, <em>mvaṁ</em>
                     <em>nāyaka</em>, <em>partyaya</em> K. <note>The two words
                             <foreign>nāyaka</foreign> and <foreign>pratyaya</foreign> are normally
                         not separated by a punctuation sign (although see n. <seg rend="check">XX</seg> below), and are quite often preceded by
                         <foreign>saṁ</foreign>, which we can faintly make out in the gap left open
                         by Brandes that was ignored by Kern.</note></app>
-                <app loc="40"><lem>m – – – – <u>sukhaduḥkha,</u></lem> ◇ <em>– khaduḥkha,</em> B;
+                <app loc="40"><lem>m – – – – <supplied reason="lost" evidence="previouseditor">sukhaduḥkha,</supplied></lem> ◇ <em>– khaduḥkha,</em> B;
                         <em>sukhaduḥkha,</em> K. <note>In B’s reading, line 39 ends with a
                         substantial lacuna after <foreign>haji m</foreign>, while 40 starts with
                             <foreign>khaduḥkha</foreign>; in K’s, there is a lacuna of five akṣaras
@@ -1131,10 +1139,10 @@
                         reading like <seg rend="check"><foreign>haji mvaṁ sukhaduḥkha</foreign>,
                             inspired by OJO XLIX 2b.</seg></note></app>
                 <app loc="41"><lem><gap extent="unknown" reason="lost" unit="character"/>
-                        <u>[saṁ maṅilāla] drabya haji vuluvulu mvaṁ</u>
+                        <supplied reason="lost" evidence="previouseditor">[saṁ maṅilāla] drabya haji vuluvulu mvaṁ</supplied>
                         <gap extent="unknown" reason="lost" unit="character"/></lem> ◇ <em><gap extent="unknown" reason="lost" unit="character"/>
-                        <u>drabya haji vuluvulu mvaṁ</u></em> B; <em><gap quantity="8" reason="lost" unit="character"/>
-                        <u>[saṁ maṅilāla] drabya haji vuluvulu mvaṁ</u>
+                        <supplied reason="lost" evidence="previouseditor">drabya haji vuluvulu mvaṁ</supplied></em> B; <em><gap quantity="8" reason="lost" unit="character"/>
+                        <supplied reason="lost" evidence="previouseditor">[saṁ maṅilāla] drabya haji vuluvulu mvaṁ</supplied>
                         <gap quantity="3" reason="lost" unit="character"/></em> K. <note>We are
                         unable to confirm any of the sequences of akṣaras that our predecessors have
                         discerned on this line. We see a fairly clear <foreign>ṅi</foreign> around
@@ -1149,7 +1157,7 @@
                         anywhere on the line. Note that B’s text suggests mvaṁ stood at the end of
                         the line, whereas K’s suggests a short lacuna stood between this word and
                         the end of the line.</note></app>
-                <app loc="42"><lem><u>siṅ ata lviranya</u></lem> ◇ <em>siṅa – lviranya</em> B;
+                <app loc="42"><lem><supplied reason="lost" evidence="previouseditor">siṅ ata lviranya</supplied></lem> ◇ <em>siṅa – lviranya</em> B;
                         <em>siṅa ta lviranya</em> K. <note>K’s translation suggests that he was
                         thinking of a word like <foreign>asiṅ</foreign>, an idea that receives some
                         support from the Cane inscription, faces C and d, line 30: <foreign>kita
@@ -1158,19 +1166,19 @@
                         passage is indeed a relevant comparison, it also implies that Kern’s word
                         division is unlikely to be correct. This is why we tentatively divide the
                         words as <foreign>asiṅ ata.</foreign></note></app>
-                <app loc="42"><lem><u>luməbu</u>[ra]</lem> ◇ <em>luməbu</em> – B K. <note>It is
+                <app loc="42"><lem><supplied reason="lost" evidence="previouseditor">luməbu</supplied>[ra]</lem> ◇ <em>luməbu</em> – B K. <note>It is
                         tempting to conjecture further <foreign>luməburāta</foreign> or
                             <foreign>luməbura ta</foreign>, and to assume no further loss of akṣaras
                         before <foreign>saṁ hyaṁ</foreign>, but this issue depends on whether K’s
                         estimate of 3 lost akṣaras between <foreign>luməbu</foreign> and
                             <foreign>saṁ hyaṁ</foreign> is reliable or not.</note></app>
-                <app loc="42"><lem><u>nāyaka, partyaya,</u></lem> ◇ thus B K. <note>We are unable to
+                <app loc="42"><lem><supplied reason="lost" evidence="previouseditor">nāyaka, partyaya,</supplied></lem> ◇ thus B K. <note>We are unable to
                         verify any part of this sequence, but expect that the stone rather showed
                             <foreign>pratyaya</foreign> before it got damaged, and that there was no
                         punctuation sign separating this from <foreign>nāyaka</foreign>. See n. <seg rend="check">XX</seg> above.</note></app>
-                <app loc="43"><lem>va<u>huta rāma</u>
+                <app loc="43"><lem>va<supplied reason="lost" evidence="previouseditor">huta rāma</supplied>
                         <gap quantity="14" reason="lost" unit="character"/>
-                        <u>umulahu</u>laha</lem> ◇ <note>Almost all of this line is now lost. While
+                        <supplied reason="lost" evidence="previouseditor">umulahu</supplied>laha</lem> ◇ <note>Almost all of this line is now lost. While
                         B, as usual, only leaves open a large gap, K estimates the lacuna between
                             <foreign>rāma</foreign> and <foreign>umulahulaha</foreign> to extend
                         over 7 akṣaras. Taking the expected entire number of akṣaras for this line
@@ -1192,7 +1200,7 @@
                         conjecture is based among numerous other comparable passages on <seg rend="check">Baru (Cd, lines 39–40), Cane (C, 26) and Patakan (C, 26),
                             where we read:</seg>
                         <foreign>salvirniṅ pañcamahāpātaka bhuktinya</foreign>.</note></app>
-                <app loc="45"><lem><u>mahārāja</u></lem> ◇ B; <em>mahāraja</em> K.</app>
+                <app loc="45"><lem><supplied reason="lost" evidence="previouseditor">mahārāja</supplied></lem> ◇ B; <em>mahāraja</em> K.</app>
             </listApp>
         </div>
     </div>
