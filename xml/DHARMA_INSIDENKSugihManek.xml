@@ -8,7 +8,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Sugih Manek (915-09-13)</title>
+        <title>Sugih Manek Charter (915-09-13)</title>
         <respStmt>
           <resp>EpiDoc Encoding</resp>
           <persName ref="part:tykd">
@@ -33,11 +33,11 @@
       <publicationStmt>
         <authority>DHARMA</authority>
         <pubPlace>Paris</pubPlace>
-        <idno type="filename">DHARMA_INS08Sugih</idno>
+        <idno type="filename">DHARMA_INSIDENKSugihManek</idno>
         <availability>
           <licence target="https://creativecommons.org/licenses/by/4.0/">
             <p>This work is licenced under the Creative Commons Attribution 4.0 Unported Licence. To view a copy of the licence, visit https://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.</p>
-            <p>Copyright © 2019-2025 by Tyassanti Kusumo Dewanti and Arlo Griffiths.</p>
+            <p>Copyright © 2019-2025 by Tyassanti Kusumo Dewanti &amp; Arlo Griffiths.</p>
           </licence>
         </availability>
         <date from="2019" to="2025">2019-2025</date>
@@ -75,7 +75,8 @@
       </listPrefixDef>
     </encodingDesc>
     <revisionDesc>
-      <change status="draft" when="2023" who="part:mime">Initial encoding of the inscription</change>
+      <change status="draft" when="2024-03-29" who="part:argr part:tykd">Started revising the encoding</change>
+      <change status="draft" when="2023-07-01" who="part:mime">Initial encoding of the inscription</change>
     </revisionDesc>
   </teiHeader>
   <text xml:space="preserve">
@@ -93,26 +94,28 @@ Edhie Wurjantoro 2018: 137–53.
 The edition presented here was made on the basis of direct observation on the stone in January 2022 by Tyassanti Kusumo Dewanti, with remote supervision and assistance from Arlo Griffiths in France. Some checks in months later were made by consulting the photographs made by Eko Bastiawan and the estampages preserved in Leiden. A lot of new readings has been yielded here. Some of them are the numbers for the gift, the detail of the wet rice field that benefit the personnel at the foundation and the imprecation formula placed in the back face (B), left face (c), and right face (d). The first line of the right face that is never read by any scholar, possibly due to the lost of that part which is neglected by them, is being restituted in our edition.
 -->
       <div type="edition" xml:lang="kaw-Latn">
-        <p>
-<!-- Front (A) -->
-<lb n="A1"/> // <num value="0">0</num> // Avighnam astu //
-I. <foreign>Āryā</foreign>
-śivam astu sarvva-jagataḥ para-hita-niratāḥ bhavantu (A2) bhūta-gaṇāḥ
-doṣāḥ prayāntu nāśaṁ* sarvvatra sukhī bhavatu lokaḥ // 0 //
-<lb n="A3"/> svasti śaka-varṣātīta <num value="837">837</num> Asuji-māsa, tithi dvitīya śukla-pakṣa, ma, po, bu, vāra
-<lb n="A4"/> <unclear>Ă</unclear>gniya-deśa, citrā-nakṣatra, vedhr̥ti-yoga, tvaṣṭā-devatā, Irikā divaśani <unclear>A</unclear>nugraha śrī <unclear>ma-</unclear>
-<lb n="A5"/> hārāja śrī dakṣottama-bāhubajra-pratipakṣa-kṣaya, I rakai kanuruhan· dyaḥ mumpuṁ sumusuk· I-
-<lb break="no" n="A6"/> kanaṁ vanva I limus· vatək kanuruhan· gavai mā <num value="1">1</num> mvaṁ Anaknya I tampuran· paṅguhan· tapak· su <num value="18">18</num> mā <add place="below">8</add>
-<lb n="A7"/> , Iṁ satahun·-satahun·, sīmāniṁ dharmma rakryān· prāsāda kabikvan· I sugiḥ manek·, paknānya pacaru-
-<lb break="no" n="A8"/> <unclear>A</unclear> I bhaṭāra pratidina, mvaṁ taḍaha saṁ <unclear>ka</unclear>r<unclear>m</unclear>manya, sakvaiḥnira Umyāpāra kapūjān· bhaṭāra, maṅas<unclear>ə</unclear>A<unclear>ka</unclear>-
-<lb break="no" n="A9"/> <supplied reason="lost">n·</supplied> <gap reason="ca. 13 akṣ. illegible – possibly intentionally erased"/> rakryān· I sugiḥ manek· mvaṁ Ikaṁ I limus·, tan· katamāna de saṁ
-<lb n="A10"/> māna<supplied reason="omitted">k</supplied> katrīṇi, paṅkur·, tavān·, <unclear>ti</unclear>rip·<supplied reason="omitted">,</supplied> tiruAn·, maṁhuri, mvaṁ sovāra saṁ maṅilala drabya haji, kriṁ, paṅuraṁ,
-<lb n="A11"/> paḍam apvī, manimpiki, halu varak·, pamaṇikan·, maṇiga, lva, malandaṁ, pakalaṅkaṁ, tapa haji, Er haji<unclear>, maṁru</unclear><supplied reason="lost">mve</supplied>
-<lb n="A12"/> juru guśali, juru dagaṁ, juru nambi, juru huñjamān·, juru kutak·, juru jalir·‚ juru juḍi‚ Uṇḍahagi, limus galuḥ<unclear>,</unclear>
-<lb n="A13"/> paṅaruhan·, vatu tajaṁ*, taji, paṇḍai, mapayuṅan·, kḍi, valyan·, paranakan·, vidu maṅiduṁ, juru paḍahi,
-<lb n="A14"/> sinaguha, taṅkil·, salvit·, varahan·, sambal·, sumbul·, vatak· ri jro, siṅgaḥ pamr̥ṣi, hulun· haji, ma-
-<lb break="no" n="A15"/> haliman·, L̥bə-L̥b·, Ityaivamādi saprakāra<space/>niṁ maṅilala dr̥bya haji, miśra parāmiśra kabaiḥ ta-
-<lb break="no" n="A16"/> n· ta<unclear>mā</unclear> Iri<unclear>k</unclear>aiṁ kabikvan· I sugiḥ manek· mvaṁ Ikaṁ I limus·, samaṅkana sukhaduḥkhanya, mayaṁ tan· tka riṁ vvaḥ<supplied reason="omitted">,</supplied>
+<ab xml:lang="san-Latn"><milestone type="pagelike" unit="face" n="A"/><label>Front</label><!-- §5.4. -->
+<lb n="A1"/> // <num value="0">0</num> // Avighnam astu //</ab>
+<lg met="āryā" n="1" xml:lang="san-Latn">
+<l n="ab">śivam astu sarvva-jagataḥ para-hita-niratāḥ bhavantu <lb n="A2"/>bhūta-gaṇāḥ</l>
+<l n="cd">doṣāḥ prayāntu nāśaṁ* sarvvatra sukhī bhavatu lokaḥ // 0 //</l>
+</lg>
+<p>
+<lb n="A3"/>svasti śaka-varṣātīta <num value="837">837</num> Asuji-māsa, tithi dvitīya śukla-pakṣa, <abbr>ma</abbr>, <abbr>po</abbr>, <abbr>bu</abbr>, vāra
+<lb n="A4"/><unclear>Ă</unclear>gniya-deśa, citrā-nakṣatra, vedhr̥ti-yoga, tvaṣṭā-devatā,</p> <p>Irikā divaśani <unclear>A</unclear>nugraha śrī <unclear>ma</unclear><lb break="no" 
+n="A5"/>hārāja śrī dakṣottama-bāhubajra-pratipakṣa-kṣaya, I rakai kanuruhan· dyaḥ mumpuṁ sumusuk· I<lb break="no" 
+n="A6"/>kanaṁ vanva I limus· vatək kanuruhan· gavai  <abbr>mā</abbr> <num value="1">1</num> mvaṁ Anaknya I tampuran· paṅguhan· tapak· <abbr>su</abbr> <num value="18">18</num> <abbr>mā</abbr> <add place="below"><num value="8">8</num></add>
+<lb n="A7"/>, Iṁ satahun·-satahun·, sīmāniṁ dharmma rakryān· prāsāda kabikvan· I sugiḥ manek·, paknānya pacaru<lb break="no" 
+n="A8"/><unclear>A</unclear> I bhaṭāra pratidina, mvaṁ taḍaha saṁ <unclear>ka</unclear>r<unclear>m</unclear>manya, sakvaiḥnira Umyāpāra kapūjān· bhaṭāra, maṅas<unclear>ə</unclear>A<unclear>ka</unclear><lb break="no" 
+n="A9"/><supplied reason="lost">n·</supplied> <gap reason="illegible" quantity="13" unit="character" precision="low"/><!--  @@!! possibly intentionally erased --> rakryān· I sugiḥ manek· mvaṁ Ikaṁ I limus·, tan· katamāna de saṁ
+<lb n="A10"/><choice><orig>māna</orig><reg>mānak</reg></choice> katrīṇi, paṅkur·, tavān·, <unclear>ti</unclear>rip·<supplied reason="omitted">,</supplied> tiruAn·, maṁhuri, mvaṁ sovāra saṁ maṅilala drabya haji, kriṁ, paṅuraṁ,
+<lb n="A11"/>paḍam apvī, manimpiki, halu varak·, pamaṇikan·, maṇiga, lva, malandaṁ, pakalaṅkaṁ, tapa haji, Er haji<unclear>, maṁru</unclear><supplied reason="lost">mve</supplied>
+<lb n="A12"/>juru guśali, juru dagaṁ, juru nambi, juru huñjamān·, juru kutak·, juru jalir·‚ juru juḍi‚ Uṇḍahagi, limus galuḥ<unclear>,</unclear>
+<lb n="A13"/>paṅaruhan·, vatu tajaṁ*, taji, paṇḍai, mapayuṅan·, kḍi, valyan·, paranakan·, vidu maṅiduṁ, juru paḍahi,
+<lb n="A14"/>sinaguha, taṅkil·, salvit·, varahan·, sambal·, sumbul·, vatak· ri jro, siṅgaḥ pamr̥ṣi, hulun· haji, ma<lb break="no" 
+n="A15"/>haliman·, L̥bə-L̥b·, Ityaivamādi saprakāra<space/>niṁ maṅilala dr̥bya haji, miśra parāmiśra kabaiḥ ta<lb break="no" 
+n="A16"/>n· ta<unclear>mā</unclear> Iri<unclear>k</unclear>aiṁ kabikvan· I sugiḥ manek· mvaṁ Ikaṁ I limus·, samaṅkana sukhaduḥkhanya, mayaṁ tan· tka riṁ vvaḥ<supplied reason="omitted">,</supplied>
+<!-- @@!! Santi agar melanjutkan pengecheken akhir/awal baris -->
 <lb n="A17"/> ḍaṇḍa-kuḍaṇḍa<supplied reason="omitted">,</supplied> bhaṇḍihalādi, salvir·niṁ vipati, mati katibā, māti kalbu, Inalapni glap·, valū rumambatt iṁ natar·<supplied reason="omitted">,</supplied>
 <lb n="A18"/> <unclear>ra</unclear>ḥ kasavur·, vaṅkai kābunan·, Ityaivamādi, tumama I bhaṭāra Ataḥ Ikana kabaiḥ, samaṅkana Ikanaṁ masambya-
 <lb break="no" n="A19"/> vahāra hana Irikiṁ kuśala rakryān· hiṁh<supplied reason="lost">i</supplied>ṅana kvaihanya, paṇḍai mās·, paṇḍe vsi, paṇḍai tambaga, paṇḍai gaṅsa, tluṁ U-
@@ -125,36 +128,36 @@ doṣāḥ prayāntu nāśaṁ* sarvvatra sukhī bhavatu lokaḥ // 0 //
 <lb n="A26"/> Adhikāna, kunaṁ Ikanaṁ mañambul·, maṅapus·, mañavriṁ, mapahaṅan·, maṁlākha, maṅubar·, manahab manuk·, mamisaṇḍuṁ, maṅa-
 <lb break="no" n="A27"/> <unclear>nam</unclear>·, manarub·, manūlaṁ vuṅkudu, maṁdyun·, maṁluruṁ, maṁhapū Ityaivamādi, kapva ya tribhāgān·, sadūmān· Umarā I bhaṭāra,
 <lb n="A28"/> sadūmān· I saṁ makmitan· dharmma, sadūmān· I saṁ maṅilala drabya haji, maṅkana Ikanaṁ Ăjñă haji paṁhīṁ Irikanaṁ masambyavahāra
-<lb n="A29"/> hana ṅ<unclear>k</unclear>āna, Irikanaṁ g<unclear>r</unclear>itan<unclear>ya</unclear><supplied reason="omitted">,</supplied> maṅasəAkan· rakryān· pagə-pagəḥ I mahārāja śrī dakṣottama-bāhubajra-pratipakṣakṣaya mā su <unclear>1</unclear>
-<lb n="A30"/> <unclear>mā</unclear> <gap reason="1 akṣ. illegible"/> vḍihan· ragi yu <num value="1">1</num> I rakryān· bini haji parameśvarī mā su <num value="1">1</num> mā <num value="4">4</num> ken· vlaḥ <num value="1">1</num> I rakryān· momah-uma<supplied reason="omitted">ḥ</supplied> gurum baṅi pūtta<unclear>ra</unclear>
+<lb n="A29"/> hana ṅ<unclear>k</unclear>āna, Irikanaṁ g<unclear>r</unclear>itan<unclear>ya</unclear><supplied reason="omitted">,</supplied> maṅasəAkan· rakryān· pagə-pagəḥ I mahārāja śrī dakṣottama-bāhubajra-pratipakṣakṣaya  <abbr>mā</abbr>  <abbr>su</abbr> <unclear>1</unclear>
+<lb n="A30"/> <unclear>mā</unclear> <gap reason="illegible" quantity="1" unit="character"/> vḍihan· ragi yu <num value="1">1</num> I rakryān· bini haji parameśvarī  <abbr>mā</abbr>  <abbr>su</abbr> <num value="1">1</num>  <abbr>mā</abbr> <num value="4">4</num> ken· vlaḥ <num value="1">1</num> I rakryān· momah-uma<supplied reason="omitted">ḥ</supplied> gurum baṅi pūtta<unclear>ra</unclear>
 <!-- Back (B) -->
-<lb n="B1"/> <unclear>ma</unclear>s· mā <num value="10">10</num> vḍihan· ragi yu <num value="1">1</num>, rake hujuṁ d<unclear>yaḥ</unclear> mriḥ mas· mā <num value="10">10</num> vḍihan· ragi yu <num value="1">1</num>, rake tagaran·
-<lb n="B2"/> dyaḥ bagal· mas· mā <num value="10">10</num> vḍihan· ragi yu <num value="1">1</num>, saṁ juru makabaihan· I kanuruhan· juru kanăyak<unclear>ā</unclear><supplied reason="lost">n·</supplied>
-<lb n="B3"/> <gap reason="2 akṣ. lost"/> <gap reason="1 aks. illegible"/>riṁ maṁraṁkpi saṁ ra gagar·, juru lampuran· rakai siñjalan· Ataṇḍa pu <unclear>Aḍo</unclear>, juru vadvā rare saṁ brat·<supplied reason="omitted">,</supplied> <supplied reason="lost">juru</supplied>-
+<lb n="B1"/> <unclear>ma</unclear>s·  <abbr>mā</abbr> <num value="10">10</num> vḍihan· ragi yu <num value="1">1</num>, rake hujuṁ d<unclear>yaḥ</unclear> mriḥ mas·  <abbr>mā</abbr> <num value="10">10</num> vḍihan· ragi yu <num value="1">1</num>, rake tagaran·
+<lb n="B2"/> dyaḥ bagal· mas·  <abbr>mā</abbr> <num value="10">10</num> vḍihan· ragi yu <num value="1">1</num>, saṁ juru makabaihan· I kanuruhan· juru kanăyak<unclear>ā</unclear><supplied reason="lost">n·</supplied>
+<lb n="B3"/> <gap reason="lost" quantity="2" unit="character"/> <gap reason="illegible" quantity="1" unit="character"/>riṁ maṁraṁkpi saṁ ra gagar·, juru lampuran· rakai siñjalan· Ataṇḍa pu <unclear>Aḍo</unclear>, juru vadvā rare saṁ brat·<supplied reason="omitted">,</supplied> <supplied reason="lost">juru</supplied>-
 <lb break="no" n="B4"/> <supplied reason="lost">niṁ ka</supplied>lula saṁ ra baṇir·, juru maṁrakət· kāliḥ saṁ tavi, saṁ labdha, Amasaṅakan· <unclear>saṁ ra vava,</unclear> kapva vinaiḥ pasək·-<supplied reason="lost">pa</supplied>-
-<lb break="no" n="B5"/> <supplied reason="lost">sək·</supplied> mas· mā <num value="2">2</num> vḍihan· ragi hlai <num value="1">1</num> sovaṁ-sovaṁ, saṁ mapatiḥ Iṁ pakaraṇān· makabaihan·, patiḥ pamgat· saṁ <unclear>ha</unclear>-
+<lb break="no" n="B5"/> <supplied reason="lost">sək·</supplied> mas·  <abbr>mā</abbr> <num value="2">2</num> vḍihan· ragi hlai <num value="1">1</num> sovaṁ-sovaṁ, saṁ mapatiḥ Iṁ pakaraṇān· makabaihan·, patiḥ pamgat· saṁ <unclear>ha</unclear>-
 <lb break="no" n="B6"/> <unclear>j</unclear>u, maṁhambən· saṁ hiraṇya, patiḥ kavaṅyan·, saṁ pārtha, pinakāsthavira I pakaraṇān· saṁ parujar· vuṅkal kiluṁ, juru banva
 <lb n="B7"/> <unclear>sa</unclear><supplied reason="lost">ṁ</supplied> <unclear>k</unclear>ya, saṁ saṅgamaṁ, gusti saṁ rumput·, maṇiga saṁ loka, panulisan· saṁ prakăsi<unclear>ta</unclear>, Apkan· saṁ kbak·, juru bva<supplied reason="lost">toḥ saṁ</supplied>
-<lb n="B8"/> <supplied reason="lost">ca</supplied>nd<unclear>ra</unclear> kapva vinaiḥ mā <num value="1">1</num> vḍihan· hlai <num value="1">1</num> sovaṁ-sovaṁ, vahuta panbahan· si vujil·, vuṅkal· raya si kucup· pakambaṅa<supplied reason="lost">n·</supplied>
-<lb n="B9"/> si laka, parujar patiḥ si lampuran·, si <gap reason="ca. 2 aks. illegible"/>n·, <supplied reason="lost">si</supplied> <gap reason="1–2 aks. illegible"/>r maṁhamb<unclear>ə</unclear>n· <supplied reason="lost">saṁ gu</supplied><unclear>ruv</unclear>rati, parujar kavaṅyan· si rundhā, paru<supplied reason="lost">jar patiḥ</supplied> si
-<lb n="B10"/> <gap reason="ca. 3 aks. illegible"/>, kapva vinaiḥ mā <num value="1">1</num> vḍihan· hlai <num value="1">1</num> sovaṁ, patiḥ I hujuṁ saṁ jarā, maṁhambən· saṁ balusyak· patiḥ mānak· saṁ <unclear>g/t</unclear>a <gap reason="1 akṣ. lost"/> <supplied reason="lost">ka-</supplied>
-<lb n="B11"/> pva vinaiḥ pasək· mā <num value="1">1</num> vḍihan· hlai <num value="1">1</num> sovaṁ, patiḥ I vaharu maṁharap babak· <supplied reason="lost">ḍa</supplied> pu bahija<supplied reason="omitted">,</supplied> maṁhamb<unclear>ə</unclear>n· saṁ bharata, pa<unclear>ti</unclear>ḥ
-<lb n="B12"/> mānak· saṁ havaṁ, kapva vinaiḥ pa<space/>sək· mā <num value="1">1</num> vḍihan· hlai <num value="1">1</num> sovaṁ, rāma tpi siriṁ I kalaṁliṅun· ḍa pu hyaṁ tambir·, I bu-
+<lb n="B8"/> <supplied reason="lost">ca</supplied>nd<unclear>ra</unclear> kapva vinaiḥ  <abbr>mā</abbr> <num value="1">1</num> vḍihan· hlai <num value="1">1</num> sovaṁ-sovaṁ, vahuta panbahan· si vujil·, vuṅkal· raya si kucup· pakambaṅa<supplied reason="lost">n·</supplied>
+<lb n="B9"/> si laka, parujar patiḥ si lampuran·, si <gap reason="illegible" quantity="2" unit="character" precision="low"/>n·, <supplied reason="lost">si</supplied> <gap reason="illegible" quantity="2" unit="character" precision="low"/><!-- 1–2 aks. -->r maṁhamb<unclear>ə</unclear>n· <supplied reason="lost">saṁ gu</supplied><unclear>ruv</unclear>rati, parujar kavaṅyan· si rundhā, paru<supplied reason="lost">jar patiḥ</supplied> si
+<lb n="B10"/> <gap reason="illegible" quantity="3" unit="character" precision="low"/>, kapva vinaiḥ  <abbr>mā</abbr> <num value="1">1</num> vḍihan· hlai <num value="1">1</num> sovaṁ, patiḥ I hujuṁ saṁ jarā, maṁhambən· saṁ balusyak· patiḥ mānak· saṁ <unclear>g/t</unclear>a <gap reason="lost" quantity="1" unit="character"/> <supplied reason="lost">ka</supplied><lb 
+n="B11" break="no"/> pva vinaiḥ pasək·  <abbr>mā</abbr> <num value="1">1</num> vḍihan· hlai <num value="1">1</num> sovaṁ, patiḥ I vaharu maṁharap babak· <supplied reason="lost">ḍa</supplied> pu bahija<supplied reason="omitted">,</supplied> maṁhamb<unclear>ə</unclear>n· saṁ bharata, pa<unclear>ti</unclear>ḥ
+<lb n="B12"/> mānak· saṁ havaṁ, kapva vinaiḥ pa<space/>sək·  <abbr>mā</abbr> <num value="1">1</num> vḍihan· hlai <num value="1">1</num> sovaṁ, rāma tpi siriṁ I kalaṁliṅun· ḍa pu hyaṁ tambir·, I bu-
 @reason="descender"
-<lb n="B13"/> kalaṅan· saṁ dili, saṁ gnuk·, I vuraṇḍuṅan· saṁ vintaṁ, I <supplied reason="lost">ta</supplied>mpuran· saṁ paman·, vinaiḥ mā <num value="1">1</num> vḍihan· hlai <num value="1">1</num> sovaṁ<supplied reason="omitted">,</supplied> rāma
+<lb n="B13"/> kalaṅan· saṁ dili, saṁ gnuk·, I vuraṇḍuṅan· saṁ vintaṁ, I <supplied reason="lost">ta</supplied>mpuran· saṁ paman·, vinaiḥ  <abbr>mā</abbr> <num value="1">1</num> vḍihan· hlai <num value="1">1</num> sovaṁ<supplied reason="omitted">,</supplied> rāma
 <lb n="B14"/> I limus· vinkas· saṁ hitam·<unclear>,</unclear> rāma maratā si talaṇḍaṁ<unclear>,</unclear> kala<unclear>ṁ</unclear> pañjuruAn· I limus· saṁ bandi, <unclear>k</unclear>ula<unclear>pa</unclear>ti I limus· sa<unclear>ṁ</unclear> balan·
-<lb n="B15"/> <supplied reason="lost">vi</supplied>naiḥ mā <num value="1">1</num> vḍihan· hlai <num value="1">1</num> sovaṁ-s<unclear>o</unclear>vaṁ, n<unclear>ā</unclear>han· kvaiḥnira tla<space/>s· saṁsipta vinaiḥ pagə-pagəḥ mvaṁ vḍihan· mvaṁ vinaiḥ manaḍaha
+<lb n="B15"/> <supplied reason="lost">vi</supplied>naiḥ  <abbr>mā</abbr> <num value="1">1</num> vḍihan· hlai <num value="1">1</num> sovaṁ-s<unclear>o</unclear>vaṁ, n<unclear>ā</unclear>han· kvaiḥnira tla<space/>s· saṁsipta vinaiḥ pagə-pagəḥ mvaṁ vḍihan· mvaṁ vinaiḥ manaḍaha
 I think this means
 @reason="descender"
 space for the pasangan ja above it. and perhaps the suku!
-<lb n="B16"/> <gap reason="ca. 1 aks. illegible"/> kamvaṁ m<supplied reason="omitted">v</supplied>a<supplied reason="omitted">ṁ</supplied> parabantən· saha dhūpadīpākṣatādi, pinratiṣṭa ta saṁ hyaṁ təAs· tlas· kr̥tasaṁskāra Inuyut· rumuhun· śa<unclear>kta</unclear> sira
+<lb n="B16"/> <gap reason="illegible" quantity="1" unit="character" precision="low"/> kamvaṁ m<supplied reason="omitted">v</supplied>a<supplied reason="omitted">ṁ</supplied> parabantən· saha dhūpadīpākṣatādi, pinratiṣṭa ta saṁ hyaṁ təAs· tlas· kr̥tasaṁskāra Inuyut· rumuhun· śa<unclear>kta</unclear> sira
 <lb n="B17"/> tanamman· cihnānyan· mapatiḥ kasīmānikaiṁ I limus· mvaṁ I tampuran· sīmā punpunana bhaṭāra Iṁ pr<unclear>ā</unclear>sāda I sugiḥ manaik· <unclear>ku</unclear>-
 <lb break="no" n="B18"/> <supplied reason="lost">śa</supplied>la rakryān· kanuruhan· dyaḥ mumpuṁ<supplied reason="omitted">,</supplied> tinuṅga<unclear>l</unclear> ta Ikanaṁ savaḥ Iṁ tampuran· Ikaṁ samaparṇnaha I saṁ karmmanya<supplied reason="omitted">,</supplied> pratyaika savaḥ kā-
-<lb break="no" n="B19"/> cāryyan· tapak· mā <num value="12">12</num> kapaṅajyanan tapak· mā <num value="4">4</num> kade<supplied reason="omitted">va</supplied>karmmān tapak· mā <num value="4">4</num><unclear>,</unclear> kakulapatyan tapak· su <num value="1">1</num> Anapu I
-<lb n="B20"/> <gap reason="ca. 2 aks. iIllegible"/> tapak· mā <num value="6">6</num> Anapu Iṁ pañcuran tapak· mā <num value="8">8</num> ku <unclear>1/9</unclear> kavarigān tapak· mā <unclear>4</unclear> Atamān tapak· mā <num value="2">2</num> kasusurajyan tapa-
+<lb break="no" n="B19"/> cāryyan· tapak·  <abbr>mā</abbr> <num value="12">12</num> kapaṅajyanan tapak·  <abbr>mā</abbr> <num value="4">4</num> kade<supplied reason="omitted">va</supplied>karmmān tapak·  <abbr>mā</abbr> <num value="4">4</num><unclear>,</unclear> kakulapatyan tapak·  <abbr>su</abbr> <num value="1">1</num> Anapu I
+<lb n="B20"/> <gap reason="illegible" quantity="2" unit="character" precision="low"/> tapak·  <abbr>mā</abbr> <num value="6">6</num> Anapu Iṁ pañcuran tapak·  <abbr>mā</abbr> <num value="8">8</num> ku <unclear>1/9</unclear> kavarigān tapak·  <abbr>mā</abbr> <unclear>4</unclear> Atamān tapak·  <abbr>mā</abbr> <num value="2">2</num> kasusurajyan tapa-
 &lt;choice>&lt;unclear>…&lt;/unclear>&lt;unclear>…&lt;/unclear>&lt;/choice>
-<lb n="B21"/> k· mā <num value="7">7</num> variganya tapak· mā <num value="2">2</num> ku <num value="2">2</num> mahāpiṇḍa tapak· su <num value="3">3</num> mā <num value="14">14</num> Ikanaṁ maparṇnaḥ I saṁ karmmanya, śeṣa tapak·
-<lb n="B22"/> su <num value="3">3</num> mā <unclear>1/4</unclear> ya tika maparṇnaha devasva<supplied reason="omitted">,</supplied> cārva I bhaṭāra pratidina, mvaṁ Āyabyaya sakaparipūrṇnākna bhaṭāra tambak·
+<lb n="B21"/> k·  <abbr>mā</abbr> <num value="7">7</num> variganya tapak·  <abbr>mā</abbr> <num value="2">2</num> ku <num value="2">2</num> mahāpiṇḍa tapak·  <abbr>su</abbr> <num value="3">3</num>  <abbr>mā</abbr> <num value="14">14</num> Ikanaṁ maparṇnaḥ I saṁ karmmanya, śeṣa tapak·
+<lb n="B22"/>  <abbr>su</abbr> <num value="3">3</num>  <abbr>mā</abbr> <unclear>1/4</unclear> ya tika maparṇnaha devasva<supplied reason="omitted">,</supplied> cārva I bhaṭāra pratidina, mvaṁ Āyabyaya sakaparipūrṇnākna bhaṭāra tambak·
 &lt;choice>&lt;unclear>…&lt;/unclear>&lt;unclear>…&lt;/unclear>&lt;/choice>
 <lb n="B23"/> <unclear>U</unclear>maḥ duruṁ parubuṅan· pasajyan· prakāra, kunaṁ Asiṁ Umulah-ulaḥ Ikaiṁ sīma I limus· mvaṁ I tampuran· ṅuniveḥ I
 <lb n="B24"/> sugiḥ manaik·, I dlāhaniṁ dlāha jaḥ tasmāt· kabvat·-karmmāknanya, śĭrṇna bhasmībhāvā ya<supplied reason="omitted">,</supplied> salvirniṁ sarvvopadrava tmu-
@@ -173,7 +176,7 @@ space for the pasangan ja above it. and perhaps the suku!
 <lb break="no" n="c4"/> <supplied reason="lost">ra</supplied> <unclear>riṁ</unclear> tgal· Alapanniṁ glap·
 <lb n="c5"/> <unclear>tan</unclear> pahudan· sumpala<unclear>nniṁ</unclear>
 <lb n="c6"/> rākṣasa, sisihanniṁ vvil·
-<lb n="c7"/> si pamuṅvan· <gap reason="5 akṣ. illegible"/>
+<lb n="c7"/> si pamuṅvan· <gap reason="illegible" unit="character" quantity="5"/>
 <lb n="c8"/> kuśika gargga metri kuruṣ<supplied reason="lost">ya</supplied>
 <lb n="c9"/> <supplied reason="lost">pā</supplied>tañja<unclear>la</unclear> suv<unclear>u</unclear>k<unclear>·</unclear> <unclear>lor·</unclear>
 <lb n="c10"/> kidu<supplied reason="lost">l</supplied><unclear>·</unclear> kulva<supplied reason="lost">n</supplied>· vetan·
@@ -208,167 +211,167 @@ space for the pasangan ja above it. and perhaps the suku!
 <lb n="d11"/> || Oṁ namaḥ śiv<unclear>ā</unclear>ya ||
 </p>
       </div>
-      <div type="apparatus"><!-->
+      <div type="apparatus"><!--
 The siglum Br refers to Brandes’ edition and the siglum Na refers to Nakada’s. -->
-<app loc="A1"><lem>para-hita-niratāḥ ◇ parahita iratāḥ Br, parahitanira tāḥ Na.</app>
-<app loc="A1"><lem>bhavantu (2) bhūta- ◇ Br, bhavantu, (2) bhūta- Na. No punctuation sign is expected after <foreign>bhavantu</foreign> and indeed none is engraved.</app>
-<app loc="A2"><lem>nāśaṁ* ◇ Na, nāśa Br.</app>
-<app loc="A4"><lem>(Ă)gniya- ◇ (A)gneya- Br Na. The form <foreign>agniya</foreign> occurs in Poh Dulur 1v5.</app>
-<app loc="A4"><lem>tvaṣṭā ◇ Na, tvaṣtā Br.</app>
-<app loc="A5"><lem>dyaḥ mumpuṁ ◇ Na, mumpuṁ Br.</app>
-<app loc="A6"><lem>paṅguhan· ◇ Na, maṅguhan· Br.</app>
-<app loc="A6"><lem>tapak· su 18 mā /8\ ◇ tapak· su 10 mā Br, Na. The 8 quantifying <foreign>mā</foreign> is found in an unexpected position, inserted below and a bit to the left of <foreign>mā</foreign>.</app>
-<app loc="A7"><lem>, Iṁ satahun·-satahun· ◇ I satahun·-satahun· Br, [1] Iṁ satahun·-satahun· Na.</app>
-<app loc="A7"><lem>sīmāniṁ ◇ Na, sīmāni Br.</app> 
-<app loc="A7"><lem>pacaru I bhaṭāra ◇ pa(ma) {1 akṣ. illegible} I bhaṭāra Br, pa {3 akṣ. illegible} I bhaṭāra Na. Cf. Landa 1r4 <foreign>paknānya pabiśuvā muAṁ pacaru A⟨ṁ⟩kan parvvaṇĭ</foreign>.</app> 
-<app loc="A8"><note>This line was edited by Brandes essentially with the same reading as ours, but with a note: “Vóór regel 8 staat nog geschreven <foreign>kopāpapurānya</foreign>; 8 <foreign>umyāpāra</foreign> <foreign>ubyāpāra</foreign>”, that seems to have confused subsequent scholars. Sarkar edited this line as follows: <foreign>kopāpagakānya i bhaṭāra pratidina</foreign>, with a note “<foreign>kopāpapurānya </foreign>[K]”. (The meaning of [K] escapes us.) And then we see in Nakada’s edition that this has become further modified as: <foreign>i bhaṭāra pratidina kopāpagusanya</foreign></note></app> 
-<app loc="A8"><lem>I bhaṭāra pratidina, mvaṁ taḍaha ◇ I bhaṭāra pratidina mvaṁ taḍaha Br, I bhaṭāra pratidina kopāpagusanya mvaṁ taḍaha Na.</app> 
-<app loc="A8"><lem>taḍaha ◇ Br, tuḍaha Na.</app> 
-<app loc="A8"><lem>saṁ (ka)r(m)manya ◇ saṅka sdaṅnya Br Na. See further occurrences of <foreign>saṅ karma</foreign> in this inscription and in Timbanan Wungkal (A23) <foreign>mapatiḥ katag(i)ḥhakna saṁ karmmanya ka(baiḥ)</foreign>.</app> 
-<app loc="A8"><lem>maṅas(ə)A[ka](9)[n·] ◇ saṅasisa Br Na.</app> 
-<app loc="A9"><lem>rakryān· I sugiḥ manek· ◇ <foreign>rakryān· I sugiḥ manek· </foreign>Br, {lost akṣ} <foreign>rakryān· I sugiḥ manek </foreign>Na. The beginning of this line is marked by damage to or intentional erasure of several <foreign>akṣara</foreign>s, leaving no legible trace of any words. The space for two or three <foreign>akṣara</foreign>s at the end of the gap, right before <foreign>rakryān</foreign>, must have been occupied either by the word<foreign> dharma</foreign> or by the word <foreign>kuśala</foreign>, in the light of parallels in A7, A19 and B17–18. Since the two words are clearly used as synonyms in this inscription the resulting meaning is the same regardless of which word we supply<foreign>. </foreign></app> 
-<app loc="A10"><lem>māna⟨k⟩ katrīṇi  ◇ Br, Na. We supply ⟨k⟩ because the word needs to be understood as <foreign>mānak</foreign>, as we see in the Telang I 825 Ś (2r3), Poh 827 Ś (2r1): <foreign>saṁ mānak katiga</foreign>, Barahasrama 837 Ś (1v5) and Paradah I 865 Ś (A19). Here we also get a good example of <foreign>katrīṇi</foreign> and <foreign>katiga</foreign> which is synonymous, meaning a trio, or three together.</app> 
-<app loc="A10"><lem>paṅkur· ◇ Br, paṁkur Na.</app> 
-<app loc="A11"><lem>paḍam apvī ◇ pamr̥ṣi Br, pamarṣi Na.</app> 
-<app loc="A11"><lem>Er haji(, maṁru)[mve] ◇ Air haji Br, Airhaji, {3 akṣ. illegible} Na. This restoration is supported by other parallels found in this corpus. Cf. Timbanan Wungkal (line 11)<foreign> tapa haji, Er haji‚ maṁrumve</foreign> and<foreign> </foreign>Tihang (1v7)<foreign> tapa haji, Air haji, maṁguñjai, maṁrumvai.</foreign></app> 
-<app loc="A13"><lem>tajaṁ* ◇ tajəm· Br Na.</app> 
-<app loc="A13"><lem>paṇḍai ◇ paṇḍe Br Na.</app> 
-<app loc="A14"><lem>sinaguha ◇ sinagiha Br Na.</app> 
-<app loc="A14"><lem>varahan· ◇ burahan Br, burəhun Na. This function appears in Tihang (1v7) and Timbanan Wungkal (A12).</app> 
-<app loc="A15"><lem>parāmiśra ◇ Na, paramiśra Br.</app> 
-<app loc="A17"><lem>salvir·niṁ vipati ◇ Na, salvirāniṁ vipati Br.</app> 
-<app loc="A18"><lem>kābunan· ◇ Na, kābunnan Br.</app> 
-<app loc="A19"><lem>hiṁ(hi)ṅana ◇ hiṅana Br Na.</app> 
-<app loc="A19"><lem>kvaihanya ◇ kvehanya Br Na.</app> 
-<app loc="A19"><lem>paṇḍai tambaga, paṇḍai gaṅsa ◇ paṇḍe tambaga paṇḍe gaṅsa Br Na.</app> 
-<app loc="A19"><lem>tluṁ ◇ Br, vlaṁ-vlaṁ Na.</app> 
-<app loc="A20"><lem>Ububvan· ◇ vavvan· Br Na.</app> 
-<app loc="A20"><lem>Iṁ sasīma ◇ Na, I sasīma Br.</app> 
-<app loc="A20"><lem>kboAnya prāṇa 20 ◇ kboAnya prāṇa 4 Br Na.</app> 
-<app loc="A21"><lem>sap(i) ⟨prāṇa 40⟩, vḍus· prāṇa 80 ◇ [......] vḍus· prāṇa 8 Br, [...ḥ] vḍus· prāṇa 8 Na. Our restitution is based on the fixed pattern of quantification of types of livestock in the Old Javanese epigraphic record.</app> 
-<app loc="A21"><lem>maguluṅan· ◇ Na, magulaṅan· Br.</app> 
-<app loc="A21"><lem>dval· ◇ Na, dvala Br.</app> 
-<app loc="A22"><lem>pinikul kady aṅgāniṁ ◇ pinikulan· saṅgāniṁ Br, pinikulan· baṅga Na.</app> 
-<app loc="A22"><lem>mabasana ◇ Na, mabasaḥ Br.</app> 
-<app loc="A22"><lem>masayaṁ  ◇ Na, [.......sa……] Br.</app> 
-<app loc="A22"><lem>lṅa, gula ◇ lbagula Br Na.</app> 
-<app loc="A23"><lem>bsar· ◇ b...r Br, bār Na.</app> 
-<app loc="A23"><lem>lavai ◇ labeḥ Br Na. This word is attested in a list found in the Airlangga corpus. See Turun Hyang (A35) [<foreign>Asayaṁ,</foreign>] <foreign>Aṅavari, makacapuri, maṅuñjal·, Adval· kapas</foreign>· {10-11 akṣ. illegible} <foreign>timaḥ, vuyuḥ, brās·, </foreign>{2-3 akṣ. lost} (b) {3-4 akṣ. lost} <foreign>bsār·, lave, pucaṁ, sǝR̥</foreign>[<foreign>ḥ,</foreign>]<foreign> </foreign>{4-5 akṣ. lost} and Bimalasrama (9r1) <foreign>tamara, maṅuñjal· kapas·, vuṅkuḍu, bsār·, tāmbra, gaṅśa, timaḥ, vuyaḥ, pja, gula, lave, pucaṁ, sǝR̥ḥ, kasumbha,</foreign></app> 
-<app loc="A23"><lem>sapra(kāra)niṁ ◇ Br, saprakaraniṁ Na.</app> 
-<app loc="A24"><lem>Ikana(ṁ) samaṅkana tan knā de saṁ (ma)ṅilala drabya haji ◇ {7 akṣ. illegible} tan knā de saṁ (ma)ṅilala drabya haji Br Na.</app> 
-<app loc="A24"><lem>maṅkai lwiranya ◇ maṅailvinan Br, maṅgalban Na.</app> 
-<app loc="A25"><lem>yāpvan· ◇ Na, yapvan· Br.</app> 
-<app loc="A25"><lem>lviḥ ◇ Br, lvā Na.</app> 
-<app loc="A25"><lem>(I)rīkā paṁhīṁhīṁ ◇ Irika paṁhīṁhiṁ Br, Irikā paṁhəṁ-həṁ Na.</app> 
-<app loc="A25"><lem>sodhāra haji ◇ Na, sobara haji Br.</app> 
-<app loc="A26"><lem>Adhikāna ◇ Na, ahikana Br.</app> 
-<app loc="A26"><lem>maṅubar· ◇ maṅuvar· Br Na.</app> 
-<app loc="A26"><lem>maṅa(nam)· ◇maṅa Br, maṅgalā Na.</app> 
-<app loc="A27"><lem>manūlaṁ vuṅkudu ◇ Na, manula vuṅkudu Br.</app> 
-<app loc="A27"><lem>Umarā ◇ marā Br, [...]marā Na.</app> 
-<app loc="A28"><lem>sadūmān· I saṁ makmitan· dharmma ◇ Na, sadūmān· saṁ makmitan· dharmma Br.</app> 
-<app loc="A28"><lem>masambyavahāra ◇ sambyavahāra Br Na.</app> 
-<app loc="A29"><lem>g(r)itan(ya)⟨,⟩ ◇ <foreign>om</foreign>. Br, [de…] Na.</app> 
-<app loc="A30"><lem>mā 4 ◇ Br, mā 2 Na.</app> 
-<app loc="A30"><lem>vlaḥ ◇ blaḥ Br Na.</app> 
+<app loc="A1"><lem>para-hita-niratāḥ</lem><rdg source="bib:Brandes1913_01">parahita iratāḥ</rdg><rdg source="bib:Nakada1992_01">parahitanira tāḥ</rdg></app>
 <!-- 
-<app loc="B1 ḍ(ya)[ḥ] mriḥ ◇ ḍa mri Br, ḍanamriḥ Na.</app> 
-<app loc="B2 I kanuruhan· ◇ Br, Iṁ kanuruhan· Na.</app> 
-<app loc="B2 saṁ juru makabaihan· ◇ Na, saṁ juru makabehan· Br.</app> 
-<app loc="B2 kanayak(ā)[n·] ◇ kanayakan· Br,  kanayakān· Na.</app> 
-<app loc="B3 rakai siñjalan· ◇ ra….ri Uñjalan· Br, ramo ri [U]ñjalan· Na. This name is also found in Jeru-jeru B19 and Gulung-gulung B28.</app> 
-<app loc="B3 [juru](4)[niṁ ka]lula ◇ [.....]lula Br, Na. This restitution is based on the estimated space, about 3 <foreign>akṣara</foreign>s,<foreign> </foreign>that apparently suits with the function attested elsewhere in this corpus, viz. in Tulang Er (1v3) <foreign>juruniṁ kalula saṁ nāgara</foreign>,<foreign> </foreign>and in an inscription of Wawa’s reign, viz. Sangguran (B4) <foreign>juru kalula pu vali</foreign>.</app> 
-<app loc="B4 Amasaṅakan· (saṁ ra vava,) ◇ Amasaṅakan· ranovava Br, Amusuṅakan i ranovara Na.</app> 
-<app loc="B4 juru maṁrakət· ◇ Na, juru maṁrakit· Br.</app> 
-<app loc="B4 pasək·-[pasək·] ◇ pasəka Br, pasək-[......] Na.</app> 
-<app loc="B5 Iṁ pakaraṇān· ◇  I pakaraṇān· Br Na.</app> 
-<app loc="B5 makabaihan· ◇ Na, makabehan· Br.</app> 
-<app loc="B5 patiḥ pamgat· ◇ patiḥ pamvat· Br Na.</app> 
-<app loc="B6 juru banva (sa)[ṁ] (k)ya ◇ juru vanva (1 akṣ. unread)lya Br, Na.</app> 
-<app loc="B6 vuṅkal· kiluṁ ◇ buṅkal· kiluṁ Br Na. Cf. Kanuruhan (line 10) <foreign>saṁ hadyan· vuṅkal kiluṁ. </foreign></app> 
-<app loc="B6 pinakāsthavīra ◇ pinakāsthavira Br, pinakāṣthavira Na.</app> 
-<app loc="B7 saṁ saṅgamaṁ ◇ saṁ saṅgama Br Na.</app> 
-<app loc="B7 maṇiga ◇ corr. variga. This correction is based on the common order in the gift list, where <foreign>variga </foreign>is normally preceded by <foreign>gusti</foreign>:<foreign> </foreign>cf. Tlu Ron (19), Turyan (A35).<foreign> </foreign>But sometimes the list has some others function placed between <foreign>gusti </foreign>and <foreign>variga</foreign>: cf. Wanua Tengah III (2v9), where the <foreign>marhyaṅ </foreign>and <foreign>parujar</foreign> intervene<foreign>. </foreign>In fact, <foreign>maṇiga </foreign>is frequently found in this corpus, but always in a different context, namely amongst the <foreign>maṅilala drabya haji</foreign>.<foreign> </foreign>Cf. Timbanan Wungkal (10), Tihang (1v6), Barahasrama (1v5) and in this inscription (A11). Hence in this context we find it rather out of place.</app> 
-<app loc="B7 juru bva[toḥ saṁ] [ca]nd(ra) ◇ juru bva(ca. 4 akṣ. unread)nta Br, Na. A parallel is found in Turyan (B2–3) … <foreign>Apkan· saṁ kba(k)· juru bvatoḥ saṁ candra </foreign>and Kanuruhan (A14): <foreign>Apkan· saṁ vulakan, juru bvatoh si milaṁ. </foreign></app> 
-<app loc="B7 panulisan· ◇ manulisan· Br Na.</app> 
-<app loc="B7 saṁ prakăsi(ta) ◇ saṁ prakasika Br Na. We get the prima facie reading of <foreign>prakasika </foreign>as well, but some parallels shed light on the expected word: <foreign>prakasita. </foreign>Cf. Kanuruhan (line 12) <foreign>maṁhambin· saṁ prakasita</foreign>, Gulung-gulung (c5) <foreign>patiḥ pamgat· saṁ prakasita</foreign>, Turyan (A33) <foreign>vinkas· saṁ prakasita, </foreign>(A42) <foreign>saṁ mapatiḥ I kanuruhan· maṁhambin· saṁ prakasita</foreign>. The long vowel on the <foreign>ka </foreign>is expected as the correct spelling would be <foreign>prākaśika. </foreign></app> 
-<app loc="B7 Apkan· ◇ Amkan· Br Na.</app> 
-<app loc="B8 si vujil· ◇ si bujil Br Na.</app> 
-<app loc="B8 pakambaṅa[n·] ◇ Na, pakambaṅa Br.</app> 
-<app loc="B9 maṁhamb(ə)n· ◇ Br, vahumbin· Na.</app> 
-<app loc="B9 [saṁ gu](ruv)rati ◇ [...]brati Br, juru brati Na. Our reading takes into account the fact that <foreign>saṁ </foreign>is normally found after <foreign>maṁhamb</foreign>ə<foreign>n/maṁhambin. </foreign>The reading of the name is rather hypothetical, though the element <foreign>vrati</foreign> seems fairly secure and <foreign>ru</foreign> is also a plausible reading.</app> 
-<app loc="B9 parujar kavaṅyan· ◇ Br, parujar kavaṁyan· Na.</app> 
-<app loc="B9 si rundhā ◇ Na, si rundā Br</app> 
-<app loc="B9 paru[jar patiḥ] si ◇ parujar [.......] Br, paru[jar patiḥ] [...] Na.</app> 
-<app loc="B10 patiḥ I hujuṁ saṁ jarā ◇ patiḥ I hujuṁ saṁ jara Br, patiḥ Iṁ hujuṁ saṁ jarā Na.</app> 
-<app loc="B10 saṁ balusyak· ◇ saṁ balupyak· Br Na. The name <foreign>balusyak</foreign> is also found in some East Javanese inscriptions, Sangguran (B12–13),  Gulung-gulung (B21) and Jeru-jeru (B11).</app> 
-<app loc="B11 saṁ bharata ◇ saṁ karata Br, saṁ kurataḥ Na.</app> 
-<app loc="B12 kalaṁliṅun· ◇ Na, kalaṁliṅan· Br.</app> 
-<app loc="B13 I vuraṇḍuṅan· ◇ Ibu raṇḍuṅan· Br Na.</app> 
-<app loc="B14 saṁ bandi ◇ sam baṇḍi Br Na.</app> 
-<app loc="B14 (k)ula(pa)ti ◇ Na, kulasaṁi Br.</app> 
-<app loc="B15 hlai 1 sovaṁ ◇ Br, hle 1 sovaṁ Na.</app> 
-<app loc="B15 kvaiḥnira ◇ Br, kveḥnira Na.</app> 
-<app loc="B15 vinaiḥ pagə-pagəḥ ◇ Na, vinaiḥ pagəḥ-pagəḥ Br.</app> 
-<app loc="B16 kamvaṁ m⟨v⟩a⟨ṁ⟩ parabantən· ◇ kambaṁ maparabantin· Br, kambaṁ maparabantən· Na. Cf. Kubu-kubu (4r2) <foreign>pinintan· kambaṅ mvaṁ</foreign> (4r3) <foreign>paravantan·.</foreign></app> 
-<app loc="B16 śa(kta) sira ◇ Na, śa tka sira Br. Brandes also left another alternative reading for it in the note: <foreign>satkapira.</foreign> Our prima facie reading shows<foreign> śa(kta) sira</foreign>, which actually can not yield any plausible meaning to us. Thus we tend to take it as <foreign>saṅkā ri[kaṁ/kanaṁ ka]tanamman. </foreign>Cf. Tattvajñāna: <foreign>vvətvaknekaṅ vāyu rumuhun saṅkeṅ tutuk</foreign>, Ramayana (08.142d): <foreign>niyatāku mātya rumuhun sake sira. </foreign></app> 
-<app loc="B17 mapatiḥ ◇ Br, Na. Corr. <foreign>mapagəḥ. </foreign>Cf. Kwak I: <foreign>nahan· cihnanyan· sampun· mapagǝḥ Ikanaṁ tgal· I kvak·, </foreign>Mantyasih I (2r21): <foreign>nahan· cihnanyan· mapagəḥ Ikanaṁ vanuA I mantyāsiḥ muAṁ Iṁ kuniṁ kagunturan·, </foreign>Mantyasih III (2v10) <foreign>nahan· cihnanyan· sampun· mapagəḥ Ikanaṁ vanuA I mantyāsiḥ muAṁ Ikanaṁ vanuA I kuniṁ kagunturan·, </foreign>Rukam (2r21) <foreign>nāhan· cihnanyan· sampun mapagəḥ suddha parisuddha Ikanaṁ vanuA I rukam·,</foreign> Jeru-jeru<foreign> </foreign>(d23) <foreign>cihnanyan tlas mapa(gəḥ) kasīmān nikāṁ sīma. </foreign></app> 
-<app loc="B17 kasīmānikaiṁ ◇ Br, kas̄imān ikaiṁ Na.</app> 
-<app loc="B17 I tampuran· ◇ Iṁ tampuran· Br Na.</app> 
-<app loc="B17 sīmā punpunana ◇ Na, simā punpunana Br.</app> 
-<app loc="B17 Iṁ pr(ā)sāda ◇ I prāsāda Br Na.</app> 
-<app loc="B17 I sugiḥ manaik· ◇ Na, I sugiḥ manek· Br.</app> 
-<app loc="B17 (ku)[śa]la ◇ ka(....)la Br Na. Cf. A19: <foreign>kuśala rakyrān·. </foreign></app> 
-<app loc="B18 tinuṅga(l) ta ◇ tinu(...) ta Br, tinuk(up)ta Na. The <foreign>akṣara </foreign>just before <foreign>ta</foreign> is obscure. It looks like <foreign>ga </foreign>rather than <foreign>la</foreign>, but for this moment we cannot make more plausible reading to render a significant meaning in this context, thus we opt to read <foreign>tinuṅga(l) ta. </foreign></app> 
-<app loc="B19 kācāryyan· tapak· mā 12 ◇ kāvāryyan· tapak· mā 1 Br Na.</app> 
-<app loc="B19 kapaṅajyanan tapak· mā 4 ... kavarigān tapak· mā (4) ◇ Brandes seems to have skipped the whole stretch of text between <foreign>kapaṅajyanan</foreign> and <foreign>kavarigān</foreign> that covers almost an entire line. Consequently, his line numbering is off by one from here onward.</app> 
-<app loc="B19 kapaṅajyanan tapak· mā 4 kade⟨va⟩karmmān tapak· mā 4 ◇ kapaṅajyanan tapak· (.....) de karmmān tapak· mā 4 Na. The context leads us to expect a word with a<foreign> ka-...-an</foreign> circumfix. Yet the reading <foreign>ka-dekarmmān</foreign> cannot be correct as such. In other inscriptions, we sometimes find the term <foreign>devakarma</foreign>, which in turn sometimes stands close to the word <foreign>Anapu</foreign> that also occurs here. Cf. Landa (1r7) s<foreign>avaha saṁ devakarmma blaḥ 1 gavayanira manamvaḥ-hyaṅa manapuA I dalam...</foreign> and Watukura I A (2v1) <foreign>maraha I saṅkarmannya, mamūjā, Upakalpa, devakarmma, Anapū, devadāsa</foreign>. On these grounds, we assume omission of the <foreign>akṣara va</foreign>.</app> 
-<app loc="B19 kakulapatyan tapak· su 1 ◇ kakulapartyan tapak· su 1 Na. Passage omitted in Br.</app> 
-<app loc="B20 Anapu I {ca. 2 aks. iIllegible} tapak· mā 6 ◇ We tried to read a word such <foreign>gṛha </foreign>or <foreign>garbha </foreign>but nothing is really convincing for this moment. So it is best to leave it unread. Besides, any combination of <foreign>anapu</foreign> and<foreign> gr̥ha</foreign> is not found anywhere in the Old Javanese text database.</app> 
-<app loc="B20 Anapu Iṁ pañcuran tapak· mā 8 ◇ Arupa I pañcun tapak· mā 2 Na. Passage omitted in Br.</app> 
-<app loc="B22 devasva⟨,⟩ cārva ◇ de basvacārva Br, de basvacārvva Na. The comma is supplied to obtain a sense from the whole sentence, whichwould involbe a series of purposes: to benefit the property of God (<foreign>devasva</foreign>) and to serve for daily offering (<foreign>cārva</foreign>) to the deity.</app> 
-<app loc="B22 Āyabyaya ◇ Āsābyaya Br Na. Parallels of it are found in Turyan (A8): <foreign>ya saṅkananiṅ āyabyaya Ikaṁ tgal kulvan</foreign> and Cunggrang (A10):<foreign> saṅkānani Āyabyaya ri kapūjān bhaṭāra riṅ prasāda</foreign> and Tuhanyaru (IVa3–4): <foreign>ya tâmijilakĕn āyabyaya niṅ sakalajanma satata bhakti</foreign>.</app> 
-<app loc="B23 (U)maḥ duruṁ ◇ (...)maḥ nuruṁ Br Na. Cf. Bila I (2v2) <foreign>kunaṅ yanikāṅ I vīla juga atagən pisaniṅu yan tumuruna, tan palakvana pabhakta, tkapniṅ cakṣu maṅadgi, anəhər tan alapana umaḥ duruṅ, </foreign>Buwahan (5v5) <foreign>makādiṅ kbo sapi celeṅ vḍus tkeṅ umaḥ duruṅ, parlak savah. </foreign></app> 
-<app loc="B24 karmmāknanya ◇ Na, karmmākmanya.</app> 
-<app loc="B25 Īndaḥ ◇ Na, Indaḥ Br.</app> 
-<app loc="B25 pava(na) ◇ Br, {3 akṣ. illegible} Na.</app> 
-<app loc="B26 yajamānākāśa ◇ Na, yajamāṇākāśa Br.</app> 
-<app loc="B26 sandhyādvaya ◇ sandyādvaya Br Na.</app> 
-<app loc="B26 Ahorātri ◇ Ahorātrī Br Na.</app> 
-<app loc="B26 kuvaira ◇ kuvera Br Na.</app> 
-<app loc="B27 vidyādhara ◇ Br,  vindyādhara Na.</app> 
-<app loc="B27 nand(ī)śvara ◇ Br,  mand(ī)śvara Na.</app> 
-<app loc="B27 mahākāla ◇ Br, makākāla Na.</app> 
-<app loc="B28 sakvaiḥta ◇ sakveḥta Br Na.</app> 
-<app loc="B28 maṁrakṣa ◇  Na, maṁrakṣaṁ Br.</app> 
-<app loc="B29 vvaṁ [A]nyāya ◇ vvaṁ nya ya Br Na.</app> 
-<app loc="B30 ṅunivaiḥ ◇ Na, ṅuniveḥ Br.</app> 
-<app loc="B31 patyanantā [ya ka](muṁ hyaṁ deyan ta)t patīya ◇ patyanantā (....) me patīya Br, patyāntā [...] patīya Na. This restitution is based on the parallels we find in Sindok corpus. Cf. Alasantan (4r4), Muncang (d12), Kampak (C10)</app> 
-<app loc="B31 tampyala I virinan· ◇ Na, tampy(....) I viriṅan· Br. Usually we get <foreign>viraṅan </foreign>instead of <foreign>viriṅan, </foreign>but here the presence of<foreign> ulu </foreign>is clear and although <foreign>viriṅan </foreign>seems unusual, it does occur also in Turyan B26.</app> 
-<app loc="B32 duḍulakan· pahuṁnya ◇ ḍudulaka pahaṁnya Br, [d]uḍulakan· pahuṁnya Na.</app> 
-<app loc="B32 vətvākən· ḍalamanya ◇ vətvākən· ḍalammanya Br, vət [.....] Na.</app> 
-<app loc="c1 Ulā biṣa ◇ Ulā bīṣa Br Na.</app> 
-<app loc="c3 pulirak(na)[niṁ de](vamanyuḥ) ◇ pulirakna[....] Br Na.</app> 
-<app loc="c4 yan· pa[ra] (riṁ) tgal· ◇ yam· parariṁ tgal·, yan pas(u) [...] riṁ tgal· Na.</app> 
-<app loc="c5  sumpala(nniṁ) rākṣasa ◇ Na, sampalanniṁ rākṣasa Br.</app> 
-<app loc="c7 si pamuṅvan· {5 akṣ. illegible} ◇ sapavuṅvan· Br, s[..]v[..]ṅvan· [.. ..]m[..] Na.</app> 
-<app loc="c8 gargga ◇ Br, garga Na.</app> 
-<app loc="c16 [du](du)tanniṁ ◇ ḍuḍutan niṁ Br, Na.</app> 
-<app loc="c20 tatan· tmuAṁ sāma ◇ tatan· tmuA sāma Br, tatan· tmu Asāma Na</app> 
-<app loc="c20 [bhra]ṣṭā ◇ graṣṭhā Br, Na.</app> 
-<app loc="c21 phī⟨⟨ṁ⟩⟩ra ◇ dhīra Br, Na.</app> 
-<app loc="c22. Iṁka narakā ◇ Iṁkanarakā Br, Iṁ kanarakā Na. corr. Ika narakā. The word should be understood as a noun instead of a verb, <foreign>kanarakā</foreign>. <foreign>Ika naraka </foreign>also figures in Alasantan (4r8).</app> 
-<app loc="c26 pāpa Ata ya ◇ bapa Ataya Br, (bā)pa Atayu Na.</app> 
-<app loc="c27 sajĭvakāla ◇ Br, saji vakālu Na.</app> 
-<app loc="d1 [niṁ duḥkha paṅguhanya sa-] ◇ Neither Brandes nor Nakada read this line which is lost due to the damage on the stone.</app> 
-<app loc="d2 rupaniṁ lara hidəpan·nya ◇ [......] lara hiḍapa[.....] Br,</app> 
-<app loc="d3 sakeliknim janma dadyananya ◇ kelikiṁwaṁ kadadiyanya Br, k[...]likiṁ jan tan· [... … …]nya Br.</app> 
-<app loc="d4 mavūka ◇ Br, mav[...]ka Na.</app> 
-<app loc="d5 tan· t(ə)muA ◇ Br, tan· [.. .. …] Na.</app> 
-<app loc="d5 vkassa[ka]n ◇ vkasakan Br, vkarasakan Na.</app>
+<app loc="A1"><lem>bhavantu (2) bhūta-</lem><rdg>Br, bhavantu, (2) bhūta- Na. No punctuation sign is expected after <foreign>bhavantu</foreign> and indeed none is engraved.</app>
+<app loc="A2"><lem>nāśaṁ*</lem><rdg>Na, nāśa Br.</app>
+<app loc="A4"><lem>(Ă)gniya-</lem><rdg>(A)gneya- Br Na. The form <foreign>agniya</foreign> occurs in Poh Dulur 1v5.</app>
+<app loc="A4"><lem>tvaṣṭā</lem><rdg>Na, tvaṣtā Br.</app>
+<app loc="A5"><lem>dyaḥ mumpuṁ</lem><rdg>Na, mumpuṁ Br.</app>
+<app loc="A6"><lem>paṅguhan·</lem><rdg>Na, maṅguhan· Br.</app>
+<app loc="A6"><lem>tapak·  <abbr>su</abbr> 18  <abbr>mā</abbr> /8\</lem><rdg>tapak·  <abbr>su</abbr> 10  <abbr>mā</abbr> Br, Na. The 8 quantifying <foreign>mā</foreign> is found in an unexpected position, inserted below and a bit to the left of <foreign>mā</foreign>.</app>
+<app loc="A7"><lem>, Iṁ satahun·-satahun·</lem><rdg>I satahun·-satahun· Br, [1] Iṁ satahun·-satahun· Na.</app>
+<app loc="A7"><lem>sīmāniṁ</lem><rdg>Na, sīmāni Br.</app> 
+<app loc="A7"><lem>pacaru I bhaṭāra</lem><rdg>pa(ma) {1 akṣ. illegible} I bhaṭāra Br, pa {3 akṣ. illegible} I bhaṭāra Na. Cf. Landa 1r4 <foreign>paknānya pabiśuvā muAṁ pacaru A⟨ṁ⟩kan parvvaṇĭ</foreign>.</app> 
+<app loc="A8"><note>This line was edited by Brandes essentially with the same reading as ours, but with a note: “Vóór regel 8 staat nog geschreven <foreign>kopāpapurānya</foreign>; 8 <foreign>umyāpāra</foreign> <foreign>ubyāpāra</foreign>”, that seems to have confused subsequent scholars. Sarkar edited this line as follows: <foreign>kopāpagakānya i bhaṭāra pratidina</foreign>, with a note “<foreign>kopāpapurānya </foreign>[K]”. (The meaning of [K] escapes us.) And then we see in Nakada’s edition that this has become further modified as: <foreign>i bhaṭāra pratidina kopāpagusanya</foreign></note></app> 
+<app loc="A8"><lem>I bhaṭāra pratidina, mvaṁ taḍaha</lem><rdg>I bhaṭāra pratidina mvaṁ taḍaha Br, I bhaṭāra pratidina kopāpagusanya mvaṁ taḍaha Na.</app> 
+<app loc="A8"><lem>taḍaha</lem><rdg>Br, tuḍaha Na.</app> 
+<app loc="A8"><lem>saṁ (ka)r(m)manya</lem><rdg>saṅka sdaṅnya Br Na. See further occurrences of <foreign>saṅ karma</foreign> in this inscription and in Timbanan Wungkal (A23) <foreign>mapatiḥ katag(i)ḥhakna saṁ karmmanya ka(baiḥ)</foreign>.</app> 
+<app loc="A8"><lem>maṅas(ə)A[ka](9)[n·]</lem><rdg>saṅasisa Br Na.</app> 
+<app loc="A9"><lem>rakryān· I sugiḥ manek·</lem><rdg><foreign>rakryān· I sugiḥ manek· </foreign>Br, {lost akṣ} <foreign>rakryān· I sugiḥ manek </foreign>Na. The beginning of this line is marked by damage to or intentional erasure of several <foreign>akṣara</foreign>s, leaving no legible trace of any words. The space for two or three <foreign>akṣara</foreign>s at the end of the gap, right before <foreign>rakryān</foreign>, must have been occupied either by the word<foreign> dharma</foreign> or by the word <foreign>kuśala</foreign>, in the light of parallels in A7, A19 and B17–18. Since the two words are clearly used as synonyms in this inscription the resulting meaning is the same regardless of which word we supply<foreign>. </foreign></app> 
+<app loc="A10"><lem>māna⟨k⟩ katrīṇi </lem><rdg>Br, Na. We supply ⟨k⟩ because the word needs to be understood as <foreign>mānak</foreign>, as we see in the Telang I 825 Ś (2r3), Poh 827 Ś (2r1): <foreign>saṁ mānak katiga</foreign>, Barahasrama 837 Ś (1v5) and Paradah I 865 Ś (A19). Here we also get a good example of <foreign>katrīṇi</foreign> and <foreign>katiga</foreign> which is synonymous, meaning a trio, or three together.</app> 
+<app loc="A10"><lem>paṅkur·</lem><rdg>Br, paṁkur Na.</app> 
+<app loc="A11"><lem>paḍam apvī</lem><rdg>pamr̥ṣi Br, pamarṣi Na.</app> 
+<app loc="A11"><lem>Er haji(, maṁru)[mve]</lem><rdg>Air haji Br, Airhaji, {3 akṣ. illegible} Na. This restoration is supported by other parallels found in this corpus. Cf. Timbanan Wungkal (line 11)<foreign> tapa haji, Er haji‚ maṁrumve</foreign> and<foreign> </foreign>Tihang (1v7)<foreign> tapa haji, Air haji, maṁguñjai, maṁrumvai.</foreign></app> 
+<app loc="A13"><lem>tajaṁ*</lem><rdg>tajəm· Br Na.</app> 
+<app loc="A13"><lem>paṇḍai</lem><rdg>paṇḍe Br Na.</app> 
+<app loc="A14"><lem>sinaguha</lem><rdg>sinagiha Br Na.</app> 
+<app loc="A14"><lem>varahan·</lem><rdg>burahan Br, burəhun Na. This function appears in Tihang (1v7) and Timbanan Wungkal (A12).</app> 
+<app loc="A15"><lem>parāmiśra</lem><rdg>Na, paramiśra Br.</app> 
+<app loc="A17"><lem>salvir·niṁ vipati</lem><rdg>Na, salvirāniṁ vipati Br.</app> 
+<app loc="A18"><lem>kābunan· ◇ Na, kābunnan Br.</app> 
+<app loc="A19"><lem>hiṁ(hi)ṅana</lem><rdg>hiṅana Br Na.</app> 
+<app loc="A19"><lem>kvaihanya</lem><rdg>kvehanya Br Na.</app> 
+<app loc="A19"><lem>paṇḍai tambaga, paṇḍai gaṅsa</lem><rdg>paṇḍe tambaga paṇḍe gaṅsa Br Na.</app> 
+<app loc="A19"><lem>tluṁ</lem><rdg>Br, vlaṁ-vlaṁ Na.</app> 
+<app loc="A20"><lem>Ububvan·</lem><rdg>vavvan· Br Na.</app> 
+<app loc="A20"><lem>Iṁ sasīma</lem><rdg>Na, I sasīma Br.</app> 
+<app loc="A20"><lem>kboAnya prāṇa 20</lem><rdg>kboAnya prāṇa 4 Br Na.</app> 
+<app loc="A21"><lem>sap(i) ⟨prāṇa 40⟩, vḍus· prāṇa 80</lem><rdg>[......] vḍus· prāṇa 8 Br, [...ḥ] vḍus· prāṇa 8 Na. Our restitution is based on the fixed pattern of quantification of types of livestock in the Old Javanese epigraphic record.</app> 
+<app loc="A21"><lem>maguluṅan·</lem><rdg>Na, magulaṅan· Br.</app> 
+<app loc="A21"><lem>dval·</lem><rdg>Na, dvala Br.</app> 
+<app loc="A22"><lem>pinikul kady aṅgāniṁ</lem><rdg>pinikulan· saṅgāniṁ Br, pinikulan· baṅga Na.</app> 
+<app loc="A22"><lem>mabasana</lem><rdg>Na, mabasaḥ Br.</app> 
+<app loc="A22"><lem>masayaṁ </lem><rdg>Na, [.......sa……] Br.</app> 
+<app loc="A22"><lem>lṅa, gula</lem><rdg>lbagula Br Na.</app> 
+<app loc="A23"><lem>bsar·</lem><rdg>b...r Br, bār Na.</app> 
+<app loc="A23"><lem>lavai</lem><rdg>labeḥ Br Na. This word is attested in a list found in the Airlangga corpus. See Turun Hyang (A35) [<foreign>Asayaṁ,</foreign>] <foreign>Aṅavari, makacapuri, maṅuñjal·, Adval· kapas</foreign>· {10-11 akṣ. illegible} <foreign>timaḥ, vuyuḥ, brās·, </foreign>{2-3 akṣ. lost} (b) {3-4 akṣ. lost} <foreign>bsār·, lave, pucaṁ, sǝR̥</foreign>[<foreign>ḥ,</foreign>]<foreign> </foreign>{4-5 akṣ. lost} and Bimalasrama (9r1) <foreign>tamara, maṅuñjal· kapas·, vuṅkuḍu, bsār·, tāmbra, gaṅśa, timaḥ, vuyaḥ, pja, gula, lave, pucaṁ, sǝR̥ḥ, kasumbha,</foreign></app> 
+<app loc="A23"><lem>sapra(kāra)niṁ</lem><rdg>Br, saprakaraniṁ Na.</app> 
+<app loc="A24"><lem>Ikana(ṁ) samaṅkana tan knā de saṁ (ma)ṅilala drabya haji</lem><rdg>{7 akṣ. illegible} tan knā de saṁ (ma)ṅilala drabya haji Br Na.</app> 
+<app loc="A24"><lem>maṅkai lwiranya</lem><rdg>maṅailvinan Br, maṅgalban Na.</app> 
+<app loc="A25"><lem>yāpvan·</lem><rdg>Na, yapvan· Br.</app> 
+<app loc="A25"><lem>lviḥ</lem><rdg>Br, lvā Na.</app> 
+<app loc="A25"><lem>(I)rīkā paṁhīṁhīṁ</lem><rdg>Irika paṁhīṁhiṁ Br, Irikā paṁhəṁ-həṁ Na.</app> 
+<app loc="A25"><lem>sodhāra haji</lem><rdg>Na, sobara haji Br.</app> 
+<app loc="A26"><lem>Adhikāna</lem><rdg>Na, ahikana Br.</app> 
+<app loc="A26"><lem>maṅubar·</lem><rdg>maṅuvar· Br Na.</app> 
+<app loc="A26"><lem>maṅa(nam)· ◇maṅa Br, maṅgalā Na.</app> 
+<app loc="A27"><lem>manūlaṁ vuṅkudu</lem><rdg>Na, manula vuṅkudu Br.</app> 
+<app loc="A27"><lem>Umarā</lem><rdg>marā Br, [...]marā Na.</app> 
+<app loc="A28"><lem>sadūmān· I saṁ makmitan· dharmma</lem><rdg>Na, sadūmān· saṁ makmitan· dharmma Br.</app> 
+<app loc="A28"><lem>masambyavahāra</lem><rdg>sambyavahāra Br Na.</app> 
+<app loc="A29"><lem>g(r)itan(ya)⟨,⟩</lem><rdg><foreign>om</foreign>. Br, [de…] Na.</app> 
+<app loc="A30"><lem>mā 4</lem><rdg>Br,  <abbr>mā</abbr> 2 Na.</app> 
+<app loc="A30"><lem>vlaḥ</lem><rdg>blaḥ Br Na.</app> 
+<app loc="B1 ḍ(ya)[ḥ] mriḥ</lem><rdg>ḍa mri Br, ḍanamriḥ Na.</app> 
+<app loc="B2 I kanuruhan·</lem><rdg>Br, Iṁ kanuruhan· Na.</app> 
+<app loc="B2 saṁ juru makabaihan·</lem><rdg>Na, saṁ juru makabehan· Br.</app> 
+<app loc="B2 kanayak(ā)[n·]</lem><rdg>kanayakan· Br,  kanayakān· Na.</app> 
+<app loc="B3 rakai siñjalan·</lem><rdg>ra….ri Uñjalan· Br, ramo ri [U]ñjalan· Na. This name is also found in Jeru-jeru B19 and Gulung-gulung B28.</app> 
+<app loc="B3 [juru](4)[niṁ ka]lula</lem><rdg>[.....]lula Br, Na. This restitution is based on the estimated space, about 3 <foreign>akṣara</foreign>s,<foreign> </foreign>that apparently suits with the function attested elsewhere in this corpus, viz. in Tulang Er (1v3) <foreign>juruniṁ kalula saṁ nāgara</foreign>,<foreign> </foreign>and in an inscription of Wawa’s reign, viz. Sangguran (B4) <foreign>juru kalula pu vali</foreign>.</app> 
+<app loc="B4 Amasaṅakan· (saṁ ra vava,)</lem><rdg>Amasaṅakan· ranovava Br, Amusuṅakan i ranovara Na.</app> 
+<app loc="B4 juru maṁrakət·</lem><rdg>Na, juru maṁrakit· Br.</app> 
+<app loc="B4 pasək·-[pasək·]</lem><rdg>pasəka Br, pasək-[......] Na.</app> 
+<app loc="B5 Iṁ pakaraṇān·</lem><rdg> I pakaraṇān· Br Na.</app> 
+<app loc="B5 makabaihan·</lem><rdg>Na, makabehan· Br.</app> 
+<app loc="B5 patiḥ pamgat·</lem><rdg>patiḥ pamvat· Br Na.</app> 
+<app loc="B6 juru banva (sa)[ṁ] (k)ya</lem><rdg>juru vanva (1 akṣ. unread)lya Br, Na.</app> 
+<app loc="B6 vuṅkal· kiluṁ</lem><rdg>buṅkal· kiluṁ Br Na. Cf. Kanuruhan (line 10) <foreign>saṁ hadyan· vuṅkal kiluṁ. </foreign></app> 
+<app loc="B6 pinakāsthavīra</lem><rdg>pinakāsthavira Br, pinakāṣthavira Na.</app> 
+<app loc="B7 saṁ saṅgamaṁ</lem><rdg>saṁ saṅgama Br Na.</app> 
+<app loc="B7 maṇiga</lem><rdg>corr. variga. This correction is based on the common order in the gift list, where <foreign>variga </foreign>is normally preceded by <foreign>gusti</foreign>:<foreign> </foreign>cf. Tlu Ron (19), Turyan (A35).<foreign> </foreign>But sometimes the list has some others function placed between <foreign>gusti </foreign>and <foreign>variga</foreign>: cf. Wanua Tengah III (2v9), where the <foreign>marhyaṅ </foreign>and <foreign>parujar</foreign> intervene<foreign>. </foreign>In fact, <foreign>maṇiga </foreign>is frequently found in this corpus, but always in a different context, namely amongst the <foreign>maṅilala drabya haji</foreign>.<foreign> </foreign>Cf. Timbanan Wungkal (10), Tihang (1v6), Barahasrama (1v5) and in this inscription (A11). Hence in this context we find it rather out of place.</app> 
+<app loc="B7 juru bva[toḥ saṁ] [ca]nd(ra)</lem><rdg>juru bva(ca. 4 akṣ. unread)nta Br, Na. A parallel is found in Turyan (B2–3) … <foreign>Apkan· saṁ kba(k)· juru bvatoḥ saṁ candra </foreign>and Kanuruhan (A14): <foreign>Apkan· saṁ vulakan, juru bvatoh si milaṁ. </foreign></app> 
+<app loc="B7 panulisan·</lem><rdg>manulisan· Br Na.</app> 
+<app loc="B7 saṁ prakăsi(ta)</lem><rdg>saṁ prakasika Br Na. We get the prima facie reading of <foreign>prakasika </foreign>as well, but some parallels shed light on the expected word: <foreign>prakasita. </foreign>Cf. Kanuruhan (line 12) <foreign>maṁhambin· saṁ prakasita</foreign>, Gulung-gulung (c5) <foreign>patiḥ pamgat· saṁ prakasita</foreign>, Turyan (A33) <foreign>vinkas· saṁ prakasita, </foreign>(A42) <foreign>saṁ mapatiḥ I kanuruhan· maṁhambin· saṁ prakasita</foreign>. The long vowel on the <foreign>ka </foreign>is expected as the correct spelling would be <foreign>prākaśika. </foreign></app> 
+<app loc="B7 Apkan·</lem><rdg>Amkan· Br Na.</app> 
+<app loc="B8 si vujil·</lem><rdg>si bujil Br Na.</app> 
+<app loc="B8 pakambaṅa[n·]</lem><rdg>Na, pakambaṅa Br.</app> 
+<app loc="B9 maṁhamb(ə)n·</lem><rdg>Br, vahumbin· Na.</app> 
+<app loc="B9 [saṁ gu](ruv)rati</lem><rdg>[...]brati Br, juru brati Na. Our reading takes into account the fact that <foreign>saṁ </foreign>is normally found after <foreign>maṁhamb</foreign>ə<foreign>n/maṁhambin. </foreign>The reading of the name is rather hypothetical, though the element <foreign>vrati</foreign> seems fairly secure and <foreign>ru</foreign> is also a plausible reading.</app> 
+<app loc="B9 parujar kavaṅyan·</lem><rdg>Br, parujar kavaṁyan· Na.</app> 
+<app loc="B9 si rundhā</lem><rdg>Na, si rundā Br</app> 
+<app loc="B9 paru[jar patiḥ] si</lem><rdg>parujar [.......] Br, paru[jar patiḥ] [...] Na.</app> 
+<app loc="B10 patiḥ I hujuṁ saṁ jarā</lem><rdg>patiḥ I hujuṁ saṁ jara Br, patiḥ Iṁ hujuṁ saṁ jarā Na.</app> 
+<app loc="B10 saṁ balusyak·</lem><rdg>saṁ balupyak· Br Na. The name <foreign>balusyak</foreign> is also found in some East Javanese inscriptions, Sangguran (B12–13),  Gulung-gulung (B21) and Jeru-jeru (B11).</app> 
+<app loc="B11 saṁ bharata</lem><rdg>saṁ karata Br, saṁ kurataḥ Na.</app> 
+<app loc="B12 kalaṁliṅun·</lem><rdg>Na, kalaṁliṅan· Br.</app> 
+<app loc="B13 I vuraṇḍuṅan·</lem><rdg>Ibu raṇḍuṅan· Br Na.</app> 
+<app loc="B14 saṁ bandi</lem><rdg>sam baṇḍi Br Na.</app> 
+<app loc="B14 (k)ula(pa)ti</lem><rdg>Na, kulasaṁi Br.</app> 
+<app loc="B15 hlai 1 sovaṁ</lem><rdg>Br, hle 1 sovaṁ Na.</app> 
+<app loc="B15 kvaiḥnira</lem><rdg>Br, kveḥnira Na.</app> 
+<app loc="B15 vinaiḥ pagə-pagəḥ</lem><rdg>Na, vinaiḥ pagəḥ-pagəḥ Br.</app> 
+<app loc="B16 kamvaṁ m⟨v⟩a⟨ṁ⟩ parabantən·</lem><rdg>kambaṁ maparabantin· Br, kambaṁ maparabantən· Na. Cf. Kubu-kubu (4r2) <foreign>pinintan· kambaṅ mvaṁ</foreign> (4r3) <foreign>paravantan·.</foreign></app> 
+<app loc="B16 śa(kta) sira</lem><rdg>Na, śa tka sira Br. Brandes also left another alternative reading for it in the note: <foreign>satkapira.</foreign> Our prima facie reading shows<foreign> śa(kta) sira</foreign>, which actually can not yield any plausible meaning to us. Thus we tend to take it as <foreign>saṅkā ri[kaṁ/kanaṁ ka]tanamman. </foreign>Cf. Tattvajñāna: <foreign>vvətvaknekaṅ vāyu rumuhun saṅkeṅ tutuk</foreign>, Ramayana (08.142d): <foreign>niyatāku mātya rumuhun sake sira. </foreign></app> 
+<app loc="B17 mapatiḥ</lem><rdg>Br, Na. Corr. <foreign>mapagəḥ. </foreign>Cf. Kwak I: <foreign>nahan· cihnanyan· sampun· mapagǝḥ Ikanaṁ tgal· I kvak·, </foreign>Mantyasih I (2r21): <foreign>nahan· cihnanyan· mapagəḥ Ikanaṁ vanuA I mantyāsiḥ muAṁ Iṁ kuniṁ kagunturan·, </foreign>Mantyasih III (2v10) <foreign>nahan· cihnanyan· sampun· mapagəḥ Ikanaṁ vanuA I mantyāsiḥ muAṁ Ikanaṁ vanuA I kuniṁ kagunturan·, </foreign>Rukam (2r21) <foreign>nāhan· cihnanyan· sampun mapagəḥ suddha parisuddha Ikanaṁ vanuA I rukam·,</foreign> Jeru-jeru<foreign> </foreign>(d23) <foreign>cihnanyan tlas mapa(gəḥ) kasīmān nikāṁ sīma. </foreign></app> 
+<app loc="B17 kasīmānikaiṁ</lem><rdg>Br, kas̄imān ikaiṁ Na.</app> 
+<app loc="B17 I tampuran·</lem><rdg>Iṁ tampuran· Br Na.</app> 
+<app loc="B17 sīmā punpunana</lem><rdg>Na, simā punpunana Br.</app> 
+<app loc="B17 Iṁ pr(ā)sāda</lem><rdg>I prāsāda Br Na.</app> 
+<app loc="B17 I sugiḥ manaik·</lem><rdg>Na, I sugiḥ manek· Br.</app> 
+<app loc="B17 (ku)[śa]la</lem><rdg>ka(....)la Br Na. Cf. A19: <foreign>kuśala rakyrān·. </foreign></app> 
+<app loc="B18 tinuṅga(l) ta</lem><rdg>tinu(...) ta Br, tinuk(up)ta Na. The <foreign>akṣara </foreign>just before <foreign>ta</foreign> is obscure. It looks like <foreign>ga </foreign>rather than <foreign>la</foreign>, but for this moment we cannot make more plausible reading to render a significant meaning in this context, thus we opt to read <foreign>tinuṅga(l) ta. </foreign></app> 
+<app loc="B19 kācāryyan· tapak·  <abbr>mā</abbr> 12</lem><rdg>kāvāryyan· tapak·  <abbr>mā</abbr> 1 Br Na.</app> 
+<app loc="B19 kapaṅajyanan tapak·  <abbr>mā</abbr> 4 ... kavarigān tapak·  <abbr>mā</abbr> (4)</lem><rdg>Brandes seems to have skipped the whole stretch of text between <foreign>kapaṅajyanan</foreign> and <foreign>kavarigān</foreign> that covers almost an entire line. Consequently, his line numbering is off by one from here onward.</app> 
+<app loc="B19 kapaṅajyanan tapak·  <abbr>mā</abbr> 4 kade⟨va⟩karmmān tapak·  <abbr>mā</abbr> 4</lem><rdg>kapaṅajyanan tapak· (.....) de karmmān tapak·  <abbr>mā</abbr> 4 Na. The context leads us to expect a word with a<foreign> ka-...-an</foreign> circumfix. Yet the reading <foreign>ka-dekarmmān</foreign> cannot be correct as such. In other inscriptions, we sometimes find the term <foreign>devakarma</foreign>, which in turn sometimes stands close to the word <foreign>Anapu</foreign> that also occurs here. Cf. Landa (1r7) s<foreign>avaha saṁ devakarmma blaḥ 1 gavayanira manamvaḥ-hyaṅa manapuA I dalam...</foreign> and Watukura I A (2v1) <foreign>maraha I saṅkarmannya, mamūjā, Upakalpa, devakarmma, Anapū, devadāsa</foreign>. On these grounds, we assume omission of the <foreign>akṣara va</foreign>.</app> 
+<app loc="B19 kakulapatyan tapak·  <abbr>su</abbr> 1</lem><rdg>kakulapartyan tapak·  <abbr>su</abbr> 1 Na. Passage omitted in Br.</app> 
+<app loc="B20 Anapu I {ca. 2 aks. iIllegible} tapak·  <abbr>mā</abbr> 6</lem><rdg>We tried to read a word such <foreign>gṛha </foreign>or <foreign>garbha </foreign>but nothing is really convincing for this moment. So it is best to leave it unread. Besides, any combination of <foreign>anapu</foreign> and<foreign> gr̥ha</foreign> is not found anywhere in the Old Javanese text database.</app> 
+<app loc="B20 Anapu Iṁ pañcuran tapak·  <abbr>mā</abbr> 8</lem><rdg>Arupa I pañcun tapak·  <abbr>mā</abbr> 2 Na. Passage omitted in Br.</app> 
+<app loc="B22 devasva⟨,⟩ cārva</lem><rdg>de basvacārva Br, de basvacārvva Na. The comma is supplied to obtain a sense from the whole sentence, whichwould involbe a series of purposes: to benefit the property of God (<foreign>devasva</foreign>) and to serve for daily offering (<foreign>cārva</foreign>) to the deity.</app> 
+<app loc="B22 Āyabyaya</lem><rdg>Āsābyaya Br Na. Parallels of it are found in Turyan (A8): <foreign>ya saṅkananiṅ āyabyaya Ikaṁ tgal kulvan</foreign> and Cunggrang (A10):<foreign> saṅkānani Āyabyaya ri kapūjān bhaṭāra riṅ prasāda</foreign> and Tuhanyaru (IVa3–4): <foreign>ya tâmijilakĕn āyabyaya niṅ sakalajanma satata bhakti</foreign>.</app> 
+<app loc="B23 (U)maḥ duruṁ</lem><rdg>(...)maḥ nuruṁ Br Na. Cf. Bila I (2v2) <foreign>kunaṅ yanikāṅ I vīla juga atagən pisaniṅu yan tumuruna, tan palakvana pabhakta, tkapniṅ cakṣu maṅadgi, anəhər tan alapana umaḥ duruṅ, </foreign>Buwahan (5v5) <foreign>makādiṅ kbo sapi celeṅ vḍus tkeṅ umaḥ duruṅ, parlak savah. </foreign></app> 
+<app loc="B24 karmmāknanya</lem><rdg>Na, karmmākmanya.</app> 
+<app loc="B25 Īndaḥ</lem><rdg>Na, Indaḥ Br.</app> 
+<app loc="B25 pava(na)</lem><rdg>Br, {3 akṣ. illegible} Na.</app> 
+<app loc="B26 yajamānākāśa</lem><rdg>Na, yajamāṇākāśa Br.</app> 
+<app loc="B26 sandhyādvaya</lem><rdg>sandyādvaya Br Na.</app> 
+<app loc="B26 Ahorātri</lem><rdg>Ahorātrī Br Na.</app> 
+<app loc="B26 kuvaira</lem><rdg>kuvera Br Na.</app> 
+<app loc="B27 vidyādhara</lem><rdg>Br,  vindyādhara Na.</app> 
+<app loc="B27 nand(ī)śvara</lem><rdg>Br,  mand(ī)śvara Na.</app> 
+<app loc="B27 mahākāla</lem><rdg>Br, makākāla Na.</app> 
+<app loc="B28 sakvaiḥta</lem><rdg>sakveḥta Br Na.</app> 
+<app loc="B28 maṁrakṣa</lem><rdg> Na, maṁrakṣaṁ Br.</app> 
+<app loc="B29 vvaṁ [A]nyāya</lem><rdg>vvaṁ nya ya Br Na.</app> 
+<app loc="B30 ṅunivaiḥ</lem><rdg>Na, ṅuniveḥ Br.</app> 
+<app loc="B31 patyanantā [ya ka](muṁ hyaṁ deyan ta)t patīya</lem><rdg>patyanantā (....) me patīya Br, patyāntā [...] patīya Na. This restitution is based on the parallels we find in Sindok corpus. Cf. Alasantan (4r4), Muncang (d12), Kampak (C10)</app> 
+<app loc="B31 tampyala I virinan·</lem><rdg>Na, tampy(....) I viriṅan· Br. Usually we get <foreign>viraṅan </foreign>instead of <foreign>viriṅan, </foreign>but here the presence of<foreign> ulu </foreign>is clear and although <foreign>viriṅan </foreign>seems unusual, it does occur also in Turyan B26.</app> 
+<app loc="B32 duḍulakan· pahuṁnya</lem><rdg>ḍudulaka pahaṁnya Br, [d]uḍulakan· pahuṁnya Na.</app> 
+<app loc="B32 vətvākən· ḍalamanya</lem><rdg>vətvākən· ḍalammanya Br, vət [.....] Na.</app> 
+<app loc="c1 Ulā biṣa</lem><rdg>Ulā bīṣa Br Na.</app> 
+<app loc="c3 pulirak(na)[niṁ de](vamanyuḥ)</lem><rdg>pulirakna[....] Br Na.</app> 
+<app loc="c4 yan· pa[ra] (riṁ) tgal·</lem><rdg>yam· parariṁ tgal·, yan pas(u) [...] riṁ tgal· Na.</app> 
+<app loc="c5  sumpala(nniṁ) rākṣasa</lem><rdg>Na, sampalanniṁ rākṣasa Br.</app> 
+<app loc="c7 si pamuṅvan· {5 akṣ. illegible}</lem><rdg>sapavuṅvan· Br, s[..]v[..]ṅvan· [.. ..]m[..] Na.</app> 
+<app loc="c8 gargga</lem><rdg>Br, garga Na.</app> 
+<app loc="c16 [du](du)tanniṁ</lem><rdg>ḍuḍutan niṁ Br, Na.</app> 
+<app loc="c20 tatan· tmuAṁ sāma</lem><rdg>tatan· tmuA sāma Br, tatan· tmu Asāma Na</app> 
+<app loc="c20 [bhra]ṣṭā</lem><rdg>graṣṭhā Br, Na.</app> 
+<app loc="c21 phī⟨⟨ṁ⟩⟩ra</lem><rdg>dhīra Br, Na.</app> 
+<app loc="c22. Iṁka narakā</lem><rdg>Iṁkanarakā Br, Iṁ kanarakā Na. corr. Ika narakā. The word should be understood as a noun instead of a verb, <foreign>kanarakā</foreign>. <foreign>Ika naraka </foreign>also figures in Alasantan (4r8).</app> 
+<app loc="c26 pāpa Ata ya</lem><rdg>bapa Ataya Br, (bā)pa Atayu Na.</app> 
+<app loc="c27 sajĭvakāla</lem><rdg>Br, saji vakālu Na.</app> 
+<app loc="d1 [niṁ duḥkha paṅguhanya sa-]</lem><rdg>Neither Brandes nor Nakada read this line which is lost due to the damage on the stone.</app> 
+<app loc="d2 rupaniṁ lara hidəpan·nya</lem><rdg>[......] lara hiḍapa[.....] Br,</app> 
+<app loc="d3 sakeliknim janma dadyananya</lem><rdg>kelikiṁwaṁ kadadiyanya Br, k[...]likiṁ jan tan· [... … …]nya Br.</app> 
+<app loc="d4 mavūka</lem><rdg>Br, mav[...]ka Na.</app> 
+<app loc="d5 tan· t(ə)muA</lem><rdg>Br, tan· [.. .. …] Na.</app> 
+<app loc="d5 vkassa[ka]n</lem><rdg>vkasakan Br, vkarasakan Na.</app>
 -->
 </div>
-      <div type="translation" xml:lang="eng">
+      <div type="translation" resp="part:tykd part:argr">
         <p>(A1–A7) May there be no hindrance!</p>
         <p>May there be prosperity for all people! May the hosts of beings be intent upon the benefit of others! May faults come to perish! May the world be blissful in every respect!</p>
         <p>Hail! Elapsed Śaka year 837, month of Asuji, second <foreign>tithi</foreign> of the waxing fortnight, Mavulu, Pon, Wednesday, the direction south-east, the lunar mansion Citrā, the conjunction Vaidhr̥ti, the deity Tvaṣṭā. That was the time of the grant of the Great King Śrī Dakṣottama-bāhubajra-pratipaḳsa-ksaya to the Lord of Kanuruhan, <foreign>dyah </foreign>Mumpuṅ, to demarcate the village of Limus, district Kanuruhan, [whose] corvée (<foreign>gavai</foreign>)<foreign></foreign>is 1 <foreign>māṣa</foreign>, and its subordinate (<foreign>anaknya</foreign>)<foreign></foreign>at Tampuran [whose] income (<foreign>paṅguhan</foreign>) is 18 <foreign>suvarṇa </foreign>and 8 <foreign>māṣa </foreign>of <foreign>tapak </foreign>for each year, so that it would become the <foreign>sīma</foreign> of the foundation<foreign></foreign>of the Lord, (namely) the monastery temple (<foreign>prāsāda kabikvan</foreign>)<foreign></foreign>at Sugih Manek.</p>
@@ -420,9 +423,9 @@ The siglum Br refers to Brandes’ edition and the siglum Na refers to Nakada’
         <p>A1. The stanza in <foreign>āryā</foreign> meter which stands at the beginning of this inscription, just before the Old Javanese content, is found in only one other inscription that also comes from the vicinity of Malang, the Minto stone or Sangguran charter, that was issued under the reign of King Wawa. This noteworthy co-occurrence has been highlighted by Kern (1915).</p>
         <p>Kern 1915: 223–24.</p>
         <p>A5. It is surprising to have a sentence structure where a favor <foreign>(anugraha</foreign>) is followed by a verb form (<foreign>sumusuk</foreign>)<foreign></foreign>without irrealis. For this reason, one might wonder as to the subject of <foreign>sumusuk</foreign>. Who did demarcate the land? Is it the King himself? Or should we assume that the demarcator would be the grantee, i.e. <foreign>dyah </foreign>Mumpung, despite the absence of an irrealis form? For this moment, we tentatively stick to the common pattern, whereby the King does not demarcate the land himself.</p>
-        <p>A6. The term <foreign>gavai </foreign>is registered in OJED to denote the following meanings: “work, task, occupation; work, product; feast, celebration; use, purpose”. Yet here we opt for the translation “corvée” to specify something that should be rendered by a village to the higher authorities. The same technical term also appears several times in other corpora (Balitung, Wawa, Sindok) and elsewhere in the present one. Cf. Samalagi (1v3):<foreign> gavainya mā 1 savahnya lamvi[t]</foreign>, Panggumulan I (1v3): <foreign>gavai mā 4 savah kanayakān· tampah 7</foreign>, Dalinan (1r4): <foreign>gavai mā 6 sava(ḥ) [ka]hadyanan· tampah 8, </foreign>Kinewu (line 6): <foreign>lamvit· 6 tampaḥ 3 kaṭik 28 gavai 8</foreign>, Hujung Galuh (1r4): <foreign>gavai ku 2 dravya-hajinya mas· su 6 mas· kavahutān· su 2</foreign>, Sugih Manek (A6): <foreign>vanva I limus· vatək kanuruhan· gavai mā 1</foreign>, Sangguran (A6): <foreign>va(nu)A I saṁguran· vatək· vaharu‚ gavai ma 2….han</foreign>, Cunggrang II (1r4):<foreign> vatək· bavaṁ Ataganiṁ vahuta vuṅkal·, gavai ku 2</foreign>, Linggasuntan (A5): <foreign>vatak hujuṁ gavay mā 2 kaṭik 2</foreign>. More discussion on this matter is provided in Barrett Jones (1984: 132–135), where it is shown that <foreign>gavai </foreign>had technical meanings in at least three different contexts. First, it could designate a measurement of resources on which tax is levied. Second, it might be a kind of tax. In rather different contexts, <foreign>gavai </foreign>can furthermore denote an offering or ritual performed for a deity (Barrett Jones 1984: 134).</p>
-        <p>A6. The expression <foreign>anaknya </foreign>in connexion to a village (<foreign>vanua</foreign>) also figures in Poh (1v2–3): <foreign>kumonnakan· Ikanaṁ vanuA I poḥ muAṁṅ anaknya vanuA ri rumasan·, riṁ nyū, kapva vatak· kinivaṁ, śuśukan· paṅguhanya mamulus· mas· su 4 tan ya vadvāyun·</foreign> and in Kandangan (1r5–6) <foreign>tatkālanikanaṁ vanuA I kaṇḍaṅan· muAṁ Anaknya ri vanuA I Er hijo vata⟨k·⟩ vuṅkal· tpat· śīmāni parhyaṅan</foreign>. Under the entry <foreign>anak </foreign>in OJED, none of the indicated meanings seems to be suitable in these contexts. Clearly it cannot be rendered as equivalent to <foreign>anak vanua</foreign>, meaning “native(s)” or “inhabitant(s)”, since the sentences seem to consist exclusively in series of toponyms. However, the idea of <foreign>anak </foreign>as expressing something dependent or derivative is observable from other entries in OJED. The compound term <foreign>gunuṅ anak</foreign> means “small mountain”, <foreign>anakniṅ sañjata </foreign>means “missile or arrow”, <foreign>anak-anakan</foreign> signifies “pupil” and <foreign>paṅanak </foreign>“profit on a loan” or “interest” — which in the late twelfth century is replaced by a Sanskrit word <foreign>putra </foreign>(Wisseman Christie 2009: 52). Based on those instances, we are inclined to interpret<foreign> vanua X muaṅ anaknya vanua Y </foreign>as expressing village Y’s dependency on village X. It could mean a subordinate village or land holdings belonging to the main <foreign>vanua</foreign>.</p>
-        <p>A6. Here <foreign>paṅguhan tapak </foreign>is tentatively rendered as income or profit from land measured in <foreign>tapak. </foreign>Cf.<foreign></foreign>Linggasuntan (A5): <foreign>vatak hujuṅ gavay mā 2 kaṭik 2</foreign> <foreign>paṅguhan tapak mas su 3</foreign>. However, we are quite aware that in Balinese epigraphy context, a term called <foreign>patapak </foreign>appears as a certain tax or levy. Cf. copperplate inscriptions of Pura Batur Buleleng (IIb.4): <foreign>tan kna papanjut mvaṅ patapak </foreign> of Pura Kehen (IIIb.1):<foreign> tan kna patapak sandūṅ bənta pamor</foreign>, of Pura Pamrajan Raja Purana Klungkung (Ib.6): <foreign>lawan tan kna patapak</foreign>, (IIa.5): <foreign>atəhər tan kna patapak sanduṅ bənta</foreign>. According to Barrett Jones, due to the fact that a sum of money follows this term, it may refer to the tax paid (Barrett Jones 1984: 144).</p>
+        <p>A6. The term <foreign>gavai </foreign>is registered in OJED to denote the following meanings: “work, task, occupation; work, product; feast, celebration; use, purpose”. Yet here we opt for the translation “corvée” to specify something that should be rendered by a village to the higher authorities. The same technical term also appears several times in other corpora (Balitung, Wawa, Sindok) and elsewhere in the present one. Cf. Samalagi (1v3):<foreign> gavainya  <abbr>mā</abbr> 1 savahnya lamvi[t]</foreign>, Panggumulan I (1v3): <foreign>gavai  <abbr>mā</abbr> 4 savah kanayakān· tampah 7</foreign>, Dalinan (1r4): <foreign>gavai  <abbr>mā</abbr> 6 sava(ḥ) [ka]hadyanan· tampah 8, </foreign>Kinewu (line 6): <foreign>lamvit· 6 tampaḥ 3 kaṭik 28 gavai 8</foreign>, Hujung Galuh (1r4): <foreign>gavai ku 2 dravya-hajinya mas·  <abbr>su</abbr> 6 mas· kavahutān·  <abbr>su</abbr> 2</foreign>, Sugih Manek (A6): <foreign>vanva I limus· vatək kanuruhan· gavai  <abbr>mā</abbr> 1</foreign>, Sangguran (A6): <foreign>va(nu)A I saṁguran· vatək· vaharu‚ gavai ma 2….han</foreign>, Cunggrang II (1r4):<foreign> vatək· bavaṁ Ataganiṁ vahuta vuṅkal·, gavai ku 2</foreign>, Linggasuntan (A5): <foreign>vatak hujuṁ gavay  <abbr>mā</abbr> 2 kaṭik 2</foreign>. More discussion on this matter is provided in Barrett Jones (1984: 132–135), where it is shown that <foreign>gavai </foreign>had technical meanings in at least three different contexts. First, it could designate a measurement of resources on which tax is levied. Second, it might be a kind of tax. In rather different contexts, <foreign>gavai </foreign>can furthermore denote an offering or ritual performed for a deity (Barrett Jones 1984: 134).</p>
+        <p>A6. The expression <foreign>anaknya </foreign>in connexion to a village (<foreign>vanua</foreign>) also figures in Poh (1v2–3): <foreign>kumonnakan· Ikanaṁ vanuA I poḥ muAṁṅ anaknya vanuA ri rumasan·, riṁ nyū, kapva vatak· kinivaṁ, śuśukan· paṅguhanya mamulus· mas·  <abbr>su</abbr> 4 tan ya vadvāyun·</foreign> and in Kandangan (1r5–6) <foreign>tatkālanikanaṁ vanuA I kaṇḍaṅan· muAṁ Anaknya ri vanuA I Er hijo vata⟨k·⟩ vuṅkal· tpat· śīmāni parhyaṅan</foreign>. Under the entry <foreign>anak </foreign>in OJED, none of the indicated meanings seems to be suitable in these contexts. Clearly it cannot be rendered as equivalent to <foreign>anak vanua</foreign>, meaning “native(s)” or “inhabitant(s)”, since the sentences seem to consist exclusively in series of toponyms. However, the idea of <foreign>anak </foreign>as expressing something dependent or derivative is observable from other entries in OJED. The compound term <foreign>gunuṅ anak</foreign> means “small mountain”, <foreign>anakniṅ sañjata </foreign>means “missile or arrow”, <foreign>anak-anakan</foreign> signifies “pupil” and <foreign>paṅanak </foreign>“profit on a loan” or “interest” — which in the late twelfth century is replaced by a Sanskrit word <foreign>putra </foreign>(Wisseman Christie 2009: 52). Based on those instances, we are inclined to interpret<foreign> vanua X muaṅ anaknya vanua Y </foreign>as expressing village Y’s dependency on village X. It could mean a subordinate village or land holdings belonging to the main <foreign>vanua</foreign>.</p>
+        <p>A6. Here <foreign>paṅguhan tapak </foreign>is tentatively rendered as income or profit from land measured in <foreign>tapak. </foreign>Cf.<foreign></foreign>Linggasuntan (A5): <foreign>vatak hujuṅ gavay  <abbr>mā</abbr> 2 kaṭik 2</foreign> <foreign>paṅguhan tapak mas  <abbr>su</abbr> 3</foreign>. However, we are quite aware that in Balinese epigraphy context, a term called <foreign>patapak </foreign>appears as a certain tax or levy. Cf. copperplate inscriptions of Pura Batur Buleleng (IIb.4): <foreign>tan kna papanjut mvaṅ patapak </foreign> of Pura Kehen (IIIb.1):<foreign> tan kna patapak sandūṅ bənta pamor</foreign>, of Pura Pamrajan Raja Purana Klungkung (Ib.6): <foreign>lawan tan kna patapak</foreign>, (IIa.5): <foreign>atəhər tan kna patapak sanduṅ bənta</foreign>. According to Barrett Jones, due to the fact that a sum of money follows this term, it may refer to the tax paid (Barrett Jones 1984: 144).</p>
         <p>A7. The toponym Sugih Manek exclusively figures in this charter. As for the name of the foundation, <foreign>dharma rakryān prāsāda kabikvan I sugih manek</foreign>, we understand it as the foundation of the Lord in form of a monastery temple, at Sugih Manek.</p>
         <p>A13. The term <foreign>mapayuṅan</foreign>, whose meaning is not evident,<foreign></foreign>is rarely found in other instances of this list. However, one other instance is in another inscription found in Malang, viz. Linggasuntan (A13): ... <foreign>vli pañjut·, palamak·, pakaluṁkuṁ, Urutan·, dampulan·, tpuṁ kavuṁ, suṁsuṁ paṅuraṁ, pasuk alas·, mapayuṅan·, sipat vilut·.</foreign></p>
         <p>A15. The understudied term <foreign>miśra </foreign>is said to come from the Sanskrit which means “interest” or “interest on interest” by Kern (1917: 47). He linked it to the Javanese terms “<foreign>misra, mingsra, misri</foreign>”, meaning profit and suggested that it might be understood as “usurer”. Stutterheim (1925: 247), for his part, considered <foreign>miśra </foreign>to mean something like “chief”, as in other contexts figure combinations such as <foreign>miśra hino</foreign> and <foreign>miśra aṅinaṅin</foreign>.  Wisseman Christie (1993: 203) took it as a category comprising semi-professional, part-time producers who belonged to farming households. As for Boechari (2012: 166), he chose to understand <foreign>miśra </foreign>as a term which categorizes the home industries. Nevertheless, further study to elucidate this word is still needed.</p>
@@ -444,20 +447,22 @@ The siglum Br refers to Brandes’ edition and the siglum Na refers to Nakada’
         <p>B7. The function <foreign>juru bvatoḥ </foreign>— elsewhere in this corpus, spelled as <foreign>juru botoḥ </foreign>(Piling-piling II B10) — is presumed to be related with gambling activities, as this term is found under the word <foreign>toh </foreign>in OJED, meaning stake, gambling, wager, competition, combat.</p>
         <p>B10. The same functions and names are found in Jeru-jeru (B11): <foreign>patiḥ pamgat saṁ jarā, maṅhambin saṁ balusyak·.</foreign></p>
         <p>B16. In Zoetmulder (1982), there is no entry <foreign>parabantĕn </foreign>under the word <foreign>bantĕn</foreign>. Here, our translation of <foreign>parabantən </foreign>relies on the definition given in Hardjadibrata (Hardjadibrata 2003: 598) — <foreign>parawanten</foreign>: offerings (mainly) consisting of food. Along with this kind of offering, four other items also get mentioned, namely <foreign>kamvaṅ </foreign>(flowers), <foreign>dhūpa </foreign>(incense), <foreign>dīpa </foreign>(lamp) and <foreign>akṣata</foreign> (unhusked grains). They might constitute the five items for worship (<foreign>pañcopacāra</foreign>). In Lintakan (3r16), another list of <foreign>pañcopacāra </foreign>is given, with a slightly different elements, namely<foreign> gləpuṅ putiḥ kuniṅ</foreign> (white and yellow powder), <foreign>kamvaṅ gandha </foreign>(fragrant flowers), <foreign>dhūpa</foreign> (incense), <foreign>dipa</foreign> (lamp) and <foreign>jnu </foreign>(boreh).</p>
-        <p>B19. This land measurement unit, <foreign>tapak</foreign>, seems to be used commonly in East Javanese inscriptions and during a limited period of time (10th century). It is found in Dinoyo II (A2–3): <foreign>saṁ (hi)vi(l)· (r)i hujuṁ manu(suk·) sīma vatak· hiliran ri ḍaṁ hyaṁ guru caṇḍik· savaḥ tapa(k· sapuluḥ mas·)</foreign>, (A8): <foreign>mavaih savaḥ susukkan· tapak· salapan·</foreign>, Kubu-kubu (1v3–4): <foreign>manampil· talaṁ rvaṅ tapak· I samuḍuṁ tka ri kubu-kubu pataṁ tapak·</foreign>, Gulung-gulung (A3–4): <foreign>savah I guluṅ-guluṁ tapak su 7</foreign>, Jeru-jeru (A3): <foreign>tapak mā su 3 paknanya dharmmakṣetra</foreign>, Demak (A19): <foreign>aśuji tapak ku 2</foreign>. Barrett Jones already integrated this term under the chapter “Land Measurements and Prices” and pointed out the literal meaning of <foreign>tapak</foreign> or <foreign>tampak</foreign> as a “tread” or “trace” or “print”, but she did not give further analysis on it (Barrett Jones 1984: 144). To us, it might similarly operate like the other measurement unit, i.e. <foreign>hasta </foreign>(literal meaning: hand) and the modern unit “feet”, where the name of the unit is inspired by the something related to the human body. The only puzzle left is to understand how this land measurement unit is converted or valued with other measurement unit related to monetary system. As has been addressed by Barrett Jones, the phrasing of this measurement unit is quite odd, because it is sometimes followed by another measurement unit.</p>
+        <p>B19. This land measurement unit, <foreign>tapak</foreign>, seems to be used commonly in East Javanese inscriptions and during a limited period of time (10th century). It is found in Dinoyo II (A2–3): <foreign>saṁ (hi)vi(l)· (r)i hujuṁ manu(suk·) sīma vatak· hiliran ri ḍaṁ hyaṁ guru caṇḍik· savaḥ tapa(k· sapuluḥ mas·)</foreign>, (A8): <foreign>mavaih savaḥ susukkan· tapak· salapan·</foreign>, Kubu-kubu (1v3–4): <foreign>manampil· talaṁ rvaṅ tapak· I samuḍuṁ tka ri kubu-kubu pataṁ tapak·</foreign>, Gulung-gulung (A3–4): <foreign>savah I guluṅ-guluṁ tapak  <abbr>su</abbr> 7</foreign>, Jeru-jeru (A3): <foreign>tapak  <abbr>mā</abbr>  <abbr>su</abbr> 3 paknanya dharmmakṣetra</foreign>, Demak (A19): <foreign>aśuji tapak ku 2</foreign>. Barrett Jones already integrated this term under the chapter “Land Measurements and Prices” and pointed out the literal meaning of <foreign>tapak</foreign> or <foreign>tampak</foreign> as a “tread” or “trace” or “print”, but she did not give further analysis on it (Barrett Jones 1984: 144). To us, it might similarly operate like the other measurement unit, i.e. <foreign>hasta </foreign>(literal meaning: hand) and the modern unit “feet”, where the name of the unit is inspired by the something related to the human body. The only puzzle left is to understand how this land measurement unit is converted or valued with other measurement unit related to monetary system. As has been addressed by Barrett Jones, the phrasing of this measurement unit is quite odd, because it is sometimes followed by another measurement unit.</p>
         <p>B20. <foreign>Atamān </foreign>might refer to a person in charge of a park (taman). This word occurs in another form: <foreign>matāman</foreign> in Humanding (1v3), which also stands right after <foreign>variga</foreign>: <foreign>si sḍək·, variga 2 si maddhya, si plī, matamān· si manū, mapkan· si kavit·, makajar· si vji, tuhālas· si kuḍu, hulu vras· 2. </foreign>The same thought is uttered by Boechari (2012: 189): “<foreign>Matamān </foreign>tentunya berurusan dengan pertamanan.”</p>
         <p>B22 We tried to understand the expression <foreign>sakaparipūrṇnākna bhaṭāra </foreign>as “for complete perfecting of the Deity”, even though it still somehow does not satisfy us. Who is the <foreign>bhaṭāra</foreign>? And what is He doing? Boechari in his posthumous publication alludes briefly the same thought, although he was thinking on translating <foreign>bhaṭāra </foreign>explicitly as the deified spirit, “Di sini kami mengalami kesulitan dalam menafsirkan ungkapan <foreign>sakaparipūrṇnākna bhaṭāra</foreign>. Kalau <foreign>bhaṭāra</foreign> di sini harus diartikan ‘arwah yang telah diperdewakan’, maka apa maksud ungkapan ‘segala sesuatu untuk penyempurnaan’ arwah itu? Apakah ini menunjukkan adanya beberapa tahap dalam upacara pelepasan arwah dari keduniaan ini, sampai ia sempurna bersatu dengan dewanya?” (Boechari 2012: 278, n. 7)</p>
         <p>c14. The word <foreign>davuhan </foreign>in this imprecation list is translated as “reservoir” instead of “dam” because it makes more sense to have people drown into a reservoir rather than a dam which is a concrete wall designed to control the water flow. Van der Meer in her book Sawah Cultivation in Ancient Java also translates this term as reservoir, diversion dam or other means of water conservation on a large scale (van der Meer 1979: 22).</p>
       </div>
       <div type="bibliography">
-        <p>The sigla Br and Na refer to Brandes’ and Nakada’s editions, respectively. In view of the fact that the fifth section was read by Kern and Nakada, both of them yielding rather different readings, for this part I use the siglum K, which stands for Kern. </p>
+        <p>In view of the fact that the fifth section was read by Kern and Nakada, both of them yielding rather different readings, for this part I use the siglum K, which stands for Kern. </p>
         <listBibl type="primary">
           <bibl n="siglum"/>
-          <!-- one <bibl/> per item of primary bibliography. Every entry mentionned in apparatus  should hava a @n to declare its sigla -->
+<bibl n="Br"><ptr target="bib:Brandes1913_01"/><citedRange unit="item">XXX</citedRange><citedRange unit="page">37-41</citedRange></bibl>
+<bibl n="Na"><ptr target="bib:Nakada1992_01"/><citedRange unit="page">15-34</citedRange></bibl>
+<!-- Kern -->
         </listBibl>
         <listBibl type="secondary">
           <bibl/>
-          <!-- one <bibl/> per item of secondary bibliography -->
+          <bibl n="S"><ptr target="bib:Sarkar1971-1972_01"/><citedRange unit="volume">II</citedRange><citedRange unit="page">???-???</citedRange><citedRange unit="item">???</citedRange></bibl>
         </listBibl>
       </div>
     </body>
