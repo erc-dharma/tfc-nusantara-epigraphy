@@ -147,17 +147,18 @@
               <listBibl type="primary">
                 <bibl n="P">
                    <ptr target="bib:Poerbatjaraka1922_01"/>
-                  <citedRange>Bijlage L</citedRange>
+                   <citedRange unit="page">85</citedRange>
+                  <citedRange unit="appendix">Bijlage L</citedRange>
                 </bibl>
                     <bibl n="G">
                        <ptr target="bib:Goris1928_01"/>
-                      <citedRange>65–66</citedRange> 
-                      <note>which only notes readings that differ from Poerbatjaraka’s </note>
+                      <citedRange unit="page">65–66</citedRange> 
+                      <note>Goris only notes readings that differ from Poerbatjaraka’s, rather than providing a full edition</note>
                     </bibl>
                     <bibl n="D">
                        <ptr target="bib:Damais1955_01"/> 
-                      <citedRange>48</citedRange>
-                      <note>from the beginning to 1r2 kavnaṅaknanyan·</note></bibl>
+                      <citedRange unit="page">48</citedRange>
+                      <note>Covers the text up to <foreign>kavnaṅaknanyan·</foreign> (1r2)</note></bibl>
               </listBibl>
             </div>
                    
