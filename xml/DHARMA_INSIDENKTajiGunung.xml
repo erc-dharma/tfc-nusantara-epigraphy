@@ -670,17 +670,17 @@ n="5.2"/>nira ta māva maryya I ḍ<unclear>i</unclear>h<unclear>yaṁ</unclear>
           <!-- one <bibl/> per item of primary bibliography. Every entry mentionned in apparatus  should hava a @n to declare its sigla -->
         </listBibl>
         <listBibl type="secondary">
-          <bibl><ptr target="bib:NBG6_1868"/><citedRange unit="page">60</citedRange></bibl>
+          <bibl><ptr target="bib:NBG06_1868"/><citedRange unit="page">60</citedRange></bibl>
           <bibl><ptr target="bib:NBG13_1875"/><citedRange unit="page">60</citedRange></bibl>
           <bibl><ptr target="bib:NBG14_1876"/><citedRange unit="page">III (no. 3), VII (no. 42)</citedRange></bibl>
           <bibl><ptr target="bib:Brandes1886_01"/><citedRange>31, 250 (footnote no.1)</citedRange></bibl>
           <bibl><ptr target="bib:Groeneveldt1887_01"/><citedRange>366, 373–374</citedRange></bibl>
           <bibl><ptr target="bib:Verbeek1891_01"/><citedRange>8</citedRange></bibl>
-          <bibl><ptr target="bib:Juynboll1909_1"/><citedRange>232 (no. 2983)</citedRange></bibl>
+          <bibl><ptr target="bib:Juynboll1909_01"/><citedRange>232 (no. 2983)</citedRange></bibl>
           <bibl><ptr target="bib:NBG47_1909"/><citedRange>LXXVIII (bijl. XII D.6)</citedRange></bibl>
           <bibl><ptr target="bib:TBG53_1911"/><citedRange>238, 248</citedRange></bibl>
           <bibl><ptr target="bib:Krom1911_03"/><citedRange>57 (Bijl. 57 no. 6)</citedRange></bibl>
-          <bibl><ptr target="bib:ROD1915_01"/><citedRange>80</citedRange><citedRange unit="item">no. 1335</citedRange></bibl>
+          <bibl><ptr target="bib:ROD1915_01"/><citedRange>80 (no. 1335)</citedRange></bibl>
           <bibl><ptr target="bib:OV1918_01"/><citedRange>76–77</citedRange></bibl>
           <bibl><ptr target="bib:Rouffaer1918_01"/><citedRange>154–158</citedRange></bibl>
           <bibl><ptr target="bib:Goris1929_01"/><citedRange>203 (cek lagi)</citedRange></bibl>
