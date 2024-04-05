@@ -80,7 +80,7 @@
                 <l n="b"><supplied reason="lost">A</supplied><unclear>p</unclear><supplied reason="lost">i</supplied> yas trivikrama Iti prathito loke namas tasmai ⊙</l>
             </lg>
             <lg xml:lang="san-Latn" met="āryā" n="3">
-                <l n="a">yas sthāṇur apy ati-tarāy yavepsitārtha-prado guṇair jagatām·</l>
+                <l n="a">yas sthāṇur apy ati-tarāy ya<choice><sic>v</sic><corr>th</corr></choice>epsitārtha-prado guṇair jagatām·</l>
                 <l n="b">kalpa-drumam atanum adhaḥ karoti tasmai śivāya <lb n="A3"/> namaḥ ⊙ || ⊙</l>
             </lg>
             <lg xml:lang="san-Latn" met="śārdūlavikrīḍita" n="4">
@@ -415,23 +415,30 @@
         <div n="A" subtype="face" type="textpart">
             <head xml:lang="eng">Sanskrit Text</head>
             <listApp>
-                <app loc="A1"><lem>nr̥ṇāv vidhāne</lem><note>One expects  <foreign>nr̥ṇāṁ vidhāne</foreign>. Of this
+                <app loc="A1"><lem>nr̥ṇāv vidhāne</lem><note>One expects <foreign>nr̥ṇāṁ vidhāne</foreign>. Of this
                         idiosyncratic sandhi, of which several more examples will follow below, we
                         have seen one other instance in the Campā inscription C. 167, st. IV (§1.3).
                         See also Kern's remark (1917:87). ALSO BAN NAXONE LAOS</note></app>
-                <app loc="A2"><lem>[A](p)[i]</lem> ◇ <em>api</em> D; <em>(a)pi</em> K. <note>In fact
-                        only a part of the <foreign>p</foreign> is actually visible, but the shape
-                        of the lacuna certainly allows conjecturing
-                    <foreign>Api</foreign>.</note></app>
-                <app loc="A2"><lem>yas sthāṇur</lem> ◇ D; <em>ya sthāṇur</em> K.</app>
-                <app loc="A2"><lem>atitarāy</lem> ◇ norm. <em>atitarāṁ</em>. <note>For this
-                        idiosyncratic sandhi see our note on <foreign>nr̥ṇāv vidhāne</foreign> in
+                <app loc="A2">
+                  <lem><supplied reason="lost">A</supplied><unclear>p</unclear><supplied reason="lost">i</supplied></lem>
+                  <rdg resp="#D">api</rdg>
+                  <rdg resp="#K"><unclear>A</unclear>pi</rdg>
+                  <note>In fact only a part of the <foreign>p</foreign> is actually visible, but the shape of the lacuna certainly allows conjecturing
+                    <foreign>Api</foreign>.</note>
+                  </app>
+                <app loc="A2">
+                   <lem resp="#D">yas sthāṇur</lem>
+                   <rdg resp="#K">ya sthāṇur</rdg>
+                 </app>
+                <app loc="A2">
+                  <lem>atitarāy</lem>
+                  <note>Norm. <foreign>atitarāṁ</foreign>. For this idiosyncratic sandhi see our note on <foreign>nr̥ṇāv vidhāne</foreign> in
                             <foreign>pāda</foreign> b of stanza I.</note></app>
-                <app loc="A2"><lem>yavepsitārtha-</lem> ◇ D; <em>yathepsitārtha</em>- K. <note>The
-                            <foreign>akṣara</foreign> in question quite clearly seems to be
-                            <foreign>v</foreign> and not <foreign>th</foreign>, but the two akṣaras
-                        are very similar and the latter was almost certainly intended, so we
-                        translate <foreign>yathepsita</foreign>-.</note></app>
+                <app loc="A2">
+                  <lem resp="#D">ya<choice><sic>v</sic><corr>th</corr></choice>epsitārtha-</lem>
+                  <rdg resp="#K">yathepsitārtha-</rdg>
+                  <note>The <foreign>akṣara</foreign> in question quite clearly seems to be <foreign>v</foreign> and not <foreign>th</foreign>, but the two <foreign>akṣara</foreign>s
+                        are very similar and the latter was almost certainly intended, so we translate <foreign>yathepsita</foreign>-.</note></app>
                 <app loc="A3"><lem>°tayā</lem> ◇ – <em>yā</em> D; <em>dhiyā</em> K. <note>The reading
                         included in Crawfurd 1816 seems to be <foreign>kayā</foreign> at this
                         place.</note></app>
@@ -456,7 +463,7 @@
                 <app loc="A7"><lem>-dhiyām bhām bhāvayan</lem> ◇ D; -<em>dhiyā kṣmām bhāvayan</em>
                     K.</app>
                 <app loc="A7"><lem>Ābhiś</lem> ◇ D; <em>śauriś</em> K.</app>
-                <app loc="A8"><lem>śa(t)r(ū)n</lem> ◇ <em>śa – ran</em> D (<em>śatrūn</em> in a
+                <app loc="A8"><lem>śa(t)r(ū)n</lem><rdg>śa – ran</em> D (<em>śatrūn</em> in a
                     footnote); <em>śubhram</em> K.</app>
                 <app loc="A8"><lem>-rupā</lem> ◇ D; <em>-rūpā</em> K. <note>It seems impossible to
                         read here the metrically required long vowel <foreign>ū</foreign>. See
@@ -469,7 +476,7 @@
                         b of stanza I.</note></app>
                 <app loc="A10"><lem>daśarathāt</lem> ◇ K; d – – <em>vvat</em> D.</app>
                 <app loc="A11"><lem>sarvathā</lem> ◇ K; <em>pūrvatā</em> D.</app>
-                <app loc="A12"><lem>-rāṣṭram iva – dya – ⏑ –</lem> ◇ <em>-rāṣṭram iva mady – ta
+                <app loc="A12"><lem>-rāṣṭram iva – dya – ⏑ –</lem><rdg>-rāṣṭram iva mady – ta
                         –</em> D; -<em>rāṣṭram iva mudyutaṁ ciraṁ</em> (?) K 1885 (K 1917 reads the
                     last word as <em>śiraṁ,</em> probably a misreading of the Devanāgarī);
                         -<em>rāṣṭram avasādya taṁ ciram·</em> P. <note>We have considered several
@@ -484,7 +491,7 @@
                         passage: (<foreign>daitya Nivātakavaca</foreign>) <foreign>sumyūhaṅ
                             indrālaya</foreign> ‘(the demon Nivātakavaca) was about to destroy
                         Indra’s abode’.</note></app>
-                <app loc="A12"><lem>kalinā khalena</lem> ◇ <em>talinā khilena</em> D; <em>talinā
+                <app loc="A12"><lem>kalinā khalena</lem><rdg>talinā khilena</em> D; <em>talinā
                         ⏑</em>
                     <em>lena</em> K; <em>kalinā jhalena</em> P. <note>See Damais (1952: 90–91, n.
                         1): “Nous dirons dans une étude consacrée à la stèle de Pucangan pourquoi il
@@ -505,7 +512,7 @@
                         on this verse and Damais' reading of the chronogram n. 4 (p. 66) in
                         Boechari's article on the Mūla-Maluruṅ inscription = Boechari 2012: 430 n.
                         4.</note></app>
-                <app loc="A14"><lem>pāhīty apātāṅ</lem> ◇ <em>– ā – īkṣa tāntāṅ</em> D;
+                <app loc="A14"><lem>pāhīty apātāṅ</lem><rdg>– ā – īkṣa tāntāṅ</em> D;
                         <em>pāhītyutāntāṅ</em> K. <note>Other possibilities we have taken into
                         consideration include: <foreign>pāhīty anantāṅ / adāntāṅ / aśāntāṅ kṣitim,
                             pāyāt samantāṅ kṣitim, pāhi tvam asmatkṣitim, pāty adya śāntāṅ / dāntāṅ
@@ -530,7 +537,7 @@
                         our note on <foreign>nr̥ṇāv vidhāne</foreign> in <foreign>pāda</foreign> b
                         of stanza I.</note></app>
                 <app loc="A15"><lem>na</lem> ◇ D; <em>nu</em> (?) K.</app>
-                <app loc="A15"><lem>bubhujus</lem> ◇ <em>bubhujas</em> D K (Damais writes an
+                <app loc="A15"><lem>bubhujus</lem><rdg>bubhujas</em> D K (Damais writes an
                         <em>u</em> above the <em>a</em>)</app>
                 <app loc="A15"><lem>taj(jā)</lem> ◇ this reading is proposed by K in the note to his
                     translation, where he observes that an appropriate reading would be
@@ -540,26 +547,26 @@
                     but these are not the only possibilities judging by what little remains
                     identifiable of the <em>akṣara</em>. D read <em>ta – r.</em></app>
                 <app loc="A15"><lem>kintu</lem> ◇ D; <em>tiktaṁ</em> K.</app>
-                <app loc="A15"><lem>dhirājāgraṇīr</lem> ◇ <em>– irājāgraṇīr</em> D;
+                <app loc="A15"><lem>dhirājāgraṇīr</lem><rdg>– irājāgraṇīr</em> D;
                         <em>dhi(nāthā)graṇīr</em> K.</app>
-                <app loc="A15"><lem>bhobhuṅkte</lem> ◇ <em>bho caṅkte / bhaṅktve</em> D; <em>bho
+                <app loc="A15"><lem>bhobhuṅkte</lem><rdg>bho caṅkte / bhaṅktve</em> D; <em>bho
                         aṅge</em> K.</app>
-                <app loc="16"><lem>-digdha-</lem> ◇ <em>– kta-</em> D; <em>-(sa)kta</em>- K.
+                <app loc="16"><lem>-digdha-</lem><rdg>– kta-</em> D; <em>-(sa)kta</em>- K.
                         <note>Cf. <seg rend="check">K. 263 C, st. XV = K. 669 A, st. VI</seg>, pāda
                         a: <foreign>āsīd
                             bhūpālamaulisphuritamaṇiśikhārāgadigdhāṅghrijaśrīr</foreign>. For a
                         slightly different expression of the same idea in Old Javanese, see face B
                         lines 29–30.</note></app>
-                <app loc="A16"><lem>-laucana-</lem> ◇ <em>-locana</em>- D K. <note>The word
+                <app loc="A16"><lem>-laucana-</lem><rdg>-locana</em>- D K. <note>The word
                             -<foreign>locana</foreign>- is surely intended, but the stone shows
                             <foreign>lau</foreign> instead of <foreign>lo</foreign>.</note></app>
-                <app loc="A18"><lem>to hy ājñāvidheyas</lem> ◇ <em>tāmpyājñavidheyas</em> D; <em>–
+                <app loc="A18"><lem>to hy ājñāvidheyas</lem><rdg>tāmpyājñavidheyas</em> D; <em>–
                         ājñāvidheyas</em> K.</app>
                 <app loc="A18"><lem>-hr̥daya(ḥ stai)nyā</lem> ◇ -<em>hr̥dayastenyā</em> D K.
                             <note><seg rend="check">One of the problems with our reading is that
                             this inscription elsewhere prefers the sandhi -<foreign>s
                             st</foreign>-.</seg></note></app>
-                <app loc="A18"><lem>rājāpy upālabhyate</lem> ◇ <em>rājampyupālanyate</em> D; – –
+                <app loc="A18"><lem>rājāpy upālabhyate</lem><rdg>rājampyupālanyate</em> D; – –
                         <em>⏑</em>
                     <em>yā lapyate</em> K. <note>The possibility of reading as we do was proposed to
                         Arlo Griffiths by the late Abhijit Ghosh, when they discussed the stanza in
@@ -567,7 +574,7 @@
                         to show these akṣaras.</note></app>
                 <app loc="A19"><lem>– vāptaye dhanamalāni</lem> ◇ K; – – <em>ptapo vanasamāni</em>
                     D.</app>
-                <app loc="A19"><lem>tuṅgāsau</lem> ◇ <em>tuṅgāho</em> D; <em>tuṅgā</em> – K.</app>
+                <app loc="A19"><lem>tuṅgāsau</lem><rdg>tuṅgāho</em> D; <em>tuṅgā</em> – K.</app>
                 <app loc="A20"><lem>sya maha – – – ⏑ – – ⏑so</lem>
                         <note>Maybe it is possible to read <foreign>... jijñā ⏑ so</foreign>?</note></app>
                 <app loc="A20"><lem>cikīrṣayā kṣa</lem>
@@ -575,17 +582,17 @@
                 <app loc="A20"><lem>rabhasuyā</lem> ◇ <note>K states in a note that the reading is
                         unmistakable to him, but that what is expected is
                             <foreign>rabhasayā</foreign>.</note></app>
-                <app loc="A21"><lem>śuddhikarīndradā</lem> ◇ <em>śuddhikarī ⏑ dā</em> K.</app>
-                <app loc="A21"><lem>[na]reṣu</lem> ◇ <em>mareṣu</em> K. <note>The first syllable of
+                <app loc="A21"><lem>śuddhikarīndradā</lem><rdg>śuddhikarī ⏑ dā</em> K.</app>
+                <app loc="A21"><lem>[na]reṣu</lem><rdg>mareṣu</em> K. <note>The first syllable of
                         this word is completely illegible on the UI estampage (<seg rend="check">RTI?</seg>).</note></app>
                 <app loc="A21"><lem>[mati]vāk-</lem> ◇ <note>K states in a note that he guesses the
                         stone has <foreign>pr̥thuvāk</foreign>. Our conjecture is based on the
                         assumption that we must have here an expression of the triple 'thoughts,
                         words and deeds'. An alternative would be to conjecture
                             <foreign>[mata]</foreign>.</note></app>
-                <app loc="A21"><lem>[dha]rmmo</lem> ◇ <em>dhr̥ṣṭo</em> K.</app>
-                <app loc="A21"><lem>(pāśa)bhr̥d</lem> ◇ <em>(bhā)gakr̥d</em> K.</app>
-                <app loc="A21"><lem>hanta [nr̥pa]r(ā)d</lem> ◇ <em>hanta ⏑ rarāḍiti</em> K.
+                <app loc="A21"><lem>[dha]rmmo</lem><rdg>dhr̥ṣṭo</em> K.</app>
+                <app loc="A21"><lem>(pāśa)bhr̥d</lem><rdg>(bhā)gakr̥d</em> K.</app>
+                <app loc="A21"><lem>hanta [nr̥pa]r(ā)d</lem><rdg>hanta ⏑ rarāḍiti</em> K.
                         <note>Kern notes that the syllable after <foreign>hanta</foreign> clearly
                         bears a <foreign>u</foreign>, but supposes this has been misplaced, and
                         believes the intended reading is <foreign>hantu mararāḍ iti</foreign>. <seg rend="check">To us, the <foreign>akṣara</foreign> supposedly bearing a
@@ -593,10 +600,10 @@
                                 <foreign>r(ā)</foreign>. Instead of <foreign>hanta</foreign>, we
                             could also read <foreign>hasta</foreign>.</seg> Understand
                             -<foreign>rāḍ</foreign>.</note></app>
-                <app loc="A22"><lem>nr̥po ⏑ ⏑ purīpralayaṁ sa – –</lem> ◇ <em>nr̥</em> – <em>⏑</em>
+                <app loc="A22"><lem>nr̥po ⏑ ⏑ purīpralayaṁ sa – –</lem><rdg>nr̥</em> – <em>⏑</em>
                     <em>⏑</em>
                     <em>⏑</em> – <em>prala</em> – <em>⏑</em> – – K.</app>
-                <app loc="A22"><lem>viṣṇu-</lem> ◇ <em>bhīṣma</em>- K.</app>
+                <app loc="A22"><lem>viṣṇu-</lem><rdg>bhīṣma</em>- K.</app>
                 <app loc="A23"><lem>tañ candrabhūtavadane śakarājavarṣa</lem> ◇ <note>this entire
                         pāda, except the last three syllables, was unreadable for Kern.</note></app>
                 <app loc="A23"><lem>ekādaśī ⏑ daka – cu ⏑ phalguṇe (v)ā(n)·</lem> ◇ – – <em>⏑</em> –
@@ -605,30 +612,30 @@
                     <em>⏑</em> – <em>⏑</em>
                     <em>⏑</em> – <em>⏑</em>
                     <em>lokāt</em> K.</app>
-                <app loc="A23"><lem>adhamaḥ parudābh-</lem> ◇ <em>adhamāpanudābh</em>- K. <note>Would
+                <app loc="A23"><lem>adhamaḥ parudābh-</lem><rdg>adhamāpanudābh</em>- K. <note>Would
                             <foreign>parujābh°</foreign> (including OJ word
                             <foreign>parujar</foreign>) somehow be possible?</note></app>
                 <app loc="A23"><lem>Ivāvyathayaj jaganti</lem> ◇ I<em>vādhyadhamāṅgatantiḥ</em>
                     K.</app>
-                <app loc="A24"><lem>narendro</lem> ◇ <em>nagendre</em> K.</app>
+                <app loc="A24"><lem>narendro</lem><rdg>nagendre</em> K.</app>
                 <app loc="A24"><lem>(rā)mātviramyaca(ri)to nyavadhīt tam āśu</lem> ◇ <note>K only
                         read from <foreign>nyavadhīt</foreign> onwards. Emend
                             <foreign>rāmāti</foreign>-. Or is it possible that what looks like
                         subscript -<foreign>v</foreign>- is actually an accidental scratch in the
                         stone?</note></app>
-                <app loc="A24"><lem>jigīṣu(r ga)tas</lem> ◇ <em>jigīṣur bhuvās</em> K.</app>
-                <app loc="A25"><lem>(varo)</lem> ◇ <em>varo</em> K. <note>It would also be possible
+                <app loc="A24"><lem>jigīṣu(r ga)tas</lem><rdg>jigīṣur bhuvās</em> K.</app>
+                <app loc="A25"><lem>(varo)</lem><rdg>varo</em> K. <note>It would also be possible
                         to read <foreign>gate</foreign> or <foreign>gato</foreign>.</note></app>
-                <app loc="A26"><lem>e[tān tatkṣa]ṇaṅ</lem> ◇ <em>etal lakṣaṇaṅ</em> K. <note>As is
+                <app loc="A26"><lem>e[tān tatkṣa]ṇaṅ</lem><rdg>etal lakṣaṇaṅ</em> K. <note>As is
                         clear from the Leiden estampage, Kern's reading must already have been
                         partly conjectural. His interpretation of <foreign>lakṣaṇaṅ</foreign> as
                         meaning ‘prize’ seems impossible, for one would then have expected
                             <foreign>lakṣyaṅ</foreign> or <foreign>lakṣaṅ</foreign>.</note></app>
-                <app loc="A26"><lem>a(ja)yyān</lem> ◇ <em>anāryyān</em> K. <note>Neither
+                <app loc="A26"><lem>a(ja)yyān</lem><rdg>anāryyān</em> K. <note>Neither
                             <foreign>ā</foreign>-mātra on the second syllable nor
                             <foreign>repha</foreign> above <foreign>y</foreign> are
                         discernible.</note></app>
-                <app loc="A27"><lem>labdhvā</lem> ◇ <em>luṇṭaṁ</em> K.</app>
+                <app loc="A27"><lem>labdhvā</lem><rdg>luṇṭaṁ</em> K.</app>
                 <app loc="A27"><lem>-saṅghe</lem> ◇ -<em>madhye</em> K.</app>
                 <app loc="A27"><lem>bhadre</lem> ◇ <note>Kern notes that <foreign>bhadre</foreign> is
                         to be corrected to <foreign>bhādre</foreign>, but this is probably
@@ -636,12 +643,12 @@
                         to favor Kern’s reading; neither reading yields a Wednesday.</note></app>
                 <app loc="A28"><lem>-titho</lem> ◇ -<em>tithau</em> K. <note>Of course one must
                         understand -<foreign>tithau</foreign>.</note></app>
-                <app loc="A29"><lem>[A]tha mu(kha)</lem>- ◇ <em>(atha) muni</em>- K. <note>What has
+                <app loc="A29"><lem>[A]tha mu(kha)</lem>-<rdg>(atha) muni</em>- K. <note>What has
                         been read as <foreign>mu</foreign> looks more like <foreign>pr̥</foreign> or
                         possibly <foreign>pu</foreign>. Virtually no trace of the last syllable in
                         this line is actually preserved.</note></app>
-                <app loc="A29"><lem>vijayavarm(m)ā</lem> ◇ <em>vijayanāmā</em> K.</app>
-                <app loc="A30"><lem>m(ukha)-</lem> ◇ <em>maka</em>- K. <note>See Kern 1917: 96 n. 4
+                <app loc="A29"><lem>vijayavarm(m)ā</lem><rdg>vijayanāmā</em> K.</app>
+                <app loc="A30"><lem>m(ukha)-</lem><rdg>maka</em>- K. <note>See Kern 1917: 96 n. 4
                         for details. As Kern observed, the passage in line 29–30 of <seg rend="check">face B</seg> makes clear that the year in question was 959,
                         and hence that the word we are dealing with here had to have the value 9.
                         Judging by the visual material at our disposal, we doubt that the reading
@@ -661,14 +668,14 @@
                             <foreign>ḍ</foreign> with certainty from a <foreign>d</foreign>. In all
                         likelihood, the stone carver spelled -<foreign>pīdaṅ</foreign>.</note></app>
                 <app loc="A32"><lem>bratitayā</lem> ◇ D; <em>vratitayā</em> K.</app>
-                <app loc="A32"><lem>devatārādhanaiḥ rantuñ</lem> ◇ <em>devatārādhanairantru/añ</em>
+                <app loc="A32"><lem>devatārādhanaiḥ rantuñ</lem><rdg>devatārādhanairantru/añ</em>
                     D; <em>devatā rādhanai rantuñ</em> Kern. <note>A <foreign>pausa</foreign> form
                         is expected at the end of pāda b. The Leiden estampage seems to show the
                         expected visarga<del>, although the absence of visarga at the end of pāda b
                             in stanza XXXIII is beyond doubt, and it may simply never have been
                             written here either</del>. <seg rend="check">CHECK
                     RTI</seg></note></app>
-                <app loc="A32"><lem>-mahā(kra/śra)mas</lem> ◇ <em>-mahādvamus</em> Dac,
+                <app loc="A32"><lem>-mahā(kra/śra)mas</lem><rdg>-mahādvamus</em> Dac,
                         <em>-mahātvamas</em> Dpc; -<em>mahānr̥pas</em> Kern. <note>The second
                             <foreign>ma</foreign> seems relatively clear</note>.</app>
                 <app loc="A34"><lem>-netrā</lem> ◇ correct -<em>netrāḥ</em>; this was no doubt
@@ -686,7 +693,7 @@
                 <app loc="B1"><lem>va, śu</lem> ◇ D; <em>pa, bu</em> B K; <em>va, śa</em> P.</app>
                 <app loc="B1"><lem>caragraha</lem> ◇ <note>This term is anomalous. Elsewhere, one
                         finds <foreign>grahacāra</foreign>. See Gomperts 2001: 107–110.</note></app>
-                <app loc="B1"><lem>-rabhadravānakṣatra</lem> ◇ <em>-rabhadravānākṣatra</em> K;
+                <app loc="B1"><lem>-rabhadravānakṣatra</lem><rdg>-rabhadravānākṣatra</em> K;
                         <em>-ra( )dratanakṣatra</em> B; <em>-rabhadrava(da) nakṣatra</em> P;
                         <em>Uttarabhadravā(da)nakṣatra</em> D. <note>Emend to
                             <foreign>-rabhadravādanakṣatra-</foreign>, as D presumably
@@ -696,7 +703,7 @@
                         the name of the <foreign>karaṇa</foreign>; <foreign>dadhi-</foreign> P. B
                         and K leave the syllables in question open.</note></app>
                 <app loc="B2"><lem>rake</lem> ◇ B K; <em>rakai</em> P D.</app>
-                <app loc="B3"><lem>dhamasuparṇa(vā)haṇa tguh uttuṅga-</lem> ◇ <em>dhamma suparṇa –
+                <app loc="B3"><lem>dhamasuparṇa(vā)haṇa tguh uttuṅga-</lem><rdg>dhamma suparṇa –
                         hana tahutuṅgadeva</em> B; <em>dhamma suparṇa – haṇata hutuṅgadeva</em> K;
                         <em>dharmmasuparṇacaraṇa tguh uttuṅga</em>- P; <em>dh(ā)ma suparṇavāhaṇa
                         tguh uttuṅga</em>- D. <note>On the reading of the first element of the name,
@@ -718,36 +725,36 @@
                     erasure.</note></app>
 	            <lem></lem>
                 </app>
-            	<app loc="B3"><lem>Iṁ barahǝm·</lem> 
+            	<app loc="B3"><lem>Iṁ barahǝm·</lem>
                 <note>After <foreign>dharmmamūrtti</foreign> B leaves the syllables blank until <foreign>niṅ</foreign> <foreign>barahǝm·</foreign>. K has <foreign>dharmamūrti <gap quantity="11" reason="lost" unit="character"/> kǝ <gap quantity="5" reason="lost" unit="character"/> maṅan, iṅ barahǝm.</foreign></note>
                 </app>
                 <app loc="B3"><lem>bapuri</lem> ◇ D; <em>śapuri</em> P; <em>basuri</em> B K.</app>
                 <app loc="B5"><lem>939</lem> ◇ P; 938 (928) B; 928 K.</app>
-                <app loc="B5"><lem>ri pra(hāra)</lem> ◇ <em>ri prahara</em> P; <em>mra</em>? – – K. B
+                <app loc="B5"><lem>ri pra(hāra)</lem><rdg>ri prahara</em> P; <em>mra</em>? – – K. B
                     leaves these syllables blank.</app>
                 <app loc="B5"><lem>An· vijil·</lem> ◇ B K; <em>masǝ: mijil</em> P.</app>
-                <app loc="B5"><lem>-rŭpa-</lem> ◇ <em>-rūpa-</em> B K P.</app>
+                <app loc="B5"><lem>-rŭpa-</lem><rdg>-rūpa-</em> B K P.</app>
                 <app loc="B7"><lem>vālaka</lem> ◇ P; <em>vālajaka</em> B; <em>vāla, ka</em> K.</app>
                 <app loc="B7"><lem>dahat·</lem> ◇ K P; <em>dahat iṁ</em> B.</app>
-                <app loc="B7"><lem>rarenira</lem> ◇ <em>rarainira</em> B K P.</app>
+                <app loc="B7"><lem>rarenira</lem><rdg>rarainira</em> B K P.</app>
                 <app loc="B7"><lem>enak·</lem> ◇ K P; <em>enāk</em> B.</app>
                 <app loc="B7"><lem>baṅǝtni</lem> ◇ P; <em>baṅǝṅgi</em> B K.</app>
-                <app loc="B8"><lem>pasarikǝpany</lem> ◇ <em>pasariṅkǝpany</em> B P;
+                <app loc="B8"><lem>pasarikǝpany</lem><rdg>pasariṅkǝpany</em> B P;
                         <em>sapariṅkǝpany</em> K.</app>
-                <app loc="B8"><lem>sākṣāt(n)iran</lem> ◇ <em>sākṣāt iran</em> B K;
+                <app loc="B8"><lem>sākṣāt(n)iran</lem><rdg>sākṣāt iran</em> B K;
                         <em>sakṣātiran</em> P.</app>
                 <app loc="B8"><lem>Inahākǝn</lem> ◇ B K; <em>Innahakǝn</em> P.</app>
                 <app loc="B8"><lem>kavaśa</lem> ◇ K P; <em>livaśa</em> B.</app>
                 <app loc="B8"><lem>paṅava(śaniṁ)</lem> ◇ P; <em>paṅavananiṁ</em> B; <em>paṅavara
                         niṁ</em> K.</app>
-                <app loc="B8"><lem>maṅantīri</lem> ◇ <em>maṅanti ri</em> B K P.</app>
+                <app loc="B8"><lem>maṅantīri</lem><rdg>maṅanti ri</em> B K P.</app>
                 <app loc="B8"><lem>-niṁ vanagiri</lem> ◇ B; -<em>ni vanagiri</em> K; -<em>iṅ
                         vanagiri</em> P.</app>
                 <app loc="B9"><lem>lāvan·</lem> ◇ K P; <em>lavan</em> B.</app>
                 <app loc="B9"><lem>saṅ e(kā)ntapratipatti</lem> ◇ <gap quantity="4" reason="lost" unit="character"/>
                     <em>nta pradipatti</em> B; <gap quantity="4" reason="lost" unit="character"/>
                     <em>nta pratipatti</em> K; <em>samekāntapratipatti</em> P.</app>
-                <app loc="B9"><lem>– – [j]ña ta tanupacāran· bhaktiprahva ri</lem> ◇ <em><gap quantity="3" reason="lost" unit="character"/> tanu – – n – – pra –
+                <app loc="B9"><lem>– – [j]ña ta tanupacāran· bhaktiprahva ri</lem><rdg><gap quantity="3" reason="lost" unit="character"/> tanu – – n – – pra –
                         ri</em> B; <em>– tanu <gap quantity="4" reason="lost" unit="character"/> n –
                         – prahva ri</em> K; <em>Umaṅga tatan upakaran bhakti sraddha ri</em> P.
                         <note>A <foreign>d</foreign> seems faintly discernible where P read
@@ -766,36 +773,36 @@
                 <app loc="B9"><lem>pu narottama</lem> ◇ K, <em>saṁ narottama</em> B; <em>mpu
                         narottama</em> P.</app>
                 <app loc="B10"><lem>sirādini</lem> ◇ K; <em>sirādiniṁ</em> B P.</app>
-                <app loc="B10"><lem>h(u)lan·</lem> ◇ <em>hulun</em> B K P. Emend to
+                <app loc="B10"><lem>h(u)lan·</lem><rdg>hulun</em> B K P. Emend to
                     <em>hulun·</em>.</app>
                 <app loc="B10"><lem>Atisayeṁ</lem> ◇ K; <em>Atiśayeṁ</em> B P. <note>Understand
                             <foreign>Atiśayeṅ</foreign>.</note></app>
                 <app loc="B10"><lem>tumūt</lem> ◇ P; <em>hambak</em> B; <em>humbat</em> (?) K.</app>
-                <app loc="B10"><lem>tan sāḥ</lem> ◇ <em>tansaḥ</em> B K; <em>tan sah</em> P.</app>
-                <app loc="B10"><lem>saparān·</lem> ◇ <em>Ayunan</em> B K; <em>saparan</em> P.</app>
+                <app loc="B10"><lem>tan sāḥ</lem><rdg>tansaḥ</em> B K; <em>tan sah</em> P.</app>
+                <app loc="B10"><lem>saparān·</lem><rdg>Ayunan</em> B K; <em>saparan</em> P.</app>
                 <app loc="B10"><lem>makāhāra</lem> ◇ P; <em>Iṁ( )ā hāra</em> B; <em>maṅāhāra</em>
                     K.</app>
                 <app loc="B11"><lem>vanaprastha</lem> ◇ B P; <em>vanapraṣṭha</em> K.</app>
-                <app loc="B11"><lem>tātan· vismr̥di</lem> ◇ <em>yataniviṣadi</em> B K; <em>tatan
+                <app loc="B11"><lem>tātan· vismr̥di</lem><rdg>yataniviṣadi</em> B K; <em>tatan
                         vismr̥ti</em> P. Emend to <em>tātan· vismr̥ti</em>.</app>
-                <app loc="B11"><lem>ri kārādhanan·</lem> ◇ <em>rikā bhavanan·</em> B K; <em>ri
+                <app loc="B11"><lem>ri kārādhanan·</lem><rdg>rikā bhavanan·</em> B K; <em>ri
                         kāradhanan·</em> P. <seg rend="check">The Sanskrit text on face A also uses
                         the word <em>ārādhana</em>: see st. XXXII.</seg></app>
                 <app loc="B11"><lem>ahorātra</lem> ◇ K; <em>ahoratra</em> B P.</app>
-                <app loc="B12"><lem>(ka)lpapādapa Umǝ:bana</lem> ◇ <em>Alpapādi padamǝ:lana</em> B; –
+                <app loc="B12"><lem>(ka)lpapādapa Umǝ:bana</lem><rdg>Alpapādi padamǝ:lana</em> B; –
                         <em>lpapādi padamǝ:lana</em> K; <em>kalpapādapa ṅahǝ:bana</em> P.</app>
                 <app loc="B12"><lem>kumaliliranaṁ</lem> ◇ P; <em>kumalilirana</em> B K.</app>
                 <app loc="B12"><lem>makadrabyaṁ</lem> ◇ P; <em>makadrabya</em> B K.</app>
-                <app loc="B12"><lem>muvahakna sāśvatā(niṁ)</lem> ◇ <em>muvaḥakna haṣa nikanaṅ</em> B;
+                <app loc="B12"><lem>muvahakna sāśvatā(niṁ)</lem><rdg>muvaḥakna haṣa nikanaṅ</em> B;
                         <em>muvahakna harṣanikanaṅ</em> K P. <note>The RTI clearly shows
                             <foreign>sā</foreign> instead of <foreign>ha</foreign>. Cf. the parallel
                         passage in line 33: <foreign>de śrī mahārāja munarjīvākǝn· sāśvatāniṁ
                             sayavadvīpa</foreign>. The word recorded in <seg rend="check">OJED</seg>
                         as <foreign>śāśvata</foreign> is intended in both passages.</note></app>
-                <app loc="B12"><lem>munarjīvaknaṁ</lem> ◇ <em>munarjīvākna</em> P; <note>B and K left
+                <app loc="B12"><lem>munarjīvaknaṁ</lem><rdg>munarjīvākna</em> P; <note>B and K left
                         open the space for these akṣaras.</note></app>
                 <app loc="B12"><lem>sarvvadharmma</lem> ◇ B P; <em>sarbvadharmma</em> K.</app>
-                <app loc="B13"><lem>maṁkanābhamataniṁ</lem> ◇ <em>maṁkanābhimataniṁ</em> B K P.
+                <app loc="B13"><lem>maṁkanābhamataniṁ</lem><rdg>maṁkanābhimataniṁ</em> B K P.
                         <note>The reading of the previous editors suggests that an
                             -<foreign>i</foreign> was visible to them in the reproductions they
                         used. It seems rather that none was ever engraved atop
@@ -803,15 +810,15 @@
                         Another instance of the same scribal error occurs below in l.
                     16.</note></app>
                 <app loc="B13"><lem>-devata</lem> ◇ K P; <em>-devatā</em> B.</app>
-                <app loc="B13"><lem>kr̥tasaṁskāra, pratiṣṭa</lem> ◇ <em>kr̥tasaṁskāra pratiṣṭa</em>
+                <app loc="B13"><lem>kr̥tasaṁskāra, pratiṣṭa</lem><rdg>kr̥tasaṁskāra pratiṣṭa</em>
                     B; <em>kr̥tasaṁskāra pratiṣṭha</em> K P. <note>The punctuation sign is not read
                         by B K P.</note></app>
-                <app loc="B13"><lem>kapadasthāniṁ pituṁ</lem> ◇ <em>ka <gap quantity="2" reason="lost" unit="character"/> gǝ:ṅniṅ pitu</em> B; <em>kapūja(?) <gap quantity="2" reason="lost" unit="character"/> pitu</em> K;
+                <app loc="B13"><lem>kapadasthāniṁ pituṁ</lem><rdg>ka <gap quantity="2" reason="lost" unit="character"/> gǝ:ṅniṅ pitu</em> B; <em>kapūja(?) <gap quantity="2" reason="lost" unit="character"/> pitu</em> K;
                         <em>kapadasthaniṁ pitu</em> P.</app>
                 <app loc="B14"><lem>haji devatā</lem> ◇ P K; <em>haridevatā</em> B.</app>
-                <app loc="B14"><lem>lumāḥ</lem> ◇ <em>lumāh</em> B K; <em>lumah</em> P.</app>
+                <app loc="B14"><lem>lumāḥ</lem><rdg>lumāh</em> B K; <em>lumah</em> P.</app>
                 <app loc="B14"><lem>īśānabajra</lem> ◇ K P; <em>iśānabajra</em> B.</app>
-                <app loc="B14"><lem>pinaka(ka)padasthān·</lem> ◇ <em>pinakakapratisthān·</em> B K;
+                <app loc="B14"><lem>pinaka(ka)padasthān·</lem><rdg>pinakakapratisthān·</em> B K;
                         <em>pinakakapratiṣṭhān·</em> P.</app>
                 <app loc="B15"><lem>-vikramottuṅgadeva</lem> ◇ <note>the <foreign>e</foreign>-element
                             (<foreign>taling</foreign>) of <foreign>mo</foreign> is written first at
@@ -819,8 +826,8 @@
                         15. See identical case on <seg rend="check">face A</seg>, in st.
                     XXX.</note></app>
                 <app loc="B15"><lem>mahārāja, de</lem> ◇ B K; <em>mahārāja de</em> P.</app>
-                <app loc="B15"><lem>Irikāṁ</lem> ◇ <em>irikaṅ</em> B K P.</app>
-                <app loc="B15"><lem>(tā)tan· pahī(ṅan de) śrī</lem> ◇ <em>tatan pahīṅan śrī</em> P;
+                <app loc="B15"><lem>Irikāṁ</lem><rdg>irikaṅ</em> B K P.</app>
+                <app loc="B15"><lem>(tā)tan· pahī(ṅan de) śrī</lem><rdg>tatan pahīṅan śrī</em> P;
                         <em>I tan pahiṅan· śrī</em> B; <em>– tan pahīṅan· śrī</em> K. <note>All
                         previous editors ignore the presence of <foreign>de</foreign>.</note></app>
                 <app loc="B16"><lem>[luma]risakǝn·</lem> ◇ <gap quantity="4" reason="lost" unit="character"/>
@@ -833,7 +840,7 @@
                         seriously as it is, but we see no other way than to assume that the word
                             <foreign>abhimata</foreign> was really intended in both
                     cases.</note></app>
-                <app loc="B16"><lem>kapva kakal(imbaṅ ikaṁ) kriyā vāhyāntara</lem> ◇ <em>kapva
+                <app loc="B16"><lem>kapva kakal(imbaṅ ikaṁ) kriyā vāhyāntara</lem><rdg>kapva
                         kalimba – – kri phala – hyantara</em> B; <em>kapva kakal imban (?) iṁ kriyā
                         vāhyāntara</em> K; <em>kapva kakalimbaṅ ikaṅ kriya vahyāntara</em> P.
                         <note>Several factors conspire to make the reading rather uncertain here.
@@ -864,7 +871,7 @@
                     <em>mahārāja <gap quantity="1" reason="lost" unit="character"/> nika siṅho <gap quantity="2" reason="lost" unit="character"/> nira</em> K, <em>riṁ
                         bhaṭara, deni kasiṅheśvaranira</em> P.</app>
                 <app loc="B17"><lem>marava(śā)k(ǝ)n·</lem> ◇ P; <em>mara <gap quantity="3" reason="lost" unit="character"/> ni</em> B; <em>mara <gap quantity="5" reason="lost" unit="character"/> ni</em> K.</app>
-                <app loc="B17"><lem>sakveḥnik(āṁ ka)la(ṅka) satumuvuh i</lem> ◇ <em>sakveḥnikāṅ <gap quantity="2" reason="lost" unit="character"/> maṅhyaṅgadrabya</em> B;
+                <app loc="B17"><lem>sakveḥnik(āṁ ka)la(ṅka) satumuvuh i</lem><rdg>sakveḥnikāṅ <gap quantity="2" reason="lost" unit="character"/> maṅhyaṅgadrabya</em> B;
                         <em>sakveḥ nikāṅ <gap quantity="2" reason="lost" unit="character"/></em> K;
                         <em>sakveḥnikaṅ kalaṅka satumuvuh</em> P. <note>P’s reading breaks off after
                         this point.</note></app>
@@ -873,7 +880,7 @@
                         readings judging from the UI estampage and the RTI, but the resulting
                         meaning in either case is not sufficiently persuasive to allow us to make a
                         choice.</note></app>
-                <app loc="B17"><lem>sap(i)nakahani(t)uniṁ</lem> ◇ <em>sapinakahanituni</em> B
+                <app loc="B17"><lem>sap(i)nakahani(t)uniṁ</lem><rdg>sapinakahanituni</em> B
                     K.</app>
                 <app loc="B17"><lem>pra(bheda) <gap quantity="4" reason="lost" unit="character"/>
                         dru(ha) <gap quantity="6" reason="lost" unit="character"/></lem> ◇
@@ -885,14 +892,14 @@
                         <em>salvirani</em>, to give the words <em>salviraniṅ inaranan</em>.</app>
                 <app loc="B18"><lem>si (śuvuka)l·, (man)tu (ha)j(ī)nadgakn (iṁ) ka(ṭ)ula</lem> ◇ <gap quantity="10" reason="lost" unit="character"/>
                     <em>nakekale</em> B; – – – – <em>kekale</em> K.</app>
-                <app loc="B18"><lem>si la[ḍ]iṁ</lem> ◇ <em>si baḍiṁ</em> B; – K. <note>Brandes’ note
+                <app loc="B18"><lem>si la[ḍ]iṁ</lem><rdg>si baḍiṁ</em> B; – K. <note>Brandes’ note
                         indicates his hesitation between <foreign>sibaḍing</foreign> and
                             <foreign>silaḍing</foreign>.</note></app>
                 <app loc="B18"><lem>nirava(ś)eṣa</lem> ◇ K; <em>naravaśeṣa</em> B.</app>
-                <app loc="B18"><lem>I – (tta) s(ama) <gap quantity="2" reason="lost" unit="character"/> (n)ya</lem> ◇ <em>ikā</em>
+                <app loc="B18"><lem>I – (tta) s(ama) <gap quantity="2" reason="lost" unit="character"/> (n)ya</lem><rdg>ikā</em>
                     <gap quantity="6" reason="lost" unit="character"/> B; <em>ikā</em>
                     <gap quantity="2" reason="lost" unit="character"/> K.</app>
-                <app loc="B18"><lem>de śrī mahārāja, ṅuni-ṅuni haji tṅaḥ <gap quantity="7" reason="lost" unit="character"/> sapuluḥ</lem> ◇ <em>de śrī mahā</em>
+                <app loc="B18"><lem>de śrī mahārāja, ṅuni-ṅuni haji tṅaḥ <gap quantity="7" reason="lost" unit="character"/> sapuluḥ</lem><rdg>de śrī mahā</em>
                     <gap quantity="16" reason="lost" unit="character"/> B; <em>de śrī mahārāja ṅuni
                         ṅuni haji</em>
                     <gap quantity="3" reason="lost" unit="character"/> K.</app>
@@ -902,7 +909,7 @@
                         pinjahaniṅ</em> B; <em><gap quantity="2" reason="lost" unit="character"/>
                         diri (?) <gap quantity="5" reason="lost" unit="character"/> rika <gap quantity="6" reason="lost" unit="character"/> ikanaṅ sarat pinjahan,
                         iṅ</em> K.</app>
-                <app loc="B19"><lem>vaṅuntur· mvaṁ saṅ ibu Irikāṁ</lem> ◇ <em><gap quantity="3" reason="lost" unit="character"/> mvaṅ – – – irikāṅ</em> B; <em><gap quantity="3" reason="lost" unit="character"/> mvaṅ irikāṅ</em> K.</app>
+                <app loc="B19"><lem>vaṅuntur· mvaṁ saṅ ibu Irikāṁ</lem><rdg><gap quantity="3" reason="lost" unit="character"/> mvaṅ – – – irikāṅ</em> B; <em><gap quantity="3" reason="lost" unit="character"/> mvaṅ irikāṅ</em> K.</app>
                 <app loc="B19"><lem>95(1) <gap quantity="5" reason="lost" unit="character"/></lem> ◇
                         <em>951 ri kanaṁ pitu</em>
                     <seg rend="check">B K.</seg>
@@ -911,7 +918,7 @@
                             reckoning). The akṣaras in question can but by no means need to be read
                             as B and K did.</seg></note></app>
                 <app loc="B20"><lem>ikāṁ parad[āra]putra hyaṁ ma(ṅ)adg (i v)uru tum(u)ṁgal (i)
-                        maddhyadeśaniṁ</lem> ◇ <em>-ikaṅ parada <gap quantity="7" reason="lost" unit="character"/> guru tumaṅgal caddhya deśani</em> B; -<em>ikāṅ para
+                        maddhyadeśaniṁ</lem><rdg>-ikaṅ parada <gap quantity="7" reason="lost" unit="character"/> guru tumaṅgal caddhya deśani</em> B; -<em>ikāṅ para
                             <gap quantity="5" reason="lost" unit="character"/> guru</em>
                     <em>tumaṅgal – ddhya deśa ni</em> K. <note>We tentatively take
                             <foreign>paradāraputra</foreign> as a tatpuruṣa compound, although a
@@ -933,19 +940,19 @@
                             opposite of a <foreign>deśa rahayu</foreign>.</seg></note></app>
                 <app loc="B20"><lem>-pa(rākrama) sumorakǝn haji vǝṅkǝr·</lem> ◇ B and K left these
                     syllables blank.</app>
-                <app loc="B21"><lem>saṅa ta ha(jy a)n·</lem> ◇ <em>sa <gap quantity="4" reason="lost" unit="character"/> n</em> B; <em>samāhvayan</em> K. A problem with our
+                <app loc="B21"><lem>saṅa ta ha(jy a)n·</lem><rdg>sa <gap quantity="4" reason="lost" unit="character"/> n</em> B; <em>samāhvayan</em> K. A problem with our
                     tentative reading is that we don’t really expect sandhi to be applied to
                         <em>haji An</em>.</app>
-                <app loc="B21"><lem>vaṅk(ǝ)r·</lem> ◇ <em>vaṅkir·</em> B; <em>vǝṅkǝr·</em> K.
+                <app loc="B21"><lem>vaṅk(ǝ)r·</lem><rdg>vaṅkir·</em> B; <em>vǝṅkǝr·</em> K.
                         <note>B’s note “<foreign>vaṅkir-vǝṅkǝr</foreign>” suggests the emendation he
                         had in mind, which was adopted by K into his text as such. It is possible to
                         read <foreign>i</foreign> or <foreign>ǝ</foreign> on top of the
                             <foreign>ṅk</foreign>, but there really is no vocalization sign on the
                             <foreign>v</foreign>. In a damaged part of line 23, it seems the text
                         may have had the spelling <foreign>vaṅkar</foreign>.</note></app>
-                <app loc="B21"><lem>kavnaṅ ata</lem> ◇ <em>kavada ta</em> B; <em>kavaśa ta</em>
+                <app loc="B21"><lem>kavnaṅ ata</lem><rdg>kavada ta</em> B; <em>kavaśa ta</em>
                     K.</app>
-                <app loc="B21"><lem>mvaṁ tinuluy (hani)hanitu[n]i <gap quantity="8" reason="lost" unit="character"/></lem> ◇ <em>maṁkinakuyanahani</em>
+                <app loc="B21"><lem>mvaṁ tinuluy (hani)hanitu[n]i <gap quantity="8" reason="lost" unit="character"/></lem><rdg>maṁkinakuyanahani</em>
                     <gap quantity="10" reason="lost" unit="character"/>
                     <em>ḥ</em> B; <em>maṅkin <gap quantity="2" reason="lost" unit="character"/>
                         hanitu <gap quantity="2" reason="lost" unit="character"/> ḥ</em> K.
@@ -954,13 +961,13 @@
                         is parallel to the one in line 26, we can fill in the first part of the gap
                         with <foreign>(hani)hanitu[n]iṁ yadadvīpa</foreign>, leaving about 4 akṣaras
                         unaccounted for.</note></app>
-                <app loc="B22"><lem>(m)uvah akaḍatvan i L̥ca,</lem> ◇ <em>ṅu – ha kaḍatvaniL̥va</em>
+                <app loc="B22"><lem>(m)uvah akaḍatvan i L̥ca,</lem><rdg>ṅu – ha kaḍatvaniL̥va</em>
                     B; <em>mulih(e) kaḍatvan i – vā</em> K.</app>
-                <app loc="B22"><lem>tinūtnikāṁ</lem> ◇ <em>bunutnikāṁ</em> B, with note
+                <app loc="B22"><lem>tinūtnikāṁ</lem><rdg>bunutnikāṁ</em> B, with note
                         “<em>bunut-tunuk</em>”; <em>tinūt? nikāń</em> K (with a question mark
                     presumably because the vocalization, very faint in the RTI, was also faint in
                     the reproduction he had access to).</app>
-                <app loc="B22"><lem>sināhasan</lem> ◇ <em>sināhsan</em> B, <em>sināhāsan</em>
+                <app loc="B22"><lem>sināhasan</lem><rdg>sināhsan</em> B, <em>sināhāsan</em>
                     K.</app>
                 <app loc="B23"><lem>[d]e (śrī) mahārāja</lem> ◇ <gap quantity="2" reason="lost" unit="character"/>
                     <em>śrī mahārāja</em> B; <em>
@@ -969,11 +976,11 @@
                     <em>[haji] vaṅ[ka]r· maṅadg i vur(u rt)u p(j)aḥ</em> ◇ <gap quantity="19" reason="lost" unit="character"/>
                     <em>ḥ</em> B; <gap quantity="4" reason="lost" unit="character"/>
                     <em>ḥ</em> K.</app>
-                <app loc="B23"><lem>vargga la(ṁ)ḍiṁ rāk·</lem> ◇ <em>va <gap quantity="1" reason="lost" unit="character"/> laṁ <gap quantity="3" reason="lost" unit="character"/></em> B; <em>vargga la</em>
+                <app loc="B23"><lem>vargga la(ṁ)ḍiṁ rāk·</lem><rdg>va <gap quantity="1" reason="lost" unit="character"/> laṁ <gap quantity="3" reason="lost" unit="character"/></em> B; <em>vargga la</em>
                     <gap quantity="3" reason="lost" unit="character"/> K.</app>
-                <app loc="B23"><lem>hiR̥ṁhiR̥ṅan(·), Iṁ</lem> ◇ <em>haR̥pi <gap quantity="3" reason="lost" unit="character"/>, bu</em> B; <em>haR̥p</em>
+                <app loc="B23"><lem>hiR̥ṁhiR̥ṅan(·), Iṁ</lem><rdg>haR̥pi <gap quantity="3" reason="lost" unit="character"/>, bu</em> B; <em>haR̥p</em>
                     <gap quantity="5" reason="lost" unit="character"/>, <gap quantity="1" reason="lost" unit="character"/> K.</app>
-                <app loc="B24"><lem>maṁdo(n)· lāvan·</lem> ◇ <em>b</em>
+                <app loc="B24"><lem>maṁdo(n)· lāvan·</lem><rdg>b</em>
                     <gap quantity="5" reason="lost" unit="character"/>
                     <em>n·</em> B, – – – – <em>lāvan·</em> K.</app>
                 <app loc="B24"><lem>sahananikāṁ makira(k)i(rāpā)yāmutra hyaṅ amana(ḥnya) <gap quantity="8" reason="lost" unit="character"/></lem> ◇
@@ -988,7 +995,7 @@
                                 katibān tulis kaṅāśvāsa</foreign>. Alas, the published readings of
                             these two inscriptions are insecure, and we are unable to translate
                             them.</seg></note></app>
-                <app loc="B25"><lem>makapuruṣa(kā)ra</lem> ◇ <em>makapuruṣa</em> – – B; <em>mako (?)
+                <app loc="B25"><lem>makapuruṣa(kā)ra</lem><rdg>makapuruṣa</em> – – B; <em>mako (?)
                         puruṣa</em> – – K.</app>
                 <app loc="B25"><lem>(U)saṁ[ṅ-u]saṁ</lem> ◇ <gap quantity="3" reason="lost" unit="character"/>
                     <em>saṅ</em> B, <gap quantity="3" reason="lost" unit="character"/> K. <note>The
@@ -999,12 +1006,12 @@
                         the intended word here was <foreign>usaṅ-usaṅ</foreign> to begin with. If it
                         was, then we guess that it is a so far unattested form of the word recorded
                         as <foreign>usǝṅ</foreign> in OJED. See our note on p. <seg rend="check">XX</seg> below.</note></app>
-                <app loc="B26"><lem>hane magǝṁ ha – –</lem> ◇ <em>haneṁ</em>
+                <app loc="B26"><lem>hane magǝṁ ha – –</lem><rdg>haneṁ</em>
                     <em>matiha – –</em> B, <em>haneṁ magǝhan</em> (?) – – K. <note>The syllables
                         tentatively represented here as <foreign>magǝṁ</foreign> seem rather clear,
                         but they are somewhat difficult to make sense of, even if we presume that
                         they are the first element of a toponym.</note></app>
-                <app loc="B26"><lem>h(ī)ṅa(nyan·) śrī mahārāja [sa](ṅka)ni</lem> ◇ <em>hiṅanya</em> –
+                <app loc="B26"><lem>h(ī)ṅa(nyan·) śrī mahārāja [sa](ṅka)ni</lem><rdg>hiṅanya</em> –
                     – <em>mahārāja maṅkana</em> B, <em>hīṅan ya – mahārāja,</em>
                     <em>saṅkani</em> K. <note>We feel quite uncertain about the readings
                             <foreign>hīṅanyan</foreign>· and <foreign>saṅkani</foreign>, but believe
@@ -1014,16 +1021,16 @@
                         the <foreign>ja</foreign> and the akṣara restored as
                         <foreign>sa</foreign>.</note></app>
                 <app loc="B26"><lem>hilaṁniṁ sahanani</lem> ◇ B; <em>hilaṁ sahanani</em> K.</app>
-                <app loc="B26"><lem>han(i)hanituniṁ</lem> ◇ <em>hanihanituni</em> B K.</app>
+                <app loc="B26"><lem>han(i)hanituniṁ</lem><rdg>hanihanituni</em> B K.</app>
                 <app loc="B26"><lem>kramani kahilaṁ</lem> ◇ K; <em>kramanika hilaṁ</em> B.</app>
-                <app loc="B26"><lem>[mū]la kaḍatvani(ra)</lem> ◇ <em>Iṅakaḍatvanira</em> B; <em>–
+                <app loc="B26"><lem>[mū]la kaḍatvani(ra)</lem><rdg>Iṅakaḍatvanira</em> B; <em>–
                         sva?kaḍatvanira</em> K. <note>Another possible reconstruction for the first
                         word, whose initial syllable is lost, would be [kā]la. But since
                             <foreign>kāla</foreign> is not used as conjunction elsewhere in this
                         text, nor even recorded in that function in OJED, we tentatively prefer
                             <foreign>mūla</foreign>.</note></app>
-                <app loc="B27"><lem>kapaṁ sira naṁ</lem> ◇ <em>tapa sira</em> – B K.</app>
-                <app loc="B27"><lem>pratiniyata</lem> ◇ <em>pratinayaka</em> B K.</app>
+                <app loc="B27"><lem>kapaṁ sira naṁ</lem><rdg>tapa sira</em> – B K.</app>
+                <app loc="B27"><lem>pratiniyata</lem><rdg>pratinayaka</em> B K.</app>
                 <app loc="B27"><lem>hinārohara deśanirāṅkǝn·</lem> ◇ K; <em>hina</em> – <em>ro</em> –
                     – <em>deśani raṅkǝn</em> B.</app>
                 <app loc="B27"><lem><supplied reason="lost" evidence="previouseditor">vvay a</supplied>ta,</lem> ◇ <note>the punctuation sign after
@@ -1034,28 +1041,28 @@
                         in all occurrences known to us (see OJED s.v. <foreign>wwaya</foreign>), the
                         sequence <foreign>vvaya ta</foreign> stands at the beginning of a sentence.
                         For our tentative interpretation see note <seg rend="check">257.</seg></note></app>
-                <app loc="B28"><lem>(ta) sirar kaparājaya</lem> ◇ <em>ta sira</em> – –
+                <app loc="B28"><lem>(ta) sirar kaparājaya</lem><rdg>ta sira</em> – –
                         <em>rājaya</em> B, <em>ta sira</em>
                     <gap quantity="3" reason="lost" unit="character"/>
                     <em>(pa)rājaya</em> K.</app>
-                <app loc="B28"><lem>kapaṁ</lem> ◇ <em>tapa</em> B K.</app>
+                <app loc="B28"><lem>kapaṁ</lem><rdg>tapa</em> B K.</app>
                 <app loc="B28"><lem>deśa</lem> ◇ K; <em>de</em> – B.</app>
                 <app loc="B28"><lem>rājavāhana</lem> ◇ B; <em>rājavahana</em> K.</app>
-                <app loc="B29"><lem>vaR̥gg anusup·</lem> ◇ <em>– rǝp manusup</em> B K.</app>
+                <app loc="B29"><lem>vaR̥gg anusup·</lem><rdg>– rǝp manusup</em> B K.</app>
                 <app loc="B29"><lem>kavnaṁ ta sira</lem> ◇ B; <em>kavnaṁ sira</em> K.</app>
-                <app loc="B30"><lem>ha – – – pinakatapakan</lem> ◇ <em>ha – – s panaka ta pa kan</em>
+                <app loc="B30"><lem>ha – – – pinakatapakan</lem><rdg>ha – – s panaka ta pa kan</em>
                     B; – – – <em>pinaka ta pakan</em> K.</app>
-                <app loc="B30"><lem>(t)aṇḍasnira</lem> ◇ <em>kaṇḍa sira</em> B K.</app>
-                <app loc="B30"><lem>Ar paliṅ(g)iḥ</lem> ◇ <em>Apaliṅgiḥ</em> B K. <seg rend="check">The <em>g</em> in <em>ṅgi</em> has wrongly been carved as a full
+                <app loc="B30"><lem>(t)aṇḍasnira</lem><rdg>kaṇḍa sira</em> B K.</app>
+                <app loc="B30"><lem>Ar paliṅ(g)iḥ</lem><rdg>Apaliṅgiḥ</em> B K. <seg rend="check">The <em>g</em> in <em>ṅgi</em> has wrongly been carved as a full
                         circle.</seg></app>
-                <app loc="B30"><lem>saṁkṣipta ta Ikāṁ</lem> ◇ <em>saṁkṣipta Ikāṁ</em> B K. Both
+                <app loc="B30"><lem>saṁkṣipta ta Ikāṁ</lem><rdg>saṁkṣipta Ikāṁ</em> B K. Both
                     previous editors have omitted the particle <em>ta</em>.</app>
-                <app loc="B31"><lem>tan (hana)</lem> ◇ <em>nhana</em> B; <em>(ta)n hana</em> K.</app>
+                <app loc="B31"><lem>tan (hana)</lem><rdg>nhana</em> B; <em>(ta)n hana</em> K.</app>
                 <app loc="B31"><lem>makapārāyana</lem> ◇ understand <em>makaparāyaṇa</em>.</app>
                 <app loc="B31"><lem>rāt· An· (p)aṅǝb· makapārāyana (c)chā<supplied reason="lost" evidence="previouseditor">yā</supplied>ni</lem> ◇ <gap quantity="9" reason="lost" unit="character"/>
                     <em>pā – yanacchāyāni</em> B; <gap quantity="5" reason="lost" unit="character"/>
                     <em>maka – – yan acchāyā ni</em> K.</app>
-                <app loc="B31"><lem>mataṅ yar siddh<supplied reason="lost" evidence="previouseditor">ākǝn</supplied><supplied reason="lost" evidence="previouseditor">·</supplied></lem> ◇ <em>mataṅya
+                <app loc="B31"><lem>mataṅ yar siddh<supplied reason="lost" evidence="previouseditor">ākǝn</supplied><supplied reason="lost" evidence="previouseditor">·</supplied></lem><rdg>mataṅya
                         siddhākǝn</em>· B K.</app>
                 <app loc="B31"><lem><supplied reason="lost" evidence="previouseditor">pratijñānira</supplied></lem> ◇ K; <em>prājīnānira</em> B.</app>
                 <app loc="B32"><lem>Inusa[n·-U]san· raghu, yāṅkǝn·</lem> ◇ <gap quantity="4" reason="lost" unit="character"/>
@@ -1071,8 +1078,8 @@
                     B. <note>Brandes’ note “<foreign>( )namastāra-vana sangskāra</foreign>” reveals
                         that he had really not understood the present passage.</note></app>
                 <app loc="B32"><lem>śrī mahārāja ri bhaṭāra</lem> ◇ B; <em>śrī bhaṭāra</em> K.</app>
-                <app loc="B32"><lem>sārisāri</lem> ◇ <em>hari sāri</em> B K.</app>
-                <app loc="B32"><lem>paṁ<supplied reason="lost" evidence="previouseditor">liṅgānanikāṁ</supplied></lem> ◇ <em>paliṅgānanikāṁ</em> B,
+                <app loc="B32"><lem>sārisāri</lem><rdg>hari sāri</em> B K.</app>
+                <app loc="B32"><lem>paṁ<supplied reason="lost" evidence="previouseditor">liṅgānanikāṁ</supplied></lem><rdg>paliṅgānanikāṁ</em> B,
                         <em>paliṅgānanikaṁ</em> K. <note>Both previous editors ignored the first
                         anusvāra, which is crucial to get the correct sense. We are dealing with an
                         irrealis of the word <foreign>paṅliṅgan</foreign>. Cf. Sumanasāntaka 37.3c:
@@ -1081,18 +1088,18 @@
                         beauty was on the point of blossoming, resembled divine nymphs’ (ed. and
                         transl. <seg rend="check">Worsley et al. 2013</seg>).</note></app>
                 <app loc="B33"><lem>anāgataprabhu</lem> ◇ B; <em>aṅāgataprabhu</em> K.</app>
-                <app loc="B33"><lem>hlam i</lem> ◇ <em>tkā ri</em> B K.</app>
+                <app loc="B33"><lem>hlam i</lem><rdg>tkā ri</em> B K.</app>
                 <app loc="B33"><lem>kramani de śrī</lem> ◇ K; <em>kramani – śrī</em> B.</app>
-                <app loc="B33"><lem>munarjīvākǝn·</lem> ◇ <em>munajikakǝn·</em> B K. Cf. line
+                <app loc="B33"><lem>munarjīvākǝn·</lem><rdg>munajikakǝn·</em> B K. Cf. line
                     12.</app>
                 <app loc="B34"><lem>yavadvīpa, ka <gap quantity="3" reason="lost" unit="character"/>
                         sa(dbhāva) <gap quantity="13" reason="lost" unit="character"/> han
-                        denira</lem> ◇ <em>yavadvīpa</em>
+                        denira</lem><rdg>yavadvīpa</em>
                     <gap quantity="23" reason="lost" unit="character"/>
                     <em>nenira</em> B, <em>yavadvīpa</em>
                     <gap quantity="8" reason="lost" unit="character"/>
                     <em>nira</em> K.</app>
-                <app loc="B34"><lem>t(kā)maṅgiḥ</lem> ◇ B; ◇ <em>tkā, maṅgiḥ</em> K.</app>
+                <app loc="B34"><lem>t(kā)maṅgiḥ</lem> ◇ B;<rdg>tkā, maṅgiḥ</em> K.</app>
                 <app loc="B34"><lem>hayunira</lem> ◇ <note>B leaves open an amount of space between
                             <foreign>hayu</foreign> and <foreign>nira</foreign>, implying that
                         Brandes thought there were some illegible akṣaras in the gap. But K
@@ -1103,7 +1110,7 @@
                             <foreign>abhamata</foreign> instead of expected
                             <foreign>abhimata</foreign> (lines 13 and 16), one may wonder if that is
                         what was actually engraved here too.</note></app>
-                <app loc="B36"><lem>(th)ā(n)i [vat]ǝ[k]</lem> ◇ <em>nāni – ti –</em> B; – – <em>ni –
+                <app loc="B36"><lem>(th)ā(n)i [vat]ǝ[k]</lem><rdg>nāni – ti –</em> B; – – <em>ni –
                         – –</em> K. <note>Our reconstruction is based on the occurrence of the
                         sequence <foreign>thāni vatǝk</foreign> in other inscriptions of Airlaṅga,
                         e.g. <seg rend="check">Terep I XX</seg>.</note></app>
@@ -1116,7 +1123,7 @@
                         end of the line, where the surface of the stone has by now entirely peeled
                         off.</note></app>
                 <app loc="B37"><lem>mantǝn· ta</lem> ◇ B; <em>mantǝn· tā</em> K.</app>
-                <app loc="B37"><lem><supplied reason="lost" evidence="previouseditor">bapuri</supplied></lem> ◇ <em>basuri</em> B K. <note>Even though
+                <app loc="B37"><lem><supplied reason="lost" evidence="previouseditor">bapuri</supplied></lem><rdg>basuri</em> B K. <note>Even though
                         these akṣaras have peeled off by now, we emend the reading of our
                         predecessor by comparison with our reading of the same toponym in line
                         3.</note></app>
@@ -1126,14 +1133,14 @@
                 <app loc="B38"><lem><supplied reason="lost" evidence="previouseditor">[tan katamāna deniṁ]</supplied></lem> ◇ <note>the restoration was
                         made by Kern (1917: 106: n. 1), while Brandes left open a gap for the
                         illegibly damaged akṣaras.</note></app>
-                <app loc="B39"><lem>mvaṁ (saṁ nāyaka)pratya<supplied reason="lost" evidence="previouseditor">ya</supplied></lem> ◇ <em>mvaṁ –</em>
+                <app loc="B39"><lem>mvaṁ (saṁ nāyaka)pratya<supplied reason="lost" evidence="previouseditor">ya</supplied></lem><rdg>mvaṁ –</em>
                     <em>nāyaka</em>, <em>partyaya</em> B, <em>mvaṁ</em>
                     <em>nāyaka</em>, <em>partyaya</em> K. <note>The two words
                             <foreign>nāyaka</foreign> and <foreign>pratyaya</foreign> are normally
                         not separated by a punctuation sign (although see n. <seg rend="check">XX</seg> below), and are quite often preceded by
                         <foreign>saṁ</foreign>, which we can faintly make out in the gap left open
                         by Brandes that was ignored by Kern.</note></app>
-                <app loc="B40"><lem>m – – – – <supplied reason="lost" evidence="previouseditor">sukhaduḥkha,</supplied></lem> ◇ <em>– khaduḥkha,</em> B;
+                <app loc="B40"><lem>m – – – – <supplied reason="lost" evidence="previouseditor">sukhaduḥkha,</supplied></lem><rdg>– khaduḥkha,</em> B;
                         <em>sukhaduḥkha,</em> K. <note>In B’s reading, line 39 ends with a
                         substantial lacuna after <foreign>haji m</foreign>, while 40 starts with
                             <foreign>khaduḥkha</foreign>; in K’s, there is a lacuna of five akṣaras
@@ -1151,7 +1158,7 @@
                             inspired by OJO XLIX 2b.</seg></note></app>
                 <app loc="B41"><lem><gap extent="unknown" reason="lost" unit="character"/>
                         <supplied reason="lost" evidence="previouseditor">[saṁ maṅilāla] drabya haji vuluvulu mvaṁ</supplied>
-                        <gap extent="unknown" reason="lost" unit="character"/></lem> ◇ <em><gap extent="unknown" reason="lost" unit="character"/>
+                        <gap extent="unknown" reason="lost" unit="character"/></lem><rdg><gap extent="unknown" reason="lost" unit="character"/>
                         <supplied reason="lost" evidence="previouseditor">drabya haji vuluvulu mvaṁ</supplied></em> B; <em><gap quantity="8" reason="lost" unit="character"/>
                         <supplied reason="lost" evidence="previouseditor">[saṁ maṅilāla] drabya haji vuluvulu mvaṁ</supplied>
                         <gap quantity="3" reason="lost" unit="character"/></em> K. <note>We are
@@ -1168,7 +1175,7 @@
                         anywhere on the line. Note that B’s text suggests mvaṁ stood at the end of
                         the line, whereas K’s suggests a short lacuna stood between this word and
                         the end of the line.</note></app>
-                <app loc="B42"><lem><supplied reason="lost" evidence="previouseditor">siṅ ata lviranya</supplied></lem> ◇ <em>siṅa – lviranya</em> B;
+                <app loc="B42"><lem><supplied reason="lost" evidence="previouseditor">siṅ ata lviranya</supplied></lem><rdg>siṅa – lviranya</em> B;
                         <em>siṅa ta lviranya</em> K. <note>K’s translation suggests that he was
                         thinking of a word like <foreign>asiṅ</foreign>, an idea that receives some
                         support from the Cane inscription, faces C and d, line 30: <foreign>kita
@@ -1177,7 +1184,7 @@
                         passage is indeed a relevant comparison, it also implies that Kern's word
                         division is unlikely to be correct. This is why we tentatively divide the
                         words as <foreign>asiṅ ata.</foreign></note></app>
-                <app loc="B42"><lem><supplied reason="lost" evidence="previouseditor">lumǝbu</supplied>[ra]</lem> ◇ <em>lumǝbu</em> – B K. <note>It is
+                <app loc="B42"><lem><supplied reason="lost" evidence="previouseditor">lumǝbu</supplied>[ra]</lem><rdg>lumǝbu</em> – B K. <note>It is
                         tempting to conjecture further <foreign>lumǝburāta</foreign> or
                             <foreign>lumǝbura ta</foreign>, and to assume no further loss of akṣaras
                         before <foreign>saṁ hyaṁ</foreign>, but this issue depends on whether K’s
@@ -1196,12 +1203,12 @@
                         into account, and estimating the distance between the akṣaras that are still
                         preserved today, we estimate that the gap which was already present in our
                         predecessors’ time extended over at least 14 akṣaras.</note></app>
-                <app loc="B44"><lem>– nanira</lem> ◇ <em><gap quantity="3" reason="lost" unit="character"/> nira</em> B K. <note>It might be possible to read the
+                <app loc="B44"><lem>– nanira</lem><rdg><gap quantity="3" reason="lost" unit="character"/> nira</em> B K. <note>It might be possible to read the
                         first akṣaras as <foreign>sthā</foreign>, conjecturing
                             <foreign>sthānanira</foreign>. But <foreign>ṅhananira</foreign> or
                             <foreign>ṅkānanira</foreign> also seem to be possible
                     readings.</note></app>
-                <app loc="B45"><lem>[bhukt]inira [pañca]mahāpātaka</lem> ◇ <em>caṇḍinira <gap quantity="2" reason="lost" unit="character"/> mahāpātaka</em> B K.
+                <app loc="B45"><lem>[bhukt]inira [pañca]mahāpātaka</lem><rdg>caṇḍinira <gap quantity="2" reason="lost" unit="character"/> mahāpātaka</em> B K.
                         <note>The word <foreign>caṇḍi</foreign> in our predecessors’ reading is so
                         unlikely that we feel forced to reject it, and the word
                             <foreign>pañca</foreign> cries out so hard to be read before
@@ -1216,7 +1223,7 @@
                 <supplied reason="lost" evidence="previouseditor">citralekha I pāduka śrī mahārāja</supplied>
                 <gap extent="unknown" reason="lost" unit="character"/>
                 <supplied reason="lost" evidence="previouseditor">sira</supplied>
-                <gap extent="unknown" reason="lost" unit="character"/></lem> 
+                <gap extent="unknown" reason="lost" unit="character"/></lem>
                 <note>K estimates a gap of 17 akṣaras between <foreign>pātaka</foreign> and <foreign>citralekha</foreign>, then gaps of 3 akṣaras each after <foreign>mahārāja</foreign> and <foreign>sira</foreign>. The total number of akṣaras on the line would thus be 41 akṣaras, which is far too few. We are unable to verify any akṣaras after <foreign>pātaka</foreign>, and so are unable to propose our own estimates for the three gaps.</note>
                 </app>
             </listApp>
