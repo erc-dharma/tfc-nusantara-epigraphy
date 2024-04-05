@@ -615,11 +615,11 @@ n="5.2"/>nira ta māva maryya I ḍ<unclear>i</unclear>h<unclear>yaṁ</unclear>
         </app>
       </div>
       <div type="translation" xml:lang="eng">
-        <p>(1.1–1.8) <foreign>Om</foreign>!<foreign></foreign>Homage to Śiva! Homage to the Buddha!</p>
-        <p>May [the world] be prosperous! Elapsed Śrī Sañjaya year 194, month of Poṣya, third <foreign>tithi</foreign> of the waning fortnight, Tuṅlai, Umanis, Friday. That was the initial beginning of the village of Taji Gunuṅ, which was demarcated to become a <foreign>sīma</foreign> by the Lord chief minister and the Lord of Gurum Vaṅi and the official of Lua. The one who was formerly <foreign>ayam təas</foreign>, when the village was made into a <foreign>sīma</foreign>, was <foreign>pu </foreign>Ḍapit, native of Paṇḍamuan, district Vadihati. The ones who were chiefs for them (the Lords) were:</p>
-        <p>the honorable one exclusively (<foreign>atah</foreign>) of <foreign>mirah-mirah</foreign>, district Vadihati</p>
-        <p>and the honorable (of) Halaran, <foreign>pu </foreign>Dhanada, native of Paṇḍamuan, district Vadihati,</p>
-        <p>The <foreign>makalambi haji</foreign> was his <foreign>paṅuraṅ </foreign>at Ayam Təas<foreign>, </foreign>the honorable one of Buaṅən, native of Gunuṅan, district Taṅkilan.</p>
+        <p n="1.1"> <foreign>Om</foreign>!<foreign></foreign>Homage to Śiva! Homage to the Buddha!</p>
+        <p n="1.1–1.8">May [the world] be prosperous! Elapsed Śrī Sañjaya year 194, month of Poṣya, third <foreign>tithi</foreign> of the waning fortnight, Tuṅlai, Umanis, Friday. That was the initial beginning of the village of Taji Gunuṅ, which was demarcated to become a <foreign>sīma</foreign> by the Lord chief minister and the Lord of Gurum Vaṅi and the official of Lua. The one who was formerly <foreign>ayam təas</foreign>, when the village was made into a <foreign>sīma</foreign>, was <foreign>pu </foreign>Ḍapit, native of Paṇḍamuan, district Vadihati. The ones who were chiefs for them (the Lords) were:</p>
+        <p><list> <item>the honorable one exclusively (<foreign>atah</foreign>) of <foreign>mirah-mirah</foreign>, district Vadihati</item>
+        <item>and the honorable (of) Halaran, <foreign>pu </foreign>Dhanada, native of Paṇḍamuan, district Vadihati,</item>
+        <item>The <foreign>makalambi haji</foreign> was his <foreign>paṅuraṅ </foreign>at Ayam Təas<foreign>, </foreign>the honorable one of Buaṅən, native of Gunuṅan, district Taṅkilan.</item></list></p>
         <p>(1.8–1.12) The one who also formerly participated in performing <foreign>uyut</foreign> on the holy <foreign>sīma </foreign>stone [and] the <foreign>kulumpaṅ</foreign> demarcator was the official of<foreign></foreign>Makudur [called] Brada, native of Vaduṅ Poh, district Makudur. The ones who were chiefs for him were the honorable one of Davaha, native of Ra Təguh, district Haməas and <foreign>dyah </foreign>Maṇḍyāṅin, native of Kahaṅatan, district Haməas exclusively.</p>
         <p>(1.12–1.16) The <foreign>paṅuraṅ </foreign>of the official of<foreign></foreign>Makudur was the one who participated in performing <foreign>uyut</foreign> on the holy <foreign>sīma </foreign>stone [and] the <foreign>kulumpaṅ</foreign> demarcator: <foreign>dyah </foreign>Raṇḍə, native of Liṅai, district Makudur. The [official of] Vuṅkal Tpat, formerly at the time (when) the village was made into a <foreign>sīma</foreign>, was <foreign>pu </foreign>Sarana, native of the village upstream of the monastery of Taṅkilan, district Taṅkilan exclusively.</p>
         <p>(1.16–1.22) If <foreign></foreign>in the future’s future there is any wrong-doer disturbing this <foreign>sīma</foreign>, which is the favor of the Lords to the <foreign>piṅhay</foreign>s [and] <foreign>vahuta</foreign>s of Vuṅkal Tpat [and] to the descendants of the<foreign> piṅhay</foreign>s [and <foreign>vahuta</foreign>s], may they not obtain the fruits of human birth. All the less so the descendants of those who disturb the holy <foreign>sīma </foreign>stone [and] the <foreign>kulumpaṅ</foreign> demarcator, because the curse of the <foreign>vahuta hyaṅ </foreign>and the <foreign>makalambi haji</foreign> on such ones is finished. At the time of the holy <foreign>sīma </foreign>stone [and] the <foreign>kulumpaṅ </foreign>demarcator, formerly, Śrī Sañjaya, the Lord of men [and] King Balituṅ, endowed with fortune and youth, were venerated in the world.</p>
@@ -673,13 +673,13 @@ n="5.2"/>nira ta māva maryya I ḍ<unclear>i</unclear>h<unclear>yaṁ</unclear>
           <bibl><ptr target="bib:NBG06_1868"/><citedRange unit="page">60</citedRange></bibl>
           <bibl><ptr target="bib:NBG13_1875"/><citedRange unit="page">60</citedRange></bibl>
           <bibl><ptr target="bib:NBG14_1876"/><citedRange unit="page">III (no. 3), VII (no. 42)</citedRange></bibl>
-          <bibl><ptr target="bib:Brandes1886_01"/><citedRange>31, 250 (footnote no.1)</citedRange></bibl>
+          <bibl><ptr target="bib:Brandes1886_01"/><citedRange unit="page">31<!--check this number, what does this number refer to-->, 250</citedRange><citedRange unit="note">1</citedRange></bibl>
           <bibl><ptr target="bib:Groeneveldt1887_01"/><citedRange>366, 373–374</citedRange></bibl>
-          <bibl><ptr target="bib:Verbeek1891_01"/><citedRange>8</citedRange></bibl>
-          <bibl><ptr target="bib:Juynboll1909_01"/><citedRange>232 (no. 2983)</citedRange></bibl>
-          <bibl><ptr target="bib:NBG47_1909"/><citedRange>LXXVIII (bijl. XII D.6)</citedRange></bibl>
+          <bibl><ptr target="bib:Verbeek1891_01"/><citedRange unit="page">8</citedRange></bibl>
+          <bibl><ptr target="bib:Juynboll1909_01"/><citedRange unit="page">232</citedRange><citedRange unit="item">2983</citedRange></bibl>
+          <bibl><ptr target="bib:Rouffaer1909_01"/><citedRange unit="page">LXXVIII</citedRange><citedRange unit="item">D.6</citedRange></bibl>
           <bibl><ptr target="bib:TBG53_1911"/><citedRange>238, 248</citedRange></bibl>
-          <bibl><ptr target="bib:Krom1911_03"/><citedRange>57 (Bijl. 57 no. 6)</citedRange></bibl>
+          <bibl><ptr target="bib:Krom1911_03"/><citedRange unit="page">57</citedRange><citedRange unit="item">D.6</citedRange></bibl><!--Krom lists est. numbers 168, 169, 180, 205, 207, 208, 209, 334 -->
           <bibl><ptr target="bib:ROD1915_01"/><citedRange>80</citedRange><citedRange unit="item">1335</citedRange></bibl>
           <bibl><ptr target="bib:OV1918_01"/><citedRange>76–77</citedRange></bibl>
           <bibl><ptr target="bib:Rouffaer1918_01"/><citedRange>154–158</citedRange></bibl>
