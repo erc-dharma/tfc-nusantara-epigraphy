@@ -415,108 +415,125 @@
         <div n="A" subtype="face" type="textpart">
             <head xml:lang="eng">Sanskrit Text</head>
             <listApp>
-                <app loc="A1"><lem>nr̥ṇāv vidhāne</lem><note>One expects <foreign>nr̥ṇāṁ vidhāne</foreign>. Of this
-                        idiosyncratic sandhi, of which several more examples will follow below, we
-                        have seen one other instance in the Campā inscription C. 167, st. IV (§1.3).
-                        See also Kern's remark (1917:87). ALSO BAN NAXONE LAOS</note></app>
+                <app loc="A1">
+                <lem>nr̥ṇāv vidhāne</lem>
+                <note>One expects <foreign>nr̥ṇāṁ vidhāne</foreign>. Of this idiosyncratic sandhi, of which several more examples will follow below, we have seen one other instance in the Campā inscription C. 167, st. IV (§1.3). See also Kern's remark (1917:87). ALSO BAN NAXONE LAOS</note>
+                </app>
                 <app loc="A2">
-                  <lem><supplied reason="lost">A</supplied><unclear>p</unclear><supplied reason="lost">i</supplied></lem>
-                  <rdg resp="#D">api</rdg>
-                  <rdg resp="#K"><unclear>A</unclear>pi</rdg>
-                  <note>In fact only a part of the <foreign>p</foreign> is actually visible, but the shape of the lacuna certainly allows conjecturing
-                    <foreign>Api</foreign>.</note>
-                  </app>
+                <lem><supplied reason="lost">A</supplied><unclear>p</unclear><supplied reason="lost">i</supplied></lem>
+                <rdg resp="#D">api</rdg>
+                <rdg resp="#K"><unclear>A</unclear>pi</rdg>
+                <note>In fact only a part of the <foreign>p</foreign> is actually visible, but the shape of the lacuna certainly allows conjecturing <foreign>Api</foreign>.</note>
+                </app>
                 <app loc="A2">
-                   <lem resp="#D">yas sthāṇur</lem>
-                   <rdg resp="#K">ya sthāṇur</rdg>
-                 </app>
+                <lem resp="#D">yas sthāṇur</lem>
+                <rdg resp="#K">ya sthāṇur</rdg>
+                </app>
                 <app loc="A2">
-                  <lem>atitarāy</lem>
-                  <note>Norm. <foreign>atitarāṁ</foreign>. For this idiosyncratic sandhi see our note on <foreign>nr̥ṇāv vidhāne</foreign> in
-                            <foreign>pāda</foreign> b of stanza I.</note></app>
+                <lem>atitarāy</lem>
+                <note>Norm. <foreign>atitarāṁ</foreign>. For this idiosyncratic sandhi see our note on <foreign>nr̥ṇāv vidhāne</foreign> in <foreign>pāda</foreign> b of stanza I.</note>
+                </app>
                 <app loc="A2">
-                  <lem resp="#D">ya<choice><sic>v</sic><corr>th</corr></choice>epsitārtha-</lem>
-                  <rdg resp="#K">yathepsitārtha-</rdg>
-                  <note>The <foreign>akṣara</foreign> in question quite clearly seems to be <foreign>v</foreign> and not <foreign>th</foreign>, but the two <foreign>akṣara</foreign>s
-                        are very similar and the latter was almost certainly intended, so we translate <foreign>yathepsita</foreign>-.</note></app>
-                <app loc="A3"><lem>°tayā</lem> ◇ – <em>yā</em> D; <em>dhiyā</em> K. <note>The reading
-                        included in Crawfurd 1816 seems to be <foreign>kayā</foreign> at this
-                        place.</note></app>
-                <app loc="A5"><lem>lakṣmīś ca no gatvarī</lem> ◇ D; <em>lakṣmīn dadhau gatvarī</em>
-                    K. <note>We initially read <foreign>dorgatvarī</foreign>, because something that
-                        resembles a <foreign>repha/layar</foreign> seems discernible above the
-                            <foreign>ga</foreign>, but we are unable to come up with any
-                        justification for why the author would have invented a unique expression
-                        ‘going from the arms’ or ‘going from arm to arm’ to mean ‘fickle’. It is
-                        more likely that he used <foreign>no</foreign>, a metrically conditioned
-                        equivalent of the negation <foreign>na</foreign> (cf.
-                            <foreign>Raghuvaṁśa</foreign> 11.60: <foreign>diśo no babhūvur
-                            avalokanakṣamāḥ</foreign>). For <foreign>gatvarī</foreign> as an
-                        attribute of <foreign>śrī</foreign> (meaning ‘riches’ in this case), see
-                            <foreign>Kirātārjunīya</foreign> 11.21: <foreign>abhidroheṇa bhūtānām
-                            arjayan gatvarīḥ śriyaḥ</foreign> ‘The man who amasses transient wealth
-                        by injuring creatures…’ (tr. Peterson).</note></app>
-                <app loc="A5"><lem>sadāvavaddhā</lem> ◇ D; <em>sahābhavadyā</em> K.</app>
-                <app loc="A5"><lem>mudam</lem> ◇ D; thus also Kern 1885 (-<em>sudam</em> in Kern 1917
-                    is a misreading of the original Devanāgarī edition).</app>
-                <app loc="A7"><lem>-vibhavo</lem> ◇ D; -<em>vi(śa)do</em> K.</app>
-                <app loc="A7"><lem>-dhiyām bhām bhāvayan</lem> ◇ D; -<em>dhiyā kṣmām bhāvayan</em>
-                    K.</app>
-                <app loc="A7"><lem>Ābhiś</lem> ◇ D; <em>śauriś</em> K.</app>
-                <app loc="A8"><lem>śa(t)r(ū)n</lem><rdg>śa – ran</em> D (<em>śatrūn</em> in a
-                    footnote); <em>śubhram</em> K.</app>
-                <app loc="A8"><lem>-rupā</lem> ◇ D; <em>-rūpā</em> K. <note>It seems impossible to
-                        read here the metrically required long vowel <foreign>ū</foreign>. See
-                        another case of <foreign>rūpa</foreign> spelt <foreign>rupa</foreign> in
-                        line 5 of face B.</note></app>
-                <app loc="A9"><lem>rāja-</lem> ◇ D; <em>bhāva</em> (?) K.</app>
-                <app loc="A9"><lem>-janmā</lem> ◇ K; <em>-janma</em> D.</app>
-                <app loc="A10"><lem>mahendradattāv</lem> ◇ <note>Regarding the idiosyncratic sandhi,
-                        see our note on <foreign>nr̥ṇāv vidhāne</foreign> in <foreign>pāda</foreign>
-                        b of stanza I.</note></app>
-                <app loc="A10"><lem>daśarathāt</lem> ◇ K; d – – <em>vvat</em> D.</app>
-                <app loc="A11"><lem>sarvathā</lem> ◇ K; <em>pūrvatā</em> D.</app>
-                <app loc="A12"><lem>-rāṣṭram iva – dya – ⏑ –</lem><rdg>-rāṣṭram iva mady – ta
-                        –</em> D; -<em>rāṣṭram iva mudyutaṁ ciraṁ</em> (?) K 1885 (K 1917 reads the
-                    last word as <em>śiraṁ,</em> probably a misreading of the Devanāgarī);
-                        -<em>rāṣṭram avasādya taṁ ciram·</em> P. <note>We have considered several
-                        possibilities to complete this line but none of them seemed satisfactory,
-                        e.g. -<foreign>m iva madyavādhitaṁ,</foreign> ‘afflicted by intoxicating
-                        drinks’ (for another instance of writing <foreign>v</foreign> instead of
-                            <foreign>b</foreign> see stanza V. <foreign>-valānvito,</foreign> and
-                        stanza VI. <foreign>sadāvavaddhā</foreign>), <foreign>-m iva
-                            māndyasāditaṁ</foreign>, ‘destroyed by indolence’, <foreign>-mavasādya
-                            pārthivaḥ,</foreign> ‘having ruined it, the king’, etc.
-                            <foreign>Arjunavivāha</foreign> 1.3 might possible be related to this
-                        passage: (<foreign>daitya Nivātakavaca</foreign>) <foreign>sumyūhaṅ
-                            indrālaya</foreign> ‘(the demon Nivātakavaca) was about to destroy
-                        Indra’s abode’.</note></app>
-                <app loc="A12"><lem>kalinā khalena</lem><rdg>talinā khilena</em> D; <em>talinā
-                        ⏑</em>
-                    <em>lena</em> K; <em>kalinā jhalena</em> P. <note>See Damais (1952: 90–91, n.
-                        1): “Nous dirons dans une étude consacrée à la stèle de Pucangan pourquoi il
-                        nous est impossible de lire avec Purbatjaraka un <foreign>jha</foreign>”.
-                        Alas, Damais never published this study.</note></app>
-                <app loc="A12"><lem>vinā</lem> ◇ D P; <em>viśā</em> (read <em>viśāṁ</em>) K.</app>
-                <app loc="A12"><lem>narottamena sahito</lem> ◇ D P; <em>narottamair upahito</em>
-                    K.</app>
-                <app loc="A13"><lem>śaśalāñchanā[bdhi]vadane</lem> ◇ D; <em>tha ⏑</em>
-                    <em>locanāgnivadane</em> K. <note>The first syllable of line 13 is almost
-                        illegible in all sources available to us. For the middle chronogram word,
-                        the choice to read <foreign>bdhi</foreign> (4 oceans,
-                            <foreign>abdhi</foreign>) instead of <foreign>gni</foreign> (3 fires,
-                            <foreign>agni</foreign>) is made on the ground that the specified
-                        thirteenth <foreign>tithi</foreign> of the waxing fortnight of Māgha fell on
-                        a Monday (<foreign>vāre śaśini</foreign>) in 941 Śaka, while in 931 it did
-                        not; moreover, in line 15 on face B, the same episode is dated to 941. See
-                        on this verse and Damais' reading of the chronogram n. 4 (p. 66) in
-                        Boechari's article on the Mūla-Maluruṅ inscription = Boechari 2012: 430 n.
-                        4.</note></app>
-                <app loc="A14"><lem>pāhīty apātāṅ</lem><rdg>– ā – īkṣa tāntāṅ</em> D;
-                        <em>pāhītyutāntāṅ</em> K. <note>Other possibilities we have taken into
-                        consideration include: <foreign>pāhīty anantāṅ / adāntāṅ / aśāntāṅ kṣitim,
-                            pāyāt samantāṅ kṣitim, pāhi tvam asmatkṣitim, pāty adya śāntāṅ / dāntāṅ
-                            kṣitim</foreign>. None seemed satisfactory.</note></app>
+                <lem resp="#D">ya<choice><sic>v</sic><corr>th</corr></choice>epsitārtha-</lem>
+                <rdg resp="#K">yathepsitārtha-</rdg>
+                <note>The <foreign>akṣara</foreign> in question quite clearly seems to be <foreign>v</foreign> and not <foreign>th</foreign>, but the two <foreign>akṣara</foreign>s are very similar and the latter was almost certainly intended, so we translate <foreign>yathepsita</foreign>-.</note>
+                </app>
+                <app loc="A3">
+                <lem>°tayā</lem> 
+                <rdg resp="#D">–yā</rdg> 
+                <rdg resp="#K">dhiyā</rdg> 
+                <note>The reading included in Crawfurd 1816 seems to be <foreign>kayā</foreign> at this place.</note>
+                </app>
+                <app loc="A5">
+                <lem resp="#D">lakṣmīś ca no gatvarī</lem> 
+                <rdg resp="#K">lakṣmīn dadhau gatvarī </rdg>
+                <note>We initially read <foreign>dorgatvarī</foreign>, because something that resembles a <foreign>repha/layar</foreign> seems discernible above the <foreign>ga</foreign>, but we are unable to come up with any justification for why the author would have invented a unique expression ‘going from the arms’ or ‘going from arm to arm’ to mean ‘fickle’. It is more likely that he used <foreign>no</foreign>, a metrically conditioned equivalent of the negation <foreign>na</foreign> (cf <foreign>Raghuvaṁśa</foreign> 11.60: <foreign>diśo no babhūvur avalokanakṣamāḥ</foreign>). For <foreign>gatvarī</foreign> as an attribute of <foreign>śrī</foreign> (meaning ‘riches’ in this case), see <foreign>Kirātārjunīya</foreign> 11.21: <foreign>abhidroheṇa bhūtānām arjayan gatvarīḥ śriyaḥ</foreign> ‘The man who amasses transient wealth by injuring creatures…’ (tr. Peterson).</note>
+                </app>
+                <app loc="A5">
+                <lem resp="#D">sadāvavaddhā</lem> 
+                <rdg resp="#K">sahābhavadyā</rdg>
+                </app>
+                <app loc="A5">
+                <lem resp="#D">mudam</lem> 
+                <!--thus also Kern 1885 (<foreign>sudam</foreign> in Kern 1917
+                    is a misreading of the original Devanāgarī edition).-->  
+                </app>
+                <app loc="A7">
+                <lem resp="#D">-vibhavo</lem> 
+                <rdg resp="#K">-vi<unclear>śa</unclear>do</rdg>
+                </app>
+                <app loc="A7">
+                <lem resp="#D">-dhiyām bhām bhāvayan</lem> 
+                <rdg resp="#K">-dhiyā kṣmām bhāvayan</rdg>
+                </app>
+                <app loc="A7">
+                <lem resp="#D">Ābhiś</lem> 
+                <rdg resp="#K">śauriś</rdg>
+                </app>
+                <app loc="A8">
+                <lem>śa<unclear>t</unclear>r<unclear>ū</unclear>n</lem>
+                <rdg resp="#D">śa–ran</rdg> <!--(<foreign>śatrūn</foreign> in a footnote)-->
+                <rdg resp="#K">śubhram</rdg>
+                </app>
+                <app loc="A8">
+                <lem resp="#D">-rupā</lem> 
+                <rdg resp="#K">-rūpā</rdg>
+                <note>It seems impossible to read here the metrically required long vowel <foreign>ū</foreign>. See another case of <foreign>rūpa</foreign> spelt <foreign>rupa</foreign> in line 5 of face B.</note>
+                </app>
+                <app loc="A9">
+                <lem resp="#D">rāja-</lem> 
+                <rdg resp="#K">bhāva (?)</rdg>
+                </app>
+                <app loc="A9">
+                <lem resp="#K">-janmā</lem> 
+                <rdg resp="#D">-janma</rdg>
+                </app>
+                <app loc="A10">
+                <lem>mahendradattāv</lem>
+                <note>Regarding the idiosyncratic sandhi, see our note on <foreign>nr̥ṇāv vidhāne</foreign> in <foreign>pāda</foreign> b of stanza I.</note>
+                </app>
+                <app loc="A10">
+                <lem resp="#K">daśarathāt</lem> 
+                <rdg resp="#D">d– –vvat</rdg>
+                </app>
+                <app loc="A11">
+                <lem resp="#K">sarvathā</lem> ◇ K; 
+                <rdg resp="#D">pūrvatā</rdg>
+                </app>
+                <app loc="A12">
+                <lem>-rāṣṭram iva – dya – ⏑ –</lem>
+                <rdg resp="#D">-rāṣṭram iva mady – ta –</rdg> 
+                <rdg resp="#K">-rāṣṭram iva mudyutaṁ ciraṁ (?)</rdg> <!--K 1885--> 
+                <!--(K 1917 reads the last word as <em>śiraṁ,</em> probably a misreading of the Devanāgarī)--> 
+                <rdg resp="#P">-rāṣṭram avasādya taṁ ciram·</rdg> 
+                <note>We have considered several possibilities to complete this line but none of them seemed satisfactory, e.g. -<foreign>m iva madyavādhitaṁ,</foreign> ‘afflicted by intoxicating drinks’ (for another instance of writing <foreign>v</foreign> instead of <foreign>b</foreign> see stanza V. <foreign>-valānvito,</foreign> and stanza VI. <foreign>sadāvavaddhā</foreign>), <foreign>-m iva māndyasāditaṁ</foreign>, ‘destroyed by indolence’, <foreign>-mavasādya pārthivaḥ,</foreign> ‘having ruined it, the king’, etc. <foreign>Arjunavivāha</foreign> 1.3 might possible be related to this passage: (<foreign>daitya Nivātakavaca</foreign>) <foreign>sumyūhaṅ indrālaya</foreign> ‘(the demon Nivātakavaca) was about to destroy Indra’s abode’.</note>
+                </app>
+                <app loc="A12">
+                <lem>kalinā khalena</lem>
+                <rdg resp="#D">talinā khilena</rdg> 
+                <rdg resp="#K">talinā ⏑ lena</rdg>  
+                <rdg resp="#P">kalinā jhalena</rdg> 
+                <note>See Damais (1952: 90–91, n.1): “Nous dirons dans une étude consacrée à la stèle de Pucangan pourquoi il nous est impossible de lire avec Purbatjaraka un <foreign>jha</foreign>”. Alas, Damais never published this study.</note>
+                </app>
+                <app loc="A12">
+                <lem resp="#D #P">vinā</lem> 
+                <rdg resp="#K">viś<choice><orig>ā</orig><reg>āṁ</reg></choice></rdg>
+                </app>
+                <app loc="A12">
+                <lem resp="#D #P">narottamena sahito</lem> 
+                <rdg resp="#K">narottamair upahito</rdg>
+                </app>
+                <app loc="A13">
+                <lem resp="#D">śaśalāñchanā<supplied reason="lost">bdhi</supplied>vadane</lem> 
+                <rdg resp="#K">tha ⏑ locanāgnivadane</rdg> 
+                <note>The first syllable of line 13 is almost illegible in all sources available to us. For the middle chronogram word, the choice to read <foreign>bdhi</foreign> (4 oceans, <foreign>abdhi</foreign>) instead of <foreign>gni</foreign> (3 fires,<foreign>agni</foreign>) is made on the ground that the specified thirteenth <foreign>tithi</foreign> of the waxing fortnight of Māgha fell on a Monday (<foreign>vāre śaśini</foreign>) in 941 Śaka, while in 931 it did not; moreover, in line 15 on face B, the same episode is dated to 941. See on this verse and Damais' reading of the chronogram n. 4 (p. 66) in Boechari's article on the Mūla-Maluruṅ inscription = Boechari 2012: 430 n.4.</note>
+                </app>
+                <app loc="A14">
+                <lem><unclear>pā</unclear>hīty apātāṅ</lem>
+                <rdg resp="#D">– ā – īkṣa tāntāṅ</rdg>
+                <rdg resp="#K">pāhītyutāntāṅ</rdg> 
+                <note>Other possibilities we have taken into consideration include: <foreign>pāhīty anantāṅ / adāntāṅ / aśāntāṅ kṣitim, pāyāt samantāṅ kṣitim, pāhi tvam asmatkṣitim, pāty adya śāntāṅ / dāntāṅ kṣitim</foreign>. None seemed satisfactory.</note>
+                </app>
                 <app loc="A14"><lem>samrājya-</lem> ◇ the intended word is <em>sāmrājya-</em>. But it
                     is imaginable that for our author, <em>samrājya-</em> was an acceptable
                     form.</app>
