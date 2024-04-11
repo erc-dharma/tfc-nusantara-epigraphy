@@ -791,72 +791,146 @@
         <div n="B" subtype="face" type="textpart">
             <head xml:lang="eng">Old Javanese Text</head>
             <listApp>
-                <app loc="B1"><lem>va, śu</lem> ◇ D; <em>pa, bu</em> B K; <em>va, śa</em> P.</app>
-                <app loc="B1"><lem>caragraha</lem> ◇ <note>This term is anomalous. Elsewhere, one
-                        finds <foreign>grahacāra</foreign>. See Gomperts 2001: 107–110.</note></app>
-                <app loc="B1"><lem>-rabhadravānakṣatra</lem><rdg>-rabhadravānākṣatra</em> K;
-                        <em>-ra( )dratanakṣatra</em> B; <em>-rabhadrava(da) nakṣatra</em> P;
-                        <em>Uttarabhadravā(da)nakṣatra</em> D. <note>Emend to
-                            <foreign>-rabhadravādanakṣatra-</foreign>, as D presumably
-                        intended.</note></app>
-                <app loc="B1"><lem>-budhna-</lem> ◇ K D; <em>-budha-</em> B P.</app>
-                <app loc="B2"><lem>gara(ḍ)i-:</lem> ◇ <note>We tentatively follow D’s suggestion for
-                        the name of the <foreign>karaṇa</foreign>; <foreign>dadhi-</foreign> P. B
-                        and K leave the syllables in question open.</note></app>
-                <app loc="B2"><lem>rake</lem> ◇ B K; <em>rakai</em> P D.</app>
-                <app loc="B3"><lem>dhamasuparṇa(vā)haṇa tguh uttuṅga-</lem><rdg>dhamma suparṇa –
-                        hana tahutuṅgadeva</em> B; <em>dhamma suparṇa – haṇata hutuṅgadeva</em> K;
-                        <em>dharmmasuparṇacaraṇa tguh uttuṅga</em>- P; <em>dh(ā)ma suparṇavāhaṇa
-                        tguh uttuṅga</em>- D. <note>On the reading of the first element of the name,
-                        see Damais 1955: 66–7 n. 3. We reject Damais’ conclusion that the reading
-                        must be <foreign>dhāma</foreign>, because we see no trace in the RTI of the
-                            -<foreign>ā</foreign> suspected by Damais at the end of line 2. Although
-                        we thus read <foreign>dhama</foreign> instead of <foreign>dhāma</foreign>,
-                        on the grounds that the intended meaning of the name may have been ‘Viṣṇu
-                            (<foreign>suparṇavāhana</foreign>) in heaven
-                        (<foreign>dhāma</foreign>)’, we suppose that <foreign>dhāma</foreign> may
-                        indeed have been intended. <seg rend="check">Damais (1955: 184, 1976) read
-                            parts of the same name in the Pamotan and Pandaan stelas. It is now also
-                            found in the Sīma Aṅlayaṅ inscription: there is no real support for
-                            anything between <foreign>samaravijaya</foreign> and
-                                <foreign>suparṇa-</foreign>.</seg></note></app>
-                <app loc="B3"><lem>dānaśūra</lem> ◇ D; <em>janaśūra</em> P. <note>B and K leave these
-                        syllables blank.</note></app>
-                <app loc="B3"><note>The long lacuna of ca. 8+32 akṣaras seems likely to be a case of intentional
-                    erasure.</note></app>
-	            <lem></lem>
+                <app loc="B1">
+                <lem resp="#D">va, śu</lem> 
+                <rdg resp="#B #K">pa, bu</rdg> 
+                <rdg resp="#P">va, śa</rdg>
                 </app>
-            	<app loc="B3"><lem>Iṁ barahǝm·</lem>
+                <app loc="B1">
+                <lem>caragraha</lem> 
+                <note>This term is anomalous. Elsewhere, one finds <foreign>grahacāra</foreign>. See Gomperts 2001: 107–110.</note>
+                </app>
+                <app loc="B1">
+                <lem resp="#D">-Uttarabhadravā<supplied reason="omitted">da</supplied>-nakṣatra</lem>
+                <rdg resp="#K">-rabhadravānākṣatra</rdg>
+                <rdg resp="#B">-ra( )dratanakṣatra</rdg> 
+                <rdg resp="#P">-rabhadrava(da) nakṣatra</rdg> 
+                </app>
+                <app loc="B1">
+                <lem resp="#K #D">-budhna-</rdg> 
+                <rdg resp="#B #P">-budha-</rdg>
+                </app>
+                <app loc="B2">
+                <lem resp="#D">gara<unclear>ḍ</unclear>i-:</lem>
+                <note>We tentatively follow D’s suggestion for the name of the <foreign>karaṇa</foreign>; <foreign>dadhi-</foreign> P. B and K leave the syllables in question open.</note>
+                </app>
+                <app loc="B2">
+                <lem resp="#B #K">rake</lem> 
+                <rdg resp="#P #D">rakai</rdg>
+                </app>
+                <app loc="B3">
+                <lem>dhamasuparṇa<unclear>vā</unclear>haṇa tguh uttuṅga-</lem>
+                <rdg resp="#B">dhamma suparṇa – hana tahutuṅgadeva</rdg> 
+                <rdg resp="#K">dhamma suparṇa – haṇata hutuṅgadeva</rdg>
+                <rdg resp="#P">dharmmasuparṇacaraṇa tguh uttuṅga-</rdg> 
+                <rdg resp="#D">dh(ā)ma suparṇavāhaṇa tguh uttuṅga-</rdg> 
+                <note>On the reading of the first element of the name, see Damais 1955: 66–7 n. 3. We reject Damais’ conclusion that the reading must be <foreign>dhāma</foreign>, because we see no trace in the RTI of the -<foreign>ā</foreign> suspected by Damais at the end of line 2. Although we thus read <foreign>dhama</foreign> instead of <foreign>dhāma</foreign>, on the grounds that the intended meaning of the name may have been ‘Viṣṇu (<foreign>suparṇavāhana</foreign>) in heaven  (<foreign>dhāma</foreign>)’, we suppose that <foreign>dhāma</foreign> may indeed have been intended. <!--Damais (1955: 184, 1976) read parts of the same name in the Pamotan and Pandaan stelas. It is now also found in the Sīma Aṅlayaṅ inscription: there is no real support for anything between <foreign>samaravijaya</foreign> and
+                <foreign>suparṇa-</foreign>.--></note>
+                </app>
+                <app loc="B3">
+                <lem resp="#D">dānaśūra</lem> 
+                <rdg resp="#P">janaśūra</rdg> 
+                <note>B and K leave these syllables blank.</note>
+                </app>
+                <app loc="B3">
+                <lem></lem>
+                <note>The long lacuna of ca. 8+32 akṣaras seems likely to be a case of intentional erasure.</note>
+                </app>
+            	<app loc="B3">
+                <lem>Iṁ barahǝm·</lem>
                 <note>After <foreign>dharmmamūrtti</foreign> B leaves the syllables blank until <foreign>niṅ</foreign> <foreign>barahǝm·</foreign>. K has <foreign>dharmamūrti <gap quantity="11" reason="lost" unit="character"/> kǝ <gap quantity="5" reason="lost" unit="character"/> maṅan, iṅ barahǝm.</foreign></note>
                 </app>
-                <app loc="B3"><lem>bapuri</lem> ◇ D; <em>śapuri</em> P; <em>basuri</em> B K.</app>
-                <app loc="B5"><lem>939</lem> ◇ P; 938 (928) B; 928 K.</app>
-                <app loc="B5"><lem>ri pra(hāra)</lem><rdg>ri prahara</em> P; <em>mra</em>? – – K. B
-                    leaves these syllables blank.</app>
-                <app loc="B5"><lem>An· vijil·</lem> ◇ B K; <em>masǝ: mijil</em> P.</app>
-                <app loc="B5"><lem>-rŭpa-</lem><rdg>-rūpa-</em> B K P.</app>
-                <app loc="B7"><lem>vālaka</lem> ◇ P; <em>vālajaka</em> B; <em>vāla, ka</em> K.</app>
-                <app loc="B7"><lem>dahat·</lem> ◇ K P; <em>dahat iṁ</em> B.</app>
-                <app loc="B7"><lem>rarenira</lem><rdg>rarainira</em> B K P.</app>
-                <app loc="B7"><lem>enak·</lem> ◇ K P; <em>enāk</em> B.</app>
-                <app loc="B7"><lem>baṅǝtni</lem> ◇ P; <em>baṅǝṅgi</em> B K.</app>
-                <app loc="B8"><lem>pasarikǝpany</lem><rdg>pasariṅkǝpany</em> B P;
-                        <em>sapariṅkǝpany</em> K.</app>
-                <app loc="B8"><lem>sākṣāt(n)iran</lem><rdg>sākṣāt iran</em> B K;
-                        <em>sakṣātiran</em> P.</app>
-                <app loc="B8"><lem>Inahākǝn</lem> ◇ B K; <em>Innahakǝn</em> P.</app>
-                <app loc="B8"><lem>kavaśa</lem> ◇ K P; <em>livaśa</em> B.</app>
-                <app loc="B8"><lem>paṅava(śaniṁ)</lem> ◇ P; <em>paṅavananiṁ</em> B; <em>paṅavara
-                        niṁ</em> K.</app>
-                <app loc="B8"><lem>maṅantīri</lem><rdg>maṅanti ri</em> B K P.</app>
-                <app loc="B8"><lem>-niṁ vanagiri</lem> ◇ B; -<em>ni vanagiri</em> K; -<em>iṅ
-                        vanagiri</em> P.</app>
-                <app loc="B9"><lem>lāvan·</lem> ◇ K P; <em>lavan</em> B.</app>
-                <app loc="B9"><lem>saṅ e(kā)ntapratipatti</lem> ◇ <gap quantity="4" reason="lost" unit="character"/>
-                    <em>nta pradipatti</em> B; <gap quantity="4" reason="lost" unit="character"/>
-                    <em>nta pratipatti</em> K; <em>samekāntapratipatti</em> P.</app>
-                <app loc="B9"><lem>– – [j]ña ta tanupacāran· bhaktiprahva ri</lem><rdg><gap quantity="3" reason="lost" unit="character"/> tanu – – n – – pra –
-                        ri</em> B; <em>– tanu <gap quantity="4" reason="lost" unit="character"/> n –
+                <app loc="B3">
+                <lem resp="#D">bapuri</lem> 
+                <rdg resp="#P">śapuri</rdg> 
+                <rdg resp="#B #K">basuri</rdg>
+                </app>
+                <app loc="B5">
+                <lem resp="#P">939</lem> 
+                <rdg resp="#B">938 (928)</rdg> 
+                <rdg resp="#K">928</rdg>
+                </app>
+                <app loc="B5">
+                <lem>ri pra<unclear>hāra</unclear></lem>
+                <rdg resp="#P">ri prahara</rdg> 
+                <rdg resp="#K">mra?– –</rdg> 
+                <note>B leaves these syllables blank.</note>
+                </app>
+                <app loc="B5">
+                <lem resp="#B #K">An· vijil·</lem> 
+                <rdg resp="#P">masǝ: mijil</rdg>
+                </app>
+                <app loc="B5">
+                <lem>-rŭpa-</lem>
+                <rdg resp="#B #K #P">-rūpa-</rdg>
+                </app>
+                <app loc="B7">
+                <lem resp="#P">vālaka</lem> 
+                <rdg resp="#B">vālajaka</rdg> 
+                <rdg resp="#K">vāla, ka</rdg>
+                </app>
+                <app loc="B7">
+                <lem resp="#K #P">dahat·</lem> 
+                <rdg resp="#B">dahat iṁ</rdg>
+                </app>
+                <app loc="B7">
+                <lem>rarenira</lem>
+                <rdg resp="#B #K #P">rarainira</rdg>
+                </app>
+                <app loc="B7">
+                <lem resp="#K #P">enak·</lem> 
+                <rdg resp="#B">enāk</rdg>
+                </app>
+                <app loc="B7">
+                <lem resp="#P">baṅǝtni</lem> 
+                <rdg resp="#B #K">baṅǝṅgi</rdg>
+                </app>
+                <app loc="B8">
+                <lem>pasarikǝpany</lem>
+                <rdg resp="#B #P">pasariṅkǝpany</rdg>
+                <rdg resp="#K">sapariṅkǝpany</rdg>
+                </app>
+                <app loc="B8">
+                <lem>sākṣāt<unclear>n</unclear>iran</lem>
+                <rdg resp="#B #K">sākṣāt iran</rdg>
+                <rdg resp="#P">sakṣātiran</rdg>
+                </app>
+                <app loc="B8">
+                <lem resp="#B #K">Inahākǝn</lem> 
+                <rdg resp="#P">Innahakǝn</rdg>
+                </app>
+                <app loc="B8">
+                <lem resp="#K #P">kavaśa</lem> 
+                <rdg resp="#B">livaśa</rdg>
+                </app>
+                <app loc="B8">
+                <lem resp="#P">paṅava<unclear>śaniṁ</unclear></lem> 
+                <rdg resp="#B">paṅavananiṁ</rdg> 
+                <rdg resp="#K">paṅavara niṁ</rdg>
+                </app>
+                <app loc="B8">
+                <lem>maṅantīri</lem>
+                <rdg resp="#B #K #P">maṅanti ri</rdg>
+                </app>
+                <app loc="B8">
+                <lem resp="#B">-niṁ vanagiri</lem>
+                <rdg resp="#K">-ni vanagiri</rdg> 
+                <rdg resp="#P">-iṅ vanagiri</rdg>
+                </app>
+                <app loc="B9">
+                <lem resp="#K #P">lāvan·</lem> 
+                <rdg resp="#B">lavan</rdg>
+                </app>
+                <app loc="B9">
+                <lem>saṅ e<unclear>kā</unclear>ntapratipatti</lem> 
+                <rdg resp="#B"><gap quantity="4" reason="lost" unit="character"/>nta pradipatti</rdg> 
+                <rdg resp="#K"><gap quantity="4" reason="lost" unit="character"/>nta pratipatti</rdg> 
+                <rdg resp="#P">samekāntapratipatti</rdg>
+                </app>
+                <app loc="B9">
+                <lem>– – [j]ña ta tanupacāran· bhaktiprahva ri</lem>
+                <rdg><gap quantity="3" reason="lost" unit="character"/> tanu – – n – – pra – ri</em> B; 
+                <em>– tanu <gap quantity="4" reason="lost" unit="character"/> n –
                         – prahva ri</em> K; <em>Umaṅga tatan upakaran bhakti sraddha ri</em> P.
                         <note>A <foreign>d</foreign> seems faintly discernible where P read
                             <foreign>U</foreign>. But the most likely restitutions seem to be
