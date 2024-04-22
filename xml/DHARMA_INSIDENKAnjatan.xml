@@ -324,9 +324,9 @@ along with the paddy-fields which are land of the Aṅin-aṅin group. Therefore
 <!-- http://kebudayaan.kemdikbud.go.id/bpcbyogyakarta/prasasti-nganjatan-i/ -->
 <!-- http://kebudayaan.kemdikbud.go.id/bpcbyogyakarta/prasasti-nganjatan-ii/ -->
         	<listBibl type="primary">
-		<bibl n="RMS"><ptr target="bib:RitaMargarethaSetianingsih1996_01"/></bibl>
-		<bibl n="PAY2007"><ptr target="bib:HerniPramastuti+al2007_01"/><citedRange unit="page">97-108</citedRange></bibl>
-		<bibl n="PAY2015"><ptr target="bib:HerniPramastuti+al2015_01"/><citedRange unit="page">97-108</citedRange></bibl>
+		<bibl><ptr target="bib:RitaMargarethaSetianingsih1996_01"/></bibl>
+		<bibl><ptr target="bib:HerniPramastuti+al2007_01"/><citedRange unit="page">97-108</citedRange></bibl>
+		<bibl><ptr target="bib:HerniPramastuti+al2015_01"/><citedRange unit="page">97-108</citedRange></bibl>
 	</listBibl>
            <listBibl type="secondary">
               <bibl/><!-- one <bibl/> per item of secondary bibliography -->
