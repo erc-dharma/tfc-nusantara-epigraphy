@@ -75,7 +75,7 @@
   </teiHeader>
   <text xml:space="preserve">
     <body>
-      <div type="edition" xml:lang="kaw-Latn">
+      <div type="edition" xml:lang="kaw-Latn" rendition="class:38769 maturity:83213">
 <p part="F"><pb n="6r" break="no"/><lb n="6r1" break="no"/>gī, makaprayojanā rī kapratīsubaddhanikaṁ suk ṣĭma dharmma śīma I Air kali, tan hananīṅ amuṅkil·-muṅkilā<surplus>,</surplus>ṅrudha maravaśa marīkṣīrṇnakna həL̥<g type="squiggleVertical">§</g><lb break="no" 
 n="6r2"/>m· yadyapin· ri dlāhaniṁ dlăha, nihan ta liṁnika,</p> <p>Om indaḥ ta kita kamu hyaṁ haricandanāga<surplus>,</surplus>styamaharṣi, pŭrvva, dakṣiṇa, paścima, mottaro<unclear><g type="squiggleVertical">§</g></unclear><lb 
 n="6r3" break="no"/>rddhaḍaḥ, ravi <supplied reason="omitted">śa</supplied>śi kṣity apaḥ teja bāyv ăkăśa ḍarmmăhorătra sandhyătraya, yakṣa răkṣasa piśăca, pretāsurā garuḍa gandharva kinnāra mahorāga
@@ -96,7 +96,7 @@ n="6v8"/>r· pəpədakən· vehən· prănantika, byəṅakən· riṁ mahārora
 <lb n="6v9"/>, lumpas ta saṁ viku sahopakara, kumuliliṅi paryyantānikaṁ suk ṣīma dharmma Ika Ai<space/>r kali, Umarpanakən· śivǎmbha ri saṁ hyaṁṅ i<g type="squiggleVertical">§</g></p>
       </div>
       <div type="apparatus">
-        <app loc="6r1">
+        <listApp><app loc="6r1">
           <lem>gī</lem>
           <note>gi B.</note>
         </app>
@@ -239,7 +239,7 @@ n="6v8"/>r· pəpədakən· vehən· prănantika, byəṅakən· riṁ mahārora
         <app loc="6v9">
           <lem>śivǎmbha ri</lem>
           <note>sivam bhari B.</note>
-        </app>
+        </app></listApp>
       </div>
       <div type="bibliography">
         <p>Read from Leiden rubbings of the plate in January 2022. Kern’s readings still to be collated. The sigla Br and Na refer to Brandes’ and Nakada’s editions, respectively. In view of the fact that the fifth section was read by Kern and Nakada, both of them yielding rather different readings, for this part I use the siglum K, which stands for Kern. </p>
