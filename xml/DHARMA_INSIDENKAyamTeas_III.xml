@@ -8,7 +8,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Ayam Teas III (822 Ś – 901-01-01)</title>
+            <title>Charter of Ayam Teas III (822 Śaka, 901-01-01)</title>
             <respStmt>
                <resp>EpiDoc Encoding</resp>
                <persName ref="part:wjsa">
@@ -82,6 +82,7 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
+      <change who="part:wjsa" when="2024-04-17">Fixing xml errors</change>
        <change who="part:wjsa" when="2023-09-26">Correcting xml format</change>
          <change who="part:axja" when="2022-08-16">Transforming docx into xml</change>
       </revisionDesc>
@@ -89,7 +90,7 @@
    <text xml:space="preserve">
            <body> 
               <div type="edition" xml:lang="kaw-Latn">
-                    <p><pb n="1r"/><lb n="1r1"/><g type="ddanda">.</g> svasti śakavarṣātīta <num value="822">822</num> punaḥ-poṣyamāsa <num value="8">asṭami</num> suklapakṣa<unclear>,</unclear> <abbr>ha</abbr>, <abbr>ka</abbr><supplied reason="omitted">,</supplied> vr̥<supplied reason="omitted">,</supplied> văra, tatkăla Ăjñă śrĭ mahărăja <abbr>rake</abbr> vatu kura
+                    <p><pb n="1r"/><lb n="1r1"/><g type="ddanda">.</g> svasti śaka-varṣātīta <num value="822">822</num> punaḥ-poṣyamāsa <num value="8">asṭami</num> suklapakṣa<unclear>,</unclear> <abbr>ha</abbr>, <abbr>ka</abbr><supplied reason="omitted">,</supplied> vr̥<supplied reason="omitted">,</supplied> văra, tatkăla Ăjñă śrĭ mahărăja <abbr>rake</abbr> vatu kura
                     <lb n="1r2"/>dyaḥ dharmmodaya mahāsambhu tumurun· I rak<supplied reason="omitted">r</supplied>ya<supplied reason="omitted">n·</supplied> mapatiḥ I hino pu bahubajrapratipakṣakṣaya <abbr>rake</abbr> halu pu sa<supplied reason="omitted">ṁ</supplied>grāmadh<choice><sic>a</sic><corr>u</corr></choice>ra<supplied reason="omitted">n</supplied>dhara <abbr>ra<lb break="no"
                     n="1r3"/>ke</abbr> sirikan· pu samaravikră<choice><orig>ṇ</orig><reg>n</reg></choice>ta <abbr>rake</abbr> vka pu bhasvara <abbr>rake</abbr> pagar vsi pu vĭravikrama <abbr>rake</abbr> bava<supplied reason="omitted">ṁ</supplied> pu malavan· samagat· tiruAn· pu <choice><orig>s</orig><reg>ś</reg></choice>ivăstra ma<unclear>ṁ</unclear>hu</p>
                     <p><lb n="1r4" break="no"/>ri pu cakra vadihati pu ḍapit· makudur· pu samvrida kumonakan· Ikan·ni<unclear>ṁ</unclear> vanuA sĭma Ayam· təAs· kabeḥ hi<supplied reason="omitted">ṁ</supplied>hiṅana Ikanaṁ ma<lb  break="no"
@@ -101,14 +102,13 @@
                     <lb n="1v3"/> <unclear>sa</unclear>prakarani duAl· pinikul· kalima ba<unclear>ntal· I sa</unclear>tuhan· pikullanya paṇḍ<choice><sic>a</sic><corr>i</corr></choice> Amas· ta<supplied reason="omitted">m</supplied>baga gaṁsa vs<choice><sic>a</sic><corr>i</corr></choice> sobuban· I satuhan·
                     <lb n="1v4"/>manənan· cadar· <num value="4">pata<supplied reason="omitted">ṁ</supplied></num> pacadaran· I sasĭma ma<unclear>para</unclear>hu kabeḥ hana r<supplied reason="omitted">y </supplied>ayam· təAs· 3 kapva mat<choice><sic>a</sic><corr>u</corr></choice>gallan· tuḍan· suhara 3 
                     <lb n="1v5"/>I satuḍan· samakana salaha de saṁ maṅilala drabvya haji, saparanyan· maAdaṁ Al·lavəlli I sapradesa kabeḥ
-                    <lb n="1v6"/>makana pra<unclear>pya</unclear>ṭī I Aya<choice><unclear>hi</unclear><corr>m tə</corr></choice>As·</p></div>
+                    <lb n="1v6"/>makana pra<unclear>pya</unclear>ṭī I Aya<choice><sic><unclear>hi</unclear></sic><corr>m tə</corr></choice>As·</p></div>
                <div type="apparatus"/>
                <div type="commentary">
-                 <p/>        
+                 <p>The text is inscribed on both sides of a single copperplate, registered at the Prambanan office of the BPK X, with inventory number 1327.</p>
                </div>  
                <div type="bibliography">
-                      <bibl>BPPP Prambanan nr. inv. 1327</bibl>
-                      <bibl>Supraptiningsih, ‘Prasasti Ayam Teas: Temuan baru dari Kab. Wonogiri’ (1991) Diskusi Ilmiah Epigrafi</bibl>
+                      <bibl><ptr target="bib:Supraptiningsih1991_01"/></bibl>
                </div>
            </body>
    </text>
