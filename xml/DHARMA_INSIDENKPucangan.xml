@@ -806,7 +806,7 @@
                 <rdg resp="#P">-rabhadrava(da) nakṣatra</rdg> 
                 </app>
                 <app loc="B1">
-                <lem resp="#K #D">-budhna-</rdg> 
+                <lem resp="#K #D">-budhna-</lem> 
                 <rdg resp="#B #P">-budha-</rdg>
                 </app>
                 <app loc="B2">
@@ -1025,7 +1025,7 @@
                 </app>
                 <app loc="B13">
                 <lem resp="#K #P">-devata</lem> 
-                <rdg resp="#B">-devatā</edg>
+                <rdg resp="#B">-devatā</rdg>
                 </app>
                 <app loc="B13">
                 <lem>kr̥tasaṁskāra, pratiṣṭa</lem>
@@ -1104,7 +1104,7 @@
                 <rdg resp="#P">riṁ bhaṭara, deni kasiṅheśvaranira</rdg>
                 </app>
                 <app loc="B17">
-                <lem resp="#P">marava<unclear>śā</unclear>k<unclear>ǝ</unclear>n·</rdg> 
+                <lem resp="#P">marava<unclear>śā</unclear>k<unclear>ǝ</unclear>n·</lem> 
                 <rdg resp="#B">mara <gap quantity="3" reason="lost" unit="character"/> ni</rdg> 
                 <rdg resp="#K">mara <gap quantity="5" reason="lost" unit="character"/> ni</rdg>
                 </app>
@@ -1125,8 +1125,8 @@
                 </app>
                 <app loc="B17">
                 <lem>pra<unclear>bheda</unclear> <gap quantity="4" reason="lost" unit="character"/> dru<unclear>ha</unclear> <gap quantity="6" reason="lost" unit="character"/></lem>
-                <rdg resp="#K">prabheda <gap quantity="3" reason="lost" unit="character"/> <gap quantity="9" reason="lost" unit="character"/></rdg>
-                <rdg resp="#K">prabheda</em> <gap quantity="5" reason="lost" unit="character"/></rdg>
+                <rdg resp="#B">prabheda <gap quantity="12" reason="lost" unit="character"/></rdg> 
+                <rdg resp="#K">prabheda <gap quantity="5" reason="lost" unit="character"/></rdg>
                 </app>
                 <app loc="B18">
                 <lem resp="#B">ṅ inaranan·</lem> 
@@ -1149,18 +1149,18 @@
                 </app>
                 <app loc="B18">
                 <lem>I <gap quantity="1" reason="lost" unit="character"/> <unclear>tta</unclear> s<unclear>ama</unclear> <gap quantity="2" reason="lost" unit="character"/> <unclear>n</unclear>ya</lem>
-                <rdg resp="#B">ikā</em> <gap quantity="6" reason="lost" unit="character"/></rdg> 
-                <rdg resp="#K">ikā</em> <gap quantity="2" reason="lost" unit="character"/></rdg>
+                <rdg resp="#B">ikā <gap quantity="6" reason="lost" unit="character"/></rdg> 
+                <rdg resp="#K">ikā <gap quantity="2" reason="lost" unit="character"/></rdg>
                 </app>
                 <app loc="B18">
                 <lem>de śrī mahārāja, ṅuni-ṅuni haji tṅaḥ <gap quantity="7" reason="lost" unit="character"/> sapuluḥ</lem>
-                <rdg resp="#B">de śrī mahā</em> <gap quantity="16" reason="lost" unit="character"/></rdg> 
-                <rdg resp="#K">de śrī mahārāja ṅuni ṅuni haji</em> <gap quantity="3" reason="lost" unit="character"/></rdg>
+                <rdg resp="#B">de śrī mahā <gap quantity="16" reason="lost" unit="character"/></rdg> 
+                <rdg resp="#K">de śrī mahārāja ṅuni ṅuni haji <gap quantity="3" reason="lost" unit="character"/></rdg>
                 </app>
                 <app loc="B19">
                 <lem>paṁ<unclear>di</unclear>ri, pinakarovaṁ mad<unclear>v</unclear>andva yuddha ca<unclear>kra</unclear><gap quantity="10" reason="lost" unit="character"/><unclear>vv</unclear>at· pinja<unclear>han iṁ</unclear></lem> 
-                <rdg resp="#B"><gap quantity="15" reason="lost" unit="character"/><em>rika <gap quantity="5" reason="lost" unit="character"/>nasikanaṅ sarat pinjahaniṅ</rdg> 
-                <rdg resp="#K"><em><gap quantity="2" reason="lost" unit="character"/>diri (?) <gap quantity="5" reason="lost" unit="character"/>rika <gap quantity="6" reason="lost" unit="character"/> ikanaṅ sarat pinjahan, iṅ</rdg>
+                <rdg resp="#B"><gap quantity="15" reason="lost" unit="character"/>rika <gap quantity="5" reason="lost" unit="character"/>nasikanaṅ sarat pinjahaniṅ</rdg> 
+                <rdg resp="#K"><gap quantity="2" reason="lost" unit="character"/>diri (?) <gap quantity="5" reason="lost" unit="character"/>rika <gap quantity="6" reason="lost" unit="character"/> ikanaṅ sarat pinjahan, iṅ</rdg>
                 </app>
                 <app loc="B19">
                 <lem>vaṅuntur· mvaṁ saṅ ibu Irikāṁ</lem>
@@ -1192,7 +1192,7 @@
                 <lem>saṅa ta ha<unclear>jy a</unclear>n·</lem>
                 <rdg resp="#B">sa<gap quantity="4" reason="lost" unit="character"/>n</rdg> 
                 <rdg resp="#K">samāhvayan</rdg> 
-                <note>A problem with our tentative reading is that we don’t really expect sandhi to be applied to <foreign>haji An</foreign>.
+                <note>A problem with our tentative reading is that we don’t really expect sandhi to be applied to <foreign>haji An</foreign>.</note>
                 </app>
                 <app loc="B21">
                 <lem>vaṅk<unclear>ǝ</unclear>r·</lem>
@@ -1207,7 +1207,7 @@
                 </app>
                 <app loc="B21">
                 <lem>mvaṁ tinuluy <unclear>hani</unclear>hanitu<supplied reason="lost">n</supplied>i <gap quantity="8" reason="lost" unit="character"/></lem>
-                <rdg resp="#B">maṁkinakuyanahani</em> <gap quantity="10" reason="lost" unit="character"/>ḥ</rdg> 
+                <rdg resp="#B">maṁkinakuyanahani <gap quantity="10" reason="lost" unit="character"/>ḥ</rdg> 
                 <rdg resp="#K">maṅkin<gap quantity="2" reason="lost" unit="character"/> hanitu <gap quantity="2" reason="lost" unit="character"/>ḥ</rdg>
                 <note>The ostensible conjunct <foreign>yh</foreign> is hard to recognize and perhaps not so likely. If, as seems nevertheless quite likely, the passage is parallel to the one in line 26, we can fill in the first part of the gap with <foreign><unclear>hani</unclear>hanitu<supplied reason="lost">n</supplied>iṁ yadadvīpa</foreign>, leaving about 4 <foreign>akṣara</foreign>s unaccounted for.</note>
                 </app>
@@ -1219,7 +1219,7 @@
                 <app loc="B22">
                 <lem>tinūtnikāṁ</lem>
                 <rdg resp="#B">bunutnikāṁ</rdg> <!--with note “<foreign>bunut-tunuk</foreign>” -->
-                <rdg resp="#K">tinūt? nikāń</edg> <!-- (with a question mark presumably because the vocalization, very faint in the RTI, was also faint in the reproduction he had access to).-->
+                <rdg resp="#K">tinūt? nikāń</rdg> <!-- (with a question mark presumably because the vocalization, very faint in the RTI, was also faint in the reproduction he had access to).-->
                 </app>
                 <app loc="B22">
                 <lem>sināhasan</lem>
@@ -1276,7 +1276,7 @@
                 </app>
                 <app loc="B26">
                 <lem>h<unclear>ī</unclear>ṅa<unclear>nyan·</unclear> śrī mahārāja <supplied reason="lost">sa</supplied><unclear>ṅka</unclear>ni</lem>
-                <rdg resp="#B">hiṅanya</em> – – mahārāja maṅkana</rdg> 
+                <rdg resp="#B">hiṅanya – – mahārāja maṅkana</rdg> 
                 <rdg resp="#K">hīṅan ya – mahārāja, saṅkani</rdg> 
                 <note>We feel quite uncertain about the readings <foreign>hīṅanyan</foreign>· and <foreign>saṅkani</foreign>, but believe the punctuation sign read by Kern cannot have been present if the text really contained both these words. However, there does seem to be enough space for such a punctuation sign or even for a whole extra <foreign>akṣara</foreign> between the <foreign>ja</foreign> and the <foreign>akṣara</foreign> restored as <foreign>sa</foreign>.</note>
                 </app>
@@ -1290,7 +1290,7 @@
                 </app>
                 <app loc="B26">
                 <lem resp="#K">kramani kahilaṁ</lem>
-                <lem resp="#B">kramanika hilaṁ</rdg>
+                <rdg resp="#B">kramanika hilaṁ</rdg>
                 </app>
                 <app loc="B26">
                 <lem><supplied reason="lost">mū</supplied>la kaḍatvani<unclear>ra</unclear></lem>
@@ -1384,7 +1384,7 @@
                 </app>
                 <app loc="B32">
                 <lem resp="#K">mantras<unclear>t</unclear>avanamaskāra</lem>
-                <rdg resp="#B"><em>mantrasta – namastāra</rdg>
+                <rdg resp="#B">mantrasta – namastāra</rdg>
                 <note>Brandes’ note “<foreign>( )namastāra-vana sangskāra</foreign>” reveals that he had really not understood the present passage.</note>
                 </app>
                 <app loc="B32">
