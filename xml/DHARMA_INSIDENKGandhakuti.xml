@@ -93,12 +93,12 @@
          <change who="part:ekba" when="2020-02-07" status="draft">Added the bibliography</change>
          <change who="part:ekba" when="2020-01-31" status="draft">Revised the initial encoding</change>
          <change who="part:axja" when="2020-01-09" status="draft">Update the template</change>
-         <change who="part:ekba" when="2019" status="draft">Initial encoding</change>
+         <change who="part:ekba" when="2019-09-10" status="draft">Initial encoding</change>
       </revisionDesc>
    </teiHeader>
    <text xml:space="preserve">
         <body>
-            <div type="edition" xml:lang="kaw-Latn">
+            <div type="edition" xml:lang="kaw-Latn" rendition="class:38769 maturity:83213">
 <p>
 <pb n="1r"/>
 <lb n="1r1"/><g type="circleTarget"/> <g type="dashDoubledot"/><g type="circleTarget"/> svasti śakavarṣătĭtta , I saka, <num value="964">964</num>, mărgga<supplied reason="omitted">śira</supplied>măśa, tithi, navamĭ sūklapakṣa, tuṁ, pa, bu, vāra, vuyai Uta Aṣṭade<lb n="1r2" break="no"/>śa, Uttarabhadravadanakṣatra, Ahibuddhādevata, vāra Ika ta divaśa turunya, nugrahanira Aji pāduka mpuṅku saṁ pina<lb n="1r3" break="no"/>khacatraniṁ bhuvaṇa, śevakasaptati mpu mogha mr<choice><orig>a</orig><reg>ār</reg></choice>th<choice><orig>ā</orig><reg>a</reg></choice>n<choice><orig>a</orig><reg>ā</reg></choice>kən· kaha<surplus>kaha</surplus>yvaknaniṁ bhūvaṇa, tlas· karuhun di:rghayūraro<g type="squiggleVertical">§</g><lb n="1r4" break="no"/>gya haji pāduka mpūṅku, tumurun· tan pahāmbāl· turuny anugrahanira, matəkəta sira L̥̄maḥ, Irikaṁ rāma I kambaṁ śrī, ma<lb n="1r5" break="no"/>s <abbr>sū</abbr> <num value="10">10</num>, <abbr>mā</abbr> <num value="10">10</num>, ri lmaḥniṁ paniklan· sūsūr· mpū bhoma, turuny anugrahanira, vkanira Innahaknira ri dharmma gandhakuṭi Iṁ kā<pb n="1v" break="no"/><fw n="1v" place="left"><num value="1">1</num></fw><lb n="1v1" break="no"/>mbaṁ śrī, denira Aji pāduka mpūṅku, Ika Um<choice><sic>guṁ</sic><corr>uṅgu</corr></choice> riṁ dharmma gandhakuṭi Iṁ kambaṁ śrī, vkanira vnaṁṅāṅāṅgva payuṁ kut limo, vnaṁ Apayūṁṅa pa<lb n="1v2" break="no"/>gut· sūsūn· putiḥ, vnaṁ Aṅāṅgva savatək i jro nāgara kabaiḥ, vnaṁ Agilaṁgilaṁ gaḍiṁ, vnaṁṅ amaṅana rājamaṅśa, kadyaṅganiṁ vḍus gu<lb n="1v3" break="no"/>ntiṁ, baḍavaṁ, karuṁ puliḥ, karuṁ matiṅ gantuṅan·, taluvaḥ, Asu sər·, Avavara sĕmpal·, Apalaṅka binubut· riṁ balai, ma<add place="below" rend="mark">ra</add>bya ḍa<lb n="1v4" break="no"/>yaṁ, Ahuluna ḍayaṁ, pujut· jə:ṅgi, Amu<choice><orig><unclear>ṁ</unclear>puh a</orig><reg>puhā</reg></choice>ṅrahana, Aṁguntiṅamupuheṁ tumpər·, tan sikaran deniṁ Air aji, vnaṁ Ariṁriṁ banantən·
@@ -108,7 +108,7 @@
  <fw n="2v" place="left"><num value="2">2</num></fw>
  <lb n="2v1"/>Inanakĕn de bhaṭāra prājapati, tan kahavāta sira deni doṣānya saṅke saṅkanya, maṅkana tiṅkaḥ saṁ hyaṁ dharmma gandhakuṭi riṁ kambaṁ śri, su<lb n="2v2" break="no"/>suk· dharmma paniklan susurira Aji pādukā mpuṅku, katmva de santāna prātisantānira, Anak putu buyut· cicik muniṁ pituṁ
 <lb n="2v3"/>Aṅ<unclear>ś</unclear>a siraji pādukā mpuṅku, saṁ muṅgu Iṁ dharmma gandhakuṭi Iṁ kambaṁ śrī, nihan turuni Anugrahanira, paniṁkahnira Aji pādukā
-<lb n="2v4"/>mpuṅku, kunəṁ ri s<unclear>ḍ</unclear>əṅanyan parasrayaṁnaniṅ ahutaṁ saṅke saṁkanya, yan satahil hutaṁnikaṁ vvaṁ, <abbr>mā</abbr> <num value="2">2</num>, panatalanya, ya<supplied reason="omitted">n</supplied> sor saṅkeri<lb n="2v5" break="no"/>ka, saya<choice><orig>ta</orig><reg>thā</reg></choice>sambhava panatalanya, maṅkana rāṣany ajñā pāduka śrī mahărājā Aji pāduka mpuṅku, vnaṅ aṅ<choice><sic><orig>k</orig><corr>g</corr></sic></choice>untiṁ rarai riṁ palaṅka sūsū<pb n="3r" break="no"/><fw n="3r" place="left"><num value="3">3</num></fw><lb n="3r1" break="no"/>n binubut·, tan kaknana vulu paravulu, ludan tutan·, ḍampulan· lañcuran·, hopan·, kipaḥ-kipaḥ, tuluṁ byət·, pi<lb n="3r2" break="no"/>nta palaku, Aṅśa pratya<choice><sic>kṣ</sic><corr>ṅś</corr></choice>a, ḍaṇḍa kuḍaṇḍa, skar tahun·, pamavaṣya, sūṁsūṁ paṅuraṁ, sūṁsūṁ partaya nāyāka, kriṁ limbakavaḥ,
+<lb n="2v4"/>mpuṅku, kunəṁ ri s<unclear>ḍ</unclear>əṅanyan parasrayaṁnaniṅ ahutaṁ saṅke saṁkanya, yan satahil hutaṁnikaṁ vvaṁ, <abbr>mā</abbr> <num value="2">2</num>, panatalanya, ya<supplied reason="omitted">n</supplied> sor saṅkeri<lb n="2v5" break="no"/>ka, saya<choice><orig>ta</orig><reg>thā</reg></choice>sambhava panatalanya, maṅkana rāṣany ajñā pāduka śrī mahărājā Aji pāduka mpuṅku, vnaṅ aṅ<choice><sic>k</sic><corr>g</corr></choice>untiṁ rarai riṁ palaṅka sūsū<pb n="3r" break="no"/><fw n="3r" place="left"><num value="3">3</num></fw><lb n="3r1" break="no"/>n binubut·, tan kaknana vulu paravulu, ludan tutan·, ḍampulan· lañcuran·, hopan·, kipaḥ-kipaḥ, tuluṁ byət·, pi<lb n="3r2" break="no"/>nta palaku, Aṅśa pratya<choice><sic>kṣ</sic><corr>ṅś</corr></choice>a, ḍaṇḍa kuḍaṇḍa, skar tahun·, pamavaṣya, sūṁsūṁ paṅuraṁ, sūṁsūṁ partaya nāyāka, kriṁ limbakavaḥ,
 <lb n="3r3"/>paḍəm· limus· galuḥ, manimpiki, salyūt·, taṅkil· tr̥pan·, L̥̄bə<subst><del rend="corrected">b</del><add place="overstrike">L̥̄</add></subst>b·, sipat· vilu<del rend="strikeout">·</del><add place="below" rend="mark">t·</add>, pjaḥ lek·, palamak·,
 <lb n="3r4"/>tpuṁ kavuṁ, misra paramisra, misra hino, hulun haji, tapa haji, sambal·, sumbul·, kaR̥<surplus>ṁ</surplus>R̥ṅan· siṅgaḥ pabr̥si, ramanaṁ, rakā<lb n="3r5" break="no"/>dut·, bhūpati panarapati, valu rumambat iṁ natar·, raḥ kasavur iṁ natar·, vaṅkai kabunan·, paliḥ kuvu, Amijilakən·
 <lb n="3r6"/>vuryyaniṁ kikir·, malandaṁ, L̥̄ca, kutak·, taṅkil·, kataṅgaran·, piniṅhai, maṅugai, maguñjo, makalākalā, mā<pb n="3v" break="no"/><fw n="3v" place="left"><num value="3">3</num></fw><lb n="3v1" break="no"/>nahāb·, manambər·, manuk·, duhitək·, vli havu, vli vaduṁ, vli pañjut·, vli kadut·, juru jalu, juru kuruṁ, juru gusali, juru nambi,
@@ -333,8 +333,7 @@
                       <rdg source="bib:Boechari1985-1986_01 bib:NinnySusantiTejowasono2003_01">mahārāja</rdg>
                       </app>
                   <app loc="2v5">
-                      <lem>aṅ<choice><sic><orig>k</orig><corr>g</corr></sic></choice>untiṁ</lem>
-                      <rdg source="bib:Boechari1985-1986_01 bib:NinnySusantiTejowasono2003_01">aṅkuntiṁ</rdg>
+                      <lem source="bib:Boechari1985-1986_01 bib:NinnySusantiTejowasono2003_01">aṅ<choice><sic>k</sic><corr>g</corr></choice>untiṁ</lem>
                       </app>
                     <app loc="3r1">
                       <lem source="bib:NinnySusantiTejowasono2003_01">paravulu</lem>
@@ -486,13 +485,13 @@
                 <!--bibliography encoded as per section §9.4 -->
                 <p>First edited by Holle (<bibl rend="omitname"><ptr target="bib:Holle1883_01"/><citedRange unit="page">479-483</citedRange></bibl>); followed by Brandes and Krom (<bibl rend="omitname"><ptr target="bib:Brandes1913_01"/><citedRange unit="page">141-143</citedRange></bibl>); then by Boechari (<bibl rend="omitname"><ptr target="bib:Boechari1985-1986_01"/><citedRange unit="page">72-75</citedRange><citedRange unit="item">E.23</citedRange></bibl>); edited again by Ninny Susanti Tejowasono (<bibl rend="omitname"><ptr target="bib:NinnySusantiTejowasono2003_01"/><citedRange unit="page">456-467</citedRange><citedRange unit="item">no.15</citedRange></bibl>); re-edited here by Arlo Griffiths from photos of the rubbing kept in Leiden.</p>
                 <listBibl type="secondary">
-                    <bibl><ptr target="bib:NBG20_1882"/><date>1882</date><citedRange unit="volume">20</citedRange><citedRange unit="page">17, 63</citedRange></bibl>
+                    <bibl><ptr target="bib:NBG20_1882"/><citedRange unit="volume">20</citedRange><citedRange unit="page">17, 63</citedRange></bibl>
                   <bibl><ptr target="bib:Brandes1889_01"/><citedRange>112</citedRange></bibl>
                   <bibl><ptr target="bib:Verbeek1891_01"/><citedRange>9, 250</citedRange></bibl>
-                  <bibl><ptr target="bib:ROC"/><date>1905-1906</date><citedRange unit="page">120</citedRange></bibl>
+                  <bibl><ptr target="bib:ROC1905-1906"/><citedRange unit="page">120</citedRange></bibl>
                   <bibl><ptr target="bib:Krom1911_01"/><citedRange>249</citedRange></bibl>
-                  <bibl><ptr target="bib:NBG49_1911"/><date>1911</date><citedRange unit="volume">49</citedRange><citedRange unit="page">XXV</citedRange></bibl>
-                  <bibl><ptr target="bib:ROD"/><date>1915</date><citedRange unit="page">177</citedRange><citedRange unit="item">no.1612</citedRange></bibl>
+                  <bibl><ptr target="bib:NBG49_1911"/><citedRange unit="volume">49</citedRange><citedRange unit="page">XXV</citedRange></bibl>
+                  <bibl><ptr target="bib:ROD1915_01"/><citedRange unit="page">177</citedRange><citedRange unit="item">no.1612</citedRange></bibl>
                   <bibl><ptr target="bib:Krom1931_01"/><citedRange>270</citedRange></bibl>
                   <bibl><ptr target="bib:SoesadjatMintowaloejo1949_01"/><citedRange unit="page">270</citedRange><citedRange unit="item">no. 23a-d</citedRange></bibl>
                   <bibl><ptr target="bib:Damais1952_01"/><citedRange unit="page">64-65</citedRange><citedRange unit="item">A.142</citedRange></bibl>
