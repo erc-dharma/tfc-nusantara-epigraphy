@@ -97,7 +97,7 @@
     </teiHeader>
     <text xml:space="preserve">
       <body>
-      <div type="edition" xml:lang="kaw-Latn">
+      <div type="edition" xml:lang="kaw-Latn" rendition="class:38769 maturity:83213">
 <p><milestone type="pagelike" unit="face" n="A"/><label xml:lang="eng">Front</label><lb 
 n="A1"/>// Oṃ <choice><orig>Avīghnam</orig><reg>Avighnam</reg></choice> astu gaṇapataye namaḥ // svasti śaka-varṣātīta 851 baiśākha-māsa tithi navamī śukla-pakṣa <unclear>ma</unclear> <supplied reason="lost">U</supplied>
 <lb n="A2"/>ca vāra pūrvvaphālguṇī-nakṣatra, yoṇi-devatā, Āyuṣmān-yoga, Irikā divaśa rakryān·  hujuṁ pu madhura <choice><orig>lokānu<lb break="no" 
@@ -148,7 +148,7 @@ n="B21"/>n· saṁ balusyak· vinaiḥ pasək· mā 4 vḍihan· ragi yu 1 sova�
 n="B23"/>hamb<supplied reason="lost">i</supplied>nanī gu<supplied reason="lost">s</supplied>t<supplied reason="lost">i</supplied> <supplied reason="lost">pañjuruAn·</supplied> I pakāraṇān· Astuti, malavaṅ kāliḥ jaṅga krāndhaḥ, panaṅlar· bhoma, Ugal-ugal· səvu<supplied reason="lost">r·</supplied>
 <lb n="B24"/>juru kalaṁ sambī, tajuṅkilan· mḍaṁ gəntər· vinaiḥ mā 1 vḍi<supplied reason="lost">ha</supplied>n· <unclear>hlai</unclear> 1 sovaṁ-sovaṁ, vahuta paṅuñjaṅan· dhavala kamasi<lb break="no" 
 n="B25"/>han· putra laguntan· Unak· vinaiḥ pasək· mā 4 vḍihan· ragi yu 1 sovaṁ-sovaṁ, <supplied reason="lost">taṇ</supplied>ḍa rakryān· Ilu pinakasākṣī rikaṁ
-<lb n="B26"/>kāla, kanuruhan· dyaḥ mumpaṁ, vaharu pu <choice><corr>kalumpaṁ</corr></choice>, vinaiḥ pasək· mas· su 1 mā 4 vḍihan· pa<unclear>ḍ</unclear>i hlai 1 sovaṁ-<supplied reason="lost">sovaṁ saṁ tu</supplied><lb break="no" 
+<lb n="B26"/>kāla, kanuruhan· dyaḥ mumpaṁ, vaharu pu k<choice><sic>a</sic><corr>u</corr></choice>lumpaṁ, vinaiḥ pasək· mas· su 1 mā 4 vḍihan· pa<unclear>ḍ</unclear>i hlai 1 sovaṁ-<supplied reason="lost">sovaṁ saṁ tu</supplied><lb break="no" 
 n="B27"/>hān· I kanuruhan· saṁ ra baṇir saṁ ra vujaṁ, vuṅkal kiluṁ, saṁ părtha, vinaiḥ mas· su 1 mā 4 kinabaihānnira vḍihan· ragi hlai 1 so<lb break="no" n="B28"/>vaṁ-sovaṁ, tpi siriṁ Ilu pinakasākṣī rakryān·, juru gotra I kanuruhan· rakai paṅambuhan·, rakai siñjalan· vinaiḥ mā 4 vḍi<lb break="no" 
 n="B29"/>han· yu 1 sovaṁ-sovaṁ, gotra I tampuran· saṁ mādhava bapa dyaḥ damū muAṁ dyaḥ damū, vinaiḥ mā 2 vḍihan· hlai 1
 <lb n="B30"/>sovaṁ-sovaṁ devata kaki I balaṇḍit· saṁ śivarāśi vineḥ pasək· mā 4 punta I paṅavan· Uṅgər· pramukha, vinai<unclear>ḥ</unclear>
@@ -165,7 +165,7 @@ n="c9"/><supplied reason="lost">vaṁ</supplied>-sovaṁ, sama<surplus>ṁ</surp
 n="c11"/>n· kālaniṁ manusuk· ri tlas· I
 <lb n="c12"/>saṁ mapatiḥ vahuta rāma t<supplied reason="lost">p</supplied>i <supplied reason="lost">s</supplied>i<lb break="no" 
 n="c13"/>riṅ kabaiḥ vinaiḥ pasək·, k<supplied reason="lost">i</supplied><lb break="no" 
-n="c14"/>non· ta sira mapaktya, malūṅguḥ ya<lb break="no" 
+n="c14"/>non· ta sira mapaktya, mal<choice><orig>ū</orig><reg>u</reg></choice>ṅguḥ ya<lb break="no" 
 n="c15"/><unclear>th</unclear>ākrama, Irikāṁ tkan· pasak·
 <lb n="c16"/>lor· kidul·, kuluAn· veta<lb break="no" 
 n="c17"/><supplied reason="lost">n· Iri</supplied>kāṅ kalaṅan· ri himad·
@@ -358,7 +358,7 @@ n="f14"/><supplied reason="lost">nya</supplied>n· tlas· mapagəḥ <gap reason
 </app>
 <app loc="c14"><lem source="bib:Trigangga2003_01">k<supplied reason="lost">i</supplied>non</lem><rdg source="bib:Brandes1913_01"><gap reason="illegible" quantity="1" unit="character"/>non</rdg><rdg source="bib:Brandes1913_01"><gap reason="illegible" quantity="1" unit="character"/>nān</rdg>
 </app>
-<app loc="c14"><lem source="bib:Brandes1913_01 bib:Nakada1990_01"><choice><sic>malūṅguḥ</sic><reg>maluṅguḥ</reg></choice></lem><rdg source="bib:Trigangga2003_01">maṁluṅguḥ</rdg></app>
+<app loc="c14"><lem source="bib:Brandes1913_01 bib:Nakada1990_01">mal<choice><orig>ū</orig><reg>u</reg></choice>ṅguḥ</lem><rdg source="bib:Trigangga2003_01">maṁluṅguḥ</rdg></app>
 <app loc="c17"><lem source="bib:Brandes1913_01 bib:Trigangga2003_01">kalaṅan·</lem>
     <rdg source="bib:Nakada1990_01">kaluṅan·</rdg></app>
 <app loc="c20"><lem>suma<unclear reason="eccentric_ductus">ṅa</unclear>skāra</lem><rdg source="bib:Brandes1913_01"><gap reason="illegible" quantity="2" unit="character"/>ha<gap reason="illegible" quantity="2" unit="character"/></rdg><rdg source="bib:Nakada1990_01 bib:Trigangga2003_01">sumāṇaskāra</rdg></app>
@@ -445,7 +445,7 @@ n="f14"/><supplied reason="lost">nya</supplied>n· tlas· mapagəḥ <gap reason
                        <rdg source="bib:Trigangga2003_01">saṁka vuAṅananya</rdg>
                    </app>
 <app loc="d18"> 
-    <rdg source="bib:Nakada1990_01 bib:Trigangga2003_01">hadi<supplied reason="lost">A</supplied>n·</rdg>
+    <lem source="bib:Nakada1990_01 bib:Trigangga2003_01">hadi<supplied reason="lost">A</supplied>n·</lem>
     <rdg source="bib:Brandes1913_01">pa<gap reason="illegible" quantity="2" unit="character"/></rdg> </app>
 <app loc="d20"> 
     <lem>tadvaraha<supplied reason="lost">n·</supplied></lem>
