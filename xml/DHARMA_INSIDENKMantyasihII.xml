@@ -72,30 +72,31 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
+         <change who="part:wjsa" when="2024-04-24">Fixing up XML</change>
          <change who="part:axja" when="2022-08-16">Transforming docx into xml</change>
       </revisionDesc>
    </teiHeader>
    <text xml:space="preserve">
            <body> 
-              <div type="edition">
-           <div type="textpart">  
-<p><lb n="1"/>	|| 0 ||  svasti śaka<unclear>varṣā</unclear>tī<unclear>ta</unclear>              
-<lb n="2"/>	829	tra	thi
-<lb n="3"/>	         śī kr̥ṣṇapakṣa, tu. u. śa. vāra pūrbva
-<lb n="4"/>	         <unclear>na</unclear>kṣatra,       japā       devatā‚ indrayo
-<lb n="5"/>	         la ājña haji mahārāja rake vatu kurang dya<unclear>h</unclear>
-<lb n="6"/>	         śri dharmmodaya mahāśambhū umingsor i
-<lb n="7"/>	rakarayān mapatiḥ i hino‚ halu‚ sirikan,
-<lb n="8"/>	vka halaran, tiruan‚ palarhyang, manghuri, va
-<lb n="9"/>	dihati‚ makudur, kumonnakannikanang vanua i
-<lb n="10"/>	mantyasih vini<unclear>h</unclear> ni sava<unclear>h</unclear>nya satū‚ muang alasnya
-<lb n="11"/>	i muṇḍ<unclear>u</unclear>an, i kayu paṇḍa10, muang pomahan
-<lb n="12"/>	ikūni vanua katung<unclear>gu</unclear>an11 pasavaḥhanya ri vunut
-<lb n="13"/>	kvaiḥ ni viniḥ nya salə       maḍā      tan pa        guḥ ka
-<lb n="14"/>	nayakan, muang alasnya i susuṇḍa<unclear>ra</unclear>
-<lb n="15"/>	kapva vatak patapan susuk sīma ka
-<lb n="16"/>	patihan pagantyagantyananikanang patiḥ mantyasiḥ sā
-<lb n="17"/>	nak lāvasśānya tla tadan sovang‚ kvaiḥ nikanang pa
+              <div type="edition" xml:lang="kaw-Latn"> 
+<p><milestone type="pagelike" unit="face" n="A"/><label>Front</label><!-- §5.4. -->
+<lb n="A1"/>	|| 0 ||  svasti śaka<unclear>varṣā</unclear>tī<unclear>ta</unclear>              
+<lb n="A2"/>	829	tra	thi
+<lb n="A3"/>	         śī kr̥ṣṇapakṣa, tu. u. śa. vāra pūrbva
+<lb n="A4"/>	         <unclear>na</unclear>kṣatra,       japā       devatā‚ indrayo
+<lb n="A5"/>	         la ājña haji mahārāja rake vatu kurang dya<unclear>h</unclear>
+<lb n="A6"/>	         śri dharmmodaya mahāśambhū umingsor i
+<lb n="A7"/>	rakarayān mapatiḥ i hino‚ halu‚ sirikan,
+<lb n="A8"/>	vka halaran, tiruan‚ palarhyang, manghuri, va
+<lb n="A9"/>	dihati‚ makudur, kumonnakannikanang vanua i
+<lb n="A10"/>	mantyasih vini<unclear>h</unclear> ni sava<unclear>h</unclear>nya satū‚ muang alasnya
+<lb n="A11"/>	i muṇḍ<unclear>u</unclear>an, i kayu paṇḍa10, muang pomahan
+<lb n="A12"/>	ikūni vanua katung<unclear>gu</unclear>an11 pasavaḥhanya ri vunut
+<lb n="A13"/>	kvaiḥ ni viniḥ nya salə       maḍā      tan pa        guḥ ka
+<lb n="A14"/>	nayakan, muang alasnya i susuṇḍa<unclear>ra</unclear>
+<lb n="A15"/>	kapva vatak patapan susuk sīma ka
+<lb n="A16"/>	patihan pagantyagantyananikanang patiḥ mantyasiḥ sā
+<lb n="A17"/>	nak lāvasśānya tla tadan sovang‚ kvaiḥ nikanang pa
 </p>
            </div>
                 <div type="textpart">
@@ -120,25 +121,21 @@
 <lb n="17"/>	prakara ning mangilala drabya haji, kring, paḍamm apuy, tapa
 <lb n="18"/>	haji ai<unclear>r</unclear> haji, rataji‚ pakalangkang, mangrumbai, manimpiki.</p></div>
                        
-                   </div>
+                 
                        <div type="apparatus">
-                    <app loc="10">°Pañjang in 70 above.</app>
-                    <app loc="11">Kagunturan in 70.</app>
-                    <app loc="12">Kolā in 70.</app>
-                    <app loc="13">Udal in70.</app>
-                    <app loc="14">Kayut  in 70.</app>
-                    <app loc="15">Malangkuśeśvara in 70.</app>
+             
                        </div>
                  
                  <div type="bibliography">
-<p>Previously edited by Brandes in OJO, no. 27 [siglum B].</p>
                     <listBibl type="primary">
+                    <bibl><ptr target="bib:Brandes1913_01"/><citedRange unit="page">35-36</citedRange><citedRange unit="item">XXVII</citedRange></bibl>
+                    </listBibl>
+
+                    <listBibl type="secondary">
                     <bibl><ptr target="bib:Rouffaer1909_02"/><citedRange unit="page">LXXX</citedRange></bibl>
-                    <bibl>Rapp., 1911, p. 59</bibl>
-                    <bibl>OJO‚ p. 25, no. 27</bibl>
                     <bibl><ptr target="bib:Groeneveldt1887_01"/><citedRange unit="page">388</citedRange></bibl>
                     <bibl><ptr target="bib:Verbeek1891_01"/><citedRange unit="page">8</citedRange></bibl> 
-                    <bibl>OJO‚ p. 35</bibl>
+                    <bibl><ptr target="bib:Stutterheim1927_01"/><citedRange unit="page">172-216</citedRange></bibl>
                     </listBibl>
                  </div>
 
