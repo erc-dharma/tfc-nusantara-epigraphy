@@ -94,7 +94,7 @@
    </teiHeader>
    <text xml:space="preserve">
       <body>
-         <div type="edition" xml:lang="kaw-Latn">
+         <div type="edition" xml:lang="kaw-Latn" rendition="class:38769 maturity:83213">
              <p xml:lang="san-Latn"><!-- argr2ekba: I have created a separate <p> for the Sanskrit invocation, so I can apply the language tag to it; I am adding extra hyphenations in the first line --><pb n="1r"/>
                  <fw place="left" rend="tb-rotated" n="1r"><num value="1">1</num></fw>
 <lb n="1r1"/><g type="ddandaHooked">.</g> <g type="circleTarget">.</g> <g type="ddandaHooked">.</g> namo 'stu ṣad-vināyakāya <g type="ddandaHooked">.</g> <g type="circle">.</g> <g type="ddandaHooked">.</g></p> <p>svastī śaka-varṣātīta <num value="861">861</num> bhadravāda-māsa, tithi pañcami kr̥ṣṇa-pakṣa, <abbr>vā</abbr>, <abbr>pa</abbr>, <abbr>śu</abbr>, vāra, Aśvinī-nakṣatra, Aśvī-devatā, vi<lb 
@@ -537,7 +537,7 @@ n="4r11"/><unclear>I</unclear> tlas sa<unclear>ṁ</unclear> makudur maṅuyut·
                    </app>
                    <app loc="3r13">
                        <lem>lumakvānusu<lb n="3r14" break="no"/>k·</lem>
-                       <rdg source="bib:Wibowo1979_01">lumakva Anusu<lb/>k·</rdg>
+                       <rdg source="bib:Wibowo1979_01">lumakva Anusuk·</rdg>
                    </app>
                    <app loc="3r14">
                        <lem>harava <abbr>mā</abbr> <num value="10">10</num></lem>
@@ -648,7 +648,7 @@ n="4r11"/><unclear>I</unclear> tlas sa<unclear>ṁ</unclear> makudur maṅuyut·
                    <app loc="4r8">
                        <lem>jalamm er·</lem>
                        <rdg source="bib:Wibowo1979_01">jalamm ər·</rdg>
-                       <note>See the correction <foreign>dalam er</foreign> proposed in <bibl><ptr target="bib:Trigangga2003_01"/>, <citedRange>23</citedRange>, <citedRange unit="note">43</citedRange></bibl>). The same spelling is found in <ref target="DHARMA_INSIDENKLinggasuntan.xml">Linggasuntan</ref> face C, line 39 and <ref target="DHARMA_INSIDENKParadah2.xml">Paradah II</ref> (back line 34), <ref target="DHARMA_INSIDENKAnjukladang.xml">Anjuk Ladang</ref> back, line 19, and <ref target="DHARMA_INSIDENKRukam.xml">Rukam</ref> 2r18. On the other hand, <foreign>dalamm er·</foreign> is found in <ref target="DHARMA_INSIDENKParadah1.xml">Paradah I</ref> (2B13). The form <foreign>dalam air</foreign> is found in <ref target="DHARMA_INSIDENKGilikan.xml">Gilikan</ref> (first plate, v11).</note>
+                       <note>See the correction <foreign>dalam er</foreign> proposed in <bibl><ptr target="bib:Trigangga2003_01"/> <citedRange>23</citedRange><citedRange unit="note">43</citedRange></bibl>. The same spelling is found in <ref target="DHARMA_INSIDENKLinggasuntan.xml">Linggasuntan</ref> face C, line 39 and <ref target="DHARMA_INSIDENKParadah2.xml">Paradah II</ref> (back line 34), <ref target="DHARMA_INSIDENKAnjukladang.xml">Anjuk Ladang</ref> back, line 19, and <ref target="DHARMA_INSIDENKRukam.xml">Rukam</ref> 2r18. On the other hand, <foreign>dalamm er·</foreign> is found in <ref target="DHARMA_INSIDENKParadah1.xml">Paradah I</ref> (2B13). The form <foreign>dalam air</foreign> is found in <ref target="DHARMA_INSIDENKGilikan.xml">Gilikan</ref> (first plate, v11).</note>
                    </app>
                    <app loc="4r8">
                        <lem>ṅkānan·</lem>
