@@ -98,7 +98,7 @@
    </teiHeader>
    <text xml:space="preserve">
       <body>
-         <div type="edition" xml:lang="kaw-Latn">
+         <div type="edition" xml:lang="kaw-Latn" rendition="class:38769 maturity:83213">
 <pb n="1r"/><!--Blank outer page.-->
 <p xml:lang="san-Latn"><pb n="1v"/>
 <lb n="1v1"/><g type="ddandaOrnate"/><g type="circleTarget"/><g type="ddandaOrnate"/> Om̐ namaś śivāya <g type="ddandaOrnate"/></p> <p>svasti śaka-varṣātĭta, <num value="1188">1188</num>, māgha-māsa, tīthi, trayodaśī śu<lb n="1v2" break="no"/>kla-pakṣa,
@@ -178,8 +178,8 @@ samast<choice><orig>ā</orig><reg>a</reg></choice>-kṣatriya-cūḍāmaṇi-pat
                                                                         </bibl>
            </listBibl>
              <listBibl type="secondary">
-                 <bibl><ptr target="bib:NBG49_1911"/><date>1911</date><citedRange unit="volume">49</citedRange><citedRange unit="page">121</citedRange></bibl>
-                 <bibl><ptr target="bib:NBG50_1912"/><date>1912</date><citedRange unit="volume">50</citedRange><citedRange unit="page">77</citedRange></bibl>
+                 <bibl><ptr target="bib:NBG49_1911"/><citedRange unit="volume">49</citedRange><citedRange unit="page">121</citedRange></bibl>
+                 <bibl><ptr target="bib:NBG50_1912"/><citedRange unit="volume">50</citedRange><citedRange unit="page">77</citedRange></bibl>
                  <bibl><ptr target="bib:Damais1952_01"/><citedRange unit="page">72-73</citedRange><citedRange unit="item">A.172</citedRange></bibl>
                  <bibl><ptr target="bib:Damais1962_03"/><citedRange unit="page">414</citedRange><citedRange unit="note">6</citedRange></bibl>
                  <bibl><ptr target="bib:MuhammadYamin1962_01"/><citedRange unit="page">173-175</citedRange></bibl>
