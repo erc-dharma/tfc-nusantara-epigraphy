@@ -95,7 +95,7 @@
    </teiHeader>
    <text xml:space="preserve">
       <body>
-         <div type="edition" xml:lang="kaw-Latn">
+         <div type="edition" xml:lang="kaw-Latn" rendition="class:38769 maturity:83213">
 <p><pb n="1r"/>
 <lb n="1r1"/><g type="ddandaPlain"/> <g type="circleSmall"/> <g type="ddandaPlain"/> svasti śaka-varṣātīta <num value="849">849</num> beśākha-māsa tithi pratipāda śukla-pakṣa <gap reason="lost" extent="unknown" unit="character"/>	
 <lb n="1r2" break="no"/>vāra bhariṇi-nakṣatra yoga devatā,</p> <p>tatkāla śrī mahārāja pu văgīśvara saṁ la<unclear>ra</unclear><gap reason="lost" extent="unknown" unit="character"/><!-- saṁ lumaḥ? cf. Wangwang Bangen, and Stutterheim's commentary --><lb 
@@ -128,11 +128,7 @@ n="1v10" break="no"/>tyevamādi yekā salaha Anūṁ pramāṇā riya saṅ aL̥
                <listApp>
 <app loc="1r2">
 <lem source="bib:Stutterheim1935_02">saṁ la<unclear>ra</unclear><gap reason="lost" extent="unknown" unit="character"/></lem>
-<note>Sarkar (<bibl rend="omitname"><ptr target="bib:Sarkar1971-1972_01"/>)
-                    <citedRange unit="volume">2</citedRange>
-                      <citedRange unit="page">219</citedRange>
-                      <citedRange unit="note">17</citedRange>
-                    </bibl> proposed to read <foreign>saṁ lumaḥ</foreign>, but his translation itself reveals that this is not persuasive. Perhaps one could supply more, to obtain both here and in 1v10–11 <foreign>saṁ lumaḥ ri garuṁ</foreign>. But note Wangwang Bahen lines 2–3 <foreign>śrī mahārāja vagisvara saṅ lumah ri kayu ramya</foreign>.</note>
+<note>Sarkar (<bibl rend="omitname"><ptr target="bib:Sarkar1971-1972_01"/> <citedRange unit="volume">2</citedRange> <citedRange unit="page">219</citedRange> <citedRange unit="note">17</citedRange></bibl>) proposed to read <foreign>saṁ lumaḥ</foreign>, but his translation itself reveals that this is not persuasive. Perhaps one could supply more, to obtain both here and in 1v10–11 <foreign>saṁ lumaḥ ri garuṁ</foreign>. But note Wangwang Bahen lines 2–3 <foreign>śrī mahārāja vagisvara saṅ lumah ri kayu ramya</foreign>.</note>
 </app>
             <app loc="1r7">
 	<lem><unclear>k</unclear><supplied reason="lost">liṅ ā</supplied><lb n="1r8" break="no"/><unclear>ryya</unclear></lem>
@@ -219,9 +215,8 @@ become the subject of discussion in the remotest future !</p>
                     </bibl>
                   </listBibl>
             <listBibl type="secondary">
-            	 <bibl><ptr target="bib:Damais1970_01"/><citedRange unit="page">53</citedRange><citedRange unit="item">160</citedRange>
+            	<bibl><ptr target="bib:Damais1970_01"/><citedRange unit="page">53</citedRange><citedRange unit="item">160</citedRange></bibl>
                <bibl><ptr target="bib:Nakada1982_01"/><citedRange unit="page">100-101</citedRange><citedRange unit="part">1</citedRange><citedRange unit="item">118</citedRange></bibl>    
-             </bibl>
            </listBibl>
         </div>
       </body>
