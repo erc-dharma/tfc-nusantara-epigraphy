@@ -185,8 +185,7 @@ n="5.2"/>nira ta māva maryya I ḍ<unclear>i</unclear>h<unclear>yaṁ</unclear>
           <rdg source="bib:Brandes1913_01 bib:Nakada1991_01">sinimma</rdg>
         </app>
         <app loc="1.5">
-          <lem>banuA</lem>
-          <rdg source="bib:Nakada1991_01">banuA</rdg>
+          <lem source="bib:Nakada1991_01">banuA</lem>
           <rdg source="bib:Brandes1913_01">vanuA</rdg>
         </app>
         <app loc="1.5">
@@ -692,23 +691,29 @@ n="5.2"/>nira ta māva maryya I ḍ<unclear>i</unclear>h<unclear>yaṁ</unclear>
         </app>
         <app loc="5.1">
           <lem>paṅasəAnnikanaṁ</lem>
-          <note>K, puṅasəaAnnikanaṁ Na.</note>
+          <rdg source="bib:Rouffaer1918_01">paṅasəAnnikanaṁ</rdg>
+          <rdg source="bib:Nakada1991_01">paṅasəAnnikanaṁ</rdg>
+          <note>Brandes seems to have skipped these lines (5.1) because he found them too heavily weathered</note>
         </app>
         <app loc="5.1">
           <lem>denira I ḍihyaṁ</lem>
-          <note>Na, de ni— I dihyaṁ K.</note>
+          <rdg source="bib:Nakada1991_01">denira I ḍihyaṁ</rdg>
+          <rdg source="bib:Rouffaer1918_01">de ni— I dihyaṁ</rdg>
         </app>
         <app loc="5.1">
           <lem>masǎks<unclear>i</unclear></lem>
-          <note>pasajya K, pasaṁnya Na.</note>
+          <rdg source="bib:Rouffaer1918_01">pasajya</rdg>
+          <rdg source="bib:Nakada1991_01">pasaṁnya</rdg>
         </app>
         <app loc="5.1">
           <lem><unclear>d</unclear>enira ta māva maryya I ḍ<unclear>i</unclear>h<unclear>yaṁ</unclear> sa <gap reason="illegible" quantity="2" unit="character" precision="low"/> <unclear>mu</unclear>la <gap reason="illegible" quantity="4" unit="character" precision="low"/></lem>
-          <note>— ni po ma 5 ... sang hyang i dihyang sa — — sajya— — K, nira ta mā l [ca. 12 akṣ. illegible]</note>
+          <rdg source="bib:Rouffaer1918_01">— ni po ma 5 ... sang hyang i dihyang sa — — sajya— —</rdg>
+          <rdg source="bib:Nakada1991_01">nira ta mā l [ca. 12 akṣ. illegible]</rdg>
         </app>
         <app loc="5.3">
           <lem>si<gap reason="illegible" quantity="1" unit="character" precision="low"/>mi kovā <gap reason="illegible" quantity="2" unit="character" precision="low"/> vḍihan· <gap reason="illegible" quantity="5" unit="character" precision="low"/></lem>
-          <note>sī ra — po — —— —ha śu — —— K, sira [-]i [k]ovā [-- –] vḍiḥhan mā [-- l] //￮// Na.</note>
+          <rdg source="bib:Rouffaer1918_01">sī ra — po — —— —ha śu — ——</rdg>
+          <rdg source="bib:Nakada1991_01">sira [-]i [k]ovā [-- –] vḍiḥhan mā [-- l] //￮//</rdg>
         </app>
       </div>
 
@@ -765,6 +770,7 @@ n="5.2"/>nira ta māva maryya I ḍ<unclear>i</unclear>h<unclear>yaṁ</unclear>
         <listBibl type="primary">
           <bibl n="Br"><ptr target="bib:Brandes1913_01"/><citedRange unit="item">XXXVI</citedRange><citedRange unit="page">54–57</citedRange></bibl>
           <bibl n="Na"><ptr target="bib:Nakada1991_01"/><citedRange unit="item">X</citedRange><citedRange unit="page">3–16</citedRange></bibl>
+          <bibl><ptr target="bib:Rouffaer1918_01"/><citedRange>154–158</citedRange></bibl>
           <!-- one <bibl/> per item of primary bibliography. Every entry mentionned in apparatus  should hava a @n to declare its sigla -->
         </listBibl>
         <listBibl type="secondary">
@@ -780,7 +786,6 @@ n="5.2"/>nira ta māva maryya I ḍ<unclear>i</unclear>h<unclear>yaṁ</unclear>
           <bibl><ptr target="bib:Krom1911_03"/><citedRange unit="page">57</citedRange><citedRange unit="item">D.6</citedRange></bibl><!--Krom lists est. numbers 168, 169, 180, 205, 207, 208, 209, 334 -->
           <bibl><ptr target="bib:ROD1915_01"/><citedRange>80</citedRange><citedRange unit="item">1335</citedRange></bibl>
           <bibl><ptr target="bib:OV1918_01"/><citedRange>76–77</citedRange></bibl>
-          <bibl><ptr target="bib:Rouffaer1918_01"/><citedRange>154–158</citedRange></bibl>
           <bibl><ptr target="bib:Goris1929_01"/><citedRange>203 (cek lagi)</citedRange></bibl>
           <bibl><ptr target="bib:Krom1931_01"/><citedRange>190–191</citedRange></bibl>
           <bibl><ptr target="bib:Damais1951_02"/><citedRange>42-43</citedRange></bibl>
