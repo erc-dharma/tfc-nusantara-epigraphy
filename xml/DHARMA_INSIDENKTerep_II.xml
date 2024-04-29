@@ -93,7 +93,7 @@
    </teiHeader>
    <text xml:space="preserve">
         <body>
-            <div type="edition" xml:lang="kaw-Latn">
+            <div type="edition" xml:lang="kaw-Latn" rendition="class:38769 maturity:83213">
                 <pb n="1r"/><!--Blank outer page.-->
                 <pb n="1v"/><gap reason="lost" quantity="4" unit="line"/>
 <p part="I"><pb n="2r"/>
