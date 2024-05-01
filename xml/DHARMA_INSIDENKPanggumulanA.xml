@@ -3,7 +3,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Panggumulan Charter</title>
+            <title>The Charter of Panggumulan</title>
             <respStmt>
                <resp>EpiDoc Encoding</resp>
                <persName ref="part:wjsa">
@@ -169,9 +169,7 @@ n="3v9"/>An· soma-vāra </p><p>tatkāla rakryān· I vantil· laki bi pu pālak
                                 <app loc="1v4"><lem>de<add place="above">ni</add></lem>
                                 <rdg source="bib:TitiSurtiNastiti2003_01">deni</rdg>
                                 <rdg source="bib:Bosch1925_02">deniṁ</rdg></app>
-                            
                                 <app loc="1v5"><lem source="bib:TitiSurtiNastiti2003_01">Ityevamādi</lem><rdg source="bib:Bosch1925_02">Ityevamadi</rdg></app>
-                            
                                 <app loc="1v5"><lem source="bib:TitiSurtiNastiti2003_01">bhaṭāra</lem><rdg source="bib:Bosch1925_02">bhaṭara</rdg></app>
                             
                                 <app loc="1v5"><lem source="bib:TitiSurtiNastiti2003_01">bhaṭārī</lem><rdg source="bib:Bosch1925_02">bhaṭārī</rdg></app>
