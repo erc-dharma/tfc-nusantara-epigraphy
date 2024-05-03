@@ -720,9 +720,10 @@ n="5.2"/>nira ta māva maryya I ḍ<unclear>i</unclear>h<unclear>yaṁ</unclear>
       <div type="bibliography">
         <p>The sigla Br and Na refer to Brandes’ and Nakada’s editions, respectively. In view of the fact that the fifth section was read by Kern and Nakada, both of them yielding rather different readings, for this part I use the siglum K, which stands for Kern. </p>
         <listBibl type="primary">
+          <bibl n="siglum"/>
           <bibl n="Br"><ptr target="bib:Brandes1913_01"/><citedRange unit="item">XXXVI</citedRange><citedRange unit="page">54–57</citedRange></bibl>
           <bibl n="Na"><ptr target="bib:Nakada1991_01"/><citedRange unit="item">X</citedRange><citedRange unit="page">3–16</citedRange></bibl>
-          <bibl><ptr target="bib:Rouffaer1918_01"/><citedRange>154–158</citedRange></bibl>
+          <bibl> n="K"<ptr target="bib:Rouffaer1918_01"/><citedRange>154–158</citedRange></bibl>
           <!-- one <bibl/> per item of primary bibliography. Every entry mentionned in apparatus  should hava a @n to declare its sigla -->
         </listBibl>
         <listBibl type="secondary">
