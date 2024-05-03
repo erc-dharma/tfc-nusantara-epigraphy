@@ -268,11 +268,11 @@ The siglum Br refers to Brandes’ edition and the siglum Na refers to Nakada’
 <app loc="A26"><lem>maṅa(nam)</lem><rdg source="bib:Brandes1913_01">maṅa</rdg><rdg source="bib:Nakada1992_01">maṅgalā</rdg></app> 
 <app loc="A27"><lem source="bib:Nakada1992_01">manūlaṁ vuṅkudu</lem><rdg source="bib:Brandes1913_01">manula vuṅkudu</rdg></app> 
 <app loc="A27"><lem>Umarā</lem><rdg source="bib:Brandes1913_01">marā</rdg><rdg source="bib:Nakada1992_01">[...]marā</rdg></app> 
-<app loc="A28"><lem>sadūmān· I saṁ makmitan· dharmma</lem><rdg>Na, sadūmān· saṁ makmitan· dharmma Br.</app> 
-<app loc="A28"><lem>masambyavahāra</lem><rdg>sambyavahāra Br Na.</app> 
-<app loc="A29"><lem>g(r)itan(ya)⟨,⟩</lem><rdg><foreign>om</foreign>. Br, [de…] Na.</app> 
-<app loc="A30"><lem>mā 4</lem><rdg>Br,  <abbr>mā</abbr> 2 Na.</app> 
-<app loc="A30"><lem>vlaḥ</lem><rdg>blaḥ Br Na.</app> 
+<app loc="A28"><lem source="bib:Nakada1992_01">sadūmān· I saṁ makmitan· dharmma</lem><rdg source="bib:Brandes1913_01">sadūmān· saṁ makmitan· dharmma</rdg></app> 
+<app loc="A28"><lem>masambyavahāra</lem><rdg source="bib:Brandes1913_01 bib:Nakada1992_01">sambyavahāra</rdg></app> 
+<app loc="A29"><lem>g(r)itan(ya)⟨,⟩</lem><rdg source="bib:Brandes1913_01"><foreign>om</foreign></rdg><rdg source="bib:Nakada1992_01">[de…]</rdg></app> 
+<app loc="A30"><lem source="bib:Brandes1913_01">mā 4</lem><rdg source="bib:Nakada1992_01"><abbr>mā</abbr>2</rdg></app> 
+<app loc="A30"><lem>vlaḥ</lem><rdg source="bib:Brandes1913_01 bib:Nakada1992_01">blaḥ</rdg></app> <!--
 <app loc="B1 ḍ(ya)[ḥ] mriḥ</lem><rdg>ḍa mri Br, ḍanamriḥ Na.</app> 
 <app loc="B2 I kanuruhan·</lem><rdg>Br, Iṁ kanuruhan· Na.</app> 
 <app loc="B2 saṁ juru makabaihan·</lem><rdg>Na, saṁ juru makabehan· Br.</app> 
