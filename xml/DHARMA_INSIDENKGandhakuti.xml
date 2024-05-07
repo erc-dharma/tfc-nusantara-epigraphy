@@ -224,7 +224,7 @@
                     <app loc="1v4">
                       <lem>Amu<choice><orig><unclear>ṁ</unclear>puh a</orig><reg>puhā</reg></choice>ṅrahana</lem>
                       <rdg source="bib:Boechari1985-1986_01 bib:NinnySusantiTejowasono2003_01">Amupuh aṅrahana</rdg>
-                      <note>Cf. <ref target="kakurugan.xml">Kakurugan</ref> 5r4: <foreign>Añjamaha rare kavula</foreign>, <foreign>Amupuha kavula</foreign>, and <ref target="Kancana.xml">Kancana</ref> 8r5–8r6: <foreign>hañjamaha kavula amupuha kavula aṁguntiṁa hulun miṁgat, vnaṅ amupuhăṅrahana kavula yan· sahadosa</foreign>.</note>
+                      <note>Cf. <ref target="DHARMA_INSIDENKKakurugan.xml">Kakurugan</ref> 5r4: <foreign>Añjamaha rare kavula</foreign>, <foreign>Amupuha kavula</foreign>, and <ref target="DHARMA_INSIDENKKancana.xml">Kancana</ref> 8r5–8r6: <foreign>hañjamaha kavula amupuha kavula aṁguntiṁa hulun miṁgat, vnaṅ amupuhăṅrahana kavula yan· sahadosa</foreign>.</note>
                       </app>
                   <app loc="1v5">
                       <lem>Apa<choice><orig>tarā</orig><reg>ṭāra</reg></choice>ṇa</lem>
@@ -235,7 +235,7 @@
                       <lem>Aj<choice><orig>ə:nva</orig><reg>nva ha</reg></choice>laṁ</lem>
                       <rdg source="bib:Boechari1985-1986_01">Ajə:nvalaṁ</rdg>
                       <rdg source="bib:NinnySusantiTejowasono2003_01">Ajə:ṁvalaṁ</rdg>
-                    <note>Cf. <ref target="kakurugan.xml">Kakurugan</ref> 5r1.</note>
+                    <note>Cf. <ref target="DHARMA_INSIDENKKakurugan.xml">Kakurugan</ref> 5r1.</note>
                       </app>
                   <app loc="1v5">
                       <lem source="bib:NinnySusantiTejowasono2003_01">tuñjuṁ sinivak·</lem>
@@ -249,7 +249,7 @@
                   <app loc="2r2">
                       <lem>maskar ama<choice><orig>th</orig><reg>v</reg></choice>aca</lem>
                       <rdg source="bib:Boechari1985-1986_01 bib:NinnySusantiTejowasono2003_01">maskara matacha</rdg>
-                    <note>Cf. <ref target="Madhawapura.xml">Madhawapura</ref> 7v4 <foreign>Askar· katakataṁ, Amavaca</foreign>. Although the word is unknown elsewhere, we tentatively assume <foreign>amavaca</foreign> is intended also in the present context.</note>
+                    <note>Cf. <ref target="DHARMA_INSIDENKMadhawapura.xml">Madhawapura</ref> 7v4 <foreign>Askar· katakataṁ, Amavaca</foreign>. Although the word is unknown elsewhere, we tentatively assume <foreign>amavaca</foreign> is intended also in the present context.</note>
                       </app>
                   <app loc="2r2">
                       <lem>k<choice><orig>ə</orig><reg>u</reg></choice>t</lem>
@@ -270,7 +270,7 @@
                       </app>
                   <app loc="2r3-2r4">
                     <lem source="bib:Boechari1985-1986_01">vnaṁ katmvananiṁ stri laraṅan·, burvan saki saṅkanya kunaṁ</lem><!--ekba: NST's PDF is unclear-->
-                      <note>This segment is to be compared with <ref target="Bimalasrama.xml">Bimalasrama</ref> <foreign>vnaṁ katm<supplied reason="omitted">v</supplied>ani stri laraṅan· rare kavula tuU sasaṅkasaṅkananya</foreign>. Emend <foreign>sakiṁ</foreign>?
+                      <note>This segment is to be compared with <ref target="DHARMA_INSIDENKBimalasrama.xml">Bimalasrama</ref> <foreign>vnaṁ katm<supplied reason="omitted">v</supplied>ani stri laraṅan· rare kavula tuU sasaṅkasaṅkananya</foreign>. Emend <foreign>sakiṁ</foreign>?
 </note>
                       </app>
                     <app loc="2r4">
@@ -308,7 +308,7 @@
                       </app>
                     <app loc="2v4">
                       <lem source="bib:Boechari1985-1986_01 bib:NinnySusantiTejowasono2003_01">panatalanya</lem>
-                      <note>Cf. <foreign>tatalən</foreign> in <ref target="kakurugan.xml">Kakurugan</ref></note>
+                      <note>Cf. <foreign>tatalən</foreign> in <ref target="DHARMA_INSIDENKKakurugan.xml">Kakurugan</ref></note>
                       </app>
                   <app loc="2v4">
                       <lem>ya<supplied reason="omitted">n</supplied></lem>
@@ -318,7 +318,7 @@
                       <lem>saya<choice><orig>ta</orig><reg>thā</reg></choice>sambhava</lem>
                       <rdg source="bib:Boechari1985-1986_01 bib:NinnySusantiTejowasono2003_01">sayata, sambhava </rdg>
                       <rdg source="bib:NinnySusantiTejowasono2003_01">sayata sambhava </rdg>
-                      <note>The dot read as punctuation sign by Boechari is actually part of the serif of <foreign>ta</foreign>. Cf. <foreign>sasambhava</foreign> in <ref target="simaanglayang.xml">Sima Anglayang</ref> 14r-14v.</note>
+                      <note>The dot read as punctuation sign by Boechari is actually part of the serif of <foreign>ta</foreign>. Cf. <foreign>sasambhava</foreign> in <ref target="DHARMA_INSIDENKSimaAnglayang.xml">Sima Anglayang</ref> 14r-14v.</note>
                       </app>
                     <app loc="2v5">
                       <lem>panatalanya</lem>
