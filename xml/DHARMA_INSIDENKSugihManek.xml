@@ -212,68 +212,67 @@ n="d10"/>vaiḥ An· lbura ya <unclear>||</unclear>
       </div>
       <div type="apparatus"><!--
 The siglum Br refers to Brandes’ edition and the siglum Na refers to Nakada’s. -->
-<app loc="A1"><lem>para-hita-niratāḥ</lem><rdg source="bib:Brandes1913_01">parahita iratāḥ</rdg><rdg source="bib:Nakada1992_01">parahitanira tāḥ</rdg></app>
-<!-- 
-<app loc="A1"><lem>bhavantu (2) bhūta-</lem><rdg>Br, bhavantu, (2) bhūta- Na. No punctuation sign is expected after <foreign>bhavantu</foreign> and indeed none is engraved.</app>
-<app loc="A2"><lem>nāśaṁ*</lem><rdg>Na, nāśa Br.</app>
-<app loc="A4"><lem>(Ă)gniya-</lem><rdg>(A)gneya- Br Na. The form <foreign>agniya</foreign> occurs in Poh Dulur 1v5.</app>
-<app loc="A4"><lem>tvaṣṭā</lem><rdg>Na, tvaṣtā Br.</app>
-<app loc="A5"><lem>dyaḥ mumpuṁ</lem><rdg>Na, mumpuṁ Br.</app>
-<app loc="A6"><lem>paṅguhan·</lem><rdg>Na, maṅguhan· Br.</app>
-<app loc="A6"><lem>tapak·  <abbr>su</abbr> 18  <abbr>mā</abbr> /8\</lem><rdg>tapak·  <abbr>su</abbr> 10  <abbr>mā</abbr> Br, Na. The 8 quantifying <foreign>mā</foreign> is found in an unexpected position, inserted below and a bit to the left of <foreign>mā</foreign>.</app>
-<app loc="A7"><lem>, Iṁ satahun·-satahun·</lem><rdg>I satahun·-satahun· Br, [1] Iṁ satahun·-satahun· Na.</app>
-<app loc="A7"><lem>sīmāniṁ</lem><rdg>Na, sīmāni Br.</app> 
-<app loc="A7"><lem>pacaru I bhaṭāra</lem><rdg>pa(ma) {1 akṣ. illegible} I bhaṭāra Br, pa {3 akṣ. illegible} I bhaṭāra Na. Cf. Landa 1r4 <foreign>paknānya pabiśuvā muAṁ pacaru A⟨ṁ⟩kan parvvaṇĭ</foreign>.</app> 
+<app loc="A1"><lem>para-hita-niratāḥ</lem><rdg source="bib:Brandes1913_01">parahita iratāḥ</rdg><rdg source="bib:Nakada1992_01">parahitanira tāḥ</rdg></app> 
+<app loc="A1"><lem source="bib:Brandes1913_01">bhavantu (2) bhūta-</lem><rdg source="bib:Nakada1992_01">bhavantu, (2) bhūta-</rdg><note>No punctuation sign is expected after <foreign>bhavantu</foreign> and indeed none is engraved.</note></app>
+<app loc="A2"><lem source="bib:Nakada1992_01">nāśaṁ*</lem><rdg source="bib:Brandes1913_01">nāśa</rdg></app>
+<app loc="A4"><lem>(Ă)gniya-</lem><rdg source="bib:Brandes1913_01 bib:Nakada1992_01">(A)gneya-</rdg><note>The form <foreign>agniya</foreign> occurs in Poh Dulur 1v5.</note></app>
+<app loc="A4"><lem source="bib:Nakada1992_01">tvaṣṭā</lem><rdg source="bib:Brandes1913_01">tvaṣtā</rdg></app>
+<app loc="A5"><lem source="bib:Nakada1992_01">dyaḥ mumpuṁ</lem><rdg source="bib:Brandes1913_01">mumpuṁ</rdg></app>
+<app loc="A6"><lem source="bib:Nakada1992_01">paṅguhan·</lem><rdg source="bib:Brandes1913_01"> maṅguhan</rdg></app>
+<app loc="A6"><lem>tapak·  <abbr>su</abbr> 18  <abbr>mā</abbr> /8\</lem><rdg source="bib:Brandes1913_01 bib:Nakada1992_01">tapak·  <abbr>su</abbr> 10  <abbr>mā</abbr></rdg><note> The 8 quantifying <foreign>mā</foreign> is found in an unexpected position, inserted below and a bit to the left of <foreign>mā</foreign>.</note></app>
+<app loc="A7"><lem>, Iṁ satahun·-satahun·</lem><rdg source="bib:Brandes1913_01">I satahun·-satahun</rdg><rdg source="bib:Nakada1992_01">[1] Iṁ satahun·-satahun·</rdg></app>
+<app loc="A7"><lem source="bib:Nakada1992_01">sīmāniṁ</lem><rdg source="bib:Brandes1913_01">sīmāni Br</rdg></app> 
+<app loc="A7"><lem>pacaru I bhaṭāra</lem><rdg source="bib:Brandes1913_01">pa(ma) {1 akṣ. illegible} I bhaṭāra</rdg><rdg source="bib:Nakada1992_01">pa {3 akṣ. illegible} I bhaṭāra</rdg><note>Cf. Landa 1r4 <foreign>paknānya pabiśuvā muAṁ pacaru A⟨ṁ⟩kan parvvaṇĭ</foreign></note></app> <!--
 <app loc="A8"><note>This line was edited by Brandes essentially with the same reading as ours, but with a note: “Vóór regel 8 staat nog geschreven <foreign>kopāpapurānya</foreign>; 8 <foreign>umyāpāra</foreign> <foreign>ubyāpāra</foreign>”, that seems to have confused subsequent scholars. Sarkar edited this line as follows: <foreign>kopāpagakānya i bhaṭāra pratidina</foreign>, with a note “<foreign>kopāpapurānya </foreign>[K]”. (The meaning of [K] escapes us.) And then we see in Nakada’s edition that this has become further modified as: <foreign>i bhaṭāra pratidina kopāpagusanya</foreign></note></app> 
-<app loc="A8"><lem>I bhaṭāra pratidina, mvaṁ taḍaha</lem><rdg>I bhaṭāra pratidina mvaṁ taḍaha Br, I bhaṭāra pratidina kopāpagusanya mvaṁ taḍaha Na.</app> 
-<app loc="A8"><lem>taḍaha</lem><rdg>Br, tuḍaha Na.</app> 
-<app loc="A8"><lem>saṁ (ka)r(m)manya</lem><rdg>saṅka sdaṅnya Br Na. See further occurrences of <foreign>saṅ karma</foreign> in this inscription and in Timbanan Wungkal (A23) <foreign>mapatiḥ katag(i)ḥhakna saṁ karmmanya ka(baiḥ)</foreign>.</app> 
-<app loc="A8"><lem>maṅas(ə)A[ka](9)[n·]</lem><rdg>saṅasisa Br Na.</app> 
+<app loc="A8"><lem>I bhaṭāra pratidina, mvaṁ taḍaha</lem><rdg source="bib:Brandes1913_01">I bhaṭāra pratidina mvaṁ taḍaha</rdg><rdg source="bib:Nakada1992_01">I bhaṭāra pratidina kopāpagusanya mvaṁ taḍaha Na.</rdg></app> -->
+<app loc="A8"><lem source="bib:Brandes1913_01">taḍaha</lem><rdg source="bib:Nakada1992_01">tuḍaha</rdg></app> 
+<app loc="A8"><lem>saṁ (ka)r(m)manya</lem><rdg source="bib:Brandes1913_01 bib:Nakada1992_01">saṅka sdaṅnya</rdg><note>See further occurrences of <foreign>saṅ karma</foreign> in this inscription and in Timbanan Wungkal (A23) <foreign>mapatiḥ katag(i)ḥhakna saṁ karmmanya ka(baiḥ)</foreign></note></app> 
+<app loc="A8"><lem>maṅas(ə)A[ka](9)[n·]</lem><rdg source="bib:Brandes1913_01 bib:Nakada1992_01">saṅasisa</rdg></app> <!--
 <app loc="A9"><lem>rakryān· I sugiḥ manek·</lem><rdg><foreign>rakryān· I sugiḥ manek· </foreign>Br, {lost akṣ} <foreign>rakryān· I sugiḥ manek </foreign>Na. The beginning of this line is marked by damage to or intentional erasure of several <foreign>akṣara</foreign>s, leaving no legible trace of any words. The space for two or three <foreign>akṣara</foreign>s at the end of the gap, right before <foreign>rakryān</foreign>, must have been occupied either by the word<foreign> dharma</foreign> or by the word <foreign>kuśala</foreign>, in the light of parallels in A7, A19 and B17–18. Since the two words are clearly used as synonyms in this inscription the resulting meaning is the same regardless of which word we supply<foreign>. </foreign></app> 
-<app loc="A10"><lem>māna⟨k⟩ katrīṇi </lem><rdg>Br, Na. We supply ⟨k⟩ because the word needs to be understood as <foreign>mānak</foreign>, as we see in the Telang I 825 Ś (2r3), Poh 827 Ś (2r1): <foreign>saṁ mānak katiga</foreign>, Barahasrama 837 Ś (1v5) and Paradah I 865 Ś (A19). Here we also get a good example of <foreign>katrīṇi</foreign> and <foreign>katiga</foreign> which is synonymous, meaning a trio, or three together.</app> 
-<app loc="A10"><lem>paṅkur·</lem><rdg>Br, paṁkur Na.</app> 
-<app loc="A11"><lem>paḍam apvī</lem><rdg>pamr̥ṣi Br, pamarṣi Na.</app> 
-<app loc="A11"><lem>Er haji(, maṁru)[mve]</lem><rdg>Air haji Br, Airhaji, {3 akṣ. illegible} Na. This restoration is supported by other parallels found in this corpus. Cf. Timbanan Wungkal (line 11)<foreign> tapa haji, Er haji‚ maṁrumve</foreign> and<foreign> </foreign>Tihang (1v7)<foreign> tapa haji, Air haji, maṁguñjai, maṁrumvai.</foreign></app> 
-<app loc="A13"><lem>tajaṁ*</lem><rdg>tajəm· Br Na.</app> 
-<app loc="A13"><lem>paṇḍai</lem><rdg>paṇḍe Br Na.</app> 
-<app loc="A14"><lem>sinaguha</lem><rdg>sinagiha Br Na.</app> 
-<app loc="A14"><lem>varahan·</lem><rdg>burahan Br, burəhun Na. This function appears in Tihang (1v7) and Timbanan Wungkal (A12).</app> 
-<app loc="A15"><lem>parāmiśra</lem><rdg>Na, paramiśra Br.</app> 
-<app loc="A17"><lem>salvir·niṁ vipati</lem><rdg>Na, salvirāniṁ vipati Br.</app> 
-<app loc="A18"><lem>kābunan· ◇ Na, kābunnan Br.</app> 
-<app loc="A19"><lem>hiṁ(hi)ṅana</lem><rdg>hiṅana Br Na.</app> 
-<app loc="A19"><lem>kvaihanya</lem><rdg>kvehanya Br Na.</app> 
-<app loc="A19"><lem>paṇḍai tambaga, paṇḍai gaṅsa</lem><rdg>paṇḍe tambaga paṇḍe gaṅsa Br Na.</app> 
-<app loc="A19"><lem>tluṁ</lem><rdg>Br, vlaṁ-vlaṁ Na.</app> 
-<app loc="A20"><lem>Ububvan·</lem><rdg>vavvan· Br Na.</app> 
-<app loc="A20"><lem>Iṁ sasīma</lem><rdg>Na, I sasīma Br.</app> 
-<app loc="A20"><lem>kboAnya prāṇa 20</lem><rdg>kboAnya prāṇa 4 Br Na.</app> 
-<app loc="A21"><lem>sap(i) ⟨prāṇa 40⟩, vḍus· prāṇa 80</lem><rdg>[......] vḍus· prāṇa 8 Br, [...ḥ] vḍus· prāṇa 8 Na. Our restitution is based on the fixed pattern of quantification of types of livestock in the Old Javanese epigraphic record.</app> 
-<app loc="A21"><lem>maguluṅan·</lem><rdg>Na, magulaṅan· Br.</app> 
-<app loc="A21"><lem>dval·</lem><rdg>Na, dvala Br.</app> 
-<app loc="A22"><lem>pinikul kady aṅgāniṁ</lem><rdg>pinikulan· saṅgāniṁ Br, pinikulan· baṅga Na.</app> 
-<app loc="A22"><lem>mabasana</lem><rdg>Na, mabasaḥ Br.</app> 
-<app loc="A22"><lem>masayaṁ </lem><rdg>Na, [.......sa……] Br.</app> 
-<app loc="A22"><lem>lṅa, gula</lem><rdg>lbagula Br Na.</app> 
-<app loc="A23"><lem>bsar·</lem><rdg>b...r Br, bār Na.</app> 
-<app loc="A23"><lem>lavai</lem><rdg>labeḥ Br Na. This word is attested in a list found in the Airlangga corpus. See Turun Hyang (A35) [<foreign>Asayaṁ,</foreign>] <foreign>Aṅavari, makacapuri, maṅuñjal·, Adval· kapas</foreign>· {10-11 akṣ. illegible} <foreign>timaḥ, vuyuḥ, brās·, </foreign>{2-3 akṣ. lost} (b) {3-4 akṣ. lost} <foreign>bsār·, lave, pucaṁ, sǝR̥</foreign>[<foreign>ḥ,</foreign>]<foreign> </foreign>{4-5 akṣ. lost} and Bimalasrama (9r1) <foreign>tamara, maṅuñjal· kapas·, vuṅkuḍu, bsār·, tāmbra, gaṅśa, timaḥ, vuyaḥ, pja, gula, lave, pucaṁ, sǝR̥ḥ, kasumbha,</foreign></app> 
-<app loc="A23"><lem>sapra(kāra)niṁ</lem><rdg>Br, saprakaraniṁ Na.</app> 
-<app loc="A24"><lem>Ikana(ṁ) samaṅkana tan knā de saṁ (ma)ṅilala drabya haji</lem><rdg>{7 akṣ. illegible} tan knā de saṁ (ma)ṅilala drabya haji Br Na.</app> 
-<app loc="A24"><lem>maṅkai lwiranya</lem><rdg>maṅailvinan Br, maṅgalban Na.</app> 
-<app loc="A25"><lem>yāpvan·</lem><rdg>Na, yapvan· Br.</app> 
-<app loc="A25"><lem>lviḥ</lem><rdg>Br, lvā Na.</app> 
-<app loc="A25"><lem>(I)rīkā paṁhīṁhīṁ</lem><rdg>Irika paṁhīṁhiṁ Br, Irikā paṁhəṁ-həṁ Na.</app> 
-<app loc="A25"><lem>sodhāra haji</lem><rdg>Na, sobara haji Br.</app> 
-<app loc="A26"><lem>Adhikāna</lem><rdg>Na, ahikana Br.</app> 
-<app loc="A26"><lem>maṅubar·</lem><rdg>maṅuvar· Br Na.</app> 
-<app loc="A26"><lem>maṅa(nam)· ◇maṅa Br, maṅgalā Na.</app> 
-<app loc="A27"><lem>manūlaṁ vuṅkudu</lem><rdg>Na, manula vuṅkudu Br.</app> 
-<app loc="A27"><lem>Umarā</lem><rdg>marā Br, [...]marā Na.</app> 
-<app loc="A28"><lem>sadūmān· I saṁ makmitan· dharmma</lem><rdg>Na, sadūmān· saṁ makmitan· dharmma Br.</app> 
-<app loc="A28"><lem>masambyavahāra</lem><rdg>sambyavahāra Br Na.</app> 
-<app loc="A29"><lem>g(r)itan(ya)⟨,⟩</lem><rdg><foreign>om</foreign>. Br, [de…] Na.</app> 
-<app loc="A30"><lem>mā 4</lem><rdg>Br,  <abbr>mā</abbr> 2 Na.</app> 
-<app loc="A30"><lem>vlaḥ</lem><rdg>blaḥ Br Na.</app> 
+<app loc="A10"><lem>māna⟨k⟩ katrīṇi </lem><rdg>Br, Na. We supply ⟨k⟩ because the word needs to be understood as <foreign>mānak</foreign>, as we see in the Telang I 825 Ś (2r3), Poh 827 Ś (2r1): <foreign>saṁ mānak katiga</foreign>, Barahasrama 837 Ś (1v5) and Paradah I 865 Ś (A19). Here we also get a good example of <foreign>katrīṇi</foreign> and <foreign>katiga</foreign> which is synonymous, meaning a trio, or three together.</app> -->
+<app loc="A10"><lem source="bib:Brandes1913_01">paṅkur·</lem><rdg source="bib:Nakada1992_01">paṁkur</rdg></app> 
+<app loc="A11"><lem>paḍam apvī</lem><rdg source="bib:Brandes1913_01">pamr̥ṣi</rdg><rdg source="bib:Nakada1992_01">pamarṣi</rdg></app> 
+<app loc="A11"><lem>Er haji(, maṁru)[mve]</lem><rdg source="bib:Brandes1913_01">Air haji</rdg><rdg source="bib:Nakada1992_01">Airhaji, {3 akṣ. illegible}</rdg><note>This restoration is supported by other parallels found in this corpus. Cf. Timbanan Wungkal (line 11)<foreign> tapa haji, Er haji‚ maṁrumve</foreign> and<foreign> </foreign>Tihang (1v7)<foreign> tapa haji, Air haji, maṁguñjai, maṁrumvai.</foreign></note></app> 
+<app loc="A13"><lem>tajaṁ*</lem><rdg source="bib:Brandes1913_01 bib:Nakada1992_01">tajəm·</rdg></app> 
+<app loc="A13"><lem>paṇḍai</lem><rdg source="bib:Brandes1913_01 bib:Nakada1992_01">paṇḍe</rdg></app> 
+<app loc="A14"><lem>sinaguha</lem><rdg source="bib:Brandes1913_01 bib:Nakada1992_01">sinagiha</rdg></app> 
+<app loc="A14"><lem>varahan·</lem><rdg source="bib:Brandes1913_01">burahan</rdg><rdg source="bib:Nakada1992_01">burəhun</rdg><note>This function appears in Tihang (1v7) and Timbanan Wungkal (A12)</note></app> 
+<app loc="A15"><lem source="bib:Nakada1992_01">parāmiśra</lem><rdg source="bib:Brandes1913_01">paramiśra</rdg></app> 
+<app loc="A17"><lem source="bib:Nakada1992_01">salvir·niṁ vipati</lem><rdg source="bib:Brandes1913_01">salvirāniṁ vipati</rdg></app> 
+<app loc="A18"><lem source="bib:Nakada1992_01">kābunan·</lem><rdg source="bib:Brandes1913_01">kābunnan</rdg></app> 
+<app loc="A19"><lem>hiṁ(hi)ṅana</lem><rdg source="bib:Brandes1913_01 bib:Nakada1992_01">hiṅana</rdg></app> 
+<app loc="A19"><lem>kvaihanya</lem><rdg source="bib:Brandes1913_01 bib:Nakada1992_01">kvehanya</rdg></app> 
+<app loc="A19"><lem>paṇḍai tambaga, paṇḍai gaṅsa</lem><rdg source="bib:Brandes1913_01 bib:Nakada1992_01">paṇḍe tambaga paṇḍe gaṅsa</rdg></app> 
+<app loc="A19"><lem source="bib:Brandes1913_01">tluṁ</lem><rdg source="bib:Nakada1992_01">vlaṁ-vlaṁ</rdg></app> 
+<app loc="A20"><lem>Ububvan·</lem><rdg source="bib:Brandes1913_01 bib:Nakada1992_01">vavvan·</rdg></app> 
+<app loc="A20"><lem source="bib:Nakada1992_01">Iṁ sasīma</lem><rdg source="bib:Brandes1913_01">I sasīma</rdg></app> 
+<app loc="A20"><lem>kboAnya prāṇa 20</lem><rdg source="bib:Brandes1913_01 bib:Nakada1992_01">kboAnya prāṇa 4</rdg></app> 
+<app loc="A21"><lem>sap(i) ⟨prāṇa 40⟩, vḍus· prāṇa 80</lem><rdg source="bib:Brandes1913_01">[......] vḍus· prāṇa 8</rdg><rdg source="bib:Nakada1992_01">[...ḥ] vḍus· prāṇa 8</rdg><note>Our restitution is based on the fixed pattern of quantification of types of livestock in the Old Javanese epigraphic record.</note></app> 
+<app loc="A21"><lem source="bib:Nakada1992_01">maguluṅan·</lem><rdg source="bib:Brandes1913_01">magulaṅan·</rdg></app> 
+<app loc="A21"><lem source="bib:Nakada1992_01">dval·</lem><rdg source="bib:Brandes1913_01">dvala</rdg></app> 
+<app loc="A22"><lem>pinikul kady aṅgāniṁ</lem><rdg source="bib:Brandes1913_01">pinikulan· saṅgāniṁ</rdg><rdg source="bib:Nakada1992_01">pinikulan· baṅga</rdg></app> 
+<app loc="A22"><lem source="bib:Nakada1992_01">mabasana</lem><rdg source="bib:Brandes1913_01">mabasaḥ</rdg></app> 
+<app loc="A22"><lem source="bib:Nakada1992_01">masayaṁ </lem><rdg source="bib:Brandes1913_01">[.......sa……]</rdg></app> 
+<app loc="A22"><lem>lṅa, gula</lem><rdg source="bib:Brandes1913_01 bib:Nakada1992_01">lbagula</rdg></app> 
+<app loc="A23"><lem>bsar·</lem><rdg source="bib:Brandes1913_01">b...r</rdg><rdg source="bib:Nakada1992_01">bār</rdg></app> 
+<app loc="A23"><lem>lavai</lem><rdg source="bib:Brandes1913_01 bib:Nakada1992_01">labeḥ</rdg><note>This word is attested in a list found in the Airlangga corpus. See Turun Hyang (A35) [<foreign>Asayaṁ,</foreign>] <foreign>Aṅavari, makacapuri, maṅuñjal·, Adval· kapas</foreign>· {10-11 akṣ. illegible} <foreign>timaḥ, vuyuḥ, brās·, </foreign>{2-3 akṣ. lost} (b) {3-4 akṣ. lost} <foreign>bsār·, lave, pucaṁ, sǝR̥</foreign>[<foreign>ḥ,</foreign>]<foreign> </foreign>{4-5 akṣ. lost} and Bimalasrama (9r1) <foreign>tamara, maṅuñjal· kapas·, vuṅkuḍu, bsār·, tāmbra, gaṅśa, timaḥ, vuyaḥ, pja, gula, lave, pucaṁ, sǝR̥ḥ, kasumbha,</foreign></note></app> 
+<app loc="A23"><lem source="bib:Brandes1913_01">sapra(kāra)niṁ</lem><rdg source="bib:Nakada1992_01">saprakaraniṁ</rdg></app> 
+<app loc="A24"><lem>Ikana(ṁ) samaṅkana tan knā de saṁ (ma)ṅilala drabya haji</lem><rdg source="bib:Brandes1913_01 bib:Nakada1992_01">{7 akṣ. illegible} tan knā de saṁ (ma)ṅilala drabya haji</rdg></app> 
+<app loc="A24"><lem>maṅkai lwiranya</lem><rdg source="bib:Brandes1913_01">maṅailvinan</rdg><rdg source="bib:Nakada1992_01">maṅgalban</rdg></app> 
+<app loc="A25"><lem source="bib:Nakada1992_01">yāpvan·</lem><rdg source="bib:Brandes1913_01">yapvan·</rdg></app> 
+<app loc="A25"><lem source="bib:Brandes1913_01">lviḥ</lem><rdg source="bib:Nakada1992_01">lvā</rdg></app> 
+<app loc="A25"><lem>(I)rīkā paṁhīṁhīṁ</lem><rdg source="bib:Brandes1913_01">Irika paṁhīṁhiṁ</rdg><rdg source="bib:Nakada1992_01">Irikā paṁhəṁ-həṁ</rdg></app> 
+<app loc="A25"><lem source="bib:Nakada1992_01">sodhāra haji</lem><rdg source="bib:Brandes1913_01">sobara haji</rdg></app> 
+<app loc="A26"><lem source="bib:Nakada1992_01">Adhikāna</lem><rdg source="bib:Brandes1913_01">ahikana</rdg></app> 
+<app loc="A26"><lem>maṅubar·</lem><rdg source="bib:Brandes1913_01 bib:Nakada1992_01">maṅuvar·</rdg></app> 
+<app loc="A26"><lem>maṅa(nam)</lem><rdg source="bib:Brandes1913_01">maṅa</rdg><rdg source="bib:Nakada1992_01">maṅgalā</rdg></app> 
+<app loc="A27"><lem source="bib:Nakada1992_01">manūlaṁ vuṅkudu</lem><rdg source="bib:Brandes1913_01">manula vuṅkudu</rdg></app> 
+<app loc="A27"><lem>Umarā</lem><rdg source="bib:Brandes1913_01">marā</rdg><rdg source="bib:Nakada1992_01">[...]marā</rdg></app> 
+<app loc="A28"><lem source="bib:Nakada1992_01">sadūmān· I saṁ makmitan· dharmma</lem><rdg source="bib:Brandes1913_01">sadūmān· saṁ makmitan· dharmma</rdg></app> 
+<app loc="A28"><lem>masambyavahāra</lem><rdg source="bib:Brandes1913_01 bib:Nakada1992_01">sambyavahāra</rdg></app> 
+<app loc="A29"><lem>g(r)itan(ya)⟨,⟩</lem><rdg source="bib:Brandes1913_01"><foreign>om</foreign></rdg><rdg source="bib:Nakada1992_01">[de…]</rdg></app> 
+<app loc="A30"><lem source="bib:Brandes1913_01">mā 4</lem><rdg source="bib:Nakada1992_01"><abbr>mā</abbr>2</rdg></app> 
+<app loc="A30"><lem>vlaḥ</lem><rdg source="bib:Brandes1913_01 bib:Nakada1992_01">blaḥ</rdg></app> <!--
 <app loc="B1 ḍ(ya)[ḥ] mriḥ</lem><rdg>ḍa mri Br, ḍanamriḥ Na.</app> 
 <app loc="B2 I kanuruhan·</lem><rdg>Br, Iṁ kanuruhan· Na.</app> 
 <app loc="B2 saṁ juru makabaihan·</lem><rdg>Na, saṁ juru makabehan· Br.</app> 
