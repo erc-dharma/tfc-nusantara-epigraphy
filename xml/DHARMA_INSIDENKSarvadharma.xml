@@ -143,7 +143,7 @@
                   <app loc="1v5">
                       <lem source="bib:Damais1955_01">aśeṣarājānyacūḍāmaṇiṇārpitacaraṇāravinda</lem>
                      <rdg source="bib:Brandes1913_01">aśeṣarājānyacuḍāmaṇinārpitabharaṇāravinda </rdg>
-                     <note>Cf. the title in the <ref target="PakisWetan.xml">Pakis Wetan</ref> inscription, misread by its editor, Krom, and Damais <foreign>(samastākṣakriyacūḍāmaṇipatitacaraṇāravinda)</foreign>, for <foreign>samastăkṣatriyacūḍāmaṇipatitacaraṇāravinda</foreign>. Pigeaud’s notes (II, p. 134: “<foreign>tārpita seems a better reading than nārpita</foreign>”) can be ignored.</note>
+                     <note>Cf. the title in the <ref target="DHARMA_INSIDENKPakisWetan.xml">Pakis Wetan</ref> inscription, misread by its editor, Krom, and Damais <foreign>(samastākṣakriyacūḍāmaṇipatitacaraṇāravinda)</foreign>, for <foreign>samastăkṣatriyacūḍāmaṇipatitacaraṇāravinda</foreign>. Pigeaud’s notes (II, p. 134: “<foreign>tārpita seems a better reading than nārpita</foreign>”) can be ignored.</note>
                   </app>
                   <app loc="1v7">
                       <lem>taṇḍa</lem>
@@ -163,7 +163,7 @@
                   </app>
                   <app loc="2r6">
                       <lem>śivanātha</lem>
-                     <note>Error for <foreign>harideva</foreign>? Cf. <ref target="Patitihan.xml">Patitihan</ref> 2v4.</note>
+                     <note>Error for <foreign>harideva</foreign>? Cf. <ref target="DHARMA_INSIDENKPatitihan.xml">Patitihan</ref> 2v4.</note>
                   </app>
                   <app loc="2r6">
                       <lem>jĭva</lem>
@@ -379,7 +379,7 @@
             <app loc="5v4">
                       <lem>i pə̄ṁ, tutuñjuṁ, kəpəl</lem>
                      <rdg source="bib:Brandes1913_01">ipə̄ṁ tutuñjuṁ, təpəl</rdg>
-               <note>Perhaps one may actually read <foreign>təpəl</foreign> (such is in any case the intended reading), but the akṣara in question <foreign>prima facie</foreign> is <foreign>kə</foreign>. On my division of <foreign>ipə̄ṁ</foreign> into two words, see my note to <ref target="Sanga.xml">Sanga</ref> 2v1. </note>
+               <note>Perhaps one may actually read <foreign>təpəl</foreign> (such is in any case the intended reading), but the akṣara in question <foreign>prima facie</foreign> is <foreign>kə</foreign>. On my division of <foreign>ipə̄ṁ</foreign> into two words, see my note to <ref target="DHARMA_INSIDENKSanga.xml">Sanga</ref> 2v1. </note>
             </app>
             <app loc="5v4">
                       <lem>varyyaṁ</lem>
