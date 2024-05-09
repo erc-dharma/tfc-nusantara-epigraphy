@@ -116,7 +116,7 @@
              </app>
              <app loc="1r2">
                <lem>p<choice><orig>a</orig><reg>ā</reg></choice>duka śrī <supplied reason="lost">tribhuvanottuṅgarājadevī</supplied></lem>
-               <note>The elements of titulature found l. 3-4 leave no doubt as to the identity of the royal figure serving as <foreign>maṅgalyājñā</foreign> to the king issuing this grant, namely Rājasanagara or Hayam Vuruk. Jayaviṣṇuvarddhanī and <foreign>dyaḥ</foreign> Gitārja occur as Tribhuvanā's royal consecration and personal birth names in numerous inscriptions including the <ref target="Canggu.xml">Canggu</ref> charter (l.1r5-1v1), the stelas of Geneng II (l.3) and Prapañcasārapura (l.4-5).</note>
+               <note>The elements of titulature found l. 3-4 leave no doubt as to the identity of the royal figure serving as <foreign>maṅgalyājñā</foreign> to the king issuing this grant, namely Rājasanagara or Hayam Vuruk. Jayaviṣṇuvarddhanī and <foreign>dyaḥ</foreign> Gitārja occur as Tribhuvanā's royal consecration and personal birth names in numerous inscriptions including the <ref target="DHARMA_INSIDENKCanggu.xml">Canggu</ref> charter (l.1r5-1v1), the stelas of Geneng II (l.3) and Prapañcasārapura (l.4-5).</note>
              </app>
              <app loc="1r3">
                <lem source="bib:Bosch1917_01">°viṣṇuvārddhan<unclear>ī</unclear></lem>
@@ -130,12 +130,12 @@
              <app loc="1r3">
                <lem><unclear>p</unclear>vāmatya-</lem>
                <rdg source="bib:Bosch1917_01 bib:Boechari1985-1986_01"><gap reason="lost" extent="unknown" unit="character"/>vāmatya</rdg>
-               <note>Boechari omits the punctuation sign following the preceding word <foreign>°abhiṣeka</foreign>. The meaning of this compound must be along the same lines as <foreign>raṇaprathita-mantri-nirjjita-nr̥pāntaropāyana-surāṅgaṇo-</foreign> in the <ref target="Canggu.xml">Canggu</ref> inscription.</note>
+               <note>Boechari omits the punctuation sign following the preceding word <foreign>°abhiṣeka</foreign>. The meaning of this compound must be along the same lines as <foreign>raṇaprathita-mantri-nirjjita-nr̥pāntaropāyana-surāṅgaṇo-</foreign> in the <ref target="DHARMA_INSIDENKCanggu.xml">Canggu</ref> inscription.</note>
              </app>
              <app loc="1r4">
                <lem><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost">sthāpita ṅkā</supplied>ne</lem>
                <rdg source="bib:Bosch1917_01 bib:Boechari1985-1986_01"><gap reason="lost" extent="unknown" unit="character"/>ne</rdg>
-               <note>Compare with the <ref target="Canggu.xml">Canggu</ref> inscription, l.1r6-1v1: <foreign>sthāpita ṅkāne nagare kahuripan, dyaḥ śrī gītārjjā, sākṣăd arddharājaparameśvarī,</foreign>.</note>
+               <note>Compare with the <ref target="DHARMA_INSIDENKCanggu.xml">Canggu</ref> inscription, l.1r6-1v1: <foreign>sthāpita ṅkāne nagare kahuripan, dyaḥ śrī gītārjjā, sākṣăd arddharājaparameśvarī,</foreign>.</note>
              </app>
              <app loc="1r4">
                <lem source="bib:Boechari1985-1986_01">sākṣad arddha-rāja-</lem>
@@ -144,7 +144,7 @@
              </app>
              <app loc="1r4">
                <lem source="bib:Bosch1917_01 bib:Boechari1985-1986_01"><orig>nagara</orig></lem>
-               <note>One would rather expect <foreign>bhaṭāra</foreign> in this context, as per the <ref target="Canggu.xml">Canggu</ref> inscription 1v1, <foreign>muAṁ pāduka bhaṭāra śrī kr̥tavarddhanabhupālaka</foreign>.</note>
+               <note>One would rather expect <foreign>bhaṭāra</foreign> in this context, as per the <ref target="DHARMA_INSIDENKCanggu.xml">Canggu</ref> inscription 1v1, <foreign>muAṁ pāduka bhaṭāra śrī kr̥tavarddhanabhupālaka</foreign>.</note>
              </app>
            </listApp>
          </div>
@@ -171,7 +171,7 @@
                 </bibl>
                     </listBibl>
                     <listBibl type="secondary">
-                 <bibl><ptr target="bib:NBG55_1917"/><date>1917</date><citedRange unit="volume">55</citedRange><citedRange unit="page">105, 191</citedRange></bibl>
+                 <bibl><ptr target="bib:NBG55_1917"/><citedRange unit="volume">55</citedRange><citedRange unit="page">105, 191</citedRange></bibl>
                </listBibl>
         </div>
       </body>
