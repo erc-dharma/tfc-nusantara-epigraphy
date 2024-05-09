@@ -92,6 +92,7 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
+        <change who="part:wjsa" when="2024-05-09" status="draft">fixed ref and syntax issues in the apparatus</change>
         <change who="part:masc" when="2020-04-11" status="draft">changes made in apparatus and bibliography, resolving issue #49</change>
          <change who="part:masc" when="2020-12-20" status="draft"> started initial encoding of the inscription</change>
       </revisionDesc>
@@ -114,7 +115,7 @@ n="1r2" break="no"/>kəl·, mantrī, huṇḍahagi, yen andikaniṅoṁ, deneka�
   <div type="apparatus">
      <listApp>
        <app loc="1r1">
-         <lem>paramb<unclear>ə</unclear>kəl·</lem>
+         <lem>paramb<unclear>ə</unclear><lb n="1r2" break="no"/>kəl·</lem>
          <rdg source="bib:Issatriadi1975_01 bib:MachiSuhadi+RichadianaKartakusuma1996_01">parambikəl</rdg>
          <note>Compare with the <ref target="DHARMA_INSIDENKSelamandi_I.xml">Selamandi I</ref> inscription, line 1v4: <foreign>hantukira parambəkəl·</foreign>.</note>
        </app>
@@ -127,7 +128,7 @@ n="1r2" break="no"/>kəl·, mantrī, huṇḍahagi, yen andikaniṅoṁ, deneka�
          <rdg source="bib:Issatriadi1975_01 bib:MachiSuhadi+RichadianaKartakusuma1996_01">pavrəpi</rdg>
        </app>
        <app loc="1v2">
-         <lem source="bib:Issatriadi1975_01">samasanak</lem>
+         <lem source="bib:Issatriadi1975_01">samasanak</lem><!--a line break was originally encoded here, but it was removed because it does not in fact occur within this word-->
          <rdg source="bib:MachiSuhadi+RichadianaKartakusuma1996_01">samasavak</rdg>
        </app>
        <app loc="1v3">
