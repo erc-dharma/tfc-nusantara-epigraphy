@@ -80,6 +80,7 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
+         <change who="part:wjsa" when="2024-05-09" status="draft">Fixed ref error and minor syntax errors</change>
          <change who="part:axja" when="2020-11-03" status="draft">Updating toward the encoding template v03</change>
          <change who="part:argr" when="2020-09-24" status="draft">various small revisions</change>
          <change who="part:argr" when="2020-09-17" status="draft">revised translation, commentary and bibliography</change>
@@ -122,7 +123,7 @@
                   </app>
 <app loc="1r6">
 	<lem source="bib:Damais1970_01">tgu<lb n="1r7" break="no"/>hān</lem>
-	<rdg source="bib:Brandes1913_01">tgu<lb break="no"/>hhan</rdg>
+	<rdg source="bib:Brandes1913_01">tguhhan</rdg>
 	<note>I adopt the reading recorded by <bibl><ptr target="bib:Damais1970_01"/><citedRange unit="page">455</citedRange></bibl>.</note>
 </app>
 <app loc="1r7">
@@ -172,7 +173,7 @@ Occurrences of śuddhapariśuddha in OJO XXIII and XLVIII.
 		</bibl>
 	</listBibl>
            <listBibl type="secondary">
-              <bibl>Brandes in 
+              <bibl>
               	<ptr target="bib:NBG34_1896"/>
               	<citedRange unit="page">53</citedRange>
               	<citedRange unit="item">3</citedRange>
@@ -187,7 +188,7 @@ Occurrences of śuddhapariśuddha in OJO XXIII and XLVIII.
 	<bibl><ptr target="bib:Damais1964_01"/><citedRange>123</citedRange></bibl>
 <!-- Pour en revenir à Walaiŋ, nous pouvons ajouter qu'il n'y a aucun doute à avoir qu'il s'agit — en dehors d'autres valeurs possibles — effectivement d'un toponyme, car ce nom est attesté dans la charte de Wuru Tuŋgal de 833 Saka, non seulement comme désignant un wanua ou wanwa, terme que l'on traduit habituellement par « village », mais aussi comme watak, expression que l'on peut rendre par « district » ou « circonscription », car il est certain qu'un watak comprenait plusieurs wanua. Il est curieux que Krom, qui connaissait ce texte, puisqu'il l'avait publié en 1913 avec les autres transcriptions posthumes de Brandes, n'ait pas relevé ce détail (3).  -->
 	<bibl><ptr target="bib:Damais1970_01"/><citedRange unit="page">52</citedRange><citedRange unit="item">149</citedRange></bibl>
-	<bibl><ptr target="bib:Nakada1982_01"/><citedRange unit="page">96-97</citedRange><citedRange unit="part">1</citedRange><citedRange unit="item">105</citedRange><note>Nakada refers to <bibl><ptr target="bib:NBG38_1900"/><citedRange unit="page">108</citedRange><citedRange unit="item">2</citedRange></bibl>, but the paragraph in question concerns another item from the Dieduksman collection; Nakada’s reference to <bibl><ptr target="bib:Krom1911_01"/><citedRange unit="page">245</citedRange></bibl> is likewise a red herring, as the <ref target="Guntur.xml">Guntur inscription</ref> is intended there.</note></bibl>
+	<bibl><ptr target="bib:Nakada1982_01"/><citedRange unit="page">96-97</citedRange><citedRange unit="part">1</citedRange><citedRange unit="item">105</citedRange><note>Nakada refers to <bibl><ptr target="bib:NBG38_1900"/><citedRange unit="page">108</citedRange><citedRange unit="item">2</citedRange></bibl>, but the paragraph in question concerns another item from the Dieduksman collection; Nakada’s reference to <bibl><ptr target="bib:Krom1911_01"/><citedRange unit="page">245</citedRange></bibl> is likewise a red herring, as the <ref target="DHARMA_INSIDENKGuntur.xml">Guntur</ref> inscription is intended there.</note></bibl>
 	<bibl><ptr target="bib:WissemanChristie2009_01"/><citedRange unit="page">45</citedRange></bibl>
 	<bibl><ptr target="bib:WissemanChristie2009_02"/><citedRange unit="page">180</citedRange></bibl>
 <!--De Casparis 1956: 255–256, with n., 57 — De Casparis, loc. cit. wrongly claims that the text contains the term śuddhapatra, although it does contain the terms śuddha and likhitapatra.-->

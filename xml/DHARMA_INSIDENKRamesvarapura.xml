@@ -94,7 +94,7 @@
          <div type="edition" xml:lang="kaw-Latn" rendition="class:38769 maturity:83213">
 <pb n="1r"/><!--Blank outer page.-->
 <p><pb n="1v"/>
-<lb n="1v1"/>// <g type="symbol" subtype="circle"/> // svasti, śaka-varṣātīta, <num value="1197">1197</num>, jyaiṣṭha-māsa, tithi, pañcadaśī śukla-pakṣa, <abbr>tuṁ</abbr>, <abbr>po</abbr>, <abbr>ca</abbr>, vāra gumr̥g·,
+<lb n="1v1"/>// <g type="symbol"/> // svasti, śaka-varṣātīta, <num value="1197">1197</num>, jyaiṣṭha-māsa, tithi, pañcadaśī śukla-pakṣa, <abbr>tuṁ</abbr>, <abbr>po</abbr>, <abbr>ca</abbr>, vāra gumr̥g·,
 <lb n="1v2"/>Uttarastha-grahacāra, mūlā-nakṣatra, toya-devatā, vāyavya-maṇḍala, śukla-yoga, śveta-muhūrtta, viṣṭi-kara<lb n="1v3" break="no"/>ṇa, śaśī-parvveśa, mi<choice><orig>t</orig><reg>th</reg></choice>una-rāśi,</p>
         <p part="I">Irika divaśany ājñā śrī mahārāja rājādhirājā, dyaḥ Ūrddhaja,
           <foreign xml:lang="san-Latn">viṣṇu-kula-kamala-va<lb n="1v4" break="no"/>na-rāja-haṅsa</foreign>, <foreign xml:lang="san-Latn">Aśeṣa-namitāri-bhūpāla-maṇi-makuṭa-<choice><orig>ghr̥rṣ</orig><reg>gharṣ</reg></choice>ita-śrī-pāda-pīṭha</foreign> <foreign xml:lang="san-Latn">sakala-sujana-hr̥daya-kumuda-vikā<lb n="1v5" break="no"/>sa-karaṇa-sūryya-sad<subst><del rend="corrected">ra</del><add place="overstrike">r̥</add></subst>śa</foreign>,
@@ -157,7 +157,7 @@ juru <choice><orig>sa⌈<lb n="13r5" break="no"/>me</orig><reg>sāmya</reg></cho
 <pb n="15v"/>
 <fw n="15v" place="left"><num value="15">15</num></fw>
 <lb n="15v1"/>, mumul tuvira timiṅgila mahāgila, yan riṁ havanevə:ḥ sumə:ṅka kapaguta I luñcipiṁ paras·, tu<lb n="15v2" break="no"/>murun kaduhuṅa kajuṅkə:la pə̄pə̄satikə:l· R̥mpa, riṁ ratā kasopa vulaṅuna <orig>ha<choice><sic>li</sic><corr>lili</corr></choice>ṅə:ṅə:na</orig>, riṅ huda<lb n="15v3" break="no"/>n· samb<choice><orig>ə:</orig><reg>ə</reg></choice>rR̥n deniṁ glap·, yan· paṅher iṅ umaḥ, katibāna bajrāgni tan pavarṣa, limutə:n· gsə:ṅa<lb n="15v4" break="no"/>na deni saṁ hyaṁ Agnī, vehə:n· basmĭbhūta saha dravyanya tan panoliha ri vuntat·, taruṁ riṁ paṅadə:gan·
-<lb n="15v5"/>, tampyal· ri kiva, Uvahi ri tṅə:nan·, tutuh uṇḍuhanya,<!--This has not been encoded yet, the footnote is still in red--> blaḥ kapālanya, ḍaḍat i və:tə:ṁnya tke ḍaḍa<lb n="15v6" break="no"/>nya, və:tvakə:n· daL̥manya, Inum· rāḥnya, Atə:hə:r pə:pə:dakə:n· bvaṅakə:n· vkas i prāṇāntika, bva<lb n="15v7" break="no"/>ṅakə:n· ri mahārorava, Astu Astu, <g type="symbol" subtype="punctuation-sign"/> || <g type="symbol" subtype="punctuation-sign"/>, yăvat pratiṣṭate bhūmo, mahāmeru suparvvataḥ, tăva<lb n="15v8" break="no"/>t kilviṣabhūktiḥ syāt·, rājānugrahalaṅghyanāt·, <g type="symbol" subtype="punctuation-sign"/>, yo rājānugrahaṁ hatvā, mohād mŭrko na-<!-- still need to be encoded, do you have any idea what  akṣaras which may appear of the following plate?-->
+<lb n="15v5"/>, tampyal· ri kiva, Uvahi ri tṅə:nan·, tutuh uṇḍuhanya,<!--This has not been encoded yet, the footnote is still in red--> blaḥ kapālanya, ḍaḍat i və:tə:ṁnya tke ḍaḍa<lb n="15v6" break="no"/>nya, və:tvakə:n· daL̥manya, Inum· rāḥnya, Atə:hə:r pə:pə:dakə:n· bvaṅakə:n· vkas i prāṇāntika, bva<lb n="15v7" break="no"/>ṅakə:n· ri mahārorava, Astu Astu, <g type="symbol"/> || <g type="symbol"/>, yăvat pratiṣṭate bhūmo, mahāmeru suparvvataḥ, tăva<lb n="15v8" break="no"/>t kilviṣabhūktiḥ syāt·, rājānugrahalaṅghyanāt·, <g type="symbol"/>, yo rājānugrahaṁ hatvā, mohād mŭrko na-<!-- still need to be encoded, do you have any idea what  akṣaras which may appear of the following plate?-->
 </p>
          </div>
          <div type="apparatus">
@@ -761,7 +761,7 @@ juru <choice><orig>sa⌈<lb n="13r5" break="no"/>me</orig><reg>sāmya</reg></cho
                    <app loc="14r6">
                        <lem><orig>mamu<choice><sic>kanmukan·</sic><corr>ka</corr></choice> bandhana</orig></lem>
                        <rdg source="bib:MachiSuhadi2003_01">mamukan-mukan·bandhana</rdg><!-- Should we move Machi Suhadi as lem source?-->
-                       <note>See <ref target="Śobhāmṛta.xml">Śobhāmṛta</ref> 6v3 <foreign>maṅliriŋ ta saŋ makudur. mapaṅaliḥ motarasaṅga. mamukhawandhanā</foreign>; <title><abbr>OJO</abbr></title> 48 (943) vo 20: <foreign>maṅḍiri ta saṅ makudur mapaṅalih mottarāsaṅga mamukhabhandana</foreign>; <title><abbr>OJO</abbr></title> 83 (1323) 9a: <foreign>maṅḍiri tekaṅ wadihati riṅ sabhāmadhya i sor niṅ turumbukan, təlas mottarāsaṅga mamukhawandhana</foreign>.</note>
+                       <note>See <ref target="DHARMA_INSIDENKŚobhāmṛta.xml">Śobhāmṛta</ref> 6v3 <foreign>maṅliriŋ ta saŋ makudur. mapaṅaliḥ motarasaṅga. mamukhawandhanā</foreign>; <title><abbr>OJO</abbr></title> 48 (943) vo 20: <foreign>maṅḍiri ta saṅ makudur mapaṅalih mottarāsaṅga mamukhabhandana</foreign>; <title><abbr>OJO</abbr></title> 83 (1323) 9a: <foreign>maṅḍiri tekaṅ wadihati riṅ sabhāmadhya i sor niṅ turumbukan, təlas mottarāsaṅga mamukhawandhana</foreign>.</note>
                    </app>
                    <app loc="14r6-14r7">
                        <lem>mandə:lan· pāda</lem>
@@ -786,7 +786,7 @@ juru <choice><orig>sa⌈<lb n="13r5" break="no"/>me</orig><reg>sāmya</reg></cho
                    <app loc="14v2-14v3">
                        <lem>ravi śaśī kṣity āpas tejo kāśa</lem>
                        <rdg source="bib:MachiSuhadi2003_01">ravi śaśi kṣityā paste jokāśa</rdg>
-                       <note>The list is incomplete. Cf. <ref target="Tuhañaru.xml">Tuhañaru</ref> 9v2: <foreign>ravi śaśi pṛthivy āpas tejo bāyv ākāśa</foreign>. This is stil incomplete. In <ref target="Adan-Adan.xml">Adan-Adan</ref> we find a complete list also having <foreign>Yajamāna</foreign>.</note>
+                       <note>The list is incomplete. Cf. <ref target="Tuhañaru.xml">Tuhañaru</ref> 9v2: <foreign>ravi śaśi pṛthivy āpas tejo bāyv ākāśa</foreign>. This is stil incomplete. In <ref target="DHARMA_INSIDENKAdanAdan.xml">Adan-Adan</ref> we find a complete list also having <foreign>Yajamāna</foreign>.</note>
                    </app>
                    <app loc="14v3">
                        <lem><orig><choice><sic>yakṣasa</sic><corr>yakṣa rākṣasa</corr></choice></orig></lem>
@@ -823,7 +823,7 @@ juru <choice><orig>sa⌈<lb n="13r5" break="no"/>me</orig><reg>sāmya</reg></cho
                    </app>
                    <app loc="14v5">
                        <lem source="bib:MachiSuhadi2003_01">caturaśraya</lem>
-                       <note>Many parallel passages, among them <ref target="Adan-Adan.xml">Adan-Adan</ref> show here<foreign> caturāśra</foreign>/<foreign>caturaśra</foreign>.</note>
+                       <note>Many parallel passages, among them <ref target="DHARMA_INSIDENKAdanAdan.xml">Adan-Adan</ref> show here<foreign> caturāśra</foreign>/<foreign>caturaśra</foreign>.</note>
                    </app>
                    <app loc="14v6">
                        <lem>bhŭtagaṇa</lem>
@@ -855,7 +855,7 @@ juru <choice><orig>sa⌈<lb n="13r5" break="no"/>me</orig><reg>sāmya</reg></cho
                    </app>
                    <app loc="15r2">
                        <lem source="bib:MachiSuhadi2003_01">gr̥hastha, bhikṣuka</lem>
-                       <note>The word <foreign>vanaprastha</foreign> would normally have to be assumed to be missing between these two items (see <ref target="Sarvadharma.xml">Sarvadharma</ref>), but the same is missing also in <ref target="Mādhavapura.xml">Mādhavapura</ref>.</note>
+                       <note>The word <foreign>vanaprastha</foreign> would normally have to be assumed to be missing between these two items (see <ref target="DHARMA_INSIDENKSarvadharma.xml">Sarvadharma</ref>), but the same is missing also in <ref target="DHARMA_INSIDENKMadhawapura.xml">Mādhavapura</ref>.</note>
                    </app>
                    <app loc="15r2-15r3">
                        <lem>pinhey akurug ava<unclear>j</unclear>uh anak thāni</lem>
@@ -880,7 +880,7 @@ juru <choice><orig>sa⌈<lb n="13r5" break="no"/>me</orig><reg>sāmya</reg></cho
                    <app loc="15r5">
                        <lem><orig>Upa<sic>ṇari</sic><corr>la si</corr>ma</orig></lem>
                        <rdg source="bib:MachiSuhadi2003_01">Usana rima</rdg>
-                       <note>Cf. <ref target="Mādhavapura.xml">Mādhavapura</ref> Ca5–6 <foreign>ṅunive<unclear>ḥ</unclear> yan paṁdavuta ri saṁ hyaṁ Upala sima, Aṅalihakna ri tan sayogya U<unclear>ṅgvana</unclear>nira</foreign>. The error in the present inscription is easily explained in the light of the graphic similarity between <foreign>ṇarima</foreign> and <foreign>lasima</foreign>.</note>
+                       <note>Cf. <ref target="DHARMA_INSIDENKMadhawapura.xml">Mādhavapura</ref> Ca5–6 <foreign>ṅunive<unclear>ḥ</unclear> yan paṁdavuta ri saṁ hyaṁ Upala sima, Aṅalihakna ri tan sayogya U<unclear>ṅgvana</unclear>nira</foreign>. The error in the present inscription is easily explained in the light of the graphic similarity between <foreign>ṇarima</foreign> and <foreign>lasima</foreign>.</note>
                    </app>
                    <app loc="15r5-15r6">
                        <lem>kabyə:t karmmāknanya</lem>
@@ -889,7 +889,7 @@ juru <choice><orig>sa⌈<lb n="13r5" break="no"/>me</orig><reg>sāmya</reg></cho
                    <app loc="15r6">
                        <lem><choice><orig>sa</orig><reg>saṁ</reg></choice>sāra</lem>
                        <rdg source="bib:MachiSuhadi2003_01">sasara</rdg>
-                       <note>Cf. <ref target="Mādhavapura.xml">Mādhavapura</ref>.</note>
+                       <note>Cf. <ref target="DHARMA_INSIDENKMadhawapura.xml">Mādhavapura</ref>.</note>
                    </app>
                    <app loc="15r6">
                        <lem>dāyānta</lem>
@@ -930,7 +930,7 @@ juru <choice><orig>sa⌈<lb n="13r5" break="no"/>me</orig><reg>sāmya</reg></cho
                    <app loc="15v2">
                        <lem><orig>ha<choice><sic>li</sic><corr>lili</corr></choice>ṅə:ṅə:na</orig></lem>
                        <rdg source="bib:MachiSuhadi2003_01">hyaṁ riṅ iraṅina</rdg>
-                       <note>Cf. <ref target="Adan-Adan.xml">Adan-Adan</ref></note>
+                       <note>Cf. <ref target="DHARMA_INSIDENKAdanAdan.xml">Adan-Adan</ref></note>
                    </app>
                    <app loc="15v2-15v3">
                        <lem>riṅ hudan·</lem>

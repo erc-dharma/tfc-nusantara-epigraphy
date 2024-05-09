@@ -105,7 +105,7 @@
                   </app>
 	<app loc="14r2">
                      <lem><choice><sic>baye</sic><corr>byaya</corr></choice></lem>
-                     <note>The text elsewhere has <foreign>byaya</foreign> (14rv1) or <foreign>byāya</foreign> (14r5). Cf. also <ref target="Kurungan.xml">Kurungan</ref>, line 4: <foreign>piṇḍa pirak vyaya</foreign>.</note>
+                     <note>The text elsewhere has <foreign>byaya</foreign> (14rv1) or <foreign>byāya</foreign> (14r5). Cf. also <ref target="DHARMA_INSIDENKKurungan.xml">Kurungan</ref>, line 4: <foreign>piṇḍa pirak vyaya</foreign>.</note>
                   </app>
 	<app loc="14r3">
 		<lem>samāṅanti<supplied reason="omitted">ḥ</supplied></lem>
@@ -118,7 +118,7 @@
 	<app loc="14v1">
 		<lem>pūjā-<supplied reason="omitted">ja</supplied>pa bisuvāṅkə:n·</lem>
 		<rdg source="bib:Naerssen1941_01">pūjā pabisurāṅkə:n·</rdg>
-		<note><bibl><ptr target="bib:Zoetmulder1982_01"/><citedRange unit="entry"><foreign>biṣuva</foreign>, <foreign>pabiṣuva</foreign></citedRange></bibl> noted that van Naerssen's <foreign>r</foreign> had to be read <foreign>v</foreign>, but did not see that the sequence <foreign>pūjāpa</foreign> is a haplographic error for <foreign>pūjā-japa</foreign>, as found in <ref target="AirAsih.xml">Air Asih</ref> r5 and <ref target="Parablyan.xml">Parablyan</ref> r4.</note>
+		<note><bibl><ptr target="bib:Zoetmulder1982_01"/><citedRange unit="entry"><foreign>biṣuva</foreign>, <foreign>pabiṣuva</foreign></citedRange></bibl> noted that van Naerssen's <foreign>r</foreign> had to be read <foreign>v</foreign>, but did not see that the sequence <foreign>pūjāpa</foreign> is a haplographic error for <foreign>pūjā-japa</foreign>, as found in <ref target="DHARMA_INSIDENKAirAsih.xml">Air Asih</ref> r5 and <ref target="DHARMA_INSIDENKParablyan.xml">Parablyan</ref> r4.</note>
 	</app>
 <!--
 	14v3–4. pamahayv asiṁ: pamahayva siṁ vN. Note the wrong word division.

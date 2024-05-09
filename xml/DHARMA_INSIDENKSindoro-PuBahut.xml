@@ -110,7 +110,7 @@
                   <app loc="..."/>
 	<app loc="1v7">
                      <lem><choice><sic>dhamarī</sic><corr>dharmmī</corr></choice></lem>
-		<note>The correction follows from the appearance of the same name in the <ref target="Sindoro-PuBahut.xml">Pu Bahut inscription</ref>.</note>
+		<note>The correction follows from the appearance of the same name in the <ref target="DHARMA_INSIDENKSindoro-PuBahut.xml">Pu Bahut inscription</ref>.</note>
                   </app>
                </listApp>-->
          </div>
@@ -139,7 +139,7 @@ the <foreign>matahun</foreign> <supplied reason="explanation">called</supplied> 
          </div>
          <div type="commentary">
            <p n="1r2">The toponym Lo Dvāṅ occurs also in the <ref target="Vukiran.xml">Vukiran inscription</ref>, and the present second attestation of this name requires rethinking of the argument I made in <bibl><ptr target="bib:Griffiths2011_02"/><citedRange unit="page">145</citedRange><citedRange unit="note">37</citedRange></bibl> in favor of interpreting the <foreign>ṅ</foreign> as definite article which would allow understanding the toponym as meaning <q>Two Banyans</q>.</p>
-	<p n="1v4-1v5">Instead of <foreign>pu</foreign> Ganal and <foreign>pu</foreign> Prya, we see <foreign>pu</foreign> Sādhu and <foreign>pu</foreign> Radin in the corresponding passage of the <ref target="Sindoro-PuMamruk.xml">Pu Mamruk inscription</ref>.</p>
+	<p n="1v4-1v5">Instead of <foreign>pu</foreign> Ganal and <foreign>pu</foreign> Prya, we see <foreign>pu</foreign> Sādhu and <foreign>pu</foreign> Radin in the corresponding passage of the <ref target="DHARMA_INSIDENKSindoro-PuMamruk.xml">Pu Mamruk inscription</ref>.</p>
          </div>
         <div type="bibliography">
            <p>Previously unpublished. Edited here by Arlo Griffiths on the basis of photos shared by Zakariya Pamuji Aminullah in 2015.</p>

@@ -97,7 +97,7 @@
          <div type="edition" xml:lang="kaw-Latn">
  <pb n="1r"/><!--Blank outer page.-->
  <p><pb n="1v"/>
- <lb n="1v1"/>// ḥ <g type="symbol" subtype="eye"/> ḥ // svasti śakavarṣātīta, <num value="1218">1218</num>, k<choice><orig>a</orig><reg>ā</reg></choice>rttikamāsa, tīthi, dvitīya śuklapakṣa, <abbr>tuṁ</abbr>, <abbr>ka</abbr>, <abbr>ca</abbr>, vā<lb n="1v2" break="no"/>ra, kuniṅan·, dakṣiṇasthagrahacāra, Adrānakṣatra, mitrādevatā, baruṇamaṇḍala, Atigaṇḍa<lb n="1v3" break="no"/>yoga, vairājyamuhūrtta, kuveraparvveśa, valavakāraṇa, mr̥cchikarāśi,</p>
+ <lb n="1v1"/>// ḥ <g type="symbol"/> ḥ // svasti śakavarṣātīta, <num value="1218">1218</num>, k<choice><orig>a</orig><reg>ā</reg></choice>rttikamāsa, tīthi, dvitīya śuklapakṣa, <abbr>tuṁ</abbr>, <abbr>ka</abbr>, <abbr>ca</abbr>, vā<lb n="1v2" break="no"/>ra, kuniṅan·, dakṣiṇasthagrahacāra, Adrānakṣatra, mitrādevatā, baruṇamaṇḍala, Atigaṇḍa<lb n="1v3" break="no"/>yoga, vairājyamuhūrtta, kuveraparvveśa, valavakāraṇa, mr̥cchikarāśi,</p>
  <p>Irikā divaśanyājñā
 <lb n="1v4"/>śrī mahārāja, śrī yava-bhuvana-parameśvara, <foreign xml:lang="san-Latn">Aninditānubhāva-par<choice><orig>a</orig><reg>ā</reg></choice>krama kalpa-druma-p<choice><orig>a</orig><reg>ā</reg></choice>rijāta-nā<lb n="1v5" break="no"/>ma-samānādhikaraṇa</foreign>, <foreign xml:lang="san-Latn">kṣatra-vaṅśa-kula-vyapagata-ghaṇa-gagaṇa-tārā-gaṇa-saṁkīrṇa-pūrṇa-śaśāṅka-nirbhi<lb n="1v6" break="no"/>nna</foreign>, <foreign xml:lang="san-Latn">saṅgrāma-śūra-śūratara-śūra</foreign>, <foreign xml:lang="san-Latn">jagat-kāla-kūṭāri-rāja-dhvaṅsa-kāra</foreign>, <foreign xml:lang="san-Latn"><choice><sic>sāśa</sic><corr>śāsa</corr></choice>nāntaka-nara-vara-śiraccheda<pb n="2r" break="no"/><lb n="2r1" break="no"/>kāraṇa</foreign>, <foreign xml:lang="san-Latn">vivarṇṇa-pariśūnya-samasta-ripu-hetuka</foreign>, <foreign xml:lang="san-Latn">sakala-sujana-hr̥daya-kamala-vika-sat-sūryya-sa<lb n="2r2" break="no"/>dr̥śa</foreign>, <foreign xml:lang="san-Latn">yava-bhuvan<choice><orig>e</orig><reg>ai</reg></choice>k<choice><orig>a</orig><reg>ā</reg></choice>gra-citta-nipu<choice><sic>n</sic><corr>ṇ</corr></choice>a-prārthi-sthity-ekātapatra</foreign>, rakryān· mantrī saṅgrāmavija§<lb n="2r3" break="no"/>ya śrī kr̥tarājasa jayavārddhana nāmarājābhiṣeka, sacaturbhrātr̥patnīka, sacchāya ta sira lā<lb n="2r4" break="no"/>van sira śrī rantən· hajinira catus<choice><orig>a</orig><reg>ā</reg></choice>nak·, samasta-kr̥tanagara-duhitā, paḍa ta sira putrī d<lb n="2r5" break="no"/>e bhaṭāra śrī kr̥tanagara, sira saṁ līna ri śivabuddhālaya, mak<choice><orig>a</orig><reg>ā</reg></choice>di śrī parameśvarī, dyaḥ
   <lb n="2r6"/>devī tribhuvaneśvarī, śrī mahādevī, dyaḥ devī narendraduhitā, śrī jayendrade<pb n="2v" break="no"/>
@@ -169,7 +169,7 @@
 </app>
 <app loc="1v3">
   <lem>vairājyamuhūrtta, kuveraparvveśa, valavakāraṇa, mr̥cchikarāśi</lem>
-  <note>These elements are identical to the corresponding elements in <ref target="Sarvadharma.xml">Sarvadharma</ref>.</note>
+  <note>These elements are identical to the corresponding elements in <ref target="DHARMA_INSIDENKSarvadharma.xml">Sarvadharma</ref>.</note>
 </app>
 <app loc="1v3">
   <lem>mr̥cchika-</lem>
@@ -178,7 +178,7 @@
 </app>
 <app loc="1v5">
   <lem><foreign xml:lang="san-Latn">kṣatra-vaṅśa-kula-vyapagata-ghaṇa-gagaṇa-tārā-gaṇa-saṁkīrṇa-pūrṇa-śaśāṅka-nirbhi<lb n="1v6" break="no"/>nna</foreign></lem>
-  <note>This epithet is paralleled in <ref target="Adan-adan.xml">Adan-adan</ref>, lines 2r4-2v1.</note>
+  <note>This epithet is paralleled in <ref target="DHARMA_INSIDENKAdanAdan.xml">Adan-adan</ref>, lines 2r4-2v1.</note>
 </app>
 <app loc="3v2">
   <lem>-<choice><sic>s</sic><corr>ś</corr></choice>alabha-gha<supplied reason="omitted">r</supplied>ṣita-</lem>
@@ -191,7 +191,7 @@
 <app loc="4r3">
   <lem>bhajorddhvatā-</lem>
   <rdg source="bib:Poerbatjaraka1940_01"><choice><sic>bha</sic><corr>rā</corr></choice>jorddhvatā-</rdg>
-  <note>Poerbatjaraka proposes to correct <foreign>rājorddhvatā</foreign>, in view of the parallel structure of the compound lines 4r5-6: <foreign>rājorddhvatā-sarvva-nīti-dakṣo<lb break="no"/>padeśa-nipu<choice><sic>n</sic><corr>ṇ</corr></choice>a-samasta-jana-karuṇika-sādhana-paripāla<supplied reason="omitted">na</supplied></foreign>.</note>
+  <note>Poerbatjaraka proposes to correct <foreign>rājorddhvatā</foreign>, in view of the parallel structure of the compound lines 4r5-6: <foreign>rājorddhvatā-sarvva-nīti-dakṣopadeśa-nipu<choice><sic>n</sic><corr>ṇ</corr></choice>a-samasta-jana-karuṇika-sādhana-paripāla<supplied reason="omitted">na</supplied></foreign>.</note>
 </app>
 <app loc="4r5">
   <lem>-varddhana-</lem>
@@ -209,7 +209,7 @@
 <!-- <app loc="5r1">
   <lem>paṅka<choice><sic>ḥ</sic><corr>ja</corr></choice></lem>
   <rdg source="bib:Poerbatjaraka1940_01">paṅkaḥ</rdg>
-  <note>The jurisdiction/territory of Paṅkaja is known from many other inscriptions with a similar provenance. Cf. <foreign>thāni vatək paṅkaja</foreign> in <ref target="Kamalagyan.xml">Kamalagyan</ref>; <ref target="Terep_II.xml">Terep II</ref>, MNI E.79 II, also from Penanggungan, IIa1; Sobhamerta etc.</note>
+  <note>The jurisdiction/territory of Paṅkaja is known from many other inscriptions with a similar provenance. Cf. <foreign>thāni vatək paṅkaja</foreign> in <ref target="DHARMA_INSIDENKKamalagyan.xml">Kamalagyan</ref>; <ref target="Terep_II.xml">Terep II</ref>, MNI E.79 II, also from Penanggungan, IIa1; Sobhamerta etc.</note>
 </app> -->
 <app loc="5v1">
 <lem>-p<choice><orig>i</orig><reg>ī</reg></choice>ṭha-</lem>
