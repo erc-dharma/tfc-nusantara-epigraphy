@@ -21,15 +21,15 @@
             </respStmt>
             <respStmt>
                <resp>intellectual authorship of edition</resp>
+            	<persName ref="part:tisn">
+            		<name>Titi Surti Nastiti</name>
+            	</persName>
                <persName ref="part:ekba">
                   <name>Eko Bastiawan</name>
                </persName>
                <persName ref="part:argr">
                   <forename>Arlo</forename>
                   <surname>Griffiths</surname>
-               </persName>
-               <persName ref="part:tisn">
-                  <name>Titi Surti Nastiti</name>
                </persName>
             </respStmt>
             </titleStmt>
