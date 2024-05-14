@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Charter of Hering (856 Śaka)</title>
+            	<respStmt>
+            		<resp>EpiDoc Encoding</resp>
+            		<persName ref="part:argr">
+            			<forename>Arlo</forename><surname>Griffiths</surname>
+            		</persName>
+            	</respStmt>
+            	<respStmt>
+            		<resp>intellectual authorship of edition</resp>
+            		<persName ref="part:argr">
+            			<forename>Arlo</forename>
+            			<surname>Griffiths</surname>
+            		</persName>
+            		<persName ref="part:ekba">
+            			<name>Eko Bastiawan</name>
+            		</persName>
+            	</respStmt>
+            </titleStmt>
+        	<publicationStmt>
+        		<authority>DHARMA</authority>
+        		<pubPlace>Jakarta</pubPlace>
+        		<idno type="filename">DHARMA_INSIDENKHering</idno>
+        		<availability>
+        			<licence target="https://creativecommons.org/licenses/by/4.0/">
+        				<p>This work is licensed under the Creative Commons Attribution 4.0 Unported
+        					Licence. To view a copy of the licence, visit
+        					https://creativecommons.org/licenses/by/4.0/ or send a letter to
+        					Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+        					California, 94041, USA.</p>
+        				<p>Copyright (c) 2019-2025 by Arlo Griffiths &amp; Eko Bastiawan.</p>
+                    </licence>
+                </availability>
+                <date from="2019" to="2025">2019-2025</date>
+            </publicationStmt>
+            <sourceDesc><!-- only the handDesc can be filled in at this stage -->
+                <msDesc><!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/><!-- don't modify this -->
+                    </msIdentifier>
+                    <msContents><!-- describe the intellectual content of an inscription -->
+                        <summary><!-- //// NOT MANDATORY  ////--></summary> <!-- offers the possibility to give a summary of the inscription's content -->
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p><!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EGD 11.2. --></p>
+                            <!-- If you need to identify individual hands (EGD §7.5/) in addition to one or more paragraphs of general palaeographic description, wrap <summary> around the <p> or <p>s above, and, outside <summary>, create <handNote> elements for each hand as follows:
+						<summary><p><p/></summary>
+						<handNote xml:id="Pallava00001_hand1"></handNote>
+						<handNote xml:id="Pallava00001_hand2"></handNote>
+					 -->
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
+            </projectDesc>
+            <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/><!-- UPDATE the link once the release is made official -->
+            <listPrefixDef>
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                    <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
+                </prefixDef>
+                <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
+                    <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_idListMembers_v01.xml</ref> file.</p>
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <revisionDesc>
+        	<change who="part:argr" when="2023-05-14" status="draft">started encoding the inscription</change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:space="preserve">
+      <body>
+         <div type="edition" xml:lang="san-Latn" rendition="class:38769 maturity:83213">
+<p><milestone type="pagelike" unit="face" n="A"/><label xml:lang="eng">Front</label><lb n="A1"/>svasti saka-vārṣătīta 8(56) jeṣṭa-māsa tithi sapta[mī]
+<lb n="A2"/>śukla-pakṣa, ha, va, vr̥, vāra, Agneyastha, pŭrbaphalguṇa<lb break="no" 
+n="A3"/>-nakṣatra, toya-devatā, bajra-yoga, garaḍi-kăraṇa, Irikā
+<lb n="A4"/>divāsany ăjñă śrī mahārāja pu siṇḍok· śrī Ĭśănavikrama dharmo<lb break="no" 
+n="A5"/>t⟨t⟩uṅgadeva, tinaḍaḥ rakryān· mapiṅhe kaliḥ, rake hiṇo pu saha<lb break="no" 
+n="A6"/>sra, rake vka pu balīśvara, Umiṅsor· I rake kanuruhan· pŭdā, kumo<lb break="no" 
+n="A7"/>nakan· Ikanaṁ lmaḥ savaḥ kakaṭikān· I hriṁ vatak· margaṇuṁ vinavaniṁ va<lb break="no" 
+n="A8"/>huta hujuṁ, Ukurnya tampaḥ 4 suku 1 mvaṁ lmaḥ pomahanya tampaḥ 1 suku 1 simā<lb break="no" 
+n="A9"/>n· susukan· de samgat· margaṇuṁ pu daṅhil· panumbas· pu daṅhil· Irika
+<lb n="A10"/>savaḥ kakaṭikan· mā kā 5 su (3) pratyekanikaṅ vaṁ ri hriṁ tinumbas· lmaḥnya
+<lb n="A11"/>Ikāṁ Iṁ pomahan· si sukat· mvaṁ si bhaṭikā Anak· saṁ R̥kat· putu<lb break="no" 
+n="A12"/>nya si cablut·⟨,⟩ si mevəḥ putu saṁ kuvu, si bəṅal· Anak· saṁ vipula, si vay(u)<lb break="no" 
+n="A13"/>ga, Anak saṁ bilak·, saṁ maṁruput· kapvanakan· saṁ sogata, saṁ daka, si lo(ca)<lb break="no" 
+n="A14"/>kāsok· Anak· saṁ codā, si muṅsil· Anak· saṁ baśri, si tatu mvaṁ si ta<lb break="no" 
+n="A15"/>mbəm· Anak saṁ talā, si paṇḍyāsan· Anak· saṁ loka, si travəl· Anak· 
+<lb n="A16"/>saṁ chāyā, si turaṁ Anak· saṁ tapa⟨,⟩ si kaṣī Anak· saṁ paravana, si cakuḍik· Ana<lb break="no" 
+n="A17"/>k· saṁ gusir·⟨,⟩ saṁ palū⟨,⟩ si ḍeṇḍa Anak· saṁ sarupī, si tikas· Anak· saṁ ḍampil·⟨,⟩ si
+<lb n="A18"/>[ra](ja)ḥ Anak· saṁ kaḥ⟨,⟩ si takī Anak[· sa]ṁ (ja)man·⟨,⟩ saṁ bandəṁ Anak· saṁ pdampalī, si gigi<lb break="no" 
+n="A19"/>(s·) Anak· _ saṁ huraṁ, kaki jurvan· Anak· saṁ tira, si herruka Anak· saṁ bu<lb break="no" 
+n="A20"/>R̥t·⟨,⟩ si padvāla putu saṁ bāhu_tī, si sinti mvaṁ si vijaya, si bala Anak· saṁ pula⟨,⟩
+<lb n="A21"/>si gañjut· Anak· saṁ kapi, si tami Anak· saṁ daman·, piṇḍa panumbas· samgat· mā<lb break="no" 
+n="A22"/>rgaṇuṁ pu daṅhil· Irikaṁ lmaḥniṁ samaṅkana mā kā 1 su 13 mā 14 kunaṁ pamahli pu
+<lb n="A23"/>daṅhil· Irikaṅ vihan·_tan· I sira Arthahetoḥ saṁ prasăntamatiḥ mā su 11 paṅi<lb break="no" 
+n="A24"/>lu samgat· Anakbi dyaḥ pəṇḍəl· mā su 5 piṇḍa pamahli pu daṅhil· mvaṁ sira stri samgat· 
+<lb n="A25"/>Anakbi dyah pəṇḍəl· Irikanaṁ vihantan· mā su 16 mat(ə)hə(r) ta samgat· Anakbi dyaḥ pə<lb break="no" 
+n="A26"/>ṇḍəl· milu makadharmma Ika(ṁ) vihantan· kinalihannira, mvaṁ samgat· margaṇuṁ pu daṅhi<lb break="no" 
+n="A27"/>l· maveḥ ta sira kāliḥ cihnāni pagəḥ denira humli Ikaṁ vihantan·⟨,⟩ ḍopāddhya
+<lb n="A28"/>I vtəḥ-vtəḥ InaṁsəAn· pasək· mā 4⟨,⟩ sumrahākan· Ikaṁ pasak· I ḍopāddhya I vtəḥ-vtəḥ
+<lb n="A29"/>mandami kaki jurvan· saṁ hadyan· Akalambi haji saṁ bayaḥ I vadihati vine_ḥ pasək·
+<lb n="A30"/>mā 2 ku 2 I makudur· saṁ taja(ṁ) saṁ bvaṁ-bvaṁ vineḥ pasak· mā 2 ku 2 kinalihannira 
+<lb n="A31"/>patiḥ nāyaka lampuran· I margaṇuṁ saṁ ra yasām· makaṅaran· kayu, marhaṁ
+<lb n="A32"/>– – – – – duṁ(h)u pramukha vi[n]eḥ pasak· mā 2 ka 2 kinabehan·, vahuta I mārgaṇuṁ
+<lb n="A33"/>nāyaka lampuran· sira hujuṁ maṅaran· (svādhyăyi, viku,) piliḥ⟨⟨h mā⟩⟩mas· pramukha
+<lb n="A34"/>vineḥ pasak· mā 2 ku 2 kinabaiḥhanya, matəhər· tikaṁ vihantan· ma(ṅara)n·
+<lb n="A35"/>traya – pasuṁhanuryyasab· sinuśuk· mvaṁ Ika sĭmma samgat· mārgaṇuṁ pu daṅhi<lb break="no" 
+n="A36"/>[l·], pak(n)anikanaṁ sĭma, putrăṅ[śa] kali[l]irāna deniṅ anak· putu pu<milestone type="pagelike" unit="face" n="B" break="no"/><label xml:lang="eng">Back</label><!-- how does the text connext with B1? -->
+<lb n="B1"/>la[van· I]kanaṁ lma[ḥ su]su(k· ka)<lb break="no" 
+n="B2"/>kaṭikan· {around 8 akṣ. lost} [ta]n· kolah-u<lb break="no" 
+n="B3"/>la(ḥ)ha {around 9 akṣ. lost} [maṅkana Iṣṭa](pra)[yo]ja_na śrī ma<lb break="no" 
+n="B4"/>hārāja {around 12 akṣ. lost} [samgat·] (margaṇuṁ Anuṁ)
+<lb n="B5"/>sĭ(ma) {around 10 akṣ. lost} (I)kiṁ lmaḥ savaḥ kakaṭikan· I (viha)<lb break="no" 
+n="B6"/>[ntan·] {around 12 akṣ. lost} [ta](n·) [katamāna de] saṁ mānak·
+<lb n="B7"/>katrīṇi, paṁkur, [tavān·,] tirip·, (piṅhe), vahuta [muAṁ saprakāraniṁ] maṅilala
+<lb n="B8"/>d[ra](v)ya haji(,) _(r)iṁ daṅū(,) [miśra parāmiśra], vulu-(vu)lu [prakā]ra, paṅuraṁ⟨,⟩ kriṁ, (p)aḍam·, manimpi<lb break="no" 
+n="B9"/>(ki), paranakan·, (l)i(m)us· galuḥ, paṁriñca, maṅhu(r)i(,) paraṁ, suṅka, dura, paṅaru<lb break="no" 
+n="B10"/>han·, taji, vatu tajam·, su_kun·, halu varaka, ra_kadut·, pi<lb break="no" 
+n="B11"/>nilai, kataṅgaran·, tapa haji, Air haji, malandaṁ, L̥ca, L̥b-la<lb break="no" 
+n="B12"/>b·, kalaṁkaṁ, kutak·, taṅkil·, tr̥pan·, saluIt·, vatu valaṁ, pamani<lb break="no" 
+n="B13"/>kan·⟨,⟩ maniga, sikpan·, rumban·, vilaṁ vanva, viji kavaḥ, tiṁkas·, māvī, manambaṅi, tuha
+<lb n="B14"/>(da)gaṁ, saṁhiran·, juru gosali, maṁrumbe, ma(ṁ)guñje(,) tuha⟨n⟩ nambi, tuhan· huñjəman·,
+<lb n="B15"/>[tu]han· juḍi, juru jalir·, pabisar·⟨,⟩ paguluṁ, mavuṁkunuṁ⟨,⟩ puluṁ paḍi, miśra hino, vli ha<lb break="no" 
+n="B16"/>(p)u, vli vaduṁ, vli tambaṁ, vli pañjut·, vli haR̥ṁ, palamak·⟨,⟩ pakalu(ṁ)kuṁ, Urutan·⟨,⟩ dampulan·⟨,⟩
+<lb n="B17"/>təpuṁ kavuṁ, suṁsuṁ⟨,⟩ paṅuraṁ, pasuk alas·, payuṅan·, sipat· bilu/ta\, juṅkuṁ, paṅin-aṅin·⟨,⟩ 
+<lb n="B18"/>pamavasya, hopan·, panrāṅān·, skar· tahun·⟨,⟩ panusuḥ, ma_haliman·,
+<lb n="B19"/>kḍi, valyan·, vidu· maṅiduṁ⟨,⟩ sambā_l·, sumbul·, hulun· haji, siṅgaḥ⟨,⟩
+<lb n="B20"/>pabr̥si, vatak· I jro, (I)tyevamādi tan tama rikanaṁ lmaḥ savaḥ sima kaka<lb break="no" 
+n="B21"/>(ṭi)kan· Ika tkeṁ pomahanya kevalya samgat·  margaṇuṁ pu daṅhil·
+<lb n="B22"/>Ataḥ pramāna I _ sadr̥bya-ha_jinya kabeḥ, maṅkana Ikanaṁ sukhadu⟨ḥ⟩kha ka<lb break="no" 
+n="B23"/>(d)y aṅgan·_ni mayaṁ tan· mavvaḥ, valū rumambat· Iṁ na_tar·, vipati vaṅkay·
+<lb n="B24"/>kabunan·, rāḥ kasavur·, riṁ da_lan·, vak·capala, du(ḥ)hilattan·⟨,⟩ hidu
+<lb n="B25"/>kasira(t·,) Astacapala, mamijilakan· vuriniṅ kikir·⟨,⟩ mamuk·⟨,⟩ Amuṁpaṁ,
+<lb n="B26"/>lūdan·, tuta_n·⟨,⟩ Aṅśapratyaṅśa, ḍaṇḍa kuḍaṇḍa⟨,⟩ bhakḍi_ha_lādi, samga<lb break="no" 
+n="B27"/>t· margaṇuṁ pu daṅhil·, Ataḥ par(ā)_nani (sa)_dr̥_bya-hajinya, kunaṁ
+<lb n="B28"/>Ikanaṁ miśra mañamb(u)l·, mañavriṁ⟨,⟩ maṁlākha, mapahaṅan·, maṅapus·, ma<lb break="no" 
+n="B29"/>ṅubār· maṁgula, maṅdyun·, maṁhapū, maṁhaR̥ṁ, manula vuṁkuḍu, maṁluruṁ ma<lb break="no" 
+n="B30"/>gavai ruṁki, payuṁ vlu, mopiḥ, kajaṁ, magave kisi, mamubut· maṅa<lb break="no" 
+n="B31"/>[na]m-anam·, manavaṁ, ma_naṅkab·, mamisaṇḍuṁ manuk·, makala-kalā, ka<lb break="no" 
+n="B32"/>[pva] ya tri(bhă)gā(n·) dr̥bya-hajinya, saduman· mare samga_t· marga<lb break="no" 
+n="B33"/>[ṇuṁ] pu daṅhil·, saduman· mara Irikaṁ punta makmitan· sĭ_ma sadu<lb break="no" 
+n="B34"/>[man· ma]raha I saṁ maṅilala dr̥bya haji, miśra, maṁka_na parṇnaḥny anugra<lb break="no" 
+n="B35"/>[ha] śrī mahārāja, I [sa]mgat· margaṇuṁ pu daṅhil· tlas· mapagəḥ
+<lb n="B36"/>[ta]n· kolah-ulaha de saṅ anāgata prabhu, mvaṁ piṅhe vahuta rā<lb break="no" 
+n="B37"/>[ma] nāyaka, pārtaya, hatur taliser· tka Iṁ dlāhaniṁ dlāha, ka<lb break="no" 
+n="B38"/>[ma](tan·) Umulah-ula(ḥ) Ikaṁ lmaḥ savaḥ sĭma kakaṭikan· I hriṁ mvaṁ {1 akṣ. illegible}e<milestone type="pagelike" unit="face" n="c" break="no"/><label xml:lang="eng">Lateral LEFF</label><!-- how does this connect with c1? -->
+<lb n="c1"/>siddha laṅghana Iṅ a<lb break="no" 
+n="c2"/>(jña) haji Ikut· maṅka<lb break="no" 
+n="c3"/>na, ya saṅkanani prama<lb break="no" n="c4"/>danya kna_na ya nigra(ha)
+<lb n="c5"/>mā kā 2 _ mā su 1
+<lb n="c6"/>mvaṁ saluIr·niṁ pa(ñ)ca<lb break="no" n="c7"/>mahāpātaka bhu_kti<lb break="no" 
+n="c8"/>nya Iṁ sahasrakoṭi
+<lb n="c9"/>janma Iriku kāla ma<lb break="no" 
+n="c10"/>[ṅa]səAkən· samgat·
+<lb n="c11"/>margaṇuṁ pu daṅhi[l·]
+<lb n="c12"/>pasək·-pasək· I (śrī)
+<lb n="c13"/>mahārāja mā su 5 vḍ(iḥ)<lb break="no" 
+n="c14"/>han· yu 1 rakryan·
+<lb n="c15"/>mapiṅhe I _hi_<lb break="no" 
+n="c16"/>no pu sahasra, rake
+<lb n="c17"/>vka pu balisvara Ina⟨ṁ⟩sə<lb break="no" 
+n="c18"/>An· pasək·-pasək·
+<lb n="c19"/>mā su 1 mā 4 vḍihan· yu
+<lb n="c20"/>1 sovaṁ-sova_ṁ, rake
+<lb n="c21"/>sirikan· pu balyaṁ I<lb break="no" 
+n="c22"/>naṅsəAn· pasək·-pasə<lb break="no" 
+n="c23"/>k· mā 6 /vḍihan·\ yu 1 rakai ka<lb break="no" 
+n="c24"/>nuruhan· pŭ_dā, samga<lb break="no" 
+n="c25"/>t· pikatan· pu sita
+<lb n="c26"/>InaṁsəAn· pasək·<lb break="no" n="c27"/>-pasək· mā 1, vḍihan·
+<lb n="c28"/>yu 1 sovaṁ-sovaṁ [ti]<lb break="no" 
+n="c29"/>ruAn· ḍapunta tarit[i]<lb break="no" 
+n="c30"/>p· Ina⟨ṁ⟩səA_n· pasə<lb break="no" 
+n="c31"/>k·-pasək· mā 5 vḍi[han· ] yu 1
+<lb n="c32"/>vuru tuṅgal· pu baccha pu<lb break="no" 
+n="c33"/>lu vatu pu tikas· I_na⟨ṁ⟩<lb break="no" 
+n="c34"/>səAn· pasək· 3 ma (8) vḍi<lb break="no"
+n="c35"/>han· yu 1 sovaṁ I rake
+<lb n="c36"/>(ha)lāran· pu biṅuṁ Ina⟨ṁ⟩sə<lb break="no" 
+n="c37"/>An· pasək· (su) 2 mā 1 
+<lb n="c38"/>vḍihan· yu 1 maṅhuri pu sa<lb break="no" 
+n="c39"/>daya, laṁ_kā pu ba_b(r)u Ina⟨ṁ⟩<lb break="no" 
+n="c40"/>səAn· pasək· 2 mā 4 vḍi⟨han·⟩                                         
+<lb n="c41"/>hle 1 sovaṁ I vadihati _
+<lb n="c42"/>pu dinakara, Akudur· pu dv(ā)<lb break="no" 
+n="c43"/>ja Ina⟨ṁ⟩səAn· pasək· 2 mā
+<lb n="c44"/> {1 akṣ. lost} vḍihan· yu 1 sovaṁ I 
+<lb n="c45"/>[tu](h)an·n i vadihati 2 mi<lb break="no" 
+n="c46"/>[ra-mira](ḥ U)ta[m]ba(,) _ hala<milestone type="pagelike" unit="face" n="d" break="no"/><label xml:lang="eng">Lateral RIGHT</label><lb break="no" 
+n="d1"/>[ran·] lbur· poḥ, tu[han·]<lb break="no" 
+n="d2"/>n i makudur 2 saṁ va<lb break="no" 
+n="d3"/>tu valaiṁ saṁṅ ula(da)<lb break="no" 
+n="d4"/>(n)· vineḥ pasək· mā
+<lb n="d5"/>(5) vḍihan· hle 1 so<lb break="no" 
+n="d6"/>vaṁ_-sovaṁ, paṅuraṁni
+<lb n="d7"/>vadihati saṁ dulaṁ, manu<lb break="no" 
+n="d8"/>ṅ(gu) saṁ sa(ja)ti, paṅuraṁ I
+<lb n="d9"/>_ makudur· saṁ ra(ma)<lb break="no" 
+n="d10"/>_jha, manuṅ(gū) saṁ (kuntur·)
+<lb n="d11"/>vineḥ pasə_k· mā 5
+<lb n="d12"/>vḍihan· hle 1 sovaṁ<lb break="no" 
+n="d13"/>-sovaṁ, panumbas· {2 akṣ. ille.}
+<lb n="d14"/>minī (si)ra vadi[ha]ti pu ku<lb break="no" 
+n="d15"/>māmpaḥ malo 
+<lb n="d16"/>mā su 1 mā 8 paṅL̥bu<lb break="no" 
+n="d17"/>tusnikanaṁ kaṭik· samgat·
+<lb n="d18"/>vadihati mā su 3
+<lb n="d19"/>panumbas· Irika sarbva<lb break="no" 
+n="d20"/>-saji I saṁ kudur· mā su
+<lb n="d21"/>8 saṁ tuhan· I pakara<lb break="no" 
+n="d22"/>ṇan· makabeḥhan·
+<lb n="d23"/>juru kanayakan I ha<lb break="no" 
+n="d24"/>ji pu kuṇḍuṁ, juru vadvā ra<lb break="no" 
+n="d25"/>rai rakai _ sumbud· juru
+<lb n="d26"/>kalula saṁ ma_ṅalaha<lb break="no" 
+n="d27"/>kan·, citralaikha saṁ lu<lb break="no" 
+n="d28"/>mku ḍaṅ hvan·, parujar· I
+<lb n="d29"/>hino kaṇḍamuhi ḍaṅ a<lb break="no" 
+n="d30"/>cāryya basu I vka vi_ri<lb break="no" 
+n="d31"/>di ḍaṅ acāryya niścaya
+<lb n="d32"/>I sirikan· hujuṅ galuḥ saṁ
+<lb n="d33"/>harivaṅsa I maḍaṇḍər· ḍa<lb break="no" 
+n="d34"/>ṅ acāryya pr̥thu, I bavaṁ 
+<lb n="d35"/>ḍaṅ acāryya netra, I kanu<lb break="no" 
+n="d36"/>ruhan· saṁ ra _ majha I tiruA<lb break="no" 
+n="d37"/>n· sumuḍa_ _n· saṁ ⟨Ā⟩tmāśī(va)
+<lb n="d38"/>I vadihati saṁ ba_ñaṁ{1 akṣ. lost}
+<lb n="d39"/>I makudur· saṁ ra kəvəl· I
+<lb n="d40"/>(tv)itavan· {2 akṣ. illegible} vinaiḥ pasək·<lb break="no" n="d41"/>-pasək· mā 5 k(i)nabaiḥ – – <lb break="no" 
+n="d42"/>ha, cetralaikha I śrī ma[hāra]<lb break="no" 
+n="d43"/>ja rake hambulu pu (b)ra{1 akṣ. illegible}{1 akṣ. lost}
+<lb n="d44"/>baruk· A(ṁ)_kadudu(t·) {2 akṣ. lost}<lb break="no" 
+n="d45"/>maṇa vineḥ pasək· mā 1 [ki]<lb break="no" 
+n="d46"/>nabaiḥhannira piṅhai r(u)j(u) 
+<lb n="d47"/>(la) (va)śa pa[sək]· 3 {around 4 akṣ. lost}<lb break="no" 
+n="d48"/>(ka)n· vin(ai)ḥ pasak· mā {1 akṣ. illegible}
+</p>
+         </div>
+         <div type="apparatus"/>
+         <div type="translation" resp="part:argr">
+ 	<!--translation encoded as per EGD §9.2 -->
+         </div>
+         <div type="commentary">
+            <!--commentary encoded as per section §9.3 -->
+         </div>
+        <div type="bibliography">
+	<!--bibliography encoded as per section §9.4 -->
+           <p><!-- formulate epigraphic lemma here, using the items of primary bibliography --></p>
+        	<listBibl type="primary">
+				<bibl n="siglum"/><!-- one <bibl/> per item of primary bibliography. Every entry mentionned in apparatus  should hava a @n to declare its sigla -->
+			</listBibl>
+           <listBibl type="secondary">
+              <bibl/><!-- one <bibl/> per item of secondary bibliography -->
+           </listBibl>
+        </div>
+      </body>
+  </text>
+</TEI>
