@@ -82,6 +82,7 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
+         <change who="part:wjsa" when="2024-05-15">Adding encoded translation</change>
          <change who="part:wjsa" when="2023-09-30">Cleaning up edition and apparatus</change>
          <change who="part:axja" when="2022-08-16">Transforming docx into xml</change>
       </revisionDesc>
@@ -154,7 +155,50 @@
 <app loc="1v13"><lem source="bib:BarrettJones1984_01 bib:TerryliaFeisrami2013_01">makabaiḥhan·</lem><rdg source="bib:Boechari1985-1986_01">makabaiḥkan·</rdg>
 </app>
                        </div>
-               
+               <div type="translation" resp="part:wjsa part:argr">
+               <p n="1r1-1r3">Hail! Elapsed Śaka year 823, month Kārtika, tenth <foreign>tithi</foreign> of the waxing fortnight, Vās, Pahiṅ, Sunday, lunar mansion  Śatabhiṣaj, deity Bāruna, conjunction Harṣaṇa, that was when the headmen of Roṅkab were permitted to cease <supplied reason="explanation">providing</supplied> <num value="1">1</num> servant by the official of Umaṅgit, <foreign>pu</foreign> Parvata due to the destruction of their village.</p>
+               <p n="1r3-1v1">The headmen gave gifts to:
+<list><item>the official [of Umaṅgit], <num value="10">10</num> <foreign>kāṭi</foreign>s of silver,</item>
+<item>the master of the <foreign>kanayakān</foreign>, saṅ Tamvalaṅ, native of the village of Kukap, district Pagar Vəsi,</item>
+<item>the <foreign>ataṇḍa</foreign>, <foreign>pu</foreign> Pavī [and] the master of the <foreign>lampuran</foreign>, <foreign>pu</foreign> Dhānada, both natives of the village of Turai, district Turai,</item>
+<item>the master of the junior troops (<foreign>vadvā rarai</foreign>), <foreign>pu</foreign> Gaṇḍaura, native of the village of Səḍəh, district Taṅkilan,</item>
+<item>the master of the servants, <foreign>pu</foreign> Arka, native of the village of Varyaṅ, district Rampakan,</item>
+<item>the master of the attendants, <foreign>saṅ ra</foreign> Papah, native of the village of Tərənəh, district Taṅkil, together with <foreign>pu</foreign> Maṇḍu, native of the village of Ra Havu, district Sirikan,</item></list>
+were offered gifts of <num value="5">5</num> <foreign>dhāraṇa</foreign>s of silver collectively.</p>
+
+<p n="1v1–1v3">The <foreign>vahuta</foreign> at that time: [the one at] Mukur, <foreign>saṅ</foreign> Bataṅan, [and] the <foreign>piṅhai</foreign> of Kaḍu, <foreign>saṅ</foreign> Pataṅahan, were both offered gifts of <num value="10">10</num> <foreign>dhāraṇa</foreign> of silver each.</p>
+
+<p n="1v3-1v6">The headmen holding office (<foreign>rāma māgman</foreign>) at that time:
+<list><item>the <foreign>kalaṅ</foreign>s, <foreign>si</foreign> Maṅgal, and <foreign>si</foreign> Kya,</item>
+<item>the <foreign>gusti</foreign>, <foreign>si</foreign> Diśa,</item>
+<item>the <foreign>vinəkas</foreign>, <foreign>si</foreign> Haṅū,</item>
+<item>the heralds, <foreign>si</foreign> Liṇḍuan and <foreign>si</foreign> Bicit</item></list>
+The regular headmen:
+<list><item><foreign>si</foreign> Təvak,</item>
+<item><foreign>si</foreign> Julu,</item>
+<item>the rice manager (<foreign>hulu vras</foreign>), <foreign>si</foreign> Visuva.</item></list>
+Such were number of headmen holding office to whom the charter was entrusted by the official of Umaṅgit, <foreign>pu</foreign> Parvata.
+</p>
+
+<p n="1v6-1v7">The one who communicated (<foreign>ḍumatəṅakən</foreign>) the petition of the headmen at Roṅkab was <foreign>saṅ</foreign> Talla, the <foreign>gusti</foreign> of Suli, <foreign>sīma</foreign> Vadihati.</p>
+
+<p n="1v7-1v10">Witnesses:
+<list><item>the official of Vadihati, <foreign>pu</foreign> Ḍapit, native of the village of Paṇḍamuan, district Vadihati,
+was offered gifts: <foreign>4</foreign> <foreign>dhāraṇa</foreign>s of silver.</item>
+<item>The master of Mirah-Mirah, <foreign>pu</foreign> Rayuṅ, relative <supplied reason="explanation"><foreign>recte</foreign> 'native'?</supplied> of Mira-Mirah, district Vadihati, accompanying </item><item>the one of Halaran, <foreign>pu</foreign> Dhānada, native of the village of Paṇḍamuan, district Vadihati,
+were both offered gifts: <foreign>2</foreign> <foreign>dhāraṇa</foreign>s of silver each.</item></list>
+</p>
+
+<p n="1v10-1v12">The <foreign>vahuta</foreign>s of the deity who participated in the deliberation (<foreign>guṇadoṣa</foreign>):
+<list><item>the one of Siṅgah Vvah, <foreign>pu</foreign> Rahula, native of the village of Mira-Mirah, and</item>
+<item><foreign>saṅ</foreign> Habūn, native of the village of Turayun, district Sigaran,</item></list>
+were both offered gifts: <foreign>7</foreign> <foreign>māṣa</foreign>s of silver each.</p>
+
+<p n="1v12-1v13">The group of headmen, the lord, the <foreign>vahuta</foreign>s of the deity, were collectively <supplied reason="omitted">given</supplied> <num value="1">1</num> <foreign>dhāraṇa</foreign> of silver.</p>
+
+<p n="1v13">The scribe was <foreign>pu</foreign> Ravi.</p>
+
+               </div>
             <div type="commentary">
               <p>Word-final <foreign>-uA</foreign> is consistently spelled <foreign>-va</foreign> (e.g. <foreign>vanva</foreign>, kapva), which is somewhat unusual for the early tenth century. The word <foreign>vahuta</foreign> is consistently spelled <foreign>vahut<surplus>t</surplus>a</foreign>, and the word <foreign>Inaṁsəan·</foreign> as <foreign>Inaṁsyan</foreign>.</p>
               <p n="1r1">The date of this inscription, particularly the erroneous astral elements, is discussed at length by Eade and Gislén (<bibl rend="omitname"><ptr target="bib:Eade+Gislen2000_01"/></bibl>: 26-30).</p>
