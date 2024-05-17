@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Pucangan Charter (1041-11-6)</title>
+                <title>Charter of Pucangan (1041-11-6)</title>
                 <respStmt>
                     <resp>EpiDoc encoding</resp>
                     <persName ref="part:argr">
@@ -282,28 +282,25 @@
                 <l n="d"><supplied reason="lost" evidence="previouseditor">tasmāc chrī-jala</supplied>laṅga-deva-nr̥-patir dīrghaṁ sa jīvyād iti ⊙ // ⊙</l>
             </lg>
         <p><milestone n="B" type="pagelike" unit="face"/><label xml:lang="eng">Old Javanese Text</label>
-            <lb n="B1"/> // @ // svasti śaka-varṣātīta <num value="963">963</num> kārtika-māsa, tithi daśamī śukla-pakṣa,
-                ha, va‚ śu, vāra vayaṁ-vayaṁ, caragraha bāyabyastha, Uttarabhadravā<supplied reason="omitted">da</supplied>-nakṣatra,
-                Ahirbudhna-devatā, bajrayoga, gara<unclear>ḍ</unclear>i-<supplied reason="lost">ka</supplied><lb break="no" n="B2"/>raṇa,
-                bāruṇyamaṇḍala,</p>
+            <lb n="B1"/><g type="ddandaOrnate"/> <g type="circleCurve"/> <g type="ddandaOrnate"/> svasti śaka-varṣātīta <num value="963">963</num> kārtika-māsa, tithi daśamī śukla-pakṣa,
+                <abbr>ha</abbr>, <abbr>va</abbr>‚ <abbr>śu</abbr>, vāra vayaṁ-vayaṁ, caragraha bāyabyastha, Uttarabhadravā<supplied reason="omitted">da</supplied>-nakṣatra,
+                Ahirbudhna-devatā, bajrayoga, gara<unclear>ḍ</unclear>i-<supplied reason="lost">ka</supplied><lb break="no" n="B2"/>raṇa, bāruṇya-maṇḍala,</p>
             <p>Irikā divaśany ājñā śrī mahārāja <abbr>rake</abbr> halu śrī lokeśvara dharmmavaṅśa
                 Airlaṅgānantavikramottuṅgadeva, tinaḍaḥ rakryān· mahāmantrī I hino śrī samaravijaya
-                    dha<lb break="no" n="B3"/>masuparṇa<unclear>vā</unclear>haṇa tguh uttuṅgadeva, <supplied reason="lost">Um</supplied>iṅ<supplied reason="lost">so</supplied>r· I
+                    <surplus>dha<lb break="no" n="B3"/>ma</surplus> suparṇa<unclear>vā</unclear>haṇa tguh uttuṅgadeva, <unclear>Um</unclear>iṅ<unclear>so</unclear>r· I
                 rakryān· kanuruhan· pu dharmmamūrtti <unclear>naro</unclear>ttama dānaśūra <unclear>k</unclear>umo<unclear>nak</unclear>ǝ<unclear>n</unclear> i<unclear>kana</unclear>ṁ
-                ri pucaṅan·, Iṁ barahǝm·, Iṁ bapuri, lmaḥniṁ varggāpi<unclear>ṅh</unclear>e <gap quantity="8" reason="lost" unit="character"/>
+                ri pucaṅan·, Iṁ barahǝm·, Iṁ bapuri, lmaḥniṁ varggāpi<unclear>ṅhe</unclear> <del><gap quantity="8" reason="lost" unit="character"/>
                 <lb n="B4"/>
-                <gap quantity="32" reason="lost" unit="character"/>
-                 susukǝn· mapaknā pa<unclear>ṅ</unclear>adǝganani dharmma karṣyan· śrī
+                <gap quantity="32" reason="lost" unit="character"/></del>
+                 susukǝn·, mapaknā pa<unclear>ṅ</unclear>adǝganani dharmma karṣyan· śrī
                 mahārāja,</p>
-            <p>sambandha, A<supplied reason="lost">n·</supplied>
-<lb n="B5"/>hana Iṣṭaprārthanā śrī mahārāja ri kālaniṁ
+            <p>sambandha, A<supplied reason="lost">n·</supplied><lb n="B5"/>hana Iṣṭaprārthanā śrī mahārāja ri kālaniṁ
                 pralaya riṁ yavadvīpa, <unclear>I</unclear><supplied reason="lost">r</supplied>i<supplied reason="lost">kā</supplied>ṁ <supplied reason="lost">śaka</supplied>k<supplied reason="lost">āla</supplied> <num value="939">939</num> ri pra<unclear>hāra</unclear> haji vura<unclear>va</unclear>ri
                 An· vijil· saṅke lva rām·, Ekărṇava rŭpanikāṁ sayavadvīpa rikāṁ kā<lb break="no" n="B6"/>la, Akveḥ sira vvaṁ mahāviśeṣa pjaḥ, karuhun· An· samaṅkana divaśa śrī
                 mahārāja devatā pjaḥ lumāḥ ri saṁ hyaṁ dharmma parhyaṅan i vvatan·, riṁ cetra-māsa,
-                śaka-kāla <num value="939">939</num> sḍaṁ vāla<lb break="no" n="B7"/>ka śrī mahārāja Irikāṁ kāla, prasiddha
-                na<supplied reason="lost">m</supplied> blas· <unclear>tah</unclear>un· vayaḥnira, tapvan· dahat· kr̥tapariśramanireṁ saṁgrāma,
-                makahet<supplied reason="lost">u</supplied> rarenira, tapvan enak· baṅǝtni denira rumǝ<lb break="no" n="B8"/>gǝp·
-                pasarikǝpany āyudhanira, kunaṁ ri sākṣāt<unclear>n</unclear>niran· viṣṇumūrtti, rinakṣaniṁ
+                śaka-kāla <num value="939">939</num> sḍaṁ vāla<lb break="no" n="B7"/>ka śrī mahārāja Irikāṁ kāla, prasiddha na<supplied reason="lost">m</supplied> blas· <unclear>tah</unclear>un· vayaḥnira, tapvan· dahat· kr̥ta-pariśramanireṁ saṁgrāma,
+                makahet<unclear>u</unclear> rarainira, tapvan enāk· baṅǝtni denira rumǝ<lb break="no" n="B8"/>gǝp·
+                pasarikǝpany āyudhanira, kunaṁ ri sākṣāt<unclear>n</unclear>niran· viṣṇumūrt<unclear>t</unclear>i, rinakṣaniṁ
                 sarbvadevata, Inahākǝn tan ilva kavaśa deni paṅava<unclear>śaniṁ</unclear> mahāpralaya, maṅantīri
                 himbaṁniṁ vanagiri, ma<lb break="no" n="B9"/>kasambhāsana saṁ tāpaśa suddhācāra,
                 meriṁ lāvan· hulunira saṅ ek<unclear>ā</unclear>ntapratipatti manaḥniran· <gap quantity="2" reason="lost" unit="character"/> <supplied reason="lost">j</supplied>ña ta tanŭpacāran· bhaktiprahva ri lbūni
@@ -861,12 +858,8 @@
                 <rdg source="Brandes1913_01">dahat iṁ</rdg>
                 </app>
                 <app loc="B7">
-                <lem>rarenira</lem>
-                <rdg source="Brandes1913_01 bib:Kern1917_17 bib:Poerbatjaraka1941_01">rarainira</rdg>
-                </app>
-                <app loc="B7">
-                <lem source="bib:Kern1917_17 bib:Poerbatjaraka1941_01">enak·</lem> 
-                <rdg source="Brandes1913_01">enāk</rdg>
+                <lem source="Brandes1913_01">enāk</lem>
+                <rdg source="bib:Kern1917_17 bib:Poerbatjaraka1941_01">enak·</rdg> 
                 </app>
                 <app loc="B7">
                 <lem source="bib:Poerbatjaraka1941_01">baṅǝtni</lem> 
