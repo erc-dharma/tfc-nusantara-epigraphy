@@ -214,49 +214,65 @@ n="d29"/><supplied reason="lost">rāja //</supplied> <unclear>Ø</unclear> //</p
          </div>
          <div type="apparatus">
           
-               <listApp>                  
-                   <app loc="A2-A3">
-                       <lem>samgat· <supplied reason="lost">momah-umaḥ kāliḥ</supplied></lem>
-                       <note>Our restoration is based on the same pair of officials being found in Linggasuntan A3–4, 28–29; Gulung-gulung B2–3; Sarangan A4; Jeru-jeru A21–22; Waharu IV 1v4; Vajrapani sculpture (853 Śaka) 5 and Kampak A11. In some of those inscriptions, rakryān is used instead of samgat.</note></app>
+<listApp>                  
+<app loc="A2-A3">
+<lem>samgat· <supplied reason="lost">momah-umaḥ kāliḥ</supplied></lem>
+<note>Our restoration is based on the same pair of officials being found in <ref target="DHARMA_INSIDENKLinggasuntan.xml">Linggasuntan</ref> A3–4, 28–29; <ref target="DHARMA_INSIDENKGulungGulung.xml">Gulung-Gulung</ref> B2–3; <ref target="DHARMA_INSIDENKSarangan.xml">Sarangan</ref> A4; <ref target="DHARMA_INSIDENKJeruJeru.xml">Jeru-Jeru</ref> A21–22; <ref target="DHARMA_INSIDENKWaharuIV">Waharu IV</ref> 1v4; Vajrapani sculpture<!--ekba: I am not sure what's the <ref> for this item--> (853 Śaka) 5 and <ref target="DHARMA_INSIDENKKampak.xml">Kampak</ref> A11. In some of those inscriptions, <foreign>rakryān</foreign> is used instead of <foreign>samgat</foreign>.</note>
+</app>
 <app loc="A3-A4">
-    <lem>vatək· paḍaṁ Ataganni vahuta <gap reason="lost" quantity="4" unit="character"/></lem>
-    <note>We could consider supplying  <supplied reason="lost">mapapan·</supplied> in the gap with reference to the following three passages, namely Cunggrang I A6 vatak· basi Ataganni vahuta vuṅkal·; Cunggrang II 1r4 vatək· bavaṁ Ataganiṁ vahuta vuṅkal·, gavai ku 2, Aṅgahan·, mā su 15 and Sarangan A5–6 vatək bavaṁ, Atagan iṁ vahuta I mapapān deniṁ miśra paramiśra. But since the name of vatək is different, we are still unsure.</note></app> 
-<app loc="A4"><lem>vlin·</lem> <note>Cf. A7.</note></app>
-<app loc="A5"><lem>Arpa<supplied reason="lost">ṇākna I bhaṭāra</supplied></lem><note>Cf. Linggasuntan A5–6 sīmān susukan arpanākna I bhaṭara and Anjuk Ladang A5 simān arpaṇākna I bhaṭāra I saṁ hyaṁ prāsāda kabhaktyan i dharmma samgat añjuk laḍaṁ.</note></app>
+<lem>vatək· paḍaṁ Ataganni vahuta <gap reason="lost" quantity="4" unit="character"/></lem>
+<note>We could consider supplying <supplied reason="lost">mapapan·</supplied> in the gap with reference to the following three passages, namely <ref target="DHARMA_INSIDENKCunggrangI">Cunggrang I</ref> A6 <foreign>vatak· basi Ataganni vahuta vuṅkal·</foreign>; <ref target="DHARMA_INSIDENKCunggrangII">Cunggrang II</ref> 1r4 <foreign>vatək· bavaṁ Ataganiṁ vahuta vuṅkal·, gavai ku 2, Aṅgahan·, mā su 15</foreign> and <ref target="DHARMA_INSIDENKSarangan">Sarangan</ref> A5–6 <foreign>vatək bavaṁ, Atagan iṁ vahuta I mapapān deniṁ miśra paramiśra</foreign>. But since the name of <foreign>vatək</foreign> is different, we are still unsure.</note>
+</app> 
+<app loc="A4"><lem>vlin·</lem> 
+<note>Cf. A7.</note>
+</app>
+<app loc="A5"><lem>Arpa<supplied reason="lost">ṇākna I bhaṭāra</supplied></lem>
+<note>Cf. <ref target="DHARMA_INSIDENKLinggasuntan.xml">Linggasuntan</ref> A5–6 s<foreign>īmān susukan arpanākna I bhaṭara</foreign> and <ref target="DHARMA_INSIDENKAnjukLadang.xml">Anjuk Ladang</ref> A5 <foreign>simān arpaṇākna I bhaṭāra I saṁ hyaṁ prāsāda kabhaktyan i dharmma samgat añjuk laḍaṁ</foreign>.</note>
+</app>
 <app loc="A8">
-    <lem>masamū<supplied reason="lost">ha, muAṁ Ika</supplied>naṁ</lem>
-    <note>Cf. Taji (6r8) nāhan· parṇnaḥ taṇḍa rakarayān· Iṁ buravan· masamūha, muAṁ Ikanaṁ rāma I taji.</note>
+<lem>masamū<supplied reason="lost">ha, muAṁ Ika</supplied>naṁ</lem>
+<note>Cf. <ref target="DHARMA_INSIDENKTaji.xml">Taji</ref> (6r8) <foreign>nāhan· parṇnaḥ taṇḍa rakarayān· Iṁ buravan· masamūha, muAṁ Ikanaṁ rāma I taji</foreign>.</note>
 </app>
 <app loc="A10">
-    <lem>su <num value="5">5</num> <gap reason="lost" quantity="1" unit="character"/> <unclear>ra</unclear>likai</lem>
-    <note>It is difficult to guess precisely which word stood at the beginning of line 10. Alas the parallel passage in Paradah II A14 (matūttakan vuvusnya sapasuk banuA tumarima Ikanaṁ mas kā 2 ….. savaḥ I paraḍaḥ tlas suddha-parisuddha) does not help, because it too is affected by a lacuna right after the quantity of gold is stated. Another parallel, in Watukura I 3r2 (tumarima Ikanāṁ mās· panīma saṅke haji), shows that a word meaning ‘from’ is expected. Hence, we could supply [ri], [sakeṁ] or [saṅke] in our edition.</note></app> 
+<lem>su <num value="5">5</num> <gap reason="lost" quantity="1" unit="character"/> <unclear>ra</unclear>likai</lem>
+<note>It is difficult to guess precisely which word stood at the beginning of line 10. Alas the parallel passage in <ref target="DHARMA_INSIDENKParadahII.xml">Paradah II</ref> A14 <foreign>(matūttakan vuvusnya sapasuk banuA tumarima Ikanaṁ mas kā 2 ….. savaḥ I paraḍaḥ tlas suddha-parisuddha)</foreign> does not help, because it too is affected by a lacuna right after the quantity of gold is stated. Another parallel, in <ref target="DHARMA_INSIDENKWatuKuraI.xml">Watukura I</ref> 3r2 <foreign>(tumarima Ikanāṁ mās· panīma saṅke haji)</foreign>, shows that a word meaning ‘from’ is expected. Hence, we could supply <foreign>[ri]</foreign>, <foreign>[sakeṁ]</foreign> or <foreign>[saṅke]</foreign> in our edition.</note>
+</app> 
 <app loc="A12">
-    <lem>tavaṇḍara</lem> 
-    <note>The toponym tavaṇḍara also figures in Turun Hyang Cd4 (4) <gap reason="lost" quantity="10" unit="character" precision="low"/>s· kabayān· glar· vineḥ vḍihan· siki pasək· ku 2 I tavaṇḍara kabayān· <gap reason="lost" quantity="1" unit="character"/>mot· vineḥ.</note></app>
+<lem>tavaṇḍara</lem> 
+<note>The toponym <foreign>tavaṇḍara</foreign> also figures in <ref target="DHARMA_INSIDENKTurunHyangA.xml">Turun Hyang A</ref> Cd4 <foreign><gap reason="lost" quantity="10" unit="character" precision="low"/>s· kabayān· glar· vineḥ vḍihan· siki pasək· ku 2 I tavaṇḍara kabayān· <gap reason="lost" quantity="1" unit="character"/>mot· vineḥ</foreign>.</note>
+</app>
 <app loc="A15"><lem>samgat· lam<unclear>ba</unclear>li</lem>
-    <note>Cf. Sarangan C26 samgat lambaṁ samgat lampuran pu goga. The readings lambaṁ and goga are probably in need of correction in light of the Masahar parallel. Cf. also Paradah I 1Bcd9  samgat· raṅga pu səsək·, lamba pūdā InaṁsəAn· pasak-pasak· su 1 mā 4 vḍihan· ca(c)dar· yu 1 sovaṁ(d)-sovaṁ, where lamba is abbreviated for samgat lamba. See also our note on B5 below.</note></app>
+<note>Cf. <ref target="DHARMA_INSIDENKSarangan.xml">Sarangan</ref> C26 <foreign>samgat lambaṁ samgat lampuran pu goga</foreign>. The readings <foreign>lambaṁ</foreign> and <foreign>goga</foreign> are probably in need of correction in light of the Masahar parallel. Cf. also <ref target="DHARMA_INSIDENKParadahI.xml">Paradah I</ref> 1Bcd9  <foreign>samgat· raṅga pu səsək·, lamba pūdā InaṁsəAn· pasak-pasak· su 1 mā 4 vḍihan· cadar· yu 1 sovaṁ-sovaṁ</foreign>, where <foreign>lamba</foreign> is abbreviated for <foreign>samgat lamba</foreign>. See also our note on B5 below.</note>
+</app>
 <app loc="A25">
-    <lem>Air ha<supplied reason="lost">ji, malandaṁ, L̥ca,</supplied> <unclear>la</unclear>libballab·</lem>
-    <note>Our restitutions are based on parallels in Linggasuntan A10, Gulung-gulung A17, Sarangan A8, Poh Rinting A10–11, Jeru-jeru A7, Demak A23, Paradah I 1A15–16, Hering B11–12, Anjuk Ladang A17, Alasantan 1.10, Paradah II A21, Muncang A18.</note></app> 
-<app loc="A27–A28"><lem><unclear>turun</unclear>-<supplied reason="lost">tu</supplied><lb n="A28"/><supplied reason="lost">run·</supplied></lem>  
-<note>Our reconstruction is based on the traces of akṣara at the end of line 27 and the same sequence observed in Turun Hyang A14 and Jeru–Jeru A11.</note></app>
-<app loc="B5"><lem>manuṁku<unclear>li pŭ</unclear>dā</lem> 
-    <note>The akṣaras li and pu are almost entirely lost, but the reading pūdā seems to be expected in this context while what remains visible of the suku resembles u more than ū. Cf. Paradah I, first stone, Bcd9–10 samgat· raṅga pu səsək·, lamba pūdā InaṁsəAn· [...] sovaṁ-sovaṁ, vadihati sa(ṁ) dinakara, Akudur· pu balavan·; Alasantan 2r9 samgat· kanuruhan· pūdā [...] tiruAn· ḍapunta taritip· [...] vadihati pu dinakara [...] Akudur· pu tuna(ṁ). The term manuṅkuli is not found elsewhere in the Sindok corpus.</note>
+<lem>Air ha<supplied reason="lost">ji, malandaṁ, L̥ca,</supplied> <unclear>la</unclear>libballab·</lem>
+<note>Our restitutions are based on parallels in <ref target="DHARMA_INSIDENKLinggasuntan.xml">Linggasuntan</ref> A10, <ref target="DHARMA_INSIDENKGulungGulung.xml">Gulung-Gulung</ref> A17, <ref target="DHARMA_INSIDENKSarangan.xml">Sarangan</ref> A8, <ref target="DHARMA_INSIDENKPohRinting.xml">Poh Rinting</ref> A10–11, <ref target="DHARMA_INSIDENKJeruJeru.xml">Jeru-Jeru</ref> A7, <ref target="DHARMA_INSIDENKDemak.xml">Demak</ref> A23, <ref target="DHARMA_INSIDENKParadahI.xml">Paradah I</ref> 1A15–16, <ref target="DHARMA_INSIDENKHering.xml">Hering</ref> B11–12, <ref target="DHARMA_INSIDENKAnjukLadang.xml">Anjuk Ladang</ref> A17, <ref target="DHARMA_INSIDENKAlasantan.xml">Alasantan</ref> 1.10, <ref target="DHARMA_INSIDENKParadahII.xml">Paradah II</ref> A21, <ref target="DHARMA_INSIDENKMuncang.xml">Muncang</ref> A18.</note>
+</app> 
+<app loc="A27–A28">
+<lem><unclear>turun</unclear>-<supplied reason="lost">tu</supplied><lb n="A28"/><supplied reason="lost">run·</supplied></lem>  
+<note>Our reconstruction is based on the traces of <foreign>akṣara</foreign> at the end of line 27 and the same sequence observed in <ref target="DHARMA_INSIDENKGulungGulung.xml">Gulung–Gulung</ref> A21, <ref target="DHARMA_INSIDENKTuryan.xml">Turyan</ref> A14 and <ref target="DHARMA_INSIDENKJeruJeru.xml">Jeru–Jeru</ref> A11.</note>
+</app>
+<app loc="B5">
+<lem>manuṁku<unclear>li pŭ</unclear>dā</lem> 
+<note>The <foreign>akṣaras li</foreign> and <foreign>pu</foreign> are almost entirely lost, but the reading <foreign>pūdā</foreign> seems to be expected in this context while what remains visible of the suku resembles <foreign>u</foreign> more than <foreign>ū</foreign>. Cf. <ref target="DHARMA_INSIDENKParadahI.xml">Paradah I</ref>, first stone, Bcd9–10 <foreign>samgat· raṅga pu səsək·, lamba pūdā InaṁsəAn· [...] sovaṁ-sovaṁ, vadihati sa(ṁ) dinakara, Akudur· pu balavan·</foreign>; <ref target="DHARMA_INSIDENKAlasantan.xml">Alasantan</ref> 2r9 <foreign>samgat· kanuruhan· pūdā [...] tiruAn· ḍapunta taritip· [...] vadihati pu dinakara [...] Akudur· pu tuna(ṁ)</foreign>. The term <foreign>manuṅkuli</foreign> is not found elsewhere in the Sindok corpus.</note>
 </app>
 <app loc="B10"><lem>maḍa<supplied reason="lost">ṇḍa</supplied>r·</lem>
-    <note>Restored after Linggasuntan A38, Jeru-Jeru A22 and B2, and Turyan A23–24.</note></app>
+<note>Restored after <ref target="DHARMA_INSIDENKLinggasuntan.xml">Linggasuntan</ref> A38, <ref target="DHARMA_INSIDENKJeruJeru.xml">Jeru-Jeru</ref> A22 and B2, and <ref target="DHARMA_INSIDENKTuryan.xml">Turyan</ref> A23–24.</note>
+</app>
 <app loc="B21">
-    <lem><supplied reason="lost">ba</supplied>racaḥ</lem>
-    <note>Restored after Alasantan (3.7–8): vahuta I mapapan· bandhu ramani rakā, buR̥ṁ, kuñjar·, paradhīpa, baliba, śrayisinta, tahimbək·, parujar· jaluk·, sūṅan·, kulumā, baracaḥ, maṁḍampak·, vinkas· surupī, dhara, su 7 kinabaihanya vḍihan· hlai 1 sovaṁ-sovaṁ.</note>
+<lem><supplied reason="lost">ba</supplied>racaḥ</lem>
+<note>Restored after <ref target="DHARMA_INSIDENKAlasantan.xml">Alasantan</ref> (3.7–8): <foreign>vahuta I mapapan· bandhu ramani rakā, buR̥ṁ, kuñjar·, paradhīpa, baliba, śrayisinta, tahimbək·, parujar· jaluk·, sūṅan·, kulumā, baracaḥ, maṁḍampak·, vinkas· surupī, dhara, su 7 kinabaihanya vḍihan· hlai 1 sovaṁ-sovaṁ</foreign>.</note>
 </app>
 <app loc="B29">
-    <lem><add place="below">bu</add>rat·</lem>
-    <note>another interpretation would be rbut·, but the one we adopt is more plausible because we would have expected a layar on top of b in that case. The space left open in the next line shows that this sublinear addition of bu was made before the next line was engraved.</note></app>
+<lem><add place="below">bu</add>rat·</lem>
+<note>Another interpretation would be <foreign>rbut·</foreign>, but the one we adopt is more plausible because we would have expected a layar on top of <foreign>b</foreign> in that case. The space left open in the next line shows that this sublinear addition of <foreign>bu</foreign> was made before the next line was engraved.</note>
+</app>
 <app loc="c6"><lem>tuṇḍunya</lem>
-    <note>This reading, instead of tuṇḍanya, is rare in the Sindok corpus, being found only in Alasantan (4r5). See also Mantyasih III (2r12) and Sangguran (B32).</note></app>
-
-<app loc="d29"><lem>manam<supplied reason="lost">baḥ huma</supplied>rap· sakahanān· <supplied reason="lost">śr</supplied>ī <supplied reason="lost">mahārāja</supplied></lem>
-    <note>restored after Linggasuntan c31–33.</note>
+<note>This reading, instead of <foreign>tuṇḍanya</foreign>, is rare in the Sindok corpus, being found only in <ref target="DHARMA_INSIDENKAlasantan.xml">Alasantan</ref> (4r5). See also <ref target="DHARMA_INSIDENKMantyasihIII.xml">Mantyasih III</ref> (2r12) and <ref target="DHARMA_INSIDENKSangguran.xml">Sangguran</ref> (B32).</note>
+</app>
+<app loc="d29">
+<lem>manam<supplied reason="lost">baḥ huma</supplied>rap· sakahanān· <supplied reason="lost">śr</supplied>ī <supplied reason="lost">mahārāja</supplied></lem>
+<note>restored after <ref target="DHARMA_INSIDENKLinggasuntan.xml">Linggasuntan</ref> c31–33.</note>
 </app>               
                </listApp>
          </div>
