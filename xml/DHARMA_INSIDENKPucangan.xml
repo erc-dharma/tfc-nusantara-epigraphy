@@ -70,7 +70,7 @@
 		<body>
     <div type="edition" xml:lang="kaw-Latn" rendition="class:38769 maturity:83213">
 <ab xml:lang="san-Latn"><milestone type="pagelike" unit="face" n="A"/><label xml:lang="eng">Sanskrit Text</label>
-<lb n="A1"/> // 0 // svasti //</ab>
+<lb n="A1"/><g type="ddandaOrnate"/> <g type="circleCurve"/> <g type="ddandaOrnate"/> svasti <g type="ddandaOrnate"/></ab>
             <lg xml:lang="san-Latn" met="āryā" n="1">
                 <l n="ab">tribhir api guṇair upeto nr̥ṇāv vidhāne sthitau tathā pralaye</l>
                 <l n="cd">A-guṇa Iti yaḥ prasiddhas tasmai dhātre namas satatam· ⊙</l>
@@ -168,7 +168,7 @@
                 <l n="a">bhūyāṁso yava-bhū-bhujo bubhujire pr̥thvīv vipakṣe ’rthinas</l>
                 <l n="b">sāmarthyān nr̥pa-janmano na bubhujus taj<unclear>jā</unclear> narendrāsane</l>
                 <l n="c">kintu śrī-jalalaṅga-deva-nr̥patir vaṁśyo ’dhirājāgraṇīr</l>
-                <l n="d">bhobhuṅkte sa bhu<lb break="no" n="A16"/><supplied reason="lost">na</supplied>nakti kevalam arin dvandvam
+                <l n="d">bhobhuṅkte sa bhu<lb break="no" n="A16"/><supplied reason="lost">na</supplied>kti kevalam arin dvandvam
                     bhraman bhūtale ⊙</l>
             </lg>
             <lg xml:lang="san-Latn" met="śārdūlavikrīḍita" n="18">
