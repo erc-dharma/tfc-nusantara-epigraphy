@@ -120,7 +120,6 @@
 </div>
          </div>
          <div type="apparatus"> 
-<!-- textparts still to be encoded in apparatus -->
 <div n="1" type="textpart" xml:lang="san-Latn" rendition="class:38769 maturity:83213">   
 <head xml:lang="eng">Original</head>
                <listApp>
@@ -190,7 +189,7 @@
 	<p n="C">(untranslateable)</p>
          </div>
          <div type="commentary">
-            <p n="B2"><supplied reason="explanation">trigoṣṭhyā</supplied>: Poerbatjaraka interpreted this as equivalent to the toponym Salatiga for a modern city not far from the site of the inscription. Alternatively, could this be an allusion to the three high officials Paṅkur, Tavān and Tirip known from numerous inscriptions?</p>
+            <p n="B2">Poerbatjaraka interpreted <foreign>trigoṣṭhyā</foreign>  as equivalent to the toponym Salatiga for a modern city not far from the site of the inscription. Alternatively, could this be an allusion to the three high officials Paṅkur, Tavān and Tirip known from numerous inscriptions?</p>
 	<p n="B3">Since De Casparis and Poerbatjaraka did not recognize the word <foreign>grāva-lekha</foreign>, they failed to see that the text is talking about an inscription. I tentatively presume that Kośāmra is a place name, and if this is correct it is likely a Sanskritisation of a Javanese toponym with a word for <q>mango</q> (<foreign>kośāmra</foreign> designates <foreign>mangifera sylvatica</foreign> in Sanskrit), i.e., very likely the common toponym Poh. Cf. <bibl><ptr target="bib:Damais1970_01"/><citedRange unit="page">743</citedRange></bibl>; the identifications on the modern map for epigraphic toponym Poh proposed by Kusen (<bibl rend="omitname"><ptr target="bib:Kusen1994-1995_01"/><citedRange unit="page">202</citedRange></bibl>) do not seem particularly convincing, and anyhow such a common element in the landscape as a mango-tree is likely to have been used as toponym in more than one area of ancient Java. Alternatively, it might denote (the shape of) the engraved stone itself, in which case one would have to translate <q>in the form of an inscription on the <foreign>kośāmra</foreign> stone</q>.</p>
 <p n="B4"><foreign>yaśojīvitaṁ</foreign>: I owe the idea of reading a compound here to Dominic Goodall, who points out: <q>perhaps the two things that should thrive forever are rather <q>this [gift of arable land] of his here on earth</q> (<foreign>tasyaitad <supplied reason="subaudible">kṣetradānaṁ</supplied> bhuvi</foreign>) and <q>the life of his fame</q> (<foreign>yaśojīvitam</foreign>). I suggest this because it is well-known that nobody lives for ever, but it is a topos that their fame and their foundations may.</q></p>
          </div>
