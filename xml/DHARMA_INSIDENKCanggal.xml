@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+            	<title>The stela of Canggal or Gunung Wukir (654 Śaka)</title>
+            	<respStmt>
+            		<resp>EpiDoc Encoding</resp>
+            	<persName ref="part:argr">
+            		<forename>Arlo</forename><surname>Griffiths</surname>
+            	</persName>
+            	</respStmt>
+            	<respStmt>
+            		<resp>intellectual authorship of edition</resp>
+            		<persName ref="part:argr">
+            			<forename>Arlo</forename>
+            			<surname>Griffiths</surname>
+            		</persName>
+            	</respStmt>
+            </titleStmt>
+        	<publicationStmt>
+        		<authority>DHARMA</authority>
+        		<pubPlace>Jakarta</pubPlace>
+        		<idno type="filename">DHARMA_INSIDENKCanggal</idno>
+        		<availability>
+        			<licence target="https://creativecommons.org/licenses/by/4.0/">
+        				<p>This work is licensed under the Creative Commons Attribution 4.0 Unported
+        					Licence. To view a copy of the licence, visit
+        					https://creativecommons.org/licenses/by/4.0/ or send a letter to
+        					Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+        					California, 94041, USA.</p>
+        				<p>Copyright (c) 2019-2025 by Arlo Griffiths.</p>
+        			</licence>
+                </availability>
+                <date from="2019" to="2025">2019-2025</date>
+            </publicationStmt>
+            <sourceDesc><!-- only the handDesc can be filled in at this stage -->
+                <msDesc><!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/><!-- don't modify this -->
+                    </msIdentifier>
+                    <msContents><!-- describe the intellectual content of an inscription -->
+                        <summary><!-- //// NOT MANDATORY  ////--></summary> <!-- offers the possibility to give a summary of the inscription's content -->
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p><!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EGD 11.2. --></p>
+                            <!-- If you need to identify individual hands (EGD §7.5/) in addition to one or more paragraphs of general palaeographic description, wrap <summary> around the <p> or <p>s above, and, outside <summary>, create <handNote> elements for each hand as follows:
+						<summary><p><p/></summary>
+						<handNote xml:id="Pallava00001_hand1"></handNote>
+						<handNote xml:id="Pallava00001_hand2"></handNote>
+					 -->
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
+            </projectDesc>
+            <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/><!-- UPDATE the link once the release is made official -->
+            <listPrefixDef>
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                    <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
+                </prefixDef>
+                <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
+                    <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_idListMembers_v01.xml</ref> file.</p>
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <revisionDesc>
+        	<change who="part:argr" when="2023-05-20" status="draft">started encoding the inscription</change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:space="preserve">
+      <body>
+         <div type="edition" xml:lang="san-Latn" rendition="class:38769 maturity:83213">
+<lg n="1" met="śārdūlavikrīḍita">
+<l n="a"><lb n="1"/>śākendre <supplied reason="subaudible">'</supplied>tigate śrutīndriya-rasair aṅgīkr̥te vatsare</l>
+<l n="b">vārendau dhavala-trayodaśi-tithau bhadrottare kārttike</l>
+<l n="c"><lb n="2"/>lagne kumbhamaye sthirāṅśa-vidite prātiṣṭhipat parvvate</l>
+<l n="d">liṅgaṁ lakṣaṇa-lakṣitan narapatiś śrī-sañjayaś śāntaye</l>
+</lg>
+
+<lg n="2" met="śārdūlavikrīḍita">
+<l n="a"><lb n="3"/>gaṅgottuṅga-taraṅga-rañjita-jaṭā-maulīndu-cūdā-maṇir</l>
+<l n="b">bhāsvat-bhūti-vibhūti-deha-vikasan-nāgendra-hāra-dyutiḥ</l>
+<l n="c"><lb n="4"/>śr<choice><sic>i</sic><corr>ī</corr></choice>mat-svāñjali-kośa-komala-karair devais tu ya stūyate</l>
+<l n="d">sa śreyo bhavatāṁ bhavo bhava-tamas-sūryyo dadātv adbhutam·</l>
+</lg>
+<!-- 
+%	3. °tuṅga°: for the form of u, see devaistu in l. 4.
+3. -cūdāmaṇir \sep\ °\skt{cūḍāmaṇir} is intended, and this is simply how Kern \red{and Sarkar} read. But in my view no distinction between \skt{d} and \skt{ḍ} seems to be made in this inscription (cf.~e.g.\ the unmistakable \skt{dā} at the beginning of l.~6, identical in shape to the sign here in °\skt{cūdāmaṇir}) and more commonly the distinction is absent in much of Southeast Asian epigraphy.
+3. bhāsvat-bhūti- \sep\ thus Chhabra Sarkar; \skt{bhāsvatpaṁti}° Kern. See Chhabra's n.~1 (p.~46): “Correct it into \skt{bhāsvadbhūti}. To ascertain the reading \skt{bhū}, compare \skt{bhu} in l.\ 4 (in the word \skt{adbhutam}).” 
+%	b. °vibhūti°: For the shape of the akṣara bhū, cf. l. 8 (2x).
+3. -dyutiḥ \sep\ thus Sarkar; °\skt{dyuti(ḥ)} Kern.
+4. śr<choice><sic>i</sic><corr>ī</corr></choice>mat-svāñjali-kośa-komala- \sep\ it is hard to read here the required \skt{śrīmat°}; the vocalization of the second \skt{ko} is only dimly visible.
+4. ya stūyate \sep\ \skt{yaḥ stūyate} is intended.
+4. There is no punctuation at the end of line 4.
+-->
+
+<lg n="3" met="sragdharā">
+<l n="a"><lb n="5"/>bhakti-prahvair munīndrair abhinutam asakr̥t· svargga-nirvāṇa-hetor</l>
+<l n="b">ddevair lekharṣabhādyair avanata-makuṭaiś cumvitaṁ ṣa<lb n="6" break="no"/>ṭpadābhaiḥ</l>
+<l n="c">Aṅgulyātāmra-patran nakha-kiraṇa-lasat-kesarārañjitāntaṁ</l>
+<l n="d">deyāt· śaṁ śāśvatam vas trinayana-cara<lb n="7" break="no"/>ṇāninditāmbhoja-yugma(ṁ) ||</l>
+</lg>
+<!--
+6. -patran nakha- \sep\ °\skt{patraṁ nakha}° Kern Sarkar (silent normalization). 
+6. -kiraṇa-lasat}- \sep\ the prima facie reading is °\skt{kiraṇalaṁsat}°, but what looks like anusvāra is probably an irregularity in the stone.
+7. -yugma(ṁ) \sep\ °\skt{yugma} Kern; °\skt{yugmam} Sarkar. I think a trace of the required anusvāra is visible. The scribe does not elsewhere use anusvāra before punctuation.
+-->
+
+<lg n="4" met="śārdūlavikrīḍita">
+<l n="a">Aiśvaryyātiśayodbhavāt sumahatām apy adbhutā(nān n)idhis</l>
+<l n="b">tyāgaikānta-ratas tanoti <lb n="8"/>satataṁ yo vismayaṁ yoginām·</l>
+<l n="c">yo <supplied reason="subaudible">'</supplied>ṣṭābhis tanubhir jagat karuṇayā puṣṇāti (na) svā(rthato)</l>
+<l n="d">bhūteśaś śa(ś)i-khaṇḍa-bhū<lb n="9" break="no"/>ṣita-jaṭas sa tryamvakaḥ pātu vaḥ ||</l>
+</lg>
+<!--
+7. -adbhutā(nān n)idhis \sep\ \skt{adbhutā(nā)nnidhis} Kern; \skt{adbhut(ānāṁ n)idhis} Sarkar.
+%	d. bhūteśaś ... °khaṇḍabhū°: for the shape of the akṣara bhū, see l. 3.
+8. (na) svā(rthato) \sep\ \skt{na svā(rtha)to} Kern; \red{\skt{(na svārtha)to}} Sarkar.
+-->
+
+<lg n="5" met="śārdūlavikrīḍita">
+<l n="a">vibhrad dhema-vapus sva-deha-dahana-jvālā Ivodyajjaṭā</l>
+<l n="b">veda-stambha-suva<lb n="10" break="no"/>ddha-loka-samayo dharmmārtha-kāmodbhavaḥ</l>
+<l n="c">devair vvandita-pāda-paṅkaja-yugo yogīśvaro yogināṁ</l>
+<l n="d">mānyo loka<lb n="11" break="no"/>-gurur ddadātu bhavatāṁ siddhiṁ svayambhūr vvibhuḥ ||</l>
+</lg>
+<!--
+9. \footnote{\skt{svadeha}° \sep\ thus Chhabra Sarkar; \skt{svadoṣa}° Kern.}
+%\footnote{\skt{ivodyajjaṭā}° \sep\ the estampage seems to show \skt{ivodyajjaṭāṁ}, but what looks like anusvāra is clearly accidental on the stone.
+9. \footnote{°\skt{suvaddha}° \sep\ thus Kern; °\skt{subaddha}° Sarkar (silent normalization).}
+%	c. yogināṁ: Kern; yoginām Sarkar (printing error?).
+%d. °gurur: the u-element in °ru° is not clearly discernible on the photo of the rubbing available to me. Cf. yogāruṇa° in l. 12.
+%	d. svaya(mbhūr vvi)°: svayambhūrvvi° Kern Sarkar.
+-->
+
+<lg n="6" met="śārdūlavikrīḍita">
+<l n="a">nāgendrotphaṇa-ratna-bhitti-patitāṁ dr̥ṣṭvātma-vimva-śriyaṁ</l>
+<l n="b">sabhrū<lb n="12" break="no"/>-bhaṅga-kaṭākṣayā kupitayā nūnaṁ śriyā vīkṣitaḥ</l>
+<l n="c">yo yogāruṇa-locanotpala-dalaś śete <supplied reason="subaudible">'</supplied>mvu-śayyāta<lb n="13" break="no"/>le</l>
+<l n="d">trāṇārthan tridaśai stutas sa bhavatān deyāt· śriyaṁ śrīpatiḥ ||</l>
+</lg>
+<!--
+11. \footnote{°\skt{vimva-śriyaṁ} \sep\ thus Kern; °\skt{vimbaśriyam} Sarkar.}
+12. \footnote{\skt{nūnaṁ} \sep\ thus Chhabra; \skt{(dūraṁ)} Kern; \skt{nūna(ṁ)} Sarkar. The entire reading is quite clear on the estampage and the stone.}
+%	c. yogāruṇa°: yo karuṇa° (for akaruṇa°)?  But this is metrically impossible!
+12. \footnote{\skt{mvu}° \sep\ thus Kern; \skt{mbu}° Sarkar (silent normalization?).
+13. \footnote{°\skt{daśai stutas} \sep\ °\skt{daśaisstutas} Kern; °\skt{daśai(s)stutas} Sarkar. Cf.~the same sandhi in IIc (°\skt{daśaiḥ stutas} is intended). It must be dealt with consistently.}
+-->
+
+<lg n="7" met="śārdūlavikrīḍita">
+<l n="a">Āsīd dvīpa-varaṁ yavākhyam atulan (dhā)[nyā]<lb n="14" break="no"/>di-vījādhikaṁ</l>
+<l n="b">sampannaṁ kanakākarais tad amarais sva[rggā]d i<seg rend="check">[v](o)</seg>pārjitam·</l>
+<l n="c">śrīmat-kuñjara-kuñja-deśa-nihi[taṁ] [ga]<lb n="15" break="no"/>ṅgādi-tīrthāvr̥taṁ</l>
+<l n="d">sthānan divyatamaṁ śivāya jagataś śambhos tu yatrādbhutam· ||</l>
+</lg>
+<!--
+13. \footnote{\skt{atulan (dhā)[nyā]}° \sep\ \skt{atulandhā(nyā)}° Kern; \skt{atula(ndhānyā)}° Sarkar.
+14.  °\skt{vījādhikaṁ} \sep\ thus Kern; °\skt{vījādhikam} Sarkar (printing error?).}
+14. \footnote{\skt{amarais sva[rggā]d i[v](o)pārjitam·} \sep\ \skt{amarai \metra{\m\ \m} dinopārjitam} Kern; \skt{amarai mantrādinopārjitaṁ} \red{Sarkar}; \skt{amarais svarggādino[vo?]pārjitam} Chhabra (p.~47). \red{The syllable read as °\skt{di}° by all predecessors rather seems to me like a °\skt{dri}°, but perhaps what looks like a subscript \skt{r} is merely accidental.} The spelling with \skt{m·} rather than anusvāra at the end of the pāda is certain; Sarkar’s \skt{amarai} (for expected \skt{amarair}) is ungrammatical, and the traces of following \skt{ssv} are unmistakeable.}
+14. \footnote{°\skt{nihi[taṁ]} \sep\ thus \red{Chhabra Sarkar}; °\skt{nihi[ta]} Kern (unmetr.).}
+14. \footnote{[ga]<lb n="15" break="no"/>ṅgādi-tīrthāvr̥taṁ} \sep\ thus Chhabra (p.~46); °\skt{vr̥tam} Sarkar (printing error?); \skt{vaṅśādi\-tīvā\-dhr̥tam} Kern.}
+15. \footnote{\skt{śambhos} \sep\ thus Kern Sarkar. The akṣara \skt{mbho} is entirely indiscernible on the estampage, but sufficient traces of it are left on the stone to remove doubt.}
+-->
+
+<lg n="8" met="sragdharā">
+<l n="a">tasmin dvīpe yavākhye puru(ṣa)-[pada]<lb n="16" break="no"/>-mahā-lakṣma-bhūte praśaste</l>
+<l n="b">rājogrodagra-janmā prathita-pr̥thu-yaśās sāmadānena saṁmyak·</l>
+<l n="c">śāstā sa[rvva-pra]<lb n="17" break="no"/>jānāñ janaka Iva śiśor janmato vatsalatvāt</l>
+<l n="d">sannākhyas sannatārir mmanur iva suciram pāti dharmmeṇa (pr̥)[thv]i[m· ||]</l>
+</lg>
+<!-- 
+15. \footnote{\skt{puru(ṣa)[pada]°} \sep\ \skt{puruṣa(pada)}° Kern Sarkar. A part of \skt{ṣa} is still visible; the rest of the line is lost.
+16. °\skt{lakṣma}°: thus Kern Chhabra; °\skt{lakṣya}° Sarkar. There can be no question here of reading \skt{kṣya}.
+16. \footnote{\skt{saṁmyak·} \sep\ thus Kern; \skt{samyak} Sarkar (silent normalization).}
+17. \footnote{\skt{(pr̥)[thv]ī[m ||]} \sep\ \skt{pr̥thvī(m) ||} Kern; \skt{p(r̥)thvī(m) ||} Sarkar. The \skt{i} seems unmistakably short, but \skt{ī} is intended.}}
+-->
+
+<lg n="9" met="vasantatilaka">
+<l n="a"><lb n="18"/>Evaṅgate samanuśāsati rājya-lakṣmīṁ</l>
+<l n="b">sannāhvaye <supplied reason="subaudible">'</supplied>nvaya-vidhau samatīta-kāle</l>
+<l n="c">svargge <seg rend="check">(su)[khaṁ sva]ku[lajo]</seg><lb n="19" break="no"/>pacitam prayāte</l>
+<l n="d">bhinnañ jagad bhramati śoka-vaśād anātham· ||</l>
+</lg>
+<!-- 
+18. \footnote{°\skt{lakṣmīṁ} \sep\ thus Kern; °\skt{lakṣmīm} Sarkar.}
+18. \footnote{\skt{(su)[khaṁ sva]ku[lajo]pacitam} \sep\ °\skt{su(khaṁ) pha(la)\-ku(lo)pa\-citam} Kern; \skt{\red{su(khaṁ) pha(la)}\-ku(lo)paccitam} Sarkar (unmetr., printing error?). There is certainly space for more than one akṣara after \skt{ku}. The red part of this pāda needs to be reconsidered.}
+19. \footnote{\skt{bhinnañ} \sep\ Kern; \skt{bhindañ} Sarkar.}
+-->
+
+<lg n="10" met="pr̥thvī">
+<l n="a">jvalaj-jvalana-vidravat-kanaka-gaura-varṇa-[dy](u)[tiḥ]</l>
+<l n="b">[br̥]<lb n="20" break="no"/>had-bhuja-nitamva-tuṅgatama-mūrddha-śr̥ṅgonnataḥ</l>
+<l n="c">Adhasth[i]ta-kulācala-kṣitidharocca-pādocchrayaḥ</l>
+<l n="d">(pra)[bhūta]<lb n="21" break="no"/>-guṇa-sampadodbhavati yas tato meruvat· ||</l>
+</lg>
+<!--
+19. \footnote{°\skt{varṇa[dy](u)[tiḥ]} \sep\ varṇaḥ \metra{\b\ \m} Kern; °\skt{varṇa(dyutiḥ)} Sarkar, after Chhabra p.~47.}
+20. \footnote{\skt{[br̥]had}° \sep\ thus Chhabra Sarkar; \skt{(ma)had}° Kern. Chhabra n.~4: ``Otherwise we shall have to read \skt{mahābhuja} instead of \skt{mahadbhuja}.''}
+20. \footnote{\skt{Adhasth[i]ta}° \sep\ \skt{adhasthita}° Chhabra (p.~46, with n.~5); \skt{bhuvi sthita°} Kern Sarkar. Judging by the estampage and the stone, I fail to understand why Sarkar found Chhabra’s reading unacceptable (n.~26). Only the \skt{i} in °\skt{sthita}°, read by all predecessors, seems indescernible.
+20. °\skt{dharoccapādoc}° \sep\ thus Kern; °\skt{dharoccpādoc}° Sarkar (misprint).}
+
+-->
+
+<lg n="11" met="sragdharā">
+<l n="a">śrīmān (y)o mānanīyo vudha-jana-nikaraiś śāstra-sūkṣmārtha-[vidbhiḥ]</l>
+<l n="b">[pra]<lb n="22" break="no"/>jñā-śauryyādi-guṇyo raghur iva vijitāneka-(sā)[manta-ca]kraḥ\label{samanta}</l>
+<l n="c">rājā śrī-sañjayākhyo ravir iva ya[śasā di]<lb n="23" break="no"/>g-vidik-khyāta-lakṣmīs</l>
+<l n="d">sūnus sannāha-nāmnas svasur a[vanipater] nyāyataś śāsti rājyam· ||</l>
+</lg>
+<!--
+21. \footnote{\skt{śāstrasūkṣmārtha[vidbhiḥ]} \sep\ \skt{śāstrasūkṣmārtha[vedī]} Kern Sarkar. Kern’s restoration seems unlikely to me, because we expect an instr.\ pl.\ agreeing with °\skt{nikaraiś}. My °\skt{vidbhiḥ} is merely a diagnostic conjecture.}
+22. \footnote{\skt{[pra]jñā}° \sep\ \skt{(rā)jā} Kern Sarkar. One clearly discerns \skt{jñā} at the beginning of line 22. Dominic Goodall suggested to me the reading \skt{prajñā-} (email of 27 Oct.\ 2008).}
+23. \footnote{\skt{svasur a[vanipater] nyāyataś} \sep\ thus Vogel (1941:~446); \skt{svasura \metra{\b\ \b\ \b\ \m} nyāyataś} Kern; \skt{svasura(savaiva nyā)yataś} Sarkar (whose understanding seems to involve \skt{asu}- n.\ ‘life’, but is grammatically impossible); cf.~also Chhabra p.~47f. I tentatively adopt Vogel’s reading, and of his two proposals for interpretation the first, which he himself apparently rejected for a second, in my view less likely suggestion, viz.\ that Sannāha was the name of the sister, and that \skt{sannāhanāmnas} = \skt{sannāhanāmnyās} (without clarifying what this second suggestion would mean for the restitution of \skt{avanipater}); to me, it seems more likely that Sannāha is identical with Sanna, as proposed by Kern, p.~123 n.~2.}
+-->
+
+<lg n="12" met="śārdūlavikrīḍita">
+<l n="a">yasmiñ chāsa[ti sāga]<lb n="24" break="no"/>rormmi-raśanāṁ śaila-stanīm mediniṁ</l>
+<l n="b">śete rājapathe (ja)[no na] cakitaś corair na cānyair bhayaiḥ</l>
+<l n="c">kīrttyā[ḍhyair alam a]<lb n="25" break="no"/>rjitāś ca satatan dharmārthakāmā naraiḥ</l>
+<l n="d">nūnaṁ rodit(i) roditīti sa kalir nnāsty aṅśa-(śe)[ṣo] <supplied reason="subaudible">'</supplied>dhu(n)[ā ||]</l>
+</lg>
+<!-- 
+24. \footnote{\skt{mediniṁ} \sep\ \skt{medinīṁ} Kern; \skt{medinīm} Sarkar (printing error?). It seem impossible to read \skt{ī}, but \skt{medinīṁ} is intended.}
+24. \footnote{\skt{[a]rjitāś} \sep\ \skt{[a]rjjitāś} Kern Sarkar. There is no trace of geminated \skt{jj}.}
+25. \footnote{\skt{nnāstyaṅśa(śe)[ṣo] dhu(n)[ā ||]} \sep\ \skt{nnāstyaṅśa(śeṣo yataḥ)} Kern; \skt{nnāsyaṅga(cihnyānya)bhu(ḥ)} Sarkar (whose dismissal, in n.~28, of the clearly visible element °\skt{t}° is hard to understand). Sarkar’s °\skt{ṅgaci}° is certainly impossible. Note that Vogel (p.~443) reports the discovery of a fragment, broken off from the last line, that preserves an akṣara which he reads as \skt{thu} or \skt{dhu}. I agree that it can be both (see photo OD 13392, published as pl.~49 in \OV\ 1938), but it is certainly not \skt{bhu} (Sarkar). Although, when compared with the °\skt{śe}° in l.~24, Kern’s reading of this akṣara seems uncertain here, I assume the stone read \skt{aṅśaśeṣo dhunā} before damage. This seems the most suitable combination of all elements to be taken into account in the restitution of the lacuna. The alternatives that I have thought of are: \skt{aṅgaśeṣo} (but the \skt{ṅśa} is certain); \skt{aṅśabhedo} (but what remains visible of the akṣara before \skt{thu/dhu} on the fragment does not allow reading it as \skt{do}); and \skt{aṅśato mithunā} (which would  fit best the available traces of letters but does not seem to make any sense).}% See print of email Dominic Goodall.}
+-->
+
+         </div>
+         <div type="apparatus">
+               <listApp>
+                  <app loc="1">
+                     <lem>aṅgī-</lem>
+                     <note>Kern <!--(p.~120 n.\ 2)--> proposes to correct <foreign>aṅkī-</foreign>, but according to Sarkar <!--(n.~12)--> this is unnecessary.</note>
+                  </app>
+<!-- 
+%1. vārendau: the re seems uncertain, and for ndau I am tempted to read nḍau.
+1. -trayodaśi}° \sep\ cf.~Sarkar n.~13: “The correct form is °\skt{śī}, but metre requires a short syllable.”
+%\footnote{\skt{kumbha}° \sep\ \skt{kumba}° might be the actual reading here, comparing the subscript \skt{bh} in \skt{adbhutam} (l.\ 4), and °\skt{mbha}° in l.~9.}
+2. sthirāṅśa- \sep\ thus Chhabra Sarkar; \skt{sthirāṅga}° Kern. The subscript is certainly \skt{ś}.
+%d. śrī°: this ī is very likely to be long.
+2. There is no punctuation at the end of line 2.
+-->
+               </listApp>
+         </div>
+         <div type="translation" resp="part:argr">
+ 	<!--translation encoded as per EGD §9.2 -->
+         </div>
+         <div type="commentary">
+            <!--commentary encoded as per section §9.3 -->
+         </div>
+        <div type="bibliography">
+	<!--bibliography encoded as per section §9.4 -->
+           <p><!-- formulate epigraphic lemma here, using the items of primary bibliography --></p>
+        	<listBibl type="primary">
+				<bibl n="siglum"/><!-- one <bibl/> per item of primary bibliography. Every entry mentionned in apparatus  should hava a @n to declare its sigla -->
+			</listBibl>
+           <listBibl type="secondary">
+              <bibl/><!-- one <bibl/> per item of secondary bibliography -->
+           </listBibl>
+<!-- 
+\red{SEE SIRCAR SELECT INSCRIPTIONS II, p. 690.}
+\red{See Chatterjee 1933: 29 etc. on Kuñjarakuñja}
+
+ -->
+        </div>
+      </body>
+  </text>
+</TEI>
