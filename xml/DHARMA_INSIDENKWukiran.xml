@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Wukiran charter (7... Śaka)</title>
+                <respStmt>
+                    <resp>EpiDoc Encoding</resp>
+                    <persName ref="part:argr">
+                       <forename>Arlo</forename>
+                       <surname>Griffiths</surname>
+                    </persName>
+                 </respStmt>
+                 <respStmt>
+                    <resp>intellectual authorship of edition</resp>
+                    <persName ref="part:argr">
+                       <forename>Arlo</forename>
+                       <surname>Griffiths</surname>
+                    </persName>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <authority>DHARMA</authority>
+                 <pubPlace>Jakarta</pubPlace>
+                 <idno type="filename">DHARMA_INSIDENKSWukiran</idno>
+                 <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                       <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
+                                 Licence. To view a copy of the licence, visit
+                                 https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                                 Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                                 California, 94041, USA.</p>
+                       <p>Copyright (c) 2019-2025 by Arlo Griffiths.</p>
+                    </licence>
+                </availability>
+                <date from="2019" to="2025">2019-2025</date>
+            </publicationStmt>
+            <sourceDesc><!-- only the handDesc can be filled in at this stage -->
+                <msDesc><!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/><!-- don't modify this -->
+                    </msIdentifier>
+                    <msContents><!-- describe the intellectual content of an inscription -->
+                        <summary><!-- //// NOT MANDATORY  ////--></summary> <!-- offers the possibility to give a summary of the inscription's content -->
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p><!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EGD 11.2. --></p>
+                            <!-- If you need to identify individual hands (EGD §7.5/) in addition to one or more paragraphs of general palaeographic description, wrap <summary> around the <p> or <p>s above, and, outside <summary>, create <handNote> elements for each hand as follows:
+						<summary><p><p/></summary>
+						<handNote xml:id="Pallava00001_hand1"></handNote>
+						<handNote xml:id="Pallava00001_hand2"></handNote>
+					 -->
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
+            </projectDesc>
+            <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/><!-- UPDATE the link once the release is made official -->
+            <listPrefixDef>
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                    <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
+                </prefixDef>
+                <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
+                    <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_idListMembers_v01.xml</ref> file.</p>
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <revisionDesc>
+            <change who="part:argr" when="2024-05-22" status="draft">started encoding of the inscription</change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:space="preserve">
+      <body>
+         <div type="edition" xml:lang="san-Latn" rendition="class:38769 maturity:83213">
+<lg n="1" met="āryā">
+<l n="ab"><lb n="1"/>|| yata Utpannaṁ viśvaṁ yatra ca jātaṁ vilīnam api yatra ⚬</l>
+<l n="cd"><lb n="2"/>tasmai namo bhagavate śivāya śiva-kāriṇe tubhyaṁ</l></lg>
+<lg n="2" met="āryā">
+<l n="ab"><lb n="3"/>|| pathagāpi dūra-duritā śūnyāpi hita-pradānimiṣa-pūrṇnā</l>
+<l n="cd"><lb n="4"/>śivira-vr̥tāpy atipūtā śilā yato janmibhiḥ pūjyā || ⚬ ||</l>
+</lg>
+	<!-- 4 c. śivira-: cf. śibira in the Tugu inscription, st. V. -->
+<lg n="3" met="āryā">
+<l n="ab"><lb n="5"/>|| yāvat khe ravi-śaśinau yāvad dhātr<choice><sic>i</sic><corr>ī</corr></choice> catus-samudra-vr̥tā</l>
+<l n="cd"><lb n="6"/>yāvad daśa-diśi vāyus tāvad bhaktir valaiṅ-nāmnaḥ || ⚬ ||</l>
+</lg>
+<p xml:lang="kaw-Latn"><lb n="7"/>|| svasti śakavarṣātīta 784 māgha māsa śukla-pakṣa
+    <lb n="8"/>tr̥tīya soma-vāra tatkāla rake valaiṁ pu kumbhayo<lb break="no" 
+    n="9"/>ni puyut· saṁ ratu I halu pakviAnnira I jaṁluran· ma<lb break="no" 
+    n="10"/>veḥ savaḥ I vukiran· tampaḥ Aliḥ I tamvā huraṁ ṅaranni<lb break="no" 
+    n="11"/>kanaṁ savaḥ dmak· caruA saṁ hyaṁ vināya Uvaṁ saṁ pamgat·
+    <lb n="12"/>meḥhakan· Ikanaṁ savaḥ saṁ tuha kalaṁ pu nista gusti
+    <lb n="13"/>si Uṅgaḥ viṅkas· si manikṣa parujar· kāliḥ si Ara si
+    <lb n="14"/>maṅgaḥ tuṅgū kuvu si vsi vahuta si mitra saṁ taṅuṇḍaha<lb break="no" 
+    n="15"/>ni Inajar· raken mapatiḥ kāliḥ vadihati makudur· ti<lb break="no" 
+    n="16"/>ruAn· Asiṁ muput· Ikiṁ sīma Upadravā brahmahatya ||</p>
+
+<lg n="4" met="āryā">
+<l n="ab"><lb n="17"/>|| vihite kalaśaja-nāmnā bhadrālokāhvaye vivudha-ge<lb break="no" n="18"/>he ⚬</l>
+<l n="cd">tasyātha putra-potrāḥ bhavantu labdheṣṭapada-jīvāḥ ||</l>
+</lg>
+	<!-- c. °potrāḥ : or can we read °pautrāḥ? -->
+
+<p>Anya<lb n="19"/>c ca ||</p>
+
+<lg n="5" met="āryā">
+<l n="ab">jagatāṁ śivam astu sadā bho dvija-rājñāṁ tathā śiva-ratānāṁ</l>
+<l n="cd"><lb n="20"/>śruti-bhakti-dāna-dharmmā bhavantu nārāti-rogerṣyāḥ || ⚬ ||</l>
+</lg>
+
+<lg n="6" met="anuṣṭubh" xml:lang="kaw-Latn">
+<l n="a"><lb n="21"/>tuṅgaṁ davǝt laṅka sǝR̥ḥ</l> <l n="b">vulakanni valā valaiṁ</l>
+<l n="c">lo<lb n="22"/>dvāṁ vanvaniraṁ dhīmān·</l> <l n="d">kumbhayoni ṅarannira || ⊙ ||</l>
+</lg>
+         </div>
+         <div type="apparatus">
+               <listApp><!-- one <app> for each apparatus entry -->
+                  <app loc="5"><!-- update the value of @loc.-->
+                     <lem>dhātr<choice><sic>i</sic><corr>ī</corr></choice></lem>
+                     <rdg source="bib:AuthorYear_01"><!-- update the @source value, fill in variant reading here --></rdg>
+                     <note>	<!-- 5. b. dhātri : em. dhātrī Kern (m.c.). --></note>
+                  </app>
+                  <app loc="9">
+            <lem>pakviAnnira</lem>
+                    <note><!--9. pakviannira: Cohen Stuart proposes the alternative reading pakdiannira (see the Verbeteringen on the last page). --></note>
+                  </app>
+                  <app loc="10">
+                    <lem>tamvā</lem>
+                    <note><!-- 10. tamvā: I would rather think tahva, but there is a stroke which probably distinguishes m from h. --></note>
+                  </app>
+                  <app loc="11">
+                    <lem>caruA</lem>
+                    <note>thus Sarkar; vanua Cohen Stuart. The irrealis form carva is attested in Dharma Pātañjala, f. 68v, in the phrase yan carva ri saṅ hyaṅ ‘if they are to be sacrificed to the gods’, which confirms Sarkar’s reading in elegant fashion.</note>
+                  </app>
+               </listApp>
+         </div>
+         <div type="translation" resp="part:argr">
+ 	<!--translation encoded as per EGD §9.2 -->
+         </div>
+         <div type="commentary">
+            <!--commentary encoded as per section §9.3 -->
+         </div>
+        <div type="bibliography">
+	<!--bibliography encoded as per section §9.4 -->
+           <p>First edited by Kern. Re-edited here by Arlo Griffiths based on the van Kinsbergen photo.<!-- formulate epigraphic lemma here, using the items of primary bibliography --></p>
+           <!-- 
+Museum Nasional: D. 77.
+van Kinsbergen 182
+Text after Sarkar, Kern (and facsimile in Verspreide Geschriften VI, p. 280), Cohen Stuart (Kawi Oorkonden).
+
+Krom, “Epigrafische Bijdragen [II. De inscriptie van Pereng]”, BKI 75 (1919), 8–24.
+Poerbatjaraka, Agastya in den Archipel, p. 45f.
+Stutterheim, Epigraphica IV, TBG 75 (1935), p. 459 n. 1.
+           -->
+        	<listBibl type="primary">
+				<bibl n="siglum"/><!-- one <bibl/> per item of primary bibliography. Every entry mentionned in apparatus  should hava a @n to declare its sigla -->
+			</listBibl>
+           <listBibl type="secondary">
+            <bibl><ptr target="bib:Damais1949_01"/><citedRange unit="page">21</citedRange></bibl>
+              <bibl><ptr target="bib:Casparis1975_01"/><citedRange unit="mixed">pl. IIId with introductory note and partial transliteration on p. 89f</citedRange></bibl>
+           </listBibl>
+        </div>
+      </body>
+  </text>
+</TEI>
