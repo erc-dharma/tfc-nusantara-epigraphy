@@ -85,7 +85,7 @@
          <div type="edition" xml:lang="san-Latn" rendition="class:38769 maturity:83213">
 <lg n="1" met="āryā">
 <l n="ab"><lb n="1"/>|| yata Utpannaṁ viśvaṁ yatra ca jātaṁ vilīnam api yatra ⚬</l>
-<l n="cd"><lb n="2"/>tasmai namo bhagavate śivāya śiva-kāriṇe tubhyaṁ</l></lg>
+<l n="cd"><lb n="2"/>tasm<seg rend="check">ai</seg> namo bhagavate śivāya śiva-kāriṇe tubhyaṁ</l></lg>
 <lg n="2" met="āryā">
 <l n="ab"><lb n="3"/>|| pathagāpi dūra-duritā śūnyāpi hita-pradānimiṣa-pūrṇnā</l>
 <l n="cd"><lb n="4"/>śivira-vr̥tāpy atipūtā śilā yato janmibhiḥ pūjyā || ⚬ ||</l>
@@ -137,7 +137,7 @@
                   </app>
                   <app loc="10">
                     <lem>tamvā</lem>
-                    <note><!-- 10. tamvā: I would rather think tahva, but there is a stroke which probably distinguishes m from h. --></note>
+                    <note>I would rather think tahva, but there is a stroke which probably distinguishes m from h. <seg rend="check">Split tamvāh uraṁ?</seg></note>
                   </app>
                   <app loc="11">
                     <lem>caruA</lem>
@@ -168,7 +168,7 @@ Stutterheim, Epigraphica IV, TBG 75 (1935), p. 459 n. 1.
 			</listBibl>
            <listBibl type="secondary">
             <bibl><ptr target="bib:Damais1949_01"/><citedRange unit="page">21</citedRange></bibl>
-              <bibl><ptr target="bib:Casparis1975_01"/><citedRange unit="mixed">pl. IIId with introductory note and partial transliteration on p. 89f</citedRange></bibl>
+              <bibl><ptr target="bib:Casparis1975_01"/><citedRange unit="mixed">plate IIId with introductory note and partial transliteration on pages 89–90</citedRange></bibl>
            </listBibl>
         </div>
       </body>
