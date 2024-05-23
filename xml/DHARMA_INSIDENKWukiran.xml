@@ -82,46 +82,47 @@
     </teiHeader>
     <text xml:space="preserve">
       <body>
-         <div type="edition" xml:lang="san-Latn" rendition="class:38769 maturity:83213">
-<lg n="1" met="āryā">
-<l n="ab"><lb n="1"/>|| yata Utpannaṁ viśvaṁ yatra ca jātaṁ vilīnam api yatra ⚬</l>
-<l n="cd"><lb n="2"/>tasm<seg rend="check">ai</seg> namo bhagavate śivāya śiva-kāriṇe tubhyaṁ</l></lg>
-<lg n="2" met="āryā">
-<l n="ab"><lb n="3"/>|| pathagāpi dūra-duritā śūnyāpi hita-pradānimiṣa-pūrṇnā</l>
-<l n="cd"><lb n="4"/>śivira-vr̥tāpy atipūtā śilā yato janmibhiḥ pūjyā || ⚬ ||</l>
+         <div type="edition" xml:lang="kaw-Latn" rendition="class:38769 maturity:83213">
+<lg n="1" met="āryā" xml:lang="san-Latn">
+<l n="ab"><lb n="1"/><g type="ddanda"/> yata Utpannaṁ viśvaṁ yatra ca jātaṁ vilīnam api yatra <g type="circleMed"/></l>
+<l n="cd"><lb n="2"/>tasmai namo bhagavate śivāya śiva-kāriṇe tubhyaṁ</l>
+</lg>
+<lg n="2" met="āryā" xml:lang="san-Latn">
+<l n="ab"><lb n="3"/><g type="ddanda"/> pathagāpi dūra-duritā śūnyāpi hita-pradānimiṣa-pūrṇnā</l>
+<l n="cd"><lb n="4"/>śivira-vr̥tāpy atipūtā śilā yato janmibhiḥ pūjyā <g type="ddanda"/><g type="circleMed"/><g type="ddanda"/></l>
 </lg>
 	<!-- 4 c. śivira-: cf. śibira in the Tugu inscription, st. V. -->
-<lg n="3" met="āryā">
-<l n="ab"><lb n="5"/>|| yāvat khe ravi-śaśinau yāvad dhātr<choice><sic>i</sic><corr>ī</corr></choice> catus-samudra-vr̥tā</l>
-<l n="cd"><lb n="6"/>yāvad daśa-diśi vāyus tāvad bhaktir valaiṅ-nāmnaḥ || ⚬ ||</l>
+<lg n="3" met="āryā" xml:lang="san-Latn">
+<l n="ab"><lb n="5"/><g type="ddanda"/> yāvat khe ravi-śaśinau yāvad dhātr<choice><sic>i</sic><corr>ī</corr></choice> catus-samudra-vr̥tā</l>
+<l n="cd"><lb n="6"/>yāvad daśa-diśi vāyus tāvad bhaktir valaiṅ-nāmnaḥ <g type="ddanda"/><g type="circleMed"/><g type="ddanda"/></l>
 </lg>
-<p xml:lang="kaw-Latn"><lb n="7"/>|| svasti śakavarṣātīta 784 māgha māsa śukla-pakṣa
-    <lb n="8"/>tr̥tīya soma-vāra tatkāla rake valaiṁ pu kumbhayo<lb break="no" 
+<p><lb n="7"/><g type="ddanda"/> svasti śaka-varṣātīta <num value="784">784</num> māgha-māsa śukla-pakṣa
+    <lb n="8"/>tr̥tīya soma-vāra tatkāla <abbr>rake</abbr> valaiṁ pu kumbhayo<lb break="no" 
     n="9"/>ni puyut· saṁ ratu I halu pakviAnnira I jaṁluran· ma<lb break="no" 
-    n="10"/>veḥ savaḥ I vukiran· tampaḥ Aliḥ I tamvā huraṁ ṅaranni<lb break="no" 
-    n="11"/>kanaṁ savaḥ dmak· caruA saṁ hyaṁ vināya Uvaṁ saṁ pamgat·
+    n="10"/>veḥ savaḥ I vukiran· tampaḥ Aliḥ I <seg rend="check">tamvā huraṁ</seg> ṅaranni<lb break="no" 
+    n="11"/>kanaṁ savaḥ dmak· caruA saṁ hyaṁ vināya</p> <p>Uvaṁ saṁ pamgat·
     <lb n="12"/>meḥhakan· Ikanaṁ savaḥ saṁ tuha kalaṁ pu nista gusti
     <lb n="13"/>si Uṅgaḥ viṅkas· si manikṣa parujar· kāliḥ si Ara si
     <lb n="14"/>maṅgaḥ tuṅgū kuvu si vsi vahuta si mitra saṁ taṅuṇḍaha<lb break="no" 
     n="15"/>ni Inajar· raken mapatiḥ kāliḥ vadihati makudur· ti<lb break="no" 
-    n="16"/>ruAn· Asiṁ muput· Ikiṁ sīma Upadravā brahmahatya ||</p>
+    n="16"/>ruAn·</p> <p>Asiṁ muput· Ikiṁ sīma Upadravā brahmahatya <g type="ddanda"/></p>
 
-<lg n="4" met="āryā">
-<l n="ab"><lb n="17"/>|| vihite kalaśaja-nāmnā bhadrālokāhvaye vivudha-ge<lb break="no" n="18"/>he ⚬</l>
-<l n="cd">tasyātha putra-potrāḥ bhavantu labdheṣṭapada-jīvāḥ ||</l>
+<lg n="4" met="āryā" xml:lang="san-Latn">
+<l n="ab"><lb n="17"/><g type="ddanda"/> vihite kalaśaja-nāmnā bhadrālokāhvaye vivudha-ge<lb break="no" n="18"/>he <g type="circleMed"/></l>
+<l n="cd">tasyātha putra-potrāḥ bhavantu labdheṣṭapada-jīvāḥ <g type="ddanda"/></l>
 </lg>
-	<!-- c. °potrāḥ : or can we read °pautrāḥ? -->
+	<!-- c. °potrāḥ : same vowel marks as in nau line 5. it means that po and pau are undifferentiated in this script. -->
 
-<p>Anya<lb n="19"/>c ca ||</p>
+<p xml:lang="san-Latn">Anya<lb break="no" n="19"/>c ca <g type="ddanda"/></p>
 
-<lg n="5" met="āryā">
+<lg n="5" met="āryā" xml:lang="san-Latn">
 <l n="ab">jagatāṁ śivam astu sadā bho dvija-rājñāṁ tathā śiva-ratānāṁ</l>
-<l n="cd"><lb n="20"/>śruti-bhakti-dāna-dharmmā bhavantu nārāti-rogerṣyāḥ || ⚬ ||</l>
+<l n="cd"><lb n="20"/>śruti-bhakti-dāna-dharmmā bhavantu nārāti-rogerṣyāḥ <g type="ddanda"/><g type="circleMed"/><g type="ddanda"/></l>
 </lg>
 
-<lg n="6" met="anuṣṭubh" xml:lang="kaw-Latn">
+<lg n="6" met="anuṣṭubh">
 <l n="a"><lb n="21"/>tuṅgaṁ davǝt laṅka sǝR̥ḥ</l> <l n="b">vulakanni valā valaiṁ</l>
-<l n="c">lo<lb n="22"/>dvāṁ vanvaniraṁ dhīmān·</l> <l n="d">kumbhayoni ṅarannira || ⊙ ||</l>
+<l n="c">lo<lb break="no" n="22"/>dvāṁ vanvaniraṁ dhīmān·</l> <l n="d">kumbhayoni ṅarannira <g type="ddanda"/><g type="circleMed"/><g type="ddanda"/></l>
 </lg>
          </div>
          <div type="apparatus">
@@ -174,3 +175,9 @@ Stutterheim, Epigraphica IV, TBG 75 (1935), p. 459 n. 1.
       </body>
   </text>
 </TEI>
+<!-- CIJ  XXV
+ THE STONE OF VUKlRAN (PEREṅ), 784 ŚAKA
+   This stone-inscription was found at Pereṅ which lies about 2 kilometres to the South-east of Prambanan. The place is in the neighbourhood of the foot of the southern mountain raṅes between the kraton of Ratu baka and Caṇḍi Sujivan.1 The inscription first came to the possession of Mr. Klāriṅ at Jogjakarta. In 1890, the Jakarta museum recorded the accession of this stone under D. 772 According to Cohen Stuart,3 it measures about 96 x 42 c. m.
+   A photo of this inscription was taken by Van Kinsbergen4 as early as 1865. We also find reference to three impressions of this record in the Notulen for 1869, Bijl. N. Dr. Cohen Stuart who published a complete transcription of this record in his KO XXIII (1875) handled this inscription in TBG‚ 18 (1868-72) pp. 89-117. In the followiṅ year (1873), Sanskrit portions of this inscription were handled by Prof. Kern5 who has also published a complete facsimile based upon the photo of Van Kinsbergen. The latest readiṅ and translation of the record were furnished by Poerbatjaraka6 in 1926.
+    The inscription opens with some laudatory verses to Śiva and records that in 784 Śaka7 ‚ the raka of Valaiṅ8 (viz.) pu Kumbhayoni offerd a savah for a religious foundation. The concludiṅ portions indicate that the god-house called Bhadrāloka was founded by Kalaśaja and a desire is expressed that his descendants may obtain therein an abode and life-subsistence.
+    The openiṅ section of the inscription is written in Sanskrit verses, formiṅ three stanzas in Āryā metre. In the concludiṅ portion of the inscription from 1. 17, four Sanskrit verses are written in two more strophes of Āryā metre. The other portions of the record are written in Old- Javanese prose.-->
