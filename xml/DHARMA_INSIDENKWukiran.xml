@@ -122,7 +122,7 @@
 
 <lg n="6" met="anuṣṭubh">
 <l n="a"><lb n="21"/>tuṅgaṁ davǝt laṅka sǝR̥ḥ</l> <l n="b">vulakanni valā valaiṁ</l>
-<l n="c">lo<lb break="no" n="22"/>dvāṁ vanvaniraṁ dhīmān·</l> <l n="d">kumbhayoni ṅarannira <g type="ddanda"/><g type="circleMed"/><g type="ddanda"/></l>
+<l n="c">lo<lb break="no" n="22"/>dvāṁ vanvaniraṁ dhīmān·</l> <l n="d">kumbhayoni ṅarannira <g type="ddanda"/><g type="circleTarget"/><g type="ddanda"/></l>
 </lg>
          </div>
          <div type="apparatus">
@@ -147,7 +147,12 @@
                </listApp>
          </div>
          <div type="translation" resp="part:argr">
- 	<!--translation encoded as per EGD §9.2 -->
+ 	<p rend="stanza" n="1">Whence all arises, and wherein <supplied reason="subaudible">all</supplied> is born, wherein <supplied reason="subaudible">all</supplied> dissolves: homage to that Lord Śiva, who acts benevolently — to you!</p>
+     <p rend="stanza" n="2">Though it is on the road, accidents are far from it; though it is empty, it grants good and is full of fish; though it is surrounded by an encampment, it is more than tidy. This is why the stone is to be worshiped by mortals.</p>
+     <p rend="stanza" n="3"></p>
+     <p rend="stanza" n="4"></p>
+     <p rend="stanza" n="5"></p>
+     <p rend="stanza" n="6"></p>
          </div>
          <div type="commentary">
             <!--commentary encoded as per section §9.3 -->
