@@ -121,7 +121,7 @@
 </lg>
 
 <lg n="6" met="anuṣṭubh">
-<l n="a"><lb n="21"/>tuṅgaṁ davǝt laṅka sǝR̥ḥ</l> <l n="b">vulakanni valā valaiṁ</l>
+<l n="a" met="=+-++--="><lb n="21"/>tuṅgaṁ davǝt laṅka sǝR̥ḥ</l> <l n="b">vulakann i valā valaiṁ</l>
 <l n="c">lo<lb break="no" n="22"/>dvāṁ vanvaniraṁ dhīmān·</l> <l n="d">kumbhayoni ṅarannira <g type="ddanda"/><g type="circleTarget"/><g type="ddanda"/></l>
 </lg>
          </div>
@@ -154,7 +154,7 @@
  	<p rend="stanza" n="1">Whence all arises, and wherein <supplied reason="subaudible">all</supplied> is born, wherein <supplied reason="subaudible">all</supplied> dissolves: homage to that Lord Śiva, who acts benevolently — to you!</p>
      <p rend="stanza" n="2">Though it is on the road, accidents are far from it; though it is empty, it grants good and is full of fish; though it is surrounded by an encampment, it is more than tidy — this is why the stone is to be worshiped by mortals.</p>
      <p rend="stanza" n="3">As long as sun and moon are in the sky; as long as the earth is girded by the four oceans; as long as the winds is <supplied reason="subaudible">blowing</supplied> in the ten quarters of space — so long <supplied reason="subaudible">may endure</supplied> the devotion of the one named Valaiṅ!</p>
-     <p n="7-11">Hail! Elapsed Śaka year 784, month of Māgha, waxing fortnight, third <supplied reason="subaudible"><foreign>tithi</foreign></supplied>: that is when the Lord of Valaiṅ, <foreign>pu</foreign> Kumbhayoni <supplied reason="explanation">i.e., Pot-Born, alias Agastya</supplied>, great-grandchild of the king of Halu, <foreign>pa-kəbi-an</foreign> of the one from Jaṅluran,<note>The meaning of the kinship term <foreign>pa-kəbi-an</foreign> (not discussed by <bibl><ptr target="bib:Fox1986_01"/></bibl>) is unknown. With pertinent reference to <bibl><ptr target="bib:Stutterheim1935_01"/><citedRange unit="page">56-60</citedRange></bibl>, who discussed the meaning of Old Javanese <foreign>kəbi</foreign> proving that it meant <q>grandmother</q>, Sarkar translated the present passage as <q>with his grand-mother</q>. But there is no word corresponding to <q>with</q> in the original and the derived form <foreign>pa-kəbi-an</foreign> is unlikely to mean the same as the base from which it is derived. On the analogy of kinship terms <foreign>paman</foreign> (uncle, derived from <foreign>ama</foreign> <q>father</q>) and <foreign>penan</foreign> (derived from <foreign>ina</foreign> <foreign>mother</foreign>), one might guess that <foreign>pa-kəbi-an</foreign> means <q>grandmother's younger sibling</q>.</note> gave a paddyfield at Vukiran — two <foreign>tampah</foreign>, the name of the endowed paddyfield was Tamvāhuraṅ<note>It is unclear whether we should interpret this toponym as Tamvā Huraṅ or Tamvāh Uraṅ, but given the spelling the former seems a bit more plausible.<!--  It could mean  --></note> — so that the God Vināya will enjoy food offerings <supplied reason="explanation"><foreign>caru</foreign></supplied>.</p>
+     <p n="7-11">Hail! Elapsed Śaka year 784, month of Māgha, waxing fortnight, third <supplied reason="subaudible"><foreign>tithi</foreign></supplied>: that is when the Lord of Valaiṅ, <foreign>pu</foreign> Kumbhayoni <supplied reason="explanation">i.e., Pot-Born</supplied>,<note>Kumbhayoni and Kalaśaja (st. IV) are both alternative names of Agastya.</note> great-grandchild of the king of Halu, <foreign>pa-kəbi-an</foreign> of the one from Jaṅluran,<note>The meaning of the kinship term <foreign>pa-kəbi-an</foreign> (not discussed by <bibl><ptr target="bib:Fox1986_01"/></bibl>) is unknown. With pertinent reference to <bibl><ptr target="bib:Stutterheim1935_01"/><citedRange unit="page">56-60</citedRange></bibl>, who discussed the meaning of Old Javanese <foreign>kəbi</foreign> proving that it meant <q>grandmother</q>, Sarkar translated the present passage as <q>with his grand-mother</q>. But there is no word corresponding to <q>with</q> in the original and the derived form <foreign>pa-kəbi-an</foreign> is unlikely to mean the same as the base from which it is derived. On the analogy of kinship terms <foreign>paman</foreign> (uncle, derived from <foreign>ama</foreign> <q>father</q>) and <foreign>penan</foreign> (derived from <foreign>ina</foreign> <foreign>mother</foreign>), one might guess that <foreign>pa-kəbi-an</foreign> means <q>grandmother's younger sibling</q>.</note> gave a paddyfield at Vukiran — two <foreign>tampah</foreign>, the name of the endowed paddyfield was Tamvāhuraṅ<note>It is unclear whether we should interpret this toponym as Tamvā Huraṅ or Tamvāh Uraṅ, but given the spelling the former seems a bit more plausible.<!--  It could mean  --></note> — so that the God Vināya will enjoy food offerings <supplied reason="explanation"><foreign>caru</foreign></supplied>.</p>
      <p n="11-16">Men of the official <supplied reason="explanation">i.e., Kumbhayoni?</supplied> who gave the paddyfield on his behalf <supplied reason="explanation"><foreign>mehakan</foreign></supplied>: 
         <list>
         <item>the <foreign>tuha kalaṅ</foreign> <supplied reason="subaudible">called</supplied> <foreign>pu</foreign> Nista</item>
@@ -167,10 +167,11 @@
         <item>the <foreign>taṅuṇḍahari</foreign><note>The reading and interpretation of this function remain uncertain. The element taṅun is secure and can be compared with occurrences of <foreign>saṅ taṅun</foreign> or <foreign>saṅ taṅunan</foreign> in some other inscriptions.</note> <supplied reason="subaudible">called</supplied> <foreign>si</foreign> Mitra</item><!-- Panunggalan kāla haji rakai (5) vatu humalaṅ umadag· inajar· saṅ tuhān· i tiruan· i turun· ni anugrahha saṅ paməgat· i raja i ḍapunta i (6) panuṅgalan· -->
      </list>
      The two <foreign>mapatih</foreign> lords<note>The text itself does not seem to make clear which two are meant.</note> were informed by the Vadihati, the Makudur and the Tiruan.</p>
-     <p n="16">Whoever brings this <foreign>sīma</foreign> to an end shall meet with the disastrous consequences <supplied reason="subaudible">like those of</supplied> murdering a brahmin.</p>
-     <p rend="stanza" n="4"></p>
-     <p rend="stanza" n="5"></p>
-     <p rend="stanza" n="6"></p>
+     <p n="16">Whoever brings this <foreign>sīma</foreign> to an end shall meet with disastrous consequences <supplied reason="subaudible">like those of</supplied> murdering a brahmin.</p>
+     <p rend="stanza" n="4">After the foundation of the deity house called Bhadrāloka by the one called Kalaśaja <supplied reason="explanation">i.e., Pot-Born, alias Kumbhayoni</supplied>, may his sons and grandsons now live in attainment of the desired state <supplied reason="explanation">of release</supplied>.</p>
+     <p n="18-19">And another:</p>
+     <p rend="stanza" n="5">Ho! May it always go well for the people and for kings and brahmins devoted to Śiva! May they follow the rule <supplied reason="explanation"><foreign>dharma</foreign></supplied> of scriptures, devotion and donation, not enmity, disease and jealousy!</p>
+     <p rend="stanza" n="6">Tuṅgaṅ, Davǝt, Laṅka, Sǝrəh, Vulakan, Valā, Valaiṅ <supplied reason="subaudible">and</supplied> Lo Dvāṅ:<note>See my comment on the same toponym in the <ref target="DHARMA_INSIDENKSindoro-PuBahut">Pu Batu</ref> inscription</note> they are the villages of the wise Kumbhayoni.</p>
          </div>
          <div type="commentary">
             <!--commentary encoded as per section §9.3 -->
@@ -187,13 +188,20 @@ Krom, “Epigrafische Bijdragen [II. De inscriptie van Pereng]”, BKI 75 (1919)
 Poerbatjaraka, Agastya in den Archipel, p. 45f.
 Stutterheim, Epigraphica IV, TBG 75 (1935), p. 459 n. 1.
            -->
-        	<listBibl type="primary">
-				<bibl n="siglum"/><!-- one <bibl/> per item of primary bibliography. Every entry mentionned in apparatus  should hava a @n to declare its sigla -->
-			</listBibl>
-           <listBibl type="secondary">
-            <bibl><ptr target="bib:Damais1949_01"/><citedRange unit="page">21</citedRange></bibl>
-              <bibl><ptr target="bib:Casparis1975_01"/><citedRange unit="mixed">plate IIId with introductory note and partial transliteration on pages 89–90</citedRange></bibl>
-           </listBibl>
+           <listBibl type="primary">
+            <bibl n="CS"><ptr target="bib:CohenStuart1875_01"/><citedRange unit="page">X, 19-20</citedRange><citedRange unit="item">IX</citedRange></bibl>
+            <bibl n="B"><ptr target="bib:Boechari1985-1986_01"/><citedRange unit="page">41-42</citedRange><citedRange unit="item">E. 11</citedRange></bibl>
+        </listBibl>
+       <listBibl type="secondary">
+        <!-- NBG VII, 13: 4/3 II, c-->
+        <bibl><ptr target="bib:Damais1949_01"/><citedRange unit="page">21</citedRange></bibl>
+        <bibl><ptr target="bib:Damais1952_01"/><citedRange unit="page">...-...</citedRange><citedRange unit="item">...</citedRange></bibl>
+        <bibl><ptr target="bib:Damais1955_01"/><citedRange unit="page">...</citedRange></bibl>
+        <bibl><ptr target="bib:Damais1970_01"/><citedRange unit="page">50</citedRange><citedRange unit="item">116</citedRange></bibl>
+        <bibl><ptr target="bib:Sarkar1971-1972_01"/><citedRange unit="page">...</citedRange><citedRange unit="item">...</citedRange></bibl>
+        <bibl><ptr target="bib:Casparis1975_01"/><citedRange unit="mixed">plate IIId with introductory note and partial transliteration on pages 89–90</citedRange></bibl>
+        <!-- not included in Eade+Gislen2000_01? -->
+       </listBibl>
         </div>
       </body>
   </text>
