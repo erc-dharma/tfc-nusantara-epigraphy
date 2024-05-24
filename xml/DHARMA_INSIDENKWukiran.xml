@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Stela of Pereng (784 Śaka)</title>
+                <title>Stela of Pereng, also known as Wukiran inscription (784 Śaka, 863-1-25 CE)</title>
                 <respStmt>
                     <resp>EpiDoc Encoding</resp>
                     <persName ref="part:argr">
@@ -145,7 +145,7 @@
                   </app> -->
                   <app loc="14">
                         <lem>taṅuṇḍaha<lb break="no" n="15"/>ri</lem>
-                        <rdg source="bib:???">taṅuṇḍaha<lb break="no" n="15"/>ni</rdg>
+                        <note>All previous editions read <foreign>taṅuṇḍahani</foreign>.</note>
                 </app>
                </listApp>
          </div>
@@ -173,7 +173,7 @@
      <p rend="stanza" n="6">Tuṅgaṅ, Davǝt, Laṅka, Sǝrəh, Vulakan, Valā, Valaiṅ <supplied reason="subaudible">and</supplied> Lo Dvāṅ:<note>See my comment on the same toponym in the <ref target="DHARMA_INSIDENKSindoro-PuBahut">Pu Bahut</ref> inscription</note> they are the villages of the wise Kumbhayoni.</p>
          </div>
          <div type="commentary">
-            <p>L.-Ch. Damais (<bibl rend="omitname"></bibl> and <bibl rend="omitname"><ptr target="bib:Damais1955_01"/></bibl>) commented at length on the reading and interpretation of the date and, based on the assumption that 784 Śaka was a year in which intercalation must have taken place, arrived at the CE equivalent 863-1-25; if that assumption was wrong, then 862-12-28 would be a plausible equivalent. In the absence of additional dating parameters, it is impossible to be sure.</p>
+            <p>L.-Ch. Damais (<bibl rend="omitname"></bibl> and <bibl rend="omitname"><ptr target="bib:Damais1955_01"/></bibl>) commented at length on the reading and interpretation of the date and, based on the assumption that 784 Śaka was a year in which intercalation must have taken place, arrived at the CE equivalent 863-1-25. This conclusion was confirmed by Eade &amp; Gislén (<bibl><ptr target="bib:Eade+Gislen2000_01"/></bibl>).</p>
          </div>
         <div type="bibliography">
            <p>Provisionally edited by A. B. Cohen Stuart &amp; J. J. van Limburg-Brouwer (<bibl rend="omitname"><ptr target="bib:CohenStuart+LimburgBrouwer1872_01"/></bibl>) and again by Cohen Stuart alone (<bibl rend="omitname"><ptr target="bib:CohenStuart1875_01"/></bibl>); the Sanskrit stanzas we re-studied by H. Kern (<bibl rend="omitname"><ptr target="bib:Kern1873_03"/></bibl>); the whole read and translated once again by Poerbatjaraka (<bibl><ptr target="bib:Poerbatjaraka1926_01"/></bibl>); all previous contributions synthesized by H. Bh. Sarkar (<bibl rend="omitname"><ptr target="bib:Sarkar1971-1972_01"/></bibl>). After all the work by successive generations of predecessors, only very little remained to be improved in the edition, but some progress could still be made in the translation and interpretation of the text, the present digital edition of which was made based on the van Kinsbergen photo and a Leiden estampage.</p>
@@ -199,6 +199,7 @@ Stutterheim, Epigraphica IV, TBG 75 (1935), p. 459 n. 1.
         <bibl><ptr target="bib:Damais1970_01"/><citedRange unit="page">47</citedRange><citedRange unit="item">61</citedRange></bibl>
         <bibl><ptr target="bib:Sarkar1971-1972_01"/><citedRange unit="page">171-177</citedRange><citedRange unit="item">XXV</citedRange></bibl>
         <bibl><ptr target="bib:Casparis1975_01"/><citedRange unit="mixed">plate IIId with introductory note and partial transliteration on pages 89–90</citedRange></bibl>
+        <bibl><ptr target="bib:Eade+Gislen2000_01"/><citedRange unit="page">127</citedRange><citedRange unit="item">A26</citedRange></bibl>
         <!-- not included in Eade+Gislen2000_01? -->
        </listBibl>
         </div>
