@@ -302,7 +302,7 @@
                 pasarikǝpany āyudhanira, kunaṁ ri sākṣāt<unclear>n</unclear>niran· viṣṇumūrt<unclear>t</unclear>i, rinakṣaniṁ
                 sarbvadevata, Inahākǝn tan ilva kavaśa deni paṅava<unclear>śaniṁ</unclear> mahāpralaya, maṅantīri
                 himbaṁniṁ vanagiri, ma<lb break="no" n="B9"/>kasambhāsana saṁ tāpaśa suddhācāra,
-                meriṁ lāvan· hulunira saṅ ek<unclear>ā</unclear>ntapratipatti manaḥniran· <gap quantity="2" reason="lost" unit="character"/> <supplied reason="lost">j</supplied>ña ta tanŭpacāran· bhaktiprahva ri lbūni
+                meriṁ lāvan· hulunira saṅ ek<unclear>ā</unclear>ntapratipatti manaḥniran· <unclear>dāśabhū</unclear>ta-tanŭpacāran· bhaktiprahva ri lbūni
                 pāduka śrī mahārāja, pu narottama, <lb n="B10"/> saṁjñānira, sirādini h<unclear>u</unclear>l<choice><sic>a</sic><corr>u</corr></choice>n· śrī mahārāja Ati<choice><orig>sayeṁ</orig><reg>śayeṅ</reg></choice> dr̥ḍabhakti, tumūt tan sāḥ I saparān· śrī mahārāja, milu
                 valkaladhara pinakarovaṁ śrī mahārāja makāhāra sāhā<lb break="no" n="B11"/>ra saṁ
                 bhikṣuka vanaprastha, tātan· vismr̥<choice><sic>d</sic><corr>t</corr></choice>i śrī mahārāja ri kārādhanan· bhaṭāra riṅ
@@ -864,6 +864,10 @@
                 <lem source="bib:Poerbatjaraka1941_01">baṅǝtni</lem> 
                 <rdg source="Brandes1913_01 bib:Kern1917_17">baṅǝṅgi</rdg>
                 </app>
+                <app loc="B7">
+                    <lem source="Brandes1913_01 bib:Kern1917_17 bib:Poerbatjaraka1941_01">rumǝ<lb break="no" n="B8"/>gǝp·</lem>
+                    <note>One detects what seems to be a character to the right of <foreign>mə</foreign>, which could theoretically be a vestige of an <foreign>akṣara</foreign> <foreign>rə</foreign> or <foreign>R̥</foreign>, or else be a space filler such as one often finds in later inscriptions but never in original stone inscriptions from Airlangga’s time. Although a form <foreign>rumǝrəgǝp</foreign> could theoretically be justified, it is unattested. We hence believe that we must be dealing with an accidental scratch.</note>
+                    </app>
                 <app loc="B8">
                 <lem>pasarikǝpany</lem>
                 <rdg source="bib:Brandes1913_01 bib:Poerbatjaraka1941_01">pasariṅkǝpany</rdg>
@@ -907,11 +911,12 @@
                 <rdg source="bib:Poerbatjaraka1941_01">samekāntapratipatti</rdg>
                 </app>
                 <app loc="B9">
-                <lem>– –<supplied reason="lost">j</supplied>ña ta tanupacāran· bhaktiprahva ri</lem>
+                <lem><unclear>dāśabhū</unclear>ta-tanŭpacāran· bhaktiprahva ri</lem>
                 <rdg source="Brandes1913_01"><gap quantity="3" reason="lost" unit="character"/> tanu – – n – – pra – ri</rdg> 
                 <rdg source="bib:Kern1917_17">– tanu <gap quantity="4" reason="lost" unit="character"/> n – – prahva ri</rdg> 
                 <rdg source="bib:Poerbatjaraka1941_01">Umaṅga tatan upakaran bhakti sraddha ri</rdg>
-                <note>A <foreign>d</foreign> seems faintly discernible where P read <foreign>U</foreign>. But the most likely restitutions seem to be <foreign>kr̥tajña</foreign> ‘skilled’ or <foreign>manojña</foreign> ‘beautiful’; for <foreign>tanupacāran</foreign>, one must either understand <foreign>tanūpacāran</foreign>, or emend <foreign>tanupracāran</foreign>. We tentatively opt for the former. The whole passage from <foreign>ekāntapratipatti</foreign> to <foreign>pāduka śrī mahārāja</foreign> is reminiscent of the Kakurugan inscription, 2r1–3 <foreign>tan· kapālaṅalaṁ suṣṭubhakti I pāduka śrī mahārāja, lot kahudanan·, kapyayān·, An paṅekānta I pāduka śrī mahārāja</foreign> ‘they were undisturbed in their extreme loyalty to his Majesty the Great King, steadfast [despite being] exposed to rain and sun, as they had but one aim, [namely] his Majesty the Great King’.</note>
+                <note><!-- A <foreign>d</foreign> seems faintly discernible where P read <foreign>U</foreign>. But the most likely restitutions seem to be <foreign>kr̥tajña</foreign> ‘skilled’ or <foreign>manojña</foreign> ‘beautiful’; -->For <foreign>-tanupacāran</foreign>, one must either understand <foreign>-tanūpacāran</foreign>, or emend <foreign>-tanupracāran</foreign>. We tentatively opt for the former. The whole passage from <foreign>ekāntapratipatti</foreign> to <foreign>pāduka śrī mahārāja</foreign> is reminiscent of the <ref target="DHARMA_INSIDENKKakurugan">Kakurugan charter</ref>, 2r1–3 <foreign>tan· kapālaṅalaṁ suṣṭubhakti I pāduka śrī mahārāja, lot kahudanan·, kapyayān·, An paṅekānta I pāduka śrī mahārāja</foreign> <q>they were undisturbed in their extreme loyalty to his Majesty the Great King, steadfast [despite being] exposed to rain and sun, as they had but one aim, [namely] his Majesty the Great King</q>.</note>
+                <!-- argr2ekba: please check if we now have occurrences of the same formula in original stone inscriptions -->
                 </app>
                 <app loc="B9">
                 <lem source="bib:Kern1917_17">pu narottama</lem> 
