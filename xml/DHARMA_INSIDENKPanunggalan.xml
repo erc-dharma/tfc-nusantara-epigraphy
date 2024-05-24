@@ -100,10 +100,10 @@
          <div type="apparatus">
            <!--apparatus encoded as per EGD §9.1, basic elements for apparatus below-->
                <listApp><!-- one <app> for each apparatus entry -->
-                <app loc="2r1">
+                <app loc="1v1">
                     <lem><num value="818">8<choice><sic>0</sic><corr>1</corr></choice>8</num></lem>
                     <rdg source="bib:CohenStuart1875_01 bib:Boechari1985-1986_01">808</rdg>
-                    <note><bibl><ptr target="bib:Damais1955_01"/><citedRange unit="page">168-169</citedRange></bibl> demonstrated the need to make the correction to <foreign>828</foreign>.</note>
+                    <note><bibl><ptr target="bib:Damais1955_01"/><citedRange unit="page">168-169</citedRange></bibl> demonstrated the need to make the correction to <foreign>818</foreign>.</note>
                 </app>
                   <app loc="2r1">
                      <lem source="bib:CohenStuart1875_01 bib:Boechari1985-1986_01">nārə</lem>

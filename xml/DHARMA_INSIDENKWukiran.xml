@@ -104,9 +104,7 @@
     <lb n="12"/>meḥhakan· Ikanaṁ savaḥ saṁ tuha kalaṁ pu nista gusti
     <lb n="13"/>si Uṅgaḥ vinkas· si manikṣa parujar· kāliḥ si Ara si
     <lb n="14"/>maṅgaḥ tuṅgū kuvu si vsi vahuta si mitra saṁ taṅuṇḍaha<lb break="no" 
-    n="15"/><seg rend="check">ri</seg><!-- maybe divide taṅuṇ ḍaha ri
-    Panunggalan kāla haji rakai (5)	vatu humalaṅ umadag· inajar· saṅ tuhān· i tiruan· i turun· ni anugrahha saṅ paməgat· i raja i ḍapunta i (6)	panuṅgalan· 
-    --> Inajar· raken mapatiḥ kāliḥ vadihati makudur· ti<lb break="no" 
+    n="15"/><seg rend="check">ri</seg><!-- maybe divide taṅuṇ ḍaha ri --> Inajar· raken mapatiḥ kāliḥ vadihati makudur· ti<lb break="no" 
     n="16"/>ruAn·</p> <p>Asiṁ muput· Ikiṁ sīma Upadravā brahmahatya <g type="ddanda"/></p>
 
 <lg n="4" met="āryā" xml:lang="san-Latn">
@@ -157,7 +155,8 @@
      <p rend="stanza" n="2">Though it is on the road, accidents are far from it; though it is empty, it grants good and is full of fish; though it is surrounded by an encampment, it is more than tidy — this is why the stone is to be worshiped by mortals.</p>
      <p rend="stanza" n="3">As long as sun and moon are in the sky; as long as the earth is girded by the four oceans; as long as the winds is <supplied reason="subaudible">blowing</supplied> in the ten quarters of space — so long <supplied reason="subaudible">may endure</supplied> the devotion of the one named Valaiṅ!</p>
      <p n="7-11">Hail! Elapsed Śaka year 784, month of Māgha, waxing fortnight, third <supplied reason="subaudible"><foreign>tithi</foreign></supplied>: that is when the Lord of Valaiṅ, <foreign>pu</foreign> Kumbhayoni <supplied reason="explanation">i.e., Pot-Born, alias Agastya</supplied>, great-grandchild of the king of Halu, <foreign>pa-kəbi-an</foreign> of the one from Jaṅluran,<note>The meaning of the kinship term <foreign>pa-kəbi-an</foreign> (not discussed by <bibl><ptr target="bib:Fox1986_01"/></bibl>) is unknown. With pertinent reference to <bibl><ptr target="bib:Stutterheim1935_01"/><citedRange unit="page">56-60</citedRange></bibl>, who discussed the meaning of Old Javanese <foreign>kəbi</foreign> proving that it meant <q>grandmother</q>, Sarkar translated the present passage as <q>with his grand-mother</q>. But there is no word corresponding to <q>with</q> in the original and the derived form <foreign>pa-kəbi-an</foreign> is unlikely to mean the same as the base from which it is derived. On the analogy of kinship terms <foreign>paman</foreign> (uncle, derived from <foreign>ama</foreign> <q>father</q>) and <foreign>penan</foreign> (derived from <foreign>ina</foreign> <foreign>mother</foreign>), one might guess that <foreign>pa-kəbi-an</foreign> means <q>grandmother's younger sibling</q>.</note> gave a paddyfield at Vukiran — two <foreign>tampah</foreign>, the name of the endowed paddyfield was Tamvāhuraṅ<note>It is unclear whether we should interpret this toponym as Tamvā Huraṅ or Tamvāh Uraṅ, but given the spelling the former seems a bit more plausible.<!--  It could mean  --></note> — so that the God Vināya will enjoy food offerings <supplied reason="explanation"><foreign>caru</foreign></supplied>.</p>
-     <p n="11-16">Men of the official <supplied reason="explanation">i.e., Kumbhayoni?</supplied> who gave the paddyfield: <list>
+     <p n="11-16">Men of the official <supplied reason="explanation">i.e., Kumbhayoni?</supplied> who gave the paddyfield on his behalf <supplied reason="explanation"><foreign>mehakan</foreign></supplied>: 
+        <list>
         <item>the <foreign>tuha kalaṅ</foreign> <supplied reason="subaudible">called</supplied> <foreign>pu</foreign> Nista</item>
         <item>the <foreign>gusti</foreign> <supplied reason="subaudible">called</supplied> <foreign>si</foreign> Uṅgah</item>
         <item>the commissionee <supplied reason="explanation"><foreign>vinəkas</foreign></supplied> <supplied reason="subaudible">called</supplied> <foreign>si</foreign> Manikṣa</item>
@@ -165,9 +164,10 @@
         <item>the home guardian <supplied reason="explanation"><foreign>tuṅgu kuvu</foreign></supplied> <supplied reason="subaudible">called</supplied> <foreign>si</foreign> Vəsi</item>
         <item>the <foreign>vahuta</foreign> <supplied reason="subaudible">called</supplied> <foreign>si</foreign> Mitra</item>
         <item>the home guardian <supplied reason="explanation"><foreign>tuṅgu kuvu</foreign></supplied> <supplied reason="subaudible">called</supplied> <foreign>si</foreign> Vəsi</item>
-        <item>the <foreign>taṅuṇḍahari</foreign><note></note> <supplied reason="subaudible">called</supplied> <foreign>si</foreign> Mitra</item>
+        <item>the <foreign>taṅuṇḍahari</foreign><note>The reading and interpretation of this function remain uncertain. The element taṅun is secure and can be compared with occurrences of <foreign>saṅ taṅun</foreign> or <foreign>saṅ taṅunan</foreign> in some other inscriptions.</note> <supplied reason="subaudible">called</supplied> <foreign>si</foreign> Mitra</item><!-- Panunggalan kāla haji rakai (5) vatu humalaṅ umadag· inajar· saṅ tuhān· i tiruan· i turun· ni anugrahha saṅ paməgat· i raja i ḍapunta i (6) panuṅgalan· -->
      </list>
-        </p>
+     The two <foreign>mapatih</foreign> lords<note>The text itself does not seem to make clear which two are meant.</note> were informed by the Vadihati, the Makudur and the Tiruan.</p>
+     <p n="16">Whoever brings this <foreign>sīma</foreign> to an end shall meet with the disastrous consequences <supplied reason="subaudible">like those of</supplied> murdering a brahmin.</p>
      <p rend="stanza" n="4"></p>
      <p rend="stanza" n="5"></p>
      <p rend="stanza" n="6"></p>
