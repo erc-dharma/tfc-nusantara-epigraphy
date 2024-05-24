@@ -51,7 +51,7 @@
                     </msContents>
                     <physDesc>
                         <handDesc>
-                            <p><!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EGD 11.2. --></p>
+                            <p>The lettering is typical for the 9th c. CE.<!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EGD 11.2. --></p>
                             <!-- If you need to identify individual hands (EGD §7.5/) in addition to one or more paragraphs of general palaeographic description, wrap <summary> around the <p> or <p>s above, and, outside <summary>, create <handNote> elements for each hand as follows:
 						<summary><p><p/></summary>
 						<handNote xml:id="Pallava00001_hand1"></handNote>
@@ -77,6 +77,7 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
+            <change who="part:argr" when="2024-05-24" status="draft">finished encoding the inscription</change>
             <change who="part:argr" when="2024-05-22" status="draft">started encoding the inscription</change>
         </revisionDesc>
     </teiHeader>
@@ -173,10 +174,10 @@
      <p rend="stanza" n="6">Tuṅgaṅ, Davǝt, Laṅka, Sǝrəh, Vulakan, Valā, Valaiṅ <supplied reason="subaudible">and</supplied> Lo Dvāṅ:<note>See my comment on the same toponym in the <ref target="DHARMA_INSIDENKSindoro-PuBahut">Pu Bahut</ref> inscription</note> they are the villages of the wise Kumbhayoni.</p>
          </div>
          <div type="commentary">
-            <p>L.-Ch. Damais (<bibl rend="omitname"></bibl> and <bibl rend="omitname"><ptr target="bib:Damais1955_01"/></bibl>) commented at length on the reading and interpretation of the date and, based on the assumption that 784 Śaka was a year in which intercalation must have taken place, arrived at the CE equivalent 863-1-25. This conclusion was confirmed by Eade &amp; Gislén (<bibl><ptr target="bib:Eade+Gislen2000_01"/></bibl>).</p>
+            <p>L.-Ch. Damais (<bibl rend="omitname"><ptr target="bib:Damais1952_01"/></bibl> and <bibl rend="omitname"><ptr target="bib:Damais1955_01"/></bibl>) commented at length on the reading and interpretation of the date and, based on the assumption that 784 Śaka was a year in which intercalation must have taken place, arrived at the CE equivalent 863-1-25. This conclusion was confirmed by J. C. Eade &amp; L. Gislén (<bibl rend="omitname"><ptr target="bib:Eade+Gislen2000_01"/></bibl>).</p>
          </div>
         <div type="bibliography">
-           <p>Provisionally edited by A. B. Cohen Stuart &amp; J. J. van Limburg-Brouwer (<bibl rend="omitname"><ptr target="bib:CohenStuart+LimburgBrouwer1872_01"/></bibl>) and again by Cohen Stuart alone (<bibl rend="omitname"><ptr target="bib:CohenStuart1875_01"/></bibl>); the Sanskrit stanzas we re-studied by H. Kern (<bibl rend="omitname"><ptr target="bib:Kern1873_03"/></bibl>); the whole read and translated once again by Poerbatjaraka (<bibl><ptr target="bib:Poerbatjaraka1926_01"/></bibl>); all previous contributions synthesized by H. Bh. Sarkar (<bibl rend="omitname"><ptr target="bib:Sarkar1971-1972_01"/></bibl>). After all the work by successive generations of predecessors, only very little remained to be improved in the edition, but some progress could still be made in the translation and interpretation of the text, the present digital edition of which was made based on the van Kinsbergen photo and a Leiden estampage.</p>
+           <p>At the very dawn of Javanese epigraphy, this inscription was deciphered and furnished with word-for-word gloss by A. B. Cohen Stuart &amp; J. J. van Limburg-Brouwer (<bibl rend="omitname"><ptr target="bib:CohenStuart+LimburgBrouwer1872_01"/></bibl>) and the text alone was published again by Cohen Stuart (<bibl rend="omitname"><ptr target="bib:CohenStuart1875_01"/></bibl>); the reading and interpretation of the Sanskrit stanzas was improved significantly by H. Kern (<bibl rend="omitname"><ptr target="bib:Kern1873_03"/></bibl>), who translated parts of the text into Dutch; the whole was read and translated into Dutch once again by Poerbatjaraka (<bibl><ptr target="bib:Poerbatjaraka1926_01"/></bibl>); all previous contributions were synthesized by H. Bh. Sarkar (<bibl rend="omitname"><ptr target="bib:Sarkar1971-1972_01"/></bibl>), who furnished an English translation. After all the work by successive generations of predecessors, only very little remained to be improved in the edition, but some progress could still be made in the translation and interpretation of the text, the present digital edition of which was made based on the van Kinsbergen photo and a Leiden estampage.</p>
            <!-- 
 Museum Nasional: D. 77.
 van Kinsbergen 182
