@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Wukiran charter (784 Śaka)</title>
+                <title>Stela of Pereng (784 Śaka)</title>
                 <respStmt>
                     <resp>EpiDoc Encoding</resp>
                     <persName ref="part:argr">
@@ -116,7 +116,7 @@
 <p xml:lang="san-Latn">Anya<lb break="no" n="19"/>c ca <g type="ddanda"/></p>
 
 <lg n="5" met="āryā" xml:lang="san-Latn">
-<l n="ab">jagatāṁ śivam astu sadā bho dvija-rājñāṁ tathā śiva-ratānāṁ</l>
+<l n="ab">jagatāṁ śivam astu sadā bho dvija-rājñāṁ<!-- De Casparis 1975 reads go-dvija-rājñāṁ --> tathā śiva-ratānāṁ</l>
 <l n="cd"><lb n="20"/>śruti-bhakti-dāna-dharmmā bhavantu nārāti-rogerṣyāḥ <g type="ddanda"/><g type="circleMed"/><g type="ddanda"/></l>
 </lg>
 
@@ -126,24 +126,23 @@
 </lg>
          </div>
          <div type="apparatus">
-               <listApp><!-- one <app> for each apparatus entry -->
-                  <app loc="5"><!-- update the value of @loc.-->
+               <listApp><!-- 
+                  <app loc="5">
                      <lem>dhātr<choice><sic>i</sic><corr>ī</corr></choice></lem>
-                     <rdg source="bib:AuthorYear_01"><!-- update the @source value, fill in variant reading here --></rdg>
-                     <note>	<!-- 5. b. dhātri : em. dhātrī Kern (m.c.). --></note>
+                     <note></note>
                   </app>
                   <app loc="9">
-            <lem>pakviAnnira</lem>
-                    <note><!--9. pakviannira: Cohen Stuart proposes the alternative reading pakdiannira (see the Verbeteringen on the last page). --></note>
+                    <lem>pakviAnnira</lem>
+                    <note>Cohen Stuart proposes the alternative reading pakdiannira (see the Verbeteringen on the last page).</note>
                   </app>
                   <app loc="10">
                     <lem>tamvā</lem>
-                    <note>I would rather think tahva, but there is a stroke which probably distinguishes m from h. <seg rend="check">Split tamvāh uraṁ?</seg></note>
+                    <note>I would rather think tahva, but there is a stroke which probably distinguishes m from h.<seg rend="check">Split tamvāh uraṁ?</seg></note>
                   </app>
                   <app loc="11">
-                    <lem>caruA</lem>
+                    <lem source="bib:Poerbatjaraka1926_01 bib:Sarkar">caruA</lem>
                     <note>thus Sarkar; vanua Cohen Stuart. The irrealis form carva is attested in Dharma Pātañjala, f. 68v, in the phrase yan carva ri saṅ hyaṅ ‘if they are to be sacrificed to the gods’, which confirms Sarkar’s reading in elegant fashion.</note>
-                  </app>
+                  </app> -->
                   <app loc="14">
                         <lem>taṅuṇḍaha<lb break="no" n="15"/>ri</lem>
                         <rdg source="bib:???">taṅuṇḍaha<lb break="no" n="15"/>ni</rdg>
@@ -156,7 +155,7 @@
      <p rend="stanza" n="3">As long as sun and moon are in the sky; as long as the earth is girded by the four oceans; as long as the winds is <supplied reason="subaudible">blowing</supplied> in the ten quarters of space — so long <supplied reason="subaudible">may endure</supplied> the devotion of the one named Valaiṅ!</p>
      <p n="7-11">Hail! Elapsed Śaka year 784, month of Māgha, waxing fortnight, third <supplied reason="subaudible"><foreign>tithi</foreign></supplied>: that is when the Lord of Valaiṅ, <foreign>pu</foreign> Kumbhayoni <supplied reason="explanation">i.e., Pot-Born</supplied>,<note>Kumbhayoni and Kalaśaja (st. IV) are both alternative names of Agastya.</note> great-grandchild of the king of Halu, <foreign>pa-kəbi-an</foreign> of the one from Jaṅluran,<note>The meaning of the kinship term <foreign>pa-kəbi-an</foreign> (not discussed by <bibl><ptr target="bib:Fox1986_01"/></bibl>) is unknown. With pertinent reference to <bibl><ptr target="bib:Stutterheim1935_01"/><citedRange unit="page">56-60</citedRange></bibl>, who discussed the meaning of Old Javanese <foreign>kəbi</foreign> proving that it meant <q>grandmother</q>, Sarkar translated the present passage as <q>with his grand-mother</q>. But there is no word corresponding to <q>with</q> in the original and the derived form <foreign>pa-kəbi-an</foreign> is unlikely to mean the same as the base from which it is derived. On the analogy of kinship terms <foreign>paman</foreign> (uncle, derived from <foreign>ama</foreign> <q>father</q>) and <foreign>penan</foreign> (derived from <foreign>ina</foreign> <foreign>mother</foreign>), one might guess that <foreign>pa-kəbi-an</foreign> means <q>grandmother's younger sibling</q>.</note> gave a paddyfield at Vukiran — two <foreign>tampah</foreign>, the name of the endowed paddyfield was Tamvāhuraṅ<note>It is unclear whether we should interpret this toponym as Tamvā Huraṅ or Tamvāh Uraṅ, but given the spelling the former seems a bit more plausible.<!--  It could mean  --></note> — so that the God Vināya will enjoy food offerings <supplied reason="explanation"><foreign>caru</foreign></supplied>.</p>
      <p n="11-16">Men of the official <supplied reason="explanation">i.e., Kumbhayoni?</supplied> who gave the paddyfield on his behalf <supplied reason="explanation"><foreign>mehakan</foreign></supplied>: 
-        <list>
+        <list rend="plain">
         <item>the <foreign>tuha kalaṅ</foreign> <supplied reason="subaudible">called</supplied> <foreign>pu</foreign> Nista</item>
         <item>the <foreign>gusti</foreign> <supplied reason="subaudible">called</supplied> <foreign>si</foreign> Uṅgah</item>
         <item>the commissionee <supplied reason="explanation"><foreign>vinəkas</foreign></supplied> <supplied reason="subaudible">called</supplied> <foreign>si</foreign> Manikṣa</item>
@@ -171,34 +170,34 @@
      <p rend="stanza" n="4">After the foundation of the deity house called Bhadrāloka by the one called Kalaśaja <supplied reason="explanation">i.e., Pot-Born, alias Kumbhayoni</supplied>, may his sons and grandsons now live in attainment of the desired state <supplied reason="explanation">of release</supplied>.</p>
      <p n="18-19">And another:</p>
      <p rend="stanza" n="5">Ho! May it always go well for the people and for kings and brahmins devoted to Śiva! May they follow the rule <supplied reason="explanation"><foreign>dharma</foreign></supplied> of scriptures, devotion and donation, not enmity, disease and jealousy!</p>
-     <p rend="stanza" n="6">Tuṅgaṅ, Davǝt, Laṅka, Sǝrəh, Vulakan, Valā, Valaiṅ <supplied reason="subaudible">and</supplied> Lo Dvāṅ:<note>See my comment on the same toponym in the <ref target="DHARMA_INSIDENKSindoro-PuBahut">Pu Batu</ref> inscription</note> they are the villages of the wise Kumbhayoni.</p>
+     <p rend="stanza" n="6">Tuṅgaṅ, Davǝt, Laṅka, Sǝrəh, Vulakan, Valā, Valaiṅ <supplied reason="subaudible">and</supplied> Lo Dvāṅ:<note>See my comment on the same toponym in the <ref target="DHARMA_INSIDENKSindoro-PuBahut">Pu Bahut</ref> inscription</note> they are the villages of the wise Kumbhayoni.</p>
          </div>
          <div type="commentary">
-            <!--commentary encoded as per section §9.3 -->
+            <p>L.-Ch. Damais (<bibl rend="omitname"></bibl> and <bibl rend="omitname"><ptr target="bib:Damais1955_01"/></bibl>) commented at length on the reading and interpretation of the date and, based on the assumption that 784 Śaka was a year in which intercalation must have taken place, arrived at the CE equivalent 863-1-25; if that assumption was wrong, then 862-12-28 would be a plausible equivalent. In the absence of additional dating parameters, it is impossible to be sure.</p>
          </div>
         <div type="bibliography">
-	<!--bibliography encoded as per section §9.4 -->
-           <p>First edited by Kern. Re-edited here by Arlo Griffiths based on the van Kinsbergen photo.<!-- formulate epigraphic lemma here, using the items of primary bibliography --></p>
+           <p>Provisionally edited by A. B. Cohen Stuart &amp; J. J. van Limburg-Brouwer (<bibl rend="omitname"><ptr target="bib:CohenStuart+LimburgBrouwer1872_01"/></bibl>) and again by Cohen Stuart alone (<bibl rend="omitname"><ptr target="bib:CohenStuart1875_01"/></bibl>); the Sanskrit stanzas we re-studied by H. Kern (<bibl rend="omitname"><ptr target="bib:Kern1873_03"/></bibl>); the whole read and translated once again by Poerbatjaraka (<bibl><ptr target="bib:Poerbatjaraka1926_01"/></bibl>); all previous contributions synthesized by H. Bh. Sarkar (<bibl rend="omitname"><ptr target="bib:Sarkar1971-1972_01"/></bibl>). After all the work by successive generations of predecessors, only very little remained to be improved in the edition, but some progress could still be made in the translation and interpretation of the text, the present digital edition of which was made based on the van Kinsbergen photo and a Leiden estampage.</p>
            <!-- 
 Museum Nasional: D. 77.
 van Kinsbergen 182
-Text after Sarkar, Kern (and facsimile in Verspreide Geschriften VI, p. 280), Cohen Stuart (Kawi Oorkonden).
-
-Krom, “Epigrafische Bijdragen [II. De inscriptie van Pereng]”, BKI 75 (1919), 8–24.
-Poerbatjaraka, Agastya in den Archipel, p. 45f.
+Text after Sarkar, Kern (and facsimile in Verspreide Geschriften VI, p. 280)
 Stutterheim, Epigraphica IV, TBG 75 (1935), p. 459 n. 1.
            -->
            <listBibl type="primary">
-            <bibl n="CS"><ptr target="bib:CohenStuart1875_01"/><citedRange unit="page">X, 19-20</citedRange><citedRange unit="item">IX</citedRange></bibl>
-            <bibl n="B"><ptr target="bib:Boechari1985-1986_01"/><citedRange unit="page">41-42</citedRange><citedRange unit="item">E. 11</citedRange></bibl>
+            <bibl n="CS-LB"><ptr target="bib:CohenStuart+LimburgBrouwer1872_01"/><citedRange unit="page">94-101</citedRange><citedRange unit="item">I</citedRange></bibl>
+            <bibl n="CS"><ptr target="bib:CohenStuart1875_01"/><citedRange unit="page">X, 33-34</citedRange><citedRange unit="item">XXIII</citedRange></bibl>
+            <bibl n="P"><ptr target="bib:Poerbatjaraka1926_01"/><citedRange unit="page">45-51</citedRange></bibl>
         </listBibl>
        <listBibl type="secondary">
-        <!-- NBG VII, 13: 4/3 II, c-->
+        <bibl><ptr target="bib:NBG07_1869"/><citedRange unit="appendix">N</citedRange><citedRange unit="page">CVII</citedRange></bibl>
+        <bibl><ptr target="bib:Kern1873_03"/></bibl>
+        <bibl><ptr target="bib:Kinsbergen1872_01"/><citedRange unit="page">XX</citedRange><citedRange unit="item">182</citedRange></bibl>
+        <bibl><ptr target="bib:Krom1919_02"/><citedRange unit="item">II</citedRange><citedRange unit="page">14-19</citedRange></bibl>
         <bibl><ptr target="bib:Damais1949_01"/><citedRange unit="page">21</citedRange></bibl>
-        <bibl><ptr target="bib:Damais1952_01"/><citedRange unit="page">...-...</citedRange><citedRange unit="item">...</citedRange></bibl>
-        <bibl><ptr target="bib:Damais1955_01"/><citedRange unit="page">...</citedRange></bibl>
-        <bibl><ptr target="bib:Damais1970_01"/><citedRange unit="page">50</citedRange><citedRange unit="item">116</citedRange></bibl>
-        <bibl><ptr target="bib:Sarkar1971-1972_01"/><citedRange unit="page">...</citedRange><citedRange unit="item">...</citedRange></bibl>
+        <bibl><ptr target="bib:Damais1952_01"/><citedRange unit="page">32-34</citedRange><citedRange unit="item">A.26</citedRange></bibl>
+        <bibl><ptr target="bib:Damais1955_01"/><citedRange unit="page">205-206</citedRange></bibl>
+        <bibl><ptr target="bib:Damais1970_01"/><citedRange unit="page">47</citedRange><citedRange unit="item">61</citedRange></bibl>
+        <bibl><ptr target="bib:Sarkar1971-1972_01"/><citedRange unit="page">171-177</citedRange><citedRange unit="item">XXV</citedRange></bibl>
         <bibl><ptr target="bib:Casparis1975_01"/><citedRange unit="mixed">plate IIId with introductory note and partial transliteration on pages 89–90</citedRange></bibl>
         <!-- not included in Eade+Gislen2000_01? -->
        </listBibl>
