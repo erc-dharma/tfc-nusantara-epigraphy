@@ -160,13 +160,13 @@
         <item>the <foreign>tuha kalaṅ</foreign> <supplied reason="subaudible">called</supplied> <foreign>pu</foreign> Nista</item>
         <item>the <foreign>gusti</foreign> <supplied reason="subaudible">called</supplied> <foreign>si</foreign> Uṅgah</item>
         <item>the commissionee <supplied reason="explanation"><foreign>vinəkas</foreign></supplied> <supplied reason="subaudible">called</supplied> <foreign>si</foreign> Manikṣa</item>
-        <item>the two heralds <foreign>parujar</foreign> <supplied reason="subaudible">called</supplied> <foreign>si</foreign> Ara and <foreign>si</foreign> Maṅgah</item>
+        <item>the two heralds <supplied reason="explanation"><foreign>parujar</foreign></supplied> <supplied reason="subaudible">called</supplied> <foreign>si</foreign> Ara and <foreign>si</foreign> Maṅgah</item>
         <item>the home guardian <supplied reason="explanation"><foreign>tuṅgu kuvu</foreign></supplied> <supplied reason="subaudible">called</supplied> <foreign>si</foreign> Vəsi</item>
         <item>the <foreign>vahuta</foreign> <supplied reason="subaudible">called</supplied> <foreign>si</foreign> Mitra</item>
-        <item>the home guardian <supplied reason="explanation"><foreign>tuṅgu kuvu</foreign></supplied> <supplied reason="subaudible">called</supplied> <foreign>si</foreign> Vəsi</item>
-        <item>the <foreign>taṅuṇḍahari</foreign><note>The reading and interpretation of this function remain uncertain. The element taṅun is secure and can be compared with occurrences of <foreign>saṅ taṅun</foreign> or <foreign>saṅ taṅunan</foreign> in some other inscriptions.</note> <supplied reason="subaudible">called</supplied> <foreign>si</foreign> Mitra</item><!-- Panunggalan kāla haji rakai (5) vatu humalaṅ umadag· inajar· saṅ tuhān· i tiruan· i turun· ni anugrahha saṅ paməgat· i raja i ḍapunta i (6) panuṅgalan· -->
+        <item>the <foreign>taṅuṇ-ḍahari</foreign><note>The reading and interpretation of this function remain uncertain. The element <foreign>taṅun</foreign> is secure and can be compared with occurrences of <foreign>saṅ taṅun</foreign> or <foreign>saṅ taṅunan</foreign> in some other inscriptions.</note> <supplied reason="subaudible">called</supplied> <foreign>si</foreign> Mitra</item>
      </list>
      The two <foreign>mapatih</foreign> lords<note>The text itself does not seem to make clear which two are meant.</note> were informed by the Vadihati, the Makudur and the Tiruan.</p>
+     <!-- Panunggalan kāla haji rakai (5) vatu humalaṅ umadag· inajar· saṅ tuhān· i tiruan· i turun· ni anugrahha saṅ paməgat· i raja i ḍapunta i (6) panuṅgalan· -->
      <p n="16">Whoever brings this <foreign>sīma</foreign> to an end shall meet with disastrous consequences <supplied reason="subaudible">like those of</supplied> murdering a brahmin.</p>
      <p rend="stanza" n="4">After the foundation of the deity house called Bhadrāloka by the one called Kalaśaja <supplied reason="explanation">i.e., Pot-Born, alias Kumbhayoni</supplied>, may his sons and grandsons now live in attainment of the desired state <supplied reason="explanation">of release</supplied>.</p>
      <p n="18-19">And another:</p>
@@ -191,15 +191,33 @@ Stutterheim, Epigraphica IV, TBG 75 (1935), p. 459 n. 1.
         </listBibl>
        <listBibl type="secondary">
         <bibl><ptr target="bib:NBG07_1869"/><citedRange unit="appendix">N</citedRange><citedRange unit="page">CVII</citedRange></bibl>
+        <!-- 
+            NBG 24: 79 (VI a, 1)
+            NBG 27: 149 (V c)
+            NBG 28: 3 (II, i), 24 (II, k), 44 (VII, b, 1)
+        
+        -->
         <bibl><ptr target="bib:Kern1873_03"/></bibl>
         <bibl><ptr target="bib:Kinsbergen1872_01"/><citedRange unit="page">XX</citedRange><citedRange unit="item">182</citedRange></bibl>
+        <!-- Verbeek 1891: 7, nos. 323 and 367-->
+        <!-- Rouffaer 1909: LXXXIII (D. 77) -->
+        <!-- Lijst van abklatschen OB 60 (no. 77)-->
+        <!-- Krom gedateerde inscripties 1911: 243 -->
+        <!-- Lijst der Foto's van het Bataviaasch Genootschap van Kunsten en Wetenschappen bewaard op het OB. NBG. L, 1912, 3/4, CLXXXIV (no. 87O) -->
+        <!-- Fotografische opnamen van J. van Kinsbergen, OV 1911, Bijl. D: 22 (nos. 182 & 182 bis). -->
+        <!-- Inv. II ROC 1914 nos. 1189 and 1337 -->
+        <!-- F. D. K. Bosch: De Stichtingsoorkonde van Tjandi Plaosan teruggevonden? OV. 1915, Bijl. N : 89.-->
+        <!-- Kern VG VI : 277-286 -->
         <bibl><ptr target="bib:Krom1919_02"/><citedRange unit="item">II</citedRange><citedRange unit="page">14-19</citedRange></bibl>
         <bibl><ptr target="bib:Damais1949_01"/><citedRange unit="page">21</citedRange></bibl>
         <bibl><ptr target="bib:Damais1952_01"/><citedRange unit="page">32-34</citedRange><citedRange unit="item">A.26</citedRange></bibl>
         <bibl><ptr target="bib:Damais1955_01"/><citedRange unit="page">205-206</citedRange></bibl>
+        <!-- Susadjat 1958, no. 77.-->
         <bibl><ptr target="bib:Damais1970_01"/><citedRange unit="page">47</citedRange><citedRange unit="item">61</citedRange></bibl>
         <bibl><ptr target="bib:Sarkar1971-1972_01"/><citedRange unit="page">171-177</citedRange><citedRange unit="item">XXV</citedRange></bibl>
         <bibl><ptr target="bib:Casparis1975_01"/><citedRange unit="mixed">plate IIId with introductory note and partial transliteration on pages 89–90</citedRange></bibl>
+        <!-- Nakada 1978: 127 (XVI)-->
+        <bibl><ptr target="bib:Nakada1982_01"/><citedRange unit="page">80-81</citedRange><citedRange unit="part">1</citedRange><citedRange unit="item">30</citedRange><!-- <note>Nakada refers to pages of Cohen Stuart's Kawi Oorkonden (concerning KO no. XVII), but I don't find anything there. Confusion with the title of Holle's publication? Or with another items from the Dieduksman collection?</note> --></bibl>
         <bibl><ptr target="bib:Eade+Gislen2000_01"/><citedRange unit="page">127</citedRange><citedRange unit="item">A26</citedRange></bibl>
         <!-- not included in Eade+Gislen2000_01? -->
        </listBibl>
@@ -207,9 +225,3 @@ Stutterheim, Epigraphica IV, TBG 75 (1935), p. 459 n. 1.
       </body>
   </text>
 </TEI>
-<!-- CIJ  XXV
- THE STONE OF VUKlRAN (PEREṅ), 784 ŚAKA
-   This stone-inscription was found at Pereṅ which lies about 2 kilometres to the South-east of Prambanan. The place is in the neighbourhood of the foot of the southern mountain raṅes between the kraton of Ratu baka and Caṇḍi Sujivan.1 The inscription first came to the possession of Mr. Klāriṅ at Jogjakarta. In 1890, the Jakarta museum recorded the accession of this stone under D. 772 According to Cohen Stuart,3 it measures about 96 x 42 c. m.
-   A photo of this inscription was taken by Van Kinsbergen4 as early as 1865. We also find reference to three impressions of this record in the Notulen for 1869, Bijl. N. Dr. Cohen Stuart who published a complete transcription of this record in his KO XXIII (1875) handled this inscription in TBG‚ 18 (1868-72) pp. 89-117. In the followiṅ year (1873), Sanskrit portions of this inscription were handled by Prof. Kern5 who has also published a complete facsimile based upon the photo of Van Kinsbergen. The latest readiṅ and translation of the record were furnished by Poerbatjaraka6 in 1926.
-    The inscription opens with some laudatory verses to Śiva and records that in 784 Śaka7 ‚ the raka of Valaiṅ8 (viz.) pu Kumbhayoni offerd a savah for a religious foundation. The concludiṅ portions indicate that the god-house called Bhadrāloka was founded by Kalaśaja and a desire is expressed that his descendants may obtain therein an abode and life-subsistence.
-    The openiṅ section of the inscription is written in Sanskrit verses, formiṅ three stanzas in Āryā metre. In the concludiṅ portion of the inscription from 1. 17, four Sanskrit verses are written in two more strophes of Āryā metre. The other portions of the record are written in Old- Javanese prose.-->
