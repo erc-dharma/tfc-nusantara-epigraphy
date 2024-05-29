@@ -144,9 +144,309 @@ n="Cd25"/><milestone unit="face" n="C"/>ryya prakāśa, makapramukha samgat· k�
          <div type="apparatus">
            <!--apparatus encoded as per EGD §9.1, basic elements for apparatus below-->
                <listApp><!-- one <app> for each apparatus entry -->
-                  <app loc="line"><!-- update the value of @loc.-->
-                     <lem><!-- fill in a lemma here --></lem>
-                     <rdg source="bib:AuthorYear_01"><!-- update the @source value, fill in variant reading here --></rdg>
+                  <app loc="Ab1">
+                     <lem source="bib:Damais1955_01 bib:Nakada1994_01 bib:MachiSuhadi+RichadianaKartakusuma1996_01">1058</lem>
+                     <rdg source="bib:Brandes1913_01">1068</rdg>
+                  </app>
+                  <app loc="Ab1">
+                     <lem source="bib:Damais1955_01 bib:Nakada1994_01 bib:MachiSuhadi+RichadianaKartakusuma1996_01">śravaṇa-māsa</lem>
+                     <rdg source="bib:Brandes1913_01">śravaṇa-māsa ri (!)</rdg>
+                     <note>We are not sure what the ‘(!)’ in B’s reading means. It could be that Krom added it as editor, if he was surprised by the occurrence of <foreign>ri</foreign> in B’s manuscript.</note>
+                  </app>
+                  <app loc="Ab1">
+                     <lem source="bib:Damais1955_01 bib:Nakada1994_01 bib:MachiSuhadi+RichadianaKartakusuma1996_01"><abbr>tu</abbr></lem>
+                     <rdg source="bib:AuthorYear_01"><unclear>śa</unclear></rdg>
+                  </app>
+                  <app loc="Ab2">
+                     <lem source="bib:Damais1955_01 bib:Nakada1994_01 bib:MachiSuhadi+RichadianaKartakusuma1996_01">śrī-varmmeśvara-madhusūdanāvatārānandita-suhr̥t-siṁha-parākrama-</lem>
+                     <rdg source="bib:Brandes1913_01"> dharmmeśvara- <gap reason="illegible" quantity="15" unit="character"></gap> parākrama-</rdg>
+                  </app>
+                  <app loc="Ab4">
+                     <lem source="bib:Damais1955_01 bib:Nakada1994_01 bib:MachiSuhadi+RichadianaKartakusuma1996_01">maṇḍaka<supplied reason="omitted">,</supplied></lem>
+                     <rdg source="bib:Brandes1913_01">maṇḍa<unclear>la</unclear></rdg>
+                     <note>By contrast with the other occurrences of this person (<ref target="DHARMA_INSIDENKHantang.xml">Hantang</ref> A6 and <ref target="DHARMA_INSIDENKTamparang.xml">Tamparang</ref> A7), there is definitely no final <foreign>tarung</foreign> on <foreign>maṇḍaka</foreign> here.</note>
+                  </app>
+                  <app loc="Ab4">
+                     <lem source="bib:Damais1955_01 bib:MachiSuhadi+RichadianaKartakusuma1996_01">lbuni pāduka śrī mahārāja makasopāṇa</lem>
+                     <rdg source="bib:Brandes1913_01">lbu <gap reason="illegible" quantity="9" unit="character"></gap>sopāṇa</rdg>
+                     <rdg source="bib:Nakada1994_01">lbuni pādūka śrī mahārāja makasopāṇa</rdg>
+                  </app>
+                  <app loc="Ab5">
+                     <lem source="bib:Damais1955_01 bib:Nakada1994_01 bib:MachiSuhadi+RichadianaKartakusuma1996_01">kesareśvara kr̥tavivekālaṅghanīya-parākrama mapañji bāguṇa</lem>
+                     <rdg source="bib:Brandes1913_01">kesaveśvara <gap reason="illegible" quantity="5" unit="character"></gap> la<unclear>ñca</unclear>na ya<unclear>thā</unclear>krama mapañji <gap reason="illegible" quantity="1" unit="character"></gap><unclear>gu</unclear>ṇa</rdg>
+                  </app>
+                  <app loc="Ab5">
+                     <lem source="bib:Brandes1913_01 bib:MachiSuhadi+RichadianaKartakusuma1996_01">paṅajyan·</lem>
+                     <rdg source="bib:Nakada1994_01">pajyen·</rdg>
+                  </app>
+                  <app loc="Ab5">
+                     <lem>śrī mahārāja mpuṅku naiyāyika-darśana-samr̥ddhikāraṇa</lem>
+                     <rdg source="bib:Brandes1913_01">śrī mahārāja <gap reason="illegible" quantity="12" unit="character"></gap> kāraṇa</rdg>
+                     <rdg source="bib:Nakada1994_01">śrī mahārāja mpuṅku naiyāyika-darśana-savr̥ddhikāraṇa</rdg>
+                     <rdg source="bib:MachiSuhadi+RichadianaKartakusuma1996_01">śrī mahārāja mpuṅku neyāyika-darśana-samr̥ddhikāraṇa</rdg>
+                  </app>
+                  <app loc="Ab6">
+                     <lem>yogīśvarādhikāra</lem>
+                     <rdg source="bib:Brandes1913_01"><gap reason="illegible" quantity="4" unit="character"></gap>dhikāra</rdg>
+                     <rdg source="bib:Nakada1994_01">yogīśvarāvikāra</rdg>
+                     <rdg source="bib:MachiSuhadi+RichadianaKartakusuma1996_01">yogiśvarādhikāra</rdg>
+                     <note>There is damage on the stone after this word: a punctuation sign could have been engraved here</note>
+                  </app>
+                  <app loc="Ab6">
+                     <lem source="bib:Brandes1913_01 bib:Nakada1994_01">mājar·</lem>
+                     <rdg source="bib:MachiSuhadi+RichadianaKartakusuma1996_01">Umajar·</rdg>
+                  </app>
+                  <app loc="Ab6">
+                     <lem source="bib:MachiSuhadi+RichadianaKartakusuma1996_01">hana kmitanya praśāsti</lem>
+                     <rdg source="bib:Brandes1913_01">hana <gap reason="illegible" quantity="3" unit="character"></gap> praśāsti</rdg>
+                     <rdg source="bib:Nakada1994_01">pānakmitanya praśāsti</rdg>
+                  </app>
+                  <app loc="Ab6">
+                     <lem>riṁ</lem>
+                     <rdg source="bib:Brandes1913_01">ri</rdg>
+                     <rdg source="bib:Nakada1994_01">niṁ</rdg>
+                     <rdg source="bib:MachiSuhadi+RichadianaKartakusuma1996_01">ri</rdg>
+                  </app>
+                  <app loc="Ab6">
+                     <lem source="bib:Brandes1913_01 bib:MachiSuhadi+RichadianaKartakusuma1996_01">garuḍamu<unclear>kha</unclear></lem>
+                     <rdg source="bib:Nakada1994_01">rarū ḍamuA</rdg>
+                  </app>
+                  <app loc="Ab7">
+                     <lem source="bib:Nakada1994_01">tka riṁ gagā savaḥ</lem>
+                     <rdg source="bib:Brandes1913_01"><gap reason="illegible" quantity="4" unit="character"></gap> savaḥ<unclear>nya</unclear></rdg>
+                     <rdg source="bib:MachiSuhadi+RichadianaKartakusuma1996_01">tka ri gagā savaḥ</rdg>
+                  </app>
+                  <app loc="Ab7">
+                     <lem source="bib:MachiSuhadi+RichadianaKartakusuma1996_01">kuluvutan·</lem>
+                     <rdg source="bib:Brandes1913_01"><gap reason="illegible" quantity="4" unit="character"></gap></rdg>
+                     <rdg source="bib:Nakada1994_01">kuluvukan·</rdg>
+                  </app>
+                  <app loc="Ab8">
+                     <lem source="bib:Nakada1994_01 bib:MachiSuhadi+RichadianaKartakusuma1996_01">Umuṅgva</lem>
+                     <rdg source="bib:Brandes1913_01">Umuṅgu</rdg>
+                  </app>
+                  <app loc="Ab8">
+                     <lem source="bib:Nakada1994_01">varga</lem>
+                     <rdg source="bib:Brandes1913_01">rarai</rdg>
+                     <rdg source="bib:MachiSuhadi+RichadianaKartakusuma1996_01">vargga</rdg>
+                  </app>
+                  <app loc="Ab8">
+                     <lem source="bib:Nakada1994_01 bib:MachiSuhadi+RichadianaKartakusuma1996_01">mahārāja, saṅkā ri gə:ṁ karuṇā śrī mahārāja ri panambaḥnikaṁ</lem>
+                     <rdg source="bib:Brandes1913_01">mahārājāsuṅgā ri <unclear>oṃ</unclear>kāranika vargga ri <unclear>talan</unclear></rdg>
+                  </app>
+                  <app loc="Ab9">
+                     <lem><choice><sic>viṣṇvāra</sic><corr>viṣṇvavatāra</corr></choice></lem>
+                     <rdg source="bib:Brandes1913_01 bib:MachiSuhadi+RichadianaKartakusuma1996_01">viṣṇvaṅṣa</rdg>
+                     <rdg source="bib:Nakada1994_01">viṣṇvāra</rdg>
+                     <note>Our emendation is based on the same expression observed in stanza 41.11 of the <title>Harivaṅśa</title> written in the Kediri period (<bibl><ptr target="bib:Teeuw1950_01"/><citedRange>71</citedRange></bibl>) and two inscriptions, one from the Singasari period called <ref target="DHARMA_INSIDENKMulaMalurung.xml">Mula-Malurung</ref> (9v3, ed. <bibl><ptr target="bib:TitiSurtiNastiti2016_01"/><citedRange>421–436</citedRange></bibl>) and one from the Majapahit period called <ref target="DHARMA_INSIDENKAdanAdan.xml">Adan-adan</ref> (7v3, ed. <bibl><ptr target="bib:MachiSuhadi1996_01"/></bibl>). It is important to note that similar expressions are found within the corpus, namely <foreign>viṣṇvāṅśa</foreign> in <ref target="DHARMA_INSIDENKPadleganI.xml">Padlegan I</ref> (4)  and <foreign>viṣṇvāṅśāvatāra</foreign> in <ref target="DHARMA_INSIDENKSirahKeting.xml">Sirah Keting</ref> (b16–17). For discussion of the latter, see <bibl rend="omitname"><ptr target="Stutterheim1940_03"/><citedRange unit="page">352–354</citedRange></bibl>.</note>
+                  </app>
+                  <app loc="Ab9">
+                     <lem source="bib:MachiSuhadi+RichadianaKartakusuma1996_01">-prajā-</lem>
+                     <rdg source="bib:Brandes1913_01"><gap reason="illegible" quantity="2" unit="character"></gap></rdg>
+                     <rdg source="bib:Nakada1994_01">-pravā-</rdg>
+                  </app>
+                  <app loc="Ab10">
+                     <lem source="bib:Brandes1913_01 bib:MachiSuhadi+RichadianaKartakusuma1996_01">ri sira,</lem>
+                     <rdg source="bib:Nakada1994_01">riṁ siraḥ</rdg>
+                  </app>
+                  <app loc="Ab10">
+                     <lem source="bib:Nakada1994_01 bib:MachiSuhadi+RichadianaKartakusuma1996_01">deniṁ suṣṭubhakti</lem>
+                     <rdg source="bib:Brandes1913_01"><unclear>d</unclear>eni sr̥ṣṭabhakti</rdg>
+                  </app>
+                  <app loc="Ab10">
+                     <lem source="bib:MachiSuhadi+RichadianaKartakusuma1996_01">sira</lem>
+                     <rdg source="bib:Brandes1913_01"><gap reason="illegible" quantity="2" unit="character"/></rdg>
+                     <rdg source="bib:Nakada1994_01">siraḥ</rdg>
+                  </app>
+                  <app loc="Ab10">
+                     <lem>mataṁnyan</lem>
+                     <rdg source="bib:Brandes1913_01"><gap reason="illegible" quantity="3" unit="character"/></rdg>
+                     <rdg source="bib:Nakada1994_01">mabaṁnyan</rdg>
+                     <rdg source="bib:MachiSuhadi+RichadianaKartakusuma1996_01">mataṁyan</rdg>
+                  </app>
+                  <app loc="Ab10">
+                     <lem source="bib:MachiSuhadi+RichadianaKartakusuma1996_01">-sanmata</lem>
+                     <rdg source="bib:Brandes1913_01"><gap reason="illegible" quantity="3" unit="character"/></rdg>
+                     <rdg source="bib:Nakada1994_01">-sasmara</rdg>
+                  </app>
+                  <app loc="Ab11">
+                     <lem source="bib:Nakada1994_01 bib:MachiSuhadi+RichadianaKartakusuma1996_01">muṅgva riṁ</lem>
+                     <rdg source="bib:Brandes1913_01">muṅgu ri</rdg>
+                  </app>
+                  <app loc="Ab11">
+                     <lem source="bib:Nakada1994_01 bib:MachiSuhadi+RichadianaKartakusuma1996_01">kunaṁ</lem>
+                     <rdg source="bib:Brandes1913_01"><gap reason="illegible" quantity="1" unit="character"/>ni</rdg>
+                  </app>
+                  <app loc="Ab12">
+                     <lem>colo, Ubheni</lem>
+                     <rdg source="bib:Brandes1913_01"><gap reason="illegible" quantity="2" unit="character"/> d<unclear>e</unclear>ni</rdg>
+                     <rdg source="bib:Nakada1994_01">volo, dabheni,</rdg>
+                     <rdg source="bib:MachiSuhadi+RichadianaKartakusuma1996_01">colo khabeni</rdg>
+                  </app>
+                  <app loc="Ab12">
+                     <lem source="bib:Nakada1994_01 bib:MachiSuhadi+RichadianaKartakusuma1996_01">R̥ntət·,</lem>
+                     <rdg source="bib:Brandes1913_01"><unclear>R̥ntək·</unclear></rdg>
+                  </app>
+                  <app loc="Ab12">
+                     <lem source="bib:MachiSuhadi+RichadianaKartakusuma1996_01">An ikaṅ i</lem>
+                     <rdg source="bib:Brandes1913_01"><gap reason="illegible" quantity="4" unit="character"/></rdg>
+                     <rdg source="bib:Nakada1994_01">An ikad i</rdg>
+                  </app>
+                  <app loc="Ab13">
+                     <lem source="bib:Nakada1994_01 bib:MachiSuhadi+RichadianaKartakusuma1996_01">mapakna</lem>
+                     <rdg source="bib:Brandes1913_01">mapakora</rdg>
+                  </app>
+                  <app loc="Ab13">
+                     <lem source="bib:Nakada1994_01 bib:MachiSuhadi+RichadianaKartakusuma1996_01">vargga</lem>
+                     <rdg source="bib:Brandes1913_01">rarai</rdg>
+                  </app>
+                  <app loc="Ab13">
+                     <lem source="bib:Nakada1994_01">-vukhirnya</lem>
+                     <rdg source="bib:Brandes1913_01 bib:MachiSuhadi+RichadianaKartakusuma1996_01">-vukirnya</rdg>
+                  </app>
+                  <app loc="Ab13">
+                     <lem source="bib:MachiSuhadi+RichadianaKartakusuma1996_01">gagā</lem>
+                     <rdg source="bib:Brandes1913_01"><gap reason="illegible" quantity="2" unit="character"/></rdg>
+                     <rdg source="bib:Nakada1994_01">dhavāṁ</rdg>
+                  </app>
+                  <app loc="Ab14">
+                     <lem source="bib:Nakada1994_01 bib:MachiSuhadi+RichadianaKartakusuma1996_01">kapva kāgraha</lem>
+                     <rdg source="bib:Brandes1913_01">bahva nugraha</rdg>
+                  </app>
+                  <app loc="Ab14">
+                     <lem source="bib:MachiSuhadi+RichadianaKartakusuma1996_01">denikaṁ</lem>
+                     <rdg source="bib:Brandes1913_01">denika</rdg>
+                     <rdg source="bib:bib:Nakada1994_01">de rikaṁ</rdg>
+                  </app>
+                  <app loc="Ab14">
+                     <lem source="bib:Nakada1994_01 bib:MachiSuhadi+RichadianaKartakusuma1996_01">vargga</lem>
+                     <rdg source="bib:Brandes1913_01">rarai</rdg>
+                  </app>
+                  <app loc="Ab14">
+                     <lem source="bib:Nakada1994_01 bib:MachiSuhadi+RichadianaKartakusuma1996_01">mvaṁ tan</lem>
+                     <rdg source="bib:Brandes1913_01">m<unclear>va ka</unclear>na</rdg>
+                  </app>
+                  <app loc="Ab14">
+                     <lem source="bib:MachiSuhadi+RichadianaKartakusuma1996_01">vinava saṁ mānak katrīṇi</lem>
+                     <rdg source="bib:Brandes1913_01"><gap reason="illegible" quantity="3" unit="character"/> simāna <gap reason="illegible" quantity="3" unit="character"/></rdg>
+                     <rdg source="bib:Nakada1994_01">vənaṁ vasa mānak katrīṇi</rdg>
+                  </app>
+                  <app loc="Ab15">
+                     <lem source="bib:Brandes1913_01">paḍəm·</lem>
+                     <rdg source="bib:Nakada1994_01 bib:MachiSuhadi+RichadianaKartakusuma1996_01">padəm·</rdg>
+                  </app>
+                  <app loc="Ab15">
+                     <lem source="bib:MachiSuhadi+RichadianaKartakusuma1996_01">manimpiki</lem>
+                     <rdg source="bib:Brandes1913_01"><gap reason="illegible" quantity="4" unit="character"/></rdg>
+                     <rdg source="bib:Nakada1994_01">marimpiki</rdg>
+                  </app>
+                  <app loc="Ab17">
+                     <lem source="bib:Nakada1994_01 bib:MachiSuhadi+RichadianaKartakusuma1996_01">sr̥kan·, liṅga<unclear>ṁ</unclear></lem>
+                     <rdg source="bib:Brandes1913_01">sakan· liṅga</rdg>
+                  </app>
+                  <app loc="Ab18">
+                     <lem source="bib:MachiSuhadi+RichadianaKartakusuma1996_01">Aniga</lem>
+                     <rdg source="bib:Brandes1913_01">maniga</rdg>
+                     <rdg source="bib:Nakada1994_01">Anigaḥ</rdg>
+                  </app>
+                  <app loc="Ab18">
+                     <lem source="bib:Brandes1913_01 bib:MachiSuhadi+RichadianaKartakusuma1996_01">rumban·</lem>
+                     <rdg source="bib:Nakada1994_01">sumban·</rdg>
+                  </app>
+                  <app loc="Ab19">
+                     <lem source="bib:MachiSuhadi+RichadianaKartakusuma1996_01">maṁguñjai,</lem>
+                     <rdg source="bib:Brandes1913_01">maṁguñje</rdg>
+                     <rdg source="bib:Nakada1994_01">mavuñjai,</rdg>
+                  </app>
+                  <app loc="Ab19">
+                     <lem source="bib:Nakada1994_01 bib:MachiSuhadi+RichadianaKartakusuma1996_01">kliṁ</lem>
+                     <rdg source="bib:Brandes1913_01"><unclear>kḍi</unclear></rdg>
+                  </app>
+                  <app loc="Ab19">
+                     <lem source="bib:MachiSuhadi+RichadianaKartakusuma1996_01"> pabisar·</lem>
+                     <rdg source="bib:Brandes1913_01"><gap reason="illegible" quantity="3" unit="character"/></rdg>
+                     <rdg source="bib:Nakada1994_01">paliṁsar·</rdg>
+                  </app>
+                  <app loc="Ab20">
+                     <lem source="bib:Brandes1913_01 bib:MachiSuhadi+RichadianaKartakusuma1996_01">banantən·</lem>
+                     <rdg source="bib:Nakada1994_01">banuntən·</rdg>
+                  </app>
+                  <app loc="Ab20">
+                     <lem source="bib:Nakada1994_01">pañjut·<milestone unit="face" n="b"/><surplus>t·</surplus></lem>
+                     <rdg source="bib:Brandes1913_01 bib:MachiSuhadi+RichadianaKartakusuma1996_01">pañjut·</rdg>
+                  </app>
+                  <app loc="Ab20">
+                     <lem>limbaṁ <surplus>k·</surplus> <lb n="Ab21"/><milestone unit="face" n="A"/>kavaḥ,</lem>
+                     <rdg source="bib:Brandes1913_01"><gap reason="illegible" quantity="4" unit="character"/></rdg>
+                     <rdg source="bib:Nakada1994_01 bib:MachiSuhadi+RichadianaKartakusuma1996_01">limbak· kavaḥ,</rdg>
+                  </app>
+                  <app loc="Ab22">
+                     <lem source="bib:Brandes1913_01 bib:Nakada1994_01 bib:MachiSuhadi+RichadianaKartakusuma1996_01">pāṅin-aṅin·</lem>
+                     <note>B reads up to this point.</note>
+                  </app>
+                  <app loc="Ab22">
+                     <lem source="bib:MachiSuhadi+RichadianaKartakusuma1996_01">hopan·</lem>
+                     <rdg source="bib:Nakada1994_01">patapan·</rdg>
+                  </app>
+                  <app loc="Ab22">
+                     <lem source="bib:Nakada1994_01 bib:MachiSuhadi+RichadianaKartakusuma1996_01">garihan·</lem>
+                     <note>The first <foreign>akṣara</foreign> could also be read as <foreign>śa</foreign>. In <ref target="DHARMA_INSIDENKGaraman.xml">Garaman</ref> (3r6) we have <foreign>śariyan·</foreign> but the word <foreign>garihan·</foreign> also occurs in <ref target="DHARMA_INSIDENKPabuharan.xml">Pabuharan</ref> (4r4, ed. <bibl><ptr target="Boechari1985-1986_01"/><citedRange unit="page">13–14</citedRange></bibl> where the relevant line is labelled IIa4).</note>
+                  </app>
+                  <app loc="Ab22">
+                     <lem source="bib:Nakada1994_01">paṁrāma</lem>
+                     <rdg source="bib:MachiSuhadi+RichadianaKartakusuma1996_01">vānāma</rdg>
+                  </app>
+                  <app loc="Ab22">
+                     <lem source="bib:MachiSuhadi+RichadianaKartakusuma1996_01">panatak·</lem>
+                     <rdg source="bib:Nakada1994_01">panatat·</rdg>
+                  </app>
+                  <app loc="Ab22">
+                     <lem source="bib:Nakada1994_01">pan<unclear>·</unclear><supplied reason="omitted">ḍe</supplied> <lb n="Ab23"/><milestone unit="face" n="A"/> mās·</lem>
+                     <rdg source="bib:MachiSuhadi+RichadianaKartakusuma1996_01">panaji mas·</rdg>
+                  </app>
+                  <app loc="Ab23">
+                     <lem source="bib:MachiSuhadi+RichadianaKartakusuma1996_01">pakarapa</lem>
+                     <rdg source="bib:Nakada1994_01">patarapa</rdg>
+                  </app>
+                  <app loc="Ab23">
+                     <lem>tampə: sirir·</lem>
+                     <rdg source="bib:Nakada1994_01">tampə: sisir·</rdg>
+                     <rdg source="bib:MachiSuhadi+RichadianaKartakusuma1996_01">tampə:ṁ sirir·</rdg>
+                  </app>
+                  <app loc="Ab23">
+                     <lem>paṁharaṁ-ha<unclear>raṁ,</unclear> tuluṁ hutaṁ</lem>
+                     <rdg source="bib:Nakada1994_01">paṁharas· Atuluṁ hutaṁ</rdg>
+                     <rdg source="bib:MachiSuhadi+RichadianaKartakusuma1996_01">pahara-hara, hulu tukaṁ</rdg>
+                     <note>Our reading <foreign>paṁharaṁ-haraṁ</foreign> is supported by the same word found in <ref target="DHARMA_INSIDENKSobhamerta.xml">Sobhamerta</ref> (4r6, ed. <bibl><ptr target="TitiSurtiNastiti2007_01"/></bibl>). However, what we tentatively read <foreign>raṁ</foreign>, at the start of face d, could also be read as <foreign>ma</foreign> (without punctuation mark), while in <ref target="DHARMA_INSIDENKMunggut.xml">Munggut</ref> (2.12) and <ref target="DHARMA_INSIDENKAnjatan.xml">Anjatan</ref> (3r1–3r2) we find occurrences of <foreign>paṁrāma</foreign> followed by <foreign>tuluṁ hutaṁ</foreign>. For this reason, we remain in doubt as to the correct reading of the word that precedes <foreign>tuluṁ hutaṁ</foreign>.</note>
+                  </app>
+                  <app loc="Ab24">
+                     <lem source="bib:Nakada1994_01">pakanan tahun·</lem>
+                     <rdg source="bib:MachiSuhadi+RichadianaKartakusuma1996_01">sakanan tahun·</rdg>
+                     <note>The term is not found in other epigraphic records. A slightly different term, namely <foreign>pakan <unclear>t</unclear>ahun</foreign>, is observed in <ref target="DHARMA_INSIDENKAnjatan.xml">Anjatan</ref> (3v2).</note>
+                  </app>
+                  <app loc="Ab24">
+                     <lem>paniriṁ</lem>
+                     <rdg source="bib:Nakada1994_01 bib:MachiSuhadi+RichadianaKartakusuma1996_01">paṅiriṁ</rdg>
+                  </app>
+                  <app loc="Ab24">
+                     <lem source="bib:Nakada1994_01">pāṅgarai</lem>
+                     <rdg source="bib:MachiSuhadi+RichadianaKartakusuma1996_01">pāṅgati</rdg>
+                  </app>
+                  <app loc="Ab24">
+                     <lem source="bib:MachiSuhadi+RichadianaKartakusuma1996_01">tuṇḍan·<unclear>,</unclear> buñcaṁ haji</lem>
+                     <rdg source="bib:Nakada1994_01">duṇḍan· bu<unclear>k</unclear>va sāji</rdg>
+                  </app>
+                  <app loc="Ab24">
+                     <lem source="bib:Nakada1994_01">kḍi</lem>
+                     <rdg source="bib:MachiSuhadi+RichadianaKartakusuma1996_01">kliṁ</rdg>
+                  </app>
+                  <app loc="Ab24">
+                     <lem source="bib:Nakada1994_01">haji</lem>
+                     <rdg source="bib:MachiSuhadi+RichadianaKartakusuma1996_01">paṅi</rdg>
+                  </app>
+                  <app loc="Ab25">
+                     <lem source="bib:MachiSuhadi+RichadianaKartakusuma1996_01">mavuluṁ-vuluṁ</lem>
+                     <rdg source="bib:Nakada1994_01">pavuluṁ-vuluṁ</rdg>
                   </app>
                </listApp>
          </div>
@@ -160,7 +460,10 @@ n="Cd25"/><milestone unit="face" n="C"/>ryya prakāśa, makapramukha samgat· k�
 	<!--bibliography encoded as per section §9.4 -->
            <p><!-- formulate epigraphic lemma here, using the items of primary bibliography --></p>
         	<listBibl type="primary">
-				<bibl n="siglum"/><!-- one <bibl/> per item of primary bibliography. Every entry mentionned in apparatus  should hava a @n to declare its sigla -->
+				<bibl n="B"><ptr target="bib:Brandes1913_01"/><citedRange unit="page">163-164</citedRange><citedRange unit="item">LXX</citedRange></bibl>
+                <bibl n="D"><ptr target="bib:Damais1955_01"/><citedRange unit="page">71</citedRange><citedRange unit="item">A. 152</citedRange></bibl>
+		        <bibl n="N"><ptr target="bib:Nakada1994_01"/><citedRange unit="page">1–7</citedRange></bibl>
+        	    <bibl n="M&amp;R"><ptr target="bib:MachiSuhadi+RichadianaKartakusuma1996_01"/><citedRange unit="page">27–30</citedRange></bibl>
 			</listBibl>
            <listBibl type="secondary">
               <bibl/><!-- one <bibl/> per item of secondary bibliography -->
