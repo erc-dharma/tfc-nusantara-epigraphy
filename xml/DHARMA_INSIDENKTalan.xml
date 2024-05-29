@@ -448,6 +448,312 @@ n="Cd25"/><milestone unit="face" n="C"/>ryya prakāśa, makapramukha samgat· k�
                      <lem source="bib:MachiSuhadi+RichadianaKartakusuma1996_01">mavuluṁ-vuluṁ</lem>
                      <rdg source="bib:Nakada1994_01">pavuluṁ-vuluṁ</rdg>
                   </app>
+                  <app loc="Ab25">
+                     <lem source="bib:Nakada1994_01">tan tamātaḥ Irikeṁ</lem>
+                     <rdg source="bib:MachiSuhadi+RichadianaKartakusuma1996_01">tan tama Irikan</rdg>
+                  </app>
+                  <app loc="Cd1">
+                     <lem source="bib:MachiSuhadi+RichadianaKartakusuma1996_01">sadravya-</lem>
+                     <rdg source="bib:Nakada1994_01">saṁ dravya</rdg>
+                  </app>
+                  <app loc="Cd1">
+                     <lem>Asiṅ ata <unclear>sa</unclear>lviranya</lem>
+                     <rdg source="bib:Nakada1994_01">A<unclear>ne</unclear>ṅ <gap reason="illegible" quantity="2" unit="character"/>viraṁnya</rdg>
+                     <rdg source="bib:MachiSuhadi+RichadianaKartakusuma1996_01">kala ta lviranya</rdg>
+                  </app>
+                  <app loc="Cd2">
+                     <lem source="bib:MachiSuhadi+RichadianaKartakusuma1996_01">kābunan·</lem>
+                     <rdg source="bib:Nakada1994_01">kātunan·</rdg>
+                  </app>
+                  <app loc="Cd2">
+                     <lem source="bib:Nakada1994_01">i</lem>
+                     <rdg source="bib:MachiSuhadi+RichadianaKartakusuma1996_01">in</rdg>
+                  </app>
+                  <app loc="Cd3">
+                     <lem source="bib:Nakada1994_01">mamuṁpaṁ</lem>
+                     <rdg source="bib:MachiSuhadi+RichadianaKartakusuma1996_01">Amuṁpaṁ</rdg>
+                  </app>
+                  <app loc="Cd3">
+                     <lem><surplus>malaṁ mopi<unclear>ḥ</unclear></surplus></lem>
+                     <rdg source="bib:Nakada1994_01">malaṁ mopi</rdg>
+                     <rdg source="bib:MachiSuhadi+RichadianaKartakusuma1996_01"><gap reason="illegible" quantity="1" unit="character"/>la mopi</rdg>
+                     <note>These words do not yield an evident sense in this context. Comparing the parallel passages in the charters of <ref target="DHARMA_INSIDENKPanumbangan.xml">Panumbangan</ref> Cd9 and <ref target="DHARMA_INSIDENKHantang.xml">Hantang</ref> Cd24, we do not expect anything between <foreign>tūtan</foreign> and <foreign>Aṁśa pratyaṁśa</foreign>. Therefore, we consider that the sequence <foreign>malaṁ mopi<unclear>ḥ</unclear></foreign> is the result of a scribal error and needs to be expunged from the text.</note>
+                  </app>
+                  <app loc="Cd4">
+                     <lem source="bib:MachiSuhadi+RichadianaKartakusuma1996_01">pratyaṁśa</lem>
+                     <rdg source="bib:Nakada1994_01">prakṣaka</rdg>
+                  </app>
+                  <app loc="Cd5">
+                     <lem>garuḍamuka</lem>
+                     <rdg source="bib:Nakada1994_01">garūḍamuka</rdg>
+                     <rdg source="bib:MachiSuhadi+RichadianaKartakusuma1996_01">garuḍamukha</rdg>
+                  </app>
+                  <app loc="Cd5">
+                     <lem source="bib:Nakada1994_01 bib:MachiSuhadi+RichadianaKartakusuma1996_01">pratiṣṭā</lem>
+                     <note>We find <foreign>pratiṣṭākna</foreign> in similar contexts in <ref target="DHARMA_INSIDENKPagiliran.xml">Pagiliran</ref> A5, <ref target="DHARMA_INSIDENKPanumbangan.xml">Panumbangan</ref> Ab9, and <ref target="DHARMA_INSIDENKHantang.xml">Hantang</ref> Ab10, and so we have considered the possibility of supplying <foreign>kna</foreign> here. Nevertheless, the fact that <foreign>pratiṣṭ<unclear>h</unclear>ā</foreign> is also observed in the same context <ref target="DHARMA_INSIDENKTamparang.xml">Tamparang</ref> Ab9, <ref target="DHARMA_INSIDENKKemulan.xml">Kemulan</ref> Ab8 and <ref target="DHARMA_INSIDENKPalah.xml">Palah</ref> Ab8 means that this reading must be accepted as a viable alternative, in the intransitive, to the passive construction with <foreign>pratiṣṭ<unclear>h</unclear>ākna</foreign>.</note>
+                  </app>
+                  <app loc="Cd6">
+                     <lem><num value="941">941</num></lem>
+                     <rdg source="bib:Nakada1994_01">rṅan ugaḥ</rdg>
+                     <rdg source="bib:MachiSuhadi+RichadianaKartakusuma1996_01"><num value="961">961</num></rdg>
+                  </app>
+                  <app loc="Cd6">
+                     <lem source="bib:MachiSuhadi+RichadianaKartakusuma1996_01">-māgha-māsa tithi pratipāda</lem>
+                     <rdg source="bib:Nakada1994_01">māla riṁ mā<gap reason="illegible" quantity="1" unit="character"></gap>eṁkən· pratipāda</rdg>
+                  </app>
+                  <app loc="Cd7">
+                     <lem source="bib:Nakada1994_01">Anumpyataka</lem>
+                     <rdg source="bib:MachiSuhadi+RichadianaKartakusuma1996_01">Anumaṁhyaṁtikaṁ </rdg>
+                  </app>
+                  <app loc="Cd8">
+                     <lem>Aprā<surplus>ṁ</surplus>sa</lem>
+                     <rdg source="bib:Nakada1994_01 bib:MachiSuhadi+RichadianaKartakusuma1996_01">Aprāsa</rdg>
+                  </app>
+                  <app loc="Cd8">
+                     <lem source="bib:MachiSuhadi+RichadianaKartakusuma1996_01">Ajnva humalaṁ</lem>
+                     <rdg source="bib:Nakada1994_01">Ajtva humalaṁ</rdg>
+                     <note>In <ref target="DHARMA_INSIDENKGaraman.xml">Garaman</ref> 4r5 and <ref target="DHARMA_INSIDENKGandhakuti.xml">Gandhakuti</ref> 5r1 we have occurrences of <foreign>Ajnva halaṁ</foreign>. Is the word <foreign>humalaṁ</foreign> here is a mistake or a legitimate variant for <foreign>halaṁ</foreign>?</note>
+                  </app>
+                  <app loc="Cd8">
+                     <lem>vnaṅājamahāni<unclear>n</unclear>dikāṁguntiṅāmaṁlva<unclear>ṁ</unclear></lem>
+                     <rdg source="bib:Nakada1994_01">vnaṅājapahānindikāṁbuntiṅāmalvaṁ</rdg>
+                     <rdg source="bib:MachiSuhadi+RichadianaKartakusuma1996_01">vanaṅajapahānindikāguntiṅamalvaṁ</rdg>
+                  </app>
+                  <app loc="Cd9">
+                     <lem source="bib:Nakada1994_01 bib:MachiSuhadi+RichadianaKartakusuma1996_01">kama⌈lai</lem>
+                     <note>A <foreign>taling</foreign> is engraved after <foreign>kama</foreign> at the end of the line on face C but we also find the -<foreign>ai</foreign> marker at the beginning of d</note>
+                  </app>
+                  <app loc="Cd10">
+                     <lem source="bib:Nakada1994_01">-tabaṁ</lem>
+                     <rdg source="bib:MachiSuhadi+RichadianaKartakusuma1996_01">-habaṁ</rdg>
+                  </app>
+                  <app loc="Cd10">
+                     <lem source="bib:Nakada1994_01">paṁhañjuranya</lem>
+                     <rdg source="bib:MachiSuhadi+RichadianaKartakusuma1996_01">paṁhanjuran</rdg>
+                  </app>
+                  <app loc="Cd10">
+                     <lem source="bib:Nakada1994_01">paṁlaku-laku</lem>
+                     <rdg source="bib:MachiSuhadi+RichadianaKartakusuma1996_01">paṁhaku-haku</rdg>
+                  </app>
+                  <app loc="Cd10">
+                     <lem source="bib:MachiSuhadi+RichadianaKartakusuma1996_01">kunaṁ</lem>
+                     <rdg source="bib:Nakada1994_01">tuna</rdg>
+                  </app>
+                  <app loc="Cd11">
+                     <lem source="bib:Nakada1994_01">-atahila</lem>
+                     <rdg source="bib:MachiSuhadi+RichadianaKartakusuma1996_01">-tahil</rdg>
+                  </app>
+                  <app loc="Cd11">
+                     <lem source="bib:MachiSuhadi+RichadianaKartakusuma1996_01"><abbr>mā</abbr> <num value="2">2</num></lem>
+                     <rdg source="bib:Nakada1994_01">mā bū</rdg>
+                  </app>
+                  <app loc="Cd11">
+                     <lem source="bib:Nakada1994_01">dharuṇa</lem>
+                     <rdg source="bib:MachiSuhadi+RichadianaKartakusuma1996_01">karuṇa</rdg>
+                  </app>
+                  <app loc="Cd12">
+                     <lem source="bib:Nakada1994_01">kapagəhakənanya</lem>
+                     <rdg source="bib:MachiSuhadi+RichadianaKartakusuma1996_01">kapagəhananyan</rdg>
+                  </app>
+                  <app loc="Cd13">
+                     <lem source="bib:Nakada1994_01 bib:MachiSuhadi+RichadianaKartakusuma1996_01">savet·-vkanya</lem>
+                     <note>The word order here is unusual. Normally, one find <foreign>savka-vetnya</foreign> (cf. <ref target="DHARMA_INSIDENKHorren.xml">Horren</ref> 2r3 [eds. <bibl><ptr target="Stutterheim1933_02"/><citedRange unit="page">104</citedRange></bibl> and <bibl><ptr target="MachiSuhadi+SukartoAtmodjo1986_01"/><citedRange unit="page">112–115</citedRange></bibl> where the relevant line is labelled Ib3], <ref target="DHARMA_INSIDENKPagiliran.xml">Pagiliran</ref> A5, <ref target="DHARMA_INSIDENKPanumbangan.xml">Panumbangan</ref> Cd11 and 14, <ref target="DHARMA_INSIDENKSirahKeting.xml">Sirah Keting</ref> C6 and <ref target="DHARMA_INSIDENKLawadan.xml">Lawadan</ref> Ab26). Corr. <foreign>savka-vetnya</foreign>?</note>
+                  </app>
+                  <app loc="Cd13">
+                     <lem source="bib:MachiSuhadi+RichadianaKartakusuma1996_01">kunaṁ</lem>
+                     <rdg source="bib:Nakada1994_01">kuvaṁ</rdg>
+                  </app>
+                  <app loc="Cd13">
+                     <lem source="bib:MachiSuhadi+RichadianaKartakusuma1996_01">pagəḥni<unclear>ṁ</unclear></lem>
+                     <rdg source="bib:Nakada1994_01">paṁsəḥniṁ</rdg>
+                  </app>
+                  <app loc="Cd15">
+                     <lem source="bib:MachiSuhadi+RichadianaKartakusuma1996_01"><abbr>kā</abbr> <num value="2">2</num></lem>
+                     <rdg source="bib:Nakada1994_01"><abbr>kā</abbr> <gap reason="illegible" quantity="1" unit="character"></gap>u </rdg>
+                  </app>
+                  <app loc="Cd15">
+                     <lem>maṅgihakənaṁ pañcagati</lem>
+                     <rdg source="bib:Nakada1994_01">maṅgəhakən añcegaki</rdg>
+                     <rdg source="bib:MachiSuhadi+RichadianaKartakusuma1996_01">maṅgəhakəna pancagati</rdg>
+                  </app>
+                  <app loc="Cd15">
+                     <lem>mataṁnyak aṁR̥ṅə: ta kita</lem>
+                     <rdg source="bib:Nakada1994_01">mataṁnya kaR̥ṅə: taki ta</rdg>
+                     <rdg source="bib:MachiSuhadi+RichadianaKartakusuma1996_01">mataṁyan ta R̥ṅə: ta kita</rdg>
+                     <note>The use of enclitic -<foreign>k</foreign> instead of -<foreign>n</foreign> implies a 2nd-person subject. Cf. e.g. <title>Sumanasāntaka</title> 7.5d <foreign>mataṅnya-k anaṅis panəmbaha ri jə̄ṅta panəbusa ri jīvaniṅ hulun</foreign> ‘That is why tearfully I serve you as a ransom for my life’ (ed. &amp; transl. <bibl><ptr target="Worsley+al2013_01"/></bibl>) and <foreign>Ghaṭotkacāśraya</foreign> 21.3a <foreign>mataṅnya-k ahyun pəjahāmukeṅ raṇa</foreign> ‘Hence my wish to die fighting fiercely in battle’ (ed. &amp; transl. <bibl><ptr target="Robson2016_01"/></bibl>).</note>
+                  </app>
+                  <app loc="Cd15">
+                     <lem source="bib:MachiSuhadi+RichadianaKartakusuma1996_01">hyaṁ</lem>
+                     <rdg source="bib:Nakada1994_01">hvaṁ</rdg>
+                  </app>
+                  <app loc="Cd16">
+                     <lem source="bib:MachiSuhadi+RichadianaKartakusuma1996_01">Ūrddhamadhaḥ</lem>
+                     <rdg source="bib:Nakada1994_01">Ūrddhamavaḥ</rdg>
+                  </app>
+                  <app loc="Cd16">
+                     <lem>hana vvaṅ apacārā-</lem>
+                     <rdg source="bib:Nakada1994_01">pānavvaṅa pavārā</rdg>
+                     <rdg source="bib:MachiSuhadi+RichadianaKartakusuma1996_01">hana vvaṅ apacara-</rdg>
+                  </app>
+                  <app loc="Cd17">
+                     <lem source="bib:Nakada1994_01">I</lem>
+                     <rdg source="bib:MachiSuhadi+RichadianaKartakusuma1996_01">ri</rdg>
+                  </app>
+                  <app loc="Cd18">
+                     <lem source="bib:Nakada1994_01">sumpətakən·</lem>
+                     <rdg source="bib:MachiSuhadi+RichadianaKartakusuma1996_01">pumpətakən·</rdg>
+                  </app>
+                  <app loc="Cd8">
+                     <lem source="bib:MachiSuhadi+RichadianaKartakusuma1996_01">təkək·</lem>
+                     <rdg source="bib:Nakada1994_01">təkik·</rdg>
+                  </app>
+                  <app loc="Cd18">
+                     <lem source="bib:MachiSuhadi+RichadianaKartakusuma1996_01"><foreign>A</foreign>pusi</lem>
+                     <rdg source="bib:Nakada1994_01"><gap reason="illegible" quantity="1" unit="character"></gap>a<gap reason="illegible" quantity="1" unit="character"></gap>upi</rdg>
+                  </app>
+                  <app loc="Cd18">
+                     <lem source="bib:Nakada1994_01">rampak·</lem>
+                     <rdg source="bib:MachiSuhadi+RichadianaKartakusuma1996_01">rampat i</rdg>
+                  </app>
+                  <app loc="Cd18">
+                     <lem>cavuk</lem>
+                     <rdg source="bib:Nakada1994_01"><gap reason="illegible" quantity="2" unit="character"></gap>t</rdg>
+                     <rdg source="bib:MachiSuhadi+RichadianaKartakusuma1996_01">ḍuḍuk</rdg>
+                  </app>
+                  <app loc="Cd19">
+                     <lem source="bib:MachiSuhadi+RichadianaKartakusuma1996_01">hatinya</lem>
+                     <rdg source="bib:Nakada1994_01">rahaginya</rdg>
+                  </app>
+                  <app loc="Cd19">
+                     <lem>rakrāk igānya</lem>
+                     <rdg source="bib:Nakada1994_01">cakrākigāṁnya</rdg>
+                     <rdg source="bib:MachiSuhadi+RichadianaKartakusuma1996_01">rākrāk iganya</rdg>
+                  </app>
+                  <app loc="Cd20">
+                     <lem source="bib:MachiSuhadi+RichadianaKartakusuma1996_01"><unclear>ya</unclear>makiṅkara</lem>
+                     <rdg source="bib:Nakada1994_01">soma kiṅkara</rdg>
+                  </app>
+                  <app loc="Cd20">
+                     <lem source="bib:Nakada1994_01">patyanikaṁ</lem>
+                     <rdg source="bib:MachiSuhadi+RichadianaKartakusuma1996_01">gatyanikaṁ</rdg>
+                  </app>
+                  <app loc="Cd21">
+                     <lem source="bib:MachiSuhadi+RichadianaKartakusuma1996_01">kunaṁ ṅaranikaṁ</lem>
+                     <rdg source="bib:Nakada1994_01">kunaṅ aranikaṁ</rdg>
+                  </app>
+                  <app loc="Cd21">
+                     <lem>gambhīra, viro</lem>
+                     <rdg source="bib:Nakada1994_01">gambhīra, vigā</rdg>
+                     <rdg source="bib:MachiSuhadi+RichadianaKartakusuma1996_01">gamgīra, viga</rdg>
+                  </app>
+                  <app loc="Cd21">
+                     <lem>ṅaranika<unclear>ṁ</unclear></lem>
+                     <rdg source="bib:Nakada1994_01">ṅaran i</rdg>
+                     <rdg source="bib:MachiSuhadi+RichadianaKartakusuma1996_01">ṅaran i</rdg>
+                  </app>
+                  <app loc="Cd22">
+                     <lem source="bib:MachiSuhadi+RichadianaKartakusuma1996_01"><foreign>s</foreign>ubi, panaśar·</lem>
+                     <rdg source="bib:Nakada1994_01">suvi, panagar·</rdg>
+                  </app>
+                  <app loc="Cd22">
+                     <lem source="bib:Nakada1994_01">haR̥p·</lem>
+                     <rdg source="bib:MachiSuhadi+RichadianaKartakusuma1996_01">hapas·</rdg>
+                  </app>
+                  <app loc="Cd22">
+                     <lem source="bib:MachiSuhadi+RichadianaKartakusuma1996_01">sicin·</lem>
+                     <rdg source="bib:Nakada1994_01">sicim·</rdg>
+                  </app>
+                  <app loc="Cd22">
+                     <lem>saprāṇa</lem>
+                     <rdg source="bib:Nakada1994_01 bib:MachiSuhadi+RichadianaKartakusuma1996_01">sapāṇa</rdg>
+                  </app>
+                  <app loc="Cd22">
+                     <lem>Abroṁ, palagān·</lem>
+                     <rdg source="bib:Nakada1994_01">sabroṁ, palaśān·</rdg>
+                     <rdg source="bib:MachiSuhadi+RichadianaKartakusuma1996_01">Anabraṁ, palagān·</rdg>
+                  </app>
+                  <app loc="Cd22">
+                     <lem>tumantar·</lem>
+                     <rdg source="bib:Nakada1994_01">tumankar·</rdg>
+                     <rdg source="bib:MachiSuhadi+RichadianaKartakusuma1996_01">dumantar·</rdg>
+                  </app>
+                  <app loc="Cd23">
+                     <lem source="bib:Nakada1994_01">sagnəṁ</lem>
+                     <rdg source="bib:MachiSuhadi+RichadianaKartakusuma1996_01">Agnī</rdg>
+                  </app>
+                  <app loc="Cd23">
+                     <lem>ñaruk·</lem>
+                     <rdg source="bib:Nakada1994_01">tāruk·</rdg>
+                     <rdg source="bib:MachiSuhadi+RichadianaKartakusuma1996_01">bāruk·</rdg>
+                  </app>
+                  <app loc="Cd23">
+                     <lem source="bib:MachiSuhadi+RichadianaKartakusuma1996_01">tan adoḥ</lem>
+                     <rdg source="bib:Nakada1994_01">kan adoḥ</rdg>
+                  </app>
+                  <app loc="Cd23">
+                     <lem source="bib:Nakada1994_01">rambha</lem>
+                     <rdg source="bib:MachiSuhadi+RichadianaKartakusuma1996_01">ramga</rdg>
+                  </app>
+                  <app loc="Cd23">
+                     <lem source="bib:MachiSuhadi+RichadianaKartakusuma1996_01">Adumās·</lem>
+                     <rdg source="bib:Nakada1994_01">Aduhas·</rdg>
+                  </app>
+                  <app loc="Cd23">
+                     <lem><unclear>A</unclear>dhikā<foreign>n</foreign>ī</lem>
+                     <rdg source="bib:Nakada1994_01 bib:MachiSuhadi+RichadianaKartakusuma1996_01">Avikāri</rdg>
+                  </app>
+                  <app loc="Cd23">
+                     <lem source="bib:Nakada1994_01">gambhīra</lem>
+                     <rdg source="bib:MachiSuhadi+RichadianaKartakusuma1996_01">gamgīra</rdg>
+                  </app>
+                  <app loc="Cd23">
+                     <lem>Ahyəs·</lem>
+                     <rdg source="bib:Nakada1994_01">Ahyus·</rdg>
+                     <rdg source="bib:MachiSuhadi+RichadianaKartakusuma1996_01">Ahyīs·</rdg>
+                  </app>
+                  <app loc="Cd23">
+                     <lem><unclear>vidgī</unclear></lem>
+                     <rdg source="bib:Nakada1994_01">gə<gap reason="illegible" quantity="1" unit="character"></gap>g<gap reason="illegible" quantity="1" unit="character"></gap></rdg>
+                     <rdg source="bib:MachiSuhadi+RichadianaKartakusuma1996_01">gita</rdg>
+                  </app>
+                  <app loc="Cd24">
+                     <lem source="bib:MachiSuhadi+RichadianaKartakusuma1996_01">kr̥tayaśa</lem>
+                     <rdg source="bib:Nakada1994_01"><gap reason="illegible" quantity="1" unit="character"></gap>kayaśa</rdg>
+                  </app>
+                  <app loc="Cd24">
+                     <lem source="bib:Nakada1994_01">vagəd·, makādi Ikaṁ</lem>
+                     <rdg source="bib:MachiSuhadi+RichadianaKartakusuma1996_01">vabhəd·, matādi takaṁ</rdg>
+                  </app>
+                  <app loc="Cd24">
+                     <lem source="bib:MachiSuhadi+RichadianaKartakusuma1996_01">samaṅkana</lem>
+                     <rdg source="bib:Nakada1994_01">sapaṅkaca</rdg>
+                  </app>
+                  <app loc="Cd24">
+                     <lem source="bib:Nakada1994_01">Inanugrahan·</lem>
+                     <rdg source="bib:MachiSuhadi+RichadianaKartakusuma1996_01">Anugrahan·</rdg>
+                  </app>
+                  <app loc="Cd25">
+                     <lem source="bib:Nakada1994_01">prakāśa</lem>
+                     <rdg source="bib:MachiSuhadi+RichadianaKartakusuma1996_01">prakhāsa</rdg>
+                  </app>
+                  <app loc="Cd25">
+                     <lem source="bib:MachiSuhadi+RichadianaKartakusuma1996_01">makapramukha samgat·</lem>
+                     <rdg source="bib:Nakada1994_01">marā pramukha samgət·</rdg>
+                  </app>
+                  <app loc="Cd25">
+                     <lem>kəlpvan·</lem>
+                     <rdg source="bib:Nakada1994_01">kīl<gap reason="illegible" quantity="1" unit="character"></gap>an·</rdg>
+                     <rdg source="bib:MachiSuhadi+RichadianaKartakusuma1996_01">kəlpan·</rdg>
+                  </app>
+                  <app loc="Cd25">
+                     <lem source="bib:Nakada1994_01">Amogha</lem>
+                     <rdg source="bib:MachiSuhadi+RichadianaKartakusuma1996_01">Anumagha</rdg>
+                  </app>
+                  <app loc="Cd25">
+                     <lem source="bib:MachiSuhadi+RichadianaKartakusuma1996_01">ni śrī</lem>
+                     <rdg source="bib:Nakada1994_01">ki śrī</rdg>
+                     <note>The meaning of the two unexpected syllables following the final punctuation marks is unclear.</note>
+                  </app>
                </listApp>
          </div>
          <div type="translation">
