@@ -111,28 +111,26 @@ n="1v13" break="no"/>ja vḍihan· jaro guluṁ-guluṁ yu <num value="1">1</num
           <note>The use of <foreign>svastha</foreign> as opening exclamation in place of the near universal <foreign>svasti</foreign> is among the specific features of the Daksa inscriptions which are dated in the Sanjaya era.<!-- See our remarks, § Specific features n.2. --></note>
         </app>
         <app loc="1v1">
-          <lem>si<unclear>ṁ</unclear>hajaya</lem>
-          <note>Boe.  The presence of the <foreign>anusvāra </foreign> is not evident on the photo of the plate yet its presence seems plausible, because <foreign>siṁha</foreign> is a known word while <foreign>siha</foreign> is not. Since this term is quite rare to be found, we try to break it down as soon as we understand the existence of a <foreign>rāśi </foreign>called <foreign>siṁha, </foreign>though the element <foreign>jaya </foreign>which follows is not really clear.  However, this <foreign>siṁhajaya </foreign>element should still belong to the calendrical elements due to the punctuation sign which is put after it to mark the beginning of a new phrase.</note>
+          <lem source="bib:Boechari2012_33">si<unclear>ṁ</unclear>hajaya</lem>
+          <note>The presence of the <foreign>anusvāra </foreign> is not evident on the photo of the plate yet its presence seems plausible, because <foreign>siṁha</foreign> is a known word while <foreign>siha</foreign> is not. Since this term is quite rare to be found, we try to break it down as soon as we understand the existence of a <foreign>rāśi </foreign>called <foreign>siṁha, </foreign>though the element <foreign>jaya </foreign>which follows is not really clear.  However, this <foreign>siṁhajaya </foreign>element should still belong to the calendrical elements due to the punctuation sign which is put after it to mark the beginning of a new phrase.</note>
         </app>
         <app loc="1v1">
-          <lem>divasani <supplied reason="lost">Ājñā śrī ma</supplied>hārāja</lem>
-          <note>Boe. Boechari’s restitution helps us obtain a structure that is also found in Barahasrama (1v1). Notice that the <foreign>irika</foreign> which usually precedes this expression is absent – which is extremely unusual. So we are inclined to supply the expected word and edit [<foreign>Irika</foreign>] <foreign>divasani</foreign> [<foreign>Ājñā śrī ma</foreign>]<foreign>hārāja</foreign>. What makes us hesitate is that the final word of the dating formula, <foreign>si(ṁ)hajaya</foreign>, is equally unusual.</note>
+          <lem source="bib:Boechari2012_33">divasani <supplied reason="lost">Ājñā śrī ma</supplied>hārāja</lem>
+          <note>Boechari’s restitution helps us obtain a structure that is also found in Barahasrama (1v1). Notice that the <foreign>irika</foreign> which usually precedes this expression is absent – which is extremely unusual. So we are inclined to supply the expected word and edit [<foreign>Irika</foreign>] <foreign>divasani</foreign> [<foreign>Ājñā śrī ma</foreign>]<foreign>hārāja</foreign>. What makes us hesitate is that the final word of the dating formula, <foreign>si(ṁ)hajaya</foreign>, is equally unusual.</note>
         </app>
         <app loc="1v2">
           <lem>saliṅsiṅan</lem>
           <note>The same toponym appears in 1v12. Restoration is provided by Boechari.</note>
         </app>
         <app loc="1v3">
-          <lem>mā</lem>
-          <note>Boe.</note>
+          <lem source="bib:Boechari2012_33">mā</lem>
         </app>
         <app loc="1v5">
-          <lem>bhaṇḍihālādi</lem>
-          <note>Boe.</note>
+          <lem source="bib:Boechari2012_33">bhaṇḍihālādi</lem>
         </app>
         <app loc="1v6">
           <lem>maṇiga</lem>
-          <note>maniga Boe.</note>
+          <rdg source="bib:Boechari2012_33">maniga</rdg>
         </app>
         <app loc="1v6">
           <lem>lva</lem>
@@ -143,8 +141,7 @@ n="1v13" break="no"/>ja vḍihan· jaro guluṁ-guluṁ yu <num value="1">1</num
           <note>Note 2 Boechari (2012: 492): “Di atas huruf <foreign>ṣi</foreign> jelas kelihatan layar yang dihubungkan dengan tanda ulu. Layar itu mestinya tidak perlu.”</note>
         </app>
         <app loc="1v8">
-          <lem>Ityaivamādi</lem>
-          <note>Boe.</note>
+          <lem source="bib:Boechari2012_33">Ityaivamādi</lem>
         </app>
         <app loc="1v13">
           <lem>kituḥ</lem>
