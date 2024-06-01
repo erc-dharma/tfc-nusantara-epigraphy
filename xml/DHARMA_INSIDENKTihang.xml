@@ -33,7 +33,7 @@
       <publicationStmt>
         <authority>DHARMA</authority>
         <pubPlace>Paris, Surakarta, Jakarta</pubPlace>
-        <idno type="filename">DHARMA_INS06Tihang</idno>
+        <idno type="filename">DHARMA_INSIDENKTihang</idno>
         <availability>
           <licence target="https://creativecommons.org/licenses/by/4.0/">
             <p>This work is licenced under the Creative Commons Attribution 4.0 Unported Licence. To view a copy of the licence, visit https://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.</p>
@@ -86,7 +86,7 @@
         <p><pb n="1v"/><fw place="left" rend="tb-rotated" n="1v"><num value="1">1</num></fw><lb 
           n="1v1"/><g type="ddandaHooked"/> <g type="spiralL"/> <g type="ddandaHooked"/> svastha śrī-sañjaya-varṣātīta <num value="198">198</num> I śaka <num value="836">836</num> kārttika-māsa tithi tr̥tĭya kr̥ṣṇa-pakṣa, vurukuṁ vagai Aṅgāra-vāra, Adrā-nakṣatra, śubha-yoga, si<unclear>ṁ</unclear>hajaya, divasani 
         <supplied reason="lost">Ājñā śrī ma</supplied><lb 
-  n="1v2" break="no"/>hārāja rake hino śrī dakṣottama-bāhubajra-pratipakṣa-kṣaya śrī mahottuṅgavijaya, kumonnakan· Ikanaṁ vanuA ri tihaṁ vatak· tiru raṇu, susukan· sīmāni dharmma śrī parameśvarī I <supplied reason="lost">saliṅsiṅan·</supplied>        
+  n="1v2" break="no"/>hārāja <abbr>rake</abbr> hino śrī dakṣottama-bāhubajra-pratipakṣa-kṣaya śrī mahottuṅgavijaya, kumonnakan· Ikanaṁ vanuA ri tihaṁ vatak· tiru raṇu, susukan· sīmāni dharmma śrī parameśvarī I <supplied reason="lost">saliṅsiṅan·</supplied>        
 <lb n="1v3"/>paṅguhanya pasaṁ gunuṁ pirak· <abbr>dhā</abbr> <num value="6">6</num> Avur· <abbr>dhā</abbr> <num value="7">7</num> pamuAtniṁ kalaṁ <abbr>dhā</abbr> <num value="1">1</num> hǝbni pilaṁ<abbr>dhā</abbr> <num value="5">5</num> parmmasanniṅ uṇḍahagi <abbr>mā</abbr> <num value="1">1</num>, parmasanniṁ maṅanam· <abbr>mā</abbr> <num value="4">4</num> palān· <abbr>dhā</abbr> <num value="1">1</num> pabayai <abbr>mā</abbr> <num value="2">2</num> sikpan· <abbr>mā</abbr> <num value="4">4</num> pavalyan· <abbr>mā</abbr> <choice><unclear>4</unclear><unclear>5</unclear></choice> <supplied reason="lost">Iṁ sata</supplied><lb
 n="1v4" break="no"/>hun·, hurip· lekniṁ tuhălas· pirak· <abbr>mā</abbr> <num value="1">1</num> <abbr>ku</abbr> <num value="1">1</num> riṁ salek·, kaṭik· <num value="1">1</num> kapuA maparaha rikana dharmma śrī parameśvarī, māryya Ikanaṁ vanuA ri tihaṁ An· pabuAt-thaji riṁ kataṇḍān·, kalaṁnya māryya mabuAt-tha<lb 
 n="1v5" break="no"/>ji riṁ patiḥ limpar·, saṁ hyaṁ dharmma Ataḥ pabuAt-thajyananya, samaṅkana sukha-duḥkhanya kady aṅgāniṁ mayaṁ tan· mavuAḥ, ḍaṇḍa-kuḍaṇḍa bhaṇḍihālādi tumamā ri saṁ hyaṅ dharmma Ataḥ Ikana kabeḥ, parṇnahanikanaṁ
@@ -119,8 +119,8 @@ n="1v13" break="no"/>ja vḍihan· jaro guluṁ-guluṁ yu <num value="1">1</num
           <note>Boechari’s restitution helps us obtain a structure that is also found in Barahasrama (1v1). Notice that the <foreign>irika</foreign> which usually precedes this expression is absent – which is extremely unusual. So we are inclined to supply the expected word and edit [<foreign>Irika</foreign>] <foreign>divasani</foreign> [<foreign>Ājñā śrī ma</foreign>]<foreign>hārāja</foreign>. What makes us hesitate is that the final word of the dating formula, <foreign>si(ṁ)hajaya</foreign>, is equally unusual.</note>
         </app>
         <app loc="1v2">
-          <lem>saliṅsiṅan</lem>
-          <note>The same toponym appears in 1v12. Restoration is provided by Boechari.</note>
+          <lem source="bib:Boechari2012_33">saliṅsiṅan</lem>
+          <note>The same toponym appears in 1v12</note>
         </app>
         <app loc="1v3">
           <lem source="bib:Boechari2012_33">mā</lem>
@@ -133,18 +133,18 @@ n="1v13" break="no"/>ja vḍihan· jaro guluṁ-guluṁ yu <num value="1">1</num
           <rdg source="bib:Boechari2012_33">maniga</rdg>
         </app>
         <app loc="1v6">
-          <lem>lva</lem>
+          <lem source="bib:Boechari2012_33">lva</lem>
           <note>Note 1 Boechari (2012: 492): “Pasangan di bawah huruf <foreign>la</foreign> memang kelihatan seperti pasangan <foreign>wa</foreign> di tempat-tempat yang lain. Tetapi di sini rupa-rupanya penatah prasasti membuat kesalahan; pasangan itu mestinya lebih runcing di depan, karena yang mestinya ditulis di sini ialah <foreign>lca</foreign>.” We see no objection to reading <foreign>lva</foreign> here instead of <foreign>lca</foreign>. Zoetmulder (1982:1000) already observed that<foreign> lva</foreign> and <foreign>lca</foreign> denote the same category of <foreign>vatǝk i jro</foreign>.</note>
         </app>
         <app loc="1v7">
-          <lem>pamr̥rṣi</lem>
+          <lem source="bib:Boechari2012_33">pamr̥rṣi</lem>
           <note>Note 2 Boechari (2012: 492): “Di atas huruf <foreign>ṣi</foreign> jelas kelihatan layar yang dihubungkan dengan tanda ulu. Layar itu mestinya tidak perlu.”</note>
         </app>
         <app loc="1v8">
           <lem source="bib:Boechari2012_33">Ityaivamādi</lem>
         </app>
         <app loc="1v13">
-          <lem>kituḥ</lem>
+          <lem source="bib:Boechari2012_33">kituḥ</lem>
           <note>Note 3 Boechari (2012: 494): “Kita agak ragu antara <foreign>h</foreign> dan <foreign>t</foreign> di sini. Bahwa di sini dipilih <foreign>t</foreign> hanyalah berdasarkan perasaan bahwa <foreign>kituḥ</foreign> lebih enak didengar dari <foreign>kihuḥ</foreign>. Sayang bahwa satu-satunya prasasti raja Dakṣa yang lain yang kita kenal hingga sekarang, yaitu prasasti Timbanan Wuṅkal tahun 196 Sañjayawarṣa (OJO, XXXV), tidak menyebut nama orang yang menjabat rakryan mapatiḥ i halu.” To our mind,  the <foreign>akṣara</foreign> in question is unquestionably <foreign>tu</foreign>.</note>
         </app>
       </div>

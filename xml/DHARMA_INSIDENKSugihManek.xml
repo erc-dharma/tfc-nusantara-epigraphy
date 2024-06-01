@@ -32,7 +32,7 @@
       </titleStmt>
       <publicationStmt>
         <authority>DHARMA</authority>
-        <pubPlace>Paris</pubPlace>
+        <pubPlace>Paris, Surakarta, Jakarta</pubPlace>
         <idno type="filename">DHARMA_INSIDENKSugihManek</idno>
         <availability>
           <licence target="https://creativecommons.org/licenses/by/4.0/">
@@ -75,8 +75,8 @@
       </listPrefixDef>
     </encodingDesc>
     <revisionDesc>
-      <change status="draft" when="2024-03-29" who="part:argr part:tykd">Started revising the encoding</change>
-      <change status="draft" when="2023-07-01" who="part:mime">Initial encoding of the inscription</change>
+      <change status="draft" when="2024-03-29" who="part:argr part:tykd">started revising the encoding</change>
+      <change status="draft" when="2023-07-01" who="part:mime">import into TEI-XML from googledoc</change>
     </revisionDesc>
   </teiHeader>
   <text xml:space="preserve">
@@ -93,7 +93,7 @@ Nakada 1992: 15–34 (no. XIV).
 Edhie Wurjantoro 2018: 137–53.
 The edition presented here was made on the basis of direct observation on the stone in January 2022 by Tyassanti Kusumo Dewanti, with remote supervision and assistance from Arlo Griffiths in France. Some checks in months later were made by consulting the photographs made by Eko Bastiawan and the estampages preserved in Leiden. A lot of new readings has been yielded here. Some of them are the numbers for the gift, the detail of the wet rice field that benefit the personnel at the foundation and the imprecation formula placed in the back face (B), left face (c), and right face (d). The first line of the right face that is never read by any scholar, possibly due to the lost of that part which is neglected by them, is being restituted in our edition.
 -->
-      <div type="edition" xml:lang="kaw-Latn">
+      <div type="edition" xml:lang="kaw-Latn" rendition="class:38769 maturity:83213">
 <ab xml:lang="san-Latn"><milestone type="pagelike" unit="face" n="A"/><label>Front</label><!-- §5.4. -->
 <lb n="A1"/> // <num value="0">0</num> // Avighnam astu //</ab>
 <lg met="āryā" n="1" xml:lang="san-Latn">
@@ -103,7 +103,7 @@ The edition presented here was made on the basis of direct observation on the st
 <p>
 <lb n="A3"/>svasti śaka-varṣātīta <num value="837">837</num> Asuji-māsa, tithi dvitīya śukla-pakṣa, <abbr>ma</abbr>, <abbr>po</abbr>, <abbr>bu</abbr>, vāra
 <lb n="A4"/><unclear>Ă</unclear>gniya-deśa, citrā-nakṣatra, vedhr̥ti-yoga, tvaṣṭā-devatā,</p> <p>Irikā divaśani <unclear>A</unclear>nugraha śrī <unclear>ma</unclear><lb break="no" 
-n="A5"/>hārāja śrī dakṣottama-bāhubajra-pratipakṣa-kṣaya, I rakai kanuruhan· dyaḥ mumpuṁ sumusuk· I<lb break="no" 
+n="A5"/>hārāja śrī dakṣottama-bāhubajra-pratipakṣa-kṣaya, I <abbr>rakai</abbr> kanuruhan· dyaḥ mumpuṁ sumusuk· I<lb break="no" 
 n="A6"/>kanaṁ vanva I limus· vatək kanuruhan· gavai  <abbr>mā</abbr> <num value="1">1</num> mvaṁ Anaknya I tampuran· paṅguhan· tapak· <abbr>su</abbr> <num value="18">18</num> <abbr>mā</abbr> <add place="below"><num value="8">8</num></add>
 <lb n="A7"/>, Iṁ satahun·-satahun·, sīmāniṁ dharmma rakryān· prāsāda kabikvan· I sugiḥ manek·, paknānya pacaru<lb break="no" 
 n="A8"/><unclear>A</unclear> I bhaṭāra pratidina, mvaṁ taḍaha saṁ <unclear>ka</unclear>r<unclear>m</unclear>manya, sakvaiḥnira Umyāpāra kapūjān· bhaṭāra, maṅas<unclear>ə</unclear>A<unclear>ka</unclear><lb break="no" 
@@ -129,11 +129,11 @@ n="A25"/>ranya, yāpvan· lviḥ kvaiḥnya saṁkā <unclear>I</unclear>rīkā 
 n="A27"/><unclear>nam</unclear>·, manarub·, manūlaṁ vuṅkudu, maṁdyun·, maṁluruṁ, maṁhapū Ityaivamādi, kapva ya tribhāgān·, sadūmān· Umarā I bhaṭāra,
 <lb n="A28"/>sadūmān· I saṁ makmitan· dharmma, sadūmān· I saṁ maṅilala drabya haji, maṅkana Ikanaṁ Ăjñă haji paṁhīṁ Irikanaṁ masambyavahāra
 <lb n="A29"/>hana ṅ<unclear>k</unclear>āna, Irikanaṁ g<unclear>r</unclear>itan<unclear>ya</unclear><supplied reason="omitted">,</supplied> maṅasəAkan· rakryān· pagə-pagəḥ I mahārāja śrī dakṣottama-bāhubajra-pratipakṣakṣaya  <abbr>mā</abbr>  <abbr>su</abbr> <unclear>1</unclear>
-<lb n="A30"/><unclear>mā</unclear> <gap reason="illegible" quantity="1" unit="character"/> vḍihan· ragi yu <num value="1">1</num> I rakryān· bini haji parameśvarī  <abbr>mā</abbr>  <abbr>su</abbr> <num value="1">1</num>  <abbr>mā</abbr> <num value="4">4</num> ken· vlaḥ <num value="1">1</num> I rakryān· momah-uma<supplied reason="omitted">ḥ</supplied> gurum baṅi pūtta<unclear>ra</unclear>
+<lb n="A30"/><unclear>mā</unclear> <gap reason="illegible" quantity="1" unit="character"/> vḍihan· ragi <abbr>yu</abbr> <num value="1">1</num> I rakryān· bini haji parameśvarī  <abbr>mā</abbr>  <abbr>su</abbr> <num value="1">1</num>  <abbr>mā</abbr> <num value="4">4</num> ken· vlaḥ <num value="1">1</num> I rakryān· momah-uma<supplied reason="omitted">ḥ</supplied> gurum baṅi pūtta<unclear>ra</unclear>
 <!-- Back (B) -->
-<lb n="B1"/><unclear>ma</unclear>s·  <abbr>mā</abbr> <num value="10">10</num> vḍihan· ragi yu <num value="1">1</num>, rake hujuṁ d<unclear>yaḥ</unclear> mriḥ mas·  <abbr>mā</abbr> <num value="10">10</num> vḍihan· ragi yu <num value="1">1</num>, rake tagaran·
-<lb n="B2"/>dyaḥ bagal· mas·  <abbr>mā</abbr> <num value="10">10</num> vḍihan· ragi yu <num value="1">1</num>, saṁ juru makabaihan· I kanuruhan· juru kanăyak<unclear>ā</unclear><supplied reason="lost">n·</supplied>
-<lb n="B3"/><gap reason="lost" quantity="2" unit="character"/> <gap reason="illegible" quantity="1" unit="character"/>riṁ maṁraṁkpi saṁ ra gagar·, juru lampuran· rakai siñjalan· Ataṇḍa pu <unclear>Aḍo</unclear>, juru vadvā rare saṁ brat·<supplied reason="omitted">,</supplied> <supplied reason="lost">juru</supplied><lb break="no" 
+<lb n="B1"/><unclear>ma</unclear>s·  <abbr>mā</abbr> <num value="10">10</num> vḍihan· ragi <abbr>yu</abbr> <num value="1">1</num>, <abbr>rake</abbr> hujuṁ d<unclear>yaḥ</unclear> mriḥ mas·  <abbr>mā</abbr> <num value="10">10</num> vḍihan· ragi <abbr>yu</abbr> <num value="1">1</num>, <abbr>rake</abbr> tagaran·
+<lb n="B2"/>dyaḥ bagal· mas·  <abbr>mā</abbr> <num value="10">10</num> vḍihan· ragi <abbr>yu</abbr> <num value="1">1</num>, saṁ juru makabaihan· I kanuruhan· juru kanăyak<unclear>ā</unclear><supplied reason="lost">n·</supplied>
+<lb n="B3"/><gap reason="lost" quantity="2" unit="character"/> <gap reason="illegible" quantity="1" unit="character"/>riṁ maṁraṁkpi saṁ ra gagar·, juru lampuran· <abbr>rakai</abbr> siñjalan· Ataṇḍa pu <unclear>Aḍo</unclear>, juru vadvā rare saṁ brat·<supplied reason="omitted">,</supplied> <supplied reason="lost">juru</supplied><lb break="no" 
 n="B4"/><supplied reason="lost">niṁ ka</supplied>lula saṁ ra baṇir·, juru maṁrakət· kāliḥ saṁ tavi, saṁ labdha, Amasaṅakan· <unclear>saṁ ra vava,</unclear> kapva vinaiḥ pasək·-<supplied reason="lost">pa</supplied><lb break="no" 
 n="B5"/><supplied reason="lost">sək·</supplied> mas·  <abbr>mā</abbr> <num value="2">2</num> vḍihan· ragi hlai <num value="1">1</num> sovaṁ-sovaṁ, saṁ mapatiḥ Iṁ pakaraṇān· makabaihan·, patiḥ pamgat· saṁ <unclear>ha</unclear><lb break="no" 
 n="B6"/><unclear>j</unclear>u, maṁhambən· saṁ hiraṇya, patiḥ kavaṅyan·, saṁ pārtha, pinakāsthavira I pakaraṇān· saṁ parujar· vuṅkal kiluṁ, juru banva
@@ -277,7 +277,7 @@ The siglum Br refers to Brandes’ edition and the siglum Na refers to Nakada’
 <app loc="B2"><lem source="bib:Brandes1913_01">I kanuruhan·</lem><rdg source="bib:Nakada1992_01">Iṁ kanuruhan·</rdg></app> 
 <app loc="B2"><lem source="bib:Nakada1992_01">saṁ juru makabaihan·</lem><rdg source="bib:Brandes1913_01">saṁ juru makabehan·</rdg></app> 
 <app loc="B2"><lem>kanayak(ā)[n·]</lem><rdg source="bib:Brandes1913_01">kanayakan·</rdg><rdg source="bib:Nakada1992_01">kanayakān·</rdg></app> 
-<app loc="B3"><lem>rakai siñjalan·</lem><rdg source="bib:Brandes1913_01">ra….ri Uñjalan·</rdg><rdg source="bib:Nakada1992_01">ramo ri [U]ñjalan·</rdg><note>This name is also found in Jeru-jeru B19 and Gulung-gulung B28.</note></app> 
+<app loc="B3"><lem><abbr>rakai</abbr> siñjalan·</lem><rdg source="bib:Brandes1913_01">ra….ri Uñjalan·</rdg><rdg source="bib:Nakada1992_01">ramo ri [U]ñjalan·</rdg><note>This name is also found in Jeru-jeru B19 and Gulung-gulung B28.</note></app> 
 <app loc="B3"><lem>[juru](4)[niṁ ka]lula</lem><rdg source="bib:Brandes1913_01 bib:Nakada1992_01">[.....]lula</rdg><note>This restitution is based on the estimated space, about 3 <foreign>akṣara</foreign>s,<foreign> </foreign>that apparently suits with the function attested elsewhere in this corpus, viz. in Tulang Er (1v3) <foreign>juruniṁ kalula saṁ nāgara</foreign>,<foreign> </foreign>and in an inscription of Wawa’s reign, viz. Sangguran (B4) <foreign>juru kalula pu vali</foreign>.</note></app> 
 <app loc="B4"><lem>Amasaṅakan· (saṁ ra vava,)</lem><rdg source="bib:Brandes1913_01">Amasaṅakan· ranovava</rdg><rdg source="bib:Nakada1992_01">Amusuṅakan i ranovara</rdg></app> 
 <app loc="B4"><lem source="bib:Nakada1992_01">juru maṁrakət·</lem><rdg source="bib:Brandes1913_01">juru maṁrakit·</rdg></app> 
@@ -373,7 +373,6 @@ The siglum Br refers to Brandes’ edition and the siglum Na refers to Nakada’
         <p>May there be prosperity for all people! May the hosts of beings be intent upon the benefit of others! May faults come to perish! May the world be blissful in every respect!</p>
         <p>Hail! Elapsed Śaka year 837, month of Asuji, second <foreign>tithi</foreign> of the waxing fortnight, Mavulu, Pon, Wednesday, the direction south-east, the lunar mansion Citrā, the conjunction Vaidhr̥ti, the deity Tvaṣṭā. That was the time of the grant of the Great King Śrī Dakṣottama-bāhubajra-pratipaḳsa-ksaya to the Lord of Kanuruhan, <foreign>dyah </foreign>Mumpuṅ, to demarcate the village of Limus, district Kanuruhan, [whose] corvée (<foreign>gavai</foreign>)<foreign></foreign>is 1 <foreign>māṣa</foreign>, and its subordinate (<foreign>anaknya</foreign>)<foreign></foreign>at Tampuran [whose] income (<foreign>paṅguhan</foreign>) is 18 <foreign>suvarṇa </foreign>and 8 <foreign>māṣa </foreign>of <foreign>tapak </foreign>for each year, so that it would become the <foreign>sīma</foreign> of the foundation<foreign></foreign>of the Lord, (namely) the monastery temple (<foreign>prāsāda kabikvan</foreign>)<foreign></foreign>at Sugih Manek.</p>
         <p>(A7–A16) Its purpose was for the daily offering to the Deity and for the nourishment of all the priests who are occupied with the worship of the Deity, who offer ... the foundation (<foreign>dharma</foreign> or <foreign>kuśala</foreign>) of the Lord<foreign></foreign>at Sugih Manek and the one at Limus, should not be entered by the three high dignitaries — the p<foreign>aṅkur</foreign>, the<foreign> tavān</foreign>, the <foreign>tirip</foreign> — [nor by] the<foreign> tiruan</foreign>, the <foreign>maṅhuri</foreign>, nor by all the collectors of royal revenue. The <foreign>kriṅ</foreign>, the <foreign>paṅuraṅ</foreign>, the <foreign>paḍam</foreign> <foreign>apv</foreign>ī, the <foreign>manimpiki</foreign>, the <foreign>halu varak</foreign>, the <foreign>pamaṇikan</foreign>, the <foreign>maṇiga</foreign>, the <foreign>lva</foreign>, the <foreign>malandaṅ</foreign>, the <foreign>pakalaṅkaṅ</foreign>, the <foreign>tapa haji</foreign>, the <foreign>er haji</foreign>, the <foreign>maṅrumve</foreign>, the overseer of the smithies, the overseer of traders, the overseer of <foreign>nambi</foreign>s, the overseer of <foreign>huñjaman</foreign>s, the overseer of <foreign>kutak</foreign>s, the overseer of public women (<foreign>juru  jalir</foreign>), the overseer of gambling (<foreign>juru juḍi</foreign>), the carpenter, the Limus Galuh, the <foreign>paṅaruhan</foreign>, the <foreign>vatu tajam</foreign>, the<foreign> taji</foreign>, the smiths, the <foreign>mapayuṅan</foreign>, the eunuchs, the healers, the <foreign>paranakan</foreign>, the singing actors, the overseer of drummers, the <foreign>sinaguha</foreign>, the <foreign>taṅkil</foreign>, the <foreign>salvit</foreign>, the <foreign>varahan</foreign>, the <foreign>sambal</foreign>, the <foreign>sumbul</foreign>, the courtiers, the Siṅgah, the Pamr̥ṣi, the King’s servants, the Mahouts, the <foreign>ləbə-ləb</foreign>, and so forth — all sorts of collectors of royal tax [on] various kinds of professions shall not enter the monastery at Sugih Manek and the one at Limus.</p>
-        <p>Thanks, can I edit as various miśra? I asked Mas Eko and he said if it can be translated as such.</p>
         <p>(A16–A18) Likewise its ‘pain and relief’ — the areca flower that does not come to fruition, <foreign>ḍaṇḍa-kuḍaṇḍa, bhaṇḍihala</foreign>, etc.<foreign>, </foreign>all sorts of misfortune: to die from being crushed, to die from drowning, to be caught by thunderclap, gourd creeping along the yard, splattered blood, bedewed corpse, and so forth. All of them benefit only to the Deity.</p>
         <p>(A18–A26) Likewise those who trade while present in this meritorious work (<foreign>kuśala</foreign>) of the Lord, their number should be limited:</p>
         <p>• the goldsmiths, the ironsmiths, the coppersmiths: three bellows in the whole <foreign>sīma</foreign>,</p>
