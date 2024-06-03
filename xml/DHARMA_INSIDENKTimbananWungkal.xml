@@ -32,8 +32,8 @@
       </titleStmt>
       <publicationStmt>
         <authority>DHARMA</authority>
-        <pubPlace>Paris</pubPlace>
-        <idno type="filename">DHARMA_INS03Timbanan</idno>
+        <pubPlace>Paris, Surakarta, Jakarta</pubPlace>
+        <idno type="filename">DHARMA_INSIDENKTimbanan</idno>
         <availability>
           <licence target="https://creativecommons.org/licenses/by/4.0/">
             <p>This work is licenced under the Creative Commons Attribution 4.0 Unported Licence. To view a copy of the licence, visit https://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.</p>
@@ -75,7 +75,8 @@
       </listPrefixDef>
     </encodingDesc>
     <revisionDesc>
-      <change status="draft" when="2023" who="part:mime">Initial encoding of the inscription</change>
+      <change status="draft" when="2024-06-03" who="part:argr part:tykd">started revising the encoding</change>
+      <change status="draft" when="2023-07-01" who="part:mime">import into TEI-XML from googledoc</change>
     </revisionDesc>
   </teiHeader>
   <text xml:space="preserve">
@@ -85,31 +86,31 @@ Almost a century after Brande established his reading that was published in OJO 
 Nakada 1991: 16–22 (no. XI).
 Edhie Wurjantoro 2018: 133–36.
 -->
-      <div type="edition" xml:lang="kaw-Latn">
+      <div type="edition" xml:lang="kaw-Latn" rendition="class:38769 maturity:83213">
         <p>
 <lb n="1"/> Om̐ namo rudradurggebhyaḥ sv<unclear>āhā</unclear>
-<lb n="2"/> || svas<unclear>tha</unclear> sarat· śrī sañjaya-varṣātīta <num value="196">196</num> phalguṇa-māsa tithi dvitī-
-<lb break="no" n="3"/> ya śukla<surplus>,</surplus>-pakṣ<unclear>ā</unclear> paniruAn·, <unclear>gai</unclear>va br̥haspati, vāra, Uttarabhadravā-
-<lb break="no" n="4"/> da-nakṣatra, Āhi<supplied reason="lost">r</supplied><unclear>buddhā-deva</unclear>tā‚ śobhana-yoga, I<unclear>rikā divasani Ā</unclear>-
-<lb break="no" n="5"/> j<unclear>ñă</unclear> śrī mahārāja, dakṣottama-bāhubajra-pratipakṣa-kṣaya śrī mahottu-
-<lb break="no" n="6"/> ṅgavijaya, tumurun· I rakryān· mapatiḥ I halu‚ sirikan·, vka‚ muAṁ rakryān· gu-
-<lb break="no" n="7"/> run vaṁṅi, muAṁ I samgat· tiruAn·<supplied reason="omitted">,</supplied> kumonakan· Ikanaṁ dharmma kabiku<space/>An· I timba-
-<lb break="no" n="8"/> nan· vuṅkal· pahatəguhan· śāsananya, Umuvaha svatantra, svatantra ṅaranya ta-
-<lb break="no" n="9"/> n· pinarabyāpāra, deni saprakāra saṁ maṅilala drabya haji kabeḥ paṅkur· tavān·
-<lb n="10"/> tirip·, maṁhuri, kriṁ, paḍəmm apuy·, maṇiga‚ lva, malañja<unclear>ṁ</unclear>, makalaṅkaṁ, tapa haji, E-
-<lb break="no" n="11"/> r haji‚ maṁrumve, tuha gusali‚ tuha dagaṁ‚ tuhān· huñjamman·, tuhān· kutak·<supplied reason="lost">, tu-</supplied>
-<lb n="12"/> han· <gap reason="ca. 2 aks. illegible"/>, Uṇḍahagi, k<unclear>ḍ</unclear>i, paranakan·, tuha paḍahi‚ vidu maṅiduṁ, varahan· sambal·,
+<lb n="2"/> <g type="ddandaHooked"/> svas<unclear>tha</unclear> sarat· śrī sañjaya-varṣātīta <num value="196">196</num> phalguṇa-māsa tithi dvitī<lb break="no" 
+n="3"/>ya śukla<surplus>,</surplus>-pakṣ<unclear>ā</unclear> paniruAn·, <unclear>gai</unclear>va br̥haspati, vāra, Uttarabhadravā-
+<lb break="no" n="4"/> da-nakṣatra, Āhi<supplied reason="lost">r</supplied><unclear>buddhā-deva</unclear>tā‚ śobhana-yoga, I<unclear>rikā divasani Ā</unclear><lb break="no" 
+n="5"/>j<unclear>ñă</unclear> śrī mahārāja, dakṣottama-bāhubajra-pratipakṣa-kṣaya śrī mahottu<lb break="no" 
+n="6"/>ṅgavijaya, tumurun· I rakryān· mapatiḥ I halu‚ sirikan·, vka‚ muAṁ rakryān· gu<lb break="no" 
+n="7"/>run vaṁṅi, muAṁ I samgat· tiruAn·<supplied reason="omitted">,</supplied> kumonakan· Ikanaṁ dharmma kabiku<space/>An· I timba<lb break="no" 
+n="8"/>nan· vuṅkal· pahatəguhan· śāsananya, Umuvaha svatantra, svatantra ṅaranya ta<lb break="no" 
+n="9"/>n· pinarabyāpāra, deni saprakāra saṁ maṅilala drabya haji kabeḥ paṅkur· tavān·
+<lb n="10"/> tirip·, maṁhuri, kriṁ, paḍəmm apuy·, maṇiga‚ lva, malañja<unclear>ṁ</unclear>, makalaṅkaṁ, tapa haji, E<lb break="no" 
+n="11"/>r haji‚ maṁrumve, tuha gusali‚ tuha dagaṁ‚ tuhān· huñjamman·, tuhān· kutak·<supplied reason="lost">, tu</supplied><lb break="no" 
+n="12"/>han· <gap reason="illegible" quantity="2" unit="character" precision="low"/>, Uṇḍahagi, k<unclear>ḍ</unclear>i, paranakan·, tuha paḍahi‚ vidu maṅiduṁ, varahan· sambal·,
 <lb n="13"/> sumbul·, <unclear>k</unclear>i<unclear>r</unclear>i<unclear>m</unclear>it·, pamr̥ṣi‚ hulun· haji‚ piṅhai, vahuta, rāma, Ityevammādi,
-<lb n="14"/> nahan <unclear>pra</unclear>kārani tan· tumamā maminta drabya haji, rikanaṁ kabikuAn· I timbanan· vu-
-<lb break="no" n="15"/> ṅkal·<supplied reason="omitted">,</supplied> kunaṁ parṇnahani sukha-duḥkhanya, ḍaṇḍa-<unclear>kuḍaṇḍa</unclear> maṇḍihālādīkaṁ la<unclear>ḍaṅi,</unclear>
+<lb n="14"/> nahan <unclear>pra</unclear>kārani tan· tumamā maminta drabya haji, rikanaṁ kabikuAn· I timbanan· vu<lb break="no" 
+n="15"/> ṅkal·<supplied reason="omitted">,</supplied> kunaṁ parṇnahani sukha-duḥkhanya, ḍaṇḍa-<unclear>kuḍaṇḍa</unclear> maṇḍihālādīkaṁ la<unclear>ḍaṅi,</unclear>
 <lb n="16"/> bubulan· sa<surplus>ṁ</surplus>masa<supplied reason="omitted">m</supplied>byavahāra I salvāni cchāyani tambak· bhaṭārī I heṁ
 <lb n="17"/> I jro I tpĭ makulīliṅan· mo<supplied reason="omitted">n·</supplied> java paraṣi kammir· mva<supplied reason="omitted">ṁ</supplied> siṁ<supplied reason="lost">hala</supplied> <gap reason="ca. 4 aks. lost"/>
-<lb n="18"/> Ataḥ pramāṇā Irikā kabaiḥ yāpuAnn ikāṁ nambi mahya<gap reason="ca. 5 aks. lost"/> <supplied reason="lost">timba-</supplied>
-<lb n="19"/> nnan· vatu mahābhr̥tya Ataḥ parṇnahanya yan uṅguAna ma<gap reason="ca. 8 aks. lost"/>
+<lb n="18"/> Ataḥ pramāṇā Irikā kabaiḥ yāpuAnn ikāṁ nambi mahya<gap reason="ca. 5 aks. lost"/> <supplied reason="lost">timba</supplied><lb break="no"
+n="19"/>nnan· vatu mahābhr̥tya Ataḥ parṇnahanya yan uṅguAna ma<gap reason="ca. 8 aks. lost"/>
 <lb n="20"/> <gap reason="1 aks. illegible"/>taka luIranya kunaṁ sukha-du<supplied reason="omitted">ḥ</supplied>khanya Aṅśa-pratyaṅśādi<gap reason="ca. 8 aks. lost"/>
-<lb n="21"/> hanya bhaṭārĭ parānanya satṅaḥ satuhān· <gap reason="3. aks. illegible"/>ka<gap reason="ca. 6 aks. lost"/> <supplied reason="lost">vi-</supplied>
-<lb n="22"/> hāra bhaṭārī Ataḥ parānanī <unclear>s</unclear>u<supplied reason="omitted">kha</supplied><unclear>d</unclear>uḥ<unclear>khanya</unclear> kabaiḥ maṅkana A<unclear>nu</unclear><supplied reason="lost">graha śrī mahārā-</supplied>
-<lb n="23"/> ja I rakryān mapatiḥ katag<unclear>u</unclear>ḥhakna saṁ karmmaṇya kabaiḥ <gap reason="ca. 8 aks. lost"/>
+<lb n="21"/> hanya bhaṭārĭ parānanya satṅaḥ satuhān· <gap reason="3. aks. illegible"/>ka<gap reason="ca. 6 aks. lost"/> <supplied reason="lost">vi</supplied><lb break="no" 
+n="22"/> hāra bhaṭārī Ataḥ parānanī <unclear>s</unclear>u<supplied reason="omitted">kha</supplied><unclear>d</unclear>uḥ<unclear>khanya</unclear> kabaiḥ maṅkana A<unclear>nu</unclear><supplied reason="lost">graha śrī mahārā</supplied><lb break="no" 
+n="23"/> ja I rakryān mapatiḥ katag<unclear>u</unclear>ḥhakna saṁ karmmaṇya kabaiḥ <gap reason="ca. 8 aks. lost"/>
 <lb n="24"/> <gap reason="4 aks. lost"/> <unclear>t</unclear>im<supplied reason="lost">b</supplied>anan· vatu <gap reason="3 aks. illegible"/> <gap reason="15 aks. lost"/>
 </p>
       </div>
