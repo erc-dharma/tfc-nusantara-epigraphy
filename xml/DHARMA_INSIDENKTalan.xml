@@ -499,7 +499,7 @@ n="Cd25"/><milestone unit="face" n="C"/>ryya prakāśa, makapramukha samgat· k�
                   </app>
                   <app loc="Cd6">
                      <lem source="bib:MachiSuhadi+RichadianaKartakusuma1996_01">-māgha-māsa tithi pratipāda</lem>
-                     <rdg source="bib:Nakada1994_01">māla riṁ mā<gap reason="illegible" quantity="1" unit="character"></gap>eṁkən· pratipāda</rdg>
+                     <rdg source="bib:Nakada1994_01">māla riṁ mā<seg type="aksara"><seg type="component" subtype="body"><gap reason="illegible" unit="component" quantity="1"/></seg>e</seg>ṁkən· pratipāda</rdg>
                   </app>
                   <app loc="Cd7">
                      <lem source="bib:Nakada1994_01">Anumpyataka</lem>
@@ -569,7 +569,7 @@ n="Cd25"/><milestone unit="face" n="C"/>ryya prakāśa, makapramukha samgat· k�
                   </app>
                   <app loc="Cd15">
                      <lem source="bib:MachiSuhadi+RichadianaKartakusuma1996_01"><abbr>kā</abbr> <num value="2">2</num></lem>
-                     <rdg source="bib:Nakada1994_01"><abbr>kā</abbr> <gap reason="illegible" quantity="1" unit="character"></gap>u </rdg>
+                     <rdg source="bib:Nakada1994_01"><abbr>kā</abbr> <seg type="aksara"><seg type="component" subtype="body"><gap reason="illegible" unit="component" quantity="1"/></seg>u</seg></rdg>
                   </app>
                   <app loc="Cd15">
                      <lem>maṅgihakənaṁ pañcagati</lem>
@@ -609,7 +609,7 @@ n="Cd25"/><milestone unit="face" n="C"/>ryya prakāśa, makapramukha samgat· k�
                   </app>
                   <app loc="Cd18">
                      <lem source="bib:MachiSuhadi+RichadianaKartakusuma1996_01"><foreign>A</foreign>pusi</lem>
-                     <rdg source="bib:Nakada1994_01"><gap reason="illegible" quantity="1" unit="character"></gap>a<gap reason="illegible" quantity="1" unit="character"></gap>upi</rdg>
+                     <rdg source="bib:Nakada1994_01"><seg type="aksara"><seg type="component" subtype="body"><gap reason="illegible" unit="component" quantity="1"/></seg>a</seg> <gap reason="illegible" quantity="1" unit="character"></gap> <seg type="aksara"><seg type="component" subtype="body"><gap reason="illegible" unit="component" quantity="1"/></seg>u</seg>pi</rdg>
                   </app>
                   <app loc="Cd18">
                      <lem source="bib:Nakada1994_01">rampak·</lem>
@@ -742,7 +742,7 @@ n="Cd25"/><milestone unit="face" n="C"/>ryya prakāśa, makapramukha samgat· k�
                   </app>
                   <app loc="Cd25">
                      <lem>kəlpvan·</lem>
-                     <rdg source="bib:Nakada1994_01">kīl<gap reason="illegible" quantity="1" unit="character"></gap>an·</rdg>
+                     <rdg source="bib:Nakada1994_01">kīl<seg type="aksara"><seg type="component" subtype="body"><gap reason="illegible" unit="component" quantity="1"/></seg>a</seg>n·</rdg>
                      <rdg source="bib:MachiSuhadi+RichadianaKartakusuma1996_01">kəlpan·</rdg>
                   </app>
                   <app loc="Cd25">
