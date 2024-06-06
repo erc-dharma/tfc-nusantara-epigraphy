@@ -104,14 +104,14 @@ n="12"/>han· <gap reason="illegible" quantity="2" unit="character" precision="l
 <lb n="14"/> nahan <unclear>pra</unclear>kārani tan· tumamā maminta drabya haji, rikanaṁ kabikuAn· I timbanan· vu<lb break="no" 
 n="15"/> ṅkal·<supplied reason="omitted">,</supplied> kunaṁ parṇnahani sukha-duḥkhanya, ḍaṇḍa-<unclear>kuḍaṇḍa</unclear> maṇḍihālādīkaṁ la<unclear>ḍaṅi,</unclear>
 <lb n="16"/> bubulan· sa<surplus>ṁ</surplus>masa<supplied reason="omitted">m</supplied>byavahāra I salvāni cchāyani tambak· bhaṭārī I heṁ
-<lb n="17"/> I jro I tpĭ makulīliṅan· mo<supplied reason="omitted">n·</supplied> java paraṣi kammir· mva<supplied reason="omitted">ṁ</supplied> siṁ<supplied reason="lost">hala</supplied> <gap reason="ca. 4 aks. lost"/>
-<lb n="18"/> Ataḥ pramāṇā Irikā kabaiḥ yāpuAnn ikāṁ nambi mahya<gap reason="ca. 5 aks. lost"/> <supplied reason="lost">timba</supplied><lb break="no"
-n="19"/>nnan· vatu mahābhr̥tya Ataḥ parṇnahanya yan uṅguAna ma<gap reason="ca. 8 aks. lost"/>
-<lb n="20"/> <gap reason="1 aks. illegible"/>taka luIranya kunaṁ sukha-du<supplied reason="omitted">ḥ</supplied>khanya Aṅśa-pratyaṅśādi<gap reason="ca. 8 aks. lost"/>
-<lb n="21"/> hanya bhaṭārĭ parānanya satṅaḥ satuhān· <gap reason="3. aks. illegible"/>ka<gap reason="ca. 6 aks. lost"/> <supplied reason="lost">vi</supplied><lb break="no" 
+<lb n="17"/> I jro I tpĭ makulīliṅan· mo<supplied reason="omitted">n·</supplied> java paraṣi kammir· mva<supplied reason="omitted">ṁ</supplied> siṁ<supplied reason="lost">hala</supplied> <gap reason="lost" quantity="4" unit="character"/>
+<lb n="18"/> Ataḥ pramāṇā Irikā kabaiḥ yāpuAnn ikāṁ nambi mahya<gap reason="lost" quantity="5" unit="character"/> <supplied reason="lost">timba</supplied><lb break="no"
+n="19"/>nnan· vatu mahābhr̥tya Ataḥ parṇnahanya yan uṅguAna ma<gap reason="lost" quantity="8" unit="character"/>
+<lb n="20"/><gap reason="illegible" quantity="1" unit="character"/>taka luIranya kunaṁ sukha-du<supplied reason="omitted">ḥ</supplied>khanya Aṅśa-pratyaṅśādi<gap reason="lost" quantity="8" unit="character"/>
+<lb n="21"/> hanya bhaṭārĭ parānanya satṅaḥ satuhān· <gap reason="illegible" quantity="3" unit="character"/>ka<gap reason="lost" quantity="6" unit="character"/> <supplied reason="lost">vi</supplied><lb break="no" 
 n="22"/> hāra bhaṭārī Ataḥ parānanī <unclear>s</unclear>u<supplied reason="omitted">kha</supplied><unclear>d</unclear>uḥ<unclear>khanya</unclear> kabaiḥ maṅkana A<unclear>nu</unclear><supplied reason="lost">graha śrī mahārā</supplied><lb break="no" 
-n="23"/> ja I rakryān mapatiḥ katag<unclear>u</unclear>ḥhakna saṁ karmmaṇya kabaiḥ <gap reason="ca. 8 aks. lost"/>
-<lb n="24"/> <gap reason="4 aks. lost"/> <unclear>t</unclear>im<supplied reason="lost">b</supplied>anan· vatu <gap reason="3 aks. illegible"/> <gap reason="15 aks. lost"/>
+n="23"/> ja I rakryān mapatiḥ katag<unclear>u</unclear>ḥhakna saṁ karmmaṇya kabaiḥ <gap reason="lost" quantity="8" unit="character"/>
+<lb n="24"/> <gap reason="lost" quantity="4" unit="character"/> <unclear>t</unclear>im<supplied reason="lost">b</supplied>anan· vatu <gap reason="illegible" quantity="3" unit="character"/> <gap reason="lost" quantity="15" unit="character"/>
 </p>
       </div>
       <div type="apparatus">
@@ -157,7 +157,7 @@ n="23"/> ja I rakryān mapatiḥ katag<unclear>u</unclear>ḥhakna saṁ karmma�
           <note>Br, tuhān· kulak· Na.</note>
         </app>
         <app loc="11">
-          <lem><supplied reason="lost">tu</supplied>han· <gap reason="ca. 2 aks. illegible"/></lem>
+          <lem><supplied reason="lost">tu</supplied>han· <gap reason="illegible" quantity="2" unit="character"/></lem>
           <note>(....) Br, (...)pan (...) Na.</note>
         </app>
         <app loc="13">
@@ -201,7 +201,7 @@ n="23"/> ja I rakryān mapatiḥ katag<unclear>u</unclear>ḥhakna saṁ karmma�
           <note>napvi Br Na.</note>
         </app>
         <app loc="18">
-          <lem>mahya<gap reason="ca. 5 aks. lost"/> <supplied reason="lost">timba</supplied>nnan· vatu</lem>
+          <lem>mahya<gap reason="lost" quantity="5" unit="character"/> <supplied reason="lost">timba</supplied>nnan· vatu</lem>
           <note>Given that <foreign>vatu </foreign>is synonymous with <foreign>vuṅkal</foreign>, and the first word ends with <foreign>nnan·</foreign>, we feel some confidence in supplying the first syllables of the toponym. The same toponym is found in the last line of this inscription.</note>
         </app>
         <app loc="19">
@@ -213,7 +213,7 @@ n="23"/> ja I rakryān mapatiḥ katag<unclear>u</unclear>ḥhakna saṁ karmma�
           <note>Br, sukha-dukhanya Na.</note>
         </app>
         <app loc="20">
-          <lem><gap reason="1 aks. illegible"/>taka luIranya</lem>
+          <lem><gap reason="illegible" quantity="1" unit="character"/>taka luIranya</lem>
           <note>{1 aks. illegible}ta kaluIranya Br, {1 aks. illegible}ata kaluIranya Na.</note>
         </app>
         <app loc="22">
