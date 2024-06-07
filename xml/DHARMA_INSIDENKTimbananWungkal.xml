@@ -104,121 +104,137 @@ n="12"/>han· <gap reason="illegible" quantity="2" unit="character" precision="l
 <lb n="14"/> nahan <unclear>pra</unclear>kārani tan· tumamā maminta drabya haji, rikanaṁ kabikuAn· I timbanan· vu<lb break="no" 
 n="15"/> ṅkal·<supplied reason="omitted">,</supplied> kunaṁ parṇnahani sukha-duḥkhanya, ḍaṇḍa-<unclear>kuḍaṇḍa</unclear> maṇḍihālādīkaṁ la<unclear>ḍaṅi,</unclear>
 <lb n="16"/> bubulan· sa<surplus>ṁ</surplus>masa<supplied reason="omitted">m</supplied>byavahāra I salvāni cchāyani tambak· bhaṭārī I heṁ
-<lb n="17"/> I jro I tpĭ makulīliṅan· mo<supplied reason="omitted">n·</supplied> java paraṣi kammir· mva<supplied reason="omitted">ṁ</supplied> siṁ<supplied reason="lost">hala</supplied> <gap reason="lost" quantity="4" unit="character"/>
-<lb n="18"/> Ataḥ pramāṇā Irikā kabaiḥ yāpuAnn ikāṁ nambi mahya<gap reason="lost" quantity="5" unit="character"/> <supplied reason="lost">timba</supplied><lb break="no"
-n="19"/>nnan· vatu mahābhr̥tya Ataḥ parṇnahanya yan uṅguAna ma<gap reason="lost" quantity="8" unit="character"/>
-<lb n="20"/><gap reason="illegible" quantity="1" unit="character"/>taka luIranya kunaṁ sukha-du<supplied reason="omitted">ḥ</supplied>khanya Aṅśa-pratyaṅśādi<gap reason="lost" quantity="8" unit="character"/>
-<lb n="21"/> hanya bhaṭārĭ parānanya satṅaḥ satuhān· <gap reason="illegible" quantity="3" unit="character"/>ka<gap reason="lost" quantity="6" unit="character"/> <supplied reason="lost">vi</supplied><lb break="no" 
+<lb n="17"/> I jro I tpĭ makulīliṅan· mo<supplied reason="omitted">n·</supplied> java paraṣi kammir· mva<supplied reason="omitted">ṁ</supplied> siṁ<supplied reason="lost">hala</supplied> <gap reason="lost" quantity="4" unit="character" precision="low"/>
+<lb n="18"/> Ataḥ pramāṇā Irikā kabaiḥ yāpuAnn ikāṁ nambi mahya<gap reason="lost" quantity="5" unit="character" precision="low"/> <supplied reason="lost">timba</supplied><lb break="no"
+n="19"/>nnan· vatu mahābhr̥tya Ataḥ parṇnahanya yan uṅguAna ma<gap reason="lost" quantity="8" unit="character" precision="low"/>
+<lb n="20"/><gap reason="illegible" quantity="1" unit="character"/>taka luIranya kunaṁ sukha-du<supplied reason="omitted">ḥ</supplied>khanya Aṅśa-pratyaṅśādi<gap reason="lost" quantity="8" unit="character" precision="low"/>
+<lb n="21"/> hanya bhaṭārĭ parānanya satṅaḥ satuhān· <gap reason="illegible" quantity="3" unit="character"/>ka<gap reason="lost" quantity="6" unit="character" precision="low"/> <supplied reason="lost">vi</supplied><lb break="no" 
 n="22"/> hāra bhaṭārī Ataḥ parānanī <unclear>s</unclear>u<supplied reason="omitted">kha</supplied><unclear>d</unclear>uḥ<unclear>khanya</unclear> kabaiḥ maṅkana A<unclear>nu</unclear><supplied reason="lost">graha śrī mahārā</supplied><lb break="no" 
-n="23"/> ja I rakryān mapatiḥ katag<unclear>u</unclear>ḥhakna saṁ karmmaṇya kabaiḥ <gap reason="lost" quantity="8" unit="character"/>
+n="23"/> ja I rakryān mapatiḥ katag<unclear>u</unclear>ḥhakna saṁ karmmaṇya kabaiḥ <gap reason="lost" quantity="8" unit="character" precision="low"/>
 <lb n="24"/> <gap reason="lost" quantity="4" unit="character"/> <unclear>t</unclear>im<supplied reason="lost">b</supplied>anan· vatu <gap reason="illegible" quantity="3" unit="character"/> <gap reason="lost" quantity="15" unit="character"/>
 </p>
       </div>
       <div type="apparatus">
-        <!-- The siglum Br refers to Brandes’ edition and the siglum Na refers to Nakada’s. -->
         <app loc="2">
           <lem>sarat·</lem>
-          <note>saṃvat· Br, saṁvat· Na. Our new reading is supported by the occurrence of the word <foreign>sarat </foreign>in the opening of the Sirah Keting inscription from Kediri period which is likewise paired with the word <foreign>svasthā</foreign>: <foreign>Om̐ svasthā dīrghāyur astu // saṁ hyaṁ viṣṇu sirāśarīra sira riṁ bhuvana subhagavastha riṁ prajā, svastha śrī jayavarṣa-digjayaśāstraprabhu saphala sinəmbah iṁ sarāt·</foreign>.</note>
+          <rdg source="bib:Brandes1913_01">saṃvat·</rdg>
+          <rdg source="bib:Nakada1991_01">saṁvat·</rdg>
+          <note>Our new reading is supported by the occurrence of the word <foreign>sarat </foreign>in the opening of the Sirah Keting inscription from Kediri period which is likewise paired with the word <foreign>svasthā</foreign>: <foreign>Om̐ svasthā dīrghāyur astu // saṁ hyaṁ viṣṇu sirāśarīra sira riṁ bhuvana subhagavastha riṁ prajā, svastha śrī jayavarṣa-digjayaśāstraprabhu saphala sinəmbah iṁ sarāt·</foreign>.</note>
         </app>
         <app loc="3">
           <lem>śukla<surplus>,</surplus>-pakṣ<unclear>ā</unclear></lem>
-          <note>śukla-pakṣā Br, śukla,-pakṣa Na. At the end of this term we have to decide whether to read a punctuation sign or a <foreign>tarung</foreign>. After inspecting the stone and seeing that the stroke in question rises continuously from the <foreign>pasangan</foreign> <foreign>ṣ</foreign>, we tend to favor the former interpretation, which Brandes had already adopted. He had, by the way, ignored the unwanted punctuation sign found in the middle of this compound term.</note>
+          <rdg source="bib:Brandes1913_01">śukla-pakṣā</rdg>
+          <rdg source="bib:Nakada1991_01">śukla,-pakṣa</rdg>
+          <note>At the end of this term we have to decide whether to read a punctuation sign or a <foreign>tarung</foreign>. After inspecting the stone and seeing that the stroke in question rises continuously from the <foreign>pasangan</foreign> <foreign>ṣ</foreign>, we tend to favor the former interpretation, which Brandes had already adopted. He had, by the way, ignored the unwanted punctuation sign found in the middle of this compound term.</note>
         </app>
         <app loc="3">
           <lem><unclear>gai</unclear>va</lem>
-          <note>pon· Br, [v]a[g]a[i][...] Na. Corr. vagai. The space suffices only for two <foreign>akṣara</foreign>s. The first one has <foreign>taling </foreign>and something on top of it, while the second can be read as <foreign>va</foreign>. We hesitantly decide to read it as (<foreign>gai</foreign>)<foreign>va</foreign>, although <foreign>vagai</foreign> must have been intended<foreign>.</foreign> See the detailed discussion on how to deal with the reading of this <foreign>pañcavāra </foreign>in Damais 1951: 55–6.</note>
+          <rdg source="bib:Brandes1913_01">pon·</rdg>
+          <rdg source="bib:Nakada1991_01">[v]a[g]a[i][...]</rdg>
+          <note>Corr. vagai. The space suffices only for two <foreign>akṣara</foreign>s. The first one has <foreign>taling </foreign>and something on top of it, while the second can be read as <foreign>va</foreign>. We hesitantly decide to read it as (<foreign>gai</foreign>)<foreign>va</foreign>, although <foreign>vagai</foreign> must have been intended<foreign>.</foreign> See the detailed discussion on how to deal with the reading of this <foreign>pañcavāra </foreign>in Damais 1951: 55–6.</note>
         </app>
         <app loc="4">
-          <lem>Āhi<supplied reason="lost">r</supplied><unclear>buddhā-deva</unclear>tā</lem>
-          <note>Na, Ātib(u)ddha devatā Br.</note>
+          <lem source="bib:Nakada1991_01">Āhi<supplied reason="lost">r</supplied><unclear>buddhā-deva</unclear>tā</lem>
+          <rdg source="bib:Brandes1913_01">Ātib(u)ddha devatā</rdg>
         </app>
         <app loc="5">
           <lem>mahottuṅgavijaya</lem>
-          <note>(....)ṅgavijaya Br, mahotuṅgavijaya Na.</note>
+          <rdg source="bib:Brandes1913_01">(....)ṅgavijay</rdg>
+          <rdg source="bib:Nakada1991_01">mahotuṅgavijaya</rdg>
         </app>
         <app loc="6">
           <lem>gurun vaṁṅi</lem>
-          <note>gurunvaṅi Br Na.</note>
+          <rdg source="bib:Brandes1913_01 bib:Nakada1991_01">gurunvaṅi</rdg>
         </app>
         <app loc="7">
-          <lem>dharmma</lem>
-          <note>Na, ḍarmma Br.</note>
+          <lem source="bib:Nakada1991_01">dharmma</lem>
+          <rdg source="bib:Brandes1913_01">ḍarmma</rdg>
         </app>
         <app loc="7">
-          <lem>kabikuAn·</lem>
-          <note>Na, kavikuAn· Br.</note>
+          <lem source="bib:Nakada1991_01">kabikuAn·</lem>
+          <rdg source="bib:Brandes1913_01">kavikuAn·</rdg>
         </app>
         <app loc="10">
           <lem>lva</lem>
-          <note>lca Br Na.</note>
+          <rdg source="bib:Brandes1913_01 bib:Nakada1991_01">lca</rdg>
         </app>
         <app loc="11">
-          <lem>tuhān· kutak·</lem>
-          <note>Br, tuhān· kulak· Na.</note>
+          <lem source="bib:Brandes1913_01">tuhān· kutak·</lem>
+          <rdg source="bib:Nakada1991_01">tuhān· kulak·</rdg>
         </app>
         <app loc="11">
           <lem><supplied reason="lost">tu</supplied>han· <gap reason="illegible" quantity="2" unit="character"/></lem>
-          <note>(....) Br, (...)pan (...) Na.</note>
+          <rdg source="bib:Brandes1913_01">(....)</rdg>
+          <rdg source="bib:Nakada1991_01">(...)pan (...)</rdg>
         </app>
         <app loc="13">
           <lem><unclear>k</unclear>i<unclear>r</unclear>i<unclear>m</unclear>it·</lem>
-          <note>{ca. 3 akṣ. unread, reason unknown} Br, kiriṁpik· Na. Normally, what stands between<foreign> sumbul </foreign>and <foreign>pamr̥ṣi </foreign>is <foreign>siṅgaḥ, </foreign>but it is impossible to read that word here. We do not recognize the word that is engraved, but the presence of three <foreign>ulu</foreign>s is rather clear.</note>
+          <rdg source="bib:Brandes1913_01"><gap reason="illegible" quantity="3" unit="character" precision="low"/></rdg>
+          <rdg source="bib:Nakada1991_01">kiriṁpik·</rdg>
+          <note>Normally, what stands between<foreign> sumbul </foreign>and <foreign>pamr̥ṣi </foreign>is <foreign>siṅgaḥ, </foreign>but it is impossible to read that word here. We do not recognize the word that is engraved, but the presence of three <foreign>ulu</foreign>s is rather clear.</note>
         </app>
         <app loc="14">
           <lem>nahan <unclear>pra</unclear>kārani</lem>
-          <note>nahanyakārani Br, nahan ya kārani Na.</note>
+          <rdg source="bib:Brandes1913_01">nahanyakārani</rdg>
+          <rdg source="bib:Nakada1991_01">nahan ya kārani</rdg>
         </app>
         <app loc="16">
           <lem>sa<surplus>ṁ</surplus>masa<supplied reason="omitted">m</supplied>byavahāra</lem>
-          <note>(...) masabyabahāra Br, (s)amasabyabahāra Na. The choice of reading is particularly complicated here. The two options we have considered are to read it as <foreign>saṁ ma⟨⟨sa⟩⟩byavahāra </foreign>or as <foreign>sa⟨⟨ṁ⟩⟩masa⟨m⟩byabahāra. </foreign>Both options pose different problems. The first option, even though redundant engraving of an <foreign>akṣara sa</foreign> may seem relatively unproblematic, implies that the text was intended to read <foreign>mavyavahāra </foreign>(“to be engaged in a court case”), which seem out of place here. The second option yields the expected meaning, with <foreign>masamvyavahāra</foreign>, but implies the omission of the basic consonant in the ligature <foreign>mbya</foreign>, which is quite problematic. Nevertheless, In the end, the second option seems more satisfactory so we tentatively decide to adopt it here.</note>
+          <rdg source="bib:Brandes1913_01">(...) masabyabahāra</rdg>
+          <rdg source="bib:Nakada1991_01">(s)amasabyabahāra</rdg>
+          <note>The choice of reading is particularly complicated here. The two options we have considered are to read it as <foreign>saṁ ma⟨⟨sa⟩⟩byavahāra </foreign>or as <foreign>sa⟨⟨ṁ⟩⟩masa⟨m⟩byabahāra. </foreign>Both options pose different problems. The first option, even though redundant engraving of an <foreign>akṣara sa</foreign> may seem relatively unproblematic, implies that the text was intended to read <foreign>mavyavahāra </foreign>(“to be engaged in a court case”), which seem out of place here. The second option yields the expected meaning, with <foreign>masamvyavahāra</foreign>, but implies the omission of the basic consonant in the ligature <foreign>mbya</foreign>, which is quite problematic. Nevertheless, In the end, the second option seems more satisfactory so we tentatively decide to adopt it here.</note>
         </app>
         <app loc="16">
           <lem>salvāni cchāyani</lem>
-          <note>salvāni cayanī Br, salvāni (...)āya ni Na.</note>
+          <rdg source="bib:Brandes1913_01">salvāni cayan</rdg>
+          <rdg source="bib:Nakada1991_01">salvāni (...)āya ni</rdg>
         </app>
         <app loc="17">
           <lem>makulīliṅan·</lem>
-          <note>makuliliṅan· Br Na.</note>
+          <rdg source="bib:Brandes1913_01 bib:Nakada1991_01">makuliliṅan·</rdg>
         </app>
         <app loc="17">
-          <lem>I tpĭ</lem>
-          <note>Na, tūt pi Br.</note>
+          <lem source="bib:Nakada1991_01">I tpĭ</lem>
+          <rdg source="bib:Brandes1913_01">tūt pi</rdg>
         </app>
         <app loc="17">
           <lem>mo<supplied reason="omitted">n·</supplied></lem>
-          <note>naya Br Na.</note>
+          <rdg source="bib:Brandes1913_01 bib:Nakada1991_01">naya</rdg>
         </app>
         <app loc="17">
           <lem>kammir·</lem>
-          <note>kamlir· Br Na.</note>
+          <rdg source="bib:Brandes1913_01 bib:Nakada1991_01">kamlir·</rdg>
         </app>
         <app loc="17">
           <lem>mva<supplied reason="omitted">ṁ</supplied> siṁ<supplied reason="lost">hala</supplied></lem>
-          <note>masi Br Na. The restitution of <foreign>hala </foreign>is based on the array of foreigners mentioned previously.</note>
+          <rdg source="bib:Brandes1913_01 bib:Nakada1991_01">masi</rdg>
+          <note>The restitution of <foreign>hala </foreign>is based on the array of foreigners mentioned previously.</note>
         </app>
         <app loc="18">
           <lem>nambi</lem>
-          <note>napvi Br Na.</note>
+          <rdg source="bib:Brandes1913_01 bib:Nakada1991_01">napvi</rdg>
         </app>
         <app loc="18">
-          <lem>mahya<gap reason="lost" quantity="5" unit="character"/> <supplied reason="lost">timba</supplied>nnan· vatu</lem>
+          <lem>mahya<gap reason="lost" quantity="5" unit="character" precision="low"/> <supplied reason="lost">timba</supplied>nnan· vatu</lem>
           <note>Given that <foreign>vatu </foreign>is synonymous with <foreign>vuṅkal</foreign>, and the first word ends with <foreign>nnan·</foreign>, we feel some confidence in supplying the first syllables of the toponym. The same toponym is found in the last line of this inscription.</note>
         </app>
         <app loc="19">
-          <lem>mahābhr̥tya</lem>
-          <note>Br, pama(r)avr̥tya Na.</note>
+          <lem source="bib:Brandes1913_01">mahābhr̥tya</lem>
+          <rdg source="bib:Nakada1991_01">pama(r)avr̥tya</rdg>
         </app>
         <app loc="20">
-          <lem>sukha-du<supplied reason="omitted">ḥ</supplied>khanya</lem>
-          <note>Br, sukha-dukhanya Na.</note>
+          <lem source="bib:Brandes1913_01">sukha-du<supplied reason="omitted">ḥ</supplied>khanya</lem>
+          <rdg source="bib:Nakada1991_01">sukha-dukhanya</rdg>
         </app>
         <app loc="20">
           <lem><gap reason="illegible" quantity="1" unit="character"/>taka luIranya</lem>
-          <note>{1 aks. illegible}ta kaluIranya Br, {1 aks. illegible}ata kaluIranya Na.</note>
+          <rdg source="bib:Brandes1913_01"><gap reason="illegible" quantity="1" unit="character"/>ta kaluIranya</rdg>
+          <rdg source="bib:Nakada1991_01"><gap reason="illegible" quantity="1" unit="character"/>ata kaluIranya</rdg>
         </app>
         <app loc="22">
           <lem>parānanī <unclear>s</unclear>u<supplied reason="omitted">kha</supplied><unclear>d</unclear>uḥ<unclear>khanya</unclear></lem>
-          <note>manā (.....) bubulan· Br, manāra(..)ī (.. ..)ula(...)a Na.</note>
+          <rdg source="bib:Brandes1913_01">manā (.....) bubulan·</rdg>
+          <rdg source="bib:Nakada1991_01">manāra(..)ī (.. ..)ula(...)a</rdg>
         </app>
         <app loc="22">
           <lem>A<supplied reason="lost">nugraha śrī mahārā</supplied>ja</lem>
@@ -226,11 +242,12 @@ n="23"/> ja I rakryān mapatiḥ katag<unclear>u</unclear>ḥhakna saṁ karmma�
         </app>
         <app loc="23">
           <lem>katag<unclear>u</unclear>ḥhakna</lem>
-          <note>katagiḥhakna Br, katag(i)ḥhakna Na.</note>
+          <rdg source="bib:Brandes1913_01">katagiḥhakna</rdg>
+          <rdg source="bib:Nakada1991_01">katag(i)ḥhakna</rdg>
         </app>
         <app loc="23">
-          <lem>saṁ karmmaṇya</lem>
-          <note>Na, pakarmmaṇya Br.</note>
+          <lem source="bib:Nakada1991_01">saṁ karmmaṇya</lem>
+          <rdg source="bib:Brandes1913_01">pakarmmaṇya</rdg>
         </app>
       </div>
       <div type="translation" xml:lang="eng">
@@ -252,10 +269,10 @@ n="23"/> ja I rakryān mapatiḥ katag<unclear>u</unclear>ḥhakna saṁ karmma�
         <p>17. Here we have a list of foreign traders from Persia, Khmer and Singhala, which uniquely only figures here in this corpus. It clearly gives us another support of the international trade that was present in the tenth century Java. More discussion on international trade and foreign traders can be consulted in Barrett Jones 1984 (pp. 23–57), Wisseman Christie 1998 and 1999.</p>
       </div>
       <div type="bibliography">
-        <p>The sigla Br and Na refer to Brandes’ and Nakada’s editions, respectively. In view of the fact that the fifth section was read by Kern and Nakada, both of them yielding rather different readings, for this part I use the siglum K, which stands for Kern. </p>
         <listBibl type="primary">
           <bibl n="siglum"/>
-          <!-- one <bibl/> per item of primary bibliography. Every entry mentionned in apparatus  should hava a @n to declare its sigla -->
+          <bibl n="Br"><ptr target="bib:Brandes1913_01"/><citedRange unit="item">XXXV</citedRange><citedRange unit="page">53-54</citedRange></bibl>
+          <bibl n="Na"><ptr target="bib:Nakada1991_01"/><citedRange unit="item">XI</citedRange><citedRange unit="page">16-22</citedRange></bibl>
         </listBibl>
         <listBibl type="secondary">
           <bibl/>
