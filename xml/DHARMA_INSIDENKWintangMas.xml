@@ -8,7 +8,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Wintang Mas II (919-10-12)</title>
+        <title>Wintang Mas II (841 Śaka, 919-10-12)</title>
         <respStmt>
           <resp>EpiDoc Encoding</resp>
           <persName ref="part:tykd">
@@ -32,8 +32,8 @@
       </titleStmt>
       <publicationStmt>
         <authority>DHARMA</authority>
-        <pubPlace>Paris</pubPlace>
-        <idno type="filename">DHARMA_INS07Wintang</idno>
+        <pubPlace>Paris, Surakarta, Jakarta</pubPlace>
+        <idno type="filename">DHARMA_INSIDENKWintang</idno>
         <availability>
           <licence target="https://creativecommons.org/licenses/by/4.0/">
             <p>This work is licenced under the Creative Commons Attribution 4.0 Unported Licence. To view a copy of the licence, visit https://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.</p>
@@ -75,7 +75,8 @@
       </listPrefixDef>
     </encodingDesc>
     <revisionDesc>
-      <change status="draft" when="2023" who="part:mime">Initial encoding of the inscription</change>
+      <change status="draft" when="2024-06-09" who="part:argr part:tykd">started revising the encoding</change>
+      <change status="draft" when="2023-07-01" who="part:mime">import into TEI-XML from googledoc</change>
     </revisionDesc>
   </teiHeader>
   <text xml:space="preserve">
@@ -86,23 +87,21 @@ Cohen Stuart 1875: 30–31 (no. XX).
 Damais 1955: 52.
 Sarkar 1971–72, vol. II: 192–95 (no. LXXXVIII).
 -->
-      <div type="edition" xml:lang="kaw-Latn">
+      <div type="edition" xml:lang="kaw-Latn" rendition="class:38769 maturity:83213">
         <p>
 <!-- Plate 1. Recto. -->
-<lb n="1r1"/> <gap reason="about 23 akṣ. lost"/>-pakṣa, tu, va, śu‚ vāra tatkāla dyaḥ deva, muAṁ dyaḥ babru‚ dyaḥ vijaya‚ sa<unclear>ṁ</unclear> raṇa‚ Uminto<supplied reason="lost">nakan·</supplied>
-<lb n="1r2"/> <supplied reason="lost">tāmra</supplied><unclear>pra</unclear>śast<unclear>i</unclear> <gap reason="12 akṣ."/> <supplied reason="lost">śrī</supplied> <unclear>mahā</unclear>rāja rake h<supplied reason="lost">i</supplied>no pu dakṣa‚ An· tlas· Inanugrahān· Umāryya mamuAt· pirak· I maṅulihi <unclear>I</unclear><supplied reason="lost">rika</supplied>-
-<lb break="no" n="1r3"/> <supplied reason="lost">na</supplied> saṁ hyaṁ dharma I vintaṁ mas· de śrī mahārāja saṁ lumaḥ Iṁ pastika, saṁk<unclear>ā</unclear> yan· sinukr̥ta pamuAt<supplied reason="omitted">n</supplied>ya de samgat· maṅulihi, ḍaṅ ācāryya bhūtī, kunaṁ sahur· śrī mahārā-
-<lb break="no" n="1r4"/> ja, Apa mataṅ yan uvahana Anugraha saṁ devată Iṁ pastika‚ Irikana saṁ hyaṁ dharma I vintaṁ ma<space/>s· kunaṁ buAt-thajinira I bhaṭāra haricandana‚ Iṁ trisamvatsara ya <unclear>ta-</unclear>
-<lb n="1r5"/> n· luptā‚ maṁkana li<supplied reason="lost">ṁ</supplied> śrī mahārāja, Irikanaṁ kāla maṅasiAkan· dyaḥ deva‚ muAṁ dyaḥ babru‚ dyaḥ vijaya<supplied reason="omitted">‚</supplied> vḍihan· yu <num value="1">1</num> I samgat· tiruAn· pu tgaṁ‚ samgat· maṁhūri
-<lb n="1r6"/> pu cakra‚ vineḥ vḍihan· hlai <num value="1">1</num> vandāmi valeṁ vineḥ vḍihan· hlai <num value="1">1</num> samgat· ra hulu vineḥ vḍihan· hlai <num value="1">1</num> // muvaḥ Iṁ śaka <num value="841">841</num> kārttika-māsa tithi pañcādaśi
+<lb n="1r1"/> <gap reason="lost" quantity="23" unit="character" precision="low"/>-pakṣa, tu, va, śu‚ vāra tatkāla dyaḥ deva, muAṁ dyaḥ babru‚ dyaḥ vijaya‚ sa<unclear>ṁ</unclear> raṇa‚ Uminto<supplied reason="lost">nakan·</supplied>
+<lb n="1r2"/> <supplied reason="lost">tāmra</supplied><unclear>pra</unclear>śast<unclear>i</unclear> <gap reason="lost" quantity="12" unit="character" precision="low"/> <supplied reason="lost">śrī</supplied> <unclear>mahā</unclear>rāja rake h<supplied reason="lost">i</supplied>no pu dakṣa‚ An· tlas· Inanugrahān· Umāryya mamuAt· pirak· I maṅulihi <unclear>I</unclear><supplied reason="lost">rika</supplied><lb break="no" 
+n="1r3"/><supplied reason="lost">na</supplied> saṁ hyaṁ dharma I vintaṁ mas· de śrī mahārāja saṁ lumaḥ Iṁ pastika, saṁk<unclear>ā</unclear> yan· sinukr̥ta pamuAt<supplied reason="omitted">n</supplied>ya de samgat· maṅulihi, ḍaṅ ācāryya bhūtī, kunaṁ sahur· śrī mahārā<lb break="no" 
+n="1r4"/>ja, Apa mataṅ yan uvahana Anugraha saṁ devată Iṁ pastika‚ Irikana saṁ hyaṁ dharma I vintaṁ ma<space/>s· kunaṁ buAt-thajinira I bhaṭāra haricandana‚ Iṁ trisamvatsara ya <unclear>ta</unclear><lb 
+n="1r5"/>n· luptā‚ maṁkana li<supplied reason="lost">ṁ</supplied> śrī mahārāja, Irikanaṁ kāla maṅasiAkan· dyaḥ deva‚ muAṁ dyaḥ babru‚ dyaḥ vijaya<supplied reason="omitted">‚</supplied> vḍihan· yu <num value="1">1</num> I <abbr>samgat·</abbr> tiruAn· pu tgaṁ‚ <abbr>samgat·</abbr> maṁhūri
+<lb n="1r6"/> pu cakra‚ vineḥ vḍihan· hlai <num value="1">1</num> vandāmi valeṁ vineḥ vḍihan· hlai <num value="1">1</num> <abbr>samgat·</abbr> ra hulu vineḥ vḍihan· hlai <num value="1">1</num> // muvaḥ Iṁ śaka <num value="841">841</num> kārttika-māsa tithi pañcādaśi
 <lb n="1r7"/> śukla-pakṣa‚ ha<supplied reason="omitted">‚</supplied> po‚ Aṁ‚ vāra pinintonakan· Ikanaṁ tāmrapraśasti, I rakryān· mapatiḥ I hino pu ketuvijaya, saṁkā yan· sinukr̥ta pamuAtnikana saṁ
-<lb n="1r8"/> hyaṁ dharmma Ataḥ de samgat· maṅulihi ḍaṅ Ācāryya bāmadeva‚ ndān· maṁkanātaḥ sahur· rakryān· mapatiḥ makon· Umagǝhakna Anugraha śrī mahārāja saṁ lu-
-<lb break="no" n="1r9"/> <unclear>ma</unclear>ḥ Iṁ pastika, maṅas<unclear>ī</unclear>Akan· dyaḥ deva dyaḥ babru, mas· pagǝḥ su <num value="1">1</num> I rakryān· hino Anakbi‚ rakryān· maputu‚ juru kanayakān· I vuru siki vineḥ vḍi-
-<lb break="no" n="1r10"/> han· hlai <num value="1">1</num> saṁ parujar· vineḥ pirak· mā <num value="4">4</num> vḍihan· <unclear>h</unclear>lai <num value="1">1</num> matǝhǝr· pinakasākṣī, An· pinagǝhakan· Anugraha śrī mahārāja saṁ lumaḥ Iṁ pastika de rakryā-
-@reason="eccentric_ductus"
-The peculiarity of the ductus of <foreign>ha </foreign>lies in the line that connects the upper part of the first line towards the middle line, then continues to form the right foot of <foreign>ha. </foreign>
-<lb n="1r11"/> <supplied reason="lost">n·</supplied> mapatiḥ Irikana saṁ hyaṁ dharma I vintaṁ mas· sākṣī I ḍihyaṁ pitāmaha I hlaḍan·<supplied reason="omitted">,</supplied> pitāmaha I pragaṇita‚ pitāmaha I tgaṁ rāt·<supplied reason="omitted">,</supplied> pitāmaha Iṁ kūpa‚ pasǝk·
-<lb n="1r12"/> <gap reason="about 16 akṣ. wholly or partly lost"/><unclear>ci</unclear>tralekha I tiruAn· saṁ sumaṅka vineḥ pirak· mā <num value="6">6</num> //
+<lb n="1r8"/> hyaṁ dharmma Ataḥ de <abbr>samgat·</abbr> maṅulihi ḍaṅ Ācāryya bāmadeva‚ ndān· maṁkanātaḥ sahur· rakryān· mapatiḥ makon· Umagǝhakna Anugraha śrī mahārāja saṁ lu<lb break="no" 
+n="1r9"/><unclear>ma</unclear>ḥ Iṁ pastika, maṅas<unclear>ī</unclear>Akan· dyaḥ deva dyaḥ babru, mas· pagǝḥ su <num value="1">1</num> I rakryān· hino Anakbi‚ rakryān· maputu‚ juru kanayakān· I vuru siki vineḥ vḍi-
+<lb break="no" n="1r10"/> han· hlai <num value="1">1</num> saṁ parujar· vineḥ pirak· <abbr>mā</abbr> <num value="4">4</num> vḍihan· <unclear>h</unclear>lai <num value="1">1</num> matǝhǝr· pinakasākṣī, An· pinagǝhakan· Anugraha śrī mahārāja saṁ lumaḥ Iṁ pastika de rakryā<lb 
+n="1r11"/><supplied reason="lost">n·</supplied> mapatiḥ Irikana saṁ hyaṁ dharma I vintaṁ mas· sākṣī I ḍihyaṁ pitāmaha I hlaḍan·<supplied reason="omitted">,</supplied> pitāmaha I pragaṇita‚ pitāmaha I tgaṁ rāt·<supplied reason="omitted">,</supplied> pitāmaha Iṁ kūpa‚ pasǝk·
+<lb n="1r12"/> <gap reason="lost" quantity="16" unit="character" precision="low"/><unclear>ci</unclear>tralekha I tiruAn· saṁ sumaṅka vineḥ pirak· <abbr>mā</abbr> <num value="6">6</num> //
 <!-- Plate 1. Verso. -->
 Blank
 </p>
@@ -111,43 +110,49 @@ Blank
         <!-- The siglum CS refers to Cohen Stuart’s edition. -->
         <app loc="1r1">
           <lem>Uminto<supplied reason="lost">nakan·</supplied> <supplied reason="lost">tāmra</supplied><unclear>pra</unclear>śast<unclear>i</unclear></lem>
-          <note>Uminto(nakan·) ... sta CS. Our restoration is inspired by 1r7 <foreign>pinintonakan· Ikanaṁ tāmrapraśasti</foreign>.</note>
+          <rdg source="bib:CohenStuart1875_01">Uminto(nakan·) ... sta</rdg>
+          <note>Our restoration is inspired by 1r7 <foreign>pinintonakan· Ikanaṁ tāmrapraśasti</foreign>.</note>
         </app>
         <app loc="1r1">
           <lem>sa<unclear>ṁ</unclear> rana</lem>
-          <note>saraṇa CS. The word <foreign>saraṇa</foreign> does not make sense in this context. Traces of an <foreign>anusvāra </foreign>are identifiable in the photos above <foreign>sa.</foreign>.</note>
+          <rdg source="bib:CohenStuart1875_01">saraṇa</rdg>
+          <note>The word <foreign>saraṇa</foreign> does not make sense in this context. Traces of an <foreign>anusvāra </foreign>are identifiable in the photos above <foreign>sa.</foreign>.</note>
         </app>
         <app loc="1r2">
-          <lem><supplied reason="lost">tāmra</supplied><unclear>pra</unclear>śast<unclear>i</unclear> <gap reason="12 akṣ."/> <supplied reason="lost">śrī</supplied> <unclear>mahā</unclear>rāja</lem>
-          <note>{some akṣ. lost} sta {some akṣ. lost} (mahārā)ja CS.</note>
+          <lem><supplied reason="lost">tāmra</supplied><unclear>pra</unclear>śast<unclear>i</unclear> <gap reason="lost" quantity="12" unit="character" precision="low"/> <supplied reason="lost">śrī</supplied> <unclear>mahā</unclear>rāja</lem>
+          <rdg source="bib:CohenStuart1875_01">{some akṣ. lost} sta {some akṣ. lost} (mahārā)ja</rdg>
         </app>
         <app loc="1r3">
           <lem><unclear>I</unclear><supplied reason="lost">rikana</supplied> saṁ</lem>
-          <note>{some akṣ. lost} saṁ CS. Our restoration is inspired by the fact that two other occurrences of  <foreign>saṁ hyaṁ dharma I vintaṁ mas</foreign> in this text are preceded by <foreign>Irikana</foreign>. The available space at the end of line 2 and the beginning of line 3 is limited, but may just have been enough to accommodate the supplied <foreign>akṣara</foreign>s. CS does not assume any lost akṣara at the start of line 3.</note>
+          <rdg source="bib:CohenStuart1875_01">{some akṣ. lost} saṁ</rdg>
+          <note>Our restoration is inspired by the fact that two other occurrences of  <foreign>saṁ hyaṁ dharma I vintaṁ mas</foreign> in this text are preceded by <foreign>Irikana</foreign>. The available space at the end of line 2 and the beginning of line 3 is limited, but may just have been enough to accommodate the supplied <foreign>akṣara</foreign>s. CS does not assume any lost akṣara at the start of line 3.</note>
         </app>
         <app loc="1r3">
           <lem>saṁk<unclear>ā</unclear> yan</lem>
-          <note>saṁ kāyan CS. On all occurrences of this expression, CS renders them all as <foreign>saṁ kāyan. </foreign>Though the additional stroke seems really thin, the space between <foreign>k(ā) </foreign>and <foreign>ya </foreign>could confirm that the scribe meant to incise a <foreign>tarung</foreign>. Note from OJED: <foreign>saṅka yan</foreign> 'because of the fact that, seeing that (note the -ā in kak.)'.</note>
+          <rdg source="bib:CohenStuart1875_01">saṁ kāyan</rdg>
+          <note>On all occurrences of this expression, CS renders them all as <foreign>saṁ kāyan. </foreign>Though the additional stroke seems really thin, the space between <foreign>k(ā) </foreign>and <foreign>ya </foreign>could confirm that the scribe meant to incise a <foreign>tarung</foreign>. Note from OJED: <foreign>saṅka yan</foreign> 'because of the fact that, seeing that (note the -ā in kak.)'.</note>
         </app>
         <app loc="1r4">
           <lem>ya <unclear>ta</unclear>n· luptā</lem>
-          <note>yan· luptā CS. Note the frequent occurrence of <foreign>tan lupta </foreign>in OJ texts. The expression is found throughout the history of OJ epigraphy, and also within the Daksa corpus, in the Barahasrama inscription (1r9). Moreover, there is space available for one more than CS read at the end of line 4, and the outline of a <foreign>ta</foreign> seems visible on OD 10027. However, it is true that it might be easier to construe the whole sentence <foreign>apa mataṅ yan uvahana ...</foreign>, <foreign>kunaṅ</foreign> ... <foreign>yan luptā</foreign> without <foreign>tan</foreign>.</note>
+          <rdg source="bib:CohenStuart1875_01">yan· luptā</rdg>
+          <note>Note the frequent occurrence of <foreign>tan lupta </foreign>in OJ texts. The expression is found throughout the history of OJ epigraphy, and also within the Daksa corpus, in the Barahasrama inscription (1r9). Moreover, there is space available for one more than CS read at the end of line 4, and the outline of a <foreign>ta</foreign> seems visible on OD 10027. However, it is true that it might be easier to construe the whole sentence <foreign>apa mataṅ yan uvahana ...</foreign>, <foreign>kunaṅ</foreign> ... <foreign>yan luptā</foreign> without <foreign>tan</foreign>.</note>
         </app>
         <app loc="1r5">
-          <lem>maṅasiAkan·</lem>
+          <lem source="bib:CohenStuart1875_01">maṅasiAkan·</lem>
           <note>corr. maṅasǝAkan·. The same spelling occurs also in line 1v9, and may have been intentional. In the Hujung Galuh  inscription (1v7), we also find this spelling.</note>
         </app>
         <app loc="1r9">
           <lem>vuru siki</lem>
-          <note>curu siki CS. The shape of <foreign>va </foreign>and <foreign>ca </foreign>are often quite similar in this script. CS in his edition actually adopted <foreign>maṅulihi</foreign> instead of <foreign>curu siki. </foreign>The latter string is put inside parentheses with a ‘FS’ notice. It seems that CS mistakenly thought that the plate should have had <foreign>maṅulihi</foreign>.</note>
+          <rdg source="bib:CohenStuart1875_01">curu siki</rdg>
+          <note>The shape of <foreign>va </foreign>and <foreign>ca </foreign>are often quite similar in this script. CS in his edition actually adopted <foreign>maṅulihi</foreign> instead of <foreign>curu siki. </foreign>The latter string is put inside parentheses with a ‘FS’ notice. It seems that CS mistakenly thought that the plate should have had <foreign>maṅulihi</foreign>.</note>
         </app>
         <app loc="1r12">
           <lem>sumaṅka</lem>
-          <note>sujaṅka CS.</note>
+          <rdg source="bib:CohenStuart1875_01">sujaṅka</rdg>
         </app>
         <app loc="1r12">
           <lem>mā</lem>
-          <note>ma CS.</note>
+          <rdg source="bib:CohenStuart1875_01">ma</rdg>
         </app>
       </div>
       <div type="translation" xml:lang="eng">
@@ -161,7 +166,7 @@ Blank
       <div type="commentary">
         <p>1r1 The toponym Maṅulihi is quite interesting. It is found in Maṅulihi (line 7), Wintang Mas I (line 3,7,8) and Barahasrama (1v23). Basically it is attested rarely in the clear context of a toponym, often following or preceding a certain function — the most common one is <foreign>samgat</foreign>. But, we are sure that it refers to a toponym at least in these two examples: <foreign>tuhān I maṅulihi pagar vsi </foreign>(Wintang Mas I, line 8) and <foreign>rāma I maṅulihi si dadhi </foreign>(Barahasrama 1v23).</p>
         <p>1r3 The toponym <foreign>vintaṅ mas </foreign>is only attested in the Wintang Mas I (A3).</p>
-        <p>1r3 The toponym <foreign>pastika </foreign>figures several times since the reign of Kayuwangi, and most likely is mentioned in the context of a religious foundation (<foreign>dharma</foreign>). Cf. Marsmu (1v2) <foreign>kunaṁ paṅansǝAnnanya I dharmma rakryān· I vka I pastika</foreign>, Kwak I (1r4) <foreign>buAt-thajyanya maṁragā kamvaṁ Iṁ pastika, </foreign>Ratawun II (1v3)<foreign> simāniṅ dharma umaḥ iṅ pastika</foreign>, Pastika (inscribed <foreign>liṅga</foreign>) <foreign>tatkālani sīma bhaṭāra I Pastika</foreign>(...)<foreign>, </foreign>Ramwi (1r3) <foreign>kumonnakan· Ikanaṁ dharmma Iṁ pastika dharmma rakarayān· halu pu catura</foreign>;<foreign></foreign>(1r7) <foreign>bhaṭāra i dharmma rake halu i ramvi iṁ pastika aparānanya</foreign>, Munggu Antan (1r2–3) <foreign>saṅ devata I pastika</foreign>. In Balitung corpus, the picture of <foreign>pastika </foreign>as a place where a figure is deified emerges. Cf. Poh (1v3) <foreign>saṁ lumāḥ I pastika</foreign>, (1v5) <foreign>saṁ lumāḥ Iṁ pastika</foreign>. Then, in this charter, the deified figure is revealed, the Great King (1r3). So, the sequence of the foundation at Pastika might be like this: during Kayuwangi’s reign, the foundation is entitled under the name of the Lord of Halu. While in the Balitung period, it becomes the veneration place for a personage which apparently is the former Great King. On the name of the Great King, Poerbatjaraka (1926: 78 n. 2) and Wisseman Christie in her working paper (ed. 2004) argues that it might refer to King Kayuwangi. It is based on the grant made in Wintang Mas I to the villagers of Kapuhunan who no longer had an obligation to the <foreign>dharma </foreign>of Wintang Mas. The obligation hence was transferred to Maṅulihi. Even though the name of the King is not attested in the charter, judging from the time when the edict was issued, which falls under the reign of Kayuwangi, Wisseman Christie perceives that it must refer to him. On the contrary, De Casparis proposes that the King in question must be one of Kayuwangi’s predecessors due to the fact that during Kayuwangi’s reign, he was actively granting privileges to the foundation at Pastika.</p>
+        <p>1r3 The toponym <foreign>pastika </foreign>figures several times since the reign of Kayuwangi, and most likely is mentioned in the context of a religious foundation (<foreign>dharma</foreign>). Cf. Marsmu (1v2) <foreign>kunaṁ paṅansǝAnnanya I dharmma rakryān· I vka I pastika</foreign>, Kwak I (1r4) <foreign>buAt-thajyanya maṁragā kamvaṁ Iṁ pastika, </foreign>Ratawun II (1v3)<foreign> simāniṅ dharma umaḥ iṅ pastika</foreign>, Pastika (inscribed <foreign>liṅga</foreign>) <foreign>tatkālani sīma bhaṭāra I Pastika</foreign>(...)<foreign>, </foreign>Ramwi (1r3) <foreign>kumonnakan· Ikanaṁ dharmma Iṁ pastika dharmma rakarayān· halu pu catura</foreign>;<foreign></foreign>(1r7) <foreign>bhaṭāra i dharmma <abbr>rake</abbr> halu i ramvi iṁ pastika aparānanya</foreign>, Munggu Antan (1r2–3) <foreign>saṅ devata I pastika</foreign>. In Balitung corpus, the picture of <foreign>pastika </foreign>as a place where a figure is deified emerges. Cf. Poh (1v3) <foreign>saṁ lumāḥ I pastika</foreign>, (1v5) <foreign>saṁ lumāḥ Iṁ pastika</foreign>. Then, in this charter, the deified figure is revealed, the Great King (1r3). So, the sequence of the foundation at Pastika might be like this: during Kayuwangi’s reign, the foundation is entitled under the name of the Lord of Halu. While in the Balitung period, it becomes the veneration place for a personage which apparently is the former Great King. On the name of the Great King, Poerbatjaraka (1926: 78 n. 2) and Wisseman Christie in her working paper (ed. 2004) argues that it might refer to King Kayuwangi. It is based on the grant made in Wintang Mas I to the villagers of Kapuhunan who no longer had an obligation to the <foreign>dharma </foreign>of Wintang Mas. The obligation hence was transferred to Maṅulihi. Even though the name of the King is not attested in the charter, judging from the time when the edict was issued, which falls under the reign of Kayuwangi, Wisseman Christie perceives that it must refer to him. On the contrary, De Casparis proposes that the King in question must be one of Kayuwangi’s predecessors due to the fact that during Kayuwangi’s reign, he was actively granting privileges to the foundation at Pastika.</p>
         <p>de Casparis 1992: 484.</p>
         <p>1r4 The mention of deity Haricandana in Old Javanese epigraphic records is divided into two nuances. The first one is in the context of veneration of this deity, as shown in Wintang Mas I and Wintang Mas II. The other one is in the context of the oath formula, commencing around the second quarter of the 10th century onwards, where the deity Haricandana is invoked along with other deities and spirits. Cf Air Kali (6r2), Linggasuntan (B22), Gulung-gulung (c25),  Waharu IV (5v4), Paradah I (2A28), Anjuk Ladang (C6), Alasantan (3r17), Muncang (c25), Wwahan (C7), Cane (d26), Munggut (4.12), Bimalasrama (11v5), Patakan (A26). About the identity of this deity, it has been a matter of debate among scholars working in pre-Islam Java. In his 1916 article which mainly discusses the Dinoyo stone (D. 113 in the Museum), Bosch tried to demonstrate the link between Agastya and Haricandana. The gist of this inscription tells about a King named Gajayana from Kanjuruhan who founded a temple for Agastya and installed a new statue made from a black marble to substitute the old one made from sandalwood (<foreign>devadāru</foreign>). In the course of examining the worship of Agastya, Bosch stumbled upon the mention of this sage in the oath formula from inscriptions coming from the 10th century. He noticed that Agastya always gets mentioned after Haricandana and was questioning why both of these religious figures appear in the beginning of the oath formula. He then came to conclusion that possibly they were once the Great sages venerated in the initial period of Hindu in Java (Bosch 1916: 439). Yet, Bosch still attempted to decode the literal meaning of Haricandana (green/yellow sandalwood) and alluded it to the sandalwood image mentioned in the Dinoyo stone that is possibly referring to Agastya. That point was taken up by Poerbatjaraka (1926:27) to understand the sequence of ”Haricandana Agastya <foreign>mahārṣi</foreign>” in the oath formula as “a yellow sandalwood (image) of the sage Agastya”. To all those attempts to link Haricandana and Agastya, de Casparis refuses to accord and referred to Krom’s argument that Haricandana is still a mysterious figure to us after all.</p>
         <p>Brandes 1913: 1–2 (no. I), Sarkar 1971–72, vol. I: 25–33 (no. IV)</p>
@@ -190,10 +195,9 @@ Blank
         <p>Griffiths 2012: 482, n. 18.</p>
       </div>
       <div type="bibliography">
-        <p>The sigla Br and Na refer to Brandes’ and Nakada’s editions, respectively. In view of the fact that the fifth section was read by Kern and Nakada, both of them yielding rather different readings, for this part I use the siglum K, which stands for Kern. </p>
         <listBibl type="primary">
           <bibl n="siglum"/>
-          <!-- one <bibl/> per item of primary bibliography. Every entry mentionned in apparatus  should hava a @n to declare its sigla -->
+          <bibl n="CS"><ptr target="bib:CohenStuart1875_01"/><citedRange unit="page">30-31</citedRange><citedRange unit="item">XX</citedRange></bibl>
         </listBibl>
         <listBibl type="secondary">
           <bibl/>

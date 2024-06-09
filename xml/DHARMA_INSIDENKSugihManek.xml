@@ -8,7 +8,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Sugih Manek Charter (915-09-13)</title>
+        <title>Sugih Manek Charter (837 Śaka, 915-09-13)</title>
         <respStmt>
           <resp>EpiDoc Encoding</resp>
           <persName ref="part:tykd">
@@ -95,10 +95,10 @@ The edition presented here was made on the basis of direct observation on the st
 -->
       <div type="edition" xml:lang="kaw-Latn" rendition="class:38769 maturity:83213">
 <ab xml:lang="san-Latn"><milestone type="pagelike" unit="face" n="A"/><label>Front</label><!-- §5.4. -->
-<lb n="A1"/> // <num value="0">0</num> // Avighnam astu //</ab>
+<lb n="A1"/> <g type="ddandaCross"/> <g type="circleLarge"/> <g type="ddandaCross"/> Avighnam astu <g type="ddandaCross"/></ab>
 <lg met="āryā" n="1" xml:lang="san-Latn">
 <l n="ab">śivam astu sarvva-jagataḥ para-hita-niratāḥ bhavantu <lb n="A2"/>bhūta-gaṇāḥ</l>
-<l n="cd">doṣāḥ prayāntu nāśaṁ* sarvvatra sukhī bhavatu lokaḥ // 0 //</l>
+<l n="cd">doṣāḥ prayāntu nāśaṁ* sarvvatra sukhī bhavatu lokaḥ <unclear><g type="ddandaCross"/> <g type="circleLarge"/> <g type="ddandaCross"/> Avighnam astu <g type="ddandaCross"/></unclear></l>
 </lg>
 <p>
 <lb n="A3"/>svasti śaka-varṣātīta <num value="837">837</num> Asuji-māsa, tithi dvitīya śukla-pakṣa, <abbr>ma</abbr>, <abbr>po</abbr>, <abbr>bu</abbr>, vāra
