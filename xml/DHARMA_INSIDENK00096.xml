@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bukit Gombak I (1278 Śaka)</title>
+                <respStmt>
+                    <resp>EpiDoc Encoding</resp>
+                    <persName ref="part:argr">
+                       <forename>Arlo</forename>
+                       <surname>Griffiths</surname>
+                    </persName>
+                 </respStmt>
+                 <respStmt>
+                    <resp>intellectual authorship of edition</resp>
+                    <persName ref="part:argr">
+                       <forename>Arlo</forename>
+                       <surname>Griffiths</surname>
+                    </persName>
+                 </respStmt>
+                 <respStmt>
+                    <resp>Conversion of encoding for DHARMA</resp>
+                    <persName ref="part:argr">
+                       <forename>Arlo</forename>
+                       <surname>Griffiths</surname>
+                    </persName>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <authority>DHARMA</authority>
+                 <pubPlace>Jakarta</pubPlace>
+                 <idno type="filename">DHARMA_INSIDENK00096</idno>
+                 <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                       <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
+                             Licence. To view a copy of the licence, visit
+                             https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                             Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                             California, 94041, USA.</p>
+                       <p>Copyright (c) 2019-2025 by Arlo Griffiths.</p>
+                    </licence>
+                </availability>
+                <date from="2019" to="2025">2019-2025</date>
+            </publicationStmt>
+            <sourceDesc><!-- only the handDesc can be filled in at this stage -->
+                <msDesc><!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/><!-- don't modify this -->
+                    </msIdentifier>
+                    <msContents><!-- describe the intellectual content of an inscription -->
+                        <summary><!-- //// NOT MANDATORY  ////--></summary> <!-- offers the possibility to give a summary of the inscription's content -->
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p><!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EGD 11.2. --></p>
+                            <!-- If you need to identify individual hands (EGD §7.5/) in addition to one or more paragraphs of general palaeographic description, wrap <summary> around the <p> or <p>s above, and, outside <summary>, create <handNote> elements for each hand as follows:
+						<summary><p><p/></summary>
+						<handNote xml:id="Pallava00001_hand1"></handNote>
+						<handNote xml:id="Pallava00001_hand2"></handNote>
+					 -->
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
+            </projectDesc>
+            <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/><!-- UPDATE the link once the release is made official -->
+            <listPrefixDef>
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                    <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
+                </prefixDef>
+                <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
+                    <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_idListMembers_v01.xml</ref> file.</p>
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <revisionDesc>
+            <change who="part:argr" when="2024-06-12">initial encoding of the inscription</change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:space="preserve">
+      <body>
+         <div type="edition" xml:lang="omy-Latn">
+            <ab xml:lang="san-Latn"><lb n="01"/>Oṁ <lb n="1"/>subham astu || <g type="circle"/> ||</ab>
+
+<lg met="śārdūlavikrīḍita" n="1" xml:lang="san-Latn">
+<l n="a">svasty astu prabhu-m-advayādmaja-nr̥pā Ādityavarmmaś śriyā | </l>
+<l n="b">vaṅśas-srī-Amarāryya<lb n="2"/><seg met="--"><gap reason="lost" quantity="2" unit="character"/></seg>bira-pāpād ādi-buddhādhikam· |</l>
+<l n="c">maitritvaṁ karuṇā-m-upekṣa-muditā satvopa<lb n="3" break="no"/>kārā-guṇā |</l>
+<l n="d">ya<supplied reason="subaudible">t</supplied> tvaṁ rājasu dharmmarāja kr̥ta<unclear>va</unclear>t· lekhesibātiṣṭati || 0 ||</l>
+</lg>
+
+<lg met="vasantalilakā" n="2" xml:lang="san-Latn">
+<l n="a"><lb n="4"/>śrī-kāmarāja-Adhimukti-sadā-smr̥ti<unclear>ś</unclear> ca |</l>
+<l n="b">nāmnābhiṣeka-sutathāgatabajradheyā |</l>
+<l n="c">A<lb n="5"/><seg met="+"><gap reason="lost" quantity="1" unit="character"/></seg>jña-pañca ṣaḍ-abhijña-supūrṇṇa-gātrā |</l>
+<l n="d">Ādityavarmman nr̥pate Adhirāja-rājaḥ || <g type="circle"/> || </l>
+</lg>
+
+<p>
+svasti ||
+<lb n="6"/>śrīmat· śrī-Udayādityavarmma pratāpa-parākrama rājendra-mauli-maṇivarmmadeva mahārājādhi<lb 
+n="7" break="no"/>rāja | sakala-loka-jana-priya | dharmmarāja-kula-tilaka saraṇāgata-bajra-pañjara | Ekāṅga-vīra | du<lb 
+n="8" break="no"/><unclear>kha</unclear>-nigraha <unclear>dvi</unclear>ṣṭa-paripālaka | saptāṅga-rāja-sampada | maṅuddharaṇa paṭa-puṣṭaka-pratimālaya | yaṁ ta<lb 
+n="9" break="no"/>llaḥ jīrṇṇa pada sapta-svarṇṇabhūmi | diparbvatkan· bihāra nānāvidha-prakāra | saha tāmbak gopura kalampura
+<lb n="10"/>nan· pañcamahāśabda | jalanda barbvat· ja<supplied reason="lost">pa</supplied> <unclear>ho</unclear>ma niyama kr̥yā di paurṇnimāvāsyā di san·mukān daṁ bhi<lb 
+n="11" break="no"/>kṣu brāmhaṇācāryyopāddhyāya | tyāda kopadrava | tyāda māli<unclear>ṁ</unclear> sāmun· | tyāda rabut· rentak·
+<lb n="12"/>sakala-bhaṣya-sampūrṇna | sakyan yaṁ mahima <gap reason="illegible" quantity="3" unit="character"/><seg type="aksara"><seg type="component" subtype="body"><gap reason="illegible" quantity="1" unit="component"/></seg>da</seg> di rasākda dātu | yad atra puṇya bāraṁ yaṁ ha<lb 
+n="13" break="no"/>ndak barbvināśa sāsanenan· sapāpāñaṁ gohattya sapāpāñaṁ māta-pita-drohi | sapāpāña<unclear>ṁ</unclear>
+<lb n="14"/>svāmi-drohi guru-drohi | tuluta yaṁ maṅanumodana dharmmenan· sapuṇyāñaṁ yaṁṅ ūraṁ <unclear>A</unclear>mr̥<lb 
+n="15" break="no"/><unclear>ta-dān</unclear>a | Anna-dāna | sapuṇyāña<surplus>ṁ</surplus> yaṁṅ ūraṁ mātā-pita-bhakti | svāmi-bhakti | sapuṇyāṁña yaṁ<lb 
+n="16" break="no"/><supplied reason="lost">ṅ ūraṁ</supplied> guru-bhakti deva-bhakti | sapuṇyāñaṁ yaṁṅ ūraṁ marakṣa śila pūrṇimāvāsya | Antyāña ma<lb 
+n="17"/>nubhava samyak·-sambuddha-mārgga || <g type="circle"/> // 
+</p>
+
+<lg met="vasantatilakā" n="3" xml:lang="san-Latn">
+<l n="a">satvopakāra-kr̥ta-puṇya sudāna-dharmma |</l>
+<l n="b">jīrṇno<lb n="18" break="no"/><supplied reason="lost">ddhareṇa</supplied> sujanāśraya-puṇya-vr̥kṣaḥ |</l>
+<l n="c">nittya-pratāpa-kiraṇai<unclear>ḥ</unclear> sada-loka-saśri |</l>
+<l n="d">Ādi<lb n="19" break="no"/>ttyavarmma-nr̥pate maṇivarmmadeva // <g type="circle"/> // </l>
+</lg>
+
+<lg met="anuṣṭubh" n="4" xml:lang="san-Latn">
+<l n="a">subham astu gate śāke |</l>
+<l n="b">vasur mmuni-bhuje sthala<lb n="20" break="no"/><unclear>m· |</unclear></l>
+<l n="c">vaiśāke pañcadaśake |</l> 
+<l n="d">site buddhaś ca rañjyatu // <g type="floret"/> //</l>
+</lg>
+
+<p xml:lang="san-Latn">
+kr̥tir iyaṁ Ācāryya A<lb n="21" break="no"/>mpuṅku dharmmaddhvaja-nāmadheyassya | 
+abhiśeka-karuṇābajra // <g type="circle"/> // <g type="gomutraFinal"/></p>
+         </div>
+         <div type="apparatus">
+               <listApp>
+   <app loc="1">
+    <lem>-advayādmaja-</lem>
+    <rdg source="bib:Krom1912_02">-advayāddvaja-</rdg>
+    <note>Understand <foreign>-advayātmaja-</foreign>. Cf. Kuburajo I, l. 2-3.</note></app>
+    <app loc="2">
+        <lem>maitritvaṁ</lem>
+        <rdg source="bib:Krom1912_02">maitritvaṅ</rdg>
+    </app>
+    <app loc="3">
+        <lem>ya<supplied reason="subaudible">t</supplied> tvaṁ</lem> 
+        <rdg source="bib:Krom1912_02">ya tvaṅ</rdg>
+    </app>
+    <app loc="3">
+        <lem>lekhesibātiṣṭati</lem>
+        <rdg source="bib:Krom1912_02">lekhesibātiṣthati</rdg>
+        <note>Is the intended reading perhaps <foreign>lekhe silā tiṣṭati</foreign>, in the sense of <foreign>śilālekhe tiṣṭhati</foreign>? Cf. Saruaso II, pāda a and Gudam I, st. IIId.</note>
+    </app>
+    <app loc="4">
+        <lem>-smr̥ti<unclear>ś</unclear> ca | nāmnābhi-</lem>
+        <rdg source="bib:Krom1912_02">-smr̥ti<gap reason="undefined" unit="character" quantity="1"/> nāmābhi-</rdg>
+    </app>
+    <app loc="5">
+        <lem>A<lb n="5"/><seg met="+"><gap reason="lost" quantity="1" unit="character"/></seg>jña-pañca</lem>
+       <rdg source="bib:Krom1912_02">A<lb n="5"/><seg type="aksara"><seg type="component" subtype="body"><gap reason="undefined" quantity="1" unit="component"/></seg>ā</seg>jñapañca</rdg>
+        <note>The illegible <foreign>akṣara</foreign> must begin with consonant combination, because the first syllable of the <foreign>pāda</foreign> must be long. I first thought that I could read <foreign>Abhijñapañca</foreign>, but this would be unmetrical.</note>
+    </app>
+    <app loc="6">
+        <lem>-Udayādityavarmma</lem>
+        <rdg source="bib:Krom1912_02">-A<gap reason="undefined" quantity="1" unit="character"/>yādityavarmma</rdg>
+        <note>Cf. Rambahan, l. 14-15.</note>
+    </app>
+	<app loc="7">
+        <lem>du<lb n="8" break="no"/><unclear>kha</unclear>-nigraha <unclear>dvi</unclear>ṣṭa-</lem>
+        <rdg source="bib:Krom1912_02">du<lb n="5"/><gap reason="undefined" quantity="1" unit="character"/><seg type="aksara"><seg type="component" subtype="body"><gap reason="undefined" quantity="1" unit="component"/></seg>i</seg>graha<gap reason="lost" quantity="1" unit="character"/>riṣṭha-</rdg>
+    </app>
+	<app loc="8">
+        <lem>saptāṅga-rāja-sampada</lem>
+        <rdg source="bib:Krom1912_02">saptāṅgarājasayada</rdg> 
+        <note><foreign>saptāṅga-rāj(y)a</foreign> and <foreign>rāja-sampad-/-sampatti-/-sampada</foreign> are fairly well attested in Sanskrit sources. The concepts seem to be merged here.</note>
+    </app>
+	<app loc="8">
+        <lem>ta<lb n="9" break="no"/>llaḥ</lem>
+        <rdg source="bib:Krom1912_02">ta<lb n="9"/>lmaḥ</rdg>
+    </app>
+	<app loc="10">
+        <lem>jalanda</lem>
+        <rdg source="bib:Krom1912_02">jala<seg type="aksara">n<seg type="component" subtype="conjunct"><gap reason="undefined" quantity="1" unit="component"/></seg></seg></rdg>
+        <note>It seems that this may be an error for <foreign>śilanda</foreign>. Cf. l. 16.</note>
+    </app>
+	<app loc="10">
+        <lem>ja<supplied reason="lost">pa</supplied> <unclear>ho</unclear>ma niyama kr̥yā</lem>
+        <rdg source="bib:Krom1912_02">ja<gap reason="undefined" unit="character" quantity="1"/><seg type="aksara"><seg type="component" subtype="body"><gap reason="undefined" quantity="1" unit="component"/></seg>ā</seg>maniyamakr̥yā</rdg>
+        <note>On the spelling <foreign>kr̥yā</foreign> for <foreign>kriyā</foreign>, see Rambahan, l. 13.</note>
+    </app>
+	<app loc="10">
+        <lem>paurṇnimāvāsyā di</lem>
+        <rdg source="bib:Krom1912_02">paurṇnamāvāsyādi</rdg>
+    </app>
+	<app loc="10">
+        <lem>san·mukān daṁ bhi<lb n="11" break="no"/>kṣu</lem>
+        <rdg source="bib:Krom1912_02">san mukhāndha<gap reason="undefined" unit="character" quantity="2"/></rdg>
+        <note>Read <foreign>sammukhāndaṁ</foreign>.</note>
+    </app>
+	<app loc="12">
+        <lem>-bhaṣya-</lem>
+        <rdg source="bib:Krom1912_02"><gap reason="undefined" unit="character" quantity="1"/>ṣya</rdg>
+    </app>
+	<app loc="12">
+        <lem>mahima <gap reason="illegible" quantity="3" unit="character"/><seg type="aksara"><seg type="component" subtype="body"><gap reason="illegible" quantity="1" unit="component"/></seg>da</seg> di rasākda dātu</lem>
+        <rdg source="bib:Krom1912_02">mahima <gap reason="undefined" quantity="3" unit="character"/><seg type="aksara"><seg type="component" subtype="body"><gap reason="undefined" quantity="1" unit="component"/></seg>da</seg>divasā<seg type="aksara"><seg type="component" subtype="body"><gap reason="undefined" quantity="1" unit="component"/></seg>dā</seg>dātu</rdg>
+    </app>
+	<app loc="12">
+         <lem>puṇya</lem>
+         <rdg source="bib:Krom1912_02">puṇyaṁ</rdg>
+    </app>
+	<app loc="14">
+        <lem><unclear>A</unclear>mr̥<lb n="15" break="no"/><unclear>ta-dān</unclear>a | Anna-dāna |</lem>
+        <rdg source="bib:Krom1912_02"><gap reason="undefined" unit="character" quantity="1"/>mr̥<lb n="15" break="no"/>ta
+            <gap reason="undefined" unit="character" quantity="1"/><supplied reason="undefined">na</supplied> Anna-dāna |</rdg>
+        <note>The execution of <foreign>A</foreign> is unusually compact, but given the inward top bend of the right vertical bar, this cannot be <foreign>ma</foreign> (the only other option which occurred to me), and the context rather clearly requires <foreign>A</foreign>. It seems likely that the engraver actually wrote <foreign>Amr̥tādāna</foreign>, but <foreign>tā</foreign> would be in that case be a substandard spelling.<!--‘mistake’ (to use a word much criticized by Damais 1968)--></note>
+    </app>
+	<app loc="15">
+        <lem>sapuṇyāña<surplus>ṁ</surplus> yaṁṅ ūraṁ</lem>
+        <rdg source="bib:Krom1912_02">sapuṇyāñaṅ yaṅ ṅūraṅ</rdg>
+        <note>Consonant gemination in <foreign>yaṁṅ</foreign>, understand <foreign>yaṅ</foreign>.</note>
+    </app>
+    <app loc="15">
+        <lem>sapuṇyāṁña yaṁ<lb n="16" break="no"/><supplied reason="lost">ṅ ūraṁ</supplied> guru-</lem>
+        <rdg source="bib:Krom1912_02">sapuṇyāñayaṅ<lb n="16" break="no"/><gap reason="undefined" unit="character" quantity="3"/>ru-</rdg>
+    </app>
+	<app loc="16">
+        <lem>pūrṇimāvāsya</lem>
+        <rdg source="bib:Krom1912_02">pūrṇamāvāsya</rdg>
+    </app>
+    <app loc="17">
+        <lem>jīrṇno<lb n="18" break="no"/><supplied reason="lost">ddhareṇa</supplied> sujanāśraya-</lem>
+        <rdg source="bib:Krom1912_02">jīrṇno<lb n="18" break="no"/><gap reason="undefined" quantity="3" unit="character"/>yajanaśraya-</rdg>
+        <note>My restitution is a guess but seems to be in conformity with the traces that remain visible, and makes for structural parallelism with <foreign>pāda</foreign> c.</note>
+    </app>
+	<app loc="18">
+        <lem>puṇya-vr̥kṣaḥ | nittya-</lem> 
+        <rdg source="bib:Krom1912_02">-puṇyavr̥kṣamanittya-</rdg>
+    </app>
+	<app loc="18">
+        <lem>-kiraṇai<unclear>ḥ</unclear> sada-loka-saśri</lem>
+        <rdg source="bib:Krom1912_02">-kiraṇai sa<gap reason="undefined" quantity="1" unit="character"/>lokasaśrī</rdg>
+    </app>   
+</listApp>
+         </div>
+         <div type="translation" resp="part:argr">
+ 	<!--translation encoded as per EGD §9.2 -->
+         </div>
+         <div type="commentary">
+            <!--commentary encoded as per section §9.3 -->
+         </div>
+        <div type="bibliography">
+	<!--bibliography encoded as per section §9.4 -->
+           <p><!-- formulate epigraphic lemma here, using the items of primary bibliography --></p>
+        	<listBibl type="primary">
+				<bibl n="K"><ptr target="bib:Krom1912_02"/><citedRange unit="item">I</citedRange></bibl>
+                <bibl n="B"><ptr target="bib:Brandes1913_01"/><citedRange unit="page">258-259</citedRange><citedRange unit="item">CXXII</citedRange></bibl>
+			</listBibl>
+           <listBibl type="secondary">
+              <bibl/><!-- one <bibl/> per item of secondary bibliography -->
+           </listBibl>
+        </div>
+      </body>
+  </text>
+</TEI>
