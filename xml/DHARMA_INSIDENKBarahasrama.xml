@@ -8,7 +8,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Barahasrama (915-12-14)</title>
+        <title>Barahasrama (837 Śaka, 915-12-14)</title>
         <respStmt>
           <resp>EpiDoc Encoding</resp>
           <persName ref="part:tykd">
@@ -32,8 +32,8 @@
       </titleStmt>
       <publicationStmt>
         <authority>DHARMA</authority>
-        <pubPlace>Paris</pubPlace>
-        <idno type="filename">DHARMA_INS09Barahasrama</idno>
+        <pubPlace>Paris, Surakarta, Jakarta</pubPlace>
+        <idno type="filename">DHARMA_INSIDENKBarahasrama</idno>
         <availability>
           <licence target="https://creativecommons.org/licenses/by/4.0/">
             <p>This work is licenced under the Creative Commons Attribution 4.0 Unported Licence. To view a copy of the licence, visit https://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.</p>
@@ -75,7 +75,8 @@
       </listPrefixDef>
     </encodingDesc>
     <revisionDesc>
-      <change status="draft" when="2023" who="part:mime">Initial encoding of the inscription</change>
+      <change status="draft" when="2024-06-12" who="part:argr part:tykd">started revising the encoding</change>
+      <change status="draft" when="2023-07-01" who="part:mime">import into TEI-XML from googledoc</change>
     </revisionDesc>
   </teiHeader>
   <text xml:space="preserve">
@@ -85,7 +86,7 @@ The first edition of this plate was published by Cohen Stuart (1875) which was l
 Cohen Stuart 1875: 27–29 (no. XVII).
 Sarkar 1971–72, vol. II: 183–91 (no. LXXXVII).
 -->
-      <div type="edition" xml:lang="kaw-Latn">
+      <div type="edition" xml:lang="kaw-Latn" rendition="class:38769 maturity:83213">
         <p>
 <!-- Plate 1. Recto -->
 Blank
