@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Bukit Gombak I (1278 Śaka)</title>
+                <title>Stela from Bukit Gombak (N. 96), 1278 Śaka</title>
                 <respStmt>
                     <resp>EpiDoc Encoding</resp>
                     <persName ref="part:argr">
@@ -290,13 +290,13 @@ Final prose paragraph: this type of colophon is found also in Buddhist texts in 
             -->
          </div>
         <div type="bibliography">
-           <p>First deciphered, translated and furnish with a commentary by R. H. Th. Friederich (<bibl rend="omitname"><ptr target="bib:Friederich1854-1857_01"/></bibl>); interpretation of the Sanskrit parts improved by H. Kern (<bibl rend="omitname"><ptr target="bib:Kern1873_01"/></bibl>, <bibl rend="omitname"><ptr target="bib:Kern1917_05"/></bibl>); deciphered again by N. J. Krom (<bibl rend="omitname"><ptr target="bib:Krom1912_02"/></bibl>) and J. Brandes (<bibl rend="omitname"><ptr target="bib:Brandes1913_01"/></bibl>). In none of these publications was the presence of a subtantial portion in Old Malay clearly acknow Re-edited here by Arlo Griffiths from the EFEO estampages n. 2027, 2021, 2020, and furnished with a new translation.</p>
+           <p>First deciphered, translated and furnished with a commentary by R. H. Th. Friederich (<bibl rend="omitname"><ptr target="bib:Friederich1854-1857_01"/></bibl>); interpretation of the Sanskrit parts improved by H. Kern (<bibl rend="omitname"><ptr target="bib:Kern1873_01"/></bibl>, <bibl rend="omitname"><ptr target="bib:Kern1917_05"/></bibl>); deciphered again by N. J. Krom (<bibl rend="omitname"><ptr target="bib:Krom1912_02"/></bibl>) and J. Brandes (<bibl rend="omitname"><ptr target="bib:Brandes1913_01"/></bibl>). In none of these publications was the presence of a subtantial portion in Old Malay clearly acknow Re-edited here by Arlo Griffiths from the EFEO estampages n. 2027, 2021, 2020, and furnished with a new translation.</p>
         	<listBibl type="primary">
                 <bibl n="Fr"><ptr target="bib:Friederich1854-1857_01"/><citedRange unit="page">31-75</citedRange></bibl>
                 <bibl n="Ke"><ptr target="bib:Kern1873_01"/></bibl>
 				<bibl n="Kr"><ptr target="bib:Krom1912_02"/><citedRange unit="item">I</citedRange></bibl>
                 <bibl n="Br"><ptr target="bib:Brandes1913_01"/><citedRange unit="page">258-259</citedRange><citedRange unit="item">CXXII</citedRange></bibl>
-                <bibl><ptr target="bib:Kern1917_05"/></bibl>
+                <bibl n="Ke"><ptr target="bib:Kern1917_05"/></bibl>
 			</listBibl>
            <listBibl type="secondary">
               <bibl><ptr target="bib:Krom1912_01"/><citedRange unit="item">23</citedRange></bibl><!-- 

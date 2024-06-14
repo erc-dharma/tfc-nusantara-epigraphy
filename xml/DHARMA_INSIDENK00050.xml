@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Pillar from Kota Kapur (N. 50), 608 Śaka</title>
+                <respStmt>
+                    <resp>EpiDoc Encoding</resp>
+                    <persName ref="part:argr">
+                       <forename>Arlo</forename>
+                       <surname>Griffiths</surname>
+                    </persName>
+                 </respStmt>
+                 <respStmt>
+                    <resp>intellectual authorship of edition</resp>
+                    <persName ref="part:argr">
+                       <forename>Arlo</forename>
+                       <surname>Griffiths</surname>
+                    </persName>
+                 </respStmt>
+                 <respStmt>
+                    <resp>Conversion of encoding for DHARMA</resp>
+                    <persName ref="part:argr">
+                       <forename>Arlo</forename>
+                       <surname>Griffiths</surname>
+                    </persName>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <authority>DHARMA</authority>
+                 <pubPlace>Jakarta</pubPlace>
+                 <idno type="filename">DHARMA_INSIDENK00050</idno>
+                 <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                       <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
+                             Licence. To view a copy of the licence, visit
+                             https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                             Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                             California, 94041, USA.</p>
+                       <p>Copyright (c) 2019-2025 by Arlo Griffiths.</p>
+                    </licence>
+                </availability>
+                <date from="2019" to="2025">2019-2025</date>
+            </publicationStmt>
+            <sourceDesc><!-- only the handDesc can be filled in at this stage -->
+                <msDesc><!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/><!-- don't modify this -->
+                    </msIdentifier>
+                    <msContents><!-- describe the intellectual content of an inscription -->
+                        <summary><!-- //// NOT MANDATORY  ////--></summary> <!-- offers the possibility to give a summary of the inscription's content -->
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p><!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EGD 11.2. --></p>
+                            <!-- If you need to identify individual hands (EGD §7.5/) in addition to one or more paragraphs of general palaeographic description, wrap <summary> around the <p> or <p>s above, and, outside <summary>, create <handNote> elements for each hand as follows:
+						<summary><p><p/></summary>
+						<handNote xml:id="Pallava00001_hand1"></handNote>
+						<handNote xml:id="Pallava00001_hand2"></handNote>
+					 -->
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
+            </projectDesc>
+            <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/><!-- UPDATE the link once the release is made official -->
+            <listPrefixDef>
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                    <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
+                </prefixDef>
+                <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
+                    <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_idListMembers_v01.xml</ref> file.</p>
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <revisionDesc>
+            <change who="part:argr" when="2024-06-14">started encoding the inscription</change>
+         </revisionDesc>
+    </teiHeader>
+    <text xml:space="preserve">
+      <body>
+         <div type="edition" xml:lang="omy-Latn">
+            <p xml:lang="und-Latn"><lb n="1"/><g type="spiralR"/> <g type="ddanda"/> siddha <g type="ddanda"/> titaṁ hamvan· vari Avai <g type="circleMed">.</g> kandra kāyet nipaihumpaAn· namuha Ulu lavan tandrun· luAḥ makamatai tandrun· luAḥ vinunu paihumpaAn· hakairu muAḥ kāyet nihumpa Unai tuṅai <unclear cert="low"><g type="circleMed">.</g></unclear> <lb n="2"/>Umenteṁ bhaktī niUlun· haraki <g type="circleMed">.</g> Unai tuṅai <g type="ddanda"/></p> 
+            <p>kita savañakta devata mahardhika sannidhāna <g type="circleMed">.</g> maṁrakṣa yaṁ kadatuAn· śrīvijaya <g type="circleMed">.</g> kita tuvi tandrun· luAḥ vañakta devata mūlāña yaṁ parsumpahan· 
+            <lb n="3"/>parāvis· <g type="circleMed">.</g> kadāci yaṁ Uraṁ di dalaṁña bhūmi parāvis· drohaka vāṅun· <g type="circleMed">.</g> samavuddhi lavan· drohaka <g type="circleMed">.</g> maṅujāri drohaka <g type="circleMed">.</g> niUjāri drohaka tāhu din drohaka <g type="circleMed">.</g> tīda ya 
+            <lb n="4"/> marpādaḥ tīda ya bhakti <g type="circleMed">.</g> tīda ya tatvārjjava diy āku <g type="circleMed">.</g> dṅan· di Iyaṁ nigalarku sanyāsa datūA <g type="circleMed">.</g> <seg rend="check">dhava</seg> vuAtña Uraṁ Inan· <g type="circleMed">.</g> nivunuḥ ya sumpaḥ nisuruḥ tāpik ya mulaṁ pa<space type="descender"/>rvvāṇḍan dātu śrīvi<lb break="no" 
+            n="5"/>jaya <g type="circleMed">.</g> tālu muAḥ ya dṅan· gotra-santānāña <g type="circleMed">.</g> tathāpi savañakña yaṁ vuAtña jāhat· <g type="circleMed">.</g> makalaṅit· Uraṁ <g type="circleMed">.</g> makasākit· <g type="circleMed">.</g> makagīla <g type="circleMed">.</g> mantrāgada viṣaprayoga <g type="circleMed">.</g> Ūpuḥ tūva <g type="circleMed">.</g> tāmval· 
+            <lb n="6"/>sarāmvat· <g type="circleMed">.</g> kasīhan· <g type="circleMed">.</g> vaśīkaraṇa <g type="circleMed">.</g> Ityevamādi <g type="circleMed">.</g> jāṅan· muAḥ ya siddha <g type="circleMed">.</g> pulaṁ ka Iya muAḥ yaṁ doṣāña vuAtña jāhat· Inan· <g type="circleMed">.</g> tathāpi nivunuḥ ya sumpaḥ <g type="circleMed">.</g> tuvi mulaṁ yaṁ mañu<lb 
+            n="7" break="no"/>ruḥ marjjahāti <g type="circleMed">.</g> yaṁ marjjahāti yaṁ vātu nipratiṣṭha Ini tuvi nivunuḥ ya sumpaḥ tālu muAḥ ya mulaṁ <g type="circleMed">.</g> sāraṁbhāña Uraṁ drohaka tida bhakti tida tatvārjjava diy āku dhava vuA<lb 
+            n="8" break="no"/>tña nivunuḥ ya sumpaḥ <g type="circleMed">.</g> Ini graṁ kadāci Iya bhakti tatvārjjava diy āku <g type="circleMed">.</g> dṅan· di yaṁ nigalarku sanyāsa datūA <g type="circleMed">.</g> śānti muAḥ kavuAtāña <g type="circleMed">.</g> dṅan· gotra-santānāñā <g type="circleMed">.</g> 
+            <lb n="9"/>samr̥ddha svastha niroga nirupadrava subhikṣa muAḥ yaṁ vanuĀña parāvis· <g type="ddandaHooked"/></p> 
+            <p>śaka-varṣātīta <num value="608">608</num> diṁ pratipada śukla-pakṣa vulan· vaiśākha <g type="circleMed">.</g> tatkālāña 
+            <lb n="10"/>yaṁ maṁmaṁ sumpaḥ Ini <g type="circleMed">.</g> nipāhat· di velāña yaṁ vala śrīvijaya kalivat· manāpik· yaṁ bhūmi jāva tida bhakti ka śrīvijaya <g type="circleMed">.</g> <g type="ddandaHooked"/> <g type="dot3Vert"/> <g type="ddanda"/> <g type="floretQuatrefoil"/> <g type="ddanda"/> <g type="dot3Vert"/> <g type="ddanda"/> <g type="gomutraFinal"/></p>
+         </div>
+         <div type="apparatus">
+               <listApp>
+                  <app loc="3">
+                     <lem>vāṅun·</lem>
+                     <rdg source="bib:Coedes1930_01">haṅun·</rdg>
+                  </app>
+                  <app loc="8">
+                    <lem>graṁ</lem>
+                    <rdg source="bib:Coedes1930_01">graṅ</rdg>
+                  </app>
+                     <!-- 
+Notes
+1. The liminal sign rendered by @ can probably be interpreted as siddham.
+1. titaṁ: see note 1 in Boechari 1979, p. 21.
+3. dalaṁña: this is evidence relevant for the general parameters of interpretation of anusvāra.
+3. Note din drohaka where KB has diṁ drohaka (see note 6 Cœdès): this is evidence relevant for the general parameters of interpretation of anusvāra, and the use of homorganic nasal for anusvāra is probably a case of hypersanskritism.
+4. Cœdès’ note 7 confuses the readings of KK (marpādaḥ) and KB (marppādaḥ). The photos available would allow reading tīda yaṁ tatvārjjava, but the apparent anusvāra may well be no more than a spot of damage on the stone.
+5. Cœdès reads upuḥ tūva, and his note 4 on this reading contains a curious mistake. Instead of his tūva ipuḥ, one must presumably read ipuḥ tūva. OR HE HAS CONFUSED III AND IV.
+6. Cœdès places the dot between sarāmvat· and kasīhan· in brackets, which means the sign would only be present in Karang Brahi. This is incorrect. Kota Kapur clearly displays it too.
+7. sāraṁbhāña: this is evidence relevant for the general parameters of interpretation of anusvāra.
+                     -->
+               </listApp>
+         </div>
+         <div type="translation">
+ 	<!--translation encoded as per EGD §9.2 -->
+         </div>
+         <div type="commentary">
+            <!--commentary encoded as per section §9.3 -->
+         </div>
+        <div type="bibliography">
+           <p>Text (Arlo Griffiths, March 2010), based on the edition by Cœdès, BEFEO 1930, verified on the basis of photos of the same EFEO (uninked) estampage used by Cœdès, and photos furnished by Véronique Degroot.
+           </p>
+        	<listBibl type="primary">
+				<bibl n="C"><ptr target="bib:Coedes1930_01"/><citedRange unit="item">IV</citedRange><citedRange unit="page">46-50</citedRange></bibl>
+			</listBibl>
+           <listBibl type="secondary">
+              <bibl/><!-- one <bibl/> per item of secondary bibliography -->
+           </listBibl>
+        </div>
+      </body>
+  </text>
+</TEI>
