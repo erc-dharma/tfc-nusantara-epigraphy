@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Garaman</title>
+            <respStmt>
+               <resp>EpiDoc encoding</resp>
+               <persName ref="part:ekba">
+                  <name>Eko Bastiawan</name>
+               </persName>
+               <persName ref="part:argr">
+                  <forename>Arlo</forename>
+                  <surname>Griffiths</surname>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>intellectual authorship of edition</resp>
+                <persName ref="part:argr">
+                  <forename>Arlo</forename>
+                  <surname>Griffiths</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>DHARMA</authority>
+            <pubPlace>Malang; Jakarta</pubPlace>
+            <idno type="filename">DHARMA_INSIDENKGaraman</idno>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/">
+                  <p>This work is licenced under the Creative Commons Attribution 4.0 Unported Licence. To view a copy of the licence, visit https://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.</p>
+                  <p>Copyright (c) 2019-2025 by Arlo Griffiths</p>
+               </licence>
+            </availability>
+            <date from="2019" to="2025">2019-2025</date>
+         </publicationStmt>
+         <sourceDesc><!-- only the handDesc can be filled in at this stage -->
+            <msDesc><!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
+               <msIdentifier>
+                  <repository>DHARMAbase</repository>
+                  <idno/>
+                  <!-- don't modify this -->
+               </msIdentifier>
+               <msContents><!-- describe the intellectual content of an inscription -->
+                  <summary><!-- //// NOT MANDATORY  ////--></summary>
+                  <!-- offers the possibility to give a summary of the inscription's content -->
+               </msContents>
+               <physDesc>
+                  <handDesc>
+                     <p>The use of layar is normally in Indian mode, but Indonesian mode is also found at least once (and marked with = as per TG 3.8.8).</p>
+                     <p>The lowest level punctuation sign, provisionally represented here by ",", takes the shape of a median dot.</p>
+                  </handDesc>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>The project DHARMA has received funding from the European Research Council (ERC)
+                        under the European Union's Horizon 2020 research and innovation programme (grant
+                        agreement no 809994).</p>
+         </projectDesc>
+         <schemaRef type="guide"
+                    key="EGDv01"
+                    url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+         <listPrefixDef>
+            <prefixDef ident="bib"
+                       matchPattern="([a-zA-Z0-9\-\_]+)"
+                       replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+               <p>Public URIs with the prefix bib to point to a Zotero Group Library named
+                            ERC-DHARMA whose data are open to the public.</p>
+            </prefixDef>
+            <prefixDef ident="part"
+                       matchPattern="([a-z]+)"
+                       replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+               <p>Internal URIs using the part prefix to point to person elements in the
+                            <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
+            </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <revisionDesc>
+          <change who="part:ekba" when="2024-07-03" status="draft">creation initial encoding of the inscription</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:space="preserve">
+      <body>
+         <div type="edition" xml:lang="kaw-Latn" rendition="class:38769 maturity:83213">
+<pb n="1r"/><!-- blank -->
+<p><pb n="1v"/><fw place="left" rend="tb-rotated" n="1v"><num value="1">1</num></fw><lb n="1v1"/><g type="ddandaOrnate"/> <g type="ddandaOrnate"/> svasti śaka-varṣātĭta, <num value="975">975</num>, śravaṇa-māsa, tīthī, Aṣṭami śukla-pakṣa, <abbr>pā</abbr>, <abbr>va</abbr>, <abbr>ca</abbr>, vāra, juluṁ, A<lb n="1v2" break="no"/>nurădha-nakṣatra, mit<subst><del rend="corrected">e</del><add place="overstrike">ra</add></subst>-devata, vavā-karaṇa, grahacāra băyyabyastha, mahendra-maṇḍala, Irika divaśany ā<lb n="1v3" break="no"/>jñā pāduka śrī mahārāja, rake halu, Umiṅsor· Iri taṇḍa rakryān· ri pakira-kiran· makabehan·,
+<lb n="1v4"/>rakryān· jasun· vuṅkal· pu gudir·, rakryān· sraṅan· pu Utiṁ, rakryān· kanuruhan· pu raṇa-sthira-maṇa-ripu<g type="squiggleVertical">§</g><lb n="1v5" break="no"/>kulāntaka, kumonakən· Irikanaṁ karamān· Iṅ garamān·, thāni vatək· Air thāni, padamlakna saṁ hyaṅ ājñā ha<lb n="1v6" break="no"/>ji praśāsti, sambandha, Ikanaṁ karamān· Iṅ garamān·, mampak-ampak· manambah i lbuniṁ pāduka śrī mahārāja, maṁhyaṁ
+<lb n="1v7"/>I knohanyan· sumĭma thāninya, kapaṅgīha kalilirananiṁ vka-vetnya mne hləm· ri dlāhaniṁ dlāha, ma<surplus>ṅ</surplus>kanimita
+<lb n="1v8"/>saṅkā ri manastǎpanikanaṁ karamān· Iṅ garamān·, tan kasambut· svakarmmanya ri kahambəknya<supplied reason="omitted">,</supplied> nyan· deniṁ tan pă<g type="squiggleVertical">§</g><lb n="2r1" break="no"/>ntaran tikanə ḍataṁnikanə śatru, tan· hana saṅkaniṁ paṁṅhuniṁṅānya ri kāyadhara, ṅuniveḥ sădhunyan· <g type="squiggleVertical">§</g>
+<lb n="2r2"/>tumaṅga-tuṅga ri ḍataṁnikanaṁ śatru, maṅkana rasani panəmbaḥnikanaṁ karamān· Iṅ garamān· I pāduka śrī ma<lb n="2r3" break="no"/>hārāja, kunaṁ saṅkā ri mahābhărani kāyatnahanikanaṁ karamān· Iṅ garamān·, ma<surplus>ṅ</surplus>kanimitta pinakahujuṁ-ka§<lb n="2r4" break="no"/>raṁ pamiṅgir· vaṁklaṁni matiṅkaḥ bubuhan·, <supplied reason="omitted">n</supplied>dan lot· kahudanan kapveyan· makadadaḥ sarintənya mamrihakən· I lbuniṁ
+<lb n="2r5"/>pāduka śrī mahārāja hane garuṁ, mapalah-ala<supplied reason="omitted">han lāva</supplied>an· kakanirā hāji p<choice><sic>ā</sic><corr>aṁ</corr></choice>jalu, An· pratisarā juga Ikanaṁ karamān· I<lb n="2r6" break="no"/>ṅ garamān·, bhakti mamrihakən· ri samarakăryya sari-sari, tumut· saḍataṁniṁ <choice><sic>pa</sic><corr>sal</corr></choice>maḥ-vukirnikanaṁ śatru, Ika <choice><sic>kottāmaṁniṁ</sic><corr>kottamaniṁ</corr></choice> <g type="squiggleVertical">§</g>
+<lb n="2r7"/>pamriḥni<surplus>ṁ</surplus>kanaṁ karamān· Iṅ garamān·, Ikā maṅkanā ya tikănuvuhakən· pŭrvvaR̥ṇăsamā-samā I śrī mahārāja, he<g type="squiggleVertical">§</g><lb n="2r8" break="no"/>tuni turuni kăruṇya śrī mahārāja, I sapaṁhyaṁnikanaṁ karamān· Iṅ garamān·, makacihnan· vineḥ Ikanaṁ karamān· <g type="squiggleVertical">§</g>
+<pb n="2v"/><fw place="left" rend="tb-rotated" n="2v"><num value="2">2</num></fw>
+<lb n="2v1"/>Iṅ garamān·, makmītana saṁ hyaṅ ājñā hāji praśāsti tinaṇḍa garasakan·, Umagəhakna Ikanaṁ karamān· Iṅ garamā<g type="squiggleVertical">§</g><lb n="2v2" break="no"/>n·, An· I<supplied reason="omitted">na</supplied>nugrahan· sumĭma thāninya, mantən· matahila drabya haji riṁ pakna-kna, kevalā sīma sv<subst><del>i</del><add place="overstrike">a</add></subst>tantra ju<supplied reason="omitted">ga</supplied> parṇnaḥnya, 
+<lb n="2v3"/>kapagəhaknanyā tka ri dlāhaniṁ dlāha, tka ri santăna pratisantă<supplied reason="omitted">na</supplied>nya, tan kolah-ulaha deniṁ vineḥ Air thāni tka ri piṅhai vahu<lb n="2v4" break="no"/>ta rāma, <choice><sic>U</sic><corr>ṅu</corr></choice>nivaiḥ saṅ anagata prabhu, Apan· sampun ya pagəḥnyănugraha pāduka śrī mahārāja, Irikanaṁ karamān· Iṅ ga<lb n="2v5" break="no"/>ramān·, An· sumĭma thāninya, mantən· kaparābyăpāra deni nāyaka vineḥ Air thāni, kunaṁ sadrabya-hājinya Ikanaṁ kara<lb n="2v6" break="no"/>mān· Iṅ garamān·, ya Ikā saṅkanani śivacaru sakinabhaktyanikanaṁ karamān· ri lāgi, mantən· tekanaṁ karamān· Iṅ ga<g type="squiggleVertical">§</g><lb n="2v7" break="no"/>ramān· thāni vatək· Air thāni, kevalā sīmā svatantra juga parṇnaḥnya, tan katamana deniṁ vinava sa<supplied reason="omitted">ṁ</supplied> mana<supplied reason="omitted">k·</supplied> katriṇi, paṅkur·
+<lb n="2v8"/>, tavān·, tirip·, mvaṁ saprakăra saṁ maṅilā<supplied reason="omitted">la</supplied> drabya haji, vulu-vulu ri daṅū, makădi miśra para miśra, paṅuraṁ, kriṁ, paḍəm·
+<lb n="3r1"/>, manimpiki, paranakan·, limus galuḥ, pinīṅlai, kataṅgaran·, suṅgi, paṅunəṅan·, taji, vatu tajəm·, sukun·
+<lb n="3r2"/>, Alu varak·, rakasaṁ, ramānaṁ, tapa <choice><sic>ta</sic><corr>ha</corr></choice>ji, Air hāji, malandaṁ, L̥ca, lab-lab·, kutak·, taṅkil·, tr̥pan·, sa<g type="squiggleVertical">§</g><lb n="3r3" break="no"/>lyut·, pamaṇikan·, maniga, maṅhuryy aṅilăla, vatu valaṁ, tirvan·, rumban·, sikpan·, vilaṁ thāni, viji ka<lb n="3r4" break="no"/>vaḥ, t<choice><sic>a</sic><corr>i</corr></choice>ṅkəs·, mavi, manambaṅi, taṅhiran·, kipaḥ, tuhañ judi, tuhan daga<supplied reason="omitted">ṁ</supplied>, tuha<supplied reason="omitted">n</supplied> nambi, juru gosali, juru jalir·,
+<lb n="3r5"/>juru huñjman·, ma<supplied reason="omitted">ṁ</supplied>rum<supplied reason="omitted">b</supplied>ai, ma<supplied reason="omitted">ṁ</supplied>guñjai, pab<choice><sic>ə</sic><corr>i</corr></choice>sar·, paguluṁ, pavuṅkunuṁ, pakalaṅkaṁ, Urutan·, dampulan·, tpuṁ kavuṁ, suṁsu<supplied reason="omitted">ṁ</supplied> pa§<lb n="3r6" break="no"/>ṅuraṁ, sipat vilut·, vuṅku<supplied reason="omitted">,</supplied> paṅin-aṅin·, pamavaśya, tampə sirir·, hopan·, skar tahun·, <choice><sic>śariyan·</sic><corr>garihan·</corr></choice>, pavlaṁ-vlaṁ·, panraṅan·, pa<g type="squiggleVertical">§</g><lb n="3r7" break="no"/><surplus>pa</surplus>bayai, pacumbi, paprāyaścittā, pakikis·, pavlit·, pali<supplied reason="omitted">ḥ</supplied> kuvu, paniga<supplied reason="omitted">ṁ</supplied>-blaḥ, paḍva-mās·, pana-mās·, pana-kupa<supplied reason="omitted">ṁ</supplied>, <g type="squiggleVertical">§</g>
+<lb n="3r8"/><choice><sic>paṁrāmā nivur·</sic><corr>paṁrāmā, Avur·</corr></choice>, patikəl haṅgas·, vl<choice><sic>aṁ</sic><corr>i</corr></choice> haR̥ṁ, vl<choice><sic>aṁ</sic><corr>i</corr></choice> vaduṁ, vli hapū, vli pañjut·, vidu maṅiduṁ, <choice><sic>miśri hano</sic><corr>miśra hino</corr></choice>, miśrāṅin-aṅin·
+<pb n="3v"/><fw place="left" rend="tb-rotated" n="3v"><num value="3">3</num></fw>
+<lb n="3v1"/>, pobhaya, pakarāpa, pacandana, pavuluṁ-vuluṁ, kḍi, valyan·, hulu<surplus>ṁ</surplus>n haji, jəṅgi, siṅg<choice><sic>i</sic><corr>a</corr></choice>ḥ, pamr̥ṣi, vatək i jro Ityevamadi
+<lb n="3v2"/>kabeḥ, tan tamā ta ya Irikanaṁ karamān· Iṅ garamān·, <surplus>karamān· Iṅ garamān·</surplus> Ataḥ kevalā juga pramāṇa I sadrabya-hajinya kabeḥ, mvaṁ suka<lb n="3v3" break="no"/>duḥkanya magəṁ maḍmit·, kady aṅganiṁ mayaṁ tan pavvaḥ, valu rumambat i na/ta\r·, vipati, vaṅkai kabunan·, rāḥ kasavur i <g type="squiggleVertical">§</g>
+<lb n="3v4"/>havan·, duhilatən·, hidu kasirat·, săhasa, vākcapala, hastacapala, Amijilakən· vuryyaniṁ kikir·, mamuk·
+<lb n="3v5"/>, mamu<supplied reason="omitted">ṁ</supplied>paṁ, ludan·, tutan·, Aṅśa pratyaṅśa, ḍəṇḍa kuḍəṇḍa, maṇḍihalādi, tan tama Irikanaṁ karamān· Iṅ garamān·
+<lb n="3v6"/>juga<supplied reason="omitted">, karamān· Iṅ garamān·</supplied> Ataḥ pramăṇa sadrabya-hājinya kabeḥ, tka ri miśra mañəmbul·, mañakriṁ, maṅlakha, mañarub·, maṅgumaraṁ, maṁluruṁ,
+<lb n="3v7"/><surplus>,</surplus> maṅubar·, masam-asam·, mavanija, <choice><sic>mañjun·</sic><corr>maṅdyūn·</corr></choice>, mamahat·, madāməl kisi, mam<surplus>b</surplus>ubut·, maṅanam-anam·, magave payuṁ vlu
+<lb n="3v8"/>, ruṅki, mopi<supplied reason="omitted">ḥ</supplied>, mamisaṇḍu<supplied reason="omitted">ṁ</supplied> manuk·, ma<supplied reason="omitted">ṁ</supplied>jari<supplied reason="omitted">ṁ</supplied>, manaṁkəb·, mamulaṁ vlut·, tke varggā kilalan·, kli<supplied reason="omitted">ṁ</supplied>, Ăryya, colika, ma<g type="squiggleVertical">§</g><lb n="4r1" break="no"/>lyăla, karṇnăṭaka, Avaṁ, mambaṁ, ḍa<supplied reason="omitted">ḥ</supplied>yaṁ, bikaṁ, kəmir·, Uñjman·, senăm<unclear>ukha</unclear>, varahan·, mapaḍahi, tari<choice><sic>ban·</sic><corr>mba</corr></choice>, matapu<g type="squiggleVertical">§</g><lb n="4r2" break="no"/>kan·, Ariṅgit·, Asī<supplied reason="omitted">ṁ</supplied> mākavarggā ya, Asīṁ sapravr̥t<choice><sic>yinya</sic><corr>tinya</corr></choice>, sadeśa saṅkananya, yan umuṅgv irikanaṁ karamān· Iṅ garamān·,
+<lb n="4r3" break="no"/>Ikanaṁ varggā sīma Iṅ garamān· juga pramăṇa I sasukāduḥkanya kabeḥ, maṅkana rasany ājñā pāduka śrī mahārāja, tlas· ka<lb n="4r4" break="no"/>R̥ṅə deni<choice><sic>ta</sic><corr>ka</corr></choice>naṁ karamān· Iṅ garamān·, kunəṅ kinavnaṅakən· Ikanaṁ karamān· Iṅ garamān·, yan paṅivu rare su<supplied reason="omitted">ta</supplied>kadi,
+<lb n="4r5"/> Ajnva kanaka, Ajnva halaṁ, Askara, Amagutā pajə(ṁ), kadut jəṁ, Aprāśā vataṁ, prāśāṁṅgi, paśiliḥ galuḥ, Aririṅa banantən·, Avi<lb n="4r6" break="no"/>danăga banantən·, Aṅaṁgva vali salvirniṁ vali, navāgraha, makădi năgapuspa, Apalaṅkaha binubut·, Amaṅana salvirniṁ rā<g type="squiggleVertical">§</g><lb n="4r7" break="no"/>jāmăṅśa, baḍavaṁ, vuṅku<choice><sic>l</sic><corr>ṇ</corr></choice>us·, vḍus· guntiṁ, karuṁ puliḥ, Asu tugəl·, Iv<choice><sic>āt</sic><corr>ak</corr></choice> taluvaḥ, Amaṅana ri bale, Aririṅa banantə<lb n="4r8" break="no"/>n·, Asumpiṅa tuñjuṁ śasivak·, kunə⟨ṁ⟩ Inubhāyakən· I lbuni pāduka śrī mahārāja, mapadagaṅanikanaṁ sīma Iṅ garamā<lb 
+n="4v1" break="no"/>n·, bhakulan· rvaṁ sara, pucaṁ səR̥ḥ rvaṁ sar<subst><del>u</del><add place="overstrike">a</add></subst>, L̥ṅā luruṅan· rvaṁ sara, sesiniṁ rāva rvaṁ sara, Asəm· rvaṁ sar<subst><del>va</del><add place="overstrike">a</add></subst>, kapas· rvaṁ sa<lb n="4v2" break="no"/>ra, Aṅalapā baṇḍa riṁ deśā dŭra lyan·, madodola ri siri<supplied reason="omitted">ṁ</supplied>nya, tan kasapa deni banigrăma, para vulu sapañcadeśa,
+<lb n="4v3"/> An· hapaṇḍe vsi rvaṁ gusali, Apaṇḍ<add place="below">e</add> tāmbra rvaṁ gusali, Apaṇḍe ḍaḍap· rvaṁ gusali, Alukis· rvaṁ pājaran·, kunəṁ yan hana humu<g type="squiggleVertical">§</g><lb n="4v4" break="no"/>lah-ulaḥ kasvatantranikanaṁ sīma Iṅ garamān·, yan saṅkānani pramădanya, salvirniṁ laṅ<choice><orig>gaṇa</orig><reg>ghana</reg></choice> ri saṁ hyaṁṅ ājñā haji, lvirany<subst><del>i</del><add place="overstrike">a</add></subst>, kaknanā ya ni<lb n="4v5" break="no"/>graha, <abbr>kā</abbr> <num value="2">2</num>, ma <abbr>sū</abbr> <num value="10">10</num>, At:hər salvirniṁ pañcapătaka bhuktinya riṅ ihā<surplus>s</surplus>tra paratra, Avuka tan· tmva sama, I <choice><sic>śaka, sahāśra</sic><corr>sakasahasra</corr></choice> janma la<g type="squiggleVertical">§</g><lb n="4v6" break="no"/>vasanyambhuktya jagat-upadrava, kunəṁ pratyekānikanaṁ karamān· Iṅ garamān·, U<supplied reason="omitted">ma</supplied>ṅkvakən· saṁ hyaṅ ājñā haji praśāsti kmita<lb n="4v7" />nanikanaṁ karamān· Iṅ garamān·, sapasuk sīma kabeḥ, bapa tumbak·, kaki sapaO, kaki byuṅan·, kaki Uyaḥ,,</p>
+         </div>
+         <div type="apparatus">
+               <listApp>
+                   <app>
+                   </app>
+               </listApp>         
+         </div>
+         <div type="translation">
+             	<p></p>
+         </div>
+         <div type="commentary">
+         </div>
+        <div type="bibliography">
+	    <p></p>
+            <listBibl type="primary">
+                <bibl>
+                </bibl>
+           </listBibl>
+        </div>
+      </body>
+  </text>
+</TEI>
