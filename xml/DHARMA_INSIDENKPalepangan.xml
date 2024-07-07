@@ -8,7 +8,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Palepangan</title>
+            <title>Palepangan charter (828 Śaka)</title>
             <respStmt>
                <resp>EpiDoc encoding</resp>
                <persName ref="part:argr">
@@ -95,10 +95,10 @@
    </teiHeader>
    <text xml:space="preserve">
       <body>
-         <div type="edition" xml:lang="kaw-Latn">
+         <div type="edition" xml:lang="kaw-Latn" rendition="class:38769 maturity:83213">
 <pb n="1r"/>
 <!-- empty -->
-<p><pb n="1v"/><lb n="1v1"/><g type="ddanda"/> <g type="circle"/> <g type="ddanda"/> svasti śaka-varṣātīta <num value="828">828</num> punaḥ-śravaṇa-māsa, tithi Aṣṭami kr̥ṣṇa-pa<space type="binding-hole"/>kṣa, <abbr>ha</abbr>, <abbr>va</abbr>, <abbr>śu</abbr>, vāra, Irikā divasa rāmanta I paL̥paṅan makabehan·, I<lb n="1v2" break="no"/>nanugrahān· vineḥ makmitana prasasti de rakryān· mapatiḥ I hino pu dakṣottama bāhubajra-pratipakṣakṣaya,</p> <p>samvandhanya saṅkā I tan patūtnikanaṁ
+<p><pb n="1v"/><lb n="1v1"/><g type="ddanda"/> <g type="circle"/> <g type="ddanda"/> svasti śaka-varṣātīta <num value="828">828</num> punaḥ-śravaṇa-māsa, tithi Aṣṭami kr̥ṣṇa-pa<space type="binding-hole"/>kṣa, <abbr>ha</abbr>, <abbr><choice><sic>va</sic><corr>pa</corr></choice></abbr>, <abbr>śu</abbr>, vāra, Irikā divasa rāmanta I paL̥paṅan makabehan·, I<lb n="1v2" break="no"/>nanugrahān· vineḥ makmitana prasasti de rakryān· mapatiḥ I hino pu dakṣottama bāhubajra-pratipakṣakṣaya,</p> <p>samvandhanya saṅkā I tan patūtnikanaṁ
 <lb n="1v3"/>rāma lavan· saṁ năyaka bhagavanta jyotiṣa,<!-- comma ignored by Boechari --> Ikana savaḥnya sinaṅguḥ lamvit· <num value="2">2</num> kinon ta ya modhāra, pirak· <abbr>dhā</abbr> <num value="6">6</num> I satampaḥ-satampaḥ<supplied reason="omitted">,</supplied> kunaṁ sa<space type="descender"/>ṅkā ri
 <lb n="1v4"/>hə:tnya tan· vnaṁ modhāra samaṅkana,<!-- comma ignored by Boechari --> ya ta mataṁṅ yan panamvaḥ rā<space type="descender"/>manta I rakryān· mapa<space type="descender"/>tiḥ<supplied reason="omitted">,</supplied></p> <p>kinonakan· savaḥnya U<unclear>k</unclear>uran· Iṁ tampaḥ haji, sinaṅguḥ
 <lb n="1v5"/>tampaḥ haji,<!-- comma ignored by Boechari --> sātus· ḍpa sihvā pañjaṁnya,<!-- comma ignored by Boechari --> s<unclear>ə</unclear>ṅkə:nya tluṁ puluḥ ḍpa sihvā,<!-- comma ignored by Boechari --> kinon· maṅukura vadvā rakryān· I hino saṁ brahmā muAṁ rovaṁ <abbr>samgat·</abbr> priṁ sa<unclear>ṁ</unclear> kañcur·
@@ -122,6 +122,10 @@
 	<lem source="bib:Damais1955_01 bib:Boechari1985-1986_01">kr̥ṣṇa-pa<space type="binding-hole"/>kṣa</lem>
 	<rdg source="bib:Bosch1917_02">śukla-pakṣa</rdg>
 </app>	
+<app loc="1v1">
+<lem><abbr><choice><sic>va</sic><corr>pa</corr></choice></abbr></lem>
+<note>The need to make this correction was first pointed out by <bibl><ptr target="bib:Damais1955_01"/></bibl> and confirmed by <bibl><ptr target="bib:Eade+Gislen2000_01"/></bibl>.</note>
+</app>
 <app loc="1v3">
 	<lem>Ikana</lem>
 	<rdg source="bib:Bosch1917_02 bib:Boechari1985-1986_01">Ikanaṁ</rdg>

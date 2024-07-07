@@ -90,7 +90,7 @@
 	</teiHeader>
 	<text xml:space="preserve">
       <body>
-         <div type="edition" xml:lang="kaw-Latn">
+         <div type="edition" xml:lang="kaw-Latn" rendition="class:38769 maturity:83213">
 <div type="textpart" subtype="zone" n="1"><head xml:lang="eng">Main text</head>
 <ab xml:lang="san-Latn"><milestone type="pagelike" unit="face" n="A"/><label>Front</label><!-- §5.4. --><lb n="A1"/><unclear><g type="ddandaCross"/> <g type="circleLarge"/> <g type="ddandaCross"/> Avighnam astu <g type="ddandaCross"/></unclear></ab>
 
