@@ -134,8 +134,11 @@ n="4v1" break="no"/>n·, bhakulan· rvaṁ sara, pucaṁ səR̥ḥ rvaṁ sar<su
         <div type="bibliography">
 	    <p></p>
             <listBibl type="primary">
-                <bibl>
-                </bibl>
+				<bibl n="B"><ptr target="bib:Boechari2012_33"/><citedRange unit="page">503–512</citedRange></bibl>
+            <bibl n="T"><ptr target="bib:TitiSurtiNastiti2003_01"/><citedRange unit="page">153–157</citedRange></bibl>
+			</listBibl>
+           <listBibl type="secondary">
+              <bibl/><!-- one <bibl/> per item of secondary bibliography -->
            </listBibl>
         </div>
       </body>
