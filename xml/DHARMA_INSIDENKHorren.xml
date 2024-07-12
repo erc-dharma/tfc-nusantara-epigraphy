@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Horren</title>
+            <respStmt>
+               <resp>EpiDoc encoding</resp>
+               <persName ref="part:ekba">
+                  <name>Eko Bastiawan</name>
+               </persName>
+               <persName ref="part:argr">
+                  <forename>Arlo</forename>
+                  <surname>Griffiths</surname>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>intellectual authorship of edition</resp>
+                <persName ref="part:argr">
+                  <forename>Arlo</forename>
+                  <surname>Griffiths</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>DHARMA</authority>
+            <pubPlace>Malang; Jakarta</pubPlace>
+            <idno type="filename">DHARMA_INSIDENKHorren</idno>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/">
+                  <p>This work is licenced under the Creative Commons Attribution 4.0 Unported Licence. To view a copy of the licence, visit https://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.</p>
+                  <p>Copyright (c) 2019-2025 by Arlo Griffiths</p>
+               </licence>
+            </availability>
+            <date from="2019" to="2025">2019-2025</date>
+         </publicationStmt>
+         <sourceDesc><!-- only the handDesc can be filled in at this stage -->
+            <msDesc><!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
+               <msIdentifier>
+                  <repository>DHARMAbase</repository>
+                  <idno/>
+                  <!-- don't modify this -->
+               </msIdentifier>
+               <msContents><!-- describe the intellectual content of an inscription -->
+                  <summary><!-- //// NOT MANDATORY  ////--></summary>
+                  <!-- offers the possibility to give a summary of the inscription's content -->
+               </msContents>
+               <physDesc>
+                  <handDesc>
+                     <p>The use of layar is normally in Indian mode, but Indonesian mode is also found at least once (and marked with = as per TG 3.8.8).</p>
+                     <p>The lowest level punctuation sign, provisionally represented here by ",", takes the shape of a median dot.</p>
+                  </handDesc>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>The project DHARMA has received funding from the European Research Council (ERC)
+                        under the European Union's Horizon 2020 research and innovation programme (grant
+                        agreement no 809994).</p>
+         </projectDesc>
+         <schemaRef type="guide"
+                    key="EGDv01"
+                    url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+         <listPrefixDef>
+            <prefixDef ident="bib"
+                       matchPattern="([a-zA-Z0-9\-\_]+)"
+                       replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+               <p>Public URIs with the prefix bib to point to a Zotero Group Library named
+                            ERC-DHARMA whose data are open to the public.</p>
+            </prefixDef>
+            <prefixDef ident="part"
+                       matchPattern="([a-z]+)"
+                       replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+               <p>Internal URIs using the part prefix to point to person elements in the
+                            <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
+            </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <revisionDesc>
+          <change who="part:ekba" when="2024-07-12" status="draft">creation initial encoding of the inscription</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:space="preserve">
+      <body>
+         <div type="edition" xml:lang="kaw-Latn" rendition="class:38769 maturity:83213">
+<p part="F"><lb n="2r1"/>haji, <choice><sic>māṇatha, kuṇḍa</sic><corr>mā <num value="10">10</num>, ku <num value="3">3</num></corr></choice>, pinupu piṁro katiga kasaṅa, padamlaknaṁ saṁ hyaṅ ājñā haji prāśastī,</p> <p part="I">sa§<lb 
+n="2r2" break="no"/>mbandha, Ikaṁ <choice><sic>varaggaji</sic><corr>vargga haji</corr></choice> I horR̥n· manəmbaḥ I Ibu pāduka śrī mahārāja, maṁhyaṁ I knohan ya<lb 
+n="2r3" break="no"/>n· sumĭma thānīnya, Umagəhakna kālīlīranā deniṁ vkā-vetnya, mənne hləm· tka ri dlāhaniṁ§ 
+<lb n="2r4"/>dlāha, ma<surplus>ṅ</surplus>kanamitt<choice><orig>ā</orig><reg>a</reg></choice> maṅkana manastăpanikāṁ <choice><sic>varggaji</sic><corr>vargga haji</corr></choice> I horR̥n·, tan· <choice><sic>kasumbat·</sic><corr>kasambut·</corr></choice> svakarmmanya
+<lb n="2r5"/>ri kahāmbəknya, nyan· deni tan pāntara hakirim· tkani śatru, tātan· hana saṅkani paṁhuniṅā§
+<lb n="2r6"/>riṁ <choice><sic>kaharaḍara</sic><corr>kāyadhara</corr></choice>, ṅuniveh <choice><sic>an ḍadyan·</sic><corr>sădhunyan·</corr></choice> tumaṅga-taṅga ḍataṁnikanaṁ śatru suṇḍa, maṅkana raṣāniṁ panəmbaḥni<pb n="2r2" break="no"/><fw place="left" rend="tb-rotated" n="2v"><num value="2">2</num></fw><lb 
+n="2v1" break="no"/>kanaṁ <choice><sic>varggaji</sic><corr>vargga haji</corr></choice> I horR̥n·, I Ibuni pāduka śrī mahārāja, kunaṁ saṅkāri mahăbhărani <choice><sic>kahotsă</sic><corr>kāyotsā</corr></choice><lb 
+n="2v2" break="no"/>hanikanaṁ <choice><sic>varggaji</sic><corr>vargga haji</corr></choice> I horR̥n·, makanimittā pinakahujuṁ-karaṁ pamiṅgir·, <choice><sic>catuni</sic><corr>vaṁklaṁni</corr></choice> matīṅkaḥ bāba§<lb 
+n="2v3" break="no"/>han· nitya lot· kahudanan· kapyeyan·, makadadaḥ <choice><sic>śariniṁ</sic><corr>śarintən·</corr></choice> mamrīhakən· Ibuni pāduka śrī mahā<lb 
+n="2v4" break="no"/>rāja, ri samarakăryya sari-sari <choice><sic>tumāmaha</sic><corr>tumūtana</corr></choice> saḍataṁni salmaḥ-vukir·nikanaṁ śatru, Ika ta kottamā<lb 
+n="2v5" break="no"/>ni pamriḥnikanaṁ <choice><sic>varggaji</sic><corr>vargga haji</corr></choice> I horR̥n·, Ika maṅkana ya tikănuvuhakən· <choice><sic>m</sic><corr>p</corr></choice>urbyaR̥ṇāsāma<supplied reason="omitted">-sama</supplied> I śrī ma<lb 
+n="2v6" break="no"/>hārāja, hetuni turuniṁ kāruṇya śrī mahārāja, I maṁhyaṁnikanaṁ varggaji I horR̥n·, maka</p>
+         </div>
+         <div type="apparatus">
+               <listApp>
+               <app loc="">
+                       <lem></lem>
+                   </app>
+               </listApp>         
+         </div>
+         <div type="translation">
+             	<p></p>
+         </div>
+         <div type="commentary">
+         </div>
+        <div type="bibliography">
+	    <p></p>
+            <listBibl type="primary">
+                <bibl>
+                </bibl>
+           </listBibl>
+        </div>
+      </body>
+  </text>
+</TEI>
