@@ -118,8 +118,11 @@ n="2v6" break="no"/>hārāja, hetuni turuniṁ kāruṇya śrī mahārāja, I ma
         <div type="bibliography">
 	    <p></p>
             <listBibl type="primary">
-                <bibl>
-                </bibl>
+				<bibl n="S"><ptr target="bib:Stutterheim1933_02"/><citedRange unit="page">104</citedRange></bibl> 
+        	    <bibl n="MS&amp;S"><ptr target="bib:MachiSuhadi+SukartoAtmodjo1986_01"/><citedRange unit="page">112–115</citedRange></bibl>
+			</listBibl>
+           <listBibl type="secondary">
+              <bibl/>
            </listBibl>
         </div>
       </body>
