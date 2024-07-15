@@ -105,9 +105,147 @@ n="2v6" break="no"/>hārāja, hetuni turuniṁ kāruṇya śrī mahārāja, I ma
          </div>
          <div type="apparatus">
                <listApp>
-               <app loc="">
-                       <lem></lem>
-                   </app>
+               <app loc="2r1">
+                  <lem><choice><sic>māṇatha, kuṇḍa</sic><corr>mā <num value="10">10</num>, ku <num value="3">3</num></corr></choice></lem>
+                  <rdg source="bib:Stutterheim1933_02">mānaṭha, kuṇḍa</rdg>
+                  <rdg source="bib:MachiSuhadi+SukartoAtmodjo1986_01">mānatha, kuṇda</rdg>
+               </app>
+               <app loc="2r1">
+                  <lem source="bib:Stutterheim1933_02">pinupu</lem>
+                  <rdg source="bib:MachiSuhadi+SukartoAtmodjo1986_01">minupu</rdg>
+               </app>
+               <app loc="2r1">
+                  <lem source="bib:Stutterheim1933_02">padamlaknaṁ</lem>
+                  <rdg source="bib:MachiSuhadi+SukartoAtmodjo1986_01">padamlakna</rdg>
+               </app>
+               <app loc="2r1">
+                  <lem source="bib:Stutterheim1933_02">ājñā</lem>
+                  <rdg source="bib:MachiSuhadi+SukartoAtmodjo1986_01">vānūA</rdg>
+               </app>
+               <app loc="2r1">
+                  <lem source="bib:Stutterheim1933_02">prāśastī</lem>
+                  <rdg source="bib:MachiSuhadi+SukartoAtmodjo1986_01">prāsāsti</rdg>
+               </app>
+               <app loc="2r2">
+                  <lem><choice><sic>varaggaji</sic><corr>vargga haji</corr></choice></lem>
+                  <rdg source="bib:Stutterheim1933_02">varamgajgi</rdg>
+                  <rdg source="bib:MachiSuhadi+SukartoAtmodjo1986_01">varamgaji</rdg>
+               </app>
+               <app loc="2r2">
+                  <lem source="bib:MachiSuhadi+SukartoAtmodjo1986_01">pāduka</lem>
+                  <rdg source="bib:Stutterheim1933_02">paduka</rdg>
+               </app>
+               <app loc="2r3">
+                  <lem source="bib:MachiSuhadi+SukartoAtmodjo1986_01">kālīlīranā</lem>
+                  <rdg source="bib:Stutterheim1933_02">kālīlirana</rdg>
+               </app>
+               <app loc="2r3">
+                  <lem source="bib:MachiSuhadi+SukartoAtmodjo1986_01">dlāhaniṁ</lem>
+                  <rdg source="bib:Stutterheim1933_02">dlāhani</rdg>
+               </app>
+               <app loc="2r4">
+                  <lem>ma<surplus>ṅ</surplus>kanamitt<choice><orig>ā</orig><reg>a</reg></choice></lem>
+                  <rdg source="bib:Stutterheim1933_02">maṅkanamittā</rdg>
+                  <rdg source="bib:MachiSuhadi+SukartoAtmodjo1986_01">maṅkana<supplied reason="omitted">ni</supplied>mitta</rdg>
+               </app>
+               <app loc="2r4">
+                  <lem source="bib:Stutterheim1933_02">manastăpanikaṁ</lem>
+                  <rdg source="bib:MachiSuhadi+SukartoAtmodjo1986_01">manastăpanikāṁ</rdg>
+               </app>
+               <app loc="2r4">
+                  <lem><choice><sic>varggaji</sic><corr>vargga haji</corr></choice></lem>
+                  <rdg source="bib:Stutterheim1933_02">varggāji</rdg>
+                  <rdg source="bib:MachiSuhadi+SukartoAtmodjo1986_01">varggaji</rdg>
+               </app>
+               <app loc="2r4">
+                  <lem><choice><sic>kasumbat·</sic><corr>kasambut·</corr></choice></lem>
+                  <rdg source="bib:Stutterheim1933_02 bib:MachiSuhadi+SukartoAtmodjo1986_01">kasumbat·</rdg>
+               </app>
+               <app loc="2r5">
+                  <lem source="bib:MachiSuhadi+SukartoAtmodjo1986_01">paṁhuniṅā</lem>
+                  <rdg source="bib:Stutterheim1933_02">paṁhuniṅa</rdg>
+               </app>
+               <app loc="2r5">
+                  <lem source="bib:Stutterheim1933_02 bib:MachiSuhadi+SukartoAtmodjo1986_01">tan pāntara hakirim· tkani</lem>
+                  <note>Cf. <ref target="DHARMA_INSIDENKGaraman.xml">Garaman</ref> (1v8–2r1) <foreign>tan păntaran tikanə</foreign>. We are unable to propose a persuasive interpretation or emendation of hakirim· in this context; its absence in the parallel passage suggests that it might be intrusive.</note>
+               </app>
+               <app loc="2r6">
+                  <lem><choice><sic>kaharaḍara</sic><corr>kāyadhara</corr></choice>, ṅuniveh <choice><sic>an ḍadyan·</sic><corr>sădhunyan·</corr></choice></lem>
+                  <rdg source="bib:Stutterheim1933_02">kaharaḍara, ṅuniveh an ḍadyan·</rdg>
+                  <rdg source="bib:MachiSuhadi+SukartoAtmodjo1986_01">kaharaḍara ṅunivehan dhadyan·</rdg>
+                  <note>Cf. <ref target="DHARMA_INSIDENKGaraman.xml">Garaman</ref> (2r1) <foreign>kāyadhara, ṅuniveḥ sădhunyan·</foreign>.</note>
+               </app>
+               <app loc="2r6">
+                  <lem source="bib:Stutterheim1933_02">suṇḍa</lem>
+                  <rdg source="bib:MachiSuhadi+SukartoAtmodjo1986_01">śuṇḍa</rdg>
+               </app>
+               <app loc="2v1">
+                  <lem><choice><sic>varggaji</sic><corr>vargga haji</corr></choice></lem>
+                  <rdg source="bib:Stutterheim1933_02 bib:MachiSuhadi+SukartoAtmodjo1986_01">varggaji</rdg>
+               </app>
+               <app loc="2v1">
+                  <lem>mahăbhărani <choice><sic>kahotsă</sic><corr>kāyotsā</corr></choice><lb n="2v2" break="no"/>hanikanaṁ</lem>
+                  <rdg source="bib:Stutterheim1933_02">mahasarani kāhotsahānikanaṁ</rdg>
+                  <rdg source="bib:MachiSuhadi+SukartoAtmodjo1986_01">mahăbhărani kahotsăhanikanaṁ</rdg>
+                  <note>Cf. <ref target="DHARMA_INSIDENKKusambyan.xml">Kusambyan</ref> (A32) <foreign>mahābhārani giṇa-kāyotsāhanyan·</foreign>, <ref target="DHARMA_INSIDENKGaraman.xml">Garaman</ref> (2r3) <foreign>mahābhărani kāyatnahanikanaṁ</foreign>.</note>
+               </app>
+                <app loc="2v2">
+                  <lem><choice><sic>varggaji</sic><corr>vargga haji</corr></choice></lem>
+                  <rdg source="bib:Stutterheim1933_02">varggajī</rdg>
+                  <rdg source="bib:MachiSuhadi+SukartoAtmodjo1986_01">varggaji</rdg>
+               </app>
+               <app loc="2v2">
+                  <lem><choice><sic>catuni</sic><corr>vaṁklaṁni</corr></choice></lem>
+                  <rdg source="bib:Stutterheim1933_02">catuni</rdg>
+                  <rdg source="bib:MachiSuhadi+SukartoAtmodjo1986_01">bhatuni</rdg>
+                  <note>Cf. <ref target="DHARMA_INSIDENKGaraman.xml">Garaman</ref> (2r4).</note>
+               </app>
+               <app loc="2v2">
+                  <lem>matīṅkaḥ</lem>
+                  <rdg source="bib:Stutterheim1933_02 bib:MachiSuhadi+SukartoAtmodjo1986_01">matiṅkaḥ</rdg>
+               </app>
+               <app loc="2v3">
+                  <lem>lot· kahudanan· kapyeyan·, makadadaḥ <choice><sic>śariniṁ</sic><corr>śarintən·</corr></choice> mamrīhakən· Ibuni pāduka śrī mahā<lb n="2v4" break="no"/>rāja</lem>
+                  <rdg source="bib:Stutterheim1933_02">lot· kahudanan· kapyeyan·, makadadaḥ śarini paprīhakən· Ibuni pāduka śrī mahārāja</rdg>
+                  <rdg source="bib:MachiSuhadi+SukartoAtmodjo1986_01">lot· kahudanan· kapyeyan·, makadadaḥ śariniṁ mamrihakən· Ibuni pāduka śrī mahārāja</rdg>
+                  <note>The closest parallel is found in <ref target="DHARMA_INSIDENKGaraman.xml">Garaman</ref> (2r4–5) <foreign>lot· kahudanan kapveyan· makadadaḥ sarintənya mamrihakən· I lbuniṁ pāduka śrī mahārāja</foreign>. Comparable passages are also observed in two Airlangga charters, namely <ref target="DHARMA_INSIDENKAdulengen.xml">Adulengen</ref> (2r2–3) <foreign>lot kahudanan·, kapyayān·, An paṅekānta I pāduka śrī mahārāja</foreign> and <ref target="DHARMA_INSIDENKBularut.xml">Bularut</ref> (9) <foreign><supplied reason="lost">lot ka</supplied>hudan· kapvayān· kadadaḥ jĭvita <gap reason="lost" quantity="8" unit="character"/>n· pāduka śrĭ mahārāja</foreign>.</note>
+               </app>
+               <app loc="2v4">
+                  <lem><choice><sic>tumāmaha</sic><corr>tumūtana</corr></choice></lem>
+                  <rdg source="bib:Stutterheim1933_02 bib:MachiSuhadi+SukartoAtmodjo1986_01">tumāmaha</rdg>
+                  <note>Cf. <ref target="DHARMA_INSIDENKGaraman.xml">Garaman</ref> (2r6) <foreign>bhakti mamrihakən· ri samarakăryya sari-sari, tumut· saḍataṁniṁ pamaḥ-vukirnikanaṁ śatru</foreign>.</note>
+               </app>
+               <app loc="2v4">
+                  <lem source="bib:MachiSuhadi+SukartoAtmodjo1986_01">kottamāni</lem>
+                  <rdg source="bib:Stutterheim1933_02">kottamani</rdg>
+               </app>
+               <app loc="2v5">
+                  <lem><choice><sic>varggaji</sic><corr>vargga haji</corr></choice></lem>
+                  <rdg source="bib:Stutterheim1933_02">varggaji</rdg>
+                  <rdg source="bib:MachiSuhadi+SukartoAtmodjo1986_01">varggāji</rdg>
+               </app>
+               <app loc="2v5">
+                  <lem source="bib:MachiSuhadi+SukartoAtmodjo1986_01">maṅkana</lem>
+                  <rdg source="bib:Stutterheim1933_02">maṅkāna</rdg>
+               </app>
+               <app loc="2v5">
+                  <lem><choice><sic>m</sic><corr>p</corr></choice>urbyaR̥ṇāsāma<supplied reason="omitted">-sama</supplied></lem>
+                  <rdg source="bib:Stutterheim1933_02">murbyaR̥ṇasama</rdg>
+                  <rdg source="bib:MachiSuhadi+SukartoAtmodjo1986_01">purbyaR̥ṇasama</rdg>
+               </app>
+                <app loc="2v6">
+                  <lem source="bib:MachiSuhadi+SukartoAtmodjo1986_01">iṁ</lem>
+                  <rdg source="bib:Stutterheim1933_02">i</rdg>
+               </app>
+               <app loc="2v6">
+                  <lem source="bib:Stutterheim1933_02">maṁhyaṁ</lem>
+                  <rdg source="bib:MachiSuhadi+SukartoAtmodjo1986_01">paṁhyaṁ</rdg>
+               </app>
+               <app loc="2v6">
+                  <lem source="bib:MachiSuhadi+SukartoAtmodjo1986_01">maka-</lem>
+                  <rdg source="bib:Stutterheim1933_02">paka-</rdg>
+                  <note>The following plate will star with -<foreign>cihnan·</foreign>, cf. the parallel in <ref target="DHARMA_INSIDENKGaraman.xml">Garaman</ref> (2r8).</note>
+               </app>
                </listApp>         
          </div>
          <div type="translation">
