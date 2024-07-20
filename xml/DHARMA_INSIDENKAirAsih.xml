@@ -65,13 +65,19 @@
                         under the European Union's Horizon 2020 research and innovation programme (grant
                         agreement no 809994).</p>
          </projectDesc>
-         <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+         <schemaRef type="guide"
+                    key="EGDv01"
+                    url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
          <listPrefixDef>
-            <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+            <prefixDef ident="bib"
+                       matchPattern="([a-zA-Z0-9\-\_]+)"
+                       replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
                <p>Public URIs with the prefix bib to point to a Zotero Group Library named
                             ERC-DHARMA whose data are open to the public.</p>
             </prefixDef>
-            <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+            <prefixDef ident="part"
+                       matchPattern="([a-z]+)"
+                       replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
                <p>Internal URIs using the part prefix to point to person elements in the
                             <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
             </prefixDef>
@@ -85,16 +91,29 @@
    <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="kaw-Latn" rendition="class:38769 maturity:83213">
-<p part="F"><pb n="2r"/><lb n="2r1"/>tan kavuntat saṁ pamgət i tirvan·, ḍaṅ ācāryya dharmmadeva, saṁ pamgət iṁ kaṇḍamuhi, ḍaṅ ācāryya smaradahana, saṁ pam<choice><sic>t</sic><corr>g</corr></choice>ət iṁ maṅhu<lb n="2r2" break="no"/>ri, ḍaṅ ācaryya smaradeva, I piṅso<supplied reason="subaudible">r</supplied>ny ājñā śrī mahārāja, kumonakən saṁ pam<supplied reason="subaudible">g</supplied>ət iṁ Air asiḥ, ḍa<supplied reason="subaudible">ṁ</supplied> hyaṁ bhăskara, pada<lb n="2r3" break="no"/>mlakna saṁ hyaṁ rājapraśāsti, macihna kr̥tanagara, Umuṅgve salaḥ siki<surplus>,</surplus>niṅ upala, tāmra, ripta, kapaṅkva de saṁ pamgət iṁ Ai<lb n="2r4" break="no"/>r asiḥ,</p> 
-<p>sambandha, gati saṁ pamgət iṁ Air asiḥ mahābrāhmaṇa R̥gveda-pāraga, śaṅkadhara, sākṣāt· pinakātmarakṣa de śrī ma<lb n="2r5" break="no"/>hārāja<surplus>ra</surplus>, tan pāntara gumavayakən· pūjā-japa-homānibākən ăhuti ri saṁ hyaṁ śivāgni, mrărthanākən jaya<lb n="2r6" break="no"/>-dĭrghāyur-ărogya śrī mahārāja, makasādhana kaprayoganiṁ prakriyopadeśa-parijñānādi riṅ ahorātra, ma<supplied reason="subaudible">ṁ</supplied>da<lb n="2r7" break="no"/>dyakən· sthiratarani paliṅgiḥ śrī mahārāja riṁ ratna-maṇi-maya-siṅhāsana, An siniviniṁ sayavadvīpa manuluyi nūṣā<lb n="2r8" break="no"/>ntara madhura, śīrṇa paravaśa sahananiṁ śatru-śakti<supplied reason="subaudible">,</supplied> tan hana vnaṁ d<choice><orig>ə</orig><reg>u</reg></choice>mələ: vīryya-pratāpa śrī mahārāja, makanimitta pa<pb n="2v" break="no"/><fw n="2v" place="left" rend="tb-rotated"><num value="2">2</num></fw><lb n="2v1" break="no"/>gə:ḥniṅ aṁrakṣa saṁ pamgət iṁ Air asiḥ riṅ adhyātmika, kāraṇanyan enak· paṁlāmpahakən· śrī mahārāja, dharmma-sādha<lb n="2v2" break="no"/>na-samyak-paripālanādi, sari-saryy aveḥ dāna kanaka-rajata-vastrādi ri para dvija mvaṁ ri saṁ caturăśramĭ, gati saṁ pamgət iṁ 
-<lb n="2v3"/>Air asiḥ maṅkana, Ikā ta dvāra śrī mahārāja maṅhanākən· bhūmidāna, mapakna ri saṁ pamgət iṁ Air asiḥ,</p> <p part="I">sinaṁkalpa<lb n="2v4" break="no"/>kən· saha-hasto<supplied reason="subaudible">da</supplied>ka, kasākṣyan de para dvija samudāya, hana ta vānva I R̥mba ṅaranya, thāni bala vatək lucəm·
+<p part="F"><pb n="2r"/><lb n="2r1"/>tan kavuntat saṁ pamgət i tirvan·, ḍaṅ ācāryya dharmmadeva, saṁ pamgət iṁ kaṇḍamuhi, ḍaṅ ācāryya smaradahana, saṁ pam<choice><sic>t</sic><corr>g</corr></choice>ət iṁ maṅhu<lb 
+n="2r2" break="no"/>ri, ḍaṅ ācaryya smaradeva, I piṅso<supplied reason="omitted">r</supplied>ny ājñā śrī mahārāja, kumonakən saṁ pam<supplied reason="omitted">g</supplied>ət iṁ Air asiḥ, ḍa<supplied reason="omitted">ṁ</supplied> hyaṁ bhăskara, pada<lb 
+n="2r3" break="no"/>mlakna saṁ hyaṁ rājapraśāsti, macihna kr̥tanagara, Umuṅgve salaḥ siki<surplus>,</surplus>niṅ upala, tāmra, ripta, kapaṅkva de saṁ pamgət iṁ Ai<lb 
+n="2r4" break="no"/>r asiḥ,</p> 
+<p>sambandha, gati saṁ pamgət iṁ Air asiḥ mahābrāhmaṇa R̥gveda-pāraga, śaṅkadhara, sākṣāt· pinakātmarakṣa de śrī ma<lb 
+n="2r5" break="no"/>hārāja<surplus>ra</surplus>, tan pāntara gumavayakən· pūjā-japa-homānibākən ăhuti ri saṁ hyaṁ śivāgni, mrărthanākən jaya<lb 
+n="2r6" break="no"/>-dĭrghāyur-ărogya śrī mahārāja, makasādhana kaprayoganiṁ prakriyopadeśa-parijñānādi riṅ ahorātra, ma<supplied reason="omitted">ṁ</supplied>da<lb 
+n="2r7" break="no"/>dyakən· sthiratarani paliṅgiḥ śrī mahārāja riṁ ratna-maṇi-maya-siṅhāsana, An siniviniṁ sayavadvīpa manuluyi nūṣā<lb 
+n="2r8" break="no"/>ntara madhura, śīrṇa paravaśa sahananiṁ śatru-śakti<supplied reason="omitted">,</supplied> tan hana vnaṁ d<choice><orig>ə</orig><reg>u</reg></choice>mələ: vīryya-pratāpa śrī mahārāja, makanimitta pa<pb 
+n="2v" break="no"/><fw n="2v" place="left" rend="tb-rotated"><num value="2">2</num></fw><lb 
+n="2v1" break="no"/>gə:ḥniṅ aṁrakṣa saṁ pamgət iṁ Air asiḥ riṅ adhyātmika, kāraṇanyan enak· paṁlāmpahakən· śrī mahārāja, dharmma-sādha<lb 
+n="2v2" break="no"/>na-samyak-paripālanādi, sari-saryy aveḥ dāna kanaka-rajata-vastrādi ri para dvija mvaṁ ri saṁ caturăśramĭ, gati saṁ pamgət iṁ 
+<lb n="2v3"/>Air asiḥ maṅkana, Ikā ta dvāra śrī mahārāja maṅhanākən· bhūmidāna, mapakna ri saṁ pamgət iṁ Air asiḥ,</p> <p part="I">sinaṁkalpa<lb 
+n="2v4" break="no"/>kən· saha-hasto<supplied reason="omitted">da</supplied>ka, kasākṣyan de para dvija samudāya, hana ta vānva I R̥mba ṅaranya, thāni bala vatək lucəm·
 <lb n="2v5"/>, gave, <abbr>mā</abbr> <num value="2">2</num>, ya tekāṅkən· bhūmidāna mapakna ri saṁ pamgət iṁ Air asiḥ, Ikaṁ sinaṁka<choice><sic>lakpa</sic><corr>lpa</corr></choice>kən· ṅūni
-<lb n="2v6"/>, susukən dharmmasīma kakolikan svatantrādəg riṅgit·, katmva kaliliranani santāna pratisantāna sa<unclear>ṁ</unclear> pamgət iṁ Ai<lb n="2v7" break="no"/>r asiḥ mne hləm· tka ri dlāhaniṁ dlāha, makacihnā saṁ hyaṁ prasāda sthānani praṇāla paṅadgana saṁ hyaṅ arccā vi<lb n="2v8" break="no"/>ṣṇu-pratirūpa, pagavayana svātma-pratiṣṭa saṁ pamgət iṁ Air asiḥ, pujān aṅkən· prativarṣa deni santāna</p>
+<lb n="2v6"/>, susukən dharmmasīma kakolikan svatantrādəg riṅgit·, katmva kaliliranani santāna pratisantāna sa<unclear>ṁ</unclear> pamgət iṁ Ai<lb 
+n="2v7" break="no"/>r asiḥ mne hləm· tka ri dlāhaniṁ dlāha, makacihnā saṁ hyaṁ prasāda sthānani praṇāla paṅadgana saṁ hyaṅ arccā vi<lb 
+n="2v8" break="no"/>ṣṇu-pratirūpa, pagavayana svātma-pratiṣṭa saṁ pamgət iṁ Air asiḥ, pujān aṅkən· prativarṣa deni santāna</p>
          </div>
          <div type="apparatus">
                <listApp>
                   <app loc="2r2">
-                      <lem source="bib:Naerssen1941_01">piṅso<supplied reason="subaudible">r</supplied>ny ājñā</lem>
+                      <lem source="bib:Naerssen1941_01">piṅso<supplied reason="omitted">r</supplied>ny ājñā</lem>
                       <note>The descending <foreign>m</foreign> of <foreign>dharmmadeva</foreign> in line 1 has caused the scribe to forget the <foreign>layar</foreign> here.</note>
                   </app>
                  <!--  <app loc="2r2">
@@ -136,7 +155,7 @@
                      <rdg source="bib:Naerssen1941_01">Ikā tā</rdg>
                   </app>
                   <app loc="2v4">
-                      <lem>saha-hasto<supplied reason="subaudible">da</supplied>ka</lem>
+                      <lem>saha-hasto<supplied reason="omitted">da</supplied>ka</lem>
                      <rdg source="bib:Naerssen1941_01">sahahastota</rdg>
                      <note>Cf. <ref target="DHARMA_INSIDENKParablyan.xml">Parablyan</ref> 2v6.</note>
                   </app>

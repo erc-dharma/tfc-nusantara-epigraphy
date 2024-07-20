@@ -65,13 +65,19 @@
                         under the European Union's Horizon 2020 research and innovation programme (grant
                         agreement no 809994).</p>
          </projectDesc>
-         <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+         <schemaRef type="guide"
+                    key="EGDv01"
+                    url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
          <listPrefixDef>
-            <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+            <prefixDef ident="bib"
+                       matchPattern="([a-zA-Z0-9\-\_]+)"
+                       replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
                <p>Public URIs with the prefix bib to point to a Zotero Group Library named
                             ERC-DHARMA whose data are open to the public.</p>
             </prefixDef>
-            <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+            <prefixDef ident="part"
+                       matchPattern="([a-z]+)"
+                       replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
                <p>Internal URIs using the part prefix to point to person elements in the
                             <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
             </prefixDef>
@@ -91,11 +97,11 @@
                 <pb n="1r"/><!--Blank outer page.-->
                 <pb n="1v"/><gap reason="lost" quantity="4" unit="line"/>
 <p part="I"><pb n="2r"/>
-<lb n="2r1"/>ri tr̥p· lmaḥ kəmba<unclear>ṁ</unclear> śrī thăni va<choice><sic>kət</sic><corr>tək</corr></choice>· paṅkaja padamlan· saṁ hyaṁ Ajñā haji prasasti tinaṇḍa gar<choice><sic>a</sic><corr>u</corr></choice>ḍamukha, samba<lb n="2r2" break="no"/>ndha <abbr>rake</abbr> <g type="squiggleVertical">§</g> paṅkaja dyaḥ tumamboṁ mapañji tumaṅgala, sirānambaḥ I pāduka śrī mahārāja, majar an ha<lb n="2r3" break="no"/>na patapan aṅaran i tr̥p·, paraniran palaradan· ri kāla śrī mahārāja <unclear>kata</unclear>layaḥ sa<supplied reason="subaudible">ṁ</supplied>ke vvatan ma<lb n="2r4" break="no"/>s· mara I patakan·, hana ta sira bhaṭārī A<unclear>r</unclear>ccarūpa, kapaṅgiḥ Irikaṁ patapān i tr̥p·, ṅkāna
+<lb n="2r1"/>ri tr̥p· lmaḥ kəmba<unclear>ṁ</unclear> śrī thăni va<choice><sic>kət</sic><corr>tək</corr></choice>· paṅkaja padamlan· saṁ hyaṁ Ajñā haji prasasti tinaṇḍa gar<choice><sic>a</sic><corr>u</corr></choice>ḍamukha, samba<lb n="2r2" break="no"/>ndha <abbr>rake</abbr> <g type="squiggleVertical">§</g> paṅkaja dyaḥ tumamboṁ mapañji tumaṅgala, sirānambaḥ I pāduka śrī mahārāja, majar an ha<lb n="2r3" break="no"/>na patapan aṅaran i tr̥p·, paraniran palaradan· ri kāla śrī mahārāja <unclear>kata</unclear>layaḥ sa<supplied reason="omitted">ṁ</supplied>ke vvatan ma<lb n="2r4" break="no"/>s· mara I patakan·, hana ta sira bhaṭārī A<unclear>r</unclear>ccarūpa, kapaṅgiḥ Irikaṁ patapān i tr̥p·, ṅkāna
 <pb n="2v"/>
 <fw n="2v" place="right"><num value="2">2</num></fw>
 <lb n="2v1"/>ta rakva <abbr>rake</abbr> paṅkaja dyaḥ tumamboṁ, maprārthana ri jayasatrva śrī mahārāja riṁ samara, s<unclear>a</unclear>mpun·
-<lb n="2v2"/>pva pra◊<!--there is no actual space filler sign on the plate-->tisubaddha paluṅguḥ śrī mahārāja ri ratnasiṅhāsana, mvaṁ sāmpun· karahatan· musuḥni<lb n="2v3" break="no"/>ra ◊<!--there is no actual space filler sign on the plate--> ri samara, tke bala◊<!--there is no actual space filler sign on the plate-->sahayanya, Ika ta ni<supplied reason="subaudible">mi</supplied>tta <abbr>rake</abbr> paṅkaja dyaḥ tumamboṁ, suməmbaḥ pāduka śrī ma<lb n="2v4" break="no"/>hārāja tumuhvakna pratijñānira ri bhaṭārī riṁ tr̥p·, ri svatantranikaṁ patapan· I tr̥p· sthāna bhaṭārī
+<lb n="2v2"/>pva pra◊<!--there is no actual space filler sign on the plate-->tisubaddha paluṅguḥ śrī mahārāja ri ratnasiṅhāsana, mvaṁ sāmpun· karahatan· musuḥni<lb n="2v3" break="no"/>ra ◊<!--there is no actual space filler sign on the plate--> ri samara, tke bala◊<!--there is no actual space filler sign on the plate-->sahayanya, Ika ta ni<supplied reason="omitted">mi</supplied>tta <abbr>rake</abbr> paṅkaja dyaḥ tumamboṁ, suməmbaḥ pāduka śrī ma<lb n="2v4" break="no"/>hārāja tumuhvakna pratijñānira ri bhaṭārī riṁ tr̥p·, ri svatantranikaṁ patapan· I tr̥p· sthāna bhaṭārī
    </p>
                 <pb n="3r"/><gap reason="lost" quantity="4" unit="line"/>
                 <pb n="3v"/><gap reason="lost" quantity="4" unit="line"/>
@@ -108,12 +114,12 @@
                 <p part="F">
 <pb n="7r"/>
 <lb n="7r1"/>patapān· bhaṭārī, pagəhakna tan· sigasigu<choice><orig>ṇ</orig><reg>n</reg></choice>a tan· kolaholaha de sa<unclear>ṁ</unclear> năyakapratyaya
-<lb n="7r2"/><unclear>kar</unclear>uhun· sa<unclear>ṅ a</unclear>nă<unclear>ga</unclear>ta <unclear>p</unclear>rabhu dlahaniṁ dlaha, Asiṁ <unclear>m</unclear>ulahu<surplus>lahu</surplus>laḥ patapān· bhaṭārī, mo<supplied reason="subaudible">n·</supplied> kryan·<lb n="7r3" break="no"/><unclear>krya</unclear>n· mon· taṇḍa, kimuta <unclear>vvaṁ</unclear> s<choice><orig>ā</orig><reg>a</reg></choice>m<choice><orig>a</orig><reg>ā</reg></choice>nya, yatha mulahulah ikaṁ patapān· ḍəṇḍan· ri <abbr>mā</abbr> <abbr>kā</abbr> <num value="1">1</num>
+<lb n="7r2"/><unclear>kar</unclear>uhun· sa<unclear>ṅ a</unclear>nă<unclear>ga</unclear>ta <unclear>p</unclear>rabhu dlahaniṁ dlaha, Asiṁ <unclear>m</unclear>ulahu<surplus>lahu</surplus>laḥ patapān· bhaṭārī, mo<supplied reason="omitted">n·</supplied> kryan·<lb n="7r3" break="no"/><unclear>krya</unclear>n· mon· taṇḍa, kimuta <unclear>vvaṁ</unclear> s<choice><orig>ā</orig><reg>a</reg></choice>m<choice><orig>a</orig><reg>ā</reg></choice>nya, yatha mulahulah ikaṁ patapān· ḍəṇḍan· ri <abbr>mā</abbr> <abbr>kā</abbr> <num value="1">1</num>
 <lb n="7r4"/><abbr>sū</abbr> <num value="5">5</num>, Atəhə:r ya Umaṅguha pāpa, Indaḥ ta kita kamuṁ hyaṁ pañca mahābhū[[ta]], caturlokapăla, ṣadvi<pb n="7v" break="no"/><fw n="7v" place="right"><num value="7">7</num></fw><lb n="7v1" break="no"/>năyaka, makădi bhaṭāra bra<unclear>hmā</unclear> viṣṇu <unclear>Ĭ</unclear>śvara, kita rumakṣā tribhūvaṇa tumiṅhāli hala hayuni pra<lb n="7v2" break="no"/>vr̥tiniṁ vva<unclear>ṁ</unclear> viśeṣa riṁ sarvvajagat·, ndaḥ R̥ṅyə:kən tekiṁ samaya sapatha, Asiṁ durācārāmahaya pa<lb n="7v3" break="no"/>tapān· bhaṭā<unclear>ri</unclear>, tan pisiṅgi<unclear>ḥ</unclear> raṣa saṁ hyaṁ Ăjñā ha◊ji prasasti, mon· brahmāṇa kṣatriy<unclear>ā</unclear>ve<lb n="7v4" break="no"/>śya, sŭdra, yāvat· mulah<unclear>u</unclear>laḥ patapān· bhaṭārī, jaḥ tasmăt· kabvatkarmmakna<unclear>n</unclear>ya, patyanan ta
 <pb n="8r"/>
  <lb n="8r1"/>ya, deyantat pat<unclear>ī</unclear>ya, tat toliha ri vuri, tat tiṅhāla ri haR̥p·, <unclear>ta</unclear>ruṁ riṅ adgan·, tpak· ri hiri<lb n="8r2" break="no"/>ṅan·, blaḥ kapălanya, ḍuḍuk=hatinya, vkasak<choice><sic>i</sic><corr>ə</corr></choice>n· praṇantika, veḥ sa<unclear>ṁ</unclear>sāra, Asiṁ parananyat paṅgiha
-<lb n="8r3"/>duḥkha, kad<unclear>i</unclear> lavas sa<supplied reason="subaudible">ṁ</supplied> hyaṁ candrādityan· sumuluh iṅ aṇḍabhūvana, samaṅkana lavasanyān bhuktyā ma<lb n="8r4" break="no"/>hăpātaka, maṅka deyan tat patīkaṁ vvaṁṅ anyāyomulahulaḥ, sakveḥni lmaḥ bhaṭārī ri tr̥p·, likhi<pb n="8v" break="no"/><fw n="8v" place="right"><num value="8">8</num></fw><lb n="8v1" break="no"/>topacāra saṁ hyaṁ Ăjñā haji prasasti, samgat· laṅka pañji parăjaya, Inutus· <abbr>rake</abbr> halu 
-<lb n="2"/>dyaḥ tumāmbo<supplied reason="subaudible">ṁ</supplied>, mapa◊<!--there is no actual space filler sign on the plate-->ñji tumaṅgala, sumrahakna sa<supplied reason="subaudible">ṁ</supplied> hyaṁ Ăjñā haji prasasti tinanḍa garuḍa<lb n="8v3" break="no"/>mukha, ri sirā mpu saṁ tamolaḥ rī patapān· bhaṭā◊<!--there is no actual space filler sign on the plate-->rī ri tr̥p·, saṅ apañji s<unclear>i</unclear> siṁ-siṁ kāla mpu vastu
+<lb n="8r3"/>duḥkha, kad<unclear>i</unclear> lavas sa<supplied reason="omitted">ṁ</supplied> hyaṁ candrādityan· sumuluh iṅ aṇḍabhūvana, samaṅkana lavasanyān bhuktyā ma<lb n="8r4" break="no"/>hăpātaka, maṅka deyan tat patīkaṁ vvaṁṅ anyāyomulahulaḥ, sakveḥni lmaḥ bhaṭārī ri tr̥p·, likhi<pb n="8v" break="no"/><fw n="8v" place="right"><num value="8">8</num></fw><lb n="8v1" break="no"/>topacāra saṁ hyaṁ Ăjñā haji prasasti, samgat· laṅka pañji parăjaya, Inutus· <abbr>rake</abbr> halu 
+<lb n="2"/>dyaḥ tumāmbo<supplied reason="omitted">ṁ</supplied>, mapa◊<!--there is no actual space filler sign on the plate-->ñji tumaṅgala, sumrahakna sa<supplied reason="omitted">ṁ</supplied> hyaṁ Ăjñā haji prasasti tinanḍa garuḍa<lb n="8v3" break="no"/>mukha, ri sirā mpu saṁ tamolaḥ rī patapān· bhaṭā◊<!--there is no actual space filler sign on the plate-->rī ri tr̥p·, saṅ apañji s<unclear>i</unclear> siṁ-siṁ kāla mpu vastu
 <lb n="8v4"/>hulu skar·, sāmpun· paripŭrṇna Anugraha śrī mahārāja, paṅrakṣa ri bhaṭārī, kayatnākna
 </p>            
             </div>
@@ -140,7 +146,7 @@
                           <rdg source="bib:Boechari1985-1986_01 bib:NinnySusantiTejowasono2003_01">sāmpun·</rdg>
                     </app>
                                     <app loc="2v3">
-                        <lem source="bib:Boechari1985-1986_01 bib:NinnySusantiTejowasono2003_01">ni<supplied reason="subaudible">mi</supplied>tta</lem>
+                        <lem source="bib:Boechari1985-1986_01 bib:NinnySusantiTejowasono2003_01">ni<supplied reason="omitted">mi</supplied>tta</lem>
                          </app>
                                     <app loc="7r1">
                         <lem source="bib:NinnySusantiTejowasono2003_01">pagəhakna</lem>
@@ -150,7 +156,7 @@
                         <lem source="bib:Boechari1985-1986_01 bib:NinnySusantiTejowasono2003_01"><unclear>m</unclear>ulahu<surplus>lahu</surplus>laḥ</lem>
                     </app>
                                     <app loc="7r2-7r3">
-                        <lem>mo<supplied reason="subaudible">n·</supplied> kryan·-<unclear>krya</unclear>n·</lem>
+                        <lem>mo<supplied reason="omitted">n·</supplied> kryan·-<unclear>krya</unclear>n·</lem>
                          <rdg source="bib:Boechari1985-1986_01 bib:NinnySusantiTejowasono2003_01">mo kryan· kryan·</rdg> 
                                         <note>Neither Boechari nor Ninny Susanti Tejowasono notes that an akṣara <foreign>n·</foreign> has been omitted here.</note>
                     </app>
@@ -173,7 +179,7 @@
                          <rdg source="bib:NinnySusantiTejowasono2003_01">paṅgihan</rdg>
                     </app>
                                     <app loc="8r3">
-                        <lem source="bib:Boechari1985-1986_01 bib:NinnySusantiTejowasono2003_01">sa<supplied reason="subaudible">ṁ</supplied></lem>
+                        <lem source="bib:Boechari1985-1986_01 bib:NinnySusantiTejowasono2003_01">sa<supplied reason="omitted">ṁ</supplied></lem>
                     </app>
                                     <app loc="8r3">
                         <lem>bhuktyā</lem>
@@ -189,7 +195,7 @@
                          <rdg source="bib:Boechari1985-1986_01 bib:NinnySusantiTejowasono2003_01">vvaṅ</rdg>
                     </app>
                                     <app loc="8v2">
-                        <lem>tumāmbo<supplied reason="subaudible">ṁ</supplied></lem>
+                        <lem>tumāmbo<supplied reason="omitted">ṁ</supplied></lem>
                          <rdg source="bib:Boechari1985-1986_01">tumamboṁ</rdg>
                          <rdg source="bib:NinnySusantiTejowasono2003_01">tumambon</rdg>
                             <note>Ninny Susanti Tejowasono indicated that the final <foreign>n</foreign> is an error: “Citralekha lupa membubuhkan anusvara di atas huruf <foreign>bo</foreign>, karena seharusnya <foreign>tumamboṁ</foreign> bukan <foreign>tumambo</foreign>”.</note>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
@@ -63,13 +63,19 @@
          <projectDesc>
             <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
          </projectDesc>
-         <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+         <schemaRef type="guide"
+                    key="EGDv01"
+                    url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
          <!-- UPDATE the link once the release is made official -->
          <listPrefixDef>
-            <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+            <prefixDef ident="bib"
+                       matchPattern="([a-zA-Z0-9\-\_]+)"
+                       replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
                <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
             </prefixDef>
-            <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+            <prefixDef ident="part"
+                       matchPattern="([a-z]+)"
+                       replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
                <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
             </prefixDef>
          </listPrefixDef>
@@ -83,12 +89,12 @@
          <div type="edition" xml:lang="kaw-Latn">
  <p part="F"><pb n="14r"/><lb n="14r1" break="no"/>na paniṅkaḥ śrī mahārāja, An· makamaṅgalyājñyā bhaṭāra jaya śrī viṣṇuvarddhana, Irikaṁ vanva panaṅkani bañu, Ambañvani savaḥ saṁ hyaṁ dharmma</p>
 <p><lb n="14r2"/>kunə:ṁ piṇḍaniṁ pirak· <choice><sic>baye</sic><corr>byaya</corr></choice> samudāya, <choice><orig>masū</orig><reg>mas <abbr>su</abbr></reg></choice> <num value="10">10</num>, <abbr>mā</abbr> <num value="7">7</num>, <abbr>ku</abbr> <num value="1">1</num>, mijilāṅkə:n· tahun·, panaṅkan· tahilniṁ savaḥ, <choice><orig>masū</orig><reg>mas <abbr>su</abbr></reg></choice> <num value="4">4</num>, <abbr>mā</abbr> <num value="7">7</num>, satahun·,
-<lb n="14r3"/>tahilniṁ AṅaR̥mbha, <choice><orig>masū</orig><reg>mas <abbr>su</abbr></reg></choice> <num value="3">3</num>, <abbr>mā</abbr> <num value="2">2</num>, paṅhulu bañu, <choice><orig>masū</orig><reg>mas <abbr>su</abbr></reg></choice> <num value="1">1</num>, <abbr>mā</abbr> <num value="9">9</num>, <abbr>ku</abbr> <num value="1">1</num>, Ajiniṁ gagā, <choice><orig>masū</orig><reg>mas <abbr>su</abbr></reg></choice> <num value="1">1</num>, <abbr>mā</abbr> <num value="5">5</num>, muvaḥ hana ta pamūjāni samāṅanti<supplied reason="subaudible">ḥ</supplied>, salave
+<lb n="14r3"/>tahilniṁ AṅaR̥mbha, <choice><orig>masū</orig><reg>mas <abbr>su</abbr></reg></choice> <num value="3">3</num>, <abbr>mā</abbr> <num value="2">2</num>, paṅhulu bañu, <choice><orig>masū</orig><reg>mas <abbr>su</abbr></reg></choice> <num value="1">1</num>, <abbr>mā</abbr> <num value="9">9</num>, <abbr>ku</abbr> <num value="1">1</num>, Ajiniṁ gagā, <choice><orig>masū</orig><reg>mas <abbr>su</abbr></reg></choice> <num value="1">1</num>, <abbr>mā</abbr> <num value="5">5</num>, muvaḥ hana ta pamūjāni samāṅanti<supplied reason="omitted">ḥ</supplied>, salave
 <lb n="14r4"/>riṁ sarahi, tahilniṁ Adagaṁ, <abbr>ku</abbr> <num value="1">1</num>, riṁ sarahi, tahilniṁ Amahat·, <abbr>ku</abbr> <num value="1">1</num>, sā <num value="3">3</num>, riṁ sarahi, tahilniṁ Ajagal·, <abbr>ku</abbr> <num value="1">1</num>, riṁ sarahi, muvaḥ pabə:ñjat·
 <lb n="14r5"/><unclear>v</unclear>alaghāra, Ikā ta kabeḥ kakmitana deni mpu pomah-umaḥ, mapakna byāyāṅkə:n i tatkālaniṁ kapūjān· bhaṭāra riṁ narasiṅhanagara,
 <lb n="14r6"/>Ikaṁ pūrṇnamāniṁ kārttikamāsa, saha dakṣiṇa yathānusāra, mpu sthāpaka, <abbr>mā</abbr> <num value="1">1</num>, <abbr>ku</abbr> <num value="2">2</num>, mpu paṅajen· Atavur i haR̥p· saṁ hyaṁ prasāda, da<lb n="14r7" break="no"/>kṣiṇa, <abbr>mā</abbr> <num value="1">1</num>, mpu pomah-umaḥ Atavur iṁ kalaṅan· dakṣiṇa, <abbr>ku</abbr> <num value="2">2</num>, mpv amaca, <abbr>ku</abbr> <num value="2">2</num>, mpv arajaḥ, <abbr>ku</abbr> <num value="2">2</num>, sananiṁ<!-- samaniṁ? sajiniṁ--> vikva devakarmma<!-- vikv adevakarmma -->, <abbr>ku</abbr> <num value="1">1</num>, sovaṁ, sa<lb n="14r8" break="no"/>jiniṁ curiṁ<!-- Acuriṁ? -->, <abbr>ku</abbr> <num value="2">2</num>, Agə:ṇḍiṁ, <abbr>mā</abbr> <num value="1">1</num>, <abbr>ku</abbr> <num value="2">2</num>, vidu, <abbr>ku</abbr> <num value="2">2</num>, Avayaṁ, <abbr>ku</abbr> <num value="2">2</num>, men-men·, <abbr>ku</abbr> <num value="2">2</num>, Abacaṅaḥ, <abbr>ku</abbr> <num value="2">2</num>, Abañval·, <abbr>ku</abbr> <num value="2">2</num>, juru botoḥ, mā 
 <pb n="14v"/><fw place="right" rend="bt-rotated" n="14v"><num value="14">14</num></fw>
-<lb n="14v1"/><num value="1">1</num>, Ataji, <abbr>ku</abbr> <num value="2">2</num>, muvaḥ mijila saṅke mpu pomah-umaḥ byayaniṅ amūjāṅkə:n· pūrṇnamāmāvăsya, lāvan· pūjā-<supplied reason="subaudible">ja</supplied>pa bisuvāṅkə:n· cetrā<lb n="14v2" break="no"/>suji-māsa, mvaṁ dakṣiṇa ri kālaniṁ pūjāntara, grahaṇa, kanyā<unclear>g</unclear>ata, Aliḥ sakakāla, Agaṣṭyodaya, pūjā variga, galuṅan·, tavur iṁ pa<lb n="14v3" break="no"/>praṅan·, tə:bus-tə:busan·, Amurukuṁ, Amapag· bañu, havan-havan·, paḍacaṅan·, Ikā ta kabeḥ paḍa mijil· deni mpu pomah-umaḥ, mvaṁ pa<lb n="14v4" break="no"/>mahayv asiṁ sahanāna<!-- = sa-hana-hana --> ri saṁ hyaṁ dharmma, Ikā ta kaprayatnākna deni mpu pomah-umaḥ</p> <p part="I">kunə:ṁ tiṅkaḥ saṁ hya<unclear>ṁ</unclear> dharmma, sīma svatantra, tan paravyāpāra<unclear>,</unclear> ma<lb n="14v5" break="no"/>ryya kaviśvāśa denikaṁ thāni parahapan·, tan kasiṅkaḥ-siṅkuha, tan· kneṁ pakna-knāgə:ṁṅ admit·, turun-turun· sagə:m sarakut·, bvat-hajyan ado<lb n="14v6" break="no"/>h apaR̥, tan kadgana deniṁ piṅhe vahuta rāma, nāyaka pratyaya, vetniṁ piṇḍaḥ svabhăva, saḥ saṅ<unclear>k</unclear>e paṅāśrayanya, muvaḥ tan <unclear>k</unclear>atamāna de<lb n="14v7" break="no"/>niṁ vinava saṁ māna katrīṇi, lvirnya, paṅkur·, tavan·, tirip·, lāvan· sahananiṁ maṅilala dr̥vya haji, vulu-vulu, para vulu, makādi miśra, para
+<lb n="14v1"/><num value="1">1</num>, Ataji, <abbr>ku</abbr> <num value="2">2</num>, muvaḥ mijila saṅke mpu pomah-umaḥ byayaniṅ amūjāṅkə:n· pūrṇnamāmāvăsya, lāvan· pūjā-<supplied reason="omitted">ja</supplied>pa bisuvāṅkə:n· cetrā<lb n="14v2" break="no"/>suji-māsa, mvaṁ dakṣiṇa ri kālaniṁ pūjāntara, grahaṇa, kanyā<unclear>g</unclear>ata, Aliḥ sakakāla, Agaṣṭyodaya, pūjā variga, galuṅan·, tavur iṁ pa<lb n="14v3" break="no"/>praṅan·, tə:bus-tə:busan·, Amurukuṁ, Amapag· bañu, havan-havan·, paḍacaṅan·, Ikā ta kabeḥ paḍa mijil· deni mpu pomah-umaḥ, mvaṁ pa<lb n="14v4" break="no"/>mahayv asiṁ sahanāna<!-- = sa-hana-hana --> ri saṁ hyaṁ dharmma, Ikā ta kaprayatnākna deni mpu pomah-umaḥ</p> <p part="I">kunə:ṁ tiṅkaḥ saṁ hya<unclear>ṁ</unclear> dharmma, sīma svatantra, tan paravyāpāra<unclear>,</unclear> ma<lb n="14v5" break="no"/>ryya kaviśvāśa denikaṁ thāni parahapan·, tan kasiṅkaḥ-siṅkuha, tan· kneṁ pakna-knāgə:ṁṅ admit·, turun-turun· sagə:m sarakut·, bvat-hajyan ado<lb n="14v6" break="no"/>h apaR̥, tan kadgana deniṁ piṅhe vahuta rāma, nāyaka pratyaya, vetniṁ piṇḍaḥ svabhăva, saḥ saṅ<unclear>k</unclear>e paṅāśrayanya, muvaḥ tan <unclear>k</unclear>atamāna de<lb n="14v7" break="no"/>niṁ vinava saṁ māna katrīṇi, lvirnya, paṅkur·, tavan·, tirip·, lāvan· sahananiṁ maṅilala dr̥vya haji, vulu-vulu, para vulu, makādi miśra, para
 <lb n="14v8"/>miśra, paṅhuraṁ, kriṁ, paḍə:m·, manimpiki, parānakan·, limus· galuḥ, maṁriñca, maṅhuri, paraṁ, suṅka, dhura, paṅaruhan·, poḥ galuḥ, suṅgiṁ, pa</p>
          </div>
          <div type="apparatus">
@@ -102,7 +108,7 @@
                      <note>The text elsewhere has <foreign>byaya</foreign> (14rv1) or <foreign>byāya</foreign> (14r5). Cf. also <ref target="DHARMA_INSIDENKKurungan.xml">Kurungan</ref>, line 4: <foreign>piṇḍa pirak vyaya</foreign>.</note>
                   </app>
 	<app loc="14r3">
-		<lem>samāṅanti<supplied reason="subaudible">ḥ</supplied></lem>
+		<lem>samāṅanti<supplied reason="omitted">ḥ</supplied></lem>
 		<rdg source="bib:Naerssen1941_01">samāṅanti</rdg>
 	</app>
 	<app loc="14r3">
@@ -110,7 +116,7 @@
 		<rdg source="bib:Naerssen1941_01">calaghāra</rdg>
 	</app>
 	<app loc="14v1">
-		<lem>pūjā-<supplied reason="subaudible">ja</supplied>pa bisuvāṅkə:n·</lem>
+		<lem>pūjā-<supplied reason="omitted">ja</supplied>pa bisuvāṅkə:n·</lem>
 		<rdg source="bib:Naerssen1941_01">pūjā pabisurāṅkə:n·</rdg>
 		<note><bibl><ptr target="bib:Zoetmulder1982_01"/><citedRange unit="entry"><foreign>biṣuva</foreign>, <foreign>pabiṣuva</foreign></citedRange></bibl> noted that van Naerssen's <foreign>r</foreign> had to be read <foreign>v</foreign>, but did not see that the sequence <foreign>pūjāpa</foreign> is a haplographic error for <foreign>pūjā-japa</foreign>, as found in <ref target="DHARMA_INSIDENKAirAsih.xml">Air Asih</ref> r5 and <ref target="DHARMA_INSIDENKParablyan.xml">Parablyan</ref> r4.</note>
 	</app>

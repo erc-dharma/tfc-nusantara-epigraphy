@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
@@ -88,8 +88,15 @@
 <l n="cd">teṣāñ ca yo niro<lb n="3" break="no"/>dhaḥ| Evamvādī mahāśramaṇaḥ</l>
 </lg>
 
-<p><lb n="4"/>deyadharmmo 'yam pravara-mahāyāna<lb n="5" break="no"/>-yāyinaḥ parama-ratnopāsakaḥ 
-<lb n="6"/>śrī-mahārājādhirājaḥ śrī-kr̥<lb n="7" break="no"/>tanagara-vikrama-jñāna-vajro<lb n="8" break="no"/>ttuṁga-deva-mahārājaḥ yad a<lb n="9" break="no"/>tra puṇyan tad bhavatv ācāryyo<lb n="10" break="no"/>pādhyāya-mātā-pitr̥-pūrvvaṁ<lb n="11" break="no"/>gamaṁ kr̥tvā sakala-satva-rāśe<lb n="12" break="no"/>r anuttara-jñāna-phalāvāptaya 
+<p><lb n="4"/>deyadharmmo 'yam pravara-mahāyāna<lb 
+n="5" break="no"/>-yāyinaḥ parama-ratnopāsakaḥ 
+<lb n="6"/>śrī-mahārājādhirājaḥ śrī-kr̥<lb 
+n="7" break="no"/>tanagara-vikrama-jñāna-vajro<lb 
+n="8" break="no"/>ttuṁga-deva-mahārājaḥ yad a<lb 
+n="9" break="no"/>tra puṇyan tad bhavatv ācāryyo<lb 
+n="10" break="no"/>pādhyāya-mātā-pitr̥-pūrvvaṁ<lb 
+n="11" break="no"/>gamaṁ kr̥tvā sakala-satva-rāśe<lb 
+n="12" break="no"/>r anuttara-jñāna-phalāvāptaya 
 <lb n="13"/>Iti||</p>
          </div>
          <!--<div type="apparatus">

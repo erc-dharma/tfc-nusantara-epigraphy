@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> 
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?> 
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?> 
@@ -65,12 +65,18 @@
          <projectDesc>
             <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
          </projectDesc>
-         <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+         <schemaRef type="guide"
+                    key="EGDv01"
+                    url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
          <listPrefixDef>
-            <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+            <prefixDef ident="bib"
+                       matchPattern="([a-zA-Z0-9\-\_]+)"
+                       replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
                <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
             </prefixDef>
-            <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
+            <prefixDef ident="part"
+                       matchPattern="([a-z]+)"
+                       replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
                <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_idListMembers_v01.xml</ref> file.</p>
             </prefixDef>
          </listPrefixDef>
@@ -86,28 +92,28 @@
                    <div type="edition" xml:lang="kaw-Latn">
             <p>
             <pb n="1r"/>
-            <lb n="1r1"/><g type="ddandaCross">.</g>svasti śaka-varṣătĭta <num value="823">823</num> kă<supplied reason="subaudible">r</supplied>tika-măsa, tithi <num value="10">daśamĭ</num> sukla-pakṣa <abbr>vā</abbr>, <abbr><choice><sic>va</sic><corr>pa</corr></choice></abbr> <abbr>Ă</abbr> văra śatabhiśa-nakṣatra bāru
+            <lb n="1r1"/><g type="ddandaCross">.</g>svasti śaka-varṣătĭta <num value="823">823</num> kă<supplied reason="omitted">r</supplied>tika-măsa, tithi <num value="10">daśamĭ</num> sukla-pakṣa <abbr>vā</abbr>, <abbr><choice><sic>va</sic><corr>pa</corr></choice></abbr> <abbr>Ă</abbr> văra śatabhiśa-nakṣatra bāru
 <lb n="1r2" break="no"/>na-daivatā <choice><sic>hasa</sic><corr>harṣaṇa</corr></choice>-yūga, tatkālanikanaṁ rāma I roṁkab· vinaiḥ mamuputta kaṭik· pră
 <lb n="1r3" break="no"/>ṇa <choice><sic>ga</sic><corr><num value="1">1</num></corr></choice> de saṁ pamaggat· Umaṅgit· pu parvvatta, saṁkā ri nāśani vanvanya <choice><sic>maṅaśa
 <lb n="1r4" break="no"/>Akkan·</sic><corr>maṅasəAkan·</corr></choice> Ikanaṁ rāma pasak·-pasak· I saṁ pamaggat· pirak· <abbr>kā</abbr> <num value="10">10</num> juru
 <lb n="1r5" break="no"/>ni kanayakān· saṁ tamvalaṁ Anak· vanva I kukap· vatak· pagar· vsi, Ata
-<lb n="1r6" break="no"/>ṇḍa pu pavī, juruniṁ la<supplied reason="subaudible">m</supplied>puran· pu dhānada kapva Anak· vanva I turai, vatak· tu
+<lb n="1r6" break="no"/>ṇḍa pu pavī, juruniṁ la<supplied reason="omitted">m</supplied>puran· pu dhānada kapva Anak· vanva I turai, vatak· tu
 <lb n="1r7" break="no"/>rai, juruniṁ vadvā rarai pu gaṇḍaura Anak· vanva I sḍəḥ vatak· taṁkillan·
 <lb n="1r8"/>juruniṁ kalula pu Arka Anak· vanva varyyaṁ vatak· rampakan·, juruniṁ maṁra
-<lb n="1r9" break="no"/>kat· sa<supplied reason="subaudible">ṁ</supplied> ra papaḥ Anak· vanva I təR̥nəḥ vatak· taṁkil·, Amasaṅakan·
-<lb n="1r10"/>pu maṇḍu A<supplied reason="subaudible">nak va</supplied>nva I ra havu vatak· sirikan· Inaṁs<choice><orig>y</orig><reg>ə</reg></choice>an· pasak·-pasak· pirak·
+<lb n="1r9" break="no"/>kat· sa<supplied reason="omitted">ṁ</supplied> ra papaḥ Anak· vanva I təR̥nəḥ vatak· taṁkil·, Amasaṅakan·
+<lb n="1r10"/>pu maṇḍu A<supplied reason="omitted">nak va</supplied>nva I ra havu vatak· sirikan· Inaṁs<choice><orig>y</orig><reg>ə</reg></choice>an· pasak·-pasak· pirak·
 <pb n="1v"/>
-<lb n="1v1"/><abbr><unclear>dhā</unclear></abbr> <num value="5">5</num> kin<surplus>·</surplus><supplied reason="subaudible">a</supplied>baihan·nira vahut<surplus>t</surplus>a I rikanaṁ kāla mukur saṁ bataṁṅan· piṁhai ka
-<lb n="1v2" break="no"/>ḍu sa<supplied reason="subaudible">ṁ</supplied> pataṁṅaḥhan·, kapva Inaṁs<choice><orig>y</orig><reg>ə</reg></choice>an· pasak·-pasak· pirak· dhāraṇa <num value="10">10</num> I sovaṁ
+<lb n="1v1"/><abbr><unclear>dhā</unclear></abbr> <num value="5">5</num> kin<surplus>·</surplus><supplied reason="omitted">a</supplied>baihan·nira vahut<surplus>t</surplus>a I rikanaṁ kāla mukur saṁ bataṁṅan· piṁhai ka
+<lb n="1v2" break="no"/>ḍu sa<supplied reason="omitted">ṁ</supplied> pataṁṅaḥhan·, kapva Inaṁs<choice><orig>y</orig><reg>ə</reg></choice>an· pasak·-pasak· pirak· dhāraṇa <num value="10">10</num> I sovaṁ
 <lb n="1v3" break="no"/>-sovaṁ rāma māgman· Irikana<unclear>ṁ</unclear> kāla kala<unclear>ṁ</unclear> si maṅgal· muAṁ si kya gusti si diśa vinəkas·
 <lb n="1v4"/>si haṅū parujar· si liṇḍuAn· m<unclear>u</unclear>A<unclear>ṁ</unclear> si bicit· rāma maratā si təvak· si julu hulu vras·
 <lb n="1v5"/>si visuva nāhan· kvaiḥnikanaṁ rāma māgman· sinrahan· prasaṣṭi de saṁ pamaggat· Umaṅgit·
 <lb n="1v6"/>pu parbata Anuṁ ḍumatəṅakan· samvaḥnikanaṁ rāma I roṁkab· sa<unclear>ṁ</unclear> talla gusti I su<space type="descender"/>li, sīma vadi
 <lb n="1v7" break="no"/>hati săkṣī saṁ pamaggat· vadihati pu ḍapit· Anak· vanva I pa<unclear>ṁ</unclear>ḍamuAn· vatak· vadihati Inasə
-<lb n="1v8" break="no"/>An· pasak·-pasak· pirak· dhāraṇa <num value="4">4</num> tuhān· miraḥ-miraḥ p<unclear>u</unclear> rayuṁ sanak· I miraḥ-miraḥ vatak· vadi<supplied reason="subaudible">hati</supplied> ma<supplied reason="subaudible">ṁ</supplied>
-<lb n="1v9" break="no"/>ra<supplied reason="subaudible">ṁ</supplied>kappi saṁ halaran· pu dhānada Anak· vanva I paṇḍamuAn· vatak· vadihati kapva Ina<unclear>ṁ</unclear>səAn· pa
+<lb n="1v8" break="no"/>An· pasak·-pasak· pirak· dhāraṇa <num value="4">4</num> tuhān· miraḥ-miraḥ p<unclear>u</unclear> rayuṁ sanak· I miraḥ-miraḥ vatak· vadi<supplied reason="omitted">hati</supplied> ma<supplied reason="omitted">ṁ</supplied>
+<lb n="1v9" break="no"/>ra<supplied reason="omitted">ṁ</supplied>kappi saṁ halaran· pu dhānada Anak· vanva I paṇḍamuAn· vatak· vadihati kapva Ina<unclear>ṁ</unclear>səAn· pa
 <lb n="1v10" break="no"/>sak·-pasak· pirak· <abbr>dhā</abbr> <num value="2">2</num> I sovaṁ-sova<unclear>ṁ</unclear> vahut<surplus>t</surplus>a hya<unclear>ṁ</unclear> tu<space type="descender"/>mut· magu<choice><orig>n</orig><reg>ṇ</reg></choice>ado<choice><orig>s</orig><reg>ṣ</reg></choice>a sa<unclear>ṁ</unclear> siṅgaḥ vvaḥ pu ra
-<lb n="1v11" break="no"/>hula, Anak· vanva I miraḥ-miraḥ vatak· vadihati muAṁ sa<supplied reason="subaudible">ṁ</supplied> habūn· Anak· vanva I turayun· vatak· si
+<lb n="1v11" break="no"/>hula, Anak· vanva I miraḥ-miraḥ vatak· vadihati muAṁ sa<supplied reason="omitted">ṁ</supplied> habūn· Anak· vanva I turayun· vatak· si
 <lb n="1v12" break="no"/>garan· kapva InasəAn· pasak·-pasak· pirak· <abbr>mā</abbr> <num value="7">7</num> I sova<unclear>ṁ</unclear>-sovaṁ karamān· saṁ hadyan· vahu
 <lb n="1v13" break="no"/>tta hya<unclear>ṁ</unclear> makabaiḥhan· pirak· <abbr>dhā</abbr> <num value="1">1</num> kinabaiḥhannira likhitta-patra pu ravi <g type="circle">.</g><g type="circle">.</g><g type="circle">.</g></p>
                    </div>
@@ -119,41 +125,41 @@
 <app loc="1r3"><lem source="bib:BarrettJones1984_01 bib:TerryliaFeisrami2013_01"><choice><sic>ga</sic><corr><num value="1">1</num></corr></choice></lem><rdg source="bib:Boechari1985-1986_01">1</rdg></app>
 <app loc="1r3"><lem source="bib:Boechari1985-1986_01 bib:TerryliaFeisrami2013_01">parvvatta</lem><rdg source="bib:BarrettJones1984_01">parvatta</rdg></app>
 <app loc="1r4"><lem source="bib:TerryliaFeisrami2013_01"><abbr>kā</abbr> <num value="10">10</num></lem><rdg source="bib:BarrettJones1984_01 bib:Boechari1985-1986_01">kā 1</rdg></app>
-<app loc="1r6"><lem source="bib:Boechari1985-1986_01 bib:TerryliaFeisrami2013_01">juruniṁ la<supplied reason="subaudible">m</supplied>puran·</lem><rdg source="bib:BarrettJones1984_01">juruni laṁpuran·</rdg></app>
+<app loc="1r6"><lem source="bib:Boechari1985-1986_01 bib:TerryliaFeisrami2013_01">juruniṁ la<supplied reason="omitted">m</supplied>puran·</lem><rdg source="bib:BarrettJones1984_01">juruni laṁpuran·</rdg></app>
 <app loc="1r7"><lem source="bib:TerryliaFeisrami2013_01">juruniṁ vadvā</lem><rdg source="bib:BarrettJones1984_01">juruniṁ vadva</rdg><rdg source="bib:Boechari1985-1986_01">juruni vadvā</rdg></app>
 <app loc="1r7"><lem source="bib:Boechari1985-1986_01 bib:TerryliaFeisrami2013_01">vanva</lem><rdg source="bib:BarrettJones1984_01">vanuA</rdg></app>
 <!--<app loc="1r7"><lem source="bib:BarrettJones1984_01 bib:TerryliaFeisrami2013_01">taṁkillan·</lem><rdg source="bib:Boechari1985-1986_01">tankillan·</rdg><note>Possibly a misprint in Boechari.I'd probably not even record such a variant reading or at least keep it hidden in a comment in my XML file.Thread kept as a reminder for encoding.</note></app>-->
 <app loc="1r8"><lem source="bib:BarrettJones1984_01 bib:TerryliaFeisrami2013_01">juruniṁ maṁrakat</lem><rdg source="bib:Boechari1985-1986_01">juruni maraṁkat</rdg></app>
-<app loc="1r9"><lem source="bib:BarrettJones1984_01 bib:TerryliaFeisrami2013_01">sa<supplied reason="subaudible">ṁ</supplied> ra papaḥ</lem><rdg source="bib:Boechari1985-1986_01">saṁ ra papaḥ</rdg></app>
+<app loc="1r9"><lem source="bib:BarrettJones1984_01 bib:TerryliaFeisrami2013_01">sa<supplied reason="omitted">ṁ</supplied> ra papaḥ</lem><rdg source="bib:Boechari1985-1986_01">saṁ ra papaḥ</rdg></app>
 <app loc="1v1"><lem source="bib:Boechari1985-1986_01 bib:TerryliaFeisrami2013_01"><num value="5">5</num></lem><rdg source="bib:BarrettJones1984_01">4</rdg></app>
-<app loc="1v1"><lem>kin<surplus>·</surplus><supplied reason="subaudible">a</supplied>baihan·nira</lem><rdg source="bib:BarrettJones1984_01 bib:Boechari1985-1986_01 bib:TerryliaFeisrami2013_01">kinābaihan·nira</rdg></app>
+<app loc="1v1"><lem>kin<surplus>·</surplus><supplied reason="omitted">a</supplied>baihan·nira</lem><rdg source="bib:BarrettJones1984_01 bib:Boechari1985-1986_01 bib:TerryliaFeisrami2013_01">kinābaihan·nira</rdg></app>
 <app loc="1v1"><lem source="bib:Boechari1985-1986_01 bib:TerryliaFeisrami2013_01">rikanaṁ</lem><rdg source="bib:BarrettJones1984_01">rikaṁ</rdg></app>
 <app loc="1v1"><lem source="bib:TerryliaFeisrami2013_01">mukur</lem><rdg source="bib:BarrettJones1984_01 bib:Boechari1985-1986_01">muṁkur</rdg></app>
-<app loc="1v2"><lem source="bib:TerryliaFeisrami2013_01">sa<supplied reason="subaudible">ṁ</supplied> pataṁṅaḥhan·</lem><rdg source="bib:BarrettJones1984_01">saṁ pataṁṅaḥhan·</rdg><rdg source="bib:Boechari1985-1986_01">sa<supplied reason="subaudible">ṁ</supplied> patiṅaḥhan·</rdg></app>
+<app loc="1v2"><lem source="bib:TerryliaFeisrami2013_01">sa<supplied reason="omitted">ṁ</supplied> pataṁṅaḥhan·</lem><rdg source="bib:BarrettJones1984_01">saṁ pataṁṅaḥhan·</rdg><rdg source="bib:Boechari1985-1986_01">sa<supplied reason="omitted">ṁ</supplied> patiṅaḥhan·</rdg></app>
 <app loc="1v2"><lem source="bib:TerryliaFeisrami2013_01"><num value="10">10</num></lem><rdg source="bib:BarrettJones1984_01 bib:Boechari1985-1986_01">1</rdg></app>
 <app loc="1v3"><lem source="bib:Boechari1985-1986_01 bib:TerryliaFeisrami2013_01">Irikana<unclear>ṁ</unclear></lem><rdg source="bib:BarrettJones1984_01">Irikaṁ</rdg></app>
-<app loc="1v6"><lem>sa<unclear>ṁ</unclear> talla</lem><rdg source="bib:BarrettJones1984_01 bib:TerryliaFeisrami2013_01">sa<supplied reason="subaudible">ṁ</supplied> talla</rdg><rdg source="bib:Boechari1985-1986_01">sa<supplied reason="subaudible">ṁ</supplied> talu</rdg></app>
+<app loc="1v6"><lem>sa<unclear>ṁ</unclear> talla</lem><rdg source="bib:BarrettJones1984_01 bib:TerryliaFeisrami2013_01">sa<supplied reason="omitted">ṁ</supplied> talla</rdg><rdg source="bib:Boechari1985-1986_01">sa<supplied reason="omitted">ṁ</supplied> talu</rdg></app>
 <app loc="1v6"><lem source="bib:BarrettJones1984_01 bib:TerryliaFeisrami2013_01">su<space type="descender" unit="character" quantity="1"/>li</lem><rdg source="bib:BarrettJones1984_01">suliṁ</rdg></app>
 <app loc="1v7"><lem source="bib:BarrettJones1984_01 bib:TerryliaFeisrami2013_01">săkṣī</lem><rdg source="bib:Boechari1985-1986_01">sakṣi</rdg></app>
 <app loc="1v7"><lem source="bib:Boechari1985-1986_01 bib:TerryliaFeisrami2013_01">pa<unclear>ṁ</unclear>ḍamuAn</lem><rdg source="bib:BarrettJones1984_01">paḍamuAn</rdg> <note>Cf. 1v9 below and <title>Mantyasih I</title> (1v15), <title>Rukam</title> (1v9), <title>Kasugihan</title> (1v3).</note></app>
 <app loc="1v7-8"><lem source="bib:Boechari1985-1986_01 bib:TerryliaFeisrami2013_01">InasəAn·</lem><rdg source="bib:BarrettJones1984_01">InaṁsəAn·</rdg></app>
 <app loc="1v8"><lem source="bib:Boechari1985-1986_01 bib:TerryliaFeisrami2013_01"><num value="4">4</num></lem><rdg source="bib:BarrettJones1984_01">3</rdg></app>
 <app loc="1v8"><lem source="bib:BarrettJones1984_01 bib:TerryliaFeisrami2013_01">sanak·</lem><rdg source="bib:Boechari1985-1986_01">Anak·</rdg></app>
-<app loc="1v8-9"><lem source="bib:TerryliaFeisrami2013_01">ma<supplied reason="subaudible">ṁ</supplied>rakappi</lem><rdg source="bib:BarrettJones1984_01">maṁraṁkappi</rdg><rdg source="bib:Boechari1985-1986_01">maṁrakappi </rdg></app>
+<app loc="1v8-9"><lem source="bib:TerryliaFeisrami2013_01">ma<supplied reason="omitted">ṁ</supplied>rakappi</lem><rdg source="bib:BarrettJones1984_01">maṁraṁkappi</rdg><rdg source="bib:Boechari1985-1986_01">maṁrakappi </rdg></app>
 <!--<app loc="1v9"><lem source="bib:Boechari1985-1986_01">Ina<unclear>ṁ</unclear>seAn·</lem><rdg source="bib:BarrettJones1984_01 bib:TerryliaFeisrami2013_01">InasəAn·</rdg> <note>Probably a misprint in Boechari of e for ə.I'd probably not even record such a variant reading or at least keep it hidden in a comment in my XML file.Thread kept as reminder</note></app>-->
 <app loc="1v10"><lem source="bib:Boechari1985-1986_01 bib:TerryliaFeisrami2013_01">magunadosa</lem><rdg source="bib:BarrettJones1984_01">maṅunadosa</rdg></app>
-<app loc="1v11"><lem source="bib:BarrettJones1984_01">sa<supplied reason="subaudible">ṁ</supplied> habūn</lem><rdg source="bib:Boechari1985-1986_01 bib:TerryliaFeisrami2013_01">saṁ habūn</rdg></app>
+<app loc="1v11"><lem source="bib:BarrettJones1984_01">sa<supplied reason="omitted">ṁ</supplied> habūn</lem><rdg source="bib:Boechari1985-1986_01 bib:TerryliaFeisrami2013_01">saṁ habūn</rdg></app>
 <!--<app loc="1v12"><lem source="bib:BarrettJones1984_01 bib:TerryliaFeisrami2013_01">InasəAn·</lem><rdg source="bib:Boechari1985-1986_01">InaseAn·</rdg> <note>Probably a misprint in Boechari.</note></app>-->
 <!--<app loc="1v12"><lem source="bib:Boechari1985-1986_01 bib:TerryliaFeisrami2013_01">mā 7 I</lem><rdg source="bib:BarrettJones1984_01">mā - na</rdg> <note>Barrett Jones did not read any numeral.</note></app>-->
-<app loc="1v13"><lem source="bib:BarrettJones1984_01 bib:Boechari1985-1986_01">hya<unclear>ṁ</unclear></lem><rdg source="bib:TerryliaFeisrami2013_01">hya<supplied reason="subaudible">ṁ</supplied></rdg></app>
+<app loc="1v13"><lem source="bib:BarrettJones1984_01 bib:Boechari1985-1986_01">hya<unclear>ṁ</unclear></lem><rdg source="bib:TerryliaFeisrami2013_01">hya<supplied reason="omitted">ṁ</supplied></rdg></app>
 <app loc="1v13"><lem source="bib:BarrettJones1984_01 bib:TerryliaFeisrami2013_01">makabaiḥhan·</lem><rdg source="bib:Boechari1985-1986_01">makabaiḥkan·</rdg>
 </app>
                        </div>
                <div type="translation" resp="part:wjsa part:argr">
-               <p n="1r1-1r3">Hail! Elapsed Śaka year 823, month Kārtika, tenth <foreign>tithi</foreign> of the waxing fortnight, Vās, Pahiṅ, Sunday, lunar mansion  Śatabhiṣaj, deity Bāruna, conjunction Harṣaṇa, that was when the headmen of Roṅkab were permitted to cease <supplied reason="subaudible">providing</supplied> <num value="1">1</num> servant by the official of Umaṅgit, <foreign>pu</foreign> Parvata due to the destruction of their village.</p>
+               <p n="1r1-1r3">Hail! Elapsed Śaka year 823, month Kārtika, tenth <foreign>tithi</foreign> of the waxing fortnight, Vās, Pahiṅ, Sunday, lunar mansion  Śatabhiṣaj, deity Bāruna, conjunction Harṣaṇa, that was when the headmen of Roṅkab were permitted to cease <supplied reason="omitted">providing</supplied> <num value="1">1</num> servant by the official of Umaṅgit, <foreign>pu</foreign> Parvata due to the destruction of their village.</p>
                
                <p n="1r3-1v1">The headmen gave gifts to:
-<list><item>the official <supplied reason="subaudible">of Umaṅgit</supplied>, <num value="10">10</num> <foreign>kāṭi</foreign>s of silver,</item>
+<list><item>the official <supplied reason="omitted">of Umaṅgit</supplied>, <num value="10">10</num> <foreign>kāṭi</foreign>s of silver,</item>
 <item>the master of the <foreign>kanayakān</foreign>, <foreign>saṅ</foreign> Tamvalaṅ, native of the village of Kukap, district Pagar Vəsi,</item>
 <item>the <foreign>ataṇḍa</foreign>, <foreign>pu</foreign> Pavī,</item>
 <item>the master of the <foreign>lampuran</foreign>, <foreign>pu</foreign> Dhānada, both natives of the village of Turai, district Turai,</item>
@@ -192,7 +198,7 @@ were both offered gifts: <foreign>2</foreign> <foreign>dhāraṇa</foreign>s of 
 <item><foreign>saṅ</foreign> Habūn, native of the village of Turayun, district Sigaran,</item></list>
 were both offered gifts: <foreign>7</foreign> <foreign>māṣa</foreign>s of silver each.</p>
 
-<p n="1v12-1v13">The group of headmen, the lord, the <foreign>vahuta</foreign>s of the deity, were collectively <supplied reason="subaudible">given</supplied> <num value="1">1</num> <foreign>dhāraṇa</foreign> of silver.</p>
+<p n="1v12-1v13">The group of headmen, the lord, the <foreign>vahuta</foreign>s of the deity, were collectively <supplied reason="omitted">given</supplied> <num value="1">1</num> <foreign>dhāraṇa</foreign> of silver.</p>
 
 <p n="1v13">The scribe was <foreign>pu</foreign> Ravi.</p>
 
@@ -200,7 +206,7 @@ were both offered gifts: <foreign>7</foreign> <foreign>māṣa</foreign>s of sil
             <div type="commentary">
               <p>Word-final <foreign>-uA</foreign> is consistently spelled <foreign>-va</foreign> (e.g. <foreign>vanva</foreign>, kapva), which is somewhat unusual for the early tenth century. The word <foreign>vahuta</foreign> is consistently spelled <foreign>vahut<surplus>t</surplus>a</foreign>, and the word <foreign>Inaṁsəan·</foreign> as <foreign>Inaṁsyan</foreign>.</p>
               <p n="1r1">The date of this inscription, particularly the erroneous astral elements, is discussed at length by Eade and Gislén (<bibl rend="omitname"><ptr target="bib:Eade+Gislen2000_01"/></bibl>: 26-30).</p>
-              <p n="1v8"><foreign>vadi<supplied reason="subaudible">hati</supplied></foreign>: Cf. above (1v7) and Damais (<bibl rend="omitname"><ptr target="bib:Damais1970_01"/></bibl>), s.v. <foreign>mirah-mirah</foreign>.</p>
+              <p n="1v8"><foreign>vadi<supplied reason="omitted">hati</supplied></foreign>: Cf. above (1v7) and Damais (<bibl rend="omitname"><ptr target="bib:Damais1970_01"/></bibl>), s.v. <foreign>mirah-mirah</foreign>.</p>
               <p n="1v13">This line begins after an indent from the left margin of about six <foreign>akṣara</foreign>s.</p>
             </div>
              <div type="bibliography">

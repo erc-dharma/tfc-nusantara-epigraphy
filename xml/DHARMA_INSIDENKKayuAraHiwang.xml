@@ -64,12 +64,18 @@
          <projectDesc>
             <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
          </projectDesc>
-         <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+         <schemaRef type="guide"
+                    key="EGDv01"
+                    url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
          <listPrefixDef>
-            <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+            <prefixDef ident="bib"
+                       matchPattern="([a-zA-Z0-9\-\_]+)"
+                       replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
                <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
             </prefixDef>
-            <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
+            <prefixDef ident="part"
+                       matchPattern="([a-z]+)"
+                       replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
                <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_idListMembers_v01.xml</ref> file.</p>
             </prefixDef>
          </listPrefixDef>
@@ -82,41 +88,57 @@
    <text xml:space="preserve">
            <body> 
                    <div type="edition" xml:lang="kaw-Latn">
-<p><lb n="1"/><milestone unit="face" n="A"/>// sva<choice><orig>ṣ</orig><reg>s</reg></choice>ti śaka-varṣātīta <num value="823">823</num> Asuji-māsa pañcamī kr̥<milestone unit="face" n="b" break="no"/>ṣṇa-pakṣa, vurukuṁ <milestone unit="face" n="C"/>pahiṁ soma-vāra Aṅgāra-stha m<choice><orig>r̥</orig><reg>ār</reg></choice>gaśĭra-ṇakṣatra, śiva-yo<milestone unit="face" n="d" break="no"/>ga<supplied reason="subaudible">,</supplied></p>
+<p><lb n="1"/><milestone unit="face" n="A"/>// sva<choice><orig>ṣ</orig><reg>s</reg></choice>ti śaka-varṣātīta <num value="823">823</num> Asuji-māsa pañcamī kr̥<milestone unit="face" n="b" break="no"/>ṣṇa-pakṣa, vurukuṁ <milestone unit="face" n="C"/>pahiṁ soma-vāra Aṅgāra-stha m<choice><orig>r̥</orig><reg>ār</reg></choice>gaśĭra-ṇakṣatra, śiva-yo<milestone unit="face" n="d" break="no"/>ga<supplied reason="omitted">,</supplied></p>
 
-<p>tatkāla rake <lb n="2"/><milestone unit="face" n="A"/>vanuA poḥ dyaḥ mala vka saṁ ratu bajra Anak vanuA I parivuta<milestone unit="face" n="b" break="no"/>n· sumusuk· I<milestone unit="face" n="C" break="no"/>kanaṁ va<unclear>nu</unclear>A I kayu Āra hivaṁ, vatak· vatu tihaṁ paṁ<milestone unit="face" n="d" break="no"/>guhan· kaṭi<unclear>knya</unclear>
+<p>tatkāla rake <lb 
+n="2"/><milestone unit="face" n="A"/>vanuA poḥ dyaḥ mala vka saṁ ratu bajra Anak vanuA I parivuta<milestone unit="face" n="b" break="no"/>n· sumusuk· I<milestone unit="face" n="C" break="no"/>kanaṁ va<unclear>nu</unclear>A I kayu Āra hivaṁ, vatak· vatu tihaṁ paṁ<milestone unit="face" n="d" break="no"/>guhan· kaṭi<unclear>knya</unclear>
 
-<lb n="3"/><milestone unit="face" n="A"/>ta<unclear>tag</unclear>anya, pala gagānya, Ityevammādi sapinasu<milestone unit="face" n="b" break="no"/>knikanaṁ vanuA I <milestone unit="face" n="C"/>kayu Ara hivaṁ sinusuk· rake vanuA poḥ, sīmani pa<milestone unit="face" n="d" break="no"/>rhyaṅan Iṁ parivu<lb break="no" n="4"/><milestone unit="face" break="no" n="A"/>tan· muAṁ gumavaya Ikanaṁ UAt· I parivutan· <milestone unit="face" n="b"/>sakahalānya pa<milestone unit="face" break="no" n="C"/>hayūn·‚ tan deyan· pagaL̥ sakaL̥ḥ, nāhan· vu<milestone unit="face" break="no" n="d"/><unclear>Aṁ</unclear> <gap reason="lost" quantity="1" unit="character"/> <unclear>ha</unclear>jya rika
+<lb n="3"/><milestone unit="face" n="A"/>ta<unclear>tag</unclear>anya, pala gagānya, Ityevammādi sapinasu<milestone unit="face" n="b" break="no"/>knikanaṁ vanuA I <milestone unit="face" n="C"/>kayu Ara hivaṁ sinusuk· rake vanuA poḥ, sīmani pa<milestone unit="face" n="d" break="no"/>rhyaṅan Iṁ parivu<lb break="no" 
+n="4"/><milestone unit="face" break="no" n="A"/>tan· muAṁ gumavaya Ikanaṁ UAt· I parivutan· <milestone unit="face" n="b"/>sakahalānya pa<milestone unit="face" break="no" n="C"/>hayūn·‚ tan deyan· pagaL̥ sakaL̥ḥ, nāhan· vu<milestone unit="face" break="no" n="d"/><unclear>Aṁ</unclear> <gap reason="lost" quantity="1" unit="character"/> <unclear>ha</unclear>jya rika
 
 <lb n="5" break="no"/><milestone unit="face" n="A" break="no"/>naṁ Anak· vanuA I <unclear>kayu Ara</unclear> hivaṁ mataṅyan· si<milestone unit="face" n="b" break="no"/>n<unclear>ī</unclear>ma de rake va<milestone unit="face" n="C" break="no"/>nuA poḥ dyaḥ mala, Anuṁ panusukan· rake vanu<milestone unit="face" n="d" break="no"/>A poḥ rikanaṁ ba
 
-<lb n="6" break="no"/><milestone unit="face" n="A" break="no"/>nuA ri kayu Ara hivaṁ, </p><p>rakryan· I vatu tihaṁ pu saṁ<milestone unit="face" n="b"/>grāmadhurandhara, A<milestone unit="face" n="C" break="no"/>nak· vanuA I gulak· vatak· mamali deśa <milestone unit="face" n="d" break="no"/>InaṁsəAn· vḍiha<lb break="no" n="7"/><milestone unit="face" n="A" break="no"/>n· gañja<supplied reason="subaudible">r·</supplied> haji pātra sisi yu 1 pirak· kāti 1 <milestone unit="face" n="b"/>siṁsiṁ* prasāda <milestone unit="face" n="C"/>voḥ 1 brat· su 1 rakryan· patimpuḥ pu ramya <milestone unit="face" n="d"/>Anak· banuA I
+<lb n="6" break="no"/><milestone unit="face" n="A" break="no"/>nuA ri kayu Ara hivaṁ, </p><p>rakryan· I vatu tihaṁ pu saṁ<milestone unit="face" n="b"/>grāmadhurandhara, A<milestone unit="face" n="C" break="no"/>nak· vanuA I gulak· vatak· mamali deśa <milestone unit="face" n="d" break="no"/>InaṁsəAn· vḍiha<lb break="no"
 
-<lb n="8"/><milestone unit="face" n="A"/>paraṅgaṁ vatak· paraṅgaṁ InasəAn· ken· gañja<unclear>r·</unclear> <milestone unit="face" n="b"/>haji pātra sisi <milestone unit="face" n="C"/> blaḥ 1 pirak· ka 1 mā 2 siṁsiṁ* prāsāda voḥ <milestone unit="face" n="d" break="no"/> 1 brat· mā 8 sa<lb break="no" n="9"/><milestone unit="face" n="A" break="no"/>magat· vadihati pu ḍaṁpit· Anak· banva I paḍa<milestone break="no" unit="face" n="b"/>muAn· vatak· <milestone unit="face" n="C"/>vadihati vḍihan· raṅga yu 1 mas· su 1 mā 4 siṁsi<milestone break="no" unit="face" n="d"/>ṁ* <unclear>prāsā</unclear>da voḥ 1
+n="7"/><milestone unit="face" n="A" break="no"/>n· gañja<supplied reason="omitted">r·</supplied> haji pātra sisi yu 1 pirak· kāti 1 <milestone unit="face" n="b"/>siṁsiṁ* prasāda <milestone unit="face" n="C"/>voḥ 1 brat· su 1 rakryan· patimpuḥ pu ramya <milestone unit="face" n="d"/>Anak· banuA I
+
+<lb n="8"/><milestone unit="face" n="A"/>paraṅgaṁ vatak· paraṅgaṁ InasəAn· ken· gañja<unclear>r·</unclear> <milestone unit="face" n="b"/>haji pātra sisi <milestone unit="face" n="C"/> blaḥ 1 pirak· ka 1 mā 2 siṁsiṁ* prāsāda voḥ <milestone unit="face" n="d" break="no"/> 1 brat· mā 8 sa<lb break="no" 
+
+n="9"/><milestone unit="face" n="A" break="no"/>magat· vadihati pu ḍaṁpit· Anak· banva I paḍa<milestone break="no" unit="face" n="b" />muAn· vatak· <milestone unit="face" n="C"/>vadihati vḍihan· raṅga yu 1 mas· su 1 mā 4 siṁsi<milestone break="no" unit="face" n="d"/>ṁ* <unclear>prāsā</unclear>da voḥ 1
 
 <lb n="10"/><milestone unit="face" n="A"/>brat· ma 6 tuhān· I<unclear>ṁ</unclear> makudur· saṁ vaṅun· sugiḥ
-<milestone unit="face" n="b"/>pu maṇikṣa Ana<supplied reason="subaudible">k·</supplied>              
+<milestone unit="face" n="b"/>pu maṇikṣa Ana<supplied reason="omitted">k·</supplied>              
 <milestone unit="face" n="C"/>banva mantya<unclear>s</unclear>iḥ vatak· makudur· vḍihan· raṅga 
 <milestone unit="face" n="d"/>yu 1 mas· mā 1
 
 <lb n="11"/><milestone unit="face" n="A"/>siṁsiṁ prāsāda voḥ 1 brat· mā 6 maṁraṅkappi tuhān· 
 <milestone unit="face" n="b"/>sapāsampañjaṁ pu 
 <milestone unit="face" n="C"/>dharmmi Anak· banva I mḍaṁ vatak· makudur· vḍihan· 
-<milestone unit="face" n="d"/>raṅga yu 1 <supplied reason="subaudible">mas·</supplied> mā 1
+<milestone unit="face" n="d"/>raṅga yu 1 <supplied reason="omitted">mas·</supplied> mā 1
 
 <lb n="12"/><milestone unit="face" n="A"/>siṁsiṁ prāsāda voḥ 1 brat· mā 6 sa<unclear>ṁ</unclear> makalam·bi manu<milestone break="no" unit="face" n="b"/>suk· saṁ tulumpu<milestone break="no" unit="face" n="C"/>k· pu naru Anak· banuA I pupur· vatak· vadi<milestone break="no" unit="face" n="d"/>hati vḍihan· raṅga
 
 <lb n="13"/><milestone unit="face" n="A"/>yu 1 mas· mā 12 hop paṅaṅkat· panuṁsuṁ saṁ ma<milestone break="no" unit="face" n="b"/>kudur· saṁ ḍalu<milestone break="no" unit="face" n="C"/>k· pu taṅak ramani lacīra kaki muḍiṁ Anak vanva I <milestone unit="face" n="d"/>taji vatak· taji
 
-<lb n="14"/><milestone unit="face" n="A"/>vḍihan· raṅga yu 1 mas· mā 12 hop· paṅaṅkat· pa<milestone break="no" unit="face" n="b"/>nuṁsuṁ tuhānni ka<milestone break="no" unit="face" n="C"/>nayakānya I vatu tihaṁ rake vaskar· tāl· pu su<milestone break="no" unit="face" n="d"/>draka Anak vanva I<unclear>ṁ</unclear> ka<lb break="no" n="15"/><milestone unit="face" n="A" break="no"/>sugihan· vatak· Ugihan· vḍihan· raṅga yu 1 <milestone unit="face" n="b"/>mas· mā 6 maṁra<milestone break="no" unit="face" n="C"/><surplus>maṁra</surplus><supplied reason="subaudible">ṁ</supplied>kappi tuhānni kanayakān· rake pa<unclear>ka</unclear>mviṅan· 
-<milestone break="no" unit="face" n="d"/>pu paṇḍava Anak· va<lb break="no" n="16"/><milestone unit="face" n="A" break="no"/>nva I lamvar· vatak varu ranu‚ vḍihan· raṅga yu 1 mas· mā 
-<milestone unit="face" n="b"/>6 tuhānni la<supplied reason="subaudible">m</supplied>pu<milestone break="no" unit="face" n="C"/>ran· rake vava hyaṁ lampuran· pu manu Anak vanva I 
-<milestone unit="face" n="d"/>paṅgamulan· va<unclear>ta</unclear><lb break="no" n="17"/><milestone unit="face" n="A" break="no"/>k· manuṅkuli vḍihan· raṅga yu 1 mas· mā 6 paruja<milestone break="no" unit="face" n="b"/>r· saṁ Alas galu<unclear>ḥ</unclear> <milestone unit="face" n="C"/>pu vĭryya Anak vanva I kalaṁkyaṁ vatak· pagar vsi 
+<lb n="14"/><milestone unit="face" n="A"/>vḍihan· raṅga yu 1 mas· mā 12 hop· paṅaṅkat· pa<milestone break="no" unit="face" n="b"/>nuṁsuṁ tuhānni ka<milestone break="no" unit="face" n="C"/>nayakānya I vatu tihaṁ rake vaskar· tāl· pu su<milestone break="no" unit="face" n="d"/>draka Anak vanva I<unclear>ṁ</unclear> ka<lb break="no" 
+
+n="15"/><milestone unit="face" n="A" break="no"/>sugihan· vatak· Ugihan· vḍihan· raṅga yu 1 <milestone unit="face" n="b"/>mas· mā 6 maṁra<milestone break="no" unit="face" n="C"/><surplus>maṁra</surplus><supplied reason="omitted">ṁ</supplied>kappi tuhānni kanayakān· rake pa<unclear>ka</unclear>mviṅan· 
+<milestone break="no" unit="face" n="d"/>pu paṇḍava Anak· va<lb break="no" 
+
+n="16"/><milestone unit="face" n="A" break="no"/>nva I lamvar· vatak varu ranu‚ vḍihan· raṅga yu 1 mas· mā 
+<milestone unit="face" n="b"/>6 tuhānni la<supplied reason="omitted">m</supplied>pu<milestone break="no" unit="face" n="C"/>ran· rake vava hyaṁ lampuran· pu manu Anak vanva I 
+<milestone unit="face" n="d"/>paṅgamulan· va<unclear>ta</unclear><lb break="no" 
+
+n="17"/><milestone unit="face" n="A" break="no"/>k· manuṅkuli vḍihan· raṅga yu 1 mas· mā 6 paruja<milestone break="no" unit="face" n="b"/>r· saṁ Alas galu<unclear>ḥ</unclear> <milestone unit="face" n="C"/>pu vĭryya Anak vanva I kalaṁkyaṁ vatak· pagar vsi 
 <milestone unit="face" n="d"/>vḍi<unclear>ha</unclear>n· raṅga yu 1
 
-<lb n="18"/><milestone unit="face" n="A"/>mas· mā 4 mataṇḍa saṁ ḍa sagar· putuAn· Anak va<milestone break="no" unit="face" n="b"/>nva I śru Ayun· <milestone unit="face" n="C"/>vatak· hino vḍihan· <supplied reason="subaudible">ra</supplied>ṅga yu 1 mas· mā 6 
-<milestone unit="face" n="d"/>tuhanni ddhāraśa ra<lb break="no" n="19"/><milestone unit="face" n="A"/>kai simvat· hayu parvvata Anak vanva I sumu mila<milestone break="no" unit="face" n="b"/>k· vatak· vka <milestone unit="face" n="C"/>vḍihan· raṅ<unclear>g</unclear>a yu 1 mas· mā 4 tuhanni dva
-<milestone break="no" unit="face" n="d"/>ḍmit· papa lara<lb break="no" n="20"/><milestone unit="face" n="A" break="no"/>san· pu deva Anak vanva I poha vatak· vka <milestone unit="face" n="b"/>vḍihan· raṅga yu <milestone unit="face" n="C"/>1 mas· mā 6 tuhanni mataṇḍākan· samga<supplied reason="subaudible">t·</supplied> <milestone unit="face" n="d"/>gunuṁ tanayan·
+<lb n="18"/><milestone unit="face" n="A"/>mas· mā 4 mataṇḍa saṁ ḍa sagar· putuAn· Anak va<milestone break="no" unit="face" n="b"/>nva I śru Ayun· <milestone unit="face" n="C"/>vatak· hino vḍihan· <supplied reason="omitted">ra</supplied>ṅga yu 1 mas· mā 6 
+<milestone unit="face" n="d"/>tuhanni ddhāraśa ra<lb break="no" 
+
+n="19" /><milestone unit="face" n="A"/>kai simvat· hayu parvvata Anak vanva I sumu mila<milestone break="no" unit="face" n="b"/>k· vatak· vka <milestone unit="face" n="C"/>vḍihan· raṅ<unclear>g</unclear>a yu 1 mas· mā 4 tuhanni dva
+<milestone break="no" unit="face" n="d"/>ḍmit· papa lara<lb break="no" 
+
+n="20"/><milestone unit="face" n="A" break="no"/>san· pu deva Anak vanva I poha vatak· vka <milestone unit="face" n="b"/>vḍihan· raṅga yu <milestone unit="face" n="C"/>1 mas· mā 6 tuhanni mataṇḍākan· samga<supplied reason="omitted">t·</supplied> <milestone unit="face" n="d"/>gunuṁ tanayan·
 
 <lb n="21"/><milestone unit="face" n="A"/>pu basu Anak vanva I koluṅan· vatak· vka vḍi<milestone break="no" unit="face" n="b"/>han· raṅga yu <milestone unit="face" n="C"/>1 mas· mā 6 <g type="ddanda">.</g><g type="circle">.</g><g type="ddanda">.</g></p>
                        

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
@@ -61,13 +61,19 @@
                         under the European Union's Horizon 2020 research and innovation programme (grant
                         agreement no 809994).</p>
          </projectDesc>
-         <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+         <schemaRef type="guide"
+                    key="EGDv01"
+                    url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
          <listPrefixDef>
-            <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+            <prefixDef ident="bib"
+                       matchPattern="([a-zA-Z0-9\-\_]+)"
+                       replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
                <p>Public URIs with the prefix bib to point to a Zotero Group Library named
                             ERC-DHARMA whose data are open to the public.</p>
             </prefixDef>
-            <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+            <prefixDef ident="part"
+                       matchPattern="([a-z]+)"
+                       replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
                <p>Internal URIs using the part prefix to point to person elements in the
                             <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
             </prefixDef>
@@ -93,8 +99,8 @@
 <lb n="6"/>pu sr̥ṣṭi<g type="circleMed">.</g> vinkas· pu kalula<g type="circleMed">.</g> variga si dharinī<g type="circleMed">.</g> huler· pu yogī<g type="circleMed">.</g> parujar· pu R̥ṣi<g type="circleMed">.</g> marhyaṁ vetan· pu guvindī<g type="circleMed">.</g> marhyaṁ lor· pu bhī<space type="descender"/>ma<g type="circleMed">.</g> <unclear>rā</unclear>ma mara<lb break="no" n="7"/>tā patiḥ matuha pu vadvā<g type="circleMed">.</g> pu vir=yan·<!--pasangan ya below aksara y — or should we read vicyan?--> pu ḍavak· pu gaṭā pu nakha<g type="circleMed">.</g> pu kəkal· pu maṇḍi pu sutā<g type="circleMed">.</g> pu vuruntuṁ<g type="circleMed">.</g> pu palvak· pu dyan· pu Andalan· pu sabval·<g type="circleMed">.</g> <unclear>pu</unclear>
 <lb n="8"/>bisir· pu tman· pu vray· pu ḍaluṁ<g type="circleMed">.</g> punta kuḍu<g type="circleMed">.</g> punta ke<unclear>ṣ</unclear>·<g type="circleMed">.</g> punta sraṅan·<g type="circleMed">.</g> pu cuṅul·<g type="circleMed">.</g> pu kes·<g type="circleMed">.</g> pu vajil·<g type="circleMed">.</g> pu saṅgan·<g type="circleMed">.</g> pu kamala<g type="circleMed">.</g> pu sukha<g type="circleMed">.</g>
 <lb n="9"/>pu Aṅgada<g type="circleMed">.</g> pu plī<g type="circleMed">.</g> pu dhanada<g type="circleMed">.</g> pu taṁtaṁ<g type="circleMed">.</g> pu gaccha<g type="circleMed">.</g> pu gadhī<unclear><g type="circleMed">.</g></unclear> pu māgha<unclear><g type="circleMed">.</g></unclear> pu gusay·<g type="circleMed">.</g> pu samvok·<g type="circleMed">.</g></p> <p>nāhan· sira rāma Umeḥhakan·n ikāṁ savaḥ śīma ḍaṅ ā<lb break="no" n="10"/>cāryya munīndra<g type="circleMed">.</g> huvus śuddha-pariśuddha<g type="circleMed">.</g></p> <p>tatra sākṣī<g type="circleMed">.</g> bhagavanta puccha<g type="circleMed">.</g> punta kamala<g type="circleMed">.</g> punta sukha<g type="circleMed">.</g> punta cvat· saṅke kataṅgaran·<g type="circleHigh">.</g> rake praṣ· punta
-<lb n="11"/>koṭi saṁ <space/> śivaśiddha<g type="circleHigh">.</g> śivāṅga<unclear><g type="circleMed">.</g></unclear> sudar·<g type="circleMed">.</g> saṅke paku bāṁ<g type="circleMed">.</g> saṁ parujar· I kayu vaṅi<!-- St. read a punctuation sign here --> saṁ hadyan· Agasti<g type="circleMed">.</g> saṁ vidyadeva<g type="circleMed">.</g> <supplied reason="subaudible">saṅke</supplied> vanva I kavaṅyan·<g type="circleMed">.</g> ḍa punta
-<lb n="12"/>bhāṣa<g type="circleHigh">.</g> punta dhānyā<g type="circleMed">.</g> saṁ ditiṁ<g type="circleLow">.</g> pu lĭna<g type="circleMed">.</g> saṅke kasugihan·<g type="circleMed">.</g> ḍaṅ ācāryya gandhara saṅke vanva galuḥ<g type="circleMed">.</g> saṁ ratna <supplied reason="subaudible">saṅke</supplied> va<choice><sic>d</sic><corr>n</corr></choice>va I vuru tuṅgal·<g type="circleMed">.</g></p> <p>likhi<unclear>ta</unclear> saṁ jyo<lb break="no" style="text-align: right" n="13"/>tiḥ satetīsus· <g type="ddandaHooked"/> <g type="ddandaHooked"/> <g type="ddandaHooked"/></p>
+<lb n="11"/>koṭi saṁ <space/> śivaśiddha<g type="circleHigh">.</g> śivāṅga<unclear><g type="circleMed">.</g></unclear> sudar·<g type="circleMed">.</g> saṅke paku bāṁ<g type="circleMed">.</g> saṁ parujar· I kayu vaṅi<!-- St. read a punctuation sign here --> saṁ hadyan· Agasti<g type="circleMed">.</g> saṁ vidyadeva<g type="circleMed">.</g> <supplied reason="omitted">saṅke</supplied> vanva I kavaṅyan·<g type="circleMed">.</g> ḍa punta
+<lb n="12"/>bhāṣa<g type="circleHigh">.</g> punta dhānyā<g type="circleMed">.</g> saṁ ditiṁ<g type="circleLow">.</g> pu lĭna<g type="circleMed">.</g> saṅke kasugihan·<g type="circleMed">.</g> ḍaṅ ācāryya gandhara saṅke vanva galuḥ<g type="circleMed">.</g> saṁ ratna <supplied reason="omitted">saṅke</supplied> va<choice><sic>d</sic><corr>n</corr></choice>va I vuru tuṅgal·<g type="circleMed">.</g></p> <p>likhi<unclear>ta</unclear> saṁ jyo<lb break="no" style="text-align: right" n="13"/>tiḥ satetīsus· <g type="ddandaHooked"/> <g type="ddandaHooked"/> <g type="ddandaHooked"/></p>
          </div>
          <div type="apparatus">
  	<listApp>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?> <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?> <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?> <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?> <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
    <teiHeader>
       <fileDesc>
@@ -58,12 +58,18 @@
          <projectDesc>
             <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
          </projectDesc>
-         <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+         <schemaRef type="guide"
+                    key="EGDv01"
+                    url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
          <listPrefixDef>
-            <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+            <prefixDef ident="bib"
+                       matchPattern="([a-zA-Z0-9\-\_]+)"
+                       replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
                <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
             </prefixDef>
-            <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
+            <prefixDef ident="part"
+                       matchPattern="([a-z]+)"
+                       replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
                <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_idListMembers_v01.xml</ref> file.</p>
             </prefixDef>
          </listPrefixDef>
@@ -82,7 +88,7 @@
 <lb n="3"/><gap reason="lost" extent="unknown"/>· parujar· I <unclear>maṁ</unclear><gap reason="lost" extent="unknown"/> hu<supplied reason="lost">ri</supplied> <supplied reason="lost">ranuĪ</supplied><gap reason="lost" extent="unknown"/>   bhasa<supplied reason="lost">ṁ</supplied> gupura sanakh vanuA I hinapit· vata <unclear>k·</unclear> <supplied reason="lost">vka</supplied> <del>4</del>
 <lb n="4"/> <gap reason="lost" extent="unknown"/> n· <del>1</del>natoda <del>6</del> A I s<supplied reason="lost">i</supplied>ṅhapura vatak· ma<unclear>mra</unclear>ti parujar· I takaCVvān· rā<supplied reason="lost">luk</supplied> <del>9</del>
 <lb n="5"/> <gap reason="lost" extent="unknown"/> <supplied reason="lost">ka</supplied>ṇḍam<supplied reason="lost">u</supplied>Chia vatak· CV<unclear>da</unclear>n·, parujar· I ti<supplied reason="lost">ri</supplied>CVp·ā <del>3</del>rā <del>5</del>A I Uvagihan· <unclear>vata</unclear>k· dalihaCV piha <del>2</del> luṅgaC·, paru-
-<lb n="6"/><del><gap reason="lost" extent="unknown"/></del> si sanāñjaya <del>2</del><supplied reason="lost">A</supplied>nak· <supplied reason="subaudible">va</supplied>nuA I ra luA vatak· vuru siki <del>6</del> <supplied reason="lost">2</supplied> I <del>2</del>n· muṅi<del>1</del> <unclear>parujar·</unclear> <supplied reason="lost">A</supplied>nak va<supplied reason="lost">nu</supplied>A 
+<lb n="6"/><del><gap reason="lost" extent="unknown"/></del> si sanāñjaya <del>2</del><supplied reason="lost">A</supplied>nak· <supplied reason="omitted">va</supplied>nuA I ra luA vatak· vuru siki <del>6</del> <supplied reason="lost">2</supplied> I <del>2</del>n· muṅi<del>1</del> <unclear>parujar·</unclear> <supplied reason="lost">A</supplied>nak va<supplied reason="lost">nu</supplied>A 
 <lb n="7"/> <del><gap reason="lost" extent="unknown"/></del> nuAtan· pe
                         si laṅka 
                         <del>A1</del>nak vanuA I vuAta<supplied reason="lost">n</supplied> pe vatak· <supplied reason="lost">vat</supplied><unclear>u humala</unclear><supplied reason="lost">ṁ</supplied> <supplied reason="lost">5+</supplied> ta <supplied reason="lost">2+</supplied> Ci <unclear>ra</unclear><gap reason="lost" extent="unknown"/> 

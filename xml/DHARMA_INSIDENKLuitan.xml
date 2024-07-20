@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
@@ -65,12 +65,18 @@
          <projectDesc>
             <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
          </projectDesc>
-         <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+         <schemaRef type="guide"
+                    key="EGDv01"
+                    url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
          <listPrefixDef>
-            <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+            <prefixDef ident="bib"
+                       matchPattern="([a-zA-Z0-9\-\_]+)"
+                       replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
                <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
             </prefixDef>
-            <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
+            <prefixDef ident="part"
+                       matchPattern="([a-z]+)"
+                       replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
                <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_idListMembers_v01.xml</ref> file.</p>
             </prefixDef>
          </listPrefixDef>
@@ -86,13 +92,17 @@
                    <div type="edition" xml:lang="kaw-Latn">
                           <p><lb n="1v1"/> // svasti śaka-varṣātīta <num value="823">823</num> caitra-māsa tithi daśamĭ kr̥ṣṇa-pakṣa, <abbr>vā</abbr>, <abbr>ka</abbr>, <abbr>vr̥</abbr>, vāra, śatabh<choice><sic>a</sic><corr>i</corr></choice>ṣa-nakṣatra, Indra-yoga, tatkāla <gap reason="lost" quantity="2" unit="character"/> Anak vanuA I luĪtan· vatak· kapuṁ manamvaḥ I ra
 <lb n="1v2" break="no"/>kryān· mapatiḥ I hino, Umajarakan· parṇaḥnikanaṁ savaḥ kmitanya tan· vnaṁ maṅisī Uddhāra, saṁkā ri hə:tnikanaṁ sinaṅguḥ satampaḥ kinonakan ya Ukuran· de rakryān· mapatiḥ
-<lb n="1v3"/>muAṁ rakryān· I pagar vsi, Anuṁ kinon· maṅukura sa<unclear>ṁ</unclear> vahuta hyaṁ kudur· muAṁ rova<unclear>ṁ</unclear> rakryān· I pagar vsi, suṅguḥ puA ya An· mahə:t· Ikana tampaḥnya tan· vnaṁ maṅisī karu<lb break="no" n="1v4"/>A tṅaḥ Iṁ satampaḥ muA<unclear>ṁ</unclear> tan· vnaṁnya makaṭik· <num value="6">6</num> Ina<choice><sic>U</sic><corr>sə</corr></choice>An· sambaḥnikanaṁ rāma masavaha lamvit· <num value="1">1</num> tampaḥ <num value="7">7</num> muAṁ makaṭika <num value="4">4</num> Apan· samaṅkana kira-kiranyan· sampun· I<lb break="no" n="1v5"/>nukur·, manamākan· Ikanaṁ rāma pagə-pagəḥ I rakryān· mapatiḥ I hino pu dakṣa śrī bāhubajrapratipakṣakṣaya, <abbr>rake</abbr> pagar vsi pu vīra, <abbr>rake</abbr> sirikan· pu variga, <abbr>rake</abbr> vka	
+<lb n="1v3"/>muAṁ rakryān· I pagar vsi, Anuṁ kinon· maṅukura sa<unclear>ṁ</unclear> vahuta hyaṁ kudur· muAṁ rova<unclear>ṁ</unclear> rakryān· I pagar vsi, suṅguḥ puA ya An· mahə:t· Ikana tampaḥnya tan· vnaṁ maṅisī karu<lb break="no"
+n="1v4"/>A tṅaḥ Iṁ satampaḥ muA<unclear>ṁ</unclear> tan· vnaṁnya makaṭik· <num value="6">6</num> Ina<choice><sic>U</sic><corr>sə</corr></choice>An· sambaḥnikanaṁ rāma masavaha lamvit· <num value="1">1</num> tampaḥ <num value="7">7</num> muAṁ makaṭika <num value="4">4</num> Apan· samaṅkana kira-kiranyan· sampun· I<lb break="no"
+n="1v5"/>nukur·, manamākan· Ikanaṁ rāma pagə-pagəḥ I rakryān· mapatiḥ I hino pu dakṣa śrī bāhubajrapratipakṣakṣaya, <abbr>rake</abbr> pagar vsi pu vīra, <abbr>rake</abbr> sirikan· pu variga, <abbr>rake</abbr> vka	
 <lb n="1v6"/>pu kutak·, <abbr>samgat·</abbr> tiruAn· pu śivāstra, kapuA InasəAn· mas· <abbr>su</abbr> <num value="1">1</num> soAṁ-soAṁ, <abbr>samgat·</abbr> vadihati pu ḍapit· InasəAn· mas· <abbr>mā</abbr> <num value="8">8</num> A<del>na</del>ṅin-aṅin· pu parigi muAṁ saṁ
 <lb n="1v7"/>babahan· InasəAn· mas· <abbr>mā</abbr> <num value="4">4</num> soAṁ-soAṁ, saṁ tuhān· ri Ayam· təAs· mira-miraḥ pu rayuṁ, maṁra<unclear>ṁ</unclear>ṅkapi halaran· saṁ dhanada vinaiḥ mas· <abbr>mā</abbr> <num value="4">4</num> soAṁ-soAṁ, makudur·
 <lb n="1v8"/> saṁ tgaṁ rāt· vinaiḥ pasak-pasak· mas· <abbr>mā</abbr> <num value="4">4</num> saṁ vahuta hyaṁ vinaiḥ mas· <abbr>mā</abbr> <num value="4">4</num> kinabaihannira, <abbr>samgat·</abbr> mavanuA pu kuśala Anak banuA I kataṅgaran· vatak· kataṅgaran· I
 <lb n="1v9" break="no"/>nasəAn· pasak-pasak· mas·<abbr>su</abbr><num value="9">9</num> <abbr>mā</abbr> <num value="8">8</num>, tuhānni<unclear>ṁ</unclear> kanayakān· I kapuṁ saṁ mahantara, tuhānniṁ lampuran· saṁ karaṇa, tuhānniṁ vaduĀ rarai saṁ tamuy·, tuhānniṁ maṁraka-
-<lb n="1v10"/>t· saṁ lage, manuṅg<unclear>u</unclear> saṁ dhanakī, kapuA vinaiḥ mas· <abbr>mā</abbr> <num value="4">4</num> soAṁ-soAṁ, vahuta I kapuṁ si kelāsa muAṁ si gupai, vinaiḥ pasak-pasak· mas· <abbr>mā</abbr> <num value="8">8</num> soAṁ-soAṁ, rāma<lb break="no" n="1v11"/>nta <unclear>I</unclear> lu<unclear reason="eccentric_ductus">Ī</unclear>tan· rikanaṁ kā<unclear>la</unclear> tumaṁgap· Ikanaṁ praśasti, si bahaud· ramani kaḍal·, maṁraṅk<choice><sic>i</sic><corr>a</corr></choice>pi si gupta ramani poṣṭi, vinkas· si prabhā ramani buddhyanta, parujar· si tguḥ ramani
-<lb n="1v12"/>codya, variga si bes· ramani vahu, rāma maratā si kamvaṁ ramani rădhă, si mitra ramani rumpuṁ, si vara ramani L̥məḥ, si makara ramani taraju, si puñjaṁ ramani sabaṁ, sumurat· I<lb break="no" n="1v13"/>keṁ praśasti citralekha I tiruAn· sumaṅka panavuṅan· vinaiḥ pasak-pasak· mas· <abbr>mā</abbr> <num value="4">4</num> kinālihannira <g type="ddandaCross">.</g> <g type="circle">.</g> <g type="ddandaCross">.</g></p>
+<lb n="1v10"/>t· saṁ lage, manuṅg<unclear>u</unclear> saṁ dhanakī, kapuA vinaiḥ mas· <abbr>mā</abbr> <num value="4">4</num> soAṁ-soAṁ, vahuta I kapuṁ si kelāsa muAṁ si gupai, vinaiḥ pasak-pasak· mas· <abbr>mā</abbr> <num value="8">8</num> soAṁ-soAṁ, rāma<lb break="no" 
+n="1v11"/>nta <unclear>I</unclear> lu<unclear reason="eccentric_ductus">Ī</unclear>tan· rikanaṁ kā<unclear>la</unclear> tumaṁgap· Ikanaṁ praśasti, si bahaud· ramani kaḍal·, maṁraṅk<choice><sic>i</sic><corr>a</corr></choice>pi si gupta ramani poṣṭi, vinkas· si prabhā ramani buddhyanta, parujar· si tguḥ ramani
+<lb n="1v12"/>codya, variga si bes· ramani vahu, rāma maratā si kamvaṁ ramani rădhă, si mitra ramani rumpuṁ, si vara ramani L̥məḥ, si makara ramani taraju, si puñjaṁ ramani sabaṁ, sumurat· I<lb break="no"
+n="1v13" />keṁ praśasti citralekha I tiruAn· sumaṅka panavuṅan· vinaiḥ pasak-pasak· mas· <abbr>mā</abbr> <num value="4">4</num> kinālihannira <g type="ddandaCross">.</g> <g type="circle">.</g> <g type="ddandaCross">.</g></p>
                    </div>
                        <div type="apparatus">       
                     <app loc="1v1">

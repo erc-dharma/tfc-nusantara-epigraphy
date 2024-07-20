@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
@@ -71,13 +71,19 @@
                         under the European Union's Horizon 2020 research and innovation programme (grant
                         agreement no 809994).</p>
          </projectDesc>
-         <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+         <schemaRef type="guide"
+                    key="EGDv01"
+                    url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
          <listPrefixDef>
-            <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+            <prefixDef ident="bib"
+                       matchPattern="([a-zA-Z0-9\-\_]+)"
+                       replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
                <p>Public URIs with the prefix bib to point to a Zotero Group Library named
                             ERC-DHARMA whose data are open to the public.</p>
             </prefixDef>
-            <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+            <prefixDef ident="part"
+                       matchPattern="([a-z]+)"
+                       replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
                <p>Internal URIs using the part prefix to point to person elements in the
                             <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
             </prefixDef>
@@ -96,7 +102,7 @@
             <pb n="1r"/>
                 <p>
 <lb n="1r1"/> // <g type="symbol" subtype="tennis-ball"/> // pun· Ini pitəkət· śri b<choice><sic>u</sic><corr>a</corr></choice>ḍuga maharaja ratu haji
-                    <lb n="1r2"/>ḍi pakvan·, śri saṁ ratu ḍevata, nu ḍipitəkətan· ma na lə<lb n="1r3" break="no"/>maḥ ḍevasasana, ḍi su<supplied reason="subaudible">n</supplied>ḍasəmbava, mulaḥ vaya nu ṅubaḥ ya,<lb n="1r4"/>mulaḥ vaya nu ṅahəryanan ya,<space type="binding-hole"/> tebeḥ timur haṁgat· ciraAb·<lb n="1r5" break="no"/>, ka saṁ hyaṁ salila, ti barat· haṁgat· ru<supplied reason="subaudible">ṁ</supplied>səb·, ka mu<supplied reason="subaudible">ñ</supplied>jul· ka ci<lb n="1r6" break="no"/>bakekeṁ, ciho<supplied reason="subaudible">ñ</supplied>je, ka mu<unclear>ha</unclear>ra cimu<supplied reason="subaudible">ñ</supplied>caṁ pun·, ti kiḍul·
+                    <lb n="1r2"/>ḍi pakvan·, śri saṁ ratu ḍevata, nu ḍipitəkətan· ma na lə<lb n="1r3" break="no"/>maḥ ḍevasasana, ḍi su<supplied reason="omitted">n</supplied>ḍasəmbava, mulaḥ vaya nu ṅubaḥ ya,<lb n="1r4"/>mulaḥ vaya nu ṅahəryanan ya,<space type="binding-hole"/> tebeḥ timur haṁgat· ciraAb·<lb n="1r5" break="no"/>, ka saṁ hyaṁ salila, ti barat· haṁgat· ru<supplied reason="omitted">ṁ</supplied>səb·, ka mu<supplied reason="omitted">ñ</supplied>jul· ka ci<lb n="1r6" break="no"/>bakekeṁ, ciho<supplied reason="omitted">ñ</supplied>je, ka mu<unclear>ha</unclear>ra cimu<supplied reason="omitted">ñ</supplied>caṁ pun·, ti kiḍul·
                     
 <pb n="1v"/>
 <lb n="1v1"/>haṁgat· L̥vəṁ comon·, mulaḥ mo mihape ya, kena
@@ -172,8 +178,8 @@
                     </app>
                     <app loc="1v1">
                         <lem source="bib:HasanDjafar1991_01">mo mihape ya</lem>
-                        <rdg source="bib:Holle1867_02 bib:Pleyte1911_01">mo mihapeya<supplied reason="subaudible">n</supplied></rdg>
-                    <rdg source="bib:Boechari1985-1986_01">mo himapeya<supplied reason="subaudible">n</supplied></rdg>
+                        <rdg source="bib:Holle1867_02 bib:Pleyte1911_01">mo mihapeya<supplied reason="omitted">n</supplied></rdg>
+                    <rdg source="bib:Boechari1985-1986_01">mo himapeya<supplied reason="omitted">n</supplied></rdg>
                     </app>
                     
                     <app loc="1v3">

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
@@ -75,13 +75,16 @@
                under the European Union's Horizon 2020 research and innovation programme (grant
                agreement no 809994).</p>
          </projectDesc>
-         <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+         <schemaRef type="guide" key="EGDv01"
+            url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
          <listPrefixDef>
-            <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+            <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
+               replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
                <p>Public URIs with the prefix bib to point to a Zotero Group Library named
                   ERC-DHARMA whose data are open to the public.</p>
             </prefixDef>
-            <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+            <prefixDef ident="part" matchPattern="([a-z]+)"
+               replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
                <p>Internal URIs using the part prefix to point to person elements in the
                      <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
             </prefixDef>
@@ -113,11 +116,11 @@
         <body>
             <div type="edition" xml:lang="osn-Latn">
                 <p>
-         <lb n="1"/><g type="symbol" subtype="tennisball"/><g type="symbol" subtype="tennisball"/> vaṁ<unclear>ṅ</unclear> a<supplied reason="subaudible">m</supplied><unclear>p</unclear>un· I<unclear>n</unclear>i sakakala, pr<unclear>ə</unclear>bu ratu pura:n pun·, ḍivas·tu
+         <lb n="1"/><g type="symbol" subtype="tennisball"/><g type="symbol" subtype="tennisball"/> vaṁ<unclear>ṅ</unclear> a<supplied reason="omitted">m</supplied><unclear>p</unclear>un· I<unclear>n</unclear>i sakakala, pr<unclear>ə</unclear>bu ratu pura:n pun·, ḍivas·tu
          <lb n="2"/>ḍy<choice><sic>i</sic><corr>ə</corr></choice>, <choice><sic>v</sic><corr>d</corr></choice>iṅaran· prəbu guru ḍe<unclear>va</unclear>ta p<choice><sic>ra</sic><corr>u</corr></choice>n· ḍivas·tu ḍyə ḍiṅaran· sri
-         <lb n="3"/>baduga maharaja, ratu ha<unclear cert="low">j</unclear>i ḍi pakvan· pajajaran· sri sa<supplied reason="subaudible">ṁ</supplied> ratu ḍe<lb n="4" break="no"/>vata pun·</p> <p>ya nu ñusuk· na pakvan· ḍyə Anak· rahyi ḍeva nis·<lb n="5" break="no"/>kala, sa<supplied reason="subaudible">ṁ</supplied> siḍa mok<unclear>·</unclear>ta ḍi gunuṁ tiga, qə<supplied reason="subaudible">ñ</supplied>cu rahyiṁ <unclear>n</unclear>is·kala vas·tu
-        <lb n="6"/>ka<supplied reason="subaudible">ñ</supplied>ca:na, saṁ siḍa mok·ta ka nusa laraṁ,</p> 
-                <p>ya syi nu <unclear>ñ</unclear>yin· sakaka<lb n="7" break="no"/>la, gugun<unclear>uṅ</unclear>an·, <unclear>ṅa</unclear>balay·,, ñyin· samiḍa, ñyin· saṁ hyi<supplied reason="subaudible">ṁ</supplied> talaga <supplied reason="lost" evidence="parallel">va</supplied><lb n="8" break="no"/>R̥na mahavijaya,</p> <p>ya syi pun·,,</p> <p><g type="symbol" subtype="tennisball"/><g type="symbol" subtype="tennisball"/> I saka, pañca pan·ḍa<lb n="9" break="no"/>va ṅ<unclear>ə</unclear><supplied reason="subaudible">m</supplied>ban· bumi <g type="symbol" subtype="tennisball"/><g type="symbol" subtype="tennisball"/></p>
+         <lb n="3"/>baduga maharaja, ratu ha<unclear cert="low">j</unclear>i ḍi pakvan· pajajaran· sri sa<supplied reason="omitted">ṁ</supplied> ratu ḍe<lb n="4" break="no"/>vata pun·</p> <p>ya nu ñusuk· na pakvan· ḍyə Anak· rahyi ḍeva nis·<lb n="5" break="no"/>kala, sa<supplied reason="omitted">ṁ</supplied> siḍa mok<unclear>·</unclear>ta ḍi gunuṁ tiga, qə<supplied reason="omitted">ñ</supplied>cu rahyiṁ <unclear>n</unclear>is·kala vas·tu
+        <lb n="6"/>ka<supplied reason="omitted">ñ</supplied>ca:na, saṁ siḍa mok·ta ka nusa laraṁ,</p> 
+                <p>ya syi nu <unclear>ñ</unclear>yin· sakaka<lb n="7" break="no"/>la, gugun<unclear>uṅ</unclear>an·, <unclear>ṅa</unclear>balay·,, ñyin· samiḍa, ñyin· saṁ hyi<supplied reason="omitted">ṁ</supplied> talaga <supplied reason="lost" evidence="parallel">va</supplied><lb n="8" break="no"/>R̥na mahavijaya,</p> <p>ya syi pun·,,</p> <p><g type="symbol" subtype="tennisball"/><g type="symbol" subtype="tennisball"/> I saka, pañca pan·ḍa<lb n="9" break="no"/>va ṅ<unclear>ə</unclear><supplied reason="omitted">m</supplied>ban· bumi <g type="symbol" subtype="tennisball"/><g type="symbol" subtype="tennisball"/></p>
             </div>
             <div type="apparatus">
                
@@ -153,12 +156,12 @@
                                     <note>All predecessors have by their non-insertion of a space between <foreign>ñusuk</foreign> and <foreign>na</foreign> implied that <foreign>na</foreign> is a pronominal clitic, but it seems more convincing to take it as article <foreign xml:lang="osn-Latn">na</foreign> (<bibl><ptr target="bib:Noorduyn+Teeuw2006_01"/><citedRange>53-60</citedRange></bibl>).</note>
                     </app>
                     <app loc="4">
-                                    <lem>rahyi<supplied reason="subaudible">ṁ</supplied></lem>
+                                    <lem>rahyi<supplied reason="omitted">ṁ</supplied></lem>
                                     <rdg source="bib:HasanDjafar2011_01">rahiyaṁ</rdg> 
                                     <note>We do not see the <foreign>panyecek</foreign>.</note>
                     </app>
                     <app loc="5">
-                                    <lem>sa<supplied reason="subaudible">ṁ</supplied> siḍa</lem>
+                                    <lem>sa<supplied reason="omitted">ṁ</supplied> siḍa</lem>
                                     <rdg source="bib:HasanDjafar2011_01">saṁ sida</rdg> 
                                     <note>Hasan Djafar explains with a note explaining that the <foreign>panyecek</foreign> is present although hard to read. We are inclined to assume that it is absent. Cf. the cases of <foreign>sa ratu</foreign> and <foreign>rahyi</foreign> for <foreign>saṁ ratu</foreign> and <foreign>rahyiṁ</foreign> (= <foreign>rahiyaṁ</foreign>) above.</note>
                     </app>
@@ -174,8 +177,8 @@
                        
                     </app>
                     <app loc="5">
-                                    <lem>qə<supplied reason="subaudible">ñ</supplied>cu</lem>
-                                    <rdg source="bib:HasanDjafar2011_01">I<supplied reason="subaudible">ñ·</supplied>cu</rdg>
+                                    <lem>qə<supplied reason="omitted">ñ</supplied>cu</lem>
+                                    <rdg source="bib:HasanDjafar2011_01">I<supplied reason="omitted">ñ·</supplied>cu</rdg>
                     </app>
                     <app loc="5">
                                     <lem><unclear>n</unclear>is·kala</lem>
@@ -188,7 +191,7 @@
                     </app>
                     <app loc="7">
                                     <lem>talaga <supplied reason="lost" evidence="parallel">va</supplied><lb n="8" break="no"/>R̥na</lem>
-                                    <note>Restoration proposed by Hasan Djafar. Cf. Pleyte <bibl rend="omitname"><ptr target="bib:Pleyte1911_01"/><citedRange>172</citedRange></bibl>, citation from FCP.6a: <foreign>ti saṁ hyiṁ talaga varna miñak· hanət· sago<supplied reason="subaudible">m</supplied>boṁ Uyaḥ salave kəlek lilitan salave təktək ...</foreign> <q>From Talaga Warna: essential oil one <foreign>gombong</foreign>, salt 25 <foreign>kəlek</foreign>, waist cloth 25 <foreign>təktək</foreign>...</q>; cf. also BM 1352-1355, a passage which locates Talaga Varna somewhere around Bukit Agəṅ (presumably the ancient name of present-day Gunung Gede in Bogor)</note>
+                                    <note>Restoration proposed by Hasan Djafar. Cf. Pleyte <bibl rend="omitname"><ptr target="bib:Pleyte1911_01"/><citedRange>172</citedRange></bibl>, citation from FCP.6a: <foreign>ti saṁ hyiṁ talaga varna miñak· hanət· sago<supplied reason="omitted">m</supplied>boṁ Uyaḥ salave kəlek lilitan salave təktək ...</foreign> <q>From Talaga Warna: essential oil one <foreign>gombong</foreign>, salt 25 <foreign>kəlek</foreign>, waist cloth 25 <foreign>təktək</foreign>...</q>; cf. also BM 1352-1355, a passage which locates Talaga Varna somewhere around Bukit Agəṅ (presumably the ancient name of present-day Gunung Gede in Bogor)</note>
                     </app>
                 </listApp>
             </div>                

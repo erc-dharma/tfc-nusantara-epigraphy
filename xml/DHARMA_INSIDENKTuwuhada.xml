@@ -56,12 +56,18 @@
          <projectDesc>
             <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
          </projectDesc>
-         <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+         <schemaRef type="guide"
+                    key="EGDv01"
+                    url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
          <listPrefixDef>
-            <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+            <prefixDef ident="bib"
+                       matchPattern="([a-zA-Z0-9\-\_]+)"
+                       replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
                <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
             </prefixDef>
-            <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
+            <prefixDef ident="part"
+                       matchPattern="([a-z]+)"
+                       replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
                <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_idListMembers_v01.xml</ref> file.</p>
             </prefixDef>
          </listPrefixDef>
@@ -83,7 +89,7 @@
                     <lb n="8"/> Umarā _ ya riṅ alas· pa_tukanya, dadaniṁṅ ulā, Uma_rā ya ri tgal· <unclear>A</unclear><gap reason="lost" extent="unknown"/><supplied reason="lost">lapan·</supplied>
                  <lb n="9"/> ya viL̥tan·niṁ t<unclear>u</unclear>viran· lipu_tan·niṁ devamanyuḥ, pipitan· bi<unclear>ma</unclear><gap reason="lost" extent="unknown"/>
                     <lb n="10"/> mulān· I taṅgir·, paṅunugraha śrī mahārāja rake v<unclear>ā</unclear>_tukura dyaḥ ba<unclear>li</unclear><gap reason="lost" extent="unknown"/><supplied reason="lost">tuṁ</supplied>
-                    <lb n="11"/> n· v<supplied reason="subaudible">i</supplied>naiḥ ta sira mās· su 1 mā 4 vḍihan· sadugala ri _ kapagi_hakna<unclear>n</unclear><gap reason="lost" extent="unknown"/></p>
+                    <lb n="11"/> n· v<supplied reason="omitted">i</supplied>naiḥ ta sira mās· su 1 mā 4 vḍihan· sadugala ri _ kapagi_hakna<unclear>n</unclear><gap reason="lost" extent="unknown"/></p>
               </div>
 <div type="commentary">
    <p>Cai is noted with two talings.</p>

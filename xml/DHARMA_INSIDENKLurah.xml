@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
@@ -60,12 +60,15 @@
          <projectDesc>
             <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
          </projectDesc>
-         <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+         <schemaRef type="guide" key="EGDv01"
+            url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
          <listPrefixDef>
-            <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+            <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
+               replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
                <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
             </prefixDef>
-            <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
+            <prefixDef ident="part" matchPattern="([a-z]+)"
+               replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
                <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_idListMembers_v01.xml</ref> file.</p>
             </prefixDef>
          </listPrefixDef>
@@ -84,8 +87,8 @@
                     <lb n="r4"/><unclear>m</unclear>ava yan ana lu<choice><unclear>m</unclear><unclear>h</unclear></choice>atan<choice><unclear>·</unclear><unclear>a</unclear></choice> pit· patahun· tanātahun kaḍalan·</p></div>
                     
                     <div type="textpart"><head xml:lang="eng">Verso [plate number 2, in the left margin between lines 1 and 2]</head>
-                    <p><lb n="2v1"/> si<unclear>ra</unclear>,  ṅuni-ṅuni yan luṅha ra<unclear>b</unclear>i tan padesa sira muva<supplied reason="subaudible">ḥ</supplied> saṁ kuna<unclear>ṁ</unclear> yan ana sira lu
-                       <lb n="2v2" break="no"/>ṅha ḍi<unclear>va</unclear>l <unclear>sa</unclear>ma ya lu_raḥ, human· <space type="binding-hole"/> pu tajen ana re, sal<supplied reason="subaudible">v</supplied>irni<unclear>ṁ</unclear> gave luraḥ
+                    <p><lb n="2v1"/> si<unclear>ra</unclear>,  ṅuni-ṅuni yan luṅha ra<unclear>b</unclear>i tan padesa sira muva<supplied reason="omitted">ḥ</supplied> saṁ kuna<unclear>ṁ</unclear> yan ana sira lu
+                       <lb n="2v2" break="no"/>ṅha ḍi<unclear>va</unclear>l <unclear>sa</unclear>ma ya lu_raḥ, human· <space type="binding-hole"/> pu tajen ana re, sal<supplied reason="omitted">v</supplied>irni<unclear>ṁ</unclear> gave luraḥ
                     <lb n="2v3"/> kanalan sira muvaḥ yen ana, sira latuḥ skal· kayi sujita sira satahun· r
                        <lb n="2v4" break="no"/>iṁ adoḥ, ma<unclear>ra</unclear> sira muliha, Ana sira luṅha taruṁ gahakira sa<unclear>ji</unclear>i ta sira sotaḥ</p></div>
     

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
@@ -71,13 +71,19 @@
                         under the European Union's Horizon 2020 research and innovation programme (grant
                         agreement no 809994).</p>
          </projectDesc>
-         <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+         <schemaRef type="guide"
+                    key="EGDv01"
+                    url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
          <listPrefixDef>
-            <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+            <prefixDef ident="bib"
+                       matchPattern="([a-zA-Z0-9\-\_]+)"
+                       replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
                <p>Public URIs with the prefix bib to point to a Zotero Group Library named
                             ERC-DHARMA whose data are open to the public.</p>
             </prefixDef>
-            <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+            <prefixDef ident="part"
+                       matchPattern="([a-z]+)"
+                       replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
                <p>Internal URIs using the part prefix to point to person elements in the
                             <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
             </prefixDef>
@@ -118,7 +124,7 @@
     <lb n="3r1"/>gənəp·,</p>
     <p> padu kalivon·, tr<subst><del>i</del><add>a</add></subst>ayodasi,<!-- Arlo:
         indeed, why not simply trayodasi? --> suklā<lb n="3r2" break="no"/>-pakṣā, riṅ asuji, maṣa // haparab·
-    <lb n="3r3"/>sa<supplied reason="subaudible">ṁ</supplied> kavasa //
+    <lb n="3r3"/>sa<supplied reason="omitted">ṁ</supplied> kavasa //
 </p>
          </div>
          <div type="apparatus"><!-- argr2masc: Bosch's and Damais' reading need to be represented systematically -->
@@ -147,7 +153,7 @@
                       <rdg source="bib:Damais1955_01">triyodasi</rdg>
                       </app>
                    <app loc="3r3">
-                     <lem source="bib:Damais1955_01">sa<supplied reason="subaudible">ṁ</supplied> kavasa</lem><!-- Or encode as normalisation?-->
+                     <lem source="bib:Damais1955_01">sa<supplied reason="omitted">ṁ</supplied> kavasa</lem><!-- Or encode as normalisation?-->
                      <rdg source="bib:Bosch1924_01 bib:Boechari1985-1986_01">sakavasa</rdg>
                   </app>
                </listApp>
@@ -160,7 +166,7 @@
      thousand, two hundred thousand in total <supplied reason="explanation"><foreign>gənəp</foreign></supplied>, on Kliwon, the thirteenth <supplied reason="explanation">day</supplied> of the waxing fortnight, the month of Asuji, <supplied reason="subaudible">signed by</supplied> the one named Spellbound <supplied reason="explanation"><foreign>saṅ</foreign> Kavasa</supplied>.</p>
         </div>
         <div type="translation" xml:lang="nld" source="bib:Bosch1924_01">
-<p>Heil! Śaka-jaren verloopen, in het Śaka jaar 1338. Aldus is het tijdstip, dat Zijne Hoogheid van Talonan in ontvangst nam de storting (?) ten behoeve van den <foreign>bhaṭāra</foreign> van Paguhan, die overleden is te Pramalaya, ontvangen door de <supplied reason="explanation">ambtenaren</supplied> <foreign>aṅucap gave</foreign> in het huis Diṅdi<supplied reason="subaudible" cert="low">ṅ</supplied>va, de <foreign>patih</foreign> Səmut, de <foreign>ārya</foreign> Pagəh, de <foreign>ārya</foreign> Guna, de <foreign>patih</foreign> van Paguhan, de <foreign>patih</foreign> Sirəg, de <foreign>patih</foreign> Tembeṅ, <supplied reason="explanation">zijn zij</supplied> die het geld ontvingen; de hoeveelheid van het geld is 200.000, twee honderd duizend, twee honderd duizend totaal; <supplied reason="subaudible">op</supplied> Kaliwon, den 13den van de lichte maandhelft, in de maand Asuji. Zich noemende <sic>Sakavasa</sic>.</p>
+<p>Heil! Śaka-jaren verloopen, in het Śaka jaar 1338. Aldus is het tijdstip, dat Zijne Hoogheid van Talonan in ontvangst nam de storting (?) ten behoeve van den <foreign>bhaṭāra</foreign> van Paguhan, die overleden is te Pramalaya, ontvangen door de <supplied reason="explanation">ambtenaren</supplied> <foreign>aṅucap gave</foreign> in het huis Diṅdi<supplied reason="omitted" cert="low">ṅ</supplied>va, de <foreign>patih</foreign> Səmut, de <foreign>ārya</foreign> Pagəh, de <foreign>ārya</foreign> Guna, de <foreign>patih</foreign> van Paguhan, de <foreign>patih</foreign> Sirəg, de <foreign>patih</foreign> Tembeṅ, <supplied reason="explanation">zijn zij</supplied> die het geld ontvingen; de hoeveelheid van het geld is 200.000, twee honderd duizend, twee honderd duizend totaal; <supplied reason="subaudible">op</supplied> Kaliwon, den 13den van de lichte maandhelft, in de maand Asuji. Zich noemende <sic>Sakavasa</sic>.</p>
         </div>
 
          <div type="commentary">

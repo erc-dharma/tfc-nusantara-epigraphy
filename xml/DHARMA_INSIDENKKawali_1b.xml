@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
@@ -63,13 +63,19 @@
                         under the European Union's Horizon 2020 research and innovation programme (grant
                         agreement no 809994).</p>
          </projectDesc>
-         <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+         <schemaRef type="guide"
+                    key="EGDv01"
+                    url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
          <listPrefixDef>
-            <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+            <prefixDef ident="bib"
+                       matchPattern="([a-zA-Z0-9\-\_]+)"
+                       replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
                <p>Public URIs with the prefix bib to point to a Zotero Group Library named
                             ERC-DHARMA whose data are open to the public.</p>
             </prefixDef>
-            <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+            <prefixDef ident="part"
+                       matchPattern="([a-z]+)"
+                       replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
                <p>Internal URIs using the part prefix to point to person elements in the
                             <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
             </prefixDef>
@@ -92,7 +98,7 @@
                     <l n="a"><milestone n="1" unit="face"/><lb n="1"/>hayuA ḍiponaḥ-p<unclear>o</unclear><add place="below">naḥ</add></l>
                     <l n="b"><milestone n="2" unit="face"/>hayuA ḍicavuḥ-cavu<unclear>ḥ</unclear></l>
                     <l n="c"><milestone n="3" unit="face"/>IA neker Iña Ager</l>
-                    <l n="d"><milestone n="4" unit="face"/>Iña ni<supplied reason="subaudible">ñ</supplied>cak· Iña R̥<supplied reason="subaudible">m</supplied>pag·</l>
+                    <l n="d"><milestone n="4" unit="face"/>Iña ni<supplied reason="omitted">ñ</supplied>cak· Iña R̥<supplied reason="omitted">m</supplied>pag·</l>
                 </lg>
             </div>
             <div type="apparatus">
@@ -107,8 +113,8 @@
                         <rdg source="bib:RichadianaKartakusuma2005_01">A<choice><orig>g</orig><reg>ṅg</reg></choice>er</rdg>
                     </app>
                     <app loc="4">
-                        <lem source="bib:Noorduyn1988_01 bib:HasanDjafar1991_01 bib:TitiSurtiNastiti1996_01">Iña R̥<supplied reason="subaudible">m</supplied>pag·</lem>
-                        <rdg source="bib:RichadianaKartakusuma2005_01">IA R̥<supplied reason="subaudible">m</supplied>pag·</rdg>
+                        <lem source="bib:Noorduyn1988_01 bib:HasanDjafar1991_01 bib:TitiSurtiNastiti1996_01">Iña R̥<supplied reason="omitted">m</supplied>pag·</lem>
+                        <rdg source="bib:RichadianaKartakusuma2005_01">IA R̥<supplied reason="omitted">m</supplied>pag·</rdg>
                     </app>
                 </listApp>
             </div>        
@@ -122,7 +128,7 @@
                 </l></p>
             </div>
             <div type="commentary">
-                <p>Lateral faces (1 = top, 2 = right, 3 = bottom, 4 = left). We have accepted Noorduyn’s translation which seems perfectly adequate. See also his valuable comments on the translation (<bibl rend="omitname"><ptr target="bib:Noorduyn1988_01"/><citedRange>310</citedRange></bibl>). We would like to add about the occurrence of <foreign>IA</foreign> in line 3 that this word can be understood as <foreign>iya</foreign> or <foreign>ya</foreign>, and can stand as 3rd person pronoun (cf. Keba2.3 &amp; 4 on <foreign>ya</foreign> standing for <foreign>iña</foreign>). It is interesting to note that the equivalent word <foreign>iya</foreign> appears <foreign>passim</foreign> in <title>Amanat Galuṅguṅ</title>, a text which originates from the eastern part of West Java, and may share dialectal features with the language of the Kawali inscriptions. See for example <title>Amanat Galuṅguṅ</title> 14: <foreign>asiṅ iya nu mənaṅkə<supplied reason="subaudible">n</supplied> na kabuyutan na galuṅguṅ, iya sakti tapa, iya jaya praṅ</foreign> <q>whoever is he who acquires the sanctuary of Galunggung, he will be powerful in asceticism, he will be victorious in battle</q>. 
+                <p>Lateral faces (1 = top, 2 = right, 3 = bottom, 4 = left). We have accepted Noorduyn’s translation which seems perfectly adequate. See also his valuable comments on the translation (<bibl rend="omitname"><ptr target="bib:Noorduyn1988_01"/><citedRange>310</citedRange></bibl>). We would like to add about the occurrence of <foreign>IA</foreign> in line 3 that this word can be understood as <foreign>iya</foreign> or <foreign>ya</foreign>, and can stand as 3rd person pronoun (cf. Keba2.3 &amp; 4 on <foreign>ya</foreign> standing for <foreign>iña</foreign>). It is interesting to note that the equivalent word <foreign>iya</foreign> appears <foreign>passim</foreign> in <title>Amanat Galuṅguṅ</title>, a text which originates from the eastern part of West Java, and may share dialectal features with the language of the Kawali inscriptions. See for example <title>Amanat Galuṅguṅ</title> 14: <foreign>asiṅ iya nu mənaṅkə<supplied reason="omitted">n</supplied> na kabuyutan na galuṅguṅ, iya sakti tapa, iya jaya praṅ</foreign> <q>whoever is he who acquires the sanctuary of Galunggung, he will be powerful in asceticism, he will be victorious in battle</q>. 
 </p>
             </div>
             <div type="bibliography">

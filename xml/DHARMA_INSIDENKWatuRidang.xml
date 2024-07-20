@@ -56,12 +56,18 @@
          <projectDesc>
             <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
          </projectDesc>
-         <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+         <schemaRef type="guide"
+                    key="EGDv01"
+                    url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
          <listPrefixDef>
-            <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+            <prefixDef ident="bib"
+                       matchPattern="([a-zA-Z0-9\-\_]+)"
+                       replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
                <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
             </prefixDef>
-            <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
+            <prefixDef ident="part"
+                       matchPattern="([a-z]+)"
+                       replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
                <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_idListMembers_v01.xml</ref> file.</p>
             </prefixDef>
          </listPrefixDef>
@@ -77,8 +83,8 @@
                          <head xml:lang="eng">bverse</head>
                            <p><lb n="1r1"/> // Ø // svasti śaka-varṣatīta 83<unclear>2</unclear> cetra-māsa tithi navamī śukla-pakṣa, vu pa vr̥ vāra puṣya-<supplied reason="lost">na</supplied>kṣa<supplied reason="lost">tra, br̥haspati-</supplied><unclear>de</unclear>vata, dhr̥ti-yoga dakṣiṇastha, I<unclear>ri-</unclear>
 <lb n="1r2"/>ka divāśani Ājñā haji śrī mahārāja rakai vatu kura dyaḥ balituṁ śrī Īśvarak<unclear>ai</unclear>śavotuṅga, <unclear>U</unclear><supplied reason="lost">miṅsor·</supplied> I rakryān· mahāmantri I hino dakṣo
-<lb break="no" n="1r3"/>t<supplied reason="subaudible">t</supplied>ama bāhubajrapratipakṣa<supplied reason="subaudible">kṣaya</supplied> sam<unclear>ba</unclear>ṁ kumonakan· Ikanaṁ śīma Iṁ vatu ridaṁ kabikvan i buṅkir· vatək· vaharu maṁjuru I bhaṭāra beṣṇava, parṇnaḥnya pinakasaṇḍaṅaniṁ patiḥ Iṁ
-<lb n="1r4"/>beṣṇava, dr̥bya-hajinyā mā 5 Agulu-guluṁ<unclear>ṅan· Aṅka</unclear><supplied reason="lost">n·</supplied> cetra-māsa muAṁ saparṇnaḥhanikanaṁ śīma I vatu ridaṁ sakvaiḥnikanaṁ kabikvan· ma<supplied reason="subaudible">ṁ</supplied>juru I bhaṭāra beṣṇa
+<lb break="no" n="1r3"/>t<supplied reason="omitted">t</supplied>ama bāhubajrapratipakṣa<supplied reason="omitted">kṣaya</supplied> sam<unclear>ba</unclear>ṁ kumonakan· Ikanaṁ śīma Iṁ vatu ridaṁ kabikvan i buṅkir· vatək· vaharu maṁjuru I bhaṭāra beṣṇava, parṇnaḥnya pinakasaṇḍaṅaniṁ patiḥ Iṁ
+<lb n="1r4"/>beṣṇava, dr̥bya-hajinyā mā 5 Agulu-guluṁ<unclear>ṅan· Aṅka</unclear><supplied reason="lost">n·</supplied> cetra-māsa muAṁ saparṇnaḥhanikanaṁ śīma I vatu ridaṁ sakvaiḥnikanaṁ kabikvan· ma<supplied reason="omitted">ṁ</supplied>juru I bhaṭāra beṣṇa
 <lb break="no" n="1r5"/>va Iṁ bulusan· tan ka<supplied reason="lost">ta</supplied>mā<unclear>na</unclear> deni saprakārani maṅilala dr̥bya haji, miśra tapa haji maṅhuri, Air haji, Uṅgaḥ karas·, maṁrumbe, makaṁlakaṁ, malandaṁ, t<unclear>ū</unclear>ha<unclear>n</unclear>i <supplied reason="lost">vadi-</supplied>
 <lb n="1r6"/>hati, mani<unclear>mp</unclear>i<unclear>k</unclear>i, limus· galuḥ, paṅaruhan·, piniṁl<unclear>ai</unclear>, kataṅgaran·, paranakan·, kriṁ, paḍam·, siṅgaḥ, vatək i jro, marmasi, hulun· haji magajaḥ, manambaṅi 
 <lb n="1r7"/>suaṅka dhura Cuj X X ñcama X pamaṇikan·, Ityevamādi nāhan· tan tumama Irikanaṁ śīma riṁ vatu ridaṁ, muAṁ savvātvaranikaṁ kilal<unclear>āa</unclear>n· sasamakavatakka ya, Asaśvāgga
@@ -93,7 +99,7 @@
                       
 <div type="textpart">
    <head xml:lang="eng">Reverse</head>
-   <p><lb n="1v1"/>X <unclear>garuḍa</unclear>kinnaragandarbavidyā<unclear>dhara</unclear> deva<supplied reason="subaudible">pu</supplied>tra <unclear>nandīśvara mahākāla nāga</unclear>rājā vināyaka kita tuvi sakvaiḥ ta devata prasiddha rumakṣa kaḍatvan· śrī ma
+   <p><lb n="1v1"/>X <unclear>garuḍa</unclear>kinnaragandarbavidyā<unclear>dhara</unclear> deva<supplied reason="omitted">pu</supplied>tra <unclear>nandīśvara mahākāla nāga</unclear>rājā vināyaka kita tuvi sakvaiḥ ta devata prasiddha rumakṣa kaḍatvan· śrī ma
 <lb break="no" n="1v2"/> hārāja Iṁ bhūmi I matarām· kita Umasuk i hatinikaṅ vaṁ kabeḥ tan· kavnaṁ kinahinān· yan· hana Anyāya lumaṅkahana śăśaṇa laṁghana riṅ ujar haji
 <lb n="1v3"/><supplied reason="lost">lu</supplied>məbu<supplied reason="lost">r</supplied> śīma saṁ pamgat·, ḍuḍuki hatinya, svit· Ususnya, Uḍulakan· pahuṁnya, tampyal· I hiriṅan· Uvahi <del>8</del> riṅ alas· paṅanann iṁ moṁ, 
 <lb n="1v4"/> patukən iṅ ulā, pulirakənaniṁ devamanyu, marā riṁ tgal· paṅananniṁ glap·, Alapa<unclear>n</unclear>i <del>3</del> pamuṅvan· sa X lanirakṣa <del>4</del> ta kita kamuṁ R̥śi kusi

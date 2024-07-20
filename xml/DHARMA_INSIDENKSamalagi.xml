@@ -65,12 +65,18 @@
          <projectDesc>
             <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
          </projectDesc>
-         <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+         <schemaRef type="guide"
+                    key="EGDv01"
+                    url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
          <listPrefixDef>
-            <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+            <prefixDef ident="bib"
+                       matchPattern="([a-zA-Z0-9\-\_]+)"
+                       replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
                <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
             </prefixDef>
-            <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
+            <prefixDef ident="part"
+                       matchPattern="([a-z]+)"
+                       replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
                <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_idListMembers_v01.xml</ref> file.</p>
             </prefixDef>
          </listPrefixDef>
@@ -91,14 +97,14 @@
 <lb n="1v6"/>rak· dhā 4 mijil· Aṅkan· Alapan tanaḥ, piṇḍa savaḥni māgaman· lamvit· 1 tampaḥ 7 blaḥ 1 mu⟨A⟩ṁ saprakārani sukha-duḥkhanya kabaiḥ bhaṭāra vaiṣṇava Iṁ bulusan· Ataḥ pramāṇā Iriya
 <lb n="1v7"/> <unclear>tan</unclear>· hana vehan tumamā soAraniṁ maṅilala drabya haji kabaiḥ, Anuṁ kinon· humaR̥pa Ikanaṁ susukan· sīma de rakryān· samgat· pikatan· ḍap<supplied reason="lost">un</supplied>ta kośiki Anak vanuA Iṁ haji kabik<supplied reason="lost">u</supplied>
 <lb n="1v8" break="no"/>An· I paməhaṅan· punpunan· I paṁlihatan·, makon· rakryān· maṅasəAkna vyavastha pasak-pasak· saluIrniṁ manīma, I rakryān· halu pu buAlu saṁgrāmadhuran<unclear>dh</unclear>ara, rakryān· 
-<lb n="1v9"/> sirikan· pu variga samaravikrānta, rakryān· vka pu kutak·, samgat· tiruAn· saṁ śivāstra, kapuA sira Inaṁsə_An· vḍihan· gañjar pātra sisi yu 1 sim·sim pasada vo<supplied reason="subaudible">ḥ</supplied> 1 brat·
-<lb n="1v10"/> su 1 Iṁ sovaṁ-sovaṁ, halaran· pu basu, rake pa<unclear>l</unclear>ar hyaṁ pu puñjaṁ<supplied reason="subaudible">,</supplied> dalinan· pu gāla<unclear>v</unclear>a, paṅkur· pu rañjan·, tavān pu varā, tiri<unclear>p pu</unclear> kr̥ṣṇa, <unclear>ma</unclear>ṅu<unclear>huri pu cakra, vadi</unclear>ha<unclear>ti</unclear> pu ḍapit·, 
+<lb n="1v9"/> sirikan· pu variga samaravikrānta, rakryān· vka pu kutak·, samgat· tiruAn· saṁ śivāstra, kapuA sira Inaṁsə_An· vḍihan· gañjar pātra sisi yu 1 sim·sim pasada vo<supplied reason="omitted">ḥ</supplied> 1 brat·
+<lb n="1v10"/> su 1 Iṁ sovaṁ-sovaṁ, halaran· pu basu, rake pa<unclear>l</unclear>ar hyaṁ pu puñjaṁ<supplied reason="omitted">,</supplied> dalinan· pu gāla<unclear>v</unclear>a, paṅkur· pu rañjan·, tavān pu varā, tiri<unclear>p pu</unclear> kr̥ṣṇa, <unclear>ma</unclear>ṅu<unclear>huri pu cakra, vadi</unclear>ha<unclear>ti</unclear> pu ḍapit·, 
 <lb n="1v11"/> makudur pu sam<unclear>vr̥da</unclear>, <unclear>ka</unclear>puA InaṁsəAn· vḍihan· raṅga yu 1 si_sim pasada voḥ 1 <unclear>b</unclear>rat· mā 8 Iṁ sovaṁ-sovaṁ, paminaṁ I saṁ hyaṁ kudur· vḍihan· yu 1 mas· mā 4 saṁ tuhān· I 
 <lb n="1v12"/> vadihati 2 mira-miraḥ si rayuṁ, maṁraṅkapi saṁ halaran· si rahula, saṁ tuhān· I makudur· 2 saṁ taṅkil· sugiḥ si manikṣā, maṁraṅ<supplied reason="lost">k</supplied>a<unclear>ppi saṁ</unclear> hasam pañjaṁ si dharmma, <unclear>vinaiḥ vḍihan·</unclear>
 <lb n="1v13"/> yu 1 mas· mā <unclear>4</unclear> I<unclear>ṁ</unclear> sovaṁ-sovaṁ, saṁ vahuta hyaṁ kinon· UmiluA sumusuk· Ikāṁ vanuA, I vadihati saṁ tiga śrĭ si manamvī, I maku<unclear>du</unclear>r· saṁ pataL̥san· si vīryya, vinai
 <lb n="1v14" break="no"/>ḥ vḍihan· yu 2 mas· mā 8 hop paṅaṅkat· Iṁ sovaṁ-sovaṁ, maṅkana sa<unclear>ṁ</unclear> tuhān· mamuAt· Ujar kabaiḥ parujar· I hino kaṇḍamuhi si t<unclear>uṅga</unclear>ṁ vanuA I gunuṅan· vatak ta_ṅkilan·
 <lb n="1v15"/> <unclear>ci</unclear>tralekha vuṅkal· varaṇi si manəsər· vanuA I tamaliṅgaṁ vatak· sirikan·, parujar· I halu viṣaga si viryya Anak vanuA I pakalaṁkyaṅan vatak· pagə_r vsi, paruja
-<lb n="1v16" break="no"/>r· I sirikan· hujuṁ galuḥ si Agra Anak vanuA I siṁha vatak· hino<supplied reason="subaudible">,</supplied> citralekha dharmma<del>ca</del>sinta si parbvata Anak· banuA I <unclear>l</unclear>i<unclear>mus</unclear>· vatak pulu vuṅkal, parujar·</p>                    
+<lb n="1v16" break="no"/>r· I sirikan· hujuṁ galuḥ si Agra Anak vanuA I siṁha vatak· hino<supplied reason="omitted">,</supplied> citralekha dharmma<del>ca</del>sinta si parbvata Anak· banuA I <unclear>l</unclear>i<unclear>mus</unclear>· vatak pulu vuṅkal, parujar·</p>                    
                    </div>
                        <div type="apparatus">
 <app loc="1v2-3"><lem><gap quantity="3" reason="lost" unit="character"/>I samalagi</lem><rdg source="bib:Boechari1985-1986_01"><unclear>vanu-</unclear>A I samalagi</rdg></app>
@@ -110,7 +116,7 @@
 <app loc="1v5-6"><lem source="bib:Boechari1985-1986_01"><supplied reason="lost">pi-</supplied>rak</lem><rdg>rak·</rdg><note>The syllable pi- is lost at the end of line 5, but from context we can supply it with certainty.</note></app>
 <app loc="1v5-14"><lem>Ataḥ … sovaṁ-sovaṁ</lem><note>This passage is a very close parallel with that of Panggumulan 1v5–16, featuring most of the same persons with very slight differences of order.</note></app>
 <app loc="1v6"><lem>Alapan ???</lem><rdg source="bib:Boechari1985-1986_01">Alapan tanaḥ</rdg></app>
-<app loc="1v6"><lem>mu<supplied reason="subaudible">A</supplied>ṁ</lem><rdg source="bib:Boechari1985-1986_01">mvaṁ</rdg></app>
+<app loc="1v6"><lem>mu<supplied reason="omitted">A</supplied>ṁ</lem><rdg source="bib:Boechari1985-1986_01">mvaṁ</rdg></app>
 <app loc="1v7"><lem>soAraniṁ maṅilala</lem><rdg source="bib:Boechari1985-1986_01">soArani maṅilala</rdg></app>
 <app loc="1v8"><lem>vyavastha</lem> <rdg source="bib:Boechari1985-1986_01">vyavasṭa</rdg></app>
 <app loc="1v8"><lem>saṁgrāma<unclear>dh</unclear>uran<unclear>dh</unclear>ara</lem><rdg source="bib:Boechari1985-1986_01">saṁgrāmadurandhara</rdg></app>

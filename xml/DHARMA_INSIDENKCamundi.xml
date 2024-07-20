@@ -52,7 +52,7 @@
                </msContents>
                <physDesc>
                   <handDesc>
-                     <p/>
+                     <p></p>
                      <!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EG 11.2. -->
                   </handDesc>
                </physDesc>
@@ -65,13 +65,19 @@
                         under the European Union's Horizon 2020 research and innovation programme (grant
                         agreement no 809994).</p>
          </projectDesc>
-         <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+         <schemaRef type="guide"
+                    key="EGDv01"
+                    url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
          <listPrefixDef>
-            <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+            <prefixDef ident="bib"
+                       matchPattern="([a-zA-Z0-9\-\_]+)"
+                       replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
                <p>Public URIs with the prefix bib to point to a Zotero Group Library named
                             ERC-DHARMA whose data are open to the public.</p>
             </prefixDef>
-            <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+            <prefixDef ident="part"
+                       matchPattern="([a-z]+)"
+                       replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
                <p>Internal URIs using the part prefix to point to person elements in the
                             <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
             </prefixDef>
@@ -92,7 +98,8 @@
 <p>
 <lb n="1"/><supplied reason="lost"><g type="ddandaOrnate"/> 0 <g type="ddandaOrnate"/> s</supplied>v<supplied reason="lost">as</supplied>t<supplied reason="lost">i śa</supplied>ka-varṣātīta, <num value="1214">1<supplied reason="lost">214</supplied></num>
 <lb n="2"/>caitra-māsa, tithi, <supplied reason="lost">ca</supplied>turdaśī kr̥ṣṇa-<supplied reason="lost">pak</supplied>ṣa<supplied reason="lost">, <abbr>tu</abbr>, <abbr>va</abbr>,</supplied>
-<lb n="3"/><abbr><supplied reason="lost">v</supplied>r̥</abbr>, vāra, juluṁ pujut·, paścimastha grahacāra, Aśviṇī-<supplied reason="lost">nakṣatra, Aśvi-deva</supplied><lb n="4" break="no"/>tā, māhendra-maṇḍala, prīti-yoga, vairājya-muhūrtta, śākunī-karaṇa <supplied reason="lost">m</supplied>e<lb n="5" break="no"/>śa-rāśī, <g type="ddandaOrnate">.</g> tatkāla kapratiṣṭān· pāduka bhaṭārī makatəvək· huvus·
+<lb n="3"/><abbr><supplied reason="lost">v</supplied>r̥</abbr>, vāra, juluṁ pujut·, paścimastha grahacāra, Aśviṇī-<supplied reason="lost">nakṣatra, Aśvi-deva</supplied><lb n="4" break="no"/>tā, māhendra-maṇḍala, prīti-yoga, vairājya-muhūrtta, śākunī-karaṇa <supplied reason="lost">m</supplied>e<lb 
+   n="5" break="no"/>śa-rāśī, <g type="ddandaOrnate">.</g> tatkāla kapratiṣṭān· pāduka bhaṭārī makatəvək· huvus·
 <lb n="6"/><supplied reason="lost">ś</supplied>r<supplied reason="lost">ī ma</supplied>hārāja digvijaya riṁ sakala-loka ma<unclear>n</unclear>u<choice><sic>y</sic><corr>l</corr></choice>uyi sakala-dvīpāntara
 <lb n="7"/><g type="ddandaOrnate"/> śu<supplied reason="lost">bha</supplied>m bhavatu <g type="ddandaOrnate"/>
 </p>
@@ -108,7 +115,7 @@
                       <lem>ma<unclear>n</unclear>u<choice><sic>y</sic><corr>l</corr></choice>uyi</lem>
                      <rdg source="bib:Damais1955_01">pavuyayi</rdg>
                      <rdg source="bib:Boechari1959_01">mavuyuṁ yi</rdg>
-                     <note>Cf. <foreign>an siniwi niṅ sayavadvīpa manuluyi nūṣāntara madhura</foreign> (<bibl><ptr target="bib:Blom1939_01"/></bibl>, <bibl><ptr target="bib:Naerssen1941_02"/></bibl>); <foreign>pinakaikacchātra niṅ bhuvana sayavadvīpamaṇḍala, anuluyani nūṣāntara</foreign> (<bibl><ptr target="bib:Boechari1985-1986_01"/><citedRange unit="page">187</citedRange></bibl>). See also INI p. 40 and 41.</note><!--I don't remember what does INI here stand for-->
+                     <note>Cf. <foreign>an siniwi niṅ sayavadvīpa manuluyi nūṣāntara madhura</foreign> (<bibl><ptr target="bib:Blom1939_01"/></bibl>, <bibl><ptr target="bib:Naerssen1941_02"/></bibl>); <foreign>pinakaikacchātra niṅ bhuvana sayavadvīpamaṇḍala, anuluyani nūṣāntara</foreign> (<bibl><ptr target="bib:Boechari1985-1986_01"></ptr><citedRange unit="page">187</citedRange></bibl>). See also INI p. 40 and 41.</note><!--I don't remember what does INI here stand for-->
                   </app>
                   <app loc="6">
                      <lem source="bib:Boechari1959_01">sakaladvīpāntara</lem>
@@ -118,7 +125,7 @@
          </div>
          <div type="translation" resp="part:argr">
  	<!--translation encoded as per EG §9.2 -->
-	<p/> 
+	<p></p> 
          </div>
          <div type="commentary">
             <!--commentary encoded as per section §9.3 -->
@@ -150,7 +157,7 @@
                 <bibl><ptr target="bib:Damais1952_01"/><citedRange unit="page">72-73</citedRange></bibl>
                 <bibl><ptr target="bib:Bosch1956_01"/><citedRange unit="page">19</citedRange><citedRange unit="note">24</citedRange></bibl>
                 <bibl><ptr target="bib:Damais1962_03"/></bibl>
-                <bibl><ptr target="bib:NurhadiMagetsari+al1979_01"/><citedRange unit="page">40-41</citedRange></bibl>
+                <bibl ><ptr target="bib:NurhadiMagetsari+al1979_01"/><citedRange unit="page">40-41</citedRange></bibl>
                 <bibl><ptr target="bib:Eade+Gislen2000_01"/><citedRange unit="page">101-102</citedRange></bibl>
            </listBibl>
         </div>

@@ -65,13 +65,19 @@
                         under the European Union's Horizon 2020 research and innovation programme (grant
                         agreement no 809994).</p>
          </projectDesc>
-         <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+         <schemaRef type="guide"
+                    key="EGDv01"
+                    url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
          <listPrefixDef>
-            <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+            <prefixDef ident="bib"
+                       matchPattern="([a-zA-Z0-9\-\_]+)"
+                       replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
                <p>Public URIs with the prefix bib to point to a Zotero Group Library named
                             ERC-DHARMA whose data are open to the public.</p>
             </prefixDef>
-            <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+            <prefixDef ident="part"
+                       matchPattern="([a-z]+)"
+                       replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
                <p>Internal URIs using the part prefix to point to person elements in the
                             <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
             </prefixDef>
@@ -111,7 +117,7 @@
 <lb n="9r2"/>A<unclear>ṅa</unclear>dəgakna paj<unclear>ə:</unclear><supplied reason="lost">ṁ</supplied> kuniṁ pinagut ri haR̥pniṁ paṅguṁ, Aṅuṁkuṅa curiṁ, ri<supplied reason="lost">ṁ</supplied>ri<unclear>ṅa</unclear>na k<unclear>u</unclear>ni<supplied reason="lost">ṁ</supplied> hləpana kuniṁ saṁ hyaṁ rājapraśāsti, ri huvusnyan pam<unclear>ū</unclear><lb n="9r3" break="no"/>jā, Arāmyarāmyanāṅiglāgagarant<unclear>u</unclear>ṅa, Ayap<unclear>ə</unclear>n deni kavulanya, pamikulakna pajə:ṁ AhuL̥sa pahuL̥sanya len <unclear>sa</unclear>ṁkeṁ
 <lb n="9r4"/>putiḥ kuniṁ<unclear>,</unclear> samaṅkanānugraha śrī mahārāja, Irikaṁ baṇigrāma sa<unclear>māma</unclear>ṅku kaṅar· samudāya, mata<unclear>ṅya</unclear>n saṁ hyaṁ rāja<lb n="9r5" break="no"/>praśāsti tinaṇḍa <choice><sic>kageśvaranārāyanamuka</sic><corr>khageśvaranārāyaṇamukha</corr></choice>, sampun umiṁgv i <unclear>r</unclear>ipta hinləpan p<unclear>īta</unclear>vastra, pinaṅkvakn irikaṁ baṇigrāma ri pa<lb n="9r6" break="no"/>titihan samāmaṅku kaṅar·, ri san<unclear>m</unclear>uka para taṇḍa rakryan samudāya, kunəṁ <unclear>p</unclear>ratyekanikaṁ baṇigr<unclear>ā</unclear>ma manarima <unclear>saṁ</unclear> hyaṁ rā<pb n="9v" break="no"/><lb n="9v1" break="no"/>japraśāsti, makapramuka samgət aniga, pu pralĭna, dinulur denikaṁ samāmaṅku kaṅar samudāya, riṁ bhūmi kaḍiri, I
 <lb n="9v2"/>limur, Amaṅku kaṅar·, kaki hadyan masiha, kaki hadyan gətun·, buyut sudina, kaki hadyan sadun·, I padləgan·,
-<lb n="9v3"/>kaṅar prăṇajaya, kuda<surplus>va</surplus> hiR̥ṁ, kaṅar siṅha taruṇa, buyut gagak aṁsiṁ, I pagaran·, kaṅar·, buyut baśrīn·, I jiput·, ka<lb n="9v4" break="no"/>ṅar·, gagak maṁgis·, I kuvu, kaṅar·, kaki hadyan varggan·, I valasaḥ, kaṅar·, kaki hadyan chaṇḍat·, I paṇḍumāsa<lb n="9v5" break="no"/>n·, bantəl·, puluṁ kajaṁ, kaṅar·, raṅga bonaṁ, I maṅuri, kaṅar aṅgānaṅgaṁ, tamparaṁ, <supplied reason="subaudible">I</supplied> panumbaṅan·, kaṅar·, śa<lb n="9v6" break="no"/>śa vavar·, glaṁ, jiṅkuṁ, kaṅar·, kbo gsəṁ, <supplied reason="subaudible">I</supplied> pavuyahan·, kaṅar·, buyut bibit uvi, kinvu, kaṅar·, kaki hadyan jeni, pucu-</p>
+<lb n="9v3"/>kaṅar prăṇajaya, kuda<surplus>va</surplus> hiR̥ṁ, kaṅar siṅha taruṇa, buyut gagak aṁsiṁ, I pagaran·, kaṅar·, buyut baśrīn·, I jiput·, ka<lb n="9v4" break="no"/>ṅar·, gagak maṁgis·, I kuvu, kaṅar·, kaki hadyan varggan·, I valasaḥ, kaṅar·, kaki hadyan chaṇḍat·, I paṇḍumāsa<lb n="9v5" break="no"/>n·, bantəl·, puluṁ kajaṁ, kaṅar·, raṅga bonaṁ, I maṅuri, kaṅar aṅgānaṅgaṁ, tamparaṁ, <supplied reason="omitted">I</supplied> panumbaṅan·, kaṅar·, śa<lb n="9v6" break="no"/>śa vavar·, glaṁ, jiṅkuṁ, kaṅar·, kbo gsəṁ, <supplied reason="omitted">I</supplied> pavuyahan·, kaṅar·, buyut bibit uvi, kinvu, kaṅar·, kaki hadyan jeni, pucu-</p>
          </div>
          <div type="apparatus">
            <!--apparatus encoded as per EG §9.1, basic elements for apparatus below-->

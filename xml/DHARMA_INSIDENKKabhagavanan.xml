@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
@@ -75,13 +75,19 @@
                         under the European Union's Horizon 2020 research and innovation programme (grant
                         agreement no 809994).</p>
          </projectDesc>
-         <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+         <schemaRef type="guide"
+                    key="EGDv01"
+                    url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
          <listPrefixDef>
-            <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+            <prefixDef ident="bib"
+                       matchPattern="([a-zA-Z0-9\-\_]+)"
+                       replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
                <p>Public URIs with the prefix bib to point to a Zotero Group Library named
                             ERC-DHARMA whose data are open to the public.</p>
             </prefixDef>
-            <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+            <prefixDef ident="part"
+                       matchPattern="([a-z]+)"
+                       replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
                <p>Internal URIs using the part prefix to point to person elements in the
                             <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
             </prefixDef>
@@ -115,7 +121,7 @@
 <lb n="1v1" break="no"/>vaḥ sapuluḥ liriḥ I sagiri, yapvan ikaṁ savaḥ kabhagavanan· sapuluḥ
                        liriḥ muvaḥ, maṅkanājarnya makabehan·, vva<lb n="1v2" break="no"/>ntən· ta pukulun· paṅhulu bañunya rvaṁ kupaṁ sovaṁ, kataṅgapan denikaṁ rāma sumbul·, vyaktyanyan bheda, muva<g type="filler">§</g>
 <lb n="1v3" break="no"/>h ajariṁkaṁ juru mantən· maṅaran gambyok·, Aki gaṇḍi <choice><orig>yo</orig><reg>yva</reg></choice> pukulun· vka bhagavān· riṁ kr̥ta, muktyakən ikaṁ sa
-<lb n="1v4" break="no"/>puluḥ liriḥ juga, An<supplied reason="subaudible">an</supplied>tara saṅkerika, mpu kili nuda, vkasan saṁ mapañji śūrajaya muktyakən kabhagavānan katkeṁ
+<lb n="1v4" break="no"/>puluḥ liriḥ juga, An<supplied reason="omitted">an</supplied>tara saṅkerika, mpu kili nuda, vkasan saṁ mapañji śūrajaya muktyakən kabhagavānan katkeṁ
 <lb n="1v5"/>maṅke, kevalātutur ikaṁ sa<add place="below">pu</add>luḥ liriḥ juga, pisaniṅu vyāparāṅipikipika Ikaṁ savaḥ kapara thani An· nāṁ
 <lb n="1v6"/>sapuluḥ liriḥ, maṅkana varaḥ kihadyan· gambyok·,
 </p>
@@ -145,7 +151,7 @@
                           stopped after the first akṣara, then rewrote <foreign>nta</foreign> at the proper place.</note>
                   </app>
                   <app loc="1v4">
-                    <lem>An<supplied reason="subaudible">an</supplied>tara</lem>
+                    <lem>An<supplied reason="omitted">an</supplied>tara</lem>
                     <note>Cf. <ref target="DHARMA_INSIDENKMula-Malurung.xml">Mūla-Maluruṅ</ref> 3r7, <foreign>Anantara saṅke līnanira pamanira pva</foreign>, <q>Immediately after the passing away of his uncle (...)</q>, and Gaṇapatitattva, OJ prose under stanza 44.</note>
                   </app>
                 </listApp>

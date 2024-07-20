@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
@@ -63,13 +63,19 @@
          <projectDesc>
             <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
          </projectDesc>
-         <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+         <schemaRef type="guide"
+                    key="EGDv01"
+                    url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
          <!-- UPDATE the link once the release is made official -->
          <listPrefixDef>
-            <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+            <prefixDef ident="bib"
+                       matchPattern="([a-zA-Z0-9\-\_]+)"
+                       replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
                <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
             </prefixDef>
-            <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+            <prefixDef ident="part"
+                       matchPattern="([a-z]+)"
+                       replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
                <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
             </prefixDef>
          </listPrefixDef>
@@ -85,14 +91,14 @@
       <body>
          <div type="edition" xml:lang="kaw-Latn" rendition="class:38769 maturity:83213">
 <p><pb n="1r"/>
-<lb n="1r1"/> <g type="ddandaHooked"/> <g type="circleHigh"/> <g type="ddandaHooked"/> mūlaniṁ savaḥ sīma I kvak· tam<supplied reason="subaudible">p</supplied>aḥ <num value="4">4</num> maknā I saṁ makarma I prāsāda I laṇḍa<g type="circleHigh">.</g> marhyaṁ tampaḥ <num value="2">2</num> muAṁ *lañjānya<g type="circleHigh">.</g> gavaya<lb n="1r2" break="no"/>nira *dumavuttana dukut·niṁ prāsāda I ruhur·<g type="circleHigh">.</g> muAṁ tamvak·<g type="circleHigh">.</g> muAṁ mataga Ikanaṁ masavaḥ Iṁ sīma gumavaya Ikanaṁ *pamahu-jaṅgān·
+<lb n="1r1"/> <g type="ddandaHooked"/> <g type="circleHigh"/> <g type="ddandaHooked"/> mūlaniṁ savaḥ sīma I kvak· tam<supplied reason="omitted">p</supplied>aḥ <num value="4">4</num> maknā I saṁ makarma I prāsāda I laṇḍa<g type="circleHigh">.</g> marhyaṁ tampaḥ <num value="2">2</num> muAṁ *lañjānya<g type="circleHigh">.</g> gavaya<lb n="1r2" break="no"/>nira *dumavuttana dukut·niṁ prāsāda I ruhur·<g type="circleHigh">.</g> muAṁ tamvak·<g type="circleHigh">.</g> muAṁ mataga Ikanaṁ masavaḥ Iṁ sīma gumavaya Ikanaṁ *pamahu-jaṅgān·
 <lb n="1r3"/>*kyan· mahala<g type="circleHigh">.</g> muAṁ *pacaru An· *kyan mahala<g type="circleHigh">.</g> muAṁ humarappa Ikanaṁ biśuva<g type="circleHigh">.</g> muAṁ caru Aṅkan parbvaṇĭ<g type="circleHigh">.</g> savaha saṁ hyaṁ tampaḥ <num value="1">1</num><g type="circleHigh">.</g>
-<lb n="1r4"/> paknānya pabiśuvā muAṁ pacaru A<supplied reason="subaudible">ṁ</supplied>kan parvva<space type="binding-hole"/>ṇĭ<supplied reason="subaudible"><g type="circleHigh">.</g></supplied> lañjānya tamvahan i bhukti saṁ paṅajyan· I laṇḍa<g type="circleHigh">.</g> savaha saṁ devata Iṁ paca<lb n="1r5" break="no"/>ṇḍyan· I kvak suku<!-- OJO su ku --> <num value="1">1</num> paknānya caru A<supplied reason="subaudible">ṁ</supplied>kan· Amāvăṣya<supplied reason="subaudible"><g type="circleHigh">.</g></supplied> sava<supplied reason="subaudible">ha</supplied>ni vka saṁ devata lumāḥ I kvak· suku<!-- OJO su ku --> <num value="3">3</num> Asiṁṅ umuliḥ I kvak gavayani<lb n="1r6" break="no"/>ra <space type="descender"/> manapuA *manamvaḥ-hyaṁṅa<g type="circleHigh">.</g> muAṁ humara<supplied reason="subaudible">ppa</supplied> Ikanaṁ patula A<supplied reason="subaudible">ṁ</supplied>kan· Amāvaṣya <g type="ddandaHooked"/> <g type="circleHigh"/> <g type="ddandaHooked"/></p> <p>muvaḥ mūlaniṁ savaḥ sīma I mulak· tampaḥ <num value="2">2</num> blaḥ <num value="1">1</num> pa<lb n="1r7" break="no"/>knānya savaha saṁ paṅajyan· I laṇḍa tampaḥ <num value="1">1</num> muAṁ lañjānya<g type="circleHigh">.</g> savaha saṁ devakarmma blaḥ <num value="1">1</num> gavayanira manamvaḥ-hyaṁṅa manapuA I dala<pb n="1v" break="no"/><lb n="1v1" break="no"/>m·<supplied reason="subaudible"><g type="circleHigh">.</g></supplied> savahaniṁ ma<choice><sic>pa</sic><corr>saṁ</corr></choice>gar· muAṁ manapu I laṇḍa tampaḥ <num value="1">1</num> <g type="ddandaHooked"/> <g type="circleHigh"/> <g type="ddandaHooked"/></p>
+<lb n="1r4"/> paknānya pabiśuvā muAṁ pacaru A<supplied reason="omitted">ṁ</supplied>kan parvva<space type="binding-hole"/>ṇĭ<supplied reason="omitted"><g type="circleHigh">.</g></supplied> lañjānya tamvahan i bhukti saṁ paṅajyan· I laṇḍa<g type="circleHigh">.</g> savaha saṁ devata Iṁ paca<lb n="1r5" break="no"/>ṇḍyan· I kvak suku<!-- OJO su ku --> <num value="1">1</num> paknānya caru A<supplied reason="omitted">ṁ</supplied>kan· Amāvăṣya<supplied reason="omitted"><g type="circleHigh">.</g></supplied> sava<supplied reason="omitted">ha</supplied>ni vka saṁ devata lumāḥ I kvak· suku<!-- OJO su ku --> <num value="3">3</num> Asiṁṅ umuliḥ I kvak gavayani<lb n="1r6" break="no"/>ra <space type="descender"/> manapuA *manamvaḥ-hyaṁṅa<g type="circleHigh">.</g> muAṁ humara<supplied reason="omitted">ppa</supplied> Ikanaṁ patula A<supplied reason="omitted">ṁ</supplied>kan· Amāvaṣya <g type="ddandaHooked"/> <g type="circleHigh"/> <g type="ddandaHooked"/></p> <p>muvaḥ mūlaniṁ savaḥ sīma I mulak· tampaḥ <num value="2">2</num> blaḥ <num value="1">1</num> pa<lb n="1r7" break="no"/>knānya savaha saṁ paṅajyan· I laṇḍa tampaḥ <num value="1">1</num> muAṁ lañjānya<g type="circleHigh">.</g> savaha saṁ devakarmma blaḥ <num value="1">1</num> gavayanira manamvaḥ-hyaṁṅa manapuA I dala<pb n="1v" break="no"/><lb n="1v1" break="no"/>m·<supplied reason="omitted"><g type="circleHigh">.</g></supplied> savahaniṁ ma<choice><sic>pa</sic><corr>saṁ</corr></choice>gar· muAṁ manapu I laṇḍa tampaḥ <num value="1">1</num> <g type="ddandaHooked"/> <g type="circleHigh"/> <g type="ddandaHooked"/></p>
          </div>
          <div type="apparatus">
                  <listApp>
 	<app loc="1r1">
-	      <lem source="bib:Boechari1985-1986_01">tam<supplied reason="subaudible">p</supplied>aḥ</lem>
+	      <lem source="bib:Boechari1985-1986_01">tam<supplied reason="omitted">p</supplied>aḥ</lem>
 	      <rdg source="bib:Brandes1913_01">tamaḥ</rdg>
 	</app>
 	<app loc="1r1">
@@ -108,9 +114,9 @@
 	      <rdg source="bib:Brandes1913_01">pacarnan·</rdg>
 	</app>
 	<app loc="1r5">
-	      <lem>sava<supplied reason="subaudible">ha</supplied>ni</lem>
+	      <lem>sava<supplied reason="omitted">ha</supplied>ni</lem>
 	      <rdg source="bib:Brandes1913_01">savani</rdg>	
-	      <rdg source="bib:Boechari1985-1986_01">sava<supplied reason="subaudible">ḥ</supplied>ni</rdg>
+	      <rdg source="bib:Boechari1985-1986_01">sava<supplied reason="omitted">ḥ</supplied>ni</rdg>
 	</app>
 	<app loc="1r5">
 	      <lem source="bib:Boechari1985-1986_01"><num value="3">3</num></lem>
@@ -121,7 +127,7 @@
 	      <rdg source="bib:Brandes1913_01">manamvaḥ-hyaṁ <unclear>6</unclear></rdg>
 	</app>
 	<app loc="1r6">
-                     <lem>humara<supplied reason="subaudible">ppa</supplied></lem>
+                     <lem>humara<supplied reason="omitted">ppa</supplied></lem>
                      <rdg source="bib:Brandes1913_01 bib:Boechari1985-1986_01">humara</rdg>
                   </app>
 	<app loc="1r6">

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
@@ -61,12 +61,18 @@
          <projectDesc>
             <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
          </projectDesc>
-         <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+         <schemaRef type="guide"
+                    key="EGDv01"
+                    url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
          <listPrefixDef>
-            <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+            <prefixDef ident="bib"
+                       matchPattern="([a-zA-Z0-9\-\_]+)"
+                       replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
                <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
             </prefixDef>
-            <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
+            <prefixDef ident="part"
+                       matchPattern="([a-z]+)"
+                       replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
                <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_idListMembers_v01.xml</ref> file.</p>
             </prefixDef>
          </listPrefixDef>
@@ -94,7 +100,7 @@
                          <lb n="1v9"/>ṇḍamuhi san brahmīśana Anak vanva I gunuṅan vatak· taṅkilan citralekha vuṅkal· <gap reason="lost"/>
                          <lb n="1v10"/>k· vanva I turuvanban· vatak tiru raṇu citralekha dharmmasinta saṁ ra buAḥ Anak· vanva I pās· vatak· <unclear>pās· pa</unclear>ru<unclear>jar i vka vi</unclear>riḍiḥ pu <unclear>d</unclear>aṇu<gap reason="lost"/>
                          <lb n="1v11"/>n ḍa punta katimamaṁ Anak· vanuA I vuṅkuḍu vatak· kilipan· kapuA vinaiḥ pasak·-pasak· vḍihan yu 1 mas· mā 4 sovaṁ-sovaṁ <gap reason="lost"/>
-                         <lb n="1v12"/>n parujar· I palar hyaṁ tumapal· saṁ baka Anak vanuA I tuṅgu manoṅan· parujar· i ma<supplied reason="subaudible">ṁ</supplied>huri [saṁ] ra <unclear>nu</unclear>Ī pu gu<unclear>pura</unclear> [8+] <unclear>vatak</unclear> vka<gap reason="lost"/>
+                         <lb n="1v12"/>n parujar· I palar hyaṁ tumapal· saṁ baka Anak vanuA I tuṅgu manoṅan· parujar· i ma<supplied reason="omitted">ṁ</supplied>huri [saṁ] ra <unclear>nu</unclear>Ī pu gu<unclear>pura</unclear> [8+] <unclear>vatak</unclear> vka<gap reason="lost"/>
                          <lb n="1v13"/> ra luA vatak· vuru siki parujar· I tirip· sa<unclear>ṁ</unclear> ra paḍaṁ pu rāghu Anak vanva Iy ugiḥhan· vatak· dali<unclear>nan</unclear> kapva vinaiḥ pasak·-pasak· vḍiha<unclear>n·</unclear> <gap reason="lost"/>
                          <lb n="1v14"/> masusū Anak· vanuA I muṅgi sīma I tirip panuvuṅan· si laṅkā Anak vanva I vatu Antan· vatak· va<unclear>tu A</unclear>nta<unclear>n· kapuA</unclear> vinaiḥ pasak·-pasa<unclear>k·</unclear> <gap reason="lost"/>
                          <lb n="1v15"/>hati i makudur saṁ vaja Anak vanva I rahu vatak· turu hayu vinaiḥ vḍihan· yu 2 mas· mā 8 hop· paṅaṅkat [2+] patiḥ va<gap reason="lost"/>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
@@ -67,13 +67,19 @@
                         under the European Union's Horizon 2020 research and innovation programme (grant
                         agreement no 809994).</p>
          </projectDesc>
-         <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+         <schemaRef type="guide"
+                    key="EGDv01"
+                    url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
          <listPrefixDef>
-            <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+            <prefixDef ident="bib"
+                       matchPattern="([a-zA-Z0-9\-\_]+)"
+                       replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
                <p>Public URIs with the prefix bib to point to a Zotero Group Library named
                             ERC-DHARMA whose data are open to the public.</p>
             </prefixDef>
-            <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+            <prefixDef ident="part"
+                       matchPattern="([a-z]+)"
+                       replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
                <p>Internal URIs using the part prefix to point to person elements in the
                             <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
             </prefixDef>
@@ -88,12 +94,12 @@
    <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="kaw-Latn">
-<pb n="1r"/><p><lb n="1r1"/><g type="ddandaCross"/> svasti śaka-varṣātīta <num value="829">829</num> śravaṇa-māsa, tithi dvādaśi śukla‚ <abbr>ma</abbr>, <abbr>po</abbr><unclear>‚</unclear> <abbr>bu</abbr>‚ vāra<supplied reason="subaudible">,</supplied> tatkālani pu tabvəl· 
+<pb n="1r"/><p><lb n="1r1"/><g type="ddandaCross"/> svasti śaka-varṣātīta <num value="829">829</num> śravaṇa-māsa, tithi dvādaśi śukla‚ <abbr>ma</abbr>, <abbr>po</abbr><unclear>‚</unclear> <abbr>bu</abbr>‚ vāra<supplied reason="omitted">,</supplied> tatkālani pu tabvəl· 
 <lb n="1r2"/>Anag vanuA Iṁ guntur· punpunaniṁ vihāre<!-- prima facie, the reading actually seems to be viharare --> garuṁ pinariccheda guṇa-doṣanira de samaggat· pinapan·
 <lb n="1r3"/>pu gavul· muAṁ saṁ Anakabvi pu gallam· vanuA I pulu vatu,</p> <p>samvandhanikaṁ guṇa-doṣa, hana saṁ dharma ṅara<lb n="1r4" break="no"/>nya bapani maṁhampig· saṁkā ri vurakuṁ ya ta tumagiḥ pu tabvəl· tinagihakanya mas· <abbr>su</abbr> <num value="1">1</num><!-- Brandes and TSN reads a punctuation sign after this numeral, but I see none. --> ndātan hutaṁ
 <lb n="1r5"/>pu tabvəl· ya hutaṁ saṁ Anakabvi, makaṅaran si campa‚ vuAṁ sānak saṁ dharma, pajjaḥ puA si campa‚ tinagiḥ
-<lb n="1r6"/>ta pu tabvəl· de saṁ dharma, ndātan hanānakni pu tabvəl· muAṁ si campa‚ ṅuniveḥ yar vruha rikaṁ hutaṁ<supplied reason="subaudible">,</supplied> ya
-<lb n="1r7"/>ta mataṅyan· tka ri samaggat pinapan·<supplied reason="subaudible">,</supplied> ndātan· tka saṁ dharma rikaṁ pasamayān· ya mataṅyan· Inalaha<lb n="1r8" break="no"/>kan ta ya de samaggat pinapan·, lavan· tan hana parṇnaḥniṁ hutaṁ maṅkana tumibā riṁ laki-laki yata<pb n="1v" break="no"/><lb n="1v1" break="no"/>n paṅavruḥnikaṁ laki-laki, ṅuniveḥ yan· tan hana Anak samvandha,</p><p>tatra sākṣī rovaṁ rakryān· Aputu, 
+<lb n="1r6"/>ta pu tabvəl· de saṁ dharma, ndātan hanānakni pu tabvəl· muAṁ si campa‚ ṅuniveḥ yar vruha rikaṁ hutaṁ<supplied reason="omitted">,</supplied> ya
+<lb n="1r7"/>ta mataṅyan· tka ri samaggat pinapan·<supplied reason="omitted">,</supplied> ndātan· tka saṁ dharma rikaṁ pasamayān· ya mataṅyan· Inalaha<lb n="1r8" break="no"/>kan ta ya de samaggat pinapan·, lavan· tan hana parṇnaḥniṁ hutaṁ maṅkana tumibā riṁ laki-laki yata<pb n="1v" break="no"/><lb n="1v1" break="no"/>n paṅavruḥnikaṁ laki-laki, ṅuniveḥ yan· tan hana Anak samvandha,</p><p>tatra sākṣī rovaṁ rakryān· Aputu, 
 <lb n="1v2"/>pu rakak· vuAṁ I taṁkil·, rovaṁ rakryān· haməAs· pu kirat· vuAṁ I timvun· vsi‚ pu saṅgama vuAṁ I gu<lb n="1v3" break="no"/>ntur·‚ muAṁ guru vaju Anakabvi samaggat pinapan· Atuha‚ nāhan· kveḥniṁ sākṣī byakt<unclear>i</unclear>nyan· sampun· 
 <lb n="1v4"/>śuddha-pariśuddha Ikaṁ guṇa-doṣa, likhita-pātra dyaḥ raṅgal· vuAṁ I varasiga<g type="ddandaHooked">.</g></p><p>kunaṁ sugyan ta<unclear reason="eccentric_ductus">m</unclear>ān paṅu<lb n="1v5" break="no"/>jara ya muvaḥ dlāhaniṁ dlāha ya donikeṁ jayapātra<g type="ddandaHooked">.</g> <g type="ddandaCross"/> <g type="ddandaHooked">.</g></p>
          </div>
