@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?> <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?> <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml version="1.0" encoding="UTF-8"?> <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?> <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?> <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
    <teiHeader>
       <fileDesc>
@@ -60,18 +60,12 @@
          <projectDesc>
             <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
          </projectDesc>
-         <schemaRef type="guide"
-                    key="EGDv01"
-                    url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+         <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
          <listPrefixDef>
-            <prefixDef ident="bib"
-                       matchPattern="([a-zA-Z0-9\-\_]+)"
-                       replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+            <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
                <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
             </prefixDef>
-            <prefixDef ident="part"
-                       matchPattern="([a-z]+)"
-                       replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
+            <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
                <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_idListMembers_v01.xml</ref> file.</p>
             </prefixDef>
          </listPrefixDef>
@@ -84,7 +78,7 @@
            <body> 
                    <div type="edition">
                      <div type="textpart"><head xml:lang="eng">Plate 1.</head>
-                   <p><lb n="1v1"/> // svasti <choice><sic>śa<supplied reason="omitted">ka</supplied>varmātīta</sic><corr>śakavarṣātīta</corr></choice> 827 śravaṇa-māsa tithi pratipāda śukla-pakṣa pa U śu vāra Ăśleṣă-nakṣatra varīyān·-yoga ta
+                   <p><lb n="1v1"/> // svasti <choice><sic>śa<supplied reason="subaudible">ka</supplied>varmātīta</sic><corr>śakavarṣātīta</corr></choice> 827 śravaṇa-māsa tithi pratipāda śukla-pakṣa pa U śu vāra Ăśleṣă-nakṣatra varīyān·-yoga ta
 <lb break="no" n="1v2"/>tkālanikanaṁ rāma I rumviga vatak· rumviga mapuluṁ taṇḍas· muAṁ pinakānak· kabaiḥ manamvaḥ I samgat· mo
 <lb break="no" n="1v3"/>maḥ-Umaḥ mamrati pu Uttara muAṁ rakryān· vuṁkal· tihaṁ pu vĭravikrama rakryān· ri hino mahāmantri śrī dakṣottama-bāhuba
 <lb break="no" n="1v4"/>jra-pratipakṣa-kṣaya maminta Inanugrahān· mapasaṁ-gunuṅa pirak· kā 4 muAṁ piliḥ-masnya sāmas· riṁ satahil· satahun· ku
@@ -99,7 +93,7 @@
                    <p>
 <lb n="2r1"/>ṅū pasamvaḥ I śrī mahārāja dyaḥ balituṁ śrī dharmmodaya mahāśambhu vḍihan· gañjar· pātra sə-sə yu 1 mas· su 1 mā <unclear>4</unclear> rakryān· I hino mahāmantrī InaṁsəAn·
 <lb n="2r2"/> mas· su 1 mā 4 vḍihan· kalyāga yu 1 rakryān· vuṅkal· tihaṁ InaṁsəAn· mas· su 1 vḍihan· kalyāga yu 1 samgat· momaḥh-umaḥ mamrat<unclear>i</unclear> paṅgumulan· p<unclear>u</unclear> <unclear>A</unclear>
-<lb break="no" n="2r3"/>gra muAṁ samgat· vadihati pu ḍapit· vinaiḥ mas· <supplied reason="omitted">mā</supplied> 8 vḍihan virā yu 1 sovaṁ-sovaṁ rumviga rikaṁ kāla pu tka vanuA I taṅkilan· vatak· taṅkilan· InaṁsəAn· pa
+<lb break="no" n="2r3"/>gra muAṁ samgat· vadihati pu ḍapit· vinaiḥ mas· <supplied reason="subaudible">mā</supplied> 8 vḍihan virā yu 1 sovaṁ-sovaṁ rumviga rikaṁ kāla pu tka vanuA I taṅkilan· vatak· taṅkilan· InaṁsəAn· pa
 <lb break="no" n="2r4"/>sək·-pasək· mas· su 1 mā 4 vḍihan· raṅga yu 1 juru ryy ayam· təAs· mira-miraḥ pu rayuṁ maṁraṅkapi pu dhanada kapuA vinaiḥ mas· mā 4 vḍihan· raṅga yu 1
 <lb n="2r5"/> sovaṁ-sovaṁ juru I rumviga juru vadvā rarai pu candra vanva I Ampukan· vatak· dalinan· juru kalula pu sojara juru maṁrakat· pu L̥vyan· kapva vuAṅ I
 <lb n="2r6"/> raṇḍə: vatak· taṅkilan· vinaiḥ mas· mā 4 kinabaihan· patiḥ I hanuṁnaṁ si kr̥ta vahuta I paṁgumulan· si maṅail· kapva vinaiḥ mas· mā 2 vḍi
@@ -114,7 +108,7 @@
                        
                    </div>
                        <div type="apparatus">
-                                <app loc="1v1"><lem source="bib:MachiSuhadi1983_01">śa<supplied reason="omitted">ka</supplied>varmātīta</lem></app>
+                                <app loc="1v1"><lem source="bib:MachiSuhadi1983_01">śa<supplied reason="subaudible">ka</supplied>varmātīta</lem></app>
                             
                                 <app loc="1v1"><lem>Ăśleṣă</lem><rdg source="bib:MachiSuhadi1983_01">Ăslesă</rdg><rdg source="bib:HerniPramastuti+al2007_01">Ăslemă</rdg></app>
                             

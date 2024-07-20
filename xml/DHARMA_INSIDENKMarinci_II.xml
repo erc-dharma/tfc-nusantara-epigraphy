@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
@@ -73,19 +73,13 @@
                         under the European Union's Horizon 2020 research and innovation programme (grant
                         agreement no 809994).</p>
          </projectDesc>
-         <schemaRef type="guide"
-                    key="EGDv01"
-                    url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+         <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
          <listPrefixDef>
-            <prefixDef ident="bib"
-                       matchPattern="([a-zA-Z0-9\-\_]+)"
-                       replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+            <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
                <p>Public URIs with the prefix bib to point to a Zotero Group Library named
                             ERC-DHARMA whose data are open to the public.</p>
             </prefixDef>
-            <prefixDef ident="part"
-                       matchPattern="([a-z]+)"
-                       replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+            <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
                <p>Internal URIs using the part prefix to point to person elements in the
                             <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
             </prefixDef>
@@ -102,14 +96,11 @@
   <div type="edition" xml:lang="kaw-Latn">
 <pb n="1r"/>
 <p>
-<lb n="1r1"/><g type="ddandaOrnate"/> vruhanekaṅ amupu tuturun·, savarnnaniṅ amupu tuturun iṅ aṅaR̥mba, paṅalasan·, paramb<unclear>ə</unclear><lb
-n="1r2" break="no"/>kəl·, mantrī, huṇḍahagi, yen andikaniṅoṁ, denekaṅ aṅaR̥mba hiṁ deva-R̥ṣi,</p>
+<lb n="1r1"/><g type="ddandaOrnate"/> vruhanekaṅ amupu tuturun·, savarnnaniṅ amupu tuturun iṅ aṅaR̥mba, paṅalasan·, paramb<unclear>ə</unclear><lb n="1r2" break="no"/>kəl·, mantrī, huṇḍahagi, yen andikaniṅoṁ, denekaṅ aṅaR̥mba hiṁ deva-R̥ṣi,</p>
 <p>si samasanak iṁ mariñchi
-  <lb n="1r3"/>I rehane luputa riṁ tuturun·, sakalviraniṁ tuturun· titisara saki daL̥m·, luput iṁ padadaḥ, pa<lb
-  n="1r4" break="no"/>tatar·, pavivaha, pasahaṁ, pabata, palantaran·, pakamas·, papiṅgan·, pavsi, papañjalin·, para<lb n="1r5" break="no"/>vuhan·, susukan·, luputa riṁ bletepe sakiṅ uṇḍahagi, luputa riṁ jajalukan·, tu<choice><orig>nḍ</orig><reg>ṇḍ</reg></choice>an·, la<pb n="1v" break="no"/><lb n="1v1" break="no"/>van dene kakayune rehaniṁ tan kanagaraha, tan ana haməraṅa, hanuta polahe sajīva-jīva, Ayo
+  <lb n="1r3"/>I rehane luputa riṁ tuturun·, sakalviraniṁ tuturun· titisara saki daL̥m·, luput iṁ padadaḥ, pa<lb n="1r4" break="no"/>tatar·, pavivaha, pasahaṁ, pabata, palantaran·, pakamas·, papiṅgan·, pavsi, papañjalin·, para<lb n="1r5" break="no"/>vuhan·, susukan·, luputa riṁ bletepe sakiṅ uṇḍahagi, luputa riṁ jajalukan·, tu<choice><orig>nḍ</orig><reg>ṇḍ</reg></choice>an·, la<pb n="1v" break="no"/><lb n="1v1" break="no"/>van dene kakayune rehaniṁ tan kanagaraha, tan ana haməraṅa, hanuta polahe sajīva-jīva, Ayo
 <lb n="1v2" break="no"/>hiṅ uvahan·,</p>
-<p>kaṁ rājamūdra lamun uvus den·-vaca kagugona denekaṅ aṅaR̥mba riṁ deva-R̥ṣi, si sa<lb
-  n="1v3" break="no"/>masanak iṁ mariñch<unclear>ī</unclear>,</p>
+<p>kaṁ rājamūdra lamun uvus den·-vaca kagugona denekaṅ aṅaR̥mba riṁ deva-R̥ṣi, si sa<lb n="1v3" break="no"/>masanak iṁ mariñch<unclear>ī</unclear>,</p>
 <p>tith<unclear>i</unclear>, <abbr>ka</abbr>, <num value="4">4</num>, śiraḥ, <num value="4">4</num> <g type="ddandaOrnate"/> <g type="circleLarge"/> <g type="ddandaOrnate"/></p>
   </div>
   <div type="apparatus">

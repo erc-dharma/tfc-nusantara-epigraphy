@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
@@ -63,19 +63,13 @@
                         under the European Union's Horizon 2020 research and innovation programme (grant
                         agreement no 809994).</p>
          </projectDesc>
-         <schemaRef type="guide"
-                    key="EGDv01"
-                    url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+         <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
          <listPrefixDef>
-            <prefixDef ident="bib"
-                       matchPattern="([a-zA-Z0-9\-\_]+)"
-                       replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+            <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
                <p>Public URIs with the prefix bib to point to a Zotero Group Library named
                             ERC-DHARMA whose data are open to the public.</p>
             </prefixDef>
-            <prefixDef ident="part"
-                       matchPattern="([a-z]+)"
-                       replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+            <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
                <p>Internal URIs using the part prefix to point to person elements in the
                             <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
             </prefixDef>
@@ -97,8 +91,7 @@
                 <p>
                      <lb n="1"/><g type="symbol" subtype="spider"/> nihan· tapak· va<lb n="2" break="no"/>lar nu syi muliA tapa I<lb n="3" break="no"/>ña paR̥bu raja vas·tu
                      <lb n="4"/>ma<unclear reason="eccentric_ductus">ṅ</unclear>aḍəg· ḍi kuta kava<lb n="5" break="no"/>li nu mahayu na kaḍatuAn·
-                     <lb n="6"/>suravisesa nu marigi sa<lb n="7" break="no"/>kulili<supplied reason="omitted">ṁ</supplied> ḍayəḥ nu najur sakala<lb 
-		n="8" break="no"/>ḍesa Aya ma nu pa<supplied reason="omitted">n</supplied>ḍəri<!-- argr2adgu: should we not opt for encoding pa<supplied reason="omitted">n</supplied>ḍəri? if so, please make the necessary changes in all files. --> pake na
+                     <lb n="6"/>suravisesa nu marigi sa<lb n="7" break="no"/>kulili<supplied reason="subaudible">ṁ</supplied> ḍayəḥ nu najur sakala<lb n="8" break="no"/>ḍesa Aya ma nu pa<supplied reason="subaudible">n</supplied>ḍəri<!-- argr2adgu: should we not opt for encoding pa<supplied reason="omitted">n</supplied>ḍəri? if so, please make the necessary changes in all files. --> pake na
                      <lb n="9"/>gave raḥhayu pakən· həbəl· ja<lb n="10" break="no"/>ya ḍi na buAna
                 </p>
                 
@@ -109,14 +102,14 @@
                         <lem source="bib:Noorduyn1976_01 bib:HasanDjafar1991_01 bib:TitiSurtiNastiti1996_01">tapak· va<lb n="2" break="no"/>lar</lem>
                         <rdg source="bib:Friederich1855_01">tapa kata</rdg>
                         <rdg source="bib:Holle1867_01 bib:Pleyte1911_01">tapa kava<lb n="2" break="no"/>li</rdg>
-                        <rdg source="bib:RichadianaKartakusuma2005_01">tapa<supplied reason="omitted">k</supplied> kavali</rdg>
+                        <rdg source="bib:RichadianaKartakusuma2005_01">tapa<supplied reason="subaudible">k</supplied> kavali</rdg>
                     </app>
                     <app loc="2">
                         <lem source="bib:Holle1867_01">nu syi muliA tapa</lem>
                         <rdg source="bib:Friederich1855_01">nusya muṅi atapa</rdg>
                         <rdg source="bib:Pleyte1911_01">nu saṁ hyaṁ muliA tapa</rdg>
                         <rdg source="bib:Noorduyn1976_01 bib:RichadianaKartakusuma2005_01">nu siya muliA tapa</rdg>
-                        <rdg source="bib:HasanDjafar1991_01 bib:TitiSurtiNastiti1996_01">nu siya muliA tapa<supplied reason="omitted">k</supplied></rdg>
+                        <rdg source="bib:HasanDjafar1991_01 bib:TitiSurtiNastiti1996_01">nu siya muliA tapa<supplied reason="subaudible">k</supplied></rdg>
                     </app>
                     <app loc="2">
                         <lem source="bib:Noorduyn1976_01 bib:HasanDjafar1991_01 bib:TitiSurtiNastiti1996_01 bib:RichadianaKartakusuma2005_01">I<lb n="3" break="no"/>ña</lem>
@@ -127,13 +120,13 @@
                         <note>The shape of <foreign>ṅa</foreign> is unusual. Cf. the more careful execution of this <foreign>aksara</foreign> in <ref target="DHARMA_INSIDENKKawali_2.xml">Kawali II</ref>, line 2 <foreign>ṅə</foreign>.</note>
                     </app>
                     <app loc="6">
-                        <lem source="bib:Holle1867_01 bib:Noorduyn1976_01">sa<lb n="7" break="no"/>kulili<supplied reason="omitted">ṁ</supplied></lem>
+                        <lem source="bib:Holle1867_01 bib:Noorduyn1976_01">sa<lb n="7" break="no"/>kulili<supplied reason="subaudible">ṁ</supplied></lem>
                         <rdg source="bib:Friederich1855_01">sakulili</rdg>
                         <rdg source="bib:HasanDjafar1991_01 bib:TitiSurtiNastiti1996_01 bib:RichadianaKartakusuma2005_01">sakuliliṁ</rdg>
                         <note>It may be doubted that any <foreign>panyecek</foreign> was written here.</note>
                     </app>
                     <app loc="8">
-                        <lem>pa<supplied reason="omitted">n</supplied>ḍəri</lem>
+                        <lem>pa<supplied reason="subaudible">n</supplied>ḍəri</lem>
                         <rdg source="bib:Friederich1855_01">padəri</rdg>
                         <rdg source="bib:Holle1867_01 bib:Noorduyn1976_01 bib:HasanDjafar1991_01 bib:TitiSurtiNastiti1996_01 bib:RichadianaKartakusuma2005_01">pandə:ri</rdg>
                     </app>

@@ -67,19 +67,13 @@
          <projectDesc>
             <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
          </projectDesc>
-         <schemaRef type="guide"
-                    key="EGDv01"
-                    url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+         <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
          <!-- UPDATE the link once the release is made official -->
          <listPrefixDef>
-            <prefixDef ident="bib"
-                       matchPattern="([a-zA-Z0-9\-\_]+)"
-                       replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+            <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
                <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
             </prefixDef>
-            <prefixDef ident="part"
-                       matchPattern="([a-z]+)"
-                       replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+            <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
                <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
             </prefixDef>
          </listPrefixDef>
@@ -99,7 +93,7 @@
 <lb n="Ar2"/><supplied reason="lost">, rakryan də</supplied>muṁ mpu kapat·,<!--make a note in the apparatus for Krom's additions--> <foreign xml:lang="san-Latn">śūra-sapatna-mar<choice><orig>ddh</orig><reg>rd</reg></choice>ana</foreign>, rakryan kanuruhan·, mpu pakis·, <foreign xml:lang="san-Latn">vairi-bala-vīrāntaka</foreign>, rakryan·
 <lb n="Ar3"/><supplied reason="lost">raṅga, mpu</supplied><gap reason="lost" quantity="3" unit="character" precision="low"/>ma <foreign xml:lang="san-Latn">ripu-saṅ<choice><orig>ghy</orig><reg>gh</reg></choice>a-pra<choice><orig>n</orig><reg>ṇ</reg></choice>āśa</foreign>, rakryan tuməṅguṁ, mpu nala, <foreign xml:lang="san-Latn">sādhu-rakṣaṇāsādhu-nigraha-tatpara</foreign>, makapurassa<lb n="Ar4" break="no"/><supplied reason="lost">ra rakryan apatiḥ riṁ</supplied> jaṅgala kaḍiri, mpu mada, <foreign xml:lang="san-Latn">raṇa-maddhyāryy-anukūla-karaṇa</foreign>, <foreign xml:lang="san-Latn">para-sainya-śiraḥ-kapāla-gan<unclear>v</unclear>otpāna<!--em. something here, either utpāda or utpanna, and garva/gardha (pride, arrogance?)-->-ma<lb n="Ar5" break="no"/><gap reason="lost" quantity="3" unit="character" precision="low"/>yendhikopāya-samārtthya</foreign>, sākṣāt praṇālāmratisubaddhakən paṁḍiri śrī mahārāja sinivi riṁ sayavadv<choice><orig>i</orig><reg>ī</reg></choice>pa-ma<lb n="Ar6" break="no"/><supplied reason="lost">ṇḍala-dvī</supplied>pāntara, makan<choice><orig>ā</orig><reg>a</reg></choice>ryyama <!--makanaryama, see parallels in AVj 48.2, etc. But does this refer back or forward? Probably this designation is better suited to the apatih Gajah Mada than to the samgəts--> saṁ <foreign xml:lang="san-Latn">nyāy<choice><sic>a</sic><corr>ā</corr></choice>nyāya-vyavahāra-vicchedaka</foreign>, saṁ pamgət i tiruAn·, ḍaṅ ācāryya śi<pb n="Av" break="no"/><lb n="Av1" break="no"/><supplied reason="lost"><supplied reason="lost" cert="low">vanātha</supplied> <foreign xml:lang="san-Latn">nyāya-vyā</foreign></supplied><foreign xml:lang="san-Latn">karaṇa-śāstra-parisamāpta</foreign>, samgət i kaṇḍamohi, ḍaṅ ācāryya marmmanātha, <foreign xml:lang="san-Latn">nyāya-vyākaraṇa-śāstra-parisa</foreign>
 <lb n="Av2" break="no"/><supplied reason="lost"><foreign xml:lang="san-Latn">māpta</foreign>, samgət i maṅhur</supplied>i, ḍaṅ ācāryya smaranātha, <foreign xml:lang="san-Latn">nyāya-vyākaraṇa-śāstra-parisamāpta</foreign>, samgət i kaṇḍaṅan rare, ḍaṅ ācāryya mahā<g type="filler">§</g>
-<lb n="Av3" break="no"/><supplied reason="lost" cert="low">nātha</supplied><supplied reason="lost">, <foreign xml:lang="san-Latn">boddha-ta</foreign></supplied><foreign xml:lang="san-Latn"><unclear>rkka</unclear>-vyākara<supplied reason="omitted">ṇa</supplied>-śāstra-parisamāpta</foreign>, samgət i jāmbi, smaranātha, <foreign xml:lang="san-Latn">nyāya-vyākaraṇa-śāstra-parisamāpta</foreign>, samgət i pamuA
+<lb n="Av3" break="no"/><supplied reason="lost" cert="low">nātha</supplied><supplied reason="lost">, <foreign xml:lang="san-Latn">boddha-ta</foreign></supplied><foreign xml:lang="san-Latn"><unclear>rkka</unclear>-vyākara<supplied reason="subaudible">ṇa</supplied>-śāstra-parisamāpta</foreign>, samgət i jāmbi, smaranātha, <foreign xml:lang="san-Latn">nyāya-vyākaraṇa-śāstra-parisamāpta</foreign>, samgət i pamuA
 <lb n="Av4" break="no"/><supplied reason="lost">tan ḍaṅ ācāryyā</supplied>greśvara, <foreign xml:lang="san-Latn">nyāya-vyākaraṇa-śāstra-parisamāpta</foreign>, dharmm<choice><orig>a</orig><reg>ā</reg></choice>dhyakṣa riṁ kaśaivan·, saṅ āryya harṣarāja, ḍaṅ ā
 <lb n="Av5" break="no"/><supplied reason="lost">cāryya</supplied><supplied reason="lost" cert="low">śiveśvara,</supplied> <foreign xml:lang="san-Latn">nyāya-vyākaraṇa-śāstra-parisamāpta</foreign>, dharmm<choice><orig>a</orig><reg>ā</reg></choice>dhyakṣa riṁ kasogatan·, saṅ āryy<choice><orig>a</orig><reg>ā</reg></choice>dhīrāja, ḍaṅ ācāryya
 <lb n="Av6"/><supplied reason="lost" cert="low">kanakamuni</supplied>, <foreign xml:lang="san-Latn"><supplied reason="lost">boddha-</supplied><unclear>ta</unclear>rkka-vyākaraṇa-tantra-parisamāpta</foreign>, kunəṁ padārtthany ājñā pāduka śrī mahārāja, kumonakən i para
@@ -114,7 +108,7 @@
 <lb n="4"/><supplied reason="lost" cert="low">māsa</supplied><gap reason="lost" quantity="19" unit="character" precision="low"/> tkap· saṁ hyaṁ maṇḍale kaṇḍava ri talun i vasana ri sa<lb n="5" break="no"/><gap reason="lost" quantity="22" unit="character" precision="low"/>kapvānusuna kalasāpatharaṇāmaguta payuṁ sa<lb n="6" break="no"/><gap reason="lost" quantity="23" unit="character" precision="low"/> <unclear>tla</unclear>s karuhun kadīrgghyāyuṣān pāduka śrī mahārāja,
 <pb n="Bv" break="no"/>
 <lb n="1"/><gap reason="lost" quantity="22" unit="character" precision="low"/>saṁ hyaṁ maṇḍale sāgara, kunəṁ riṁ caitra māsa, pañcada
-<lb n="2" break="no"/><supplied reason="lost">śī</supplied> <gap reason="lost" quantity="2" unit="character"/><supplied reason="lost">pakṣa</supplied><gap reason="lost" quantity="15" unit="character" precision="low"/> maṇḍa<supplied reason="omitted">le</supplied> sāgara, Iriṅən· tkap· saṁ hyaṁ maṇḍale talun·,
+<lb n="2" break="no"/><supplied reason="lost">śī</supplied> <gap reason="lost" quantity="2" unit="character"/><supplied reason="lost">pakṣa</supplied><gap reason="lost" quantity="15" unit="character" precision="low"/> maṇḍa<supplied reason="subaudible">le</supplied> sāgara, Iriṅən· tkap· saṁ hyaṁ maṇḍale talun·,
 <lb n="3"/><gap reason="lost" quantity="23" unit="character" precision="low"/> para kaky atuṅgu batur i talun·, makadon enaka
 <lb n="4"/><gap reason="lost" quantity="19" unit="character" precision="low"/><unclear>pā</unclear>duka śrī mahārāja, maṅkana rasani paṅhayubhagya pādu<lb n="5" break="no"/><supplied reason="lost" cert="low">ka śrī mahārāja</supplied> <gap reason="lost" quantity="14" unit="character" precision="low"/>ha, kunəṁ tiṅkaha para kaky aṅiriṅa ri saṁ hyaṁ maṇḍalan pa<lb n="6" break="no"/><gap reason="lost" quantity="22" unit="character" precision="low"/>ya pariśuddha, tumutakna palupv i saṁ siddha puruṣa ṅūni, ma-
 <!--masc: how should we represent that this is a "no break" page break?-->

@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
@@ -69,18 +69,12 @@
          <projectDesc>
             <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
          </projectDesc>
-         <schemaRef type="guide"
-                    key="EGDv01"
-                    url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+         <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
          <listPrefixDef>
-            <prefixDef ident="bib"
-                       matchPattern="([a-zA-Z0-9\-\_]+)"
-                       replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+            <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
                <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
             </prefixDef>
-            <prefixDef ident="part"
-                       matchPattern="([a-z]+)"
-                       replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
+            <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
                <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_idListMembers_v01.xml</ref> file.</p>
             </prefixDef>
          </listPrefixDef>
@@ -96,19 +90,15 @@
                <p><pb n="1r"/><lb n="1r1"/>// svasti śaka-varṣātῑta <num value="822">822</num> punaḥ-posya-māsa tithi <num value="8">Aṣṭami</num> śukla-pakṣa, <abbr>ha</abbr>,
                <lb n="1r2"/><abbr>ka</abbr>, <abbr>br̥</abbr>, vāra,</p><p>tatkāla Ăjñă śrῑ mahărāja <abbr>rake</abbr> vatu kura dyaḥ dharmodaya mahāsambhu 
                <lb n="1r3"/>tumurun· I rakryān mapatiḥ I hino pu bāhubajrapratipakṣakṣaya <abbr>rake</abbr> halu pu
-               <lb n="1r4"/>saṁgrāma<choice><sic>nurād</sic><corr>dhuran</corr></choice>dhara, <abbr>rake</abbr> sirikan· pu samaravikrănta, <abbr>rake</abbr> vka pu bhāsvara, <abbr>rake</abbr> paga<supplied reason="omitted">r</supplied> vs<choice><sic>a</sic><corr>i</corr></choice>
+               <lb n="1r4"/>saṁgrāma<choice><sic>nurād</sic><corr>dhuran</corr></choice>dhara, <abbr>rake</abbr> sirikan· pu samaravikrănta, <abbr>rake</abbr> vka pu bhāsvara, <abbr>rake</abbr> paga<supplied reason="subaudible">r</supplied> vs<choice><sic>a</sic><corr>i</corr></choice>
                <lb n="1r5"/>pu vīravikrama, <abbr>rake</abbr> bavaṁ pu maṁlavan· samgat· tiruAn· pu śivāstra, maṁhuri pu cak<unclear>r</unclear>a
-               <lb n="1r6"/>vadihat<choice><sic>ῑ</sic><corr>i</corr></choice> pu ḍapit, makudu<supplied reason="omitted">r</supplied>· pu sāmvr̥da, kumonnakan· soĀraniṁ va<space type="descender"/>nuA sĭma I Aya<lb break="no"
-               n="1r7"/>m təAs·<supplied reason="omitted">,</supplied> hiṁhiṁṅana Ikanaṁ masamvya<space type="descender"/>vahāra hana ṁkāna<supplied reason="omitted">,</supplied> Anuṁ tan· knā de saṁ maṅilala <choice><sic>n</sic><corr>d</corr></choice>ra<lb break="no" 
-               n="1r8"/>bya haji tluṁ tuhān· Iṁ sasamvya<space type="descender"/>vahāra Iṁ sasῑma, yan· paṅula<unclear>ṁ</unclear> kbo ya <num value="20">ruAṁ puluḥ</num> 
-               <lb n="1r9"/>kboAnya, sapi <num value="40">pataṁ puluḥ</num><supplied reason="omitted">,</supplied> və<choice><sic>h</sic><corr>ḍ</corr></choice>us· <num value="80">vuAluṁ puluḥ</num><supplied reason="omitted">,</supplied> Aṇḍaḥ savan<choice><sic>th</sic><corr>t</corr></choice>ayan·<supplied reason="omitted">,</supplied> maguluṅa
+               <lb n="1r6"/>vadihat<choice><sic>ῑ</sic><corr>i</corr></choice> pu ḍapit, makudu<supplied reason="subaudible">r</supplied>· pu sāmvr̥da, kumonnakan· soĀraniṁ va<space type="descender"/>nuA sĭma I Aya<lb break="no" n="1r7"/>m təAs·<supplied reason="subaudible">,</supplied> hiṁhiṁṅana Ikanaṁ masamvya<space type="descender"/>vahāra hana ṁkāna<supplied reason="subaudible">,</supplied> Anuṁ tan· knā de saṁ maṅilala <choice><sic>n</sic><corr>d</corr></choice>ra<lb break="no" n="1r8"/>bya haji tluṁ tuhān· Iṁ sasamvya<space type="descender"/>vahāra Iṁ sasῑma, yan· paṅula<unclear>ṁ</unclear> kbo ya <num value="20">ruAṁ puluḥ</num> 
+               <lb n="1r9"/>kboAnya, sapi <num value="40">pataṁ puluḥ</num><supplied reason="subaudible">,</supplied> və<choice><sic>h</sic><corr>ḍ</corr></choice>us· <num value="80">vuAluṁ puluḥ</num><supplied reason="subaudible">,</supplied> Aṇḍaḥ savan<choice><sic>th</sic><corr>t</corr></choice>ayan·<supplied reason="subaudible">,</supplied> maguluṅa
                <pb n="1v"/><lb n="1v1"/><num value="3">tluṁ</num> pasaṁ, maṅaraḥ <num value="3">tluṁ</num> lumpaṁ Iṁ sa<choice><orig>ś</orig><reg>s</reg></choice>ῑma, yāpuAn· pinikul· dagaṁnya, kady aṅ<choice><sic>t</sic><corr>g</corr></choice>āniṁ mabasana
-               <lb n="1v2"/>masayaṁ, makacapuri<supplied reason="omitted">,</supplied> kapas·<supplied reason="omitted">,</supplied> vuṅkuḍu<supplied reason="omitted">,</supplied> tamvaga<supplied reason="omitted">,</supplied> gaṅsa<supplied reason="omitted">,</supplied> vsi, timaḥ<supplied reason="omitted">,</supplied> gara<choice><sic>s</sic><corr>m</corr></choice>· paḍat<supplied reason="omitted">,</supplied> vəAs<supplied reason="omitted">,</supplied> lṅa<supplied reason="omitted">,</supplied>
-               <lb n="1v3"/>gula, sa<choice><sic>pukān·</sic><corr>prakāra</corr></choice>niṁ<!-- saprakrāniṁ duAl· pinikul· in Ayam Teas III --> duAl· kalima bantal· I satuhān· pikul-pikul·lananya, <choice><sic>v</sic><corr>p</corr></choice>aṇḍai ma<choice><sic>laṁ</sic><corr>s·</corr></choice><supplied reason="omitted">,</supplied>
-               <lb n="1v4"/>tamvaga, gaṅsa, vsi, sobuban· Iṁ satuhān· tannənun· cadar· <num value="4"><choice><sic>b</sic><corr>p</corr></choice>ataṁ</num> pacadaran· Iṁ sa<choice><orig>ś</orig><reg>s</reg></choice>ῑma, ma<lb break="no" 
-               n="1v5"/><choice><sic>ya</sic><corr>para</corr></choice>hu ka<unclear>be</unclear>ḥ hana <choice><sic>rāyav·</sic><corr>ry ayam·</corr></choice> təAs· <num value="3">3</num> <choice><sic>tapa A</sic><corr>kapuA</corr></choice> masu<unclear>ṁ</unclear>hāra <num value="3">3</num> Iṁ saparahu <!-- parahu 1 suṁharanya 3 tan· patuṇḍāna, 1 parahu (A)bhaṭāra 1 mas(u)ṁhara 3 tan· patuṇḍāna -->
-               kapuA matu<lb break="no" 
-               n="1v6"/>ṅgalana tuṇḍān· masu<unclear>ṁ</unclear>hara <num value="2">2</num> I<unclear>ṁ</unclear> satuṇḍān· //</p>
+               <lb n="1v2"/>masayaṁ, makacapuri<supplied reason="subaudible">,</supplied> kapas·<supplied reason="subaudible">,</supplied> vuṅkuḍu<supplied reason="subaudible">,</supplied> tamvaga<supplied reason="subaudible">,</supplied> gaṅsa<supplied reason="subaudible">,</supplied> vsi, timaḥ<supplied reason="subaudible">,</supplied> gara<choice><sic>s</sic><corr>m</corr></choice>· paḍat<supplied reason="subaudible">,</supplied> vəAs<supplied reason="subaudible">,</supplied> lṅa<supplied reason="subaudible">,</supplied>
+               <lb n="1v3"/>gula, sa<choice><sic>pukān·</sic><corr>prakāra</corr></choice>niṁ<!-- saprakrāniṁ duAl· pinikul· in Ayam Teas III --> duAl· kalima bantal· I satuhān· pikul-pikul·lananya, <choice><sic>v</sic><corr>p</corr></choice>aṇḍai ma<choice><sic>laṁ</sic><corr>s·</corr></choice><supplied reason="subaudible">,</supplied>
+               <lb n="1v4"/>tamvaga, gaṅsa, vsi, sobuban· Iṁ satuhān· tannənun· cadar· <num value="4"><choice><sic>b</sic><corr>p</corr></choice>ataṁ</num> pacadaran· Iṁ sa<choice><orig>ś</orig><reg>s</reg></choice>ῑma, ma<lb break="no" n="1v5"/><choice><sic>ya</sic><corr>para</corr></choice>hu ka<unclear>be</unclear>ḥ hana <choice><sic>rāyav·</sic><corr>ry ayam·</corr></choice> təAs· <num value="3">3</num> <choice><sic>tapa A</sic><corr>kapuA</corr></choice> masu<unclear>ṁ</unclear>hāra <num value="3">3</num> Iṁ saparahu <!-- parahu 1 suṁharanya 3 tan· patuṇḍāna, 1 parahu (A)bhaṭāra 1 mas(u)ṁhara 3 tan· patuṇḍāna -->
+               kapuA matu<lb break="no" n="1v6"/>ṅgalana tuṇḍān· masu<unclear>ṁ</unclear>hara <num value="2">2</num> I<unclear>ṁ</unclear> satuṇḍān· //</p>
              </div>
              <div type="apparatus">
    <!-- <app loc="1r1"><lem source="bib:Stutterheim1938_03 bib:Damais1952_01">śukla-pakṣa</lem> <rdg source="bib:Boechari1985-1986_01">suklapakṣa</rdg></app> -->
@@ -116,7 +106,7 @@
 	<!-- <app loc="1r2"><lem source="bib:Stutterheim1938_03 bib:Damais1952_01">mahărāja</lem><rdg source="bib:Sarkar1971-1972_01 bib:Boechari1985-1986_01">mahārāja</rdg></app> -->
   <!--  <app loc="1r4"><lem source="bib:Stutterheim1938_03 bib:Damais1952_01 bib:Boechari1985-1986_01">saṁgrāmanurāddhara</lem><note>passim in this corpus</note></app> -->
 	<app loc="1r4">
-      <lem>paga<supplied reason="omitted">r</supplied> vs<choice><sic>a</sic><corr>i</corr></choice></lem>
+      <lem>paga<supplied reason="subaudible">r</supplied> vs<choice><sic>a</sic><corr>i</corr></choice></lem>
       <rdg source="bib:Boechari1985-1986_01">paga vsa</rdg>
       <rdg source="bib:Stutterheim1938_03 bib:Damais1952_01 bib:Sarkar1971-1972_01">pagar vsi</rdg>
    </app>

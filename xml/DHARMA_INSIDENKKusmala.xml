@@ -70,19 +70,13 @@
                         under the European Union's Horizon 2020 research and innovation programme (grant
                         agreement no 809994).</p>
          </projectDesc>
-         <schemaRef type="guide"
-                    key="EGDv01"
-                    url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+         <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
          <listPrefixDef>
-            <prefixDef ident="bib"
-                       matchPattern="([a-zA-Z0-9\-\_]+)"
-                       replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+            <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
                <p>Public URIs with the prefix bib to point to a Zotero Group Library named
                             ERC-DHARMA whose data are open to the public.</p>
             </prefixDef>
-            <prefixDef ident="part"
-                       matchPattern="([a-z]+)"
-                       replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+            <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
                <p>Internal URIs using the part prefix to point to person elements in the
                             <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
             </prefixDef>
@@ -101,16 +95,13 @@
             <div type="edition" xml:lang="kaw-Latn">
                     <p>
                     <lb n="1"/><g type="circle"/> // svast<supplied reason="lost">i</supplied> śakava<supplied reason="lost">r</supplied>ṣăt<supplied reason="lost">ĭ</supplied>ta,
-                        <num value="1272">1272</num>, mă<supplied reason="lost">r</supplied>gaś<supplied reason="lost">i</supplied>ra-māsa, tithi pañcadaś<unclear>i</unclear>, śukla-pakṣ<unclear>ā</unclear>, <lb 
-n="2"/><abbr>ma</abbr>, <abbr>va</abbr>, <abbr>Ă</abbr>, vāra, pahaṁ,</p>
-                    <p>Irikā divaśanika sampu<supplied reason="omitted">r</supplied><unclear>ṇna</unclear>nikana<unclear>ṁ</unclear> ravuhan·  śĭlama<unclear>t</unclear>· i <lb 
-n="3"/><placeName><unclear>ku</unclear>śmala</placeName> de <roleName type="officer">rakryan· dəmuṁ</roleName>, saṁ
+                        <num value="1272">1272</num>, mă<supplied reason="lost">r</supplied>gaś<supplied reason="lost">i</supplied>ra-māsa, tithi pañcadaś<unclear>i</unclear>, śukla-pakṣ<unclear>ā</unclear>, <lb n="2"/><abbr>ma</abbr>, <abbr>va</abbr>, <abbr>Ă</abbr>, vāra, pahaṁ,</p>
+                    <p>Irikā divaśanika sampu<supplied reason="subaudible">r</supplied><unclear>ṇna</unclear>nikana<unclear>ṁ</unclear> ravuhan·  śĭlama<unclear>t</unclear>· i <lb n="3"/><placeName><unclear>ku</unclear>śmala</placeName> de <roleName type="officer">rakryan· dəmuṁ</roleName>, saṁ
                         <persName><name>martabun</name>· <name>raṅgaḥ</name>
-                            <unclear>sa</unclear>p<unclear>u</unclear></persName>, makamaṅgalā rakak iṅ amūrvva<lb 
-n="4" break="no"/>bumi, maparivāra <persName>raṅgah avar-avar</persName>·, juru saṅ apañji <persName>pupon</persName>·
+                            <unclear>sa</unclear>p<unclear>u</unclear></persName>, makamaṅgalā rakak iṅ amūrvva<lb n="4" break="no"/>bumi, maparivāra <persName>raṅgah avar-avar</persName>·, juru saṅ apañji <persName>pupon</persName>·
                     </p>
                     <p>
-                        ma<supplied reason="omitted">ṁ</supplied><unclear>ka</unclear>na saṅ <unclear>ā</unclear>jñā
+                        ma<supplied reason="subaudible">ṁ</supplied><unclear>ka</unclear>na saṅ <unclear>ā</unclear>jñā
                     <lb n="5"/>păduka ba<unclear>ṭāre</unclear> matahun· śrĭ baṭāra <persName>vijayarājasănantavikramottuṅga
                     <lb n="6" break="no"/>deva</persName>, <foreign xml:lang="san-Latn">j<unclear>ā</unclear>gaddhitahetu</foreign>, magavaya sukani para s<unclear>a</unclear>mya sakahavat· luraḥ
                     <lb n="7"/><unclear>I</unclear> vetan i daha,
@@ -119,19 +110,11 @@ n="4" break="no"/>bumi, maparivāra <persName>raṅgah avar-avar</persName>·, j
                     <lb n="8" break="no"/>ṅun kĭrttyanurāgātmaka kas<unclear>u</unclear>kaniṁ rāt·, <persName>raṅga sapu</persName> karo viku pakṣa sampŭrṇna
                     <lb n="9" break="no"/>ni ravuhan· || <foreign xml:lang="san-Latn">siddhir astu</foreign> ||</p>
                     <p>
-                        <unclear>A</unclear>mānuṣa kadarśanĭyanikanaṁ yaśa ra<lb 
-n="10" break="no"/>vuhan hatītadurggamahaLp·, tlas maparipŭrṇna de rasika <persName>raṅ<supplied reason="omitted">g</supplied>a sapu</persName> tu<lb 
-n="11" break="no"/>hu vidagdha tiṅkahiṅ ula<unclear>ḥ</unclear>, ndatan· sah aṅaran· <persName>pupon</persName> rasika pa<lb 
-n="12" break="no"/>ñji pinuji-puji sădhu śakti guṇavăn· vnaṁ gumavaya, I saṁ prabu tama<lb 
-n="13" break="no"/>n· paL̥paL̥h inutusnira narapati ||
+                        <unclear>A</unclear>mānuṣa kadarśanĭyanikanaṁ yaśa ra<lb n="10" break="no"/>vuhan hatītadurggamahaLp·, tlas maparipŭrṇna de rasika <persName>raṅ<supplied reason="subaudible">g</supplied>a sapu</persName> tu<lb n="11" break="no"/>hu vidagdha tiṅkahiṅ ula<unclear>ḥ</unclear>, ndatan· sah aṅaran· <persName>pupon</persName> rasika pa<lb n="12" break="no"/>ñji pinuji-puji sădhu śakti guṇavăn· vnaṁ gumavaya, I saṁ prabu tama<lb n="13" break="no"/>n· paL̥paL̥h inutusnira narapati ||
                     </p>
-                    <p>yaśātiśaya śobitāhaL̥<lb 
-n="14" break="no"/>p asusaṁrama sukanikaṁ janāsiṅ umulat·, si<supplied reason="omitted">ra</supplied> ra<unclear>kv</unclear>a tikaṁ rakṣa ni<lb 
-n="15" break="no"/>tya pamul<unclear>i</unclear>ḥ kali maravuhan arddhapaL̥ mapagəḥ ||</p>
-                    <p>mav<unclear>i</unclear>prakṣa<lb 
-n="16" break="no"/><unclear>t</unclear>i śevadharmma ri <add place="below">nară</add>dhipa haṅuhaṁṅune panon· saṅ <choice><sic>u</sic><corr>a</corr></choice>hulun·
- <lb n="17"/>ndatan <unclear>p</unclear>avkasan·, huvus makaṅaran· kĕta śĭlamat i kuśmala pra<lb 
-n="18" break="no"/>kăśita</p>
+                    <p>yaśātiśaya śobitāhaL̥<lb n="14" break="no"/>p asusaṁrama sukanikaṁ janāsiṅ umulat·, si<supplied reason="subaudible">ra</supplied> ra<unclear>kv</unclear>a tikaṁ rakṣa ni<lb n="15" break="no"/>tya pamul<unclear>i</unclear>ḥ kali maravuhan arddhapaL̥ mapagəḥ ||</p>
+                    <p>mav<unclear>i</unclear>prakṣa<lb n="16" break="no"/><unclear>t</unclear>i śevadharmma ri <add place="below">nară</add>dhipa haṅuhaṁṅune panon· saṅ <choice><sic>u</sic><corr>a</corr></choice>hulun·
+ <lb n="17"/>ndatan <unclear>p</unclear>avkasan·, huvus makaṅaran· kĕta śĭlamat i kuśmala pra<lb n="18" break="no"/>kăśita</p>
             </div>
             <div type="apparatus">
                 <listApp>
@@ -226,7 +209,7 @@ n="18" break="no"/>kăśita</p>
                             to emend asusaṅgrāma (see OJED 1665), asusaṅkrama  or asusambrahma (OJED 1636.5).</note>
                     </app>
                     <app loc="14">
-                        <lem><choice><sic>si<supplied reason="omitted">ra</supplied> ra<unclear>kv</unclear>a</sic><corr>sira rakva</corr></choice></lem>
+                        <lem><choice><sic>si<supplied reason="subaudible">ra</supplied> ra<unclear>kv</unclear>a</sic><corr>sira rakva</corr></choice></lem>
                         <note>We concur with the correction proposed by van Stein Callenfels.</note>
                     </app>
                     <!--MS: suppr note, mettre source VSC dans LEM-->

@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
@@ -61,19 +61,13 @@
                         under the European Union's Horizon 2020 research and innovation programme (grant
                         agreement no 809994).</p>
          </projectDesc>
-         <schemaRef type="guide"
-                    key="EGDv01"
-                    url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+         <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
          <listPrefixDef>
-            <prefixDef ident="bib"
-                       matchPattern="([a-zA-Z0-9\-\_]+)"
-                       replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+            <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
                <p>Public URIs with the prefix bib to point to a Zotero Group Library named
                             ERC-DHARMA whose data are open to the public.</p>
             </prefixDef>
-            <prefixDef ident="part"
-                       matchPattern="([a-z]+)"
-                       replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+            <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
                <p>Internal URIs using the part prefix to point to person elements in the
                             <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
             </prefixDef>
@@ -98,7 +92,7 @@
 <lb n="1r1"/><g type="ddandaOrnate"/> <g type="floretQuatrefoil"/> <g type="ddandaOrnate"/> namo 'stu sarvvabuddhăya <g type="ddandaOrnate"/> <g type="floretQuatrefoil"/> <g type="ddandaOrnate"/></p> <p>svasti śakavarṣātīta, <num value="888">888</num>, śrăvaṇa-māsa, tīthī, Aṣṭamī kr̥ṣṇa-pakṣa, <abbr>ha</abbr>, <abbr>va</abbr>, <abbr>ra</abbr>, vāra, sinta, 
 <lb n="1r2"/>bāyabyastha grahacāra, rohiṇī-nakṣatra, prajāpati-devatā, mahendra-maṇḍala, harṣaṇa-yoga, vijaya-muhūrta, śaśī-parvvaiśa, 
 <lb n="1r3"/>kolava-karaṇa, siṅha-rāśi,</p> <p>Irika divāśanira, mpu mano, muṇyākən· lmaḥ sīma, kaputrāṅśanira, kalilīranira saṅke kavvitanira 
-<lb n="1r4"/>Ikaṁ harahara, kidul i pomahanira, hīṅanya lor· kidul iṁ pagər· kinalihan·, muAṁ mpu mano, hīṅanya kulvan· Aṅalihī pagər·, muAṁ <lb n="1v5"/> Iṁ paviḍəṅan·, hīṅanya vetan·, Aṅalihi pagər·, muAṁ Iṁ kalampayan·, hīṅanya kidul·, Ikaṁ pagər· lor· saṁke kalimusan·, ya t<pb n="1v" break="no"/><lb n="1v1" break="no"/>ekā pinuṇyakənira Iṁ mpuṅku <supplied reason="omitted">Iṁ</supplied> susuk· pagər·, muAṁ mpuṅku Iṁ nairañjanā, Arthahetoḥ mpu buddhivāla, paknanya gavayənnira kuṭi, dharmma lpa<lb n="1v2" break="no"/>s· kapodgālikanani kulasantānānira mpuṅku Iṁ nairañjanā,</p> <p part="I">kunaṁ kramanya, Ikaṁ savaḥ kidul iṁ kuṭi, təmpaḥ, <num value="3">3</num>, ya ta sinaṇḍā mpuṅku <supplied reason="omitted">Iṁ</supplied> su<lb n="1v3" break="no"/>suk· pagər·, muAṁ mpuṅku Iṁ nairañjanā, Iṁ <abbr>mā</abbr> <abbr>kā</abbr> <num value="2">2</num><unclear>,</unclear> ya ta dharmma mpuṅku, Iṁ susuk· pagər·, muAṁ mpuṅku Iṁ naira<choice><sic>g</sic><corr>ñ</corr></choice>janā, An· paminta I<lb n="1v4" break="no"/>ka lmaḥ tumpal ika savaḥ lor· damlənira kuṭi, ya ta kăraṇanyan· <choice><sic>linbas</sic><corr>tinbus</corr></choice> ikaṁ savaḥ saṇḍanira mpu mano, Iṁ <abbr>mā</abbr> <abbr>kā</abbr> <num value="3">3</num>, mapa<lb n="1v5" break="no"/>k<unclear>na</unclear> bhuktyana saṁ hyaṁ kuṭi, saṅka ri gə:ṁnyām<choice><sic>bha</sic><corr>bhək</corr></choice> mpu mano, ya<choice><sic>t</sic><corr>n</corr></choice>· dharmma donanya, Apitovin ana riṁ dharmma parṇnaḥ mpu mano, denira mpuṅku Iṁ</p>
+<lb n="1r4"/>Ikaṁ harahara, kidul i pomahanira, hīṅanya lor· kidul iṁ pagər· kinalihan·, muAṁ mpu mano, hīṅanya kulvan· Aṅalihī pagər·, muAṁ <lb n="1v5"/> Iṁ paviḍəṅan·, hīṅanya vetan·, Aṅalihi pagər·, muAṁ Iṁ kalampayan·, hīṅanya kidul·, Ikaṁ pagər· lor· saṁke kalimusan·, ya t<pb n="1v" break="no"/><lb n="1v1" break="no"/>ekā pinuṇyakənira Iṁ mpuṅku <supplied reason="subaudible">Iṁ</supplied> susuk· pagər·, muAṁ mpuṅku Iṁ nairañjanā, Arthahetoḥ mpu buddhivāla, paknanya gavayənnira kuṭi, dharmma lpa<lb n="1v2" break="no"/>s· kapodgālikanani kulasantānānira mpuṅku Iṁ nairañjanā,</p> <p part="I">kunaṁ kramanya, Ikaṁ savaḥ kidul iṁ kuṭi, təmpaḥ, <num value="3">3</num>, ya ta sinaṇḍā mpuṅku <supplied reason="subaudible">Iṁ</supplied> su<lb n="1v3" break="no"/>suk· pagər·, muAṁ mpuṅku Iṁ nairañjanā, Iṁ <abbr>mā</abbr> <abbr>kā</abbr> <num value="2">2</num><unclear>,</unclear> ya ta dharmma mpuṅku, Iṁ susuk· pagər·, muAṁ mpuṅku Iṁ naira<choice><sic>g</sic><corr>ñ</corr></choice>janā, An· paminta I<lb n="1v4" break="no"/>ka lmaḥ tumpal ika savaḥ lor· damlənira kuṭi, ya ta kăraṇanyan· <choice><sic>linbas</sic><corr>tinbus</corr></choice> ikaṁ savaḥ saṇḍanira mpu mano, Iṁ <abbr>mā</abbr> <abbr>kā</abbr> <num value="3">3</num>, mapa<lb n="1v5" break="no"/>k<unclear>na</unclear> bhuktyana saṁ hyaṁ kuṭi, saṅka ri gə:ṁnyām<choice><sic>bha</sic><corr>bhək</corr></choice> mpu mano, ya<choice><sic>t</sic><corr>n</corr></choice>· dharmma donanya, Apitovin ana riṁ dharmma parṇnaḥ mpu mano, denira mpuṅku Iṁ</p>
             </div>
             <div type="apparatus">
                 <listApp>
@@ -141,7 +135,7 @@
 <note>The <foreign>taling</foreign> stands at the end of line 1r5, but is repeated at the start of line 1v1. See also 1r2–1r3 above.</note>
 </app>
 <app loc="1v1">
-<lem>mpuṅku <supplied reason="omitted">Iṁ</supplied> susuk·</lem>
+<lem>mpuṅku <supplied reason="subaudible">Iṁ</supplied> susuk·</lem>
 <rdg source="bib:Brandes1913_01">mpuṅku susuk·</rdg>
 <note>Since in most cases we find <foreign>Iṁ</foreign> between the words <foreign>mpuṅku susuk·</foreign>, I assume that we must emend <foreign>mpuṅku Iṁ susuk·</foreign> here and in 1v2–1v3.</note>
 </app>
@@ -150,7 +144,7 @@
 <rdg source="bib:Brandes1913_01">mpuṅku I nairañjanā</rdg>
 </app>
 <app loc="1v2-1v3">
-<lem>mpuṅku <supplied reason="omitted">Iṁ</supplied> susuk·</lem>
+<lem>mpuṅku <supplied reason="subaudible">Iṁ</supplied> susuk·</lem>
 <rdg source="bib:Brandes1913_01">mpuṅku susuk·</rdg>
 <note>See line 1v1.</note>
 </app>

@@ -65,19 +65,13 @@
                         under the European Union's Horizon 2020 research and innovation programme (grant
                         agreement no 809994).</p>
          </projectDesc>
-         <schemaRef type="guide"
-                    key="EGDv01"
-                    url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+         <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
          <listPrefixDef>
-            <prefixDef ident="bib"
-                       matchPattern="([a-zA-Z0-9\-\_]+)"
-                       replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+            <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
                <p>Public URIs with the prefix bib to point to a Zotero Group Library named
                             ERC-DHARMA whose data are open to the public.</p>
             </prefixDef>
-            <prefixDef ident="part"
-                       matchPattern="([a-z]+)"
-                       replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+            <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
                <p>Internal URIs using the part prefix to point to person elements in the
                             <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
             </prefixDef>
@@ -93,10 +87,10 @@
       <body>
          <div type="edition" xml:lang="kaw-Latn" rendition="class:38769 maturity:83213">
  <p><pb n="1r"/><lb n="1r1"/><g type="ddandaCross"/> svasti śaka-varṣātīta <num value="828">828</num> Āṣāḍa-māsa tithi Ekādaśĭ kr̥ṣṇa-pakṣa<g type="circleSmall">.</g> mavulu<g type="circleSmall">.</g> Umanis·<g type="circleSmall">.</g> śu<lb n="1r2" break="no"/>kra-vāra<g type="circleSmall">.</g> tatkāla <abbr>samgat·</abbr> lodvāṁ<g type="circleSmall">.</g> pu bahut·<g type="circleSmall">.</g> manahur hutaṁ<g type="circleSmall">.</g> I dyaḥ maṇḍusun·<g type="circleSmall">.</g> I dyaḥ yoga<g type="circleSmall">.</g> I
-<lb n="1r3"/>dyaḥ balitār·<g type="circleSmall">.</g> mas· panahu<supplied reason="omitted">r</supplied>nira mas· <abbr>su</abbr> <num value="3">3</num> <abbr>mā</abbr> <num value="3">8</num> kālanira makuvu Iṁ tlu juru<g type="circleSmall">.</g></p> <p>Anuṁ tumaṅgap ikanaṁ mas·
+<lb n="1r3"/>dyaḥ balitār·<g type="circleSmall">.</g> mas· panahu<supplied reason="subaudible">r</supplied>nira mas· <abbr>su</abbr> <num value="3">3</num> <abbr>mā</abbr> <num value="3">8</num> kālanira makuvu Iṁ tlu juru<g type="circleSmall">.</g></p> <p>Anuṁ tumaṅgap ikanaṁ mas·
 <lb n="1r4"/><g type="circleSmall">.</g> rovaṁ rakryān· vuru tali<g type="circleSmall">.</g> pu visat·<g type="circleSmall">.</g> vanuA I ḍanu vuAḥ vatək· ḍanu vuAḥ<g type="circleSmall">.</g> muAṁ Inaṁ dyaḥ sabhā<g type="circleSmall">.</g> pu
 <lb n="1r5"/>satya<g type="circleSmall">.</g> vanuA I vayur·<g type="circleSmall">.</g> vatək· halu<g type="circleSmall">.</g> muAṁ rovaṁ rakryān· riṅga<g type="circleSmall">.</g> pu vagaṁ vanuA I kamalagyan·
-<lb n="1r6"/><g type="circleSmall">.</g> vatək· Uṅga<supplied reason="omitted">ḥ</supplied> karas·<g type="circleSmall">.</g> muAṁ pu katimahā<g type="circleSmall">.</g> vanuA I vuṅkal· hujuṁ<g type="circleSmall">.</g> vinavaniṁ patiḥ vuṅkal· li<lb n="1r7" break="no"/>man·<g type="circleSmall">.</g> muAṁ Inaṁ rakyrān· riṅga<g type="circleSmall">.</g> pu satā<g type="circleSmall">.</g> vanuA I hujuṁ<g type="circleSmall">.</g> vatək· pikatan·<g type="circleSmall">.</g></p> <p>tatra sākṣī <abbr>sa<lb n="1r8" break="no"/>mgat·</abbr> maṅguluṅi<g type="circleSmall">.</g> pu baisava<g type="circleSmall">.</g> vanuA I pucaṅ anak· vatək· pulu vatu<g type="circleSmall">.</g> juru I maṅguluṅi<g type="circleSmall">.</g> 
+<lb n="1r6"/><g type="circleSmall">.</g> vatək· Uṅga<supplied reason="subaudible">ḥ</supplied> karas·<g type="circleSmall">.</g> muAṁ pu katimahā<g type="circleSmall">.</g> vanuA I vuṅkal· hujuṁ<g type="circleSmall">.</g> vinavaniṁ patiḥ vuṅkal· li<lb n="1r7" break="no"/>man·<g type="circleSmall">.</g> muAṁ Inaṁ rakyrān· riṅga<g type="circleSmall">.</g> pu satā<g type="circleSmall">.</g> vanuA I hujuṁ<g type="circleSmall">.</g> vatək· pikatan·<g type="circleSmall">.</g></p> <p>tatra sākṣī <abbr>sa<lb n="1r8" break="no"/>mgat·</abbr> maṅguluṅi<g type="circleSmall">.</g> pu baisava<g type="circleSmall">.</g> vanuA I pucaṅ anak· vatək· pulu vatu<g type="circleSmall">.</g> juru I maṅguluṅi<g type="circleSmall">.</g> 
 <lb n="1r9"/>juru vadvā rarai<g type="circleSmall">.</g> saṁ tumapəl·<g type="circleSmall">.</g> vanuA I lalar·<g type="circleSmall">.</g> vatək· tilimpik·<g type="circleSmall">.</g> muAṁ Amaṁ dyaḥ bay·<g type="circleSmall">.</g>
 <lb n="1r10"/>pu manvurā<g type="circleSmall">.</g> vanuA I karumvyan·<g type="circleSmall">.</g> vatək· halu<g type="circleSmall">.</g> muAṁ pu vulyan·<g type="circleSmall">.</g> vanuA I galagākan·<g type="circleSmall">.</g> vatək· 
 <lb n="1r11"/>vuṅkal· humalaṁ<g type="circleSmall">.</g> muAṁ pu padma<g type="circleSmall">.</g> vanuA I tamyaṁ kapatihan·<g type="circleSmall">.</g> muAṁ rāmanta I maṅhuḍipi maka<lb n="1r12" break="no"/>baihan·<g type="circleSmall">.</g> kalaṁ kidul·<g type="circleSmall">.</g> pu hurip· ramani subhadrā<g type="circleSmall">.</g> kalaṁ lor·<g type="circleSmall">.</g> pu taḍaḥ ramani Asiḥ<g type="circleSmall">.</g> gusti

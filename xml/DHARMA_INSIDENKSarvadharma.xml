@@ -66,19 +66,13 @@
                         under the European Union's Horizon 2020 research and innovation programme (grant
                         agreement no 809994).</p>
          </projectDesc>
-         <schemaRef type="guide"
-                    key="EGDv01"
-                    url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+         <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
          <listPrefixDef>
-            <prefixDef ident="bib"
-                       matchPattern="([a-zA-Z0-9\-\_]+)"
-                       replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+            <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
                <p>Public URIs with the prefix bib to point to a Zotero Group Library named
                             ERC-DHARMA whose data are open to the public.</p>
             </prefixDef>
-            <prefixDef ident="part"
-                       matchPattern="([a-z]+)"
-                       replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+            <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
                <p>Internal URIs using the part prefix to point to person elements in the
                             <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
             </prefixDef>
@@ -101,7 +95,7 @@
 <lb n="2r1"/>rakryan· ri pakirakiran makabehan· rakryan apatiḥ makasikasir kbo AR̥maṁ, rakryan· dmuṁ
 <lb n="2r2"/> van· ḍaṅ ācāryya śivanātha, mapañji tanutama, I piṅsorny ăjñā śrīmahārāja, ku-§mapañji vipakṣa, rakryan· kanuruhan· mapañjy anurida, makādi saṁ mantrī vāgmima<g type="squiggleVertical">§</g><lb n="2r3" break="no"/>ya, paramanĭtijña, nūṣāntaramadhuranāthānukŭlakāraṇa, mapasəṅgahan· saṁ rāma<lb n="2r4" break="no"/>pati, tan kavuntat· saṁ pamgət i tirvan· ḍaṅ ācāryya dharmmadeva, saṁ pamgat iṁ kaṇḍamuhi,
 <lb n="2r5"/>ḍaṅ ācāryya smaradahana, saṁ pamgət i maṅhuri ḍaṅ ācāryya smaradeva, saṁ pamgət iṁ jamba ḍaṅ ā<lb n="2r6" break="no"/>cāryya śivanātha, saṁ pamgət iṁ pañjaṁ jĭva ḍaṅ ācāryyăgraja, mpuṅku dharmmădhyakṣa riṁ kaśe<lb n="2r7" break="no"/>van· ḍaṅ ācāryya śivanātha, mapañji tanutama, I piṅsorny ăjñā śrīmahārāja, ku<g type="squiggleVertical">§</g><pb n="2v" break="no"/><fw place="left" rend="bt-rotated" n="2v"><num value="2">2</num></fw><lb n="2v1" break="no"/> monakən saṁ hyaṁ dharmma riṁ bhagañjiṁ, riṁ kapuluṅan·, riṁ laukeśvara, tkeṁ viṣaya punpunan·
-<lb n="2v2"/>saṁ hyaṁ dharmma, paryyaṅan·, kalaṁ, kalagyan·, dharmma jumput·, Ityevamādi, padamla<g type="squiggleVertical">§</g><lb n="2v3" break="no"/>kna saṁ hyaṁ rājapraśāsti macihna kr̥tanagara, kapaṅkva deni viṣaya punpunan· saṁ hyaṁ sa<g type="squiggleVertical">§</g><lb n="2v4" break="no"/>rvvadharmma, magəhakna paṁrakṣa śrīmahārāja, ri kasvatantran· saṁ hyaṁ sarvvadharmma, sambandha, mpu<lb n="2v5" break="no"/>ṅku dhar<unclear>m</unclear>mădhyakṣan mapañji tanutama, dinulur deni viṣaya punpunan· saṁ hyaṁ sarvvadharmma, sapi<g type="squiggleVertical">§</g><lb n="2v6" break="no"/>nasukniṁ bhūmi jaṅgala pañjalu, pinakasopănanyan· maR̥k i saṁ rāmapati, mintona<lb n="2v7" break="no"/>kən· bvat· deniṁ <unclear>thāni</unclear> bala, pin<supplied reason="lost">r</supplied>atisāra tumūtaknaṁ byə<supplied reason="omitted">t· </supplied>ḍaṅhaniṁ thāni bala sovaṁ-⌈<pb n="3r" break="no"/><lb n="3r1" break="no"/>sovaṁ, byət· hajyan· lakvalakvan adoh a<unclear>pa</unclear>R̥<supplied reason="omitted">k</supplied> Amijilakən padadar·, pamḍihan·, pagaga<lb n="3r2" break="no"/>R̥m·, mareṁ juru, buyut·, kabayan·, Aveḥ patumbak tamvi, paṅhulu bañu, pacəL̥bu, ṅūni-<g type="squiggleVertical">§</g><lb n="3r3" break="no"/>ṅūni pamūjā<supplied reason="omitted">ṁ</supplied>kən tahun·, paḍacaṅan·, ya tikānmahakən trāsanya, An tinitiḥ byət·<g type="squiggleVertical">§</g><lb n="3r4" break="no"/>deniṁ thāni bala, pinisakitan· tan kinavruhan hĭnanya, nimittanyan apuluṁ rahy api<g type="squiggleVertical">§</g>
+<lb n="2v2"/>saṁ hyaṁ dharmma, paryyaṅan·, kalaṁ, kalagyan·, dharmma jumput·, Ityevamādi, padamla<g type="squiggleVertical">§</g><lb n="2v3" break="no"/>kna saṁ hyaṁ rājapraśāsti macihna kr̥tanagara, kapaṅkva deni viṣaya punpunan· saṁ hyaṁ sa<g type="squiggleVertical">§</g><lb n="2v4" break="no"/>rvvadharmma, magəhakna paṁrakṣa śrīmahārāja, ri kasvatantran· saṁ hyaṁ sarvvadharmma, sambandha, mpu<lb n="2v5" break="no"/>ṅku dhar<unclear>m</unclear>mădhyakṣan mapañji tanutama, dinulur deni viṣaya punpunan· saṁ hyaṁ sarvvadharmma, sapi<g type="squiggleVertical">§</g><lb n="2v6" break="no"/>nasukniṁ bhūmi jaṅgala pañjalu, pinakasopănanyan· maR̥k i saṁ rāmapati, mintona<lb n="2v7" break="no"/>kən· bvat· deniṁ <unclear>thāni</unclear> bala, pin<supplied reason="lost">r</supplied>atisāra tumūtaknaṁ byə<supplied reason="subaudible">t· </supplied>ḍaṅhaniṁ thāni bala sovaṁ-⌈<pb n="3r" break="no"/><lb n="3r1" break="no"/>sovaṁ, byət· hajyan· lakvalakvan adoh a<unclear>pa</unclear>R̥<supplied reason="subaudible">k</supplied> Amijilakən padadar·, pamḍihan·, pagaga<lb n="3r2" break="no"/>R̥m·, mareṁ juru, buyut·, kabayan·, Aveḥ patumbak tamvi, paṅhulu bañu, pacəL̥bu, ṅūni-<g type="squiggleVertical">§</g><lb n="3r3" break="no"/>ṅūni pamūjā<supplied reason="subaudible">ṁ</supplied>kən tahun·, paḍacaṅan·, ya tikānmahakən trāsanya, An tinitiḥ byət·<g type="squiggleVertical">§</g><lb n="3r4" break="no"/>deniṁ thāni bala, pinisakitan· tan kinavruhan hĭnanya, nimittanyan apuluṁ rahy api<g type="squiggleVertical">§</g>
 <lb n="3r5" break="no"/>ṇḍ<choice><orig>i</orig><reg>ī</reg></choice>dbhūta sakavat bhūmi jaṅgala paṁjalu, maR̥k ri saṁ rāmapati, mva<unclear>ṁ</unclear> ri rakryan apatiḥ, makaso<lb n="3r6" break="no"/>păna mpuṅku dharmmădhyakṣa mapañji tanutama, saṁ rāmapati pva satatadharmmacintana, tan luptan·
 <lb n="3r7"/>kuminkin i karakṣāniṁ sarvvadharmma, pitovi pvan hana turunyānugraha bhaṭāra jaya śrī viṣṇuva<pb n="3v" break="no"/><fw place="left" rend="bt-rotated" n="3v"><num value="3">3</num></fw><lb n="3v1" break="no"/>rddhana Irikaṁ sarvvadharmman sapiha sakeṁ thāni bala, ṅūnikāla saṅ apañji patipati dha<lb n="3v2" break="no"/>rmmādhikāraṇa, nimittanyan enak<choice><sic>ka</sic><corr> ta</corr></choice> kaniścayan ik<choice><sic>i</sic><corr>u</corr></choice> pinintonakən saṅ apañji tanuta<lb n="3v3" break="no"/>ma ri saṁ rāmapati, kăraṇa saṁ rāmapati, dinulur de rakryan apatiḥ, sacchāya mvaṁ saṅ apañji ta<g type="squiggleVertical">§</g><lb n="3v4" break="no"/>nutama, maR̥k ri śrīmahārāja, riṁ viṣaya punpunan saṁ hyaṁ sarvvadharmma, mratisubadakna panapiḥ bha<g type="squiggleVertical">§</g><lb n="3v5" break="no"/>ṭāra jaya śrī viṣṇuvarddhana, riṁ viṣaya punpunan saṁ hyaṁ sarvvadharmma sakeṁ thāni bala, makadona
 <lb n="3v6"/>kasvatantran saṁ hyaṁ sarvvadharmma, maṁdadyakna sthiratarani paliṅgiḥ śrīmahārāja riṁ ratnasiṅhā<g type="squiggleVertical">§</g><lb n="3v7" break="no"/>sana, pinakekac<supplied reason="lost">ch</supplied>ātraniṁ sayavadvĭpa, pinakottuṅgadeva saṁ samantaprabhu riṁ bhūmi<g type="squiggleVertical">§</g>
@@ -199,7 +193,7 @@
                      <rdg source="bib:Brandes1913_01">[blank] kən</rdg>
                   </app>
                   <app loc="2v7">
-                      <lem>bvat· deniṁ <unclear>thāni</unclear> bala, pin<supplied reason="lost">r</supplied>atisāra tumūtaknaṁ byə<supplied reason="omitted">t· </supplied>ḍaṅhaniṁ thāni bala</lem>
+                      <lem>bvat· deniṁ <unclear>thāni</unclear> bala, pin<supplied reason="lost">r</supplied>atisāra tumūtaknaṁ byə<supplied reason="subaudible">t· </supplied>ḍaṅhaniṁ thāni bala</lem>
                      <note>This entire segment is left blank in Brandes’ edition.</note>
                   </app>
                   <app loc="2v7-3r1">
@@ -207,7 +201,7 @@
                      <note>The e-vocalization of the ensuing <foreign>sovaṁ</foreign> follows after <foreign>sovaṁ</foreign>, so that 3r1 should have started with <foreign>sāvaṁ</foreign>. The scribe however resume with a repetition of the entire vocalization.</note>
                   </app>
                   <app loc="3r1">
-                      <lem>adoh a<unclear>pa</unclear>R̥<supplied reason="omitted">k</supplied></lem>
+                      <lem>adoh a<unclear>pa</unclear>R̥<supplied reason="subaudible">k</supplied></lem>
                      <rdg source="bib:Brandes1913_01">adohapaR̥</rdg>
                      <note>The scribe seems to have started placing a subscript part under the akṣara <foreign>pa</foreign> which, if completed, would have turned it into an <foreign>R̥</foreign>, but realised he needed to place it below the following akṣara, and thereupon not to have deepened the subscript sign. We might see here a reflection of a two-step engraving process. Alternatively, we may be dealing with an attempt to erase an element after it had been engraved. See note under 5v7. The text must here be corrected to <foreign>apaR̥k</foreign>, as is shown by many parallels for this combination with adoh.</note>
                   </app>
@@ -221,7 +215,7 @@
                      <note>This segment is left blank by Brandes.</note>
                   </app>
                   <app loc="3r3">
-                      <lem>pamūjā<supplied reason="omitted">ṁ</supplied>kən</lem>
+                      <lem>pamūjā<supplied reason="subaudible">ṁ</supplied>kən</lem>
                      <rdg source="bib:Brandes1913_01">pamūjākən</rdg>
                      <note>The emendation to obtain <foreign>aṅkən</foreign> was proposed by Pigeaud II, p. 134.</note>
                   </app>

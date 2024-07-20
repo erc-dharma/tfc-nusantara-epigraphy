@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?> <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?> <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml version="1.0" encoding="UTF-8"?> <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?> <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?> <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
    <teiHeader>
       <fileDesc>
@@ -60,18 +60,12 @@
          <projectDesc>
             <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
          </projectDesc>
-         <schemaRef type="guide"
-                    key="EGDv01"
-                    url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+         <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
          <listPrefixDef>
-            <prefixDef ident="bib"
-                       matchPattern="([a-zA-Z0-9\-\_]+)"
-                       replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+            <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
                <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
             </prefixDef>
-            <prefixDef ident="part"
-                       matchPattern="([a-z]+)"
-                       replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
+            <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
                <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_idListMembers_v01.xml</ref> file.</p>
             </prefixDef>
          </listPrefixDef>
@@ -87,7 +81,7 @@
                              <head xml:lang="eng">Recto</head>
                              <p><lb n="1r1"/> <unclear>//</unclear> svasti śakavarṣātīta, 82<unclear>6,</unclear> poṣya-māsa tithi tritīya kr̥ṣṇa-pakṣa, tu, pa, śu, vāra, tatkāla rāmanta I rumviga Umaṇḍəḥ paṅguḥha-
 <lb n="1r2"/>nni vanuAni<unclear>ra</unclear> māri ta yan· hinanyan· mamuAt· Avaknya, riṁ māgha saṁsaṅan· vtuAni pamuAtnya piṇḍa pamuAtnya riṁ satahun· pira-
-<lb n="1r3"/>k kāṭi 4 muAṁ māri ta ya<supplied reason="omitted">n</supplied> māvuran· māri ta saṁ pamgat· <choice><orig>vasapramāṇa</orig><reg>vaśapramāṇa</reg></choice> riṁ ḍavuhan· māri ta yan· pavalagantan· māri ta yan· palañjān·
+<lb n="1r3"/>k kāṭi 4 muAṁ māri ta ya<supplied reason="subaudible">n</supplied> māvuran· māri ta saṁ pamgat· <choice><orig>vasapramāṇa</orig><reg>vaśapramāṇa</reg></choice> riṁ ḍavuhan· māri ta yan· pavalagantan· māri ta yan· palañjān·
                         maṁ-
 <lb n="1r4"/>kana Anugraha śrī mahārāja saṁ janărdanottuṅga dyaḥ balituṁ muAṁ rakryān· vuAtan· pu devīśvara pu kayatīnī pamgat· rumviga rikaṁ
 <lb n="1r5"/> kāla saṁ parasi Anak· vanva I viru-viru vatak· sigaran· juru kanayakān· I rumviga rikaṁ kāla saṁ krama juru vadvā rarai saṁ dival·
@@ -101,7 +95,7 @@
                            </p></div>
 <div type="textpart">
   <head xml:lang="eng">Verso</head>
-  <p><lb n="1v1"/>lo ramani Aṅgirā huler· rikāṁ vanuA I rumviga saṁ malavi hulai<supplied reason="omitted">r</supplied> vvanaiḥ si janar· ramani plī hulair· riṁ ḍaṇḍa <unclear>si</unclear> bandhu
+  <p><lb n="1v1"/>lo ramani Aṅgirā huler· rikāṁ vanuA I rumviga saṁ malavi hulai<supplied reason="subaudible">r</supplied> vvanaiḥ si janar· ramani plī hulair· riṁ ḍaṇḍa <unclear>si</unclear> bandhu
 <lb n="1v2"/> ramani veditā tuha vuru si marajay· ramani puṇḍu_t· variga si baddha ramani pujut· tuha vəR̥ḥ si kiku ramani kuyat· tuha vəR̥ḥ va-
 <lb n="1v3"/>naiḥ si biyaṁ*· rāma maratā pu hala<unclear>ṁ</unclear> kaki jama pu kvaṁ ramani harus· pu muṇḍiṁ ramani maṅiriṁ pu naraṁ* ramani śāntā si got· ramani vaṇḍai
 <lb n="1v4"/> pu karan· ramani cumvu si vrut· ramani Uñjaṁ likhita saṁ karumvyan· Anak· vanva I turu haji vatak· hino tatra săkṣi saṁ pamgat·
@@ -121,11 +115,11 @@
 <app loc="1r1"><lem source="bib:MachiSuhadi1983_01">poṣya-māsa</lem><rdg source="bib:HerniPramastuti+al2007_01">posya-māsa</rdg></app>
 <app loc="1r1"><lem source="bib:MachiSuhadi1983_01">tritīya</lem><rdg source="bib:HerniPramastuti+al2007_01">tr̥itīya</rdg></app>
 <app loc="1r1"><lem source="bib:HerniPramastuti+al2007_01">paṅguḥhanni</lem><rdg source="bib:MachiSuhadi1983_01">paṅguhanni</rdg></app>
-<app loc="1r2"><lem>vanuAni<unclear>ra</unclear> māri ta</lem><rdg  source="bib:MachiSuhadi1983_01 bib:HerniPramastuti+al2007_01">vanuAni Umārita</rdg></app>
+<app loc="1r2"><lem>vanuAni<unclear>ra</unclear> māri ta</lem><rdg source="bib:MachiSuhadi1983_01 bib:HerniPramastuti+al2007_01">vanuAni Umārita</rdg></app>
 <app loc="1r2"><lem source="bib:MachiSuhadi1983_01">māgha</lem><rdg source="bib:HerniPramastuti+al2007_01">malara</rdg></app>
 <app loc="1r3"><lem>kāṭi</lem><rdg source="bib:MachiSuhadi1983_01">kā<unclear>ti</unclear></rdg><rdg source="bib:HerniPramastuti+al2007_01">kati</rdg></app>
 <app loc="1r3"><lem source="bib:MachiSuhadi1983_01">māvuAt·</lem><rdg source="bib:HerniPramastuti+al2007_01">māvuran·</rdg></app>
-<app loc="1r3"><lem source="bib:MachiSuhadi1983_01">ta ya<supplied reason="omitted">n</supplied></lem><rdg source="bib:HerniPramastuti+al2007_01">ta yan</rdg></app>
+<app loc="1r3"><lem source="bib:MachiSuhadi1983_01">ta ya<supplied reason="subaudible">n</supplied></lem><rdg source="bib:HerniPramastuti+al2007_01">ta yan</rdg></app>
 <app loc="1r3"><lem source="bib:MachiSuhadi1983_01">vasapramāṇa</lem><rdg source="bib:HerniPramastuti+al2007_01">vasapramana</rdg></app>
 <app loc="1r3"><lem>ḍavuhan· māri</lem><rdg source="bib:MachiSuhadi1983_01">ḍavuhan· mari</rdg><rdg source="bib:HerniPramastuti+al2007_01">davuhan· mari</rdg></app>
 <app loc="1r3"><lem source="bib:HerniPramastuti+al2007_01">pavalagantan· māri</lem><rdg source="bib:MachiSuhadi1983_01">pavalagantan· mari</rdg></app>

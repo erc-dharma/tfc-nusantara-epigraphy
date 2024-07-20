@@ -65,19 +65,13 @@
                         under the European Union's Horizon 2020 research and innovation programme (grant
                         agreement no 809994).</p>
          </projectDesc>
-         <schemaRef type="guide"
-                    key="EGDv01"
-                    url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+         <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
          <listPrefixDef>
-            <prefixDef ident="bib"
-                       matchPattern="([a-zA-Z0-9\-\_]+)"
-                       replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+            <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
                <p>Public URIs with the prefix bib to point to a Zotero Group Library named
                             ERC-DHARMA whose data are open to the public.</p>
             </prefixDef>
-            <prefixDef ident="part"
-                       matchPattern="([a-z]+)"
-                       replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+            <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
                <p>Internal URIs using the part prefix to point to person elements in the
                             <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
             </prefixDef>
@@ -219,7 +213,7 @@
                           <num value="10">10</num>
                       </fw>
                         <lb n="10v1"/>rakryan kanuruhan·, rakryan raṅga, rakryan tuməṁguṁ, kapva vineḥ pasə:k-pasə:k·, sayathākrama, makanaryyama, saṁ dharmmādhya
-                        <lb n="10v2" break="no"/>kṣa ri kaśaiva<supplied reason="omitted">n</supplied>, dharmmādhyakṣa riṁ kasogatan·, kapva vineḥ pasə:k-pasə:k·, sayathākrama, saṁ dharmmopapatti samudāya, tapva
+                        <lb n="10v2" break="no"/>kṣa ri kaśaiva<supplied reason="subaudible">n</supplied>, dharmmādhyakṣa riṁ kasogatan·, kapva vineḥ pasə:k-pasə:k·, sayathākrama, saṁ dharmmopapatti samudāya, tapva
                         <lb n="10v3"/>vine<unclear>ḥ</unclear> pasə:k-pasə:k·, sayathākrama, makaphalāmratisubaddhāknānugraha pāduka śrī mahārāja, Irikaṅ anambaṅi sayavadvī
                         <lb n="10v4" break="no"/>pamaṇḍala, makādi pañji mărggabhaya, ky ajaran· rata, mvaṁ pañjy aṅrakṣāji, ky ajaran· rāgi, tlas labdhāpagəḥ, kunə<unclear>ṁ</unclear> yan hana U
                         <lb n="10v5" break="no"/>mula-hulaḥ sarasa saṁ hyaṅ ājñā haji praśāsti, kmitanikaṅ anambaṅi sayavadvīpamaṇḍala, makādi pañji mărggabhaya, ky a<lb n="10v6" break="no"/>jaran· rata, mvaṁ pañjy aṅrakṣāji, ky ajaran· rāgi, ṅuniveḥ yan paṁlbura kasvatantranikaṅ anambaṅi sayavadvīpamaṇḍala, A

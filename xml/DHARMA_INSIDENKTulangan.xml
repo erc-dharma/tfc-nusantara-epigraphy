@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?> <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?> <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml version="1.0" encoding="UTF-8"?> <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?> <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?> <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
    <teiHeader>
       <fileDesc>
@@ -60,18 +60,12 @@
          <projectDesc>
             <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
          </projectDesc>
-         <schemaRef type="guide"
-                    key="EGDv01"
-                    url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+         <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
          <listPrefixDef>
-            <prefixDef ident="bib"
-                       matchPattern="([a-zA-Z0-9\-\_]+)"
-                       replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+            <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
                <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
             </prefixDef>
-            <prefixDef ident="part"
-                       matchPattern="([a-z]+)"
-                       replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
+            <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
                <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_idListMembers_v01.xml</ref> file.</p>
             </prefixDef>
          </listPrefixDef>
@@ -83,7 +77,7 @@
    <text xml:space="preserve">
            <body> 
                    <div type="edition">
-                           <p><lb n="1"/>// svasti śaka-varṣātīta 932, bhadravāda-māśa tipi pañcamī śu<lb n="2" break="no"/>kla-pakṣa, vu U, ca vāra ma<unclear>d</unclear>aṅkuṅan· Indra-devatā harmmaṇa-yo<lb n="3" break="no"/>ga, Irika divaśa dyaḥ vunut·, manambaḥ I śrī mahārāja <supplied reason="omitted">ra</supplied>ke galuḥ dya<supplied reason="omitted">ḥ</supplied><lb n="4"/>garudamuka śrī dharmmodāya mahāsambhu muAṁ rakryan· mahāmantri Iṁ<lb n="5"/>hino, dyaḥ dakṣottama bāhubajrā pra<supplied reason="omitted">ti</supplied>pakṣakṣaya, prayojananira ma<lb n="6" break="no"/>ta<supplied reason="omitted">ṁ</supplied>nyan· panambaḥ Uminta Ikanaṁ lmaḥ tu<unclear>la</unclear>ṅan apirn? rikaṁ sa<unclear>ṁ</unclear>ghagula<lb n="7" break="no"/>ḥ run· kulon· ṅaranya Iṁ nū<unclear>ṣ</unclear>a Ala hlat· katakutan· <choice><sic>sampan</sic><corr>sampun</corr></choice> ta ya kr̥-</p><p>Estimated date</p>
+                           <p><lb n="1"/>// svasti śaka-varṣātīta 932, bhadravāda-māśa tipi pañcamī śu<lb n="2" break="no"/>kla-pakṣa, vu U, ca vāra ma<unclear>d</unclear>aṅkuṅan· Indra-devatā harmmaṇa-yo<lb n="3" break="no"/>ga, Irika divaśa dyaḥ vunut·, manambaḥ I śrī mahārāja <supplied reason="subaudible">ra</supplied>ke galuḥ dya<supplied reason="subaudible">ḥ</supplied><lb n="4"/>garudamuka śrī dharmmodāya mahāsambhu muAṁ rakryan· mahāmantri Iṁ<lb n="5"/>hino, dyaḥ dakṣottama bāhubajrā pra<supplied reason="subaudible">ti</supplied>pakṣakṣaya, prayojananira ma<lb n="6" break="no"/>ta<supplied reason="subaudible">ṁ</supplied>nyan· panambaḥ Uminta Ikanaṁ lmaḥ tu<unclear>la</unclear>ṅan apirn? rikaṁ sa<unclear>ṁ</unclear>ghagula<lb n="7" break="no"/>ḥ run· kulon· ṅaranya Iṁ nū<unclear>ṣ</unclear>a Ala hlat· katakutan· <choice><sic>sampan</sic><corr>sampun</corr></choice> ta ya kr̥-</p><p>Estimated date</p>
                        
                    </div>
                        <div type="apparatus">
@@ -99,14 +93,14 @@
 <app loc="2"><lem source="bib:Naerssen1938_01 bib:Damais1955_01 bib:Sarkar1971-1972_01">Indra-devatā</lem><rdg source="bib:Brandes1913_01">rudra-devatā</rdg></app>
 <app loc="2"><lem source="bib:Damais1955_01 bib:Sarkar1971-1972_01">harmmaṇa-yoga</lem><rdg source="bib:Brandes1913_01">Om.</rdg><rdg source="bib:Naerssen1938_01">hārmmaṇa-yoga</rdg> <rdg>Corr. harṣṣaṇa-yoga</rdg></app>
 <app loc="3"><lem source="bib:Damais1955_01">divaśa dyaḥ vunut·</lem><rdg source="bib:Brandes1913_01">divaśanya _</rdg><rdg source="bib:Naerssen1938_01">divaśa nyaḥ vurut</rdg></app>
-<app loc="3"><lem source="bib:Damais1955_01"><supplied reason="omitted">ra</supplied>ke galuḥ dya<supplied reason="omitted">ḥ</supplied></lem><rdg source="bib:Brandes1913_01">śegaluḥ ma</rdg><rdg source="bib:Naerssen1938_01 bib:Sarkar1971-1972_01">raka galuḥ</rdg></app>
+<app loc="3"><lem source="bib:Damais1955_01"><supplied reason="subaudible">ra</supplied>ke galuḥ dya<supplied reason="subaudible">ḥ</supplied></lem><rdg source="bib:Brandes1913_01">śegaluḥ ma</rdg><rdg source="bib:Naerssen1938_01 bib:Sarkar1971-1972_01">raka galuḥ</rdg></app>
 <app loc="4"><lem>garudamuka</lem><rdg source="bib:Brandes1913_01">Om.</rdg><rdg source="bib:Damais1955_01">varudamuka</rdg><rdg source="bib:Naerssen1938_01 bib:Sarkar1971-1972_01">garuḍamuka</rdg></app>
 <app loc="4"><lem source="bib:Damais1955_01">mahāsambhu</lem><rdg source="bib:Brandes1913_01">mahāsama</rdg><rdg source="bib:Naerssen1938_01 bib:Sarkar1971-1972_01">mahāsambu</rdg></app>
 <app loc="4"><lem source="bib:Naerssen1938_01 bib:Damais1955_01 bib:Sarkar1971-1972_01">Iṁ</lem><rdg source="bib:Brandes1913_01">I</rdg></app>
 <app loc="5"><lem source="bib:Naerssen1938_01 bib:Damais1955_01 bib:Sarkar1971-1972_01">dyaḥ</lem><rdg source="bib:Brandes1913_01">pu</rdg></app>
 <app loc="5"><lem source="bib:Sarkar1971-1972_01">bāhubajrā</lem><rdg source="bib:Brandes1913_01">bāhubajra</rdg><rdg source="bib:Naerssen1938_01">bāhubhajra</rdg><rdg source="bib:Damais1955_01">vāhubajra</rdg></app>
-<app loc="5"><lem source="bib:Naerssen1938_01 bib:Damais1955_01 bib:Sarkar1971-1972_01">pra<supplied reason="omitted">ti</supplied>pakṣakṣaya</lem><rdg source="bib:Brandes1913_01">pratipakṣakṣaya</rdg></app>
-<app loc="5-6"><lem source="bib:Naerssen1938_01 bib:Damais1955_01 bib:Sarkar1971-1972_01">mata<supplied reason="omitted">ṁ</supplied>nyan·</lem><rdg source="bib:Brandes1913_01">mataṅuyan·</rdg></app>
+<app loc="5"><lem source="bib:Naerssen1938_01 bib:Damais1955_01 bib:Sarkar1971-1972_01">pra<supplied reason="subaudible">ti</supplied>pakṣakṣaya</lem><rdg source="bib:Brandes1913_01">pratipakṣakṣaya</rdg></app>
+<app loc="5-6"><lem source="bib:Naerssen1938_01 bib:Damais1955_01 bib:Sarkar1971-1972_01">mata<supplied reason="subaudible">ṁ</supplied>nyan·</lem><rdg source="bib:Brandes1913_01">mataṅuyan·</rdg></app>
 <app loc="6"><lem source="bib:Damais1955_01">panamvaḥ</lem><rdg source="bib:Brandes1913_01 bib:Naerssen1938_01 bib:Sarkar1971-1972_01">panambaḥ</rdg></app>
 <app loc="6"><lem source="bib:Damais1955_01">tu<unclear>la</unclear>ṅan</lem><rdg source="bib:Brandes1913_01">Om.</rdg><rdg source="bib:Naerssen1938_01 bib:Sarkar1971-1972_01">tuhaṅana</rdg></app>
 <app loc="6"><lem source="bib:Damais1955_01">api<unclear>ṅ</unclear>gir·</lem><rdg source="bib:Brandes1913_01">Om.</rdg><rdg source="bib:Naerssen1938_01 bib:Sarkar1971-1972_01">pin _</rdg></app>

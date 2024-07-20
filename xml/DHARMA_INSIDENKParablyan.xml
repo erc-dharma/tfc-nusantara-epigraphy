@@ -65,19 +65,13 @@
                         under the European Union's Horizon 2020 research and innovation programme (grant
                         agreement no 809994).</p>
          </projectDesc>
-         <schemaRef type="guide"
-                    key="EGDv01"
-                    url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+         <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
          <listPrefixDef>
-            <prefixDef ident="bib"
-                       matchPattern="([a-zA-Z0-9\-\_]+)"
-                       replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+            <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
                <p>Public URIs with the prefix bib to point to a Zotero Group Library named
                             ERC-DHARMA whose data are open to the public.</p>
             </prefixDef>
-            <prefixDef ident="part"
-                       matchPattern="([a-z]+)"
-                       replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+            <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
                <p>Internal URIs using the part prefix to point to person elements in the
                             <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
             </prefixDef>
@@ -92,20 +86,11 @@
    <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="kaw-Latn" rendition="class:38769 maturity:83213">
-<p part="F"><pb n="2r"/><lb n="2r1"/>maṅhuri, ḍaṅ ācāryya smaradeva, I piṁsorny ājñā śrī mahārāja, kumonakən· saṁ pam<unclear>g</unclear>ə:t iṁ parablyan·, ḍaṁ hyaṁ mādhava, pa<lb 
-n="2r2" break="no"/>damlakna saṁ hyaṁ rājapraśāsti macihna kr̥tanagara, Umuṅgve salaḥ sikiniṁ Upala, tămra, ripta, kapaṅkva de saṁ pamgə:t i parablyan·,</p> 
-<p>samba<lb n="2r3"/>ndha, gati saṁ pamgə:t iṁ parablyan·, mahābrāhmaṇa, yajurvveda-pāraga, mandhyandina-śā<choice><orig>k</orig><reg>kh</reg></choice>ā, śaṅkadhara, sākṣāt· pinakātmarakṣa ⌈<lb 
-n="2r4" break="no"/>de śrī mahārāja, makavyakti gati saṁ pamgət iṁ parablyan· tan pantara gumavayakən· pūjā-japa-homānibākə:n ăhuti ri saṁ hya<supplied reason="omitted">ṁ</supplied> śīvā<lb 
-n="2r5" break="no"/>gni, mrā<unclear>r</unclear>thanākən· jaya-dīrghăyur-ărogya śrī mahārāja, makasādhana kaprayoganiṁ prakriyopadeśa-parijñānā<lb 
-n="2r6" break="no"/>di riṅ ahorātra, maṁdadyakən· sthiratarani palingiḥ śrī mahārāja riṁ ratna-maṇi-maya-siṅhāsana, An siniviniṁ sayavadv<unclear>ī</unclear>pa 
+<p part="F"><pb n="2r"/><lb n="2r1"/>maṅhuri, ḍaṅ ācāryya smaradeva, I piṁsorny ājñā śrī mahārāja, kumonakən· saṁ pam<unclear>g</unclear>ə:t iṁ parablyan·, ḍaṁ hyaṁ mādhava, pa<lb n="2r2" break="no"/>damlakna saṁ hyaṁ rājapraśāsti macihna kr̥tanagara, Umuṅgve salaḥ sikiniṁ Upala, tămra, ripta, kapaṅkva de saṁ pamgə:t i parablyan·,</p> 
+<p>samba<lb n="2r3"/>ndha, gati saṁ pamgə:t iṁ parablyan·, mahābrāhmaṇa, yajurvveda-pāraga, mandhyandina-śā<choice><orig>k</orig><reg>kh</reg></choice>ā, śaṅkadhara, sākṣāt· pinakātmarakṣa ⌈<lb n="2r4" break="no"/>de śrī mahārāja, makavyakti gati saṁ pamgət iṁ parablyan· tan pantara gumavayakən· pūjā-japa-homānibākə:n ăhuti ri saṁ hya<supplied reason="subaudible">ṁ</supplied> śīvā<lb n="2r5" break="no"/>gni, mrā<unclear>r</unclear>thanākən· jaya-dīrghăyur-ărogya śrī mahārāja, makasādhana kaprayoganiṁ prakriyopadeśa-parijñānā<lb n="2r6" break="no"/>di riṅ ahorātra, maṁdadyakən· sthiratarani palingiḥ śrī mahārāja riṁ ratna-maṇi-maya-siṅhāsana, An siniviniṁ sayavadv<unclear>ī</unclear>pa 
 <lb n="2r7"/>manuluyi nūṣāntara madhura, śīrṇna parava<choice><orig>s</orig><reg>ś</reg></choice>a sahanani śatru-śakti tan hana vnaṁ də:mə:lə: vīryya-pratāpa śrī mahārāja, 
-<lb n="2r8"/>kapva prāptasādara humaraś caraṇadvaya śrī mahārāja, makanimitta pagə:ḥni maṁrakṣa sa pamgə:t iṁ parablyan· riṅ ādhyā<pb n="2v" break="no"/><lb 
-n="2v1" break="no"/>tmika kāraṇanyan enak· palāmpahakan· śrī mahārāja dharmmasādhana samyak-paripālanādi, sari-saryy a<lb 
-n="2v2" break="no"/>veḥ dāna kanakarajatavastradi ri para dvija mvaṁ ri sa<supplied reason="omitted">ṁ</supplied> caturăśrami, An maṅkana kadivyaniṁ parakṣa saṁ pamgə:t iṁ parablyan· ri kaprabhun·
-<lb n="2v3"/>śrī mahārāja, svabhāvaniṁ prabhu devāṅśa pvagə:ṁ R̥ṇa riṅ amihutaṅi suka, mahābhārān aveḥ kaiśvaryyan· riṅ aveḥ Inakā<lb 
-n="2v4" break="no"/>mbək·, ṅuni-ṅuni ri saṁ paṇḍita mahābrāhmaṇāmrārthanākən· kadigvijayan· mvaṁ kadīrghayūṣan·, pitovi pvan· suka ri ka<lb 
-n="2v5" break="no"/>vaṅunaniṁ dharmma, Āpan· prabhu smr̥ty-ādi-vihita-śīlānvita, kāraṇa śrī mahārāja maṅhanākən· bhūmīdāna mapakna ri saṁ pamgə:<lb 
-n="2v6" break="no"/>t i parablyan·, AmaR̥ṅi subhadivaśa, sinaṅkalpakən saha-hastodaka, kasākṣyan de para dvija samudāya, hana ta vānva
+<lb n="2r8"/>kapva prāptasādara humaraś caraṇadvaya śrī mahārāja, makanimitta pagə:ḥni maṁrakṣa sa pamgə:t iṁ parablyan· riṅ ādhyā<pb n="2v" break="no"/><lb n="2v1" break="no"/>tmika kāraṇanyan enak· palāmpahakan· śrī mahārāja dharmmasādhana samyak-paripālanādi, sari-saryy a<lb n="2v2" break="no"/>veḥ dāna kanakarajatavastradi ri para dvija mvaṁ ri sa<supplied reason="subaudible">ṁ</supplied> caturăśrami, An maṅkana kadivyaniṁ parakṣa saṁ pamgə:t iṁ parablyan· ri kaprabhun·
+<lb n="2v3"/>śrī mahārāja, svabhāvaniṁ prabhu devāṅśa pvagə:ṁ R̥ṇa riṅ amihutaṅi suka, mahābhārān aveḥ kaiśvaryyan· riṅ aveḥ Inakā<lb n="2v4" break="no"/>mbək·, ṅuni-ṅuni ri saṁ paṇḍita mahābrāhmaṇāmrārthanākən· kadigvijayan· mvaṁ kadīrghayūṣan·, pitovi pvan· suka ri ka<lb n="2v5" break="no"/>vaṅunaniṁ dharmma, Āpan· prabhu smr̥ty-ādi-vihita-śīlānvita, kāraṇa śrī mahārāja maṅhanākən· bhūmīdāna mapakna ri saṁ pamgə:<lb n="2v6" break="no"/>t i parablyan·, AmaR̥ṅi subhadivaśa, sinaṅkalpakən saha-hastodaka, kasākṣyan de para dvija samudāya, hana ta vānva
 <lb n="2v7"/> riṁ bhānarasi ṅaranya, thāni bala vatək bavaṁ vuṅkal·, gave, <abbr>mā</abbr> <num value="3">3</num>, madravya-haji, <abbr>sū</abbr> <num>12</num>, ya teka kasrah i saṁ
 <lb n="2v8"/>pamgə:t iṁ parablyan·, sapasuk thāni, tkeṁ kalaṁ kalagyan·, mapakna bhūmidānekaṁ sinaṁkalpakən· ṅūni, susukən dharmma
             </p>
@@ -128,7 +113,7 @@ n="2v6" break="no"/>t i parablyan·, AmaR̥ṅi subhadivaśa, sinaṅkalpakən s
                       <note> van Naerssen cites <foreign>mandhyandinaśākā</foreign> as alternative .</note>
                   </app>
                   <app loc="2r4">
-                     <lem source="bib:Naerssen1941_01">hya<supplied reason="omitted">ṁ</supplied></lem>
+                     <lem source="bib:Naerssen1941_01">hya<supplied reason="subaudible">ṁ</supplied></lem>
                       <note>Evident cases of omitted (or illegible) anusvāra will no longer be noted below.</note>
                   </app>
                   <app loc="2r5">
@@ -149,7 +134,7 @@ n="2v6" break="no"/>t i parablyan·, AmaR̥ṅi subhadivaśa, sinaṅkalpakən s
                      <note>Emend <foreign>palāmpahakan</foreign>? Cf. <title>OJED</title> under <foreign>samyakparipālana</foreign>.</note>
                     </app>
                   <app loc="2v2">
-                      <lem>sa<supplied reason="omitted">ṁ</supplied></lem>
+                      <lem>sa<supplied reason="subaudible">ṁ</supplied></lem>
                      <rdg source="bib:Naerssen1941_01">sa</rdg>
                     </app>
                   <app loc="2v3">

@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?> <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?> <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml version="1.0" encoding="UTF-8"?> <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?> <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?> <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
    <teiHeader>
       <fileDesc>
@@ -60,18 +60,12 @@
          <projectDesc>
             <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
          </projectDesc>
-         <schemaRef type="guide"
-                    key="EGDv01"
-                    url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+         <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
          <listPrefixDef>
-            <prefixDef ident="bib"
-                       matchPattern="([a-zA-Z0-9\-\_]+)"
-                       replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+            <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
                <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
             </prefixDef>
-            <prefixDef ident="part"
-                       matchPattern="([a-z]+)"
-                       replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
+            <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
                <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_idListMembers_v01.xml</ref> file.</p>
             </prefixDef>
          </listPrefixDef>
@@ -91,37 +85,33 @@
 <lb n="3" break="no"/>gai vr̥haspati-văra sv<choice><orig>atī-</orig><reg>āti-</reg></choice>nakṣatra byatipā
 <lb n="4" break="no"/>da-yoga tatkālanikanaṁ vanuA I ka
 <lb n="5" break="no"/>ṇḍaṅan· muAṁ Anaknya ri vanuA I Er hijo
-<lb n="6"/>vata<supplied reason="omitted">k·</supplied> vuṅkal· tpat· <choice><orig>ś</orig><reg>s</reg></choice>īmāni parhyaṅan· I
+<lb n="6"/>vata<supplied reason="subaudible">k·</supplied> vuṅkal· tpat· <choice><orig>ś</orig><reg>s</reg></choice>īmāni parhyaṅan· I
 <lb n="7"/>prasā<choice><orig>j</orig><reg>d</reg></choice>a vata<choice><sic>t</sic><corr>k</corr></choice>· patapān· maṅas<unclear>ə:</unclear> I
 <lb n="8"/>lumku pinagəḥhakan· parṇaḥnyan· <choice><orig>ś</orig><reg>s</reg></choice>īma de
 <lb n="9"/>rakryān· I vuṅkal· tihaṅ pu vīravikrama <unclear>A-</unclear>
 <lb n="10"/>n· saṁ hyaṁ parhyaṅan· I prasā<choice><orig>j</orig><reg>d</reg></choice>a vata<choice><sic>t</sic><corr>k</corr></choice>·
 <lb n="11"/>patapān· maṅasə: I lu<unclear reason="eccentric_ductus">m</unclear>ku <choice><sic>da</sic><corr>dhā</corr></choice> 1 ma<unclear>ka</unclear>pun·
 <lb n="12" break="no"/>punana ya muAṁ saṁ pramā<choice><sic>n</sic><corr>ṇ</corr></choice>a riṁ sapaṅguhanya mu<unclear>Aṁ</unclear>
-<lb n="13"/>saprakārani sukha-du<supplied reason="omitted">ḥ</supplied>khanya muAṁ kilalā
+<lb n="13"/>saprakārani sukha-du<supplied reason="subaudible">ḥ</supplied>khanya muAṁ kilalā
 <milestone type="pagelike" unit="face" n="B"/>
 <lb n="1" break="no"/>mākāra bhaṭāra I prasā<choice><orig>j</orig><reg>d</reg></choice>a Ataḥ parānanya prastha
 <lb n="2" break="no"/><surplus>tha</surplus>nyan· <choice><sic>t</sic><corr>k</corr></choice>inon<choice><sic>t</sic><corr>n</corr></choice>akan· pagəḥhakna de rakryan·
 <lb n="3"/>saṅkā yan· ruA<unclear>ṁ</unclear> riṇḍaṁ parṇnaḥnikanaṁ vanuA <choice><orig>ś</orig><reg>s</reg></choice>īma
-<lb n="4"/>I kaṇḍaṅa<space type="descender"/>n· muAṁ I E<supplied reason="omitted">r</supplied> hijo kapasakan·
+<lb n="4"/>I kaṇḍaṅa<space type="descender"/>n· muAṁ I E<supplied reason="subaudible">r</supplied> hijo kapasakan·
 <lb n="5"/>de<surplus>ṁ</surplus> <choice><sic>baṁ</sic><corr>rā</corr></choice>ma vanuA I vuṅkal· tpa<choice><sic>k</sic><corr>t</corr></choice>· mavaiḥ <unclear>pa</unclear> rāma
-<lb n="6"/>I puṅguhan· <surplus>ha</surplus>katr<choice><sic>in</sic><corr>Iṇ</corr></choice>i I E<supplied reason="omitted">r</supplied> hijo pirak<supplied reason="omitted">·</supplied>
+<lb n="6"/>I puṅguhan· <surplus>ha</surplus>katr<choice><sic>in</sic><corr>Iṇ</corr></choice>i I E<supplied reason="subaudible">r</supplied> hijo pirak<supplied reason="subaudible">·</supplied>
 <lb n="7"/> <unclear>dhā</unclear> 1 I satah<unclear>u</unclear>n·-satahun k<choice><sic>i</sic><corr>ə</corr></choice>nannana ya
 <lb n="8"/><gap reason="lost" extent="unknown"/>n·
 <lb n="9"/><gap reason="lost" extent="unknown"/>mā ka 2 pu<unclear>n</unclear>·punnan saṅ hyaṅ parhyaṅan
-<lb n="10"/><gap reason="lost" extent="unknown"/>ri prasā<choice><orig>j</orig><reg>d</reg></choice>a yāta mataṁnyan pinagəḥhaka<lb break="no" 
-n="11"/><gap reason="lost" extent="unknown"/>n ban<gap reason="lost" extent="unknown"/><unclear>ma</unclear>vanua i vuṁkha
-<lb n="12"/><gap reason="lost" extent="unknown"/>l· <unclear>tpat·</unclear> muAṁ vahuta patiḥ I abvatthaji mu<lb break="no"
-n="13"/><gap reason="lost" extent="unknown"/>Aṁ paṅgahan sapra<gap reason="lost" extent="unknown"/>ataḥ pramā<lb break="no"
-n="14"/><gap reason="lost" extent="unknown"/>ṇa I sapra<unclear>kāra</unclear><gap reason="lost" extent="unknown"/>
-<lb n="15"/><gap reason="lost" extent="unknown"/><unclear>paṇ</unclear>ḍavutan· p<unclear>u</unclear>na<lb break="no"
-n="16"/><gap reason="lost" extent="unknown"/>kan· sira pasam<unclear>b</unclear>aḥ I samga</p>
+<lb n="10"/><gap reason="lost" extent="unknown"/>ri prasā<choice><orig>j</orig><reg>d</reg></choice>a yāta mataṁnyan pinagəḥhaka<lb break="no" n="11"/><gap reason="lost" extent="unknown"/>n ban<gap reason="lost" extent="unknown"/><unclear>ma</unclear>vanua i vuṁkha
+<lb n="12"/><gap reason="lost" extent="unknown"/>l· <unclear>tpat·</unclear> muAṁ vahuta patiḥ I abvatthaji mu<lb break="no" n="13"/><gap reason="lost" extent="unknown"/>Aṁ paṅgahan sapra<gap reason="lost" extent="unknown"/>ataḥ pramā<lb break="no" n="14"/><gap reason="lost" extent="unknown"/>ṇa I sapra<unclear>kāra</unclear><gap reason="lost" extent="unknown"/>
+<lb n="15"/><gap reason="lost" extent="unknown"/><unclear>paṇ</unclear>ḍavutan· p<unclear>u</unclear>na<lb break="no" n="16"/><gap reason="lost" extent="unknown"/>kan· sira pasam<unclear>b</unclear>aḥ I samga</p>
                        
                    </div>
                        <div type="apparatus">
                         <app loc="r3"><lem source="bib:Brandes1913_01 bib:Sarkar1971-1972_01">svatī-</lem></app>
                           <app loc="r5"><lem>I Er hijo</lem> <rdg source="bib:Brandes1913_01">I hijo</rdg><rdg source="bib:Sarkar1971-1972_01">I Ehijo</rdg></app>
-                        <app loc="r5"><lem source="bib:Sarkar1971-1972_01">vata<supplied reason="omitted">k·</supplied></lem> <rdg source="bib:Brandes1913_01">vatu</rdg></app>
+                        <app loc="r5"><lem source="bib:Sarkar1971-1972_01">vata<supplied reason="subaudible">k·</supplied></lem> <rdg source="bib:Brandes1913_01">vatu</rdg></app>
                           <app loc="r8"><lem>de</lem><rdg source="bib:Brandes1913_01 bib:Sarkar1971-1972_01"><gap reason="omitted"/></rdg></app>
                           <app loc="r9"><lem>rakryān·</lem><rdg source="bib:Brandes1913_01 bib:Sarkar1971-1972_01">rakryan·</rdg></app>
 	<app loc="r9"><lem>vīravikrama</lem><rdg source="bib:Brandes1913_01 bib:Sarkar1971-1972_01">vĭravikrama</rdg></app>

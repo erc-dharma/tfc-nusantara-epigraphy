@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
@@ -108,41 +108,27 @@
 <lb n="1v4"/>dharmma paṅasthūlan· ri sira, Aṅkən· pūrṇnamaniṁ bhadravāda, kabhaktyana de rāmanta I vatu kura,</p>
 <p>kunəṁ Ikaṁ sava<lb n="1v5" break="no"/>ḥ, gagā, R̥ṇək·, kəbuAn·, ya tikāmijilakna pirak·, <abbr>mā</abbr> <num value="1">1</num>, Iṁ sarahi, duvan· babadan·, <abbr>mā</abbr> <num value="3">3</num>,
 <pb n="2r"/><lb n="2r1"/>I mata panas·, <abbr>mā</abbr>, <abbr>sū</abbr> <num value="1">1</num>, <abbr>mā</abbr> <num value="4">4</num>, payaman·, <abbr>mā</abbr>, <abbr>sū</abbr> <num value="1">1</num>, <abbr>mā</abbr> <num value="4">4</num>, buhara suvul·, <abbr>mā</abbr> <num value="5">5</num>, buhara Uṇḍuḥ, <abbr>mā</abbr> 3<unclear>,</unclear>
-<lb n="2r2"/>buhara tṅaḥ, <abbr>mā</abbr> <num value="5">5</num>, buhara hoya, <abbr>mā</abbr> <num value="5">5</num>, buhara paṅanten·, <abbr>mā</abbr> <num value="2">2</num>, bareṁ, <abbr>mā</abbr> <num value="10">10</num>, muAṁ paṅrāga ska<lb 
-n="2r3" break="no"/>r·, <abbr>mā</abbr>, <abbr>ku</abbr> <num value="2">2</num>, bras·, <abbr>ku</abbr> <num value="1">1</num>, riṁ salavaṁ, muvaḥ <abbr>mā</abbr>, <abbr>ku</abbr> <num value="1">1</num>, bras·, <abbr>ku</abbr> <num value="1">1</num>, riṁ salavaṁ, kāryya panaman· pūrṇnamaniṁ <g type="squiggleVertical">.</g>
+<lb n="2r2"/>buhara tṅaḥ, <abbr>mā</abbr> <num value="5">5</num>, buhara hoya, <abbr>mā</abbr> <num value="5">5</num>, buhara paṅanten·, <abbr>mā</abbr> <num value="2">2</num>, bareṁ, <abbr>mā</abbr> <num value="10">10</num>, muAṁ paṅrāga ska<lb n="2r3" break="no"/>r·, <abbr>mā</abbr>, <abbr>ku</abbr> <num value="2">2</num>, bras·, <abbr>ku</abbr> <num value="1">1</num>, riṁ salavaṁ, muvaḥ <abbr>mā</abbr>, <abbr>ku</abbr> <num value="1">1</num>, bras·, <abbr>ku</abbr> <num value="1">1</num>, riṁ salavaṁ, kāryya panaman· pūrṇnamaniṁ <g type="squiggleVertical">.</g>
 <lb n="2r4"/>jyeṣṭa, muvaḥ <abbr>mā</abbr>, <abbr>ku</abbr> <num value="1">1</num>, bras·, <abbr>ku</abbr> <num value="1">1</num>, riṁ salavaṁ, pūrṇnamaniṁ cetra,</p> <p>muAṅ ikaṁ ravi galuḥ I babadan·,
 <lb n="2r5"/>maveḥ timba-timban·, ḍulaṅan·, Akṣeṇya I bhaṭāra dharmma, muAṁ buka-kuṇḍur·, pakna pamūjā rāma<pb n="2v" break="no"/>
-<fw  n="2v" place="left" rend="tb-rotated"><num value="2">2</num></fw><lb 
-n="2v1" break="no"/>nta I bhaṭāra dharmma, śeṣanya, maraha I saṅ karmmanya, mamūjā, Upakalpa, devakarmma, Anapū, devadāsa,
-<lb n="2v2"/>pasiṅhir·, sahana saṅ karmma kummit bhaṭāra makadr̥vya ya,</p> <p>muAṁ gavay bhūṣaṇa de rāmanta, bāhurākṣa, kira<lb 
-n="2v3" break="no"/>t-bāhu, buka-śrī, pakna ri bhaṭāra dharmma, muAṁ paṅguhaniṁ tahil·, <abbr>sū</abbr> <num value="3">3</num>, <abbr>mā</abbr> <num value="14">14</num>, <abbr>ku</abbr> <num value="2">2</num>, mijil· riṅ aśuji-māsa,
+<fw n="2v" place="left" rend="tb-rotated"><num value="2">2</num></fw><lb n="2v1" break="no"/>nta I bhaṭāra dharmma, śeṣanya, maraha I saṅ karmmanya, mamūjā, Upakalpa, devakarmma, Anapū, devadāsa,
+<lb n="2v2"/>pasiṅhir·, sahana saṅ karmma kummit bhaṭāra makadr̥vya ya,</p> <p>muAṁ gavay bhūṣaṇa de rāmanta, bāhurākṣa, kira<lb n="2v3" break="no"/>t-bāhu, buka-śrī, pakna ri bhaṭāra dharmma, muAṁ paṅguhaniṁ tahil·, <abbr>sū</abbr> <num value="3">3</num>, <abbr>mā</abbr> <num value="14">14</num>, <abbr>ku</abbr> <num value="2">2</num>, mijil· riṅ aśuji-māsa,
 <lb n="2v4"/>muvaḥ <abbr>sū</abbr> <num value="3">3</num>, <abbr>mā</abbr> <num value="14">14</num>, <abbr>ku</abbr> <num value="2">2</num>, mijil· riṁ cetra,</p> <p>rāma Irikaṁ kāla, tumarima Ikaṁ mās· panīma, vinkas· saṁ <g type="squiggleVertical">.</g>
-<lb n="2v5"/>druma rāmani viddha, tuha kalaṁ saṁ jāti rāmani santa, gusti saṁ jātuka rāmani śruta, parujar· si dhari si dūta, va<pb n="3r" break="no"/><lb n="3r1" break="no"/>riga si teja, dāridra, rāmā<surplus>na</surplus><!--check surplus? but could we not split rāma+ an amarata to avoid assuming that there is a scribal error here?--> marata saṁ gariyan· saṁ subhara saṁ vindava, nāhan· kveḥni rāmanta I vatu ku<lb 
-n="3r2" break="no"/>ra, tumarima Ikanāṁ mās· panīma saṅke haji, muAṁ milu sumusuk· Ikanāṁ dharmma, Ika ta kabeḥ kapva byapā<lb 
-n="3r3" break="no"/>ra I bhaṭāra dharmma I vatu kura,</p> <p part="I">ya tika tan katamana de saṁ maṅilala dr̥vya haji, mīśra para mīśra, vulu-vulu
+<lb n="2v5"/>druma rāmani viddha, tuha kalaṁ saṁ jāti rāmani santa, gusti saṁ jātuka rāmani śruta, parujar· si dhari si dūta, va<pb n="3r" break="no"/><lb n="3r1" break="no"/>riga si teja, dāridra, rāmā<surplus>na</surplus><!--check surplus? but could we not split rāma+ an amarata to avoid assuming that there is a scribal error here?--> marata saṁ gariyan· saṁ subhara saṁ vindava, nāhan· kveḥni rāmanta I vatu ku<lb n="3r2" break="no"/>ra, tumarima Ikanāṁ mās· panīma saṅke haji, muAṁ milu sumusuk· Ikanāṁ dharmma, Ika ta kabeḥ kapva byapā<lb n="3r3" break="no"/>ra I bhaṭāra dharmma I vatu kura,</p> <p part="I">ya tika tan katamana de saṁ maṅilala dr̥vya haji, mīśra para mīśra, vulu-vulu
 <lb n="3r4"/>prakāra, kriṁ, paḍəm apuy·, kula pamgət·, vadihati, makudur·, tavan·, kula paṅkur·, pagaran·, kavur hyaṁ,
 <lb n="3r5"/>taji, tapa haji, Air haji, malandaṁ, lca, lab-lab·, manimpiki, tuhālup·, tuha dagaṁ, maṁguñjai, maṁrumbai, <g type="squiggleVertical">.</g><pb n="3v"/>
-<fw  n="3v" place="left" rend="tb-rotated"><num value="3">3</num></fw><lb n="3v1"/>vatu tajəm·, salvit·, pakalaṅkaṁ, guñjan·, tuṇḍan·, salaran·, piniṅlai, kataṅgaran·, pamr̥ṣi, hulu<g type="squiggleVertical">.</g><lb 
-n="3v2" break="no"/>n haji, paranakan·, rāma jātaka, vihǎrasvǎmi, parmmasan·, pamasaṁ, Avuran·, Urutan·, ḍampulan·, sikpa<lb 
-n="3v3" break="no"/>n·, puluṁ paḍi, mapaḍahi, valyan·, vidu maṅiduṁ, kecaka, tarimba, tapukan·, mabika, vargga I daL̥m·,
-<lb n="3v4"/>paṇḍe mās·, tāmra, kaṅsa, vsi, ḍaḍap·, Amaraṅgi, Uṇḍahagi, Atviḥ, Amahat·, Amanantən·, Aṅu⌈<lb 
-n="3v5" break="no"/>ge, Agiliṅan·, Aṅulaṁ, joroṁ, kuñjalan·, tətəpan·, Ityevamādi, pāt· Ika lvirnya, muvaḥ vnaṁ sama</p>
+<fw n="3v" place="left" rend="tb-rotated"><num value="3">3</num></fw><lb n="3v1"/>vatu tajəm·, salvit·, pakalaṅkaṁ, guñjan·, tuṇḍan·, salaran·, piniṅlai, kataṅgaran·, pamr̥ṣi, hulu<g type="squiggleVertical">.</g><lb n="3v2" break="no"/>n haji, paranakan·, rāma jātaka, vihǎrasvǎmi, parmmasan·, pamasaṁ, Avuran·, Urutan·, ḍampulan·, sikpa<lb n="3v3" break="no"/>n·, puluṁ paḍi, mapaḍahi, valyan·, vidu maṅiduṁ, kecaka, tarimba, tapukan·, mabika, vargga I daL̥m·,
+<lb n="3v4"/>paṇḍe mās·, tāmra, kaṅsa, vsi, ḍaḍap·, Amaraṅgi, Uṇḍahagi, Atviḥ, Amahat·, Amanantən·, Aṅu⌈<lb n="3v5" break="no"/>ge, Agiliṅan·, Aṅulaṁ, joroṁ, kuñjalan·, tətəpan·, Ityevamādi, pāt· Ika lvirnya, muvaḥ vnaṁ sama</p>
 <pb n="4r"/>
 <gap reason="lost" quantity="5" unit="line"/>
 <pb n="4v"/>
 <gap reason="lost" quantity="5" unit="line"/>
 <p part="F">
-<pb n="5r"/><lb n="5r1"/>babadan·, mata panas·, payaman·, buhara suvul·, buhara Uṇḍuḥ, buhara tṅaḥ, buhara hoya, buhara pa<lb 
-n="5r2" break="no"/>ṅanten·, bareṁ, vatək antulan·, I dharmma hajī vatu kura,</p>
-<p>tumŭt krama saṁ haneṁ kon· patiḥ vahuta rāma ka<g type="squiggleVertical">.</g><lb 
-n="5r3"/>bayan·, muAṁ rāma tpi siriṁ kabeḥ, matuha manvām· laki-laki vadvan· kaniṣṭa-maddhyamottama, kapva ma<g type="squiggleVertical">.</g><lb 
-n="5r4"/>naḍaḥ tan hana kantuna rīṅ irusan·<!-- how to parse this? we expect tan hana kantu and inirusan. Below, we expect inariṅ suṇḍa. --> kla-kla Ambəl-ambəl·, kasyan·, lət-lət·, bhaṇḍa kaṇḍi paliḍva parisukha <g type="squiggleVertical">.</g>
-<lb n="5r5"/>saṅ amaṅan·, tahulan vagalan· haryyas· kuluban· suṇḍa rumbaḥ Ityevamādi, tan hana kakuraṁ, maṅka<pb 
-n="5v" break="no"/><fw n="5v" place="left" rend="tb-rotated"><num value="5">5</num></fw><lb n="5v1" break="no"/>na taṁ haraṁ-haraṁ, ḍeṁ kakap·, kaḍivas·, taṅiri, hnus·, huraṁ, biluṁluṁ prakāra, paripūrṇna Ikā kabeḥ, muAṁ <g type="squiggleVertical">.</g>
-<lb n="5v2"/>pāṇa siddhu mastava kiñca kilaṁ tvak· paripūrṇna Ikā kabeḥ, mataṅ yan· tan parāryyan· saṁ manaḍahakən tahapa<lb 
-n="5v3" break="no"/>n·, mata<del>ṁ</del>ṅ yan vijaḥ sira kabeḥ,</p> <p>muAṁ men-men·, si p<subst><del>i</del><add place="overstrike">a</add></subst>tiṅhalan·, mabañol·, si pati bañcil·, muAṁ si bari
-<lb n="5v4"/>pacəḥ, Atapukan·, si giraṁ hyasən·, matəkapakən sira kabeḥ, dinmakan· kupaṁ, <num value="2">2</num>, sovaṁ-sovaṁ,</p> <p part="I">I tlasnira ka<lb 
-n="5v5" break="no"/>beḥ manaḍaḥ, maṅḍiri saṁ makudur vadihati patiḥ pramukha, kapu<supplied reason="omitted">A</supplied> manəmbaḥ I sārah-araḥ śrī mahārāja, muAṁ ra<g type="squiggleVertical">.</g></p><pb n="6r" break="no"/>
+<pb n="5r"/><lb n="5r1"/>babadan·, mata panas·, payaman·, buhara suvul·, buhara Uṇḍuḥ, buhara tṅaḥ, buhara hoya, buhara pa<lb n="5r2" break="no"/>ṅanten·, bareṁ, vatək antulan·, I dharmma hajī vatu kura,</p>
+<p>tumŭt krama saṁ haneṁ kon· patiḥ vahuta rāma ka<g type="squiggleVertical">.</g><lb n="5r3"/>bayan·, muAṁ rāma tpi siriṁ kabeḥ, matuha manvām· laki-laki vadvan· kaniṣṭa-maddhyamottama, kapva ma<g type="squiggleVertical">.</g><lb n="5r4"/>naḍaḥ tan hana kantuna rīṅ irusan·<!-- how to parse this? we expect tan hana kantu and inirusan. Below, we expect inariṅ suṇḍa. --> kla-kla Ambəl-ambəl·, kasyan·, lət-lət·, bhaṇḍa kaṇḍi paliḍva parisukha <g type="squiggleVertical">.</g>
+<lb n="5r5"/>saṅ amaṅan·, tahulan vagalan· haryyas· kuluban· suṇḍa rumbaḥ Ityevamādi, tan hana kakuraṁ, maṅka<pb n="5v" break="no"/><fw n="5v" place="left" rend="tb-rotated"><num value="5">5</num></fw><lb n="5v1" break="no"/>na taṁ haraṁ-haraṁ, ḍeṁ kakap·, kaḍivas·, taṅiri, hnus·, huraṁ, biluṁluṁ prakāra, paripūrṇna Ikā kabeḥ, muAṁ <g type="squiggleVertical">.</g>
+<lb n="5v2"/>pāṇa siddhu mastava kiñca kilaṁ tvak· paripūrṇna Ikā kabeḥ, mataṅ yan· tan parāryyan· saṁ manaḍahakən tahapa<lb n="5v3" break="no"/>n·, mata<del>ṁ</del>ṅ yan vijaḥ sira kabeḥ,</p> <p>muAṁ men-men·, si p<subst><del>i</del><add place="overstrike">a</add></subst>tiṅhalan·, mabañol·, si pati bañcil·, muAṁ si bari
+<lb n="5v4"/>pacəḥ, Atapukan·, si giraṁ hyasən·, matəkapakən sira kabeḥ, dinmakan· kupaṁ, <num value="2">2</num>, sovaṁ-sovaṁ,</p> <p part="I">I tlasnira ka<lb n="5v5" break="no"/>beḥ manaḍaḥ, maṅḍiri saṁ makudur vadihati patiḥ pramukha, kapu<supplied reason="subaudible">A</supplied> manəmbaḥ I sārah-araḥ śrī mahārāja, muAṁ ra<g type="squiggleVertical">.</g></p><pb n="6r" break="no"/>
 <gap reason="lost" quantity="5" unit="line"/>
 <pb n="6v"/>
 <gap reason="lost" quantity="5" unit="line"/>
@@ -213,7 +199,7 @@ n="5v5" break="no"/>beḥ manaḍaḥ, maṅḍiri saṁ makudur vadihati pati�
 	<item>Van Naerssen 1941: 104 writes that “<q>De aanvangswoorden van de pericope waarin de lijst der maṅilala dṛvya haji wordt ingeleid, is gelijk aan die der oorkonden uit Wawa’s en Siṇḍok’s tijd (cf. de Inleiding blz. 12).</q>” The reference to p. 12 makes clear that he meant the occurrence of the words <foreign>mīśra para mīśra, vulu-vulu prakāra</foreign> in 3r3–4.
 </item>                   
 	<item>The passage from 5r2 onwards has extensive parallels in several Sindok inscriptions.</item>
-               <item>5v5 <foreign>kapu<supplied reason="omitted">A</supplied> manəmbaḥ I sārah-araḥ, śrī mahārāja</foreign>: these words find parallels only in the inscriptions of Sindok, viz. 
+               <item>5v5 <foreign>kapu<supplied reason="subaudible">A</supplied> manəmbaḥ I sārah-araḥ, śrī mahārāja</foreign>: these words find parallels only in the inscriptions of Sindok, viz. 
 	Sangguran B45 <foreign>manambaḥ humarap· I sārah-araḥniṁ kahanān· śrī mahărāja</foreign>;
 	Alasantan 4.16–17 <foreign>Anambaḥ humarap· I sārah-araḥ śrī mahārāja</foreign>; and
 	Paradah II 95–96 <foreign>kapuA manambaḥ humaR̥p i sārah-araḥniṁ kahanān śrī mahārāja</foreign>

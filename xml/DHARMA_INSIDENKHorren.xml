@@ -68,19 +68,13 @@
                         under the European Union's Horizon 2020 research and innovation programme (grant
                         agreement no 809994).</p>
          </projectDesc>
-         <schemaRef type="guide"
-                    key="EGDv01"
-                    url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+         <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
          <listPrefixDef>
-            <prefixDef ident="bib"
-                       matchPattern="([a-zA-Z0-9\-\_]+)"
-                       replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+            <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
                <p>Public URIs with the prefix bib to point to a Zotero Group Library named
                             ERC-DHARMA whose data are open to the public.</p>
             </prefixDef>
-            <prefixDef ident="part"
-                       matchPattern="([a-z]+)"
-                       replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+            <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
                <p>Internal URIs using the part prefix to point to person elements in the
                             <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
             </prefixDef>
@@ -94,18 +88,10 @@
    <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="kaw-Latn" rendition="class:38769 maturity:83213">
-<p part="F"><lb n="2r1"/>haji, <choice><sic>māṇatha, kuṇḍa</sic><corr>mā <num value="10">10</num>, ku <num value="3">3</num></corr></choice>, pinupu piṁro katiga kasaṅa, padamlaknaṁ saṁ hyaṅ ājñā haji prāśastī,</p> <p part="I">sa§<lb 
-n="2r2" break="no"/>mbandha, Ikaṁ <choice><sic>varaggaji</sic><corr>vargga haji</corr></choice> I horR̥n· manəmbaḥ I Ibu pāduka śrī mahārāja, maṁhyaṁ I knohan ya<lb 
-n="2r3" break="no"/>n· sumĭma thānīnya, Umagəhakna kālīlīranā deniṁ vkā-vetnya, mənne hləm· tka ri dlāhaniṁ§ 
+<p part="F"><lb n="2r1"/>haji, <choice><sic>māṇatha, kuṇḍa</sic><corr>mā <num value="10">10</num>, ku <num value="3">3</num></corr></choice>, pinupu piṁro katiga kasaṅa, padamlaknaṁ saṁ hyaṅ ājñā haji prāśastī,</p> <p part="I">sa§<lb n="2r2" break="no"/>mbandha, Ikaṁ <choice><sic>varaggaji</sic><corr>vargga haji</corr></choice> I horR̥n· manəmbaḥ I Ibu pāduka śrī mahārāja, maṁhyaṁ I knohan ya<lb n="2r3" break="no"/>n· sumĭma thānīnya, Umagəhakna kālīlīranā deniṁ vkā-vetnya, mənne hləm· tka ri dlāhaniṁ§ 
 <lb n="2r4"/>dlāha, ma<surplus>ṅ</surplus>kanamitt<choice><orig>ā</orig><reg>a</reg></choice> maṅkana manastăpanikāṁ <choice><sic>varggaji</sic><corr>vargga haji</corr></choice> I horR̥n·, tan· <choice><sic>kasumbat·</sic><corr>kasambut·</corr></choice> svakarmmanya
 <lb n="2r5"/>ri kahāmbəknya, nyan· deni tan pāntara hakirim· tkani śatru, tātan· hana saṅkani paṁhuniṅā§
-<lb n="2r6"/>riṁ <choice><sic>kaharaḍara</sic><corr>kāyadhara</corr></choice>, ṅuniveh <choice><sic>an ḍadyan·</sic><corr>sădhunyan·</corr></choice> tumaṅga-taṅga ḍataṁnikanaṁ śatru suṇḍa,</p> <p>maṅkana raṣāniṁ panəmbaḥni<pb n="2r2" break="no"/><fw place="left" rend="tb-rotated" n="2v"><num value="2">2</num></fw><lb 
-n="2v1" break="no"/>kanaṁ <choice><sic>varggaji</sic><corr>vargga haji</corr></choice> I horR̥n·, I Ibuni pāduka śrī mahārāja, kunaṁ saṅkā ri mahăbhărani <choice><sic>kahotsă</sic><corr>kāyotsā</corr></choice><lb 
-n="2v2" break="no"/>hanikanaṁ <choice><sic>varggaji</sic><corr>vargga haji</corr></choice> I horR̥n·, makanimittā pinakahujuṁ-karaṁ pamiṅgir·, <choice><sic>catuni</sic><corr>vaṁklaṁni</corr></choice> matīṅkaḥ bāba§<lb 
-n="2v3" break="no"/>han· nitya lot· kahudanan· kapyeyan·, makadadaḥ <choice><sic>śariniṁ</sic><corr>śarintən·</corr></choice> mamrīhakən· Ibuni pāduka śrī mahā<lb 
-n="2v4" break="no"/>rāja, ri samarakăryya sari-sari <choice><sic>tumāmaha</sic><corr>tumūtana</corr></choice> saḍataṁni salmaḥ-vukir·nikanaṁ śatru, Ika ta kottamā<lb 
-n="2v5" break="no"/>ni pamriḥnikanaṁ <choice><sic>varggaji</sic><corr>vargga haji</corr></choice> I horR̥n·, Ika maṅkana ya tikănuvuhakən· <choice><sic>m</sic><corr>p</corr></choice>urbyaR̥ṇāsāma<supplied reason="omitted">-sama</supplied> I śrī ma<lb 
-n="2v6" break="no"/>hārāja, hetuni turuniṁ kāruṇya śrī mahārāja, I maṁhyaṁnikanaṁ varggaji I horR̥n·, maka</p>
+<lb n="2r6"/>riṁ <choice><sic>kaharaḍara</sic><corr>kāyadhara</corr></choice>, ṅuniveh <choice><sic>an ḍadyan·</sic><corr>sădhunyan·</corr></choice> tumaṅga-taṅga ḍataṁnikanaṁ śatru suṇḍa,</p> <p>maṅkana raṣāniṁ panəmbaḥni<pb n="2r2" break="no"/><fw place="left" rend="tb-rotated" n="2v"><num value="2">2</num></fw><lb n="2v1" break="no"/>kanaṁ <choice><sic>varggaji</sic><corr>vargga haji</corr></choice> I horR̥n·, I Ibuni pāduka śrī mahārāja, kunaṁ saṅkā ri mahăbhărani <choice><sic>kahotsă</sic><corr>kāyotsā</corr></choice><lb n="2v2" break="no"/>hanikanaṁ <choice><sic>varggaji</sic><corr>vargga haji</corr></choice> I horR̥n·, makanimittā pinakahujuṁ-karaṁ pamiṅgir·, <choice><sic>catuni</sic><corr>vaṁklaṁni</corr></choice> matīṅkaḥ bāba§<lb n="2v3" break="no"/>han· nitya lot· kahudanan· kapyeyan·, makadadaḥ <choice><sic>śariniṁ</sic><corr>śarintən·</corr></choice> mamrīhakən· Ibuni pāduka śrī mahā<lb n="2v4" break="no"/>rāja, ri samarakăryya sari-sari <choice><sic>tumāmaha</sic><corr>tumūtana</corr></choice> saḍataṁni salmaḥ-vukir·nikanaṁ śatru, Ika ta kottamā<lb n="2v5" break="no"/>ni pamriḥnikanaṁ <choice><sic>varggaji</sic><corr>vargga haji</corr></choice> I horR̥n·, Ika maṅkana ya tikănuvuhakən· <choice><sic>m</sic><corr>p</corr></choice>urbyaR̥ṇāsāma<supplied reason="subaudible">-sama</supplied> I śrī ma<lb n="2v6" break="no"/>hārāja, hetuni turuniṁ kāruṇya śrī mahārāja, I maṁhyaṁnikanaṁ varggaji I horR̥n·, maka</p>
          </div>
          <div type="apparatus">
                <listApp>
@@ -150,7 +136,7 @@ n="2v6" break="no"/>hārāja, hetuni turuniṁ kāruṇya śrī mahārāja, I ma
                <app loc="2r4">
                   <lem>ma<surplus>ṅ</surplus>kanamitt<choice><orig>ā</orig><reg>a</reg></choice></lem>
                   <rdg source="bib:Stutterheim1933_02">maṅkanamittā</rdg>
-                  <rdg source="bib:MachiSuhadi+SukartoAtmodjo1986_01">maṅkana<supplied reason="omitted">ni</supplied>mitta</rdg>
+                  <rdg source="bib:MachiSuhadi+SukartoAtmodjo1986_01">maṅkana<supplied reason="subaudible">ni</supplied>mitta</rdg>
                </app>
                <app loc="2r4">
                   <lem source="bib:Stutterheim1933_02">manastăpanikaṁ</lem>
@@ -233,7 +219,7 @@ n="2v6" break="no"/>hārāja, hetuni turuniṁ kāruṇya śrī mahārāja, I ma
                   <rdg source="bib:Stutterheim1933_02">maṅkāna</rdg>
                </app>
                <app loc="2v5">
-                  <lem><choice><sic>m</sic><corr>p</corr></choice>urbyaR̥ṇāsāma<supplied reason="omitted">-sama</supplied></lem>
+                  <lem><choice><sic>m</sic><corr>p</corr></choice>urbyaR̥ṇāsāma<supplied reason="subaudible">-sama</supplied></lem>
                   <rdg source="bib:Stutterheim1933_02">murbyaR̥ṇasama</rdg>
                   <rdg source="bib:MachiSuhadi+SukartoAtmodjo1986_01">purbyaR̥ṇasama</rdg>
                </app>
@@ -253,7 +239,7 @@ n="2v6" break="no"/>hārāja, hetuni turuniṁ kāruṇya śrī mahārāja, I ma
                </listApp>         
          </div>
          <div type="translation">
-<p n="2r1–2"><gap reason="ellipsis"/>royal revenue,<note>On the lost first plate, the word preceding <foreign>haji</foreign> must have been <foreign>dravya</foreign> or <foreign>drabya</foreign>.</note> <supplied reason="subaudible">amounting to</supplied> <num value="10">10</num> <foreign></foreign>māṣa <supplied reason="subaudible">and</supplied> <num value="3">3</num> <foreign>kupaṅ</foreign>, to be collected twice <supplied reason="subaudible">in</supplied> the third and ninth <supplied reason="subaudible">month</supplied>,<note>I.e., in Asuji and Cetra (<bibl><ptr target="bib:Damais1951_01"/><citedRange unit="page">11</citedRange></bibl>). For the wording, cf. <title>Vratiśāsana</title> 29j§4 <foreign>śavalabrahmacārī ṅa mānak marabi piṅrva piṅtiga, ndatan dadi mapaṅgih-paṅgiha yan kālaniṅ katiga, kasaṅa mvaṅ parvaṇi kunaṅ</foreign>.</note> <supplied reason="subaudible">and</supplied> that a holy royal decree in the form of a royal edict <supplied reason="subaudible"><foreign>haji praśasti</foreign></supplied> be made.</p> 
+<p n="2r1–2"><gap reason="ellipsis"/>royal revenue,<note>On the lost first plate, the word preceding <foreign>haji</foreign> must have been <foreign>dravya</foreign> or <foreign>drabya</foreign>.</note> <supplied reason="subaudible">amounting to</supplied> <num value="10">10</num> <foreign/>māṣa <supplied reason="subaudible">and</supplied> <num value="3">3</num> <foreign>kupaṅ</foreign>, to be collected twice <supplied reason="subaudible">in</supplied> the third and ninth <supplied reason="subaudible">month</supplied>,<note>I.e., in Asuji and Cetra (<bibl><ptr target="bib:Damais1951_01"/><citedRange unit="page">11</citedRange></bibl>). For the wording, cf. <title>Vratiśāsana</title> 29j§4 <foreign>śavalabrahmacārī ṅa mānak marabi piṅrva piṅtiga, ndatan dadi mapaṅgih-paṅgiha yan kālaniṅ katiga, kasaṅa mvaṅ parvaṇi kunaṅ</foreign>.</note> <supplied reason="subaudible">and</supplied> that a holy royal decree in the form of a royal edict <supplied reason="subaudible"><foreign>haji praśasti</foreign></supplied> be made.</p> 
 <p n="2r2–6">The occasion: the king’s group <supplied reason="explanation"><foreign>varga haji</foreign></supplied> in Horren paid respect to His Majesty the Great King, begging that it would be proper to make their village into a <foreign>sīma</foreign>, to make it irrevocable so that it would be obtained as inheritance by their descendants now <supplied reason="subaudible">and</supplied> hereafter up to the future’s future, for reason of the downheartedness of the king’s group in Horren whose services were not carried out as intended, namely the way in which they uninterruptedly sent <supplied reason="explanation"><foreign>? <foreign>hakirim</foreign></foreign></supplied> <supplied reason="subaudible">contingents of their own to protect the king</supplied> against the coming of the enemy, without paying attention to their bodies at all, all the more so, the virtuousness of standing firmly against the coming of the Suṇḍa enemy.</p>
 <p n="2r6–2v2">Such was the substance of the petition of the royal inhabitants in Horren to His Majesty the Great King. Now, because of the great weight of the physical effort of the king’s group in Horren, for reason of being an outpost <supplied reason="explanation"><foreign>hujuṅ karaṅ</foreign></supplied>, a frontier zone <supplied reason="subaudible">and</supplied> a lock for regulating the gate, constant <supplied reason="explanation"><foreign>nitya</foreign></supplied>, steadfast <supplied reason="subaudible">despite being</supplied> exposed to rain and sun, putting their lives at stake in exerting themselves for His Majesty the Great King in the continuous war, following <supplied reason="subaudible">the king</supplied> upon the arrival of all rank and file of the enemy. That was the eminence of the exertion of the king’s group in Horren. This being the case, it caused an incomparable <supplied reason="explanation"><foreign>asama-sama</foreign></supplied> feeling of indebtedness <supplied reason="explanation"><foreign>pūrva-r̥ṇa</foreign></supplied> on the part of His Majesty the Great King. <supplied reason="subaudible">Such was</supplied> the reason that the sympathy of the Great King descended to the request of the royal inhabitants in Horren. Its visible sign <supplied reason="explanation"><foreign>makacihna</foreign></supplied><gap reason="ellipsis"/></p>
          </div>
@@ -261,7 +247,7 @@ n="2v6" break="no"/>hārāja, hetuni turuniṁ kāruṇya śrī mahārāja, I ma
          <p>The reader should consult our notes on <ref target="DHARMA_INSIDENKGaraman.xml">Garaman</ref> for discussion of terms/expressions common to the two charters.</p>
          </div>
         <div type="bibliography">
-	    <p></p>
+	    <p/>
             <listBibl type="primary">
 				<bibl n="S"><ptr target="bib:Stutterheim1933_02"/><citedRange unit="page">104</citedRange></bibl> 
         	    <bibl n="MS&amp;S"><ptr target="bib:MachiSuhadi+SukartoAtmodjo1986_01"/><citedRange unit="page">112–115</citedRange></bibl>

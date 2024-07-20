@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
@@ -70,19 +70,13 @@
                     under the European Union's Horizon 2020 research and innovation programme (grant
                     agreement no 809994).</p>
             </projectDesc>
-            <schemaRef type="guide"
-                key="EGDv01"
-                url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+            <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
             <listPrefixDef>
-                <prefixDef ident="bib"
-                    matchPattern="([a-zA-Z0-9\-\_]+)"
-                    replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
                     <p>Public URIs with the prefix bib to point to a Zotero Group Library named
                         ERC-DHARMA whose data are open to the public.</p>
                 </prefixDef>
-                <prefixDef ident="part"
-                    matchPattern="([a-z]+)"
-                    replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+                <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
                     <p>Internal URIs using the part prefix to point to person elements in the
                         <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
                 </prefixDef>
@@ -96,7 +90,7 @@
         <body>
             <div type="edition" xml:lang="osn-Latn">
             <pb n="1r"/>
-                <p><lb n="1r1"/>Ini pitəkət<unclear>·</unclear> nu <unclear>s</unclear>eba ḍi pajajaran· mi<unclear>t</unclear>ə<unclear>k</unclear>ə<lb n="1r2" break="no"/>tan<unclear>·</unclear> ti kabuyutan· <space type="binding-hole"/> ḍi su<supplied reason="omitted">n</supplied>ḍasəmbava,</p> <p>Aya ma nu ṅaba<lb n="1r3" break="no"/>yuAn· mulaḥ A<unclear>ya</unclear> <space type="binding-hole"/> nu ñəkapan ya, mulaḥ Aya<lb n="1r4"/>nu munaḥ-munaḥ Iña, nu ṅahəryanan·, </p><p>lamun aya nu<pb n="1v"/><lb n="1v1"/>kəḍə pa<supplied reason="omitted">L̥</supplied>baḥna luraḥ su<supplied reason="omitted">n</supplied>ḍasəmbava, ku ṅaIṁ ḍititaḥ ḍipaEḥ<lb n="1v2" break="no"/>han·, kena Eta luraḥ kavikvan·,</p>
+                <p><lb n="1r1"/>Ini pitəkət<unclear>·</unclear> nu <unclear>s</unclear>eba ḍi pajajaran· mi<unclear>t</unclear>ə<unclear>k</unclear>ə<lb n="1r2" break="no"/>tan<unclear>·</unclear> ti kabuyutan· <space type="binding-hole"/> ḍi su<supplied reason="subaudible">n</supplied>ḍasəmbava,</p> <p>Aya ma nu ṅaba<lb n="1r3" break="no"/>yuAn· mulaḥ A<unclear>ya</unclear> <space type="binding-hole"/> nu ñəkapan ya, mulaḥ Aya<lb n="1r4"/>nu munaḥ-munaḥ Iña, nu ṅahəryanan·, </p><p>lamun aya nu<pb n="1v"/><lb n="1v1"/>kəḍə pa<supplied reason="subaudible">L̥</supplied>baḥna luraḥ su<supplied reason="subaudible">n</supplied>ḍasəmbava, ku ṅaIṁ ḍititaḥ ḍipaEḥ<lb n="1v2" break="no"/>han·, kena Eta luraḥ kavikvan·,</p>
             </div>
             
             <div type="apparatus">
@@ -121,10 +115,10 @@
                        <note><ptr target="bib:HasanDjafar1991_01"/> add a note <quote>[baca: ṅahöryanan·]</quote></note>
                    </app>
                    <app loc="1v1">
-                       <lem>pa<supplied reason="omitted">L̥</supplied>baḥna</lem>
-                       <rdg source="bib:Holle1872_01">pa<supplied reason="omitted">m</supplied>bahna</rdg>
+                       <lem>pa<supplied reason="subaudible">L̥</supplied>baḥna</lem>
+                       <rdg source="bib:Holle1872_01">pa<supplied reason="subaudible">m</supplied>bahna</rdg>
                        <rdg source="bib:Pleyte1911_01">paambahna</rdg>
-                       <rdg source="bib:Boechari1985-1986_01 bib:HasanDjafar1991_01">pa<supplied reason="omitted">am</supplied>baḥna</rdg>
+                       <rdg source="bib:Boechari1985-1986_01 bib:HasanDjafar1991_01">pa<supplied reason="subaudible">am</supplied>baḥna</rdg>
                        <note>We prefer to assume that an aksara <foreign>L̥</foreign> has been omitted by the engraver, since the aksaras <foreign>ba</foreign> and <foreign>L̥</foreign> are quite similar in shape, so that we can understand <foreign>paləbahna</foreign> as in MdS <q>place where something is located</q>. Cf. also the functionally equivalent use of <foreign>ḍi</foreign> in <ref target="DHARMA_INSIDENKKebantenan_2.xml">Kebantenan 2</ref> fol.1v4 <foreign>kəḍə ḍi bənaṁṅiṁ ṅagurat</foreign>.</note>
                    </app>
                    <app loc="1v1">

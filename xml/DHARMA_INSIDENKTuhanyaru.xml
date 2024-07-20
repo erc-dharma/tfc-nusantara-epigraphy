@@ -70,19 +70,13 @@
                         under the European Union's Horizon 2020 research and innovation programme (grant
                         agreement no 809994).</p>
          </projectDesc>
-         <schemaRef type="guide"
-                    key="EGDv01"
-                    url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+         <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
          <listPrefixDef>
-            <prefixDef ident="bib"
-                       matchPattern="([a-zA-Z0-9\-\_]+)"
-                       replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+            <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
                <p>Public URIs with the prefix bib to point to a Zotero Group Library named
                             ERC-DHARMA whose data are open to the public.</p>
             </prefixDef>
-            <prefixDef ident="part"
-                       matchPattern="([a-z]+)"
-                       replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+            <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
                <p>Internal URIs using the part prefix to point to person elements in the
                             <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
             </prefixDef>
@@ -105,7 +99,7 @@
                  brahmayoga, vījayamuhūrtta, yamaparvveśa, vavakaraṇa, <choice><orig>mituna</orig><reg>mithuna</reg></choice><lb n="1r3" break="no"/>rāśi,
                </p>
 <p>
-  Irikā divaśanyājñā pāduka śrī mahārāja, rājādhirāja pa<supplied reason="omitted">ra</supplied>meśvara, śrī vīrākaṇḍagopāla, <foreign xml:lang="san-Latn">Abhaṅgarāhuttarāya</foreign>, <foreign xml:lang="san-Latn">parī<g type="filler">§</g>
+  Irikā divaśanyājñā pāduka śrī mahārāja, rājādhirāja pa<supplied reason="subaudible">ra</supplied>meśvara, śrī vīrākaṇḍagopāla, <foreign xml:lang="san-Latn">Abhaṅgarāhuttarāya</foreign>, <foreign xml:lang="san-Latn">parī<g type="filler">§</g>
 <lb n="1r4" break="no"/>natāneka-rājanya-mukuṭa-koṭi-puñja-piñjara-pādāravinda</foreign>, <foreign xml:lang="san-Latn">Aśamitaraṇanipuñarātirāja-śiraś-cheda-bhayānaka</foreign>, <foreign xml:lang="san-Latn">vijitaripu
 <lb n="1r5" break="no"/>kuladayitājalanicayapuramaṇḍalārṇnava</foreign>, <foreign xml:lang="san-Latn">sakalasujananikarahr̥dayakumudavikāśaniśākara</foreign>, <foreign xml:lang="san-Latn">Akilapratipakṣapa<g type="filler">§</g>
 <lb n="1r6" break="no"/>kṣaniśāndhakārakṣayadivākara</foreign>, <foreign xml:lang="san-Latn">viprakṣatrobhayakulaviśuddha</foreign>, śrī sundarapāṇḍyadevādhīśvara nāma
@@ -116,7 +110,7 @@
 <p>tinaḍaḥ de saṁ mantrī katriṇi, rakryan mantrī hino dyaḥ śrī raṅganātha, <foreign xml:lang="san-Latn">Arātibhayaṅkara</foreign>, rakryan mantrī
 <lb n="1v2"/>sirikan·, dyaḥ kāmeśvara, <foreign xml:lang="san-Latn">Aninditalakṣaṇa</foreign>, rakryan mantrī halu, dyaḥ viśvanātha,
     <foreign xml:lang="san-Latn">avaryyanujabhīma</foreign>, makapurassara <g type="filler">§</g>
-<lb n="1v3"/>rake tuhan mapatiḥ riṁ daha, dyaḥ puruṣeśvara, <foreign xml:lang="san-Latn">raṇārikampanākāraṇabhuja<supplied reason="omitted">pa</supplied>rākrama</foreign>, sākṣāt· praṇālāmratisu
+<lb n="1v3"/>rake tuhan mapatiḥ riṁ daha, dyaḥ puruṣeśvara, <foreign xml:lang="san-Latn">raṇārikampanākāraṇabhuja<supplied reason="subaudible">pa</supplied>rākrama</foreign>, sākṣāt· praṇālāmratisu
 <lb n="1v4" break="no"/>baddhakən· sthiratarani paliṅgiḥ śrī mahārāja sinivi riṁ kanakamaṇimayatoraṇakalpavr̥kṣa, sameriṁ mvaṁ rake tu
 <lb n="1v5" break="no"/>han mapatiḥ riṁ majhapahit·, dyaḥ halāyudha, <foreign xml:lang="san-Latn">Agaṇitaguṇāninditalakṣaṇa</foreign>, Umiṅsor i para taṇḍa rakryan riṁ pakirakira
 <lb n="1v6" break="no"/>n makabehan·, rakryan· dmuṁ, pu samaya, <foreign xml:lang="san-Latn">raṇāṅgābhīrāma</foreign>, rakryan kanuruhan·, pv
@@ -130,7 +124,7 @@ Elām·, <foreign xml:lang="san-Latn">nayavinayānindita</foreign>, saṅ āryya
 <lb n="2r6" break="no"/>ta ri karakṣaniṁ sayavadvīpamaṇḍala, tan kavun<unclear>t</unclear>at· saṁ
                  dharmmādhikaraṇa <foreign xml:lang="san-Latn">nyāyānyāyavyavahāravicchedaka</foreign>, saṁ pamgət i tirvan·, ḍa<pb n="2v" break="no"/>
 <fw n="2v" rend="tb-rotated" place="left"><num value="2">2</num></fw><lb n="2v1" break="no"/>ṅ ācāryya rāgavijaya, mapañji sāhasa, <foreign xml:lang="san-Latn">nyāya-vyākaraṇa-parisamāpta</foreign>, saṁ
-pamgət i ka<supplied reason="omitted">ṇḍa</supplied>muhi, ḍaṅ ācāryya viśvanātha, mapa
+pamgət i ka<supplied reason="subaudible">ṇḍa</supplied>muhi, ḍaṅ ācāryya viśvanātha, mapa
 <lb n="2v2" break="no"/>ñji paragata, <foreign xml:lang="san-Latn">săṅkhya-śāstra-parisamāpta</foreign>,
                  saṁ pamgət i maṅhuri, ḍaṅ ācāryya mahānātha, <foreign xml:lang="san-Latn">nyāya-vyākaraṇa-parisamāpta</foreign>, saṁ pa
 <lb n="2v3" break="no"/>mgət i pamvatan·, ḍaṅ ācāryya dharmmarāja, <foreign xml:lang="san-Latn">nyāyaśāstraparisamāpta</foreign>, saṁ pamgət i jāmbi, ḍaṅ ācāryya śivanātha, <foreign xml:lang="san-Latn">nyāyavyākara<g type="filler">§</g>
@@ -171,7 +165,7 @@ sakalajana, dyaḥ makaradhvaja pva yogya turunana va
 <lb n="4v2" break="no"/>rānugraha, mataṅ yan dinadyakən ta saṁ hyaṅ ājñā haji praśāsti tinaṇḍa mīnadvayalăñchana, kmitanan i sama sānak iṁ tu
 <lb n="4v3" break="no"/>hañaru muAṁ kusambyan sinusuk sīmādəg riṅgit· tan kaparābyāpāra kadi tiṅkaḥnya riṁ puhun malama, Aṅhiṁ sama<g type="filler">§</g>
 <lb n="4v4" break="no"/>sānak iṁ tuhañaru muAṁ sama sānak iṁ <add place="below">ku</add>sambyan· Ataḥ pramāṇa ri saL̥bak· vukirnya, tkeṁ gaga R̥ṇəknya, kunəṁ pa
-<lb n="4v5" break="no"/>rimāṇani lmaḥnikaṁ tuhañaru, muAṁ kusambya<supplied reason="omitted">n·</supplied>, riṁ pūrvva, Asīḍaktan· muAṅ ika pamuluṁ, maṅidul məntas iṁ lvaḥ, dudug i
+<lb n="4v5" break="no"/>rimāṇani lmaḥnikaṁ tuhañaru, muAṁ kusambya<supplied reason="subaudible">n·</supplied>, riṁ pūrvva, Asīḍaktan· muAṅ ika pamuluṁ, maṅidul məntas iṁ lvaḥ, dudug i
 <lb n="4v6" break="no"/>ṅ ăgneya, Anuju tugu kulumpaṁ, sapakliran·, muAṁ pamuluṁ, muAṁ kavaL̥dan·,
     muAṅ ikaṁ vadu tṅaḥ, maṅulvan· mluk a<pb n="5r" break="no"/><lb n="5r1" break="no"/>ṅidul
     aṅulvan·, tkeṁ dakṣiṇa, sapakliran· muAṁ <add place="below">va</add>nu tṅaḥ, muvah aṅulvan· mluk
@@ -190,12 +184,12 @@ paṁR̥ṇanikaṁ sama sānak iṁ tuhañaru I
     tiṅkaḥnika kāliḥ, kevala sīma <g type="filler">§</g>
     <lb n="5v6"/>svatantrādəg riṅgit·, tan kolah-ulaha de saṁ prabhu mantry anāgata, tke dlāhaniṁ dlāha, muAṁ tan kaparabyāpāra de<pb n="6r" break="no"/><lb n="6r1" break="no"/>niṁ nāyaka parttaya, tan· kneṁ turu-turun sagəm· sarakut·, bvat hajyan agəṅ
 aḍmit·, lakva-lakvan adoh apaR̥, muAṁ ta
-<lb n="6r2" break="no"/>n katamana deni vinava saṁ mana katriṇi, lvi<supplied reason="omitted">r</supplied>nya, paṅkur·, tirip·, muAṁ piṅhe
+<lb n="6r2" break="no"/>n katamana deni vinava saṁ mana katriṇi, lvi<supplied reason="subaudible">r</supplied>nya, paṅkur·, tirip·, muAṁ piṅhe
 vahuta rāma, lavan· sakveḥniṁ maṅi<g type="filler">§</g>
 <lb n="6r3" break="no"/>lala dr̥vya haji, vulu-vulu para vulv agəṅ aḍmit·, makādiṁ miśra para miśra,
     paṁhuraṁ, kriṁ, paḍəm·, manimpiki, parana
 <lb n="6r4" break="no"/>kan·, limus galuḥ, maṁriñci, maṁhuri, paraṁ, suṅka, dhūra, paṅaruhan·, suṅgiṁ, paṅunəṅan·, taji, vatu tajəm·, suku
-<lb n="6r5" break="no"/>n· luvarak·, rakasaṁ, ramaṇaṁ, piniṅle, kataṅ<supplied reason="omitted">g</supplied>aran·, tapa haji, Air haji, malandaṁ, lca, lablab·, kukap·, paku
+<lb n="6r5" break="no"/>n· luvarak·, rakasaṁ, ramaṇaṁ, piniṅle, kataṅ<supplied reason="subaudible">g</supplied>aran·, tapa haji, Air haji, malandaṁ, lca, lablab·, kukap·, paku
 <lb n="6r6" break="no"/>vaṅi, kutat·, taṅkil·, tr̥pan·, vatu valaṁ, salyut·, maṇiga, pamanikan·,
     sikpan·, rumban·, vilaṁ vanva, vi<g type="filler">§</g><pb n="6v" break="no"/>
 <fw n="6v" rend="tb-rotated" place="left"><num value="6">6</num></fw><lb n="6v1" break="no"/>ji kavaḥ, paṅgare, tiṅkis·, mavi, manambaṅi, taṅhiran·, tuha dagaṁ, tuha nambi,
@@ -204,7 +198,7 @@ tuha juḍi, juru gosali, maṁru
 <lb n="6v3" break="no"/>ṅgaṁ, sr̥pan·, kaR̥R̥ṅan·, puluṁ paḍi, pavlaṁvlaṁ, pakuda, pahaliman·, Urutan·, ḍampulan·, tpuṁ kavuṁ, suṁsuṁ
 <lb n="6v4"/>paṅuraṁ, vli tāmbā, vli hapū, vlī pañjut·, vlī vaduṁ, miśra hino, miśrăṅinaṅin·, pabr̥si, pakatimaṁ, palamak·, si
 <lb n="6v5" break="no"/>nagiha, sahulun haji vatək i jro, Ityevamādi kabeḥ, tan tamātaḥ Irikaṁ sīma I tuhañaru, muAṅ iṁ kusambyan·
-<lb n="6v6"/>maṅkana tekaṁ sukaduḥka, kadyaṅganiṁ mayaṁ tan pavvaḥ, valu rum<supplied reason="omitted">am</supplied>bat iṁ natar·, vipati vaṅke kabunan·, rāḥ kasavur iṁ <g type="filler">§</g><pb n="7r"/><lb n="7r1"/>natar·, vāk<orig>ch</orig>apala, hastacapala, duhilatən·, hidukasirat·, Amijilakən· vuryyan iṁ kikir·, Amuk·,
+<lb n="6v6"/>maṅkana tekaṁ sukaduḥka, kadyaṅganiṁ mayaṁ tan pavvaḥ, valu rum<supplied reason="subaudible">am</supplied>bat iṁ natar·, vipati vaṅke kabunan·, rāḥ kasavur iṁ <g type="filler">§</g><pb n="7r"/><lb n="7r1"/>natar·, vāk<orig>ch</orig>apala, hastacapala, duhilatən·, hidukasirat·, Amijilakən· vuryyan iṁ kikir·, Amuk·,
 <lb n="7r2"/>Amuṁpaṁ, lūdan·, tūtan·, Aṅśa pratyaṅśa, ḍaṇḍa kuḍaṇḍa, maṇḍihalādi, kevala sama sānak ataḥ pramāṇa Ika ka
 <lb n="7r3" break="no"/>beḥ tkeṁ miśrāñəmbul·, Amahaṁ, Aṁlaka, Aṅgumaraṁ, Añarub·, Anulaṁ vuṁkuḍu, Añaṁvriṁ, Aṅubar·, Aṅapus·, A<g type="filler">§</g>
 <lb n="7r4" break="no"/>mdəl·, Aṅgula, Aṁdyun·, Amubut·, Agave suri, Agave kisi, vusu-vusu, payuṁ vlu, mopiḥ, Anipaḥ, ruṅki
@@ -234,15 +228,14 @@ tuha juḍi, juru gosali, maṁru
 <lb n="9r1" break="no"/>sambyan·, pamuṣpa I śrī mahārāja, sayathāśakti, muvaḥ para taṇḍa riṁ pakira-kiran makabehan·, InasəAn· pasək pag<choice><corr>ə</corr><sic>i</sic></choice>
 <lb n="9r2" break="no"/>ḥ yathāsambhava kadiṁ lagi sovaṁ sovaṁ, muvaḥ para sāmya sapinakavadananikaṁ thani sakapaR̥, InasəAn· pasək pagəḥ
 <lb n="9r3"/>saparikrama riṁ lāgi, ri tlasniṅ adum pasək pagəḥ, tiniṅkaḥ ta sajiniṅ avaju, raveḥ, vadihati, Akudur·, saha pirak·
-<lb n="9r4"/>, ma, 1, vḍihan· sahle sovaṁ, maṁḍiri tekaṁ vadihati riṁ sabhāmaddhya, I sorniṁ turumbukan·, tlas· mottarasaṅga, mamukha<lb 
-n="9r5" break="no"/>vandhana, makalambi saṁke haR̥p·, mandəlan pāda, saha vidhividhānaniṅ anusuk sīma riṁ lāgi, hinaR̥pakniṅ anavaju hanak·
+<lb n="9r4"/>, ma, 1, vḍihan· sahle sovaṁ, maṁḍiri tekaṁ vadihati riṁ sabhāmaddhya, I sorniṁ turumbukan·, tlas· mottarasaṅga, mamukha<lb n="9r5" break="no"/>vandhana, makalambi saṁke haR̥p·, mandəlan pāda, saha vidhividhānaniṅ anusuk sīma riṁ lāgi, hinaR̥pakniṅ anavaju hanak·
 <lb n="9r6"/>thani, lumkas tekaṅ akudur manətək guluniṅ ayām·, Amantiṅakən hantiga, humaR̥p iṁ krodhadeśa, mamaṁmaṁ manapathe, sum<unclear>ā</unclear>vakcaṁ<pb n="9v"/>
 <fw n="9v" rend="tb-rotated" place="left"><num value="9">9</num></fw>
 <lb n="9v1"/>minaṁmaṁ riṁ lāgi, liṁnya,</p>
 
 <p>Om̐ Indaḥ ta kita kamu hyaṁ haricandana, Agasti maharṣi, pūrvvadaksiṇapaścimottara Ūrddhvam adhaḥ maddhya,
 <lb n="9v2"/>ravi śaśi pr̥thivy āpas tejo bāyv ākāśa, dharmmăhorātra, sandhyātraya, yakṣa rākṣasa piśāca pretāsura gandharvva
-<lb n="9v3"/>kinnara mahoraga, yama baruṇa kuvera bāsava<supplied reason="omitted">,</supplied> putra devatā, pañchakuśika nandǐśvara mahākāla ṣadvināyaka nā
+<lb n="9v3"/>kinnara mahoraga, yama baruṇa kuvera bāsava<supplied reason="subaudible">,</supplied> putra devatā, pañchakuśika nandǐśvara mahākāla ṣadvināyaka nā
 <lb n="9v4" break="no"/>garăja durggadevī catura<unclear cert="low">śrama</unclear>, Ana<choice><corr>kta</corr><sic>nta</sic></choice> hyaṁ kālamṛtyu, sakveḥ ta bhūtagaṇa, kita prasiddha rumakṣaṁ yavadvīpamaṇḍala,
 <lb n="9v5"/>kita sakala sākṣī tumon adoh apaR̥, riṁ rahineṁ kuləm·, kita Umasuk iṁ sarvvabhūta, dṛṅə tekiṁ sāpatha samaya
 <lb n="9v6"/>pamaṁmaṁ mami ri kita kamu hyaṁ kabeḥ,</p>
@@ -281,7 +274,7 @@ Astu, 3, siddhir astu // 0 //
                        <rdg source="bib:Boechari1985-1986_01">makadiṁ</rdg>
                    </app>
                    <app loc="6r5">
-                      <lem>kataṅ<supplied reason="omitted">g</supplied>aran·</lem>
+                      <lem>kataṅ<supplied reason="subaudible">g</supplied>aran·</lem>
                       <note>This could perhaps also be considered as a substandard spelling, given
                           other instances of omission of akṣara <hi rend="italic">ga</hi> after velar.</note>
                    </app>
