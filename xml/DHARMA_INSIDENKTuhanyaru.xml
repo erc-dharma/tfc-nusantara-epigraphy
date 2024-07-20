@@ -70,19 +70,13 @@
                         under the European Union's Horizon 2020 research and innovation programme (grant
                         agreement no 809994).</p>
          </projectDesc>
-         <schemaRef type="guide"
-                    key="EGDv01"
-                    url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+         <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
          <listPrefixDef>
-            <prefixDef ident="bib"
-                       matchPattern="([a-zA-Z0-9\-\_]+)"
-                       replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+            <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
                <p>Public URIs with the prefix bib to point to a Zotero Group Library named
                             ERC-DHARMA whose data are open to the public.</p>
             </prefixDef>
-            <prefixDef ident="part"
-                       matchPattern="([a-z]+)"
-                       replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+            <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
                <p>Internal URIs using the part prefix to point to person elements in the
                             <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
             </prefixDef>
@@ -234,15 +228,14 @@ tuha juḍi, juru gosali, maṁru
 <lb n="9r1" break="no"/>sambyan·, pamuṣpa I śrī mahārāja, sayathāśakti, muvaḥ para taṇḍa riṁ pakira-kiran makabehan·, InasəAn· pasək pag<choice><corr>ə</corr><sic>i</sic></choice>
 <lb n="9r2" break="no"/>ḥ yathāsambhava kadiṁ lagi sovaṁ sovaṁ, muvaḥ para sāmya sapinakavadananikaṁ thani sakapaR̥, InasəAn· pasək pagəḥ
 <lb n="9r3"/>saparikrama riṁ lāgi, ri tlasniṅ adum pasək pagəḥ, tiniṅkaḥ ta sajiniṅ avaju, raveḥ, vadihati, Akudur·, saha pirak·
-<lb n="9r4"/>, ma, 1, vḍihan· sahle sovaṁ, maṁḍiri tekaṁ vadihati riṁ sabhāmaddhya, I sorniṁ turumbukan·, tlas· mottarasaṅga, mamukha<lb 
-n="9r5" break="no"/>vandhana, makalambi saṁke haR̥p·, mandəlan pāda, saha vidhividhānaniṅ anusuk sīma riṁ lāgi, hinaR̥pakniṅ anavaju hanak·
+<lb n="9r4"/>, ma, 1, vḍihan· sahle sovaṁ, maṁḍiri tekaṁ vadihati riṁ sabhāmaddhya, I sorniṁ turumbukan·, tlas· mottarasaṅga, mamukha<lb n="9r5" break="no"/>vandhana, makalambi saṁke haR̥p·, mandəlan pāda, saha vidhividhānaniṅ anusuk sīma riṁ lāgi, hinaR̥pakniṅ anavaju hanak·
 <lb n="9r6"/>thani, lumkas tekaṅ akudur manətək guluniṅ ayām·, Amantiṅakən hantiga, humaR̥p iṁ krodhadeśa, mamaṁmaṁ manapathe, sum<unclear>ā</unclear>vakcaṁ<pb n="9v"/>
 <fw n="9v" rend="tb-rotated" place="left"><num value="9">9</num></fw>
 <lb n="9v1"/>minaṁmaṁ riṁ lāgi, liṁnya,</p>
 
 <p>Om̐ Indaḥ ta kita kamu hyaṁ haricandana, Agasti maharṣi, pūrvvadaksiṇapaścimottara Ūrddhvam adhaḥ maddhya,
 <lb n="9v2"/>ravi śaśi pr̥thivy āpas tejo bāyv ākāśa, dharmmăhorātra, sandhyātraya, yakṣa rākṣasa piśāca pretāsura gandharvva
-<lb n="9v3"/>kinnara mahoraga, yama baruṇa kuvera bāsava<supplied reason="omitted">,</supplied> putra devatā, pañchakuśika nandǐśvara mahākāla ṣadvināyaka nā
+<lb n="9v3"/>kinnara mahoraga, yama baruṇa kuvera bāsava<supplied reason="subaudible">,</supplied> putra devatā, pañchakuśika nandǐśvara mahākāla ṣadvināyaka nā
 <lb n="9v4" break="no"/>garăja durggadevī catura<unclear cert="low">śrama</unclear>, Ana<choice><corr>kta</corr><sic>nta</sic></choice> hyaṁ kālamṛtyu, sakveḥ ta bhūtagaṇa, kita prasiddha rumakṣaṁ yavadvīpamaṇḍala,
 <lb n="9v5"/>kita sakala sākṣī tumon adoh apaR̥, riṁ rahineṁ kuləm·, kita Umasuk iṁ sarvvabhūta, dṛṅə tekiṁ sāpatha samaya
 <lb n="9v6"/>pamaṁmaṁ mami ri kita kamu hyaṁ kabeḥ,</p>

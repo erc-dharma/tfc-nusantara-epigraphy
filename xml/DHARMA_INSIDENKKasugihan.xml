@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?> <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?> <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml version="1.0" encoding="UTF-8"?> <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?> <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?> <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
    <teiHeader>
       <fileDesc>
@@ -58,18 +58,12 @@
          <projectDesc>
             <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
          </projectDesc>
-         <schemaRef type="guide"
-                    key="EGDv01"
-                    url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+         <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
          <listPrefixDef>
-            <prefixDef ident="bib"
-                       matchPattern="([a-zA-Z0-9\-\_]+)"
-                       replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+            <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
                <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
             </prefixDef>
-            <prefixDef ident="part"
-                       matchPattern="([a-z]+)"
-                       replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
+            <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
                <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_idListMembers_v01.xml</ref> file.</p>
             </prefixDef>
          </listPrefixDef>
@@ -84,18 +78,13 @@
                    <div type="edition" xml:lang="kaw-Latn">
           <p><pb n="1r"/><lb n="1r1"/><g type="ddandaCrossed">.</g> svasti śaka-varṣātīta <num value="829">829</num> mărggaśira-māsa, tithī <choice><sic>j</sic><corr>d</corr></choice>aśamĭ śukla-pakṣa, <abbr>ma</abbr>, <abbr>pa</abbr>, <abbr>bu</abbr>‚ vāra‚ Aśvinī-nakṣatra, varīyān·-yoga, tatkālanikanaṁ vahuta tuṅgu duruṁ makabaihan·, Inanugrahan· Irikanaṁ vanuA<del rend="strikeout">n·</del>
 <lb n="1r2"/>I kasugihan· de rakryan· kalaṁ buṅkal· dyaḥ manukū kavnaṅaknanyan· sabuñcaṁ-haji‚ maṅasəAkan· Ikanaṁ vahuta pasək-pasək· I rakryān· ma<space type="descender"/>vanuA pirak· <abbr>dhā</abbr> <num value="1">1</num>, juru<choice><sic>ṇ</sic><corr>n</corr></choice>iṅ kanayakan· rake hni
-<lb n="1r3"/>Anak vanuA I vatu-vatu vatak· paga<supplied reason="omitted">r</supplied> vsi, maṁraṁkpi saṁ jalu paṅan· Anak vanuA I saninai vatak· <unclear>b</unclear>unut·-bunut·, mataṇḍa saṁ siddhatapa Anak vanuA I poḥ kabiku<supplied reason="omitted">A</supplied>n· I lḍaṁ‚ juruniṁ lampuran· saṁ pa<lb break="no"
-n="1r4"/>ḍali Anak vanuA I valakay· vatak valakas·, parujar· saṁ valiṅi A<choice><sic>ṇ</sic><corr>n</corr></choice>ak vanuA I vurakuṁ vatak· limvayan·, juruniṁ vadva rarai saṁ tamvalaṁ Anak vanuA I taṅgalan· vatak· jalinan· juruniṁ kalula
+<lb n="1r3"/>Anak vanuA I vatu-vatu vatak· paga<supplied reason="omitted">r</supplied> vsi, maṁraṁkpi saṁ jalu paṅan· Anak vanuA I saninai vatak· <unclear>b</unclear>unut·-bunut·, mataṇḍa saṁ siddhatapa Anak vanuA I poḥ kabiku<supplied reason="omitted">A</supplied>n· I lḍaṁ‚ juruniṁ lampuran· saṁ pa<lb break="no" n="1r4"/>ḍali Anak vanuA I valakay· vatak valakas·, parujar· saṁ valiṅi A<choice><sic>ṇ</sic><corr>n</corr></choice>ak vanuA I vurakuṁ vatak· limvayan·, juruniṁ vadva rarai saṁ tamvalaṁ Anak vanuA I taṅgalan· vatak· jalinan· juruniṁ kalula
 <lb n="1r5"/>saṁ ḍaṇu Anak vanuA I sahiḍan· vatak· kilipan·, juruni maṁḍakat· saṁ juna Anak vanuA I kuraṁ pkan· vatak· <choice><orig>ś</orig><reg>s</reg></choice>irikan·, maṁraṁkpi saṁ khadga Anak vanuA I haji huma vatak· patapān·, manuṅgū
-<lb n="1r6"/>saṁ mamiḍaiyi Anak vanuA I karihuAn·, Amasaṅakən· saṁ ra kuvu Anak vanuA I vugaṁ vatak· tilimpik·, citralekha saṁ ra vuṅū Anak vanuA I vuru paṅguṁ vatak· manimpi<lb break="no"
-n="1r7"/>ki, I<add place="below">naṁ</add>səAn· pasək·-pasək· pirak· <abbr>dhā</abbr> 5 kinabaihanira, piṅhay· I kalaṅ buṅkal· Irikanaṁ kāla kikin· si jamana‚ manti hyaṁ si samanta, parujar·nya si galuṁ
-<pb n="1v"/><lb n="1v1"/>miśra si bahu‚ vahuta maṅuvu si landaṁ muAṁ si hari‚ pihujuṁ si gatā‚ si R̥śi‚ si cuAl· si bisar·‚ rāma I duga-duga tumarima Ikanaṁ surat· prasāsti Irika<lb 
-n="1v2" break="no"/>naṁ kāla gusti si <choice><sic>gisuddhi</sic><corr>biśuddhi</corr></choice>, parujar· si suvaṁ, rāma maratā si gijñī, muAṁ si tes·‚ si cala‚ si jaluk·‚ samaṅkana kvai<choice><sic>,</sic><corr>ḥ</corr></choice>nikanaṁ rāma tumarima Ikanaṁ prasāsti
-<lb n="1v3"/>I rakryan· kalaṁ buṅkal·, sākṣī saṁ pamgat· Ayam· təAs· pu ḍapit· Anak vanuA I paṇḍamuAn· vatak· Ayam· təAs· InaṁsəAn· pasak-pasa<lb 
-n="1v4" break="no"/>k· pirak· <abbr>dhā</abbr> <num value="2">2</num> juru mira-miraḥ pu rayuṁ Anak vanuA I mira-miraḥ vatak· Ayam· təAs· maṁraṁkpi saṁ halaran· pu dh<choice><orig>ā</orig><reg>a</reg></choice>nada Anak banuA I paṇḍamuAn· vatak·
+<lb n="1r6"/>saṁ mamiḍaiyi Anak vanuA I karihuAn·, Amasaṅakən· saṁ ra kuvu Anak vanuA I vugaṁ vatak· tilimpik·, citralekha saṁ ra vuṅū Anak vanuA I vuru paṅguṁ vatak· manimpi<lb break="no" n="1r7"/>ki, I<add place="below">naṁ</add>səAn· pasək·-pasək· pirak· <abbr>dhā</abbr> 5 kinabaihanira, piṅhay· I kalaṅ buṅkal· Irikanaṁ kāla kikin· si jamana‚ manti hyaṁ si samanta, parujar·nya si galuṁ
+<pb n="1v"/><lb n="1v1"/>miśra si bahu‚ vahuta maṅuvu si landaṁ muAṁ si hari‚ pihujuṁ si gatā‚ si R̥śi‚ si cuAl· si bisar·‚ rāma I duga-duga tumarima Ikanaṁ surat· prasāsti Irika<lb n="1v2" break="no"/>naṁ kāla gusti si <choice><sic>gisuddhi</sic><corr>biśuddhi</corr></choice>, parujar· si suvaṁ, rāma maratā si gijñī, muAṁ si tes·‚ si cala‚ si jaluk·‚ samaṅkana kvai<choice><sic>,</sic><corr>ḥ</corr></choice>nikanaṁ rāma tumarima Ikanaṁ prasāsti
+<lb n="1v3"/>I rakryan· kalaṁ buṅkal·, sākṣī saṁ pamgat· Ayam· təAs· pu ḍapit· Anak vanuA I paṇḍamuAn· vatak· Ayam· təAs· InaṁsəAn· pasak-pasa<lb n="1v4" break="no"/>k· pirak· <abbr>dhā</abbr> <num value="2">2</num> juru mira-miraḥ pu rayuṁ Anak vanuA I mira-miraḥ vatak· Ayam· təAs· maṁraṁkpi saṁ halaran· pu dh<choice><orig>ā</orig><reg>a</reg></choice>nada Anak banuA I paṇḍamuAn· vatak·
 <lb n="1v5"/>Ayam· təAs· kapuA InaṁsəAn· pasak-pasak· pirak· <abbr>dhā</abbr> <num value="1">1</num> sovaṁ-sovaṁ karamān· saṁ hadyan· vahuta hy<choice><sic>ā</sic><corr>a</corr></choice>ṁ makabaihan· pirak· <abbr>ma</abbr> <num value="8">8</num> kinabaihanira
-<lb n="1v6"/>nāhan· nimittanyan· mapagəḥ Ikanaṁ vanuA I kasugihan· An· sampun· Inanugrahākən· de rakryan· kalaṁ buṅkal· Irikanaṁ vahuta tuṅgu duruṁ, likhitapātra saṁ va<lb 
-n="1v7" break="no"/>paṁguhan· <num value="1">sa</num>ta<space type="descender"/>hil· Avur· <num value="1">sa</num>tahil· sama<supplied reason="omitted">ṁ</supplied>kana <choice><orig>kəm·mitan·</orig><reg>kəmitan·</reg></choice> Ikā rama <choice><sic>Itevam·mādi</sic><corr>Ityevamādi</corr></choice> salvir·niṁ nā<space type="descender"/>yaka tan· hanāṅyan·,
+<lb n="1v6"/>nāhan· nimittanyan· mapagəḥ Ikanaṁ vanuA I kasugihan· An· sampun· Inanugrahākən· de rakryan· kalaṁ buṅkal· Irikanaṁ vahuta tuṅgu duruṁ, likhitapātra saṁ va<lb n="1v7" break="no"/>paṁguhan· <num value="1">sa</num>ta<space type="descender"/>hil· Avur· <num value="1">sa</num>tahil· sama<supplied reason="omitted">ṁ</supplied>kana <choice><orig>kəm·mitan·</orig><reg>kəmitan·</reg></choice> Ikā rama <choice><sic>Itevam·mādi</sic><corr>Ityevamādi</corr></choice> salvir·niṁ nā<space type="descender"/>yaka tan· hanāṅyan·,
 <lb n="1v8"/><add place="above">sava</add> lena sakerikana p<choice><sic>a</sic><corr>i</corr></choice>rak·<abbr>dhā</abbr> <num value="6">6</num></p></div>
                        
                    

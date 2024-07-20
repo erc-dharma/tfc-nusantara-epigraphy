@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
@@ -67,18 +67,12 @@
          <projectDesc>
             <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
          </projectDesc>
-         <schemaRef type="guide"
-                    key="EGDv01"
-                    url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+         <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
          <listPrefixDef>
-            <prefixDef ident="bib"
-                       matchPattern="([a-zA-Z0-9\-\_]+)"
-                       replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+            <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
                <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
             </prefixDef>
-            <prefixDef ident="part"
-                       matchPattern="([a-z]+)"
-                       replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
+            <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
                <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_idListMembers_v01.xml</ref> file.</p>
             </prefixDef>
          </listPrefixDef>
@@ -95,7 +89,7 @@
                              <p xml:lang="san-Latn"><pb n="1r"/><lb n="1r1"/><g type="ddandaHooked">.</g> <g type="circle">.</g> <g type="ddandaHooked">.</g> śrĭr astu jagaddhitāya <g type="ddandaHooked">.</g> <g type="circle">.</g><g type="ddandaHooked">.</g></p>
                              <p>svasti śaka-varṣatĭta, <num value="831">831</num>, Āṣāḍa-māsa
                              <lb n="1r2"/>tithi Aṣṭami śukla-pakṣa, <abbr>ba</abbr>, <abbr>va</abbr>, <abbr>Aṁ</abbr>, vāra mahatal· Uttara-<choice><sic>granārasta</sic><corr>grahacāra-stha</corr></choice>, hasta-nakṣatra, dinā
-                             <lb n="1r3" break="no"/>kṣabdeto śiva-yoga, kuvera-parvveśa, băyabya-maṇḍala, svetā-muhŭ<supplied reason="omitted">r</supplied>tta<supplied reason="omitted">,</supplied> viṣṭi-kara
+                             <lb n="1r3" break="no"/>kṣabdeto śiva-yoga, kuvera-parvveśa, băyabya-maṇḍala, svetā-muhŭ<supplied reason="omitted">r</supplied>tta<supplied reason="subaudible">,</supplied> viṣṭi-kara
                              <lb n="1r4" break="no"/>ṇa, nyaravi, </p><p>tatkālanyānugraha śrī mahārāja rake <choice><sic>vatu kara</sic><corr>vatu kura</corr></choice> dyaḥ balituṁ śrĭ dharmodaya mahāsambhu
                              <lb n="1r5"/>tinaḍaḥ rakryăn· mapatiḥ I hino pu <choice><sic>dakṣantama</sic><corr>dakṣottama</corr></choice> băhubajrapratipakṣākṣaya turun i rakryăn·
                              <lb n="1r6"/>bavaṁ dyaḥ śraḥvaṇa, </p><p part="I">sambandha, Ikanaṁ lmaḥ Iṅ kaladi, I gayam·, mvaṅ iṁ pyapya, vatək·
@@ -683,7 +677,7 @@
                 </app>
                      <app loc="10v3">
                     <lem source="bib:Boechari1985-1986_01">citraleka</lem>
-                    <rdg  source="bib:BarrettJones1984_01">citraloka</rdg>
+                    <rdg source="bib:BarrettJones1984_01">citraloka</rdg>
                 </app>
                     <app loc="10v4">
                     <lem source="bib:Boechari1985-1986_01">prāṣaṣṭi kayatnakna</lem>

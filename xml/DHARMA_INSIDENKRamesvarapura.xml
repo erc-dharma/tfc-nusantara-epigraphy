@@ -60,19 +60,13 @@
                         under the European Union's Horizon 2020 research and innovation programme (grant
                         agreement no 809994).</p>
          </projectDesc>
-         <schemaRef type="guide"
-                    key="EGDv01"
-                    url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+         <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
          <listPrefixDef>
-            <prefixDef ident="bib"
-                       matchPattern="([a-zA-Z0-9\-\_]+)"
-                       replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+            <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
                <p>Public URIs with the prefix bib to point to a Zotero Group Library named
                             ERC-DHARMA whose data are open to the public.</p>
             </prefixDef>
-            <prefixDef ident="part"
-                       matchPattern="([a-z]+)"
-                       replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+            <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
                <p>Internal URIs using the part prefix to point to person elements in the
                             <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
             </prefixDef>
@@ -110,7 +104,7 @@ Apa⌈<lb n="6r4" break="no"/>ṇḍe vsi, jə:<supplied reason="omitted">ṁ</s
 <lb n="6r8"/>lvaḥ Asiḍaktan· lavan kijaṅan·, maṅidul·, ḍpa <num value="96">96</num>, tumurun iṁ juraṁ, Asiḍaktan lavan kijaṅan·, maṅidul aṅulvan· A<pb n="6v" break="no"/><fw n="6" place="left"><num value="6">6</num></fw><lb n="6v1" break="no"/>tūt· <!-- argr has checked up to here -->juraṁ, ḍpa <num value="340">340</num>, Akālihan· lvaḥ lavan kijaṅan·, <choice><orig>mə:nta</orig><reg>mə:ntas</reg></choice> sakeṁ juraṁ, Akāra, ḍpa <num value="5">5</num>, tkeṅ āgneya, kulumpaṁ ri ra<unclear>ṁ</unclear><lb n="6v2" break="no"/>R̥ bañjar·, vetan kijaṅan·, kidul· blut·, maṅulvan sakeṅ āgneya, kiduliṁ juraṁ, ḍpa <num value="5">5</num>, tkeṁ dakṣiṇa, Asi<lb n="6v3" break="no"/>ḍaktan lavan· blut·, maṅulvan· sakeṁ dakṣiṇa, kidulniṁ lvaḥ, ḍpa <num value="5">5</num>, tkeṁ nairiti, Asiḍaktan· lavan· blut·, maṅa<lb n="6v4" break="no"/>lor· sakeṁ nairiti, Amgat· lvaḥ, ḍpa <num value="175">175</num>, Asiḍaktan lavan· blut·, mlut· maṅulvan aṅalor· tkeṁ lvaḥ, ḍpa <num value="16">16
 <lb n="6v5" break="no"/>0</num>, Asiḍaktan lavan· blut·, maṅalor amgat· lvaḥ, ḍpa <num value="340">340</num>, Asiḍaktan lavan· pagə:r·, mlut· maṅetan aṅalor·
 <lb n="6v6"/>, ḍpa <num value="80">80</num>, Asiḍaktan· lavan· soso, maṅalor amnə:r·, tkeṁ paścima, ḍpa <num value="110">110</num>, Asiḍaktan· lavan· so<lb n="6v7" break="no"/>so, Aniku lalavā maṅulvan·, ḍpa <num value="60">60</num>, Asiḍ<orig>p</orig>aktan· lavan· soso, Aniku lalavā maṅalor amnə:r·
-<lb n="6v8"/><supplied reason="omitted">,</supplied> ḍpa <num value="840">840</num>, Asiḍaktan i talaga, Aniku lalavā maṅulvan·, ḍpa <num value="18">18</num>, Asiḍaktan lavan talaga, Aniku lala</p>
+<lb n="6v8"/><supplied reason="subaudible">,</supplied> ḍpa <num value="840">840</num>, Asiḍaktan i talaga, Aniku lalavā maṅulvan·, ḍpa <num value="18">18</num>, Asiḍaktan lavan talaga, Aniku lala</p>
 <p><pb n="9r"/><!--Should we add @part="F" here as well? -->
  <lb n="9r1"/>mambaṁ, huñjə:man·, śenămuka, varahan· muka, paḍahi, kecaka, tarimba<orig>n·</orig>, mabañ<orig>j</orig>val·, mata<lb n="9r2" break="no"/>pukan·, mariṅgit·, salahan·, vargga I daL̥m·, sapinakavargga ya, sadeśa saṅkanya, sapravr̥<lb n="9r3" break="no"/>ttinya, tāvat· ya Umuṅgu ri saṁ hyaṁ dharmma, saṁ hyaṁ dharmma lavan· samasānak· pramāṇerika kabeḥ,
 <lb n="9r4"/>muvah ikaṅ asambyāvahāra dravya <choice><orig>sa</orig><reg>saṁ</reg></choice> hyaṁ dharmma, hiniṅanan· kveḥ kḍiknya, Ann ikaṁ tigaṁ kabayan·,

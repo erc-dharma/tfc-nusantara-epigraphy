@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
@@ -63,19 +63,13 @@
                         under the European Union's Horizon 2020 research and innovation programme (grant
                         agreement no 809994).</p>
          </projectDesc>
-         <schemaRef type="guide"
-                    key="EGDv01"
-                    url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+         <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
          <listPrefixDef>
-            <prefixDef ident="bib"
-                       matchPattern="([a-zA-Z0-9\-\_]+)"
-                       replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+            <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
                <p>Public URIs with the prefix bib to point to a Zotero Group Library named
                             ERC-DHARMA whose data are open to the public.</p>
             </prefixDef>
-            <prefixDef ident="part"
-                       matchPattern="([a-z]+)"
-                       replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+            <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
                <p>Internal URIs using the part prefix to point to person elements in the
                             <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
             </prefixDef>
@@ -93,14 +87,9 @@
 <pb n="1r"/>
 <!--the plate number cannot be 1, maybe around plate 5 as in Manah i Manuk-->
 <p part="F"><lb n="1r1"/>mani Uṅsun·, turuṅ uṅsun· mijilakən ācāra lyan saṅkerika, maṅke ta punikaṁ karāman· ri paruṁ matuṇḍuṅi Uṅsun·
-<lb n="1r2"/>At:hər maṁrampas·,</p> <p>Irika taṁ pakṣa kāliḥ, pinametakən <foreign>śāstradr̥ṣṭa</foreign>, <foreign>deśadr̥ṣṭa</foreign>d, guru kaka, <foreign>Udāharaṇa</foreign>, makataṅgva<lb
-n="1r3" break="no"/>n· ra<unclear reason="eccentric_ductus">sā</unclear>gama ri saṁ hyaṁ kuṭ<choice><orig>a</orig><reg>ā</reg></choice>ramānavādi, maṅanukāra <foreign>pravr̥ttyācāra</foreign> saṁ paṇḍita <foreign>vyavahāravicchedaka</foreign> ri puhun malama, A<lb
-n="1r4" break="no"/>t:hər taṇḍa rakryan· motus irikaṁ karāman· ri paruṁ *masatyakna<!-- maṁsatyakna? or derive from pasatya? --> ri pakṣanya, tumaḍaha satya pāduka bhaṭāra ri paruṁ,
-<pb n="1v"/><lb n="1v1"/>makahetu, ri tan hananiṁ kumavruhi putus i pakṣanikaṁ vyavahāri kāliḥ, Irika yan katon sor i pakṣanikaṁ karāma<lb
-n="1v2" break="no"/>n· ri plaṁ, balavān· pakṣanikaṁ karāman· ri paruṁ, makahetu nirvighnatānya<unclear>,</unclear></p> <p>Ir<unclear>i</unclear>kaṁ kāla tripakṣa, mata<unclear>ṁ</unclear>nyan sinu<lb
-n="1v3" break="no"/>ṅan· kmitana saṁ hyaṅ ājñā haji jaya soṁ, mratisubaddhakna pagəh iṁ paṁrakṣa taṇḍa rakryan· ri pakṣanikaṁ karāman· ri
-<lb n="1v4"/>paruṁ,</p> <p>kunəṁ ri sḍəṁnyan hanaṁruddha muṅki-muṅkil·, muṅvakna mne hləm·, tan varaṁ, ḍaṇḍan·, <abbr>kā</abbr>, <num value="1"><unclear>1</unclear></num><unclear>,</unclear> <abbr><unclear>su</unclear></abbr><unclear>,</unclear> <num value="5"><unclear>5</unclear></num>, saha panṅaḥnya, ri vruha<pb
-n="2r" break="no"/><lb n="2r1" break="no"/>nikaṁ karāman· ri paru<unclear>ṁ</unclear> prayatna rasa saṁ hyaṅ ājñā haji jaya soṁ,</p>
+<lb n="1r2"/>At:hər maṁrampas·,</p> <p>Irika taṁ pakṣa kāliḥ, pinametakən <foreign>śāstradr̥ṣṭa</foreign>, <foreign>deśadr̥ṣṭa</foreign>d, guru kaka, <foreign>Udāharaṇa</foreign>, makataṅgva<lb n="1r3" break="no"/>n· ra<unclear reason="eccentric_ductus">sā</unclear>gama ri saṁ hyaṁ kuṭ<choice><orig>a</orig><reg>ā</reg></choice>ramānavādi, maṅanukāra <foreign>pravr̥ttyācāra</foreign> saṁ paṇḍita <foreign>vyavahāravicchedaka</foreign> ri puhun malama, A<lb n="1r4" break="no"/>t:hər taṇḍa rakryan· motus irikaṁ karāman· ri paruṁ *masatyakna<!-- maṁsatyakna? or derive from pasatya? --> ri pakṣanya, tumaḍaha satya pāduka bhaṭāra ri paruṁ,
+<pb n="1v"/><lb n="1v1"/>makahetu, ri tan hananiṁ kumavruhi putus i pakṣanikaṁ vyavahāri kāliḥ, Irika yan katon sor i pakṣanikaṁ karāma<lb n="1v2" break="no"/>n· ri plaṁ, balavān· pakṣanikaṁ karāman· ri paruṁ, makahetu nirvighnatānya<unclear>,</unclear></p> <p>Ir<unclear>i</unclear>kaṁ kāla tripakṣa, mata<unclear>ṁ</unclear>nyan sinu<lb n="1v3" break="no"/>ṅan· kmitana saṁ hyaṅ ājñā haji jaya soṁ, mratisubaddhakna pagəh iṁ paṁrakṣa taṇḍa rakryan· ri pakṣanikaṁ karāman· ri
+<lb n="1v4"/>paruṁ,</p> <p>kunəṁ ri sḍəṁnyan hanaṁruddha muṅki-muṅkil·, muṅvakna mne hləm·, tan varaṁ, ḍaṇḍan·, <abbr>kā</abbr>, <num value="1"><unclear>1</unclear></num><unclear>,</unclear> <abbr><unclear>su</unclear></abbr><unclear>,</unclear> <num value="5"><unclear>5</unclear></num>, saha panṅaḥnya, ri vruha<pb n="2r" break="no"/><lb n="2r1" break="no"/>nikaṁ karāman· ri paru<unclear>ṁ</unclear> prayatna rasa saṁ hyaṅ ājñā haji jaya soṁ,</p>
          </div>
          <div type="apparatus">
                 <listApp>
