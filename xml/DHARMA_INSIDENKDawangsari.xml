@@ -161,18 +161,20 @@
                      <lem>hayvāgyā</lem>
                      <rdg source="bib:RitaMargarethaSetianingsih1989_01">havyā gya</rdg>
                   </app>
+                  <app loc="5">
+                     <lem>buddhiniṁ satva</lem>
+                     <rdg source="bib:RitaMargarethaSetianingsih1989_01">buddhini satva</rdg>
+                     <note>Unmetrical.</note>
+                  </app>
                   <!-- stanza II
-a. ṅuaṁ len·: read umudiṅ vaṁ len· (m.c.).
 b. chalān: note shape of lā significantly different from that in Ratu Baka C.
-c. niṁ satva: ni satva RMS (unmetr.).
-d. vistīrṇa: the is possibly a vague trace below the akṣara rṇa, which would make it rṇna, but this cannot be confirmed.
                   -->
                </listApp>
          </div>
          <div type="translation" resp="part:argr">
  	<!--translation encoded as per EGD §9.2 -->
-   <p rend="stanza" n="1">It is with your glance, you the Holy one (i.e., Vināyaka), that you observe both virtues and faults.
-      The glance at the mind is not in vain, when one who is about to begin an action is being observed.</p>
+   <p rend="stanza" n="1">It is with your glance, you the Holy one (i.e., Vināyaka), that you observe both virtues and faults. The glance at the mind is not in vain, when one who is about to begin an action is being observed.</p>
+   <p rend="stanza" n="2">Do not be impatient to inspect the other man, let alone when you are blaming them for <supplied reason="explanation"><foreign>an</foreign></supplied> prudence <supplied reason="explanation"><foreign>naya</foreign></supplied>. The mind of the living being is unfathomable, spread out like the sky.</p>
          </div>
          <div type="commentary">
             <p>The entire text is composed in regular <foreign>anuṣṭubh</foreign> stanzas, with one <foreign>vipulā</foreign> (<foreign>na</foreign>) occurring in stanza III. The three occurrences of <foreign>uAṁ</foreign> all need to be read <foreign>vvaṁ</foreign> to satisfy the constraints of the meter.</p>
