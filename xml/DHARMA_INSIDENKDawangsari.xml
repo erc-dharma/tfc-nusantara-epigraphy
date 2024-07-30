@@ -145,25 +145,27 @@
                <listApp><!-- one <app> for each apparatus entry -->
                   <app loc="1">
                      <lem>kitaṁ sādhut</lem>
-                     <rdg source="bib:RMS">kita sādhu t</rdg>
-                     <note>Unmetrical.</note>
-                  </app>
-                  <app loc="1">
-                     <lem>kitaṁ sādhut</lem>
-                     <rdg source="bib:RMS">kita sādhu t</rdg>
+                     <rdg source="bib:RitaMargarethaSetianingsih1989_01">kita sādhu t</rdg>
                      <note>Unmetrical.</note>
                   </app>
                   <app loc="2">
                      <lem>iṁ citta</lem>
-                     <rdg source="bib:RMS">i citta</rdg>
+                     <rdg source="bib:RitaMargarethaSetianingsih1989_01">i citta</rdg>
                   </app>
                   <app loc="3">
                      <lem>saṁ<unclear reason="eccentric_ductus">ṅ</unclear> ādikarmmika</lem>
-                     <rdg source="bib:RMS">saṅ ādikarnnika</rdg>
-                     <note>In her note 3, RMS states: <q>“Oleh Bapak Boechari dibaca <foreign>saṅ-ādikarmika</foreign>, sedangkan <supplied reason="subaudible">saya</supplied> membaca <foreign>saṅ ādikarnnika</foreign></q> The reading double <foreign>mm</foreign> is absolutely clear on the stone. By contrast, the shape of <foreign>ṅā</foreign> is eccentric, and resembles rather <foreign>jā</foreign>, with the special <foreign>ā</foreign> marker bending back counterclockwise to the left of the <foreign>akṣara</foreign>.</note>
+                     <rdg source="bib:RitaMargarethaSetianingsih1989_01">saṅ ādikarnnika</rdg>
+                     <note>In her note 3, RMS states: <q>Oleh Bapak Boechari dibaca <foreign>saṅ-ādikarmika</foreign>, sedangkan <supplied reason="subaudible">saya</supplied> membaca <foreign>saṅ ādikarnnika</foreign>.</q> The reading double <foreign>mm</foreign> is absolutely clear on the stone. By contrast, the shape of <foreign>ṅā</foreign> is eccentric, and rather resembles <foreign>jā</foreign>, with the special <foreign>ā</foreign> marker bending back counterclockwise to the left of the <foreign>akṣara</foreign>.</note>
+                  </app>
+                  <app loc="3">
+                     <lem>hayvāgyā</lem>
+                     <rdg source="bib:RitaMargarethaSetianingsih1989_01">havyā gya</rdg>
                   </app>
                   <!-- stanza II
-
+a. ṅuaṁ len·: read umudiṅ vaṁ len· (m.c.).
+b. chalān: note shape of lā significantly different from that in Ratu Baka C.
+c. niṁ satva: ni satva RMS (unmetr.).
+d. vistīrṇa: the is possibly a vague trace below the akṣara rṇa, which would make it rṇna, but this cannot be confirmed.
                   -->
                </listApp>
          </div>
@@ -173,12 +175,12 @@
       The glance at the mind is not in vain, when one who is about to begin an action is being observed.</p>
          </div>
          <div type="commentary">
-            <p>The entire text is composed in regular <foreign>anuṣṭubh</foreign> stanzas, with one <foreign>vipulā</foreign> (<foreign>na</foreign>) occurring in stanza III. The main default of the  published editions is that they ignore the rules of meter and thus fail to note several <foreign>cecak</foreign> marks.</p>
+            <p>The entire text is composed in regular <foreign>anuṣṭubh</foreign> stanzas, with one <foreign>vipulā</foreign> (<foreign>na</foreign>) occurring in stanza III. The three occurrences of <foreign>uAṁ</foreign> all need to be read <foreign>vvaṁ</foreign> to satisfy the constraints of the meter.</p>
          </div>
         <div type="bibliography">
-           <p>First published in <bibl><ptr target="bib:RitaMargarethaSetianingsih1989_01"/></bibl>. The fairly accurate reading given in this publication was probably based entirely on a transcription provided by Boechari (<bibl rend="omitname"><ptr target="bib:Boechari2012_01"/><citedRange unit="page">XXVII-XXVIII</citedRange><citedRange unit="item">8</citedRange></bibl>). This reading was subsequently republished with numerous involuntay errors in the volume <title>Pusaka Aksara Yogyakarta</title> (2007, 2015) which is further left out of consideration here. These publications contain the same <foreign>terjemahan</foreign>, which is quite unreliable. The edition presented here has been established based on direct inspection of the stone, as well as on EFEO estampage n./ 2061 and a photogrammetry by Adeline Levivier.</p>
+           <p>First published in <bibl><ptr target="bib:RitaMargarethaSetianingsih1989_01"/></bibl>. The fairly accurate reading given in this publication was probably based entirely on a transcription provided by Boechari (<bibl rend="omitname"><ptr target="bib:Boechari2012_01"/><citedRange unit="page">XXVII-XXVIII</citedRange><citedRange unit="item">8</citedRange></bibl>). This reading was subsequently republished with numerous involuntay errors in the volume <title>Pusaka Aksara Yogyakarta</title> (2007, 2015) which is further left out of consideration here. These publications contain the same <foreign>terjemahan</foreign>, which is quite unreliable. The main default of the  published editions is that they ignore the rules of meter and thus fail to note several <foreign>cecak</foreign> marks. The edition presented here has been established based on direct inspection of the stone, as well as on EFEO estampage n./ 2061 and a photogrammetry by Adeline Levivier.</p>
         	<listBibl type="primary">
-				<bibl n="R"><ptr target="bib:RitaMargarethaSetianingsih1989_01"/></bibl>
+				<bibl n="RMS"><ptr target="bib:RitaMargarethaSetianingsih1989_01"/></bibl>
 			</listBibl>
            <listBibl type="secondary">
             <bibl><ptr target="bib:HerniPramastuti+al2007_01"/><citedRange unit="page">52-55</citedRange></bibl>
