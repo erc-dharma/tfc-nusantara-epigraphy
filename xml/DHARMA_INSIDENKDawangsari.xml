@@ -90,7 +90,7 @@
    <l n="a"><lb n="1"/><g type="ddanda"/> I vulatta kitaṁ sādhut</l>
    <l n="b">tiṅhali <lb n="2"/>guṇadoṣa vaiḥ</l> 
    <l n="c">vulat iṁ citta tan· <lb n="3"/>vyartha</l>
-   <l n="d">tinon saṅ ādikarmmika</l>
+   <l n="d">tinon saṁ<unclear reason="eccentric_ductus">ṅ</unclear> ādikarmmika</l>
 </lg>
 <lg met="anuṣṭubh" n="2">
    <l n="a"><g type="ddanda"/> hayvā<lb n="4" break="no"/>gyā Umudiṅ uAṁ len·</l> 
@@ -143,14 +143,34 @@
          </div>
         <div type="apparatus">
                <listApp><!-- one <app> for each apparatus entry -->
-                  <app loc="line">
-                     <lem></lem>
-                     <rdg source="bib:AuthorYear_01"><!-- update the @source value, fill in variant reading here --></rdg>
+                  <app loc="1">
+                     <lem>kitaṁ sādhut</lem>
+                     <rdg source="bib:RMS">kita sādhu t</rdg>
+                     <note>Unmetrical.</note>
                   </app>
+                  <app loc="1">
+                     <lem>kitaṁ sādhut</lem>
+                     <rdg source="bib:RMS">kita sādhu t</rdg>
+                     <note>Unmetrical.</note>
+                  </app>
+                  <app loc="2">
+                     <lem>iṁ citta</lem>
+                     <rdg source="bib:RMS">i citta</rdg>
+                  </app>
+                  <app loc="3">
+                     <lem>saṁ<unclear reason="eccentric_ductus">ṅ</unclear> ādikarmmika</lem>
+                     <rdg source="bib:RMS">saṅ ādikarnnika</rdg>
+                     <note>In her note 3, RMS states: <q>“Oleh Bapak Boechari dibaca <foreign>saṅ-ādikarmika</foreign>, sedangkan <supplied reason="subaudible">saya</supplied> membaca <foreign>saṅ ādikarnnika</foreign></q> The reading double <foreign>mm</foreign> is absolutely clear on the stone. By contrast, the shape of <foreign>ṅā</foreign> is eccentric, and resembles rather <foreign>jā</foreign>, with the special <foreign>ā</foreign> marker bending back counterclockwise to the left of the <foreign>akṣara</foreign>.</note>
+                  </app>
+                  <!-- stanza II
+
+                  -->
                </listApp>
          </div>
          <div type="translation" resp="part:argr">
  	<!--translation encoded as per EGD §9.2 -->
+   <p rend="stanza" n="1">It is with your glance, you the Holy one (i.e., Vināyaka), that you observe both virtues and faults.
+      The glance at the mind is not in vain, when one who is about to begin an action is being observed.</p>
          </div>
          <div type="commentary">
             <p>The entire text is composed in regular <foreign>anuṣṭubh</foreign> stanzas, with one <foreign>vipulā</foreign> (<foreign>na</foreign>) occurring in stanza III. The main default of the  published editions is that they ignore the rules of meter and thus fail to note several <foreign>cecak</foreign> marks.</p>
