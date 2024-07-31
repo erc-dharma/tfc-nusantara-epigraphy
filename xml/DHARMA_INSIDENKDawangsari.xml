@@ -96,7 +96,7 @@
    <l n="a"><g type="ddanda"/> hayvā<lb n="4" break="no"/>gyā Umudiṅ uAṁ len·</l> 
    <l n="b">ṅuniveḥ yat· <lb n="5"/>chalān naya</l> 
    <l n="c">Acintya buddhiniṁ satva</l> 
-   <l n="d">vistī<lb n="6"/>rṇa gaganopama</l>
+   <l n="d">vistī<lb n="6" break="no"/>rṇa gaganopama</l>
 </lg>
 <lg met="anuṣṭubh" n="3">
    <l n="a" met="na-vipulā" real="-+-+---+"><g type="ddanda"/> nahan tinonta <lb n="7"/>malavas·</l><!-- or read ṣalavas· ?-->
@@ -106,7 +106,7 @@
 </lg>
 <lg met="anuṣṭubh" n="4">
    <l n="a"><lb n="9"/><g type="ddanda"/> nihan· saphala rūpanyan</l> 
-   <l n="b">katon· pra<lb n="10" break="no"/>tyakṣa<unclear>d</unclear>evatā</l>
+   <l n="b">katon· pra<lb n="10" break="no"/>tyakṣa <unclear>d</unclear>evatā</l>
    <l n="c">vismayaṅ uAṁ manon· <lb n="11"/>sākṣāt·</l> 
    <l n="d">vināyaka di parvata</l> 
 </lg>
@@ -120,25 +120,25 @@
    <l n="a"><lb n="14"/><g type="ddanda"/> mataṅya rasike līṁku</l> 
    <l n="b">sira sarvajña riṁ ja<lb n="15" break="no"/>gat·</l>
    <l n="c">maveḥ bara ri saṁ sādhu</l> 
-   <l n="d">mr̥tyutulya<lb n="16" break="no"/>nireṁ khala</l>   
+   <l n="d">mr̥tyu tulya<lb n="16" break="no"/>nireṁ khala</l>   
 </lg>
 <lg met="anuṣṭubh" n="7">
    <l n="a"><g type="ddanda"/> Anuṁ nāstika buddhinya</l> 
    <l n="b">darpa <lb n="17"/>haṁkāra kevala</l> 
-   <l n="c">manon devatasāniddhya</l> 
+   <l n="c">manon devatasāniddhya</l>
    <l n="d"><lb n="18"/> hilaṁ darpanya tan hana</l>
 </lg>
 <lg met="anuṣṭubh" n="8">
-   <l><g type="ddanda"/> Apa tan kavnaṁ <lb n="19"/>nīca</l> 
-   <l>deniṁ vākya subhāṣita</l>
-   <l>krodhadaṇḍa <lb n="20"/>makolih ya</l> 
-   <l>bheda <seg rend="check">sikṣān·</seg>nike<unclear>ṁ</unclear> khala</l><!-- sikpān·?--> 
+   <l n="a"><g type="ddanda"/> Apa tan kavnaṁ <lb n="19"/>nīca</l> 
+   <l n="b">deniṁ vākya subhāṣita</l>
+   <l n="c">krodhadaṇḍa <lb n="20"/>makolih ya</l> 
+   <l n="d">bheda <choice><orig>s</orig><reg>ś</reg></choice>ikṣān·nike<unclear>ṁ</unclear> khala</l>
 </lg>
 <lg met="anuṣṭubh" n="9">
-   <l><lb n="21"/> <g type="ddanda"/> meṅat· ri doṣaniṅ uAṁ len·</l> 
-   <l>Upahā<lb n="22" break="no"/>sya manon· guṇa</l> 
-   <l>ciṣāsaḥ<!-- viṣāsaḥ? --> Adha tan· <lb n="23"/>tonan·</l> 
-   <l>ya tekātyantadurjana <g type="ddanda"/></l>   
+   <l n="a"><lb n="21"/> <g type="ddanda"/> meṅat· ri doṣaniṅ uAṁ len·</l> 
+   <l n="b">Upahā<lb n="22" break="no"/>sya manon· guṇa</l> 
+   <l n="c">ciṣāsaḥ<!-- viṣāsaḥ? --> Adha tan· <lb n="23"/>tonan·</l> 
+   <l n="d">ya tekātyantadurjana <g type="ddanda"/></l>   
 </lg>
          </div>
         <div type="apparatus">
@@ -155,10 +155,10 @@
                   <app loc="3">
                      <lem>saṁ<unclear reason="eccentric_ductus">ṅ</unclear> ādikarmmika</lem>
                      <rdg source="bib:RitaMargarethaSetianingsih1989_01">saṅ ādikarnnika</rdg>
-                     <note>In her note 3, RMS states: <q>Oleh Bapak Boechari dibaca <foreign>saṅ-ādikarmika</foreign>, sedangkan <supplied reason="subaudible">saya</supplied> membaca <foreign>saṅ ādikarnnika</foreign>.</q> The reading double <foreign>mm</foreign> is absolutely clear on the stone. By contrast, the shape of <foreign>ṅā</foreign> is eccentric, and rather resembles <foreign>jā</foreign>, with the special <foreign>ā</foreign> marker bending back counterclockwise to the left of the <foreign>akṣara</foreign>.</note>
+                     <note>In her note 3, RMS states: <q>Oleh Bapak Boechari dibaca <foreign>saṅ-ādikarmika</foreign>, sedangkan <supplied reason="subaudible">saya</supplied> membaca <foreign>saṅ ādikarnnika</foreign>.</q> The reading with <foreign>mm</foreign> is absolutely clear on the stone. By contrast, the shape of <foreign>ṅā</foreign> is eccentric and rather resembles <foreign>jā</foreign>, with the special <foreign>ā</foreign> marker bending back counterclockwise to the left of the <foreign>akṣara</foreign>.</note>
                   </app>
                   <app loc="3">
-                     <lem>hayvāgyā</lem>
+                     <lem>hayvā<lb n="4" break="no"/>gyā</lem>
                      <rdg source="bib:RitaMargarethaSetianingsih1989_01">havyā gya</rdg>
                   </app>
                   <app loc="5">
@@ -169,18 +169,82 @@
                   <!-- stanza II
 b. chalān: note shape of lā significantly different from that in Ratu Baka C.
                   -->
+                  <app loc="7">
+                     <lem>malavas·</lem>
+                     <rdg source="bib:RitaMargarethaSetianingsih1989_01">salavas·</rdg>
+                     <note>It is impssoble to read <foreign>sa</foreign>. Though <foreign>ṣa</foreign> is imaginable, its shape would be rather different from the one in <foreign>tuṣṭa</foreign> (l. 12). <!-- Reading ṣaṁ might be possible, but this would yield an impermissible rhythm. --> If we had <foreign>ṣa-</foreign> in the meaning of prefix <foreign>sa-</foreign>, the spelling with retrolex sibilant would be unusual. It seems better to accept that we have here a relatively small <foreign>ma-</foreign>.</note>
+                  </app>
+                  <app loc="7">
+                     <lem>Ā<lb n="8" break="no"/>sā Ikaṁ</lem>
+                     <rdg source="bib:RitaMargarethaSetianingsih1989_01">Āsaikaṁ</rdg>
+                  </app>
+                  <app loc="8">
+                     <lem>malakuṁ hurip·</lem>
+                     <rdg source="bib:RitaMargarethaSetianingsih1989_01">malaku hurip·</rdg>
+                     <note>Unmetrical.</note>
+                  </app>
+                  <app loc="11">
+                     <lem>sākṣāt·</lem>
+                     <note>The shape of the second <foreign>akṣara</foreign> is markedly different from that of the <foreign>kṣa</foreign> in <foreign>pratyakṣa</foreign> in the preceding line. But cf. <foreign>sikṣān</foreign> in line 20. Should we read <foreign>ks</foreign> in both cases?</note>
+                  </app>
+                  <app loc="12">
+                     <lem>deniṁ</lem>
+                     <rdg source="bib:RitaMargarethaSetianingsih1989_01">deni</rdg>
+                  </app>
+                  <app loc="13">
+                     <lem>haṁkāraniṁ</lem>
+                     <rdg source="bib:RitaMargarethaSetianingsih1989_01">haṁkārani</rdg>
+                     <note>Unmetrical.</note>
+                  </app>
+                  <app loc="13">
+                     <lem>manonn atyanta-</lem>
+                     <rdg source="bib:RitaMargarethaSetianingsih1989_01">manon-atyanta-</rdg>
+                  </app>
+                  <app loc="14">
+                     <lem>riṁ</lem>
+                     <rdg source="bib:RitaMargarethaSetianingsih1989_01">ri</rdg>
+                     <note>Unmetrical.</note>
+                  </app>
+                  <app loc="17">
+                     <lem>devatasāniddhya</lem>
+                     <rdg source="bib:RitaMargarethaSetianingsih1989_01">devatasānindhya</rdg>
+                  </app>
+                  <app loc="17">
+                     <lem>vākya</lem>
+                     <rdg source="bib:RitaMargarethaSetianingsih1989_01">vakya</rdg>
+                  </app>
+                  <app loc="20">
+                     <lem><choice><orig>s</orig><reg>ś</reg></choice>ikṣān·nike<unclear>ṁ</unclear></lem>
+                     <note>See the apparatus entry for line 11.</note>
+                  </app>
+                  <app loc="21">
+                     <lem>meṅat· ri</lem>
+                     <rdg source="bib:RitaMargarethaSetianingsih1989_01">meṅatri</rdg>
+                  </app>
+                  <app loc="22">
+                     <lem>ciṣāsaḥ<!-- viṣāsaḥ? viśeṣaḥ? --> Adha tan·</lem>
+                     <rdg source="bib:RitaMargarethaSetianingsih1989_01">viṣāyaḥ Artha tan·</rdg>
+                     <note>The <foreign>akṣara</foreign> that I read read as <foreign>dha</foreign> has no significant similarity to the <foreign>tha</foreign> in <foreign>vyartha</foreign> (line 3).</note>
+                  </app>
                </listApp>
          </div>
          <div type="translation" resp="part:argr">
  	<!--translation encoded as per EGD §9.2 -->
-   <p rend="stanza" n="1">It is with your glance, you the Holy one (i.e., Vināyaka), that you observe both virtues and faults. The glance at the mind is not in vain, when one who is about to begin an action is being observed.</p>
-   <p rend="stanza" n="2">Do not be impatient to inspect the other man, let alone when you are blaming them for <supplied reason="explanation"><foreign>an</foreign></supplied> prudence <supplied reason="explanation"><foreign>naya</foreign></supplied>. The mind of the living being is unfathomable, spread out like the sky.</p>
+   <p rend="stanza" n="1">It is with your glance, you the Holy one (i.e., Vināyaka), that you observe both virtues and faults. The glance at the mind is not in vain, when one who is about to begin an action <supplied reason="explanation"><foreign>ādikarmika</foreign></supplied> is being observed.<note>The word <foreign>ādikarmika</foreign>, borrowed from Sanskrit, occurs exclusivelt in Buddhist contexts in Sanskrit literature. As regards Old Javanese literature, it is cited in <bibl><ptr target="bib:Zoetmulder1982_01"/></bibl> with reference only to two occurrences in the Buddhist scripture <title>Advayasādhana</title> (<bibl><ptr target="bib:Kats1910_01"/><citedRange unit="mixed">31.3 and 42.12</citedRange></bibl>). It is therefore hard to escape the impression that our author is alluding to Buddhists here.</note></p>
+   <p rend="stanza" n="2">Do not be impatient to inspect the other man, let alone when you are blaming them for <supplied reason="explanation"><foreign>an</foreign></supplied> prudence <supplied reason="explanation"><foreign>naya</foreign></supplied>.<note>Could the author here be alluding to the technical meaning of naya <q>school, doctrine</q> as in <foreign>mantranaya</foreign> as synonym for the Buddhist <foreign>mantrayāna</foreign>, i.e., <foreign>vajrayāna</foreign>?</note> The mind of the living being is unfathomable, spread out like the sky.</p>
+   <p rend="stanza" n="3">In that way for a long time that lone boulder is observed by you. Although the living being is dejected, it is destined to walk its life.</p>
+   <p rend="stanza" n="4">In this way, its <supplied reason="explanation">the boulder's</supplied> form gives fruit, namely that the god becomes visibly incarnate. The man is amazed when, with his own eyes, he sees Vināyaka on <supplied reason="explanation"><foreign>di</foreign></supplied> the mountain.<note>The use of the Malay preposition <foreign>di</foreign> instead of expected Javanese <foreign>ri</foreign> is remarkable.</note></p>
+   <p rend="stanza" n="5">The mind of the Holy one becomes prosperous and is satisfied by the good works <supplied reason="subaudible">of living beings</supplied>. The egotism of the mean one vanishes, when he sees the Extremely Frightful one.</p>
+   <p rend="stanza" n="6">That is the reason why I say <supplied reason="subaudible">that</supplied> He is the one who is omniscient in the world. He gives boons to the virtuous. He is like Death unto the wicked.</p>
+   <p rend="stanza" n="7">Whoever has a nihilistic mind is merely arrogant and egotistic. When he sees the presence of the God, his arrogance vanishes, <supplied reason="subaudible">and</supplied> is no more.</p>
+   <p rend="stanza" n="8">How could the wicked not be defeated by <supplied reason="subaudible">this</supplied> poetic speech? The staff of wrath catches him, and also <supplied reason="explanation"><foreign>bheda</foreign></supplied> the wicked will be punished by it.</p>
+   <p rend="stanza" n="9">He who is attentive <supplied reason="subaudible">only</supplied> to another man’s faults, <supplied reason="subaudible">and</supplied> laughs <supplied reason="explanation">? <foreign>upahāsya</foreign></supplied> when he sees <supplied reason="subaudible">his</supplied> virtues. <gap reason="ellipsis"/> not on his guard. That is an extremely evil man.<note>Cf. <title>Bhuvanakośa</title> 37 <foreign>ikaṅ vvaṅ upahāsya ri sira, tәhәr gurunindā ya</foreign> <q>The man who mocks him, and who is also critical toward the teacher</q>. I am unable to make sense of <foreign>pāda</foreign> c.</note></p>
          </div>
          <div type="commentary">
-            <p>The entire text is composed in regular <foreign>anuṣṭubh</foreign> stanzas, with one <foreign>vipulā</foreign> (<foreign>na</foreign>) occurring in stanza III. The three occurrences of <foreign>uAṁ</foreign> (in stanzas II, IV and IX) all need to be scanned <foreign>vvaṁ</foreign> to satisfy the constraints of the meter.</p>
+            <p>The entire text is composed in regular <foreign>anuṣṭubh</foreign> stanzas, with one <foreign>vipulā</foreign> (<foreign>na</foreign>) occurring in stanza III. The three occurrences of <foreign>uAṁ</foreign> (in stanzas II, IV and IX) all need to be scanned <foreign>vvaṁ</foreign> to satisfy the constraints of the meter. The word kavnaṁ (stanza VIII) needs to be scanned <foreign>kavənaṁ</foreign>.</p>
          </div>
         <div type="bibliography">
-           <p>First published in <bibl><ptr target="bib:RitaMargarethaSetianingsih1989_01"/></bibl>. The fairly accurate reading given in this publication was probably based entirely on a transcription provided by Boechari (<bibl rend="omitname"><ptr target="bib:Boechari2012_01"/><citedRange unit="page">XXVII-XXVIII</citedRange><citedRange unit="item">8</citedRange></bibl>). This reading was subsequently republished with numerous involuntay errors in the volume <title>Pusaka Aksara Yogyakarta</title> (2007, 2015) which is further left out of consideration here. These publications contain the same <foreign>terjemahan</foreign>, which is quite unreliable. The main default of the  published editions is that they ignore the rules of meter and thus fail to note several <foreign>cecak</foreign> marks. The edition presented here has been established based on direct inspection of the stone, as well as on EFEO estampage n./ 2061 and a photogrammetry by Adeline Levivier.</p>
+           <p>First published in <bibl><ptr target="bib:RitaMargarethaSetianingsih1989_01"/></bibl>. The fairly accurate reading given in this publication was probably based entirely on a transcription provided by Boechari (<bibl rend="omitname"><ptr target="bib:Boechari2012_01"/><citedRange unit="page">XXVII-XXVIII</citedRange><citedRange unit="item">8</citedRange></bibl>). This reading was subsequently republished with numerous involuntary errors in the volume <title>Pusaka Aksara Yogyakarta</title> (2007, 2015) whose variant readings it has not seemed useful to report in my apparatus. These various publications all contain the same <foreign>terjemahan</foreign>, which is quite unreliable. The main default of the published editions is that they ignore the rules of meter and thus fail to note several <foreign>cecak</foreign> marks. The edition presented here has been established through direct inspection of the stone, with use of the EFEO estampage n. 2061 and a photogrammetry by Adeline Levivier.</p>
         	<listBibl type="primary">
 				<bibl n="RMS"><ptr target="bib:RitaMargarethaSetianingsih1989_01"/></bibl>
 			</listBibl>
