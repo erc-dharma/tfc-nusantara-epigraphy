@@ -195,6 +195,10 @@
                   <rdg source="bib:Stutterheim1933_02 bib:MachiSuhadi+SukartoAtmodjo1986_01">matiṅkaḥ</rdg>
                </app>
                <app loc="2v3">
+                  <lem source="bib:Stutterheim1933_02 bib:MachiSuhadi+SukartoAtmodjo1986_01">nitya lot·</lem>
+                  <note>The parallel in <ref target="DHARMA_INSIDENKGaraman.xml">Garaman</ref> (2r4) reads <foreign><supplied reason="omitted">n</supplied>dan lot·</foreign>.</note>
+               </app>
+               <app loc="2v3">
                   <lem>lot· kahudanan· kapyeyan·, makadadaḥ <choice><sic>śariniṁ</sic><corr>śarintən·</corr></choice> mamrīhakən· Ibuni pāduka śrī mahā<lb n="2v4" break="no"/>rāja</lem>
                   <rdg source="bib:Stutterheim1933_02">lot· kahudanan· kapyeyan·, makadadaḥ śarini paprīhakən· Ibuni pāduka śrī mahārāja</rdg>
                   <rdg source="bib:MachiSuhadi+SukartoAtmodjo1986_01">lot· kahudanan· kapyeyan·, makadadaḥ śariniṁ mamrihakən· Ibuni pāduka śrī mahārāja</rdg>
