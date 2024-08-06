@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Malenga</title>
+            <respStmt>
+               <resp>EpiDoc encoding</resp>
+               <persName ref="part:ekba">
+                  <name>Eko Bastiawan</name>
+               </persName>
+               <persName ref="part:argr">
+                  <forename>Arlo</forename>
+                  <surname>Griffiths</surname>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>intellectual authorship of edition</resp>
+                <persName ref="part:argr">
+                  <forename>Arlo</forename>
+                  <surname>Griffiths</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>DHARMA</authority>
+            <pubPlace>Malang; Jakarta</pubPlace>
+            <idno type="filename">DHARMA_INSIDENKMalenga</idno>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/">
+                  <p>This work is licenced under the Creative Commons Attribution 4.0 Unported Licence. To view a copy of the licence, visit https://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.</p>
+                  <p>Copyright (c) 2019-2025 by Arlo Griffiths</p>
+               </licence>
+            </availability>
+            <date from="2019" to="2025">2019-2025</date>
+         </publicationStmt>
+         <sourceDesc><!-- only the handDesc can be filled in at this stage -->
+            <msDesc><!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
+               <msIdentifier>
+                  <repository>DHARMAbase</repository>
+                  <idno/>
+                  <!-- don't modify this -->
+               </msIdentifier>
+               <msContents><!-- describe the intellectual content of an inscription -->
+                  <summary><!-- //// NOT MANDATORY  ////--></summary>
+                  <!-- offers the possibility to give a summary of the inscription's content -->
+               </msContents>
+               <physDesc>
+                  <handDesc>
+                     <p>The use of layar is normally in Indian mode, but Indonesian mode is also found at least once (and marked with = as per TG 3.8.8).</p>
+                     <p>The lowest level punctuation sign, provisionally represented here by ",", takes the shape of a median dot.</p>
+                  </handDesc>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>The project DHARMA has received funding from the European Research Council (ERC)
+                        under the European Union's Horizon 2020 research and innovation programme (grant
+                        agreement no 809994).</p>
+         </projectDesc>
+         <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+         <listPrefixDef>
+            <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+               <p>Public URIs with the prefix bib to point to a Zotero Group Library named
+                            ERC-DHARMA whose data are open to the public.</p>
+            </prefixDef>
+            <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+               <p>Internal URIs using the part prefix to point to person elements in the
+                            <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
+            </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <revisionDesc>
+          <change who="part:ekba" when="2024-08-02" status="draft">creation initial encoding of the inscription</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:space="preserve">
+      <body>
+         <div type="edition" xml:lang="kaw-Latn" rendition="class:38769 maturity:83213">
+<pb n="0r"/><!-- blank -->
+<p><pb n="0v"/>
+<lb n="0v1"/><g type="ddandaOrnate"/> <g type="ddandaOrnate"/> <g type="circleConcentricOval"/> <g type="ddandaOrnate"/> <g type="ddandaOrnate"/> Avighnam astu <g type="ddandaOrnate"/> <g type="ddandaOrnate"/> svasti śaka-varśătitha I śaka, <num value="974">974</num>, badravada-măsa tithi da<lb 
+n="0v2" break="no"/>śami kr̥ṣṇa-pakṣa, vara, <abbr>ha</abbr>, <abbr>U</abbr>, śa, ni<supplied reason="omitted">ṁ</supplied> maṇḍaṅkuṅan·, grahacaraṣṭā devasastha, devata, nakṣatra<supplied reason="subaudible">,</supplied>
+<lb n="0v3"/>maṇḍala<supplied reason="subaudible">,</supplied> yoga<supplied reason="subaudible">,</supplied> vvarveṣya<supplied reason="subaudible">,</supplied> mahŭrtta, siddhā-yoga vava-karaṇa, mahendra-maṇḍala<supplied reason="subaudible">,</supplied> kuvera-parvva-<lb 
+n="0v4" break="no"/>śa<supplied reason="subaudible">,</supplied> mituna-răśi<supplied reason="subaudible">,</supplied> sampun· sumalaḥ nugrahanira, sira śrī mahărăja, sira haji garasakan·
+<pb n="1r"/>
+<lb n="1r1"/>panəguhani saṁ hyaṁ desa rikaṁ malṅa, <choice><sic>suṣa</sic><corr>sapa</corr></choice>suk sĭmanira vargga haji ri malṅa tan·
+<lb n="1r2"/>kna deniṁ vulu-vulu para vulu nitya mavathi baṇa ksaṇḍa sapahuta haliḥ –hus·
+<lb n="1r3"/>paśuk ṣĭma karaman·, vargga haji riṁ malṅa, katiban· likaṅ akiṁ, paṅalaṅka paṅali<lb 
+n="1r4" break="no"/>ṅki, paṅalaśa, panirasa, vaṅkai kabunan·, UsiR̥niṁ maliṁ tələs·, Araṅkat·
+<pb n="1v"/><fw place="left" n="1v"><num value="1">1</num></fw>
+<lb n="1v1"/>tan· mātya I sĭma kāra<add place="below">ma</add>nira vargga haji ri mālṅa, valuḥ rumambat i natar·, vuhaya Aṅa<lb 
+n="1v2" break="no"/>sar·, tikus· Atut buvuṅan·, Avaraṅana misan·, luput iṁ rajā ḍəṇḍā, ludan·, tutan·,
+<lb n="1v3"/>luput i pinta palakvan·, paUbar, paki◯kis·, pararajəg·, pararahab·, paṅgo◯<lb 
+n="1v4" break="no"/>ṇḍoḥ, pasuratman·<unclear>,</unclear> pakujur·, kḍi<unclear>,</unclear> valvan·, <choice><sic>v</sic><corr>p</corr></choice>iniṅlai, panaṅgaran·, pakudan·, paga<pb 
+n="2r" break="no"/><lb n="2r1" break="no"/>lahan·, pajar· pinta palakvan·, malandaṁ, L̥ca, botoḥ, juru sambal·, juru jali<lb 
+n="2r2" break="no"/>r·, juru gaṇḍiṁ, juru salir·, vnaṁ madr̥vya vulu para vulu, paṇḍai vsi rvaṁ gusali, paṇḍai mas· rvaṁ
+<lb n="2r3"/>gusali, paṇḍai daṁ rvaṁ gusali, paṇḍai sisiṅ◯hen· rvaṁ gusali, paṇḍai kavat· rva<unclear>ṁ</unclear> gusali,
+<lb n="2r4"/>Anjun·, AkəR̥ṁ, Amədəl·, Anuvān·, Akumbaḥ, Akarakaḥ, Adhukit·, Aduli<pb 
+n="2v" break="no"/><fw place="left" n="2v"><num value="2">2</num></fw><lb n="2v1" break="no"/>t·, vnaṁ Aṅāmbaṅakna palvā, Avitha sapuluḥ tahil·, ri sabaṇḍa-baṇḍā, tan kaknana ri ba<lb 
+n="2v2" break="no"/>bak· raṅkaḥ, pacuṇḍuk·, basaṇa, paṅavari, paṅavagaran·, patitihan·, bakulan·, pa<lb 
+n="2v3" break="no"/>ṅulaṁ sapi, kəluhana pahaṅan·, paṅulaṁ kbo, paṅulaṁ vḍus·, I vnaṅani Amaṅana
+<lb n="2v4"/>răjamăṅsa, vḍus· guntiṁ, karuṁ puliḥ, Asu tugəl·, baḍavaṁ Akuniṁ, ruhur bale, A<pb 
+n="3r" break="no"/><lb n="3r1" break="no"/><surplus>A</surplus>vavāra səmpal·, Aririṅa banantən·, Aprasa vataṁ, Apislaṅa L̥mbu, jnu malaṁ, AduĀ savuṁ riṁ
+<lb n="3r2"/>sabhā, AṅaṅgoA vali na<add place="below">ga</add>puspa, vanagraha, tutujuṁ, kəmbaṅ ipun·, kəpəl· saṁ ratu,
+<lb n="3r3"/>Anuṅku rat·, pagər ṣaroja, putiḥ kuniṁ, Asumpiṅa tujuṁ ṣasivak·, vnaṅ ajamaha ka<lb 
+n="3r4" break="no"/>vula, Arvabaṇa Utaṁ, Adr̥vya ḍayaṁ, Ahuluna boṇḍan·, pujut·, ma<pb 
+n="3v" break="no"/><fw place="left" n="3v"><num value="3">3</num></fw><lb n="3v1" break="no"/>ti hadalana padma, samaṅkanănugrahanira śrĭ mahārăja, sirăji garaśakan·, ka<lb 
+n="3v2" break="no"/>taṇḍa garuḍamukha, panəguḥ śĭma karaman·, vargga haji riṁ maL̥ṅa, kaśaktinira vargga
+<lb n="3v3"/>haji manəṅkakən· bhūminira śrĭ mahărăja si◯răji garasakan·, ri payudanira lava◯<lb 
+n="3v4" break="no"/>n· sirăji liṅgajaya, kunaṁ Ikaṁ vargga haji ri malṅa, makajayani satru, makaya Apraṁ
+<pb n="4r"/>
+<lb n="4r1"/>Akasa L̥ṅən·, makatuṇḍuṁ musuhira śrĭ mahărăjāji garaśakan·, ri kaḍatvan· ri ta<choice><orig>n</orig><reg>ñ</reg></choice>juṁ, tuhan·
+<lb n="4r2"/>ranpr̥, samaghorala, tka hagñānanira saṁ hyaṁ śampun i katka saṅ adum·, kabayan·, pamaja kbo
+<lb n="4r3"/>macan·, pamaja nvam· bapa viraṁ mṅa, buyut· ki hadyan· suka ṅliḥ, raṅkəpi ki hadyan· gembvaṁ, rama
+<lb n="4r4"/>ki hadyan· samasa, ki hadyan· tarkka, ki hadyan· barakan· bapa mrayani, <add place="below">răjā</add>, sira kaR̥ṁ tinaṇḍa garu<pb 
+n="4v" break="no"/><fw place="left" n="4v"><num value="4">4</num></fw><lb n="4v1" break="no"/>ḍāmuka, panəguḥ sĭma karamani vargga haji rama-rama gusti macan· burintik·, hakarapa ha<lb 
+n="4v2" break="no"/>busana hadyan· məṇḍuḥ, juru ki hadyan āri, kabāyan· bapa bhara, pan· ghora, ki ha<lb 
+n="4v3" break="no"/>dyan· L̥baṇa<unclear>,</unclear> ki hadyan· samita, ki hadyan· goḍā, ki hadyan· mīlvak·, ki ha<lb 
+n="4v4" break="no"/>dyan· sariman·, ki hadyan· sukambək·, ki hadyan· tumut·, ki hadyan panaṅi, bapa L̥<pb n="5r" break="no"/><lb 
+n="5r1" break="no"/>viḥ, bapa mun·tar·, bapa glar·, bapa guməsəṁ, bapa vaṅsit·, bapa məṇjik·, bapa lurmma,
+<lb n="5r2"/>bapa tan· laku, bapa tan· R̥ṇā, bapa medoṁ, bapa laṅguk·, kunaṁ Ikaṁ śakti
+<lb n="5r3"/>I sira śrĭ mahărăjā, but· brakasiḥ, tani tapak· malāmbaṅan·, śuddhā tapak· ma<lb 
+n="5r4" break="no"/>lāmbaṅan·, məntasĭma karaman·, vargga haji riṁ malṅa, tani vuntu, tan anā kalaṁ kala<pb 
+n="5v" break="no"/><fw place="left" n="5v"><num value="5">5</num></fw><lb n="5v1" break="no"/>ggyan·, sĭma vātə<supplied reason="omitted">k</supplied> kanuruhan·, kuna<unclear>ṁ</unclear> yan āna mukya-mukyal·, tan kabābak· Abibik<supplied reason="lost">·,</supplied><!--perhaps still need to be adjusted--> 
+<lb n="5v2"/>sĭma karaman· vargga haji riṁ malṅa, dlaha ri dlaha, daṅuni daṅu, kady aṅganiṁ mayaṁ tan pavvaḥ, A<lb 
+n="5v3" break="no"/>maṅgiha sarvvapathāka, Amacaka ri tan· kna tāmbanāna, kacucuka matanya ri caraṁ, Anaṇḍuṅakna ruyuṅ a<lb 
+n="5v4" break="no"/>vuk·, sahutən iṁṅ ula, mariṁṅ alas <supplied reason="omitted">s</supplied>ahutən iṁ <choice><orig>nvāṁ</orig><reg>moṁ</reg></choice>, mariṁ bañu sahutən iṁ vuhaya, sambar=R̥n i<unclear>ṁ</unclear> glap· tan pahu<pb n="6r" break="no"/><lb n="6r1" break="no"/>dan·, sahutən iṁ kălamr̥<choice><sic>c</sic><corr>ty</corr></choice>u, <num value="1258">1258</num>, Asuji-măsa, tithi: pañcadaśi su<lb 
+n="6r2" break="no"/>kla-pakṣa, <abbr>va</abbr>, <abbr>pa</abbr>, <abbr>śa</abbr>, văra, manahil·, <g type="circleLarge"/> ,  <g type="ddandaOrnate"/> <g type="circleLarge"/> <g type="ddandaOrnate"/>,,,,, 
+</p>
+         </div>
+         <div type="apparatus">
+               <listApp>
+               <app loc="0v2">
+                  <lem></lem>
+               </app>
+               </listApp>         
+         </div>
+         <div type="translation">
+      <p></p>
+         </div>
+         <div type="commentary">
+         </div>
+        <div type="bibliography">
+	    <p/>
+            <listBibl type="primary">
+				<bibl n="B"><ptr target="bib:Boechari2012_33"/><citedRange unit="page">501–503</citedRange></bibl>
+			</listBibl>
+           <listBibl type="secondary">
+              <bibl/><!-- one <bibl/> per item of secondary bibliography -->
+           </listBibl>
+        </div>
+      </body>
+  </text>
+</TEI>
