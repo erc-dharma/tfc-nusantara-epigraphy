@@ -88,7 +88,7 @@
 <p><pb n="0v"/>
 <lb n="0v1"/><g type="ddandaOrnate"/> <g type="ddandaOrnate"/> <g type="circleConcentricOval"/> <g type="ddandaOrnate"/> <g type="ddandaOrnate"/> Avighnam astu <g type="ddandaOrnate"/> <g type="ddandaOrnate"/> svasti śaka-varśătitha I śaka, <num value="974">974</num>, badravada-măsa tithi da<lb 
 n="0v2" break="no"/>śami kr̥ṣṇa-pakṣa, vara, <abbr>ha</abbr>, <abbr>U</abbr>, śa, ni<supplied reason="omitted">ṁ</supplied> maṇḍaṅkuṅan·, grahacaraṣṭā devasastha, devata, nakṣatra<supplied reason="subaudible">,</supplied>
-<lb n="0v3"/>maṇḍala<supplied reason="subaudible">,</supplied> yoga<supplied reason="subaudible">,</supplied> vvarveṣya<supplied reason="subaudible">,</supplied> mahŭrtta, siddhā-yoga vava-karaṇa, mahendra-maṇḍala<supplied reason="subaudible">,</supplied> kuvera-parvva-<lb 
+<lb n="0v3"/>maṇḍala<supplied reason="subaudible">,</supplied> yoga<supplied reason="subaudible">,</supplied> <choice><sic>vvarveṣya</sic><corr>parvveśa</corr></choice><supplied reason="subaudible">,</supplied> <choice><sic>mahŭ</sic><corr>muhū</corr></choice>rtta, siddhā-yoga vava-karaṇa, mahendra-maṇḍala<supplied reason="subaudible">,</supplied> kuvera-parvv<choice><sic>a</sic><corr>e</corr></choice>-<lb 
 n="0v4" break="no"/>śa<supplied reason="subaudible">,</supplied> mituna-răśi<supplied reason="subaudible">,</supplied> sampun· sumalaḥ nugrahanira, sira śrī mahărăja, sira haji garasakan·
 <pb n="1r"/>
 <lb n="1r1"/>panəguhani saṁ hyaṁ desa rikaṁ malṅa, <choice><sic>suṣa</sic><corr>sapa</corr></choice>suk sĭmanira vargga haji ri malṅa tan·
@@ -132,14 +132,111 @@ n="5r4" break="no"/>lāmbaṅan·, məntasĭma karaman·, vargga haji riṁ mal�
 n="5v" break="no"/><fw place="left" n="5v"><num value="5">5</num></fw><lb n="5v1" break="no"/>ggyan·, sĭma vātə<supplied reason="omitted">k</supplied> kanuruhan·, kuna<unclear>ṁ</unclear> yan āna mukya-mukyal·, tan kabābak· Abibik<supplied reason="lost">·,</supplied><!--perhaps still need to be adjusted--> 
 <lb n="5v2"/>sĭma karaman· vargga haji riṁ malṅa, dlaha ri dlaha, daṅuni daṅu, kady aṅganiṁ mayaṁ tan pavvaḥ, A<lb 
 n="5v3" break="no"/>maṅgiha sarvvapathāka, Amacaka ri tan· kna tāmbanāna, kacucuka matanya ri caraṁ, Anaṇḍuṅakna ruyuṅ a<lb 
-n="5v4" break="no"/>vuk·, sahutən iṁṅ ula, mariṁṅ alas <supplied reason="omitted">s</supplied>ahutən iṁ <choice><orig>nvāṁ</orig><reg>moṁ</reg></choice>, mariṁ bañu sahutən iṁ vuhaya, sambar=R̥n i<unclear>ṁ</unclear> glap· tan pahu<pb n="6r" break="no"/><lb n="6r1" break="no"/>dan·, sahutən iṁ kălamr̥<choice><sic>c</sic><corr>ty</corr></choice>u, <num value="1258">1258</num>, Asuji-măsa, tithi: pañcadaśi su<lb 
+n="5v4" break="no"/>vuk·, sahutən iṁṅ ula, mariṁṅ alas <supplied reason="omitted">s</supplied>ahutən iṁ <choice><orig>nvāṁ</orig><reg>moṁ</reg></choice>, mariṁ bañu sahutən iṁ vuhaya, sambar=R̥n i<unclear>ṁ</unclear> glap· tan pahu<pb n="6r" break="no"/><lb n="6r1" break="no"/>dan·, sahutən iṁ kălamr̥<choice><sic>c</sic><corr>ty</corr></choice>u, <num value="1258">1258</num>, Asuji-măsa, ti<choice><orig>thi:</orig><reg>thi</reg></choice> pañcadaśi su<lb 
 n="6r2" break="no"/>kla-pakṣa, <abbr>va</abbr>, <abbr>pa</abbr>, <abbr>śa</abbr>, văra, manahil·, <g type="circleLarge"/> ,  <g type="ddandaOrnate"/> <g type="circleLarge"/> <g type="ddandaOrnate"/>,,,,, 
 </p>
          </div>
          <div type="apparatus">
                <listApp>
                <app loc="0v2">
-                  <lem></lem>
+                  <lem>ni<supplied reason="omitted">ṁ</supplied> maṇḍaṅkuṅan·</lem>
+                  <rdg source="bib:bib:Boechari2012_33">ni maṇdaṅkuṅan·</rdg>
+               </app>
+               <app loc="0v3">
+                  <lem><choice><sic>vvarveṣya</sic><corr>parvveśa</corr></choice><supplied reason="subaudible">,</supplied> <choice><sic>mahŭ</sic><corr>muhū</corr></choice>rtta</lem>
+                  <rdg source="bib:bib:Boechari2012_33">vvarveṣya<supplied reason="subaudible">,</supplied> mahŭrtta</rdg>
+               </app>
+               <app loc="0v3">
+                  <lem>-parvv<choice><sic>a</sic><corr>e</corr></choice>-<lb n="0v4" break="no"/>śa</lem>
+                  <rdg source="bib:bib:Boechari2012_33">-parvvaśa-</rdg>
+               </app>
+               <app loc="1r1">
+                  <lem>panəguhani</lem>
+                  <rdg source="bib:bib:Boechari2012_33">paṅanugrahani</rdg>
+               </app>
+               <app loc="1r1">
+                  <lem><choice><sic>suṣa</sic><corr>sapa</corr></choice>suk</lem>
+                  <rdg source="bib:bib:Boechari2012_33">suṣasuk</rdg>
+               </app>
+               <app loc="1r2">
+                  <lem>deniṁ</lem>
+                  <rdg source="bib:bib:Boechari2012_33">deni</rdg>
+               </app>
+               <app loc="1r3">
+                  <lem>paṅaliṅki</lem>
+                  <rdg source="bib:bib:Boechari2012_33"> panaliṅki</rdg>
+               </app>
+               <app loc="1v2">
+                  <lem>iṁ</lem>
+                  <rdg source="bib:bib:Boechari2012_33">i</rdg>
+               </app>
+               <app loc="1v4">
+                  <lem><choice><sic>v</sic><corr>p</corr></choice>iniṅlai</lem>
+                  <rdg source="bib:bib:Boechari2012_33">viniṅlai </rdg>
+               </app>
+               <app loc="2r3">
+                  <lem source="bib:bib:Boechari2012_33">paṇḍai sisiṅ◯hen·</lem>
+                  <note> Cf. <ref target="DHARMA_INSIDENKKancana.xml">Kancana</ref> (8r1) <foreign>Apaṇḍai siṅyasiṅyan·</foreign>,  <ref target="DHARMA_INSIDENKMadhawapura.xml">Madhawapura</ref> (7r6) <foreign>Apaṇḍai siṅyāsiṅyan·</foreign>, <ref target="DHARMA_INSIDENKRameswarapura.xml">Rameswarapura</ref> ( 9v2) <foreign>Apaṇḍe siṅyasiṅyan·</foreign>, <ref target="DHARMA_INSIDENKKambangPutih.xml">Kambang Putih</ref> (B5–6) <foreign>paṇḍe siṅe-siṅen·</foreign>.</note>
+               </app>
+               <app loc="3r4">
+                  <lem source="bib:bib:Boechari2012_33">Arvabaṇa Utaṁ</lem>
+                  <note>The expression, read as <foreign>Anvasdhana Utaṅ</foreign>, is cited in Wisseman Christie (<bibl rend="omitname"><ptr target="bib:WissemanChristie2009_02"/><citedRange unit="page">182</citedRange></bibl>) which she translated as monetary debt. In their discussion on the word <foreign>dayaṅ</foreign>, the same expression is also discussed by Clavé &amp; Griffiths (<bibl rend="omitname"><ptr target="bib:Clave+Griffiths2022_01"/><citedRange unit="page">186</citedRange></bibl>): <foreign>vnaṅ ajamaha kavula, aṅrvabaṇa utaṅ, adr̥ vya ḍayaṅ, ahuluna boṇḍan, pujut</foreign>, "entitled to mate with slaves, to wipe their debt clean by taking them in possession as <foreign>ḍayaṅ</foreign>, to have <foreign>boṇḍan</foreign> or <foreign>pujut</foreign> as slaves”.</note>
+               </app>
+               <app loc="3v4">
+                  <lem>satru</lem>
+                  <rdg source="bib:bib:Boechari2012_33">śatru</rdg>
+               </app>
+               <app loc="4r4">
+                  <lem>barakan·</lem>
+                  <rdg source="bib:bib:Boechari2012_33">baraṁkan·</rdg>
+               </app>
+               <app loc="4v2">
+                  <lem>hadyan āri</lem>
+                  <rdg source="bib:bib:Boechari2012_33">hadyan <unclear>p</unclear>ari </rdg>
+               </app>
+               <app loc="4v3">
+                  <lem>mīlvak·</lem>
+                  <rdg source="bib:bib:Boechari2012_33">məlvak·</rdg>
+               </app>
+               <app loc="5r2">
+                  <lem>R̥ṇa</lem>
+                  <rdg source="bib:bib:Boechari2012_33">R̥gha</rdg>
+               </app>
+               <app loc="5r4">
+                  <lem>kalaṁ</lem>
+                  <rdg source="bib:bib:Boechari2012_33">kala</rdg>
+               </app>
+               <app loc="5v1">
+                  <lem>vātə<supplied reason="omitted">k</supplied></lem>
+                  <rdg source="bib:bib:Boechari2012_33">vātə</rdg>
+               </app>
+               <app loc="5v1">
+                  <lem>āna</lem>
+                  <rdg source="bib:bib:Boechari2012_33">anā</rdg>
+               </app>
+               <app loc="5v2">
+                  <lem>aṅganiṁ</lem>
+                  <rdg source="bib:bib:Boechari2012_33">aṅgani</rdg>
+               </app>
+               <app loc="5v4">
+                  <lem>mariṁṅ</lem>
+                  <rdg source="bib:bib:Boechari2012_33">mariṅ</rdg>
+               </app>
+               <app loc="5v4">
+                  <lem>alas <supplied reason="omitted">s</supplied>ahutən</lem>
+                  <rdg source="bib:bib:Boechari2012_33">alas sahutən</rdg>
+               </app>
+               <app loc="5v4">
+                  <lem><choice><orig>nvāṁ</orig><reg>moṁ</reg></choice></lem>
+                  <rdg source="bib:bib:Boechari2012_33">mvaṁ</rdg>
+               </app>
+               <app loc="6r1">
+                  <lem>kălamr̥<choice><sic>c</sic><corr>ty</corr></choice>u</lem>
+                  <rdg source="bib:bib:Boechari2012_33">kălamr̥cu</rdg>
+               </app>
+               <app loc="6r1">
+                  <lem>ti<choice><orig>thi:</orig><reg>thi</reg></choice></lem>
+                  <rdg source="bib:bib:Boechari2012_33">tithi</rdg>
                </app>
                </listApp>         
          </div>
