@@ -77,13 +77,13 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
-            <change who="part:argr" when="2024-08-13" status="draft">started encoding the inscription</change>
+            <change who="part:argr" when="2024-08-13" status="draft">encoded the inscription</change>
         </revisionDesc>
     </teiHeader>
     <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="kaw-Latn" rendition="class:38769 maturity:83213">
-            <p><lb n="1"/><g type="ddanda"/> svasti śa<add place="above">k</add>varṣătīta 78[6]
+            <p><lb n="1"/><g type="ddanda"/> svasti śa<add place="above">ka</add>-varṣătīta <num value="786">78<unclear>6</unclear></num>
                 <lb n="2"/>Āṣāḍha-māsa pañcamĭ kr̥ṣṇa-pa<lb 
                 n="3" break="no"/>kṣa paniruAn vage budha-vāra
                 <lb n="4"/>Uttarāṣāḍha-nakṣatra sobhā<lb 
@@ -113,10 +113,17 @@
          <div type="translation" resp="part:argr">
  	<p n="1-5">Hail! Elapsed Śaka-year 786, month of Āṣāḍha, fifth of the waning fortnight,
         Paniruan, Wage, Wednesday, lunar mansion Uttarāṣāḍha, conjunction Saubhāgya.</p>
-    <p n="5-9">At that time the venerable one <supplied reason="explanation"><foreign>pitāmaha</foreign></supplied> of Wangkud<note>On the title <foreign>pitāmaha</foreign> (attested in several relatively old inscriptions of the Dieng plateau, but not only there), see <bibl><ptr target="bib:Krom1924_01"/><citedRange unit="page">214</citedRange></bibl>. In the Dieng inscription OJO XCIX (l. 11), we find a <foreign>guru hyaṅ i vaṅkud</foreign> besides (as witness) a <foreign>pitāmaha i hlaḍan</foreign> (see <bibl><ptr target="bib:Brandes1913_01"/><citedRange unit="page">229</citedRange></bibl>).</note> planted the boundary markers for Asam Panjang, district of Pikatan. The village owning official at that time was <gap reason="lost"/> Manuku, native of the village <gap reason="lost"/>.</p>
+    <p n="5-9">At that time the venerable one <supplied reason="explanation"><foreign>pitāmaha</foreign></supplied> of Wangkud<note>On the title <foreign>pitāmaha</foreign> (attested in several relatively old inscriptions of the Dieng plateau, but not only there), see <bibl><ptr target="bib:Krom1924_01"/><citedRange unit="page">214</citedRange></bibl>. In the Dieng inscription OJO XCIX (l. 11), we find a <foreign>guru hyaṅ i vaṅkud</foreign> besides (as witness) a <foreign>pitāmaha i hlaḍan</foreign> (see <bibl><ptr target="bib:Brandes1913_01"/><citedRange unit="page">229</citedRange></bibl>).</note> planted the boundary markers for Asam Panjang, district of Pikatan. The village owning official at that time was <gap reason="lost" unit="character" quantity="1"/> Manuku, native of the village <gap reason="lost" unit="character" quantity="2"/>.</p>
          </div>
          <div type="commentary">
+            <div type="textpart">
+            <head xml:lang="en">Date</head>
+            <p>The last digit of the year is unreadable. J. C. Eade has informed me (email of 21/09/2011) that the only option for reading the year is with 6 in the place of the units, so 786, although even in this year the nakṣatra on the given date is Uttarabhadrapada, not Uttarāṣāḍha, and the yoga is Atigaṇḍa, not Saubhāgya. Eade explained in his email: <q>A match of 21: Uttarāṣāḍha with 4: Saubhāgya would require the month to be Bhadrapada around 10-11 waxing. And it is a mix up that has to give way to the consistency of the other data. You can, if so minded, expand what these two rogue elements are saying: Uttarāṣāḍha says that the moon is at about 266 degrees and Saubhāgya says that the sun and moon combined total about 40 degrees. This means that the sun component in the sum is about 135 degrees. And if the sun is at about Leo 15 the time of year is somewhere early in Bhadrapada, two months after Āṣāḍha; and then, if the sun-moon distance is 131 degrees, at 12 degrees/day this is about 11 waxing and not 5 waning: so the <foreign>nakṣatra/yoga</foreign> combination as given cannot be correct for the time of year.</q> The result of Eade’s conversion of the date is Wednesday June 28, 864 CE.</p>
+            </div>
+            <div type="textpart">
+            <head xml:lang="en">The Toponym Asam Panjang</head>
             <p>It will be noted that the text actually points to Asap Panjang, only the <foreign>-p</foreign> of the former element actually being preserved. No place name Asap Panjang — or any other other place name ending in -p Panjang for that matter — is known anywhere, whereas Asam Panjang is attested several times (see <bibl><ptr target="bib:Damais1970_01"/><citedRange unit="page">104</citedRange></bibl>). It must be noted that this toponym is found misspelt also in other inscriptions (notably <foreign>asammañja</foreign> in <ref target="DHARMA_INSIDENKPanggumulanI">Panggumulan I</ref> 1v13).</p>
+            </div>
          </div>
         <div type="bibliography">
            <p>Provisionally published by Sukarto Atmodjo (<bibl rend="omitname"><ptr target="bib:SukartoAtmodjo1985_05"/></bibl>); published again by Arlo Griffiths (<bibl rend="omitname"><ptr target="bib:Griffiths2012_02"/></bibl>). Re-edited here by Arlo Griffiths using the photogrammetry made by Adeline Levivier in March 2023.</p>
