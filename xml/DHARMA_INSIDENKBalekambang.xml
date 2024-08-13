@@ -85,13 +85,17 @@
          <div type="edition" xml:lang="san-Latn" rendition="class:83227 maturity:83213">
             <lg n="1" met="āryā">
                 <l n="ab"><lb n="1"/><supplied reason="lost">A</supplied>yam an-atibāhu-vīryya<lb n="2" break="no"/>s sphaṭika-maṇi-nibha<lb n="3" break="no"/><unclear>ñ ja</unclear>la<unclear>ṁ</unclear> prathita<unclear>vā</unclear>n ya<unclear>ḥ</unclear></l>
-                <l n="cd"><lb n="4"/>tasya <seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg>i</seg> <seg met="-+-"><gap reason="lost" quantity="3" unit="character"/></seg> nāmnaḥ <lb n="5"/>jīvitam etac ciraṁ bhavatu</l>
+                <l n="cd"><lb n="4"/>tasya <seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg>i</seg> <seg met="-+-"><gap reason="lost" quantity="3" unit="character"/></seg>-nāmnaḥ <lb n="5"/>jīvitam etac ciraṁ bhavatu</l>
             </lg>
          </div>
          <div type="apparatus">
                <listApp>
+                <app loc="1">
+                    <lem><supplied reason="lost">A</supplied>yam</lem>
+                    <note>The hypothetical first akṣara, required if the meter is <foreign>āryā</foreign>, has been completely lost with what seems to be a part of the corner of the stone broken off, but it is not at first sight evident that the stone has suffered damage here.</note>
+                </app>
                   <app loc="4">
-                     <lem>tasya <seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg>i</seg> <seg met="-+-"><gap reason="lost" quantity="3" unit="character"/></seg> nāmnaḥ</lem>
+                     <lem>tasya <seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg>i</seg> <seg met="-+-"><gap reason="lost" quantity="3" unit="character"/></seg>-nāmnaḥ</lem>
                      <note>The fracture of the stone here has brought about the nearly complete loss of the consonant sign on top of which the i marker is still perfectly visible, and with it both of the immediately following akṣaras; the third clearly comprised a consonant cluster (rendering the preceding syllable metrically heavy), but I am unable to make out what it was. It seems impossible to propose with certainty a restoration for the name that was once written between <foreign>tasya</foreign> and <foreign>-nāmnaḥ</foreign>, but it
                         cannot have been the same (Bhānu) as in the <ref target="DHARMA_INSIDENKHampran.xml">Hampran inscription</ref>.</note>
                   </app>
@@ -101,7 +105,7 @@
  	<p rend="stanza" n="1">May this life <supplied reason="explanation">on earth</supplied> be long for this man the strength of whose arms is unsurpassed, who has revealed the crystal-clear water, <gap reason="illegible" unit="character" quantity="4"/> by name!</p>
          </div>
          <div type="commentary">
-            <!--commentary encoded as per section §9.3 -->
+            <p>The inscription is composed in Sanskrit and seems to comprise a stanza in the <foreign>āryā</foreign> meter. This hypothesis underlies the present edition.</p>
          </div>
         <div type="bibliography">
 	<!--bibliography encoded as per section §9.4 -->
