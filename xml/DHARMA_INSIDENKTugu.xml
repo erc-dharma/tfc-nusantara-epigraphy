@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Tugu Boulder Inscription of Pūrṇavarman (ca. 6th c. CE)</title>
+                <respStmt>
+                    <resp>EpiDoc encoding</resp>
+                    <persName ref="part:argr">
+                       <forename>Arlo</forename>
+                       <surname>Griffiths</surname>
+                    </persName>
+                 </respStmt>
+                 <respStmt>
+                    <resp>intellectual authorship of edition</resp>
+                    <persName ref="part:argr">
+                       <forename>Arlo</forename>
+                       <surname>Griffiths</surname>
+                    </persName>
+                    <persName ref="part:emfr">
+                        <forename>Emmanuel</forename>
+                        <surname>Francis</surname>
+                     </persName>
+                 </respStmt>     
+              </titleStmt>
+              <publicationStmt>
+                 <authority>DHARMA</authority>
+                 <pubPlace>Lyon</pubPlace>
+                 <idno type="filename">DHARMA_INSIDENKTugu</idno>
+                 <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                       <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
+                                 Licence. To view a copy of the licence, visit
+                                 https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                                 Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                                 California, 94041, USA.</p>
+                       <p>Copyright (c) 2019-2025 by Emmanuel Francis &amp; Arlo Griffiths</p>
+                    </licence>
+                 </availability>
+                <date from="2019" to="2025">2019-2025</date>
+            </publicationStmt>
+            <sourceDesc><!-- only the handDesc can be filled in at this stage -->
+                <msDesc><!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/><!-- don't modify this -->
+                    </msIdentifier>
+                    <msContents><!-- describe the intellectual content of an inscription -->
+                        <summary><!-- //// NOT MANDATORY  ////--></summary> <!-- offers the possibility to give a summary of the inscription's content -->
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p><!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EGD 11.2. --></p>
+                            <!-- If you need to identify individual hands (EGD §7.5/) in addition to one or more paragraphs of general palaeographic description, wrap <summary> around the <p> or <p>s above, and, outside <summary>, create <handNote> elements for each hand as follows:
+						<summary><p><p/></summary>
+						<handNote xml:id="Pallava00001_hand1"></handNote>
+						<handNote xml:id="Pallava00001_hand2"></handNote>
+					 -->
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
+            </projectDesc>
+            <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/><!-- UPDATE the link once the release is made official -->
+            <listPrefixDef>
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                    <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
+                </prefixDef>
+                <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
+                    <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_idListMembers_v01.xml</ref> file.</p>
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <revisionDesc>
+            <change who="part:argr" when="2024-08-14" status="draft">started encoding the inscription</change>
+         </revisionDesc>
+    </teiHeader>
+    <text xml:space="preserve">
+      <body>
+         <div type="edition" xml:lang="san-Latn" rendition="class:83227 maturity:83213">
+            <lg n="1" met="anuṣṭubh">
+                <l n="a"><lb n="1"/>@ purā rājādhirājena</l> 
+                <l n="b">guruṇā pīna-bāhunā</l>
+                <l n="c">khātā khyātāṁ purīṁ prāpya</l> 
+                <l n="d"><lb n="2"/>candrabhāgārṇṇavaṁ yayau ||</l>
+            </lg>
+                <!-- @: a sign that might represent a fly-whisk, a very stylized triśāla, or "a burning torch" (Sarkar, p. 5 and his n. 26).
+                b. guruṇā: Chhabra Sarkar; gurunā Vogel (probably a misprint). See guṇaujasā in l. 2 for the shape of gu.
+                c. khyātāṁ purīṁ: thus Vogel (see his remark on the notation of anusvāra, p. 33: "In the first instance, it is marked by means of a dot, in the second by a dot enclosed within a circle"); khyātām purīm Chhabra Sarkar.
+                d. °bhāgārṇṇavaṁ: thus Vogel (see his note, p. 33); ̌°bhāgārṇṇavam Chhabra Sarkar.
+                ||: Vogel Sarkar; omitted by Chhabra. -->
+            <lg n="2" met="anuṣṭubh">
+                    <l n="a" enjamb="yes">pravarddhamāna-dvāviṅśad</l>
+                    <l n="b">-vatsara śrī-guṇaujasā</l>
+                    <l n="c">narendra-dhvaja-bhātena</l> 
+                    <l n="d"><lb n="3"/>śrīmatā pūrṇṇavarmmaṇo ||</l>
+            </lg>
+                <!-- a. °vatsara: °vatsa(re) Vogel (see his n., p. 33); °vatsare Chhabra; "Read °śare" (Sarkar, misprint). 
+                c. °bhātena: Sarkar; °bhānena (bhātena) Vogel; °bhāne(te)na Chhabra. See Sarkar n. 30: "Te is however certain. In this inscription, ta is distinguished from na by the slightly triangular form it (ta) betrays."
+                d. °varmmaṇo: °varmmaṇā Vogel. The element that seems to form the e-mātrā is not likely to be accidental. Cf. the ṇai is l. 5.
+                ||: Vogel Sarkar; omitted by Chhabra. -->
+            <lg n="3" met="anuṣṭubh">
+                <l n="a">prārabhya phālguṇe māse</l> 
+                <l n="b">khātā kr̥ṣṇāṣṭamī-tithau</l>
+                <l n="c">caitra-śukla-trayodaśyāM</l> 
+                <l n="d">dinais siddhaikaviṅśakai<supplied reason="lost">ḥ ||</supplied></l>
+            </lg>
+                <!-- a. phālguṇe: phālguṇe(ne) Vogel Chhabra Sarkar. It is unnecessary to correct to phālgune, the variant with retroflex nasal being extremely common in Southeast Asian epigraphy (Cambodia, Campa) as in India.
+                b. kr̥ṣṇāṣṭamī°: as pointed out by Sarkar (n. 32), Vogel's kr̥ṣṇātaṣmī° must be a misprint.
+                c. caitra°: Vogel and Sarkar have expressed doubt about the ai (suspecting rather e), but the ai seems certain to me, in comparison with dinais and °viṅśakai further on in this line.
+                d. dinais: thus do Vogel, Chhabra and Sarkar read; the n is rather unclear, but no other reading is imaginable.
+                d. °viṅśakai[ḥ ||]: Vogel (p. 33) thinks the visarga can still be traced; Chhabra assumes one without question; Sarkar thinks is invisible but needs to be restored; I do not see it. All ignore the fact that a pair of daṇ.das must also have been lost.
+                 -->
+            <lg n="4" met="anuṣṭubh">
+                <l n="a"><lb n="4"/>Āyatā ṣaṭ-sahasreṇa</l> 
+                <l n="b">dhanuṣā<supplied reason="lost">ṁ</supplied> saśatena ca</l>
+                <l n="c">dvāviṅśena nadī ramyā</l> 
+                <l n="d">gomatī nirmalodakā ||</l>
+            </lg>
+                <!-- 
+                    b. dhanuṣā[ṁ] saśatena: Chhabra; dhanuṣā(m) saśatena Sarkar; dhanuṣā[ṁ]sa-śatena Vogel. The anusvāra is not visible.
+                 -->
+            <lg n="5" met="anuṣṭubh">
+                    <l n="a">pitāmahasya rājarṣer</l> 
+                    <l n="b">vvidāryya śibirāvani<supplied reason="lost">M</supplied></l>
+                    <l n="c"><lb n="5"/>brāhmaṇair go-sahasre<choice><sic>nā</sic><corr>ṇa</corr></choice></l>
+                    <l n="d">prayāti kr̥ta-dakṣiṇā || ... || @ || ... ||</l>
+            </lg>
+               <!--  
+                b. vvidāryya: Chhabra Sarkar; vvidārya Vogel.
+                b. śibirāvani[M]: śibirāvanim Vogel Chhabra Sarkar; none observes that the final nasal (presumably written in reduced size below the baseline, as in l. 3) is invisible, at least on POD, pl. 27. Sarkar's note 37 (although marred by several disturbing misprints/errors) makes the valid point that the reading in fact seems to be śī°. Since śi° is the desired reading, and since this inscription does not otherwise commit errors involving vowel length, I assume the trace that would distinguish ī from i is accidental.
+                c. °sahasrenā: corr. °sahasreṇa (with Vogel Chhabra Sarkar).
+                d. kr̥tadakṣiṇā: kr̥tadakṣiṇo Vogel.
+                || ... || @ || ... ||: an elaborate final punctuation, ignored by Vogel, Chhabra and Sarkar. -->
+         </div>
+         <div type="apparatus">
+           <!--apparatus encoded as per EGD §9.1, basic elements for apparatus below-->
+               <listApp><!-- one <app> for each apparatus entry -->
+                  <app loc="line"><!-- update the value of @loc.-->
+                     <lem><!-- fill in a lemma here --></lem>
+                     <rdg source="bib:AuthorYear_01"><!-- update the @source value, fill in variant reading here --></rdg>
+                  </app>
+               </listApp>
+         </div>
+         <div type="translation">
+ 	<!--translation encoded as per EGD §9.2 -->
+         </div>
+         <div type="commentary">
+            <!--commentary encoded as per section §9.3 -->
+         </div>
+        <div type="bibliography">
+           <p>Kern's readings, fully accounted for by Vogel, are not taken into account here any longer. There are several small differences of reading between Vogel, Chhabra and Sarkar. Chhabra indicates no source for his readings, or variants from his predecessors. Sarkar (p. 5) claims to base his on the facsimile published by Vogel. Yet both seem partly to copy Vogel, because they ignore the fact that in the system of transliteration used in POD 1, roman m stands for anusvāra: only this can explain why they misread m for ṁ several times. The text constituted below is based on consultation of POD 1, plate 27 (= OD XXX?).</p>
+        	<listBibl type="primary">
+				<bibl n="V"><ptr target="bib:Vogel1925_01"/><citedRange unit="page">???</citedRange><citedRange unit="item">???</citedRange></bibl>
+                </listBibl>
+           <listBibl type="secondary">
+              <bibl/><!-- one <bibl/> per item of secondary bibliography -->
+           </listBibl>
+        </div>
+      </body>
+  </text>
+</TEI>
