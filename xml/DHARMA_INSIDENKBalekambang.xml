@@ -84,28 +84,36 @@
       <body>
          <div type="edition" xml:lang="san-Latn" rendition="class:83227 maturity:83213">
             <lg n="1" met="āryā">
-                <l n="ab"><lb n="1"/><supplied reason="lost">A</supplied>yam an-atibāhu-vīryya<lb n="2" break="no"/>s sphaṭika-maṇi-nibha<lb n="3" break="no"/><unclear>ñ ja</unclear>la<unclear>ṁ</unclear> prathita<unclear>vā</unclear>n ya<unclear>ḥ</unclear></l>
-                <l n="cd"><lb n="4"/>tasya <seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg>i</seg> <seg met="-+-"><gap reason="lost" quantity="3" unit="character"/></seg>-nāmnaḥ <lb n="5"/>jīvitam etac ciraṁ bhavatu</l>
+                <l n="ab"><lb n="1"/>yaẖ <unclear>kh</unclear>anati bāhu-vīryya<lb n="2" break="no"/>s sphaṭika-maṇi-nibha<lb n="3" break="no"/><unclear>ñ ja</unclear>la<unclear>ṁ</unclear> prathita-bandhyaṁ</l>
+                <l n="cd"><lb n="4"/>tasya <unclear>v</unclear>i<unclear>ja</unclear><supplied reason="lost">yā</supplied><unclear>gra</unclear>-nāmnaḥ <lb n="5"/>jīvitam etac ciraṁ bhavatu</l>
             </lg>
          </div>
          <div type="apparatus">
                <listApp>
                 <app loc="1">
-                    <lem><supplied reason="lost">A</supplied>yam</lem>
-                    <note>The hypothetical first akṣara, required if the meter is <foreign>āryā</foreign>, has been completely lost with what seems to be a part of the corner of the stone broken off, but it is not at first sight evident that the stone has suffered damage here.</note>
+                    <lem>yaẖ khanati</lem>
+                    <rdg source="bib:Griffiths2012_02"><supplied reason="lost">A</supplied>yam anati-</rdg>
+                    <note>The reading proposed in my 2012 article has to resort to suppling an <foreign>akṣara</foreign> <foreign>A</foreign>, required if the meter is <foreign>āryā</foreign>, even though it does not look as if there ever was (or could have been) any such <foreign>akṣara</foreign>. My new reading assumes a very rare instance of <foreign>jihvāmūlīya</foreign> (attested elsewhere only in the <ref target="DHARMA_INSIDENKWatuGenuk">Watu Genuk inscription</ref>).</note>
+                </app>
+                <app loc="3">
+                    <!-- <lem><unclear>ja</unclear>la-prathita-bandhyaṁ</lem> -->
+                    <lem>prathita-bandhyaṁ</lem>
+                    <!-- <rdg source="bib:Griffiths2012_02"><unclear>ja</unclear>la<unclear>ṁ</unclear> prathita<unclear>vā</unclear>n ya<unclear>ḥ</unclear></rdg> -->
+                    <rdg source="bib:Griffiths2012_02">prathita<unclear>vā</unclear>n ya<unclear>ḥ</unclear></rdg>
                 </app>
                   <app loc="4">
-                     <lem>tasya <seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg>i</seg> <seg met="-+-"><gap reason="lost" quantity="3" unit="character"/></seg>-nāmnaḥ</lem>
-                     <note>The fracture of the stone here has brought about the nearly complete loss of the consonant sign on top of which the i marker is still perfectly visible, and with it both of the immediately following akṣaras; the third clearly comprised a consonant cluster (rendering the preceding syllable metrically heavy), but I am unable to make out what it was. It seems impossible to propose with certainty a restoration for the name that was once written between <foreign>tasya</foreign> and <foreign>-nāmnaḥ</foreign>, but it
-                        cannot have been the same (Bhānu) as in the <ref target="DHARMA_INSIDENKHampran.xml">Hampran inscription</ref>.</note>
+                     <rdg source="bib:Griffiths2012_02">tasya <seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg>i</seg> <seg met="-+-"><gap reason="lost" quantity="3" unit="character"/></seg>-nāmnaḥ</rdg>
+                     <note>The fracture of the stone here has brought about the nearly complete loss of the consonant sign on top of which the <foreign>i</foreign> marker is still perfectly visible, and with it most of the immediately following <foreign>akṣara</foreign>s. It is impossible to propose with certainty a restoration for the name that was once written between <foreign>tasya</foreign> and <foreign>-nāmnaḥ</foreign>, but it
+                        cannot have been the same (Bhānu) as in the <ref target="DHARMA_INSIDENKHampran.xml">Hampran inscription</ref>, and Vijaya seems to be the most plausible guess.</note>
                   </app>
                </listApp>
          </div>
          <div type="translation" resp="part:argr">
- 	<p rend="stanza" n="1">May this life <supplied reason="explanation">on earth</supplied> be long for this man the strength of whose arms is unsurpassed, who has revealed the crystal-clear water, <gap reason="illegible" unit="character" quantity="4"/> by name!</p>
+            <p rend="stanza" n="1">May this life <supplied reason="explanation">on earth</supplied> be long for the strong-armed <supplied reason="subaudible">king</supplied>, whose excellent name is Vijaya, who digs the crystal-clear water with an extensive construction <supplied reason="explanation">of a dam, <foreign>bandhya</foreign> = <foreign>bandha</foreign>?</supplied>!</p>
+ 	<!-- <p rend="stanza" n="1">May this life <supplied reason="explanation">on earth</supplied> be long for this man the strength of whose arms is unsurpassed, who has revealed the crystal-clear water, <gap reason="illegible" unit="character" quantity="4"/> by name!</p> -->
          </div>
          <div type="commentary">
-            <p>The inscription is composed in Sanskrit and seems to comprise a stanza in the <foreign>āryā</foreign> meter. This hypothesis underlies the present edition.</p>
+            <p>The inscription is composed in Sanskrit and comprises a stanza in the <foreign>āryā</foreign> meter, revealing the name of a historical figure not known from any other sources.</p>
          </div>
         <div type="bibliography">
 	<!--bibliography encoded as per section §9.4 -->
