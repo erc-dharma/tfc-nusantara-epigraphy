@@ -102,7 +102,8 @@
                     <rdg source="bib:Griffiths2012_02">prathita<unclear>vā</unclear>n ya<unclear>ḥ</unclear></rdg>
                 </app>
                   <app loc="4">
-                     <rdg source="bib:Griffiths2012_02">tasya <seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg>i</seg> <seg met="-+-"><gap reason="lost" quantity="3" unit="character"/></seg>-nāmnaḥ</rdg>
+                    <lem><unclear>v</unclear>i<unclear>ja</unclear><supplied reason="lost">yā</supplied><unclear>gra</unclear>-nāmnaḥ</lem>
+                     <rdg source="bib:Griffiths2012_02"><seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg>i</seg> <seg met="-+-"><gap reason="lost" quantity="3" unit="character"/></seg>-nāmnaḥ</rdg>
                      <note>The fracture of the stone here has brought about the nearly complete loss of the consonant sign on top of which the <foreign>i</foreign> marker is still perfectly visible, and with it most of the immediately following <foreign>akṣara</foreign>s. It is impossible to propose with certainty a restoration for the name that was once written between <foreign>tasya</foreign> and <foreign>-nāmnaḥ</foreign>, but it
                         cannot have been the same (Bhānu) as in the <ref target="DHARMA_INSIDENKHampran.xml">Hampran inscription</ref>, and Vijaya seems to be the most plausible guess.</note>
                   </app>
@@ -117,7 +118,7 @@
          </div>
         <div type="bibliography">
 	<!--bibliography encoded as per section §9.4 -->
-           <p>First published by Arlo Griffiths (<bibl rend="omitname"><ptr target="bib:Griffiths2012_02"/></bibl>) based on the EFEO estampages n. 2039 and 2040. Re-published here with minor modifications, taking into account also the photogrammetries made by Adeline Levivier in  March 2023. </p>
+           <p>First published by Arlo Griffiths (<bibl rend="omitname"><ptr target="bib:Griffiths2012_02"/></bibl>) based on the EFEO estampages n. 2039 and 2040. Re-published here with significant improvements, taking into account also the photogrammetries made by Adeline Levivier in  March 2023. </p>
         	<listBibl type="primary">
 				<bibl n="BKI"><ptr target="bib:Griffiths2012_02"/><citedRange unit="page">482-483</citedRange><citedRange unit="section">5</citedRange><citedRange unit="figure">9-10</citedRange></bibl>
 			</listBibl>
