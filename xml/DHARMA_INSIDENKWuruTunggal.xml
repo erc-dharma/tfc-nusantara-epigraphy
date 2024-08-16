@@ -8,7 +8,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Wuru Tunggal</title>
+            <title>Wuru Tunggal (833 Śaka)</title>
             <respStmt>
                <resp>EpiDoc encoding</resp>
                <persName ref="part:argr">
@@ -74,6 +74,7 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
+         <change who="part:argr" when="2024-08-16" status="draft">merged with file INS02Wuru</change>
          <change who="part:wjsa" when="2024-05-09" status="draft">Fixed ref error and minor syntax errors</change>
          <change who="part:axja" when="2020-11-03" status="draft">Updating toward the encoding template v03</change>
          <change who="part:argr" when="2020-09-24" status="draft">various small revisions</change>
@@ -83,8 +84,22 @@
    </teiHeader>
    <text xml:space="preserve">
       <body>
- <div type="edition" xml:lang="kaw-Latn">
-<pb n="1r"/><p><lb n="1r1"/>śaka 833 phālgu<choice><orig>ṇ</orig><reg>n</reg></choice>a-māsa dvitīyă kr̥ṣṇa-pakṣa, <abbr>ma</abbr>,
+          <!--
+This is an original single copper plate which is engraved on its both sides. Seven lines stand on the <foreign>recto, </foreign>four lines on the <foreign>verso</foreign>, bringing the total lines to eleven. The provenance of this plate is unidentified, yet it might come from the Yogyakarta area since it was J.A. Dieduksman, a Dutch official who was residing in Jogja, who donated this plate to BG and asked Brandes to decipher it. Its current whereabouts is unknown, possibly it has been lost. A facsimile of this plate is said to be kept in the Puslit Arkenas, which nowadays is reorganized as Badan Riset dan Inovasi Nasional (BRIN). Alas, it is in a poor condition according to Damais. The measurements of this plate have never been recorded anywhere.
+NBG 1896: 53, Brandes 1913: 37 (no. XXIX).
+Damais 1952: 51, n.8 (no. A. 91), Damais 1955: 49, n.3.
+The first edition of this plate was made by Brandes which later was published in OJO (1913). Later, it was re-edited by Sarkar (1971–72, vol. II) in which he provided the first translation in English. Wisseman Christie in her 1996 article provided a partial English translation which she declared is a bit different from what Sarkar had provided. Edhie Wurjantoro (2018) published the Indonesian translation as well as the transcription without mentioning which edition he uses. Recently, the inscription has been restudied by Arlo Griffiths as part of the DHARMA project using Brandes&#x27; transcription as well as Damais’ readings that can be inferred from citations of passages in his onomastic repertory (1970). The edition presented here is solely based on Griffiths’ reading, complemented with comments by Tyassanti Kusumo Dewanti.
+Brandes 1913: 36 (no. XXIX).
+Sarkar 1971–72, vol. II: 135–37 (no. LXXXI).
+Wisseman Christie 1996: 282, appendix 6.
+Edhie Wurjantoro 2018: 243–44.
+Apart from the studies made for establishing a reading, this charter is also integrated in the inventories compiled by Damais (1952) and Nakada (1982). The study of the date was carried out by Damais (1955), resulting in the CE date 8 March 912.
+Damais 1952: 50–51 (no. A. 91), Nakada 1982: 96–97 (no. I. 105).
+Damais 1955: 49–50.
+This charter records a clearance of a debt made by the father of <foreign>ḍaṅ </foreign>Navi to Master (<foreign>mpu guru</foreign>)<foreign> </foreign>Daya.
+-->
+ <div type="edition" xml:lang="kaw-Latn" rendition="class:38769 maturity:83213">
+<pb n="1r"/><p><lb n="1r1"/>śaka <num value="833">833</num> phālgu<choice><orig>ṇ</orig><reg>n</reg></choice>a-māsa dvitīyă kr̥ṣṇa-pakṣa, <abbr>ma</abbr>,
 <lb n="1r2"/><abbr>va</abbr>‚ <abbr>Ā</abbr>, vāra‚ kālani ḍaṁ navī sumahur hutaṁ saṁ bapa I mpu guru
 <lb n="1r3"/>ḍayā‚ panahurnya mas· <abbr>su</abbr> <num value="16">16</num> <abbr>mā</abbr> <num value="10">10</num> <abbr>ku</abbr> <num value="2">2</num> <abbr>ha</abbr> <num value="5">5</num> tumaṅga<lb n="1r4" break="no"/>pp ikaṁ mas· pu latī bapani bayal anag vanva I vuru tuṅgal·
 <lb n="1r5"/>tutuganniṁ taṇḍa muAṁ pu vijaḥ bapani bhūmi Anag vanva I vuru tu<lb n="1r6" break="no"/>ṅgal·‚ śuddha hutaṁni ḍaṁ navĭ I mpu guru ḍayā,</p> <p>tatra sākṣī saṁ tgu<lb n="1r7" break="no"/>hān anag vanva I pilaṁ vatak paṅgil hyaṁ‚ saṁ ta<gap reason="illegible" unit="character" quantity="2"/> Anag va<pb n="1v" break="no"/><lb n="1v1" break="no"/>nva I valaka<choice><orig>ś</orig><reg>s</reg></choice> vatak valakas saṁ bhāskara Anag vanva I valeṁ
@@ -135,10 +150,10 @@
          </div>
          <div type="translation" resp="part:argr">
 <!-- I  translate similarly to HBS: -->
-<p n="1r1-6">Śaka 833, month of Phālguna, second <supplied reason="explanation"><foreign>tithi</foreign></supplied> of the waning fortnight, Mavulu, Vagai‚ Sunday. <supplied reason="subaudible">That</supplied> was the time that <foreign>ḍaṁ</foreign> Navī repaid the debt of his/her father to Master <supplied reason="explanation"><foreign>mpu guru</foreign></supplied> Ḍayā. The repayment for it was 16 <foreign>suvarṇa</foreign>, 10 <foreign>māṣa</foreign>, 2 <foreign>kupaṅ</foreign>, and 5 <foreign>hatak</foreign>. <foreign>Pu</foreign> Latī, father of Bayal, resident of the village of Vuru Tuṅgal, <foreign>tutuganniṅ taṇḍa</foreign>, together with <foreign>pu</foreign> Vijah, father of Bhūmi, <supplied reason="explanation">also</supplied> resident of the village of Vuru Tuṅgal, received the gold. The debt of <foreign>ḍaṁ</foreign> Navī to the Master Ḍayā was cleared <supplied reason="explanation"><foreign>śuddha</foreign></supplied>.</p>
- <p n="1r6-1v3">The witnesses to it were: <foreign>saṅ</foreign> Təguhan, resident of the village of Pilaṅ, <foreign>vatak</foreign> of Paṅgil Hyaṅ; <foreign>saṅ</foreign> Ta<gap reason="lost"/>, resident of the village of Valakas, <foreign>vatak</foreign> of Valakas; <foreign>saṅ</foreign> Bhāskara, resident of the village of Valaiṅ, <foreign>vatak</foreign> of Valaiṅ; <foreign>saṅ</foreign> Pakambaṅan, resident of the village of Taṅga, <foreign>vatak</foreign> of Hino; <foreign>saṅ</foreign> Ra Tira, resident of the village of Limo, <foreign>vatak</foreign> of Pagar Vsi. The document was written by the <foreign>rakai</foreign> of Pilaṅ.</p>
+<p n="1r1-6">Śaka 833, month of Phālguna, second <supplied reason="explanation"><foreign>tithi</foreign></supplied> of the waning fortnight, Mavulu, Vagai‚ Sunday. <supplied reason="subaudible">That</supplied> was the time that <foreign>ḍaṅ</foreign> Navī repaid the debt of his/her father <supplied reason="explanation"><foreign>bapa</foreign></supplied><note>The use of <foreign>bapa </foreign>instead of the common <foreign>rāma</foreign>to denote <abbr>father</abbr> throughout this charter is peculiar. See also 1r4, 1r5.</note> to Master <supplied reason="explanation"><foreign>mpu guru</foreign></supplied> Ḍayā. The repayment for it was 16 <foreign>suvarṇa</foreign>, 10 <foreign>māṣa</foreign>, 2 <foreign>kupaṅ</foreign>, and 5 <foreign>hatak</foreign>. <foreign>Pu</foreign> Latī, father of Bayal, resident of the village of Vuru Tuṅgal, <foreign>tutuganniṅ taṇḍa</foreign>,<note>On the expression <foreign>tutuganniṅ taṇḍa</foreign>, see <bibl><ptr target="bib:Griffiths2021-2022_01"/><citedRange unit="page">198-199</citedRange><citedRange unit="note">139</citedRange></bibl>. The translation <q>who signed <supplied reason="subaudible">the document</supplied></q> offered by <bibl><ptr target="bib:WissemanChristie2009_02"/><citedRange unit="page">180</citedRange></bibl>, connecting the expression to the name of a person, is unlikely to be correct, as the expression is normally associated with toponyms.</note> together with <foreign>pu</foreign> Vijah, father of Bhūmi, <supplied reason="explanation">also</supplied> resident of the village of Vuru Tuṅgal, received the gold. The debt of <foreign>ḍaṅ</foreign> Navī to Master Ḍayā was cleared <supplied reason="explanation"><foreign>śuddha</foreign></supplied>.</p>
+ <p n="1r6-1v3">The witnesses to it were: <foreign>saṅ</foreign> Təguhan, resident of the village of Pilaṅ, <foreign>vatak</foreign> of Paṅgil Hyaṅ; <foreign>saṅ</foreign> Ta<gap reason="lost"/>, resident of the village of Valakas, <foreign>vatak</foreign> of Valakas; <foreign>saṅ</foreign> Bhāskara, resident of the village of Valaiṅ, <foreign>vatak</foreign> of Valaiṅ;<note>The toponym here spelt <foreign>valeṁ</foreign> is obviously the same as the Valaiṅ found in several other Central Javanese inscriptions. See the elaborate discussion in <bibl><ptr target="bib:Damais1964_01"/><citedRange>121-126</citedRange></bibl> and <bibl><ptr target="bib:Griffiths2011_02"/></bibl>. It is also mentioned in other inscriptions in the Daksa corpus, viz. in <ref target="DHARMA_INSIDENKWintangMas">Wintang Mas</ref> and <ref target="DHARMA_INSIDENKTulangEr">Tulang Er</ref>, though in the latter it figures in the spelling <foreign>baleṁ</foreign>.</note> <foreign>saṅ</foreign> Pakambaṅan, resident of the village of Taṅga, <foreign>vatak</foreign> of Hino; <foreign>saṅ</foreign> Ra Tira, resident of the village of Limo, <foreign>vatak</foreign> of Pagar Vəsi.<note>Pagar Vəsi already appears as the name a <foreign>vatak</foreign> since 798 Śaka (<ref target="DHARMA_INSIDENKJurungan">Jurungan</ref>) and the last occurrence is in 841 Śaka (<ref target="DHARMA_INSIDENKLintakan">Lintakan</ref>). <seg rend="check">From this list, we can reconstitute some villages that belong to Pagar Vəsi. Those are Juruṅan (Jurungan 1v2, Lintakan 1r12), Kalaṅkyaṅ (Kayu Ara Hiwang A17), Kukap (Rongkab 1r5), Watu-watu (Kasugihan 1r3), Limo (Wuru Tunggal 1v3), Kahuripan (Lintakan 2r3) and Pakalaṅkyaṅan (Panggumulan 2v1, Lintakan 3r8). Here, the last village mentioned seems to refer to the same place as the which is mentioned in the Kayu Ara Hiwang inscription as Kalaṅkyaṅ. For cross reference to this toponym, see the note for 1.23 in Taji Gunung.</seg></note> The document was written by the Lord of Pilaṅ.</p>
          </div>
-         <div type="commentary">
+         <div type="commentary"/>
             <!--commentary encoded as per section §9.3 -->
 <!-- 
 De Casparis, loc. cit. wrongly claims that the text contains the term śuddhapatra, although it does contain the terms śuddha and likhitapatra.
@@ -147,12 +162,11 @@ INI I (1940), pp 29 sqq.
 See also śuddhapariśuddha in Pu Mamruk
 Occurrences of śuddhapariśuddha in OJO XXIII and XLVIII.
  -->
-<p n="1r5"><foreign>tutuganniṅ taṇḍa</foreign>: this expression, occurring in several inscriptions of the Central Javanese period, seem literally to mean <q>incisions of the mark</q>. The contextual meaning is obscure. But the translation <q>who signed [the document]</q> offered by <bibl><ptr target="bib:WissemanChristie2009_02"/></bibl>, connecting the expression to the name of a person, is unlikely to be correct, as the expression is normally associated with toponyms.</p>
-<p n="1v2-3"><foreign>valeṁ</foreign>: obviously the same as the toponym Valaiṅ found in several other Central Javanese inscriptions. See the elaborate discussion in <bibl><ptr target="bib:Damais1964_01"/><citedRange>121-126</citedRange></bibl> and <bibl><ptr target="bib:Griffiths2011_02"/></bibl>.</p>
-         </div>
+<!-- <p n="1r5">The expression <foreign>tutuganniṅ taṇḍa</foreign>, occurring in several inscriptions of the Central Javanese period, seems literally to mean <q>incisions of the mark</q>,  <q>the engraving of the sign</q> or <q>up to the limit of the sign</q>’. The contextual meaning is obscure. But the translation <q>who signed <supplied reason="subaudible">the document</supplied></q> offered by <bibl><ptr target="bib:WissemanChristie2009_02"/><citedRange unit="page">180</citedRange></bibl>, connecting the expression to the name of a person, is unlikely to be correct, as the expression is normally associated with toponyms. <bibl><ptr target="bib:Griffiths2021-2022_01"/></bibl> argues that it stands as a toponymic reference. The word <foreign>taṇḍa </foreign>might refer to a boundaries, possibly boundary markers, of a certain village. As a comparison, Griffiths connects this idea to the concept of boundary and mark in the Old English word <foreign>mearc</foreign>, which later delivers the words “mark” and “march”.</p> -->
+ 
         <div type="bibliography">
 	<!--bibliography encoded as per section §9.4 -->
-           <p>First edited by J.L.A. Brandes <bibl rend="omitname"><ptr target="bib:Brandes1913_01"/></bibl>, apparently based on autopsy of the plate; readings of small segments of text containing proper names and toponyms by L.-Ch. Damais (<bibl rend="omitname"><ptr target="bib:Damais1970_01"/></bibl>) based on a mediocre eye-copy that he had been able to consult at the Archaeological Service; reproduction of Brandes’ edition, to which is added a translation into English, by H. B. Sarkar (<bibl rend="omitname"><ptr target="bib:Sarkar1971-1972_01"/></bibl>). The text is re-edited by Arlo Griffiths without inspection of any reproduction, taking Brandes’ edition as base-text, with reinterpretation of the transliteration system according to DHARMA norms, and adoption of new readings proposed by Damais.</p>
+           <p>First edited by J. L. A. Brandes <bibl rend="omitname"><ptr target="bib:Brandes1913_01"/></bibl>, apparently based on autopsy of the plate; readings of small segments of text containing proper names and toponyms by L.-Ch. Damais (<bibl rend="omitname"><ptr target="bib:Damais1970_01"/></bibl>) based on a mediocre eye-copy that he had been able to consult at the Archaeological Service; reproduction of Brandes’ edition, to which is added a translation into English, by H. B. Sarkar (<bibl rend="omitname"><ptr target="bib:Sarkar1971-1972_01"/></bibl>). The text is re-edited by Arlo Griffiths without inspection of any reproduction, taking Brandes’ edition as base-text, with reinterpretation of the transliteration system and adoption of new readings proposed by Damais.</p>
         	<listBibl type="primary">
 		<bibl n="B">
 			<ptr target="bib:Brandes1913_01"/>
@@ -173,7 +187,7 @@ Occurrences of śuddhapariśuddha in OJO XXIII and XLVIII.
               	<citedRange unit="item">3</citedRange>
               </bibl>
 <!-- "3°. bericht, dat hem door den Heer J. A. Dieduksman te Djogjakarta ter bezichtiging en ontcijfering is afgestaan eene tot nog toe onbekende koperen plaat, een quitantie leverende van Çaka 833 (= A. D. 911)." -->
-	<bibl><ptr target="bib:Bosch1915_01"/><citedRange unit="page">5</citedRange></bibl>
+	<bibl><ptr target="bib:ROD1915_01"/><citedRange unit="page">5</citedRange></bibl>
 	<bibl><ptr target="bib:Bosch1926_02"/><citedRange unit="page">65</citedRange></bibl>
 	<bibl><ptr target="bib:Damais1952_01"/><citedRange unit="page">50-51</citedRange><citedRange unit="part">A</citedRange><citedRange unit="item">91</citedRange></bibl>
 <!-- n. 8: "(8) Le seul document disponible en dehors de la transcription Brandes dans 010, XXIX est un fac-similé imprimé fort défectueux. Il y a là des caractères informes et des ligatures impossibles provenant probablement d'une mauvaise interprétation des signes d'une plaque de cuivre très effacée et qui rappellent les fac-similés à l'encre faits au siècle dernier et dont la Bibliothèque Nationale de Paris possède un certain nombre." -->	
