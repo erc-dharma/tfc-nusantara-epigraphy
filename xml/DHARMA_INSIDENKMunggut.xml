@@ -289,41 +289,64 @@ The first line is a bit better preserved than the following eight lines, but sti
                    </app>
                    <app loc="3.2">
                        <lem>ma<lb n="3.3" break="no"/>hī<unclear>ṣṭhva</unclear>n·</lem>
-                       <note>The reading <foreign>ṣṭhva</foreign> is purely diagnostic, for we see an <foreign>akṣara</foreign> with two <foreign>pasangan</foreign>s below it, but do not recognize which word is intended here so we offer merely what seems to be a possible reading of the problematic ligature</note>
+                       <note>The reading <foreign>ṣṭhva</foreign> is purely diagnostic, for we see an <foreign>akṣara</foreign> with two <foreign>pasangan</foreign>s below it, but do not recognize which word is intended here so we offer merely what seems to be a possible reading of the problematic ligature.</note>
                    </app>
-
-
-
-                   <app loc="3.4-3.5">
-                       <lem>tamolah ata<unclear>ḥ paṅa</unclear>sthāna</lem>
-                       <note>The reading is rather uncertain, and the word <foreign>paṅasthāna</foreign> not recorded in <title>OJED</title> (which only records <foreign>paṅasthāna</foreign>), although we find it in a similar context in <ref target="DHARMA_INSIDENKSimaAnglayang.xml">Sima Anglayang</ref> 4v4–5: <foreign>yāvat tamolaḥ I saṁ hyaṁ sarvvadharmma, mvaṁ paṅasthāna ri jātakanira</foreign>.</note>
+                   <app loc="3.4">
+                       <lem>salviranikanaṁ <unclear>na</unclear><lb n="3.5"/><gap reason="illegible" quantity="1" unit="character"/>ṁ <unclear>bha</unclear>ṇḍa pamvatanya</lem>
+                       <note>We seem to have here a somehow expanded version of the expression found as <foreign>salvīrani bhaṇḍanya kabeḥ</foreign> in <ref target="DHARMA_INSIDENKCane.xml">Cane</ref> Cd21 and as <foreign>salviraniṅ bhaṇḍanya</foreign> in <ref target="DHARMA_INSIDENKPatakan.xml">Patakan</ref> B22. There seems to be an intrusive <foreign>pasangan</foreign> or full interlinear <foreign>akṣara</foreign> below the <foreign>sa</foreign> of <foreign>salviranikanaṁ</foreign> as well as an intrusive <foreign>ṅa</foreign> or <foreign>U</foreign> engraved below the <foreign>pa</foreign> of <foreign>pamvatanya</foreign>.</note>
+                   </app>
+                   <app loc="3.5">
+                       <lem>tamola<lb n="3.6"/>h ata<unclear>ḥ paṅa</unclear>sthāna </lem>
+                       <note>The reading is rather uncertain, but <foreign>paṅasthāna</foreign> occurs in a similar context in <ref target="DHARMA_INSIDENKSimaAnglayang.xml">Sima Anglayang</ref> 4v4–5.</note>
                    </app>
                    <app loc="3.7">
                        <lem><unclear>A</unclear>nn ikanaṁ</lem>
-                       <note>Instead of <foreign>A</foreign>, it would be easier to read <foreign>sa</foreign>, but this is hard to accept in the context. The turn of phrase <foreign>ann ikanaṅ</foreign> was also found above, in C, line 19.</note>
+                       <rdg source="bib:TitiSurtiNastiti+al2012_01">sannikanaṁ</rdg>
+                       <note>Instead of <foreign>A</foreign>, it would be easier to read <foreign>sa</foreign>, but this is hard to accept in the context. The turn of phrase <foreign>ann ikanaṅ</foreign> was also found above in 2.17.</note>
                    </app>
-                   <app loc="3.18">
-                       <lem><choice><sic>keñcaka</sic><corr>kencaka</corr></choice></lem>
-                       <note>No punctuation sign seems to have been engraved between this word and the next.</note><!--ekba: perhaps we can put this in commentary?-->              </app>
-                   <app loc="3.27-3.28">
-                       <lem>tumūtak<unclear>na</unclear> yacānyayan ika masthānabati ri</lem>
-                       <note>we are unable to understand this sequence, and therefore uncertain about some of the readings as well as the word divisions. We suspect <foreign>yacānyayan</foreign> may be a scribal error for <foreign>yathānyayan</foreign> or <foreign>yavānya yan</foreign>, but in neither case do we obtain an understandable text. More substantial emendation seems to be necessary.</note>
+                   <app loc="3.19">
+                       <lem>mat<choice><sic>u<unclear>p</unclear>u</sic><corr>apu</corr></choice>kan·</lem>
+                       <rdg source="bib:TitiSurtiNastiti+al2012_01">matuvuṅan·</rdg>
+                       </app>
+                   <app loc="3.27">
+                       <lem>tumūtak<unclear>na</unclear> yacānyayan i<lb n="3.28" break="no"/>ka masthānabati ri sājñānya</lem>
+                       <rdg source="bib:TitiSurtiNastiti+al2012_01">tumutaku yavanya ya ni<supplied reason="omitted">ṁ</supplied> kamaśthanaṁ kaki ri sājmanya</rdg>
+                       <note>We are unable to understand thi sequence, and therefore uncertain about some of the readings as well as the word divisions. We suspect <foreign>yacānyayan</foreign> may be a scribal error for <foreign>yathānyayan</foreign> or <foreign>yavānya</foreign> yan, but in neither case do we obtain an understandable text. More substantial emendation seems to be necessary.</note>
                    </app>
-                   <app loc="3.33-3.34">
-                       <lem>tamolaḥ I pana<gap reason="lost" quantity="1" unit="character"/>taranya</lem>
-                       <note>Cf. <ref target="Cane.xml">Cane</ref> t<foreign>amolah ṅke ri sīmanya I cane kapaṅgiha deni savkavetnya</foreign>. See also the passages cited two notes below.</note>
+                  <app loc="3.34">
+                       <lem>pana<space type="defect"/>taranya sovaṁ-sovaṁ tan· <lb n="3.35"/>kolah-ulaha de sa<supplied reason="omitted">ṅ a</supplied>nāgata pra<lb n="3.36" break="no"/>bhu, <unclear>mvaṁ saṅ anāgata vineḥ tiṁha</unclear><milestone type="pagelike" unit="face" n="4" break="no"/><label xml:lang="eng">Left main part</label> <lb n="4.1" break="no"/><supplied reason="lost">l· piṁhay</supplied>·, <unclear>ma</unclear>katə<unclear>vəka</unclear> <lb n="4.2"/> <supplied reason="lost">śrī ma</supplied><unclear>h</unclear>ārāja ri maṇiratnasi</lem>
+                       <note>This reconstruction is inspired by <ref target="DHARMA_INSIDENKCane.xml">Cane</ref> Cd24–25: <foreign>tan· kolah-ulaha de saṁ Anāgata-prabhu ṅuniveḥ saṁ Anāgata vineḥ tiṅhal· piṁhai makatəvəka paṁḍiri śrī mahārāja ri maṇiratnasiṅhāsana makaḍatvan· ri vvatan mās</foreign>. Nevertheless it is quite hypothetical, among other reasons because (1) the number of <foreign>akṣaras</foreign> on line 4.1 resulting from the reconstruction is 9, while the following lines have more; (2) the precise spelling <foreign>piṁhay·</foreign>, known in other periods, is never found in other Airlangga inscriptions.</note>
+                   </app>
+                   <app loc="4.4">
+                       <lem>yapvan· hana sira kamatan· <lb n="4.5"/> tan· yatnā I sara<supplied reason="omitted">sa</supplied>ny ājñā śrĭ ma<lb n="4.6" break="no"/>hāraja, Umulah-ulaḥ Ikeṁ<lb n="4.7"/>sīma I muṅgut·, ya saṅkāna<lb n="4.8" break="no"/>ni pramādanya, salvirani la<unclear>ṅgha</unclear><lb n="4.9" break="no"/><unclear>na</unclear> ri saṁ hyaṅ ājñā haji lviranya<lb n="4.10"/> knāna ya <space type="defect"/> nigraha <abbr>mā</abbr> <abbr>kā</abbr> <num value="1">1</num> <abbr>su</abbr><lb n="4.11"/><num value="5">5</num></lem>
+                       <note>Cf. <ref target="DHARMA_INSIDENKBaru.xml">Baru</ref> Cf8–10 <foreign>kapvātikā tan· bari-barin denira, yathānya tan· pamuhara pramāda riṁ sira yāpvan hana sira kamatan· tan· yatna I sarasa (saṁ) hyaṅ ajñā haji tāmraprasāsti kmitanikanaṁ karāman· riṁ baru sapaśuk thāni matuha manvam· kabeḥ, ya saṅkānani pramādanya salvirniṁ laṅghana saṁ hyaṅ ājñā haji lviranya knāna nigraha kā 2 mās ⟨s⟩u 10</foreign> and <ref target="DHARMA_INSIDENKSimaAnglayang.xml">Sima Anglayang</ref> 4v3–5 <foreign>yāpvan hana baṇigrāma mvaṁṅ ikaṁ sĭmāṅlayaṁ kamatān· kentasa tan pasuṁ ri kapālihani dr̥ byanika(ṁ) madaga(ṁ) pjaḥ Anăpatya, yāvat tamolaḥ I saṁ hyaṁ sarvvadharmma, mvaṁ paṅasthāna ri jātakanira, ya saṁkanāni pramādanya, salvirniṁ laṅghana I saṁ hyaṁṅ ājñā haji lvirānya, knāna ya nigraha, mā (k)ā 1, su 5 //</foreign>. There is also a damaged parallel passage in <ref target="DHARMA_INSIDENKPandaan.xml">Pandaan</ref> B17–18 <foreign>yāpvan hana sira kamatan ta[n yatna I] saraśa saṁ hyaṅ ājñā haji, ya saṁkanani pramādanya, salvīrnīṁ laṅghana [I] saṁ hyaṅ ājṅā haji lvīranya, knāna ya nigraha mā kā [1 su] 5</foreign>.</note>
                    </app>
                    <app loc="4.5">
-                       <lem>sara<choice><sic>ny</sic><corr>sanya</corr></choice></lem>
-                       <note>See <ref target="DHARMA_INSIDENKBaru.xml">Baru</ref>, faces Cd lines 8 and 39, and <ref target="DHARMA_INSIDENKGandhakuti.xml">Gandhakuti </ref>plate IV, verso, line 5.</note>
+                       <lem>sara<supplied reason="omitted">sa</supplied>ny</lem>
+                       <rdg source="bib:TitiSurtiNastiti+al2012_01">sarany</rdg>
+                       <note>cf. <ref target="DHARMA_INSIDENKBaru.xml">Baru</ref> Cdef lines 8 and 39, and <ref target="DHARMA_INSIDENKGandhakuti.xml">Gandhakuti</ref> 4v5.</note>
                    </app>
                    <app loc="4.25">
-                       <lem>ta<unclear>n· to</unclear>liha</lem>
-                       <note> The presence of a large irregularity in the surface of the stone and the descending parts of the word <foreign>sŭkṣm</foreign>a in line 24 make it hard to recognize the expected segment <foreign>n· to</foreign>.</note>
+                       <lem>ta<unclear>t· to</unclear>liha</lem>
+                       <rdg source="bib:TitiSurtiNastiti+al2012_01"><supplied reason="lost">tat tano</supplied>liha</rdg>
+                       <note>The presence of a large irregularity in the surface of the stone and the descending parts of the word sŭkṣma in line 24 make it hard to recognize the segment <foreign>t· to</foreign> that is expected on the basis of <ref target="DHARMA_INSIDENKTerepII.xml">Terep II</ref>Terep II 8r1 and <ref target="DHARMA_INSIDENKPandaan.xml">Pandaan</ref> B26.</note>
+                   </app>
+                  <app loc="4.26">
+                       <lem>ta<choice><orig>t</orig><reg>t t</reg></choice>iṅhala</lem>
+                       <rdg source="bib:TitiSurtiNastiti+al2012_01"><unclear>tat</unclear>tiṅhala</rdg>
+                       <note>Cf. <ref target="DHARMA_INSIDENKBimalasrama.xml">Bimalasrama</ref> 12r7 and <ref target="DHARMA_INSIDENKTerepII.xml">Terep II</ref> 8r1.</note>
+                   </app>
+                   <app loc="4.31">
+                       <lem><unclear>yan pare</unclear>ṅ alas· <lb n="4.32"/><gap reason="illegible" unit="character" quantity="5"></gap>paraniṁ moṁ</lem>
+                       <note>It seems that there may be about five <foreign>akṣara</foreign>s engraved on the left half of line 4.32, but if indeed any were engraved here they must have been wholly or partially superfluous, as there are numerous parallels for the phrase <foreign>yan pareṅ alas paṅananiṁ moṁ</foreign> or <foreign>yan pareṅ alas dmakniṁ moṁ</foreign>, where nothing ever intervenes between alas and the passive irrealis form of <foreign>paṅan</foreign> or <foreign>dmak</foreign>. Based on the parallels, it also seems that paraniṁ is an error for <foreign>paṅananiṁ</foreign>.</note>
+                   </app>
+                   <app loc="6.4">
+                       <lem>A<space type="defect"/>ta yan· bimba<lb n="6.5" break="no"/>n· pāpāta sajīvakāla</lem>
+                       <note>There are no exact parallels for this passage in the Airlangga corpus, but there is a partial one in Kusambyan d33–34, while more extensive ones are found in the inscriptions of the time of Sindok. After <foreign>piṁpitu</foreign>, we normally find the words <foreign>ata yan bimbān pāpa ata ya saṁsāra sajīvakāla</foreign> (<ref target="DHARMA_INSIDENKLinggasuntan.xml">Linggasuntan</ref> C42; <ref target="DHARMA_INSIDENKParadahII.xml">Paradah II</ref> 2B15; <ref target="DHARMA_INSIDENKAlasantan.xml">Alasantan</ref> 4r9) or <foreign>ata yan bimban pāpa ata ya kadi lavas saṅ hyaṅ candrāditya</foreign> (<ref target="DHARMA_INSIDENKAnjukLadang.xml">Anjuk Ladang</ref> C21). Although the entire passage is badly weathered, the proposed reading seems possible, but we cannot find any trace of <foreign>ya saṁsāra</foreign>.</note>
                    </app>
                    <app loc="9.1">
                        <lem>guve Ubena giditikəm·, cacəm·, ṅayai</lem>
-                       <note>Seemingly only proper names, none recognizable with certainty.</note>
+                       <note>The reading of this line is extremely uncertain. Seemingly it consists only in proper names, none of which are recognizable with certainty</note>
                    </app>
                </listApp>
          </div>
