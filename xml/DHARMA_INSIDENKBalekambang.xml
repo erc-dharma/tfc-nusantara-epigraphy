@@ -120,7 +120,7 @@
 	<!--bibliography encoded as per section §9.4 -->
            <p>First published by Arlo Griffiths (<bibl rend="omitname"><ptr target="bib:Griffiths2012_02"/></bibl>) based on the EFEO estampages n. 2039 and 2040. Re-published here with significant improvements, taking into account also the photogrammetries made by Adeline Levivier in  March 2023. </p>
         	<listBibl type="primary">
-				<bibl n="BKI"><ptr target="bib:Griffiths2012_02"/><citedRange unit="page">482-483</citedRange><citedRange unit="section">5</citedRange><citedRange unit="figure">9-10</citedRange></bibl>
+				<bibl n="BKI"><ptr target="bib:Griffiths2012_02"/><citedRange unit="page">473-477</citedRange><citedRange unit="section">2</citedRange><citedRange unit="figure">3-4</citedRange></bibl>
 			</listBibl>
            <listBibl type="secondary">
               <bibl><ptr target="bib:SriSoejatmiSatari+al1977_01"/><citedRange unit="mixed">Pages 10 and 32, §B.5.1a, photo 20</citedRange></bibl>
