@@ -89,17 +89,18 @@
                 <lb n="3"/>mbyakan sīma mūlani sī vinli i ka
                     <!-- %mūkha-mūla. -->
                     <lb n="4"/>mūvah i təpoh muvah i trivuah vatak	h mūvah i
-                    <lb n="5"/>vuah vatak kalumvayan muvah i ra kiḍan vatak
-                    <lb n="6" break="no"/>k patapān, ikana kunaṅ samaya guru hyaṅ
-                    <lb n="7"/>tā mahapitā	bhagavanta ḍaṅa<!-- cārya-->
-                    <lb n="8"/>kv(ai)hni pinasuk iṅ ḍihyaṅ, saṅ hyaṅ
-                    <lb n="9"/>d dharmma irṣya tan kalilirana deni
-                    <lb n="10"/>tan vaihan vaśā, guru hyaṅ silih atah (pramā)ṇa ri saṅ hyaṅ dharmma, maṅhatura<lb 
-                    n="11" break="no"/>kan i dlāha guru hyaṅ i vaṅkud tatra sākṣī pitamaha i hlaḍan bhagavanta tirvan
-                    <lb n="12"/>hyaṅ haritā saṅ hadyan kuñjara saṅ ha(dyan)	vara i lala
+                    <lb n="5"/>vuAḥ vatak kalumvayan muvah i ra kiḍan· vatak· <gap reason="lost" extent="unknown"/>
+                    <lb n="6" break="no"/>k· patapān·, Ikana kunaṁ samaya guru hyaṁ <gap reason="lost" extent="unknown"/>
+                    <lb n="7"/><unclear>p</unclear><supplied reason="lost">i</supplied>tā<supplied reason="lost">maha</supplied> bhagavanta ḍaṅ <unclear>ā</unclear><supplied reason="lost">cārya</supplied> <gap reason="lost" extent="unknown"/>
+                    <lb n="8"/>kv<supplied reason="lost">ai</supplied>ḥni pinasukniṁ ḍihyaṁ, saṁ hyaṁ <gap reason="lost" extent="unknown"/>
+                    <!-- vaṅkud ?-->
+                    <lb n="9" break="no"/>d· dharmma <seg rend="check">Irṣya</seg> tan kalilirana deni <gap reason="lost" extent="unknown"/>
+                <lb n="10"/>tan vehan· vaśā, guru hyaṁ siliḥ Ataḥ <supplied reason="lost">pra</supplied><unclear>mā</unclear>ṇā ri saṁ hyaṁ dharmma, maṁhatura<lb 
+                n="11" break="no"/>kan i dlāha guru hyaṁ i vaṅkud·</p> <p>tatra sākṣī pitāmaha i hlaḍan· bhagavanta tirvan·
+                <lb n="12"/>hyaṁ haritā saṁ hadyan· kuñjara saṁ ha<unclear>d</unclear><supplied reason="lost">yan·</supplied> <gap reason="lost" unit="character" quantity="2"/>vara I lalar· <gap reason="illegible" unit="character" quantity="3"/> 
                     <!-- maṅulihi?-->
-                    <lb n="13"/> lihi saṅ hadyan  garan pu dvi
-                    <lb n="14"/>(ci)tralikhita ḍapunta sadā i va (einde)
+                <lb n="13" break="no"/>lihi saṁ hadyan· <gap reason="lost" unit="character" quantity="5"/>garan· pu dvi<gap reason="lost" unit="character" quantity="1"/>
+                <lb n="14"/><supplied reason="lost">ci</supplied>tralikhita ḍa punta sadā<unclear>ś</unclear>i<unclear>v</unclear>a 
             </p>
          </div>
          <div type="apparatus">
@@ -115,11 +116,12 @@
  	<!--translation encoded as per EGD §9.2 -->
          </div>
          <div type="commentary">
-            <!--commentary encoded as per section §9.3 -->
+            <!-- OJO
+            Steen, afkomstig van den Diëng, thans als D. 57 in het Museum te Batavia. Over de Diëng-inscripties zie men de litteratuuropgave bij II. Deze steen werd in 1877 (Not. 1878 p. XV sq.) in vier brokstukken opgegraven; het is no. 8 en 9 van de lijst van Dr. Brandes in Not. 1889 p. 131; abklatsch Oudheidk. Bur. no. 89, 90, 92 en 260. Nadat no. 5 van de lijst van Brandes in 1909 als D. 116 in het Museum te Batavia gekomen was, deelde de Heer Rouffaer (Not. p. 176) mede, dat dit fragment het begin van D 57 was (cf. p. LXXXI eu LXXXV van die Notulen). Uit de hier volgende transscriptie blijkt, dat de oorkonde op D. 57 een begin heeft, dat met de transscriptie van D. 116, zooals die in Not. 1886 p. 29 en 1909 p. 156 gegeven is, niet overeenstemt, behalve dat beiden met dezelfde woorden beginnen: de rest wijkt echter af. Ook de schriftsoort is een andere. Daaruit volgt, dat D. 116 geenszins het begin van D. 57 inhoudt, doch een geheel afzonderlijke inscriptie is, die met de hier behandelde niets te maken heeft.
+            -->
          </div>
         <div type="bibliography">
-	<!--bibliography encoded as per section §9.4 -->
-           <p><!-- formulate epigraphic lemma here, using the items of primary bibliography --></p>
+           <p>First deciphered by J. L. A. Brandes (<bibl rend="omitname"><ptr target="bib:Brandes1913_01"/></bibl>). Re-edited here by Arlo Griffiths using photographs of estampages kept at Leiden University Library.</p>
         	<listBibl type="primary">
 				<bibl n="B"><ptr target="bib:Brandes1913_01"/><citedRange unit="page">229</citedRange><citedRange unit="item">XCIX</citedRange></bibl>
 			</listBibl>
