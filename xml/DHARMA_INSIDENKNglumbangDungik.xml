@@ -94,11 +94,12 @@
             </p>
          </div>
          <div type="apparatus">
-            <app loc="5">
+            <listApp>
+                <app loc="5">
                 <lem>-Ātmāya<unclear>r</unclear>ji<lb break="no" n="6"/>tāya</lem>
                 <note>We assume that <foreign>ātmāyarjitāya</foreign> expresses the meaning of <foreign>ātmārjitāya</foreign> or <foreign>ātmane ‘rjitāya</foreign>.
                 </note>
-            </app>
+            </app></listApp></div>
          <div type="translation" resp="part:argr">
  	<p><foreign>Om</foreign>, lord Viṣṇu, <supplied reason="subaudible">lord</supplied> Brahma, lord Indra, <supplied reason="subaudible">lord</supplied> Veśravaṇa, lord Mahādeva, to the one who has taken for himself the treasure from the hand of Veśravaṇa, <foreign>svāhā</foreign>!</p>
          </div>
