@@ -99,15 +99,18 @@
                 <lem>-Ātmāya<unclear>r</unclear>ji<lb break="no" n="6"/>tāya</lem>
                 <note>We assume that <foreign>ātmāyarjitāya</foreign> expresses the meaning of <foreign>ātmārjitāya</foreign> or <foreign>ātmane ‘rjitāya</foreign>.
                 </note>
-            </app></listApp></div>
+            </app></listApp>
+        </div>
          <div type="translation" resp="part:argr">
  	<p><foreign>Om</foreign>, lord Viṣṇu, <supplied reason="subaudible">lord</supplied> Brahma, lord Indra, <supplied reason="subaudible">lord</supplied> Veśravaṇa, lord Mahādeva, to the one who has taken for himself the treasure from the hand of Veśravaṇa, <foreign>svāhā</foreign>!</p>
          </div>
-         <div type="commentary"/>
+         <div type="commentary">
+            <!-- -->
+            </div>
         <div type="bibliography">
            <p>First edited in <bibl><ptr target="TitiSurtiNastiti+al2024_01"/></bibl>. This digital edition is based on that publication.</p>
         	<listBibl type="primary">
-				<bibl n="Tim"><ptr target="TitiSurtiNastiti+al2024_01"/></bibl>
+				<bibl><ptr target="TitiSurtiNastiti+al2024_01"/></bibl>
 			</listBibl>
            <listBibl type="secondary">
               <bibl/><!-- one <bibl/> per item of secondary bibliography -->
