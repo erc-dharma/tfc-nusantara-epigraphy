@@ -108,11 +108,11 @@
             <p n="10">The two <foreign>akṣara</foreign>s are centered on the line.</p>
             </div>
         <div type="bibliography">
-           <p>Provisional decipherment in <bibl><ptr target="AriSetyastuti+RitaSetianingsih1994_01"/></bibl>. First serious attempt at decipherment in <bibl><ptr target="TitiSurtiNastiti+al2024_01"/></bibl>. This digital edition is based on the latter.</p>
+           <p>Provisional decipherment in <bibl><ptr target="bib:AriSetyastuti+RitaSetianingsih1994_01"/></bibl>. First serious attempt at decipherment in <bibl><ptr target="bib:TitiSurtiNastiti+al2024_01"/></bibl>. This digital edition is based on the latter.</p>
         	<listBibl type="primary">
-                <bibl><ptr target="AriSetyastuti+RitaSetianingsih1994_01"/></bibl>
-                <bibl><ptr target="HerniPramastuti+al2015_01"/><citedRange unit="page">50-51</citedRange></bibl>
-				<bibl><ptr target="TitiSurtiNastiti+al2024_01"/></bibl>
+                <bibl><ptr target="bib:AriSetyastuti+RitaSetianingsih1994_01"/></bibl>
+                <bibl><ptr target="bib:HerniPramastuti+al2015_01"/><citedRange unit="page">50-51</citedRange></bibl>
+				<bibl><ptr target="bib:TitiSurtiNastiti+al2024_01"/></bibl>
 			</listBibl>
            <listBibl type="secondary">
               <bibl/><!-- one <bibl/> per item of secondary bibliography -->

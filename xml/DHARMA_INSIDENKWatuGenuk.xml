@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Watu Genuk slab</title>
+                <title>Watu Genuk slab (8th c. CE)</title>
             	<respStmt>
             		<resp>EpiDoc Encoding</resp>
             		<persName ref="part:argr">
@@ -68,6 +68,7 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
+            <change who="part:argr" when="2024-08-26" status="draft">improved edition, translation</change>
         	<change who="part:argr" when="2023-02-03" status="draft">improved edition, translation</change>
         	<change who="part:argr" when="2023-02-01" status="draft">finished basic encoding</change>
         	<change who="part:argr" when="2023-01-31" status="draft">first commit of initial reading</change>
@@ -80,11 +81,11 @@
    <l n="a"><lb n="1"/>mahādeve mudā bhaktiḥ</l> 
    <l n="b">tridhā yasya viśeṣata<unclear>ḥ</unclear></l>
    <l n="c"><lb n="2"/>sahāye v<choice><sic>e</sic><corr>ai</corr></choice> sadā bhuktiḥ</l> 
-   <l n="d">sudhāmno 'sya vaśe sataḥ</l>
+   <l n="d">sudhāmno <supplied reason="subaudible">'</supplied>sya vaśe sataḥ</l>
 </lg>
 <lg n="2" met="sragdharā">
    <l n="a"><lb n="3"/>yaẖ kālo varṣa-māsa-prabhr̥tir iha budhair ggaṇyate vi<unclear>stareṇa</unclear></l>
-   <l n="b"><lb n="4"/>yad dhema ś<unclear reason="eccentric_ductus">r</unclear>eṣṭham iṣṭañ jagati <unclear>va</unclear>huvi<unclear>dhaṁ</unclear> <unclear cert="low">pū</unclear>raya <seg met="+-+="><gap reason="illegible" quantity="4" unit="character"/></seg></l>
+   <l n="b"><lb n="4"/>yad dhema ś<unclear reason="eccentric_ductus">r</unclear>eṣṭham iṣṭañ jagati <unclear>ba</unclear>huvi<unclear>dhaṁ</unclear> <unclear cert="low">pū</unclear>raya <seg met="+-+="><gap reason="illegible" quantity="4" unit="character"/></seg></l>
    <l n="c"><lb n="5"/>dampatyor yyogato yaḫ prabhavati tanayas so ya<unclear>th</unclear>ā cendriyā<unclear cert="low">ṇāṁ</unclear></l>
    <l n="d"><lb n="6"/>viṣṇ<unclear cert="low">u</unclear>ṁ bhāryyāṁ sutan trīn <unclear>sa</unclear>tatam iha <unclear cert="low">mudā</unclear> kāryyasiddhyai na<unclear cert="low">māmi</unclear></l>
 </lg>
@@ -94,7 +95,7 @@
          <div type="translation" resp="part:argr">
  	<p rend="stanza" n="1">He who, with joy, has particular devotion to Mahādeva <supplied reason="explanation">i.e., Śiva</supplied> three times <supplied reason="explanation">per day</supplied>, that good one is a fine locus <supplied reason="explanation">for Śiva, or for devotion to Śiva</supplied> and always has at will the pleasure of <supplied reason="explanation">Śiva as</supplied> a companion.</p>
 	<p rend="stanza" n="2"><supplied reason="subaudible">As</supplied> time, which the learned reckon extensively using <supplied reason="explanation">such units of measure as</supplied> years, months, etc.; 
-<supplied reason="subaudible">as</supplied> best kind of gold which is desired in the world in its various forms ...;<note>The expression <q>best kind of gold</q> (<foreign>hema śreṣṭham ... bahuvidham</foreign>) may be an allusion to the passage of chapter 2.13 of the <title>Arthaśāstra</title> which presents a classification of types of gold. In that chapter (2.13.4), we read: <foreign>kiñjalka-varṇaṃ mr̥du snigdham anādi bhrājiṣṇu ca śreṣṭham</foreign> <q>The best kind has the color of lotus filament and is soft, smooth, not sonorous, and radiant</q> (<bibl><ptr target="bib:Olivelle2013_01"/><citedRange>130</citedRange></bibl>).</note> as the son who is born from the union of spouses' organs, <supplied reason="subaudible">so</supplied> I constantly bow, with joy, to the three here — Viṣṇu, his wife <supplied reason="subaudible">and</supplied> their son — for the success of undertakings.</p>
+<supplied reason="subaudible">as</supplied> best kind of gold which is desired in the world in its various forms <gap reason="illegible"/>;<note>The expression <q>best kind of gold</q> (<foreign>hema śreṣṭham ... bahuvidham</foreign>) may be an allusion to the passage of chapter 2.13 of the <title>Arthaśāstra</title> which presents a classification of types of gold. In that chapter (2.13.4), we read: <foreign>kiñjalka-varṇaṃ mr̥du snigdham anādi bhrājiṣṇu ca śreṣṭham</foreign> <q>The best kind has the color of lotus filament and is soft, smooth, not sonorous, and radiant</q> (<bibl><ptr target="bib:Olivelle2013_01"/><citedRange>130</citedRange></bibl>).</note> as the son who is born from the union of spouses' organs, <supplied reason="subaudible">so</supplied> I constantly bow, with joy, to the three here — Viṣṇu, his wife <supplied reason="subaudible">and</supplied> their son — for the success of undertakings.</p>
          </div>
          <div type="commentary">
            <p>The text is incomplete. Traces of the very top of a 7th line are visible on the photos. Unusual cross marks occupy the space between lines 1 and 2. Extra space is left open between stanzas 1 and 2.</p>
