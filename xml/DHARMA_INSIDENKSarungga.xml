@@ -15,6 +15,10 @@
                   <forename>Wayan Jarrah</forename>
                   <surname>Sastrawan</surname>
                </persName>
+               <persName ref="part:argr">
+                  <forename>Arlo</forename>
+                  <surname>Griffiths</surname>
+               </persName>
             </respStmt>
             <respStmt>
                <resp>intellectual authorship of edition</resp>
@@ -76,8 +80,9 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
-       <change who="part:wjsa" when="2023-10-03">Confirmed reading of śaruṅga, filled out bibliography, small edits to translation</change>
-      	<change who="part:argr" when="2023-09-30">Hyphenated śaka-varṣātīta, removed abbr from śukla, inserted translation</change>
+      <change who="part:argr" when="2024-09-02">changed -nāmā to -nāma || at end</change>
+      <change who="part:wjsa" when="2023-10-03">Confirmed reading of śaruṅga, filled out bibliography, small edits to translation</change>
+      <change who="part:argr" when="2023-09-30">Hyphenated śaka-varṣātīta, removed abbr from śukla, inserted translation</change>
       <change who="part:wjsa" when="2023-09-30">Created xml file for Sarungga</change>
       </revisionDesc>
    </teiHeader>
@@ -86,8 +91,8 @@
                    <div type="edition" xml:lang="kaw-Latn">
                    <!-- Read by Wayan Jarrah Sastrawan in November 2022 from photos in Nurul Fadilla Budiana’s S1 thesis. Reread by Wayan Jarrah Sastrawan and Arlo Griffiths on 12 March 2023 directly from the stone.
                     -->
-                          <p><lb n="1"/><g type="ddanda">.</g>svasti śaka-varṣātīta<unclear>,</unclear> <num value="823">823</num> jyeṣṭa-māsa
-                          <lb n="2"/>pañcami śukla, <abbr>ha</abbr> <abbr>va</abbr> <abbr>so</abbr>, kālaniki<unclear>ṁ</unclear> pa<lb break="no" n="3"/>tapān· ri śaruṅga-nāmā
+                          <p><lb n="1"/><g type="ddanda"/>svasti śaka-varṣātīta<unclear>,</unclear> <num value="823">823</num> jyeṣṭa-māsa
+                          <lb n="2"/>pañcami śukla, <abbr>ha</abbr> <abbr>va</abbr> <abbr>so</abbr>, kālaniki<unclear>ṁ</unclear> pa<lb break="no" n="3"/>tapān· ri śaruṅga-nāma <g type="ddanda"/>
                           </p>   </div>
                        <div type="apparatus">
                         <app loc="1">
@@ -111,8 +116,8 @@
                         <rdg source="bib:GoenawanASambodo+al2019_01">paśarūṅga</rdg>
                         </app>
                         <app loc="3">
-                            <lem source="bib:NurulFadillaBudiana2021_01">nāmā</lem>
-                            <rdg source="bib:GoenawanASambodo+al2019_01">nāma</rdg>
+                           <lem source="bib:GoenawanASambodo+al2019_01">-nāma</lem>
+                           <rdg source="bib:NurulFadillaBudiana2021_01">-nāmā</rdg>
                         </app>
                      </div>
  <div type="translation" resp="part:wjsa part:argr">
