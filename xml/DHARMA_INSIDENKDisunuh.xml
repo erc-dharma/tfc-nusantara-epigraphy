@@ -69,7 +69,8 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
-        	<change who="part:argr" when="2023-04-06" status="draft">finished encoding the inscriptions</change>
+            <change who="part:argr" when="2024-09-05" status="draft">revisions, chiefly in bibliography and apparatus</change>
+        	<change who="part:argr" when="2023-04-06" status="draft">finished encoding the inscription</change>
         	<change who="part:argr" when="2023-03-01" status="draft">first commit of draft encoding</change>
         </revisionDesc>
     </teiHeader>
