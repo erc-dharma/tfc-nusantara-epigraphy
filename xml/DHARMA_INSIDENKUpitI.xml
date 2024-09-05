@@ -83,17 +83,17 @@
     <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="kaw-Latn" rendition="class:38769 maturity:83213">
-            <p><lb n="1"/> // svasti śaka-varṣātita 788 kārt(i)ka pañcadaśi kr̥ṣṇa-pakṣa vu<lb 
+            <p><lb n="1"/><g type="ddanda"/> svasti śaka-varṣātita <num value="788">788</num> kārt<unclear>i</unclear>ka pañcadaśi kr̥ṣṇa-pakṣa vu<lb 
                 n="2" break="no"/>rukuṁ kalivuAn· soma tatkāla rake halaran· manusuk sĭ<lb 
                 n="3" break="no"/>ma Iy upit·</p>
          </div>
          <div type="apparatus">
            <!--apparatus encoded as per EGD §9.1, basic elements for apparatus below-->
-               <listApp><!-- one <app> for each apparatus entry -->
-                  <app loc="line"><!-- update the value of @loc.-->
-                     <lem><!-- fill in a lemma here --></lem>
-                     <rdg source="bib:AuthorYear_01"><!-- update the @source value, fill in variant reading here --></rdg>
-                  </app>
+               <listApp>
+                <app loc="1">
+<lem>kārt<unclear>i</unclear>ka</lem>
+<rdg source="bib:SukartoAtmodjo1975_01">kārt<choice><sic>a</sic><corr>i</corr></choice>ka</rdg>
+                </app>
                </listApp>
          </div>
          <div type="translation" resp="part:argr">
