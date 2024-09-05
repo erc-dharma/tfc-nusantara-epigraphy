@@ -76,7 +76,7 @@
     </teiHeader>
     <text xml:space="preserve">
       <body>
-         <div type="edition" xml:lang="kaw-Latn"><!--edition encoded as per EGD §§2−7-->
+         <div type="edition" xml:lang="kaw-Latn" rendition="class:38769 maturity:83213">
 <p>
 <lb n="3"/><g type="ddanda"/> svasti śaka-varṣātīta
 <lb n="4"/><num value="709">709</num> caitra-māsa ṣaṣṭi kr̥ṣṇa-pakṣa
