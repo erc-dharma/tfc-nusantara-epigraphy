@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Upit I (788 Śaka)</title>
+                <respStmt>
+                    <resp>EpiDoc Encoding</resp>               
+                    <persName ref="part:argr">
+                       <forename>Arlo</forename>
+                       <surname>Griffiths</surname>
+                    </persName>
+                 </respStmt>
+                 <respStmt>
+                    <resp>intellectual authorship of edition</resp>
+                    <persName ref="part:argr">
+                       <forename>Arlo</forename>
+                       <surname>Griffiths</surname>
+                    </persName>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <authority>DHARMA</authority>
+                 <pubPlace>Paris</pubPlace>
+                 <idno type="filename">DHARMA_INSIDENKUpitI</idno>
+                 <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
+                            Licence. To view a copy of the licence, visit
+                            https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                            Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                            California, 94041, USA.</p>
+                        <p>Copyright (c) 2019-2025 by Arlo Griffiths.</p>
+                    </licence>
+                </availability>
+                <date from="2019" to="2025">2019-2025</date>
+            </publicationStmt>
+            <sourceDesc><!-- only the handDesc can be filled in at this stage -->
+                <msDesc><!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/><!-- don't modify this -->
+                    </msIdentifier>
+                    <msContents><!-- describe the intellectual content of an inscription -->
+                        <summary><!-- //// NOT MANDATORY  ////--></summary> <!-- offers the possibility to give a summary of the inscription's content -->
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p><!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EGD 11.2. --></p>
+                            <!-- If you need to identify individual hands (EGD §7.5/) in addition to one or more paragraphs of general palaeographic description, wrap <summary> around the <p> or <p>s above, and, outside <summary>, create <handNote> elements for each hand as follows:
+						<summary><p><p/></summary>
+						<handNote xml:id="Pallava00001_hand1"></handNote>
+						<handNote xml:id="Pallava00001_hand2"></handNote>
+					 -->
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
+            </projectDesc>
+            <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/><!-- UPDATE the link once the release is made official -->
+            <listPrefixDef>
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                    <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
+                </prefixDef>
+                <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
+                    <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_idListMembers_v01.xml</ref> file.</p>
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <revisionDesc>
+            <change who="part:argr" when="2024-09-05">encoded the inscription</change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:space="preserve">
+      <body>
+         <div type="edition" xml:lang="kaw-Latn" rendition="class:38769 maturity:83213">
+            <p><lb n="1"/> // svasti śaka-varṣātita 788 kārt(i)ka pañcadaśi kr̥ṣṇa-pakṣa vu<lb 
+                n="2" break="no"/>rukuṁ kalivuAn· soma tatkāla rake halaran· manusuk sĭ<lb 
+                n="3" break="no"/>ma Iy upit·</p>
+         </div>
+         <div type="apparatus">
+           <!--apparatus encoded as per EGD §9.1, basic elements for apparatus below-->
+               <listApp><!-- one <app> for each apparatus entry -->
+                  <app loc="line"><!-- update the value of @loc.-->
+                     <lem><!-- fill in a lemma here --></lem>
+                     <rdg source="bib:AuthorYear_01"><!-- update the @source value, fill in variant reading here --></rdg>
+                  </app>
+               </listApp>
+         </div>
+         <div type="translation" resp="part:argr">
+            <p>Hail! Elapsed Śaka year 788, <supplied reason="subaudible">month of</supplied> Bhadravāda, 
+                fifteenth <supplied reason="subaudible"><foreign>tithi</foreign></supplied> of the waning fortnight, 
+                Vurukuṅ (of the 6-day cycle), Kalivuan (of the 5-day cycle), Monday (i.e., possibly, on 11 November 866): that was when the Lord of Halaran demarcated the <foreign>sīma</foreign> in Upit.</p>
+         </div>
+         <div type="commentary">
+            <p>There is a serious incoherence in the dating parameters, exposed at length by Sukarto (<bibl rend="omitname"><ptr target="bib:SukartoAtmodjo1975_01"/><citedRange unit="page">248</citedRange><citedRange unit="note">5</citedRange></bibl>): <q>Curiously enough, the calendrical data provided in the inscription must contain an error, although the reading of the text is beyond any doubt. This is evident, as Drs. Boechari and myself have had occasion to ascertain from the tables published by Damais (1953: 255), which show that in 866 A.D. the 210-day <foreign>wuku</foreign>-cycle began on 21 July, whereas the month Kārtika falls in October-November. The date given in the inscription, 15 <foreign>kṛṣṇapaksa</foreign> of Kārtika 788 Śaka, is equivalent to 11 November, A.D. 866, since 1 Kārtika 788 = 13 October 866. But <foreign>wu</foreign>, <foreign>ka</foreign>, <foreign>so</foreign>, being the 9th day of the <foreign>wuku</foreign>-cycle, fell on 29 July 866. Since the relevant calculations show that a similar discrepancy, larger or smaller, would result for any other year that might be considered, the error must be contained in the <foreign>wuku</foreign> elements. In 866, the 11th November was the 114th day of this cycle, that is, according to Damais' tables: Mawulu Kaliwuan Soma, two of the three terms in which are the same as those given in the inscription. It is most likely, therefore, that the author of the inscription erroneously wrote Wurukung instead of Mawulu, so that the correct date of the inscription is in fact 11 November 866. This solution was suggested by Dr. J. Noorduyn, who kindly made the necessary calculations with the aid of the new-moon tables of P. Hoang, <gap reason="ellipsis"/>.</q><!--  
+                TSN 2018: 193 n. 10: <q>Kartoatmodjo (Sukarto 1975: 248, footnote 5) suggested the presence of an error in the calendrical data provided in this text, because according to the calculations “wuku wurukuŋ kaliwu˚an soma” should fall in the month of July. In fact, the month of Kārtika fell in October–November. Consequently, the text should have been written “mawulu kaliwu˚an soma (ma ka so)”, that fell in November.</q> 
+            --></p>
+         </div>
+        <div type="bibliography">
+            <p>Edited in <bibl><ptr target="bib:SukartoAtmodjo1975_01"/></bibl>. Re-edited here by Arlo Griffiths from photogrammetry.</p>
+        	<listBibl type="primary">
+				<bibl n="S"><ptr target="bib:SukartoAtmodjo1975_01"/></bibl>
+            </listBibl>
+           <listBibl type="secondary">
+              <bibl><ptr target="bib:TitiSurtiNastiti2018_01"/><citedRange unit="page">193</citedRange></bibl>
+              <bibl><ptr target="bib:Nakada1982_01"/><citedRange unit="page">82-83</citedRange><citedRange unit="item">I-34</citedRange></bibl>
+           </listBibl>
+        </div>
+      </body>
+  </text>
+</TEI>
