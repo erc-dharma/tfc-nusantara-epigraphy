@@ -108,16 +108,18 @@
          </div>
         <div type="bibliography">
 	<!--bibliography encoded as per section §9.4 -->
-           <p>Edited in <bibl><ptr target="bib:SukartoAtmodjo1969_01"/></bibl>. Re-edited her by Arlo Griffiths from photogrammetry.</p>
+           <p>Edited in <bibl><ptr target="bib:SukartoAtmodjo1969_01"/></bibl>. Re-edited here by Arlo Griffiths from photogrammetry.</p>
         	<listBibl type="primary">
 				<bibl n="S"><ptr target="bib:SukartoAtmodjo1969_01"/><citedRange unit="page">18-21</citedRange></bibl>
 			</listBibl>
            <listBibl type="secondary">
             <bibl><ptr target="bib:Damais1970_01"/><citedRange unit="page">45</citedRange><citedRange unit="item">33</citedRange></bibl>
+            <bibl><ptr target="bib:Nakada1982_01"/><citedRange unit="page">76-77</citedRange><citedRange unit="item">I-14</citedRange></bibl>
               <bibl><ptr target="bib:TitiSurtiNastiti2018_01"/><citedRange unit="page">191-192</citedRange></bibl>
+              <bibl><ptr target="bib:Griffiths2021-2022_01"/><citedRange unit="page">155-156</citedRange></bibl>
               <!-- add
-            Nakada 1982
             Laporan 2023
+            discussion of date
               -->
            </listBibl>
         </div>
