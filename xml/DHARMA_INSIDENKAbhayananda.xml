@@ -107,7 +107,6 @@
             <!--commentary encoded as per section §9.3 -->
          </div>
         <div type="bibliography">
-	<!--bibliography encoded as per section §9.4 -->
            <p>Edited in <bibl><ptr target="bib:SukartoAtmodjo1969_01"/></bibl>. Re-edited here by Arlo Griffiths from photogrammetry.</p>
         	<listBibl type="primary">
 				<bibl n="S"><ptr target="bib:SukartoAtmodjo1969_01"/><citedRange unit="page">18-21</citedRange></bibl>
