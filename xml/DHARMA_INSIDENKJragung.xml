@@ -96,7 +96,7 @@
             <listApp>
                 <app loc="2">
                     <lem>hva<unclear cert="low">na</unclear>ḥ <lb n="3"/>bajrapāśe hum̐</lem>
-                    <note>One might perhaps expect <foreign>hrīḥ vajrapāśe hūm̐</foreign> in view of the parallel adduced in <bibl><ptr target="bib:Griffiths2014_02"/></bibl> has <foreign>hūṁ vajrapāśe hrīḥ</foreign>. Indeed, the presence of the syllable <foreign>na</foreign> tentatively read here is very doubtful, and it is imaginable that <foreign>hv</foreign> is an error for <foreign>hr</foreign> while a <foreign>ī</foreign> marker may have become illegible in the space above it and the descender from the line above may explain the space between this <foreign>akṣara</foreign> and the <foreign>visarga</foreign>. Perhaps a very faint trace of the expected <foreign>ī</foreign> can be made out in the photogrammetry. In that case we could read <foreign>h<choice><sic>v</sic><corr>r</corr></choice><unclear cert="low">ī</unclear><space type="descender"/>ḥ</foreign>.</note>
+                    <note>One might perhaps expect <foreign>hrīḥ vajrapāśe hūm̐</foreign> in view of the parallel adduced in <bibl><ptr target="bib:Griffiths2014_02"/></bibl> has <foreign>hūṁ vajrapāśe hrīḥ</foreign>. Indeed, the presence of the syllable <foreign>na</foreign> tentatively read here is very doubtful, and it is imaginable that <foreign>hv</foreign> is an error for <foreign>hr</foreign> while an <foreign>ī</foreign> marker may have become illegible in the space above it and the descender from the line above may explain the space between this <foreign>akṣara</foreign> and the <foreign>visarga</foreign>. Perhaps a very faint trace of the expected <foreign>ī</foreign> can be made out in the photogrammetry. In that case we could read <foreign>h<choice><sic>v</sic><corr>r</corr></choice><unclear cert="low">ī</unclear><space type="descender"/>ḥ</foreign>.</note>
                 </app>
                 <app loc="6">
                     <lem>bajradha<lb break="no" n="7"/>ro jñāpayati</lem>
@@ -110,8 +110,9 @@
             <p>For a translation of these mantras, along with extensive commentary, see <bibl><ptr target="bib:Griffiths2014_02"/><citedRange unit="page">179-180</citedRange></bibl>.</p>
          </div>
         <div type="bibliography">
-           <p>First edited in <bibl><ptr target="bib:Griffiths2014_02"/></bibl> based on OD photos 21151–21160. The reading in the present digital edition has been slightly revised on the basis of a photogrammetry made by Andri Restyadi in 2023.</p>
+           <p>Provisionally deciphered by Rita Margaretha Setianingsih in <bibl><ptr target="RiboetDarmosoetopo+al2007_01"/></bibl>. More reliably professionaly edited in <bibl><ptr target="bib:Griffiths2014_02"/></bibl>, based on OD photos 21151–21160. The reading in the present digital edition has been slightly revised on the basis of a photogrammetry made by Andri Restyadi in 2023.</p>
         	<listBibl type="primary">
+                <bibl><ptr target="RiboetDarmosoetopo+al2007_01"/><citedRange unit="page">56-57</citedRange></bibl>
 				<bibl><ptr target="bib:Griffiths2014_02"/><citedRange unit="page">169</citedRange></bibl>
 			</listBibl>
            <listBibl type="secondary">
