@@ -104,13 +104,13 @@
                 </app>
             </listApp>
             </div>
-         <div type="translation"/>
+         <!-- <div type="translation"/> -->
  	<!--translation encoded as per EGD §9.2 -->
          <div type="commentary">
-            <p>For a translation of these mantras, see <bibl><ptr target="bib:Griffiths2014_02"/><citedRange unit="page">179-180</citedRange></bibl>.</p>
+            <p>For a translation of these mantras, along with extensive commentary, see <bibl><ptr target="bib:Griffiths2014_02"/><citedRange unit="page">179-180</citedRange></bibl>.</p>
          </div>
         <div type="bibliography">
-           <p>First edited in <bibl><ptr target="bib:Griffiths2014_02"/></bibl>. The reading given here has been slightly improved on gthe basis of a photogrammetry made by Andri Restyadi in 2023.</p>
+           <p>First edited in <bibl><ptr target="bib:Griffiths2014_02"/></bibl> based on OD photos 21151–21160. The reading in the present digital edition has been slightly revised on the basis of a photogrammetry made by Andri Restyadi in 2023.</p>
         	<listBibl type="primary">
 				<bibl><ptr target="bib:Griffiths2014_02"/><citedRange unit="page">169</citedRange></bibl>
 			</listBibl>
