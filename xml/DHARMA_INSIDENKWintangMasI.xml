@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xml:lang="eng" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Wintang Mas I (800 Śaka)</title>
+        <respStmt>
+          <resp>EpiDoc Encoding</resp>
+          <persName ref="part:argr">
+            <forename>Arlo</forename>
+            <surname>Griffiths</surname>
+          </persName>
+        </respStmt>
+        <respStmt>
+          <resp>intellectual authorship of edition</resp>
+          <persName ref="part:argr">
+            <forename>Arlo</forename>
+            <surname>Griffiths</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>DHARMA</authority>
+        <pubPlace>Jakarta</pubPlace>
+        <idno type="filename">DHARMA_INSIDENKWintangMasI</idno>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">
+            <p>This work is licenced under the Creative Commons Attribution 4.0 Unported Licence. To view a copy of the licence, visit https://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.</p>
+            <p>Copyright © 2019-2025 by Arlo Griffiths.</p>
+          </licence>
+        </availability>
+        <date from="2019" to="2025">2019-2025</date>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <repository>DHARMAbase</repository>
+            <idno/>
+          </msIdentifier>
+          <msContents>
+            <summary><!-- //// NOT MANDATORY  ////--></summary>
+            <!-- offers the possibility to give a summary of the inscription's content -->
+          </msContents>
+          <physDesc>
+            <handDesc>
+              <p/>
+            </handDesc>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
+      </projectDesc>
+      <schemaRef key="EGDv01" type="guide" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+      <listPrefixDef>
+        <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+          <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
+        </prefixDef>
+        <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+          <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <revisionDesc>
+      <change status="draft" when="2024-09-08" who="part:argr">started encoding the inscription</change>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:space="preserve">
+    <body>
+      <div type="edition" xml:lang="kaw-Latn" rendition="class:38769 maturity:83213">
+        <p><pb n="1r"/><lb n="1r1"/><supplied reason="lost">svasti śaka-varṣa</supplied>tīta <num value="800">800</num> śravaṇa-māsa tithī trayodaśi kr̥ṣṇa-pakṣa‚ <abbr>pa</abbr>, <abbr>U</abbr>, śu, vāra‚ tatkāla dyaḥ puṭu dinulur· deni rāmanira I kapuhunan·, juru pu go<lb break="no" 
+          n="1r2"/><gap reason="lost" quantity="2" unit="character"/> tuha banuA saṁ Ādikā‚ muAṁ saṁ su(rā/bha)(‚) muAṁ saṁ tarā, saṁ śaryya‚ ḍaṇḍa si kupiṁ, nāhan· kvaiḥ rāmanta dumulur· dyaḥ puṭu kālanyan· pinuput· pamuAtni
+          <lb n="1r3"/>simanira I pintaṁ mas·, kāla pitāmaha Iṁ kailāsa vineḥ I maṅulihi, kunaṁ parbhaktyanya I bhaṭāra śrī haricandana, kayatnāknanira muAṁ Anak· vka-
+          <lb n="1r4"/>nira, katka dlāha, tan· pīṭā I tkani kapūjān· bhaṭāra haricandana, Iṁ trisamvatsarādi, praṣama buka pintu, maṅasǝAkna ya pasaṁ bras· tahilan·
+          <lb n="1r5"/>1 muAṁ phalāphalinya I bhaṭāra, muvaḥ tkani kapujān· bhaṭāra buAt thyaṁ pisan· Iṁ satahun· mapuñjuṅa sira Agavaya Annaliṅga pamūjā I bha-
+          <lb n="1r6"/>ṭāra brahmā(,) muvaḥ mārgaśira-māsa, makhakāla, maṅasǝAkna ya pasaṁ bras· tahilan· 1 muAṁ phalāphalinya, I bhaṭāra haricandana, manamvaḥ
+          <lb n="1r7"/>dyaḥ puṭu‚ maṅasǝAkan· sira mas· mā 2 vḍihan· yu l I samgat· tiruAn· pu sapi‚ samgat· maṅulihi, pitāmaha Iṁ kailāsa, vineḥ vḍihan· yu 1
+          <lb n="1r8"/>mas· mā 2, tuhān· I maṅulihi, pagar vsi, saṁ thaṇa varaṅan·, vineḥ vḍihan· yu 1 mas mā 2 taru maṅamvil· ḍapunta pula, vineḥ vḍihan· yu 1 mas· 2
+          <lb n="1r9"/>saṁ karaṅka, tuṅgu rumaḥ I jamvu vineh, vḍihan· yu 1 mas· mā 2 tatra sākṣī pitāmaha bhagavanta makabaihan·, muAṁ saṁ talahantan· kālih‚ ḍapunta vgi
+          <lb n="1r10"/>l· ḍapunta mayaṅkā, rāma I bunhamas· kāliḥ saṁ karaṅhulu, saṁ A(ḍ/d)uti‚ parujar· si padmini, juru I (ḍ/dh)ihyaṁ pu maṇḍiṁ, pasiṅar· saṁ paluṅan·, mu-
+          <lb n="1r11"/>Aṁ saṁ nalī, saṁ prabhī‚ pasak· kinabehannira pirak· mā 8 likhita saṁ paṅuraṁ saṁ triyur· tuṁtuṁ kaṇvalīha pirak· mā 2 ||</p>
+           
+          <lg n="1" met="anuṣṭubh" xml:lang="san-Latn">
+          <l n="a">jagatāṁ sarvvatobhadra‚</l> 
+          <l n="b">vara<lb n="1r12" break="no"/>n dāsyasi sāmpratam·</l>
+          <l n="c">Asmāsu sakaleṣv aiva,</l> 
+          <l n="d">Asāmānyopalabdhaye ||</l>
+        </lg>
+        <lg  n="2" met="anuṣṭubh" xml:lang="san-Latn">
+          <l n="a">nāveśyaḥ darśano baddhyaḥ</l> 
+          <l n="b">nirvvāṇaḥ (p/c)ānyakas tathā</l>
+          <l n="c">Āhr̥to bhaiṣaja<lb n="1v1" break="no"/>(ś) caiva</l> 
+          <l n="d">sarvve t(e) mataru coditaḥ ||</l>
+        </lg>
+           
+          <lg n="3" met="anuṣṭubh" xml:lang="san-Latn">
+          <l n="a">brahmaṇī gariṇī tatvam</l> 
+          <l n="b">anāryyam vihīnan tathā</l>
+          <l n="c">yadvat pāpaṁ mahat prāpya</l> 
+          <l n="d">tadvat· maccha śapāt śapāt· ||</l> 
+        </lg>
+
+      </div>
+      <div type="apparatus">
+       <listApp>
+        <app loc="1r1">
+          <lem>...</lem>
+          <rdg source="bib:Poerbatjaraka1926_01">...</rdg>
+       </app>
+        </listApp>
+      </div>
+      <div type="translation" xml:lang="eng" resp="part:argr">
+        <p>...</p>
+      </div>
+      <div type="commentary">
+        <p>Wintang Mas II is part of the Daksa corpus</p>
+      </div>
+      <div type="bibliography">
+        <p>Verified at the Universiteitsbibliotheek (Leiden), 9 May and 23 December 2009, by A. Griffiths. Divergences from Sarkar’s text marked in blue; uncertain readings marked in red.</p>
+        <listBibl type="primary">
+          <bibl n="siglum"/>
+          <bibl n="P"><ptr target="bib:Poerbatjaraka1926_01"/><citedRange unit="page">...</citedRange></bibl>
+        </listBibl>
+        <listBibl type="secondary">
+          <bibl/>
+<!--
+
+  Photographic documentation: OD 10017; photos made by A. Griffiths — and by A. Levivier ?
+
+  Preamble Sarkar: "The find-spot of this copper-plate is not known1. It was purchased from the legacy of Mr. Millies in March, 1905, and is now preserved at the Library of the University at Leiden2. The plate measures 33 x 13 c. m. The corner of the upper left margin being damaged, 6 initial letters of the inscription can not be read now. 
+  The inscription records how the rāmanta-s of Kapuhunan were relieved of their taxes for the free-hold at Pintaṅ-mas. It also regulates how dyah Puṭu and his descendants shall conduct the religious services of god Haricandana when the time for worship comes.
+   The reading and translation of this record have been published by Poerbatjaraka in Agastya, pp. 74-76. According to Damais2a, the date of this inscription corresponds to 1st August, 878 A.D."
+
+Damais 1951
+Damais 1955: .
+Damais 1970: 
+Sarkar 1971–72, vol. I: ...(no. XXXVII).
+-->
+        </listBibl>
+      </div>
+    </body>
+  </text>
+</TEI>
