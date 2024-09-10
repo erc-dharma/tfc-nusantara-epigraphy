@@ -110,7 +110,7 @@
         <div type="bibliography">
            <p>First edited in <bibl><ptr target="bib:TitiSurtiNastiti+al2024_01"/></bibl>. This digital edition is based on that publication.</p>
         	<listBibl type="primary">
-				<bibl><ptr target="bib:TitiSurtiNastiti+al2024_01"/></bibl>
+				<bibl><ptr target="bib:TitiSurtiNastiti+al2024_01"/><citedRange unit="page">???</citedRange><citedRange unit="section">2.10.2</citedRange></bibl>
 			</listBibl>
            <listBibl type="secondary">
               <bibl/><!-- one <bibl/> per item of secondary bibliography -->

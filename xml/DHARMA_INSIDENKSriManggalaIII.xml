@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Sri Manggala III (796 Śaka)</title>
+                <respStmt>
+                    <resp>EpiDoc Encoding</resp>               
+                        <persName ref="part:argr">
+                           <forename>Arlo</forename>
+                           <surname>Griffiths</surname>
+                        </persName>
+                     </respStmt>
+                     <respStmt>
+                        <resp>intellectual authorship of edition</resp>
+                        <persName ref="part:argr">
+                           <forename>Arlo</forename>
+                           <surname>Griffiths</surname>
+                        </persName>
+                     </respStmt>
+                  </titleStmt>
+                  <publicationStmt>
+                     <authority>DHARMA</authority>
+                     <pubPlace>Paris</pubPlace>
+                     <idno type="filename">DHARMA_INSIDENKSriManggalaIII</idno>
+                     <availability>
+                        <licence target="https://creativecommons.org/licenses/by/4.0/">
+                            <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
+                                Licence. To view a copy of the licence, visit
+                                https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                                Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                                California, 94041, USA.</p>
+                            <p>Copyright (c) 2019-2025 by Arlo Griffiths.</p>
+                        </licence>
+                    </availability>
+                <date from="2019" to="2025">2019-2025</date>
+            </publicationStmt>
+            <sourceDesc><!-- only the handDesc can be filled in at this stage -->
+                <msDesc><!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/><!-- don't modify this -->
+                    </msIdentifier>
+                    <msContents><!-- describe the intellectual content of an inscription -->
+                        <summary><!-- //// NOT MANDATORY  ////--></summary> <!-- offers the possibility to give a summary of the inscription's content -->
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p><!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EGD 11.2. --></p>
+                            <!-- If you need to identify individual hands (EGD §7.5/) in addition to one or more paragraphs of general palaeographic description, wrap <summary> around the <p> or <p>s above, and, outside <summary>, create <handNote> elements for each hand as follows:
+						<summary><p><p/></summary>
+						<handNote xml:id="Pallava00001_hand1"></handNote>
+						<handNote xml:id="Pallava00001_hand2"></handNote>
+					 -->
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
+            </projectDesc>
+            <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/><!-- UPDATE the link once the release is made official -->
+            <listPrefixDef>
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                    <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
+                </prefixDef>
+                <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
+                    <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_idListMembers_v01.xml</ref> file.</p>
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <revisionDesc>
+            <change who="part:argr" when="2024-09-10" status="draft">encoded the inscription</change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:space="preserve">
+      <body>
+        <div type="edition" xml:lang="san-Latn" rendition="class:38769 maturity:83213">
+            <p><lb n="1"/>svasti śaka-varṣātīta <num value="796">796</num> cetra<lb break="no" 
+                n="2"/>māsa dvitīya śukla-pakṣa haryyaṁ kalivuAn· vuddha-vāra tithi nakṣa<lb break="no" 
+                n="3"/>tra kr̥tikā tatkāla saṁ pamagat· <supplied reason="lost">h</supplied>i<supplied reason="lost">no</supplied> <unclear>p</unclear>u Apus· manusuk·
+                <lb n="4"/>sīma lmaḥ dharmmanira I saliṁsiṅan· paṅidulnya ḍpa <num value="44">44</num> paṅavai<lb 
+                break="no" n="5"/>tannya ḍpa <num value="67">6<space type="descender"/>7</num> pinanusukkakannya savaḥ śrī maṅgala lān· <num value="1">1</num> paṁhli rika<lb break="no" 
+                n="6"/>naṁ lmaḥ dharmmanira paknanikanaṁ savaḥ kavaduĀ-humān· I saliṁsiṅan· sākṣī 
+                <lb n="7"/>rāmanta patiḥ kalaṁ gusti vinkas· variga parujar· tuha banuA marhyaṁ sthāpaka 
+                <lb n="8"/>Upakalpa kăyastha <unclear cert="low">devaka</unclear>rmma I vanuA poḥ kapuA vinaiḥ vḍihan· Ama<lb break="no" 
+                n="9"/>ṅan· Asiṁ Umulaḥ-Ula<unclear>ha</unclear> <supplied reason="lost">I</supplied><unclear>kaṁ</unclear> dharmma mahāpāpa duḥkha lara tamūnya hila<unclear>ṁ</unclear>
+                <lb n="10"/>I mahāprītanaraka <g type="spiralL"/>
+            </p>
+         </div>
+         <div type="apparatus">
+               <listApp>
+                  <app loc="2">
+                     <lem>tithi</lem>
+                     <note>This word is misplaced both here and in the parallel text of <ref target="DHARMA_INSIDENKSriManggalaII.xml">Sri Manggala II</ref>. On the latter inscription, <bibl><ptr target="bib:Damais1955_01"/></bibl> commented as follows: <q>Stutterheim fait remarquer (<hi rend="italic">TBG</hi>, 74, 19З4 : 86, note 6) que le mot <foreign>tithi</foreign> n'est pas à sa place normale (c'est-à-dire après <foreign>cetramāsa</foreign>) et il suppose qu'il aura été déplacé par suite d'une erreur de lecture dans le manuscrit (donc de Brandes). Mais sur la pierre, le mot <foreign>tithi</foreign> se trouve bien gravé après <foreign>budhawāra</foreign>. Il se peut qu'il s'agisse d'une erreur de la part du graveur lequel, ayant remarqué qu'il avait omis ce mot à sa place normale, l'aura gravé à l'endroit où il en était de son travail, soit entre <foreign>budhawāra</foreign> et <foreign>nakṣatra</foreign>.</q> The fact that our text shows the same anomaly reveals that the misplacement must have occurred in the template from which both texts have been copied onto stone.</note>
+                    </app>
+               </listApp>
+         </div>
+         <div type="translation" resp="part:argr">
+    <p n="1-3">Hail! Elapsed Śaka year 796, month of Caitra, second <foreign>tithi</foreign> of the waxing fortnight, Haryaṅ (of the 6-day cycle), Kalivuan (of the 5-day cycle), Wednesday, lunar mansion Kr̥ttikā (i.e., on 24 March 874 CE)</p> 
+    <p n="3-6">That was when the offical of Hino of the Lord of Bavaṅ <supplied reason="explanation">called</supplied> <foreign>pu</foreign> Apus demarcated as a <foreign>sīma</foreign> the land of his foundation at Saliṅsiṅan. Its extent from south to north: 44 <foreign>ḍpa</foreign>; its extent from east to west: 67 <foreign>ḍpa</foreign>. It delimited for him 1 <foreign>lān</foreign> paddy field of Śrī Maṅgala as replacement for the land of his foundation. The purpose of the paddy field was as place for the <foreign>vadvā huma</foreign> <supplied reason="explanation"><foreign>kavaduĀ-humān</foreign></supplied><note>In <ref target="DHARMA_INSIDENKSriManggalaII.xml">Sri Manggala II</ref>, the reading is <foreign>kavaduA-hummā</foreign>, which seems to be an error. The base is obviously <foreign>vadvā huma</foreign>, which in turn must be an otherwise unattested equivakent to vadahuma, glossed in <bibl><ptr target="bib:Zoetmulder1982_1"/></bibl> as <q>a category of functionaries (inscr.)</q>.</note> in Salingsingan.</p>
+    <p n="6-9">The witnesses were the elders, the <foreign>patih</foreign>s, the <foreign>kalaṅ</foreign>s, the <foreign>gusti</foreign>s, the <foreign>vinəkas</foreign>es, the <foreign>variga</foreign>s, the <foreign>heralds</foreign>, the village headmen, the custodians, the priests, the officiants, the scribes, the temple workers in village Poh. They were all given <foreign>vəḍihan</foreign> cloth and ate.</p>
+    <p n="9-10">Whoever disturbs the foundation will meet with great sin, suffering and pain, and disappears in the Mahāprīta hell.</p>
+ 	<!-- Sarkar: <p>Hail ! The Śaka year expired, 796, the month of Caitra‚ second day of the bright half of the month, haryaṅ‚19, kalivon20, Wednesday, tithi21, the lunar mansion Kṛttikā. That is the time when the pamgat of Hino (named) Pu Apus marked out into a freehold (some) lands for his funerary temple  at  Saliṅśiṅan22. In  the direction  of  the  South,  it  is  forty-four ḍəpa (in measurement) ; in the direction of the East, it is sixty– seven23 dəpa (in measurement). A savah-field was also marked out by him at Śrī Maṅgala24 against the exchaṅe of lands (acquired) for his funerary temple. The use of the savah-field  is to be for the dwelliṅ-places (?)25 of the united body of the vadua-s26 of Saliṅgśiṅan. The witnesses are the rāmanta-s27 of Saliṅśiṅan (:) patih‚ kalaṅ‚ gusti‚ variga‚ vinkas‚ parujar‚ tuha vanuā and rāma jātaka‚28 marhyaṅ29 sthā paka‚30 upakalpa31 kāyastha32 and Devakarmma33 as also the rāma-s of Śrī Maṅgala and34 Vanua poh. All of them obtained food-stuffs and clothes. The aim is that if there be any one who violates the funerary temple ( at Saliṅśiṅan ), he may suffer up to the remotest future (i. e. for ages) (the punishments accruiṅ from) five great sins and all sorts of sorrows !</p> -->
+         </div>
+         <div type="commentary">
+            <!--commentary encoded as per section §9.3 -->
+         </div>
+         <div type="bibliography">
+            <p>Edited in <bibl><ptr target="bib:TitiSurtiNastiti2018_01"/></bibl>. Re-edited here by Arlo Griffiths from photogrammetry.</p>
+             <listBibl type="primary">
+                 <bibl n="TSN"><ptr target="bib:TitiSurtiNastiti2018_01"/><citedRange unit="page">196-197</citedRange></bibl>
+             </listBibl>
+            <listBibl type="secondary">
+               <bibl><ptr target="bib:TitiSurtiNastiti+al2024_01"/><citedRange unit="page">???</citedRange><citedRange unit="section">2.4.2</citedRange></bibl>
+               <!--
+bibl. for Sri Manggala II
+    <bibl><ptr target="bib:CohenStuart1862_01"/><citedRange unit="page">160</citedRange></bibl>
+                mention of an estampage kept in London
+    <bibl><ptr target="bib:Brandes1913_01"/><citedRange unit="page">13-14</citedRange><citedRange unit="item">XI</citedRange></bibl>
+                    <bibl><ptr target="bib:Stutterheim1934_02"/><citedRange unit="page">86-88</citedRange></bibl>
+                <bibl><ptr target="bib:Damais1952_01"/><citedRange unit="page">36-37</citedRange><citedRange unit="item">A. 35</citedRange></bibl>
+                <bibl><ptr target="bib:Damais1955_01"/><citedRange unit="page">31-32</citedRange></bibl>
+                <bibl><ptr target="bib:Damais1970_01"/><citedRange unit="page">48</citedRange><citedRange unit="item">78</citedRange></bibl>
+                <bibl><ptr target="bib:Nakada1982_01"/><citedRange unit="page">82-83</citedRange><citedRange unit="item">I-41</citedRange></bibl>
+                <bibl><ptr target="bib:Eade+Gislen2000_01"/><citedRange unit="page">20</citedRange></bibl> 
+              
+further Nakada refs. for Sri Manggala II
+BKI. 10: 160 — VOJ, nos. 276 & 288 — JiJ 7 — 
+NBG. XXXIV, 3: 89 (II, n); 4: 111f. (I, c); XXXV: 43 (II, 2, a) — 
+BHKed : 220 — KGiJ: 243 - IHV. I, nos. 790 & 815 -TBG. LXXIV: 86-88° — DBB, no. 144 —
+CIJ I, no. XXXIII — JCII: 84 (XXVI)
+               -->
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>
