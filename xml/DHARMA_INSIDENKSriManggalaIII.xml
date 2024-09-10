@@ -114,7 +114,7 @@
             <!--commentary encoded as per section §9.3 -->
          </div>
          <div type="bibliography">
-            <p>Edited in <bibl><ptr target="bib:TitiSurtiNastiti2018_01"/></bibl>. Re-edited here by Arlo Griffiths from photogrammetry.</p>
+            <p>First edited in <bibl><ptr target="bib:TitiSurtiNastiti2018_01"/></bibl>. This digital edition, from photogrammetry, is based on the new edition in <bibl><ptr target="bib:TitiSurtiNastiti+al2024_01"/></bibl>.</p>
              <listBibl type="primary">
                  <bibl n="TSN"><ptr target="bib:TitiSurtiNastiti2018_01"/><citedRange unit="page">196-197</citedRange></bibl>
              </listBibl>
