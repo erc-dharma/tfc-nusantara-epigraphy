@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Tunahan (794 Śaka)</title>
+                <respStmt>
+                    <resp>EpiDoc Encoding</resp>
+                    <persName ref="part:argr">
+                      <forename>Arlo</forename>
+                      <surname>Griffiths</surname>
+                    </persName>
+                  </respStmt>
+                  <respStmt>
+                    <resp>intellectual authorship of edition</resp>
+                    <persName ref="part:argr">
+                      <forename>Arlo</forename>
+                      <surname>Griffiths</surname>
+                    </persName>
+                  </respStmt>
+                </titleStmt>
+                <publicationStmt>
+                  <authority>DHARMA</authority>
+                  <pubPlace>Jakarta</pubPlace>
+                  <idno type="filename">DHARMA_INSIDENKTunahan</idno>
+                  <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                      <p>This work is licenced under the Creative Commons Attribution 4.0 Unported Licence. To view a copy of the licence, visit https://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.</p>
+                      <p>Copyright © 2019-2025 by Arlo Griffiths.</p>
+                    </licence>
+                  </availability>
+                <date from="2019" to="2025">2019-2025</date>
+            </publicationStmt>
+            <sourceDesc><!-- only the handDesc can be filled in at this stage -->
+                <msDesc><!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/><!-- don't modify this -->
+                    </msIdentifier>
+                    <msContents><!-- describe the intellectual content of an inscription -->
+                        <summary><!-- //// NOT MANDATORY  ////--></summary> <!-- offers the possibility to give a summary of the inscription's content -->
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p><!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EGD 11.2. --></p>
+                            <!-- If you need to identify individual hands (EGD §7.5/) in addition to one or more paragraphs of general palaeographic description, wrap <summary> around the <p> or <p>s above, and, outside <summary>, create <handNote> elements for each hand as follows:
+						<summary><p><p/></summary>
+						<handNote xml:id="Pallava00001_hand1"></handNote>
+						<handNote xml:id="Pallava00001_hand2"></handNote>
+					 -->
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
+            </projectDesc>
+            <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/><!-- UPDATE the link once the release is made official -->
+            <listPrefixDef>
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                    <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
+                </prefixDef>
+                <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
+                    <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_idListMembers_v01.xml</ref> file.</p>
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <revisionDesc>
+            <change status="draft" when="2024-09-20" who="part:argr">started encoding the inscription</change>
+          </revisionDesc>
+    </teiHeader>
+    <text xml:space="preserve">
+      <body>
+         <div type="edition" xml:lang="kaw-Latn" rendition="class:38769 maturity:83213">
+            <pb n="1r"/>
+            <p><pb n="1v"/><lb n="1v1"/>|| : || svasti śaka-varṣātīta 794 māgha-māsa dvādaśĭ śukla-pakṣa, mavulu Umanis· budhavāra, tatkāla rakarayan· I sirikan· 
+            <lb n="1v2"/>pu rakap·, dinmakan· dai śrī mahārāja rakai kayu vaṅi rikanaṁ sukat· kahulunan· Iṁ tunahan·, lmaḥ I mamali, maṅasəAkan· ra<lb break="no" n="1v3"/>karayān· pasamvaḥ I śrī mahārāja, mas· cumvi <abbr>su</abbr> <num value="5">5</num> vḍihan· buAt· pinilai <abbr>yu</abbr> <num value="2">2</num> gañjarpatra kban· <num value="1">1</num> Ivak· jamvaṅan· <num value="2">2</num> vuru-vuru va<lb break="no" n="1v4"/>raṅka <num value="1">1</num> kamvaṁ vakul· <num value="1">1</num> Anuṁ kinon· rakarayān· UmaṁsəAkna Ikanaṁ pasamvaḥ I śrī mahārāja, saṁ pamgat· tira pu bhujaṅga AsəAnya Iṁ
+            <lb n="1v5"/>pahayu, lima vṅinikanaṁ pasamvaḥ Ann asə:, tinurus· Ikanaṁ lmaḥ dainiṁ rāma I mamali Inadagan dai saṁ hanuṁnaṁ pu śaṅkhara, ṅarannikanaṁ rāma 
+            <lb n="1v6"/>Anuṁ maturus· kalaṁ si kais·, gusti <num value="2">2</num> ramani <space type="binding-hole"/> saṅkān·, ramani maṅarani, vinkas· ramani tan· livū, maṅatag· si <unclear>Uṅga</unclear>han·, parujar· <num value="2">2</num> si
+            <lb n="1v7"/>vāhu, si golo, hulair· ramani Amvarī· hulair· karamān· ramani dravya·, mapkan· si kahuripan·, makajar· si balī, tuhālas· si valā, vinai<lb break="no" 
+            n="1v8"/>han· saṁ hanuṁnaṁ pirak· <abbr>mā</abbr> <num value="10">10</num> pamlyanikanaṁ rāma vayū, muAṁ mas· <abbr>mā</abbr> <num value="2">2</num> pamlyani vadvāḍmit· saṁ hanuṁnaṁ vayū, muva<unclear>ḥ</unclear> vinaihan· Ikanaṁ rāma I mama<lb break="no" 
+            n="1v9"/>li pirak· <unclear>dhā</unclear> <num value="1">1</num> Avitan· <num value="1">1</num> saṁ tuha kalaṁ si pundaṅil· vinaihan· vḍihan· <abbr>yu</abbr> <num value="1">1</num><g type="ddanda"/></p>
+         </div>
+         <div type="apparatus">
+           <!--apparatus encoded as per EGD §9.1, basic elements for apparatus below-->
+               <listApp><!-- one <app> for each apparatus entry -->
+                  <app loc="line"><!-- update the value of @loc.-->
+                     <lem><!-- fill in a lemma here --></lem>
+                     <rdg source="bib:AuthorYear_01"><!-- update the @source value, fill in variant reading here --></rdg>
+                  </app>
+               </listApp>
+         </div>
+         <div type="translation">
+            <p n="1v1-1v2">Hail! Elapsed Śaka year 794, month of Māgha, twelfth (tithi) of the waxing fortnight, Mavulu, Umanis, Wednesday. That was the time when the rakarayān of Sirikan, (named) pu Rakap, was bestowed by the Great King rakai Kayuvaṅi with the serfdom wasteland (sukat kahulunan) (called) Tunahan, a tract (ləmah) at Mamali.</p>
+            <p n="1v3-1v4">The rakarayān offered as gifts to the Great King: 5 guilders (suvarṇa) of gold in grain (cumvi), 2 sets of vḍihan of pinilai manufacture, 1 kǝban of gañjarpatra, 2 pots of fish, 1 cage of wild pigeons, 1 basket of flowers.</p>
+            <p n="1v4-1v5">The one who was ordered by the rakarayān to offer the gifts to the Great King was the officiant of Tira (called) pu Bhujaṅga. What he offered (asǝan-nya) was for the pahayu (?). Five nights did the gifts last, as he offered them.</p>
+            <p n="1v5-1v7">The tract was provided with a fence by the elders of Mamali, attended by the hanuṅnaṅ (named) pu Śaṅkhara. Names of the elders who provided (it) with a fence: the kalaṅ Kais; 2 gustis, the father of Saṅkān [and] the father of Maṅarani; the vinǝkas, father of Tan Livū; the maṅatag (called) Uṅgahan; the 2 parujars (called) Vāhu [and] Golo; the hulair, father of Amvarī; the hulair of the village-community, father of Dravya; the mapǝkan (called) Kahuripan; the makajar (called) Bali; the tuhālas (called) Valā.</p>
+            <p n="1v8-1v9">The hanuṅnaṅ was given 10 māṣas with which to buy (paməlyan) the elders of Vayū, and 2 māṣas of gold with which to buy the humble followers of the hanuṅnaṅ of Vayū. Also, the elders of Mamali were given 1 dhāraṇa of silver (and) 1 avitan; the foreman (saṅ tuha) of the kalaṅs (called) Pundaṅil was given one set of vḍihan.</p>
+         </div>
+         <div type="commentary">
+            <!--commentary encoded as per section §9.3 -->
+         </div>
+        <div type="bibliography">
+	<!--bibliography encoded as per section §9.4 -->
+           <p><!-- formulate epigraphic lemma here, using the items of primary bibliography --></p>
+        	<listBibl type="primary">
+				<bibl n="siglum"/><!-- one <bibl/> per item of primary bibliography. Every entry mentionned in apparatus  should hava a @n to declare its sigla -->
+			</listBibl>
+           <listBibl type="secondary">
+              <bibl/><!-- one <bibl/> per item of secondary bibliography -->
+           </listBibl>
+        </div>
+        <!-- 
+1. F.H. van Naerssen, "Een nieuwe vondst van Oudjavaansche oorkonden," in Cultureel Indië, (1939): 157-158.
+2. L. -Ch. Damais, "Etudes d'´épigraphie Indonesienne IV.” BEFEO XLVII (1955): 30.
+3. Boechari, “Tembaga tulis Polengan dari djaman Rakai Kajuwangi.” Skripsi Sarjana Arkeologi Fakultas Sastra Universitas Indonesia (1958): 15-16. 
+4. Boechari, typescript received through Jan Wisseman Christie.
+5. Himansu Bhusan Sarkar, Corpus of the Inscriptions of Java, vol. I (1971): 184.
+6. Machi Suhadi and M.M. Soekarto, Laporan Penelitian Epigrafi Jawa Tengah, no. 37 (1986): 62-65.  
+7. O.D. Photo 13691.
+8. A.G. Photo Tunahan_1a.jpg.
+9. Laporan BRIN-EFEO March 2023
+
+
+        -->
+      </body>
+  </text>
+</TEI>
