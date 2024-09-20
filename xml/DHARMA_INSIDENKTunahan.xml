@@ -22,6 +22,10 @@
                       <forename>Arlo</forename>
                       <surname>Griffiths</surname>
                     </persName>
+                    <persName ref="part:mego">
+                        <forename>Mekhola</forename>
+                        <surname>Gomes</surname>
+                      </persName>
                   </respStmt>
                 </titleStmt>
                 <publicationStmt>
@@ -31,7 +35,7 @@
                   <availability>
                     <licence target="https://creativecommons.org/licenses/by/4.0/">
                       <p>This work is licenced under the Creative Commons Attribution 4.0 Unported Licence. To view a copy of the licence, visit https://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.</p>
-                      <p>Copyright © 2019-2025 by Arlo Griffiths.</p>
+                      <p>Copyright © 2019-2025 by Arlo Griffiths &amp; Mekhola Gomes.</p>
                     </licence>
                   </availability>
                 <date from="2019" to="2025">2019-2025</date>
@@ -80,7 +84,7 @@
       <body>
          <div type="edition" xml:lang="kaw-Latn" rendition="class:38769 maturity:83213">
             <pb n="1r"/>
-            <p><pb n="1v"/><lb n="1v1"/>|| : || svasti śaka-varṣātīta 794 māgha-māsa dvādaśĭ śukla-pakṣa, mavulu Umanis· budhavāra, tatkāla rakarayan· I sirikan· 
+            <p><pb n="1v"/><lb n="1v1"/><g type="ddandaHooked"/> <g type="dotDouble"/> <g type="ddandaHooked"/> svasti śaka-varṣātīta <num value="794">794</num> māgha-māsa dvādaśĭ śukla-pakṣa, mavulu Umanis· budhavāra, tatkāla rakarayan· I sirikan· 
             <lb n="1v2"/>pu rakap·, dinmakan· dai śrī mahārāja rakai kayu vaṅi rikanaṁ sukat· kahulunan· Iṁ tunahan·, lmaḥ I mamali, maṅasəAkan· ra<lb break="no" n="1v3"/>karayān· pasamvaḥ I śrī mahārāja, mas· cumvi <abbr>su</abbr> <num value="5">5</num> vḍihan· buAt· pinilai <abbr>yu</abbr> <num value="2">2</num> gañjarpatra kban· <num value="1">1</num> Ivak· jamvaṅan· <num value="2">2</num> vuru-vuru va<lb break="no" n="1v4"/>raṅka <num value="1">1</num> kamvaṁ vakul· <num value="1">1</num> Anuṁ kinon· rakarayān· UmaṁsəAkna Ikanaṁ pasamvaḥ I śrī mahārāja, saṁ pamgat· tira pu bhujaṅga AsəAnya Iṁ
             <lb n="1v5"/>pahayu, lima vṅinikanaṁ pasamvaḥ Ann asə:, tinurus· Ikanaṁ lmaḥ dainiṁ rāma I mamali Inadagan dai saṁ hanuṁnaṁ pu śaṅkhara, ṅarannikanaṁ rāma 
             <lb n="1v6"/>Anuṁ maturus· kalaṁ si kais·, gusti <num value="2">2</num> ramani <space type="binding-hole"/> saṅkān·, ramani maṅarani, vinkas· ramani tan· livū, maṅatag· si <unclear>Uṅga</unclear>han·, parujar· <num value="2">2</num> si
@@ -91,38 +95,48 @@
          <div type="apparatus">
            <!--apparatus encoded as per EGD §9.1, basic elements for apparatus below-->
                <listApp><!-- one <app> for each apparatus entry -->
-                  <app loc="line"><!-- update the value of @loc.-->
-                     <lem><!-- fill in a lemma here --></lem>
-                     <rdg source="bib:AuthorYear_01"><!-- update the @source value, fill in variant reading here --></rdg>
+                  <app loc="1v8"><!-- update the value of @loc.-->
+                     <lem><abbr>mā</abbr> <num value="10">10</num></lem>
+                     <rdg source="bib:Boechari1958_01"><abbr>mā</abbr> <num value="1">1</num>,</rdg>
                   </app>
+                  <!-- 
+                    1v2. kahulunan·: B, kahuluan MS&S.
+                    1v3. jamvaṅan: B, jamvṅan MS&S.
+                    1v5. dainiṁ: B, dai iṁ MS&S.
+                    1v7. ramani: B, rama bi MS&S.
+                    1v8. mā 10: mā 1, B MS&S.
+                  -->    
                </listApp>
          </div>
          <div type="translation">
-            <p n="1v1-1v2">Hail! Elapsed Śaka year 794, month of Māgha, twelfth (tithi) of the waxing fortnight, Mavulu, Umanis, Wednesday. That was the time when the rakarayān of Sirikan, (named) pu Rakap, was bestowed by the Great King rakai Kayuvaṅi with the serfdom wasteland (sukat kahulunan) (called) Tunahan, a tract (ləmah) at Mamali.</p>
-            <p n="1v3-1v4">The rakarayān offered as gifts to the Great King: 5 guilders (suvarṇa) of gold in grain (cumvi), 2 sets of vḍihan of pinilai manufacture, 1 kǝban of gañjarpatra, 2 pots of fish, 1 cage of wild pigeons, 1 basket of flowers.</p>
-            <p n="1v4-1v5">The one who was ordered by the rakarayān to offer the gifts to the Great King was the officiant of Tira (called) pu Bhujaṅga. What he offered (asǝan-nya) was for the pahayu (?). Five nights did the gifts last, as he offered them.</p>
-            <p n="1v5-1v7">The tract was provided with a fence by the elders of Mamali, attended by the hanuṅnaṅ (named) pu Śaṅkhara. Names of the elders who provided (it) with a fence: the kalaṅ Kais; 2 gustis, the father of Saṅkān [and] the father of Maṅarani; the vinǝkas, father of Tan Livū; the maṅatag (called) Uṅgahan; the 2 parujars (called) Vāhu [and] Golo; the hulair, father of Amvarī; the hulair of the village-community, father of Dravya; the mapǝkan (called) Kahuripan; the makajar (called) Bali; the tuhālas (called) Valā.</p>
-            <p n="1v8-1v9">The hanuṅnaṅ was given 10 māṣas with which to buy (paməlyan) the elders of Vayū, and 2 māṣas of gold with which to buy the humble followers of the hanuṅnaṅ of Vayū. Also, the elders of Mamali were given 1 dhāraṇa of silver (and) 1 avitan; the foreman (saṅ tuha) of the kalaṅs (called) Pundaṅil was given one set of vḍihan.</p>
+            <p n="1v1-1v2">Hail! Elapsed Śaka year 794, month of Māgha, twelfth <supplied reason="explanation"><foreign>tithi</foreign></supplied> of the waxing fortnight, Mavulu, Umanis, Wednesday. That was when the Lord <supplied reason="explanation"><foreign>rakarayān</foreign></supplied> of Sirikan, <supplied reason="explanation">named</supplied> <foreign>pu</foreign> Rakap, was bestowed by the Great King, the Lord of <supplied reason="explanation"><foreign>rakai</foreign></supplied> Kayu Vaṅi with the serfdom wasteland <supplied reason="explanation"><foreign>sukat kahulunan</foreign></supplied> <supplied reason="explanation">called</supplied> Tunahan, a tract <supplied reason="explanation"><foreign>ləmah</foreign></supplied> at Mamali.</p>
+            <p n="1v3-1v4">The Lord offered as gifts to the Great King: 5 guilders <supplied reason="explanation"><foreign>suvarṇa</foreign></supplied> of gold in grain <supplied reason="explanation"><foreign>cumvi</foreign></supplied>, 2 sets of <foreign>vḍihan</foreign> of <foreign>pinilai</foreign> manufacture, 1 <foreign>kǝban</foreign> of <foreign>gañjarpatra</foreign>, 2 tubs of fish, 1 cage of wild pigeons, 1 basket of flowers.</p>
+            <p n="1v4-1v5">The one who was ordered by the Lord to offer the gifts to the Great King was the officiant of Tira <supplied reason="explanation">called</supplied> <foreign>pu</foreign> Bhujaṅga. What he offered <supplied reason="explanation"><foreign>asǝan-nya</foreign></supplied> was for the <foreign>pahayu</foreign>.<note>The meaning of <foreign>pahayu</foreign> is uncertain in this context.</note> Five nights did the gifts last, as he offered them.</p>
+            <p n="1v5-1v7">The tract was provided with a fence by the headmen of Mamali, attended by the <foreign>hanuṅənaṅ</foreign> <supplied reason="explanation">called</supplied> <foreign>pu</foreign> Śaṅkhara. Names of the headmen who provided <supplied reason="subaudible">it</supplied> with a fence: the <foreign>kalaṅ</foreign> <supplied reason="explanation">called</supplied> <foreign>si</foreign> Kais; 2 <foreign>gusti</foreign>s, the father of Saṅkān <supplied reason="subaudible">and</supplied> the father of Maṅarani; the <foreign>vinǝkas</foreign>, father of Tan Livū; the <foreign>maṅatag</foreign> <supplied reason="explanation">called</supplied> <foreign>si</foreign> Uṅgahan; the 2 heralds <supplied reason="explanation">called</supplied> <foreign>si</foreign> Vāhu <supplied reason="subaudible">and</supplied> <foreign>si</foreign> Golo; the <foreign>hulair</foreign>, father of Amvarī; the <foreign>hulair</foreign> of the village-community, father of Dravya; the <foreign>mapǝkan</foreign> <supplied reason="explanation">called</supplied> <foreign>si</foreign> Kahuripan; the <foreign>makajar</foreign> <supplied reason="explanation">called</supplied> <foreign>si</foreign> Bali; the <foreign>tuha alas</foreign> <supplied reason="explanation">called</supplied> <foreign>si</foreign> Valā.</p>
+            <p n="1v8-1v9">The <foreign>hanuṅənaṅ</foreign> was given 10 <foreign>māṣa</foreign>s with which to buy <supplied reason="explanation"><foreign>paməlyan</foreign></supplied> the elders of Vayū, and 2 māṣas of gold with which to buy the humble followers of the hanuṅnaṅ of Vayū. Also, the elders of Mamali were given 1 dhāraṇa of silver (and) 1 avitan; the foreman (saṅ tuha) of the kalaṅs <supplied reason="explanation">called</supplied>  Pundaṅil was given one set of vḍihan.</p>
          </div>
          <div type="commentary">
             <!--commentary encoded as per section §9.3 -->
          </div>
         <div type="bibliography">
 	<!--bibliography encoded as per section §9.4 -->
-           <p><!-- formulate epigraphic lemma here, using the items of primary bibliography --></p>
+           <p>First edited in <bibl><ptr target="bib:Boechari1958_01"/></bibl>, whose text was published again, with involuntary errors, in <bibl><ptr target="bib:MachiSuhadi+SukartoAtmodjo1986_01"/></bibl>. Re-edited here by Arlo Griffiths and Mekhola Gomes from photographs.</p>
         	<listBibl type="primary">
-				<bibl n="siglum"/><!-- one <bibl/> per item of primary bibliography. Every entry mentionned in apparatus  should hava a @n to declare its sigla -->
+				<bibl n="B"><ptr target="bib:Boechari1958_01"/><citedRange unit="page">15-16</citedRange></bibl>
 			</listBibl>
            <listBibl type="secondary">
-              <bibl/><!-- one <bibl/> per item of secondary bibliography -->
+              <bibl><ptr target="bib:Naerssen1939_01"/></bibl>
+              <bibl><ptr target="bib:Damais1951_01"/><citedRange unit="page">21-23</citedRange></bibl>
+              <bibl><ptr target="bib:Damais1952_01"/><citedRange unit="page">36-37</citedRange><citedRange unit="item">A. 33</citedRange></bibl>
+                <bibl><ptr target="bib:Damais1955_01"/><citedRange unit="page">30</citedRange></bibl>
+                <bibl><ptr target="bib:Damais1970_01"/><citedRange unit="page">48</citedRange><citedRange unit="item">76</citedRange></bibl>
+                <bibl><ptr target="bib:Sarkar1971-1972_01"/><citedRange unit="volume">I</citedRange><citedRange unit="item">XXX</citedRange><citedRange unit="page">184</citedRange></bibl>
+                <bibl><ptr target="bib:MachiSuhadi+SukartoAtmodjo1986_01"/><citedRange unit="page">62-65</citedRange></bibl>
            </listBibl>
         </div>
         <!-- 
-1. F.H. van Naerssen, "Een nieuwe vondst van Oudjavaansche oorkonden," in Cultureel Indië, (1939): 157-158.
-2. L. -Ch. Damais, "Etudes d'´épigraphie Indonesienne IV.” BEFEO XLVII (1955): 30.
-3. Boechari, “Tembaga tulis Polengan dari djaman Rakai Kajuwangi.” Skripsi Sarjana Arkeologi Fakultas Sastra Universitas Indonesia (1958): 15-16. 
+
 4. Boechari, typescript received through Jan Wisseman Christie.
-5. Himansu Bhusan Sarkar, Corpus of the Inscriptions of Java, vol. I (1971): 184.
 6. Machi Suhadi and M.M. Soekarto, Laporan Penelitian Epigrafi Jawa Tengah, no. 37 (1986): 62-65.  
 7. O.D. Photo 13691.
 8. A.G. Photo Tunahan_1a.jpg.
