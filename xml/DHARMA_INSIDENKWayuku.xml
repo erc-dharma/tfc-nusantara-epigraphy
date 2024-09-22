@@ -86,7 +86,7 @@
             <p>
                 <lb n="1"/> <g type="ddandaCross"/> svāsti śaka-varṣātīta <num value="776">776</num>
                 <lb n="2"/>caitra-māsa tithi caturdaśi śukla-pa<lb break="no" 
-                n="3"/>kṣa vurukuṁ pahiṁ śukravăra tatkāla
+                n="3"/>kṣa vurukuṁ pahiṁ śukra-văra tatkāla
                 <lb n="4"/><abbr>rakai</abbr> sisair· pu virājā manusuk·
                 <lb n="5"/>savaḥ I vayuku sīmāni bihā<lb break="no" 
                 n="6"/>ranira I Abhayananda
@@ -119,20 +119,20 @@
             <!--commentary encoded as per section §9.3 -->
          </div>
         <div type="bibliography">
-           <p>The text was first edited, with a facsimile, in <bibl><ptr target="bib:CohenStuart+LimburgBrouwer1872_01"/></bibl> (and reproduced in <bibl><ptr target="bib:CohenStuart1875_01"/></bibl> as well as <bibl><ptr target="bib:Sarkar1971-1972_01"/></bibl>); all errors in this edition were corrected in <bibl><ptr target="bib:Damais1955_01"/></bibl>. The present digital edition follows the latter, confirmed by Arlo Griffiths from photographs.</p>
+           <p>The text was first edited, with a facsimile, in <bibl><ptr target="bib:CohenStuart+LimburgBrouwer1872_01"/></bibl> (and reproduced in <bibl><ptr target="bib:CohenStuart1875_01"/></bibl> as well as <bibl><ptr target="bib:Sarkar1971-1972_01"/></bibl>); the two errors in this edition were corrected in <bibl><ptr target="bib:Damais1955_01"/></bibl>. The present digital edition follows the latter, confirmed by Arlo Griffiths from photographs.</p>
            <!-- https://sharedocs.huma-num.fr/wl/?id=k8KG3aABoCdTSMAb8zWCKcvNIMn0x5qQ-->
         	<listBibl type="primary">
-                <bibl n="CS-LB"><ptr target="bib:CohenStuart+LimburgBrouwer1872_01"/><citedRange unit="item">III</citedRange><citedRange unit="page">108-109</citedRange></bibl>
+                <bibl n="CS&amp;LB"><ptr target="bib:CohenStuart+LimburgBrouwer1872_01"/><citedRange unit="item">III</citedRange><citedRange unit="page">108-109</citedRange></bibl>
                 <bibl n="D"><ptr target="bib:Damais1955_01"/><citedRange unit="page">23-24</citedRange></bibl>
 			</listBibl>
            <listBibl type="secondary">
             <bibl><ptr target="bib:CohenStuart1875_01"/><citedRange unit="item">XXV</citedRange><citedRange unit="page">34</citedRange></bibl>
             <bibl><ptr target="bib:Brandes1913_01"/><citedRange unit="plate">3</citedRange></bibl>
             <bibl><ptr target="bib:Damais1951_01"/><citedRange unit="page">29-31</citedRange></bibl>
-            <bibl><ptr target="bib:Damais1952_01"/><citedRange unit="page">30-31</citedRange><citedRange unit="item">A. 19</citedRange></bibl>
+            <bibl><ptr target="bib:Damais1952_01"/><citedRange unit="page">30-31</citedRange><citedRange unit="item">A.19</citedRange></bibl>
             <bibl><ptr target="bib:Damais1970_01"/><citedRange unit="page">46</citedRange><citedRange unit="item">48</citedRange></bibl>
             <bibl><ptr target="bib:Sarkar1971-1972_01"/><citedRange unit="volume">I</citedRange><citedRange unit="item">XVIII</citedRange><citedRange unit="page">127</citedRange></bibl>
-            <bibl><ptr target="bib:Nakada1982_01"/><citedRange unit="page">78-79</citedRange><citedRange unit="item">I-23</citedRange></bibl>
+            <bibl><ptr target="bib:Nakada1982_01"/><citedRange unit="page">78-79</citedRange><citedRange unit="item">I.23</citedRange></bibl>
             <!-- <bibl><ptr target="bib:Eade+Gislen2000_01"/><citedRange unit="page">127</citedRange></bibl> -->
               <bibl><ptr target="bib:Griffiths2021-2022_01"/><citedRange unit="page">155</citedRange></bibl>
            </listBibl>
