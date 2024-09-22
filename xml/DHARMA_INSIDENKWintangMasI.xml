@@ -94,21 +94,30 @@
           <lg n="1" met="anuṣṭubh" xml:lang="san-Latn">
           <l n="a">jagatāṁ sarvvatobhadra‚</l> 
           <l n="b">vara<lb n="1r12" break="no"/>n dāsyasi sāmpratam·</l>
-          <l n="c">Asmāsu sakaleṣv aiva,</l> 
+          <l n="c">Asmāsu sakaleṣv <choice><sic>ai</sic><corr>e</corr></choice>va,</l> 
           <l n="d">Asāmānyopalabdhaye <g type="ddandaCross"/></l>
         </lg>
         <lg  n="2" met="anuṣṭubh" xml:lang="san-Latn">
           <l n="a">nāveśyaḥ darśano baddhyaḥ</l> 
           <l n="b">nirvvāṇaḥ pānyakas tathā</l><!-- pāśyakas?-->
-          <l n="c">Āhr̥to bhaiṣaja<lb n="1v1" break="no"/><unclear>ś</unclear> caiva</l> 
+          <l n="c">Āhr̥to bhaiṣaja<pb n="1v" break="no"/><lb n="1v1" break="no"/><unclear>ś</unclear> caiva</l> 
           <l n="d">sarvve t<unclear>e</unclear> mataru coditaḥ <g type="ddanda"/></l>
+          <!-- 
+ViP vihaṅgamāḥ kāmāgamā nirvāṇā ṛṣayas tathā  /<BR>
+gaṇāstvete tadā mukhyā devānāṃ ca bhaviṣyatām  /<BR>
+aikaikastriṃśakasteṣāṃ gaṇaścendraś ca vai pṛṣā  // ViP_3,2.30 //<BR>
+
+StSt 127.   Bhūh pātālah pradhānañ ca (Ś)
+1 Bhūḥ pātālaḥ1 pradhānañ ca, nirvāṇaṃ puruṣas tathā pratimā īśvaro devaḥ, liṅgârcā Śiva ucyate.
+2 Atmā Viṣṇur iti jñeyaḥ, Paramâtmā Pitā-mahaḥ Atma-mahā Mahā-deva, Nir-ātmā2 Śiva ucyate. !pranali 2nira
+
+          -->
         </lg>
-           
           <lg n="3" met="anuṣṭubh" xml:lang="san-Latn">
           <l n="a">brahmaṇī gariṇī tatvam</l> 
           <l n="b">anāryyam vihīnan tathā</l>
           <l n="c">yadvat pāpaṁ mahat prāpya</l> 
-          <l n="d">tadvat· maccha śapāt śapāt· ||</l> 
+          <l n="d">tadvat· <choice><sic>ma</sic><corr>R̥</corr></choice>ccha śapāt śapāt· ||</l> 
         </lg>
 
       </div>
@@ -172,7 +181,7 @@
         </listApp>
       </div>
       <div type="translation" xml:lang="eng" resp="part:argr">
-        <p n="1r1-1r2">Hail! Elapsed Śaka year 800, month of Śrāvaṇa, thirteenth <foreign>tithi</foreign> of the waning fortnight, Panirvan, Umanis, Friday.</p>
+        <p n="1r1-1r2">Hail! Elapsed Śaka year 800, month of Śrāvaṇa, thirteenth <foreign>tithi</foreign> of the waning fortnight, Panirvan, Umanis, Friday (i.e., 1 August 878 CE).</p>
         <p>That was when <foreign>dyah</foreign> Puṭu was accompanied by his headmen at Kapuhunan:
           <list>
             <item>the foreman <supplied reason="explanation">called</supplied> <foreign>pu</foreign> Go<gap reason="lost" unit="character" quantity="2"/>;</item>
@@ -207,12 +216,13 @@ Let there32 be welfare in all places of theworld ! At present
 bestow boon on all of us, so that we may obtain the highest excellence. || 	33 when great sins come upon (us), then relieve
 (us) of curses and sins !
         -->
-        <p rend="stanza" n="1">Universally benign to people, you shall now grant a wish to all of us, for the obtainment of private property!</p>
+        <p rend="stanza" n="1"><!-- Dominic Goodall's translation-->O you who face outwards in directions to <supplied reason="subaudible">all</supplied> creatures! You will <supplied reason="subaudible">please</supplied> give a boon now to us all, so that we may attain something uncommon.<!-- Arlo's first attempt
+          Universally benign to people, you shall now grant a wish to all of us, for the obtainment of private property!--></p>
         <p rend="stanza" n="2"></p>
-        <p rend="stanza" n="3"></p>
+        <p rend="stanza" n="3">Like the ..., ignoble and destitute, that you obtain, on sin as great you must fall due to every curse.</p>
       </div>
       <div type="commentary">
-        <p>This charter has previously been designated Pintang Mas or Kapuhunan. The designation Wintang Mas I is here preferred, to emphasize the connection with a charter issued three decades later that also concerns a <foreign>sīma</foreign> at Vintaṅ Mas, called <ref target="DHARMA_INSIDENKWintangMasII.xml">Wintang Mas II</ref>.</p>
+        <p>This charter has previously been designated as Pintang Mas or Kapuhunan. The designation Wintang Mas I is here preferred, to emphasize the connection with a charter issued three decades later that also concerns a <foreign>sīma</foreign> at Vintaṅ Mas, called <ref target="DHARMA_INSIDENKWintangMasII.xml">Wintang Mas II</ref>.</p>
       </div>
       <div type="bibliography">
         <p>First discussed <bibl><ptr target="Krom1924_01"/></bibl>, then edited in <bibl><ptr target="bib:Poerbatjaraka1926_01"/></bibl>. The text was initially verified by Arlo Griffiths at the University Library in Leiden, on 9 May and 23 December 2009. The digital edition presented here was reverified from photographs in September 2024.</p>
@@ -221,8 +231,8 @@ bestow boon on all of us, so that we may obtain the highest excellence. || 	33 w
           <bibl n="P"><ptr target="bib:Poerbatjaraka1926_01"/><citedRange unit="page">74-76</citedRange></bibl>
         </listBibl>
         <listBibl type="secondary">
-          <bibl>Suplement Catalogus H. H. Juynboll p. 107.</bibl>
-          <bibl><ptr target="Krom1924_01"/><citedRange unit="page">222-223</citedRange></bibl>
+          <bibl><ptr target="bib:Juynboll1907_01"/><citedRange unit="page">107</citedRange><citedRange unit="item">CXCIX</citedRange></bibl>
+          <bibl><ptr target="bib:Krom1924_01"/><citedRange unit="page">222-223</citedRange></bibl>
           <bibl><ptr target="bib:Damais1952_01"/><citedRange unit="page">38-39</citedRange><citedRange unit="item">A. 42</citedRange></bibl>
                 <bibl><ptr target="bib:Damais1955_01"/><citedRange unit="page">173</citedRange></bibl>
                 <bibl><ptr target="bib:Damais1970_01"/><citedRange unit="page">48</citedRange><citedRange unit="item">87</citedRange></bibl>
@@ -230,19 +240,11 @@ bestow boon on all of us, so that we may obtain the highest excellence. || 	33 w
                 <bibl><ptr target="bib:Nakada1982_01"/><citedRange unit="page">84-85</citedRange><citedRange unit="item">I-48</citedRange></bibl>
                 <bibl><ptr target="bib:Eade+Gislen2000_01"/><citedRange unit="page">129</citedRange></bibl> 
 <!--
+  Photographic documentation: OD 10017; photos made by A. Griffiths in 2009 — none yet by A. Levivier.
 
-  Photographic documentation: OD 10017; photos made by A. Griffiths — and by A. Levivier ?
-
-  Preamble Sarkar: "The find-spot of this copper-plate is not known1. It was purchased from the legacy of Mr. Millies in March, 1905, and is now preserved at the Library of the University at Leiden2. The plate measures 33 x 13 c. m. The corner of the upper left margin being damaged, 6 initial letters of the inscription can not be read now. 
+  Preamble Sarkar: "The find-spot of this copper-plate is not known[1]. It was purchased from the legacy of Mr. Millies in March, 1905, and is now preserved at the Library of the University at Leiden[2]. The plate measures 33 x 13 c. m. The corner of the upper left margin being damaged, 6 initial letters of the inscription can not be read now. 
   The inscription records how the rāmanta-s of Kapuhunan were relieved of their taxes for the free-hold at Pintaṅ-mas. It also regulates how dyah Puṭu and his descendants shall conduct the religious services of god Haricandana when the time for worship comes.
-   The reading and translation of this record have been published by Poerbatjaraka in Agastya, pp. 74-76. According to Damais2a, the date of this inscription corresponds to 1st August, 878 A.D."
-
-Krom1924_01
-Poerbatjaraka1926_01
-Damais 1951
-Damais 1955: .
-Damais 1970: 
-Sarkar 1971–72, vol. I: ...(no. XXXVII).
+  The reading and translation of this record have been published by Poerbatjaraka in Agastya, pp. 74-76. According to Damais[2a], the date of this inscription corresponds to 1st August, 878 A.D."
 -->
         </listBibl>
       </div>
