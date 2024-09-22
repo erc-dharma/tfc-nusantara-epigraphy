@@ -75,7 +75,7 @@
   <text xml:space="preserve">
     <body>
       <div type="edition" xml:lang="kaw-Latn" rendition="class:38769 maturity:83213">
-        <p><pb n="1r"/><lb n="1r1"/><supplied reason="lost">svasti śaka-var</supplied>ṣātīta <num value="800">800</num> śravaṇa-māsa tithi trayodaśi kr̥ṣṇa-pakṣa‚ <abbr>pa</abbr>, <abbr>U</abbr>, śu, vāra‚</p> 
+        <p><pb n="1r"/><lb n="1r1"/><supplied reason="lost">svasti śaka-var</supplied>ṣātīta <num value="800">800</num> śravaṇa-māsa tithi trayodaśi kr̥ṣṇa-pakṣa‚ <abbr><choice><sic>pa</sic><corr>vu</corr></choice></abbr>, <abbr>U</abbr>, śu, vāra‚</p> 
         <p>tatkāla dyaḥ puṭu dinulur· deni rāmanira I kapuhunan·, juru pu go<lb break="no" 
           n="1r2"/><gap reason="lost" quantity="2" unit="character"/> tuha banuA saṁ Ādikā‚ muAṁ saṁ surā muAṁ saṁ tarā, saṁ garyya‚ ḍaṇḍa si kupiṁ, nāhan· kvaiḥ rāmanta dumulur· dyaḥ puṭu kālanyan· pinuput· pamuAtni
           <lb n="1r3"/>sīmanira I <unclear reason="eccentric_ductus">v</unclear>intaṁ mas·, kāla pitāmaha Iṁ kailāsa vineḥ I maṅulihi,</p> 
@@ -88,8 +88,8 @@
           taru maṅamvil· ḍa punta pula, vineḥ vḍihan· <abbr>yu</abbr> <num value="1">1</num> mas· <num value="2">2</num><supplied reason="subaudible">,</supplied> 
           <lb n="1r9"/>saṁ karaṅka, tuṅgu rumaḥ I jamvu, vineḥ vḍihan· <abbr>yu</abbr> <num value="1">1</num> mas· <abbr>mā</abbr> <num value="2">2</num><supplied reason="subaudible">,</supplied></p> 
           <p>tatra sākṣī pitāmaha bhagavanta makabaihan·, muAṁ saṁ talahantan· kālih‚ ḍa punta vgi<lb break="no"
-          n="1r10"/>l· ḍa punta ma<space type="descender"/>yaṅkā, rā<space type="descender"/>ma I bun hamas· kāliḥ saṁ karaṅ hulu, saṁ Aḍuti‚ parujar· si padmini, juru I ḍihyaṁ pu maṇḍiṁ, pasiṅar· saṁ paluṅan·, mu<lb break="no" 
-          n="1r11"/>Aṁ saṁ nalī, saṁ prabhī‚ pasak· kinabehannira pirak· <abbr>mā</abbr> <num value="8">8</num><supplied reason="subaudible">,</supplied> likhita saṁ paṅuraṁ saṁ triyur· tuṁtuṁ ka<choice><sic>ṇva</sic><corr>rvo</corr></choice>liha pirak· <abbr>mā</abbr> <num value="2">2</num> <g type="ddandaCross"/></p>
+          n="1r10"/>l· ḍa punta ma<space type="descender"/>yaṅkā, rā<space type="descender"/>ma I bun hamas· kāliḥ saṁ karaṅ hulu, saṁ Aḍuti‚ parujar· si padmini, juru I ḍihyaṁ pu maṇḍiṁ, pasiṅir· saṁ paluṅan·, mu<lb break="no" 
+          n="1r11"/>Aṁ saṁ nalī, saṁ prabhī‚ pasak· kinabehannira pirak· <abbr>mā</abbr> <num value="8">8</num><supplied reason="subaudible">,</supplied></p> <p>likhita saṁ paṅuraṁ saṁ triyur· tuṁtuṁ ka<choice><sic>ṇva</sic><corr>rvo</corr></choice>liha pirak· <abbr>mā</abbr> <num value="2">2</num> <g type="ddandaCross"/></p>
            
           <lg n="1" met="anuṣṭubh" xml:lang="san-Latn">
           <l n="a">jagatāṁ sarvvatobhadra‚</l> 
@@ -115,14 +115,19 @@
       <div type="apparatus">
        <listApp>
         <app loc="1r1">
-          <lem><unclear reason="eccentric_ductus">v</unclear>intaṁ</lem>
-          <rdg source="bib:Poerbatjaraka1926_01">pintaṁ</rdg>
-       </app>
+          <lem><abbr><choice><sic>pa</sic><corr>vu</corr></choice></abbr></lem>
+          <rdg source="bib:Poerbatjaraka1926_01"><abbr>pa</abbr></rdg>
+          <note>The need to correct the abbreviation for the name the <foreign>ṣaḍvāra</foreign> was pointed out by <bibl><ptr target="bib:Damais1955_01"/></bibl>.</note>
+        </app>
        <app loc="1r2">
         <lem>saṁ surā</lem>
         <rdg source="bib:Poerbatjaraka1926_01">saṁ surā</rdg>
         <note>My reading agrees with <bibl><ptr target="bib:Damais1970_01"/><citedRange unit="page">476</citedRange></bibl>.</note>
        </app>
+       <app loc="1r3">
+        <lem><unclear reason="eccentric_ductus">v</unclear>intaṁ</lem>
+        <rdg source="bib:Poerbatjaraka1926_01">pintaṁ</rdg>
+     </app>
        <app loc="1r4">
         <lem>pīṭā</lem>
         <rdg source="bib:Poerbatjaraka1926_01">pīṭhā</rdg>
@@ -150,6 +155,10 @@
         <lem source="bib:Poerbatjaraka1926_01">saṁ Aḍuti</lem>
         <note>Proposing the alternative reading <foreign>Adhuti</foreign>, <bibl><ptr target="bib:Damais1970_01"/><citedRange unit="page">97</citedRange><citedRange unit="note">1</citedRange></bibl> claims: <q>Le <foreign>dh</foreign> est mal formé mais aucune autre lecture n’est possible</q>.</note>
        </app>
+       <app loc="1r10">
+        <lem>pasiṅir·</lem>
+        <rdg source="bib:Poerbatjaraka1926_01">pasiṅar·</rdg>
+       </app>
        <app loc="1r11">
         <lem>ka<choice><sic>ṇva</sic><corr>rvo</corr></choice>liha</lem>
         <rdg source="bib:Poerbatjaraka1926_01">kapvoliha</rdg>
@@ -170,8 +179,7 @@
             <item>the village elders <supplied reason="explanation">called</supplied> <foreign>saṅ</foreign> Ādikā and <foreign>saṅ</foreign> Surā and <foreign>saṅ</foreign> Tarā‚ <foreign>saṅ</foreign> Garya;</item> 
             <item>the <foreign>daṇḍa</foreign> <supplied reason="explanation">called</supplied> <foreign>si</foreign> Kupiṅ.<note>The function called <foreign>ḍaṇḍa</foreign> is only rarely attested. The only other occurrence I am aware of is <foreign>ḍaṇḍa pu Aṅgə<supplied reason="lost" cert="low">han</supplied></foreign> in the <ref target="DHARMA_INSINDENKMangulihiA.xml">Mangulihi A inscription</ref> (line B1).</note></item>
         </list>
-      Those were all the headmen who accompanied <foreign>dyah</foreign> Puṭu when the <foreign>pamvat</foreign> of their <foreign>sīma</foreign> at Vintaṅ Mas was accomplished, <supplied reason="subaudible">and</supplied> when the venerables of Kailāsa were given Maṅulihi <supplied reason="subaudible">as apanage</supplied>.
-    </p>
+      Those were all the headmen who accompanied <foreign>dyah</foreign> Puṭu when the <foreign>pamvat</foreign> of their <foreign>sīma</foreign> at Vintaṅ Mas was accomplished, <supplied reason="subaudible">and</supplied> when the priest <supplied reason="explanation"><foreign>pitāmaha</foreign></supplied> of Kailāsa was given Maṅulihi <supplied reason="subaudible">as apanage</supplied>.<note>The priest of Kailāsa intended here seems to be the person mentioned as official of Maṅulihi in line 1r7.</note></p>
     <p n="1r2-1r6">As for its <supplied reason="explanation">i.e., the village's</supplied> service <supplied reason="explanation">? <foreign>parbhaktyan</foreign></supplied> to the deity Śrī Haricandana, they as well as their descendants must exert themselves for it down into the future. They must not be neglectful <supplied reason="explanation" cert="low"><foreign>pīṭā</foreign>, i.e., <foreign>pīḍā</foreign></supplied><note>The sentence is analogous to <ref target="DHARMA_INSIDENKWintangMasII">Wintang Mas II</ref> (1r4–5) <foreign>Iṁ trisamvatsara ya <unclear>ta</unclear>n· luptā</foreign>. It could be that <foreign>pīṭā</foreign> is an irrealis form derived from <foreign>pīṭa</foreign>, just as <foreign>luptā</foreign> is derived from <foreign>lupta</foreign>. It seems to have been mainly on the basis of this analogy that scholars starting with Krom (<bibl rend="omitname"><ptr target="Krom1924_01"/></bibl>) have considered that the word must mean something like <q>negligent</q>. Sarkar (<bibl rend="omitname"><ptr target="bib:Sarkar1971-1972_01"/><citedRange unit="volume">II</citedRange><citedRange unit="page">355</citedRange></bibl>) lists the word as <foreign>pīṭhā</foreign> and translated <foreign>sit idly</foreign>, implying that he considered it a loanword from Skt. <foreign>pīṭha</foreign> <q>seat</q>. It seems more likely that the intended base word was <foreign>pīḍā</foreign>, itself derived from the verbal root <foreign>pīḍ</foreign> which can mean, among other things, <q>to hurt, harm, injure; to break (a vow); to neglect (one's family)</q>. In Old Javanese, the word is so far attested only in the compound <foreign>parapīḍā</foreign>. Cf. Vararuci's <title>Sārasamuccaya</title> (331) <foreign>nihan lvirniṅ tan saṅsargan, vvaṅ maṅulahakən pisakit, parapīḍā durācāra, vvaṅ gə̄ṅ pramāda, vvaṅ mithyāvāda, vvaṅ tan apagəh kabhaktinya, vvaṅ gə̄ṅ rāga, vvaṅ sakta riṅ madya, nahan taṅ nəm kaniṣṭaniṅ vvaṅ, tan yogya sivin</foreign>.</note> at the moment <supplied reason="explanation">? <foreign>təkan</foreign></supplied><note>None of the meanings recorded in <bibl><ptr target="bib:Zoetmulder1982_01"/><citedRange unit="entry"><foreign>təkan</foreign></citedRange></bibl>, under <foreign>təkan iṅ</foreign>, namely <q>up to, until, including</q>, seem to be adequate in contexts such as the present one. Cf. also <ref target="DHARMA_INSIDENKRampal.xml">Rampal</ref> (794 Ś., lines 6–7) <foreign>Anuṁ (m)apa(s)a(ṅ)ṅa Inimpǝnnakan· saṁ tali I tkaniṁ vulan· hapit· mā 1 ku 2</foreign> and <ref target="DHARMA_INSIDENKGulung-gulung.xml">Gulung-Gulung</ref> (851 Ś., lines A6–7)
       <foreign>mataṅyan tuṅgala gatyanikaṁ saṁ hyaṁ kahyaṅan· kapva siliḥ lavada sakarmmaṇya I paṅavān· muAṁ I himad· yan· tkaniṁ kapūjān· bhaṭāra I paṅavān· Umilva sakarmmaṇya I himad· tkaniṁ kapūjān· bhaṭāra I himad· Ilva sakarmmaṇya I paṅavān·</foreign>.</note> of the worship of the deity Haricandana. 
       <list>
@@ -188,19 +196,13 @@
      <item>Also, the month of Mārgaśira is the festival period. They shall offer 1 <foreign>tahilan</foreign> of <foreign>pasaṅ bras</foreign> with its various fruits to the deity Haricandana.</item>
   </list>
   </p>
-  <p n="1r6-1r9"><foreign>Dyah</foreign> Puṭu offered homage. He presents gold 2 23māṣa and 1 set of clothes to the samgat tiruan (viz.) Pu Sapi. Thesamgat of Maṁulihi24 (viz.) the pitāmaha of Kailāśa received 1 setof clothes (and)
-gold 2 māsa. 
-</p>
+  <p n="1r6-1r9"><foreign>Dyah</foreign> Puṭu offered homage. He offered 2 <foreign>māṣa</foreign>s of gold <supplied reason="subaudible">and</supplied> 1 set of <foreign>vḍihan</foreign> <supplied reason="explanation">cloth</supplied> to the official of Tiruan <supplied reason="explanation">called</supplied> <foreign>pu</foreign> Sapi.<note>This official also figures in <ref target="DHARMA_INSIDENKWanuaTengahI.xml">Wanua Tengah</ref> I (lines 7–8) and in the parallel passage in Wanua Tengah II.</note> The official of Maṅulihi, <supplied reason="explanation">i.e.,</supplied> the priest of Kailāsa,<note>See line 1r3.</note> was given 1 set of <foreign>vḍihan</foreign> <supplied reason="subaudible">and</supplied> 2 <foreign>māṣa</foreign>s of gold. 
+    The foreman at Maṅulihi, <supplied reason="explanation">i.e.,</supplied> the Pagar Vəsi <supplied reason="explanation">called</supplied> <foreign>saṅ</foreign> <seg rend="check">Phaṇa Varaṅan</seg> was given 1 set of <foreign>vḍihan</foreign> <supplied reason="subaudible">and</supplied> 2 <foreign>māṣa</foreign>s of gold.
+    The Taru Maṅambil <supplied reason="explanation">called</supplied> <foreign>ḍa punta</foreign> Pula was given 1 set of <foreign>vḍihan</foreign> <supplied reason="subaudible">and</supplied> 2 <foreign>māṣa</foreign>s of gold.
+   <foreign>Saṅ</foreign> Karaṅka, home guard at Jambu, was given 1 set of <foreign>vḍihan</foreign> <supplied reason="subaudible">and</supplied> 2 <foreign>māṣa</foreign>s of gold.</p>
+  <p n="1r9-1r11">The witnesses to it were all reverend priests, along with the two <foreign>talahantan</foreign>s <supplied reason="explanation">called</supplied> <foreign>ḍa punta</foreign> Vəgil <supplied reason="explanation">and</supplied> <foreign>ḍa punta</foreign> Mayaṅkā; the two headmen at Bu Hamas <supplied reason="explanation">called</supplied> <foreign>saṅ</foreign> Karaṅ Hulu <supplied reason="explanation">and</supplied> <foreign>saṅ</foreign> Aḍuti; the herald <supplied reason="explanation">called</supplied> <foreign>si</foreign> Padmini; the foreman at Ḍihyaṅ <supplied reason="explanation">called</supplied> <foreign>pu</foreign> Maṇḍiṅ; the <foreign>pasiṅir</foreign>s <supplied reason="explanation">called</supplied> <foreign>saṅ</foreign> Paluṅan, as well as <foreign>saṅ</foreign> Nalī <supplied reason="subaudible">and</supplied> <foreign>saṅ</foreign> Prabhī. The gifts <supplied reason="explanation"><foreign>pasak</foreign></supplied> shared by them were 8 <foreign>māṣa</foreign>s of silver.</p>
+  <p n="1r11">Written by <foreign>saṅ</foreign> Paṅuraṅ <supplied reason="subaudible">and</supplied> <foreign>saṅ</foreign> Triyur Tuṅtuṅ: both shall share receive 2 <foreign>māṣa</foreign>s of silver.</p>
         <!-- 
-Dyaḥ Puṭu (now) offers respects (to them). He presents gold 2 23māṣa and 1 set of clothes to the samgat tiruan (viz.) Pu Sapi. Thesamgat of Maṁulihi24 (viz.) the pitāmaha of Kailāśa received 1 setof clothes (and)
-gold 2 māsa. The tuhān of Maṁulihi : the pagarvsi (viz.) SaṁḌaṇa (or Dapo26) Varaṁan received 1 set of clothes (and) gold
-2	māṣa. The ḍapunta Pula of Tarumaṁamvil27 received 1 set ofclothes (and) gold 2 māṣa.
-9.	Saṁ Karaṁka, the guard of the house of Jamvu received 1 set ofclothes (and) gold 2 māṣa. Witnesses thereof are all the pitāmaha-s,bhagavanta-s28 and both the talahantan-s29 (viz.) ḍapunta Vǝgil
-10. (and) ḍapunta Mayaṁka, both the rāma-s of Bunhamas (viz.) saṁ Karaṁhulu (and) saṁ Aḍuti. The parujar (viz.) Si Pad-
-The Copper-Plate of Pintaṁ Mas	205
-mini, the juru of Ḍihyaṁ (viz.) Pu Maṇḍiṁ, the pasiṁar30 (viz.) saṁ Paluṁan, and
-saṁ Nalī (?), saṁ Prabhī‚ all of them received together 8 māsa.The scribes (viz.) Paṁuraṁ, Triyur‚ Tuṁtuṁ31 must similarlyreceive silver 2 māsa. || 
-
 Let there32 be welfare in all places of theworld ! At present
 bestow boon on all of us, so that we may obtain the highest excellence. || 	33 when great sins come upon (us), then relieve
 (us) of curses and sins !
@@ -210,12 +212,10 @@ bestow boon on all of us, so that we may obtain the highest excellence. || 	33 w
         <p rend="stanza" n="3"></p>
       </div>
       <div type="commentary">
-        <p>Wintang Mas II is part of the Daksa corpus</p>
+        <p>This charter has previously been designated Pintang Mas or Kapuhunan. The designation Wintang Mas I is here preferred, to emphasize the connection with a charter issued three decades later that also concerns a <foreign>sīma</foreign> at Vintaṅ Mas, called <ref target="DHARMA_INSIDENKWintangMasII.xml">Wintang Mas II</ref>.</p>
       </div>
       <div type="bibliography">
-        <p>Verified at the Universiteitsbibliotheek (Leiden), 9 May and 23 December 2009, by A. Griffiths. Divergences from Sarkar’s text marked in blue; uncertain readings marked in red.
-          Reverified from photographs in September 2024.
-        </p>
+        <p>First discussed <bibl><ptr target="Krom1924_01"/></bibl>, then edited in <bibl><ptr target="bib:Poerbatjaraka1926_01"/></bibl>. The text was initially verified by Arlo Griffiths at the University Library in Leiden, on 9 May and 23 December 2009. The digital edition presented here was reverified from photographs in September 2024.</p>
         <listBibl type="primary">
           <bibl n="siglum"/>
           <bibl n="P"><ptr target="bib:Poerbatjaraka1926_01"/><citedRange unit="page">74-76</citedRange></bibl>
@@ -223,10 +223,12 @@ bestow boon on all of us, so that we may obtain the highest excellence. || 	33 w
         <listBibl type="secondary">
           <bibl>Suplement Catalogus H. H. Juynboll p. 107.</bibl>
           <bibl><ptr target="Krom1924_01"/><citedRange unit="page">222-223</citedRange></bibl>
-          <bibl><ptr target="bib:Damais1952_01"/><citedRange unit="page">...</citedRange><citedRange unit="item">A. ...</citedRange></bibl>
-                <bibl><ptr target="bib:Damais1955_01"/><citedRange unit="page">...</citedRange></bibl>
-                <bibl><ptr target="bib:Damais1970_01"/><citedRange unit="page">...</citedRange><citedRange unit="item">...</citedRange></bibl>
+          <bibl><ptr target="bib:Damais1952_01"/><citedRange unit="page">38-39</citedRange><citedRange unit="item">A. 42</citedRange></bibl>
+                <bibl><ptr target="bib:Damais1955_01"/><citedRange unit="page">173</citedRange></bibl>
+                <bibl><ptr target="bib:Damais1970_01"/><citedRange unit="page">48</citedRange><citedRange unit="item">87</citedRange></bibl>
                 <bibl><ptr target="bib:Sarkar1971-1972_01"/><citedRange unit="volume">I</citedRange><citedRange unit="item">XXXVII</citedRange><citedRange unit="page">202-207</citedRange></bibl>
+                <bibl><ptr target="bib:Nakada1982_01"/><citedRange unit="page">84-85</citedRange><citedRange unit="item">I-48</citedRange></bibl>
+                <bibl><ptr target="bib:Eade+Gislen2000_01"/><citedRange unit="page">129</citedRange></bibl> 
 <!--
 
   Photographic documentation: OD 10017; photos made by A. Griffiths — and by A. Levivier ?
