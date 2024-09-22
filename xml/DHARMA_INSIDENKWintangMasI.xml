@@ -69,6 +69,7 @@
       </listPrefixDef>
     </encodingDesc>
     <revisionDesc>
+      <change status="draft" when="2024-09-22" who="part:argr">finished encoding the inscription</change>
       <change status="draft" when="2024-09-08" who="part:argr">started encoding the inscription</change>
     </revisionDesc>
   </teiHeader>
