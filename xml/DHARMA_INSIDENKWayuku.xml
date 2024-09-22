@@ -96,12 +96,12 @@
                <listApp>
                 <app loc="1">
                     <lem source="bib:Damais1955_01"><num value="779">776</num></lem>
-                    <rdg source="bib:CohenStuart1875_01"><num value="779">779</num></rdg>
-                    <note>Cohen stuart add a question mark, presumably to express unxcertainty only about the digit for the units.</note>
+                    <rdg source="bib:CohenStuart+LimburgBrouwer1872_01"><num value="779">779</num></rdg>
+                    <!-- <note>Cohen stuart add a question mark, presumably to express unxcertainty only about the digit for the units.</note> -->
                 </app>
                   <app loc="4">
                      <lem source="bib:Damais1955_01">sisair·</lem>
-                     <rdg source="bib:CohenStuart1875_01">si sairā</rdg>
+                     <rdg source="bib:CohenStuart+LimburgBrouwer1872_01">si sairā</rdg>
                      </app>
                </listApp>
          </div>
