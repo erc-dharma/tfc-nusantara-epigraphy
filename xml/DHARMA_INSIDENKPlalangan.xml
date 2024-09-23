@@ -112,7 +112,7 @@
         	<listBibl type="primary">
                 <bibl><ptr target="bib:AriSetyastuti+RitaSetianingsih1994_01"/></bibl>
                 <bibl><ptr target="bib:HerniPramastuti+al2015_01"/><citedRange unit="page">50-51</citedRange></bibl>
-				<bibl><ptr target="bib:TitiSurtiNastiti+al2024_01"/></bibl>
+				<bibl><ptr target="bib:TitiSurtiNastiti+al2024_01"/><citedRange unit="page">???-???</citedRange><citedRange unit="section">2.2.21</citedRange></bibl>
 			</listBibl>
            <listBibl type="secondary">
               <bibl/><!-- one <bibl/> per item of secondary bibliography -->
