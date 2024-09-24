@@ -177,13 +177,13 @@
             <p n="10"></p>
             </div> -->
         <div type="bibliography">
-           <p>First edited in <bibl><ptr target="bib:RiboetDarmosoetopo+TjahjonoPrasodjo2003_01"/></bibl>; edited again, with more errors, in <bibl><ptr target="bib:RiboetDarmosoetopo+al2007_01"/></bibl> (whence reproduced in <bibl><ptr target="bib:RiboetDarmosoetopo+al2015_01"/></bibl>). Re-redited here by Arlo Griffiths from direct inspection of the stone and photographs.</p>
+           <p>First edited in <bibl><ptr target="bib:RiboetDarmosoetopo+TjahjonoPrasodjo2003_01"/></bibl>; edited again, somewhat differently, in <bibl><ptr target="bib:RiboetDarmosoetopo+al2007_01"/></bibl> (whence reproduced in <bibl><ptr target="bib:RiboetDarmosoetopo+al2015_01"/></bibl>). Re-redited here by Arlo Griffiths from direct inspection of the stone and photographs.</p>
         	<listBibl type="primary">
                 <bibl n="RD&amp;TP"><ptr target="bib:RiboetDarmosoetopo+TjahjonoPrasodjo2003_01"/></bibl>
-                <bibl n="PAY"><ptr target="bib:RiboetDarmosoetopo+al2007_01"/><citedRange unit="page">...-...</citedRange></bibl>
+                <bibl n="PAY"><ptr target="bib:RiboetDarmosoetopo+al2007_01"/><citedRange unit="page">30-33</citedRange></bibl>
 			</listBibl>
            <listBibl type="secondary">
-            <bibl><ptr target="bib:RiboetDarmosoetopo+al2015_01"/><citedRange unit="page">...-...</citedRange></bibl>
+            <bibl><ptr target="bib:RiboetDarmosoetopo+al2015_01"/><citedRange unit="page">30-32</citedRange></bibl>
             <bibl><ptr target="bib:TitiSurtiNastiti+al2024_01"/><citedRange unit="page">...-...</citedRange><citedRange unit="section">2.2.15</citedRange></bibl>
            </listBibl>
         </div>

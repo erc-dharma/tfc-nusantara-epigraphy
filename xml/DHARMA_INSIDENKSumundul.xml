@@ -97,7 +97,7 @@
                 n="12"/>han· Ikana<unclear>ṁ</unclear> vanva I parhyaṁ<unclear>ṅ</unclear>an· vyavastha ma<lb break="no" 
                 n="13"/>s· <abbr>mā</abbr> <num value="4"><unclear>4</unclear></num></p> <p>kunaṁ yan· halaṁ-halaṁṅanna Ika<lb break="no" 
                 n="14"/>naṁ v<choice><sic>a</sic><corr>u</corr></choice>Attan· tan· Asiḥnya ryy avaknya lava<lb break="no"
-                n="15"/>n· Anaknya putunnya likhita saṁ pucaṁṅan·</p>
+                n="15"/>n· Anaknya putunnya</p> <p>likhita saṁ pucaṁṅan·</p>
          </div>
          <div type="apparatus">
             <!-- 
@@ -118,57 +118,65 @@
             --><!-- Arlo to continue from here down -->
             <listApp>
             <app loc="2">
-                <lem>-var<choice><sic>p</sic><corr>ṣ</corr></choice>ātīta</lem>
-                <rdg source="bib:RiboetDarmosoetopo+TjahjonoPrasodjo2003_01">-varsātīta</rdg>
-                <rdg source="bib:RiboetDarmosoetopo+al2007_01">-varṣa tīta</rdg>
+                <lem source="bib:RiboetDarmosoetopo+TjahjonoPrasodjo2003_01"><num value="791">79<lb break="no" n="3"/>1</num></lem>
+                <rdg source="bib:RiboetDarmosoetopo+al2007_01">791<lb break="no" n="3"/>1</rdg>
             </app>
             <app loc="5">
-                <lem source="bib:RiboetDarmosoetopo+TjahjonoPrasodjo2003_01">lvar·</lem>
-                <rdg source="bib:RiboetDarmosoetopo+al2007_01">lpar·</rdg>
+                <lem>lvar·</lem>
+                <rdg source="bib:RiboetDarmosoetopo+TjahjonoPrasodjo2003_01 bib:RiboetDarmosoetopo+al2007_01">lpar·</rdg>
             </app>
             <app loc="5">
                 <lem>manoharī</lem>
-                <rdg source="bib:RiboetDarmosoetopo+TjahjonoPrasodjo2003_01 bib:RiboetDarmosoetopo+al2007_01">manoha riṁ</rdg>
+                <rdg source="bib:RiboetDarmosoetopo+TjahjonoPrasodjo2003_01">manoha riṁ</rdg>
+                <rdg source="bib:RiboetDarmosoetopo+al2007_01">manohan riṁ</rdg>
             </app>
-            <app loc="5">
-                <lem>pad<choice><sic>ī</sic><corr>ə</corr></choice>laggan·</lem>
-                <rdg source="bib:RiboetDarmosoetopo+TjahjonoPrasodjo2003_01">padəlaggan·</rdg>
-                <rdg source="bib:RiboetDarmosoetopo+al2007_01">padələggan·</rdg>
-            </app>
-            <app loc="7">
+            <app loc="8">
                 <lem>UAiyaniṁ</lem>
-                <rdg source="bib:RiboetDarmosoetopo+TjahjonoPrasodjo2003_01 bib:RiboetDarmosoetopo+al2007_01">veyaniṁ</rdg>
-            </app>
-            <app loc="7">
-                <lem source="bib:RiboetDarmosoetopo+TjahjonoPrasodjo2003_01">tgal·ni<lb break="no" n="8"/>kanaṁ</lem>
-                <rdg source="bib:RiboetDarmosoetopo+al2007_01">tgal· ri<lb break="no" n="8"/>kanaṁ</rdg>
+                <rdg source="bib:RiboetDarmosoetopo+TjahjonoPrasodjo2003_01 bib:RiboetDarmosoetopo+al2007_01">bveyaniṁ</rdg>
             </app>
             <app loc="8">
-                <lem>ti<choice><sic>v</sic><corr>g</corr></choice>a</lem>
-                <rdg source="bib:RiboetDarmosoetopo+TjahjonoPrasodjo2003_01 bib:RiboetDarmosoetopo+al2007_01">tiva</rdg>
-                <note>The correction is required by the parallel passage in <ref target="DHARMA_INSIDENKSumundul">Sumundul</ref> and the synonymy with the eponymous toponyms in <ref target="DHARMA_INSIDENKTigaRon-TeluRon">Tiga/Təlu Ron</ref>.</note>
+                <lem>tgal·ni<choice><sic>t</sic><corr>k</corr></choice>a<lb break="no" n="9"/>naṁ</lem>
+                <rdg source="bib:RiboetDarmosoetopo+TjahjonoPrasodjo2003_01 bib:RiboetDarmosoetopo+al2007_01">tgal·nika<lb break="no" n="9"/>naṁ</rdg>
             </app>
-            <app loc="8">
-                <lem source="bib:RiboetDarmosoetopo+TjahjonoPrasodjo2003_01">Iri<lb break="no" n="9"/>kanaṁ kāla</lem>
-                <rdg source="bib:RiboetDarmosoetopo+al2007_01">Iri<lb break="no" n="9"/>kaṁ kāla</rdg>
-            </app>
-            <app loc="10">
-                <lem source="bib:RiboetDarmosoetopo+TjahjonoPrasodjo2003_01">I<lb break="no" n="11"/>kanaṁ vanva</lem>
-                <rdg source="bib:RiboetDarmosoetopo+al2007_01">I<lb n="9"/>kunaṁ vanva</rdg>
+            <app loc="9">
+                <lem>I<lb break="no" n="10"/>ri<choice><sic>t</sic><corr>k</corr></choice>a<choice><sic>r</sic><corr>n</corr></choice>aṁ</lem>
+                <rdg source="RiboetDarmosoetopo+TjahjonoPrasodjo2003_01 bib:RiboetDarmosoetopo+al2007_01">I<lb break="no" n="10"/>rikanaṁ</rdg>
             </app>
             <app loc="11">
-                <lem>vyavastha</lem>
-                <rdg source="bib:RiboetDarmosoetopo+TjahjonoPrasodjo2003_01 bib:RiboetDarmosoetopo+al2007_01">vyavatha</rdg>
+                <lem>vi<choice><sic>ṅ</sic><corr>n</corr></choice>ai<lb break="no" n="12"/>han·</lem>
+                <rdg source="bib:RiboetDarmosoetopo+TjahjonoPrasodjo2003_01 bib:RiboetDarmosoetopo+al2007_01">vinai<lb break="no" n="12"/>han·</rdg>
             </app>
-            <app loc="13">
+            <app loc="12">
+                <lem>Ikana<unclear>ṁ</unclear></lem>
+                <rdg source="bib:RiboetDarmosoetopo+TjahjonoPrasodjo2003_01">Ikana</rdg>
+                <rdg source="bib:RiboetDarmosoetopo+al2007_01">Ikanaṁ</rdg>
+            </app>
+            <app loc="12">
+                <lem>parhyaṁ<unclear>ṅ</unclear>an·</lem>
+                <rdg source="bib:RiboetDarmosoetopo+TjahjonoPrasodjo2003_01">parhyavan·</rdg>
+                <rdg source="bib:RiboetDarmosoetopo+al2007_01">parhyaṅan·</rdg>
+            </app>
+            <app loc="12">
+                <lem>vyavastha</lem>
+                <rdg source="bib:RiboetDarmosoetopo+TjahjonoPrasodjo2003_01">vyavatha</rdg>
+                <rdg source="bib:RiboetDarmosoetopo+al2007_01">vyastha</rdg>
+            </app>
+            <app loc="14">
+                <lem source="bib:RiboetDarmosoetopo+TjahjonoPrasodjo2003_01">v<choice><sic>a</sic><corr>u</corr></choice>Attan·</lem>
+                <rdg source="bib:RiboetDarmosoetopo+al2007_01">vuAttan·</rdg>
+            </app>
+            <app loc="14">
                 <lem>Asiḥnya ryy avak·nya</lem>
-                <rdg source="bib:RiboetDarmosoetopo+TjahjonoPrasodjo2003_01">Asiḥ nyayyavak·nya</rdg>
-                <rdg source="bib:RiboetDarmosoetopo+al2007_01">Asiḥ nyayyavaknya</rdg>
+                <rdg source="bib:RiboetDarmosoetopo+TjahjonoPrasodjo2003_01 bib:RiboetDarmosoetopo+al2007_01"><unclear>A</unclear>siḥ nyayya vak·nya</rdg>
+            </app>
+            <app loc="14">
+                <lem>lava<lb break="no" n="15"/>n·</lem>
+                <rdg source="bib:RiboetDarmosoetopo+TjahjonoPrasodjo2003_01 bib:RiboetDarmosoetopo+al2007_01"><choice><sic>ḍa</sic><corr>la</corr></choice>van·</rdg>
             </app>
         </listApp>
         </div>
          <div type="translation" resp="part:argr">
- 	<p n="1">Panaṅgaran</p>
+ 	<p n="1">Sumuṇḍul</p>
      <p n="1-4">Hail! Elapsed Śaka year 791, month of Bhadravāda, 
         fourth <supplied reason="subaudible"><foreign>tithi</foreign></supplied> of the waxing
         fortnight, Mavulu (of the 6-day cycle), Pon (of the 5-day cycle), Monday
@@ -184,10 +192,10 @@
            <p>First edited in <bibl><ptr target="bib:RiboetDarmosoetopo+TjahjonoPrasodjo2003_01"/></bibl>; edited again, with more errors, in <bibl><ptr target="bib:RiboetDarmosoetopo+al2007_01"/></bibl> (whence reproduced in <bibl><ptr target="bib:RiboetDarmosoetopo+al2015_01"/></bibl>). Re-redited here by Arlo Griffiths from direct inspection of the stone and photographs.</p>
         	<listBibl type="primary">
                 <bibl n="RD&amp;TP"><ptr target="bib:RiboetDarmosoetopo+TjahjonoPrasodjo2003_01"/></bibl>
-                <bibl n="PAY"><ptr target="bib:RiboetDarmosoetopo+al2007_01"/><citedRange unit="page">...-...</citedRange></bibl>
+                <bibl n="PAY"><ptr target="bib:RiboetDarmosoetopo+al2007_01"/><citedRange unit="page">26-28</citedRange></bibl>
 			</listBibl>
            <listBibl type="secondary">
-            <bibl><ptr target="bib:RiboetDarmosoetopo+al2015_01"/><citedRange unit="page">...-...</citedRange></bibl>
+            <bibl><ptr target="bib:RiboetDarmosoetopo+al2015_01"/><citedRange unit="page">26-28</citedRange></bibl>
             <bibl><ptr target="bib:TitiSurtiNastiti+al2024_01"/><citedRange unit="page">...-...</citedRange><citedRange unit="section">2.2.15</citedRange></bibl>
            </listBibl>
         </div>
