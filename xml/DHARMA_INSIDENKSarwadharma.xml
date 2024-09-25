@@ -9,7 +9,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Sarvadharma</title>
+            <title>Sarwadharma (1191 Śaka)</title>
             <respStmt>
                <resp>EpiDoc encoding</resp>
                <persName ref="part:ekba">
@@ -35,7 +35,7 @@
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/">
                   <p>This work is licenced under the Creative Commons Attribution 4.0 Unported Licence. To view a copy of the licence, visit https://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.</p>
-                  <p>Copyright (c) 2019-2025 by Eko Bastiawan &amp; Arlo Griffiths</p>
+                  <p>Copyright (c) 2019-2025 by Arlo Griffiths</p>
                </licence>
             </availability>
             <date from="2019" to="2025">2019-2025</date>
@@ -79,6 +79,7 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
+         <change who="part:argr" when="2024-09-25" status="draft">renamed the file, applied verse structure</change>
          <change who="part:ekba" when="2021-03-19" status="draft">renamed the file</change>
          <change who="part:ekba" when="2020-02-11" status="draft">started initial encoding of the inscription</change>
       </revisionDesc>
@@ -116,8 +117,38 @@
 <lb n="6r1"/>ṅ umaḥ, Ananəma kəmba<supplied reason="lost">ṁ</supplied> kun<unclear>ə</unclear><supplied reason="lost">ṁ</supplied> ri haR̥pan·, ananəma galuguḥ, Adr̥vyapatətəṅaha<del>·</del>n·, Aṅa<lb n="6r2" break="no"/>ṅgva gaḍiṁ, Ikaṁ juru kula, maṅkana rasany anugraha śrīkr̥tanagara, ri viṣaya punpunan saṁ hyaṁ sa<lb n="6r3" break="no"/>rvvadharmma sakavat bhūmi jaṅgala paṁjalu, ri vruhanikaṁ sakalajana ryy atiśayani kadharmmaparā<lb n="6r4" break="no"/>yaṇan· śrīmahārāja, An pinakekacchātraniṁ sayavadvīpa, maluyakən· paṅekĭ<g type="squiggleVertical">§</g><lb n="6r5" break="no"/>kr̥tā bhūmi jaṅgala paṁjalu, mataṅyan dadi ta saṁ hyaṁ rājapraśāsti, malavə̄lavə̄ kr̥tanaga<lb n="6r6" break="no"/>ra, magəhakən kasvatantran saṁ hyaṁ sarvvadharmma, sampun· Umuṅgviṁ ripta, hinləpan· pĭtavastra, pinaṅkva<lb n="6r7" break="no"/>kən irikaṁ viṣaya dharmmasamudāya, ri sanmukha para taṇḍa rakryan· makabehan·, maṅhatur<del>i</del>akna<g type="squiggleVertical">§</g><pb n="6v" break="no"/><fw place="left" rend="bt-rotated" n="6v"><num value="6">6</num></fw><lb n="6v1" break="no"/> kaṁ viṣaya dharmma, sādhana, <abbr>kā</abbr>, <num value="1">1</num>, <abbr>sū</abbr>, <num value="5">5</num>, ri śrīmahārāja, pamuspanyan sampun· kr̥tānu<g type="squiggleVertical">§</g><lb n="6v2"/>graha, kunəṁ ri sḍəṅanyan· hanaṅruddhāmuṅkil·muṅkila ri rasa saṁ hyaṁ rājapraśāsti, salviranya<g type="squiggleVertical">§</g>
 <lb n="6v3"/>yadyan· caturvarṇna, brăhmaṇa, kṣatrīya, vaiśya, śudra, Atha ca, caturăśrami, brahmācāri,<g type="squiggleVertical">§</g>
 <lb n="6v4"/>gr̥hastha, vanaprastha, bhikṣuka, makādi saṁ prabhu mantry anăgata, mvaṁ piṅhay ākurug anak thāni, yā<lb n="6v5" break="no"/>vat umulahulahi rasa saṁ hyaṁ rājapraśāsti, tan atguḥ karakṣan i kasvatantran· saṁ hyaṁ sarvvadharmma<g type="squiggleVertical">§</g>
-<lb n="6v6"/>tasmāt· kabyət karmmaknanya, sakulagotranyāmuktya phalaniṁ pātaka, mahāpātaka, Atipāta<lb n="6v7" break="no"/>ka, phalanyan maṅulahakən hanyăyapravr̥tti, kavulatan de saṁ hyaṁ trayodaśasākṣī <g type="ddandaOrnate"/> A<g type="squiggleVertical">§</g><pb n="7r" break="no"/><fw place="left" rend="bt-rotated" n="7r"><num value="7">7</num></fw><lb n="7r1" break="no"/>dityacandrāv ānilau nalaś cā, dyoḥ bhūmir apau hr̥dayaṁ’ yamāś ca, Ahaś ca rātri<lb n="7r2" break="no"/>ś ca tathāś ca sandhyā, dharmmaś ca janāti naraya vr̥ttaṁ’ || maṅkana pva || yo rājānugrahaṁ hatvā, ⌈<lb n="7r3"/>mauhăt mŭrkho naro hi saḥ, parāparakulais sarvvaiḥ, roravaṁ yantu sarvvadā || yăvat bhū<lb n="7r4" break="no"/>tanikaḥ sr̥ṣṭvā, tāvad janmī punar yyadī, kṣudrajantuśariraṇi, prāpnuyāc ca naro dhama || ya<lb n="7r5" break="no"/>di syān mānuṣibhūtaḥ, klivaḥ kuṣṭaś ca bāmaṇaḥ, Andho matto hy apasmāro, kubjāḥ pa<lb n="7r6" break="no"/>ṅguḥ kunis tathā || nahan ta tmahanyan dadi vvaṁ ri huvusnyan· tuməmpuḥ riṁ mahārorava || Ā<lb n="7r7" break="no"/>stu, Astu, Astu || Om̐ namaśivāya || @ || @@
-</p>
+<lb n="6v6"/>tasmāt· kabyət karmmaknanya, sakulagotranyāmuktya phalaniṁ pātaka, mahāpātaka, Atipāta<lb n="6v7" break="no"/>ka, phalanyan maṅulahakən hanyăyapravr̥tti, kavulatan de saṁ hyaṁ trayodaśasākṣī <g type="ddandaOrnate"/></p> 
+
+<lg met="upajāti" n="1" xml:lang="san-Latn">
+   <l n="a">A<g type="squiggleVertical">§</g><pb n="7r" break="no"/><fw place="left" rend="bt-rotated" n="7r"><num value="7">7</num></fw><lb n="7r1" break="no"/>ditya-candrāv ānilau nalaś cā,</l> 
+   <l n="b">dyoḥ bhūmir apau hr̥dayaṁ* yamāś ca,</l> 
+   <l n="c">Ahaś ca rātri<lb n="7r2" break="no"/>ś ca tathāś ca sandhyā,</l> 
+   <l n="d">dharmmaś ca janāti naraya vr̥ttaṁ’ ||</l>
+</lg>
+<p>maṅkana pva ||</p> 
+
+<lg met="anuṣṭubh" n="1" xml:lang="san-Latn">
+<l n="a">yo rājānugrahaṁ hatvā,</l> 
+<l n="b">⌈<lb n="7r3"/>mauhăt mŭrkho naro hi saḥ,</l> 
+<l n="c">parāparakulais sarvvaiḥ,</l> 
+<l n="d">roravaṁ yantu sarvvadā ||</l>
+</lg>
+
+<lg met="anuṣṭubh" n="1" xml:lang="san-Latn">
+   <l n="a">yăvat bhū<lb n="7r4" break="no"/>tanikaḥ sr̥ṣṭvā,</l>
+   <l n="b">tāvad janmī punar yyadī,</l>
+   <l n="c">kṣudra-jantu-śariraṇi,</l> 
+   <l n="d">prāpnuyāc ca naro dhama ||</l>
+</lg>
+
+<lg met="anuṣṭubh" n="1" xml:lang="san-Latn">
+   <l n="a">ya<lb n="7r5" break="no"/>di syān mānuṣibhūtaḥ,</l> 
+   <l n="b">klivaḥ kuṣṭaś ca bāmaṇaḥ,</l> 
+   <l n="c">Andho matto hy apasmāro,</l> 
+   <l n="d">kubjāḥ pa<lb n="7r6" break="no"/>ṅguḥ kunis tathā ||</l> 
+ </lg>
+<p>nahan ta tmahanyan dadi vvaṁ ri huvusnyan· tuməmpuḥ riṁ mahārorava ||</p> 
+ <ab xml:lang="san-Latn">Ā<lb n="7r7" break="no"/>stu, Astu, Astu <g type="ddanda"/> Om̐ namaśivāya <g type="ddanda"/> <g type="circleTarget"/> <g type="ddanda"/> <g type="gomutraFinal"/></ab>
          </div>
          <div type="apparatus">
            <!--apparatus encoded as per EG §9.1, basic elements for apparatus below-->
