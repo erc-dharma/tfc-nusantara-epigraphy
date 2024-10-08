@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Tija &amp; Haru-Haru</title>
+                <title>Tija &amp; Haru-Haru (11th c. CE?)</title>
                 <respStmt>
                     <resp>EpiDoc encoding</resp>
                     <persName ref="part:argr">
@@ -47,9 +47,9 @@
                     </msContents>
                     <physDesc>
                         <handDesc>
-                            <p>Simple but elegant script apparently of the early Majapahit period.
+                            <p>Simple but elegant script possibly compatible with a date of engraving in the 13th, without it being possible to exclude production in the 11th century.
                             <!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EGD 11.2. --></p>
-                            <!-- If you need to identify individual hands (EGD §7.5/) in addition to one or more paragraphs of general palaeographic description, wrap <summary> around the <p> or <p>s above, and, outside <summary>, create <handNote> elements for each hand as follows:
+                            <!-- If you need to identify individual hands (EGD <g type="squiggleVertical">§</g>7.5/) in addition to one or more paragraphs of general palaeographic description, wrap <summary> around the <p> or <p>s above, and, outside <summary>, create <handNote> elements for each hand as follows:
 						<summary><p><p/></summary>
 						<handNote xml:id="Pallava00001_hand1"></handNote>
 						<handNote xml:id="Pallava00001_hand2"></handNote>
@@ -74,49 +74,88 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
+            <change who="part:argr" when="2024-10-08" status="draft">encoded the translation</change>
             <change who="part:argr" when="2023-04-19" status="draft">started encoding the inscription</change>
          </revisionDesc>
     </teiHeader>
     <text xml:space="preserve">
       <body>
-         <div type="edition" xml:lang="kaw-Latn">
+         <div type="edition" xml:lang="kaw-Latn" rendition="class:38769 maturity:83213">
         <p part="F"><pb break="no" n="2r"/><lb break="no" n="2r1"/>mabaki ri tumbas·-tumbasan· buyut amabaki, Irikaṁ sīma kavajvan·, ri tija, mvaṅ i haru-haru, Atəhər· kabhukti deni kbo
                  <lb n="2r2"/>kikil·, kunaṁ lavasnya kadval·, vvalu likur tahun·, kunaṁ tiṅkaḥnya de buyut amabaki <choice><sic>A</sic><corr>ti</corr></choice>numbas· varuk· lpas· tan kapra<lb break="no" n="2r3"/>măṇa Ikaṁ sīma kavajvan· ri tija, mvaṅ i haru-haru denikaṅ avaju ri manayutī, kevala buyut amabaki juga pramāṇa ri
-                 <lb n="2r4"/>salbak·-vukirnya, savaḥnya, kəbvanya, sapaniskāranya kabeḥ, tka ri sukhaduḥkhanya magə<supplied reason="omitted">ṁ</supplied> maḍmit·, tuhun tan· kola§<lb break="no" n="2r5"/>h-ulaha Ikaṁ sīma tija haru-haru denikaṅ avaju ri manayuti, Apan· huvus· <sic>pulu</sic> lpas·, kunaṁ keṅət-iṅətanya de śrī ma<lb break="no" n="2r6"/>hārāja, sor pakṣanikaṅ avaju ri manayuti makamukhya Ikaṁ vasana, mvaṅ ikaṁ ḍinamvan·, balavăn· pakṣanikaṁ kbo ki<pb n="2v" break="no"/><fw n="2v" place="right" rend="bt-rotated"><num value="2">2</num></fw><lb break="no" n="2v1"/>kil·, makanimitta vara-varaḥ rakryān jasun· vuṅkal· I śrī mahārāja, sira liṁnira pramāṇa Irikaṁ sīma kavajvan· ya<lb break="no" n="2v2"/>tan· tuhagana Ikaṅ avaju ri suruhanya, Āpan nāyaka parani sadr̥vya-hajinikaṁ sīma kavajvan· liṁ rakryān· jasu<lb break="no" n="2v3"/>n vuṅkal·, tinañan· pvekaṅ avaju ri manayuti maṅaran· vasana, ḍinamvan· de śrī mahārāja ri parani dr̥vya-hajinikaṁ sīma
-                 <lb n="2v4"/>kavajvan· ri tija, lāvan i haru-haru, Ikaṁ pinupunikaṅ avaju ri manayuti, mājar ikaṅ avaju ri manayuti maṅaran va<lb break="no" n="2v5"/>sana, mvaṁ ḍinamvan·, pinakapaṅivə:nya Irikaṁ paṅuraṅ aṅasūvu<supplied reason="omitted">h-u</supplied>vuḥ liṁnya, tan tinahilakənya riṁ nāyaka, mithya ta ṅaranikā ra<lb break="no" n="2v6"/>kryān· jasun· vuṅkal yan panəṅguḥ mareṁ nāyaka dr̥vya-hajinikaṁ sīma kavajvan·, ri tija, lāvan i haru-haru, <sic>kahola<surplus>⌈</surplus><pb break="no" n="3r"/><lb break="no" n="3r1"/>n</sic> denikaṅ avaju ri manayuti, maṅkana panəṅg<choice><sic>a</sic><corr>u</corr></choice><supplied reason="omitted">ḥ</supplied>nikaṅ avaju ri manayuti, tan vnaṅ anaṇḍākn irikaṁ sīma kavajvan·, tan vnaṅ adval·§
-                 <lb n="3r2"/>varuk·, tan vnaṅ adval· lpas·, mithya gatinikā, makanimitta pobhayanikaṅ avaju ri manayuti makamukhya Ikaṁ vasana, ḍi<lb break="no" n="3r3"/>namvan·, Ikaṅ avaju ri mapapan·, Avaju ri paḍaṁ, Avaju ri paṅkaja, Avaju ri paliñjvan·, paḍāvaraḥ I śrī mahārāja yan· vna<lb break="no" n="3r4"/>ṅ anaṇḍakən·, paḍa vnaṅ adval· varuk·, paḍa vnaṅ adval· lpas· Irikaṁ sīma kavajvan·, tan· pareṁ nāyaka dr̥vya-hajinya, keva<lb break="no" n="3r5"/>la kapramāṇa denya sovaṁ-sovaṁ, tuhun ikaṁ paṅmas·, lāvan ikaṁ pore liṁnya mareṁ nāyaka, kalñokan· deniṁ parāva<lb break="no" n="3r6"/>ju ta ṅaranikā Ikaṅ avaju ri manayuti, vara-varah ikaṅ avaju kapā<unclear>t</unclear>· hiniḍəp de śrī mahārāja, maṅkana kasorni pakṣa§<pb n="3v" break="no"/><fw n="3v" place="right" rend="bt-rotated"><num value="3">3</num></fw><lb break="no" n="3v1"/>nikaṅ avaju ri manayuti, kunaṁ təmən amagəhakən· pakṣanikaṁ kbo kikil·, vvaya tulis· rakryān asīma kmitanikaṁ bu§<lb break="no" n="3v2"/>yut amabaki Amapagəhakn ikaṁ buyut amabaki yan· pramāṇa ri tumbas·-tumbasan· buyut amabaki, Irikaṁ sīma kavajvan·
+                 <lb n="2r4"/>salbak·-vukirnya, savaḥnya, kəbvanya, sapaniskāranya kabeḥ, tka ri sukhaduḥkhanya magə<supplied reason="omitted">ṁ</supplied> maḍmit·, tuhun tan· kola<g type="squiggleVertical">§</g><lb break="no" n="2r5"/>h-ulaha Ikaṁ sīma tija haru-haru denikaṅ avaju ri manayuti, Apan· huvus· <sic>pulu</sic> lpas·, kunaṁ keṅət-iṅətanya de śrī ma<lb break="no" n="2r6"/>hārāja, sor pakṣanikaṅ avaju ri manayuti makamukhya Ikaṁ vasana, mvaṅ ikaṁ ḍinamvan·, balavăn· pakṣanikaṁ kbo ki<pb n="2v" break="no"/><fw n="2v" place="right" rend="bt-rotated"><num value="2">2</num></fw><lb break="no" n="2v1"/>kil·, makanimitta vara-varaḥ rakryān jasun· vuṅkal· I śrī mahārāja, sira liṁnira pramāṇa Irikaṁ sīma kavajvan· ya<lb break="no" n="2v2"/>tan· tuhagana Ikaṅ avaju ri suruhanya, Āpan nāyaka parani sadr̥vya-hajinikaṁ sīma kavajvan· liṁ rakryān· jasu<lb break="no" n="2v3"/>n vuṅkal·,</p> <p>tinañan· pvekaṅ avaju ri manayuti maṅaran· vasana, ḍinamvan· de śrī mahārāja ri parani dr̥vya-hajinikaṁ sīma
+                 <lb n="2v4"/>kavajvan· ri tija, lāvan i haru-haru, Ikaṁ pinupunikaṅ avaju ri manayuti, mājar ikaṅ avaju ri manayuti maṅaran va<lb break="no" n="2v5"/>sana, mvaṁ ḍinamvan·, pinakapaṅivə:nya Irikaṁ paṅuraṅ aṅasūvu<supplied reason="omitted">h-u</supplied>vuḥ liṁnya, tan tinahilakənya riṁ nāyaka, mithya ta ṅaranikā ra<lb break="no" n="2v6"/>kryān· jasun· vuṅkal yan panəṅguḥ mareṁ nāyaka dr̥vya-hajinikaṁ sīma kavajvan·, ri tija, lāvan i haru-haru, <sic>kahola<surplus>⌈</surplus><pb break="no" n="3r"/><lb break="no" n="3r1"/>n</sic> denikaṅ avaju ri manayuti, maṅkana panəṅg<choice><sic>a</sic><corr>u</corr></choice><supplied reason="omitted">ḥ</supplied>nikaṅ avaju ri manayuti, tan vnaṅ anaṇḍākn irikaṁ sīma kavajvan·, tan vnaṅ adval·<g type="squiggleVertical">§</g>
+                 <lb n="3r2"/>varuk·, tan vnaṅ adval· lpas·,</p> <p>mithya gatinikā, makanimitta pobhayanikaṅ avaju ri manayuti makamukhya Ikaṁ vasana, ḍi<lb break="no" n="3r3"/>namvan·, Ikaṅ avaju ri mapapan·, Avaju ri paḍaṁ, Avaju ri paṅkaja, Avaju ri paliñjvan·, paḍāvaraḥ I śrī mahārāja yan· vna<lb break="no" n="3r4"/>ṅ anaṇḍakən·, paḍa vnaṅ adval· varuk·, paḍa vnaṅ adval· lpas· Irikaṁ sīma kavajvan·, tan· pareṁ nāyaka dr̥vya-hajinya, keva<lb break="no" n="3r5"/>la kapramāṇa denya sovaṁ-sovaṁ, tuhun ikaṁ paṅmas·, lāvan ikaṁ pore liṁnya mareṁ nāyaka, kalñokan· deniṁ parāva<lb break="no" n="3r6"/>ju ta ṅaranikā Ikaṅ avaju ri manayuti, vara-varah ikaṅ avaju kapā<unclear>t</unclear>· hiniḍəp de śrī mahārāja, maṅkana kasorni pakṣa<g type="squiggleVertical">§</g><pb n="3v" break="no"/><fw n="3v" place="right" rend="bt-rotated"><num value="3">3</num></fw><lb break="no" n="3v1"/>nikaṅ avaju ri manayuti, kunaṁ təmən amagəhakən· pakṣanikaṁ kbo kikil·, vvaya tulis· rakryān asīma kmitanikaṁ bu<g type="squiggleVertical">§</g><lb break="no" n="3v2"/>yut amabaki Amapagəhakn ikaṁ buyut amabaki yan· pramāṇa ri tumbas·-tumbasan· buyut amabaki, Irikaṁ sīma kavajvan·
                  <lb n="3v3"/>ri tija, lāvan i haru-haru, kaliliranani vka vet· buyut amabaki, tan kolah-ulaha denikaṅ avaju ri manayuti tka
-                 <lb n="3v4"/>ri vka-vetnya, tka ri dlāhaniṁ dlāha, Ikaṁ vvaṁ yan· huvus pinagəhan· deni tulis· rakryān asīma, pinagəhakn ikā de
-                 <lb n="3v5"/>śrī mahārāja, tan ucap-ucapən· tka ri dlāhaniṁ dlāha, lāvan· muvaḥ Atyanta lavasnyan· tinumbas ikaṁ sīma kavajvan i ti§<lb break="no" n="3v6"/>ja lāvan i haru-haru, tka vvalu likur tahun·, tan· hana paṅanuvandhanikaṅ avaju ri manayuti, kveḥnira saṁ nāyaka ri haR̥p·,</p>
+                 <lb n="3v4"/>ri vka-vetnya, tka ri dlāhaniṁ dlāha,</p> <p part="I">Ikaṁ vvaṁ yan· huvus pinagəhan· deni tulis· rakryān asīma, pinagəhakn ikā de
+                 <lb n="3v5"/>śrī mahārāja, tan ucap-ucapən· tka ri dlāhaniṁ dlāha, lāvan· muvaḥ Atyanta lavasnyan· tinumbas ikaṁ sīma kavajvan i ti<g type="squiggleVertical">§</g><lb break="no" n="3v6"/>ja lāvan i haru-haru, tka vvalu likur tahun·, tan· hana paṅanuvandhanikaṅ avaju ri manayuti, kveḥnira saṁ nāyaka ri haR̥p·,</p>
          </div>
          <div type="apparatus">
-           <!--apparatus encoded as per EGD §9.1, basic elements for apparatus below-->
-               <listApp><!-- one <app> for each apparatus entry -->
+               <listApp>
                   <app loc="2r1">
                      <lem source="bib:Boechari2012_33">amabaki</lem>
                      <rdg source="bib:Stutterheim1925_04">amataki</rdg>
                      <note>Stutterheim misreads this word with <foreign>t</foreign> instead of <foreign>b</foreign> throughout his edition. Further instances will not be noted.</note>
-<!-- 2r1. mabaki: Stutterheim membaca nama ini secara konsekwen buyut amataki. Dari foto yang kami terima dari Direktorat Perlindungan dan Pembinaan Peninggalan Sejarah dan Purbakala jelas bahwa huruf yang kedua dari belakang itu ialah huruf ba.-->
+<!-- 2r1. mabaki: Stutterheim membaca nama ini secara konsekwen buyut amataki. Dari foto yang kami gunakan jelas bahwa huruf yang kedua dari belakang itu ialah huruf ba.-->
                   </app>
-                  <app loc="2r1">
+          <!--        <app loc="2r1">
                     <lem source="bib:Stutterheim1925_04">kbo <lb n="2r2"/>kikil·</lem>
                     <rdg source="bib:Boechari2012_33">kbo kikil· <lb n="2r2"/>kikil·</rdg>
                 </app>
-               <app loc="2r2"><lem source="bib:Stutterheim1925_04">kapramăṇa</lem><rdg source="bib:Boechari2012_33">kapramaṇā</rdg></app>
-               <app loc="2r3"><lem source="bib:Stutterheim1925_04">manayutī</lem><rdg source="bib:Boechari2012_33">manayuti</rdg></app>
-               <app loc="2r4"><lem>magə<supplied reason="omitted">ṁ</supplied> maḍmit·</lem><rdg source="bib:Stutterheim1925_04 bib:Boechari2012_33">magəm aḍmit·</rdg></app>
-               <app loc="2r5"><lem>huvus· <sic>pulu</sic> lpas·</lem><note>We consider <foreign>pulu</foreign> to be some kind of copying error, as no word <foreign>pulu</foreign> or anything close to it seems to fit here. Perhaps the word is redundant altogether, seeing that <foreign>huvus lpas</foreign> is a fixed combination wile <foreign>pulu</foreign> shares its vowels with <foreign>huvus</foreign> and its consonants with <foreign>lpas</foreign>. Another possibility is that it is an error for <foreign>pupu(l)</foreign>.</note></app>
-               <app loc="2v4"><lem>lāvan</lem><rdg source="bib:Stutterheim1925_04 bib:Boechari2012_33">lavan</rdg></app>
-               <app loc="2v4"><lem>mājar</lem><rdg source="bib:Stutterheim1925_04 bib:Boechari2012_33">majar</rdg></app>
-               <app loc="2v5"><lem>aṅasūvu<supplied reason="omitted">h-u</supplied>vuḥ</lem><rdg source="bib:Stutterheim1925_04 bib:Boechari2012_33">aṅasū vuvuḥ</rdg></app>
-               <app loc="2v5"><lem>ṅaranikā</lem><rdg source="bib:Stutterheim1925_04 bib:Boechari2012_33">ṅaranika</rdg></app>
-               <app loc="2v6"><lem>lāvan</lem><rdg source="bib:Stutterheim1925_04 bib:Boechari2012_33">lavan</rdg></app>
-               <app loc="2v6"><lem source="bib:Stutterheim1925_04 bib:Boechari2012_33"><sic>kahola<surplus>⌈</surplus><pb break="no" n="3r"/><lb break="no" n="3r1"/>n</sic></lem><note>Correct <foreign>kolah-olahan</foreign> (a rare form attested elsewhere only in <ref target="DHARMA_INSIDENKKedungwangi">Kedungwangi</ref>) or <foreign>kolah-ulahan</foreign> (frequently attested)?</note></app>
-              <app loc="3r1"><lem>panəṅg<choice><sic>a</sic><corr>u</corr></choice><supplied reason="omitted">ḥ</supplied>°</lem>
+               <app loc="2r2">
+                <lem source="bib:Stutterheim1925_04">kapramăṇa</lem>
+                <rdg source="bib:Boechari2012_33">kapramaṇā</rdg>
+            </app>
+               <app loc="2r3">
+                <lem source="bib:Stutterheim1925_04">manayutī</lem>
+                <rdg source="bib:Boechari2012_33">manayuti</rdg>
+            </app>
+               <app loc="2r4">
+                <lem>magə<supplied reason="omitted">ṁ</supplied> maḍmit·</lem>
+                <rdg source="bib:Stutterheim1925_04 bib:Boechari2012_33">magəm aḍmit·</rdg>
+            </app> -->
+               <app loc="2r5">
+                <lem>huvus· <sic>pulu</sic> lpas·</lem>
+                <note>We consider <foreign>pulu</foreign> to be some kind of copying error, as no word <foreign>pulu</foreign> or anything close to it seems to fit here. Perhaps the word is redundant altogether, seeing that <foreign>huvus lpas</foreign> is a fixed combination while <foreign>pulu</foreign> shares its vowels with <foreign>huvus</foreign> and its consonants with <foreign>lpas</foreign>. Another possibility is that it is an error for <foreign>pupu(l)</foreign>.</note>
+            </app>
+              <!-- <app loc="2v4">
+                <lem>lāvan</lem>
+                <rdg source="bib:Stutterheim1925_04 bib:Boechari2012_33">lavan</rdg>
+            </app>
+               <app loc="2v4">
+                <lem>mājar</lem>
+                <rdg source="bib:Stutterheim1925_04 bib:Boechari2012_33">majar</rdg>
+            </app>-->
+               <app loc="2v5">
+                <lem>aṅasūvu<supplied reason="omitted">h-u</supplied>vuḥ</lem>
+                <rdg source="bib:Stutterheim1925_04 bib:Boechari2012_33">aṅasū vuvuḥ</rdg>
+            </app>
+            <!--<app loc="2v5">
+                <lem>ṅaranikā</lem>
+                <rdg source="bib:Stutterheim1925_04 bib:Boechari2012_33">ṅaranika</rdg>
+            </app>
+            <app loc="2v6">
+                <lem>lāvan</lem>
+                <rdg source="bib:Stutterheim1925_04 bib:Boechari2012_33">lavan</rdg>
+            </app>-->
+               <app loc="2v6">
+                <lem source="bib:Stutterheim1925_04 bib:Boechari2012_33"><sic>kahola<surplus>⌈</surplus><pb break="no" n="3r"/><lb break="no" n="3r1"/>n</sic></lem>
+                <note>Correct <foreign>kolah-olahan</foreign> (a rare form attested elsewhere only in <ref target="DHARMA_INSIDENKKedungwangi">Kedungwangi</ref>) or <foreign>kolah-ulahan</foreign> (frequently attested)?</note>
+            </app>
+              <app loc="3r1">
+                <lem>panəṅg<choice><sic>a</sic><corr>u</corr></choice><supplied reason="omitted">ḥ</supplied>°</lem>
                 <rdg source="bib:Stutterheim1925_04">panəṅga°</rdg>
-                <rdg source="bib:Boechari2012_33">panəṅga<supplied reason="omitted">ḥ</supplied>°</rdg></app>
-                <app loc="3v5"><lem source="bib:Boechari2012_33">ucap-ucapən·</lem><rdg source="bib:Stutterheim1925_04">uvap-uvapən·</rdg> <!--Stutterheim membaca kata ini tan uvap-uvapən. Memang huruf ca mirip sekali dengan huruf va. Menurut penglihatan kami huruf itu jelas huruf ca, karena di bagian bawah kiri meruncing. Lagi pula kata tan ucap ucapən memberi arti yang lebih sesuai dengan konteks kalimatnya.--></app>
-                <app loc="3r6"><lem>°vandha°</lem><rdg source="bib:Stutterheim1925_04">°vanḍa°</rdg><rdg source="bib:Boechari2012_33">°vaṇḍa°</rdg></app>
+                <rdg source="bib:Boechari2012_33">panəṅga<supplied reason="omitted">ḥ</supplied>°</rdg>
+            </app>
+                <app loc="3v5">
+                    <lem source="bib:Boechari2012_33">ucap-ucapən·</lem>
+                    <rdg source="bib:Stutterheim1925_04">uvap-uvapən·</rdg>
+                    <!--Stutterheim membaca kata ini tan uvap-uvapən. Memang huruf ca mirip sekali dengan huruf va. Menurut penglihatan kami huruf itu jelas huruf ca, karena di bagian bawah kiri meruncing. Lagi pula kata tan ucap ucapən memberi arti yang lebih sesuai dengan konteks kalimatnya.-->
+                </app>
+                <app loc="3r6">
+                    <lem>°vandha°</lem><rdg source="bib:Stutterheim1925_04">°vanḍa°</rdg>
+                    <rdg source="bib:Boechari2012_33">°vaṇḍa°</rdg>
+                </app>
 <!--                
                     3r2. lpas: Stutterheim menceraikan kata-kata ini tan vnaṅa naṇḍākən, tan vnaṅa dval varuk, tan vnaṅa dval lpas. Pemberian bentuk arealis kepada kata vnaṅ di sini menurut hemat kami kurang tepat.
                     3r2. mithya: mithyaṁ B. B's typescript doesn't actually show the engma that is found in the 2012 book...
@@ -127,15 +166,49 @@
 -->
                </listApp>
          </div>
-         <div type="translation">
- 	<!--translation encoded as per EGD §9.2 -->
+         <div type="translation" resp="part:argr">
+<p n="2r1–2v3"><gap reason="lost"/> the founding fathers regarding the purchases of the founding fathers <supplied reason="explanation"><foreign>buyut amabaki</foreign></supplied> in the <foreign>sīma</foreign>s of the <abbr>garment wearers</abbr> <supplied reason="explanation"><foreign>kavajvan</foreign></supplied> in Tija and in Haru-Haru. Subsequently they were enjoyed by Kbo Kikil. As for the duration since they were sold, it is twenty-eight years. As for the conditions under which they were purchased by the founding fathers, it is as <foreign>varuk</foreign> <supplied reason="explanation">land</supplied> <supplied reason="subaudible">and</supplied> free.<note>The term <foreign>(lmaḥ) varuk</foreign> is found in the <ref target="DHARMA_INSIDENKAlasantan.xml">Alasantan</ref> and <ref target="DHARMA_INSIDENKAlasantan.xml">Paradah I</ref> charters of Sindok's reign. It is only very rarely found in other periods (one case being the <ref target="DHARMA_INSIDENKPaguhan.xml">Paguhan inscription</ref> of 1338 Śaka).</note> The <foreign>sīma</foreign>s in Tija and in Haru-Haru are not under the authority of the <q>garment wearers</q> <supplied reason="explanation"><foreign>avaju</foreign></supplied> at Manayuti. Only the founding fathers alone have authority over all their <q>valleys and hills</q>, paddy fields, orchards, and all their belongings, including their <q>pain and relief</q>, great or small. Truly the <foreign>sīma</foreign>s in Tija <supplied reason="subaudible">and in</supplied> Haru-Haru shall not be interfered with by the <q>garment wearers</q> at Manayuti. For they are already free. Now it should be considered attentively by the Great King <supplied reason="subaudible">that</supplied> the case of the <q>garment wearers</q> at Manayuti — notably Vasana and Ḍinamvan — is weaker <supplied reason="subaudible">while</supplied> the case of Kbo Kikil is stronger, on the grounds of the report of the Lord of Jasun Vuṅkal to the Great King.<note>The <foreign>rakryān</foreign> of Jasun Vuṅkal figures in Baru (952 Śaka) Cdef11, Sima Anglayang (before 968 Śaka) 5r2, Garaman (975 Śaka). Outside of the combination with <foreign>rakryān</foreign>, the synonymous toponym Bavaṅ Vatu appears already in Cunggrang II (851 Śaka) and both versions of the toponym continue to occur down to the Majapahit period.</note> He said that he <supplied reason="explanation"><foreign>sira</foreign>, i.e., Kbo Kikil?</supplied> has authority over the <foreign>sīma</foreign>s of the <q>garment wearers</q> <supplied reason="subaudible">and</supplied> that the <q>garment wearers</q> are not diligent in their task, for the <foreign>nāyaka</foreign>s are benefitting from all the royal revenue of the <foreign>sīma</foreign>s of the <q>garment wearers</q>. <supplied reason="subaudible">Thus</supplied> spoke the Lord of Jasun Vuṅkal.<note>Alternatively: <q>He said that he <supplied reason="explanation">the Lord himself or Kbo Kikil?</supplied> held authority over the <foreign>sīma</foreign>s of the <q>garment wearers</q> if the <q>garment wearers</q> were not diligent in their task <gap reason="ellipsis"/></q> — but then how would this connect with the <foreign>āpan</foreign> clause?</note></p>
+<p n="2v3–3r2">@@@When the <q>garment wearers</q> at Manayuti called Vasana [and] Ḍinamvan were questioned by the Great King about who is benefitting from the royal revenue of the <foreign>sīma</foreign>s of the <q>garment wearers</q> at Tija and Haru-Haru goes, that is collected by the <q>garment wearers</q> at Manayuti, the <q>garment wearers</q> at Manayuti called Vasana and Ḍinamvan informed that they give special attention to the paṅuraṅs who say they are raising orphans (*aṅasu uvuh-uvuh liṅnya)  for which no tribute is paid by them (the paṅuraṅs or the <q>garment wearers</q>?) to the nāyakas; [hence] that the Lord of Jasun Vuṅkal is what one calls deceitful insofar as he asserts that the royal revenue of the <foreign>sīma</foreign>s of the <q>garment wearers</q> at Tija and Haru-Haru is benefitting the nāyakas, due to interference by the <q>garment wearers</q> at Manayuti. Such was the assertion of the <q>garment wearers</q> at Manayuti [who added that] it is not allowed to pawn the <foreign>sīma</foreign>s of the <q>garment wearers</q>, not allowed to sell them as varuk [land], not allowed to sell them free. 
+	(3r2–3v4) The [previous] position is deceitful, on the grounds of the concurrence of the <q>garment wearers</q> at Manayuti, notably Vasana [and] Ḍinamvan. The <q>garment wearer</q> at Mapapan, the <q>garment wearer</q> at Paḍaṅ, the <q>garment wearer</q> at Paṅkaja [and] the <q>garment wearer</q> at Paliñjvan all reported to the Great King that it is allowed to pawn, allowed to sell as varuk [land], allowed to sell free the <foreign>sīma</foreign>s of the <q>garment wearers</q>; [that] their royal revenue does not benefit the nāyakas; [that] they are exclusively controlled by each one. But even so the so-called paṅəmas and pore  benefit to the nāyakas. Cheated by the other <q>garment wearers</q> is what the <q>garment wearers</q> at Manayuti are. [This was] the report of the four <q>garment wearers</q>, taken to heart by the Great King. Such was the weakness of the case of the <q>garment wearers</q> at Manayuti. But [the Great King] sincerely confirmed the case of Kbo Kikil. The Lords sīma holders had a document kept in custody by the founding fathers confirming about the founding fathers that the control over the purchases of the founding fathers in the <foreign>sīma</foreign>s of the <q>garment wearers</q> in Tija and in Haru-Haru will be inherited by the descendants of the founding fathers, and shall not be interfered with by the <q>garment wearers</q> in Manayuti including their descendants, into the future’s future.
+	(3v4–3v6) The man who had been sustained by the document of a Lord sīma holder was confirmed by the Great King. [Even] into the future’s future it should not be discussed. And further, the duration since the <foreign>sīma</foreign>s of the <q>garment wearers</q> in Tija and in Haru-Haru were sold being exceedingly long —  amounting to twenty-eight years — the <q>garment wearers</q> in Manayuti have no continuity <supplied reason="explanation"><foreign>paṅanubandha</foreign></supplied>,  all of the nāyakas in front, <gap reason="lost"/></p>
+<!-- 
+comments Tim 24/04/2023
+
+The account is convoluted, and hard to follow when one doesn’t have all the context and doesn’t know how all dramatis personae are related.  Let’s see if I have this straight:
+ 
+Tija and Haruharu constitute sīma kavajvan, considered varuk and ləpas ‘free’, i.e., not controlled by the ‘garment wearers’ (avaju) at Manayuti (esp. Vasana and Ḍinamvan)…
+purchased originally 28 years ago by buyut amabaki, ‘founding fathers’
+subsequently ‘enjoyed’ i.e., possessed (kabhukti) by Kbo Kikil
+but only the buyut amabaki are pramāṇa (have authority) over all parts of the sīma, which is tan kolah-ulaha ‘not to be interfered with’ by Vasana and Ḍinamvan
+Rakryan Jasun Vuṅkal reports that the avaju at Manayuti are not doing their job, since the nāyakas are getting the tax money (instead of the Kbo Kikil), who has the right to it
+the avaju at Manayuti, meanwhile, call the Rakryan a liar and make an excuse (unclear to me) for what (some of?) the revenue is being diverted.
+The two contending parties:
+the avaju at Manayuti (Vasana and Ḍinamvan) assert that it is not allowed to pawn (mortgage) or sell the sīma property whether as varuk or as ləpas.
+but 4 avaju at Mapapan say the opposite, and that dravya haji does not go to (tan para) the nāyakas, and that one can pawn and sell in these ways.
+Kbo Kikil is deemed by the king to have the ‘stronger case’ (balavān pakṣa) because he has the original document assigning pramāṇa to the descendants of the buyut amabaki
+the king recognizes this as correct.
+  
+What do we know about avaju from other sources?  What is their task (suruhan)?
+Are the nāyakas agents of the Mahārāja?  Since the sīma are ləpas, they should not be receiving revenue?
+ 
+As far as technical terminology is concerned, I don’t like “control” for pramāṇa, but rather “authority” to collect revenue and also to exercise other pertaining rights (jurisdiction?).
+paṅanubandha seems not to have a sense like “[criminal] propensity” or “proclivity” such as Rocher concludes for it, but probably something closer to the general sense of “connection”: they have no legitimate claim on the rights or revenue?  I don’t think Boechari’s reading it as paṅanuvāda in the sense of “lawsuit” (gugatan) is likely, not least because anuvāda does not have this sense.  Vāda = complaint, but not anuvāda.
+tan ucap-ucapən· tka ri dlāhaniṁ dlāha is better rendered “it should not be called into question” or “debated” … — this is the common clause saying that the decision is final should preclude any future challenge.
+Translating rakryan asīma as “Lords sīma holders” is quite awkward to me.
+ 
+I’m not sure I have all the pieces in the right places here.  There are a lot of moving parts.  Let me know if you think I am misreading something here.  I attach your translation with some proposed adjustments.
+
+salbak-vukirnya = satala-soddeśa in the Bengal charters?
+
+-->
+
          </div>
          <div type="commentary">
-            <!--commentary encoded as per section §9.3 -->
+            <!--commentary encoded as per section <g type="squiggleVertical">§</g>9.3 -->
          </div>
         <div type="bibliography">
-	<!--bibliography encoded as per section §9.4 -->
-           <p>First edited by Stutterheim without translation; edited again by Boechari with Indonesian translation. Re-edited here by Arlo Griffiths from photographs.</p>
+	<!--bibliography encoded as per section <g type="squiggleVertical">§</g>9.4 -->
+           <p>First edited by W. F. Stutterheim (<bibl rend="omitname"><ptr target="bib:Stutterheim1925_04"/></bibl>) without translation; edited again by Boechari (<bibl rend="omitname"><ptr target="bib:Boechari2012_33"/></bibl>) with Indonesian translation. This digital edition was established by Arlo Griffiths in April 2023 from photographs. Only significant variant readings are recorded in the apparatus.</p>
         	<listBibl type="primary">
                 <bibl n="S"><ptr target="bib:Stutterheim1925_04"/><citedRange unit="item">I</citedRange><citedRange unit="page">57-59</citedRange></bibl>
 				<bibl n="B"><ptr target="bib:Boechari2012_33"/><citedRange unit="item">VIII</citedRange><citedRange unit="page">494-499</citedRange></bibl>
