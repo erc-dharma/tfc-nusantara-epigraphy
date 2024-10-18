@@ -92,7 +92,7 @@
             <lg met="vasantatilakā" n="2">
 	<l n="a">tāthāgatī pratikr̥<space type="defect"/>tiḥ paripūrṇagātrā,</l>
 	<l n="b">yat kāritākuśalimā<lb n="2" break="no"/>pi mayā mahīyaḥ,</l>
-	<l n="c">tenājarāmaraṇajena<space type="descender"/>pade bha<space type="descender"/>vāmi,</l>
+	<l n="c">tenājarāmaraṇaj<choice><orig>e</orig><reg>ai</reg></choice>na<space type="descender"/>pade bha<space type="descender"/>vāmi,</l>
 	<l n="d">śrī-dharmavaṅśa-kula-varddhana-nāmadheyaḥ <g type="ddandaCross"/> <g type="circleCurve"/> <g type="ddandaCross"/> </l>
 </lg>
 
@@ -111,24 +111,32 @@
                     <lem>maṇḍ<unclear>u</unclear>ṁkul·-</lem>
                     <rdg source="bib:Bosch1919-1921_02">maṇḍaṁkul·-</rdg>
                  </app>
+                 <app loc="2">
+                    <lem>-dharmavaṅśa-kula-</lem>
+                    <rdg source="bib:Bosch1919-1921_02">-dharmavaṅśa-kr̥ta-</rdg>
+                 </app>
                </listApp>
          </div>
          <div type="translation">
- 	<p rend="stanza" n="1">Out of compassion, may that Empowerer who is illustrious <supplied reason="explanation"><foreign>śrīmad</foreign></supplied>, intelligent <supplied reason="explanation"><foreign>dhīmad</foreign></supplied> and whose splendor <supplied reason="explanation"><foreign>dīdhiti</foreign></supplied> is immeasurable <supplied reason="explanation"><foreign>amāna</foreign></supplied>, who never does any evil, assent to [<supplied reason="subaudible">me</supplied> who am abundantly <supplied reason="explanation"><foreign>bhūmnā</foreign></supplied> lacking in might <supplied reason="explanation"><foreign>abhūri-vibhūtimantam</foreign></supplied>, who revolve in the bowels of the Triple World, an incarnated being subservient to convenience and pleasure, called Maṇḍuṅkul <supplied reason="explanation"><q>Annoyed</q></supplied>,<note>The form <foreign>maṇḍuṅkul</foreign> does not seem to be attested in Old Javanese, but in Malay there is <foreign>mendongkol</foreign> <q>to feel spite</q>.</note> who perennially bow to that Śrīghana, of excellent qualities!</p>
-     <p rend="stanza" n="2"></p>
+ 	<p rend="stanza" n="1">Out of compassion, may that Empowerer who is illustrious <supplied reason="explanation"><foreign>śrīmad</foreign></supplied>, intelligent <supplied reason="explanation"><foreign>dhīmad</foreign></supplied> and whose splendor <supplied reason="explanation"><foreign>dīdhiti</foreign></supplied> is immeasurable <supplied reason="explanation"><foreign>amāna</foreign></supplied>, who never does any evil, assent to [<supplied reason="subaudible">me</supplied> who am abundantly <supplied reason="explanation"><foreign>bhūmnā</foreign></supplied> lacking in might <supplied reason="explanation"><foreign>abhūri-vibhūtimantam</foreign></supplied>, who revolve in the bowels of the Triple World,<note>Cf. <title>Sādhanamālā</title>, <bibl><ptr target="bib:Bhattacharya1925_01"/><citedRange unit="page">55</citedRange></bibl> (<title>Śrī-Khasarpaṇalokeśvarasādhana</title>): <foreign>saṁbuddhapratyekaśrāvakabuddhānāṁ tatsutānām api bodhisattvānāṁ sattvānām api <hi rend="bold">trailokyodaravarttināṁ</hi> yad eva kuśalaṁ tat sarvam anumodayāmīti | tadanu ratnatrayaśaraṇagamanam |</foreign>.</note> an incarnated being subservient to convenience and pleasure, called Maṇḍuṅkul <supplied reason="explanation"><q>Annoyed</q></supplied>,<note>The form <foreign>maṇḍuṅkul</foreign> does not seem to be attested in Old Javanese, but in Malay there is <foreign>mendongkol</foreign> <q>to feel spite</q>.</note> who perennially bow to that Śrīghana, of excellent qualities!</p>
+     <p rend="stanza" n="2">By virtue of the great <supplied reason="subaudible">merit</supplied> that this Buddha image, with limbs complete, has been commissioned by one as unmeritorious as me, I, <supplied reason="subaudible">also</supplied> having the epithet Śrī Dharmavaṅśakulavardhana <supplied reason="explanation"><q>Supporter of the illustrious family of Dharmavaṅśa</q>, <q>Family supporter of the illustrious lineage of the law</q></supplied>, am reborn in the state of a Jina, without old age and death.</p>
          </div>
          <div type="commentary">
             <!--commentary encoded as per section §9.3 -->
          </div>
         <div type="bibliography">
-	<!--bibliography encoded as per section §9.4 -->
-           <p><!-- formulate epigraphic lemma here, using the items of primary bibliography --></p>
+           <p>First published by F. D. K. Bosch (<bibl rend="omitname"><ptr target="bib:Bosch1919-1921_02"/></bibl>). This digital edition by Arlo Griffiths from estampages and orthophotos.</p>
         	<listBibl type="primary">
 				<bibl n="B"><ptr target="bib:Bosch1919-1921_02"/></bibl>
 			</listBibl>
            <listBibl type="secondary">
-              <bibl/><!-- one <bibl/> per item of secondary bibliography -->
+              <bibl><ptr target="bib:Knebel1910_03"/><citedRange unit="page">201-202</citedRange></bibl>
+              <bibl><ptr target="bib:OV1916"/><citedRange unit="page">47</citedRange></bibl>
+              <bibl><ptr target="bib:Stutterheim1929_02"/><citedRange unit="page">496-500</citedRange></bibl>
+              <bibl><ptr target="bib:Boechari1990_01"/><citedRange unit="page">126</citedRange></bibl>
+              <bibl><ptr target="bib:Boechari2012_30"/><citedRange unit="page">438</citedRange></bibl>
            </listBibl>
+           <!-- Knebel (1910: 201–202); OV (1916: 47); Bosch (1919–1921); Stutterheim (1929: 496–500); Boechari (1990: 126; 2012: 438) -->
         </div>
       </body>
   </text>
