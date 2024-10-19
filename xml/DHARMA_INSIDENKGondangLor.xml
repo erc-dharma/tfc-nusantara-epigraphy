@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Akṣobhya Statue from Gondang Lor (12th c. CE)</title>
+                <title>Akṣobhya Statue from Gondang Lor (11th or 12th c. CE)</title>
                 <respStmt>
                     <resp>EpiDoc Encoding</resp>               
                         <persName ref="part:argr">
@@ -82,17 +82,17 @@
     </teiHeader>
     <text xml:space="preserve">
       <body>
-         <div type="edition" xml:lang="san-Latn">
+         <div type="edition" xml:lang="san-Latn" rendition="class:38769 maturity:83213">
             <lg met="śārdūlavikrīḍita" n="1">
             <l n="a"><lb n="1"/><g type="ddandaCross"/> <g type="circleCurve"/> <g type="ddandaCross"/> śrīmad-dhīmad-amāna-dīdhitir adhiṣ<choice><orig>ṭ</orig><reg>ṭh</reg></choice>ātāva<supplied reason="lost">ga</supplied>c<choice><orig>c</orig><reg>ch</reg></choice>eta saḥ <g type="circleMed"/></l>
             <l n="b">bhūmnābhūri-vibhūtimantam anagham kurvan· kr̥pāyās sadā,</l>
-            <l n="c">tr<choice><orig>e</orig><reg>ai</reg></choice>lokyodara-vartinam· hitasukhādhīnañ ca yo <supplied reason="subaudible">’</supplied>janminam·,</l>
+            <l n="c">tr<choice><orig>e</orig><reg>ai</reg></choice>lokyodara-vartinam· hitasukhādhīnañ ca yo janminam·,</l>
             <l n="d">maṇḍ<unclear>u</unclear>ṁkul·-kathito namāmi satatan tam· sadguṇam· śrīghanam· <g type="ddandaCross"/> </l>
         </lg>
             <lg met="vasantatilakā" n="2">
-	<l n="a">tāthāgatī pratikr̥<space type="defect"/>tiḥ paripūrṇagātrā,</l>
-	<l n="b">yat kāritākuśalimā<lb n="2" break="no"/>pi mayā mahīyaḥ,</l>
-	<l n="c">tenājarāmaraṇaj<choice><orig>e</orig><reg>ai</reg></choice>na<space type="descender"/>pade bha<space type="descender"/>vāmi,</l>
+	<l n="a">tāthāgatī pratikr̥<space type="defect"/>tiḥ paripūrṇa-gātrā,</l>
+	<l n="b">yat kāritākuśali<choice><sic>m</sic><corr>n</corr></choice>ā<lb n="2" break="no"/>pi mayā mahīyaḥ,</l>
+	<l n="c">tenājarāmaraṇa-j<choice><orig>e</orig><reg>ai</reg></choice>na<space type="descender"/>-pade bha<space type="descender"/>vāmi,</l>
 	<l n="d">śrī-dharmavaṅśa-kula-varddhana-nāmadheyaḥ <g type="ddandaCross"/> <g type="circleCurve"/> <g type="ddandaCross"/> </l>
 </lg>
 
@@ -111,15 +111,28 @@
                     <lem>maṇḍ<unclear>u</unclear>ṁkul·-</lem>
                     <rdg source="bib:Bosch1919-1921_02">maṇḍaṁkul·-</rdg>
                  </app>
+                 <app loc="1">
+                    <lem>yat kāritākuśali<choice><sic>m</sic><corr>n</corr></choice>ā<lb n="2" break="no"/>pi</lem>
+                    <rdg source="bib:Bosch1919-1921_02">yatkāritā kuśali māli</rdg>
+                    <note>The reading <foreign>li</foreign> after <foreign>mā</foreign> seems possible on the estampages, but the stone only allows reading <foreign>pi</foreign>. One may only restore <foreign>li</foreign> if one presumes that the first vertical of the putative <foreign>l</foreign> has become completely invisible due to wear and tear, but there are no signs of strong wear and tear here, and I propose rather to emend the text to <foreign>kuśalināpi</foreign>. The combination <foreign>akuśalinā mayā</foreign> evokes such a famous literary phrase as <foreign>etasmān māṁ kuśalinam abhijñānadānād viditvā mā kaulīnād asitanayane mayy aviśvāsinī bhūḥ</foreign> (Kālidāsa, <title>Meghadūta</title> 109).<!--
+                        dānena cakravartiśrīḥ sā sudarśanajanmani /
+                        bhuktā mayā mahīyasī bodhir nādhigatā tu sā // Kṣemendra, Avadānakalpalatā 17.29--></note>
+                 </app>
+                 <app loc="2">
+                    <lem>-j<choice><orig>e</orig><reg>ai</reg></choice>na<space type="descender"/>-pade</lem>
+                    <rdg source="bib:Bosch1919-1921_02">-jena pade</rdg>
+                 </app>
                  <app loc="2">
                     <lem>-dharmavaṅśa-kula-</lem>
                     <rdg source="bib:Bosch1919-1921_02">-dharmavaṅśa-kr̥ta-</rdg>
+                    <note>The reading is unclear on the estampage but absolutely clear from the stone and the orthophotos. The same reading with <foreign>-kula-</foreign> is also mentioned by Boechari (<bibl rend="omitname"><ptr target="bib:Boechari1990_01"/></bibl> and 
+                        <bibl rend="omitname"><ptr target="bib:Boechari2012_30"/></bibl>), without indication that it is a novelty.</note>
                  </app>
                </listApp>
          </div>
          <div type="translation">
- 	<p rend="stanza" n="1">Out of compassion, may that Empowerer who is illustrious <supplied reason="explanation"><foreign>śrīmad</foreign></supplied>, intelligent <supplied reason="explanation"><foreign>dhīmad</foreign></supplied> and whose splendor <supplied reason="explanation"><foreign>dīdhiti</foreign></supplied> is immeasurable <supplied reason="explanation"><foreign>amāna</foreign></supplied>, who never does any evil, assent to [<supplied reason="subaudible">me</supplied> who am abundantly <supplied reason="explanation"><foreign>bhūmnā</foreign></supplied> lacking in might <supplied reason="explanation"><foreign>abhūri-vibhūtimantam</foreign></supplied>, who revolve in the bowels of the Triple World,<note>Cf. <title>Sādhanamālā</title>, <bibl><ptr target="bib:Bhattacharya1925_01"/><citedRange unit="page">55</citedRange></bibl> (<title>Śrī-Khasarpaṇalokeśvarasādhana</title>): <foreign>saṁbuddhapratyekaśrāvakabuddhānāṁ tatsutānām api bodhisattvānāṁ sattvānām api <hi rend="bold">trailokyodaravarttināṁ</hi> yad eva kuśalaṁ tat sarvam anumodayāmīti | tadanu ratnatrayaśaraṇagamanam |</foreign>.</note> an incarnated being subservient to convenience and pleasure, called Maṇḍuṅkul <supplied reason="explanation"><q>Annoyed</q></supplied>,<note>The form <foreign>maṇḍuṅkul</foreign> does not seem to be attested in Old Javanese, but in Malay there is <foreign>mendongkol</foreign> <q>to feel spite</q>.</note> who perennially bow to that Śrīghana, of excellent qualities!</p>
-     <p rend="stanza" n="2">By virtue of the great <supplied reason="subaudible">merit</supplied> that this Buddha image, with limbs complete, has been commissioned by one as unmeritorious as me, I, <supplied reason="subaudible">also</supplied> having the epithet Śrī Dharmavaṅśakulavardhana <supplied reason="explanation"><q>Supporter of the illustrious family of Dharmavaṅśa</q>, <q>Family supporter of the illustrious lineage of the law</q></supplied>, am reborn in the state of a Jina, without old age and death.</p>
+ 	<p rend="stanza" n="1">Out of compassion, may that Empowerer who is illustrious <supplied reason="explanation"><foreign>śrīmat</foreign></supplied>, intelligent <supplied reason="explanation"><foreign>dhīmat</foreign></supplied> and whose splendor <supplied reason="explanation"><foreign>dīdhiti</foreign></supplied> is immeasurable <supplied reason="explanation"><foreign>amāna</foreign></supplied>, who never does any evil, assent to [<supplied reason="subaudible">me</supplied> who am abundantly <supplied reason="explanation"><foreign>bhūmnā</foreign></supplied> lacking in might <supplied reason="explanation"><foreign>abhūri-vibhūtimantam</foreign></supplied>, who revolve in the bowels of the Triple World,<note>Cf. <title>Sādhanamālā</title>, ed. <bibl><ptr target="bib:Bhattacharya1925_01"/><citedRange unit="page">55</citedRange></bibl>, (<title>Śrī-Khasarpaṇalokeśvarasādhana</title>): <foreign>saṁbuddhapratyekaśrāvakabuddhānāṁ tatsutānām api bodhisattvānāṁ sattvānām api <hi rend="bold">trailokyodaravarttināṁ</hi> yad eva kuśalaṁ tat sarvam anumodayāmīti | tadanu ratnatrayaśaraṇagamanam |</foreign>.</note> an incarnated being subservient to convenience and pleasure, called Maṇḍuṅkul <supplied reason="explanation"><q>Hornless</q> or <q>Spiteful</q>?</supplied>,<note>The form <foreign>maṇḍuṅkul</foreign> does not seem to be attested in Old Javanese, but in some varieties of Malay there is <foreign>mendongkol</foreign> which seems to mean <q>to feel spite</q>, from base <foreign>dongkol</foreign> which is also able to express the same meaning as <foreign>dungkul</foreign>, namely <q>hornless</q>.</note> who perennially bow to that  Śrīghana <supplied reason="explanation">i.e., Buddha</supplied>, of excellent qualities!</p>
+     <p rend="stanza" n="2">By virtue of the great <supplied reason="subaudible">merit</supplied> that <supplied reason="subaudible">this</supplied> Buddha image, with limbs complete, has been commissioned by one as unmeritorious as me, I, <supplied reason="subaudible">also</supplied> having the epithet Śrī Dharmavaṅśakulavardhana <supplied reason="explanation"><q>Supporter of the illustrious family of Dharmavaṅśa</q>, <q>Family supporter of the illustrious lineage of the law</q></supplied>, am reborn in the state of a Jina, without old age and death.</p>
          </div>
          <div type="commentary">
             <!--commentary encoded as per section §9.3 -->
