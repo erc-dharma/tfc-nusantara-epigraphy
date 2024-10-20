@@ -103,14 +103,14 @@
                             <choice><sic>supva</sic><corr>sapu</corr></choice>, makamaṅgal<unclear>ā</unclear> ra kakiṅ amūrvva<lb 
                         n="4" break="no"/>bumi, maparivāra raṅgah avar-avar·, <unclear>muva</unclear><supplied reason="omitted">ḥ</supplied> saṅ apañji pupon·
                     </p>
-                    <p>ma<supplied reason="omitted">ṁ</supplied><unclear>ka</unclear>na saṅ <unclear>ā</unclear>jñā
+                    <p>ma<supplied reason="omitted">ṁ</supplied><unclear>ka</unclear>na saṅ<unclear>ā</unclear>jñā
                     <lb n="5"/>păduka ba<unclear>ṭāre</unclear> matahun· śrĭ baṭāra vijayarājasănantavikramottuṅga<lb 
                     n="6" break="no"/>deva, <foreign xml:lang="san-Latn">jagadḍitahetu</foreign>, magavaya sukani para sāmya sakahavat· luraḥ
                     <lb n="7"/>vetan i daha,
                         ma<surplus>ma</surplus>ṅka<unclear>n</unclear>ābilāsa pāduka baṭāre
                         matahun a<unclear>ma</unclear><lb 
                     n="8" break="no"/>ṅun kĭ<unclear>r</unclear>ttyanurāgātmaka kas<choice><sic>a</sic><corr>u</corr></choice>kaniṁ rāt·, raṅga sapu karo viku pakṣa sampŭrṇna<lb 
-                    n="9" break="no"/>ni ravuhan· <g type="ddanda"/> <foreign xml:lang="san-Latn">siddhir astu</foreign> <g type="ddanda"/></p>
+                    n="9" break="no"/>ni ravuhan· <g type="ddanda"/></p> <p xml:lang="san-Latn">siddhir astu <g type="ddanda"/></p>
                     <p><unclear>A</unclear>mānuṣa kadarśanĭyanikanaṁ yaśa ra<lb 
                     n="10" break="no"/>vuhan atītadurggamahaL̥p·, tlas maparipŭrṇna de rasika raṅ<supplied reason="omitted">g</supplied>a sapu tu<lb 
                     n="11" break="no"/>hu vidagḍa tiṅkahiṅ ula<unclear>ḥ</unclear>, ndatan· sah aṅaran· pupon rasika pa<lb 
@@ -174,10 +174,11 @@
                     <lem><unclear>muva</unclear><supplied reason="omitted">ḥ</supplied></lem>
                     <rdg source="bib:SteinCallenfels1919_01"><choice><unclear>ju</unclear><unclear>mu</unclear></choice><gap reason="undefined" quantity="1" unit="character"/></rdg>
                     </app>
-                    <!--<app loc="4">
-                    <lem><unclear>ā</unclear>jñā</lem>
-                    <rdg source="bib:SteinCallenfels1919_01">ājña</rdg>
-                    </app>-->
+                    <app loc="4">
+                    <lem>saṅ<unclear>ā</unclear>jñā</lem>
+                    <rdg source="bib:SteinCallenfels1919_01">saṅ ājña</rdg>
+                    <note>Whatever the precise spelling, the word intended here is <bibl><citedRange unit="page">1677</citedRange></bibl> <foreign>sañjñā</foreign> (<foreign>saṅjñā</foreign>, <foreign>sajñā</foreign>, <foreign>saṅajñā</foreign>) (Skt. <foreign>saṁjñā</foreign>) <ab>name, appellation, title</ab>.</note>
+                    </app>
                     <!--<app loc="5">
                     <lem>păduka ba<unclear>ṭāre</unclear> matahun śrĭ baṭăra vijayarājasănantavikramottuṅga<lb n="6" break="no"/>deva</lem>
                     <rdg source="bib:SteinCallenfels1919_01">pāduka bāṭare matahun śri bāṭara vijayarājasānantavikramottuṅgadeva</rdg>
@@ -259,19 +260,20 @@
                 </listApp>
             </div>
             <div type="translation" resp="part:argr">
-                <p>Hail! The elapsed śaka year <num value="1272">1272</num>, month of Mārgaśira, fifteenth day of the waxing fortnight, Mavulu, Vagai, Tuesday (aṅgāra), [in the <foreign >vuku</foreign> of] Pahaṅ. That was the time of the completion of the stone-made Śilāmaṇikuṇḍala <supplied reason="explanation"><q>ear-pendant with stones for jewels</q></supplied> by the Lord of Dəmuṅ, <foreign>saṅ</foreign> Matiṅbun Raṅgah Sapu, under the auspices of <supplied reason="explanation"><foreign>makamaṅgala</foreign></supplied> the elder brother Amūrvabhūmi, having as attendants the Raṅgah Avar-avar and the one with the byname Pupon. Such is the order of his Highness the Lord of Matahun, Śrī Bhaṭāra Vijayarājasānantavikramottuṅgadeva, the cause of welfare of the world, [namely] to bring about the happiness of the commoners/vassals coming under the territory of the chiefs to the east of Daha; likewise is the grace of his Eminence the Lord of Matahun, whose nature is to have affection for [the Goddess] Fame, who causes the happiness of the world: “[i.e. that] Raṅgah Sapu with the priests should be determined about making every effort for the restoration of the dam. May it be perfectly accomplished!” Supernatural was the beauty of this pious work in the form of a dam of an extremely rare perfection, it was already perfect thanks to Raṅgah Sapu. Truly skilful was his manner of acting, the one named Puponwas inseparable, - as his byname -, constantly praised as good, strong, virtuous and able to act. He was ordered by the king not to be careless towards the king:  [A construction] superior in glory, splendid and excellent, very hospitable and the pleasure of whomever saw it, it was, so to say, the perpetual protection restoring the dammed river to its complete charm, being strong [again]. Announcing his duty of paying homage to the ruler, ever eager for a means to see his Majesty: the [dam] at the renowned [place] Kuśmala was at last using the name “śilamat” (could be called).
+                <p n="1-2">Hail! Elapsed Śaka year 1272, month of Mārgaśira, fifteenth <foreign>tithi</foreign> of the waxing fortnight, Mavulu (of the 6-day cycle), Vagai (of the 5-day cycle), Tuesday, <supplied reason="subaudible">the <foreign>vuku</foreign> being</supplied> Pahaṅ.</p> 
+                <p n="2-4">That was the time of the completion of the dam <supplied reason="explanation">called</supplied> Śilāmaṇikuṇḍala <supplied reason="explanation"><q>ear-pendant with stones for jewels</q></supplied> by the Lord of Dəmuṅ, <foreign>saṅ</foreign> Matiṅbun, Raṅgah Sapu, under the auspices of <supplied reason="explanation"><foreign>makamaṅgala</foreign></supplied> his grandfather <!--elder brother -->Amūrvabhūmi, having as attendants the Raṅgah Avar-avar and the one with the byname Pupon.</p>
+                <p n="4-9">Such was the designation of His Majesty the Lord of Matahun, Śrī Bhaṭāra Vijayarājasānantavikramottuṅgadeva, the cause of welfare of the world, <supplied reason="explanation">namely</supplied> that he would bring about the happiness of the <foreign>sāmya</foreign> coming under the territory of the chiefs to the east of Daha. Such was the desire of His Majesty the Lord of Matahun, whose nature is to have affection for <supplied reason="subaudible">the Godess</supplied> Fame, who causes the happiness of the world, <q><supplied reason="subaudible">namely that</supplied> Raṅgah Sapu with the priests should be bent on the completion of the dam. May it be accomplished!</q></p> 
+                <p n="9-X">Supernatural was the beauty of this pious work in the form of a dam of an extremely rare perfection, it was already perfect thanks to Raṅgah Sapu. Truly skilful was his manner of acting, the one named Pupo nwas inseparable, - as his byname -, constantly praised as good, strong, virtuous and able to act. He was ordered by the king not to be careless towards the king:  [A construction] superior in glory, splendid and excellent, very hospitable and the pleasure of whomever saw it, it was, so to say, the perpetual protection restoring the dammed river to its complete charm, being strong [again]. Announcing his duty of paying homage to the ruler, ever eager for a means to see his Majesty: the [dam] at the renowned [place] Kuśmala was at last using the name “śilamat” (could be called).
 </p>
             </div>
             <div type="commentary">
-                <p>The text is carelessly engraved with a number of evident errors that require correction.</p>
+                <p>The text is carelessly engraved with a number of evident errors that require correction and a surprising inconsistency of shapes of certain <foreign>akṣara</foreign>s, e.g., <foreign>ṇ</foreign> in <foreign>guṇavan</foreign> l. 12 compared to <foreign>sampurṇna</foreign> in l. 8. There is also a recurrent problem of interpretation, whether a given <foreign>akṣara</foreign> comprises a <foreign>tarung</foreign> or whether the vertical stroke in question forms part of the consonant sign itself.</p>
             </div>
             <div type="bibliography">
-                <!--bibliography encoded as per section §9.4 -->
-                <!-- NB: you are encouraged to experiment with encoding bibliography to the extent you have the bibliographic data available, but it is not mandatory at this stage, because our bibliographic data are normally assembled along with other metadata in spreadsheets and will be imported from there into our xml files by a semi-automated process at a later stage. -->
                 <p>First edited by van Stein Callenfels (<bibl rend="omitname"><ptr target="bib:SteinCallenfels1919_01"/></bibl>), with translation into Dutch. The Indonesian translation by M. Yamin (<bibl rend="omitname"><ptr target="bib:MuhammadYamin1962_02"/></bibl>) was based on the Dutch scholar's edition. This new digital edition by Arlo Griffiths from an estampage and an orthophoto.</p>
-<listBibl type="primary">
-	<bibl n="vStC"><ptr target="bib:SteinCallenfels1919_01"/></bibl>
-</listBibl>
+            <listBibl type="primary">
+	            <bibl n="vStC"><ptr target="bib:SteinCallenfels1919_01"/></bibl>
+                </listBibl>
             	<listBibl type="secondary">
              <bibl><ptr target="bib:Damais1952_01"/><citedRange>76-77</citedRange><citedRange unit="item">A.186</citedRange></bibl>
              <bibl><ptr target="bib:Damais1955_01"/><citedRange>82-83</citedRange><citedRange unit="item">A.186</citedRange></bibl>
