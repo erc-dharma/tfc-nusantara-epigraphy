@@ -8,7 +8,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Kuśmala</title>
+            <title>Foundation of a Dam Called Śilāmaṇi-kuṇḍala (1272 Śaka)</title>
          	<respStmt>
          		<resp>EpiDoc encoding</resp>
                  <persName ref="part:argr">
@@ -30,7 +30,7 @@
          <publicationStmt>
             <authority>DHARMA</authority>
             <pubPlace>Paris</pubPlace>
-            <idno type="filename">DHARMA_INSIDENKKusmala</idno>
+            <idno type="filename">DHARMA_INSIDENKSilamanikundala</idno>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/">
                   <p>This work is licenced under the Creative Commons Attribution 4.0 Unported Licence. To view a copy of the licence, visit https://creativecommons.org/licenses/by/4.0/ or send
@@ -111,7 +111,8 @@
                         matahun a<unclear>ma</unclear><lb 
                     n="8" break="no"/>ṅun kĭ<unclear>r</unclear>ttyanurāgātmaka kas<choice><sic>a</sic><corr>u</corr></choice>kaniṁ rāt·, raṅga sapu karo viku pakṣa sampŭrṇna<lb 
                     n="9" break="no"/>ni ravuhan· <g type="ddanda"/> <foreign xml:lang="san-Latn">siddhir astu</foreign> <g type="ddanda"/></p>
-                    <p><unclear>A</unclear>mānuṣa kadarśanĭyanikanaṁ yaśa ra<lb n="10" break="no"/>vuhan atītadurggamahaL̥p·, tlas maparipŭrṇna de rasika raṅ<supplied reason="omitted">g</supplied>a sapu tu<lb 
+                    <p><unclear>A</unclear>mānuṣa kadarśanĭyanikanaṁ yaśa ra<lb 
+                    n="10" break="no"/>vuhan atītadurggamahaL̥p·, tlas maparipŭrṇna de rasika raṅ<supplied reason="omitted">g</supplied>a sapu tu<lb 
                     n="11" break="no"/>hu vidagḍa tiṅkahiṅ ula<unclear>ḥ</unclear>, ndatan· sah aṅaran· pupon rasika pa<lb 
                     n="12" break="no"/>ñji pinuji-puji să<choice><sic>v</sic><corr>dh</corr></choice>u śakti guṇavăn· vnaṁ gumavaya, I saṁ prabu tama<lb 
                     n="13" break="no"/>n· paL̥-paL̥h inutusnira narapati <g type="ddanda"/></p>
@@ -197,9 +198,10 @@
                       <lem>sampŭrṇna</lem>
                       <rdg source="bib:SteinCallenfels1919_01">sampurnna</rdg>
                     </app>
-                    <!-- <unclear>A</unclear>mānuṣa kadarśanĭyanikanaṁ —
-                        cf. Krsnayana <KA_27.02a>Amānuṣa kadarśaniyanira karaṇanikaṅ umulat paḍāṅucap, 
-                     -->
+                    <app loc="9">
+                        <lem source="bib:SteinCallenfels1919_01"><unclear>A</unclear>mānuṣa kadarśanĭyanikanaṁ</lem>
+                        <note>The <foreign>A</foreign> is objectively very unclear, but there is little doubt that it must be read because of the meaning expected in the context and the existence of a literary parallel, in <title>kakavin Kr̥ṣṇāyana</title> 27.2a <foreign>amānuṣa kadarśaniyanira karaṇanikaṅ umulat paḍāṅucap</foreign>.</note>
+                    </app>
                    <!-- <app loc="10">
                         <lem>atītadurggamahaL̥p·</lem>
                         <rdg source="bib:SteinCallenfels1919_01">atita durgga mahaləp·</rdg>
@@ -261,18 +263,19 @@
 </p>
             </div>
             <div type="commentary">
-                <!--commentary encoded as per section §9.3 -->
+                <p>The text is carelessly engraved with a number of evident errors that require correction.</p>
             </div>
             <div type="bibliography">
                 <!--bibliography encoded as per section §9.4 -->
                 <!-- NB: you are encouraged to experiment with encoding bibliography to the extent you have the bibliographic data available, but it is not mandatory at this stage, because our bibliographic data are normally assembled along with other metadata in spreadsheets and will be imported from there into our xml files by a semi-automated process at a later stage. -->
-                <p>First edited by van Stein Callenfels (<bibl rend="omitname"><ptr target="bib:SteinCallenfels1919_01"/></bibl>).</p>
+                <p>First edited by van Stein Callenfels (<bibl rend="omitname"><ptr target="bib:SteinCallenfels1919_01"/></bibl>), with translation into Dutch. The Indonesian translation by M. Yamin (<bibl rend="omitname"><ptr target="bib:MuhammadYamin1962_02"/></bibl>) was based on the Dutch scholar's edition. This new digital edition by Arlo Griffiths from an estampage and an orthophoto.</p>
 <listBibl type="primary">
 	<bibl n="vStC"><ptr target="bib:SteinCallenfels1919_01"/></bibl>
 </listBibl>
             	<listBibl type="secondary">
              <bibl><ptr target="bib:Damais1952_01"/><citedRange>76-77</citedRange><citedRange unit="item">A.186</citedRange></bibl>
              <bibl><ptr target="bib:Damais1955_01"/><citedRange>82-83</citedRange><citedRange unit="item">A.186</citedRange></bibl>
+             <bibl><ptr target="bib:MuhammadYamin1962_02"/><citedRange unit="page">73-75</citedRange><citedRange unit="item">XII</citedRange></bibl>
              </listBibl>
              <!--See also the commentary by Jan Wisseman Christie (2007: 248) who connects this charter with a Śaiva water temple, juxtaposing it with more ancient decrees benefiting similar establishments in the mountains of east Java (Kawi, Welirang, Bromo)-->
             </div>
