@@ -11,13 +11,13 @@
             <title>Kuśmala</title>
          	<respStmt>
          		<resp>EpiDoc encoding</resp>
+                 <persName ref="part:argr">
+                    <forename>Arlo</forename>
+                    <surname>Griffiths</surname>
+                </persName>
          		<persName ref="part:masc">
          			<name>Marine Schoettel</name>
-         		</persName>
-         		<persName ref="part:argr">
-         			<forename>Arlo</forename>
-         			<surname>Griffiths</surname>
-         		</persName>
+                </persName>
          	</respStmt>
             <respStmt>
                <resp>intellectual authorship of edition</resp>
@@ -35,7 +35,7 @@
                <licence target="https://creativecommons.org/licenses/by/4.0/">
                   <p>This work is licenced under the Creative Commons Attribution 4.0 Unported Licence. To view a copy of the licence, visit https://creativecommons.org/licenses/by/4.0/ or send
                             a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.</p>
-                  <p>Copyright (c) 2019-2025 by Arlo Griffiths &amp; Marine Schoettel.</p>
+                  <p>Copyright (c) 2019-2025 by Arlo Griffiths.</p>
                </licence>
             </availability>
             <date from="2019" to="2025">2019-2025</date>
@@ -83,7 +83,8 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
-          <change who="part:argr" when="2023-12-14" status="draft">started revision of encoding</change>
+        <change who="part:argr" when="2024-10-21" status="draft">finished revision of encoding and revised the edition plus translation</change>
+         <change who="part:argr" when="2023-12-14" status="draft">started revision of encoding</change>
          <change who="part:axja" when="2020-11-03" status="draft">Updating toward the encoding template v03</change>
          <change who="part:axja" when="2020-03-27" status="draft">adding the handDesc template</change>
          <change who="part:axja" when="2020-01-09" status="draft">Update the template</change>
@@ -92,29 +93,37 @@
    </teiHeader>
    <text xml:space="preserve">
         <body>
-            <div type="edition" xml:lang="kaw-Latn">
-                    <p>
-                    <lb n="1"/><g type="circle"/> // svast<supplied reason="lost">i</supplied> śakava<supplied reason="lost">r</supplied>ṣăt<supplied reason="lost">ĭ</supplied>ta,
-                        <num value="1272">1272</num>, mă<supplied reason="lost">r</supplied>gaś<supplied reason="lost">i</supplied>ra-māsa, tithi pañcadaś<unclear>i</unclear>, śukla-pakṣ<unclear>ā</unclear>, <lb n="2"/><abbr>ma</abbr>, <abbr>va</abbr>, <abbr>Ă</abbr>, vāra, pahaṁ,</p>
-                    <p>Irikā divaśanika sampu<supplied reason="omitted">r</supplied><unclear>ṇna</unclear>nikana<unclear>ṁ</unclear> ravuhan·  śĭlama<unclear>t</unclear>· i <lb n="3"/><placeName><unclear>ku</unclear>śmala</placeName> de <roleName type="officer">rakryan· dəmuṁ</roleName>, saṁ
-                        <persName><name>martabun</name>· <name>raṅgaḥ</name>
-                            <unclear>sa</unclear>p<unclear>u</unclear></persName>, makamaṅgalā rakak iṅ amūrvva<lb n="4" break="no"/>bumi, maparivāra <persName>raṅgah avar-avar</persName>·, juru saṅ apañji <persName>pupon</persName>·
+            <div type="edition" xml:lang="kaw-Latn" rendition="class:38769 maturity:83213">
+                    <p><lb n="1"/><g type="ddandaOrnate"/> svast<supplied reason="lost">i</supplied> śaka-va<supplied reason="lost">r</supplied>ṣăt<supplied reason="lost">ĭ</supplied>ta,
+                        <num value="1272">1272</num>, mă<supplied reason="lost">r</supplied>gaś<supplied reason="lost">i</supplied>ra-māsa, tithi pañcadaś<unclear>i</unclear>, śukla-pakṣ<unclear>ā</unclear>, 
+                    <lb n="2"/><abbr>ma</abbr>, <abbr>va</abbr>, <abbr>Ă</abbr>, vāra, pahaṁ,</p>
+                    <p>Irikā divaśanika sampu<supplied reason="omitted">r</supplied><unclear>ṇna</unclear>nikana<unclear>ṁ</unclear> ravuhan· śilăma<unclear>ṇ</unclear>i<lb 
+                        n="3" break="no"/>-<unclear>ku</unclear>ṇḍala de rakryan· dəmuṁ, 
+                        saṁ matiṁbun· raṅgaḥ
+                            <choice><sic>supva</sic><corr>sapu</corr></choice>, makamaṅgal<unclear>ā</unclear> ra kakiṅ amūrvva<lb 
+                        n="4" break="no"/>bumi, maparivāra raṅgah avar-avar·, <unclear>muva</unclear><supplied reason="omitted">ḥ</supplied> saṅ apañji pupon·
                     </p>
-                    <p>
-                        ma<supplied reason="omitted">ṁ</supplied><unclear>ka</unclear>na saṅ <unclear>ā</unclear>jñā
-                    <lb n="5"/>păduka ba<unclear>ṭāre</unclear> matahun· śrĭ baṭāra <persName>vijayarājasănantavikramottuṅga
-                    <lb n="6" break="no"/>deva</persName>, <foreign xml:lang="san-Latn">j<unclear>ā</unclear>gaddhitahetu</foreign>, magavaya sukani para s<unclear>a</unclear>mya sakahavat· luraḥ
-                    <lb n="7"/><unclear>I</unclear> vetan i daha,
-                        <choice><sic>ma</sic><corr>sa</corr></choice>maṅkanā bilāsa pāduka baṭāre
-                        mātahun <!--MS: check long a--> a<unclear>ma</unclear>
-                    <lb n="8" break="no"/>ṅun kĭrttyanurāgātmaka kas<unclear>u</unclear>kaniṁ rāt·, <persName>raṅga sapu</persName> karo viku pakṣa sampŭrṇna
-                    <lb n="9" break="no"/>ni ravuhan· || <foreign xml:lang="san-Latn">siddhir astu</foreign> ||</p>
-                    <p>
-                        <unclear>A</unclear>mānuṣa kadarśanĭyanikanaṁ yaśa ra<lb n="10" break="no"/>vuhan hatītadurggamahaLp·, tlas maparipŭrṇna de rasika <persName>raṅ<supplied reason="omitted">g</supplied>a sapu</persName> tu<lb n="11" break="no"/>hu vidagdha tiṅkahiṅ ula<unclear>ḥ</unclear>, ndatan· sah aṅaran· <persName>pupon</persName> rasika pa<lb n="12" break="no"/>ñji pinuji-puji sădhu śakti guṇavăn· vnaṁ gumavaya, I saṁ prabu tama<lb n="13" break="no"/>n· paL̥paL̥h inutusnira narapati ||
-                    </p>
-                    <p>yaśātiśaya śobitāhaL̥<lb n="14" break="no"/>p asusaṁrama sukanikaṁ janāsiṅ umulat·, si<supplied reason="omitted">ra</supplied> ra<unclear>kv</unclear>a tikaṁ rakṣa ni<lb n="15" break="no"/>tya pamul<unclear>i</unclear>ḥ kali maravuhan arddhapaL̥ mapagəḥ ||</p>
-                    <p>mav<unclear>i</unclear>prakṣa<lb n="16" break="no"/><unclear>t</unclear>i śevadharmma ri <add place="below">nară</add>dhipa haṅuhaṁṅune panon· saṅ <choice><sic>u</sic><corr>a</corr></choice>hulun·
- <lb n="17"/>ndatan <unclear>p</unclear>avkasan·, huvus makaṅaran· kĕta śĭlamat i kuśmala pra<lb n="18" break="no"/>kăśita</p>
+                    <p>ma<supplied reason="omitted">ṁ</supplied><unclear>ka</unclear>na saṅ <unclear>ā</unclear>jñā
+                    <lb n="5"/>păduka ba<unclear>ṭāre</unclear> matahun· śrĭ baṭāra vijayarājasănantavikramottuṅga<lb 
+                    n="6" break="no"/>deva, <foreign xml:lang="san-Latn">jagadḍitahetu</foreign>, magavaya sukani para sāmya sakahavat· luraḥ
+                    <lb n="7"/>vetan i daha,
+                        ma<surplus>ma</surplus>ṅka<unclear>n</unclear>ābilāsa pāduka baṭāre
+                        matahun a<unclear>ma</unclear><lb 
+                    n="8" break="no"/>ṅun kĭ<unclear>r</unclear>ttyanurāgātmaka kas<choice><sic>a</sic><corr>u</corr></choice>kaniṁ rāt·, raṅga sapu karo viku pakṣa sampŭrṇna<lb 
+                    n="9" break="no"/>ni ravuhan· <g type="ddanda"/> <foreign xml:lang="san-Latn">siddhir astu</foreign> <g type="ddanda"/></p>
+                    <p><unclear>A</unclear>mānuṣa kadarśanĭyanikanaṁ yaśa ra<lb n="10" break="no"/>vuhan atītadurggamahaL̥p·, tlas maparipŭrṇna de rasika raṅ<supplied reason="omitted">g</supplied>a sapu tu<lb 
+                    n="11" break="no"/>hu vidagḍa tiṅkahiṅ ula<unclear>ḥ</unclear>, ndatan· sah aṅaran· pupon rasika pa<lb 
+                    n="12" break="no"/>ñji pinuji-puji să<choice><sic>v</sic><corr>dh</corr></choice>u śakti guṇavăn· vnaṁ gumavaya, I saṁ prabu tama<lb 
+                    n="13" break="no"/>n· paL̥-paL̥h inutusnira narapati <g type="ddanda"/></p>
+                    <p>yaśātiśaya śobitāhaL̥<lb 
+                    n="14" break="no"/>p a<choice><sic>susaṁ</sic><corr>suṁ pa</corr></choice>ramasukanikaṁ janāsiṅ umulat·, 
+                    si<supplied reason="omitted">ra</supplied> ra<unclear>kv</unclear>a tika<unclear>ṁ</unclear><!-- no cecak visible on orthophoto--> rakṣa ni<lb 
+                    n="15" break="no"/>tya pamul<unclear>i</unclear>ḥ<!-- really no trace visible of ulu-->
+                     kali maravuhan ardḍapaL̥ mapagəḥ <g type="ddanda"/></p>
+                    <p>mav<unclear>i</unclear>prakṣa<lb 
+                    n="16" break="no"/>ti śevadharmma ri <add place="below" rend="mark">nară</add>ḍipa haṅuhaṁṅune panon· saṅ <choice><sic>u</sic><corr>a</corr></choice>hulun·<!-- or emend saṅhulun? -->
+                    <lb n="17"/>ndatan <unclear>p</unclear>avkasan·, huvus makaṅaran· kəta śilămaṇi-kuṇḍala pra<lb 
+                    n="18" break="no"/>kăśita</p>
             </div>
             <div type="apparatus">
                 <listApp>
@@ -138,20 +147,30 @@
                      <lem>divaśanika sampu<unclear>ṇna</unclear>nikana<unclear>ṁ</unclear></lem>
                      <rdg source="bib:SteinCallenfels1919_01">divaśa <unclear>ni</unclear> kasampurnnanikanaṅ</rdg>
                     </app>
-                    <!-- <app loc="3">
-                     <lem>raṅgaḥ <unclear>sa</unclear>p<unclear>u</unclear></lem>
+                    <app loc="2">
+                        <lem>śilăma<unclear>ṇ</unclear>i<lb n="3" break="no"/>-<unclear>ku</unclear>ṇḍala</lem>
+                        <rdg source="bib:SteinCallenfels1919_01">śilamat i kuśmala</rdg>
+                        <note>Here and in line 17, the correct reading is quite clearly with <foreign>ṇ</foreign> and <foreign>ṇḍ</foreign> instead of <foreign>t</foreign> and <foreign>śm</foreign>.</note>
+                    </app>
+                    <app loc="3">
+                        <lem>matiṁbun·</lem>
+                        <rdg source="bib:SteinCallenfels1919_01">martabun·</rdg>
+                    </app>
+                    <app loc="3">
+                     <lem>raṅgaḥ <choice><sic>supva</sic><corr>sapu</corr></choice></lem>
                      <rdg source="bib:SteinCallenfels1919_01">raṅga sapu</rdg>
-                    </app>-->
+                     <note>The correction to <foreign>sapu</foreign> seems to be imposed by the reoccurrence of the same person in lines 8 and 10. Whether the spelling of the first element as <foreign>raṅgaḥ</foreign> or <foreign>raṅga</foreign> is preferable is to determine.</note>
+                    </app>
                      <!-- <app loc="3">
                      <lem>makamaṅgalā</lem>
                      <rdg source="bib:SteinCallenfels1919_01">makamaṅgala</rdg>
                     </app>-->
                      <app loc="3">
-                     <lem>rakak iṅ amūrvva<lb n="4" break="no"/>bumi</lem>
+                     <lem>ra kakiṅ amūrvva<lb n="4" break="no"/>bumi</lem>
                      <rdg source="bib:SteinCallenfels1919_01">rakaki ṅamurvva bumi</rdg>
                     </app>
                     <app loc="4">
-                    <lem>jur<unclear>u</unclear></lem>
+                    <lem><unclear>muva</unclear><supplied reason="omitted">ḥ</supplied></lem>
                     <rdg source="bib:SteinCallenfels1919_01"><choice><unclear>ju</unclear><unclear>mu</unclear></choice><gap reason="undefined" quantity="1" unit="character"/></rdg>
                     </app>
                     <!--<app loc="4">
@@ -159,39 +178,32 @@
                     <rdg source="bib:SteinCallenfels1919_01">ājña</rdg>
                     </app>-->
                     <!--<app loc="5">
-                    <lem>păduka ba<unclear>ṭāre</unclear> matahun śrĭ baṭăra <persName>vijayarājasănantavikramottuṅga<lb n="6" break="no"/>deva</persName></lem>
+                    <lem>păduka ba<unclear>ṭāre</unclear> matahun śrĭ baṭăra vijayarājasănantavikramottuṅga<lb n="6" break="no"/>deva</lem>
                     <rdg source="bib:SteinCallenfels1919_01">pāduka bāṭare matahun śri bāṭara vijayarājasānantavikramottuṅgadeva</rdg>
                     </app>-->
-                   <!-- <app loc="6">
-                    <lem>para s<unclear>a</unclear>mya</lem>
-                    <rdg source="bib:SteinCallenfels1919_01">parasāmya</rdg>
-                    </app>-->
                     <app loc="7">
-                        <lem><unclear>I</unclear> vetan</lem>
-                        <rdg source="bib:SteinCallenfels1919_01">vetan</rdg>
+                        <lem>ma<surplus>ma</surplus>ṅka<unclear>n</unclear>ābilāsa</lem>
+                        <rdg source="bib:SteinCallenfels1919_01"><choice><sic>ma</sic><corr>sa</corr></choice>maṅkana bilāsa</rdg>
                     </app>
-<!-- 2023-12-14: Arlo to resume revising apparatus from here on -->
-                    <app loc="7">
-                        <lem source="bib:SteinCallenfels1919_01"><choice><sic>ma</sic><corr>sa</corr></choice>maṅkanā</lem>
-                    </app>
-                    <app loc="7">
+                    <!--<app loc="7">
                       <lem>pāduka baṭāre mātahun</lem>
                       <rdg source="bib:SteinCallenfels1919_01">pādukā baṭare matahun</rdg>
-                    </app>
-                    <!--MS: sic corr for matahun-->
+                    </app>-->
                     <app loc="8">
-                      <lem>kas<unclear>u</unclear>kaniṁ rāt</lem>
-                      <rdg source="bib:SteinCallenfels1919_01">kas<choice><sic>a</sic><corr>u</corr></choice>kanirat</rdg>
-                        <note>The emendation adopted by van Stein Callenfels was suggested by Brandes.</note>
+                      <lem>kas<choice><sic>a</sic><corr>u</corr></choice>kaniṁ rāt·</lem>
+                      <rdg source="bib:SteinCallenfels1919_01">kas<choice><sic>a</sic><corr>u</corr></choice>kanirāt·</rdg>
                     </app>
                     <app loc="8">
                       <lem>sampŭrṇna</lem>
                       <rdg source="bib:SteinCallenfels1919_01">sampurnna</rdg>
                     </app>
-                    <app loc="10">
-                        <lem>hatītadurggamahaLp</lem>
-                        <rdg source="bib:SteinCallenfels1919_01">atita durgga mahaləp</rdg>
-                    </app>
+                    <!-- <unclear>A</unclear>mānuṣa kadarśanĭyanikanaṁ —
+                        cf. Krsnayana <KA_27.02a>Amānuṣa kadarśaniyanira karaṇanikaṅ umulat paḍāṅucap, 
+                     -->
+                   <!-- <app loc="10">
+                        <lem>atītadurggamahaL̥p·</lem>
+                        <rdg source="bib:SteinCallenfels1919_01">atita durgga mahaləp·</rdg>
+                    </app>-->
                     <app loc="10">
                       <lem>maparipŭrṇna</lem>
                       <rdg source="bib:SteinCallenfels1919_01">maparipurnna</rdg>
@@ -199,47 +211,53 @@
                      <app loc="11">
                         <lem>sah aṅaran</lem>
                         <rdg source="bib:SteinCallenfels1919_01">sah aṅāran</rdg>
-                         <note>It is not clear why van Stein Callenfels felt the need to emend to <hi rend="italic">aṅāran</hi> (following Poerbatjaraka), while he correctly read <hi rend="italic">sa haṅaran</hi>.</note>
+                         <note>It is not clear why van Stein Callenfels felt the need to emend to <foreign>aṅāran</foreign> (following Poerbatjaraka), while he correctly read <hi rend="italic">sa haṅaran</hi>.</note>
+                    </app>
+                    <app loc="12">
+                        <lem>să<choice><sic>v</sic><corr>dh</corr></choice>u</lem>
+                        <rdg source="bib:SteinCallenfels1919_01">sadhu</rdg>
+                        <note>We do not find here the <foreign>dh</foreign> shape that is clearly engraved in line 16 (<foreign>śevadharmma</foreign>).</note>
                     </app>
                     <app loc="14">
-                        <lem>asusaṁrama</lem>
-                        <rdg source="bib:SteinCallenfels1919_01">asuṅ paramasukanikaṅ</rdg>
-                        <note>This passage is difficult. Van Stein Callenfels read <hi rend="italic">asu saṁ rama</hi> but emended following Poerbatjaraka,
-                            whose reconstruction does not convince us. Other possibilities would be
-                            to emend asusaṅgrāma (see OJED 1665), asusaṅkrama  or asusambrahma (OJED 1636.5).</note>
+                        <lem source="bib:SteinCallenfels1919_01">a<choice><sic>susaṁ</sic><corr>suṁ pa</corr></choice>ramasukanikaṁ</lem>
+                        <!--<rdg source="bib:SteinCallenfels1919_01">asuṅ paramasukanikaṅ</rdg>-->
+                        <note>This passage is difficult. I accept the emendation that van Stein Callenfels also made following following a suggestion from Poerbatjaraka.<!--
+                            The reconstruction does not convince us. Other possibilities would be
+                            to emend <foreign>asusaṅgrāma</foreign> (see OJED 1665), <foreign>asusaṅkrama</foreign> or <foreign>asusambrahma</foreign> (OJED 1636.5).--></note>
                     </app>
                     <app loc="14">
-                        <lem><choice><sic>si<supplied reason="omitted">ra</supplied> ra<unclear>kv</unclear>a</sic><corr>sira rakva</corr></choice></lem>
-                        <note>We concur with the correction proposed by van Stein Callenfels.</note>
+                        <lem source="bib:SteinCallenfels1919_01"><choice><sic>si<supplied reason="omitted">ra</supplied> ra<unclear>kv</unclear>a</sic><corr>sira rakva</corr></choice></lem>
+                        <note>I concur with the correction proposed by van Stein Callenfels.</note>
                     </app>
-                    <!--MS: suppr note, mettre source VSC dans LEM-->
-                    <app loc="15-16">
-                        <lem>mav<unclear>i</unclear>prakṣa<lb n="16" break="no"/><unclear>t</unclear>i</lem>
+                    <app loc="15">
+                        <lem>mav<unclear>i</unclear>prakṣa<lb n="16" break="no"/>ti</lem>
                         <rdg source="bib:SteinCallenfels1919_01">mavipraksati</rdg>
-                        <note><hi rend="italic">mapviprakṣati</hi> seems to be a hapax. In the OJED corpus, we find the reading <hi rend="italic">kaviprakṣati</hi>, which seems to be an emendation of Zoetmulder.</note>
+                        <note>The word <foreign>maviprakṣati</foreign> seems to be a hapax. In the OJED corpus, we find the reading <foreign>kaviprakṣati</foreign>, which seems to be an emendation of Zoetmulder.</note>
                     </app>
                     <app loc="16">
-                        <lem><add place="below">nară</add>dhipa</lem>
-                        <note>The interlinear insertion is marked by a <hi rend="italic">kākapāda</hi>.</note>
+                        <lem><add place="below" rend="mark">nară</add>ḍipa</lem>
+                        <note>The interlinear insertion is marked by a <foreign>kākapāda</foreign>.</note>
                     </app>
-                    <!--MS: chercher kākapāda dans EG et supprimer note.-->
                     <app loc="16">
                         <lem>haṅuhaṁṅune</lem>
                         <rdg source="bib:SteinCallenfels1919_01">haṅuhaṅune</rdg>
                     </app>
                     <app loc="16">
-                        <lem>saṅ <choice><sic>uhulun</sic><corr>ahulun</corr></choice></lem>
-                        <note>We follow van Stein Callenfels' emendation.</note>
+                        <lem source="bib:SteinCallenfels1919_01">saṅ <choice><sic>uhulun</sic><corr>ahulun</corr></choice></lem>
+                        <!--<note>Or emend <foreign>saṅhulun</foreign>?</note>-->
                     </app>
-                    <!--MS: source dans LEM-->
                     <app loc="17">
                         <lem>makaṅaran</lem>
                         <rdg source="bib:SteinCallenfels1919_01">makaṅāran</rdg>
                     </app>
+                    <app loc="17">
+                        <lem>śilămaṇi-kuṇḍala</lem>
+                        <rdg source="bib:SteinCallenfels1919_01">śilamat i kuśmala</rdg>
+                    </app>
                 </listApp>
             </div>
-            <div type="translation" resp="part:argr part:masc">
-                <p>Hail! The elapsed śaka year <num value="1272">1272</num>, month of Mārgaśira, fifteenth day of the waxing fortnight, Mavulu, Vagai, Tuesday (aṅgāra), [in the <foreign xml:lang="kaw-Latn">vuku</foreign> of] Pahaṅ. That was the time of the completion of the stone-made dam at <placeName>Kuśmala</placeName> by the rakryan <roleName>Dəmuṅ</roleName>, saṅ <persName>Martabun Raṅgah Sapu</persName>, under the auspices of (<foreign xml:lang="kaw-Latn">makamaṅgala</foreign>) the elder brother <persName>Amūrvabhūmi</persName>, having as attendants the <persName>Raṅgah Avar-avar</persName> and the <persName><roleName>juru</roleName> with the byname <persName>Pupon</persName></persName>. Such is the order of <persName>his Highness the Lord of Matahun</persName>, Śrī Bhaṭāra <persName>Vijayarājasānantavikramottuṅgadeva</persName>, the cause of welfare of the world, [namely] to bring about the happiness of the commoners/vassals coming under the territory of the chiefs to the east of <placeName>Daha</placeName>; likewise is the grace of his Eminence the Lord of Matahun, whose nature is to have affection for [the Goddess] Fame, who causes the happiness of the world: “[i.e. that] <persName>Raṅgah Sapu</persName> with the priests should be determined about making every effort for the restoration of the dam. May it be perfectly accomplished!” Supernatural was the beauty of this pious work in the form of a dam of an extremely rare perfection, it was already perfect thanks to <persName>Raṅgah Sapu</persName>. Truly skilful was his manner of acting, the one named <persName>Pupon</persName>was inseparable, - as his byname -, constantly praised as good, strong, virtuous and able to act. He was ordered by the king not to be careless towards the king:  [A construction] superior in glory, splendid and excellent, very hospitable and the pleasure of whomever saw it, it was, so to say, the perpetual protection restoring the dammed river to its complete charm, being strong [again]. Announcing his duty of paying homage to the ruler, ever eager for a means to see his Majesty: the [dam] at the renowned [place] Kuśmala was at last using the name “śilamat” (could be called).
+            <div type="translation" resp="part:argr">
+                <p>Hail! The elapsed śaka year <num value="1272">1272</num>, month of Mārgaśira, fifteenth day of the waxing fortnight, Mavulu, Vagai, Tuesday (aṅgāra), [in the <foreign >vuku</foreign> of] Pahaṅ. That was the time of the completion of the stone-made Śilāmaṇikuṇḍala <supplied reason="explanation"><q>ear-pendant with stones for jewels</q></supplied> by the Lord of Dəmuṅ, <foreign>saṅ</foreign> Matiṅbun Raṅgah Sapu, under the auspices of <supplied reason="explanation"><foreign>makamaṅgala</foreign></supplied> the elder brother Amūrvabhūmi, having as attendants the Raṅgah Avar-avar and the one with the byname Pupon. Such is the order of his Highness the Lord of Matahun, Śrī Bhaṭāra Vijayarājasānantavikramottuṅgadeva, the cause of welfare of the world, [namely] to bring about the happiness of the commoners/vassals coming under the territory of the chiefs to the east of Daha; likewise is the grace of his Eminence the Lord of Matahun, whose nature is to have affection for [the Goddess] Fame, who causes the happiness of the world: “[i.e. that] Raṅgah Sapu with the priests should be determined about making every effort for the restoration of the dam. May it be perfectly accomplished!” Supernatural was the beauty of this pious work in the form of a dam of an extremely rare perfection, it was already perfect thanks to Raṅgah Sapu. Truly skilful was his manner of acting, the one named Puponwas inseparable, - as his byname -, constantly praised as good, strong, virtuous and able to act. He was ordered by the king not to be careless towards the king:  [A construction] superior in glory, splendid and excellent, very hospitable and the pleasure of whomever saw it, it was, so to say, the perpetual protection restoring the dammed river to its complete charm, being strong [again]. Announcing his duty of paying homage to the ruler, ever eager for a means to see his Majesty: the [dam] at the renowned [place] Kuśmala was at last using the name “śilamat” (could be called).
 </p>
             </div>
             <div type="commentary">
