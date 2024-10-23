@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>A charter on a stone from Dinoyo (772 Śaka)</title>
+         	<respStmt>
+         		<resp>EpiDoc encoding</resp>
+                 <persName ref="part:argr">
+                    <forename>Arlo</forename>
+                    <surname>Griffiths</surname>
+                </persName>
+         	</respStmt>
+            <respStmt>
+               <resp>intellectual authorship of edition</resp>
+               <persName ref="part:argr">
+                  <forename>Arlo</forename>
+                  <surname>Griffiths</surname>
+               </persName>
+               <persName ref="part:ekba">
+                <name>Eko Bastiawan</name>
+             </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>DHARMA</authority>
+            <pubPlace>Paris</pubPlace>
+            <idno type="filename">DHARMA_INSIDENKDinoyoIIa</idno>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/">
+                  <p>This work is licenced under the Creative Commons Attribution 4.0 Unported Licence. To view a copy of the licence, visit https://creativecommons.org/licenses/by/4.0/ or send
+                            a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.</p>
+                  <p>Copyright (c) 2019-2025 by Arlo Griffiths.</p>
+               </licence>
+                </availability>
+                <date from="2019" to="2025">2019-2025</date>
+            </publicationStmt>
+            <sourceDesc><!-- only the handDesc can be filled in at this stage -->
+                <msDesc><!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/><!-- don't modify this -->
+                    </msIdentifier>
+                    <msContents><!-- describe the intellectual content of an inscription -->
+                        <summary><!-- //// NOT MANDATORY  ////--></summary> <!-- offers the possibility to give a summary of the inscription's content -->
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p><!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EGD 11.2. --></p>
+                            <!-- If you need to identify individual hands (EGD §7.5/) in addition to one or more paragraphs of general palaeographic description, wrap <summary> around the <p> or <p>s above, and, outside <summary>, create <handNote> elements for each hand as follows:
+						<summary><p><p/></summary>
+						<handNote xml:id="Pallava00001_hand1"></handNote>
+						<handNote xml:id="Pallava00001_hand2"></handNote>
+					 -->
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
+            </projectDesc>
+            <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/><!-- UPDATE the link once the release is made official -->
+            <listPrefixDef>
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                    <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
+                </prefixDef>
+                <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
+                    <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_idListMembers_v01.xml</ref> file.</p>
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <revisionDesc>
+            <change who="part:argr" when="2024-10-23" status="draft">started encoding the inscription</change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:space="preserve">
+      <body>
+        <div type="edition" xml:lang="kaw-Latn" rendition="class:38769 maturity:83213">
+<q><lb n="1"/> <g type="ddandaCross"/> <g type="circle"/><g type="ddandaCross"/> śrī<unclear>r as</unclear>tu <g type="ddandaCross"/> svasti śaka-varṣātīta <num value="772">772</num> māsa māgha vāra vas· Umanis· vr̥haspa<lb 
+    n="2" break="no"/>ti dakṣiṇastha tithi <unclear>A</unclear><supplied reason="lost">ṣṭami śu</supplied>kla-pakṣa</q> <q>tatkāla ḍaṁ hvan· <unclear cert="low">tathamapa</unclear> <unclear>hi</unclear>vi<unclear>l</unclear>· <unclear>r</unclear>i hujuṁ manu<unclear>suk·</unclear> sīma vatak· hiliran· ri ḍaṁ hyaṁ guru
+<lb n="3"/>caṇḍik· savaḥ tapa<unclear>k· sapuluḥ mas</unclear>·</q> <q>tatra sākṣī vadvā saṁ pam<unclear>g</unclear>ǝt· <unclear>milu manusuk· manī</unclear>ma tuhān· saṁ Air pāku tuhā-
+<lb n="4" break="no"/>nniṁ manapal· saṁ javuA<unclear>n</unclear>· <gap reason="illegible" unit="character" quantity="1"/>n· ma<gap reason="illegible" unit="character" quantity="2"/> <unclear>saṁ</unclear> vulyan· tuhān·ni kalula tuhānniṁ vadvā rarai saṁ garasaḥ va- 
+<lb n="5" break="no"/>huta saṁ paṁhuñjaṅan· maṁha<unclear>mvin</unclear>· <gap reason="illegible" unit="character" quantity="15" precision="low"/> <unclear>m</unclear>pu <unclear>v</unclear>ī<unclear>hara</unclear> mpu <unclear>vi</unclear>lva mpu śuddhi raman· maṅgalī raman·
+<lb n="6"/>kandal· lavan· bhagavanta na <gap reason="illegible" unit="character" quantity="18" precision="low"/> Anuṁ sākṣīniṁ manusuk· <g type="ddandaCross"/> <g type="ddandaCross"/></q>
+
+<q><lb n="7"/><g type="ddandaCross"/> svasti śaka-varṣātīta <num value="786"><unclear>7</unclear><supplied reason="lost">8</supplied>6</num> <unclear>mā</unclear>sa śravaṇa tithi Aṣṭami kr̥ṣṇa-pakṣa vāra mavulu Umanis· Āditya Āgneya<lb 
+    n="8" break="no"/>stha</q> <q>tatkāla ḍaṁ hvan· A<unclear>gnīsa</unclear> <gap reason="illegible" unit="character" quantity="2"/>· <unclear>r</unclear>i hujuṁ mavaiḥ savaḥ susukkan· tapak· salapan·</q> <q>tatra sākṣī vadvā saṁ pamgǝ<lb 
+    n="9" break="no"/>t· Anuṁ milu manusuk· <unclear>tu</unclear>hān·<unclear>ni</unclear> kanayakān· rakai manayun· mataṇḍa rakai pamrattan· tuhān· vadvā ra<space type="descender"/>rai saṁ paraku<lb 
+    n="10" break="no"/>ran· tuhānni <unclear>ta</unclear> <gap reason="illegible" unit="character" quantity="2"/> <unclear>vaṅka</unclear>l· tuhān·ni lampuran· rakai kalimunnan· citralekha saṁ kr̥<space type="descender"/>ṣṇa paṁhuñjaṅa<lb 
+    n="11" break="no"/>n· <supplied reason="omitted">ḍa</supplied>ma<space type="defect"/>n· va<gap reason="illegible" unit="character" quantity="1"/><unclear>nthi</unclear> <unclear>la</unclear>van· <gap reason="illegible" unit="character" quantity="1"/> saṁ cu<supplied reason="lost">n</supplied>da <gap reason="illegible" unit="character" quantity="2"/><unclear>r</unclear>i <gap reason="illegible" unit="character" quantity="1"/> <unclear>la</unclear>van· vahuta Anuṁ vinkas·-vkas· pati<space type="descender"/>ḥ raman· sr̥ṣṭi
+    <lb n="12"/>maṁhamvin· rama tuha saṁ paru<supplied reason="lost">ja</supplied><unclear>r</unclear>· kahyunnan· saṁ suAl· tuha vanva <gap reason="illegible" unit="character" quantity="3"/><unclear>l·</unclear> brahma sākṣī
+    <lb n="13"/><unclear>vahu</unclear>ta vras· Uval·-Uval· raman<unclear>·</unclear> <seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg>i</seg>ḥ tuhā<supplied reason="lost">n·</supplied>niṁ kalaṁ <gap reason="lost" unit="character" quantity="5" precision="low"/> <supplied reason="lost">paru</supplied>jar· ḍama<lb 
+    n="14" break="no"/>n· puḍi <unclear>va</unclear>riga si malat· panurattan· ḍa mpu hyaṁ vratī kama<seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg>i</seg><seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg>i</seg>li <supplied reason="lost">ḍa</supplied>man·
+    <lb n="15"/>maṅgal<unclear>ī</unclear> <unclear>ḍa</unclear>man· vaṁlus· ḍa<unclear>ma</unclear><supplied reason="lost">n·</supplied> surava hulu vu<supplied reason="lost">A</supplied>ttan· <supplied reason="lost">ḍa</supplied>man·
+<lb n="16"/>kandal· <supplied reason="lost"><g type="ddandaCross"/></supplied> śrīr astu <g type="ddandaCross"/> <g type="dotDouble"/> <g type="ddandaCross"/></q>
+         </div>
+         <div type="apparatus">
+           <!--apparatus encoded as per EGD §9.1, basic elements for apparatus below-->
+               <listApp><!-- one <app> for each apparatus entry -->
+                  <app loc="line"><!-- update the value of @loc.-->
+                     <lem><!-- fill in a lemma here --></lem>
+                     <rdg source="bib:AuthorYear_01"><!-- update the @source value, fill in variant reading here --></rdg>
+                  </app>
+               </listApp>
+         </div>
+         <div type="translation" resp="part:argr">
+ 	<p>(1–3) May there be fortune! Hail! Elapsed Śaka year 772, month of Māgha, days Vās (of the 6-day cycle), Umanis (of the 5-day cycle), Thursday, (the grahacāra) in the south, eighth (?) tithi of the waxing fortnight. That was when ḍaṅ hvan ... (?) at Hujuṅ demarcated as sīma [in] the district of Hiliran, for the venerable master (ḍaṅ hyaṅ guru) of Caṇḍik, ten gold (coins’ worth) of tapak paddy-field. 
+        (3–6) The witnesses to it were: 
+        - the assistant of the official who participated in demarcating to make into sīma
+        - the master [called] saṅ Air Pāku 
+        - the master (4) of dependents (manapal) [called] saṅ Javuan 
+        - ... [called] saṅ Vulyan
+        - the master of servants [and] the master of junior assistants [called] saṅ Garasah 
+        - the vahuta [called] saṅ Paṅhuñjaṅan
+        - the maṅhamvin ... mpu Vīhara, mpu Vilva, mpu Śuddhi
+        - the headman (raman) Maṅgalī, the headman Kandal and the reverend (bhagavanta) Na... were the witnesses of the demarcation.
+        (7–8) Hail! Elapsed Śaka year 786, month of Śravaṇa, eighth tithi of the waning fortnight, days Mavulu (of the 6-day cycle), Umanis (of the 5-day cycle), Sunday, (the grahacāra) in the south-east. That was when ḍaṅ hvan Agnīsa... at Hujuṅ gave paddy-fields to be demarcated, nine (salapan) (gold coins’ worth of) tapak. 
+        (8–11) The witnesses to it were: 
+        - the assistant of the official who participated in demarcating
+        - the master of kanāyakān: the Lord of (rakai) Manayun
+        - the mataṇḍa: the Lord of Pamratan
+        - the master of junior assistants [called] saṅ Parakuran
+        - the master of ta...vaṅkal
+        - master of lampuran: the Lord of Kalimunan
+        - the calligrapher (called) saṅ Kr̥ṣṇa
+        - the paṅhuñjaṅan headman ... and ... saṅ Cunda ... and the priest (vahuta) 
+        (11–XX) Those who had received instructions (vinəkas-vəkas) were:
+        - the patih raman (called) Sr̥ṣṭi,
+        - the maṅhamvin [and] senior headman (? rama tuha) (called) saṅ Parujar Kahyunan (‘Herald of Desire’) [and] saṅ Sual
+        - the village master ... brahma
+        - the witness of the uval-uval rice priest (?) [called] raman ...
+        - the master of the kalaṅ ...
+        - the herald [called] ḍaman Puḍi
+            - the variga [called] si Malat
+        - the scribe (panuratan) [called] ḍa mpu hyaṅ Vratī
+        - the ... headman Maṅgalī, the headman Vaṅlus, the headman Surava
+        - the chief of bridges headman Kandal. 
+        </p>
+         </div>
+         <div type="commentary">
+            <!--commentary encoded as per section §9.3 -->
+         </div>
+        <div type="bibliography">
+	<!--bibliography encoded as per section §9.4 -->
+           <p><!-- formulate epigraphic lemma here, using the items of primary bibliography --></p>
+        	<listBibl type="primary">
+				<bibl n="siglum"/><!-- one <bibl/> per item of primary bibliography. Every entry mentionned in apparatus  should hava a @n to declare its sigla -->
+			</listBibl>
+           <listBibl type="secondary">
+              <bibl/><!-- one <bibl/> per item of secondary bibliography -->
+           </listBibl>
+        </div>
+      </body>
+  </text>
+</TEI>
