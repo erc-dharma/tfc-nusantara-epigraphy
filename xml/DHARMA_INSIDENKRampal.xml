@@ -8,11 +8,15 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Karang Tengah</title>
+            <title>Rampal (ca. 875 CE)</title>
             <respStmt>
                <resp>EpiDoc encoding</resp>
                <persName ref="part:ekba">
                   <name>Eko Bastiawan</name>
+               </persName>
+               <persName ref="part:argr">
+                  <forename>Arlo</forename>
+                  <surname>Griffiths</surname>
                </persName>
             </respStmt>
             <respStmt>
@@ -20,6 +24,9 @@
                <persName ref="part:argr">
                   <forename>Arlo</forename>
                   <surname>Griffiths</surname>
+               </persName>
+               <persName ref="part:ekba">
+                  <name>Eko Bastiawan</name>
                </persName>
             </respStmt>
          </titleStmt>
@@ -48,7 +55,7 @@
                </msContents>
                <physDesc>
                   <handDesc>
-                     <p><!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EG 11.2. --></p>
+                     <p>Script typical of the 9th centruy CE. The text shows repeated eccentric spellings with unexpected consonant gemination and intrusive <foreign>A</foreign> (<foreign>vanvaA</foreign>, <foreign>pamvaAtan</foreign>, <foreign>vannvaA</foreign>, <foreign>paṅadvaAn</foreign>). <foreign>Pepet</foreign> is not or not visibly differentiated from long <foreign>ī</foreign> and occasionally not from short <foreign>i</foreign>, so we tend to take the vowel marker that is expected in the context. Vertical strokes, here represented by <g type="danda"/>, mark the transition from one line to another.                        <!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EG 11.2. --></p>
                      <!-- If you need to identify individual hands (EG §7.5/) in addition to one or more paragraphs of general palaeographic description, wrap <summary> around the <p> or <p>s above, and, outside <summary>, create <handNote> elements for each hand as follows:
 						<summary><p><p/></summary>
 						<handNote xml:id="Pallava00001_hand1"></handNote>
@@ -78,17 +85,19 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
-         <change who="part:ekba" when="2021-04-22" status="draft">created initial encoding of the inscription</change>
+         <change who="part:argr" when="2024-10-30" status="draft">revision of the encoding</change>
+         <change who="part:ekba" when="2021-04-22" status="draft">initial encoding of the inscription</change>
       </revisionDesc>
    </teiHeader>
    <text xml:space="preserve">
       <body>
-         <div type="edition" xml:lang="kaw-Latn">
+         <div type="edition" xml:lang="kaw-Latn" rendition="class:38769 maturity:83213">
 <ab>
-<lb n="01"/>// svasti
+<lb n="01"/><g type="ddandaCross"/> svasti
 </ab>
 <p>
- <lb n="1"/><supplied reason="lost">śaka-</supplied><unclear>varṣa A</unclear>tĭta <num value="794">7<unclear>94</unclear></num> XX <unclear>sa</unclear>ptami śukla-pakṣa, <abbr>ma</abbr>, <abbr>va</abbr>,<abbr> so</abbr>, vāra s<unclear>va</unclear>kărtika-nākṣatra kā<unclear>la ḍaḿ</unclear>
+ <lb n="1"/><supplied reason="lost">śaka-</supplied><unclear>varṣa A</unclear>tĭta <num atLeast="790" atMost="799">7<unclear>9</unclear><gap reason="illegible" unit="character" quantity="1"/></num> <gap reason="illegible" unit="character" quantity="2"/> <supplied reason="lost">mā</supplied>sa <unclear>sa</unclear>ptami śukla-pakṣa, <abbr>ma</abbr>, <abbr>va</abbr>,<abbr> so</abbr>, vāra satabhīśa-nākṣatra ta<unclear>tkāla ḍa</unclear>
+ <!-- argr to resume here -->
 <lb n="2"/> puc<unclear>ch</unclear>a Aṅgăra saṁ dahak· saṁ pikat·, <unclear>saṁ</unclear> gr̥ṁ<unclear>ge</unclear> saṁ gotra saṁ ghabhala saṁ palāgī saṁ <unclear>tuga</unclear>lya saṁ vli sumĭma Ikanaṁ Alas· Iṁ rampal· saṅu su<lb n="3" break="no"/> <unclear>m</unclear>imākan· Ikāṅ alas· <unclear>ka</unclear>la<unclear>ṁ</unclear> matuha sa<unclear>ṁ</unclear>ṅ abihāra saṁ r<unclear>ə</unclear>mvaṁ sa<unclear>ṁ</unclear> candra saṁ piṇḍahan· saṁ sirikan· saṁ kapiṁṅan· <unclear>rā</unclear>ma I kata<unclear>ṇḍā</unclear>n· saṁ pajuAn· kaki halaṁ saṁ hali ka<lb n="4" break="no"/>ki vavuṁṅaḥ saṁ kuḍuk· saṁ tin· <surplus>saṁ tin·</surplus> saṁ vulu saṁ kavḍūt· saṁ parmata saṁ vaddaṁ <unclear>nā</unclear>han· kvaiḥnira rā<unclear>ma milu</unclear> sumīma<supplied reason="lost">ma</supplied><unclear>kan</unclear>·n ikāṅ alas· <unclear>ḍuA r</unclear>i ma<unclear>ṅgu</unclear>s· mas· <abbr>ka</abbr> <num value="1">1</num> <abbr>su</abbr> <num value="1">1</num>, manahurniṁ hutaṁ<lb n="5" break="no"/>niṁ vanuA hul<unclear>u</unclear>nnyan· kavuntu riṁ partaya haji rikaṁ kā<unclear>la</unclear> sa<unclear>ṁ</unclear> kulumpaṁ vanvaA ri skar· rava pili<supplied reason="omitted">ḥ</supplied> mas· ḍapunta siddha m<unclear>ihitika</unclear> laṅṅ umi kalimusan· saṁ gurun· nāhan· sira sākṣiniṁ manĭmākan· dadi saṁ manĭmā<unclear>mo</unclear>t· pajuru<lb n="6" break="no"/>Annanira I kuhuy· sĭma pa<unclear>d</unclear>ahan· paməgat· pamvaAtan· rikaṁ kāla dyaḥ maṁhalaṁṅi tali saṁ giliran· vineḥ mas· <abbr>su</abbr> <num>1</num> <abbr>mā</abbr> <num>4</num> vḍihan· <abbr>yu</abbr> <num value="1">1</num> ken· vlaḥ <num value="1">1</num> pinakapasak· I<surplus>r</surplus>sira An· paṅasə I kuhu<unclear>y</unclear>· Anuṁ papasaṅṅa Inimpə<lb n="7" break="no"/>nnakan· saṁ tali I tkaniṁ vulan· hapit· <abbr>mā</abbr> <num value="1">1</num> <abbr>ku</abbr> <num value="2">2</num> sampunnikaṁ vimagga gahan· kilalān· saṁ tali Ina<unclear>s</unclear>əAn· saṁ partaya haji pasək·-pasək· mas· <abbr>su</abbr> <num value="1">1</num> <abbr>mā</abbr> <num value="4">4</num> vḍihan· <abbr>yu </abbr><num value="1">1</num> ken· vlaḥ <num value="1">1</num>  c<unclear>i</unclear>tralekha vineḥ <abbr>mā</abbr> <num value="1">1</num> maveḥha saṁ manīma manaḍaha 
 <lb n="8"/>I saṁ vahuta patiḥ mva<supplied reason="omitted">ṁ</supplied> rāmanta sa<supplied reason="omitted">ṁ</supplied> mas<unclear>k</unclear>ar· vannvaA kalimusan·, turun· vineḥ <abbr>māsu</abbr> <num value="1">1</num> <abbr>mā</abbr> <num value="4">4</num> vḍihan· <abbr>yu</abbr> <num value="1">1</num> ken· vləḥ <supplied reason="omitted">1</supplied>  kalimusan· lampuran· saṁ dakṣā saṁ <unclear>laḥ</unclear> vi<unclear>neḥ</unclear> <abbr><unclear>mā</unclear></abbr> <num value="4"><unclear>4</unclear></num> vḍihan· <abbr>yu</abbr> <num value="1">1</num> sovaṁ-sovaṁ maṁhiliri saṁ pa<unclear>bḍan</unclear>· vineḥ <abbr>māsu</abbr> <num value="1">1</num> <abbr>ma</abbr> <num value="4">4</num> vḍihan· <abbr>yu</abbr> <num value="1">1</num> ken· vləḥ <num value="1">1</num> 
 <lb n="9"/>maṁhiliri lampuran· saṁ lekan· saṁ halaran· vineḥ <abbr>mā</abbr> <num value="1">1</num> vḍihan· <abbr>yu</abbr> <num value="1">1</num> sovaṁ-sovaṁ  citagakarājaṅga saṁ manimākan· pasak·-pasak· saṁṅ abihāra mas· <num value="1">1</num> vḍihan· <abbr>yu </abbr><num value="1">1</num> saṁ candra <abbr>mā</abbr> <num value="4"><unclear>4</unclear></num> vḍihan· <abbr>yu</abbr> <num value="1"><unclear>1</unclear></num>  saṁ piḍahan· <abbr>mā</abbr> <num value="1">1</num> vḍihan· <abbr>yu</abbr> <num value="1">1</num> saṁ pañceṅan· <abbr>mā</abbr> <num value="1">1</num> vḍihan· <abbr>yu</abbr> <num value="1">1</num> saṁ R̥mvaṁ 
