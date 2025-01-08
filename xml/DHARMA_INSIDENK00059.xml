@@ -84,7 +84,7 @@
       <body>
          <div type="edition" xml:lang="omy-Latn" rendition="class:38769 maturity:83213">
 <p><lb n="1"/><g type="indistinct"/> svasti śaka-varṣātīta <num value="961">961</num> caitra-māsa, tithi tritiya sukla, śukra-vāra, tatkāla juru pā<lb n="2" break="no"/>ṇḍai suryya barbvat· bhaṭāra lokanātha,</p>
-<p xml:lang="san-Latn">Imāni kuśala-mulāṇi sarbvasatva-sādharāṇaṁkr̥<lb n="3" break="no"/>tvā Anuttarāyāṁ samyaksambodhau parināmayami ||</p>
+<p xml:lang="san-Latn">Imāni kuśala-<choice><sic>mulāṇi</sic><corr>mūlāni</corr></choice> sarbvasatva-sā<space type="defect"/>dharāṇaṁ kr̥<lb n="3" break="no"/>tvā Anuttarāyāṁ samyaksambodhau pari<choice><sic>n</sic><corr>ṇ</corr></choice>āma<space type="defect"/><choice><sic>a</sic><corr>ā</corr></choice>mi <g type="indistinct"/></p>
          </div>
          <div type="apparatus">
                <listApp>
@@ -93,8 +93,9 @@
                      <note>There is possibly a liminal sign at the opening of the text, but what appears as such might be accidental. Previous scholars have ignored it.</note>
                   </app>
                   <app loc="1">
-                  <lem><num value="961">961</num></lem>
-                  <note>961: thus Damais; read 946 by Brandes and Kern. See Damais 1955: 207 n. 2.
+                  <lem source="bib:Damais1955_01"><num value="961">961</num></lem>
+                  <rdg source="bib:Damais1955_01">946</rdg>
+                  <note>read 946 by Brandes and Kern. See Damais 1955: 207 n. 2.
                   Brandes et Kern lisaient 9 46 et le fac-similé des К VG justifie quelque peu cette interprétation. Mais les chiffres de l'inscription elle-même que nous avons pu examiner en 1946-1947 en diffèrent totalement (cf. notre Tableau comparatif). Par ailleurs l'étiquette du Musée de Djakarta porte 761 saka. C'est ici le chiffre des centaines qui est mal interprété.
                   
                   </note>
@@ -117,16 +118,39 @@
  	<p>‘Prosperity! Elapsed Śaka year 961, third tithi of the waxing (fortnight) of the month of Caitra, a Friday. At that time the master smith Sūrya manufactured Lord (bhaṭāra) Lokanātha. [He expressed his intention by citing scripture:] ‘These roots of what is good do I share with all beings and turn over to the unsurpassed, perfect enlightenment!’.’</p>
          </div>
          <div type="commentary">
+            <p>Brandes (NBG 26 [1888], 130–13) mentions that a space seems to be left open between the signs satvasā and what he reads dhasaṇaṁ
+(my dharāṇaṁ) in l. 2, and again between nāma and
+yami in l. 3. The presence of these gaps seems to have a
+technical reason, for they correspond to vertical bands
+on the bronze perhaps representing traces of welding.</p>
             <p>In normalized form, the Sanskrit would run: imāni kuśalamūlāni sarvasattvasādhāraṇaṁ kr̥tvā anuttarāyāṁ samyaksambodhau pariṇāmayāmi.</p>
          </div>
         <div type="bibliography">
-           <p><!-- formulate epigraphic lemma here, using the items of primary bibliography --></p>
+           <p>First read, translated and discussed by Brandes (1887); reading of the Sanskrit portion completed by Brandes (1888); Sanskrit part corrected and elucidated by Kern (NBG 27 [1889], 15–16; 28 [1890], 16); 
+           previous sec. lit. listed by Krom (1914: 112–113); 
+        Kern’s contributions reprinted with added notes and a tracing in VG 7 (1917), 142–144; 
+        Old Malay portion read anew and dating formula analyzed by Damais (1955: 207–208);</p>
         	<listBibl type="primary">
+                <bibl n="B">
+                    <ptr target="bib:NBG25_1887"/><citedRange unit="page">176-178</citedRange>
+                    <ptr target="bib:NBG26_1888"/><citedRange unit="page">130-131</citedRange></bibl>
+                <bibl n="B"></bibl>
+                <bibl ></bibl>
 				<bibl n="D"><ptr target="bib:Damais1955_01"/><citedRange unit="page">207-208</citedRange></bibl>
 			</listBibl>
            <listBibl type="secondary">
               <bibl/><!-- one <bibl/> per item of secondary bibliography -->
            </listBibl>
+           <!-- first read, translated and discussed by Brandes (NBG 25 [1887], 176–178); 
+           provenance clarified (NBG 26 [1888], 60); 
+           reading of the Sanskrit portion completed by Brandes (NBG 26 [1888], 130–131);19 Sanskrit part corrected and elucidated by Kern
+(NBG 27 [1889], 15–16; 28 [1890], 16); previous sec. lit.
+listed by Krom (1914: 112–113); Kern’s contributions
+reprinted with added notes and a tracing in VG 7 (1917),
+142–144; Old Malay portion read anew and dating
+formula analyzed by Damais (1955: 207–208); previous
+publications summarized by Perret et al. 2007: 53;
+inventoried PPS-SBU 04, p. 92.-->
         </div>
       </body>
   </text>
