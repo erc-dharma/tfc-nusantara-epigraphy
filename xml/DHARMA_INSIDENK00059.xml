@@ -94,7 +94,7 @@
                   </app>
                   <app loc="1">
                   <lem source="bib:Damais1955_01"><num value="961">961</num></lem>
-                  <rdg source="bib:Damais1955_01">946</rdg>
+                  <rdg source="">946</rdg>
                   <note>read 946 by Brandes and Kern. See Damais 1955: 207 n. 2.
                   Brandes et Kern lisaient 9 46 et le fac-similé des К VG justifie quelque peu cette interprétation. Mais les chiffres de l'inscription elle-même que nous avons pu examiner en 1946-1947 en diffèrent totalement (cf. notre Tableau comparatif). Par ailleurs l'étiquette du Musée de Djakarta porte 761 saka. C'est ici le chiffre des centaines qui est mal interprété.
                   
@@ -126,16 +126,15 @@ on the bronze perhaps representing traces of welding.</p>
             <p>In normalized form, the Sanskrit would run: imāni kuśalamūlāni sarvasattvasādhāraṇaṁ kr̥tvā anuttarāyāṁ samyaksambodhau pariṇāmayāmi.</p>
          </div>
         <div type="bibliography">
-           <p>First read, translated and discussed by Brandes (1887); reading of the Sanskrit portion completed by Brandes (1888); Sanskrit part corrected and elucidated by Kern (NBG 27 [1889], 15–16; 28 [1890], 16); 
+           <p>First read, translated and discussed by Brandes (1887); reading of the Sanskrit portion completed by Brandes (1888); Sanskrit part corrected and elucidated by Kern (1889, 1890); 
            previous sec. lit. listed by Krom (1914: 112–113); 
         Kern’s contributions reprinted with added notes and a tracing in VG 7 (1917), 142–144; 
         Old Malay portion read anew and dating formula analyzed by Damais (1955: 207–208);</p>
         	<listBibl type="primary">
-                <bibl n="B">
-                    <ptr target="bib:NBG25_1887"/><citedRange unit="page">176-178</citedRange>
-                    <ptr target="bib:NBG26_1888"/><citedRange unit="page">130-131</citedRange></bibl>
-                <bibl n="B"></bibl>
-                <bibl ></bibl>
+                <bibl n="B"><ptr target="bib:NBG25_1887"/><citedRange unit="page">176-178</citedRange></bibl>
+                <bibl n="B"><ptr target="bib:NBG26_1888"/><citedRange unit="page">130-131</citedRange></bibl>
+                <bibl n="K"><ptr target="bib:NBG27_1889"/><citedRange unit="page">15-16</citedRange></bibl>
+                <bibl n="K"><ptr target="bib:NBG28_1890"/><citedRange unit="page">116</citedRange></bibl>
 				<bibl n="D"><ptr target="bib:Damais1955_01"/><citedRange unit="page">207-208</citedRange></bibl>
 			</listBibl>
            <listBibl type="secondary">
