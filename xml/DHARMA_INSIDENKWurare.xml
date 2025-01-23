@@ -79,6 +79,7 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
+	  	<change who="part:argr" when="2025-01-23" status="draft">added bibl items and rough encoding of translation</change>
          <change who="part:axja" when="2020-11-03" status="draft">Updating toward the encoding template v03</change>
          <change who="part:argr" when="2020-04-14" status="draft">resolved issue #17</change>
          <change who="part:axja" when="2020-03-27" status="draft">adding the handDesc template</change>
@@ -87,8 +88,7 @@
    </teiHeader>
    <text xml:space="preserve">
       <body>
-         <div type="edition" xml:lang="san-Latn">
-            <!--edition encoded as per EG §§2−7-->
+         <div type="edition" xml:lang="san-Latn" rendition="class:38769 maturity:83213">
          	<lg n="1" met="anuṣṭubh">
 		<l n="a"><milestone unit="column" n="A"/><lb n="1"/>// Ādau namāmi sarba-jñaṁ,</l> 
 		<l n="b">jñāna-kāyan tathāgataṁ,</l>
@@ -205,8 +205,7 @@
 	</lg>
          </div>
          <div type="apparatus">
-           <!--apparatus encoded as per EG §9.1, basic elements for apparatus below-->
-               <listApp>
+         <listApp>
                   <app loc="2">
                      <lem source="bib:Kern1917_02">śaka-kālam</lem>
                      <rdg source="bib:Poerbatjaraka1922_01">śāka-kālam</rdg>
@@ -246,16 +245,76 @@
                </listApp>         
          </div>
          <div type="translation" resp="part:argr">
- 	<!--translation encoded as per EG §9.2 -->
+<p rend="stanza" n="1">First I bow to the Omniscient Knowledge-Body, the Tathāgata, who resides in the concealment beyond all skandhas, who transcends the positions of being and non-being,</p>
+	<!-- A reference to the presence of the Buddha in the vulva? 
+	This position discussed by Sanderson 2009.
+	 -->
+
+<p rend="stanza" n="2">I praise him alternatively as Omnipotent, for he is eternally venerable. After that I shall proclaim this illumination of the king’s glory in the Śaka-age.</p>
+<!-- 	Several other translations could be imagined for this stanza, but this one seems to make most sense, and is best in agreement with the actual structure of the text that follows. It avoids assuming the grammatical error of forcing idaṁ (n.) to agree with śakakālam (masc.) that Kern accepts, but to do so it must assume that the -m in śakakālam is the hiatus breaking -m- known in lower registers of Sanskrit, which allows translating as though the text had śakakāla (for śakakāle). Maybe the error of gender assumed by Kern is after all the lesser improbability.
+	Rather take ‘localized’ meaning of śakakāla ‘inscription/decree’ as in Kebon Kopi and Batu Tulis inscriptions. Check meaning of sangkakala in Javanese. -->
+
+<p rend="stanza" n="3">He who (yo) was the most excellent sage of former times, called Ārya Bharāḍa (= Bharāla/Bhaṭāra); [who] was the best of sages insofar as he had gained perfection of wisdom [and] attained the supernatural faculties (of a Buddha: abhijñā).</p>
+<!-- This stanza and the next I take as responses to the announcement in st. I-II that the Tathāgata would be praised in his aspects ‘Omniscient’ (sarvajña) and ‘Omnipotent’ (sarvasiddhi). They simultaneously introduce the human figure Bharāḍa as an embodiment of the Buddha.
+	See Griffiths, Inscriptions of Padang Lawas, on the word bharāḍa (< bhaṭāra); see Hadi Sidomulyo 2009 on this figure. -->
+
+<p rend="stanza" n="4">[He was also known as] the intelligent Great Lord of Yogins, by nature compassionate with living beings; the Teacher of Siddhas, the Great Hero, free of afflictions such as covetousness.</p>
+
+<!-- Now I assume that the ‘illumination of the king’s glory in the Śaka-age’ begins. -->
+<p rend="stanza" n="5">After the division of the land of Yava, that is endowed with mines of jewels, by use of Jar- and Vajra-water, powerful enough to effect the division of the earth,</p>
+	<!-- Cf. the Canggal inscription, st. VII (about dvīpavaraṁ yavākhyam): sampannaṁ kanakākarais. 
+	vajrodaka ‘Vajra-water’ seems to be a common ritual element in Buddhist tantric texts.
+	Cf. Ahirbudhnyasaṁhitā 47-36: homaante kumbhodakena raaj~no.abhi.seka.h / homakarma.ni nirv.rtte tattatkumbhodakaistata.h | yantrapii.the samaaropya raajaanamabhi.secayet || 
+	Cf. Ma;nju;sriimuulakalpa kama.n.daluvidhaana; Vajraavalii, Kalaśādhivāsanavidhi; Sarvavajrodaya, f.52r;
+	SDPT oṁ vajrodaka huṁ ity anenāṣṭottarasahasrābhimantritaṁ caturhuṁkāreṇa cāṣṭaśatābhimantritaṁ kr̥tvā bhagavato vajrahuṁkārasyāgrataḥ saṁsthāpya / praveśadvārābhimukhaṁ ca bahir dvitīyaṁ kalaśaṁ caturhuṁkāreṇāṣṭaśatajaptaṁ sthāpayet / tenodakenātmaśiṣyābhiṣekaṁ kr̥tvā / praveśamudrāṁ baddhvā na bandhayed vā / pravālaṁ jātarūpaṁ ca śaṁkhaṁ muktāmaṇis tathā / sarvaratnāni siṁhīvyāghrīgirikarṇāsahadevāś ceti sarvauṣadhayaḥ / tilān māṣān yavān dhānyān godhūmāṁś cāpi pañcamān / śabdena sarvavrīhīṇāṁ pañca tān upalakṣayet / tad anu catuḥpraṇāmādipūrvakaṁ saṁvaraṁ grāhayitvā vajrayakṣeṇa nīlavastrāṇi parijapya sattvoṣṇīṣeṇa vastraṁ dvārapālair mukhaveṣṭanaṁ vajrakavacenottarīyam ābaddhoṣṇīṣādika ācāryaḥ krodhaterintiryā nīlapuṣpam ādāya / -->
+
+<p rend="stanza" n="6">and working towards opposite ends, of two kings lusting for war, this province of Paṅjalu was for this reason called [the land of] Jāṅgala.</p>
+	<!-- The feminine paṁjaluviṣayā I explain as due to attraction with jānġalā [bhūmir] eṣā. Alternatively, the point of the stanza may be to give the two names of the lands resulting from the split of Yava-land. In that case, the translation might be something like: ‘..., there suddenly was this [land of] Jāṅgala, [and on the other hand the land] said to have Pangjalu as territory’.
+	Or: ... for this reason this Jāṅgalā was considered to have Pangjalu as a province (viṣaya). -->
+
+<p rend="stanza" n="7">But since the king Jayaśrī Viṣṇuvardhana, excellent earth-ruler who had Śrī Jayavardhanī as spouse, protected this [land],</p>
+
+<p rend="stanza" n="8">he whose limbs were pure right from birth, who was compassionate, totally devoted to dharma —, he has caused the delight of (vassal) kings due to his pure glory and valor,</p>
+
+<p rend="stanza" n="9">and has united the land once again — whether it be for the eternal pleasure of the world or for protecting dharma, or again for installing (?) his ancestors, etc.</p>
+	<!-- In this and the preceding verse, I translate the absolutives as finite verbs, as seems to be demanded by the absence of any real finite verb to terminate the sentence, and as sanctioned by the common use of absolutives in this manner in certain registers of Sanskrit. Cf. also st. XVIII-XIX below.
+	Instead of °sthāpanāya, should we emend °stavanāya? Cf. the Maribong inscription: svapitāmahāstavanābhinnāśrantalokapālaka (about Viṣṇuvardhana). -->
+
+<p rend="stanza" n="10">So that (? yathaiva) the sage king of kings (Kr̥tanagara), son of Śrī Harivardhana (i.e. Viṣṇuvardhana) and son of Śrī Jayavardhanī, ruler of the four ‘islands’ (i.e. the whole world),</p>
+	<!-- On the use of synonyms for names, such as Hariv. = Viṣṇuv., see De Casparis, “Date of the Grahi Buddha”, p. 36, where this example is mentioned. -->
+
+<p rend="stanza" n="11">accomplished in all Tattvas (?), best of Dharmaśāstra scholars, intent upon the accomplishment of (monastery/temple) restorations (jīrṇoddhāra), issuer [solely] of edicts in conformity with dharma,</p>
+
+<p rend="stanza" n="12">called Śrī Jñānaśivavajra, endowed with the jewel of intelligence (?, <foreign>cittaratnavibhūṣaṇa</foreign>), whose limbs were purified by the rays of insight, expert in the knowledge of enlightenment,</p>
+	<!-- On the name attributed to the ruler here, see Damais, EEI p. 137 n. 5. -->
+
+<p rend="stanza" n="13">devotedly installed him (i.e., Bharāḍa), who had previously been established (<foreign>pratiṣṭhita</foreign>) [here] himself, at the cremation ground called Vurare, modelled after Mahākṣobhya,</p>
+	<!-- The pronoun taṁ here takes up the relative pronoun yo in st. III. This connection has not been seen by previous scholars, who were hence misled into thinking that the pronoun referred to the son of Viṣṇuvardhana, i.e. Kr̥tanagara. -->
+
+<p rend="stanza" n="14">in the year of the Śaka-king [denoted by] Bhava (11) and Cakra (12) (i.e. 1211), in the month called Asuji, on the fifth of the bright fortnight, and the day called Paniruan, Kalivuan, Wednesday,</p>
+
+<p rend="stanza" n="15">during the <foreign>parva</foreign> (i.e., <foreign>wuku</foreign>) called Sinta, under the <foreign>karaṇa</foreign> hallowed by (the Seer?) Viṣṭi, under the constellation Anurādha, with the sun in the orb of Mahendra,</p>
+
+<p rend="stanza" n="16">in connection with an auspicious conjunction, and at a favorable <foreign>muhūrta</foreign>, the deity of the <foreign>parva</foreign> being called Kubera, joined with (?) the zodiac sign Libra,</p>
+
+<p rend="stanza" n="17">for the eternal benefit of all living beings, but above all (<foreign>prāg eva</foreign>) the king with his sons, grandsons and his wife (or: their wives), for the reason that the land had been unified.</p>
+
+<p rend="stanza" n="18">And I, being his servant called Nādajña, devoid of knowledge and full of delusion, without expertise with regard to dharma works,</p>
+
+<p rend="stanza" n="19">have really achieved the position of dharma surveyor only thanks to his compassion, after I have again saved (?, <foreign>samuddhr̥tya</foreign>, reading uncertain) the Śaka-age, by permission of my king.</p>
+	<!-- My reading for the second half of this stanza is quite different from the readings of my predecessors. 	Rather take ‘localized’ meaning of śakakāla as in Kebon Kopi and Batu Tulis inscriptions. -->
          </div>
          <div type="commentary">
             <!--commentary encoded as per section §9.3 -->
          </div>
         <div type="bibliography">
-	<!--bibliography encoded as per section §9.4 -->
-           <p>First edited by Kern (<bibl rend="omitname"><ptr target="bib:Kern1910_01"/></bibl>), whose article was re-edited with corrections in <bibl><ptr target="bib:Kern1917_02"/><citedRange>187-197</citedRange></bibl><!-- or cite as invididual article with its separate shorttitle? -->; edited again by Poerbatjaraka (<bibl rend="omitname"><ptr target="bib:Poerbatjaraka1922_02"/></bibl>). The subsequent editions published by Chatterjee &amp; Chakravarti (<bibl rend="omitname"><ptr target="bib:Chatterjee+Chakravarti1933_01"/><citedRange>75-78</citedRange></bibl>, with translation into English) and Sircar (<bibl rend="omitname"><ptr target="bib:Sircar1983_01"/><citedRange>700-702</citedRange></bibl>) ignore Poerbatjaraka's work and most of the secondary bibliography. None of the previous editions very accurately represents the punctuation of the original. Re-edited here directly from the stone and from the EFEO estampages; my apparatus is positive only for the significant variant readings observed in the editions by Kern (1917) and Poerbatjaraka.<!-- EFEO n. 2195-2198 --></p>
+           <p>First edited by Kern (<bibl rend="omitname"><ptr target="bib:Kern1910_01"/></bibl>), whose article was re-edited with corrections as <bibl><ptr target="bib:Kern1917_27"/></bibl>; edited again by Poerbatjaraka (<bibl rend="omitname"><ptr target="bib:Poerbatjaraka1922_02"/></bibl>). The subsequent editions published by Chatterjee &amp; Chakravarti (<bibl rend="omitname"><ptr target="bib:Chatterjee+Chakravarti1933_01"/></bibl>, with translation into English) and Sircar (<bibl rend="omitname"><ptr target="bib:Sircar1983_01"/></bibl>) ignore Poerbatjaraka's work and most of the secondary bibliography. None of the previous editions accurately represents the punctuation of the original. Re-edited here by Arlo Griffiths directly from the stone and from the EFEO estampages; the apparatus is positive only for the significant variant readings observed in the editions by Kern (1917) and Poerbatjaraka.<!-- EFEO n. 2195-2198 --></p>
+		   <listBibl type="primary">
+		   <bibl><ptr target="bib:Kern1910_01"/></bibl>
+		   <bibl n="K"><ptr target="bib:Kern1917_27"/></bibl>
+		   <bibl n="P"><ptr target="bib:Poerbatjaraka1922_02"/></bibl>
+		   </listBibl>
            <listBibl type="secondary">
-              <bibl/><!-- one <bibl/> per item of secondary bibliography -->
 <!-- Verbeek 1891: 10-->
 <!-- Brandes NBG 1898 36 81 -->
 <!-- Brandes TBG 1906 48 54 -->
@@ -264,11 +323,14 @@
 <bibl>Krom, <ptr target="bib:OV"/><date>1913</date><citedRange unit="page">34</citedRange></bibl>
 <!-- Bosch T. B. G. 58 blz. 442. -->
 <bibl><ptr target="bib:Bosch1919_01"/><citedRange>442-443</citedRange></bibl>
+<bibl><ptr target="bib:Chatterjee+Chakravarti1933_01"/><citedRange unit="page">75-78</citedRange></bibl>
 <bibl><ptr target="bib:Damais1952_01"/><citedRange unit="page">72-73</citedRange><citedRange unit="item">A.174</citedRange></bibl>
 <bibl><ptr target="bib:Damais1955_01"/><citedRange unit="page">79</citedRange><citedRange unit="item">A.174</citedRange></bibl>
-<!-- Damais -->
-<!-- Nakada -->
-<!-- Hadi Sidomulyo, Gomperts et al. -->
+<bibl><ptr target="bib:Nakada1982_01"/><citedRange unit="page">116-117</citedRange><citedRange unit="item">I.202</citedRange></bibl>
+<bibl><ptr target="bib:Sircar1983_01"/><citedRange unit="page">700-702</citedRange></bibl>
+<bibl><ptr target="bib:Nihom1986_01"/></bibl>
+<bibl><ptr target="bib:HadiSidomulyo2011_01"/></bibl>
+<bibl><ptr target="bib:Gomperts+al2012_01"/></bibl>
            </listBibl>
         </div>
       </body>
