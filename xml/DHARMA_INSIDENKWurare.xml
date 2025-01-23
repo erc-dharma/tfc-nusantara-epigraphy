@@ -208,16 +208,16 @@
          <listApp>
                   <app loc="2">
                      <lem source="bib:Kern1917_27">śaka-kālam</lem>
-                     <rdg source="bib:Poerbatjaraka1922_01">śāka-kālam</rdg>
+                     <rdg source="bib:Poerbatjaraka1922_02">śāka-kālam</rdg>
                   </app>
 	<app loc="3">
                      <lem>śreṣ<choice><orig>ṭ</orig><reg>ṭh</reg></choice>a</lem>
-                     <rdg source="bib:Kern1917_27 bib:Poerbatjaraka1922_01">śreṣṭha</rdg>
+                     <rdg source="bib:Kern1917_27 bib:Poerbatjaraka1922_02">śreṣṭha</rdg>
 	<note>All previous editions silently correct <foreign>ṭ</foreign> to <foreign>ṭh</foreign>. Cf. st. XIII for two clear cases of a proper <foreign>ṣṭh</foreign>, and XV for a clear case of <foreign>ṣṭ</foreign>. There is no doubt the lapicide here engraved <foreign>ṣṭ</foreign>. See also the remarks of Damais (<bibl rend="omitname"><ptr target="bib:Damais1955_01"/><citedRange unit="page">58</citedRange><citedRange unit="note">1</citedRange><citedRange unit="page">79</citedRange><citedRange unit="note">3</citedRange></bibl><!-- how to handle such separate page numbers with separate note numbers? -->) on the distinction <foreign>ṣth/ṣṭ</foreign> in Javanese inscriptions.</note> 
 	</app>
 <app loc="3">
                <lem>bharāḍasaṁjñakaḥ</lem>
-	<rdg source="bib:Kern1917_27 bib:Poerbatjaraka1922_01">bharāḍ abhijñataḥ</rdg>
+	<rdg source="bib:Kern1917_27 bib:Poerbatjaraka1922_02">bharāḍ abhijñataḥ</rdg>
 	<note>Kern notes that the reading of <foreign>i</foreign> (in <foreign>bhi</foreign>) is uncertain, and that the whole word is suspect. Indeed one would expect <foreign>bharāḍābhijñataḥ</foreign>, since the figure’s known name is <foreign>bharāḍa</foreign>, but this would be unmetrical. The stone clearly shows <foreign>saṁ</foreign> instead of <foreign>bhi</foreign> and <foreign>ka</foreign> and instead of <foreign>ta</foreign>, and these new readings solve the textual problem here. The same expression °<foreign>saṁjñaka</foreign> is used by the poet twice in st. XIV.</note>
 </app>
 <app loc="5">
@@ -226,20 +226,20 @@
 </app>
 <app loc="5">
 	<lem>bajrodakena</lem>
-	<rdg source="bib:Kern1917_27 bib:Poerbatjaraka1922_01">vajrodakena</rdg>
+	<rdg source="bib:Kern1917_27 bib:Poerbatjaraka1922_02">vajrodakena</rdg>
 </app>
 <app loc="6">
 <lem>kāṁkṣiṇoḥ</lem>
-<rdg source="bib:Kern1917_27 bib:Poerbatjaraka1922_01">kāṅkṣiṇoḥ</rdg>
+<rdg source="bib:Kern1917_27 bib:Poerbatjaraka1922_02">kāṅkṣiṇoḥ</rdg>
 </app>
 <app loc="6">
 <lem>Etasmāj</lem>
 <rdg source="bib:Kern1917_27">Atasmāj</rdg>
-<rdg source="bib:Poerbatjaraka1922_01">Estasmāj</rdg>
+<rdg source="bib:Poerbatjaraka1922_02">Estasmāj</rdg>
 <note><bibl><ptr target="bib:Bosch1919_01"/></bibl> suggested the reading adopted here. Poerbatjaraka seems to have intended to adopt Bosch' reading but to have become confused, as he wavers in spelling this word (<bibl rend="omitname"><ptr target="bib:Poerbatjaraka1922_02"/><citedRange>434</citedRange></bibl>).</note>
 </app>
 <app loc="7">
-<lem source="bib:Poerbatjaraka1922_01">kin tu</lem>
+<lem source="bib:Poerbatjaraka1922_02">kin tu</lem>
 <rdg source="bib:Kern1917_27">dina</rdg>
 </app>
                </listApp>         
@@ -310,9 +310,9 @@
         <div type="bibliography">
            <p>First edited by Kern (<bibl rend="omitname"><ptr target="bib:Kern1910_01"/></bibl>), whose article was re-edited with corrections as <bibl><ptr target="bib:Kern1917_27"/></bibl>; edited again by Poerbatjaraka (<bibl rend="omitname"><ptr target="bib:Poerbatjaraka1922_02"/></bibl>). The subsequent editions published by Chatterjee &amp; Chakravarti (<bibl rend="omitname"><ptr target="bib:Chatterjee+Chakravarti1933_01"/></bibl>, with translation into English) and Sircar (<bibl rend="omitname"><ptr target="bib:Sircar1983_01"/></bibl>) ignore Poerbatjaraka's work and most of the secondary bibliography. None of the previous editions accurately represents the punctuation of the original. Re-edited here by Arlo Griffiths directly from the stone and from the EFEO estampages; the apparatus is positive only for the significant variant readings observed in the editions by Kern (1917) and Poerbatjaraka.<!-- EFEO n. 2195-2198 --></p>
 		   <listBibl type="primary">
-		   <bibl><ptr target="bib:Kern1910_01"/></bibl>
-		   <bibl n="K"><ptr target="bib:Kern1917_27"/></bibl>
-		   <bibl n="P"><ptr target="bib:Poerbatjaraka1922_02"/></bibl>
+		   	<bibl><ptr target="bib:Kern1910_01"/></bibl>
+		   	<bibl n="K"><ptr target="bib:Kern1917_27"/></bibl>
+		   	<bibl n="P"><ptr target="bib:Poerbatjaraka1922_02"/></bibl>
 		   </listBibl>
            <listBibl type="secondary">
 <!-- Verbeek 1891: 10-->
