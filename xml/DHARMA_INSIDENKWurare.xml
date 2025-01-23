@@ -233,10 +233,10 @@
 <rdg source="bib:Kern1917_02 bib:Poerbatjaraka1922_01">kāṅkṣiṇoḥ</rdg>
 </app>
 <app loc="6">
-<lem source="bib:Bosch1919_01">Etasmāj</lem>
+<lem>Etasmāj</lem>
 <rdg source="bib:Kern1917_02">Atasmāj</rdg>
 <rdg source="bib:Poerbatjaraka1922_01">Estasmāj</rdg>
-<note>Poerbatjaraka seems to have intended to adopt Bosch' reading but to have become confused; see how he wavers in spelling this word, (<bibl rend="omitname"><ptr target="bib:Poerbatjaraka1922_02"/><citedRange>434</citedRange></bibl>).</note>
+<note><bibl><ptr target="bib:Bosch1919_01"/></bibl> suggested the reading adopted here. Poerbatjaraka seems to have intended to adopt Bosch' reading but to have become confused, as he wavers in spelling this word (<bibl rend="omitname"><ptr target="bib:Poerbatjaraka1922_02"/><citedRange>434</citedRange></bibl>).</note>
 </app>
 <app loc="7">
 <lem source="bib:Poerbatjaraka1922_01">kin tu</lem>
