@@ -320,7 +320,7 @@
 <!-- Brandes TBG 1906 48 54 -->
 <!-- Knebel, ROC 1907: 204, 205 -->
 <!-- Krom T. B. G. dl. 52 blz. 191, OV 1914: 206, Krom 1916: 306-307 -->
-<bibl>Krom, <ptr target="bib:OV"/><date>1913</date><citedRange unit="page">34</citedRange></bibl>
+<bibl><ptr target="bib:OV1913"/><citedRange unit="page">34</citedRange></bibl>
 <!-- Bosch T. B. G. 58 blz. 442. -->
 <bibl><ptr target="bib:Bosch1919_01"/><citedRange>442-443</citedRange></bibl>
 <bibl><ptr target="bib:Chatterjee+Chakravarti1933_01"/><citedRange unit="page">75-78</citedRange></bibl>
