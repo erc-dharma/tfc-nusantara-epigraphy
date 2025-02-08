@@ -85,7 +85,7 @@
       <body>
          <div type="edition" xml:lang="omy-Latn" rendition="class:38769 maturity:83213">
 <p><lb n="1"/><g type="indistinct"/> svasti śaka-varṣātīta <num value="961">961</num> caitra-māsa, tithi tritiya sukla, śukra-vāra, tatkāla juru pā<lb n="2" break="no"/>ṇḍai suryya barbvat· bhaṭāra lokanātha,</p>
-<p xml:lang="san-Latn">Imāni kuśala-<choice><sic>mulāṇi</sic><corr>mūlāni</corr></choice> sarbvasatva-sā<space type="defect"/>dharāṇaṁ kr̥<lb n="3" break="no"/>tvā Anuttarāyāṁ samyaksambodhau pari<choice><sic>n</sic><corr>ṇ</corr></choice>āma<space type="defect"/><choice><sic>a</sic><corr>ā</corr></choice>mi <g type="indistinct"/></p>
+<p xml:lang="san-Latn">Imāni kuśala-<choice><sic>mulāṇi</sic><corr>mūlāni</corr></choice> sarbvasatva-sā<space type="defect"/>dharāṇaṁ kr̥<lb n="3" break="no"/>tvā Anuttarāyāṁ samyaksambodhau pari<choice><sic>n</sic><corr>ṇ</corr></choice>āma<space type="defect"/>y<choice><sic>a</sic><corr>ā</corr></choice>mi <g type="indistinct"/></p>
          </div>
          <div type="apparatus">
                <listApp>
@@ -112,15 +112,14 @@
                </listApp>
          </div>
          <div type="translation">
- 	<p>Prosperity! Elapsed Śaka year 961, third tithi of the waxing (fortnight) of the month of Caitra, a Friday. At that time the master smith Sūrya manufactured Lord (bhaṭāra) Lokanātha. [He expressed his intention by citing scripture:] <q>These roots of what is good do I share with all beings and turn over to the unsurpassed, perfect enlightenment!</q>.</p>
+ 	<p>Prosperity! Elapsed Śaka year 961, third <foreign>tithi</foreign> of the waxing <supplied reason="subaudible">fortnight</supplied> of the month of Caitra, a Friday. At that time the master smith Sūrya manufactured Lord (<foreign>bhaṭāra</foreign>) Lokanātha. <supplied reason="explanation">He expressed his intention by citing scripture:</supplied> <q>These roots of what is good do I share with all beings and turn over to the unsurpassed, perfect enlightenment!</q>.</p>
          </div>
          <div type="commentary">
-            <p>The presence of the spaces in lines 2 and 3 seems to have a technical reason, for they correspond to vertical bands
-on the bronze perhaps representing traces of welding.</p>
+            <p>The presence of the spaces in lines 2 and 3 seems to have a technical reason, for they correspond to vertical bands on the bronze perhaps representing traces of welding.</p>
             <p>In normalized form, the Sanskrit would run: <foreign>imāni kuśalamūlāni sarvasattvasādhāraṇaṁ kr̥tvā anuttarāyāṁ samyaksambodhau pariṇāmayāmi</foreign>.</p>
          </div>
         <div type="bibliography">
-           <p>First read, translated and discussed by Brandes (1887); reading of the Sanskrit portion completed by Brandes (1888); Sanskrit part corrected and elucidated by Kern (1889, 1890); Kern’s contributions reprinted with added notes and a tracing (1917); Old Malay part read anew and dating formula analyzed by Damais (1955: 207–208); re-edited and translated by     Griffiths (2014). This digital edition by Arlo Griffiths (2025).</p>
+           <p>First read, translated and discussed by Brandes (1887); reading of the Sanskrit portion completed by Brandes (1888); Sanskrit part corrected and elucidated by Kern (1889, 1890); Kern’s contributions reprinted with added notes and a tracing (1917); Old Malay part read anew and dating formula analyzed by Damais (1955: 207–208); re-edited and translated by Griffiths (2014). This digital edition by Arlo Griffiths (2025).</p>
         	<listBibl type="primary">
                 <bibl n="B"><ptr target="bib:NBG25_1887"/><citedRange unit="page">176-178</citedRange></bibl>
                 <bibl n="B"><ptr target="bib:NBG26_1888"/><citedRange unit="page">130-131</citedRange></bibl>
