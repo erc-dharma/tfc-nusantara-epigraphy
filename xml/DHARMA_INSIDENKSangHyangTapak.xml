@@ -165,7 +165,7 @@ n="D19" break="no"/>rikaṅ <gap reason="illegible" unit="character" quantity="3
             <!--commentary encoded as per section §9.3 -->
          </div>
         <div type="bibliography">
-           <p>The text on the first stone deciphered by Brandes (<bibl><ptr target="bib:NBG28_1890"/></bibl>); the whole inscription then deciphered and translated into Dutch by Pleyte (<bibl rend="omitname"><ptr target="bib:Pleyte1916_01"/></bibl>). Pleyte's edition was reproduced, without any original contributions, in several publications by Hasan Djafar (e.g., <bibl rend="omitname"><ptr target="bib:HasanDjafar2016_01"/></bibl>).</p>
+           <p>The text on the first stone deciphered by Brandes (<bibl><ptr target="bib:NBG28_1890"/></bibl>); the whole inscription then deciphered and translated into Dutch by Pleyte (<bibl rend="omitname"><ptr target="bib:Pleyte1916_01"/></bibl>). Pleyte's edition was reproduced, without any original contributions, in several publications by Hasan Djafar (e.g., <bibl rend="omitname"><ptr target="bib:HasanDjafar2016_01"/></bibl>). Re-edited here by Arlo Griffiths, using Pleyte's plates for stones A and 4, as well as the OD photos 1456–1459 (except 1457, which is unavailable<!-- in Leiden and at Direktorat -->).</p>
         	<listBibl type="primary">
                 <bibl n="B"><ptr target="bib:NBG28_1890"/><citedRange unit="page">14-15</citedRange></bibl>
 				<bibl n="P"><ptr target="bib:Pleyte1916_01"/></bibl>
