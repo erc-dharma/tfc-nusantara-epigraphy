@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Sanhg Hyang Tapak (952 Śaka)</title>
+                <respStmt>
+                    <resp>EpiDoc encoding</resp>
+                    <persName ref="part:argr">
+                        <forename>Arlo</forename>
+                        <surname>Griffiths</surname>
+                    </persName>
+                </respStmt>
+            	<respStmt>
+            		<resp>intellectual authorship of edition</resp>
+            		<persName ref="part:argr">
+            			<forename>Arlo</forename>
+            			<surname>Griffiths</surname>
+            		</persName>
+            	</respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>DHARMA</authority>
+                <pubPlace>Jakarta</pubPlace>
+                <idno type="filename">DHARMA_INSIDENKSangHyangTapak</idno>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
+                            Licence. To view a copy of the licence, visit
+                            https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                            Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                            California, 94041, USA.</p>
+                        <p>Copyright (c) 2019-2025 by Arlo Griffiths.</p>
+                    </licence>
+                </availability>
+                <date from="2019" to="2025">2019-2025</date>
+            </publicationStmt>
+            <sourceDesc><!-- only the handDesc can be filled in at this stage -->
+                <msDesc><!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/><!-- don't modify this -->
+                    </msIdentifier>
+                    <msContents><!-- describe the intellectual content of an inscription -->
+                        <summary><!-- //// NOT MANDATORY  ////--></summary> <!-- offers the possibility to give a summary of the inscription's content -->
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                        <p>The inscription uses two scripts. The first script, used on the first three stones, is that discussed by <bibl><ptr target="bib:Griffiths2012_01"/><citedRange unit="page">207</citedRange></bibl> for several monumental inscriptions from Java and Sumatra. The punctuation signs represented with “,” on these stones are large spirals, as is typical for this script. The other script, used only on the last stone (D.98), is that typical for the corpus of Airlangga inscriptions, as observed by <bibl><ptr target="bib:Damais1955_01"/><citedRange unit="page">87</citedRange>1<citedRange unit="note"></citedRange></bibl>.</p>
+                        <p>It has not been observed by previous scholars that in this inscription the <foreign>layar</foreign> is placed on top of the character after which it is to be pronounced, which foreshadows the orthographic practise of later centuries. We have never seen it in any text as old as this one.</p>
+                        <!-- If you need to identify individual hands (EGD §7.5/) in addition to one or more paragraphs of general palaeographic description, wrap <summary> around the <p> or <p>s above, and, outside <summary>, create <handNote> elements for each hand as follows:
+						<summary><p><p/></summary>
+						<handNote xml:id="Pallava00001_hand1"></handNote>
+						<handNote xml:id="Pallava00001_hand2"></handNote>
+					 -->
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
+            </projectDesc>
+            <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/><!-- UPDATE the link once the release is made official -->
+            <listPrefixDef>
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                    <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
+                </prefixDef>
+                <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
+                    <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_idListMembers_v01.xml</ref> file.</p>
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <revisionDesc>
+            <change who="part:argr" when="2025-02-14" status="draft">started encoding the inscription</change> 
+       </revisionDesc>
+    </teiHeader>
+    <text xml:space="preserve">
+      <body>
+         <div type="edition" xml:lang="kaw-Latn" rendition="class:38769 maturity:83213">
+         <p><milestone type="pagelike" unit="item" n="A"/>
+         <label xml:lang="eng">First stone (D.73)</label>
+<lb n="A1"/> // 0 // svasti śaka-<space type="unclassified"/>varṣātīta <num value="952">952</num>
+<lb n="A2"/>kār<space type="descender"/>ttika-māsa, tithi dvādaśī śukla-pa<lb 
+n="A3" break="no"/>kṣa, <abbr>ha</abbr>, <abbr>ka</abbr>, <abbr>ra</abbr>, vāra tambir·, Iri<lb 
+n="A4" break="no"/>kā divāśanira prahajyan· sūṇḍa, ma<lb 
+n="A5" break="no"/>hāraja śrī jayabh<unclear>ū</unclear>pa<space type="descender"/>ti, jayamana<lb 
+n="A6" break="no"/>hǝn· viṣṇumŭ<unclear>r</unclear>tti samaravijaya, śaka<lb 
+n="A7" break="no"/>la-bhuvaṇa-maṇḍalesvarănindita, 
+<lb n="A8"/>haro-govārdana-vikra<lb 
+n="A9" break="no"/><unclear>motuṁ</unclear>gadeva, ma<milestone type="pagelike" unit="item" n="=B" break="no"/><label xml:lang="eng">Second stone (D.96)</label><lb 
+n="B1" break="no"/>gavay· tǝvǝk· I pūrbva saṁ hyaṁ tapak·
+<lb n="B2"/>ginavay· denira śrī jayabhūpati prahajyan·
+<lb n="B3"/>sūṇḍa, mvaṅ tan· hananiṁ baryya-baryya śīla, I<lb 
+n="B4" break="no"/>rikāṁ lvaḥ tan· paṅalapa Ikān· sesini lvaḥ, 
+<lb n="B5"/>maka<space type="descender"/>hīṅan· saṁ hyaṁ tapak· vatǝs· kapūjān·
+<lb n="B6"/>I hulu, I sor makahīṅan· I saṁ hyaṁ tapak·
+<lb n="B7"/>vatǝs· kapūjān· I vuṅkall a<space type="descender"/>gə:ṁ kāliḥ
+<lb n="B8"/>, mataṅnya<space type="descender"/>n· pinagavayakǝn· pra-
+<lb n="B9"/>sāsti pagǝ-pagǝḥ, maṁmaṁ sapatha, 
+<milestone type="pagelike" unit="item" n="=C"/>
+         <label xml:lang="eng">Third stone (D.97)</label>
+<lb n="C1"/>sumpaḥ denira prahajyan·
+<lb n="C2"/>suṇḍa, lvirnya nihan·
+<lb n="C3"/>, , </p>
+<ab>
+<milestone type="pagelike" unit="item" n="D"/>
+         <label xml:lang="eng">Fourth stone (D.98)</label>
+         <lb n="D01"/><num value="952">952</num></ab>
+<p><lb n="D1"/>‖,  ‖ Indaḥ ta kita kamuṁ hyaṁ hāra Agaṣti  ‖    ‖ pūrbba
+<lb n="D2"/>‖    ‖ dakṣiṇa paścima Uttara madya Agniya neri<lb 
+n="D3" break="no"/>ti bayabya Aiśanya Urddhādaḥ ravi śaśi patala jala pāvaṇa
+<lb n="D4"/>hutāsanāpaḥ bhayu Akāśa teja saṅ hyaṅ mahorātra saddhya dvaya yakṣa rakṣa<lb 
+n="D5" break="no"/>sa piśāca pretasura garuḍa graha kinara mahoraga catvarra lokapāla
+<lb n="D6"/>yama baruṇa kuvera bāśava mvaṅ putra devata pañca kuśikā nandīśvara mahākāla du<lb 
+n="D7" break="no"/>rggādevi Anantasurindra Anakta hyaṅ kalamr̥tyu gaṇa bhūta saṅ prasiddha milu manarīra
+<lb n="D8"/>Umasuki sarvvajanma At R̥ṅyakǝn ikiṅ sapātha samaya sumpah pamaṅmaṅni L̥buni pa<lb 
+n="D9" break="no"/>duka haji I suṇḍa Iri kita kamuṁ hyaṁ kabeḥ <gap reason="illegible" unit="character" quantity="4"/>n· pakā<lb 
+n="D10" break="no"/>dya Umalapa Ikan <gap reason="illegible" unit="character" quantity="4"/> i saṁ hyaṁ tapak· ya patyananta ya kamuṁ hyaṁ denta<lb 
+n="D11" break="no"/>t· patīya, sivak· kapālanya cucup utǝknya bǝlaḥ dadanya Inum· raḥnya
+<lb n="D12"/>rantan· Ususnya vǝkasakǝn· prānāntika <gap reason="illegible" unit="character" quantity="4"/> i saṁ hyaṁ kabeḥ 
+<lb n="D13"/>tāvat· hana vvaṁ bari-bari śila Irikaṅ ivak i saṁ hyaṁ tapak· Apan·
+<lb n="D14"/>Ivak· pakan· parṇnaḥnya kapaṅguh i saṁ hyaṁ <gap reason="illegible" unit="character" quantity="4"/> manǝḥ kaliliran·
+<lb n="D15"/>paknanya katke dlahaniṁ dlaha <gap reason="illegible" unit="character" quantity="5"/>n· paduka haji I suṇḍa Umadǝ<lb 
+n="D16" break="no"/>makna kaḍarmman· <gap reason="illegible" unit="character" quantity="2"/> iṅ samaṅkana vka vet· paduka haji I suṇḍa saṅ guma<lb 
+n="D17" break="no"/>nti riṅ ku<space type="descender"/>lit· Ika ta kamanaḥ ikanaṁ <gap reason="illegible" unit="character" quantity="2"/> I saṁ hyaṁ tapak·, makatǝpa
+<lb n="D18"/>lvaḥ vatǝsnya I hulu I saṁ hyaṁ tapak· I <gap reason="illegible" unit="character" quantity="3"/> I hilir· mahīṅan· I<lb 
+n="D19" break="no"/>rikaṅ <gap reason="illegible" unit="character" quantity="3"/> umpi Iṁ vuṅkal· gḍe kaliḥ, I vruḥhanta kamuṅ
+<lb n="D20"/>hyaṅ kabeḥ ‖, ‖</p>
+</div>
+         <div type="apparatus">
+               <listApp>
+                  <!-- <app loc="A2">
+                  <lem>kār<space type="descender"/>ttika-</lem>
+                  <note>The layar stands in Indonesian position.</note>
+                  </app> -->
+                  <app loc="B3">
+                  <lem>hananiṁ</lem>
+                  <rdg source="bib:Pleyte1916_01">hanani</rdg>
+                  </app>
+                  <app loc="D01">
+                  <lem><num value="952">952</num></lem>
+                  <note>The repetition of the date at the top of the fourth stone was first observed by  <bibl><ptr target="bib:Damais1955_01"/><citedRange unit="page">87</citedRange><citedRange unit="note">1</citedRange></bibl>.</note>
+                  </app>
+                  <app loc="D13">
+                  <lem>vvaṁ</lem>
+                  <rdg source="bib:Pleyte1916_01">vvoṁ</rdg>
+                  </app>
+                  <app loc="D15">
+                  <lem source="bib:Pleyte1916_01">Umadǝ<lb n="D16" break="no"/>makna</lem>
+                  <note>Here one expects <foreign>Umadǝgakna</foreign>.</note>
+                  </app>
+               </listApp>
+         </div>
+         <div type="translation">
+ 	<!--translation encoded as per EGD §9.2 -->
+         </div>
+         <div type="commentary">
+            <!--commentary encoded as per section §9.3 -->
+         </div>
+        <div type="bibliography">
+           <p>The text on the first stone deciphered by Brandes (<bibl><ptr target="bib:NBG28_1890"/></bibl>); the whole inscription then deciphered and translated into Dutch by Pleyte (<bibl rend="omitname"><ptr target="bib:Pleyte1916_01"/></bibl>). Pleyte's edition was reproduced, without any original contributions, in several publications by Hasan Djafar (e.g., <bibl rend="omitname"><ptr target="bib:HasanDjafar2016_01"/></bibl>).</p>
+        	<listBibl type="primary">
+                <bibl n="B"><ptr target="bib:NBG28_1890"/><citedRange unit="page">14-15</citedRange></bibl>
+				<bibl n="P"><ptr target="bib:Pleyte1916_01"/></bibl>
+			</listBibl>
+           <listBibl type="secondary">
+           <!-- Brandes 1913: 262, no. CXXXI -->
+           <bibl><ptr target="bib:Damais1949_01"/><citedRange unit="page">16-18</citedRange><citedRange unit="section">V</citedRange></bibl>
+            <bibl><ptr target="bib:Damais1952_01"/><citedRange unit="page">80-81</citedRange><citedRange unit="item">B.1</citedRange></bibl>
+              <bibl><ptr target="bib:Damais1955_01"/><citedRange unit="page">86-87</citedRange></bibl>
+              <bibl><ptr target="bib:HasanDjafar2016_01"/><citedRange unit="page">99-104</citedRange></bibl>
+           </listBibl>
+        </div>
+      </body>
+  </text>
+<!-- 
+    Transcription Brandes de la première pierre dans NBG, 28, 1890 : 15.
+    Transcription complète de Pleyte dans TBG, 5 7, 1 9 i 5 : 2 о i-2 1 8 avec traduction,
+notes et photographies de D. 7З et D. 98.
+
+tambir: Encore un décalage du nom du wuku pour lequel nous renvoyons à l'Appendice 9.
+
+Les éléments de cette date à la javanaise, la seule de son espèce retrouvée en pays
+soundanais, se réduisent ainsi :
+NL le 3o-ix-io3o EC. Le 12 éukla est le n-x-io3o EC.
+Début d'un cycle le 3 î-v-i 0З0 EC. HA KA RA en est le i ЗД" jour, soit le 1 1
+octobre 10З0 EC.[1]
+
+[1] Nous avons consacré à cette inscription notre Ep. Aant., V. Nous croyons qu'il faut considérer
+Sri Jayabhûpati comme un vice-roi javanais. En effet, alors que les autres inscriptions trouvées en pays
+soundanais sont soit en sanskrit, soit en vieux soundanais, celle-ci est en vieux javanais. Les détails
+calendériques (uniques pour une inscription de Sunda) sont purement javanais ainsi que le style
+de tout le document. Enfin récriture est typique de l'Est de Java et de Bali et nous fournit un des
+plus anciens exemples de ce que l'on a appelé «écriture carrée de Kadiri». Nous ne pouvons donc
+accepter l'opinion de Krom qui voyait dans ce document (HJGi : 260-262) simplement la preuve
+d'une influence javanaise «car, dit-il, il ne peut être question en 10З0 de domination javanaise».
+Ce serait évidemment possible, mais on aimerait avoir des arguments plus décisifs.
+Nous avons omis de faire remarquer que la quatrième pierre (D. 9 8) qui contient la formule de
+malédiction n'est pas en écriture «carrée я mais dans une variété de l'écriture du temps de Airlangga.
+Le millésime est répété au-dessus de ce texte et les chiffres (d'ailleurs assez effacés) diffèrent
+complètement de ceux de la première pierre.
+
+-->
+</TEI>
