@@ -8,9 +8,13 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Maribong</title>
+            <title>The Maribong Charter of Wisnuwardhana (1170 Śaka)</title>
             <respStmt>
                <resp>EpiDoc encoding</resp>
+            	<persName ref="part:argr">
+            		<forename>Arlo</forename>
+            		<surname>Griffiths</surname>
+            	</persName>
                <persName ref="part:ekba">
                   <name>Eko Bastiawan</name>
                </persName>
@@ -30,7 +34,7 @@
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/">
                   <p>This work is licenced under the Creative Commons Attribution 4.0 Unported Licence. To view a copy of the licence, visit https://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.</p>
-                  <p>Copyright (c) 2019-2025 by Eko Bastiawan &amp; Arlo Griffiths</p>
+                  <p>Copyright (c) 2019-2025 by Arlo Griffiths.</p>
                </licence>
             </availability>
             <date from="2019" to="2025">2019-2025</date>
@@ -78,6 +82,7 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
+         <change who="part:argr" when="2025-02-217" status="draft">further revisions</change>
          <change who="part:axja" when="2020-11-03" status="draft">Updating toward the encoding template v03</change>
          <change who="part:ekba" when="2020-10-30" status="draft">updated the edition and the bibliography</change>
          <change who="part:ekba" when="2020-04-10" status="draft">updated the line numbering</change>
@@ -99,44 +104,37 @@
 <pb n="1r"/><!--Blank outer page.-->
 <p><pb n="1v"/>
  <lb n="1v1"/><g type="ddandaOrnate"/> Avighnam astu,<g type="ddandaOrnate"/> svasti śrī śaka-varṣātīta, <num value="1170">1170</num>, Aśuji-māsa, tithi, pañcamī śukla-pakṣa, <abbr>vā</abbr>,
-<lb n="1v2"/><abbr>ka</abbr>, <abbr>vr̥</abbr>, vāra, laṅkir·, Uttarāsāḍa-nakṣatra, viśva-devatā, māhendra-maṇḍala, gaṇḍa-yoga, vairā<lb n="1v3" break="no"/>jya-muhūrtta, baruṇa-parvveśa, valava-karaṇa, mr̥ccika-rāśī, </p>
+<lb n="1v2"/><abbr>ka</abbr>, <abbr>vr̥</abbr>, vāra, laṅkir·, Uttarāsāḍa-nakṣatra, viśva-devatā, māhendra-maṇḍala, gaṇḍa-yoga, vairā<lb n="1v3" break="no"/>jya-muhūrtta, baruṇa-parvveśa, valava-karaṇa, mr̥ccika-rāśī,</p>
  <p part="I">Irika divasany ājñā <foreign xml:lang="san-Latn">śrī sakala-<choice><sic>kha</sic><corr>la</corr></choice>lană<lb n="1v4" break="no"/>-kula-madhu-<choice><sic>mārdda</sic><corr>marda</corr></choice>na-kamalekṣaṇa</foreign>, nāmābhiṣeka śrī jayaviṣṇuvarddhana, saṁ mapañji sminiṅ rāt·,
- <foreign xml:lang="san-Latn">sva-pi<lb n="1v5" break="no"/>tāmahāstavanābhinnāśrănta-loka-pālaka</foreign>, kumonakən Irikaṁ vanva I mariboṁ, vatək atagan· jipaṁ,
-<lb n="1v6"/>pagavayakna saṁ hyaṅ ājñā haji praśāsti, mataṇḍa śrī jayaviṣṇuvarddhana-lāñcana, Umuṅgve salaḥ sikiniṁ tāmra ri</p>
+ <foreign xml:lang="san-Latn">sva-pi<lb n="1v5" break="no"/>tāmahā-stavanābhinnāśrănta-loka-pālaka</foreign>, kumonakən Irikaṁ vanva I mariboṁ, vatək atagan· jipaṁ,
+<lb n="1v6"/>pagavayakna saṁ hyaṅ ājñā haji praśāsti, mataṇḍa śrī-jayaviṣṇuvarddhana-lāñcana, Umuṅgve salaḥ sikiniṁ tāmra ri</p>
          </div>
          <div type="apparatus">
-           <!--apparatus encoded as per EG §9.1, basic elements for apparatus below-->
-               <listApp><!-- one <app> for each apparatus entry -->
-                  <app loc="1v4">
-                      <lem><orig>mārddana</orig></lem>
-                      <note>Long <foreign>a</foreign> before <foreign>r</foreign> and geminate consonant seems to be a frequent feature in the Majapahit period inscriptions, see for instance <ref target="DHARMA_INSIDENKWaringinPitu.xml">Waringin Pitu</ref>.</note>
-                      </app>
+               <listApp>
+                <!--  <app loc="1v4">
+                       <lem><choice><sic>mārdda</sic><corr>marda</corr></choice>na-</lem>
+                      <note>Long <foreign>a</foreign> before <foreign>r</foreign> and geminate consonant seems to be a frequent feature in the Majapahit period inscriptions, see for instance <ref target="DHARMA_INSIDENKWaringinPitu.xml">Waringin Pitu</ref>.</note> 
+                      </app> -->
                    <app loc="1v6">
                      <lem>ri</lem>
-                      <note>The  word broken off here was <foreign>ripta</foreign>. For the full formula, see <ref target="DHARMA_INSIDENKAirAsih.xml">Air Asih</ref> a3, <ref target="DHARMA_INSIDENKParablyan.xml">Parablyan</ref> a2, <ref target="Sukhamerta.xml">Sukhāmr̥ta</ref> 10b4.</note>
+                      <note>The  word broken off here was <foreign>ripta</foreign>. For the full formula, see <ref target="DHARMA_INSIDENKAirAsih.xml">Air Asih</ref> a3, <ref target="DHARMA_INSIDENKParablyan.xml">Parablyan</ref> a2, <ref target="Sukhamerta.xml">Sukhamerta</ref> 10b4, <ref target="Canggu.xml">Canggu</ref> 3v5–6.</note>
+<!--  muṅgv i caṅgu, pagavayakna saṅ hyaṅ ājñā haji praśā(3v6)sti, rājasanagaralāñcaṇa, muṅgve salah sikiniṅ tāmra, riptopala -->
                   </app>
                </listApp>
          </div>
          <div type="translation" resp="part:argr">
  	<!--translation encoded as per EG §9.2 -->
 	<p>Let there be no obstacle! Hail! Fortune! In the elapsed Śaka year 1170, month of Asuji, fifth <foreign>tithi</foreign> of the waxing fortnight, Vās, Kalivon, Thursday, <supplied reason="explanation"><foreign>wuku</foreign></supplied> Laṅkir; lunar mansion Uttarāṣāḍha; deity Viśva; <foreign>maṇḍala</foreign> in the East; conjunction Gaṇḍa; <foreign>muhūrta</foreign> Vairājya; regent of the astronomical node Varuṇa; <foreign>karaṇa</foreign> Valava; zodiac sign Scorpio.</p>
-	<p>That was the time that the decree of the illustrious <supplied reason="explanation">śrī</supplied> lotus-eyed destroyer <supplied reason="explanation"><foreign>mardana</foreign></supplied> of Madhu <supplied reason="explanation">Śrī Kr̥ṣṇa</supplied> for all womenfolk <supplied reason="explanation"><foreign>lalanākula</foreign></supplied>, whose consecration name is Śrī Jaya Viṣṇuvardhana, the one with the byname Sminiṅ Rāt <supplied reason="explanation">‘Seed of the World’</supplied>, untiring world protector not different from the eulogy<!-- or read sthāpana, with Wurare st. IX? --> of his own grandfather, ordered with regard to the village Mariboṅ, belonging to the conscription <supplied reason="explanation"><foreign>vatək atagan</foreign></supplied> of Jipaṅ, that a holy royal decree charter be made with the emblem of Śrī Jaya Viṣṇuvardhana, to remain on one or the other of <supplied reason="explanation">the possible materials, viz.</supplied> copper, <supplied reason="lost">palm-leaf</supplied>
-</p>
+	<p>That was the time that the decree of the <q>illustrious <supplied reason="explanation"><foreign>śrī</foreign></supplied> lotus-eyed destroyer <supplied reason="explanation"><foreign>mardana</foreign></supplied> of Madhu <supplied reason="explanation">Śrī Kr̥ṣṇa</supplied> for all womenfolk <supplied reason="explanation"><foreign>lalanā-kula</foreign></supplied></q>, whose consecration name is Śrī Jaya Viṣṇuvardhana, the one with the byname Sminiṅ Rāt <supplied reason="explanation"><q>Seed of the World</q></supplied>, <q>untiring world protector not different from the eulogy<!-- or read sthāpana, with Wurare st. IX? pitrādi-sthāpanāya ca? but Warunggahan kastavaniṁ candrodaya, Āpan· riṁ rātrī juga Ikān pamaṅun· hr̥dāyanandana, ta(6v2)n kadi kastavān· śrī mahārāja,
+ --> of his own grandfather</q>,<note>The meaning of this epithet is not quite clear. If the reading <foreign>stavanā-</foreign> is correct, then there is perhaps a parallel to be found in <ref target="DHARMA_INSIDENKWarunggahan.xml">Warunggahan</ref> 6v1 <foreign>tan kadi kastavān· śrī mahārāja</foreign>. On the other hand, an emendation <foreign>sthāpanā-</foreign> is easily conceivable, and in that case we may have an echo of <ref target="DHARMA_INSIDENKWurare.xml">Wurare</ref>, st. IX <foreign>pitrādi-sthāpanāya</foreign>.</note> ordered with regard to the village Mariboṅ, belonging to the conscription <supplied reason="explanation"><foreign>vatək atagan</foreign></supplied> of Jipaṅ,<note>The expression  <foreign>vatak atagan</foreign> occurs also in the charters Kancana, Maribong, Tuhanyaru, and Katatwan.</note> that a holy royal decree charter be made for them <supplied reason="explanation"><foreign>pa-gavay-akna</foreign></supplied> with the emblem of Śrī Jaya Viṣṇuvardhana, to remain on one or the other of <supplied reason="explanation">the possible materials, viz.</supplied> copper, <supplied reason="lost">palm-leaf</supplied></p>
          </div>
          <div type="commentary">
-            <!--commentary encoded as per section §9.3 -->
-<p>The toponym Maribong  (1v.4)  also appears in other inscriptions, such as Canggu 5v1: <foreign>I maR̥bo, I turan, I jipaṁ</foreign>.</p>
-<p>svapitāmahāstavanābhinnāśrăntalokapālaka: cf. Wurare st. VIII?</p>
+<p>The toponyms Mariboṅ and Jipaṅ also appear in the <ref target="DHARMA_INSIDENKCanggu.xml">Canggu</ref> charter (5v1): <foreign>I maR̥bo, I turan, I jipaṁ</foreign>.</p>
          </div>
         <div type="bibliography">
-	<!--bibliography encoded as per section §9.4 -->
-            <p>First edited, probably by F.D.K. Bosch, in <bibl><ptr target="bib:OV1918"/></bibl>; re-edited by Damais (<bibl rend="omitname"><ptr target="bib:Damais1955_01"/></bibl>); edited again by Boechari (<bibl rend="omitname"><ptr target="bib:Boechari1985-1986_01"/></bibl>); re-edited here by Arlo Griffiths from a photo of the rubbing kept in Leiden.</p>
+            <p>First edited, apparently by Bosch, in <bibl><ptr target="bib:OV1918_01"/></bibl>; re-edited by Damais (<bibl rend="omitname"><ptr target="bib:Damais1955_01"/></bibl>); edited again by Boechari (<bibl rend="omitname"><ptr target="bib:Boechari1985-1986_01"/></bibl>); re-edited here by Arlo Griffiths from <ref target="http://hdl.handle.net/1887.1/item:1915155">a photo of the rubbing kept in Leiden</ref>.</p>
            <listBibl type="primary">
-		<bibl n="FDKB">
-			<ptr target="bib:OV1918"/>
-			<citedRange unit="appendix">Q</citedRange>
-			<citedRange unit="page">169</citedRange>
-		</bibl>
+		<bibl n="B"><ptr target="bib:Bosch1918_01"/></bibl>
 		<bibl n="D">
 		   <ptr target="bib:Damais1955_01"/>
                                                                            <citedRange unit="page">197-199</citedRange>
@@ -149,6 +147,7 @@
                                                                         </bibl>
            </listBibl>
              <listBibl type="secondary">
+             <bibl><ptr target="bib:NBG57_1919"/><citedRange unit="page">196</citedRange><citedRange unit="item">E 55</citedRange></bibl>
              <bibl><ptr target="bib:Damais1952_01"/><citedRange unit="page">72-73</citedRange><citedRange unit="item">A.171</citedRange></bibl>
              <bibl><ptr target="bib:NurhadiMagetsari+al1979_01"/><citedRange>161</citedRange></bibl>
              <bibl><ptr target="bib:Eade+Gislen2000_01"/><citedRange>97-99</citedRange></bibl>
