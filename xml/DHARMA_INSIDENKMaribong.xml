@@ -52,7 +52,7 @@
                </msContents>
                <physDesc>
                   <handDesc>
-                  	<p>Script and spelling typical of the charters of the late Majapahit period<!--(Damais 1955: 197; Boechari 1985–86: 117. Cf. Tuhañaru, Waringin Pitu. --> Difference is made between <foreign>ḍ</foreign> (1v2 <foreign>Uttarāṣāḍa</foreign>) and <foreign>dh</foreign> (1v4 <foreign>madhu</foreign>).<!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EG 11.2. --></p>
+                  	<p>Script and spelling typical of the charters of the late Majapahit period. <!--(Damais 1955: 197; Boechari 1985–86: 117. Cf. Tuhañaru, Waringin Pitu. --> Difference is made between <foreign>ḍ</foreign> (1v2 <foreign>Uttarāṣāḍa</foreign>) and <foreign>dh</foreign> (1v4 <foreign>madhu</foreign>).<!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EG 11.2. --></p>
                      <!-- If you need to identify individual hands (EG §7.5/) in addition to one or more paragraphs of general palaeographic description, wrap <summary> around the <p> or <p>s above, and, outside <summary>, create <handNote> elements for each hand as follows:
 						<summary><p><p/></summary>
 						<handNote xml:id="Pallava00001_hand1"></handNote>
@@ -132,7 +132,7 @@
 <p>The toponyms Mariboṅ and Jipaṅ also co-occur in the <ref target="DHARMA_INSIDENKCanggu.xml">Canggu</ref> charter (5v1): <foreign>I maR̥bo, I turan, I jipaṁ</foreign>.</p>
          </div>
         <div type="bibliography">
-            <p>First edited, apparently by Bosch, in <bibl><ptr target="bib:OV1918_01"/></bibl>; re-edited by Damais (<bibl rend="omitname"><ptr target="bib:Damais1955_01"/></bibl>); edited again by Boechari (<bibl rend="omitname"><ptr target="bib:Boechari1985-1986_01"/></bibl>); re-edited here by Arlo Griffiths from <ref target="http://hdl.handle.net/1887.1/item:1915155">a photo of the rubbing kept in Leiden</ref>.</p>
+            <p>First edited, apparently by Bosch, in <bibl><ptr target="bib:D"/></bibl>; re-edited by Damais (<bibl rend="omitname"><ptr target="bib:Damais1955_01"/></bibl>); edited again by Boechari (<bibl rend="omitname"><ptr target="bib:Boechari1985-1986_01"/></bibl>); re-edited here by Arlo Griffiths from <ref target="http://hdl.handle.net/1887.1/item:1915155">a photo of the rubbing kept in Leiden</ref>.</p>
            <listBibl type="primary">
 		<bibl n="B"><ptr target="bib:Bosch1918_01"/></bibl>
 		<bibl n="D">
