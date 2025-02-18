@@ -100,8 +100,8 @@
 <pb n="1r"/><!--Blank outer page.-->
 <p xml:lang="san-Latn"><pb n="1v"/>
 <lb n="1v1"/><g type="ddandaOrnate"/><g type="circleTarget"/><g type="ddandaOrnate"/> Om̐ namaś śivāya <g type="ddandaOrnate"/></p> <p>svasti śaka-varṣātĭta, <num value="1188">1188</num>, māgha-māsa, tīthi, trayodaśī śu<lb n="1v2" break="no"/>kla-pakṣa,
-<abbr>vā</abbr>, <abbr>va</abbr>, <abbr>Aṁ</abbr>, vāra, mahatal·, dakṣiṇastha-grahacāra, puṣ<choice><sic>pā</sic><corr>ya</corr></choice>-nakṣatra, jīva-devatā, Ā⌈<lb n="1v3" break="no"/>gneya-maṇḍala, śobhana-yauga, baruṇa-muhūrtta, Agni-parvveśa, tetila-kāraṇa, kumbha-rāśi,</p>
-<p part="I">I<lb n="1v4" break="no"/>rika divaśany ājñā śrī mahārāja, <foreign xml:lang="san-Latn">śrī lauka-vijaya, praśāsta-jagad-īśvarānindita-parăkramānivā<lb n="1v5" break="no"/>ryya-vĭryyālaṅghanĭya</foreign>, kr̥tanagara nāma-rājābhiṣeka, makamaṅgalyājñā <foreign xml:lang="san-Latn">śrī sakala-rājāśra<g type="squiggleVertical">§</g><lb n="1v6" break="no"/>ya,
+<abbr>vā</abbr>, <abbr>va</abbr>, <abbr>Aṁ</abbr>, vāra, mahatal·, dakṣiṇastha-grahacāra, puṣ<choice><sic>pā</sic><corr>ya</corr></choice>-nakṣatra, jīva-devatā, Ā⌈<lb n="1v3" break="no"/>gneya-maṇḍala, śobhana-y<seg rend="check">au</seg>ga, baruṇa-muhūrtta, Agni-parvveśa, tetila-kāraṇa, kumbha-rāśi,</p>
+<p part="I">I<lb n="1v4" break="no"/>rika divaśany ājñā śrī mahārāja, <foreign xml:lang="san-Latn">śrī l<seg rend="check">au</seg>ka-vijaya, praśāsta-jagad-īśvarānindita-parăkramānivā<lb n="1v5" break="no"/>ryya-vĭryyālaṅghanĭya</foreign>, kr̥tanagara nāma-rājābhiṣeka, makamaṅgalyājñā <foreign xml:lang="san-Latn">śrī sakala-rājāśra<g type="squiggleVertical">§</g><lb n="1v6" break="no"/>ya,
 samast<choice><orig>ā</orig><reg>a</reg></choice>-kṣatriya-cūḍāmaṇi-patita-caraṇāravinda</foreign>, bhaṭāra jaya śrī viṣṇuvarddhana nāma-devā<lb n="1v7" break="no"/>bhiṣeka, tinaḍaḥ de rakryan mahāmantrī hiṇo, rakryan mahāmantrī sirikan·, rakryan mahāmantrī halu
 <lb n="1v8"/>, Umisor i para taṇḍa rakryan riṁ pakirakirān· makabehan·, rakryan mapatiḥ, rakryan dəmuṁ, rakrya<lb n="1v9" break="no"/>n kanuruhan saṁ mantrī nayavid iṅgitajñā, mapasəṅgahan saṁ rāmapati, tan kavuntat· saṁ pamgət i tirvan·
 <lb n="1v10"/>, saṁ pamgət iṅ kaṇḍamuhi, saṁ pamgət i maṁhuri, I pisorny ājñā śrī mahārāja, An makamaṅgalyājñā bha</p>
@@ -114,7 +114,7 @@ samast<choice><orig>ā</orig><reg>a</reg></choice>-kṣatriya-cūḍāmaṇi-pat
                       <rdg source="bib:Krom1911_04 bib:Damais1955_01 bib:Boechari1985-1986_01">puṣpānakṣatra</rdg>
                   </app>
                   <app loc="1v3">
-                      <lem>°yauga</lem>
+                      <lem>-yauga</lem>
                       <rdg source="bib:Krom1911_04 bib:Damais1955_01 bib:Boechari1985-1986_01">°yoga</rdg>
                       <note>The vocalization on <foreign>y</foreign> here is clearly different from that in <foreign>trayodaśī</foreign> in line 1.</note>
                       </app>
