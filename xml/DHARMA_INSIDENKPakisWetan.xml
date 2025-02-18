@@ -52,7 +52,7 @@
                </msContents>
                <physDesc>
                   <handDesc>
-                     <p>Script typical of the charters of the Singasari period.<!-- If you need to identify individual hands (EG §7.5/) in addition to one or more paragraphs of general palaeographic description, wrap <summary> around the <p> or <p>s above, and, outside <summary>, create <handNote> elements for each hand as follows:
+                  	<p>Script typical of the charters of the Singasari period. The vowel marker on 1v3 <foreign>yoga</foreign> and 1v4 <foreign>loka</foreign> involves a tarung extending over the top of the <foreign>akṣara</foreign> that is not seen in 1v1 <foreign>trayodaśī</foreign>, 1v3 <foreign>śobhana</foreign>, 1v8 <foreign>Umisor</foreign>, and other instances of vowel <foreign>o</foreign>.<!-- If you need to identify individual hands (EG §7.5/) in addition to one or more paragraphs of general palaeographic description, wrap <summary> around the <p> or <p>s above, and, outside <summary>, create <handNote> elements for each hand as follows:
 						<summary><p><p/></summary>
 						<handNote xml:id="Pallava00001_hand1"></handNote>
 						<handNote xml:id="Pallava00001_hand2"></handNote>
@@ -100,27 +100,25 @@
 <pb n="1r"/><!--Blank outer page.-->
 <p xml:lang="san-Latn"><pb n="1v"/>
 <lb n="1v1"/><g type="ddandaOrnate"/><g type="circleTarget"/><g type="ddandaOrnate"/> Om̐ namaś śivāya <g type="ddandaOrnate"/></p> <p>svasti śaka-varṣātĭta, <num value="1188">1188</num>, māgha-māsa, tīthi, trayodaśī śu<lb n="1v2" break="no"/>kla-pakṣa,
-<abbr>vā</abbr>, <abbr>va</abbr>, <abbr>Aṁ</abbr>, vāra, mahatal·, dakṣiṇastha-grahacāra, puṣ<choice><sic>pā</sic><corr>ya</corr></choice>-nakṣatra, jīva-devatā, Ā⌈<lb n="1v3" break="no"/>gneya-maṇḍala, śobhana-y<seg rend="check">au</seg>ga, baruṇa-muhūrtta, Agni-parvveśa, tetila-kāraṇa, kumbha-rāśi,</p>
-<p part="I">I<lb n="1v4" break="no"/>rika divaśany ājñā śrī mahārāja, <foreign xml:lang="san-Latn">śrī l<seg rend="check">au</seg>ka-vijaya, praśāsta-jagad-īśvarānindita-parăkramānivā<lb n="1v5" break="no"/>ryya-vĭryyālaṅghanĭya</foreign>, kr̥tanagara nāma-rājābhiṣeka, makamaṅgalyājñā <foreign xml:lang="san-Latn">śrī sakala-rājāśra<g type="squiggleVertical">§</g><lb n="1v6" break="no"/>ya,
-samast<choice><orig>ā</orig><reg>a</reg></choice>-kṣatriya-cūḍāmaṇi-patita-caraṇāravinda</foreign>, bhaṭāra jaya śrī viṣṇuvarddhana nāma-devā<lb n="1v7" break="no"/>bhiṣeka, tinaḍaḥ de rakryan mahāmantrī hiṇo, rakryan mahāmantrī sirikan·, rakryan mahāmantrī halu
-<lb n="1v8"/>, Umisor i para taṇḍa rakryan riṁ pakirakirān· makabehan·, rakryan mapatiḥ, rakryan dəmuṁ, rakrya<lb n="1v9" break="no"/>n kanuruhan saṁ mantrī nayavid iṅgitajñā, mapasəṅgahan saṁ rāmapati, tan kavuntat· saṁ pamgət i tirvan·
+<abbr>vā</abbr>, <abbr>va</abbr>, <abbr>Aṁ</abbr>, vāra, mahatal·, dakṣiṇastha-grahacāra, puṣ<choice><sic>pā</sic><corr>ya</corr></choice>-nakṣatra, jīva-devatā, Ā⌈<lb n="1v3" break="no"/>gneya-maṇḍala, śobhana-y<seg rend="check">au</seg>ga, baruṇa-muhūrtta, Agni-parvveśa, tetila-k<choice><orig>ā</orig><reg>a</reg></choice>raṇa, kumbha-rāśi,</p>
+<p part="I">I<lb n="1v4" break="no"/>rika divaśany ājñā śrī mahārāja, <foreign xml:lang="san-Latn">śrī-l<seg rend="check">au</seg>ka-vijaya, praś<choice><orig>ā</orig><reg>a</reg></choice>sta-jagad-īśvarānindita-parăkramānivā<lb n="1v5" break="no"/>ryya-vĭryyālaṅghanĭya</foreign>, kr̥tanagara nāma-rājābhiṣeka, makamaṅgalyājñā <foreign xml:lang="san-Latn">śrī sakala-rājāśra<g type="squiggleVertical">§</g><lb n="1v6" break="no"/>ya,
+samast<choice><orig>ā</orig><reg>a</reg></choice>-kṣatriya-cūḍāmaṇi-patita-caraṇāravinda</foreign>, bhaṭāra jaya śrī viṣṇuvarddhana nāma-devā<lb n="1v7" break="no"/>bhiṣeka, tinaḍaḥ de rakryan mahāmantrī hiṇo, rakryan mahāmantrī sirikan·, rakryan mahāmantrī halu<lb n="1v8"/>, Umisor i para taṇḍa rakryan riṁ pakirakirān· makabehan·, rakryan mapatiḥ, rakryan dəmuṁ, rakrya<lb n="1v9" break="no"/>n kanuruhan saṁ mantrī nayavid iṅgitajñā, mapasəṅgahan saṁ rāmapati, tan kavuntat· saṁ pamgət i tirvan·
 <lb n="1v10"/>, saṁ pamgət iṅ kaṇḍamuhi, saṁ pamgət i maṁhuri, I pisorny ājñā śrī mahārāja, An makamaṅgalyājñā bha</p>
          </div>
          <div type="apparatus">
-           <!--apparatus encoded as per EG §9.1, basic elements for apparatus below-->
-               <listApp><!-- one <app> for each apparatus entry -->
+               <listApp>
                   <app loc="1v2">
-                      <lem>puṣ<choice><sic>p</sic><corr>y</corr></choice>ānakṣatra</lem>
-                      <rdg source="bib:Krom1911_04 bib:Damais1955_01 bib:Boechari1985-1986_01">puṣpānakṣatra</rdg>
+                      <lem>puṣ<choice><sic>pā</sic><corr>ya</corr></choice>-</lem>
+                      <rdg source="bib:Krom1911_04 bib:Damais1955_01 bib:Boechari1985-1986_01">puṣpā-</rdg>
                   </app>
                   <app loc="1v3">
-                      <lem>-yauga</lem>
-                      <rdg source="bib:Krom1911_04 bib:Damais1955_01 bib:Boechari1985-1986_01">°yoga</rdg>
-                      <note>The vocalization on <foreign>y</foreign> here is clearly different from that in <foreign>trayodaśī</foreign> in line 1.</note>
+                      <lem>-y<seg rend="check">au</seg>ga</lem>
+                      <rdg source="bib:Krom1911_04 bib:Damais1955_01 bib:Boechari1985-1986_01">-yoga</rdg>
+                     <!-- <note>The vocalization on <foreign>y</foreign> here is clearly different from that in <foreign>trayodaśī</foreign> in line 1.</note>-->
                       </app>
                    <app loc="1v4">
-                      <lem>lauka°</lem>
-                      <rdg source="bib:Krom1911_04 bib:Damais1955_01 bib:Boechari1985-1986_01">loka°</rdg>
+                      <lem>l<seg rend="check">au</seg>ka-</lem>
+                      <rdg source="bib:Krom1911_04 bib:Damais1955_01 bib:Boechari1985-1986_01">loka-</rdg>
                       </app>
                    <app loc="1v6">
                       <lem>samast<choice><orig>ā</orig><reg>a</reg></choice>kṣatriya°</lem>
