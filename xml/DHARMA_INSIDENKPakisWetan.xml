@@ -102,8 +102,9 @@
 <lb n="1v1"/><g type="ddandaOrnate"/><g type="circleTarget"/><g type="ddandaOrnate"/> Om̐ namaś śivāya <g type="ddandaOrnate"/></p> <p>svasti śaka-varṣātĭta, <num value="1188">1188</num>, māgha-māsa, tīthi, trayodaśī śu<lb n="1v2" break="no"/>kla-pakṣa,
 <abbr>vā</abbr>, <abbr>va</abbr>, <abbr>Aṁ</abbr>, vāra, mahatal·, dakṣiṇastha-grahacāra, puṣ<choice><sic>pā</sic><corr>ya</corr></choice>-nakṣatra, jīva-devatā, Ā⌈<lb n="1v3" break="no"/>gneya-maṇḍala, śobhana-y<seg rend="check">au</seg>ga, baruṇa-muhūrtta, Agni-parvveśa, tetila-k<choice><orig>ā</orig><reg>a</reg></choice>raṇa, kumbha-rāśi,</p>
 <p part="I">I<lb n="1v4" break="no"/>rika divaśany ājñā śrī mahārāja, <foreign xml:lang="san-Latn">śrī-l<seg rend="check">au</seg>ka-vijaya, praś<choice><orig>ā</orig><reg>a</reg></choice>sta-jagad-īśvarānindita-parăkramānivā<lb n="1v5" break="no"/>ryya-vĭryyālaṅghanĭya</foreign>, kr̥tanagara nāma-rājābhiṣeka, makamaṅgalyājñā <foreign xml:lang="san-Latn">śrī sakala-rājāśra<g type="squiggleVertical">§</g><lb n="1v6" break="no"/>ya,
-samast<choice><orig>ā</orig><reg>a</reg></choice>-kṣatriya-cūḍāmaṇi-patita-caraṇāravinda</foreign>, bhaṭāra jaya śrī viṣṇuvarddhana nāma-devā<lb n="1v7" break="no"/>bhiṣeka, tinaḍaḥ de rakryan mahāmantrī hiṇo, rakryan mahāmantrī sirikan·, rakryan mahāmantrī halu<lb n="1v8"/>, Umisor i para taṇḍa rakryan riṁ pakirakirān· makabehan·, rakryan mapatiḥ, rakryan dəmuṁ, rakrya<lb n="1v9" break="no"/>n kanuruhan saṁ mantrī nayavid iṅgitajñā, mapasəṅgahan saṁ rāmapati, tan kavuntat· saṁ pamgət i tirvan·
-<lb n="1v10"/>, saṁ pamgət iṅ kaṇḍamuhi, saṁ pamgət i maṁhuri, I pisorny ājñā śrī mahārāja, An makamaṅgalyājñā bha</p>
+samast<choice><orig>ā</orig><reg>a</reg></choice>-kṣatriya-cūḍāmaṇi-patita-caraṇāravinda</foreign>, bhaṭāra jaya śrī viṣṇuvarddhana nāma-devā<lb n="1v7" break="no"/>bhiṣeka, tinaḍaḥ de rakryan mahāmantrī hiṇo, rakryan mahāmantrī sirikan·, rakryan mahāmantrī halu<lb 
+n="1v8"/>, Umisor i para taṇḍa rakryan riṁ pakira-kirān· makabehan·, rakryan mapatiḥ, rakryan dəmuṁ, rakrya<lb n="1v9" break="no"/>n kanuruhan saṁ mantrī nayavid iṅgitajñā, mapasəṅgahan saṁ rāmapati, tan kavuntat· saṁ pamgət i tirvan·<lb 
+n="1v10"/>, saṁ pamgət iṅ kaṇḍamuhi, saṁ pamgət i maṁhuri, I pisorny ājñā śrī mahārāja, An makamaṅgalyājñā bha</p>
          </div>
          <div type="apparatus">
                <listApp>
@@ -121,10 +122,10 @@ samast<choice><orig>ā</orig><reg>a</reg></choice>-kṣatriya-cūḍāmaṇi-pat
                       <rdg source="bib:Krom1911_04 bib:Damais1955_01 bib:Boechari1985-1986_01">loka-</rdg>
                       </app>
                    <app loc="1v6">
-                      <lem>samast<choice><orig>ā</orig><reg>a</reg></choice>kṣatriya°</lem>
+                      <lem>samast<choice><orig>ā</orig><reg>a</reg></choice>kṣatriya-</lem>
                       <rdg source="bib:Krom1911_04">samastākṣatriya°</rdg>
-                      <rdg source="bib:Damais1955_01 bib:Boechari1985-1986_01">samastākṣakriya°</rdg>
-                       <note>Understand <foreign>samastakṣatriya°</foreign>.</note>
+                      <rdg source="bib:Damais1955_01 bib:Boechari1985-1986_01">samastākṣakriya-</rdg>
+                       <note>The required meaning is <foreign>samasta-kṣatriya-</foreign>.</note>
                       </app>
                    <app loc="1v7">
                       <lem>hiṇo</lem>
@@ -136,7 +137,7 @@ samast<choice><orig>ā</orig><reg>a</reg></choice>-kṣatriya-cūḍāmaṇi-pat
                        </app>
                    <app loc="1v9">
                        <lem source="bib:Krom1911_04 bib:Boechari1985-1986_01">nayavid iṅgitajña</lem>
-                      <note>Cf. KR 11.49 <foreign>kapīndra sugrīva vəruh riṅ iṅgita</foreign>; RY 6.9: <foreign>mahāprajña rikaṅ nayeṅgita</foreign>. See also <ref target="DHARMA_INSIDENKAdanAdan.xml">Adan-Adan </ref><foreign>suśīlendikajñasarvvanayānitidakṣa</foreign>.</note>
+                      <note>Cf. <title>Kakavin Rāmāyaṇa</title> 6.9: <foreign>mahāprajña rikaṅ nayeṅgita</foreign>; 11.49 <foreign>kapīndra sugrīva vəruh riṅ iṅgita</foreign>. See also <ref target="DHARMA_INSIDENKAdanAdan.xml">Adan-Adan</ref> 5r2 <foreign>suśīlendikajña-sarvvanayāniti-dakṣa</foreign> (perhaps requiring correction to correct <foreign>suśīleṅgitajña-</foreign>) and <ref target="DHARMA_INSIDENKManahimanuk.xml">Manah i Manuk</ref> 3r1 <foreign>saṁ mantrīṅgitājñāprajālaṅkărā</foreign>.</note>
                    </app>
 	<app loc="1v10">
                      <lem>bha</lem>
