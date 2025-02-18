@@ -8,9 +8,13 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Pakis Wetan</title>
+            <title>The Pakis Wetan Charter of Kertanagara (1188 Śaka)</title>
             <respStmt>
                <resp>EpiDoc encoding</resp>
+            	<persName ref="part:argr">
+            		<forename>Arlo</forename>
+            		<surname>Griffiths</surname>
+            	</persName>
                <persName ref="part:ekba">
                   <name>Eko Bastiawan</name>
                </persName>
@@ -25,12 +29,12 @@
          </titleStmt>
          <publicationStmt>
             <authority>DHARMA</authority>
-            <pubPlace>Malang</pubPlace>
+            <pubPlace>Malang, Jakarta</pubPlace>
             <idno type="filename">DHARMA_INSIDENKPakisWetan</idno>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/">
                   <p>This work is licenced under the Creative Commons Attribution 4.0 Unported Licence. To view a copy of the licence, visit https://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.</p>
-                  <p>Copyright (c) 2019-2025 by Eko Bastiawan &amp; Arlo Griffiths</p>
+                  <p>Copyright (c) 2019-2025 by Arlo Griffiths.</p>
                </licence>
             </availability>
             <date from="2019" to="2025">2019-2025</date>
@@ -48,8 +52,7 @@
                </msContents>
                <physDesc>
                   <handDesc>
-                     <p><!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EG 11.2. --></p>
-                     <!-- If you need to identify individual hands (EG §7.5/) in addition to one or more paragraphs of general palaeographic description, wrap <summary> around the <p> or <p>s above, and, outside <summary>, create <handNote> elements for each hand as follows:
+                     <p>Script typical of the charters of the Singasari period.<!-- If you need to identify individual hands (EG §7.5/) in addition to one or more paragraphs of general palaeographic description, wrap <summary> around the <p> or <p>s above, and, outside <summary>, create <handNote> elements for each hand as follows:
 						<summary><p><p/></summary>
 						<handNote xml:id="Pallava00001_hand1"></handNote>
 						<handNote xml:id="Pallava00001_hand2"></handNote>
@@ -78,6 +81,7 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
+         <change who="part:argr" when="2025-02-17" status="draft">further revisions</change>
          <change who="part:axja" when="2020-11-03" status="draft">Updating toward the encoding template v03</change>
          <change who="part:ekba" when="2020-10-30" status="draft">updated the edition and the bibliography</change>
          <change who="part:ekba" when="2020-04-10" status="draft">revised the apparatus</change>
@@ -96,7 +100,7 @@
 <pb n="1r"/><!--Blank outer page.-->
 <p xml:lang="san-Latn"><pb n="1v"/>
 <lb n="1v1"/><g type="ddandaOrnate"/><g type="circleTarget"/><g type="ddandaOrnate"/> Om̐ namaś śivāya <g type="ddandaOrnate"/></p> <p>svasti śaka-varṣātĭta, <num value="1188">1188</num>, māgha-māsa, tīthi, trayodaśī śu<lb n="1v2" break="no"/>kla-pakṣa,
-<abbr>vā</abbr>, <abbr>va</abbr>, <abbr>Aṁ</abbr>, vāra, mahatal·, dakṣiṇastha-grahacāra, puṣ<choice><sic>p</sic><corr>y</corr></choice>ā-nakṣatra, jīva-devatā, Ā⌈<lb n="1v3" break="no"/>gneya-maṇḍala, śobhana-yauga, baruṇa-muhūrtta, Agni-parvveśa, tetila-kāraṇa, kumbha-rāśi,</p>
+<abbr>vā</abbr>, <abbr>va</abbr>, <abbr>Aṁ</abbr>, vāra, mahatal·, dakṣiṇastha-grahacāra, puṣ<choice><sic>pā</sic><corr>ya</corr></choice>-nakṣatra, jīva-devatā, Ā⌈<lb n="1v3" break="no"/>gneya-maṇḍala, śobhana-yauga, baruṇa-muhūrtta, Agni-parvveśa, tetila-kāraṇa, kumbha-rāśi,</p>
 <p part="I">I<lb n="1v4" break="no"/>rika divaśany ājñā śrī mahārāja, <foreign xml:lang="san-Latn">śrī lauka-vijaya, praśāsta-jagad-īśvarānindita-parăkramānivā<lb n="1v5" break="no"/>ryya-vĭryyālaṅghanĭya</foreign>, kr̥tanagara nāma-rājābhiṣeka, makamaṅgalyājñā <foreign xml:lang="san-Latn">śrī sakala-rājāśra<g type="squiggleVertical">§</g><lb n="1v6" break="no"/>ya,
 samast<choice><orig>ā</orig><reg>a</reg></choice>-kṣatriya-cūḍāmaṇi-patita-caraṇāravinda</foreign>, bhaṭāra jaya śrī viṣṇuvarddhana nāma-devā<lb n="1v7" break="no"/>bhiṣeka, tinaḍaḥ de rakryan mahāmantrī hiṇo, rakryan mahāmantrī sirikan·, rakryan mahāmantrī halu
 <lb n="1v8"/>, Umisor i para taṇḍa rakryan riṁ pakirakirān· makabehan·, rakryan mapatiḥ, rakryan dəmuṁ, rakrya<lb n="1v9" break="no"/>n kanuruhan saṁ mantrī nayavid iṅgitajñā, mapasəṅgahan saṁ rāmapati, tan kavuntat· saṁ pamgət i tirvan·
@@ -143,9 +147,8 @@ samast<choice><orig>ā</orig><reg>a</reg></choice>-kṣatriya-cūḍāmaṇi-pat
                </listApp>
          </div>
          <div type="translation" resp="part:argr">
- 	<!--translation encoded as per EG §9.2 -->
-                                   <p>Om! Homage to Śiva! Hail! In the elapsed Śaka year 1188, month of Māgha, thirteenth <foreign>tithi</foreign> of the waxing fortnight, Vās, Vagai, Tuesday, <supplied reason="explanation"><foreign>wuku</foreign></supplied> Mahatal; <foreign>grahacāra</foreign> in the South; lunar mansion Puṣya; deity Jīva; <foreign>maṇḍala</foreign> in the Southeast; conjunction Śobhana; <foreign>muhūrta</foreign> Varuṇa; regent of the astronomical node Agni; <foreign>karaṇa</foreign> Tetila; zodiac sign Aquarius. </p>
-                                <p>That was the time that the instruction of the king — the ‘conqueror of the world’, ‘insurmountable due to his heroism which is inavertible by the indisputable courage of a lauded world-ruler’ — whose royal consecration-name is Śrī Kr̥tanagara, under the auspices of an instruction of ‘the refuge of all kings’, ‘whose lotus feet were descended upon by the crest jewels of all noblemen’, the lord whose deity-consecration name was Jaya Śrī Viṣṇuvardhana, was received by His Excellency<!-- Arlo to self: maybe revise use of His Excelleny and H.E." --> the great minister of Hino; H.E. the great minister of Sirikan; H.E. the great minister of Halu. It came down to all the high officers <supplied reason="explanation"><foreign>taṇḍa rakryan</foreign></supplied> of the council: H.E. the Counselor; H.E. of Dmuṅ; H.E. of Kanuruhan, the secretary knowledgeable in politics and expert in covert matters, bearing the title Rāmapati. Not left behind were: the Paməgat of Tiruan, the Paməgat of Kaṇḍamuhi, the Paməgat of Maṅhuri. At the desending of the instruction of his majesty the king, which was under the auspices of an instruction of <supplied reason="lost">Lord Jaya Śrī Viṣṇuvardhana</supplied>
+             <p>Om! Homage to Śiva!<note>See respectively the invocation and conclusion of the Mula-Malurung and Sarwadharma charters, and the use same Sanskrit phrase when reference is made to Ken Angrok in Mula-Malurung 9r7.</note> Hail! In the elapsed Śaka year 1188, month of Māgha, thirteenth <foreign>tithi</foreign> of the waxing fortnight, Vās, Vagai, Tuesday, <supplied reason="explanation"><foreign>wuku</foreign></supplied> Mahatal; <foreign>grahacāra</foreign> in the South; lunar mansion Puṣya; deity Jīva; <foreign>maṇḍala</foreign> in the Southeast; conjunction Śobhana; <foreign>muhūrta</foreign> Varuṇa; regent of the astronomical node Agni; <foreign>karaṇa</foreign> Tetila; zodiac sign Aquarius. </p>
+             <p>That was the time that the instruction of the king — the ‘conqueror of the world’, ‘insurmountable due to his heroism which is inavertible by the indisputable courage of a lauded world-ruler’ — whose royal consecration-name is Śrī Kr̥tanagara, under the auspices of an instruction of ‘the refuge of all kings’, ‘whose lotus feet were descended upon by the crest jewels of all noblemen’, the lord whose deity-consecration name was Jaya Śrī Viṣṇuvardhana, was received by His Excellency<!-- Arlo to self: maybe revise use of His Excelleny and H.E." --> the great minister of Hino; H.E. the great minister of Sirikan; H.E. the great minister of Halu. It came down to all the high officers <supplied reason="explanation"><foreign>taṇḍa rakryan</foreign></supplied> of the council: H.E. the Counselor; H.E. of Dmuṅ; H.E. of Kanuruhan, the secretary knowledgeable in politics and expert in covert matters, bearing the title Rāmapati. Not left behind were: the Paməgat of Tiruan, the Paməgat of Kaṇḍamuhi, the Paməgat of Maṅhuri. At the desending of the instruction of his majesty the king, which was under the auspices of an instruction of <supplied reason="lost">Lord Jaya Śrī Viṣṇuvardhana</supplied>
 </p>
          </div>
          <div type="commentary">
