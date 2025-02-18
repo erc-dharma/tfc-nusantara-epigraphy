@@ -56,7 +56,7 @@
 						<summary><p><p/></summary>
 						<handNote xml:id="Pallava00001_hand1"></handNote>
 						<handNote xml:id="Pallava00001_hand2"></handNote>
-					 -->
+					 --></p>
                   </handDesc>
                </physDesc>
             </msDesc>
@@ -156,10 +156,10 @@ samast<choice><orig>ā</orig><reg>a</reg></choice>-kṣatriya-cūḍāmaṇi-pat
          </div>
         <div type="bibliography">
 	<!--bibliography encoded as per section §9.4 -->
-            <p>First edited by Krom (<bibl rend="omitname"><ptr target="bib:krom1911_04"/></bibl>); re-edited by Damais (<bibl rend="omitname"><ptr target="bib:Damais1955_01"/></bibl>); edited again by Boechari (<bibl rend="omitname"><ptr target="bib:Boechari1985-1986_01"/></bibl>); re-edited here by Arlo Griffiths from a Photo of OD 2155 and estampage in Kern Institute collection, Leiden University Library.</p>
+            <p>First edited by Krom (<bibl rend="omitname"><ptr target="bib:Krom1911_04"/></bibl>); re-edited by Damais (<bibl rend="omitname"><ptr target="bib:Damais1955_01"/></bibl>); edited again by Boechari (<bibl rend="omitname"><ptr target="bib:Boechari1985-1986_01"/></bibl>); re-edited here by Arlo Griffiths from a Photo of OD 2155 and estampage in Kern Institute collection, Leiden University Library.</p>
            <listBibl type="primary">
 		<bibl n="K">
-			<ptr target="bib:krom1911_04"/>
+			<ptr target="bib:Krom1911_04"/>
 			<citedRange unit="appendix">61</citedRange>
 			<citedRange unit="page">117-123</citedRange>
 		</bibl>
