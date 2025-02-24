@@ -91,15 +91,17 @@
                <listApp>
                   <app loc="1">
                      <lem>ḍi<unclear>hya</unclear><supplied reason="lost" evidence="previouseditor">ṁ</supplied></lem>
-                     <note>The correct reading of the toponym is found only in <bibl><ptr target="bib:TBG64_1924"/><citedRange unit="mixed">657</citedRange></bibl> .</note>
+                     <note>The correct reading of the toponym is found only in <bibl><ptr target="bib:TBG64_1924"/><citedRange unit="mixed">657</citedRange></bibl>.</note>
                   </app>
                </listApp>
          </div>
          <div type="translation" resp="part:argr">
- 	<p>Produced for the Lord of Dieng. Silver vase weighing 4 <foreign>kāṭi</foreign>. Its hairs are loose.</p>
+ 	<p>Work belonging to the Lord of Dieng. Silver vase weighing 4 <foreign>kāṭi</foreign>. Its hairs are separate.</p>
          </div>
          <div type="commentary">
-<p>It is reported in <bibl><ptr target="bib:TBG64_1924"/><citedRange unit="page">657</citedRange></bibl> that the artefact is an urn found positioned over a statue of a four-armed standing deity, and that the artefact was hit by a spade at the time of discovery, damaging its lower part, which is indeed lost in the available photographs. The report clarifies that it is the neck of the vase on which we find the inscription engraved. It is possible that the deity referred to in the text is the one represented in the statue.</p>
+<p>It is reported in <bibl><ptr target="bib:TBG64_1924"/><citedRange unit="page">657</citedRange></bibl> that the artefact is an urn found positioned over a statue of a four-armed standing deity, and that the artefact was hit by a spade at the time of discovery, damaging its lower part, which is indeed lost in the available photographs. The report clarifies that it is the neck of the vase on which we find the inscription engraved.</p>
+<p>Perhaps the deity referred to in the text is the one represented in the statue. Since the suffix <foreign>-nya</foreign> cannot refer to the deity, it is assumed here to refer back to the <q>work</q> (<foreign>gavayan</foreign>). The collocation <foreign>gavayan bhaṭāra</foreign> is found also in <title>Kakavin Rāmāyaṇa</title> 8.54: <foreign>i samīpaniṅ kanaka-kalpataru, hana maṇḍapādbuta ya ratnamaya, patiganya markata-maṇik makiris, gavayan bhaṭāra ya isinya kabeh</foreign> <q>Beside the golden wishing-trees, there was an amazing hall, made of jewels; its floor was of smooth emerald, and all its contents were the work of deities </q> (translation <bibl><ptr target="bib:Robson2015_01"/></bibl>). It seems likely that <foreign>gavayan bhaṭāra</foreign> in our context expresses possession rather than manufacture by the deity.</p>
+<p>As for <foreign>rambut</foreign>, various interpretations have been proposed, the most balanced discussion being that of Stutterheim (<bibl rend="omitname"><ptr target="bib:Stutterheim1925_02"/></bibl>). Since the word rinambutan seems to mean <q>furnished with feathers</q> in <title>Kakavin Rāmāyaṇa</title> 7.15b <foreign>ndan rinambutan əmās panahnira</foreign> <q>and has put golden feathers on his shaft</q> (translation Robson, with comment <bibl rend="omitname"><ptr target="bib:Robson2015_01"/><citedRange>187</citedRange></bibl>), and since this same passage reveals that <foreign>rambut</foreign> could be of gold, we imagine that the <foreign>gavayan bhaṭāra</foreign> was furnished with detachable golden fringes or served as container for the detachable golden hairs of a statue.</p>
             <!-- 
 Zilveren dj o e n (urn); bij de vondst werd de bodem
 door de patjol geraakt en in stukken gebroken; het bovengedeelte, op een breuk aan den hals na, gaaf. Aan
@@ -107,12 +109,6 @@ den hals een inscriptie in oud-Midden-Javaansch letterschrift luidend: ||ol| gaw
 pirak brat kâ 4 rambutnya lpas ||o|| (Zie T. K. B. G. LXIV p. 334, waar men eenige drukfouten verbetere).
 Aangetroffen in den grond als No. 5823. Not. als boven. Doorsn. buik 32; doorsn. hals 20, vermoedelijke totale
 hoogte 30 C.M.
-
-Kakawin Ramayana 08.054
-	i samīpaniṅ kanaka kalpataru,
-	hana maṇḍapādbuta ya ratnamaya,
-	pitiganya markata maṇik makiris,
-	gavayan bhaṭāra ya isinya kabeh.
 
 Cf.  Prasasti Salingsingan, Ia1-3 (PKMN p. 34):
 	tatkāla saŋ paṅaruhan pu ca(2)tra mamuat gawai waran baŋ mas tuṅgal brat sāṅgappan kati. rambutnya udi. payuŋ pirak mawaṅku madanda mapuñcak mas tuṅgal brat sā(3)ṅgappan kati masnya udi tigaŋ kati
@@ -136,7 +132,7 @@ Cf.  Prasasti Salingsingan, Ia1-3 (PKMN p. 34):
 De vondst van een gouden beeld van den ,,bhatara i Diyang" met een zilveren djoen met inscriptie, in het blok Bantjet, ten Z. van desa Kapakisan (distr. Batoer, afd. Bandjardgara) is vermeld in de Notulen van 24 Maart 1924 (TKBG. LXIV, afl. 1 en 2, p. 334). De transcriptie van het inschrift, waarin t.a.p. enkele - diacritische teekens zijn weggevallen, luidt : gawayan bhaṭāra i Diyang dyun pirak brat kā 4 rambut nya lpas.
  -->
 <bibl><ptr target="bib:Stutterheim1925_02"/><citedRange unit="page">228-230</citedRange><citedRange unit="note"></citedRange></bibl>
-              <bibl><ptr target="bib:Poerbatjaraka1926_01"/><citedRange unit="page">47</citedRange><citedRange unit="note">3</citedRange></bibl>
+              <bibl><ptr target="bib:Poerbatjaraka1926_01"/><citedRange unit="page">47-48</citedRange><citedRange unit="note">3</citedRange></bibl>
 <!-- not included in Damais 1971 -->
 <!-- Pauline Lunsingh Scheurleer: Het verband met het gouden beeld is in het museum al lang geleden verloren gegaan, zoals blijkt uit de catalogi,  Fontein, J., & R. Soekmono & Satyawati Suleiman (1971), Ancient Indonesia Art of the Central and Eastern Javanese periods. New York: The Asia Society. no. 98 en Treasures of Ancient Indonesian Kingdoms, Tokyo National Museum, 1997, no. 47. -->
            </listBibl>
