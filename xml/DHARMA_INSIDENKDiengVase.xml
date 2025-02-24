@@ -91,8 +91,7 @@
                <listApp>
                   <app loc="1">
                      <lem>ḍi<unclear>hya</unclear><supplied reason="lost" evidence="previouseditor">ṁ</supplied></lem>
-<rdg source="bib:Bosch1924_01">diyaṁ</rdg>
-                     <note>What remains visible on the photographs clearly shows that Bosch's reading was doubly negligent, omitting not only the diacritical mark on the <foreign>d</foreign> but also the <foreign>h</foreign> before the <foreign>y</foreign>.</note>
+                     <note>The correct reading of the toponym is found only in <bibl><ptr target="bib:TBG64_1924"/><citedRange unit="mixed">657</citedRange></bibl> .</note>
                   </app>
                </listApp>
          </div>
@@ -100,7 +99,15 @@
  	<p>Produced for the Lord of Dieng. Silver vase weighing 4 <foreign>kāṭi</foreign>. Its hairs are loose.</p>
          </div>
          <div type="commentary">
+<p>It is reported in <bibl><ptr target="bib:TBG64_1924"/><citedRange unit="page">657</citedRange></bibl> that the artefact is an urn found positioned over a statue of a four-armed standing deity, and that the artefact was hit by a spade at the time of discovery, damaging its lower part, which is indeed lost in the available photographs. The report clarifies that it is the neck of the vase on which we find the inscription engraved. It is possible that the deity referred to in the text is the one represented in the statue.</p>
             <!-- 
+Zilveren dj o e n (urn); bij de vondst werd de bodem
+door de patjol geraakt en in stukken gebroken; het bovengedeelte, op een breuk aan den hals na, gaaf. Aan
+den hals een inscriptie in oud-Midden-Javaansch letterschrift luidend: ||ol| gawayan bhatâra i Dihyang dyun
+pirak brat kâ 4 rambutnya lpas ||o|| (Zie T. K. B. G. LXIV p. 334, waar men eenige drukfouten verbetere).
+Aangetroffen in den grond als No. 5823. Not. als boven. Doorsn. buik 32; doorsn. hals 20, vermoedelijke totale
+hoogte 30 C.M.
+
 Kakawin Ramayana 08.054
 	i samīpaniṅ kanaka kalpataru,
 	hana maṇḍapādbuta ya ratnamaya,
@@ -112,12 +119,23 @@ Cf.  Prasasti Salingsingan, Ia1-3 (PKMN p. 34):
  -->
          </div>
         <div type="bibliography">
-           <p>Read again by F. D K. Bosch <bibl rend="omitname"><ptr target="bib:Bosch1924_01"/></bibl>. Edited here by Arlo Griffiths from photographs, revealing a part of the inscribed part of the artefact to have been lost since it was read by Bosch.</p>
+           <p>Essentially the same decipherment published by F. D K. Bosch on three occasions, the first (<bibl><ptr target="bib:TBG64_1924"/><citedRange unit="page">334</citedRange><citedRange unit="section">2</citedRange></bibl>) and the second (<bibl><ptr target="bib:Bosch1924_01"/></bibl>) marred by some typographical errors. The edition of reference is the third, viz. <bibl><ptr target="bib:TBG64_1924"/><citedRange unit="page">657</citedRange><citedRange unit="item">5824</citedRange></bibl>. Re-edited here by Arlo Griffiths from photographs, revealing a part of the inscribed part of the artefact to have been lost since it was read by Bosch.</p>
         	<listBibl type="primary">
-			<bibl n="B"><ptr target="bib:Bosch1924_01"/><citedRange unit="page">105</citedRange></bibl>
+	<bibl n="B"><ptr target="bib:TBG64_1924"/><citedRange unit="mixed">334 (§2), 657 (no. 5824)</citedRange></bibl>
+ <!-- 
+2. Voorts brengt Dr. Bosch ter tafel een merkwaardige vondst.
+	Gouden beeldje en zilveren urn, den 2den Nov. door een kind bij het patjoelen van een tegelan in het blok Bantjet ten Z. van desa Kepakisan, d.i. ongeveer 2 1/2 K.M. ten W. van het Dieng-plateau (distr. Batoer, afd. Bandjarnegara) gevonden. In het zeer nauwkeurig proces-verbaal van de vondst wordt vermeld, dat de zilveren djoen onderst boven, dus met de opening naar onderen en onder die stolp het gouden beeldje recht onvereind staande, werd aangetroffen. Deze bijzonderheden zijn van belang omdat er uit blijkt, dat de waardevolle voorwerpen niet toevalligerwijs onder den grond bedolven zijn geraakt, maar opzettelijk in deze positie zijn begraven. Het beeldje stelt Çiva voor in vierarmige gedaante of, zooals blijkt uit de inscriptie, die straks ter sprake zal komen, de Bhatāra i Dihyang d.i. Diëng. Het is van zwaar bladgoud met een kern van gala2; de bewerking vooral van het gelaat en de handen, is zeer fijn.
+	De zilveren urn draagt een inscriptie aan den hals luidend: gawayan bhatāra i Dhyang dyun pirak brat 4 ka rambut nya lĕpas, d.i. vervaardigd een beeld van den bhatāra van den Diëng en een zilveren djoen, zwaar 4 kati. Wat het laatste zinnetje betreft: rambut is ongetwijfeld de variant van rabut: beide vormen komen naast elkaar voor in raboet sedana, of ramboet sedana , d.i. de heilige beeldjes van kèpèng-munten in de Balische tempels bewaard. In den Pararaton is Rabut een gewoon bestanddeel van namen van heiligdommen bv. Rabut Jalu, R. Katu, R. Kedung Panitikan enz. We mogen dus aannemen dat Rambut-Rabut z.v. beteekent als „voorwerp van vereering, heilige plek" lĕpas is het gewone woord gebezigd voor vrijgebieden bv. „(dharma) sima lpas". Rambut nya lĕpas is dus: deze heilige plek is een vrijgebied.
+	Zoowel uit een artistiek als een archeol. oogpunt zijn de voorwerpen alleszins waard voor de collectie aangekocht te worden.
+	Voorgesteld wordt de voorwerpen voor f 485,— aan te koopen en bij de uitbetaling eenige waarborg te eischen dat het vindersloon ook werkelijk in het bezit van den vinder komt.
+ -->
 			</listBibl>
            <listBibl type="secondary">
-              <bibl><ptr target="bib:TBG64_1924"/><citedRange unit="mixed">334 (§2), 657 (no. 5824)</citedRange></bibl><bibl><ptr target="bib:Stutterheim1925_02"/><citedRange unit="page">228-230</citedRange><citedRange unit="note"></citedRange></bibl>
+	<bibl><ptr target="bib:Bosch1924_01"/><citedRange unit="page">105</citedRange></bibl>
+ <!-- 
+De vondst van een gouden beeld van den ,,bhatara i Diyang" met een zilveren djoen met inscriptie, in het blok Bantjet, ten Z. van desa Kapakisan (distr. Batoer, afd. Bandjardgara) is vermeld in de Notulen van 24 Maart 1924 (TKBG. LXIV, afl. 1 en 2, p. 334). De transcriptie van het inschrift, waarin t.a.p. enkele - diacritische teekens zijn weggevallen, luidt : gawayan bhaṭāra i Diyang dyun pirak brat kā 4 rambut nya lpas.
+ -->
+<bibl><ptr target="bib:Stutterheim1925_02"/><citedRange unit="page">228-230</citedRange><citedRange unit="note"></citedRange></bibl>
               <bibl><ptr target="bib:Poerbatjaraka1926_01"/><citedRange unit="page">47</citedRange><citedRange unit="note">3</citedRange></bibl>
 <!-- not included in Damais 1971 -->
 <!-- Pauline Lunsingh Scheurleer: Het verband met het gouden beeld is in het museum al lang geleden verloren gegaan, zoals blijkt uit de catalogi,  Fontein, J., & R. Soekmono & Satyawati Suleiman (1971), Ancient Indonesia Art of the Central and Eastern Javanese periods. New York: The Asia Society. no. 98 en Treasures of Ancient Indonesian Kingdoms, Tokyo National Museum, 1997, no. 47. -->
