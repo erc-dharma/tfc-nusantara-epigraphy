@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Humanding (797 Śaka)</title>
+                <respStmt>
+                    <resp>EpiDoc Encoding</resp>
+                    <persName ref="part:argr">
+                      <forename>Arlo</forename>
+                      <surname>Griffiths</surname>
+                    </persName>
+                  </respStmt>
+                  <respStmt>
+                    <resp>intellectual authorship of edition</resp>
+                    <persName ref="part:argr">
+                      <forename>Arlo</forename>
+                      <surname>Griffiths</surname>
+                    </persName>
+                    <persName ref="part:mego">
+                        <forename>Mekhola</forename>
+                        <surname>Gomes</surname>
+                      </persName>
+                  </respStmt>
+                </titleStmt>
+                <publicationStmt>
+                  <authority>DHARMA</authority>
+                  <pubPlace>Jakarta</pubPlace>
+                  <idno type="filename">DHARMA_INSIDENKHumanding</idno>
+                  <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                      <p>This work is licenced under the Creative Commons Attribution 4.0 Unported Licence. To view a copy of the licence, visit https://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.</p>
+                      <p>Copyright © 2019-2025 by Arlo Griffiths &amp; Mekhola Gomes.</p>
+                    </licence>
+                  </availability>
+                <date from="2019" to="2025">2019-2025</date>
+            </publicationStmt>
+            <sourceDesc><!-- only the handDesc can be filled in at this stage -->
+                <msDesc><!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/><!-- don't modify this -->
+                    </msIdentifier>
+                    <msContents><!-- describe the intellectual content of an inscription -->
+                        <summary><!-- //// NOT MANDATORY  ////--></summary> <!-- offers the possibility to give a summary of the inscription's content -->
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p><!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EGD 11.2. --></p>
+                            <!-- If you need to identify individual hands (EGD §7.5/) in addition to one or more paragraphs of general palaeographic description, wrap <summary> around the <p> or <p>s above, and, outside <summary>, create <handNote> elements for each hand as follows:
+						<summary><p><p/></summary>
+						<handNote xml:id="Pallava00001_hand1"></handNote>
+						<handNote xml:id="Pallava00001_hand2"></handNote>
+					 -->
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
+            </projectDesc>
+            <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/><!-- UPDATE the link once the release is made official -->
+            <listPrefixDef>
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                    <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
+                </prefixDef>
+                <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
+                    <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_idListMembers_v01.xml</ref> file.</p>
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <revisionDesc>
+            <change status="draft" when="2025-02-25" who="part:argr">started encoding the inscription</change>
+          </revisionDesc>
+    </teiHeader>
+    <text xml:space="preserve">
+      <body>
+         <div type="edition" xml:lang="kaw-Latn" rendition="class:38769 maturity:83213">
+            <pb n="1r"/>
+            <p><pb n="1r"/><pb n="1r1"/><g type="ddandaHooked"/><g type="dotDouble"/> <g type="ddandaHooked"/> svasti śaka-varṣātīta <num value="797">797</num> baiśākha-māsa, dvitīya śukla-pakṣa, tuṅlai pon· soma-vāra, tatkāla rakarayān· I sirikan· pu
+<pb n="1r2"/>rakap·, manusuk· savaḥ tampaḥ <num value="4">4</num> I humaṇḍiṁ vatak ṣirikan·, sīmānikanaṁ prāsāda I gunuṁ hyaṁ lmaḥ I mamali, dmakan· saṅkā I śrī ma<pb break="no" 
+n="1r3"/>hārāja rakai kayu vaṅi,</p>
+<p>Anuṁ InaṁsəAn· pasak·-pasak· vyavasthaniṁ manusuk ṣīma <g type="ddandaHooked">.</g> 
+<list>
+<item>samgat· vadihati pu managiḥ sisim· pasada
+<pb n="1r4"/>voḥ <num value="1">1</num> vrat· <abbr>mā</abbr> <num value="8">8</num> vḍihan· Aṅsit· <abbr>yu</abbr> <num value="1">1</num></item>
+<item>tuhān· <num value="2">2</num> miraḥ-miraḥ si guvar·, s<choice><sic>p</sic><corr>ḍ</corr></choice>aṁ si vaḍag· sisim· pasada voḥ <num value="2">2</num> vrat· <abbr>mā</abbr> <num value="8">8</num> vḍi<pb break="no" 
+n="1r5"/>han· Aṅsit· <abbr>yu</abbr> <num value="2">2</num> </item>
+</list></p>
+
+<p>Anuṁ kinon· miluA manusuk ṣīma, 
+<list>
+<item>kuvu si A<add place="above">ga</add>ma sisim· pasada voḥ <num value="1">1</num> vrat· <abbr>mā</abbr> <num value="4">4</num> vḍihan· Aṅsit· <abbr>yu</abbr> <num value="1">1</num>               
+ <!--[binding-hole between lines 5 and 6 not interrupting the text] --> 
+<pb n="1r6"/><g type="ddandaHooked">.</g></item>  
+<item>samgat· makudur· pu maṅiṇḍit· sisim· pasada voḥ <num value="1">1</num> vrat· <abbr>mā</abbr> <num value="8">8</num> vḍihan· Aṅsit· <abbr>yu</abbr> <num value="1">1</num></item> 
+<item>tuhān· <num value="2">2</num> vatu valai si mnaṁ, puluṁ
+<pb n="1r7"/>si jakhara sisim· pasada voḥ <num value="2">2</num> vrat· <abbr>mā</abbr> <num value="8">8</num> vḍihan· Aṅsit· <abbr>yu</abbr> <num value="2">2</num></item></list></p> 
+<p>Anuṁ kinon· miluA manusuk· sīma, hambulu si tuhu sisi<pb break="no" 
+n="1r8"/>m· pasada voḥ <num value="1">1</num> vrat· <abbr>mā</abbr> 4 vḍihan· Aṅsit· <abbr>yu</abbr> <num value="1">1</num> maṁhuyup· mas· <abbr>mā</abbr> <num value="1">1</num> vḍihan· raṅga <abbr>yu</abbr> <num value="1">1</num> siṅhəl· <abbr>yu</abbr> <num value="1">1</num> 
+saji Iṁ kulumpaṁ
+<pb n="1r9"/> mas· <abbr>mā</abbr> <num value="4">4</num> vḍihan· raṅga <abbr>yu</abbr> <num value="4">4</num> vaduṁ <num value="1">1</num> rimvas· <num value="1">1</num> patuk·-patuk· <num value="1">1</num> kris· <num value="1">1</num> lukai <num value="1">1</num> tvak· punukan· <num value="4">4</num> laṇḍuk· <num value="1">1</num> liṅgi<pb break="no" 
+n="1r10"/>s· 4 vaṅkyul· <num value="1">1</num> gulumi <num value="1">1</num> kurumbhāgi <num value="1">1</num> nakhaccheda <num value="1">1</num> dom· <num value="1">1</num> tahas· <num value="1">1</num> buri <num value="1">1</num> padamaran· <num value="1">1</num> saragi pagaṅana<pb n="1v" break="no"/><pb 
+n="1v1" break="no"/>n· <num value="1">1</num> kampil· <num value="1">1</num> <g type="ddandaHooked">.</g> 
+vahuta I tirip· tañjuṁ si liviṁ mas· <abbr>mā</abbr> <num value="2">2</num> vḍihan· Aṅsit· <abbr>yu</abbr> <num value="1">1</num> <g type="ddandaHooked">.</g></p> 
+<p>maṅagam kon· I humaṇḍiṁ, kalaṁ si rava, kalima
+<pb n="1v2"/> si botoḥ, gusti <num value="3">3</num> si talavan·, si parasi, si kusut·, vinkas· si kahaga, parujar· <num value="3">3</num> si bahud·, si mikar·, si puccha, hulair· <num value="2">2</num> si
+<pb n="1v3"/>tira, si sḍək·, variga <num value="2">2</num> si maddhya, si plī, matamān· si manū, mapkan· si kavit·, makajar· si vji, tuhālas· si kuḍu, hulu vras· <num value="2">2</num> si śi<pb break="no" 
+n="1v4"/>la, si havaṁ, kapuA vinaihan· mas· <abbr>mā</abbr> 4 vḍihan· Aṅsit· <abbr>yu</abbr> <num value="1">1</num> sovaṁ-sovaṁ <g type="ddandaHooked">.</g></p> 
+<p>Anakbini maṅagam kon·, kalaṁ si Andalan·, kalima si pulu<pb break="no" n="1v5"/>t·, gusti si tili, si gutam·, si hayu, vinkas· si kavit·, parujar· si parabha, si pait·, si hli, hulair· si paḍaṁ, variga si mə:l·, si gaḍuṁ, ma<!--[binding-hole between lines 5 and 6 not interrupting the text] --><pb break="no" 
+n="1v6"/>tamān· si ristī, mapkan· si sadainya, makajar· si pakulān·, tuhālas· si vaṅi, hulu vras· si gutam·, si rutuk·, kapuA vinaiha<pb break="no" n="1v7"/>n· mas· <abbr>mā</abbr> <num value="2">2</num> kain· vlaḥ <num value="1">1</num> sovaṁ-sovaṁ <g type="ddandaHooked">.</g></p> 
+<p>rāma maratā, si mbulat·, si Aṅgada, si kabos·, si bantal·, si vruha, si tuṅgū, si matəAṁ
+<pb n="1v8"/> si vundaṁ, si dali, si kva, si nusuk·, si citra, si glis·, si Utus·, si rumpuṁ, kapuA vinaihan· vḍihan· raṅga <abbr>yu</abbr> <num value="1">1</num> sovaṁ-sovaṁ <g type="ddandaHooked">.</g></p> 
+<p>parta<pb break="no" n="1v9"/>ya si śila mas· <abbr>mā</abbr> <num value="2">2</num> vḍihan· Aṅsit· <abbr>yu</abbr> <num value="1">1</num> <g type="ddandaHooked">.</g></p> 
+<p>vahuta I sirikan· valiṁbiṁ si kukun· mas· <abbr>mā</abbr> <num value="4">4</num> vḍihan· Aṅsit· <abbr>yu</abbr> <num value="1">1</num> Anakbinya
+<pb n="1v10"/> si bukuṁ mas· <abbr>mā</abbr> <num value="2">2</num> kain· kalamvantan· vlaḥ <num value="1">1</num> pituṁtuṁnya si Aṅga vḍihan· raṅga <abbr>yu</abbr> <num value="1">1</num> muvaḥ vahuta kulumpaṁ si dhanu vḍihan· Aṅsit· <abbr>yu</abbr> <num value="1">1</num>
+<pb n="2r" break="no"/>
+<pb n="2r1"/>muvaḥ vahuta palumutan· si kbo vḍihan· Aṅsit· <abbr>yu</abbr> <num value="1">1</num> <g type="ddandaHooked">.</g></p> 
+<p>vanuA I tpi siriṁ, Iṅ guntur· gusti si gajul·, I sraṅan· gusti si vuniṁ, I tumapa<pb break="no" 
+n="2r2"/>l· <supplied reason="omitted">gusti</supplied> si kaivala, I puluṅ kadaṁ gusti kaki kḍu, I supit· gusti si kaba, I pakulun· gusti si tulus·, I palalataṅan· kalaṁ si vuru, I
+<pb n="2r3"/>tamvlaṅan· gusti si rava, I tuluṁ moliḥ gusti si bakal·, kapuA vinaihan· vḍihan· raṅga <abbr>yu</abbr> <num value="1">1</num> sovaṁ-sovaṁ <g type="ddandaHooked">.</g></p> 
+<p>tuha paḍahi, maṅiduṁ,
+<pb n="2r4"/>madāṁ, maṅla, makariṁ, mŭla, kapuA vinaihan· vḍihan· raṅga <abbr>yu</abbr> <num value="1">1</num> sovaṁ-sovaṁ <g type="ddandaHooked">.</g></p> 
+<p>kinon· rakarayān· humarappa, Ikanaṁ susukan· sīma
+<pb n="2r5"/>saṁ tuhān· kabaiḥ, ra punti si sayut·, hujuṁ galuḥ si hr̥dayaśiva, paniṅgahan· si tarkka, mataṇḍa si raṅkəp·, manurat· dharmmasinta śiva<pb break="no" n="2r6"/>prasāda <g type="ddandaHooked">.</g>
+<!--  [binding-hole in line 6 not interrupting the text]-->
+</p>
+
+         </div>
+         <div type="apparatus">
+               <listApp>
+                  <app loc="1r4">
+                     <lem>s<choice><sic>p</sic><corr>ḍ</corr></choice>aṁ</lem>
+                     <rdg source="bib:BoechariND_01 bib:MachiSuhadi+SukartoAtmodjo1986_01">spaṁ</rdg>
+	<note>The ligatures spa and sḍa are very similar yet clearly distinct in the Polengan plates. Here, the scribe has clearly written spa, although the parallels reveal he must have intended sḍaṁ (cf. Jurungan 3r9 and 3v1; Haliwangbang 2v8 and 3v5).</note>
+                  </app>
+<!--
+1r1. baiśākha: B, baisakha MS&S.
+1r2. ṣirikan: B, sirikan MS&S.
+1r5. kuvu si A\ga/ma: We follow B and MS&S in interpreting the ga-like shape above the line as a ga to be inserted between A and ma. But it is slightly disturbing that not a single other person named Agama seems to be known from the epigraphic record (Damais 1970: 163). The lost closely similar name we are aware of is Agam in in Tru i Tepusan II (juru i variṅin si agam — De Casparis 1950: 87, 90 n. 39) and in Jurungan 2v9 (si gunuṁ ramani Agam·).
+1r10. kurumbhāgi: B, kurumbhagi MS&S.
+	1v3. tuhālas: B, tuhalās MS&S.
+	1v3–4. śila: B, ṣila MS&S.
+	1v4. sovaṁ-sovaṁ: B, sovaṁ MS&S.
+	1v4. Anakbini: Anakbi si MS&S.
+	1v5. mə:l·: B, məl· MS&S.
+	1v6. pakulān·: B, pakulun· MS&S. We see here the special form of -ā that is typically found below l, and that can easily be confused with -u. Cf. pakulun in 2r2, where the reading with -u seems secure. It seems that pakulun· might have been intended here as well.
+	1v9. si kukun· mas· mā 4: MS&S, si kukun· mas· mā 2 B.
+2r1–2. tumapal· ⟨gusti⟩ si : tumapal· si B and MS&S.
+2r2. pakulun·: see Damais 1970: 769 n. 1, and cf. the name pakulān found in 1v6.
+2r4. madāṁ: MS&S, madaṁ B.
+2r5–6. śivaprasāda: B, śivaprāsāda MS&S. 
+-->
+               </listApp>
+         </div>
+         <div type="translation" resp="part:argr part:mego">
+            <p n="1v1-1v2">
+<!--Hail! Elapsed Śaka year 794, month of Māgha, twelfth <supplied reason="explanation"><foreign>tithi</foreign></supplied> of the waxing fortnight, Mavulu, Umanis, Wednesday (i.e., on 14 January 873). That was when the Lord <supplied reason="explanation"><foreign>rakarayān</foreign></supplied> of Sirikan, <supplied reason="explanation">named</supplied> <foreign>pu</foreign> Rakap, was bestowed by the Great King, the Lord of <supplied reason="explanation"><foreign>rakai</foreign></supplied> Kayu Vaṅi with the serfdom wasteland <supplied reason="explanation"><foreign>sukat kahulunan</foreign></supplied> <supplied reason="explanation">called</supplied> Tunahan, a tract <supplied reason="explanation"><foreign>ləmah</foreign></supplied> at Mamali.</p>
+            <p n="1v3-1v4">The Lord offered as gifts to the Great King: 5 guilders <supplied reason="explanation"><foreign>suvarṇa</foreign></supplied> of gold in grain <supplied reason="explanation"><foreign>cumvi</foreign></supplied>, 2 sets of <foreign>vḍihan</foreign> of <foreign>pinilai</foreign> manufacture, 1 <foreign>kǝban</foreign> of <foreign>gañjarpatra</foreign>, 2 tubs of fish, 1 cage of wild pigeons, 1 basket of flowers.</p>
+            <p n="1v4-1v5">The one who was ordered by the Lord to offer the gifts to the Great King was the officiant of Tira <supplied reason="explanation">called</supplied> <foreign>pu</foreign> Bhujaṅga. What he offered <supplied reason="explanation"><foreign>asǝan-nya</foreign></supplied> was for the <foreign>pahayu</foreign>.<note>The meaning of <foreign>pahayu</foreign> is uncertain in this context.</note> Five nights did the gifts last, as he offered them.</p>
+            <p n="1v5-1v7">The tract was provided with a fence by the headmen of Mamali, attended by the <foreign>hanuṅənaṅ</foreign> <supplied reason="explanation">called</supplied> <foreign>pu</foreign> Śaṅkhara. Names of the headmen who provided <supplied reason="subaudible">it</supplied> with a fence: the <foreign>kalaṅ</foreign> <supplied reason="explanation">called</supplied> <foreign>si</foreign> Kais; 2 <foreign>gusti</foreign>s, the father of Saṅkān <supplied reason="subaudible">and</supplied> the father of Maṅarani; the <foreign>vinǝkas</foreign>, father of Tan Livū; the <foreign>maṅatag</foreign> <supplied reason="explanation">called</supplied> <foreign>si</foreign> Uṅgahan; the 2 heralds <supplied reason="explanation">called</supplied> <foreign>si</foreign> Vāhu <supplied reason="subaudible">and</supplied> <foreign>si</foreign> Golo; the <foreign>hulair</foreign>, father of Amvarī; the <foreign>hulair</foreign> of the village-community, father of Dravya; the <foreign>mapǝkan</foreign> <supplied reason="explanation">called</supplied> <foreign>si</foreign> Kahuripan; the <foreign>makajar</foreign> <supplied reason="explanation">called</supplied> <foreign>si</foreign> Bali; the <foreign>tuha alas</foreign> <supplied reason="explanation">called</supplied> <foreign>si</foreign> Valā.</p>
+            <p n="1v8-1v9"><!-\- The <foreign>hanuṅənaṅ</foreign> was given 10 <foreign>māṣa</foreign>s with which to buy <supplied reason="explanation"><foreign>paməlyan</foreign></supplied> the elders of Vayū, and 2 māṣas of gold with which to buy the humble followers of the hanuṅnaṅ of Vayū. Also, the elders of Mamali were given 1 dhāraṇa of silver (and) 1 avitan; the foreman (saṅ tuha) of the kalaṅs <supplied reason="explanation">called</supplied>  Pundaṅil was given one set of vḍihan -\->
+                The <foreign>hanuṅənaṅ</foreign> was given 10 <foreign>māṣa</foreign>s of silver as payment <supplied reason="explanation" cert="low"><foreign>paməli-a</foreign>, or <foreign>paməlyan</foreign></supplied> by the elders of Vayū, and 2 <foreign>māṣa</foreign>s of gold as payment by the humble laborers of the <foreign>hanuṅənaṅ</foreign> of Vayū. Also, the elders of Mamali were given 1 <foreign>dhāraṇa</foreign> of silver <supplied reason="subaudible">and</supplied> 1 <foreign>avitan</foreign>; the foreman <supplied reason="explanation"><foreign>saṅ tuha</foreign></supplied> of the <foreign>kalaṅ</foreign>s <supplied reason="explanation">called</supplied> <foreign>si</foreign> Pundaṅil was given 1 set of <foreign>vḍihan</foreign>-->.
+</p>
+         </div>
+         <div type="commentary">
+            <!--commentary encoded as per section §9.3 -->
+         </div>
+        <div type="bibliography">
+	<!--bibliography encoded as per section §9.4 -->
+           <p>Deciphered but not published by Boechari, a copy of whose typescript we received from Jan Wisseman Christie and use here as edition of reference (<bibl n="B"><ptr target="bib:BoechariND_01"/></bibl>). As our apparatus entries show, a copy of the same typescript seems to have been reproduced with involuntary errors, in the first integral published edition (<bibl><ptr target="bib:MachiSuhadi+SukartoAtmodjo1986_01"/></bibl>). Re-edited here by Arlo Griffiths and Mekhola Gomes from photographs.</p>
+        	<listBibl type="primary">
+	<bibl n="B"><ptr target="bib:BoechariND_01"/></bibl>
+	<bibl n="MS&amp;SA"><ptr target="bib:MachiSuhadi+SukartoAtmodjo1986_01"/><citedRange unit="page">65-72</citedRange><citedRange unit="section">2.7.2</citedRange></bibl>
+			</listBibl>
+           <listBibl type="secondary">
+              <bibl><ptr target="bib:Naerssen1939_01"/></bibl>
+              <bibl><ptr target="bib:Damais1951_01"/><citedRange unit="page">21-23</citedRange></bibl>
+              <bibl><ptr target="bib:Damais1952_01"/><citedRange unit="page">36-37</citedRange><citedRange unit="item">A. 33</citedRange></bibl>
+                <bibl><ptr target="bib:Damais1955_01"/><citedRange unit="page">30</citedRange></bibl>
+<bibl><ptr target="bib:Boechari1958_01"/><citedRange unit="page">17</citedRange></bibl>
+                <bibl><ptr target="bib:Damais1970_01"/><citedRange unit="page">48</citedRange><citedRange unit="item">76</citedRange></bibl>
+                <bibl><ptr target="bib:Sarkar1971-1972_01"/><citedRange unit="volume">I</citedRange><citedRange unit="item">XXX</citedRange><citedRange unit="page">184</citedRange></bibl>
+                <bibl><ptr target="bib:TitiSurtiNastiti+al2024_01"/><citedRange unit="page">???</citedRange><citedRange unit="section">2.1.1</citedRange></bibl>
+           </listBibl>
+        </div>
+        <!-- 
+
+4. Boechari, typescript received through Jan Wisseman Christie.
+6. Machi Suhadi and M.M. Soekarto, Laporan Penelitian Epigrafi Jawa Tengah, no. 37 (1986): 62-65.  
+7. O.D. Photo 13691.
+8. A.G. Photo Tunahan_1a.jpg.
+9. Laporan BRIN-EFEO March 2023
+
+
+        -->
+      </body>
+  </text>
+</TEI>
