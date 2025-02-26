@@ -91,8 +91,8 @@
          <div type="apparatus">
                <listApp>
                   <app loc="1">
-                     <lem><g type="indistinct"/></lem>
-                     <note>There is possibly a liminal sign at the opening of the text, but what appears as such might be accidental. Previous scholars have ignored it.</note>
+                     <lem><g type="circleMed"/></lem>
+                     <note>There is a liminal sign at the opening of the text, apparently in the form of a small circle. Previous scholars have ignored it. It occurs again, less clearly, in the middle of line 2 and at the end of the text in line 3.</note>
                   </app>
                   <app loc="1">
                   <lem source="bib:Damais1955_01"><num value="961">961</num></lem>                  
@@ -103,7 +103,7 @@
                   <rdg source="Brandes">-malāṇi</rdg>
                   </app> -->
                   <app loc="2">
-                  <lem>-sā<space type="defect"/>dharāṇaṁ kr̥<lb n="3" break="no"/>tvā</lem>
+                  <lem>-sā<space type="defect"/>dh<choice><sic>a</sic><corr>ā</corr></choice>r<choice><sic>ā</sic><corr>a</corr></choice>ṇaṁ kr̥<lb n="3" break="no"/>tvā</lem>
                   <note>Kern needlessly ‘corrected’ this to -<foreign>sādhāraṇīkr̥tvā</foreign>. See the Buddhist scriptural evidence cited in <bibl><ptr target="bib:Griffiths2014_01"/><citedRange unit="page">218</citedRange></bibl>.</note>
                   </app>
                   <app loc="3">
