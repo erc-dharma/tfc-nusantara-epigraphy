@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Humanding (797 Śaka)</title>
+            	<title>The Polengan plates: Humanding charter (797 Śaka)</title>
                 <respStmt>
                     <resp>EpiDoc Encoding</resp>
                     <persName ref="part:argr">
@@ -132,32 +132,65 @@ n="2r2"/>l· <supplied reason="omitted">gusti</supplied> si kaivala, I puluṅ k
 <pb n="2r5"/>saṁ tuhān· kabaiḥ, ra punti si sayut·, hujuṁ galuḥ si hr̥dayaśiva, paniṅgahan· si tarkka, mataṇḍa si raṅkəp·, manurat· dharmmasinta śiva<pb break="no" n="2r6"/>prasāda <g type="ddandaHooked">.</g>
 <!--  [binding-hole in line 6 not interrupting the text]-->
 </p>
-
          </div>
          <div type="apparatus">
                <listApp>
+<!-- 	<app loc="1r1">
+	<lem source="bib:BoechariND_01">baiśākha-</lem>
+	<note>Misprint <foreign>baisakha</foreign> in the edition published by Machi Suhadi &amp; Sukarto Atmodjo.</note>
+	</app>
+	<app loc="1r2">
+	<lem source="bib:BoechariND_01">ṣirikan·</lem>
+	<note>Misprint <foreign>sirikan</foreign> in the edition published by Machi Suhadi &amp; Sukarto Atmodjo.</note>
+	</app>-->
                   <app loc="1r4">
                      <lem>s<choice><sic>p</sic><corr>ḍ</corr></choice>aṁ</lem>
                      <rdg source="bib:BoechariND_01 bib:MachiSuhadi+SukartoAtmodjo1986_01">spaṁ</rdg>
-	<note>The ligatures spa and sḍa are very similar yet clearly distinct in the Polengan plates. Here, the scribe has clearly written spa, although the parallels reveal he must have intended sḍaṁ (cf. Jurungan 3r9 and 3v1; Haliwangbang 2v8 and 3v5).</note>
+	<note>The ligatures <foreign>spa</foreign> and <foreign>sḍa</foreign> are very similar yet clearly distinct in the Polengan plates. Here, the scribe has clearly written <foreign>spa</foreign>, although the parallels reveal that he must have intended <foreign>sḍaṁ</foreign> (cf. <ref target="DHARMA_INSIDENKJurungan.xml">Jurungan</ref> 3r9 and 3v1; <ref target="DHARMA_INSIDENKHaliwangbang.xml">Haliwangbang</ref> 2v8 and 3v5).</note>
+	</app>
+	<app loc="1r5">
+<lem source="bib:BoechariND_01 bib:MachiSuhadi+SukartoAtmodjo1986_01">kuvu si A<add place="above">ga</add>ma</lem>
+<note>We follow concur with interpreting the <foreign>ga</foreign>-like shape above the line as a <foreign>ga</foreign> to be inserted between <foreign>A</foreign> and <foreign>ma</foreign>. But it is slightly disturbing that not a single other person named Agama seems to be known from the epigraphic record (<bibl><ptr target="bib:Damais1970_01"/><citedRange>163</citedRange></bibl>). The most closely similar name that we are aware of is Agam, occurring in <seg rend="check">Tru i Tepusan II (<foreign>juru i variṅin si agam</foreign> — De Casparis 1950: 87, 90 n. 39)</seg> and in <ref target="DHARMA_INSIDENKJurungan.xml">Jurungan</ref> 2v9 (<foreign>si gunuṁ ramani Agam·</foreign>).</note>
                   </app>
-<!--
-1r1. baiśākha: B, baisakha MS&S.
-1r2. ṣirikan: B, sirikan MS&S.
-1r5. kuvu si A\ga/ma: We follow B and MS&S in interpreting the ga-like shape above the line as a ga to be inserted between A and ma. But it is slightly disturbing that not a single other person named Agama seems to be known from the epigraphic record (Damais 1970: 163). The lost closely similar name we are aware of is Agam in in Tru i Tepusan II (juru i variṅin si agam — De Casparis 1950: 87, 90 n. 39) and in Jurungan 2v9 (si gunuṁ ramani Agam·).
-1r10. kurumbhāgi: B, kurumbhagi MS&S.
-	1v3. tuhālas: B, tuhalās MS&S.
-	1v3–4. śila: B, ṣila MS&S.
-	1v4. sovaṁ-sovaṁ: B, sovaṁ MS&S.
-	1v4. Anakbini: Anakbi si MS&S.
-	1v5. mə:l·: B, məl· MS&S.
-	1v6. pakulān·: B, pakulun· MS&S. We see here the special form of -ā that is typically found below l, and that can easily be confused with -u. Cf. pakulun in 2r2, where the reading with -u seems secure. It seems that pakulun· might have been intended here as well.
-	1v9. si kukun· mas· mā 4: MS&S, si kukun· mas· mā 2 B.
-2r1–2. tumapal· ⟨gusti⟩ si : tumapal· si B and MS&S.
-2r2. pakulun·: see Damais 1970: 769 n. 1, and cf. the name pakulān found in 1v6.
-2r4. madāṁ: MS&S, madaṁ B.
-2r5–6. śivaprasāda: B, śivaprāsāda MS&S. 
--->
+<!-- 1r10. kurumbhāgi: B, kurumbhagi MS&S. -->
+<app loc="1v3">
+	<lem source="bib:BoechariND_01">tuhālas·</lem>
+	<note>Misprint <foreign>tuhalās</foreign> in the edition published by Machi Suhadi &amp; Sukarto Atmodjo.</note>
+	</app>
+<!-- 1v3–4. śila: B, ṣila MS&S. -->
+<app loc="1v4">
+	<lem source="bib:BoechariND_01">sovaṁ-sovaṁ</lem>
+	<note>Dittography <foreign>sovaṁ</foreign> in the edition published by Machi Suhadi &amp; Sukarto Atmodjo.</note>
+	</app>
+	<app loc="1v4">
+	<lem source="bib:BoechariND_01">Anakbini</lem>
+	<rdg source="bib:MachiSuhadi+SukartoAtmodjo1986_01">Anakbi si</rdg>
+	<note>Misprint or intentional change in the edition published by Machi Suhadi &amp; Sukarto Atmodjo.</note>
+	</app>
+<!-- 	1v5. mə:l·: B, məl· MS&S. -->
+<app loc="1v6">
+	<lem source="bib:BoechariND_01">pakulān·</lem>
+	<rdg source="bib:MachiSuhadi+SukartoAtmodjo1986_01">pakulun·</rdg>
+	<note>We see here the special form of <foreign>-ā</foreign> that is typically found below <foreign>l</foreign>, and that can easily be confused with <foreign>-u</foreign>. Cf. <foreign>pakulun</foreign> in 2r2, where the reading with<foreign>-u</foreign> seems secure. It seems that <foreign>pakulun·</foreign> might have been intended here as well, and that the variant reading by Machi Suhadi &amp; Sukarto Atmodjo was intentional.</note>
+</app>
+<app loc="1v9">
+	<lem source="bib:MachiSuhadi+SukartoAtmodjo1986_01">si kukun· mas· <abbr>mā</abbr> <num value="4">4</num></lem>
+	<rdg source="bib:BoechariND_01">si kukun· mas· mā 2</rdg>
+<lem></lem>
+</app>
+<app loc="2r1">
+	<lem>tumapa<pb break="no" n="2r2"/>l· <supplied reason="omitted">gusti</supplied> si </lem>
+	<rdg source="bib:BoechariND_01 bib:MachiSuhadi+SukartoAtmodjo1986_01">tumapal· si</rdg>
+	</app>
+<app loc="2r2">
+	<lem source="bib:BoechariND_01 bib:MachiSuhadi+SukartoAtmodjo1986_01">pakulun·</lem>
+	<note>See <bibl><ptr target="bib:Damais1970_01"/><citedRange unit="page">769</citedRange><citedRange unit="note">1</citedRange></bibl>, and compare the name <foreign>pakulān</foreign> found in 1v6.</note>
+	</app>
+<app loc="12r4">
+	<lem source="bib:MachiSuhadi+SukartoAtmodjo1986_01">madāṁ</lem>
+	<rdg source="bib:BoechariND_01">madaṁ</rdg>
+</app>
+<!-- 2r5–6. śivaprasāda: B, śivaprāsāda MS&S. -->
                </listApp>
          </div>
          <div type="translation" resp="part:argr part:mego">
