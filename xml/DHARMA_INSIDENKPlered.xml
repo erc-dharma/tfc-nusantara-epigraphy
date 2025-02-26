@@ -3,7 +3,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Plered (n.d.)</title>
+            <title>Copperplate from Plered (date lost)</title>
             <respStmt>
                <resp>EpiDoc Encoding</resp>
                <persName ref="part:wjsa">
@@ -30,7 +30,7 @@
                                             https://creativecommons.org/licenses/by/4.0/ or send a letter to
                                             Creative Commons, 444 Castro Street, Suite 900, Mountain View,
                                             California, 94041, USA.</p>
-                  <p>Copyright (c) 2019-2025 by Arlo Griffiths.</p>
+                  <p>Copyright (c) 2019-2025 by Arlo Griffiths &amp; Wayan Jarrah Sastrawan.</p>
                </licence>
             </availability>
             <date from="2019" to="2025">2019-2025</date>
@@ -67,43 +67,34 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
-         <change who="part:axja" when="2022-08-16">Transforming docx into xml</change>
+      	<change who="part:argr" when="2025-02-26">Manual modifications of encoding</change>
+              <change who="part:axja" when="2022-08-16">Transforming docx into xml</change>
       </revisionDesc>
    </teiHeader>
    <text xml:space="preserve">
            <body> 
 
-                   <div type="edition">
-                          <div type="textpart"> 
-                             <head xml:lang="eng">Recto</head>
-                      <p><lb n="1"/>suga ramani dunuṁ, tuha banuA si timvun· ramani camyuk·, variga si duruṁ, parujar· si vuntu ramani səsək·, muAṁ dharaṇa ramani palaku, vineḥ vḍihan· yu 1 pirak· mā 2 sovaṁ-sovaṁ, reṇa māgman· gusti si skar· re sarutī, vinkas·‚ si bha
-<lb break="no" n="2"/>vi re duduṁ, variga si ruti vineḥ ken· vlaḥ 1 pirak· mā 2 sovaṁ-sovaṁ reṇa matuha si sukha re maṅinaki tuha banuA si L̥ṅkap· re camyak· vineḥ ken vlaḥ 1 pirak· mā 2 sovaṁ-sovaṁ, parajar· si tamvam· re səsək·, mu
-<lb break="no" n="3"/>Aṁ si ramyā re luhik· vineḥ ken· vlaḥ 1 pirak· mā 4 sovaṁ reṇa maratā prāṇa 52 vineḥ pirak· mā 2 sovaṁ-sovaṁ, pinakānak· Anakvi prāṇa 15 vineḥ pirak· mā 1 sovaṁ-sovaṁ, rarai prāṇa 19 vineḥ pirak·
-<lb n="4"/>ku 1 sovaṁ rāma māgman· Iṁ vulusan· gusti si ṅeṅe ramani drabya, vinkas· si puñjaṁ ramani tīn· variga si malaḥ ramani tatəl· muAṁ si nala rama tasər·, parujar· si sudhana ramani jaya, huler· si glis· ramani gunuṁ ma
-<lb break="no" n="5"/> kava prāṇa 4 si Amvil· ramani vakul·, muAṁ si piṅul· ramani gadā si galuḥ ramani kpal·, si gamī ramani garamman· vineḥ vḍihan· yu 1 pirak· mā 2 sovaṁ-sovaṁ tuha banuA si grya ramani bloṇḍo vineḥ vḍihan· yu 1 pirak·
-<lb n="6"/>mā 2 rāma maratā mapaṅaliḥ prāṇa 24 vineḥ pirak· mā 2 sovaṁ-sovaṁ masahlayan· prāṇa 34 vineḥ pirak· mā 1 sovaṁ-sovaṁ, reṇa māgman· gusti si vaku re drabya, vinkas· si jaya re vrayan·, huler· si tira re cu
-<lb break="no" n="7"/>mel·, variga si hadyan· re lalu, muAṁ si buṁsut· re tatəl·, makava prāṇa 4 si kə:n· re kurusut·, muAṁ si kuṇḍa re kvuAn· si talaga re do, si tnə: re gaṇa vineḥ ken· vlaḥ 1 pirak· mā 2 sovaṁ-sovaṁ, tuha ba 
-<lb break="no" n="8"/>nuA si gnaḥ re tablā vineḥ ken· vlaḥ 1 pirak· mā 2 valyan· si piṅgān· vineḥ pirak· mā 2 reṇa maratā prāṇa 25 vineḥ pirak· mā 1 sovaṁ-sovaṁ, rāma tpi siriṁ I liṅo kalima si kumāra I vuhəl· kalaṁ si tamvi  
-<lb break="no" n="9"/>s·, gusti si tika, Iṁ dmak· gusti si kamvaṁ, I sipakər· kalaṁ si pañcama, parujar· si kula muAṁ si mattha, I laṅit aji gusti si buAḥ vinkas· si garbhī vineḥ pirak· mā 2 sovaṁ-sovaṁ, tuha paḍahi prāṇa 20 vineḥ pirak·  
+                   <div type="edition" xml:lang="kaw-Latn" rendition="class:38769 maturity:83213">
+            <pb n="4r"/><fw n="4r" place="bot-right"><num value="4">4</num></fw>
+            <p part="F"><lb n="1"/>suga ramani dunuṁ, tuha banuA si timvun· ramani camyuk·, variga si duruṁ, parujar· si vuntu ramani səsək·, muAṁ dharaṇa ramani palaku, vineḥ vḍihan· yu 1 pirak· mā 2 sovaṁ-sovaṁ, reṇa māgman· gusti si skar· re sarutī, vinkas·‚ si bha<lb break="no" 
+n="2"/>vi re duduṁ, variga si ruti vineḥ ken· vlaḥ 1 pirak· mā 2 sovaṁ-sovaṁ reṇa matuha si sukha re maṅinaki tuha banuA si L̥ṅkap· re camyak· vineḥ ken vlaḥ 1 pirak· mā 2 sovaṁ-sovaṁ, par<choice><sic>a</sic><corr>u</corr></choice>jar· si tamvam· re səsək·, mu<lb break="no" 
+n="3"/>Aṁ si ramyā re luhik· vineḥ ken· vlaḥ 1 pirak· mā 4 sovaṁ reṇa maratā prāṇa 52 vineḥ pirak· mā 2 sovaṁ-sovaṁ,</p> <p>pinakānak· Anakvi prāṇa 15 vineḥ pirak· mā 1 sovaṁ-sovaṁ, rarai prāṇa 19 vineḥ pirak·
+<lb n="4"/>ku 1 sovaṁ rāma māgman· Iṁ vulusan· gusti si ṅeṅe ramani drabya, vinkas· si puñjaṁ ramani tīn· variga si malaḥ ramani tatəl· muAṁ si nala rama tasər·, parujar· si sudhana ramani jaya, huler· si glis· ramani gunuṁ ma<lb break="no" 
+n="5"/>kava prāṇa 4 si Amvil· ramani vakul·, muAṁ si piṅul· ramani gadā si galuḥ ramani kpal·, si gamī ramani garamman· vineḥ vḍihan· yu 1 pirak· mā 2 sovaṁ-sovaṁ</p> <p>tuha banuA si grya ramani bloṇḍo vineḥ vḍihan· yu 1 pirak·
+<lb n="6"/>mā 2 rāma maratā mapaṅaliḥ prāṇa 24 vineḥ pirak· mā 2 sovaṁ-sovaṁ<supplied reason="subaudible">,</supplied> masahlayan· prāṇa 34 vineḥ pirak· mā 1 sovaṁ-sovaṁ, reṇa māgman· gusti si vaku re drabya, vinkas· si jaya re vrayan·, huler· si tira re cu<lb break="no" 
+n="7"/>mel·, variga si hadyan· re lalu, muAṁ si buṁsut· re tatəl·, makava prāṇa 4 si kə:n· re kurusut·, muAṁ si kuṇḍa re kvuAn· si talaga re do, si tnə: re gaṇa vineḥ ken· vlaḥ 1 pirak· mā 2 sovaṁ-sovaṁ,</p> 
+<p>tuha ba <lb break="no" 
+n="8"/>nuA si gnaḥ re tablā vineḥ ken· vlaḥ 1 pirak· mā 2 valyan· si piṅgān· vineḥ pirak· mā 2 reṇa maratā prāṇa 25 vineḥ pirak· mā 1 sovaṁ-sovaṁ,</p> <p>rāma tpi siriṁ I liṅo kalima si kumāra I vuhəl· kalaṁ si tamvi<lb break="no" 
+n="9"/>s·, gusti si tika, Iṁ dmak· gusti si kamvaṁ, I <seg rend="check">sipakər·</seg><!-- read or correct sipatər·? --> kalaṁ si pañcama, parujar· si kula muAṁ si mattha, I laṅit aji gusti si buAḥ vinkas· si garbhī vineḥ pirak· mā 2 sovaṁ-sovaṁ, tuha paḍahi prāṇa 20 vineḥ pirak·  
 <lb n="10"/>mā 1 sovaṁ-sovaṁ, mūla pañjut· prāṇa 6 vineḥ pirak· mā 2 sovaṁ-sovaṁ, mūla cuṇḍa vineḥ pirak· mā 1 mabañol· si muñut· muAṁ si biluṁluṁ, si kdəṁ, Avayaṁ si maṅgulai, muAṁ si paṇḍita vineḥ pirak· mā
-<lb n="11"/>4 sovaṁ-sovaṁ kalulanya maṅabaihi pirak· mā 4 manuvuṁ si dhavala ramani kr̥ṣṇa, muAṁ si dhanuka ramani garantuṅan· vineḥ vḍihan· yu 1 pirak· mā 4 sovaṁ, maroṇḍon· maṅabaihi pirak· mā 8 maṅla maṅabaihi
+<lb n="11"/>4 sovaṁ-sovaṁ<supplied reason="subaudible">,</supplied> kalulanya maṅabaihi pirak· mā 4 manuvuṁ si dhavala ramani kr̥ṣṇa, muAṁ si dhanuka ramani garantuṅan· vineḥ vḍihan· yu 1 pirak· mā 4 sovaṁ, maroṇḍon· maṅabaihi pirak· mā 8 maṅla maṅabaihi
 <lb n="12"/>pirak· mā 1 mabyāpāra vahuta vuluṁ jalan· muAṁ raṅgi, pirak· mā 1 sovaṁ, tuluṁ tutumadāṁ prāṇa 31 vineḥ pirak· ku 1 sovaṁ-sovaṁ magaṇḍiṁ I samgat· Aṅinn-aṅin· prāṇa 2 vineḥ pirak· mā 1 ku 2</p>
-                      <p>In bottom right corner: 4</p>
-                          </div>
-                      <div type="textpart">
-                         <head xml:lang="eng">Verso</head>
-                         <p>Empty</p></div>
-                       
                    </div>
-                       <div type="apparatus">
-                            <app loc="2"><lem>parajar·</lem>
-                               <rdg>correct parujar·</rdg>
-                            </app>
-                       </div>
+                       <div type="apparatus"/>
+<div type="commentary"><p>See our preamble to the <ref target="DHARMA_INSIDENKTaji.xml">Taji charter</ref> for a discussion of similarities and differences to this inscription.</p></div>
                <div type="bibliography">
-                  <p>Provisional reading based on photos furnished by J. Samuel. Reverified on 20/11/2019 at François Mandeville.</p>
+             <p>Intially read by Arlo Griffiths from photographs furnished by Jérôme Samuel. Reverified on 2019-11-20 at François Mandeville's residence.</p>
                </div>
-            
                    <!-- 
                    <div>
                     <head>Provenance</head>
