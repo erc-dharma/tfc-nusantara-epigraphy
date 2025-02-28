@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?> <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?> <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?> <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+﻿<?xml version="1.0" encoding="UTF-8"?> <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?> <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?> <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Telang I / Wanagiri I (825 Ś, 904-01-11)</title>
+            <title>Grant of the villages of Telang, Mahe and Paparuhan</title>
             <respStmt>
                <resp>EpiDoc Encoding</resp>
                <persName ref="part:wjsa">
@@ -34,7 +34,7 @@
                                             https://creativecommons.org/licenses/by/4.0/ or send a letter to
                                             Creative Commons, 444 Castro Street, Suite 900, Mountain View,
                                             California, 94041, USA.</p>
-                  <p>Copyright (c) 2019-2025 by Jarrah Sastrawan &amp; Arlo Griffiths.</p>
+                  <p>Copyright (c) 2019-2025 by Wayan Jarrah Sastrawan &amp; Arlo Griffiths.</p>
                </licence>
             </availability>
             <date from="2019" to="2025">2019-2025</date>
@@ -60,24 +60,31 @@
          <projectDesc>
             <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
          </projectDesc>
-         <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+         <schemaRef type="guide"
+                    key="EGDv01"
+                    url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
          <listPrefixDef>
-            <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+            <prefixDef ident="bib"
+                       matchPattern="([a-zA-Z0-9\-\_]+)"
+                       replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
                <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
             </prefixDef>
-            <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
+            <prefixDef ident="part"
+                       matchPattern="([a-z]+)"
+                       replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
                <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_idListMembers_v01.xml</ref> file.</p>
             </prefixDef>
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
+         <change who="part:wjsa" when="2025-02-28">Further corrections to formatting</change>
          <change who="part:wjsa" when="2023-09-30">Fixing xml format</change>
          <change who="part:axja" when="2022-08-16">Transforming docx into xml</change>
       </revisionDesc>
    </teiHeader>
    <text xml:space="preserve">
            <body> 
-                   <div type="edition" xml:lang="kaw-Ltn">
+                   <div type="edition" xml:lang="kaw-Latn">
    <pb n="1r"/>
    <p>
    <pb n="1v"/>
@@ -85,7 +92,7 @@
 <lb n="1v2"/> <gap reason="lost" extent="unknown"/> <unclear>śrī</unclear> dakṣottama bāhubajrapratipakṣakṣaya, kumon· <abbr>rake</abbr> vlar· pu sudarśana sumiddhākna sot· haji devata lumāḥ Iṁ śataśr̥ṅga, magavaya kamalir· m<supplied reason="lost">uAṁ</supplied> <gap reason="lost" extent="unknown"/>
 <lb n="1v3"/><gap reason="lost" extent="unknown"/> <unclear>luAḥ</unclear> Iṁ paparahuAn·, ri huvusnikana<unclear>ṁ</unclear>​ gavai <abbr>rake</abbr> vlar· kamalir· <num value="1">1</num> kamulān· <num value="3">3</num> paṁlivattanya <num value="1">1</num> tkan· pasak· <num value="1">1</num> parahu <num value="2">2</num> giliranya <num value="2">2</num> tinañān· Ikanaṁ rāma Iṁ <gap reason="lost" extent="unknown"/>
 <lb n="1v4"/><gap reason="lost" extent="unknown"/>jar· ya tan· vuAra paṅguhan·<unclear>,</unclear> Inujaran· saṁ huvusan· pu valuḥ Anak vanuA I manṅahi, de rakryān· mapatiḥ kinon· Umarpaṇākna Ikanaṁ vanuA I tlaṁ muAṁ Iṁ mahe <gap reason="lost" extent="unknown"/>
-<lb n="1v5"/><supplied reason="lost">saṁ hu</supplied><gap reason="lost" extent="unknown"/>vusan· makakmitana Ikanaṁ kamulān· muAṁ parahu, Umantassakna saṁ mahavān· pratidina<supplied reason="subaudible">,</supplied> paṅguhanya mas· <abbr>mā</abbr> <num value="7">7</num> pasaṁniṁ kalaṁ <abbr>mā</abbr> <num value="2">2</num> piṇḍa <abbr>mā</abbr> <num value="9">9</num> Iṁ <num value="1">sa</num>tahun·, paknānya <gap reason="lost" extent="unknown"/>
+<lb n="1v5"/><supplied reason="lost">saṁ hu</supplied><gap reason="lost" extent="unknown"/>vusan· makakmitana Ikanaṁ kamulān· muAṁ parahu, Umantassakna saṁ mahavān· pratidina<supplied reason="omitted">,</supplied> paṅguhanya mas· <abbr>mā</abbr> <num value="7">7</num> pasaṁniṁ kalaṁ <abbr>mā</abbr> <num value="2">2</num> piṇḍa <abbr>mā</abbr> <num value="9">9</num> Iṁ <num value="1">sa</num>tahun·, paknānya <gap reason="lost" extent="unknown"/>
 <lb n="1v6"/><gap reason="lost" extent="unknown"/> maparaha I maṅmit· kamulān, buat-thajyanikanaṁ rāma UmahāyuA Asi<supplied reason="omitted">ṁ</supplied> mananā rikanaṁ dharma, Umāryya yan· vatak· huvusan·, tar vihaṁ saṁ huvusan· An· maṅka<gap reason="lost" extent="unknown"/>
 <lb n="1v7"/><supplied reason="lost">rakryā</supplied><gap reason="lost" extent="unknown"/>n· halu pu vīravikrama varahan· muAṁ rakryān· sirikan· pu samaravikrānta, rakryān· vka pu kutak· pu bhāsvara, tiruAn· saṁ śivāstra, palar hyaṁ pu puñjaṁ, halaran· pu <gap reason="lost" extent="unknown"/>
 <lb n="1v8"/><gap reason="lost" extent="unknown"/><unclear>pu</unclear> cakra, paṅkur· pu rañjan·, tavān· pu pañjaluAn·, tirip· pu viṣṇu, Aṅin-aṅin· pu nohan·, vadihati pu ḍapit·‚ makudur· pu sāmvr̥da, maṅayubhāgya sira kabai<supplied reason="lost">ḥ</supplied> <gap reason="lost" extent="unknown"/>
@@ -93,16 +100,21 @@
 <lb n="1v10"/><gap reason="lost" extent="unknown"/>manaḍaha, maṅinum·<unclear>,</unclear> maparimvaṅi, Irikana<unclear>ṁ</unclear> yan· paparaḥ Ikanaṁ pasak-pasak·, patiḥ vuṅkurul· si manuṁsuṁ mas· <abbr>mā</abbr> <num value="4">4</num> vḍihan· <abbr>yu</abbr> <num value="1">1</num> patiḥ lampura<unclear>n·</unclear> <gap reason="lost" extent="unknown"/>
 <lb n="1v11"/><supplied reason="lost">va</supplied><gap reason="lost" extent="unknown"/>raṁ-varaṁ si vaṅkər·, mas· <abbr>mā</abbr> <num value="4">4</num> vḍihan· <abbr>yu</abbr> <num value="1">1</num> vahuta juru si R̥but· mas· <abbr>mā</abbr> <num value="4">4</num> vḍihan· <abbr>yu</abbr> <num value="1">1</num> pihujuṁniṁ vahuta si janta pirak· <abbr>mā</abbr> <num value="8">8</num> vḍihan· yu <num value="1">1</num> pa<gap reason="lost" extent="unknown"/>
 <lb n="1v12"/><supplied reason="lost">vḍiha</supplied><gap reason="lost" extent="unknown"/>n· <abbr>yu</abbr> <num value="1">1</num> parujar·niṁ patiḥ varaṁ-varaṁ si priṁ pirak· <abbr>mā</abbr> <num value="8">8</num> vḍihan· <abbr>yu</abbr> <num value="1">1</num> kalaṁ rikaṁ vanva I kalimvayan· pirak· <abbr>mā</abbr> <num value="2">2</num> kalaṁ I poḥ mas· <abbr>ku</abbr> <num value="2">2</num> kalaṁ I vakuṁ, si vu<unclear>ga</unclear><gap reason="lost" extent="unknown"/>
-<lb n="1v13"/><gap reason="lost" extent="unknown"/> rikanaṁ susukan· sīma saṁ paṅirahan·, I m<gap reason="lost" unit="character" quantity="3"/>r· saṁ kerava vineḥ pirak· <abbr>dhā</abbr> <num value="1">1</num> v<supplied reason="lost">ḍ</supplied>ihan· <abbr>yu</abbr> <num value="1">1</num> valandaniranuliḥ pirak·, <abbr>mā</abbr> <num value="8">8</num> sovaṁ, Anuṁ <gap reason="lost" extent="unknown"/>
+<lb n="1v13"/><gap reason="lost" extent="unknown"/> rikanaṁ susukan· sīma saṁ paṅirahan·, I m<gap reason="lost" unit="character" quantity="3"/>r· saṁ kerava vinəḥ pirak· <abbr>dhā</abbr> <num value="1">1</num> v<supplied reason="lost">ḍ</supplied>ihan· <abbr>yu</abbr> <num value="1">1</num> valandaniran uliḥ pirak·, <abbr>mā</abbr> <num value="8">8</num> sovaṁ, Anuṁ <gap reason="lost" extent="unknown"/>
 <pb n="2r"/>
-<lb n="2r1"/><gap reason="lost" unit="character" quantity="2"/> ri tlaṁ gustī, si bharata ramani bahutī, kala<unclear>ṁ</unclear> si vgil· ramani gadit·, kalima si ḍaval· ramani vujil·, vinkas si gahata ramani kaṇḍyal·, variga tamvu ta ramani <unclear>vatū rāma maratā</unclear><!--this needs to be reread-->
+<lb n="2r1"/><gap reason="lost" unit="character" quantity="2"/> ri tlaṁ gustī, si bharata ramani bahutī, kala<unclear>ṁ</unclear> si vgil· ramani gadit·, kalima si ḍaval· ramani vujil·, vinkas si gahata ramani kaṇḍyal·, variga tamvuta ramani <unclear>vatū rāma maratā</unclear><!--this needs to be reread-->
 <lb n="2r2"/>nira si gahiṁ ramani hinān·, si guḍir· ramani tiṇḍiḥ, si bṅal· ramani krānti, maṅla si jantur· ramani nalu, makari si gaṇḍal· ramani nabha, maveḥ kamvaṁ si timvul· ramani dayī, nahan· <supplied reason="lost">cihnānikanaṁ vanuA I</supplied>
-<lb n="2r3"/>tlaṁ I mahe Iṁ paparahuAn· An· pakabuAt-thajya Ikanaṁ kamulān· muAṁ parahu, Umāri An· vatak· huvusan·, muAṁ tan· katamāna de saṁ mānak· katrīṇi <unclear>paṅku</unclear>r· tavān· tirip· <unclear>muAṁ</unclear> <supplied reason="lost">saprakara</supplied><lb break="no" n="2r4"/>niṁ maṅilala drabya haji kabaiḥ kriṁ, paḍam apuy·, pamaṇikan·, maṇiga, lva, malandaṁ, ma<supplied reason="omitted">ṁ</supplied>huri makalaṅkaṁ, tapa haji, Air haji, vidu<surplus>,</surplus> maṅiduṁ, tuha paḍahi, kḍi, valyan·, paranakan·, <unclear>sambal sumbu</unclear><lb break="no" n="2r5"/>l· vatak· I dalam·, siṅgaḥ pamr̥ṣi, hulun· haji Ityevamāḍi<unclear>,</unclear> tan· tamā Irikanaṁ vanuA ri tlaṁ, Iṁ mahe, Iṁ paparahuAn·, Ikanaṁ dharma Ataḥ parānani saprakārani sukha-duḥkhanya kabaiḥ
-<lb n="2r6"/>deyanya mavaiḥ manṅahana parmasan· Iṁ kataṇḍān·, Ājñă haji<supplied reason="subaudible">,</supplied> kinonnakan· Ikanaṁ masamvyavahāra ṅkāna hīṁhīṅana kvaihanya, paṇḍai mas· paṇḍai vsi, tamvaga gaṅsa prakāra <gap reason="lost" unit="character" quantity="4"/>
-<lb n="2r7"/>Iṁ <num value="1">sa</num>tuhān· <num value="3">tluṁ</num> tuhān· Iṁ <num value="1">sa</num>sīma<unclear>,</unclear> yan paṅulaṁ kboAnya <num value="20">20</num> sapi <num value="40">40</num> vḍus· <num value="80">80</num> Aṇḍaḥ <num value="1">sa</num>vantayan· Iṁ satuhān· <num value="3">tluṁ</num> tuhān· Iṁ <num value="1">sa</num>sīma, guluṅan· <num value="3">tluṁ</num> pasaṁ<unclear>,</unclear> maṅaraḥ <num value="3">tluṁ</num> lumpaṁ, macadar· <num value="4">pataṁ</num> <unclear>paca</unclear><lb break="no" n="2r8"/>daran·, parahu <num value="1">1</num> suṁharanya <num value="3">3</num> tan· patuṇḍāna, Ikanaṁ samaṅkana tan· knā deniṁ maṅilala drabya haji<supplied reason="subaudible">,</supplied> yāpvan· pinikul· dagaṅanya, kady aṅgānniṁ mabasana, masayaṁ, makacapuri, kapas·, vuṅkuḍu<unclear>,</unclear>	
+<lb n="2r3"/>tlaṁ I mahe Iṁ paparahuAn· An· pakabuAt-thajya Ikanaṁ kamulān· muAṁ parahu, Umāri An· vatak· huvusan·, muAṁ tan· katamāna de saṁ mānak· katrīṇi <unclear>paṅku</unclear>r· tavān· tirip· <unclear>muAṁ</unclear> <supplied reason="lost">saprakara</supplied><lb break="no" 
+n="2r4"/>niṁ maṅilala drabya haji kabaiḥ kriṁ, paḍam apuy·, pamaṇikan·, maṇiga, lva, malandaṁ, ma<supplied reason="omitted">ṁ</supplied>huri makalaṅkaṁ, tapa haji, Air haji, vidu<surplus>,</surplus> maṅiduṁ, tuha paḍahi, kḍi, valyan·, paranakan·, <unclear>sambal sumbu</unclear><lb break="no" 
+n="2r5"/>l· vatak· I dalam·, siṅgaḥ pamr̥ṣi, hulun· haji Ityevamāḍi<unclear>,</unclear> tan· tamā Irikanaṁ vanuA ri tlaṁ, Iṁ mahe, Iṁ paparahuAn·, Ikanaṁ dharma Ataḥ parānani saprakārani sukha-duḥkhanya kabaiḥ
+<lb n="2r6"/>deyanya mavaiḥ manṅahana parmasan· Iṁ kataṇḍān·, Ājñă haji<supplied reason="omitted">,</supplied> kinonnakan· Ikanaṁ masamvyavahāra ṅkāna hīṁhīṅana kvaihanya, paṇḍai mas· paṇḍai vsi, tamvaga gaṅsa prakāra <gap reason="lost" unit="character" quantity="4"/>
+<lb n="2r7"/>Iṁ <num value="1">sa</num>tuhān· <num value="3">tluṁ</num> tuhān· Iṁ <num value="1">sa</num>sīma<unclear>,</unclear> yan paṅulaṁ kboAnya <num value="20">20</num> sapi <num value="40">40</num> vḍus· <num value="80">80</num> Aṇḍaḥ <num value="1">sa</num>vantayan· Iṁ satuhān· <num value="3">tluṁ</num> tuhān· Iṁ <num value="1">sa</num>sīma, guluṅan· <num value="3">tluṁ</num> pasaṁ<unclear>,</unclear> maṅaraḥ <num value="3">tluṁ</num> lumpaṁ, macadar· <num value="4">pataṁ</num> <unclear>paca</unclear><lb break="no"
+n="2r8"/>daran·, parahu <num value="1">1</num> suṁharanya <num value="3">3</num> tan· patuṇḍāna, Ikanaṁ samaṅkana tan· knā deniṁ maṅilala drabya haji<supplied reason="omitted">,</supplied> yāpvan· pinikul· dagaṅanya, kady aṅgānniṁ mabasana, masayaṁ, makacapuri, kapas·, vuṅkuḍu<unclear>,</unclear>	
 <lb n="2r9"/>garam·, vəAs·, paḍat·, lṅa, vsi-vsi, tamvaga gaṅsa Ityevamādi saprakāraniṁ duAl· pinikul· kalima bantal· Iṁ <num value="1">sa</num>tuhān· piku-pikulananya, <num value="3">tluṁ</num> tuhān· Iṁ <num value="1">sa</num>sīma, yāpuAn· lviḥ saṅka
-<lb n="2r10"/>riṁ samaṅkana, knāna Ikana sakalviḥnya de saṁ maṅilala soddhāra  ha<choice><sic>d</sic><corr>j</corr></choice>, kunaṁ  Ikanaṁ mañamvul·, maṁlākha, mañavriṁ, maṅapus·, mamubut·, maṅubar·, mamukat·, vuṅkuḍu, manahab· manuk·, mamisa<lb break="no" n="2r11"/>ṇḍuṁ, maṅanam-anam·, maṁgula, maṁhapū Ityevamādi, kapuA ya <num value="3">tri</num>bhāgān·, <num value="1">sa</num>bhāga Umarā riṁ maṅilala drabya haji, sabhāga Umarā riṁ dharma, sabhāga Umarā riṁ makmitan· dharma<supplied reason="subaudible">,</supplied> samaṅkana yan· vuA<gap reason="lost" unit="character" quantity="2"/>
-<lb n="2r12"/>ntas irikanaṁ luAḥ kaniṣṭha, maddhyama<add place="above">,</add> Uttama, saluIranikanaṁ Inantasakanya tan· pintāna Ataḥ Upahan·, yāpvan· paminta Ataḥ saUpahan· saluIrni mahāpātaka  paṅguhanya, mataṅya <unclear>de</unclear><lb break="no" n="2r13"/>yanikanaṁ Anak vanuA I tlaṁ, Iṁ mahe, Iṁ paparahuAn· kabaiḥ prayatnā ya ri soninikeṁ praśasti, yathānyan· svasthā <g type="ddandaCross">.</g></p>
+<lb n="2r10"/>riṁ samaṅkana, knāna Ikana sakalviḥnya de saṁ maṅilala soddhāra  ha<choice><sic>d</sic><corr>j</corr></choice>, kunaṁ  Ikanaṁ mañamvul·, maṁlākha, mañavriṁ, maṅapus·, mamubut·, maṅubar·, mamukat·, vuṅkuḍu, manahab· manuk·, mamisa<lb break="no" 
+n="2r11"/>ṇḍuṁ, maṅanam-anam·, maṁgula, maṁhapū Ityevamādi, kapuA ya <num value="3">tri</num>bhāgān·, <num value="1">sa</num>bhāga Umarā riṁ maṅilala drabya haji, sabhāga Umarā riṁ dharma, sabhāga Umarā riṁ makmitan· dharma<supplied reason="omitted">,</supplied> samaṅkana yan· vuA<gap reason="lost" unit="character" quantity="2"/>
+<lb n="2r12"/>ntas irikanaṁ luAḥ kaniṣṭha, maddhyama<add place="above">,</add> Uttama, saluIranikanaṁ Inantasakanya tan· pintāna Ataḥ Upahan·, yāpvan· paminta Ataḥ saUpahan· saluIrni mahāpātaka  paṅguhanya, mataṅya <unclear>de</unclear><lb break="no"
+n="2r13"/>yanikanaṁ Anak vanuA I tlaṁ, Iṁ mahe, Iṁ paparahuAn· kabaiḥ prayatnā ya ri soninikeṁ praśasti, yathānyan· svasthā <g type="ddandaCross">.</g></p>
 </div>             
                        <div type="apparatus">
                          <app loc="1v3"><lem><unclear>luAḥ</unclear></lem><rdg source="bib:Stutterheim1934_04 bib:TitiSurtiNastiti2015_01">Aḥ</rdg><!--<note>Not sure how to represent this in the apparatus: I can barely read luAḥ but it's a sure bet given the parallel in Telang II, whereas TSN's Aḥ obscures the intended meaningdoes her hyphen mean "one aksaras not read"? if so you could note down <gap reason="lost" unit="character" quantity="1"/>Aḥ TSNNo the hyphen is mine, she gives: "Aḥ [...] Iṁ" with no indication of lost syllables to the left of Aḥ. So I guess we represent her reading just as Aḥ instead. Yes,if no indication of lost syllables, then just cite Aḥ but add a note like this: "Neither S nor T gives any indication of lost syllables to the left." (I haven't check if this is true for S.)</note>-->
@@ -122,7 +134,7 @@
 <app loc="1v13"><lem>rikaṁ vanva</lem><rdg source="bib:Stutterheim1934_04 bib:TitiSurtiNastiti2015_01">rika vanuA</rdg></app>
 <app loc="1v12"><lem>si vu<unclear>ga</unclear></lem><rdg source="bib:Stutterheim1934_04 bib:TitiSurtiNastiti2015_01">si vu<gap reason="lost" unit="character" quantity="11"/></rdg></app>
 <app loc="1v13"><lem source="bib:Stutterheim1934_04">m<gap reason="lost" unit="character" quantity="3"/>r·</lem><rdg source="bib:TitiSurtiNastiti2015_01">mā<gap reason="lost" extent="unknown"/>r·</rdg></app>
-<app loc="1v13"><lem source="bib:TitiSurtiNastiti2015_01">valandaniranuliḥ</lem><rdg source="bib:Stutterheim1934_04">valandi ranuliḥ</rdg></app>
+<app loc="1v13"><lem source="bib:TitiSurtiNastiti2015_01">valandaniran uliḥ</lem><rdg source="bib:Stutterheim1934_04">valandi ranuliḥ</rdg></app>
 <app loc="2r1"><lem>kaṇḍyal·</lem><rdg source="bib:Stutterheim1934_04 bib:TitiSurtiNastiti2015_01">kañjyal·</rdg></app>
 <app loc="2v4"><lem source="bib:Stutterheim1934_04">makalaṅkaṁ</lem><rdg source="bib:TitiSurtiNastiti2015_01">pakalaṅkaṁ</rdg></app>
 <app loc="2v5"><lem source="bib:TitiSurtiNastiti2015_01">paranakan·</lem><rdg source="bib:Stutterheim1934_04">paranakkan·</rdg></app>
