@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Silver vase of the Deity at Dieng, early 10th c. CE</title>
+                <title>Silver vase of the deity at Dieng, early 10th c. CE</title>
                 <respStmt>
                     <resp>EpiDoc encoding</resp>
                     <persName ref="part:argr">
@@ -27,7 +27,7 @@
             <publicationStmt>
                 <authority>DHARMA</authority>
                 <pubPlace>Jakarta</pubPlace>
-                <idno type="filename">DHARMA_INSIDENKDiengVase</idno>
+                <idno type="filename">DHARMA_INSIDENK00388</idno>
                 <availability>
                     <licence target="https://creativecommons.org/licenses/by/4.0/">
                         <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
