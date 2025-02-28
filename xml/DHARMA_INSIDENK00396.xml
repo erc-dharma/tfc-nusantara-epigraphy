@@ -102,7 +102,7 @@
          </div>
         <div type="bibliography">
         <!-- silver plate MNi 1738-->
-           <p>Read by Brandes in <bibl><ptr target="bib:Groeneveldt1887_01"/></bibl>. This digital edition by Arlo Griffiths was made without any reproduction of the original.</p>
+           <p>Read by Brandes in <bibl><ptr target="bib:Groeneveldt1887_01"/></bibl>. As there is no trace of where the artefact has ended up since it was studied by Brandes, and no known visual documentation, this digital edition by Arlo Griffiths had to be made without consultation of any reproduction, let alone of the original.</p>
         	<listBibl type="primary">
             <bibl n="B"><ptr target="bib:Groeneveldt1887_01"/><citedRange unit="page">326-327</citedRange><citedRange unit="note">1</citedRange></bibl>
 	</listBibl>
