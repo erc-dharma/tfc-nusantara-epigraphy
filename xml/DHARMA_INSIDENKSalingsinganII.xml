@@ -98,7 +98,7 @@
             n="1r7" break="no"/>nuvaḥhakan· kinon· muliha Ikanaṁ Inambil· ma<space type="descender"/>ṅintaya ṅaranya si təkəs· rai kris· muAṁ rai bañcar· Anuṁ Inala<lb break="no" 
             n="1r8"/>p· haji Umintaya Anak· <abbr>rakai</abbr> guṇuṅan· pu bhaitā‚ ṅaranni<space type="descender"/>kanaṁ paraṇakkan· saṁ ra kinam· patiḥ I puṅsu<space type="descender"/>r· manuru<space type="descender"/>nnakan·
             <lb n="1r9"/>Ujar haji saṁ maṅuñjikan· <unclear reason="eccentric_ductus">p</unclear>u lugi <abbr>samgat·</abbr> paḍaḍaḥ mamvaṁ Ākāśa <abbr>samgat·</abbr> manimpi<space type="descender"/>ki pu Acuṁ mataṇḍa I mani<space type="descender"/>mpiki rikanaṁ kāla
-            <lb n="1r10"/>pu sugət· paruja<space type="descender"/>r· pūliḥ tuhā<space type="descender"/>n· I paṅaru<space type="descender"/>han· <sic>pi</sic> vuju<space type="descender"/>k· manurat· citralekha Iṁṅ u<space type="descender"/>maḥ mas· punta Uṅgaḥ vaṅi mataṅya
+            <lb n="1r10"/>pu sugət· paruja<space type="descender"/>r· pūliḥ tuhā<space type="descender"/>n· I paṅaru<space type="descender"/>han· p<choice><sic>i</sic><corr>u</corr></choice> vuju<space type="descender"/>k· manurat· citralekha Iṁṅ u<space type="descender"/>maḥ mas· punta Uṅgaḥ vaṅi mataṅya
             <lb n="1r11"/>daiyaniṅ anak bānuA sahananiṅ ataggan· saṁ paṅaru<space type="descender"/>han· kabaiḥ prayatnā riṅ ujar haji tan vi<space type="descender"/>haṅa sa<space type="descender"/>prakāra<space type="descender"/>niṁ paṅatag·
                 <pb n="1v"/><lb n="1v1"/> sa<unclear>ṁ</unclear> paṅaru<unclear>ha</unclear>n· rāmanta I paṅaruhan· m<unclear>i</unclear>lu mana<unclear>ḍaḥ Ujar ha</unclear>ji pu maj<unclear>ə</unclear>t· tuha kala<unclear>ṁ</unclear> pu lucira, gusti pu Astu<unclear>ti</unclear> muAṁ pu sudhara
                 <lb n="1v2"/>parujar· <unclear>pu</unclear> dhiti, vinkas· pu mukha, variga <unclear>pu</unclear> dayana<supplied reason="subaudible">,</supplied> tuha vəR̥ḥ pu bamī m<unclear>u</unclear>A<unclear>ṁ</unclear> pu Ayana, rāma maratā kaki svaṣṭi, pu udā,
@@ -115,7 +115,7 @@
                 n="2v4"/>ñjaṁ, vinkas· pu parasi, saṁ ra gugur·, tuha gusali rāma<add place="above">ni</add> sarad· tuha kalaṁ pu talaga, pu saṅka ramani catha<supplied reason="subaudible">,</supplied> guṣti pu piṅul· ramani
                 <lb n="2v5"/>Astira, parujar· pu livū ramani raksaṇa, tuha gusali pu saṅka ramani mūla<supplied reason="subaudible">,</supplied> vinkas pu hli ramani tuṅgū, rāma maratā pu basa ramani sa<lb break="no" 
                 n="2v6"/>ñjaya, nā Anuṅ hana de saṁ paṅaruhan· prayatnā riṁ Ujar haji ṅunivaiḥ rakryān· mavanuA tan· tamā ri Ataggan· saṁ paṅaruhan·
-                <lb n="2v7"/>saṁ paṅaruhan· Ataḥ pramāṇā Iriya, svaṣti śaka-varsatīta <num value="827">827</num> mārgga<space type="descender"/>śira-māsa, tithi caturdaśĭ kr̥ṣṇa, <abbr>ma</abbr>, <abbr>pa</abbr>, <abbr>vr̥</abbr>, vā<lb break="no" 
+                <lb n="2v7"/>saṁ paṅaruhan· Ataḥ pramāṇā Iriya, svaṣti śaka-varsatīta <num value="827">827</num> mārgga<space type="descender"/>śira-māsa, tithi <num value="14">caturdaśĭ</num> <abbr>kr̥ṣṇa</abbr>, <abbr>ma</abbr>, <abbr>pa</abbr>, <abbr>vr̥</abbr>, vā<lb break="no" 
                 n="2v8"/>ra tatkāla saṁ tuha gusali rama<choice><sic>ṇ</sic><corr>n</corr></choice>i Ikā mavaiḥ manaḍaha I rāmanta I kikil batu makabaihan· majaryyakan· sira haḍa<lb break="no" 
                 n="2v9"/>nan·, patiḥ rikāṅ kāla pu kataṁ ramani dava, kalaṁ pu gubāṁ, guṣti pu baṁklə, vinkas· pu pradū, rāma kaki Atə, kaki
                 <lb n="2v10"/>gunuṁ, pu jint<unclear>ī</unclear>, pu kamala, pu kamali, pu parahita, kala<unclear>ṁ</unclear> I kakaran· pu tguḥ<supplied reason="subaudible">,</supplied> vinkas· pu Ikā, hulu turus· I suru tba<lb break="no"
@@ -237,6 +237,11 @@
                    <ptr target="bib:Nakada1982_01"/>
                    <citedRange unit="page">84–85, 92–93</citedRange>
                    <citedRange unit="item">54, 91</citedRange>
+                 </bibl>
+                 <bibl>
+                   <ptr target="bib:TitiSurtiNastiti_al2024_01"/>
+                   <citedRange unit="page">79</citedRange>
+                  <citedRange unit="note">45</citedRange>
                  </bibl>
                  <!--not listed in Eade & Gislén-->
              </listBibl>
