@@ -80,6 +80,7 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
+            <change who="part:wjsa" when="2025-03-08" status="draft">Further cleaning up of the encoding</change>
             <change who="part:wjsa" when="2025-03-05" status="draft">Correcting bibliography formatting, adding no-break lines</change>
             <change who="part:argr" when="2024-08-18" status="draft">started manual (re)encoding of the inscription</change>
             <change who="part:axja" when="2022-08-16">Transforming docx into xml</change>
@@ -88,35 +89,34 @@
     <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="kaw-Latn" rendition="class:38769 maturity:83213">
-            <p><pb n="1r"/><lb n="1r1"/><unclear><g type="ddanda"/></unclear> svasti śaka-varṣātīta ḍuĀmvilan· Atus· Aliḥ baiśakha-māsa‚ tithi <choice><sic>caturdaśĭ</sic><corr>cathurthī</corr></choice> kr̥ṣṇa-pakṣa, tu, U, so, vāra‚ tatkāla saṁ paṅaruhan· pu ca<lb 
-            n="1r2" break="no"/>kra mamuAt· gavai varaṁ baṁ mas· tuṅgal· brat sāṅgappan· kati‚ rambutnya Udi‚ payuṁ pirak· mavaṅku maḍaṇḍa mapuñcak· mas· tuṅgal· brat sā<lb 
-            n="1r3" break="no"/>ṅgappan· kati masnya Udi tigaṁ kati puṇya śrī mahārāja rakai ka<space type="descender"/>yu vaṅi I bhaṭāra I saliṁsiṅan· rikana kāla saṁ paṅaruhan· dinamakka<lb break="no" 
+            <p><pb n="1r"/><lb n="1r1"/><unclear><g type="ddanda"/></unclear> svasti śaka-varṣātīta <num value="802">ḍuĀmvilan· Atus· Aliḥ</num> baiśakha-māsa‚ tithi <num value="4">catur<choice><sic>daśĭ</sic><corr>thī</corr></choice></num> kr̥ṣṇa-pakṣa, <abbr>tu</abbr>, <abbr>U</abbr>, <abbr>so</abbr>, vāra‚ tatkāla saṁ paṅaruhan· pu ca<lb 
+            n="1r2" break="no"/>kra mamuAt· gavai varaṁ baṁ mas· tuṅgal· brat <num value="1.5">sāṅgappan·</num> kati‚ rambutnya Udi‚ payuṁ pirak· mavaṅku maḍaṇḍa mapuñcak· mas· tuṅgal· brat <num value="1.5">sā<lb 
+            n="1r3" break="no"/>ṅgappan·</num> kati masnya Udi <num value="3">tigaṁ</num> kati puṇya śrī mahārāja <abbr>rakai</abbr> ka<space type="descender"/>yu vaṅi I bhaṭāra I saliṁsiṅan· rikana kāla saṁ paṅaruhan· dinamakka<lb break="no" 
             n="1r4"/>n· tan katamāna dainiṁ paraṇakkan· muAṁ sikappan· halu varak· kriṁ pa<space type="descender"/>tiṅhalan· paḍa<space type="descender"/>mm apuy· valyan· muAṁ rumvān· sahana<lb break="no" 
             n="1r5"/>niṁ pu<space type="descender"/>npunan·nira paṇḍai tambaga gaṅśa I paṅgu<space type="descender"/>mulan· I handanuAn· I kamalagyan· I guluṁ I talaga sapradeśaniṁ maṅhu<lb break="no" 
             n="1r6"/>juṁ-karaṁ taku jati luĪtan· kuniṅan· suṇḍa hujuṁ gaṅgā sa<space type="descender"/>kveḥniṁ tumūt· Inatag· mabuAt-hajya I vataṅan· Irikā<space type="descender"/>nn i<lb 
             n="1r7" break="no"/>nuvaḥhakan· kinon· muliha Ikanaṁ Inambil· ma<space type="descender"/>ṅintaya ṅaranya si təkəs· rai kris· muAṁ rai bañcar· Anuṁ Inala<lb break="no" 
-            n="1r8"/>p· haji Umintaya Anak· rakai guṇuṅan· pu bhaitā‚ ṅaranni<space type="descender"/>kanaṁ paraṇakkan· saṁ rakinam· patiḥ I puṅsu<space type="descender"/>r· manuru<space type="descender"/>nnakan·
-            <lb n="1r9"/>Ujar haji saṁ maṅuñjikan· <unclear reason="eccentric_ductus">p</unclear>u lugi samgat· paḍaḍaḥ mamvaṁ Ākāśa samgat· manimpi<space type="descender"/>ki pu Acuṁ mataṇḍa I mani<space type="descender"/>mpiki rikanaṁ kāla
+            n="1r8"/>p· haji Umintaya Anak· <abbr>rakai</abbr> guṇuṅan· pu bhaitā‚ ṅaranni<space type="descender"/>kanaṁ paraṇakkan· saṁ ra kinam· patiḥ I puṅsu<space type="descender"/>r· manuru<space type="descender"/>nnakan·
+            <lb n="1r9"/>Ujar haji saṁ maṅuñjikan· <unclear reason="eccentric_ductus">p</unclear>u lugi <abbr>samgat·</abbr> paḍaḍaḥ mamvaṁ Ākāśa <abbr>samgat·</abbr> manimpi<space type="descender"/>ki pu Acuṁ mataṇḍa I mani<space type="descender"/>mpiki rikanaṁ kāla
             <lb n="1r10"/>pu sugət· paruja<space type="descender"/>r· pūliḥ tuhā<space type="descender"/>n· I paṅaru<space type="descender"/>han· <sic>pi</sic> vuju<space type="descender"/>k· manurat· citralekha Iṁṅ u<space type="descender"/>maḥ mas· punta Uṅgaḥ vaṅi mataṅya
             <lb n="1r11"/>daiyaniṅ anak bānuA sahananiṅ ataggan· saṁ paṅaru<space type="descender"/>han· kabaiḥ prayatnā riṅ ujar haji tan vi<space type="descender"/>haṅa sa<space type="descender"/>prakāra<space type="descender"/>niṁ paṅatag·
-            <!--Jarrah to continue from here-->
                 <pb n="1v"/><lb n="1v1"/> sa<unclear>ṁ</unclear> paṅaru<unclear>ha</unclear>n· rāmanta I paṅaruhan· m<unclear>i</unclear>lu mana<unclear>ḍaḥ Ujar ha</unclear>ji pu maj<unclear>ə</unclear>t· tuha kala<unclear>ṁ</unclear> pu lucira, gusti pu Astu<unclear>ti</unclear> muAṁ pu sudhara
                 <lb n="1v2"/>parujar· <unclear>pu</unclear> dhiti, vinkas· pu mukha, variga <unclear>pu</unclear> dayana<supplied reason="subaudible">,</supplied> tuha vəR̥ḥ pu bamī m<unclear>u</unclear>A<unclear>ṁ</unclear> pu Ayana, rāma maratā kaki svaṣṭi, pu udā,
-                <lb n="1v3"/>tuha gusali pu mātra, tuha kala<unclear>ṁ</unclear> I kamalagyan· pu śānta gusti pu Uṇ<unclear>ḍ</unclear>al· parujar· pu pañjaṁ, vinkas· pu para_si, sa<unclear>ṁ</unclear> ra gugur·
-                <lb n="1v4"/>tuha gusali ramani sarad·, tuha ka_laṁ pu <unclear>ta</unclear>laga, pu saṅka ramani catha, gusti pu piṅul· ramani Astira, parujar· pu livū ramani ra<lb break="no"
+                <lb n="1v3"/>tuha gusali pu mātra, tuha kala<unclear>ṁ</unclear> I kamalagyan· pu śānta gusti pu Uṇ<unclear>ḍ</unclear>al· parujar· pu pañjaṁ, vinkas· pu para<space type="descender"/>si, sa<unclear>ṁ</unclear> ra gugur·
+                <lb n="1v4"/>tuha gusali ramani sarad·, tuha ka<space type="descender"/>laṁ pu <unclear>ta</unclear>laga, pu saṅka ramani catha, gusti pu piṅul· ramani Astira, parujar· pu livū ramani ra<lb break="no"
                 n="1v5"/>kṣaṇa, tuha gusali pu saṅka <unclear>rama</unclear>ni mūla, vinkas· pu hl<unclear>i</unclear> ramani tuṅgū, rāma maratā pu basa ramani sañjaya nā Anuṁ hana de saṁ pa<lb break="no"
                 n="1v6"/>ṅaruhan· prayatnā ri<unclear>ṁ</unclear> Ujar haji ṅunivaiḥ rakry<unclear>ā</unclear>n· mava<unclear>nuA</unclear> tan tamā ri Ataggan· saṁ paṅaruhan·, sa<unclear>ṁ</unclear> paṅaruhan· Ataḥ pra<lb break="no" 
-                n="1v7"/>māṇā Iriya, <space unit="character" quantity="2"/> svasti śaka-varṣātīta 827 mārgga<choice><sic>ṣ</sic><corr>ś</corr></choice>ira-māsa vaturdaśĭ kr̥ṣṇa-pakṣa, mavulu, pahiṁ, vr̥⟨ha⟩spati vāra ta<lb break="no" n="1v8"/><unclear>t</unclear>kāla saṁ tuha gusali bapani Ikā mavaiḥ manaḍaha I rāmanta I kikil vatu makabeḥhan·, majaryyakan· sira haḍaṁṅan· savi
-                <lb n="1v9"/><unclear>l</unclear> pa<unclear>t</unclear>iḥ I kikil vatu Irikanaṁ kāla, pu kataṁ, kalaṁ pu dava, gusti pu baṅklə, vinkas· pu taliki, rāma kaki gatī, kaki gunuṁ, pu jinhi pu
-                <lb n="1v10"/>pula, pu kamalī, pu parahita, kali I kakaran· pu tguḥ, vinkas· p<unclear>u</unclear> Ekā, hulu turuś·, I suru tbal vu maṅol,
+                n="1v7"/>māṇā Iriya, <space unit="character" quantity="2"/>svasti śaka-varṣātīta <num value="827">827</num> mārgga<choice><sic>ṣ</sic><corr>ś</corr></choice>ira-māsa <choice><sic>v</sic><corr>c</corr></choice>aturdaśĭ kr̥ṣṇa-pakṣa, mavulu, pahiṁ, vr̥<unclear>ha</unclear>spati vāra ta<lb break="no" n="1v8"/><unclear>t</unclear>kāla saṁ tuha gusali bapani Ikā mavaiḥ manaḍaha I rāmanta I kikil vatu makabeḥhan·, majaryyakan· sira haḍaṁṅan· savi<lb break="no" 
+                n="1v9"/><unclear>l</unclear> pa<unclear>t</unclear>iḥ I kikil vatu Irikanaṁ kāla, pu kataṁ, kalaṁ pu dava, gusti pu baṅklə, vinkas· pu taliki, rāma kaki gatī, kaki gunuṁ, pu jinhi pu
+                <lb n="1v10"/>pula, pu kamalī, pu parahita, kali I kakaran· pu tguḥ, vinkas· p<unclear>u</unclear> Ekā, hulu turu<choice><orig>ś</orig><reg>s</reg></choice>·, I suru tbal <choice><sic>v</sic><corr>p</corr></choice>u maṅol,
                 <pb n="2v"/>
-                <lb n="2v1"/> saṁ paṅaruhan· rāmanta I paṅaruhan· milu manaḍaḥ Ujar haji, pu majət· tuha kalaṁ pu lucira, guṣti pu Astati,
-                <lb n="2v2"/> muAṁ pu sudhara, parujar· pu dhi_ti, vinkas· pu mula, variga pu dayana, tuha vəR̥ḥ pu bamī<supplied reason="subaudible">,</supplied> muAṁ pu Ayana, rāma ma<lb break="no" n="2v3"/>ratā kakī svaṣṭi, pu Udā, tuha gusali pu mātra, tuha kalaṁ I kamalagyan· pu śānta, gusti pu Uṇḍal·, parujar· pu pu<lb break="no" 
+                <lb n="2v1"/>saṁ paṅaruhan· rāmanta I paṅaruhan· milu manaḍaḥ Ujar haji, pu majət· tuha kalaṁ pu lucira, guṣti pu Astati,
+                <lb n="2v2"/>muAṁ pu sudhara, parujar· pu dhi<space type="descender"/>ti, vinkas· pu mula, variga pu dayana, tuha vəR̥ḥ pu bamī<supplied reason="subaudible">,</supplied> muAṁ pu Ayana, rāma ma<lb break="no" n="2v3"/>ratā kakī svaṣṭi, pu Udā, tuha gusali pu mātra, tuha kalaṁ I kamalagyan· pu śānta, gusti pu Uṇḍal·, parujar· pu pu<lb break="no" 
                 n="2v4"/>ñjaṁ, vinkas· pu parasi, saṁ ra gugur·, tuha gusali rāma<add place="above">ni</add> sarad· tuha kalaṁ pu talaga, pu saṅka ramani catha<supplied reason="subaudible">,</supplied> guṣti pu piṅul· ramani
                 <lb n="2v5"/>Astira, parujar· pu livū ramani raksaṇa, tuha gusali pu saṅka ramani mūla<supplied reason="subaudible">,</supplied> vinkas pu hli ramani tuṅgū, rāma maratā pu basa ramani sa<lb break="no" 
                 n="2v6"/>ñjaya, nā Anuṅ hana de saṁ paṅaruhan· prayatnā riṁ Ujar haji ṅunivaiḥ rakryān· mavanuA tan· tamā ri Ataggan· saṁ paṅaruhan·
-                <lb n="2v7"/>saṁ paṅaruhan· Ataḥ pramāṇā Iriya, svaṣti śaka-varsatīta 827 mārgga_śira-māsa, tithi caturdaśĭ kr̥ṣṇa, ma, pa, vr̥, vā<lb break="no" 
-                n="2v8"/>ra tatkāla saṁ tuha gusali ramaṇi Ikā mavaiḥ manaḍaha I rāmanta I kikil batu makabaihan· majaryyakan· sira haḍa<lb break="no" 
+                <lb n="2v7"/>saṁ paṅaruhan· Ataḥ pramāṇā Iriya, svaṣti śaka-varsatīta <num value="827">827</num> mārgga<space type="descender"/>śira-māsa, tithi caturdaśĭ kr̥ṣṇa, <abbr>ma</abbr>, <abbr>pa</abbr>, <abbr>vr̥</abbr>, vā<lb break="no" 
+                n="2v8"/>ra tatkāla saṁ tuha gusali rama<choice><sic>ṇ</sic><corr>n</corr></choice>i Ikā mavaiḥ manaḍaha I rāmanta I kikil batu makabaihan· majaryyakan· sira haḍa<lb break="no" 
                 n="2v9"/>nan·, patiḥ rikāṅ kāla pu kataṁ ramani dava, kalaṁ pu gubāṁ, guṣti pu baṁklə, vinkas· pu pradū, rāma kaki Atə, kaki
                 <lb n="2v10"/>gunuṁ, pu jint<unclear>ī</unclear>, pu kamala, pu kamali, pu parahita, kala<unclear>ṁ</unclear> I kakaran· pu tguḥ<supplied reason="subaudible">,</supplied> vinkas· pu Ikā, hulu turus· I suru tba<lb break="no"
                 n="2v11"/>l· pu maṅol·</p>
@@ -181,14 +181,14 @@
         
    </div>
          <div type="translation">
- 	<!--translation encoded as per EGD §9.2 -->
+ 	<!--translation to be encoded as per EGD §9.2 -->
          </div>
          <div type="commentary">
             <p>Two plates (Museum Nasional Indonesia, E.8a and 8b.) containing partial copies of a single text. The first plate is inscribed on both sides, while the second plate is inscribed on one side only. Plate 2 replicates almost verbatim the content of the verso side of plate 1.</p>
           
          </div>
          <div type="bibliography">
-            <p>This is a Balitung-era reissue and addendum (dated 827 Śaka = 28 November 905) to an original charter issued during the reign of <foreign>rakai</foreign> Kayu wangi <foreign>dyah</foreign> Lokapāla (dated 802 Śaka = 2 May 880). It is conventionally designated as three separate dated texts: the Salingsingan I inscription of 802 Śaka (Damais no. 48; Nakada no. 54) and the Kikil Batu I and II inscriptions of 827 Śaka (Damais nos. 78 &amp; 79; Nakada no. 91). The link between the two dated portions is not yet clear, but the fact that they are inscribed in the same hand on two plates of identical dimensions suggests to us that they were produced together, and hence should be designated the same. We therefore designate the two plates as plates 1 and 2 of the Salingsingan II inscription.</p>
+            <p>This is a Balitung-era reissue and addendum (dated 827 <foreign>Śaka</foreign> = 28 November 905) to an original charter issued during the reign of <foreign>rakai</foreign> Kayu wangi <foreign>dyah</foreign> Lokapāla (dated 802 <foreign>Śaka</foreign> = 2 May 880). It is conventionally designated as three separate dated texts: the Salingsingan inscription of 802 <foreign>Śaka</foreign> and the Kikil Batu I and II inscriptions of 827 <foreign>Śaka</foreign>. The link between the two dated portions is not yet clear, but the fact that they are inscribed in the same hand on two plates of identical dimensions suggests to us that they were produced together, and hence should bear a joint designation. We therefore designate the two plates as plates 1 and 2 of the Salingsingan II-Kikil Batu inscription. For an explanation of why the Salingsingan portion has been recently been renumbered as Salingsingan II, see <bibl><ptr target="bib:TitiSurtiNastiti2024_01"/><citedRange>79</citedRange></bibl></p>
                  <p>Read by Wayan Jarrah Sastrawan and Arlo Griffiths in December 2021 from images of the Kern Institute rubbings and the reproductions in Kawi Oorkonden (pl. X).</p>
             <listBibl type="primary">
                  <bibl n="C"> 
