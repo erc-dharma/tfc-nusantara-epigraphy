@@ -130,7 +130,6 @@
             <!--commentary encoded as per section §9.3 -->
          </div>
         <div type="bibliography">
-	<!--bibliography encoded as per section §9.4 -->
            <p>Deciphered but not published by Boechari, a copy of whose typescript we received from Jan Wisseman Christie and use here as edition of reference (<bibl n="B"><ptr target="bib:BoechariND_01"/></bibl>). As our apparatus entries show, a copy of the same typescript seems to have been reproduced with involuntary errors, in the first integral published edition (<bibl><ptr target="bib:MachiSuhadi+SukartoAtmodjo1986_01"/></bibl>), which is accompanied by an Indonesian translation. Re-edited here by Arlo Griffiths and Mekhola Gomes from photographs.</p>
         	<listBibl type="primary">
 	<bibl n="B"><ptr target="bib:BoechariND_01"/></bibl>
@@ -150,7 +149,6 @@
         <!-- 
 7. O.D. Photo 13691.
 8. A.G. Photo Tunahan_1a.jpg.
-9. Laporan BRIN-EFEO March 2023
         -->
       </body>
   </text>

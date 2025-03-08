@@ -257,7 +257,6 @@ n="2r2"/>l· <supplied reason="omitted">gusti</supplied> si kaivala, I puluṅ k
             <!--commentary encoded as per section §9.3 -->
          </div>
         <div type="bibliography">
-	<!--bibliography encoded as per section §9.4 -->
            <p>Deciphered but not published by Boechari, a copy of whose typescript we received from Jan Wisseman Christie and use here as edition of reference (<bibl n="B"><ptr target="bib:BoechariND_01"/></bibl>). As our apparatus entries show, a copy of the same typescript seems to have been reproduced with involuntary errors, in the first integral published edition (<bibl><ptr target="bib:MachiSuhadi+SukartoAtmodjo1986_01"/></bibl>). Re-edited here by Arlo Griffiths and Mekhola Gomes from photographs.</p>
         	<listBibl type="primary">
 	<bibl n="B"><ptr target="bib:BoechariND_01"/></bibl>
@@ -267,11 +266,11 @@ n="2r2"/>l· <supplied reason="omitted">gusti</supplied> si kaivala, I puluṅ k
               <bibl><ptr target="bib:Naerssen1939_01"/></bibl>
               <bibl><ptr target="bib:Damais1951_01"/><citedRange unit="page">21-23</citedRange></bibl>
               <bibl><ptr target="bib:Damais1952_01"/><citedRange unit="page">36-37</citedRange><citedRange unit="item">A. 38</citedRange></bibl>
-                <bibl><ptr target="bib:Damais1955_01"/><citedRange unit="page">32-33</citedRange></bibl>
+               <bibl><ptr target="bib:Damais1955_01"/><citedRange unit="page">32-33</citedRange></bibl>
 	<bibl><ptr target="bib:Boechari1958_01"/><citedRange unit="page">17</citedRange></bibl>
-                <bibl><ptr target="bib:Damais1970_01"/><citedRange unit="page">48</citedRange><citedRange unit="item">81</citedRange></bibl>
-                <bibl><ptr target="bib:Sarkar1971-1972_01"/><citedRange unit="volume">I</citedRange><citedRange unit="item">XXXIV</citedRange><citedRange unit="page">199</citedRange></bibl>
-                <bibl><ptr target="bib:TitiSurtiNastiti+al2024_01"/><citedRange unit="page">23-24</citedRange><citedRange unit="section">2.1.2</citedRange></bibl>
+               <bibl><ptr target="bib:Damais1970_01"/><citedRange unit="page">48</citedRange><citedRange unit="item">81</citedRange></bibl>
+               <bibl><ptr target="bib:Sarkar1971-1972_01"/><citedRange unit="volume">I</citedRange><citedRange unit="item">XXXIV</citedRange><citedRange unit="page">199</citedRange></bibl>
+               <bibl><ptr target="bib:TitiSurtiNastiti+al2024_01"/><citedRange unit="page">23-24</citedRange><citedRange unit="section">2.1.2</citedRange></bibl>
            </listBibl>
         </div>
         <!-- 
