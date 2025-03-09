@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+            	<title>The Polengan plates: Jurungan charter (798 Śaka)</title>
+                <respStmt>
+                    <resp>EpiDoc Encoding</resp>
+                    <persName ref="part:argr">
+                      <forename>Arlo</forename>
+                      <surname>Griffiths</surname>
+                    </persName>
+                  </respStmt>
+                  <respStmt>
+                    <resp>intellectual authorship of edition</resp>
+                    <persName ref="part:argr">
+                      <forename>Arlo</forename>
+                      <surname>Griffiths</surname>
+                    </persName>
+                    <persName ref="part:mego">
+                        <forename>Mekhola</forename>
+                        <surname>Gomes</surname>
+                      </persName>
+                  </respStmt>
+                </titleStmt>
+                <publicationStmt>
+                  <authority>DHARMA</authority>
+                  <pubPlace>Jakarta</pubPlace>
+                  <idno type="filename">DHARMA_INSIDENKJurungan</idno>
+                  <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                      <p>This work is licenced under the Creative Commons Attribution 4.0 Unported Licence. To view a copy of the licence, visit https://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.</p>
+                      <p>Copyright © 2019-2025 by Arlo Griffiths &amp; Mekhola Gomes.</p>
+                    </licence>
+                  </availability>
+                <date from="2019" to="2025">2019-2025</date>
+            </publicationStmt>
+            <sourceDesc><!-- only the handDesc can be filled in at this stage -->
+                <msDesc><!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/><!-- don't modify this -->
+                    </msIdentifier>
+                    <msContents><!-- describe the intellectual content of an inscription -->
+                        <summary><!-- //// NOT MANDATORY  ////--></summary> <!-- offers the possibility to give a summary of the inscription's content -->
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p><!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EGD 11.2. --></p>
+                            <!-- If you need to identify individual hands (EGD §7.5/) in addition to one or more paragraphs of general palaeographic description, wrap <summary> around the <p> or <p>s above, and, outside <summary>, create <handNote> elements for each hand as follows:
+						<summary><p><p/></summary>
+						<handNote xml:id="Pallava00001_hand1"></handNote>
+						<handNote xml:id="Pallava00001_hand2"></handNote>
+					 -->
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
+            </projectDesc>
+            <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/><!-- UPDATE the link once the release is made official -->
+            <listPrefixDef>
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                    <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
+                </prefixDef>
+                <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
+                    <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_idListMembers_v01.xml</ref> file.</p>
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <revisionDesc>
+            <change status="draft" when="2025-03-09" who="part:argr">started encoding the inscription</change>
+          </revisionDesc>
+    </teiHeader>
+    <text xml:space="preserve">
+      <body>
+         <div type="edition" xml:lang="kaw-Latn" rendition="class:38769 maturity:83213">
+            <p><pb n="1v"/><lb n="1v1"/><g type="ddanda"/><!--<g type="dotDouble"/> <g type="ddandaHooked"/> -->
+ svasti śaka-varṣătīta <num value="798">798</num> poṣya-māsa, Ekādaśĭ śukla-pakṣa, mavulu pahīṁ Āditya-vāra,  tatkāla rakarayān· 
+<lb n="1v2"/>I sirikan· pu rakap· manusuk· lmaḥniṁ sukat· I juruṅan· vatak· pagar vsi, sīmānikanaṁ prāsāda I gunuṁ hyaṁ, luĀnikanaṁ lmaḥ An sa<lb break="no" 
+n="1v3"/>mpun· ginavai savaḥ tampaḥ <num value="6">6</num> muAṁ vuAra lmaḥ kinbuAn· vuAṁnya sinīma tamānnanikanaṁ prāsāda I gunuṁ hyaṅ Ataḥ, luĀnikanaṁ lmaḥ
+<lb n="1v4"/>tamānna paṅavaitanya ḍpa <num value="117">117</num> paṅalornya ḍpa <num value="104">104</num> <g type="ddandaHooked">.</g></p>
+<p>Anuṁ <seg rend="check">makavaiḥ</seg><!-- emend mavaiḥ? --> Ikanaṁ lmaḥ sinusuk· rakarayān· I pagar vsi pu maṅu<lb break="no" 
+n="1v5"/>sī, InaṅsəAn· sira pasak·-pasak· mas· <abbr>su</abbr> 5 vḍihan· buAt· kliṁ putiḥ 
+<abbr>yu</abbr> <num value="1">1</num> gañjarpatra <abbr>yu</abbr> <num value="1">1</num> luṅgar· <abbr>yu</abbr> <num value="1">1</num> buAt· vaitan· I<!-- [binding-hole between lines 5 and 6] -->	
+<lb break="no" 
+n="1v6"/>nmas· <abbr>mā</abbr> <num value="8">8</num> kbo Inmas· <abbr>mā</abbr> 10 vəAs· pinirak· <abbr>mā</abbr> <num value="6">6</num> vsi pinirak· <abbr>mā</abbr> <num value="2">2</num> I rakryān· Ibu mas· <abbr>mā</abbr> <num value="8">8</num> kain· Inmas· <abbr>mā</abbr> <num value="4">4</num> I rakryān· A<lb break="no" 
+n="1v7"/>nakbi mas· <abbr>su</abbr> <num value="1">1</num> kain· buAt· Iṅulū vlaḥ <num value="1">1</num> I rakai manyuḥ mas· <abbr>mā</abbr> <num value="4">4</num> vḍihan· raṅga <abbr>yu</abbr> <num value="1">1</num> I rakai taṅga vatu mas· <abbr>mā</abbr> <num value="4">4</num> kain· vlaḥ <num value="1">1</num>
+<lb n="1v8"/>tuhānniṁ kanayakān· <num value="2">2</num> si Uṅgahan·, si mahendra mas· <abbr>mā</abbr> <num value="8">8</num> vḍihan· Aṅsit· <abbr>yu</abbr> <num value="2">2</num> mataṇḍa si bajra mas· <abbr>mā</abbr> <num value="4">4</num> vḍihan· Aṅsit· <abbr>yu</abbr> <num value="1">1</num>
+<lb n="1v9"/>parujar· mas· <abbr>mā</abbr> <num value="4">4</num> vḍihan· Aṅsit· <abbr>yu</abbr> <num value="1">1</num> tuhānniṁ lampuran· mas· <abbr>mā</abbr> <num value="2">2</num> vḍihan· Aṅsit· <abbr>yu</abbr> <num value="1">1</num> vadvā rarai mas· <abbr>mā</abbr> <num value="2">2</num> vḍihan· Aṅsi<lb break="no" 
+n="1v10"/>t· <abbr>yu</abbr> <num value="1">1</num> kalula mas· <abbr>mā</abbr> <num value="2">2</num> vḍihan· raṅga <abbr>yu</abbr> <num value="1">1</num> manapal· mas· <abbr>mā</abbr> <num value="2">2</num> vḍihan· Aṅsit· muAṁ raṅga <abbr>yu</abbr> <num value="2">2</num> Anakbinya kain· vlaḥ <num value="1">1</num> manuṅgū mas·
+<!-- arlo to continuer here -->
+<pb n="2r"/><lb n="2r1"/> <abbr>mā</abbr> <num value="2">2</num> vḍihan· Aṅsit· <abbr>yu</abbr> <num value="1">1</num> maṅasəAkan· mas· <abbr>mā</abbr> <num value="2">2</num> vḍihan· raṅga <abbr>yu</abbr> <num value="1">1</num> citralekha mas· <abbr>mā</abbr> <num value="2">2</num> vḍihan· raṅga <abbr>yu</abbr> <num value="1">1</num> năyaka I juruṅan· si raṅga-
+<lb n="2r2"/> l· pirak· <abbr>mā</abbr> <num value="4">4</num> vḍihan· Aṅsit· <abbr>yu</abbr> <num value="1">1</num> Anakbinya kain· vlaḥ <num value="1">1</num> paṅuraṁ Iṁ vanuA <num value="2">2</num> mas· <abbr>mā</abbr> <num value="2">2</num> vḍihan· raṅga <abbr>yu</abbr> <num value="2">2</num> kula kriṁ pirak· <abbr>mā</abbr> <num value="4">4</num> vḍihan· raṅga yu
+<lb n="2r3"/> <num value="1">1</num> || vahuta lbur putiḥ <num value="2">2</num> si guṇa, si dgi mas· <abbr>mā</abbr> <num value="8">8</num> vḍihan· Aṅsit· <abbr>yu</abbr> <num value="2">2</num> Anakbinya <num value="2">2</num> mas· <abbr>mā</abbr> <num value="4">4</num> kain· vlaḥ <num value="2">2</num> vahuta lampuran· <num value="4">4</num> mas· <abbr>mā</abbr> <num value="8">8</num> vḍi-
+<lb n="2r4"/> han· raṅga <abbr>yu</abbr> <num value="4">4</num> Anakbinya <num value="4">4</num> mas· <abbr>mā</abbr> <num value="4">4</num> kain· vlaḥ <num value="4">4</num> pituṁtuṁ ri Umaḥ <num value="2">2</num> mas· <abbr>mā</abbr> <num value="2">2</num> vḍihan· raṅga <abbr>yu</abbr> <num value="2">2</num> pituṁtuṁ riṁ pakuvuAn· <num value="6">6</num> mas· <abbr>mā</abbr> <num value="6">6</num> vḍihan· raṅga
+<lb n="2r5"/> <abbr>yu</abbr> <num value="3">3</num> vahuta mavəAs· mas· <abbr>mā</abbr> <num value="1">1</num> vḍihan· hlai <num value="1">1</num> pitu⟨ṁ⟩tuṁ vinkas· <num value="2">2</num> mas· <abbr>mā</abbr> <num value="2">2</num> vḍihan· raṅga <abbr>yu</abbr> <num value="2">2</num> || muvaḥ vahuta limus vaṅi mas· <abbr>mā</abbr> <num value="4">4</num> vḍihan· A-				
+	 [binding-hole between lines 5 and 6]	
+<lb n="2r6"/> ṅsit· <abbr>yu</abbr> <num value="1">1</num> Anakbinya mas· <abbr>mā</abbr> <num value="2">2</num> kain· vlaḥ <num value="1">1</num> || patiḥ ptir· <num value="2">2</num> si (k)umar·, si muñca pirak· dhā <num value="1">1</num> vḍihan· Aṁsit· <abbr>yu</abbr> <num value="2">2</num> kalulanya vḍihan· raṅga
+<lb n="2r7"/> <abbr>yu</abbr> <num value="1">1</num> || samgat· vadihati pu maṅhutaṅi mas· <abbr>mā</abbr> <num value="8">8</num> vḍihan· Aṅsit· <abbr>yu</abbr> <num value="1">1</num> tuhān· <num value="2">2</num> miraḥ-miraḥ si guvar·, kulumpitan·, si larak· ma-
+<lb n="2r8"/> s· <abbr>mā</abbr> <num value="8">8</num> vḍihan· Aṅsit· <abbr>yu</abbr> <num value="2">2</num> Anuṁ milu manusuk· kasumuran· si niru mas· <abbr>mā</abbr> <num value="8">8</num> vḍihan· Aṅsit· <abbr>yu</abbr> muAṁ raṅga <abbr>yu</abbr> <num value="2">2</num> || samgat· maku-
+<lb n="2r9"/> dur· pu maṅiṇḍit· mas· <abbr>mā</abbr> <num value="8">8</num> vḍihan· Aṅsit· <abbr>yu</abbr> <num value="1">1</num> tuhān· <num value="2">2</num> rolū si manūt· vatu valai si mnaṁ, mas· <abbr>mā</abbr> <num value="8">8</num> vḍihan· Aṅsit· <abbr>yu</abbr> <num value="2">2</num> Anuṁ milu ma-
+<lb n="2r10"/> nusuk· palintahan· si śra mas· <abbr>mā</abbr> <num value="8">8</num> vḍihan· Aṅsit· muAṁ putiḥ <abbr>yu</abbr> <num value="2">2</num> maṁhuyup· mas· <abbr>mā</abbr> <num value="1">1</num> vḍihan· raṅga <abbr>yu</abbr> <num value="1">1</num> siṅhəl· <abbr>yu</abbr> <num value="1">1</num> saṁ hyaṁ brahmā ma-
+
+<pb n="2v"/>
+<lb n="2v1"/> s· <abbr>mā</abbr> <num value="1">1</num> vḍihan· putiḥ <abbr>yu</abbr> <num value="1">1</num> muvaḥ makudur· magavai vuAtan· vinaihan· vḍihan· raṅga <abbr>yu</abbr> <num value="1">1</num> || sajiniṁ kulumpaṁ mas· <abbr>mā</abbr> <num value="4">4</num> vḍihan· raṅga <abbr>yu</abbr> <num value="4">4</num> vaduṁ <num value="1">1</num> rimvas·
+<lb n="2v2"/> <num value="1">1</num> patuk·-patuk· <num value="1">1</num> kris· <num value="1">1</num> lukai <num value="1">1</num> tvak· punukan· <num value="4">4</num> laṇḍuk· <num value="1">1</num> liṅgis· <num value="4">4</num> vaṁkyul· <num value="1">1</num> gulumi <num value="1">1</num> kurumbhāgi <num value="1">1</num> nakhaccheda <num value="1">1</num> dom· <num value="1">1</num> tahas· <num value="1">1</num> vuri
+<lb n="2v3"/> <num value="1">1</num> padamaran· <num value="1">1</num> saragi pagaṅanan· <num value="1">1</num> kampil· <num value="1">1</num> || samgat· kahuripan· pu chatra pirak· dhā <num value="1">1</num> vḍihan· Aṅsit· muAṁ raṅga <abbr>yu</abbr> <num value="2">2</num> saṁ Anakbi pirak·,
+<lb n="2v4"/> <abbr>mā</abbr> <num value="8">8</num> kain· vlaḥ <num value="1">1</num> tuhān· si gorava pirak· <abbr>mā</abbr> <num value="8">8</num> vḍihan· Aṅsit· <abbr>yu</abbr> <num value="1">1</num> parujar· si mădhava pirak· <abbr>mā</abbr> <num value="8">8</num> vḍihan· Aṅsit· <abbr>yu</abbr> <num value="1">1</num> tuhānniṁ lampuran· si
+<lb n="2v5"/> bămana pirak· <abbr>mā</abbr> <num value="8">8</num> vḍihan· raṅga <abbr>yu</abbr> <num value="1">1</num> || Anak vanuA I juruṅan· dinmakan· ya mas· <abbr>su</abbr> 5 muAṁ vinaihan· pasak·-pasak·, tuha vanuA <num value="2">2</num> si kno-
+[binding-hole between lines 5 and 6]
+<lb n="2v6"/> ḥ kaki panmuAn· si ratā kaki vuliran· vḍihan· Aṅsit· <abbr>yu</abbr> <num value="2">2</num> kalaṁ si danā ramanī ram· vḍihan· Aṅsit· <abbr>yu</abbr> <num value="1">1</num> Anakbinya kain· vlaḥ <num value="1">1</num> gu-
+<lb n="2v7"/> sti <num value="2">2</num> si mŭla ramani Astī, si śranā ramani manis· vḍihan· Aṅsit· <abbr>yu</abbr> <num value="2">2</num> Anakbinya kain· vlaḥ <num value="2">2</num> kalima <num value="2">2</num> si gadā ramani peṅgo si śrava-
+<lb n="2v8"/> ṇa ramani bhadra vḍihan· Aṅsit· <abbr>yu</abbr> <num value="2">2</num> Anakbinya kain· vlaḥ <num value="2">2</num> vinkas· <num value="2">2</num> si kumăra ramani majaṁ, si lama ramani jbiṁ vḍihan· Aṅsit· yu
+<lb n="2v9"/> <num value="2">2</num> Anakbinya kain· vlaḥ <num value="2">2</num> parujar· <num value="3">3</num> si gamvir· ramani mayŭrī, si bikar· ramani tilimpik·, si gunuṁ ramani Agam· vdiha-
+<lb n="2v10"/> n· Aṅsit· <abbr>yu</abbr> <num value="3">3</num> Anakbinya kain· vlaḥ <num value="3">3</num> variga <num value="2">2</num> si blu ramani butəṁ si bañcuṁ ramani sadhī vḍihan· Aṅsit· <abbr>yu</abbr> <num value="2">2</num> Anakbinya kai-
+
+<pb n="3r"/>
+<lb n="3r1"/> n· vlaḥ <num value="2">2</num> tuha vīR̥ḥ <num value="2">2</num> si tapal·, si vaṅun· ramani sudhīnī vḍihan· Aṅsit· <abbr>yu</abbr> <num value="2">2</num> Anakbinya kain· vlaḥ <num value="2">2</num> hulair· <num value="8">8</num> si maṅarak· ra-
+<lb n="3r2"/>mani Adikā, si gheṭa ramani naskara, si taramvuṅ ramani poṣya, si knoḥ ramani moṭo, si śagara ramani gupā, si vaṅun· ramani məməl·,
+<lb n="3r3"/> si gnaṁ ramani vijaya, si vatu ramani kavaṅyan·, vḍihan· raṅga <abbr>yu</abbr> <num value="8">8</num> Anakbinya kain· vlaḥ <num value="8">8</num> hulu vuAtan· <num value="4">4</num> si dharmma ramani ganitā, si maṅol· rama-
+<lb n="3r4"/> ni bhasurī, si jagat· ramani tguḥ, si bajra ramani turuk·, vḍihan· Aṅsit· <abbr>yu</abbr> <num value="4">4</num> tuha buru <num value="2">2</num> si bikar· ramani jagat·, si Aṅkus· ramani guvind(ī), vḍihan·
+<lb n="3r5"/> raṅga <abbr>yu</abbr> <num value="2">2</num> Anakbinya kain· vlaḥ <num value="2">2</num> vadahuma <num value="4">4</num> si malat· ramani dasut·, si jugala ramani vayuḥ, si vadvā ramani hadyan·, si kavara ramani (A)-
+[binding-hole between lines 5 and 6]
+<lb n="3r6"/> dik·, vḍihan· Aṅsit· <abbr>yu</abbr> <num value="4">4</num> Anakbinya kain· vlaḥ <num value="4">4</num> tuhālas· <num value="2">2</num> si vuṇḍu ramani klo, si bhavā ramani sūryya, vḍihan· raṅga <abbr>yu</abbr> <num value="2">2</num> Anakbinya (kai)-
+<lb n="3r7"/> n· vlaḥ <num value="2">2</num> vuAra tuha vanuA Anakbi, si śranā, si puṇya, si sraṅan·, si lmaḥ Iraḥ kain· vlaḥ <num value="4">4</num> vuAra ta hulair· Anakbi kain· vlaḥ <num value="2">2</num> || rāma
+<lb n="3r8"/> maratā vinaihan· vḍihan· sadugala soAṁ, ramani vlu, ramani ḍayā, ramani pamuAtan·, ramani coṇḍeḥ, ramani vagəd·, ramani maṁhyaṁ, ra-
+<lb n="3r9"/>mani sḍaṁ, si vagar·, punta kīrtti, si sudaḥ, ramani butul·, ramani savastī, ramani padmī, ramani bloṅoḥ si giraṁ, ramani morek·, ramani hanton·
+<lb n="3r10"/> si bulu, ramani vadahuma, si tgur·, si vadvā, ramani sugiḥ, si milaṁ, si Udyan·, ramani vijǝ:, si tamyaṁ, ramani dhara, si limus·, si məṅgur·, rama-
+
+<pb n="3v"/>
+<lb n="3v1"/> ni mala, ramani puñjaṁ, si Ananta, si kala, ramani māgha, si naṅgal·, si rujak·, si śaṁkha, ramani sḍaṁ, ramani pravalā, ramani haṅū, ra-
+<lb n="3v2"/>mani Uṇḍahagi, si Agra, ramani Uma, si baṅun·, si moñoṁ, si saṅgam·, ramani pahal·, ramani kaivala, si tali, si javil·, ramani viku
+<lb n="3v3"/> si davir·, si balū, si koṅoḥ // Iṁ kabikuAn·, vinaihan· vḍihan· sadugala soAṁ, hulu vras· si Ananta ramani tulus·, tuha və-
+<lb n="3v4"/> R̥ḥ si ḍoho ramani vanyāga, ramani vudal·, ramani bihara, punta karuṇā, ramani paṭā, ramanīndal·, ramani kbal·, ramani madhurī, rama-
+<lb n="3v5"/> ni ḍayaṁ, ḍapunta gunuṁ, ḍapunta gaḍa, bhagavanta maṅgalī, bhagavanta dhavalā // vanuA I tpi siriṁ vinaihan· vḍihan· sadugala Iṁ savanuA, I
+[binding-hole between lines 5 and 6]
+<lb n="3v6"/> bitapura, I hanyantan·, I harjaṁ mavuAṁ pirak· <abbr>mā</abbr> <num value="4">4</num> I halalai, I skar ve // tuha paḍahi <num value="2">2</num> si duṅi, si caṇṭiṁ vḍihan· raṅga <abbr>yu</abbr> <num value="2">2</num> // Anuṁ
+<lb n="3v7"/> vinaihan· tvak· tampilan· tuṅgal· soAṁ, si lakṣaṇa, si moje, si vaharu, si kaṇḍi, si kaṅuḥ, si piṅul·, si viku·, si sāra
+<lb n="3v8"/> si guṇa, si tkik·, si goleṁ, si boṁko, si mahyun·, si mari // Anuṁ vinaihan· kris· tuṅgal· soAṁ(,) si kr̥hu, si dəmpul·,
+<lb n="3v9"/> si śaṁkha, si vruha, si piṅul·, si kañcuk·, si mandon·, si candra, si kḍo, si sila, si yolo, si kuṇḍuk·, si sele,
+<lb n="3v10"/> si plī, si bhăgya, si sadiḥ // Anuṁ vinaihan· kampit· tuṅgal· soAṁ kvi paṇḍi, puAṁ buṅū, puAṁ pilaṁ, si lanā, pu-
+
+<pb n="4r"/>
+<lb n="4r1"/> Aṁ puñcuk·, si bhadrī, si karī, si vaimalī, si gavai, si svitā, si nihuṁ, si gamī, si R̥ṅu, si karī, si ṭuR̥, si paṭā, si lbuḥ, si mañciṁ, si dama-
+<lb n="4r2"/> nī, si sudaḥ, si tbal·, si găyatrī, si paṭā, si gandhī, si bukǝ:, si tiruAn·, si muḍaḥ, si sasak·, si vudal·, si prabha, si bhaṭī, si dayī
+<lb n="4r3"/> si sukrī, si lattha, si subhī, sīman·, si budha, si kəvə, si kaivala, si Adhikā, si pahal·, si dasut·, si sahiṁ, si parĭkṣa, si bicitra
+<lb n="4r4"/> si tali, si javil·, si viku, si subhanī, si dhanya, si māgha, si man·dmak·, si cbuk·, si meṇḍe, si kalula, si gara, si pujə, si bhăgya,
+<lb n="4r5"/> si (t)uruk·, si vudal·, si puṇya || Anuṁ vinaihan· vsi rarai laki-laki, Anakbi, kvaiḥnikanaṁ vsi dinūmakan· rikanaṅ rarai Ikat· 100
+[binding-hole between lines 5 and 6]
+<lb n="4r6"/> // kinon· rakarayān· humarappa Ikanaṁ susukan· sīma saṁ tuhān· kabaiḥ, ra punti si sayut·, hujuṁ galuḥ hr̥dayaśiva, pani-
+<lb n="4r7"/> ṅgahan· si tarkka, mataṇḍa si raṅkap·, manurat· dharmmasinta śivaprasāda // , //
+</p>
+         </div>
+         <div type="apparatus">
+               <listApp>
+                  <app loc="...">
+                     <lem>...</lem>
+                     <rdg source="bib:BoechariND_01 bib:MachiSuhadi+SukartoAtmodjo1986_01">...</rdg>
+	<note>...</note>
+	</app>
+<!-- 
+	1v1. śakavarṣătīta: śakavarṣātīta B; śaka varṣātīta MS&S.
+	1v1. poṣyamāsa: B, poṣyamāsā MS&A.
+	1v1. pahīṁ: MS&S, pahiṁ B.
+	1v4–5: maṅusī: maṅusi B MS&S.
+	1v8. Uṅgahan·,: The punctuation sign “,”, usually marked as a circle, is indicated here with a dot. 
+	2r6. (k)umar: B; tumar MS&S. The k is unclear due to eccentric ductus.
+	2r8. vḍihan· Aṅsit· yu muAṁ raṅga yu 2: One might expect vḍihan· Aṅsit· yu 2 muAṁ raṅga yu 2 (inserting 2 after Aṅsit· yu) or vḍihan· Aṅsit· muAṁ raṅga yu 2 (suppressing yu between Aṅsit·‚ and muAṁ), but possibly the coordination with muAṁ means that the 2 at the end applies also to Aṅsit· yu.
+	2v2. punukan·: B, panukan· MS&S.
+	2v2. laṇḍuk·: B, landuk· MS&S.
+	2v2. nakhaccheda: B, nakaccheda MS&S.
+	2v2. vuri: buri B MS&S. In parallel passages in the Polengan charters, we do find buri.
+	2v4. 8: B; 4 MS&S.
+	3r5. vadvā: B, vadva MS&S.
+	3r9. punta: B, putra MS&S.
+	3r10. məṅgur·: MS&S, məṅgar· B. 
+	3v4. vanyāga: B, vanyaga MS&S.
+	3v4. bihara: vihara B MS&S. 
+4r1. svitā: MS&S, sitā B. 
+	The typescript received from JWC has switā; Boechari’s skripsi reads sitā.
+	4r1. R̥ṅu: MS&S, rəṅu B. 
+	4r1. ṭuR̥: MS&S, ṭure B. 
+	4r2. gandhī: B, gandī MS&S. 
+	4r5. vsi: MS&S, vai B.  
+		Typescript has wsi; Boechari’s skripsi seems to read vai.
+
+ -->
+
+
+               </listApp>
+         </div>
+         <div type="translation" resp="part:argr part:mego">
+            <p n="1r1-1r3"></p>
+         </div>
+         <div type="commentary">
+           <p>This charter begins on the verso face of the plate on which the <ref target="DHARMA_INSIDENKHumanding.xml">Humanding</ref> charter  charter ended. Binding holes are pierced though all plates but nowhere interrupt the text.</p>
+<!-- Lempeng 1: 10 baris (verso), sedangkan sisi lainnya (rekto) merupakan akhir (lempeng 2) dari Prasasti Humanding; lempeng 2: 10 baris (rekto), 10 baris (verso); lempeng 3: 10 baris (rekto), 10 baris (verso); lempeng 4: 7 baris (rekto). -->
+         </div>
+        <div type="bibliography">
+           <p>This is the only one of the Polengan inscriptions that was integrally edited in Boechari's undergraduate thesis (<bibl rend="omitname"><ptr target="bib:Boechari1958_01"/></bibl>) dedicated to them.  Another, slightly better version of Boechari's edition is included in typescript we received from Jan Wisseman Christie and use here as edition of reference (<bibl><ptr target="bib:BoechariND_01"/></bibl>). <seg rend="check">As our apparatus entries show, a copy of the same typescript seems to have been reproduced with involuntary errors, in the first integral published edition (<bibl><ptr target="bib:MachiSuhadi+SukartoAtmodjo1986_01"/></bibl>).</seg> Re-edited here by Arlo Griffiths and Mekhola Gomes from photographs.</p>
+        	<listBibl type="primary">
+	<bibl><ptr target="bib:Boechari1958_01"/><citedRange unit="page">17–18, 38–75</citedRange></bibl>
+	<bibl n="B"><ptr target="bib:BoechariND_01"/></bibl>
+	<bibl n="MS&amp;SA"><ptr target="bib:MachiSuhadi+SukartoAtmodjo1986_01"/><citedRange unit="page">72-81</citedRange><citedRange unit="section">2.7.3</citedRange></bibl>
+			</listBibl>
+           <listBibl type="secondary">
+              <bibl><ptr target="bib:Naerssen1939_01"/></bibl>
+              <bibl><ptr target="bib:Damais1951_01"/><citedRange unit="page">21-23</citedRange></bibl>
+              <bibl><ptr target="bib:Damais1952_01"/><citedRange unit="page">38-39</citedRange><citedRange unit="item">A. 39</citedRange></bibl>
+               <bibl><ptr target="bib:Damais1955_01"/><citedRange unit="page">33</citedRange></bibl>
+               <bibl><ptr target="bib:Damais1970_01"/><citedRange unit="page">48</citedRange><citedRange unit="item">82</citedRange></bibl>
+               <bibl><ptr target="bib:Sarkar1971-1972_01"/><citedRange unit="volume">I</citedRange><citedRange unit="item">XXXV</citedRange><citedRange unit="page">200</citedRange></bibl>
+               <bibl><ptr target="bib:TitiSurtiNastiti+al2024_01"/><citedRange unit="page">24-25</citedRange><citedRange unit="section">2.1.3</citedRange></bibl>
+           </listBibl>
+        </div>
+        <!-- 
+6. O.D. Photo 13695, 13696, 13697, 13698, 13699, 13700.
+7. A.G. Photo Jurungan_1a.jpg, Jurungan_1b.jpg, Jurungan_2a.jpg, Jurungan_2b.jpg, Jurungan_3a.jpg, Jurungan_3b.jpg, IMG_1717.jpg. 
+8. Plaster Casts, Special Collections UBL, Jurungan 1b, 3a, 4a.
+        -->
+      </body>
+  </text>
+</TEI>
