@@ -85,9 +85,8 @@
          <div type="edition" xml:lang="kaw-Latn" rendition="class:38769 maturity:83213">
             <p><pb n="1v"/><lb n="1v1"/><g type="ddanda"/><!--<g type="dotDouble"/> <g type="ddandaHooked"/> -->
  svasti śaka-varṣătīta <num value="798">798</num> poṣya-māsa, Ekādaśĭ śukla-pakṣa, mavulu pahīṁ Āditya-vāra,  tatkāla rakarayān· 
-<lb n="1v2"/>I sirikan· pu rakap· manusuk· lmaḥniṁ sukat· I juruṅan· vatak· pagar vsi, sīmānikanaṁ prāsāda I gunuṁ hyaṁ, luĀnikanaṁ lmaḥ An sa<lb break="no" 
-n="1v3"/>mpun· ginavai savaḥ tampaḥ <num value="6">6</num> muAṁ vuAra lmaḥ kinbuAn· vuAṁnya sinīma tamānnanikanaṁ prāsāda I gunuṁ hyaṅ Ataḥ, luĀnikanaṁ lmaḥ
-<lb n="1v4"/>tamānna paṅavaitanya ḍpa <num value="117">117</num> paṅalornya ḍpa <num value="104">104</num> <g type="ddandaHooked">.</g></p>
+<lb n="1v2"/>I sirikan· pu rakap· manusuk· lmaḥniṁ sukat· I juruṅan· vatak· pagar vsi, sīmānikanaṁ prāsāda I gunuṁ hyaṁ,</p> 
+<p>luĀnikanaṁ lmaḥ An sa<lb break="no" n="1v3"/>mpun· ginavai savaḥ tampaḥ <num value="6">6</num> muAṁ vuAra lmaḥ kinbuAn· vuAṁnya sinīma tamānnanikanaṁ prāsāda I gunuṁ hyaṅ Ataḥ, luĀnikanaṁ lmaḥ <lb n="1v4"/>tamānna paṅavaitanya ḍpa <num value="117">117</num> paṅalornya ḍpa <num value="104">104</num> <g type="ddandaHooked">.</g></p>
 <p>Anuṁ <seg rend="check">makavaiḥ</seg><!-- emend mavaiḥ? --> Ikanaṁ lmaḥ sinusuk· rakarayān· I pagar vsi pu maṅu<lb break="no" 
 n="1v5"/>sī, InaṅsəAn· sira pasak·-pasak· mas· <abbr>su</abbr> 5 vḍihan· buAt· kliṁ putiḥ 
 <abbr>yu</abbr> <num value="1">1</num> gañjarpatra <abbr>yu</abbr> <num value="1">1</num> luṅgar· <abbr>yu</abbr> <num value="1">1</num> buAt· vaitan· I<!-- [binding-hole between lines 5 and 6] -->	
@@ -234,7 +233,7 @@ vuAra ta hulair· Anakbi kain· vlaḥ <num value="2">2</num> <g type="ddandaHoo
 <!-- Lempeng 1: 10 baris (verso), sedangkan sisi lainnya (rekto) merupakan akhir (lempeng 2) dari Prasasti Humanding; lempeng 2: 10 baris (rekto), 10 baris (verso); lempeng 3: 10 baris (rekto), 10 baris (verso); lempeng 4: 7 baris (rekto). -->
          </div>
         <div type="bibliography">
-           <p>This is the only one of the Polengan inscriptions that was integrally edited in Boechari's undergraduate thesis (<bibl rend="omitname"><ptr target="bib:Boechari1958_01"/></bibl>) dedicated to them.  Another, slightly better version of Boechari's edition is included in typescript we received from Jan Wisseman Christie and use here as edition of reference (<bibl><ptr target="bib:BoechariND_01"/></bibl>). <seg rend="check">As our apparatus entries show, a copy of the same typescript seems to have been reproduced with involuntary errors, in the first integral published edition (<bibl><ptr target="bib:MachiSuhadi+SukartoAtmodjo1986_01"/></bibl>).</seg> Re-edited here by Arlo Griffiths and Mekhola Gomes from photographs.</p>
+           <p>This is the only one of the Polengan inscriptions that was integrally edited in Boechari's undergraduate thesis (<bibl rend="omitname"><ptr target="bib:Boechari1958_01"/></bibl>) dedicated to them. Another, slightly better version of Boechari's edition is included in typescript we received from Jan Wisseman Christie and use here as edition of reference (<bibl><ptr target="bib:BoechariND_01"/></bibl>). <seg rend="check">As our apparatus entries show, a copy of the same typescript seems to have been reproduced with involuntary errors, in the first integral published edition (<bibl><ptr target="bib:MachiSuhadi+SukartoAtmodjo1986_01"/></bibl>).</seg> An integral translation into English was offered by <bibl><ptr target="bib:WissemanChristie1993_01"/></bibl>. Re-edited here by Arlo Griffiths and Mekhola Gomes from photographs, with a new translation.</p>
         	<listBibl type="primary">
 	<bibl><ptr target="bib:Boechari1958_01"/><citedRange unit="page">17–18, 38–75</citedRange></bibl>
 	<bibl n="B"><ptr target="bib:BoechariND_01"/></bibl>
