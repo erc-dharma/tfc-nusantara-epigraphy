@@ -87,7 +87,7 @@
  svasti śaka-varṣătīta <num value="798">798</num> poṣya-māsa, Ekādaśĭ śukla-pakṣa, mavulu pahīṁ Āditya-vāra,  tatkāla rakarayān· 
 <lb n="1v2"/>I sirikan· pu rakap· manusuk· lmaḥniṁ sukat· I juruṅan· vatak· pagar vsi, sīmānikanaṁ prāsāda I gunuṁ hyaṁ,</p> 
 <p>luĀnikanaṁ lmaḥ An sa<lb break="no" n="1v3"/>mpun· ginavai savaḥ tampaḥ <num value="6">6</num> muAṁ vuAra lmaḥ kinbuAn· vuAṁnya sinīma tamānnanikanaṁ prāsāda I gunuṁ hyaṅ Ataḥ, luĀnikanaṁ lmaḥ <lb n="1v4"/>tamānna paṅavaitanya ḍpa <num value="117">117</num> paṅalornya ḍpa <num value="104">104</num> <g type="ddandaHooked">.</g></p>
-<p>Anuṁ <seg rend="check">makavaiḥ</seg><!-- emend mavaiḥ? --> Ikanaṁ lmaḥ sinusuk· rakarayān· I pagar vsi pu maṅu<lb break="no" 
+<p>Anuṁ makavaiḥ Ikanaṁ lmaḥ sinusuk· rakarayān· I pagar vsi pu maṅu<lb break="no" 
 n="1v5"/>sī, InaṅsəAn· sira pasak·-pasak· mas· <abbr>su</abbr> 5 vḍihan· buAt· kliṁ putiḥ 
 <abbr>yu</abbr> <num value="1">1</num> gañjarpatra <abbr>yu</abbr> <num value="1">1</num> luṅgar· <abbr>yu</abbr> <num value="1">1</num> buAt· vaitan· I<!-- [binding-hole between lines 5 and 6] -->	
 <lb break="no" 
@@ -189,10 +189,10 @@ vuAra ta hulair· Anakbi kain· vlaḥ <num value="2">2</num> <g type="ddandaHoo
          </div>
          <div type="apparatus">
                <listApp>
-                  <app loc="...">
-                     <lem>...</lem>
-                     <rdg source="bib:BoechariND_01 bib:MachiSuhadi+SukartoAtmodjo1986_01">...</rdg>
-	<note>...</note>
+                  <app loc="1v4">
+                     <lem source="bib:BoechariND_01 bib:MachiSuhadi+SukartoAtmodjo1986_01">makavaiḥ</lem>
+                     <!--<rdg source="bib:BoechariND_01 bib:MachiSuhadi+SukartoAtmodjo1986_01">maka vaiḥ</rdg>-->
+	       <note>The form <foreign>makavaih</foreign> (variant spelling for <foreign>makaveh</foreign>) is exceedingly rare, but attested in <bibl><ptr target="bib:Zoetmulder1982_01"/><citedRange unit="page">2251</citedRange></bibl>, which cites Uttarakāṇḍa 78.27 <foreign>mataṅnyan lakv atəka-təkan ri saṅ ratu makaveh ya ṅūni</foreign>. We cannot exclude, however, that we are dealing with a scribal error for <foreign>mavaiḥ</foreign>.</note>
 	</app>
 <!-- 
 	1v1. śakavarṣătīta: śakavarṣātīta B; śaka varṣātīta MS&S.
