@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>The Polengan plates: Mamali Charter (800 Śaka)</title>
+                <respStmt>
+                    <resp>EpiDoc Encoding</resp>
+                    <persName ref="part:argr">
+                      <forename>Arlo</forename>
+                      <surname>Griffiths</surname>
+                    </persName>
+                  </respStmt>
+                  <respStmt>
+                    <resp>intellectual authorship of edition</resp>
+                    <persName ref="part:argr">
+                      <forename>Arlo</forename>
+                      <surname>Griffiths</surname>
+                    </persName>
+                    <persName ref="part:mego">
+                        <forename>Mekhola</forename>
+                        <surname>Gomes</surname>
+                      </persName>
+                  </respStmt>
+                </titleStmt>
+                <publicationStmt>
+                  <authority>DHARMA</authority>
+                  <pubPlace>Jakarta</pubPlace>
+                  <idno type="filename">DHARMA_INSIDENKMamali</idno>
+                  <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                      <p>This work is licenced under the Creative Commons Attribution 4.0 Unported Licence. To view a copy of the licence, visit https://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.</p>
+                      <p>Copyright © 2019-2025 by Arlo Griffiths &amp; Mekhola Gomes.</p>
+                    </licence>
+                  </availability>
+                <date from="2019" to="2025">2019-2025</date>
+            </publicationStmt>
+            <sourceDesc><!-- only the handDesc can be filled in at this stage -->
+                <msDesc><!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/><!-- don't modify this -->
+                    </msIdentifier>
+                    <msContents><!-- describe the intellectual content of an inscription -->
+                        <summary><!-- //// NOT MANDATORY  ////--></summary> <!-- offers the possibility to give a summary of the inscription's content -->
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p><!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EGD 11.2. --></p>
+                            <!-- If you need to identify individual hands (EGD §7.5/) in addition to one or more paragraphs of general palaeographic description, wrap <summary> around the <p> or <p>s above, and, outside <summary>, create <handNote> elements for each hand as follows:
+						<summary><p><p/></summary>
+						<handNote xml:id="Pallava00001_hand1"></handNote>
+						<handNote xml:id="Pallava00001_hand2"></handNote>
+					 -->
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
+            </projectDesc>
+            <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/><!-- UPDATE the link once the release is made official -->
+            <listPrefixDef>
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                    <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
+                </prefixDef>
+                <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
+                    <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_idListMembers_v01.xml</ref> file.</p>
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <revisionDesc>
+            <change status="draft" when="2025-03-14" who="part:argr">started encoding the inscription</change>
+          </revisionDesc>
+    </teiHeader>
+    <text xml:space="preserve">
+      <body>
+         <div type="edition" xml:lang="kaw-Latn" rendition="class:38769 maturity:83213">
+            <p><pb n="1r"/><lb n="1r1"/><g type="ddandaHooked"/> svasti śaka-varṣātīta <num value="800">800</num> mārggaśira-māsa, daśami kr̥ṣṇa-pakṣa, vurukuṁ kalivuAn· Āditya-vāra, tatkālanikanaṁ<surplus>,</surplus>
+<lb n="1r2"/>lmaḥniṁ kbuAn· karamān· I mamali vatak mamali, vinli rakarayān· I sirikan· rikanaṁ mas· <abbr>kā</abbr> <num value="1">1</num> sīmānikanaṁ prāsădanira I
+<lb n="1r3"/>gunuṁ hyaṁ, luĀnikanaṁ lmaḥ vinli yan· sampun adadi savaḥ, paṅavaitanya lamvəAn· kidul· ḍpa <num value="146">146</num> paṅalornya lamvəA<lb n="1r4" break="no"/>n· vaitan· ḍpa <num value="33">33</num> paṅuluAnya lamvəAn· lor· ḍpa <num value="106">106</num> paṅidulnya lamvəAn· kuluAn· ḍpa <num value="46">46</num> pakuliliṅanya piṇḍa
+<lb n="1r5"/>ḍpa <num value="331">331</num> pamlyan· Irikanaṁ lmaḥ muAṁ Umaku saprakārani saṅgarugyanya, Ikanaṁ rāma I mamali makabaihan·, kalaṁ si
+<!--[binding-hole between lines 5 and 6]-->
+<lb n="1r6"/>pundaṅin· ramani kais·, kalaṁ si gatha ramani ḍaṅul·, tuha banuA si gajul· ramani saṅkān·, tuha banuA si bari ramani
+<lb n="1r7"/>tkik·, tuha banuA ramani kuṇḍū, tuha banuA si Aṅgāra ramani vatu, hulu vras· si bya ramani vulir·, gusti si kvaiḥ ramani ma<lb 
+n="1r8" break="no"/>ṅarani, gusti si piṅul·, vinkas· si tañjaṁ ramani danī, variga si gutra ramani buṁsul·, parujar· si golo ramani kruḥ,
+<lb n="1r9"/>parujar· si gahiṁ ramani soma, mapkan· si botoḥ, tuhālas· si jabuṁ ramani tira, tuhălas· si bahas· ramani la<lb 
+n="1r10" break="no"/>ṇḍuṁ, tuha buru si vadvā ramani tempaiḥ, muAṁ vinaihan· Ikanaṁ rāma I mamali pasak·-pasak·, muAṁ papaṅguḥ-pa<pb n="1v" break="no"/><lb n="1v1" break="no"/>ṅguhananya makabaihan·, muAṁ Anak manuAm· laki-laki, Anakbi, vḍihan· raṅga <abbr>yu</abbr> <num>7</num> vḍihan· putiḥ <abbr>yu</abbr> <num value="4">4</num> A<unclear>kan</unclear>· kboA mas· <abbr>mā</abbr> <num value="9">9</num> A<lb n="1v2" break="no"/>kan· tuAkka mas· <abbr>mā</abbr> <num value="4">4</num> vəAs· pada <num value="5">5</num> I sampunikā Umadag· Ikanaṁ rāma makabaihan· Iṁ pahīṁ mesuk· dvādaśi kr̥ṣṇa, humīṅann ika<lb 
+n="1v3" break="no"/>naṁ lmaḥ vinli, sinusukanya ya vatu sīma sraṁ dū <g type="ddandaHooked">.</g></p> <p>sākṣi tuha kalaṁ I sraṅan· si vura, muAṁ tuha kalaṁ I haliva<supplied reason="omitted">ṁ</supplied>baṁ si glar· ramani tarumbaṁ
+<lb n="1v4"/>muAṁ tuha kalaṁ si basu, vahuta I sirikan· kulumpaṁ si vanva ramani Ārthi, kapuA ya vinaihan· pirak· <abbr>mā</abbr> <num value="1">1</num> sovaṁ-sovaṁ <g type="ddandaHooked">.</g>
+<!--[binding-hole]-->
+</p>
+         </div>
+         <div type="apparatus">
+               <listApp>
+<!-- 	1r1. mārggaśira°: marggaśira° MS&S.
+	1r5. makabaihan: makaibaihan MS&S.   
+	1v1. makabaihan: makaibahan MS&S. 
+	1v2. humīṅann: huməṅanni MS&S.
+ -->
+		<app loc="1v2">
+                     <lem source="bib:BoechariND_01">...</lem>
+	<note>...</note>
+                  </app>
+
+               </listApp>
+         </div>
+         <div type="translation" resp="part:argr part:mego">
+            <p n="1v1-1v2">.</p>
+         </div>
+         <div type="commentary">
+            <p>A binding holes is pierced though the plates but nowhere interrupts the text.</p>
+         </div>
+        <div type="bibliography">
+           <p>Deciphered but not published by Boechari, a copy of whose typescript we received from Jan Wisseman Christie and use here as edition of reference (<bibl n="B"><ptr target="bib:BoechariND_01"/></bibl>). <seg rend="check">As our apparatus entries show, a copy of the same typescript seems to have been reproduced with involuntary errors, in the first integral published edition (<bibl><ptr target="bib:MachiSuhadi+SukartoAtmodjo1986_01"/></bibl>), which is accompanied by an Indonesian translation.</seg> Re-edited here by Arlo Griffiths and Mekhola Gomes from photographs.</p>
+        	<listBibl type="primary">
+	<bibl n="B"><ptr target="bib:BoechariND_01"/></bibl>
+	<bibl n="MS&amp;SA"><ptr target="bib:MachiSuhadi+SukartoAtmodjo1986_01"/><citedRange unit="page">91-95</citedRange><citedRange unit="section">2.7.5</citedRange></bibl>
+	</listBibl>
+           <listBibl type="secondary">
+              <bibl><ptr target="bib:Naerssen1939_01"/></bibl>
+              <bibl><ptr target="bib:Damais1951_01"/><citedRange unit="page">21-23</citedRange></bibl>
+              <bibl><ptr target="bib:Damais1952_01"/><citedRange unit="page">38-39</citedRange><citedRange unit="item">A. 44</citedRange></bibl>
+                <bibl><ptr target="bib:Damais1955_01"/><citedRange unit="page">34</citedRange></bibl>
+	    <bibl><ptr target="bib:Boechari1958_01"/><citedRange unit="page">19-20</citedRange></bibl>
+                <bibl><ptr target="bib:Damais1970_01"/><citedRange unit="page">48</citedRange><citedRange unit="item">89</citedRange></bibl>
+                <bibl><ptr target="bib:Sarkar1971-1972_01"/><citedRange unit="volume">I</citedRange><citedRange unit="item">XXXIX</citedRange><citedRange unit="page">215-216</citedRange></bibl>
+                <bibl><ptr target="bib:TitiSurtiNastiti+al2024_01"/><citedRange unit="page">26-27</citedRange><citedRange unit="section">2.1.5</citedRange></bibl>
+           </listBibl>
+        </div>
+        <!-- 
+only appears in table at back of Eade & Gislén
+7. O.D. Photo 13707, 13708.
+8. A.G. Photo IMG_1706, IMG_1707. 
+9. Plaster Casts, Special Collections UBL, Mamali 1b.
+
+        -->
+      </body>
+  </text>
+</TEI>
