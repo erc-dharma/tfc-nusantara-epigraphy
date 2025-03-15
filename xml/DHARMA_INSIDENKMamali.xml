@@ -90,8 +90,8 @@
 <p>pamlyan· Irikanaṁ lmaḥ muAṁ Umaku saprakārani saṅgarugyanya, Ikanaṁ rāma I mamali makabaihan·, kalaṁ si
 <!--[binding-hole between lines 5 and 6]-->
 <lb n="1r6"/>pundaṅin· ramani kais·, kalaṁ si gatha ramani ḍaṅul·, tuha banuA si gajul· ramani saṅkān·, tuha banuA si bari ramani
-<lb n="1r7"/>tkik·, tuha banuA ramani kuṇḍū, tuha banuA si Aṅgāra ramani vatu, hulu vras· si bya ramani vulir·, gusti si kvaiḥ ramani ma<lb 
-n="1r8" break="no"/>ṅarani, gusti si piṅul·, vinkas· si tañjaṁ ramani danī, variga si gutra ramani buṁsul·, parujar· si golo ramani kruḥ,
+<lb n="1r7"/>tkik·, tuha banuA <gap reason="omitted" extent="unknown"/> ramani kuṇḍū, tuha banuA si Aṅgāra ramani vatu, hulu vras· si bya<supplied reason="omitted">ṁ</supplied> ramani vulir·, gusti si kvaiḥ ramani ma<lb 
+n="1r8" break="no"/>ṅarani, gusti si piṅul·, vinkas· si tañj<choice><sic>a</sic><corr>u</corr></choice>ṁ ramani danī, variga si gutra ramani buṁsul·, parujar· si golo ramani kruḥ,
 <lb n="1r9"/>parujar· si gahiṁ ramani soma, mapkan· si botoḥ, tuhālas· si jabuṁ ramani tira, tuhălas· si bahas· ramani la<lb 
 n="1r10" break="no"/>ṇḍuṁ, tuha buru si vadvā ramani tempaiḥ, muAṁ vinaihan· Ikanaṁ rāma I mamali pasak·-pasak·, muAṁ papaṅguḥ-pa<pb n="1v" break="no"/><lb n="1v1" break="no"/>ṅguhananya makabaihan·, muAṁ Anak manuAm· laki-laki, Anakbi, vḍihan· raṅga <abbr>yu</abbr> <num>7</num> vḍihan· putiḥ <abbr>yu</abbr> <num value="4">4</num> A<unclear>kan</unclear>· kboA mas· <abbr>mā</abbr> <num value="9">9</num> A<lb n="1v2" break="no"/>kan· tuAkka mas· <abbr>mā</abbr> <num value="4">4</num> vəAs· pada <num value="5">5</num> I sampunikā Umadag· Ikanaṁ rāma makabaihan· Iṁ pahīṁ mesuk· dvādaśi kr̥ṣṇa, humīṅanni Ika<lb 
 n="1v3" break="no"/>naṁ lmaḥ vinli, sinusukanya ya vatu sīma sraṁ dū <g type="ddandaHooked">.</g></p> <p>sākṣi tuha kalaṁ I sraṅan· si vura, muAṁ tuha kalaṁ I haliva<supplied reason="omitted">ṁ</supplied>baṁ si glar· ramani tarumbaṁ
@@ -109,6 +109,16 @@ n="1v3" break="no"/>naṁ lmaḥ vinli, sinusukanya ya vatu sīma sraṁ dū <g 
                      <lem source="bib:BoechariND_01">makabaihan·</lem>
 	      <rdg source="bib:MachiSuhadi+SukartoAtmodjo1986_01">makaibaihan·</rdg>
                   </app>
+<app loc="1r7">
+	<lem>hulu vras· si bya<supplied reason="omitted">ṁ</supplied></lem>
+	<rdg source="bib:MachiSuhadi+SukartoAtmodjo1986_01">hulu vras· si bya</rdg>
+	<note>We restore the name of the <foreign>hulu vras</foreign> after <ref target="DHARMA_INSIDENKHaliwangbang.xml">Haliwangbang</ref> 1v10 <foreign>hulu vras· si byaṁ</foreign>.</note>
+</app>
+<app loc="1r8">
+<lem>vinkas· si tañj<choice><sic>a</sic><corr>u</corr></choice>ṁ</lem>
+<rdg source="bib:MachiSuhadi+SukartoAtmodjo1986_01">vinkas· si tañjaṁ</rdg>
+	<note>We restore the name of the <foreign>vinkas</foreign> after <ref target="DHARMA_INSIDENKHaliwangbang.xml">Haliwangbang</ref> 1v10 <foreign>vinkas· si tañjuṁ</foreign>.</note>
+</app>
 	<app loc="1v1">
                      <lem source="bib:BoechariND_01">makabaihan·</lem>
 	      <rdg source="bib:MachiSuhadi+SukartoAtmodjo1986_01">makaibaihan·</rdg>
