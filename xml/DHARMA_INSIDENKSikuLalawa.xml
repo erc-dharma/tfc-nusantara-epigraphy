@@ -10,14 +10,14 @@
          <titleStmt>
             <title>Siku Lalawa</title>
             <respStmt>
-               <resp>EpiDoc encoding</resp>
-               <persName ref="part:ekba">
-                  <name>Eko Bastiawan</name>
-               </persName>
-               <persName ref="part:argr">
+            	<resp>EpiDoc encoding</resp>
+                  <persName ref="part:argr">
                   <forename>Arlo</forename>
                   <surname>Griffiths</surname>
                </persName>
+            	<persName ref="part:ekba">
+            		<name>Eko Bastiawan</name>
+            	</persName>
             </respStmt>
             <respStmt>
                <resp>intellectual authorship of edition</resp>
@@ -34,7 +34,7 @@
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/">
                   <p>This work is licenced under the Creative Commons Attribution 4.0 Unported Licence. To view a copy of the licence, visit https://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.</p>
-                  <p>Copyright (c) 2019-2025 by Eko Bastiawan &amp; Arlo Griffithss</p>
+               	<p>Copyright (c) 2019-2025 by Arlo Griffiths &amp;  Eko Bastiawan</p>
                </licence>
             </availability>
             <date from="2019" to="2025">2019-2025</date>
@@ -78,7 +78,8 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
-         <change who="part:ekba" when="2020-12-23" status="draft">started initial encoding of the inscriptionn</change>
+         <change who="part:argr" when="2025-03-15" status="draft">revised encoding of the inscription, added translation</change>
+         <change who="part:ekba" when="2020-12-23" status="draft">started initial encoding of the inscription</change>
       </revisionDesc>
    </teiHeader>
    <text xml:space="preserve">
@@ -108,10 +109,22 @@
      <p/>
          </div>
         <div type="bibliography">
-	<!--bibliography encoded as per section §9.4 -->
+	<!--
+Copenhagen, Royal Library OLD JAV 10. 
+Dimensions 2 x 110 x 345 mm 
+OJODDV no. XI; text republished in van Naerssen 1977: 63–64.
+	Van Naerssen (1977: 63) records that ‘The plate has writing on both sides and is numbered 11. Evidently it belongs to an elaborate charter originally comprising at least 12 plates’ and judges that ‘The fine and clearly legible writing is from the fourteenth century’. Neither of van Naerssen’s editions is accompanied by a translation.
+	Identical dimensions at first suggested the possibility that this plate is part of a single set with Mādhavapura (MNI E.38), but the script of the latter seems slightly different.
+	Hadi Sidomulyo (2018: 237) suggests the set to which this plate belongs would have dated to the Majapahit period.
+
+ -->
             <p/>
+	<listBibl type="primary">
+	<bibl n="N"><ptr target="bib:Naerssen1941_01"/><citedRange unit="item">XI</citedRange><citedRange unit="page">115-116</citedRange></bibl>
+	<bibl n="N"><ptr target="bib:Naerssen1977_01"/><citedRange unit="page">63-64</citedRange></bibl>
+	</listBibl>
              <listBibl type="secondary">
-             <bibl/>
+             <bibl><ptr target="bib:HadiSidomulyo2018_01"/><citedRange unit="page">237</citedRange></bibl>
            </listBibl>
         </div>
       </body>
