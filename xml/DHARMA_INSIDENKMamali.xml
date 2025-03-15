@@ -92,7 +92,7 @@
 <lb n="1r7"/>tkik·, tuha banuA ramani kuṇḍū, tuha banuA si Aṅgāra ramani vatu, hulu vras· si bya ramani vulir·, gusti si kvaiḥ ramani ma<lb 
 n="1r8" break="no"/>ṅarani, gusti si piṅul·, vinkas· si tañjaṁ ramani danī, variga si gutra ramani buṁsul·, parujar· si golo ramani kruḥ,
 <lb n="1r9"/>parujar· si gahiṁ ramani soma, mapkan· si botoḥ, tuhālas· si jabuṁ ramani tira, tuhălas· si bahas· ramani la<lb 
-n="1r10" break="no"/>ṇḍuṁ, tuha buru si vadvā ramani tempaiḥ, muAṁ vinaihan· Ikanaṁ rāma I mamali pasak·-pasak·, muAṁ papaṅguḥ-pa<pb n="1v" break="no"/><lb n="1v1" break="no"/>ṅguhananya makabaihan·, muAṁ Anak manuAm· laki-laki, Anakbi, vḍihan· raṅga <abbr>yu</abbr> <num>7</num> vḍihan· putiḥ <abbr>yu</abbr> <num value="4">4</num> A<unclear>kan</unclear>· kboA mas· <abbr>mā</abbr> <num value="9">9</num> A<lb n="1v2" break="no"/>kan· tuAkka mas· <abbr>mā</abbr> <num value="4">4</num> vəAs· pada <num value="5">5</num> I sampunikā Umadag· Ikanaṁ rāma makabaihan· Iṁ pahīṁ mesuk· dvādaśi kr̥ṣṇa, humīṅann ika<lb 
+n="1r10" break="no"/>ṇḍuṁ, tuha buru si vadvā ramani tempaiḥ, muAṁ vinaihan· Ikanaṁ rāma I mamali pasak·-pasak·, muAṁ papaṅguḥ-pa<pb n="1v" break="no"/><lb n="1v1" break="no"/>ṅguhananya makabaihan·, muAṁ Anak manuAm· laki-laki, Anakbi, vḍihan· raṅga <abbr>yu</abbr> <num>7</num> vḍihan· putiḥ <abbr>yu</abbr> <num value="4">4</num> A<unclear>kan</unclear>· kboA mas· <abbr>mā</abbr> <num value="9">9</num> A<lb n="1v2" break="no"/>kan· tuAkka mas· <abbr>mā</abbr> <num value="4">4</num> vəAs· pada <num value="5">5</num> I sampunikā Umadag· Ikanaṁ rāma makabaihan· Iṁ pahīṁ mesuk· dvādaśi kr̥ṣṇa, humīṅanni Ika<lb 
 n="1v3" break="no"/>naṁ lmaḥ vinli, sinusukanya ya vatu sīma sraṁ dū <g type="ddandaHooked">.</g></p> <p>sākṣi tuha kalaṁ I sraṅan· si vura, muAṁ tuha kalaṁ I haliva<supplied reason="omitted">ṁ</supplied>baṁ si glar· ramani tarumbaṁ
 <lb n="1v4"/>muAṁ tuha kalaṁ si basu, vahuta I sirikan· kulumpaṁ si vanva ramani Ārthi, kapuA ya vinaihan· pirak· <abbr>mā</abbr> <num value="1">1</num> sovaṁ-sovaṁ <g type="ddandaHooked">.</g>
 <!--[binding-hole]-->
@@ -100,16 +100,22 @@ n="1v3" break="no"/>naṁ lmaḥ vinli, sinusukanya ya vatu sīma sraṁ dū <g 
          </div>
          <div type="apparatus">
                <listApp>
-<!-- 	1r1. mārggaśira°: marggaśira° MS&S.
-	1r5. makabaihan: makaibaihan MS&S.   
-	1v1. makabaihan: makaibahan MS&S. 
-	1v2. humīṅann: huməṅanni MS&S.
- -->
-		<app loc="1v2">
-                     <lem source="bib:BoechariND_01">...</lem>
-	<note>...</note>
+	<app loc="1r1">
+                     	<lem source="bib:BoechariND_01">mārggaśira-</lem>
+		<rdg source="bib:MachiSuhadi+SukartoAtmodjo1986_01">marggaśira-</rdg>
                   </app>
-
+	<app loc="1r5">
+                     <lem source="bib:BoechariND_01">makabaihan·</lem>
+	      <rdg source="bib:MachiSuhadi+SukartoAtmodjo1986_01">makaibaihan·</rdg>
+                  </app>
+	<app loc="1v1">
+                     <lem source="bib:BoechariND_01">makabaihan·</lem>
+	      <rdg source="bib:MachiSuhadi+SukartoAtmodjo1986_01">makaibaihan·</rdg>
+                  </app>
+	<app loc="1v2">
+                     <lem>humīṅanni</lem>
+		<rdg source="bib:BoechariND_01 bib:MachiSuhadi+SukartoAtmodjo1986_01">huməṅanni</rdg>
+                  </app>
                </listApp>
          </div>
          <div type="translation" resp="part:argr part:mego">
@@ -119,7 +125,7 @@ n="1v3" break="no"/>naṁ lmaḥ vinli, sinusukanya ya vatu sīma sraṁ dū <g 
             <p>A binding holes is pierced though the plates but nowhere interrupts the text.</p>
          </div>
         <div type="bibliography">
-           <p>Deciphered but not published by Boechari, a copy of whose typescript we received from Jan Wisseman Christie and use here as edition of reference (<bibl n="B"><ptr target="bib:BoechariND_01"/></bibl>). <seg rend="check">As our apparatus entries show, a copy of the same typescript seems to have been reproduced with involuntary errors, in the first integral published edition (<bibl><ptr target="bib:MachiSuhadi+SukartoAtmodjo1986_01"/></bibl>), which is accompanied by an Indonesian translation.</seg> Re-edited here by Arlo Griffiths and Mekhola Gomes from photographs.</p>
+           <p>Deciphered but not published by Boechari, a copy of whose typescript we received from Jan Wisseman Christie and use here as edition of reference (<bibl n="B"><ptr target="bib:BoechariND_01"/></bibl>). As our apparatus entries show, a copy of the same typescript seems to have been reproduced with involuntary errors, in the first integral published edition (<bibl><ptr target="bib:MachiSuhadi+SukartoAtmodjo1986_01"/></bibl>), which is accompanied by an Indonesian translation. Re-edited here by Arlo Griffiths and Mekhola Gomes from photographs.</p>
         	<listBibl type="primary">
 	<bibl n="B"><ptr target="bib:BoechariND_01"/></bibl>
 	<bibl n="MS&amp;SA"><ptr target="bib:MachiSuhadi+SukartoAtmodjo1986_01"/><citedRange unit="page">91-95</citedRange><citedRange unit="section">2.7.5</citedRange></bibl>
