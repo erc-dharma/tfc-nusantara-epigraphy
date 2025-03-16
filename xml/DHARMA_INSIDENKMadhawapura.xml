@@ -10,14 +10,14 @@
          <titleStmt>
             <title>Madhawapura (13th c. CE)</title>
             <respStmt>
-               <resp>EpiDoc encoding</resp>
-               <persName ref="part:ekba">
-                  <name>Eko Bastiawan</name>
-               </persName>
+            	<resp>EpiDoc encoding</resp>
                <persName ref="part:argr">
                   <forename>Arlo</forename>
                   <surname>Griffiths</surname>
                </persName>
+            	<persName ref="part:ekba">
+            		<name>Eko Bastiawan</name>
+            	</persName>
             </respStmt>
             <respStmt>
                <resp>intellectual authorship of edition</resp>
@@ -34,7 +34,7 @@
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/">
                   <p>This work is licenced under the Creative Commons Attribution 4.0 Unported Licence. To view a copy of the licence, visit https://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.</p>
-                  <p>Copyright (c) 2019-2025 by Eko Bastiawan &amp; Arlo Griffiths</p>
+                  <p>Copyright (c) 2019-2025 by Arlo Griffiths</p>
                </licence>
             </availability>
             <date from="2019" to="2025">2019-2025</date>
@@ -78,6 +78,7 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
+         <change who="part:argr" when="2025-03-16" status="draft">first round of revisions</change>
          <change who="part:ekba" when="2020-03-29" status="draft">created initial encoding of the inscription</change>
       </revisionDesc>
    </teiHeader>
@@ -98,16 +99,15 @@
 <lb n="7v4"/>, kajar·, Amagut pajə:ṁ piṅhe, Askar· <choice><sic>kata</sic><corr>kataṁ-</corr></choice>kataṁ, Amavaca, gluṁ, gr̥t·, Asə:ṇḍi vuluṁ, tinuntun i halalaṁ, ApaṅhaR̥<lb n="7v5" break="no"/>p· kḍi, Ajnu kanaka lavə:, kukuvaka luvə:r·, vr̥tti valī, kalā, Aṅkus·, pāduka, capaḥ, Anaṇḍaṁ salvirniṁ ra<lb n="7v6" break="no"/>tna, pavāraṇa banantə:n·, surāga, Amanaḥ kukulan·, Anuntun· celeṅ atə:kə:n· valira, sucyan·
 <lb n="7v7"/>Uṅaṅan·, tulisan· vtə:ṁ, śucyan· campur·, manḍə:lan· susu, Aholya, dinulaṅ i madhupārka, si<lb n="7v8" break="no"/>naṅkapāṇyan iṁ brāhmaṇādī, Asanti, Apasiliḥ tampiṁ, pasiliḥ kāmbaluṅan·, pinasiliḥniṁ kḍi, prās va<unclear>t</unclear>aṁ,</p>
 <p part="I">
-<pb n="10r"/>
-<lb n="10r1"/>ta kamū hyaṁ kabeḥ, Ikaṁ śapatha samaya sumpaḥ sinrahakə:niṅ hulun iri kita, yăvat ikaṁ vvaṁ ka<lb n="10r2" break="no"/>beḥ, Agə:ṅ admit· salviranya, yadyan· caturăśrama, brāhmacāri, gr̥hastha, bhikṣuka, Atha
-<lb n="10r3"/>ca, catur·varṇa, brāhmaṇa, kṣatriya, veśya, śūdra, piṅhey akurug avajuh anak thāni, makā<lb n="10r4" break="no"/>di saṁ prabhu mantry anāgata, yăvat umulah-ulaḥ I saṁ hyaṁ dharmma riṁ mādhavapura, mne hlə:m· t<unclear>ka</unclear> riṁ dlā<lb n="10r5" break="no"/>hani dlāha, A<unclear>b</unclear>ibikāmuṅkil·-muṅkila ri saṁ hyaṁ dharmma, ṅunive<unclear>ḥ</unclear> yan paṁdavuta ri saṁ hyaṁ Upala
-<lb n="10r6"/>sima, Aṅalihakna ri tan sayogya Uṅgvananira, tasmāt kabyə:t karmmāknānya, parikālanə:nta ya ⌈<lb n="10r7" break="no"/>vehə:n saṁsārā, <unclear>tan· v</unclear><supplied reason="lost">u</supplied>ruṅa patyananta kamu hyaṁ, dāyāntat· pamigraha ya, yan apara-paran hu<lb n="10r8" break="no"/>malivat ta ya ri tgal· <unclear>sah</unclear>utə:n deniṅ ulā mandi, riṅ alas· dmakə:n deniṁ vyăghra, maṅlaṅkaha<pb n="10r" break="no"/><lb n="10v1" break="no"/><unclear>na miṁmaṁ, sa</unclear>rikə:n deniṁ banaspati, bhas<unclear>m</unclear>ĭbhūta <choice><sic>pa</sic><corr>sa</corr></choice>ha dravyanya tan panoli<unclear>ha r</unclear>i vuntat·, taruṁ
-<lb n="10v2"/><supplied reason="lost">ri</supplied> paṅadə:gan·, tampyal· ri kivanya, Uvahi ri tə:ṅə:nya, tutuh uṇḍuh-uṇḍu<choice><sic>t</sic><corr>h</corr></choice>anya, blaḥ kapāla<lb n="10v3" break="no"/>nya, ḍaḍat i vtə:ṁnya, tk<choice><sic>a</sic><corr>e</corr></choice> ḍaḍanya, vtvakə:n· daL̥manya, ḍuḍut hatinya, maṅan· dagiṁnya, Inum· rāḥ<lb n="10v4" break="no"/>nya, Atə:hə:r· pə:pə:dakə:n· bvaṅakə:n· vkas i prāṇāntika, bvaṅakə:n· riṁ māharorava, Astu,
-<lb n="10v5"/> Astu, Astu, <g type="ddandaOrnate"/> <g type="circle"/> <g type="ddandaOrnate"/>,
+<pb n="13r"/>
+<lb n="13r1"/>ta kamū hyaṁ kabeḥ, Ikaṁ śapatha samaya sumpaḥ sinrahakə:niṅ hulun iri kita, yăvat ikaṁ vvaṁ ka<lb n="13r2" break="no"/>beḥ, Agə:ṅ admit· salviranya, yadyan· caturăśrama, brāhmacāri, gr̥hastha, bhikṣuka, Atha
+<lb n="13r3"/>ca, catur·varṇa, brāhmaṇa, kṣatriya, veśya, śūdra, piṅhey akurug avajuh anak thāni, makā<lb n="13r4" break="no"/>di saṁ prabhu mantry anāgata, yăvat umulah-ulaḥ I saṁ hyaṁ dharmma riṁ mādhavapura, mne hlə:m· t<unclear>ka</unclear> riṁ dlā<lb n="13r5" break="no"/>hani dlāha, A<unclear>b</unclear>ibikāmuṅkil·-muṅkila ri saṁ hyaṁ dharmma, ṅunive<unclear>ḥ</unclear> yan paṁdavuta ri saṁ hyaṁ Upala
+<lb n="13r6"/>sima, Aṅalihakna ri tan sayogya Uṅgvananira, tasmāt kabyə:t karmmāknānya, parikālanə:nta ya ⌈<lb n="13r7" break="no"/>vehə:n saṁsārā, <unclear>tan· v</unclear><supplied reason="lost">u</supplied>ruṅa patyananta kamu hyaṁ, dāyāntat· pamigraha ya, yan apara-paran hu<lb n="13r8" break="no"/>malivat ta ya ri tgal· <unclear>sah</unclear>utə:n deniṅ ulā mandi, riṅ alas· dmakə:n deniṁ vyăghra, maṅlaṅkaha<pb n="13r" break="no"/><lb n="13v1" break="no"/><unclear>na miṁmaṁ, sa</unclear>rikə:n deniṁ banaspati, bhas<unclear>m</unclear>ĭbhūta <choice><sic>pa</sic><corr>sa</corr></choice>ha dravyanya tan panoli<unclear>ha r</unclear>i vuntat·, taruṁ
+<lb n="13v2"/><supplied reason="lost">ri</supplied> paṅadə:gan·, tampyal· ri kivanya, Uvahi ri tə:ṅə:nya, tutuh uṇḍuh-uṇḍu<choice><sic>t</sic><corr>h</corr></choice>anya, blaḥ kapāla<lb n="13v3" break="no"/>nya, ḍaḍat i vtə:ṁnya, tk<choice><sic>a</sic><corr>e</corr></choice> ḍaḍanya, vtvakə:n· daL̥manya, ḍuḍut hatinya, maṅan· dagiṁnya, Inum· rāḥ<lb n="13v4" break="no"/>nya, Atə:hə:r· pə:pə:dakə:n· bvaṅakə:n· vkas i prāṇāntika, bvaṅakə:n· riṁ māharorava, Astu,
+<lb n="13v5"/> Astu, Astu, <g type="ddandaOrnate"/> <g type="circle"/> <g type="ddandaOrnate"/>,
 </p>
          </div>
          <div type="apparatus">
-           <!--apparatus encoded as per EG §9.1, basic elements for apparatus below-->
                <listApp>
                   <app loc="5v1-5v2">
                       <lem><abbr>mā</abbr><lb n="5v2"/><num value="2">2</num></lem>
@@ -211,144 +211,144 @@
                      <rdg source="bib:Naerssen1941_01">kāmbuluṅan·</rdg>
                      <note>Emend <foreign>kāmbuluṅan·</foreign>?</note>
                      </app>
-                  <app loc="10r1">
+                  <app loc="13r1">
                       <lem source="bib:Boechari1985-1986_01">ta</lem>
                      <note>The last akṣaras of the preceding plate will have been <foreign>indaḥ ta ki</foreign>. See <ref target="DHARMA_INSIDENKRamesvarapura.xml">Rameswarapura</ref> 14v1–2.</note>
                      </app>
-                  <app loc="10r1">
+                  <app loc="13r1">
                       <lem>kamū</lem>
                      <rdg source="bib:Boechari1985-1986_01">kamu</rdg>
                      </app>
-                  <app loc="10r1">
+                  <app loc="13r1">
                       <lem>sinrahakə:niṅ</lem>
                      <rdg source="bib:Boechari1985-1986_01">sinrahakən</rdg>
                      </app>
-                  <app loc="10r1">
+                  <app loc="13r1">
                       <lem>yăvat ikaṁ</lem>
                      <rdg source="bib:Boechari1985-1986_01">yatha ri kaṁ</rdg>
                      <note><foreign>yāvat ikaṅ vvaṅ kabeḥ</foreign> is a standard formula (e.g. <ref target="DHARMA_INSIDENKWaharu.xml">Waharu</ref> IV, 6a4; <ref target="DHARMA_INSIDENKTuhanyaru.xml">Tuhanyaru</ref> 9b6).</note>
                      </app>
-                  <app loc="10r2">
+                  <app loc="13r2">
                       <lem>brāhmacāri</lem>
                      <rdg source="bib:Boechari1985-1986_01">brāmacāri</rdg>
                      </app>
-                  <app loc="10r2">
+                  <app loc="13r2">
                       <lem source="bib:Boechari1985-1986_01">gr̥hastha, bhikṣuka</lem>
                      <note>The word <foreign>vanaprastha</foreign> would normally have to be assumed to be missing between these two items (see <ref target="DHARMA_INSIDENKSarvadharma.xml">Sarvadharma</ref>), but the same is missing also in <ref target="DHARMA_INSIDENKRamesvarapura.xml">Rameswarapura</ref> REF.</note>
                      </app>
-                  <app loc="10r2">
+                  <app loc="13r2">
                       <lem>Atha</lem>
                      <rdg source="bib:Boechari1985-1986_01">Ava</rdg>
                      </app>
-                  <app loc="10r3">
+                  <app loc="13r3">
                       <lem>brāhmaṇa, kṣatriya</lem>
                      <rdg source="bib:Boechari1985-1986_01">brahmaṇa kṣatriya</rdg>
                      </app>
-                  <app loc="10r3">
+                  <app loc="13r3">
                       <lem>śūdra</lem>
                      <rdg source="bib:Boechari1985-1986_01">sūdra</rdg>
                      </app>
-                  <app loc="10r3">
+                  <app loc="13r3">
                       <lem>piṅhey akurug avajuh anak thāni</lem>
                      <rdg source="bib:Boechari1985-1986_01">piṅhe ya kurugavaju hanak thāni</rdg>
                      <note>Cf. <ref target="DHARMA_INSIDENKCanggu.xml">Canggu</ref> 5v5–6 <foreign>salviraniṅ nāyaka, parttaya, apiṅhe, akurug, avajuh, vadihadi</foreign>; <ref target="DHARMA_INSIDENKTuhanyaru.xml">Tuhanyaru</ref> 10r1 <foreign>mvaṅ piṅhay avajuh akurug anak thāna</foreign>; <ref target="DHARMA_INSIDENKSimaAnglayang.xml">Sima Anglayang</ref> 16v4, 16v5, 17r5 <foreign>piṅhai makurug anak thāni</foreign>; <ref target="DHARMA_INSIDENKKudadu.xml">Kudadu</ref> 10vREF <foreign>mvaṅ piṅhey akurug anak thāni</foreign>.</note>
                      </app>
-                  <app loc="10r4">
+                  <app loc="13r4">
                       <lem>hlə:m</lem>
                      <rdg source="bib:Boechari1985-1986_01">hləm</rdg>
                      </app>
-                  <app loc="10r4">
+                  <app loc="13r4">
                       <lem>riṁ</lem>
                      <rdg source="bib:Boechari1985-1986_01">ri</rdg>
                      </app>
-                  <app loc="10r5">
+                  <app loc="13r5">
                       <lem>A<unclear>b</unclear>ibikā-</lem>
                      <rdg source="bib:Boechari1985-1986_01">Aminikā-</rdg>
                      <note>On the basis of parallels (<ref target="DHARMA_INSIDENKWaharu.xml">Waharu</ref> IV [in <title>PKMN</title>, <title>Pasar di Jawa</title>] and <ref target="DHARMA_INSIDENKRamesvarapura.xml">Rameswarapura</ref>), one expects <foreign>Abibikā</foreign>-. But it would perhaps not be impossible to sustain Boechari’s <foreign>Ami</foreign>-, and <title>OJED</title> seems to permit <foreign>Amibika</foreign>.</note>
                      </app>
-                  <app loc="10r6">
+                  <app loc="13r6">
                       <lem>tasmāt</lem>
                      <rdg source="bib:Boechari1985-1986_01">tasmat</rdg>
                      </app>
-                  <app loc="10r6">
+                  <app loc="13r6">
                       <lem>karmmāknānya</lem>
                      <rdg source="bib:Boechari1985-1986_01">karmmāknanya</rdg>
                      </app>
-                  <app loc="10r6">
+                  <app loc="13r6">
                       <lem>parikālanə:nta</lem>
                      <rdg source="bib:Boechari1985-1986_01">parikalanə:n ta</rdg>
                      <note>Why <foreign>parikalanə:n</foreign> and not <foreign>parikalə:n</foreign> ?</note>
                      </app>
-                  <app loc="10r7">
+                  <app loc="13r7">
                       <lem><unclear>tan· v</unclear><supplied reason="lost">u</supplied>ruṅa</lem>
                      <rdg source="bib:Boechari1985-1986_01">Avaravaraṅa</rdg>
                      <note>The reading <foreign>tan vuruṅa</foreign> is supported by <ref target="DHARMA_INSIDENKRamesvarapura.xml">Rāmeśvarapura</ref>.</note>
                      </app>
-                  <app loc="10r8-10v1">
-                      <lem>maṅlaṅkaha<pb n="10r" break="no"/><lb n="10v1" break="no"/><unclear>na</unclear></lem>
+                  <app loc="13r8">
+                      <lem>maṅlaṅkaha<pb n="13r" break="no"/><lb n="13v1" break="no"/><unclear>na</unclear></lem>
                      <rdg source="bib:Boechari1985-1986_01">maṅlankahana</rdg>
                      </app>
-                  <app loc="10v1">
+                  <app loc="13v1">
                       <lem><unclear>miṁmaṁ</unclear></lem>
                      <rdg source="bib:Boechari1985-1986_01">mima</rdg>
                      </app>
-                  <app loc="10v1">
+                  <app loc="13v1">
                       <lem>deniṁ</lem>
                      <rdg source="bib:Boechari1985-1986_01">deni</rdg>
                      </app>
-                  <app loc="10v1">
+                  <app loc="13v1">
                       <lem><choice><sic>pa</sic><corr>sa</corr></choice>ha</lem>
                      <rdg source="bib:Boechari1985-1986_01">paha</rdg>
                      <note>Cf. <title>PKMN</title> p. 96, b.6; <ref target="DHARMA_INSIDENKRamesvarapura.xml">Rāmeśvarapura</ref>.</note>
                      </app>
-                  <app loc="10v1">
+                  <app loc="13v1">
                       <lem>bhasmĭbhūta</lem>
                      <rdg source="bib:Boechari1985-1986_01">bhasmibhuta</rdg>
                      </app>
-                  <app loc="10v2">
+                  <app loc="13v2">
                       <lem><supplied reason="lost">ri</supplied> paṅadə:gan·, tampyal· ri kivanya</lem>
                      <rdg source="bib:Boechari1985-1986_01">ri paṅadə:gan· tampyal· ri tithanya</rdg>
                      <note>Emend <foreign>rikaṅ</foreign> ..?</note>
                      </app>
-                  <app loc="10v2">
+                  <app loc="13v2">
                       <lem>uṇḍuh-uṇḍu<choice><sic>t</sic><corr>h</corr></choice>anya</lem>
                      <rdg source="bib:Boechari1985-1986_01">uṇḍuh-uṇḍutanya</rdg>
                      <note>Or <foreign>tuṇḍanya</foreign>, as in <ref target="DHARMA_INSIDENKAdanAdan.xml">Adan-Adan</ref>?</note>
                      </app>
-                  <app loc="10v2">
+                  <app loc="13v2">
                       <lem>kapāla</lem>
                      <rdg source="bib:Boechari1985-1986_01">kapala</rdg>
                      </app>
-                  <app loc="10v3">
+                  <app loc="13v3">
                       <lem>ḍaḍat</lem>
                      <rdg source="bib:Boechari1985-1986_01">dadat</rdg>
                      </app>
-                  <app loc="10v3">
+                  <app loc="13v3">
                       <lem>vtə:ṁnya, tk<choice><sic>a</sic><corr>e</corr></choice></lem>
                      <rdg source="bib:Boechari1985-1986_01">vtə:ṁnya tka</rdg>
                      <note>Or correct <foreign>tka ri</foreign>.</note>
                      </app>
-                  <app loc="10v3">
+                  <app loc="13v3">
                       <lem>daL̥manya</lem>
                      <rdg source="bib:Boechari1985-1986_01">dalemanya</rdg>
                      </app>
-                  <app loc="10v3">
+                  <app loc="13v3">
                       <lem>ḍuḍut</lem>
                      <rdg source="bib:Boechari1985-1986_01">dudut</rdg>
                      </app>
-                  <app loc="10v3">
+                  <app loc="13v3">
                       <lem>maṅan</lem>
                      <rdg source="bib:Boechari1985-1986_01">paṅan</rdg>
                      </app>
-                  <app loc="10v4">
+                  <app loc="13v4">
                       <lem>Atə:hə:r· pə:pə:dakə:n· bvaṅakə:n·</lem>
                      <rdg source="bib:Boechari1985-1986_01">Atəhər· pəpədakən· bvaṅakən·</rdg>
                      </app>
-                  <app loc="10v4">
+                  <app loc="13v4">
                       <lem>prāṇāntika</lem>
                      <rdg source="bib:Boechari1985-1986_01">prāṇantika</rdg>
                      </app>
-                  <app loc="10v4">
+                  <app loc="13v4">
                       <lem>bvaṅakə:n·</lem>
                      <rdg source="bib:Boechari1985-1986_01">bvaṅakən·</rdg> 
                      </app>
@@ -363,7 +363,6 @@
      <p/>
          </div>
         <div type="bibliography">
-	<!--bibliography encoded as per section §9.4 -->
             <p>The first two plates were first edited by Naerssen (<bibl rend="omitname"><ptr target="bib:Naerssen1941_01"/></bibl>) while the last plate was edited  by Boechari (<bibl rend="omitname"><ptr target="bib:Boechari1985-1986_01"/></bibl>. The plates were grouped and re-edited here by Arlo Griffiths.</p>
            <listBibl type="primary">
 	<bibl n="N">
