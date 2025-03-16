@@ -8,7 +8,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Siku Lalawa</title>
+            <title>Foundation bordered by Halaṅan and Taratap (Siku Lalawa)</title>
+	<!-- alternative title: "Siku Lalawa" -->
             <respStmt>
             	<resp>EpiDoc encoding</resp>
                   <persName ref="part:argr">
@@ -86,39 +87,46 @@
       <body>
          <div type="edition" xml:lang="kaw-Latn" rendition="class:38769 maturity:83213">
 <p part="F"><pb n="11r" break="no"/><lb n="11r1" break="no"/>ṅan·, midə:r aṅulvan aṅidul atūt· pagə:r·, Asiḍaktan· lāvan· halaṅan·, muvaḥ maṅidul amnə:r· tkeṁ siku la<lb 
-n="11r2" break="no"/>lavāmluk aṅulvan·, pañjaṁnya, ḍpa, <num value="30">30</num>, blaḥ, muvaḥ maṅidul· saṅkeṁ siku lalavākalihan· gaL̥ṁ lāvan· hala<lb 
-n="11r3" break="no"/>ṅan·,, midə:r aṅulvan akalihan· gaL̥ṁ lāvan· halaṅan·, midə:r aṅidul akalihan·, gaL̥ṁ lāvan· halaṅan· <unclear>d</unclear>u<lb 
-n="11r4" break="no"/>dug· tkeṅ agneya, vatə:s kulumpaṁ kinatigan· lāvan· halaṅan· kidul· taratap·, maṅulvan· saṅkeṁ
-<lb n="11r5"/>Agneya, Aniku lalavā, pañjaṁnya, ḍpa, <num value="27">27</num>, midə:r aṅidul· saṅkeṁ siku lalavākalihan· gaL̥<unclear>ṁ</unclear> lāva<lb 
+n="11r2" break="no"/>lavā mluk aṅulvan·, pañjaṁnya, ḍpa, <num value="30">30</num>, blaḥ, muvaḥ maṅidul· saṅkeṁ siku lalavākalihan· gaL̥ṁ lāvan· hala<lb 
+n="11r3" break="no"/>ṅan·,, midə:r aṅulvan akalihan· gaL̥ṁ lāvan· halaṅan·, midə:r aṅidul akalihan· gaL̥ṁ lāvan· halaṅan· <unclear>d</unclear>u<lb 
+n="11r4" break="no"/>dug· tkeṅ Ăgneya, vatə:s kulumpaṁ kinatigan· lāvan· halaṅan· kidul· taratap·, maṅulvan· saṅkeṁ
+<lb n="11r5"/>Ăgneya, Aniku lalavā, pañjaṁnya, ḍpa, <num value="27">27</num>, midə:r aṅidul· saṅkeṁ siku lalavākalihan· gaL̥<unclear>ṁ</unclear> lāva<lb 
 n="11r6" break="no"/>n taratap·, dudug maṅidul· Atūt· piṅgirni<unclear>ṁ</unclear> kubvan asiḍaktan· lāvan· taratap·, muvaḥ Aṅulvan akalihan·
 <lb n="11r7"/>gaL̥ṁ lāvan· taratap·, muvaḥ midə:r aṅidul aniku lalavā, pañjaṁnya, ḍpa, <num value="19">19</num>, midə:r aṅulvan· saṅkeṁ siku
 <lb n="11r8"/>lalavākalihan· gaL̥ṁ lāvan· taratap·, midə:r aṅidul aniku lalavā, pañjaṁnya, ḍpa, <num value="26">26</num>, Akalihan·
 <pb n="11v"/><fw place="right" rend="bt-rotated" n="11v"><num value="11">11</num></fw>
 <lb n="11v1"/>gaL̥ṁ lāvan· taratap·, midə:r aṅulvan· saṅkeṁ siku lalavākalihan· gaL̥ṁ lāvan· taratap·, dudug· maṅu<lb 
 n="11v2" break="no"/>lvan· makahīṅan piṅgirniṁ kali vetan·, muvaḥ midə:r aṅidul· piṅgirniṁ kali vetan·, Akalihan· gaL̥<unclear>ṁ</unclear> lāva<lb 
-n="11v3" break="no"/>n taratap·, Andə:L̥s aṅidul· saṅkeṁ kali dudug· tkeṁ gaL̥ṅ agə:ṁ kinalihan· lāvan· taratap· midə:r aṅu<lb 
+n="11v3" break="no"/>n taratap·, Andə:L̥s aṅidul· saṅkeṁ kali dudug· tkeṁ gaL̥ṅ agə:ṁ kinalihan· lāvan· taratap·<unclear>,</unclear> midə:r aṅu<lb 
 n="11v4" break="no"/>lvan· saṅkeṁ gaL̥ṅ agə:ṁ vatə:s kinalihan· lāvan· taratap·, Andə:L̥s aṅulvan atūt· gaL̥ṅ agə:ṁ kinalihan·
 <lb n="11v5"/>lāva<choice><orig>n</orig><reg>n n</reg></choice>ūṣa, midə:r aṅidul· saṅkeṁ gaL̥ṅ agə:ṁ kinalihan· lāva<choice><orig>n</orig><reg>n n</reg></choice>ūṣa, muvaḥ midə:r aṅetan andə:L̥s· makahī<lb 
 n="11v6" break="no"/>ṅan piṅgirniṁ lvaḥ kulvan·, Aṅidul atūt· piṅgirniṁ lvaḥ kulvan· Aniku lalavā, pañjaṁnya, ḍpa, <num value="49">49</num>, midə:r aṅu<lb 
-n="11v7" break="no"/>lvan· saṅkeṁ siku lalavātūt· piṅgir· tan padravya lvaḥ saṁ hyaṁ dharmma, midə:r aṅalor· saṅke piṅgirniṁ lvaḥ <unclear>A<g type="squiggleVertical">§</g></unclear><lb 
+n="11v7" break="no"/>lvan· saṅkeṁ siku lalavātūt· piṅgir·<supplied reason="subaudible">,</supplied> tan padravya lvaḥ saṁ hyaṁ dharmma, midə:r aṅalor· saṅke piṅgirniṁ lvaḥ <unclear>A<g type="squiggleVertical">§</g></unclear><lb 
 n="11v8" break="no"/>niku lalavā, pañjaṁnya, ḍpa, <num value="13">13</num>, Akalihan gaL̥ṁ lāvan· taratap·, Aṅulvan· saṅkeṁ siku lalavā,</p>
          </div>
          <div type="apparatus">
                <listApp>
-                  <app loc="11r1"><lem>amnə:r·</lem><rdg source="bib:Naerssen1977_01">umnə:r·</rdg></app>
+	<app loc="11r1"><lem source="bib:Naerssen1977_01"><pb n="11r" break="no"/><lb n="11r1" break="no"/>ṅan·</lem>
+		<note>The toponym truncated because of the loss of the preceding plate was probably <foreign>halaṅan</foreign>·.</note></app>		
+                <app loc="11r1"><lem>amnə:r·</lem><rdg source="bib:Naerssen1977_01">umnə:r·</rdg></app>
 	<app loc="11r4"><lem>saṅkeṁ</lem><rdg source="bib:Naerssen1977_01">saṅke</rdg></app>
 	<app loc="11r5"><lem>saṅkeṁ</lem><rdg source="bib:Naerssen1977_01">saṅke</rdg></app>
                </listApp>         
          </div>
          <div type="translation" resp="part:argr">
- 	<!--translation encoded as per EG §9.2 -->
-	<p/>
+	<p><gap reason="lost"/> <supplied reason="lost">Hala</supplied>ṅan. It turns South-West following the fence adjoining with Halaṅan. Again it goes straight South up to the sharp angle bending West, long 30 fathoms <supplied reason="explanation"><foreign>ḍpa</foreign></supplied>, <foreign>blaḥ</foreign>. Again it goes South from the sharp angle sharing a dike <supplied reason="explanation"><foreign>galəṅ</foreign></supplied> with Halaṅan. It turns West sharing a dike with Halaṅan. It turns South sharing a dike with Halaṅan, reaching <supplied reason="explanation"><foreign>dudug</foreign></supplied> up to the Southeast point. The boundary of stones <supplied reason="explanation"><foreign>vatə̄s kulumpaṅ</foreign></supplied>, shared both with Halaṅan South <supplied reason="subaudible">and</supplied> Taratap, goes West from the Southeast point, making a sharp angle, long 27 fathoms. It turns South from the sharp angle sharing a dike with Taratap, reaching southward along the edge of the orchard adjoining Taratap. Again it goes West sharing a dike with Taratap; again it turns South making a sharp angle, long 19 fathoms. It turns West from the sharp angle, sharing a dike with Taratap. It turns South making a sharp angle, long 26 fathoms, sharing <!--(11v)--> a dike with Taratap. It turns West from the sharp angle sharing a dike with Taratap, reaching westward until the edge of the East River, sharing a dike with Taratap. It goes straight on <supplied reason="explanation"><foreign>andə̄ləs</foreign></supplied> to the South from the river, reaching up to the big dike shared with Taratap. It turns to the west from the big dike shared with Taratap, goes straight on to the West along the big dike shared with Nūṣa. It turns to the South from the big dike shared with Nūṣa, turns East again going straight until the edge of the West River, going South along the edge of the West River, making a sharp angle, long 49 fathoms. It turns West from the sharp angle along the edge — the Holy Foundation does not possess the river — <supplied reason="subaudible">and</supplied> turns North from the edge of the river, making a sharp turn, long 13 fathoms, sharing a dike with Taratap. It goes West from the sharp turn, <gap reason="lost"/>
+</p>
          </div>
          <div type="commentary">
-            <p>Halaṅan: 
-	- Kaladai
-	rāma tpi siriṅ milu kālaniṅ susukan, (6v5) śīma, vinkas i halaṅan, saṅ lumbuṅ, kalaṅ saṅ saṅkəp, vinkas i taritip, saṅ balikuh, vinkas i ka(6v6)lpuan, saṅ bsi, vinkas i vaharu, saṅ liṅga, kalaṅ saṅ rasuk, vinkas iṅ gayam tbəl, saṅ śoca, sa
-	-Bimalasrama (10r8) 1, I sīmajaya, saṁ rusit·, saṁ vităna, saṁ boreg·, vineḥ pasǝk pagǝḥ ku 2 vḍihan· ga yu 1, I halaṅan·,
+	<p>It needs to be determined which length is intended with the phrases <foreign>pañjaṁnya, ḍpa, X</foreign>. In one instance, the word <foreign>blaḥ</foreign>  appears after tich a lenth statement. The meaning of this addition is unknown. Comparable passages in other inscrtiptions are very rare:  
+<list><item>Tuhanyaru (5v1–2) <foreign>hīṅani lmaḥnikaṁ tuhañaru, muAṅ iṁ kusambyan·, hana ta savaḥ phalaśrama paṁR̥ṇanikaṁ samasānak iṁ tuhañaru I dyaḥ makaradhvaja, savaḥ, təmpaḥ, 1, <hi rend="bold">blaḥ</hi>, muvaḥ Ikaṁ samasānak iṁ kusambyan asuṁ paṁR̥ṇa I dyaḥ makaradhvaja</foreign>;</item> 
+<item>Sobhamerta (1r4) <foreign>samgət· ka<surplus>ka</surplus>nuruhan· pŭdā, kumonakən ikaṁ lmaḥ savaḥ, <hi rend="bold">blaḥ</hi> təmpaḥ 1, tka rikaṅ kubvan·, pomahan·, vinli mpu<supplied reason="omitted">ṁ</supplied>ku I nerāñjana</foreign>.</item></list>
+</p>
+            <p>The neighboring villages Halaṅan and Taratap can probably be identified with Halaṅan and Taritip in some other inscriptions: 
+	<list><item>Sangguran, Alasantan, Jeru-Jeru, Gulung-Gulung, Linggasuntan, Masahar, Sobhamerta: <foreign>ḍapunta</foreign> Taritip</item>
+	<item>Kaladi (6v5) <foreign>śĭma, vinkas· I halaṅan·, saṁ lumbuṁ, kalaṁ saṁ saṅkəp·, vinkas· I taritip·, saṁ balikuḥ, vinkas· I ka(6v6)lpuAn·, saṁ bsi, vinkas· I vaharu, saṁ liṅga, kalaṁ saṁ rasuk·, vinkas· Iṅ gayam· tbəl·, saṁ śoca, sa(7r1)maṅkana kvaiḥni rāma tpi siriṁ milu ri kālaniṁ susukan· śĭma,</foreign></item>
+	<item>Bimalasrama (10r8) <foreign>I sīmajaya, saṁ rusit·, saṁ vităna, saṁ boreg·, vineḥ pasǝk pagǝḥ ku 2 vḍihan· ga yu 1, I halaṅan·,</foreign></item>
+</list>
 </p>
      <p/>
          </div>
