@@ -41,7 +41,7 @@
       <publicationStmt>
         <authority>DHARMA</authority>
         <pubPlace>Paris</pubPlace>
-        <idno type="filename">DHARMA_INS11Lintakan</idno>
+        <idno type="filename">DHARMA_INSIDENKLintakan</idno>
         <availability>
           <licence target="https://creativecommons.org/licenses/by/4.0/">
             <p>This work is licenced under the Creative Commons Attribution 4.0 Unported Licence. To view a copy of the licence, visit https://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.</p>
@@ -83,6 +83,7 @@
       </listPrefixDef>
     </encodingDesc>
     <revisionDesc>
+    <change status="draft" when="2025-03-16" who="part:wjsa">Corrections to translation and apparatus</change>
     <change status="draft" when="2025-03-15" who="part:wjsa">More corrections to line break formatting and abbr tags</change>
     <change status="draft" when="2025-02-28" who="part:wjsa">Minor formatting corrections in line with EGD</change>
     <change status="draft" when="2024-04-03" who="part:wjsa">Applying global translation changes and fixing syntax errors</change>
@@ -161,6 +162,7 @@ n="3r22"/>lu<space/>y· I kuruṅanya samaṅka<space/>na Ikeṁ haya<space/>m·
 </p>
       </div>
       <div type="apparatus">
+<listApp>
         <app loc="1r1">
           <lem>śaka-varṣātīta</lem>
           <note>CS, śaka-varṣātita Boe.</note>
@@ -558,12 +560,13 @@ n="3r22"/>lu<space/>y· I kuruṅanya samaṅka<space/>na Ikeṁ haya<space/>m·
           <lem>pəpəddakan</lem>
           <note>pəpədḍakan CS Boe.</note>
         </app>
+</listApp>
       </div>
-      <div type="translation" xml:lang="eng">
+      <div type="translation" resp="part:tykd part:wjsa part:argr">
         <!-- Plate 1 -->
-        <p>(1r1) Hail! Elapsed Śaka year 841, month of Śrāvaṇa, the twelfth <foreign>tithi</foreign> of the waxing fortnight, Mawulu, Umanis, Monday, the lunar mansion Mūla, the deity Nairr̥ti, the conjunction Vaidhṛti, in the southwest direction. That was the time when the Great King Lord of Layaṅ Dyah Tloḍoṅ Śrī Sajjanasannatānurāgatuṅgadeva demarcated the forest of Lintakan in the district of Malintaki, and the forest in Tunah, in the district of Pinapan and there was a demarcated land in Vru, in the district of Magañjar for the custodian of the sanctuary, in connection with irrigating the freehold.  There is 1 <foreign>tampah</foreign> of wet rice field in Kasugihan, in the east of the land in Tunah and Lintakan. It was bought by the Great King from the headmen in Kasugihan for 1 <foreign>kāti</foreign>,<foreign></foreign>13 <foreign>dhāraṇa </foreign>and 6 <foreign>māṣa</foreign> of silver. It was then also demarcated. The function of it was for the  offering  (<foreign>carua</foreign>) to the funerary monument of the Great King’s father in Turu Maṅambil. This demarcated land is the land in the south of the fence here, guarded by the Mamrāti (and) the Tilimpik here. But the reason why all the <foreign>taṇḍa rakryān </foreign>also received the gifts, as well as their herald because the demarcation of the freehold land had been completed, to remain fixed until the future’s future.</p>
+        <p>(1r1) Hail! Elapsed Śaka year 841, month of Śrāvaṇa, the twelfth <foreign>tithi</foreign> of the waxing fortnight, Mawulu, Umanis, Monday, the lunar mansion Mūla, the deity Nairr̥ti, the conjunction Vaidhṛti, in the southwest direction. That was the time when the Great King, Lord of <supplied reason="explanation"><foreign>rakai</foreign></supplied> Layaṅ, <foreign>dyah</foreign> Tloḍoṅ Śrī Sajjanasannatānurāgatuṅgadeva demarcated the forest of Lintakan in the district of Malintaki, and the forest in Tunah, in the district of Pinapan and there was a demarcated land in Vru, in the district of Magañjar for the custodian of the sanctuary, in connection with irrigating <supplied reason="explanation"><foreign>umvayana</foreign></supplied> the <foreign>sīma</foreign>.  There is 1 <foreign>tampah</foreign> of wet rice field in Kasugihan, in the east of the land in Tunah and Lintakan. It was bought by the Great King from the headmen in Kasugihan for 1 <foreign>kāti</foreign>,<foreign></foreign>13 <foreign>dhāraṇa </foreign>and 6 <foreign>māṣa</foreign> of silver. It was then also demarcated. The function of it was for the  offering  (<foreign>carua</foreign>) to the funerary monument of the Great King’s father in Turu Maṅambil. This demarcated land is the land in the south of the fence here, guarded by the Mamrāti (and) the Tilimpik here. But the reason why all the <foreign>taṇḍa rakryān </foreign>also received the gifts, as well as their herald because the demarcation of the <foreign>sīma</foreign> land had been completed, to remain fixed until the future’s future.</p>
         <p>As follows is the content of the charter:</p>
-        <p>(1r6) The <foreign>taṇḍa rakryān </foreign>were all presented the confirmatory gifts after having established the demarcation of the freehold land:</p>
+        <p>(1r6) The <foreign>taṇḍa rakryān </foreign>were all presented the confirmatory gifts after having established the demarcation of the <foreign>sīma</foreign> land:</p>
         <p>The [Lord of] Hino at that time, <foreign>pu </foreign>Ketudhara Manimantaprabhā Prabhuśakti Trivikrama [was given] 1 <foreign>yugala</foreign> of <foreign>pilih magəṅ </foreign>cloth, 1 <foreign>suvarṇa</foreign> and 4 <foreign>māṣa</foreign> of gold.</p>
         <p>The Lord of Halu, <foreign>pu </foreign>Siṇḍok,</p>
         <p>The Lord of Sirikan, <foreign>pu </foreign>Havaṅ</p>
