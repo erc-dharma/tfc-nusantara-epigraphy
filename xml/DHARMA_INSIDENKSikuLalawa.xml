@@ -53,7 +53,7 @@
                </msContents>
                <physDesc>
                   <handDesc>
-                     <p/>
+                     <p>Lettering characteristic of the Singasari period.</p>
                      <!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EG 11.2. -->
                   </handDesc>
                </physDesc>
@@ -118,7 +118,8 @@ n="11v8" break="no"/>niku lalavā, pañjaṁnya, ḍpa, <num value="13">13</num>
 </p>
          </div>
          <div type="commentary">
-	<p>It needs to be determined which length is intended with the phrases <foreign>pañjaṁnya, ḍpa, X</foreign>. In one instance, the word <foreign>blaḥ</foreign>  appears after such a legnth statement. The meaning of this addition is unknown. Comparable passages in other inscrtiptions are very rare:  
+	<p><bibl><ptr target="bib:Naerssen1977_01"/><citedRange unit="page">63</citedRange></bibl> (and after him  <bibl><ptr target="bib:HadiSidomulyo2018_01"/><citedRange unit="page">237</citedRange></bibl>) have suggested that this stray plate belongs to a Majapahit-period charter. We deem it to belong the the Singasari period based on its lettering. Since this plate has identical dimensions, it could be part of a single set with the incompletely preserved <ref target="DHARMA_INSIDENKMadhavapura.xml">Madhawapura</ref> charter, but the lettering of the plates that are preserved of the latter seems slightly different from what we observe on the present plate.</p>
+	<p>It needs to be determined which length is intended with the phrases <foreign>pañjaṁnya, ḍpa, X</foreign>. In one instance, the word <foreign>blaḥ</foreign>  appears after such a lenbth statement. The meaning of this addition is unknown. Comparable passages in other inscrtiptions are very rare:  
 <list><item>Tuhanyaru (5v1–2) <foreign>hīṅani lmaḥnikaṁ tuhañaru, muAṅ iṁ kusambyan·, hana ta savaḥ phalaśrama paṁR̥ṇanikaṁ samasānak iṁ tuhañaru I dyaḥ makaradhvaja, savaḥ, təmpaḥ, 1, <hi rend="bold">blaḥ</hi>, muvaḥ Ikaṁ samasānak iṁ kusambyan asuṁ paṁR̥ṇa I dyaḥ makaradhvaja</foreign>;</item> 
 <item>Sobhamerta (1r4) <foreign>samgət· ka<surplus>ka</surplus>nuruhan· pŭdā, kumonakən ikaṁ lmaḥ savaḥ, <hi rend="bold">blaḥ</hi> təmpaḥ 1, tka rikaṅ kubvan·, pomahan·, vinli mpu<supplied reason="omitted">ṁ</supplied>ku I nerāñjana</foreign>.</item></list>
 </p>
@@ -127,7 +128,7 @@ n="11v8" break="no"/>niku lalavā, pañjaṁnya, ḍpa, <num value="13">13</num>
 	<item>Kaladi (6v5) <foreign>śĭma, vinkas· I halaṅan·, saṁ lumbuṁ, kalaṁ saṁ saṅkəp·, vinkas· I taritip·, saṁ balikuḥ, vinkas· I ka(6v6)lpuAn·, saṁ bsi, vinkas· I vaharu, saṁ liṅga, kalaṁ saṁ rasuk·, vinkas· Iṅ gayam· tbəl·, saṁ śoca, sa(7r1)maṅkana kvaiḥni rāma tpi siriṁ milu ri kālaniṁ susukan· śĭma,</foreign></item>
 	<item>Bimalasrama (10r8) <foreign>I sīmajaya, saṁ rusit·, saṁ vităna, saṁ boreg·, vineḥ pasǝk pagǝḥ ku 2 vḍihan· ga yu 1, I halaṅan·,</foreign></item>
 </list></p>
-     <p>The  neighboring village Nūṣa appears not to figure in other inscriptions.</p>
+     <p>The neighboring village Nūṣa appears not to figure in other inscriptions.</p>
          </div>
         <div type="bibliography">
 	<!--
