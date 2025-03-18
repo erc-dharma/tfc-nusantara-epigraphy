@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>The Polengan plates: Taragal Charter (802 Śaka)</title>
+                <respStmt>
+                    <resp>EpiDoc Encoding</resp>
+                    <persName ref="part:argr">
+                      <forename>Arlo</forename>
+                      <surname>Griffiths</surname>
+                    </persName>
+                  </respStmt>
+                  <respStmt>
+                    <resp>intellectual authorship of edition</resp>
+                    <persName ref="part:argr">
+                      <forename>Arlo</forename>
+                      <surname>Griffiths</surname>
+                    </persName>
+                    <persName ref="part:mego">
+                        <forename>Mekhola</forename>
+                        <surname>Gomes</surname>
+                      </persName>
+                  </respStmt>
+                </titleStmt>
+                <publicationStmt>
+                  <authority>DHARMA</authority>
+                  <pubPlace>Jakarta</pubPlace>
+                  <idno type="filename">DHARMA_INSIDENKTaragal</idno>
+                  <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                      <p>This work is licenced under the Creative Commons Attribution 4.0 Unported Licence. To view a copy of the licence, visit https://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.</p>
+                      <p>Copyright © 2019-2025 by Arlo Griffiths &amp; Mekhola Gomes.</p>
+                    </licence>
+                  </availability>
+                <date from="2019" to="2025">2019-2025</date>
+            </publicationStmt>
+            <sourceDesc><!-- only the handDesc can be filled in at this stage -->
+                <msDesc><!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/><!-- don't modify this -->
+                    </msIdentifier>
+                    <msContents><!-- describe the intellectual content of an inscription -->
+                        <summary><!-- //// NOT MANDATORY  ////--></summary> <!-- offers the possibility to give a summary of the inscription's content -->
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p><!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EGD 11.2. --></p>
+                            <!-- If you need to identify individual hands (EGD §7.5/) in addition to one or more paragraphs of general palaeographic description, wrap <summary> around the <p> or <p>s above, and, outside <summary>, create <handNote> elements for each hand as follows:
+						<summary><p><p/></summary>
+						<handNote xml:id="Pallava00001_hand1"></handNote>
+						<handNote xml:id="Pallava00001_hand2"></handNote>
+					 -->
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
+            </projectDesc>
+            <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/><!-- UPDATE the link once the release is made official -->
+            <listPrefixDef>
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                    <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
+                </prefixDef>
+                <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
+                    <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_idListMembers_v01.xml</ref> file.</p>
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <revisionDesc>
+        	 <change status="draft" when="2025-03-18" who="part:argr">started encoding the inscription</change>
+          </revisionDesc>
+    </teiHeader>
+    <text xml:space="preserve">
+      <body>
+         <div type="edition" xml:lang="kaw-Latn" rendition="class:38769 maturity:83213">
+            <p><pb n="1r"/><lb n="1r1"/><g type="ddandaHooked"/> svasti śaka-varṣătīta <num value="802">802</num> phālguṇa-māsa, tritīya kr̥ṣṇa-pakṣa, tuṁlai kalivuAn· soma, vāra, tatkāla ra karayān· I sirikan·, sumusuk· Ikanaṅ sa<lb break="no" 
+n="1r2"/>vaḥ Iṁ taragal· lamvit· <num value="1">1</num> tampaḥ <num value="2">2</num> muAṁ lmaḥniṁ sukət· kapuA lmaḥ I ruhutan· vatək· trab·, pomahananikanaṅ kumamit· Ikanaṁ savaḥ muAṁ vaitnya pa<lb break="no" n="1r3"/>rī,</p> <p>luĀnikanaṁ lmaḥniṅ sukət·, tpinya lor· ḍpa <num value="77">77</num> tpinya kuluAn· ḍpa <num value="133">133</num> hasta <num value="3">3</num> tpinya kidul· ḍpa <num value="106">106</num> tpinya vaitan· ḍpa <num value="133">133</num>
+<lb n="1r4"/>hasta <num value="3">3</num> piṇḍa pakuliliṅanya ḍpa <num value="450">450</num> hasta <num value="2">2</num> <g type="ddandaHooked"/></p> <p>maminta Ikanaṁ Anak vanuA I ruhutan· mas· pamlya Ikanaṁ savaḥ muAṁ Ikanaṁ lmaḥniṁ sukə<lb break="no" n="1r5"/>t·, vinaiḥ ya mas· <abbr>kā</abbr> <num value="1">1</num> <abbr>su</abbr> <num value="1">1</num> <g type="ddandaHooked"/> paknānikanaṁ savaḥ sinusuk·, sīmānikanaṁ prāsāda rakarayān· I gunuṁ hyaṁ lmaḥ ra mamali muAṁ ra halivaṁbaṁ,
+<!--[binding-hole between lines 5 and 6]-->
+<lb n="1r6"/>dmakan· saṅkā I śrī mahārāja <abbr>rakai</abbr> kayu vaṅi <g type="ddandaHooked">.</g> katkā Ikanaṁ savaḥ susukən· muAṁ Ikanaṁ lmaḥniṁ sukət· pomahana, InaṁsəAn· saṁ pamgat· vadi<lb break="no" 
+n="1r7"/>hati pu manū, pasək·-pasək· vyavas<choice><orig>t</orig><reg>th</reg></choice>aniṁ manusuk· sīma, mas· <abbr>mā</abbr> <num value="8">8</num> vḍihan· piliḥ Aṅsit· <abbr>yu</abbr> <num value="1">1</num> tuhān· <num value="2">2</num> miraḥ-miraḥ si guvar·, kulumpitan·
+<lb n="1r8"/>si larak·, mas· <abbr>mā</abbr> <num value="4">4</num> vḍihan· Aṅsit· <abbr>yu</abbr> <num value="1">1</num> soAṁ <g type="ddandaHooked">.</g> saṁ pamgat· makudur· pu mamnaṁ mas· <abbr>mā</abbr> <num value="8">8</num> vḍihan· Aṅsit· <abbr>yu</abbr> <num value="1">1</num> tuhān· <num value="2">2</num> rolū si manūt·
+<lb n="1r9"/>palintahan· si śra mas· <abbr>mā</abbr> <num value="4">4</num> vḍihan· Aṅsit· <abbr>yu</abbr> <num value="1">1</num> soAṁ <g type="ddandaHooked"/> vahuta hyaṁ tumūt· manusuk· pagar vsi si vāhuṁ, kudur· tumūt· manusuk· halantaran·
+<lb n="1r10"/>si maṇi, mas· <abbr>mā</abbr> <num value="4">4</num> vḍihan· Aṅsit· <abbr>yu</abbr> <num value="1">1</num> soAṁ <g type="ddandaHooked"/> paminaṅ I saṁ hyaṁ kudur· mas· <abbr>mā</abbr> <num value="4">4</num> vḍihan· Aṅsit· <abbr>yu</abbr> <num value="4">4</num> <g type="ddandaHooked"/> sajiniṁ kulumpa<unclear>ṁ</unclear> mas· <abbr>mā</abbr> <num value="4">4</num> vḍiha<pb break="no" n="1v"/><lb break="no" n="1v1"/>n· 
+
+<!-- arlo continues here -->
+<abbr>yu</abbr> <num value="4">4</num> rimvas· <num value="1">1</num> vaduṁ <num value="1">1</num> patuk·-patuk· <num value="1">1</num> lukai <num value="1">1</num> kris· <num value="1">1</num> tvat· punukan· <num value="4">4</num> liṅgis· <num value="4">4</num> laṇḍuk· <num value="1">1</num> vaṁkyul· <num value="1">1</num> gulumi <num value="1">1</num> kurumbhāgi <num value="1">1</num> nakhaccheda <num value="1">1</num> do-
+<lb n="1v2"/>m· <num value="1">1</num> tahas· <num value="1">1</num> buri <num value="1">1</num> padamaran· <num value="1">1</num> saragi pagaṅanan· <num value="1">1</num> saragi Inuman· <num value="1">1</num> kampil· <num value="1">1</num> vəAs· pada <num value="1">1</num> vsi Ikət· 10 vivi <num value="1">1</num> <g type="ddandaHooked"/> muAṁ Anuṁ vinaiḥ
+<lb n="1v3"/>vḍihan· Aṅsit· sadugala soAṁ, vahuta mavaṅkar· si maṅayu ramani maniga, patiḥ marbakul· si sirapan·, parujarnya si gupit·, vahuta la-
+<lb n="1v4"/>mpuran· si vulavan·, si vada huma, si vrut· <g type="ddandaHooked"/> maṅagam kon· vinaiḥ vḍihan· Aṅsit· sadugala soAṁ, kalaṁ si dras·, gusti si pañca, vinkas·
+<lb n="1v5"/>si vaṅkut·, variga <num value="2">2</num> si rivut·, si cərmmin·, parujar· <num value="2">2</num> si śukra, si lagur·, hulair· si dmak·, matahun· si ravan·, makalaṁkaṁ si gok·, mava-
+[binding-hole between lines 5 and 6]
+<lb n="1v6"/>tas· si tara, tuhālas· <num value="2">2</num> si tagu, si tbəṁ, mapkan· si davət·, makajar· si gaṅsil· <g type="ddandaHooked"/> rāma maratā, vinaiḥ vḍihan· Aṅsit· sadugala soAṁ
+<lb n="1v7"/>si timur·, si cacu, si gabaḥ, si lakṣan· <g type="ddandaHooked"/> Anakbi vinaiḥ kain· savlaḥ soAṁ, vahuta si pon·, Anakbiniṁ patiḥ Anakbini maṅagam kon·,
+<lb n="1v8"/>kalaṁ, gusti, variga, vinkas·, matahun·, makalaṁkaṁ, hulair·, mavatas·, parujar·, mapkan·, makajar·, tuhālas· <g type="ddandaHooked"/> I tpi siriṁ vinaiḥ vḍi-
+<lb n="1v9"/>han· sadugala soAṁ, ra kavuṁ hyaṁ vinkas· si rava, ra vuga vinkas· si Iṇḍit·, ra sukun· vinkas· si sūryya, ra mabaṅkar· gusti si caṇṭiṁ <g type="ddandaHooked"/> Ika-
+<lb n="1v10"/>na taṁ rāma, I ruhutan· kabaiḥ, matuha manuAm·, muAṁ Anakbi matuha manuAm·, vinaiḥ mamaṅana maṅinumma, tumūt· I tpi siriṁ
+
+
+Plate 2, recto.
+<lb n="2r1"/>Ikanaṁ vinaiḥ vḍihan· kapuA maṅigal· maparimvaṅi kabaiḥ || kinon rakarayān· sumusuka Ikanaṁ savaḥ muAṁ Ikanaṁ lmaḥniṁ sukət· kapuA
+<lb n="2r2"/>I ruhutan·, saṅ tuhān· kabaiḥ, ra punti si sayut·, hujuṅ galuḥ hr̥dayaśiva, paniṅgahan· si tarka, mataṇḍa si maṁlagai, manurat· dharmmasinta
+<lb n="2r3"/>śivacitta ||
+
+
+</p>
+         </div>
+         <div type="apparatus">
+               <listApp>
+<!-- 
+	1r1. śakavarṣătīta: śakavarṣatīta MS&S.
+	1r1. phālguṇamāsa: phalguṇamāsa MS&S.
+1r1. tritīya: tritinya MS&S. 
+	1r2. Iṁ: I MS&S.
+1r4. piṇḍa: piṇda MS&S. 
+1r5. ra mamali muAṁ ra halivaṁbaṁ: ri mamali muAṁ ri halivaṁbaṁ MS&S. Silent emendation in MS&S.
+	1r6. saṅkā: sāṅka MS&S. 
+	1r6. pomahana: pomahanan MS&S. 
+	1r8. rolū: nalu MS&S. 
+	1r9: halantaran: hanantaran MS&S. 
+	1r10: I: 1 MS&S. 
+	1v1: tvat·: corr. tvak·. MS&S also emend tvak· noting that this is an engraving error. 
+ -->
+		<app loc="1v2">
+                     <lem source="bib:BoechariND_01"></lem>
+	<note></note>
+                  </app>
+	<app loc="1v8">
+                     <lem>...</lem>
+                     	<rdg source="bib:BoechariND_01 bib:MachiSuhadi+SukartoAtmodjo1986_01">...</rdg>
+		<note>The same error appears in Boechari's typescript and in the edition published by Machi Suhadi &amp; Sukarto Atmodjo.</note>
+                  </app> 
+               </listApp>
+         </div>
+         <div type="translation" resp="part:argr part:mego">
+            <p n="1v1-1v2"></p>
+         </div>
+         <div type="commentary">
+            <!--commentary encoded as per section §9.3 -->
+         </div>
+        <div type="bibliography">
+           <p>Deciphered but not published by Boechari, a copy of whose typescript we received from Jan Wisseman Christie and use here as edition of reference (<bibl n="B"><ptr target="bib:BoechariND_01"/></bibl>). <seg rend="check">As our apparatus entries show, a copy of the same typescript seems to have been reproduced with involuntary errors, in the first integral published edition (<bibl><ptr target="bib:MachiSuhadi+SukartoAtmodjo1986_01"/></bibl>),</seg> which is accompanied by an Indonesian translation. Re-edited here by Arlo Griffiths and Mekhola Gomes from photographs.</p>
+        	<listBibl type="primary">
+	<bibl n="B"><ptr target="bib:BoechariND_01"/></bibl>
+	<bibl n="MS&amp;SA"><ptr target="bib:MachiSuhadi+SukartoAtmodjo1986_01"/><citedRange unit="page">95-102</citedRange><citedRange unit="section">2.7.6</citedRange></bibl>
+	</listBibl>
+           <listBibl type="secondary">
+              <bibl><ptr target="bib:Naerssen1939_01"/></bibl>
+              <bibl><ptr target="bib:Damais1951_01"/><citedRange unit="page">21-23</citedRange></bibl>
+              <bibl><ptr target="bib:Damais1952_01"/><citedRange unit="page">40-41</citedRange><citedRange unit="item">A. 53</citedRange></bibl>
+                <bibl><ptr target="bib:Damais1955_01"/><citedRange unit="page">36</citedRange></bibl>
+	    <bibl><ptr target="bib:Boechari1958_01"/><citedRange unit="page">20</citedRange></bibl>
+                <bibl><ptr target="bib:Damais1970_01"/><citedRange unit="page">49</citedRange><citedRange unit="item">98</citedRange></bibl>
+                <bibl><ptr target="bib:Sarkar1971-1972_01"/><citedRange unit="volume">I</citedRange><citedRange unit="item">XLVII</citedRange><citedRange unit="page">262-263</citedRange></bibl>
+                <bibl><ptr target="bib:TitiSurtiNastiti+al2024_01"/><citedRange unit="page">27-28</citedRange><citedRange unit="section">2.1.6</citedRange></bibl>
+           </listBibl>
+        </div>
+        <!-- 
+only appears in table at back of Eade & Gislén
+6. O.D. Photo 13709, 13710, 13711.
+7. A.G. Photo Taragal_1a, Taragal_1b, Taragal_2a, Taragal_2b. 
+8. Plaster Casts, Special Collections UBL, Taragal 1a. 
+        -->
+      </body>
+  </text>
+</TEI>
