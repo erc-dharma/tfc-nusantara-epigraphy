@@ -8,7 +8,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Rameswarapura (1197 Śaka)</title>
+            <title>Rameswarapura charter (1197 Śaka)</title>
             <respStmt>
                <resp>EpiDoc encoding</resp>
             	<persName ref="part:argr">
@@ -93,7 +93,7 @@
          <div type="edition" xml:lang="kaw-Latn" rendition="class:38769 maturity:83213">
 <pb n="1r"/><!--Blank outer page.-->
 <p><pb n="1v"/>
-<lb n="1v1"/>// <g type="symbol"/> // svasti, śaka-varṣātīta, <num value="1197">1197</num>, jyaiṣṭha-māsa, tithi, pañcadaśī śukla-pakṣa, <abbr>tuṁ</abbr>, <abbr>po</abbr>, <abbr>ca</abbr>, vāra gumr̥g·,
+<lb n="1v1"/><g type="ddandaOrnate"/> <g type="circleTarget"/> <g type="ddandaOrnate"/> svasti, śaka-varṣātīta, <num value="1197">1197</num>, jyaiṣṭha-māsa, tithi, pañcadaśī śukla-pakṣa, <abbr>tuṁ</abbr>, <abbr>po</abbr>, <abbr>ca</abbr>, vāra gumr̥g·,
 <lb n="1v2"/>Uttarastha-grahacāra, mūlā-nakṣatra, toya-devatā, vāyavya-maṇḍala, śukla-yoga, śveta-muhūrtta, viṣṭi-kara<lb n="1v3" break="no"/>ṇa, śaśī-parvveśa, mi<choice><orig>t</orig><reg>th</reg></choice>una-rāśi,</p>
         <p part="I">Irika divaśany ājñā śrī mahārāja rājādhirājā, dyaḥ Ūrddhaja,
           <foreign xml:lang="san-Latn">viṣṇu-kula-kamala-va<lb n="1v4" break="no"/>na-rāja-haṅsa</foreign>, <foreign xml:lang="san-Latn">Aśeṣa-namitāri-bhūpāla-maṇi-makuṭa-<choice><orig>ghr̥rṣ</orig><reg>gharṣ</reg></choice>ita-śrī-pāda-pīṭha</foreign> <foreign xml:lang="san-Latn">sakala-sujana-hr̥daya-kumuda-vikā<lb n="1v5" break="no"/>sa-karaṇa-sūryya-sad<subst><del rend="corrected">ra</del><add place="overstrike">r̥</add></subst>śa</foreign>,
