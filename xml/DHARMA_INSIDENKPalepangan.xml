@@ -79,6 +79,7 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
+         <change who="part:wjsa" when="2025-03-24" status="draft">Added new reading for toponym Syukan</change>
          <change who="part:wjsa" when="2024-05-01" status="draft">Fixed an error in the de Casparis blockquote</change>
          <change who="part:argr" when="2021-02-04" status="draft">further revisions to various parts of the file</change>
          <change who="part:argr" when="2021-01-21" status="draft">integrated some corrigenda of the reading proposed by Marine Schoettel</change>
@@ -169,6 +170,11 @@
 	<lem>sasāṅan·</lem>
 	<rdg source="bib:Bosch1917_02 bib:Boechari1985-1986_01"><unclear>vata</unclear>ṅan·</rdg>
 </app>
+<app loc="1v13">
+<lem source="bib:Damais1970_01">syukan·</lem>
+<rdg source="bib:Boechari1985-1986_01 bib:Bosch1917_02">syutan·</rdg>
+<note>The reading <foreign>syukan·</foreign> offered by Damais <bibl rend="omitname"><ptr target="Damais1970_01"/><citedRange unit="page">517</citedRange><citedRange unit="entry">syukan</citedRange></bibl> seems clear, as the shape of the <foreign>akṣara</foreign> differs notably from that of <foreign>ta</foreign> found elsewhere on the plate. The toponym Syukan is well-known from boundary stone inscriptions of the Lokapāla period, likewise associated with the <foreign>vatək</foreign> Tiru Raṇu <bibl><ptr target="bib:TitiSurtiNastiti2018_01"/><citedRange>204-206</citedRange></bibl>.</note>
+</app>
 <app loc="1v14">
 <lem source="bib:Bosch1917_02">lampahan·</lem>
 <rdg source="bib:Boechari1985-1986_01">lampapan·</rdg>
@@ -227,7 +233,8 @@ But in Modern Sundanese the base <foreign>lanja</foreign> is used in connection 
 		<bibl n="B"><ptr target="bib:Bosch1917_02"/></bibl>
 		<bibl n="S1"><ptr target="bib:Sarkar1939_01"/></bibl>
 		<bibl n="S2"><ptr target="bib:Sarkar1971-1972_01"/><citedRange unit="volume">2</citedRange><citedRange unit="page">55-59</citedRange><citedRange unit="item">68</citedRange></bibl>
-		<bibl n="Boe"><ptr target="bib:Boechari1985-1986_01"/><citedRange unit="page">124-126</citedRange> <citedRange unit="item">E.63</citedRange></bibl><!-- with b&w photo on p. 124 -->
+		<bibl n="Boe"><ptr target="bib:Boechari1985-1986_01"/><citedRange unit="page">124-126</citedRange> <citedRange unit="item">E.63</citedRange></bibl>
+      <bibl n="D"><ptr target="bib:Damais1970_01"/><citedRange unit="page">517</citedRange> <citedRange unit="entry">syukan</citedRange></bibl><!-- with b&w photo on p. 124 -->
 	</listBibl>
            <listBibl type="secondary">
 	<bibl/><bibl><ptr target="bib:Krom1919_02"/><citedRange unit="item">I</citedRange></bibl>
