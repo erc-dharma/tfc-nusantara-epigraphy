@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>The Sang Hyang Tapak Charter of Jayabhūpati (952 Śaka)</title>
+                <title>Sang Hyang Tapak Charter of Jayabhūpati (952 Śaka)</title>
                 <respStmt>
                     <resp>EpiDoc encoding</resp>
                     <persName ref="part:argr">
@@ -51,7 +51,7 @@
                     </msContents>
                     <physDesc>
                         <handDesc>
-                        <p>The inscription uses two scripts. The first script, used on the first three stones, is that discussed by <bibl><ptr target="bib:Griffiths2012_01"/><citedRange unit="page">207</citedRange></bibl> for several monumental inscriptions from Java and Sumatra. The punctuation signs represented with “,” on these stones are large spirals, as is typical for this script. The other script, used only on the last stone (D.98), is that typical for the corpus of Airlangga inscriptions, as observed by <bibl><ptr target="bib:Damais1955_01"/><citedRange unit="page">87</citedRange>1<citedRange unit="note"></citedRange></bibl>.</p>
+                        <p>The inscription uses two script types. The first, used on the first three stones, is that discussed by <bibl><ptr target="bib:Griffiths2012_01"/><citedRange unit="page">207</citedRange></bibl> for several monumental inscriptions from Java and Sumatra. The punctuation signs represented as comma on these stones are large spirals, as is typical for this script type. The other type, used only on the last stone (D.98), is that typical for the corpus of Airlangga inscriptions, as observed by <bibl><ptr target="bib:Damais1955_01"/><citedRange unit="page">87</citedRange><citedRange unit="note">1</citedRange></bibl>.</p>
                         <p>It has not been observed by previous scholars that in this inscription the <foreign>layar</foreign> is placed on top of the character after which it is to be pronounced, which foreshadows the orthographic practise of later centuries. We have never seen it in any text as old as this one.</p>
                         <!-- If you need to identify individual hands (EGD §7.5/) in addition to one or more paragraphs of general palaeographic description, wrap <summary> around the <p> or <p>s above, and, outside <summary>, create <handNote> elements for each hand as follows:
 						<summary><p><p/></summary>
@@ -78,6 +78,7 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
+            <change who="part:argr" when="2025-04-16" status="draft">started revision using photogrammetry orthophotos</change> 
             <change who="part:argr" when="2025-02-14" status="draft">started encoding the inscription</change> 
        </revisionDesc>
     </teiHeader>
@@ -113,9 +114,14 @@ n="B9" break="no"/>sāsti pagǝ-pagǝḥ, maṁmaṁ sapatha,
 <milestone type="pagelike" unit="item" n="D"/>
          <label xml:lang="eng">Fourth stone (D.98)</label>
          <lb n="D01"/><num value="952">952</num></ab>
-<p><lb n="D1"/>‖,  ‖ Indaḥ ta kita kamuṁ hyaṁ hāra Agaṣti  ‖    ‖ pūrbba
-<lb n="D2"/>‖    ‖ dakṣiṇa paścima Uttara madya Agniya neri<lb 
-n="D3" break="no"/>ti bayabya Aiśanya Urddhādaḥ ravi śaśi patala jala pāvaṇa
+<p><lb n="D1"/><g type="ddandaOrnate"/> <g type="circle"/> <g type="ddandaOrnate"/> Indaḥ ta kita ka<unclear cert="low">muṅ hyaṁ</unclear> mahārṣi <unclear>Aga</unclear>ṣṭi, pūrbba
+<!-- Pleye ‖ 0 ‖ Indaḥ ta kita kamuṁ hyaṁ hāra Agaṣti pūrbba -->
+<lb n="D2"/>dakṣiṇa, pa<space type="unclassified"/>ścima<supplied reason="subaudible">,</supplied> Ut<supplied reason="omitted">t</supplied>ara, madya, Agniya, neri<lb 
+n="D3" break="no"/>ti, băyabya, Aiśănya, Urd<unclear>dhā</unclear>daḥ, ravi<supplied reason="subaudible">,</supplied> śaśi, <space type="descender"/> <unclear>buva</unclear>ṇa, jala, pāvaṇa,
+<!-- Pleyte ‖    ‖ dakṣiṇa paścima Uttara madya Agniya neri
+ti bayabya Aiśanya Urddhādaḥ ravi śaśi patala jala pāvaṇa
+Arlo to contonue here
+ -->
 <lb n="D4"/>hutāsanāpaḥ bhayu Akāśa teja saṅ hyaṅ mahorātra saddhya dvaya yakṣa rakṣa<lb 
 n="D5" break="no"/>sa piśāca pretasura garuḍa graha kinara mahoraga catvarra lokapāla
 <lb n="D6"/>yama baruṇa kuvera bāśava mvaṅ putra devata pañca kuśikā nandīśvara mahākāla du<lb 
@@ -148,6 +154,14 @@ n="D19" break="no"/>rikaṅ <gap reason="illegible" unit="character" quantity="3
                   <lem><num value="952">952</num></lem>
                   <note>The repetition of the date at the top of the fourth stone was first observed by  <bibl><ptr target="bib:Damais1955_01"/><citedRange unit="page">87</citedRange><citedRange unit="note">1</citedRange></bibl>.</note>
                   </app>
+	<app loc="D1">
+	<lem>ka<unclear cert="low">muṅ hyaṁ</unclear> mahārṣi <unclear>Aga</unclear>ṣṭi</lem>
+	<rdg source="bib:Pleyte1916_01">kamuṁ hyaṁ hāra Agaṣti</rdg>
+	</app>
+	<app loc="D3">
+	<lem><unclear>buva</unclear>ṇa</lem>
+	<rdg source="bib:Pleyte1916_01">patala</rdg>
+	</app>
                   <app loc="D13">
                   <lem>vvaṁ</lem>
                   <rdg source="bib:Pleyte1916_01">vvoṁ</rdg>
