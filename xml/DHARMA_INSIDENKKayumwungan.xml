@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Kayumwungan charter of the Veṇuvanavihāra (746 Śaka)</title>
+            	<respStmt>
+            		<resp>author of digital edition</resp>
+            		<persName ref="part:argr">
+            			<forename>Arlo</forename>
+            			<surname>Griffiths</surname>
+            		</persName>
+            	</respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>DHARMA</authority>
+                <pubPlace>Jakarta</pubPlace>
+            	<idno type="filename">DHARMA_INSIDENKKayumwungan</idno>
+                  <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
+                            Licence. To view a copy of the licence, visit
+                            https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                            Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                            California, 94041, USA.</p>
+                    	<p>Copyright (c) 2019-2025 by Arlo Griffiths.</p>
+                    </licence>
+                </availability>
+                <date from="2019" to="2025">2019-2025</date>
+            </publicationStmt>
+            <sourceDesc><!-- only the handDesc can be filled in at this stage -->
+                <msDesc><!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/><!-- don't modify this -->
+                    </msIdentifier>
+                    <msContents><!-- describe the intellectual content of an inscription -->
+                        <summary><!-- //// NOT MANDATORY  ////--></summary> <!-- offers the possibility to give a summary of the inscription's content -->
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p><!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EGD 11.2. --></p>
+                            <!-- If you need to identify individual hands (EGD §7.5/) in addition to one or more paragraphs of general palaeographic description, wrap <summary> around the <p> or <p>s above, and, outside <summary>, create <handNote> elements for each hand as follows:
+						<summary><p><p/></summary>
+						<handNote xml:id="Pallava00001_hand1"></handNote>
+						<handNote xml:id="Pallava00001_hand2"></handNote>
+					 -->
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
+            </projectDesc>
+            <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/><!-- UPDATE the link once the release is made official -->
+            <listPrefixDef>
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                    <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
+                </prefixDef>
+                <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
+                    <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_idListMembers_v01.xml</ref> file.</p>
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <revisionDesc>
+        	<change who="part:argr" when="2025-04-28" status="draft">started encoding the inscription</change> 
+        </revisionDesc>
+    </teiHeader>
+    <text xml:space="preserve">
+      <body>
+         <div type="edition" xml:lang="kaw-Latn" rendition="class:38769 maturity:83213">
+<lg n="1" met="sragdharā" xml:lang="san-Latn">
+<l n="a">(1) ++++-++[amita-va]la-mahā-vajra-paryyaṅka-vaddhaḥ </l>
+<l n="b">rakṣatv āmūla-siṅho bhavaja-bhavacarātyanta-saṁkru(2)-+= |</l>
+<l n="c">++++-++--matara-hitottuṅga-śaila-stha-śūro </l>
+<l n="d">yat saj-jīvāpara-smāra-valam akhila+(3)+-++-+= ||</l>
+<!-- 	b. -siṅho: ṣimho C. -->
+</lg>
+<lg n="2" met="sragdharā" xml:lang="san-Latn">
+<l n="a">++++-++-vara-vaśa-vatāsāditādharmma-vr̥ndān·</l>
+<l n="b">lokānāṁ laukya-vuddhair agaditam atu(4)[la]+-++-+= | </l>
+<l n="c">++++-++cchidam akhila-bhava-vyādhi-bhaiṣajyam agraṁ</l>
+<l n="d">sad-dharmaṁ yukti-cittaḥ praṇama(5)[ti] --++-++-+= ||</l>
+</lg>
+<lg n="3" met="sragdharā" xml:lang="san-Latn">
+<l n="a">++t kāruṇyam agrañ jagati gati-śatānanta-duḥkhābhibhūte</l>
+<l n="b">bhakti-svīyā - (6) ++------++-++-mānām· |</l>
+<l n="c">prītyā rājā tale danda-dhara-tula-mahājñāna-puṇya-prasūti-</l>
+<l n="d">(7) ++++-++------++-tām vandya-vandyaḥ ||</l>
+<!-- 	a. maybe -bhūtaiḥ?
+	c. danda- norm. daṇḍa-.
+ -->
+</lg>
+<lg n="4" met="vasantatilakā" xml:lang="san-Latn">
+<l n="a">śrīmat-samasta-sugatais sasutaiḥ parāntyaiḥ</l> 
+<l n="b">nīrukta(8)+---+--+-+= |</l>
+<l n="c">++-+tsu taruṇām atha duḥkhiteṣu</l> 
+<l n="d">satveṣu vuddha-cariteṣu garīyasīñ ca ||</l>
+<!-- 	b. nirukta: is this expected parsing possible?
+	d. satveṣu: norm. sattveṣu.
+ -->
+</lg>
+<lg n="5" met="vasantatilakā" xml:lang="san-Latn">
+<l n="a">śraddhāñ ca (9) +---+--+-+=</l>
+<l n="b">[tan-maṇḍa]lāgra-guṇavad-gaṇam atyavāśi |</l>
+<l n="c">lebhe vigūḍha-manujendra-gaṇān mahiṣyam· <space/></l>
+<l n="d">śai(10)[lendra-vaṁśatilaka] --+-+= ||</l>
+<!-- 	c. vigūḍha-: Long 2014: 187 n. 39: « Damais (1955: 43, n. 1) expressed strong doubt about de Casparis’ reading  vigūḍha ... noting that the -ḍha appears to be a -gha. » Read vidhūya? Or vibhūya? Bosch (1952: 197, n. 12) suggests aviguṇān, but this would be unmetrical.
+ -->
+</lg>
+<lg n="6" met="vasantatilakā" xml:lang="san-Latn">
+<l n="a">vistīrṇṇa-saṅga --+ pyananāmvu-pūrṇṇa-</l>
+<l n="b">prauḍha-dviṣad-vikasitāmvuja-locanāni |</l>
+<l n="c">(11) tan-maṇḍalāgra--+--+-+=</l>
+<l n="d">nitya-smr̥tāni sahasaiva samākucanti ||</l>
+<!-- 	a. vistīrṇṇa-: stīr	
+	c.  tan-maṇḍalāgra-:  tan-maṇḍalā- C. The akṣaera gra is visible on the Leiden plastercast. Cf. also st. V, pāda b.
+	d. nitya-: nītya- C. Probably a printing error.
+ -->
+</lg>
+<lg n="7" met="vasantatilakā" xml:lang="san-Latn">
+<l n="a">caṇḍa-pratāpa-paritāpita-bhūri-bhū(12)paḥ</l>
+<l n="b">santāpa-pāvanam a +--+-+= |</l>
+<l n="c">++guṇo ’pi hira-pīta-karo ’vadātaḥ</l> 
+<l n="d">sācātirānubhava-toṣa-vivi(13)kta-cittaḥ ||</l>
+<!-- 	b. pāvanam a +: could be pāvana-saṅga-? Sarkar proposes -pāvana-matiḥ
+	c. ++guṇo: LC seems to have proposed śūro guṇo to Long.
+	d. sācātirānubhava-: Āvodhananānubhava?
+ -->
+</lg>
+<lg n="8" met="vasantatilakā" xml:lang="san-Latn">
+<l n="a">śrīmān asau samaratuṅga Iti kṣitī[ndraḥ]</l>
+<l n="b">++-+-śavidhām adharo mahīyān· | </l>
+<l n="c">tasyātivallabhatarā (14) duhiteha cakre</l>
+<l n="d">grāme jinālayam araṁ --+-+= ||</l>
+<!-- 	b. ++-+-śavidhām adharo mahīyān: de Casparis, Pras. Indo. I, p. 177, reconstructs bhūmim vyadhād daśavidhām adharo mahīyān. But the estampage seems to show mahyīyān·.
+ -->
+</lg>
+<lg n="9" met="vasantatilakā" xml:lang="san-Latn">
+<l n="a">++mi-bhūpa-guṇa-śīla-vibhūṣanākhyā</l>
+<l n="b">strai(15)ṇāgamāvirahitā karuṇātmikā ca | </l>
+<l n="c">rārajyate na - titārya -+-+=</l>
+<l n="d">++-rānta-viśayeṣu karo(16)ti bhaktim· ||</l>
+<!-- 	a. ++mi: Sarkar proposes to restore sāsvāmi-.
+	a. - -vibhūṣanākhyā C. Read -vibhūṣanāḍhyā?
+	b. strai(15)ṇāgamā: or straiṇāgaṇā?
+	c. - titārya: LC has proposed [pa]titārya
+	d. ++- -rānta: C (1950: 43) proposes [utta]rānta-.
+	d. norm. viṣayeṣu?
+ -->
+</lg>
+<lg n="10" met="gīti" xml:lang="san-Latn"><!-- metrical problem -->
+<l n="ab">sā kāntiñ candramaso gatiñ ca haṅsāt svarañ ca kalaviṅkāt· </l>
+<l n="cd">se ===+ ṇāṁ hara(17)ti śrīmat-pramodavarddhanī khyātā ||</l>
+<!-- 	cd. se = : sage? sabhe? sago? sabho?
+	cd. pramoda-: prāmoda- C. See Damais (1968: 327) Nous ne savons pourquoi De C. transcrit (p. 37, ligne 5 et passim) le nom de la Princesse « Prâmodawardhanï » alors que l'inscription a nettement prâmodawarddhan{ l) avec une brève (1). A la note 5 de la p. 46, il déclare : « On se serait attendu à Prâmodya (qui augmente la joie); ... ». Pourquoi s'attendre à un autre mot que celui qui se trouve dans l'inscription, prâmoda, qui est bien connu en sanskrit (2)?
+	Metrical problem En fait, il doit y avoir 30 morae à chaque vers. Mais si sa transcription peut bien donner ce total pour le second vers, c'est parce qu'il interprète prâmoda° alors que l'inscription a prâ°.
+ -->
+</lg>
+<lg n="11" met="śārdūlavikrīḍita" xml:lang="san-Latn">
+<l n="a">śākaindryāṁ rasa-sāgara-kṣitidharair yyāntyāṁ sa mā[se śucau]</l>
+<l n="b">+++-(18) ca rāma-pakṣa-vasato kāṣṭā-tithau tatra ca</l>
+<l n="c">tuṁlai-nāma-Umānis-ākhya-sahite vāre purāṇād gu[rau]</l>
+<l n="d">+(19)pte śrī-ghananātham āryya-sahitaṁ prātiṣṭhipan mandire ||</l>
+<!-- 
+	See Damais 1955: 114–155, n. 2.
+	c. purāṇād: can we read purāṇaṅ?
+ -->
+</lg>
+<lg n="12" met="vasantatilakā" xml:lang="san-Latn">
+<l n="a">tacchendu-vimva-śakala-pratimaṁ vibhāti </l>
+<l n="b">rāhor bhiyā sapa(20)di sampatitaṁ dharitryāṁ</l>
+<l n="c">tasyānuguṇyam athavedam udeti śubhraḥ</l>
+<l n="d">vuddhais sakr̥tyataruṇair uṣitaṁ manojña(21)m· ||</l>
+<!-- 	a. tac cendu-vimva-sakala-?
+	c. tasyānuguṇyam: tasyānupuṇyam C.
+	c. athavedam: thus Bosch (1952: 194); atha vedim C.
+	c. śubhraḥ: bhūbhr̥t· C.
+	d. vuddhais: vr̥ddhais C. -->
+</lg>
+<lg n="13" met="anuṣṭubh" xml:lang="san-Latn">
+<l n="a">śrīmad-veṇuvanābhikhyam</l> 
+<l n="b">vidhāya jina-mandiraṁ</l>
+<l n="c">yat puṇyam āptam etena</l> 
+<l n="d">daśadāpnotu saugatam· ||</l>
+<!-- 	a. -khyam: it seems that the plaster cast shows -khyām.
+ -->
+</lg>
+<lg n="14" met="anuṣṭubh" xml:lang="san-Latn">
+<l n="a">pa(22)dam atyanta-duṣprāpam</l> 
+<l n="b">anuttaram agocaraṁ</l>
+<l n="c">tat-sutānāṁ mayā yuktaṁ</l> 
+<l n="d">tūrṇṇam eva labheya yat· ||</l>
+<!-- 	c. tat-sutānāṁ:? tat sutarāṁ?
+	d. labheya: labbeya C (misprint).
+ -->
+</lg>
+<lg n="15" met="sragdharā" xml:lang="san-Latn">
+<l n="a">Aurvvāgnir yā[va](23)d uṣṇa-śvasana-vaśa-gatākṣanyadam bodhi-dr̥ṣṭyā</l>
+<l n="b">yāvat prāntā dharitrī vivudha-gaṇa-samākrānta-mūrttiś ca meruḥ</l>
+<l n="c">yāva[t khe] (24) svān gabhastīn daśa-śata-gaṇanām ujjhati vyoma-cakre</l>
+<l n="d">++++-++sugata-guṇa-gaṇas tāvad āstām vihāraḥ ||</l>
+<!-- 	b. prāntā: prānto? prāptā?
+	c. -cakre: -vr̥traḥ C.
+	d.  śrī
+ -->
+</lg>
+<p>
+
+</p>
+         </div>
+         <div type="apparatus">
+           <!--apparatus encoded as per EGD §9.1, basic elements for apparatus below-->
+               <listApp><!-- one <app> for each apparatus entry -->
+                  <app loc="line"><!-- update the value of @loc.-->
+                     <lem><!-- fill in a lemma here --></lem>
+                     <rdg source="bib:Casparis1950_01"><!-- update the @source value, fill in variant reading here --></rdg>
+                  </app>
+               </listApp>
+         </div>
+         <div type="translation">
+ 	<!--translation encoded as per EGD §9.2 -->
+         </div>
+         <div type="commentary">
+            <!--commentary encoded as per section §9.3 -->
+         </div>
+        <div type="bibliography">
+	<p>One fragment edited by J. L. A. Brandes (<bibl rend="omitname"><ptr target="bib:Brandes1886_01"/></bibl>);
+re-edited, with  Dutch translation and photo of an estampage, by J. G. de Casparis (<bibl rend="omitname"><ptr target="bib:Casparis1950_01"/><citedRange unit="page">57-62</citedRange><citedRange unit="appendix">1</citedRange><citedRange unit="plate">2</citedRange></bibl>). 
+Further editions have been published by Sarkar (<bibl rend="omitname"><ptr target="bib:Sarkar1971-1972_01"/><citedRange unit="volume">1</citedRange><citedRange unit="item">???</citedRange></bibl>, with the translation into English reproduced here); 
+by Long (<bibl rend="omitname"><ptr target="bib:Long2014_01"/><citedRange unit="page">???-???</citedRange></bibl>, with translation into English). 
+The text is edited here once again from the OD photos and with systematic collation only of the reading published by De Casparis.
+<!--MNI D.27 and D.34
+OD Number: ???? -->
+</p>
+<listBibl type="primary">
+<bibl n="C"><ptr target="bib:Casparis1950_01"/><citedRange unit="page">...</citedRange></bibl>
+</listBibl>
+           <listBibl type="secondary">
+	<bibl><ptr target="bib:Damais1952_01"/><citedRange unit="page">???</citedRange><citedRange unit="item">???A.4???</citedRange></bibl>
+	<bibl><ptr target="bib:Damais1955_01"/><citedRange unit="page">???</citedRange></bibl>
+	<bibl><ptr target="bib:Damais1970_01"/><citedRange unit="page">???</citedRange><citedRange unit="item">???</citedRange></bibl>
+	<bibl><ptr target="bib:Nakada1982_01"/><citedRange unit="page">???</citedRange><citedRange unit="item">???I.4???</citedRange></bibl>
+<!-- 
+Bosch 1952
+Damais 1968
+Eade & Gislen
+ -->
+           </listBibl>
+        </div>
+      </body>
+  </text>
+</TEI>
