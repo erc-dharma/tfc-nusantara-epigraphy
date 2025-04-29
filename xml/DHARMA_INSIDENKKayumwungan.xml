@@ -156,7 +156,7 @@
 </lg>
 <lg n="10" met="gīti" xml:lang="san-Latn"><certainty match="../@met" locus="value"/><!-- metrical problem -->
 <l n="ab">sā kāntiñ candramaso gatiñ ca haṅsāt svarañ ca kalaviṅkāt· </l>
-<l n="cd">se <gap reason="lost" unit="character" quantity="3"/>ṇāṁ hara<lb n="17" break="no"/>ti śrīmat-pramodavarddhanī khyātā <g type="ddanda"/></l>
+<l n="cd">se<gap reason="lost" unit="character" quantity="3"/>ṇāṁ hara<lb n="17" break="no"/>ti śrīmat-pramodavarddhanī khyātā <g type="ddanda"/></l>
 <!-- 	16 (10cd) se = : sage? sabhe? sago? sabho?
 	Sarkar here read sekṣaṇe mr̥gīṇāṁ without any note! anyhow, it is unmetrical.
 	17 (10cd.=) pramoda-: prāmoda- C. See Damais (1968: 327) Nous ne savons pourquoi De C. transcrit (p. 37, ligne 5 et passim) le nom de la Princesse « Prâmodawardhanï » alors que l'inscription a nettement prâmodawarddhan{ l) avec une brève (1). A la note 5 de la p. 46, il déclare : « On se serait attendu à Prâmodya (qui augmente la joie); ... ». Pourquoi s'attendre à un autre mot que celui qui se trouve dans l'inscription, prâmoda, qui est bien connu en sanskrit (2)?
@@ -277,6 +277,11 @@ n="44"/>liḥ juru si śaṅkara ramani carmi vinaiḥ takuraṁ <abbr>yu</abbr>
 	<lem>tan-maṇḍalāgra-</lem>
 	<rdg source="bib:Casparis1950_01">tan-maṇḍalā-</rdg>
 	<note>The <foreign>akṣara</foreign> <foreign>gra</foreign> is visible on the Leiden plastercast. Cf. also st. V, <foreign>pāda</foreign> b.</note>
+</app>
+<app loc="16">
+<lem>se<gap reason="lost" unit="character" quantity="3"/>ṇāṁ</lem>
+<rdg source="bib:Casparis1950_01">se<seg met="===-"><gap reason="lost" unit="character" quantity="4"/></seg>ṇāṁ</rdg>
+<note>It seems that the indication <seg met="===-"/> in De Casparis' text is a misprint for <seg met="===="/>. Sarkar reads <foreign>sekṣaṇe mr̥gīṇāṁ</foreign> without any note indicating a departure from De Casparis' edition, and a conjectural one too. This proposal is unmetrical.<!--Perhaps the scholar was misled by De Casparis' analysis of the lacune.--></note>
 </app>
 <app loc="17">
 <lem>-pramodavarddhanī</lem>
