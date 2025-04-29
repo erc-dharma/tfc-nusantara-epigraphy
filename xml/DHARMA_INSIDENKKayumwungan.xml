@@ -80,20 +80,20 @@
 <l n="a"><lb n="1"/> <seg met="++++-++"><gap reason="lost" unit="character" quantity="7"/></seg><supplied reason="lost">amita-va</supplied>la-mahā-vajra-paryyaṅka-vaddhaḥ </l>
 <l n="b">rakṣatv āmūla-siṅho bhavaja-bhavacarātyanta-saṁkru<lb n="2"/><seg met="-+="><gap reason="lost" unit="character" quantity="3"/></seg></l>
 <l n="c"><seg met="++++-++--"><gap reason="lost" unit="character" quantity="9"/></seg>matara-hitottuṅga-śaila-stha-śūro</l>
-<l n="d">yat saj-jīvāpara-smāra-valam akhila<seg met="+"><gap reason="lost" unit="character" quantity="1"/></seg><lb n="3"/><seg met="+-++-+="><gap reason="lost" unit="character" quantity="7"/></seg> <supplied reason="lost">||</supplied></l>
+<l n="d">yat saj-jīvāpara-smāra-valam akhila<seg met="+"><gap reason="lost" unit="character" quantity="1"/></seg><lb n="3"/><seg met="+-++-+="><gap reason="lost" unit="character" quantity="7"/></seg> <supplied reason="lost"><g type="ddanda"/></supplied></l>
 <!-- 	b. -siṅho: ṣimho C. -->
 </lg>
 <lg n="2" met="sragdharā" xml:lang="san-Latn">
 <l n="a"><seg met="++++-++-"><gap reason="lost" unit="character" quantity="8"/></seg>vara-vaśa-vatāsāditādharmma-vr̥ndān·</l>
 <l n="b">lokānāṁ laukya-vuddhair agaditam atu<lb n="4"/><supplied reason="lost">la</supplied><seg met="+-++-+="><gap reason="lost" unit="character" quantity="7"/></seg></l>
 <l n="c"><seg met="++++-++"><gap reason="lost" unit="character" quantity="7"/></seg>cchidam akhila-bhava-vyādhi-bhaiṣajyam agraṁ</l>
-<l n="d">sad-dharmaṁ yukti-cittaḥ praṇama<lb n="5"/><supplied reason="lost">ti</supplied> <seg met="--++-++-+="><gap reason="lost" unit="character" quantity="10"/></seg> <supplied reason="lost">||</supplied></l>
+<l n="d">sad-dharmaṁ yukti-cittaḥ praṇama<lb n="5"/><supplied reason="lost">ti</supplied> <seg met="--++-++-+="><gap reason="lost" unit="character" quantity="10"/></seg> <supplied reason="lost"><g type="ddanda"/></supplied></l>
 </lg>
 <lg n="3" met="sragdharā" xml:lang="san-Latn">
-<l n="a"><seg met="++t"><gap reason="lost" unit="character" quantity="3"/></seg> kāruṇyam agrañ jagati gati-śatānanta-duḥkhābhibhūte</l>
+<l n="a"><seg met="++"><gap reason="lost" unit="character" quantity="2"/></seg>t kāruṇyam agrañ jagati gati-śatānanta-duḥkhābhibhūte</l>
 <l n="b">bhakti-svīyā <seg met="-"><gap reason="lost" unit="character" quantity="1"/></seg><lb n="6"/><seg met="+------++-++-"><gap reason="lost" unit="character" quantity="13"/></seg>mānām· |</l>
 <l n="c" enjamb="yes">prītyā rājā tale danda-dhara-tula-mahājñāna-puṇya-prasūti</l>
-<l n="d"><lb n="7" break="no"/><seg met="++++-++------++-"><gap reason="lost" unit="character" quantity="16"/></seg>tām vandya-vandyaḥ ||</l>
+<l n="d"><lb n="7" break="no"/><seg met="++++-++------++-"><gap reason="lost" unit="character" quantity="16"/></seg>tām vandya-vandyaḥ <g type="ddanda"/></l>
 <!-- 	a. maybe -bhūtaiḥ?
 	c. danda- norm. daṇḍa-.
  -->
@@ -102,7 +102,7 @@
 <l n="a">śrīmat-samasta-sugatais sasutaiḥ parāntyaiḥ</l> 
 <l n="b">nīrukta<lb n="8"/><seg met="+---+--+-+="><gap reason="lost" unit="character" quantity="11"/></seg></l>
 <l n="c"><seg met="++-+"><gap reason="lost" unit="character" quantity="4"/></seg>tsu taruṇām atha duḥkhiteṣu</l> 
-<l n="d">satveṣu vuddha-cariteṣu garīyasīñ ca ||</l>
+<l n="d">satveṣu vuddha-cariteṣu garīyasīñ ca <g type="ddanda"/></l>
 <!-- 	b. nirukta: is this expected parsing possible?
 	d. satveṣu: norm. sattveṣu.
  -->
@@ -111,7 +111,7 @@
 <l n="a">śraddhāñ ca <lb n="9"/><seg met="+---+--+-+="><gap reason="lost" unit="character" quantity="11"/></seg></l>
 <l n="b"><supplied reason="lost">tan-maṇḍa</supplied>lāgra-guṇavad-gaṇam atyavāśi |</l>
 <l n="c">lebhe vigūḍha-manujendra-gaṇān mahiṣyam· <space/></l>
-<l n="d">śai<lb n="10" break="yes"/><supplied reason="lost">lendra-vaṁśatilaka</supplied><seg met="--+-+="><gap reason="lost" unit="character" quantity="6"/></seg> <supplied reason="lost">||</supplied></l>
+<l n="d">śai<lb n="10" break="yes"/><supplied reason="lost">lendra-vaṁśatilaka</supplied><seg met="--+-+="><gap reason="lost" unit="character" quantity="6"/></seg> <supplied reason="lost"><g type="ddanda"/></supplied></l>
 <!-- 	c. vigūḍha-: Long 2014: 187 n. 39: « Damais (1955: 43, n. 1) expressed strong doubt about de Casparis’ reading  vigūḍha ... noting that the -ḍha appears to be a -gha. » Read vidhūya? Or vibhūya? Bosch (1952: 197, n. 12) suggests aviguṇān, but this would be unmetrical.
  -->
 </lg>
@@ -119,7 +119,7 @@
 <l n="a" enjamb="yes">vistīrṇṇa-saṅga-<seg met="--+"><gap reason="lost" unit="character" quantity="3"/></seg>pyananāmvu-pūrṇṇa</l>
 <l n="b">-prauḍha-dviṣad-vikasitāmvuja-locanāni</l>
 <l n="c"><lb n="11"/>tan-maṇḍalāgra<seg met="--+--+-+="><gap reason="lost" unit="character" quantity="9"/></seg></l>
-<l n="d">nitya-smr̥tāni sahasaiva samākucanti ||</l>
+<l n="d">nitya-smr̥tāni sahasaiva samākucanti <g type="ddanda"/></l>
 <!-- 	a. vistīrṇṇa-: stīr	
 	c.  tan-maṇḍalāgra-:  tan-maṇḍalā- C. The akṣaera gra is visible on the Leiden plastercast. Cf. also st. V, pāda b.
 	d. nitya-: nītya- C. Probably a printing error.
@@ -129,7 +129,7 @@
 <l n="a">caṇḍa-pratāpa-paritāpita-bhūri-bhū<lb n="12"/>paḥ</l>
 <l n="b">santāpa-pāvanam a<seg met="+--+-+="><gap reason="lost" unit="character" quantity="7"/></seg></l>
 <l n="c"><seg met="++"><gap reason="lost" unit="character" quantity="2"/></seg>guṇo <supplied reason="subaudible">’</supplied>pi hira-pīta-karo <supplied reason="subaudible">’</supplied>vadātaḥ</l> 
-<l n="d">sācātirānubhava-toṣa-vivi<lb n="13"/>kta-cittaḥ ||</l>
+<l n="d">sācātirānubhava-toṣa-vivi<lb n="13"/>kta-cittaḥ <g type="ddanda"/></l>
 <!-- 	b. pāvanam a +: could be pāvana-saṅga-? Sarkar proposes -pāvana-matiḥ
 	c. ++guṇo: LC seems to have proposed śūro guṇo to Long.
 	d. sācātirānubhava-: Āvodhananānubhava?
@@ -139,7 +139,7 @@
 <l n="a">śrīmān asau samaratuṅga Iti kṣitī[ndraḥ]</l>
 <l n="b"><seg met="++-+-"><gap reason="lost" unit="character" quantity="4"/></seg>śavidhām adharo mahīyān·</l>
 <l n="c">tasyātivallabhatarā <lb n="14"/>duhiteha cakre</l>
-<l n="d">grāme jinālayam araṁ <seg met="--+-+="><gap reason="lost" unit="character" quantity="6"/></seg> <supplied reason="lost">||</supplied></l>
+<l n="d">grāme jinālayam araṁ <seg met="--+-+="><gap reason="lost" unit="character" quantity="6"/></seg> <supplied reason="lost"><g type="ddanda"/></supplied></l>
 <!-- 	b. ++-+-śavidhām adharo mahīyān: de Casparis, Pras. Indo. I, p. 177, reconstructs bhūmim vyadhād daśavidhām adharo mahīyān. But the estampage seems to show mahyīyān·.
  -->
 </lg>
@@ -147,7 +147,7 @@
 <l n="a"><seg met="++"><gap reason="lost" unit="character" quantity="2"/></seg>mi-bhūpa-guṇa-śīla-vibhūṣanākhyā</l>
 <l n="b">strai<lb n="15"/>ṇāgamāvirahitā karuṇātmikā ca | </l>
 <l n="c">rārajyate na <seg met="-"><gap reason="lost" unit="character" quantity="1"/></seg>titārya <seg met="-+-+="><gap reason="lost" unit="character" quantity="5"/></seg></l>
-<l n="d"><seg met="++-"><gap reason="lost" unit="character" quantity="3"/></seg>rānta-viśayeṣu karo<lb n="16" break="no"/>ti bhaktim· ||</l>
+<l n="d"><seg met="++-"><gap reason="lost" unit="character" quantity="3"/></seg>rānta-viśayeṣu karo<lb n="16" break="no"/>ti bhaktim· <g type="ddanda"/></l>
 <!-- 	a. ++mi: Sarkar proposes to restore sāsvāmi-.
 	a. - -vibhūṣanākhyā C. Read -vibhūṣanāḍhyā?
 	b. strai(15)ṇāgamā: or straiṇāgaṇā?
@@ -158,7 +158,7 @@
 </lg>
 <lg n="10" met="gīti" xml:lang="san-Latn"><certainty match="../@met" locus="value"/><!-- metrical problem -->
 <l n="ab">sā kāntiñ candramaso gatiñ ca haṅsāt svarañ ca kalaviṅkāt· </l>
-<l n="cd">se <gap reason="lost" unit="character" quantity="3"/>ṇāṁ hara<lb n="17"/>ti śrīmat-pramodavarddhanī khyātā ||</l>
+<l n="cd">se <gap reason="lost" unit="character" quantity="3"/>ṇāṁ hara<lb n="17"/>ti śrīmat-pramodavarddhanī khyātā <g type="ddanda"/></l>
 <!-- 	cd. se = : sage? sabhe? sago? sabho?
 	cd. pramoda-: prāmoda- C. See Damais (1968: 327) Nous ne savons pourquoi De C. transcrit (p. 37, ligne 5 et passim) le nom de la Princesse « Prâmodawardhanï » alors que l'inscription a nettement prâmodawarddhan{ l) avec une brève (1). A la note 5 de la p. 46, il déclare : « On se serait attendu à Prâmodya (qui augmente la joie); ... ». Pourquoi s'attendre à un autre mot que celui qui se trouve dans l'inscription, prâmoda, qui est bien connu en sanskrit (2)?
 	Metrical problem En fait, il doit y avoir 30 morae à chaque vers. Mais si sa transcription peut bien donner ce total pour le second vers, c'est parce qu'il interprète prâmoda° alors que l'inscription a prâ°.
@@ -168,7 +168,7 @@
 <l n="a">śākaindryāṁ rasa-sāgara-kṣitidharair yyāntyāṁ sa mā[se śucau]</l>
 <l n="b"><seg met="+++-"><gap reason="lost" unit="character" quantity="4"/></seg><lb n="18"/> ca rāma-pakṣa-vasato kāṣṭā-tithau tatra ca</l>
 <l n="c">tuṁlai-nāma-Umānis-ākhya-sahite vāre purāṇād gu[rau]</l>
-<l n="d"><seg met="+"><gap reason="lost" unit="character" quantity="1"/></seg><lb n="19"/>pte śrī-ghananātham āryya-sahitaṁ prātiṣṭhipan mandire ||</l>
+<l n="d"><seg met="+"><gap reason="lost" unit="character" quantity="1"/></seg><lb n="19"/>pte śrī-ghananātham āryya-sahitaṁ prātiṣṭhipan mandire <g type="ddanda"/></l>
 <!-- 
 	See Damais 1955: 114–155, n. 2.
 	c. purāṇād: can we read purāṇaṅ?
@@ -178,7 +178,7 @@
 <l n="a">tacchendu-vimva-śakala-pratimaṁ vibhāti </l>
 <l n="b">rāhor bhiyā sapa<lb n="20" break="no"/>di sampatitaṁ dharitryāṁ</l>
 <l n="c">tasyānuguṇyam athavedam udeti śubhraḥ</l>
-<l n="d">vuddhais sakr̥tyataruṇair uṣitaṁ manojña<lb n="21" break="no"/>m· ||</l>
+<l n="d">vuddhais sakr̥tyataruṇair uṣitaṁ manojña<lb n="21" break="no"/>m· <g type="ddanda"/></l>
 <!-- 	a. tac cendu-vimva-sakala-?
 	c. tasyānuguṇyam: tasyānupuṇyam C.
 	c. athavedam: thus Bosch (1952: 194); atha vedim C.
@@ -189,7 +189,7 @@
 <l n="a">śrīmad-veṇuvanābhikhyam</l> 
 <l n="b">vidhāya jina-mandiraṁ</l>
 <l n="c">yat puṇyam āptam etena</l> 
-<l n="d">daśadāpnotu saugatam· ||</l>
+<l n="d">daśadāpnotu saugatam· <g type="ddanda"/></l>
 <!-- 	a. -khyam: it seems that the plaster cast shows -khyām.
  -->
 </lg>
@@ -197,7 +197,7 @@
 <l n="a">pa<lb n="22" break="no"/>dam atyanta-duṣprāpam</l> 
 <l n="b">anuttaram agocaraṁ</l>
 <l n="c">tat-sutānāṁ mayā yuktaṁ</l> 
-<l n="d">tūrṇṇam eva labheya yat· ||</l>
+<l n="d">tūrṇṇam eva labheya yat· <g type="ddanda"/></l>
 <!-- 	c. tat-sutānāṁ:? tat sutarāṁ?
 	d. labheya: labbeya C (misprint).
  -->
@@ -206,55 +206,54 @@
 <l n="a">Aurvvāgnir yā[va]<lb n="23"/>d uṣṇa-śvasana-vaśa-gatākṣanyadam bodhi-dr̥ṣṭyā</l>
 <l n="b">yāvat prāntā dharitrī vivudha-gaṇa-samākrānta-mūrttiś ca meruḥ</l>
 <l n="c">yāva[t khe] <lb n="24"/> svān gabhastīn daśa-śata-gaṇanām ujjhati vyoma-cakre</l>
-<l n="d"><seg met="++++-++"><gap reason="lost" unit="character" quantity="7"/></seg>sugata-guṇa-gaṇas tāvad āstām vihāraḥ ||</l>
+<l n="d"><seg met="++++-++"><gap reason="lost" unit="character" quantity="7"/></seg>sugata-guṇa-gaṇas tāvad āstām vihāraḥ <g type="ddanda"/></l>
 <!-- 	b. prāntā: prānto? prāptā?
 	c. -cakre: -vr̥traḥ C.
 	d.  śrī
  -->
 </lg>
 <p>
-<lb n="25"/>|| svasti śaka-varṣātīta 746 jyeṣṭa-māsa daśami kr̥ṣṇa-pakṣa tuṁlai Umanis vr̥haspati-vāra tatkāla rakai pa[tapā]- 
-<lb n="26"/>n· pu palar· saṁ laki-laki pu pasaṁ saṁṅ ānakabi mavaiḥ savaḥ sīmā Arikiva luAṁ Iṁ babadan· lmaḥ ri tpu mapa-
-<!--	rakai pa[tapā]n· pu: rakarayān [patapā](26)n C. We adopt the reading suggested by Damais (1968: 327). Or read rakarayā(26)n pu palar·?
-	pasaṁ saṁṅ ānakabi : palar anakabi C. We adopt the reading suggested by Damais (1968: 327).
-	Do we have the toponym tyusan· at the end of the line?-->
-<lb n="27"/>k· viniḥnya ha 3 I kisir· lmaḥ ri kayumvuṅan· viniḥnya ha 1 vha 1 I rasti karuṁ lmaḥ I ptir· viniḥnya ha 6 Iṁ kaliru[ṅa]-
-<!--	kisir·: kisis·?
-	rasti: sāntvi C. See comments Damais (1968: 327–328) Nous avons aussi déjà signalé qu'à la ligne 27 le sântwi de De C. est exclu, ce qu'il a transcrit -w- souscrit étant en fait le deuxième hulu (signe pour -i) du mot winih de la ligne 28 ^Ä Ce mot est très abîmé. Ce que nous avons proposé dans EEI IV, rasanti (ra et n douteux) ne nous semble guère probable maintenant, étant donné la place disponible. Nous croyons qu'il faut plutôt lire soit rasti, soit santi. Le contexte n'est malheureusement d'aucune aide.
+<lb n="25"/><g type="ddanda"/> svasti śaka-varṣātīta <num value="746">746</num> jyeṣṭa-māsa daśami kr̥ṣṇa-pakṣa tuṁlai Umanis vr̥haspati-vāra tatkāla rakai pa<supplied reason="lost">tapā</supplied><lb break="no" 
+n="26"/>n· pu palar· saṁ laki-laki pu pasaṁ saṁṅ ānakabi mavaiḥ savaḥ sīmā Arikiva luAṁ Iṁ babadan· lmaḥ ri tpu mapa<lb break="no" 
+n="27"/>k· viniḥnya <abbr>ha</abbr> <num value="3">3</num> I kisir· lmaḥ ri kayumvuṅan· viniḥnya <abbr>ha</abbr> <num value="1">1</num> <abbr>vha</abbr> <num value="1">1</num> I rasti karuṁ lmaḥ I ptir· viniḥnya <abbr>ha</abbr> <num value="6">6</num> Iṁ kaliru<supplied reason="lost">ṅa</supplied><lb break="no" n="28"/>n· viniḥnya <abbr>ha</abbr> <num value="3">3</num> Iṁ kuliṁ viniḥnya <abbr>ha</abbr> <num value="3">3</num> lmaḥ ri tri haji Ekapiṇḍa viniḥ <abbr>ha</abbr> <num value="14">14</num> <abbr>vha</abbr> <num value="1">1</num></p> <p>tatra sākṣī si ravan· si <gap reason="lost" unit="character" quantity="3"/>
+<!--	25 rakai pa[tapā]n· pu: rakarayān [patapā](26)n C. We adopt the reading suggested by Damais (1968: 327). Or read rakarayā(26)n pu palar·?
+	26 pasaṁ saṁṅ ānakabi : palar anakabi C. We adopt the reading suggested by Damais (1968: 327).
+	26 Do we have the toponym tyusan· at the end of the line?
+	27 kisir·: kisis·?
+	27 rasti: sāntvi C. See comments Damais (1968: 327–328) Nous avons aussi déjà signalé qu'à la ligne 27 le sântwi de De C. est exclu, ce qu'il a transcrit -w- souscrit étant en fait le deuxième hulu (signe pour -i) du mot winih de la ligne 28 ^Ä Ce mot est très abîmé. Ce que nous avons proposé dans EEI IV, rasanti (ra et n douteux) ne nous semble guère probable maintenant, étant donné la place disponible. Nous croyons qu'il faut plutôt lire soit rasti, soit santi. Le contexte n'est malheureusement d'aucune aide.
 	The numerals that C read as 3 are more likely to be 2. Damais (1968: 327) commented: En ce qui concerne les chiffres des lignes 27 et 28, sont nets à notre sens le total 15 (et non 16!), les deux 1 et le 6 lus comme nous par De C. et le premier chiffre de la ligne 27, un 2 (lu 3 par De C). Les deux derniers (ligne 28) qui précèdent le total et qui doivent totaliser 6 à eux deux, mais qui semblent complètement déformés sont difficiles à interpréter. Nous avons, dans EEI IV, choisi 4 et 2, mais c'est une interprétation, celle de De C, 3 et 3, en étant une autre qui nous paraît moins probable. Les deux chiffres sont, strictement parlant, ininterprétables et leur lecture dépend de la valeur que l'on attache aux divers arguments possibles.
-	lmaḥ I ptir· : lmaḥ ri ptir·  C.
-	kaliru[ṅa]n·: Damais 1968: 328,  Damais 1970: 707 n. 1-->
-<lb n="28"/>n· viniḥnya ha 3 Iṁ kuliṁ viniḥnya ha 3 lmaḥ ri tri haji Ekapiṇḍa viniḥ ha 14 vha 1 tatra sākṣī si ravan· si [+3]
-<!--	Ekapiṇḍa viniḥ ha 14 : Ekapiṇḍa viniḥnya ha 16 C. Damais (1968: 327–328) read 15 and noted the superfluous nya in C’s edition.-->
-<lb n="29"/>siḥ vinaiḥ takuraṁ yu 1 simsim· 1 suhan·-suhan· 1 si maṇḍakṣa saṁ luA paṇḍak· Anak banva I ji[+ vinaiḥ]
+	27 lmaḥ I ptir· : lmaḥ ri ptir·  C.
+	27 kaliru[ṅa]n·: Damais 1968: 328,  Damais 1970: 707 n. 1
+	28 Ekapiṇḍa viniḥ ha 14 : Ekapiṇḍa viniḥnya ha 16 C. Damais (1968: 327–328) read 15 and noted the superfluous nya in C’s edition.-->
+<lb n="29"/>siḥ vinaiḥ takuraṁ <abbr>yu</abbr> <num value="1">1</num> simsim· <num value="1">1</num> suhan·-suhan· <num value="1">1</num> si maṇḍakṣa saṁ luA paṇḍak· Anak banva I ji[+ vinaiḥ]
 <!--	simsim·: sisim· C.-->
-<lb n="30"/> takuraṁ yu 1 simsim· 1 tasintanamu saṁ kaniryyan· Anak banva I valiṁbiṁ vatak· si [+3] C.la [+3]
-<lb n="31"/> 1 vadvā saṁ makudur· kinaun· Umadagga saṅ anak banva magavai ri havuryyan· ra [+7 pa]-
+<lb n="30"/> takuraṁ <abbr>yu</abbr> <num value="1">1</num> simsim· <num value="1">1</num> tasintanamu saṁ kaniryyan· Anak banva I valiṁbiṁ vatak· si [+3] C.la [+3]
+<lb n="31"/> <num value="1">1</num> vadvā saṁ makudur· kinaun· Umadagga saṅ anak banva magavai ri havuryyan· ra [+7 pa]-
 <!--	kinaun·: kinon· C. See Damais (1968: 321, 328) on the interpretation of the vowel marker -au.-->
-<lb n="32"/>lar hyaṁ vinaiḥ takuraṁ yu 1 si bahas· ramani mai ......... vi ......
+<lb n="32"/>lar hyaṁ vinaiḥ takuraṁ <abbr>yu</abbr> <num value="1">1</num> si bahas· ramani mai ......... vi ......
 <!--	lar hyaṁ: karhyaṁ C.-->
 <lb n="33"/> ............ kalima si habak· ............
 <lb n="34"/>
-<lb n="35"/> ..................... hlai 1 kalamvi 1 punukan· 1 su-
-<lb n="36"/> ............ mañjan· ramani pagar· vinaiḥ takuraṁ yu 1 juru si jati ramani svara vinaiḥ
-<lb n="37"/> takuraṁ yu 1 I sukun· si madhava ramani bhavana vinaiḥ takuraṁ yu 1 I variṅin· juru si lañcaṁ rama-
-<lb n="38"/>ni nari vinaiḥ takuraṁ yu 1 I vuAtan· kalima si maṅga ramani napal· vinaiḥ takuraṁ yu 1 I paṇḍa-
-<lb n="39"/>kyan juru si rindaṁ ramani gunuṁ vinaiḥ takuraṁ yu 1 I ptir juru si vikrama ramani dhara vinaiḥ takuraṁ
-<lb n="40"/> yu 1 rama si piṅul ramani Ambari vinaiḥ takuraṁ yu 1 kalima si kunvurama ramani taji vinaiḥ takuraṁ yu
-<lb n="41"/> 1 putiḥ hlai 1 kalambi 1 punukan· 1 suhan·-suhan· 1 I lva paṇḍak kalima si kalap ramani nanta vi-
+<lb n="35"/> ..................... hlai <num value="1">1</num> kalamvi <num value="1">1</num> punukan· <num value="1">1</num> su-
+<lb n="36"/> ............ mañjan· ramani pagar· vinaiḥ takuraṁ <abbr>yu</abbr> <num value="1">1</num> juru si jati ramani svara vinaiḥ
+<lb n="37"/> takuraṁ <abbr>yu</abbr> <num value="1">1</num> I sukun· si madhava ramani bhavana vinaiḥ takuraṁ <abbr>yu</abbr> <num value="1">1</num> I variṅin· juru si lañcaṁ rama-
+<lb n="38"/>ni nari vinaiḥ takuraṁ <abbr>yu</abbr> <num value="1">1</num> I vuAtan· kalima si maṅga ramani napal· vinaiḥ takuraṁ <abbr>yu</abbr> <num value="1">1</num> I paṇḍa-
+<lb n="39"/>kyan juru si rindaṁ ramani gunuṁ vinaiḥ takuraṁ <abbr>yu</abbr> <num value="1">1</num> I ptir juru si vikrama ramani dhara vinaiḥ takuraṁ
+<lb n="40"/> <abbr>yu</abbr> <num value="1">1</num> rama si piṅul ramani Ambari vinaiḥ takuraṁ <abbr>yu</abbr> <num value="1">1</num> kalima si kunvurama ramani taji vinaiḥ takuraṁ yu
+<lb n="41"/> <num value="1">1</num> putiḥ hlai <num value="1">1</num> kalambi <num value="1">1</num> punukan· <num value="1">1</num> suhan·-suhan· <num value="1">1</num> I lva paṇḍak kalima si kalap ramani nanta vi-
 <!--	lva paṇḍak: lupaṇḍak C. See Damais 1968: 328.-->
-<lb n="42"/>naiḥ takuraṁ yu 1 putiḥ hlai 1 kalamvi 1 punukan· 1 suhan·-suhan· 1 juru si danaka ramani dara vinaiḥ
-<lb n="43"/> takuraṁ yu 1 parvuvus· si hr̥m· ramany avak vinaiḥ takuraṁ yu 1 I tri haji rama si pañca ramani tīrtha vinaiḥ takuraṁ yu 1 si-
-<lb n="44"/>liḥ juru si śaṅkara ramani carmi vinaiḥ takuraṁ yu 1 parvuvus· si gunuṁ ramani rasal vinaiḥ takuraṁ yu 1 parvuvus·
-<lb n="45"/> si katil· ramani buvi vinaih takuraṁ yu 1 variga si sumbut ramani siddha vinaiḥ takuraṁ yu 1 juru matuha sy avit rama-
-<lb n="46"/>ni ayat vinaiḥ takuraṁ yu 1 kalima si sampū ramani bamuṁ vinaiḥ takuraṁ yu 1 si pañca ramani hr̥ṁ vinaiḥ takuraṁ yu 1 
-<lb n="47"/> putiḥ hlai 1 kalamvi 1 lukai 1 punukan· 1 vaduṁ 1 patuk kr̥s· 1 parvuvus· saṁ kayumvuṅan· si haras ramani
-<lb n="48"/> vikrami Anak banva I tyusan· vinaiḥ takuraṁ yu 1 parvuvus· saṁ mantyāsih saṁ kīrti puntani nabha Anak banva ri
-<lb n="49"/> tri haji vinaiḥ takuraṁ yu 1 parvuvus· saṁ lva paṇḍak si kbal ramani jamin· Anak banva ri tri haji vinaiḥ takuraṁ 
-<!--	si kbal: 1 kbal C. See Damais 1968: 328.-->
-<lb n="50"/> yu 1 tuhalas· ri hulu luvaṁ si silpa ramani yada vinaiḥ takuraṁ yu 1 tuhalas· ri kaṇḍaṅan· lamvas· si
+<lb n="42"/>naiḥ takuraṁ <abbr>yu</abbr> <num value="1">1</num> putiḥ hlai <num value="1">1</num> kalamvi <num value="1">1</num> punukan· <num value="1">1</num> suhan·-suhan· <num value="1">1</num> juru si danaka ramani dara vinaiḥ
+<lb n="43"/> takuraṁ <abbr>yu</abbr> <num value="1">1</num> parvuvus· si hr̥m· ramany avak vinaiḥ takuraṁ <abbr>yu</abbr> <num value="1">1</num> I tri haji rama si pañca ramani tīrtha vinaiḥ takuraṁ <abbr>yu</abbr> <num value="1">1</num> si-
+<lb n="44"/>liḥ juru si śaṅkara ramani carmi vinaiḥ takuraṁ <abbr>yu</abbr> <num value="1">1</num> parvuvus· si gunuṁ ramani rasal vinaiḥ takuraṁ <abbr>yu</abbr> <num value="1">1</num> parvuvus·
+<lb n="45"/> si katil· ramani buvi vinaih takuraṁ <abbr>yu</abbr> <num value="1">1</num> variga si sumbut ramani siddha vinaiḥ takuraṁ <abbr>yu</abbr> <num value="1">1</num> juru matuha sy avit rama-
+<lb n="46"/>ni ayat vinaiḥ takuraṁ <abbr>yu</abbr> <num value="1">1</num> kalima si sampū ramani bamuṁ vinaiḥ takuraṁ <abbr>yu</abbr> <num value="1">1</num> si pañca ramani hr̥ṁ vinaiḥ takuraṁ <abbr>yu</abbr> <num value="1">1</num> 
+<lb n="47"/> putiḥ hlai <num value="1">1</num> kalamvi <num value="1">1</num> lukai <num value="1">1</num> punukan· <num value="1">1</num> vaduṁ <num value="1">1</num> patuk kr̥s· <num value="1">1</num> parvuvus· saṁ kayumvuṅan· si haras ramani
+<lb n="48"/> vikrami Anak banva I tyusan· vinaiḥ takuraṁ <abbr>yu</abbr> <num value="1">1</num> parvuvus· saṁ mantyāsih saṁ kīrti puntani nabha Anak banva ri
+<lb n="49"/> tri haji vinaiḥ takuraṁ <abbr>yu</abbr> <num value="1">1</num> parvuvus· saṁ lva paṇḍak si kbal ramani jamin· Anak banva ri tri haji vinaiḥ takuraṁ 
+<!--	si kbal: <num value="1">1</num> kbal C. See Damais 1968: 328.-->
+<lb n="50"/> <abbr>yu</abbr> <num value="1">1</num> tuhalas· ri hulu luvaṁ si silpa ramani yada vinaiḥ takuraṁ <abbr>yu</abbr> <num value="1">1</num> tuhalas· ri kaṇḍaṅan· lamvas· si
 <!--	luvaṁ si silpa: luvas si silpa. See Damais 1968: 328.-->
-<lb n="51"/> saruḥ ramani kutiṁ vinaiḥ takuraṁ yu 1 kinon· rakai patapān·
+<lb n="51"/> saruḥ ramani kutiṁ vinaiḥ takuraṁ <abbr>yu</abbr> <num value="1">1</num> kinon· rakai patapān·
 <!--	kinon·: Damais (1968: 321, 328) believed this needs to be read kinaun·.
 	According to the same scholar (1968: 332) the text comes at its end here.-->
 </p>
@@ -275,25 +274,33 @@
             <!--commentary encoded as per section §9.3 -->
          </div>
         <div type="bibliography">
-	<p>One fragment edited by J. L. A. Brandes (<bibl rend="omitname"><ptr target="bib:Brandes1886_01"/></bibl>);
-re-edited, with  Dutch translation and photo of an estampage, by J. G. de Casparis (<bibl rend="omitname"><ptr target="bib:Casparis1950_01"/><citedRange unit="page">57-62</citedRange><citedRange unit="appendix">1</citedRange><citedRange unit="plate">2</citedRange></bibl>). 
-Further editions have been published by Sarkar (<bibl rend="omitname"><ptr target="bib:Sarkar1971-1972_01"/><citedRange unit="volume">1</citedRange><citedRange unit="item">???</citedRange></bibl>, with the translation into English reproduced here); 
-by Long (<bibl rend="omitname"><ptr target="bib:Long2014_01"/><citedRange unit="page">???-???</citedRange></bibl>, with translation into English). 
+	<p>One fragment edited by J. L. A. Brandes (<bibl rend="omitname"><ptr target="bib:Brandes1913_01"/></bibl>);
+re-edited, with Dutch translation and extensive study, by J. G. de Casparis (<bibl rend="omitname"><ptr target="bib:Casparis1950_01"/></bibl>). This work generated a number of important scholarly reactions, notably those of  F. D. K. Bosch (<bibl rend="omitname"><ptr target="bib:Bosch1952_01"/></bibl>) and L.-Ch. Damais (	<bibl rend="omitname"><ptr target="bib:Damais1968_01"/></bibl>)
+The publications by H. B. Sarkar (<bibl rend="omitname"><ptr target="bib:Sarkar1971-1972_01"/></bibl> and M. Long (<bibl rend="omitname"><ptr target="bib:Long2014_01"/></bibl>) translations into English, the latter only of the Sanskrit portion of the text; 
+by  with translation into English). 
 The text is edited here once again from the OD photos and with systematic collation only of the reading published by De Casparis.
 <!--MNI D.27 and D.34
 OD Number: ???? -->
 </p>
 <listBibl type="primary">
-<bibl n="C"><ptr target="bib:Casparis1950_01"/><citedRange unit="page">...</citedRange></bibl>
+<bibl n="B"><ptr target="bib:Brandes1913_01"/><citedRange unit="item">IV</citedRange><citedRange unit="page">4-6</citedRange></bibl>
+<bibl n="C"><ptr target="bib:Casparis1950_01"/><citedRange unit="item">III</citedRange><citedRange unit="page">24-50</citedRange></bibl>
 </listBibl>
            <listBibl type="secondary">
-	<bibl><ptr target="bib:Damais1952_01"/><citedRange unit="page">???</citedRange><citedRange unit="item">???A.4???</citedRange></bibl>
-	<bibl><ptr target="bib:Damais1955_01"/><citedRange unit="page">???</citedRange></bibl>
-	<bibl><ptr target="bib:Damais1970_01"/><citedRange unit="page">???</citedRange><citedRange unit="item">???</citedRange></bibl>
-	<bibl><ptr target="bib:Nakada1982_01"/><citedRange unit="page">???</citedRange><citedRange unit="item">???I.4???</citedRange></bibl>
+	<bibl><ptr target="bib:Bosch1952_02"/></bibl>
+	<bibl><ptr target="bib:Damais1952_01"/><citedRange unit="part">A</citedRange><citedRange unit="item">10</citedRange><citedRange unit="page">26-27</citedRange></bibl>
+	<bibl><ptr target="bib:Damais1955_01"/><citedRange unit="page">111-114</citedRange></bibl>
+	<bibl><ptr target="bib:Damais1968_01"/><citedRange unit="page">317-331</citedRange></bibl>
+	<bibl><ptr target="bib:Damais1970_01"/><citedRange unit="page">44</citedRange><citedRange unit="item">32</citedRange></bibl>
+	<bibl><ptr target="bib:Sarkar1971-1972_01"/><citedRange unit="volume">I</citedRange><citedRange unit="item">X</citedRange><citedRange unit="page">64-75</citedRange></bibl>
+	<bibl><ptr target="bib:Nakada1982_01"/><citedRange unit="part">I</citedRange><citedRange unit="item">13</citedRange><citedRange unit="page">74-75</citedRange></bibl>
+	<bibl><ptr target="bib:Long2014_01"/><citedRange unit="page">167-212</citedRange></bibl>
 <!-- 
-Bosch 1952
-Damais 1968
+Bosch, TBG 70 (1930), 160 — I haven't been able to confitm this reference
+
+Plaster cast Leiden, RMV 1403-2994: phto RMV available
+Kern Abklatschen D27.1
+
 Eade & Gislen
  -->
            </listBibl>
