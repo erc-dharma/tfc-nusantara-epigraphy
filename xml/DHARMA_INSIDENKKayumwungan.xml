@@ -78,16 +78,15 @@
          <div type="edition" xml:lang="kaw-Latn" rendition="class:38769 maturity:83213">
 <lg n="1" met="sragdharā" xml:lang="san-Latn">
 <l n="a"><lb n="1"/> <seg met="++++-++"><gap reason="lost" unit="character" quantity="7"/></seg><supplied reason="lost">amita-va</supplied>la-mahā-vajra-paryyaṅka-vaddhaḥ </l>
-<l n="b">rakṣatv āmūla-siṅho bhavaja-bhavacarātyanta-saṁkru<lb n="2"/><seg met="-+="><gap reason="lost" unit="character" quantity="3"/></seg></l>
+<l n="b">rakṣatv āmūla-siṅho bhavaja-bhavacarātyanta-saṁkru<lb n="2" break="no"/><seg met="-+="><gap reason="lost" unit="character" quantity="3"/></seg></l>
 <l n="c"><seg met="++++-++--"><gap reason="lost" unit="character" quantity="9"/></seg>matara-hitottuṅga-śaila-stha-śūro</l>
-<l n="d">yat saj-jīvāpara-smāra-valam akhila<seg met="+"><gap reason="lost" unit="character" quantity="1"/></seg><lb n="3"/><seg met="+-++-+="><gap reason="lost" unit="character" quantity="7"/></seg> <supplied reason="lost"><g type="ddanda"/></supplied></l>
-<!-- 	1. -siṅho: ṣimho C. -->
+<l n="d">yat saj-jīvāpara-smāra-valam akhila<seg met="+"><gap reason="lost" unit="character" quantity="1"/></seg><lb n="3" break="no"/><seg met="+-++-+="><gap reason="lost" unit="character" quantity="7"/></seg> <supplied reason="lost"><g type="ddanda"/></supplied></l>
 </lg>
 <lg n="2" met="sragdharā" xml:lang="san-Latn">
 <l n="a"><seg met="++++-++-"><gap reason="lost" unit="character" quantity="8"/></seg>vara-vaśa-vatāsāditādharmma-vr̥ndān·</l>
-<l n="b">lokānāṁ laukya-vuddhair agaditam atu<lb n="4"/><supplied reason="lost">la</supplied><seg met="+-++-+="><gap reason="lost" unit="character" quantity="7"/></seg></l>
+<l n="b">lokānāṁ laukya-vuddhair agaditam atu<lb n="4" break="no"/><supplied reason="lost">la</supplied><seg met="+-++-+="><gap reason="lost" unit="character" quantity="7"/></seg></l>
 <l n="c"><seg met="++++-++"><gap reason="lost" unit="character" quantity="7"/></seg>cchidam akhila-bhava-vyādhi-bhaiṣajyam agraṁ</l>
-<l n="d">sad-dharmaṁ yukti-cittaḥ praṇama<lb n="5"/><supplied reason="lost">ti</supplied> <seg met="--++-++-+="><gap reason="lost" unit="character" quantity="10"/></seg> <supplied reason="lost"><g type="ddanda"/></supplied></l>
+<l n="d">sad-dharmaṁ yukti-cittaḥ praṇama<lb n="5" break="no"/><supplied reason="lost">ti</supplied> <seg met="--++-++-+="><gap reason="lost" unit="character" quantity="10"/></seg> <supplied reason="lost"><g type="ddanda"/></supplied></l>
 </lg>
 <lg n="3" met="sragdharā" xml:lang="san-Latn">
 <l n="a"><seg met="++"><gap reason="lost" unit="character" quantity="2"/></seg>t kāruṇyam agrañ jagati gati-śatānanta-duḥkhābhibhūte</l>
@@ -110,7 +109,7 @@
 <l n="a">śraddhāñ ca <lb n="9"/><seg met="+---+--+-+="><gap reason="lost" unit="character" quantity="11"/></seg></l>
 <l n="b"><supplied reason="lost">tan-maṇḍa</supplied>lāgra-guṇavad-gaṇam <seg rend="check">atyavāśi</seg></l>
 <l n="c">lebhe vigūḍha-manujendra-gaṇān mahiṣyam· <space/></l>
-<l n="d">śai<lb n="10" break="yes"/><supplied reason="lost">lendra-vaṁśa-tilaka</supplied><seg met="--+-+="><gap reason="lost" unit="character" quantity="6"/></seg> <supplied reason="lost"><g type="ddanda"/></supplied></l>
+<l n="d">śai<lb n="10" break="no"/><supplied reason="lost">lendra-vaṁśa-tilaka</supplied><seg met="--+-+="><gap reason="lost" unit="character" quantity="6"/></seg> <supplied reason="lost"><g type="ddanda"/></supplied></l>
 <!-- 	10 (5c). vigūḍha-: Long 2014: 187 n. 39: « Damais (1955: 43, n. 1) expressed strong doubt about de Casparis’ reading  vigūḍha ... noting that the -ḍha appears to be a -gha. » Read vidhūya? Or vibhūya? Bosch (1952: 197, n. 12) suggests aviguṇān, but this would be unmetrical.
  -->
 </lg>
@@ -128,7 +127,7 @@
 <l n="a">caṇḍa-pratāpa-paritāpita-bhūri-bhū<lb n="12" break="no"/>paḥ</l>
 <l n="b">santāpa-pāvanam a<seg met="+--+-+="><gap reason="lost" unit="character" quantity="7"/></seg></l>
 <l n="c"><seg met="++"><gap reason="lost" unit="character" quantity="2"/></seg>guṇo <supplied reason="subaudible">’</supplied>pi hira-pīta-karo <supplied reason="subaudible">’</supplied>vadātaḥ</l> 
-<l n="d">sācātirānubhava-toṣa-vivi<lb n="13"/>kta-cittaḥ <g type="ddanda"/></l>
+<l n="d">sācātirānubhava-toṣa-vivi<lb n="13" break="no"/>kta-cittaḥ <g type="ddanda"/></l>
 <!-- 	12 (7b) pāvanam a +: could be pāvana-saṅga-? Sarkar proposes -pāvana-matiḥ
 	12 (7c) ++guṇo: LC seems to have proposed śūro guṇo to Long.
 	12 (7d) sācātirānubhava-: Āvodhananānubhava?
@@ -139,7 +138,7 @@
 <l n="b"><seg met="++-+-"><gap reason="lost" unit="character" quantity="4"/></seg>śavidhām adharo mahīyān·</l>
 <l n="c">tasyātivallabhatarā <lb n="14"/>duhiteha cakre</l>
 <l n="d">grāme jinālayam araṁ <seg met="--+-+="><gap reason="lost" unit="character" quantity="6"/></seg> <supplied reason="lost"><g type="ddanda"/></supplied></l>
-<!-- 	b. ++-+-śavidhām adharo mahīyān: de Casparis, Pras. Indo. I, p. 177, reconstructs bhūmim vyadhād daśavidhām adharo mahīyān. But the estampage seems to show mahyīyān·.
+<!-- 	b. ++-+-śavidhām adharo mahīyān: de Casparis, Pras. Indo. I, p. 177, reconstructs bhūmim vyadhād daśavidhām adharo mahīyān. But the estampage seems to show mahyīyān·. See comments Bosch 1952: 193.
  -->
 </lg>
 <lg n="9" met="vasantatilakā" xml:lang="san-Latn">
@@ -158,15 +157,18 @@
 <lg n="10" met="gīti" xml:lang="san-Latn"><certainty match="../@met" locus="value"/><!-- metrical problem -->
 <l n="ab">sā kāntiñ candramaso gatiñ ca haṅsāt svarañ ca kalaviṅkāt· </l>
 <l n="cd">se <gap reason="lost" unit="character" quantity="3"/>ṇāṁ hara<lb n="17" break="no"/>ti śrīmat-pramodavarddhanī khyātā <g type="ddanda"/></l>
-<!-- 	cd. se = : sage? sabhe? sago? sabho?
-	cd. pramoda-: prāmoda- C. See Damais (1968: 327) Nous ne savons pourquoi De C. transcrit (p. 37, ligne 5 et passim) le nom de la Princesse « Prâmodawardhanï » alors que l'inscription a nettement prâmodawarddhan{ l) avec une brève (1). A la note 5 de la p. 46, il déclare : « On se serait attendu à Prâmodya (qui augmente la joie); ... ». Pourquoi s'attendre à un autre mot que celui qui se trouve dans l'inscription, prâmoda, qui est bien connu en sanskrit (2)?
+<!-- 	16 (10cd) se = : sage? sabhe? sago? sabho?
+	17 (10cd.=) pramoda-: prāmoda- C. See Damais (1968: 327) Nous ne savons pourquoi De C. transcrit (p. 37, ligne 5 et passim) le nom de la Princesse « Prâmodawardhanï » alors que l'inscription a nettement prâmodawarddhan{ l) avec une brève (1). A la note 5 de la p. 46, il déclare : « On se serait attendu à Prâmodya (qui augmente la joie); ... ». Pourquoi s'attendre à un autre mot que celui qui se trouve dans l'inscription, prâmoda, qui est bien connu en sanskrit (2)?
 	Metrical problem En fait, il doit y avoir 30 morae à chaque vers. Mais si sa transcription peut bien donner ce total pour le second vers, c'est parce qu'il interprète prâmoda° alors que l'inscription a prâ°.
+emails daba2argr 2025-04-28: 
+	"I can confirm that with -pramoda-, it is indeed impossible to get a gīti out of it. It's also impossible to make it a 27-mora or a 32-mora line (for āryā or lalitā respectively), with either -pra- or -prā-. Assuming that -prāmoda- is correct (i.e. emending, if the received reading is definitely -pra-), we still need all of the 4 lost syllables to be short for the metre to work out. The only other solution I can see would be to introduce another emendation, to -pramada- or -pramuda-. This could give us a correct mora count, but the caesura would be faulty (se–|⏑–⏑|ṇāṁhara||tiśrī|matprama|davarddha|nīkhyā|tā), and as far as I know, postponing the caesura is only acceptable if  the fourth foot is 4 short syllables. So this isn't really an option and I mention it only to show that -prāmoda- is indeed the best bet." 
+	"All in all, I don't know. I can also conceive that the name was indeed pramodavarddhanī, and the metre was broken to accommodate that; or that the name was correctly pramodavarddhanī, but the composer's intent was to adjust the name to fit the metre (api māṣaṁ maṣaṁ kuryāc chandobhaṅgaṁ na kalpayet, or however the adage runs), whereas the scribe falsified the composer's intent by returning to the correct form of the name."
  -->
 </lg>
 <lg n="11" met="śārdūlavikrīḍita" xml:lang="san-Latn">
-<l n="a">śākaindryāṁ rasa-sāgara-kṣitidharair yyāntyāṁ sa mā[se śucau]</l>
-<l n="b"><seg met="+++-"><gap reason="lost" unit="character" quantity="4"/></seg><lb n="18"/>ca rāma-pakṣa-vasato kāṣṭā-tithau tatra ca</l>
-<l n="c">tuṁlai-nāma-Umānis-ākhya-sahite vāre purāṇād gu[rau]</l>
+<l n="a">śākaindryāṁ rasa-sāgara-kṣitidharair yyāntyāṁ sa mā<supplied reason="lost">se śucau</supplied></l>
+<l n="b"><seg met="+++-"><gap reason="lost" unit="character" quantity="4"/></seg><lb n="18"/>ca rāma-pakṣa-<seg rend="check">vasato kāṣṭā-tithau</seg> tatra ca</l>
+<l n="c">tuṁlai-nāma-Umānis-ākhya-sahite vāre <seg rend="check">purāṇād</seg> gu<supplied reason="lost">rau</supplied></l>
 <l n="d"><seg met="+"><gap reason="lost" unit="character" quantity="1"/></seg><lb n="19" break="no"/>pte śrī-ghananātham āryya-sahitaṁ prātiṣṭhipan mandire <g type="ddanda"/></l>
 <!-- 
 	See Damais 1955: 114–155, n. 2.
@@ -189,7 +191,7 @@
 <l n="b">vidhāya jina-mandiraṁ</l>
 <l n="c">yat puṇyam āptam etena</l> 
 <l n="d">daśadāpnotu saugatam· <g type="ddanda"/></l>
-<!-- 	a. -khyam: it seems that the plaster cast shows -khyām.
+<!-- 	21 (13a) -khyam: it seems that the plaster cast shows -khyām.
  -->
 </lg>
 <lg n="14" met="anuṣṭubh" xml:lang="san-Latn">
@@ -275,10 +277,42 @@ n="44"/>liḥ juru si śaṅkara ramani carmi vinaiḥ takuraṁ <abbr>yu</abbr>
 	<rdg source="bib:Casparis1950_01">tan-maṇḍalā-</rdg>
 	<note>The <foreign>akṣara</foreign> <foreign>gra</foreign> is visible on the Leiden plastercast. Cf. also st. V, <foreign>pāda</foreign> b.</note>
 </app>
+<app loc="17">
+<lem>-pramodavarddhanī</lem>
+<rdg source="bib:Casparis1950_01">-prāmodavarddhanī</rdg>
+<note>De Casparis' reading <foreign>prā</foreign> instead is required by the metre but <bibl><ptr target="bib:Damais1968_01"/><citedRange unit="page">327</citedRange></bibl>, rightly points out that it is not what is engraved on the stone: <q>Nous ne savons pourquoi De C. transcrit (p. 37, ligne 5 et passim) le nom de la Princesse « Prâmodawardhanī » alors que l'inscription a nettement <foreign>prămodawarddhan(ī)</foreign> avec une brève. A la note 5 de la p. 46, il déclare : « On se serait attendu à Prâmodya (qui augmente la joie); ... ». Pourquoi s'attendre à un autre mot que celui qui se trouve dans l'inscription, <foreign>prămoda</foreign>, qui est bien connu en sanskrit ?</q> Damais answers his own question in his n. 2: <q>En fait, il doit y avoir 30 morae à chaque <foreign>vers</foreign>. Mais si sa transcription peut bien donner ce total pour le second vers, c'est parce qu'il interprète <foreign>prāmoda°</foreign> alors que l'inscription a <foreign>pra°</foreign>.</q> De Casparis seems to have corrected <foreign>pra</foreign> to <foreign>prā</foreign> for metrical reasons and then to have forgotten that this reading is an emendation.</note>
+</app>
 <app loc="11">
 <lem>nitya-</lem>
 	<rdg source="bib:Casparis1950_01">nītya-</rdg>
 	<note>De Casparis printing error, not corrected in <title>Addenda et corrigenda</title>.</note>
+</app>
+<app loc="19">
+	<lem source="bib:Casparis1950_01">tacchendu-vimva-śakala-pratimaṁ</lem>
+	<note>Should we understand <foreign>tac cendu-vimva-sakala-</foreign>?</note>
+</app>
+<app loc="20">
+	<lem>tasyānuguṇyam</lem>
+	<rdg source="bib:Casparis1950_01">tasyānupuṇyam</rdg>
+</app>
+<app loc="20">
+	<lem>athavedam</lem>
+	<rdg source="bib:Casparis1950_01">atha vedim</rdg>
+	<note>We adopt the reading proposed by <bibl><ptr target="bib:Bosch1952_02"/><citedRange unit="page">194</citedRange></bibl>.</note>
+</app>
+<app loc="20">
+	<lem>śubhraḥ</lem>
+	<rdg source="bib:Casparis1950_01">bhūbhr̥t·</rdg>
+	<note>We adopt the reading proposed by <bibl><ptr target="bib:Bosch1952_02"/><citedRange unit="page">194</citedRange></bibl>.</note>
+</app>
+<app loc="20">
+	<lem>vuddhais</lem>
+	<rdg source="bib:Casparis1950_01">vr̥ddhais</rdg>
+	<note>We adopt the reading proposed by <bibl><ptr target="bib:Bosch1952_02"/><citedRange unit="page">194</citedRange></bibl>.</note>
+</app>
+<app loc="21">
+<lem source="bib:Casparis1950_01">-vanābhikhyam</lem>
+<note>It seems that the plastercast shows <foreign>-vanābhikhyām</foreign>.</note>
 </app>
 <app loc="22">
 	<lem source="bib:Casparis1950_01">tat-sutānāṁ</lem>
@@ -305,6 +339,8 @@ n="44"/>liḥ juru si śaṅkara ramani carmi vinaiḥ takuraṁ <abbr>yu</abbr>
          <div type="commentary">
             <p>De Casparis believed the text not to have reached its completion by line 51; Damais argued against this.</p>
 <p>Metri causa spellings: <foreign>nīrukta</foreign>- for <foreign>nirukta</foreign>-. Places where a metric causa spelling would have been required: <foreign>prāmoda-</foreign> for <foreign>pramoda-</foreign>.</p>
+<!-- I think with nīrukta in st. IV, we may see a related phenomenon: the author adjusting vowel length to what is metrically required. So I think in st. X he either did write prā but the -ā is invisible on av ailable documents, or he intended to do so but forgot about it, in order to comply with requirements of the meter. But the lady’s name was Pramodav° and not Prāmodav°.
+ -->
          </div>
         <div type="bibliography">
 	<p>The text on two out of five fragments edited by J. L. A. Brandes (<bibl rend="omitname"><ptr target="bib:Brandes1913_01"/></bibl>);
