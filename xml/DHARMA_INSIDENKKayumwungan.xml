@@ -156,7 +156,7 @@
 </lg>
 <lg n="10" met="gīti" xml:lang="san-Latn"><certainty match="../@met" locus="value"/><!-- metrical problem -->
 <l n="ab">sā kāntiñ candramaso gatiñ ca haṅsāt svarañ ca kalaviṅkāt· </l>
-<l n="cd">se<gap reason="lost" unit="character" quantity="3"/>ṇāṁ hara<lb n="17" break="no"/>ti śrīmat-pramodavarddhanī khyātā <g type="ddanda"/></l>
+<l n="cd" real="4|4|4||4|3|4|4|2">se<gap reason="lost" unit="character" quantity="3"/>ṇāṁ hara<lb n="17" break="no"/>ti śrīmat-pramodavarddhanī khyātā <g type="ddanda"/></l>
 <!-- 	16 (10cd) se = : sage? sabhe? sago? sabho?
 	Sarkar here read sekṣaṇe mr̥gīṇāṁ without any note! anyhow, it is unmetrical.
 	17 (10cd.=) pramoda-: prāmoda- C. See Damais (1968: 327) Nous ne savons pourquoi De C. transcrit (p. 37, ligne 5 et passim) le nom de la Princesse « Prâmodawardhanï » alors que l'inscription a nettement prâmodawarddhan{ l) avec une brève (1). A la note 5 de la p. 46, il déclare : « On se serait attendu à Prâmodya (qui augmente la joie); ... ». Pourquoi s'attendre à un autre mot que celui qui se trouve dans l'inscription, prâmoda, qui est bien connu en sanskrit (2)?
@@ -291,12 +291,16 @@ n="44"/>liḥ juru si śaṅkara ramani carmi vinaiḥ takuraṁ <abbr>yu</abbr>
 <app loc="17">
 <lem>-pramodavarddhanī</lem>
 <rdg source="bib:Casparis1950_01">-prāmodavarddhanī</rdg>
-<note>De Casparis' reading <foreign>prā</foreign> instead is required by the metre but <bibl><ptr target="bib:Damais1968_01"/><citedRange unit="page">327</citedRange></bibl>, rightly points out that it is not what is engraved on the stone: <q>Nous ne savons pourquoi De C. transcrit (p. 37, ligne 5 et passim) le nom de la Princesse « Prâmodawardhanī » alors que l'inscription a nettement <foreign>prămodawarddhan(ī)</foreign> avec une brève. A la note 5 de la p. 46, il déclare : « On se serait attendu à Prâmodya (qui augmente la joie); ... ». Pourquoi s'attendre à un autre mot que celui qui se trouve dans l'inscription, <foreign>prămoda</foreign>, qui est bien connu en sanskrit ?</q> Damais answers his own question in his n. 2: <q>En fait, il doit y avoir 30 morae à chaque <foreign>vers</foreign>. Mais si sa transcription peut bien donner ce total pour le second vers, c'est parce qu'il interprète <foreign>prāmoda°</foreign> alors que l'inscription a <foreign>pra°</foreign>.</q> De Casparis seems to have corrected <foreign>pra</foreign> to <foreign>prā</foreign> for metrical reasons and then to have forgotten that this reading is an emendation.</note>
+<note>De Casparis' reading <foreign>prā</foreign> instead is required by the meter but <bibl><ptr target="bib:Damais1968_01"/><citedRange unit="page">327</citedRange></bibl>, rightly points out that it is not what is engraved on the stone: <q>Nous ne savons pourquoi De C. transcrit (p. 37, ligne 5 et passim) le nom de la Princesse « Prâmodawardhanī » alors que l'inscription a nettement <foreign>prămodawarddhan(ī)</foreign> avec une brève. A la note 5 de la p. 46, il déclare : « On se serait attendu à Prâmodya (qui augmente la joie); ... ». Pourquoi s'attendre à un autre mot que celui qui se trouve dans l'inscription, <foreign>prămoda</foreign>, qui est bien connu en sanskrit ?</q> Damais answers his own question in his n. 2: <q>En fait, il doit y avoir 30 morae à chaque <foreign>vers</foreign>. Mais si sa transcription peut bien donner ce total pour le second vers, c'est parce qu'il interprète <foreign>prāmoda°</foreign> alors que l'inscription a <foreign>pra°</foreign>.</q> De Casparis seems to have corrected <foreign>pra</foreign> to <foreign>prā</foreign> for metrical reasons and then to have forgotten that this reading is an emendation.</note>
+</app>
+<app loc="18">
+<lem source="bib:Casparis1950_01">purāṇād</lem>
+<note>Perhaps read <foreign>purāṇaṅ</foreign>?</note>
 </app>
 <app loc="19">
 	<lem>ta<choice><sic>cch</sic><corr>c c</corr></choice>endu-</lem>
 	<rdg source="bib:Casparis1950_01">tacchendu-vimva-śakala-pratimaṁ</rdg>
-	<note>All previous scholars have silently assumed that <foreign>tacchendu-</foreign> stands for <foreign>tac cendu-</foreign>. We see no better solution, but the rather bad spelling errors has to be noted.</note>
+	<note>All previous scholars have silently assumed that <foreign>tacchendu-</foreign> stands for <foreign>tac cendu-</foreign>. We see no better solution, but the rather bad spelling error has to be noted.</note>
 </app>
 <!-- 19 (12a)  tac cendu-vimva-sakala-? or kacchendu-vimva-śakala-? svacchend-? -->
 <app loc="20">
@@ -346,7 +350,7 @@ n="44"/>liḥ juru si śaṅkara ramani carmi vinaiḥ takuraṁ <abbr>yu</abbr>
 That <supplied reason="subaudible">temple</supplied> shines as wide as a slice of the Moon instantly fallen to the earth <supplied reason="subaudible">as though</supplied> for fear of Rāhu. Or rather, the white one <supplied reason="explanation"><foreign>śubhra</foreign> masc., i.e., the Moon</supplied> rises above this lovely <supplied reason="subaudible">temple</supplied> that shares features with Him, inhabited by Buddhas both ... and young.</p>
 <p rend="stanza" n="14">Once it is concentrated upon by me, may I just quickly reach that stage, extremely difficult to attain for his sons <supplied reason="explanation">i.e, bodhisattvas</supplied>, that is ultimate, beyond the senses.</p>
          </div>
-         <div type="commentary">
+         <div type="commentary">e
             <p>De Casparis believed the text not to have reached its completion by line 51; Damais argued against this.</p>
 <p>Metri causa spellings: <foreign>nīrukta</foreign>- for <foreign>nirukta</foreign>-. Places where a metric causa spelling would have been required: <foreign>prāmoda-</foreign> for <foreign>pramoda-</foreign>.</p>
 <!-- I think with nīrukta in st. IV, we may see a related phenomenon: the author adjusting vowel length to what is metrically required. So I think in st. X he either did write prā but the -ā is invisible on av ailable documents, or he intended to do so but forgot about it, in order to comply with requirements of the meter. But the lady’s name was Pramodav° and not Prāmodav°.
