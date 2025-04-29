@@ -278,6 +278,11 @@ n="44"/>liḥ juru si śaṅkara ramani carmi vinaiḥ takuraṁ <abbr>yu</abbr>
 	<rdg source="bib:Casparis1950_01">tan-maṇḍalā-</rdg>
 	<note>The <foreign>akṣara</foreign> <foreign>gra</foreign> is visible on the Leiden plastercast. Cf. also st. V, <foreign>pāda</foreign> b.</note>
 </app>
+<app loc="11">
+<lem>nitya-</lem>
+	<rdg source="bib:Casparis1950_01">nītya-</rdg>
+	<note>De Casparis printing error, not corrected in <title>Addenda et corrigenda</title>.</note>
+</app>
 <app loc="16">
 <lem>se<gap reason="lost" unit="character" quantity="3"/>ṇāṁ</lem>
 <rdg source="bib:Casparis1950_01">se<seg met="===-"><gap reason="lost" unit="character" quantity="4"/></seg>ṇāṁ</rdg>
@@ -287,11 +292,6 @@ n="44"/>liḥ juru si śaṅkara ramani carmi vinaiḥ takuraṁ <abbr>yu</abbr>
 <lem>-pramodavarddhanī</lem>
 <rdg source="bib:Casparis1950_01">-prāmodavarddhanī</rdg>
 <note>De Casparis' reading <foreign>prā</foreign> instead is required by the metre but <bibl><ptr target="bib:Damais1968_01"/><citedRange unit="page">327</citedRange></bibl>, rightly points out that it is not what is engraved on the stone: <q>Nous ne savons pourquoi De C. transcrit (p. 37, ligne 5 et passim) le nom de la Princesse « Prâmodawardhanī » alors que l'inscription a nettement <foreign>prămodawarddhan(ī)</foreign> avec une brève. A la note 5 de la p. 46, il déclare : « On se serait attendu à Prâmodya (qui augmente la joie); ... ». Pourquoi s'attendre à un autre mot que celui qui se trouve dans l'inscription, <foreign>prămoda</foreign>, qui est bien connu en sanskrit ?</q> Damais answers his own question in his n. 2: <q>En fait, il doit y avoir 30 morae à chaque <foreign>vers</foreign>. Mais si sa transcription peut bien donner ce total pour le second vers, c'est parce qu'il interprète <foreign>prāmoda°</foreign> alors que l'inscription a <foreign>pra°</foreign>.</q> De Casparis seems to have corrected <foreign>pra</foreign> to <foreign>prā</foreign> for metrical reasons and then to have forgotten that this reading is an emendation.</note>
-</app>
-<app loc="11">
-<lem>nitya-</lem>
-	<rdg source="bib:Casparis1950_01">nītya-</rdg>
-	<note>De Casparis printing error, not corrected in <title>Addenda et corrigenda</title>.</note>
 </app>
 <app loc="19">
 	<lem>ta<choice><sic>cch</sic><corr>c c</corr></choice>endu-</lem>
