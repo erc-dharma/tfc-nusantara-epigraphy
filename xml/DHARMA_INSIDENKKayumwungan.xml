@@ -127,7 +127,7 @@
 <l n="a">caṇḍa-pratāpa-paritāpita-bhūri-bhū<lb n="12" break="no"/>paḥ</l>
 <l n="b">santāpa-pāvanam a<seg met="+--+-+="><gap reason="lost" unit="character" quantity="7"/></seg></l>
 <l n="c"><seg met="++"><gap reason="lost" unit="character" quantity="2"/></seg>guṇo <supplied reason="subaudible">’</supplied>pi hira-pīta-karo <supplied reason="subaudible">’</supplied>vadātaḥ</l> 
-<l n="d">sācātirānubhava-toṣa-vivi<lb n="13" break="no"/>kta-cittaḥ <g type="ddanda"/></l>
+<l n="d"><seg rend="check">sācātirānubhava</seg>-toṣa-vivi<lb n="13" break="no"/>kta-cittaḥ <g type="ddanda"/></l>
 <!-- 	12 (7b) pāvanam a +: could be pāvana-saṅga-? Sarkar proposes -pāvana-matiḥ
 	12 (7c) ++guṇo: LC seems to have proposed śūro guṇo to Long.
 	12 (7d) sācātirānubhava-: Āvodhananānubhava?
@@ -158,6 +158,7 @@
 <l n="ab">sā kāntiñ candramaso gatiñ ca haṅsāt svarañ ca kalaviṅkāt· </l>
 <l n="cd">se <gap reason="lost" unit="character" quantity="3"/>ṇāṁ hara<lb n="17" break="no"/>ti śrīmat-pramodavarddhanī khyātā <g type="ddanda"/></l>
 <!-- 	16 (10cd) se = : sage? sabhe? sago? sabho?
+	Sarkar here read sekṣaṇe mr̥gīṇāṁ without any note! anyhow, it is unmetrical.
 	17 (10cd.=) pramoda-: prāmoda- C. See Damais (1968: 327) Nous ne savons pourquoi De C. transcrit (p. 37, ligne 5 et passim) le nom de la Princesse « Prâmodawardhanï » alors que l'inscription a nettement prâmodawarddhan{ l) avec une brève (1). A la note 5 de la p. 46, il déclare : « On se serait attendu à Prâmodya (qui augmente la joie); ... ». Pourquoi s'attendre à un autre mot que celui qui se trouve dans l'inscription, prâmoda, qui est bien connu en sanskrit (2)?
 	Metrical problem En fait, il doit y avoir 30 morae à chaque vers. Mais si sa transcription peut bien donner ce total pour le second vers, c'est parce qu'il interprète prâmoda° alors que l'inscription a prâ°.
 emails daba2argr 2025-04-28: 
@@ -169,18 +170,18 @@ emails daba2argr 2025-04-28:
 <l n="a">śākaindryāṁ rasa-sāgara-kṣitidharair yyāntyāṁ sa mā<supplied reason="lost">se śucau</supplied></l>
 <l n="b"><seg met="+++-"><gap reason="lost" unit="character" quantity="4"/></seg><lb n="18"/>ca rāma-pakṣa-<seg rend="check">vasato kāṣṭā-tithau</seg> tatra ca</l>
 <l n="c">tuṁlai-nāma-Umānis-ākhya-sahite vāre <seg rend="check">purāṇād</seg> gu<supplied reason="lost">rau</supplied></l>
-<l n="d"><seg met="+"><gap reason="lost" unit="character" quantity="1"/></seg><lb n="19" break="no"/>pte śrī-ghananātham āryya-sahitaṁ prātiṣṭhipan mandire <g type="ddanda"/></l>
+<l n="d"><seg met="+"><gap reason="lost" unit="character" quantity="1"/></seg><lb n="19" break="no"/>pte śrīghana-nātham āryya-sahitaṁ prātiṣṭhipan mandire <g type="ddanda"/></l>
 <!-- 
 	See Damais 1955: 114–155, n. 2.
 	c. purāṇād: can we read purāṇaṅ?
  -->
 </lg>
 <lg n="12" met="vasantatilakā" xml:lang="san-Latn">
-<l n="a">tacchendu-vimva-śakala-pratimaṁ vibhāti </l>
+<l n="a">ta<choice><sic>cch</sic><corr>c c</corr></choice>endu-vimva-śakala-pratimaṁ vibhāti</l>
 <l n="b">rāhor bhiyā sapa<lb n="20" break="no"/>di sampatitaṁ dharitryāṁ</l>
 <l n="c">tasyānuguṇyam athavedam udeti śubhraḥ</l>
-<l n="d">vuddhais sakr̥tyataruṇair uṣitaṁ manojña<lb n="21" break="no"/>m· <g type="ddanda"/></l>
-<!-- 	19 (12a) tac cendu-vimva-sakala-?
+<l n="d">vuddhais <seg rend="check">sakr̥tya</seg>taruṇair uṣitaṁ manojña<lb n="21" break="no"/>m· <g type="ddanda"/></l>
+<!-- 	19 (12a) ta<choice><sic>cch</sic><corr>c c</corr></choice>endu- tac cendu-vimva-sakala-? or kacchendu-vimva-śakala-?
 	20 (12c) tasyānuguṇyam: tasyānupuṇyam C.
 	20 (12c) athavedam: thus Bosch (1952: 194); atha vedim C.
 	20 (12c) śubhraḥ: bhūbhr̥t· C.
@@ -288,9 +289,11 @@ n="44"/>liḥ juru si śaṅkara ramani carmi vinaiḥ takuraṁ <abbr>yu</abbr>
 	<note>De Casparis printing error, not corrected in <title>Addenda et corrigenda</title>.</note>
 </app>
 <app loc="19">
-	<lem source="bib:Casparis1950_01">tacchendu-vimva-śakala-pratimaṁ</lem>
-	<note>Should we understand <foreign>tac cendu-vimva-sakala-</foreign>?</note>
+	<lem>ta<choice><sic>cch</sic><corr>c c</corr></choice>endu-</lem>
+	<rdg source="bib:Casparis1950_01">tacchendu-vimva-śakala-pratimaṁ</rdg>
+	<note>All previous scholars have silently assumed that <foreign>tacchendu-</foreign> stands for <foreign>tac cendu-</foreign>. We see no better solution, but the rather bad spelling errors has to be noted.</note>
 </app>
+<!-- 19 (12a)  tac cendu-vimva-sakala-? or kacchendu-vimva-śakala-? svacchend-? -->
 <app loc="20">
 	<lem>tasyānuguṇyam</lem>
 	<rdg source="bib:Casparis1950_01">tasyānupuṇyam</rdg>
@@ -303,7 +306,7 @@ n="44"/>liḥ juru si śaṅkara ramani carmi vinaiḥ takuraṁ <abbr>yu</abbr>
 <app loc="20">
 	<lem>śubhraḥ</lem>
 	<rdg source="bib:Casparis1950_01">bhūbhr̥t·</rdg>
-	<note>We adopt the reading proposed by <bibl><ptr target="bib:Bosch1952_02"/><citedRange unit="page">194</citedRange></bibl>.</note>
+	<note>We adopt the reading proposed by <bibl><ptr target="bib:Bosch1952_02"/><citedRange unit="page">194</citedRange></bibl>, although it might not be impossible to read <foreign>śubhraṁ</foreign>.</note>
 </app>
 <app loc="20">
 	<lem>vuddhais</lem>
@@ -334,7 +337,8 @@ n="44"/>liḥ juru si śaṅkara ramani carmi vinaiḥ takuraṁ <abbr>yu</abbr>
                </listApp>
          </div>
          <div type="translation">
- 	<!--translation encoded as per EGD §9.2 -->
+ <p rend="stanza" n="12">
+That <supplied reason="subaudible">temple</supplied> shines as wide as a slice of the Moon instantly fallen to the earth <supplied reason="subaudible">as though</supplied> for fear of Rāhu. Or rather, the white one <supplied reason="explanation"><foreign>śubhra</foreign> masc., i.e., the Moon</supplied> rises above this lovely <supplied reason="subaudible">temple</supplied> that shares features with Him, inhabited by Buddhas both ... and young.</p>
          </div>
          <div type="commentary">
             <p>De Casparis believed the text not to have reached its completion by line 51; Damais argued against this.</p>
