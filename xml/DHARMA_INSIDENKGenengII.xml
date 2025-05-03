@@ -19,7 +19,6 @@
                   <forename>Marine</forename>
                   <surname>Schoettel</surname>
                </persName>
-               
             </respStmt>
             <respStmt>
                <resp>intellectual authorship of edition</resp>
@@ -31,7 +30,6 @@
                   <forename>Marine</forename>
                   <surname>Schoettel</surname>
                </persName>
-               
             </respStmt> 
          </titleStmt>
          <publicationStmt>
@@ -85,7 +83,8 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
-         <change who="part:masc" when="2020-12-13" status="draft">initial encoding of the inscription</change>
+          <change who="part:argr" when="2025-05-03" status="draft">resumed encoding of the inscription</change>
+         <change who="part:masc" when="2020-12-13" status="draft">begun encoding of the inscription (first 6 lines)</change>
       </revisionDesc>
    </teiHeader>
    <text xml:space="preserve">
