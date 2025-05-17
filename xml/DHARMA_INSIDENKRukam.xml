@@ -8,23 +8,16 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Charter of Rukam</title>
+            <title>Charter of Rukam (829 Śaka)</title>
             <respStmt>
-               <resp>EpiDoc Encoding</resp>
+               <resp>author of digital edition</resp>
+            	<persName ref="part:argr">
+            		<forename>Arlo</forename>
+            		<surname>Griffiths</surname>
+            	</persName>
                <persName ref="part:wjsa">
                   <forename>Wayan Jarrah</forename>
                   <surname>Sastrawan</surname>
-               </persName>
-            </respStmt>
-            <respStmt>
-               <resp>intellectual authorship of edition</resp>
-               <persName ref="part:wjsa">
-                  <forename>Wayan Jarrah</forename>
-                  <surname>Sastrawan</surname>
-               </persName>
-               <persName ref="part:argr">
-                  <forename>Arlo</forename>
-                  <surname>Griffiths</surname>
                </persName>
             </respStmt>
          </titleStmt>
@@ -39,7 +32,7 @@
                                             https://creativecommons.org/licenses/by/4.0/ or send a letter to
                                             Creative Commons, 444 Castro Street, Suite 900, Mountain View,
                                             California, 94041, USA.</p>
-                  <p>Copyright (c) 2019-2025 by Wayan Jarrah Sastrawan &amp; Arlo Griffiths.</p>
+               	<p>Copyright (c) 2019-2025 by Arlo Griffiths &amp; Wayan Jarrah Sastrawan.</p>
                </licence>
             </availability>
             <date from="2019" to="2025">2019-2025</date>
@@ -82,18 +75,17 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
-      <change who="part:wjsa" when="2025-02-28">Formatting corrections throughout</change>
+         <change who="part:argr" when="2025-02-28">Encoded paragraphs and translation</change>
+         <change who="part:wjsa" when="2025-02-28">Formatting corrections throughout</change>
          <change who="part:wjsa" when="2022-10-12">Cleaning up xml</change>
          <change who="part:axja" when="2022-08-16">Transforming docx into xml</change>
       </revisionDesc>
    </teiHeader>
    <text xml:space="preserve">
            <body> 
-                   <div type="edition" xml:lang="kaw-Latn">
-                         
- <pb n="1r"/>
-<p>
-<pb n="1v"/>
+                   <div type="edition" xml:lang="kaw-Latn" rendition="class:38769 maturity:83213">
+<pb n="1r"/>
+<p><pb n="1v"/>
 <!-- 
 1r1 I might not classify the opening // as punctuation sign but rather edit <g type="ddanda"/>
 1r1 I think the layar is present in kārttika 
@@ -105,8 +97,7 @@
 1r3 sārabhāra? sărabhāra?
 1r4 maṁrumbe >> maṁrumve
 -->
-
-<lb n="1v1"/><g type="ddanda">.</g>svasti śaka-varṣātīta <num value="829">829</num> kā<supplied reason="omitted">r</supplied>ttika-māsa tithi <num value="10">daśami</num> śukla-pakṣa, <abbr>ma</abbr>, <abbr>pa</abbr>, <abbr>s<unclear>o</unclear></abbr>, vāra, śatabhiṣa-nakṣatra baruṇa-devata vr̥ddhi-yoga, tatkāla Ajña śrī mahārāja <abbr>rake</abbr> vatu kura dyaḥ balituṁ śrī dharmmodaya mahā-śambhu miṁ<lb break="no" 
+<lb n="1v1"/><g type="ddanda">.</g>svasti śaka-varṣātīta <num value="829">829</num> kā<supplied reason="omitted">r</supplied>ttika-māsa tithi <num value="10">daśami</num> śukla-pakṣa, <abbr>ma</abbr>, <abbr>pa</abbr>, <abbr>s<unclear>o</unclear></abbr>, vāra, śatabhiṣa-nakṣatra baruṇa-devata vr̥ddhi-yoga,</p> <p>tatkāla Ajña śrī mahārāja <abbr>rake</abbr> vatu kura dyaḥ balituṁ śrī dharmmodaya-mahāśambhu miṁ<lb break="no" 
 n="1v2"/>sor I mahā-mantrī śrī dakṣottama-bāhubajra-pratipakṣakṣaya kumonnakan· Ikanaṁ vanuA I rukam· vanuA I jro saṁkā yan· hilaṁ deniṁ <unclear reason="eccentric_ductus">g</unclear>untur· sīmān· rakryān· sañjīvana nini haji maṅasīA I dharmmanira I limvuṁ muAṁ pagava<lb break="no" 
 n="1v3"/> yana kamulān· <space type="descender"/> paṅguḥhanya pirak· <abbr>dhā</abbr> <num value="5">5</num> piliḥ mas· <abbr>mā</abbr> <num value="5">5</num> marā Iṁ parhyaṅan· I limvuṁ buñcaṁ-hajyanya Umī<space type="descender"/>viA Ikanaṁ kamalun· sama<space type="descender"/>hala ya sarabhāra Iriya riṁ samahala kabaiḥ parṇnaḥhanya tan· katamāna deni
 <lb n="1v4"/>saprakārani maṅilala dr̥bya haji kriṁ paḍam· maṁrumbe paranakan· tapa haji Air haji maṅhuri tuha dagaṁ manimpiki limus galuḥ ra taji paṅaruhan· kataṅgaran· pi<space type="descender"/>nilai mapaḍahi maṅiduṁ hulun· haji Ityevamādi sapra<lb break="no" 
@@ -155,20 +146,19 @@ n="2r19"/>laḥ-Ulaḥ Ikeṁ sīma Upadravā Iṁ devata tātan· tmu Aṁsāma
 n="2r20"/>na manamvaḥ Ikanaṁ patiḥ vahuta muAṁ rāma tpi siriṁ muAṁ rāma sinusuk· laki-laki vadvan· kabaiḥ I saṁ hyaṁ vatu sīma muAṁ kulumpa<unclear>ṁ</unclear> Umuvaḥ sira kabaiḥ I ronnira sampun· muvaḥ sira
 <lb n="2r21"/>maṅigal· mabata-bata kapuA mahyun· nāhan· cihnanyan· sampun mapagəḥ suddha parisuddha Ikanaṁ vanuA I rukam· sinusuk de rakryān· sañjīvana nini haji maṅasəA I dharmma nira I
 <lb n="2r22"/>limvuṁ muAṁ mamahayuA Ikanaṁ kamulān· I rukam· kinon· rakryān· humarappa Ikanaṁ susukan· juruniṁ kanayakān· I sañjīvana ḍapuntamvrī Anak banuA I kənər· vatak· kənər·
-<lb n="2r23"/>samgat· matəṅər· daṅ ācaryya Uttamāṅga Anak banuA I mataram· Iṁ parhyaṅan· haji <g type="ddandaOrnate">.</g></p>
+<lb n="2r23"/>samgat· matəṅər· daṅ ācaryya Uttamāṅga Anak banuA I mataram· Iṁ parhyaṅan· haji <g type="ddandaOrnate">.</g>
 <pb n="2v"/>
+</p>
 </div>
-                     
                        <div type="apparatus">
-                            
+                            <listApp>
                                 <app loc="1v2"><lem>jro</lem><rdg source="bib:TitiSurtiNastiti+al1982_01">dro</rdg>
                                    <note>The problem is that the middle horizontal stroke of the <foreign>ja</foreign> is hard to see, but the akṣara’s shape is big and rounded like the others, without the sharp corner of the <foreign>da</foreign>.</note></app>
                           <app loc="1v2"><lem>tuntur·</lem><rdg source="bib:TitiSurtiNastiti+al1982_01">guntur·</rdg><note>It seems impossible to read <foreign>gu</foreign> here, for the <foreign>u</foreign>-vocalisation is attached to the right vertical, as is characteristic of <foreign>tu</foreign>, However, even if the scribe made an error, we must understand <foreign>guntur·</foreign>.</note></app>
                           <app loc="1v3"><lem>paṅguḥhanya</lem><rdg source="bib:TitiSurtiNastiti+al1982_01">paṅguḥhannya</rdg></app>
 <app loc="1v3"><lem>kamalun·</lem><rdg source="bib:TitiSurtiNastiti+al1982_01">kamulān·</rdg></app>
                           <app loc="2r17"><lem>kusi<supplied reason="omitted">ka</supplied> gargga</lem><rdg source="bib:TitiSurtiNastiti+al1982_01">kusiga gargga</rdg></app>
-             
-                            <app loc="2r18"><lem>Aṅkānan</lem><note>It might be possible to read <foreign>Aṅgānan</foreign>.</note></app>
+                            <app loc="2r18"><lem>Aṅkānan</lem><note>It might be possible to read <foreign>Aṅgānan</foreign>.</note></app></listApp>
                        </div>
                
                <div type="commentary">
