@@ -77,6 +77,7 @@
             </listPrefixDef>
         </encodingDesc>
     <revisionDesc>
+    	<change who="part:argr" when="2025-06-02">modified the translation, added commentary, completed bibliography</change>
             <change who="part:argr" when="2024-09-03">encoded the inscription</change>
         </revisionDesc>
     </teiHeader>
@@ -101,10 +102,10 @@
                </listApp>
          </div>
          <div type="translation" resp="part:argr">
-            <p>Hail! Elapsed Śaka year 779, month of Bhadravāda, eleventh <supplied reason="subaudible"><foreign>tithi</foreign></supplied> of the waxing fortnight, Panirvan (of the 6-day cycle), Vagai (of the 5-day cycle), Friday (i.e., on 17 August 826 CE): that was when the wife of the Lord of Bavaṅ <supplied reason="explanation"><foreign>ra bavaṅ anakvi</foreign></supplied> demarcated the <foreign>sīma</foreign> — 4 <foreign>tampah</foreign> of paddy field — gift of the Lord of Vəka <supplied reason="explanation">named</supplied> <foreign>pu</foreign> Manota to become the paddy fields of the Abhayānanda <foreign>vihāra</foreign>.</p>
+            <p>Hail! Elapsed Śaka year 779, month of Bhadravāda, eleventh <supplied reason="subaudible"><foreign>tithi</foreign></supplied> of the waxing fortnight, Panirvan (of the 6-day cycle), Vagai (of the 5-day cycle), Friday (i.e., on 3 September 857 CE): that was when the wife of the Lord of Bavaṅ <supplied reason="explanation"><foreign>ra bavaṅ anakvi</foreign></supplied> demarcated the <foreign>sīma</foreign> — 4 <foreign>tampah</foreign> of paddy field — gift of the Lord of Vəka <supplied reason="explanation">named</supplied> <foreign>pu</foreign> Manota to become the paddy fields of the Abhayānanda <foreign>vihāra</foreign>.</p>
          </div>
          <div type="commentary">
-            <!--commentary encoded as per section §9.3 -->
+            <p>This inscription has since <bibl><ptr target="bib:Damais1970_01"/></bibl> been ascribed to the year 748 Śaka, based on the character <foreign>-da</foreign> that remains legible of the month name (which cannot be other than Bhadravāda) along with <foreign>tithi</foreign> 11, waxing fortnight, as well as the names of the days in the 6, 5 and 7-day cycles. However, the same elements return in 779, and this year fits the historical context better, with the appearance of <foreign>rakai</foreign> Vka <foreign>pu</foreign> Manota, a figure plausibly identifiable with the  <foreign>rakai</foreign> Vka <foreign>pu</foreign> Manūt in the inscriptions <ref target="DHARMA_INSIDENKWanuaTengahI.xml">Wanua Tengah I</ref> and <ref target="DHARMA_INSIDENKWanuaTengahI.xml">Wanua Tengah II</ref> (which both contain the same text, dated 785 Śaka).</p>
          </div>
         <div type="bibliography">
            <p>Edited in <bibl><ptr target="bib:SukartoAtmodjo1969_01"/></bibl>. Re-edited here by Arlo Griffiths from photogrammetry.</p>
@@ -116,12 +117,7 @@
             <bibl><ptr target="bib:Nakada1982_01"/><citedRange unit="page">76-77</citedRange><citedRange unit="item">I-14</citedRange></bibl>
               <bibl><ptr target="bib:TitiSurtiNastiti2018_01"/><citedRange unit="page">191-192</citedRange></bibl>
               <bibl><ptr target="bib:Griffiths2021-2022_01"/><citedRange unit="page">155-156</citedRange></bibl>
-              <bibl><ptr target="bib:TitiSurtiNastiti+al2024_01"/><citedRange unit="page">???</citedRange><citedRange unit="section">2.3.15</citedRange></bibl>
-			
-              <!-- add
-            Laporan 2023
-            discussion of date
-              -->
+              <bibl><ptr target="bib:TitiSurtiNastiti+al2024_01"/><citedRange unit="page">84</citedRange><citedRange unit="section">2.3.15</citedRange></bibl>
            </listBibl>
         </div>
       </body>
