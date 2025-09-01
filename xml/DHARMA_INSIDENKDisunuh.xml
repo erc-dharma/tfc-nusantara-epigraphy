@@ -105,9 +105,20 @@
 	<note>Below the consonant <foreign>v</foreign> one at first sight seems to find an unexpected <foreign>suku</foreign>, but on closer inspection it turns out to be an accidental scratch.</note>
 	</app>
 	<app loc="7">
+	<lem source="bib:TitiSurtiNastiti+al2024_01">ḍisunuḥ</lem>
+	<rdg source="bib:GoenawanASambodo2018_02">ḍisuruḥ</rdg>
+	<note>Throughout the text, Goenawan Sambodo reads the toponym <foreign>ḍisunuḥ</foreign> as <foreign>ḍisuruḥ</foreign>.</note>
+	</app>
+	<app loc="7">
 	<lem source="bib:TitiSurtiNastiti+al2024_01">humaṇḍiṁ</lem>
-	<rdg source="bib:GoenawanASambodo2018_02">hamaḍriṁ</rdg>
+	<rdg source="bib:GoenawanASambodo2018_02">hamaḍraṁ</rdg>
 	<note>Below the cluster <foreign>ṇḍ</foreign> one at first sight seems to find an unexpected <foreign>cakra</foreign>, but on closer inspection it turns out to be an accidental scratch.</note>
+	</app>
+	<app loc="7">
+	<lem>ḍa nuI, ḍisunuḥ</lem>
+	<rdg source="bib:TitiSurtiNastiti+al2024_01">ḍanu<choice><sic> I,</sic><corr>, I</corr></choice> ḍisunuḥ</rdg>
+	<rdg source="bib:GoenawanASambodo2018_02">ḍa nuI, ḍisuruḥ</rdg>
+<note>In SP, our emendation of <foreign>ḍa nuI,</foreign> to <foreign>ḍanu⟨, I⟩</foreign> was based on the belief that <foreign>I</foreign> had to be a preposition and that the punctuation sign had to come before it. We now understand that we have the element <foreign>ḍa nuI</foreign> as equivalent for what is spelt <foreign>ra nuI</foreign> in other inscriptions (<bibl><ptr target="bib:Damais1970_01"/><citedRange unit="page">169</citedRange></bibl>), and hence withdraw the emendation.</note>
 	</app>
 	<app loc="7">
 	<lem>mahāla<gap reason="illegible" unit="character" quantity="1"/></lem>
@@ -123,7 +134,7 @@
                </listApp>
          </div>
          <div type="translation" resp="part:argr">
-<p>Hail! Elapsed Śaka year 709, month of Caitra, sixth <supplied reason="explanation"><foreign>tithi</foreign></supplied> of the waning fortnight, Friday, Vurukuṅ, Pon. That was when the lord <supplied reason="explanation"><foreign>ḍaṅ karayān</foreign></supplied> <gap reason="lost"/>śrī, the army commander <supplied reason="explanation"><foreign>senāpati</foreign></supplied>, restored <foreign>sīma</foreign> <supplied reason="explanation">status</supplied> to the village of Ḍisunuh for the lord of Humaṇḍiṅ, <supplied reason="explanation">namely</supplied> ḍa punta Tīs. Those who <gap reason="illegible"/> were called:
+<p>Hail! Elapsed Śaka year 709, month of Caitra, sixth <supplied reason="explanation"><foreign>tithi</foreign></supplied> of the waning fortnight, Friday, Vurukuṅ, Pon. That was when the lord <supplied reason="explanation"><foreign>ḍaṅ karayān</foreign></supplied> <gap reason="lost" quantity="2" unit="character"/>śrī, the army commander <supplied reason="explanation"><foreign>senāpati</foreign></supplied>, restored <foreign>sīma</foreign> <supplied reason="explanation">status</supplied> to the village of Ḍisunuh for the lord of Humaṇḍiṅ, <supplied reason="explanation">namely</supplied> <foreign>ḍa punta</foreign> Tīs. Those who <foreign>mahāla</foreign><gap reason="illegible" quantity="1" unit="character"/> were called:
 <list>
 <item><supplied reason="subaudible">at</supplied> Ḍisunuh, the lord of Vəka <supplied reason="explanation">called</supplied> <foreign>saṅ ḍa</foreign> Nui</item>
 <item><supplied reason="subaudible">at</supplied> Ḍisunuh, <foreign>ḍa punta</foreign> Maṅuhuri <supplied reason="subaudible">and</supplied> <foreign>ḍa punta</foreign> Tīra</item>
