@@ -247,14 +247,10 @@ n="39"/>kyan juru si rindaṁ ramani gunuṁ vinaiḥ takuraṁ <abbr>yu</abbr> 
 n="44"/>liḥ juru si śaṅkara ramani carmi vinaiḥ takuraṁ <abbr>yu</abbr> <num value="1">1</num> parvuvus· si gunuṁ ramani rasal vinaiḥ takuraṁ <abbr>yu</abbr> <num value="1">1</num> parvuvus·
 <lb n="45"/>si katil· ramani buvi vinaih takuraṁ <abbr>yu</abbr> <num value="1">1</num> variga si sumbut ramani siddha vinaiḥ takuraṁ <abbr>yu</abbr> <num value="1">1</num> juru matuha sy avit rama<lb break="no" n="46"/>ni ayat vinaiḥ takuraṁ <abbr>yu</abbr> <num value="1">1</num> kalima si sampū ramani bamuṁ vinaiḥ takuraṁ <abbr>yu</abbr> <num value="1">1</num> si pañca ramani hr̥ṁ vinaiḥ takuraṁ <abbr>yu</abbr> <num value="1">1</num> 
 <lb n="47"/>putiḥ hlai <num value="1">1</num> kalamvi <num value="1">1</num> lukai <num value="1">1</num> punukan· <num value="1">1</num> vaduṁ <num value="1">1</num> patuk kr̥s· <num value="1">1</num> parvuvus· saṁ kayumvuṅan· si haras ramani
-<lb n="48"/>vikrami Anak banva I tyusan· vinaiḥ takuraṁ <abbr>yu</abbr> <num value="1">1</num> parvuvus· saṁ mantyāsih saṁ kīrti puntani nabha Anak banva ri
-<lb n="49"/>tri haji vinaiḥ takuraṁ <abbr>yu</abbr> <num value="1">1</num> parvuvus· saṁ lva paṇḍak si kbal ramani jamin· Anak banva ri tri haji vinaiḥ takuraṁ 
-<!--	si kbal: <num value="1">1</num> kbal C. See Damais 1968: 328.-->
-<lb n="50"/><abbr>yu</abbr> <num value="1">1</num> tuhalas· ri hulu luvaṁ si silpa ramani yada vinaiḥ takuraṁ <abbr>yu</abbr> <num value="1">1</num> tuhalas· ri kaṇḍaṅan· lamvas· si
-<!--	luvaṁ si silpa: luvas si silpa. See Damais 1968: 328.-->
+<lb n="48"/>vikramī Anak banva I tyusan· vinaiḥ takuraṁ <abbr>yu</abbr> <num value="1">1</num> parvuvus· saṁ mantyāsih saṁ kīrti puntani nabha<!-- naga ? Uga ? --> Anak banva ri
+<lb n="49"/>tri haji vinaiḥ takuraṁ <abbr>yu</abbr> <num value="1">1</num> parvuvus· saṁ lva paṇḍak· si kbal· ramani jamin· Anak banva ri tri haji vinaiḥ takuraṁ 
+<lb n="50"/><abbr>yu</abbr> <num value="1">1</num> tuhalas· ri hulu luvaṁ si silpa ramani yaḍa vinaiḥ takuraṁ <abbr>yu</abbr> <num value="1">1</num> tuhalas· ri kaṇḍaṅan· lamvas· si
 <lb n="51"/>saruḥ ramani kutiṁ vinaiḥ takuraṁ <abbr>yu</abbr> <num value="1">1</num> kinaun· rakai patapān·
-<!--	kinaun·: kinon· C. Damais (1968: 321, 328) believed this needs to be read kinaun·.
-	According to the same scholar (1968: 332) the text comes at its end here.-->
 </p>
          </div>
          <div type="apparatus">
@@ -338,6 +334,24 @@ n="44"/>liḥ juru si śaṅkara ramani carmi vinaiḥ takuraṁ <abbr>yu</abbr>
 <!-- 	23 (15b) prāntā: prānto? prāptā? -->
 <app loc="24"><lem>-cakre</lem><rdg source="bib:Casparis1950_01">-vr̥traḥ</rdg>
 </app>
+<app loc="48">
+<lem>vikramī</lem>
+<rdg source="bib:Casparis1950_01">vikrami</rdg>
+</app>
+<app loc="49">
+<lem>si kbal·</lem>
+<rdg source="bib:Casparis1950_01"><num value="1">1</num> kbal·</rdg>
+<note>Cf. Damais 1968: 328.</note>
+</app>
+<app loc="50">
+<lem>luvaṁ si silpa</lem>
+<rdg source="bib:Casparis1950_01">luvas si silpa</rdg>
+<note>Cf. Damais 1968: 328.</note>
+</app>
+<app loc="50">
+<lem>yaḍa</lem>
+<rdg source="bib:Casparis1950_01">yada</rdg>
+</app>
 <app loc="51">
 <lem>kinaun·</lem>
 <rdg source="bib:Casparis1950_01">kinon·</rdg>
@@ -350,9 +364,9 @@ n="44"/>liḥ juru si śaṅkara ramani carmi vinaiḥ takuraṁ <abbr>yu</abbr>
 That <supplied reason="subaudible">temple</supplied> shines as wide as a slice of the Moon instantly fallen to the earth <supplied reason="subaudible">as though</supplied> for fear of Rāhu. Or rather, the white one <supplied reason="explanation"><foreign>śubhra</foreign> masc., i.e., the Moon</supplied> rises above this lovely <supplied reason="subaudible">temple</supplied> that shares features with Him, inhabited by Buddhas both ... and young.</p>
 <p rend="stanza" n="14">Once it is concentrated upon by me, may I just quickly reach that stage, extremely difficult to attain for his sons <supplied reason="explanation">i.e, bodhisattvas</supplied>, that is ultimate, beyond the senses.</p>
          </div>
-         <div type="commentary">e
-            <p>De Casparis believed the text not to have reached its completion by line 51; Damais argued against this.</p>
-<p>Metri causa spellings: <foreign>nīrukta</foreign>- for <foreign>nirukta</foreign>-. Places where a metric causa spelling would have been required: <foreign>prāmoda-</foreign> for <foreign>pramoda-</foreign>.</p>
+         <div type="commentary">
+            <p>De Casparis believed the text not to have reached its completion by line 51; Damais  (1968: 332) the text comes at its end here.-argued against this.</p>
+	<p>Metri causa spellings: <foreign>nīrukta</foreign>- for <foreign>nirukta</foreign>-. Places where a metric causa spelling would have been required: <foreign>prāmoda-</foreign> for <foreign>pramoda-</foreign>.</p>
 <!-- I think with nīrukta in st. IV, we may see a related phenomenon: the author adjusting vowel length to what is metrically required. So I think in st. X he either did write prā but the -ā is invisible on av ailable documents, or he intended to do so but forgot about it, in order to comply with requirements of the meter. But the lady’s name was Pramodav° and not Prāmodav°.
  -->
          </div>
