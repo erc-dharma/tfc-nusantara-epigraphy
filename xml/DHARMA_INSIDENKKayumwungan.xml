@@ -245,8 +245,10 @@ n="39"/>kyan juru si rindaṁ ramani gunuṁ vinaiḥ takuraṁ <abbr>yu</abbr> 
 <lb n="42"/>naiḥ takuraṁ <abbr>yu</abbr> <num value="1">1</num> putiḥ hlai <num value="1">1</num> kalamvi <num value="1">1</num> punukan· <num value="1">1</num> suhan·-suhan· <num value="1">1</num> juru si danaka ramani dara vinaiḥ
 <lb n="43"/>takuraṁ <abbr>yu</abbr> <num value="1">1</num> parvuvus· si hr̥m· ramany avak vinaiḥ takuraṁ <abbr>yu</abbr> <num value="1">1</num> I tri haji rama si pañca ramani tīrtha vinaiḥ takuraṁ <abbr>yu</abbr> <num value="1">1</num> si<lb break="no" 
 n="44"/>liḥ juru si śaṅkara ramani carmi vinaiḥ takuraṁ <abbr>yu</abbr> <num value="1">1</num> parvuvus· si gunuṁ ramani rasal vinaiḥ takuraṁ <abbr>yu</abbr> <num value="1">1</num> parvuvus·
-<lb n="45"/>si katil· ramani buvi vinaih takuraṁ <abbr>yu</abbr> <num value="1">1</num> variga si sumbut ramani siddha vinaiḥ takuraṁ <abbr>yu</abbr> <num value="1">1</num> juru matuha sy avit rama<lb break="no" n="46"/>ni ayat vinaiḥ takuraṁ <abbr>yu</abbr> <num value="1">1</num> kalima si sampū ramani bamuṁ vinaiḥ takuraṁ <abbr>yu</abbr> <num value="1">1</num> si pañca ramani hr̥ṁ vinaiḥ takuraṁ <abbr>yu</abbr> <num value="1">1</num> 
-<lb n="47"/>putiḥ hlai <num value="1">1</num> kalamvi <num value="1">1</num> lukai <num value="1">1</num> punukan· <num value="1">1</num> vaduṁ <num value="1">1</num> patuk kr̥s· <num value="1">1</num> parvuvus· saṁ kayumvuṅan· si haras ramani
+<!-- AG resumes from here up -->
+<lb n="45"/>si kutil· ramani buvi vinaiḥ takuraṁ <abbr>yu</abbr> <num value="1">1</num> variga si sumbut· ramani siddha vinaiḥ takuraṁ <abbr>yu</abbr> <num value="1">1</num> juru matuha sy avit· rama<lb break="no" 
+n="46"/>ni Ayat· vinaiḥ takuraṁ <abbr>yu</abbr> <num value="1">1</num> kalima si sampū<!-- AG: I don't see the ṁ at all the ū is invisible to me, p could perhaps be v --> ramani bamuṁ<!-- AG: I don't see the ṁ at all --> vinaiḥ takuraṁ <abbr>yu</abbr> <num value="1">1</num> si pañca ramani hrəṁ vinaiḥ takuraṁ <abbr>yu</abbr> <num value="1">1</num> 
+<lb n="47"/>putiḥ hlai <num value="1">1</num> kalamvi <num value="1">1</num> lukai <num value="1">1</num> punukan· <num value="1"><unclear>1</unclear></num><!-- AG: I don't see the 1 at all... --> vaduṁ <num value="1">1</num> patuk· kr̥s· <num value="1">1</num> parvuvus· saṁ kayumvuṅan· si haras· ramani
 <lb n="48"/>vikramī Anak banva I tyusan· vinaiḥ takuraṁ <abbr>yu</abbr> <num value="1">1</num> parvuvus· saṁ mantyāsih saṁ kīrti puntani nabha<!-- naga ? Uga ? --> Anak banva ri
 <lb n="49"/>tri haji vinaiḥ takuraṁ <abbr>yu</abbr> <num value="1">1</num> parvuvus· saṁ lva paṇḍak· si kbal· ramani jamin· Anak banva ri tri haji vinaiḥ takuraṁ 
 <lb n="50"/><abbr>yu</abbr> <num value="1">1</num> tuhalas· ri hulu luvaṁ si silpa ramani yaḍa vinaiḥ takuraṁ <abbr>yu</abbr> <num value="1">1</num> tuhalas· ri kaṇḍaṅan· lamvas· si
@@ -333,6 +335,14 @@ n="44"/>liḥ juru si śaṅkara ramani carmi vinaiḥ takuraṁ <abbr>yu</abbr>
 </app>
 <!-- 	23 (15b) prāntā: prānto? prāptā? -->
 <app loc="24"><lem>-cakre</lem><rdg source="bib:Casparis1950_01">-vr̥traḥ</rdg>
+</app>
+<app loc="45">
+<lem>kutil·</lem>
+<rdg source="bib:Casparis1950_01">katil·</rdg>
+</app>
+<app loc="46">
+<lem>hrəṁ</lem>
+<note><bibl><ptr target="bib:Damais1970_01"/><citedRange unit="page">91</citedRange><citedRange unit="note">2</citedRange></bibl> noted: <q>Translitération précise <foreign>hr̥̄</foreign> à prononcer <foreign>hərəŋ</foreign></q>. The statement about the precise transliteration is unreliable.</note>
 </app>
 <app loc="48">
 <lem>vikramī</lem>
