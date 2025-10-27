@@ -242,7 +242,8 @@ n="39"/>kyan juru si rindaṁ ramani gunuṁ vinaiḥ takuraṁ <abbr>yu</abbr> 
 <lb n="40"/><abbr>yu</abbr> <num value="1">1</num> rama si piṅul ramani Ambari vinaiḥ takuraṁ <abbr>yu</abbr> <num value="1">1</num> kalima si kunvurama ramani taji vinaiḥ takuraṁ <abbr>yu</abbr>
 <lb n="41"/><num value="1">1</num> putiḥ hlai <num value="1">1</num> kalambi <num value="1">1</num> punukan· <num value="1">1</num> suhan·-suhan· <num value="1">1</num> I lva paṇḍak kalima si kalap ramani nanta vi<!--	lva paṇḍak: lupaṇḍak C. See Damais 1968: 328.-->
 <lb n="42" break="no"/>naiḥ takuraṁ <abbr>yu</abbr> <num value="1">1</num> putiḥ hlai <num value="1">1</num> kalamvi <num value="1">1</num> punukan· <num value="1">1</num> suhan·-suhan· <num value="1">1</num> juru si danaka ramani dara vinaiḥ
-<lb n="43"/>takuraṁ <abbr>yu</abbr> <num value="1">1</num> parvuvus· si h<unclear>ū</unclear>m· ramany avak vinaiḥ takuraṁ <abbr>yu</abbr> <num value="1">1</num> I tri haji rama si pañca ramani tīrtha vinaiḥ takuraṁ <abbr>yu</abbr> <num value="1">1</num> si<lb break="no" 
+<!-- AG resumes from here up -->
+<lb n="43"/>takuraṁ <abbr>yu</abbr> <num value="1">1</num> parvuvus· si h<unclear>ū</unclear>m· ramany avak·<!-- avat· ? avut· ? --> vinaiḥ takuraṁ <abbr>yu</abbr> <num value="1">1</num> I tri haji rāma si pañca ramani tīrtha vinaiḥ takuraṁ <abbr>yu</abbr> <num value="1">1</num> si<lb break="no" 
 n="44"/>liḥ juru si śaṅkhara ramani carmi vinaiḥ takuraṁ <abbr>yu</abbr> <num value="1">1</num> parvuvus· si gunuṁ ramani nasat· vinaiḥ takuraṁ <abbr>yu</abbr> <num value="1">1</num> parvuvus·<!-- AG: looks like parbuvus· -->
 <lb n="45"/>si kutil· ramani buvi vinaiḥ takuraṁ <abbr>yu</abbr> <num value="1">1</num> variga si sumbut· ramani siddha vinaiḥ takuraṁ <abbr>yu</abbr> <num value="1">1</num> juru matuha sy avit· rama<lb break="no" 
 n="46"/>ni Ayat· vinaiḥ takuraṁ <abbr>yu</abbr> <num value="1">1</num> kalima si sampū<!-- AG: I don't see the ṁ at all the ū is invisible to me, p could perhaps be v --> ramani bamuṁ<!-- AG: I don't see the ṁ at all --> vinaiḥ takuraṁ <abbr>yu</abbr> <num value="1">1</num> si pañca ramani hrəṁ vinaiḥ takuraṁ <abbr>yu</abbr> <num value="1">1</num> 
@@ -337,6 +338,10 @@ n="46"/>ni Ayat· vinaiḥ takuraṁ <abbr>yu</abbr> <num value="1">1</num> kali
 <app loc="43">
 <lem>h<unclear>ū</unclear>m·</lem>
 <rdg source="bib:Casparis1950_01">hr̥m·</rdg>
+</app>
+<app loc="43">
+<lem>rāma</lem>
+<rdg source="bib:Casparis1950_01">rama</rdg>
 </app>
 <app loc="44">
 <lem>śaṅkhara</lem>
