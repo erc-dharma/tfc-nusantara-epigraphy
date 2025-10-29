@@ -240,9 +240,9 @@ n="36" break="no"/> ............ mañjan· ramani pagar· vinaiḥ takuraṁ <ab
 n="38" break="no"/>ni nari vinaiḥ takuraṁ <abbr>yu</abbr> <num value="1">1</num> I vuAtan· kalima si maṅga ramani napal· vinaiḥ takuraṁ <abbr>yu</abbr> <num value="1">1</num> I paṇḍa<lb break="no" 
 n="39"/>kyan juru si rindaṁ ramani gunuṁ vinaiḥ takuraṁ <abbr>yu</abbr> <num value="1">1</num> I ptir juru si vikrama ramani dhara vinaiḥ takuraṁ
 <lb n="40"/><abbr>yu</abbr> <num value="1">1</num> rama si piṅul ramani Ambari vinaiḥ takuraṁ <abbr>yu</abbr> <num value="1">1</num> kalima si kunvurama ramani taji vinaiḥ takuraṁ <abbr>yu</abbr>
-<lb n="41"/><num value="1">1</num> putiḥ hlai <num value="1">1</num> kalambi <num value="1">1</num> punukan· <num value="1">1</num> suhan·-suhan· <num value="1">1</num> I lva paṇḍak kalima si kalap ramani nanta vi<!--	lva paṇḍak: lupaṇḍak C. See Damais 1968: 328.-->
-<lb n="42" break="no"/>naiḥ takuraṁ <abbr>yu</abbr> <num value="1">1</num> putiḥ hlai <num value="1">1</num> kalamvi <num value="1">1</num> punukan· <num value="1">1</num> suhan·-suhan· <num value="1">1</num> juru si danaka ramani dara vinaiḥ
 <!-- AG resumes from here up -->
+<lb n="41"/><num value="1">1</num> putiḥ hlai <num value="1">1</num> kalambi <num value="1">1</num> punukan· <num value="1">1</num> suhan-suhan· <num value="1">1</num> I lva paṇḍak· kalima si kalap· ramani nanta vi<lb 
+n="42" break="no"/>naiḥ takuraṁ <abbr>yu</abbr> <num value="1">1</num> putiḥ hlai <num value="1">1</num> kalamvi <num value="1">1</num> punukan· <num value="1">1</num> suhan·-suhan· <num value="1">1</num> juru si danaka<!-- or Udaka? --> ramani darā vinaiḥ
 <lb n="43"/>takuraṁ <abbr>yu</abbr> <num value="1">1</num> parvuvus· si h<unclear>ū</unclear>m· ramany avak·<!-- avat· ? avut· ? --> vinaiḥ takuraṁ <abbr>yu</abbr> <num value="1">1</num> I tri haji rāma si pañca ramani tīrtha vinaiḥ takuraṁ <abbr>yu</abbr> <num value="1">1</num> si<lb break="no" 
 n="44"/>liḥ juru si śaṅkhara ramani carmi vinaiḥ takuraṁ <abbr>yu</abbr> <num value="1">1</num> parvuvus· si gunuṁ ramani nasat· vinaiḥ takuraṁ <abbr>yu</abbr> <num value="1">1</num> parvuvus·<!-- AG: looks like parbuvus· -->
 <lb n="45"/>si kutil· ramani buvi vinaiḥ takuraṁ <abbr>yu</abbr> <num value="1">1</num> variga si sumbut· ramani siddha vinaiḥ takuraṁ <abbr>yu</abbr> <num value="1">1</num> juru matuha sy avit· rama<lb break="no" 
@@ -334,6 +334,15 @@ n="46"/>ni Ayat· vinaiḥ takuraṁ <abbr>yu</abbr> <num value="1">1</num> kali
 </app>
 <!-- 	23 (15b) prāntā: prānto? prāptā? -->
 <app loc="24"><lem>-cakre</lem><rdg source="bib:Casparis1950_01">-vr̥traḥ</rdg>
+</app>
+<app loc="41">
+<lem>lva paṇḍak·</lem>
+<rdg source="bib:Casparis1950_01">lupaṇḍak·</rdg>
+<note>Cf. Damais 1968: 328.</note>
+</app>
+<app loc="42">
+<lem>darā</lem>
+<rdg source="bib:Casparis1950_01">dara</rdg>
 </app>
 <app loc="43">
 <lem>h<unclear>ū</unclear>m·</lem>

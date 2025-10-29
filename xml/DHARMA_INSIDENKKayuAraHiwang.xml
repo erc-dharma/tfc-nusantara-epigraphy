@@ -124,7 +124,7 @@
 </div>
 
 <div type="apparatus">
-
+<listApp>
 <app loc="1">
 <lem>Aṅgāra</lem>
 <rdg source="bib:Brandes1913_01">A<gap reason="undefined"/></rdg>
@@ -162,11 +162,13 @@
 <app loc="17"><lem>galu<unclear>ḥ</unclear></lem><rdg source="bib:Brandes1913_01">galu</rdg></app>
 <app loc="17"><lem>kalaṁkyaṁ</lem><rdg source="bib:Brandes1913_01"><gap reason="undefined"/>laṁkyaṁ</rdg></app>
 <app loc="17"><lem>pagar vsi</lem><rdg source="bib:Brandes1913_01">paga vsi</rdg></app>
-<app loc="18"><lem>ddhāraśa rakai</lem><rdg source="bib:Brandes1913_01">dvarāgara kai</rdg></app>                         
-                       </div>
+<app loc="18"><lem>ddhāraśa rakai</lem><rdg source="bib:Brandes1913_01">dvarāgara kai</rdg></app>
+</listApp>               
+                </div>
+	<div type="translation"/>
               <div type="commentary">
                  <p>Each line of text runs continuously across all four faces before breaking, from A to b to C to d.
-</p><p>The word siṁsiṁ* is frequently spelled with the special <foreign>anusvāra</foreign> at the end, called <foreign>ulu ricem</foreign> in modern Balinese. This seems to be the earliest dated occurrence of the sign; the next one Rumwiga I and it is also found in Sugih Manek from Malang.</p>
+</p><p>The word <foreign>siṁsiṁ*</foreign> is frequently spelled with the special <foreign>anusvāra</foreign> at the end, called <foreign>ulu ricem</foreign> in modern Balinese. An earlier occurrence of the sign is encountered in Kayumwungan; it also occurs in Rumwiga I and it is also found in Sugih Manek from Malang.</p>
               </div>
               <div type="bibliography">
                  <p>Read by Wayan Jarrah Sastrawan and Arlo Griffiths in December 2021 from photos taken by Emmanuel Francis in 2010. Re-read by Wayan Jarrah Sastrawan in March 2023 directly from the stone, assisted by photographs taken by Hedwi Prihatmoko.</p>

@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?> <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?> <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?> <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Puhawang Glis (749 Śaka)</title>
+            <respStmt>
+               <resp>author of digital edition</resp>
+               <persName ref="part:argr">
+                  <forename>Arlo</forename>
+                  <surname>Griffiths</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>DHARMA</authority>
+            <pubPlace>Paris, Jakarta</pubPlace>
+            <idno type="filename">DHARMA_INSIDENKPuhawangGlis</idno>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/">
+                  <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
+                                            Licence. To view a copy of the licence, visit
+                                            https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                                            Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                                            California, 94041, USA.</p>
+                  <p>Copyright (c) 2019-2025 by Arlo Griffiths</p>
+               </licence>
+            </availability>
+            <date from="2019" to="2025">2019-2025</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>DHARMAbase</repository>
+                  <idno/>
+               </msIdentifier>
+               <msContents>
+                  <summary/>
+               </msContents>
+               <physDesc>
+                  <handDesc>
+                     <p/>
+                  </handDesc>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
+         </projectDesc>
+         <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+         <listPrefixDef>
+            <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+               <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
+            </prefixDef>
+            <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
+               <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_idListMembers_v01.xml</ref> file.</p>
+            </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <revisionDesc>
+         <change who="part:argr" when="2025-10-29">encoded the edition</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:space="preserve">
+           <body> 
+                   <div type="edition" xml:lang="omy-Latn">
+<p><lb n="1"/>svasti śaka-varṣātīta
+<lb n="2"/><num value="749">749</num> jyeṣṭa-māsa ti<lb 
+n="3" break="no"/>thi Aṣṭami śukla-pakṣa
+<lb n="4"/>Aṅgāra-vāra <unclear cert="low">tuṅle</unclear> pa<lb 
+n="5" break="no"/>hiṁ tatkālaṇḍa ḍaṁ puha<lb 
+n="6" break="no"/>vaṁ glis· Anakvi si --rā -u
+<lb n="7"/>tā vīṅkarā paḍaṁ ya -- -- hu
+<lb n="8"/>minamākan· paṅlivatta --
+<lb n="9"/><num value="1">1</num> padamaran· <num value="1">1</num> pamaḍi-hyaṁ<lb 
+n="10" break="no"/>ṅan· <num value="4"><unclear>4</unclear></num> curi <num value="1">1</num> nihan· prabha<lb 
+n="11" break="no"/>ktiṇḍa ḍaṁ puhavaṁ glis·,
+<lb n="12"/>tatra sākṣī ḍa punta lākha
+<lb n="13"/>ḍa punta dhu-adrī hyaṁ guru
+<lb n="14"/><supplied reason="lost">ga</supplied>vai hyaṁ guru go(--)vaṅ·
+<lb n="15"/>likhita kuAi<!-- D kubdha --> ḍaṅan·<lb 
+n="16" break="no"/>ña ḍiparbuAt· ḍaṁ (--)
+<lb n="17"/>ḍaṁ pu<supplied reason="omitted">ha</supplied>vaṁ glis· cihna<lb 
+n="18" break="no"/>ṇḍa tiḍa lupa ḍi sima<lb 
+n="19" break="no"/> ṇḍa <g type="ddanda"/></p>
+</div>
+<div type="apparatus">
+<listApp>
+<app loc="4">
+<lem>Aṅgāra-</lem>
+<rdg source="bib:Damais1955_01">Aṅgara-</rdg>
+</app>
+<app loc="4">
+<lem><unclear cert="low">tuṅle</unclear></lem>
+<note>Damais commented on the <foreign>ṣaḍvāra</foreign> extensively, identifying <foreign>tuṅlai</foreign> and <foreign>vurukuṅ</foreign> as only options, but finding it more prudent to leave a lacuna in his edition, as it is hard to be sure which word was engraved.</note>
+<!-- 4. tuṅle: left unread by Damais. The reading seems relatively clear but Tungle is not the expected value for sadwara. -->
+</app>
+<app loc="9">
+<lem>pamaḍi-hyaṁ<lb n="10" break="no"/>ṅan·</lem>
+<rdg source="bib:Damais1955_01">pamapi hyaṁ ṅan·</rdg>
+</app>
+<app loc="12"><lem>lākha</lem><rdg source="bib:Damais1955_01">lila</rdg></app>
+<app loc="15">
+<lem>kuAi</lem>
+<rdg source="bib:Damais1955_01">kubdha</rdg>
+</app>
+<app loc="16"><lem>ḍiparbuAt·</lem>
+<rdg source="bib:Damais1955_01">ḍiparbvat·</rdg></app>
+</listApp>                     
+</div>
+              <div type="translation"/>
+              <div type="commentary"/>
+              <div type="bibliography">
+<!-- Plaster cast RMV Leiden 1403-2993 or 1403-2996. -->
+                 <p>First edited by J. L. A. Brandes (<bibl rend="omitname"><ptr target="bib:Brandes1913_01"/></bibl>); edited again by L.-Ch. Damais (<bibl rend="omitname"><ptr target="bib:Damais1955_01"/></bibl>). Re-edited here by Arlo Griffiths from a photo of the plastercast kept at the Ethnographic Museum in Leiden (inv. no. 1403-2996), only recording variant reading from Damais' edition in the apparatus.</p>
+                 <listBibl type="primary">
+                    <bibl n="B">
+                       <ptr target="bib:Brandes1913_01"/>
+                       <citedRange unit="page">3-4</citedRange>
+                       <citedRange unit="item">III</citedRange>
+                    </bibl>
+                    <bibl n="D">
+                       <ptr target="bib:Damais1955_01"/>
+                       <citedRange unit="page">133-136</citedRange>
+                    </bibl>
+<!-- See Damais’ n. 2 (p. 133): “C’est sur une photographie de ce moulage que nous devons à l’obligeance du Dr P.H. Pott que nous avons pu étudier cette inscription en vieux malais.” -->
+                 </listBibl>
+                 <listBibl type="secondary">
+	<bibl><ptr target="bib:LimburgBrouwer+al1869_02"/><citedRange unit="page">CVII</citedRange></bibl>
+<bibl><ptr target="bib:NBG14_1876_01"/><citedRange unit="mixed">pages III (17) and VI (18)</citedRange></bibl>
+                    <bibl><ptr target="bib:Verbeek1891_01"/>
+                       	<citedRange unit="page">139-149</citedRange>
+		<citedRange unit="item">249</citedRange>
+                    </bibl>
+	<bibl><ptr target="bib:Juynboll1909_01"/><citedRange unit="page">233</citedRange><citedRange unit="item">2993</citedRange></bibl>
+	<bibl><ptr target="bib:Goris1930_01"/><citedRange unit="page">160</citedRange>
+	<citedRange unit="note">3</citedRange>
+<!-- Damais 1952 refers to 709 Go, TBG, 70 ,1930 , 160, ... . n. 5 — the note number is an error -->
+                    </bibl>
+	<bibl><ptr target="bib:Krom1931_01"/><citedRange unit="page">155</citedRange></bibl>
+<!-- Wellicht doet de vermelding van een scheepskapitein op de andere Gandasoeli-inscriptie nog de beste verklaring voor den aard dier betrekkingen aan de hand. -->
+                    <bibl>
+                       <ptr target="bib:Damais1952_01"/>
+                       <citedRange unit="page">28-29</citedRange>
+                       <citedRange unit="item">A. 11</citedRange>
+                    </bibl>
+                    <bibl>
+                       <ptr target="bib:Sarkar1971-1972_01"/>
+	     <citedRange unit="volume">I</citedRange>
+                       <citedRange unit="page">74(ii)-75(ii)</citedRange>
+                       <citedRange unit="item">XI</citedRange>
+                    </bibl>
+	<bibl><ptr target="bib:Nakada1982_01"/><citedRange unit="part">I</citedRange><citedRange unit="item">15</citedRange><citedRange unit="page">76-77</citedRange></bibl>
+	<bibl><ptr target="bib:Eade+Gislen2000_01"/><citedRange unit="page">122-123</citedRange></bibl>
+                 </listBibl>
+              </div>	
+           </body>
+   </text>
+</TEI>
