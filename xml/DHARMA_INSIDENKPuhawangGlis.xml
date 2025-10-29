@@ -65,7 +65,7 @@
    </teiHeader>
    <text xml:space="preserve">
            <body> 
-                   <div type="edition" xml:lang="omy-Latn">
+                   <div type="edition" xml:lang="omy-Latn" rendition="class:38769 maturity:83213">
 <p><lb n="1"/>svasti śaka-varṣātīta
 <lb n="2"/><num value="749">749</num> jyeṣṭa-māsa ti<lb 
 n="3" break="no"/>thi Aṣṭami śukla-pakṣa
@@ -78,7 +78,7 @@ n="6" break="no"/>vaṁ glis· Anakvi <seg rend="check">si --rā -u</seg>
 n="10" break="no"/>ṅan· <num value="4"><unclear>4</unclear></num> curi <num value="1">1</num> nihan· prabha<lb 
 n="11" break="no"/>ktiṇḍa ḍaṁ puhavaṁ glis·,
 <lb n="12"/>tatra sākṣī ḍa punta lākha
-<lb n="13"/>ḍa punta dhu-adrī hyaṁ guru
+<lb n="13"/>ḍa punta <seg rend="check">dhu-adrī</seg> hyaṁ guru
 <lb n="14"/><supplied reason="lost">ga</supplied>vai hyaṁ guru <seg rend="check">go(--)vaṅ·</seg>
 <lb n="15"/>likhita kuAi<!-- D kubdha --> ḍaṅan·<lb 
 n="16" break="no"/>ña ḍiparbuAt· <seg rend="check">ḍaṁ (--)</seg>
@@ -131,7 +131,7 @@ It was made <foreign>ḍaṅ</foreign> Puhavaṅ Gəlis, as a mark of his not fo
               <div type="commentary"/>
               <div type="bibliography">
 <!-- Plaster cast RMV Leiden 1403-2993 or 1403-2996. -->
-                 <p>First edited by J. L. A. Brandes (<bibl rend="omitname"><ptr target="bib:Brandes1913_01"/></bibl>); edited again by L.-Ch. Damais (<bibl rend="omitname"><ptr target="bib:Damais1955_01"/></bibl>). Re-edited here by Arlo Griffiths from a photo of the plastercast kept at the Ethnographic Museum in Leiden (inv. no. 1403-2996), only recording variant reading from Damais' edition in the apparatus.</p>
+                 <p>First edited by J. L. A. Brandes (<bibl rend="omitname"><ptr target="bib:Brandes1913_01"/></bibl>); edited again by L.-Ch. Damais (<bibl rend="omitname"><ptr target="bib:Damais1955_01"/></bibl>). Re-edited here by Arlo Griffiths from a photo of the plaster cast kept at the Ethnographic Museum in Leiden (inv. no. 1403-2996), only recording variant reading from Damais' edition in the apparatus.</p>
                  <listBibl type="primary">
                     <bibl n="B">
                        <ptr target="bib:Brandes1913_01"/>
