@@ -76,22 +76,34 @@
     <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="san-Latn" rendition="class:83227 maturity:83213">
-            <lg n="1" met="āryā">
-                <l n="a"><lb n="1"/>[kva cit suśucy-am]buruhānujā(tā)</l>
-	<l n="b">k(va) cic (ch)ilā vāl<unclear>u</unclear>ka-nirggateyaṁ</l>
-	<!-- (śvāmbu)[ruhā](nu)jā(tā)-->
-	<l n="c">kva cit prakīrṇṇā śubha-śītatoyā</l>
-                <l n="d">saṁprasrutā m[e](ddh)[ya]kar(ī)va gaṅgā</l>
+            <lg n="1" met="upajāti"><!-- = + - + + - - + - + + -->
+                <l n="a"><lb n="1"/><unclear>kva</unclear> <supplied reason="lost">ci</supplied><seg met="-++--"><gap reason="illegible"/></seg>yānujātā</l>
+		<!-- (śvāmbu)[ruhā](nu)jā(tā)-->
+	  <l n="b">kva cic <unclear>ch</unclear>ilā vāl<unclear>u</unclear>ka-nirggateyaṁ</l>
+	   <l n="c">kva cit prakīrṇṇā śubha-śīta-toyā</l>
+                <l n="d">saṁprasrutā maṅga-ka<unclear>rī</unclear>va gaṅgā</l>
             </lg>
          </div>
          <div type="apparatus">
-               <!--<listApp>
+               <listApp>
                 <app loc="1">
-                    <lem></lem>
-                    <rdg source="..."></rdg>
-                    <note></note>
+                    <lem><unclear>kva</unclear> <supplied reason="lost">ci</supplied><seg met="-++--"><gap reason="illegible"/></seg>yānujātā</lem>
+                    	<rdg source="bib:Chhabra1935_01"><supplied reason="lost">kva cit suśucy-am</supplied>bu-ruhānujātā</rdg>
+		<rdg source="bib:Chhabra1970_01"><supplied reason="lost">kva cit su</supplied>śu<supplied reason="lost">cy-am</supplied>bu-ruhānujātā</rdg>
+	<rdg source="bib:Sarkar1971-1972_01"><supplied reason="lost"><supplied reason="lost">Iyant</supplied>uśu<unclear>cy</unclear>am</supplied>bu-ruhānujātā</rdg>
+                    <note>None of the available images support any reading with <foreign>buruhā</foreign>.</note>
                 </app>
-               </listApp>-->
+	<app loc="1">
+	<lem source="bib:Chhabra1935_01 bib:Chhabra1970_01">saṁprasrutā</lem>
+	<rdg source="bib:Sarkar1971-1972_01">saṁprasrātā</rdg></app>
+	<app loc="1">
+		<lem>maṅga-ka<unclear>rī</unclear>va</lem>
+		<rdg source="bib:Chhabra1935_01 bib:Chhabra1970_01">m<unclear>eddhya</unclear>karīva</rdg>
+	</app>
+               </listApp>
+         </div>
+	<div type="translation" resp="part:argr">
+            <p rend="stanza" n="1">This <supplied reason="explanation">stream</supplied>, <foreign>maṅga</foreign>-armed as the Ganges, at some places bedecked with bright lilies and lotus flowers, at some places bubbling out from pebbles and sand, (and) at some places spreading out its pure and cool water.</p>
          </div>
          <div type="translation" source="bib:Chhabra1970_01">
             <p rend="stanza" n="1">Gushing forth is this (stream), purifying as the Ganges, at some places bedecked with bright lilies and lotus flowers, at some places bubbling out from pebbles and sand, (and) at some places spreading out its pure and cool water.</p>
@@ -103,12 +115,16 @@
            <p>First published by H. Kern (<bibl rend="omitname"><ptr target="bib:Kern1911_01"/></bibl>); re-edited by B. C. Chhabra   (<bibl rend="omitname"><ptr target="bib:Chhabra1935_01"/></bibl>) on photographs by N. van Erp (OD 2158–2162). Re-edited here, taking into account also the photogrammetry made by Adeline Levivier in  October 2025.</p>
         	<listBibl type="primary">
 		<bibl n="K"><ptr target="bib:Kern1911_01"/></bibl>
-		<bibl n="C"><ptr target="bib:Chhabra1935_01"/><citedRange unit="page">33-34</citedRange></bibl>
+		<bibl n="C1"><ptr target="bib:Chhabra1935_01"/><citedRange unit="page">33-34</citedRange></bibl>
+		<bibl n="C2"><ptr target="bib:Chhabra1970_01"/></bibl>
+		<bibl n="S"><ptr target="bib:Sarkar1971-1972_01"/>
+		<citedRange unit="volume">I</citedRange><citedRange unit="page">13-14</citedRange><citedRange unit="item">II</citedRange>
+                    </bibl>
 	</listBibl>
            <listBibl type="secondary">
 	<bibl><ptr target="bib:Kern1917_28"/></bibl>
+	<bibl><ptr target="bib:Chatterjee+Chakravarti1933_01"/><citedRange unit="page">28</citedRange></bibl>
               <bibl><ptr target="bib:Chhabra1965_01"/><citedRange unit="page">43-45</citedRange></bibl>
-	<bibl><ptr target="bib:Chhabra1970_01"/></bibl>
            </listBibl>
         </div>
       </body>
