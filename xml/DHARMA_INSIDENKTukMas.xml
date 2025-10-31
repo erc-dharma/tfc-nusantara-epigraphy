@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Praise of a mountain stream (7th c. CE)</title>
+                <title>Praise of a mountain stream (mid-7th c. CE)</title>
                 <respStmt>
                     <resp>author of digital edition</resp>               
                     <persName ref="part:argr">
@@ -109,7 +109,7 @@
             <p rend="stanza" n="1">Gushing forth is this (stream), purifying as the Ganges, at some places bedecked with bright lilies and lotus flowers, at some places bubbling out from pebbles and sand, (and) at some places spreading out its pure and cool water.</p>
          </div>
          <div type="commentary">
-            <p><bibl><ptr target="bib:Chhabra1970_01"/></bibl> pointed out that the inscription is inspired by Kālidāsa's <title>Raghuvaṁśa</title>, canto 13, verses 54–57.</p>
+            <p>Our estimate of the inscription's date follow the proposal first made by Krom (<bibl rend="omitname"><ptr target="bib:Krom1931_01"/></bibl>) and subsequently endorsed by Damais (<bibl rend="omitname"><ptr target="bib:Damais1957_02"/><citedRange unit="page">611</citedRange></bibl>, <bibl rend="omitname"><ptr target="bib:Damais1964_01"/><citedRange unit="page">101</citedRange></bibl>) as well as De Casparis (<bibl rend="omitname"><ptr target="bib:Casparis1975_01"/></bibl>). <bibl><ptr target="bib:Chhabra1970_01"/></bibl> pointed out that the inscription is inspired by Kālidāsa's <title>Raghuvaṁśa</title>, canto 13, verses 54–57.</p>
          </div>
         <div type="bibliography">
            <p>First published by H. Kern (<bibl rend="omitname"><ptr target="bib:Kern1911_01"/></bibl>); re-edited by B. C. Chhabra   (<bibl rend="omitname"><ptr target="bib:Chhabra1935_01"/></bibl>) on photographs by N. van Erp (OD 2158–2162). Re-edited here, taking into account also the photogrammetry made by Adeline Levivier in  October 2025.</p>
@@ -128,18 +128,20 @@ Not. Bat. Gen.
 (lees : Dakawoe), district Ngasiuan, nabij zeer groote bron Toek Mas.
 id. blz. 94. Abklatsch in handen van Dr. Brandes.
 id. blz. 104. Dr. Brandes deelt mede, dat papierafdruk niet duidelijk genoeg is om te worden gelezen.
-id. blz. 188. Nieuwe afdruk gevraagd aan den Controleur Heijting
-te Magelang (de Heer van Aalst sedert vertrokken).
+id. blz. 188. Nieuwe afdruk gevraagd aan den Controleur Heijting te Magelang (de Heer van Aalst sedert vertrokken).
 1899 p. 26. Vermelding aanwinst van de Abklatsch.
 Encyclopedie N. S. III. p. 129. (1902). "Oudheden" door Dr. Brandes afgesloten in December 1898.
 
-Krom HJG (1931), 102–3
 Riwajat Indonesia, p. 17 — see Damais, c-r of Riwayat Indonesia I in BEFEO 1957. Damais favor a date around 650 CE.
 On the date, see also Damais in BEFEO 52.1 (1964), p. 101: he puts it around 650 CE.
  -->
+	<bibl><ptr target="bib:NBG36_1898"/><citedRange unit="page">49, 94, 104, 138-139</citedRange></bibl>
+	<bibl><ptr target="bib:NBG37_1899"/><citedRange unit="page">26-27</citedRange></bibl>
 	<bibl><ptr target="bib:Kern1917_28"/></bibl>
+	<bibl><ptr target="bib:Krom1931_01"/><citedRange unit="page">102-103</citedRange></bibl>
 	<bibl><ptr target="bib:Chatterjee+Chakravarti1933_01"/><citedRange unit="page">28</citedRange></bibl>
               <bibl><ptr target="bib:Chhabra1965_01"/><citedRange unit="page">43-45</citedRange></bibl>
+	<bibl><ptr target="bib:Casparis1975_01"/><citedRange unit="page">23-24</citedRange></bibl>
            </listBibl>
         </div>
       </body>
