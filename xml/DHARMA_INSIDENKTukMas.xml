@@ -77,7 +77,8 @@
       <body>
          <div type="edition" xml:lang="san-Latn" rendition="class:83227 maturity:83213">
             <lg n="1" met="upajāti"><!-- = + - + + - - + - + + -->
-                <l n="a"><lb n="1"/><unclear>kva</unclear> <supplied reason="lost">ci</supplied><seg met="-++--"><gap reason="illegible"/></seg>yānujātā</l>
+                <l n="a"><lb n="1"/><unclear>kva ci</unclear><seg met="-++--"><gap reason="illegible"/></seg>yānujātā</l>
+		<!-- kva ci[t sa]mviṣargya rasānujātā -->
 		<!-- (śvāmbu)[ruhā](nu)jā(tā)-->
 	  <l n="b">kva cic <unclear>ch</unclear>ilā-vāl<unclear>u</unclear>ka-nirggateyaṁ</l>
 	   <l n="c">kva cit prakīrṇṇā śubha-śīta-toyā</l>
@@ -87,7 +88,7 @@
          <div type="apparatus">
                <listApp>
                 <app loc="1">
-                    <lem><unclear>kva</unclear> <supplied reason="lost">ci</supplied><seg met="-++--"><gap reason="illegible"/></seg>yānujātā</lem>
+                    <lem><unclear>kva ci</unclear> <seg met="-++--"><gap reason="illegible"/></seg>yānujātā</lem>
                     	<rdg source="bib:Chhabra1935_01"><supplied reason="lost">kva cit suśucy-am</supplied>bu-ruhānujātā</rdg>
 		<rdg source="bib:Chhabra1970_01"><supplied reason="lost">kva cit su</supplied>śu<supplied reason="lost">cy-am</supplied>bu-ruhānujātā</rdg>
 	<rdg source="bib:Sarkar1971-1972_01"><supplied reason="lost">Iyant</supplied>uśu<unclear>cy</unclear>ambu-ruhānujātā</rdg>
@@ -99,11 +100,12 @@
 	<app loc="1">
 		<lem>maṅgaka<unclear>rī</unclear>va</lem>
 		<rdg source="bib:Chhabra1935_01 bib:Chhabra1970_01 bib:Sarkar1971-1972_01">m<unclear>eddhya</unclear>karīva</rdg>
+	<note>Dominic Goodall suggests that perhaps we can take the faint head-mark attached to the left horn of <foreign>ma</foreign> as an unusual <foreign>e</foreign>, in which case we can read <foreign>me ’ṅgakarīva</foreign>, “who, as it were, makes up my body (/makes up a part of me)”. Given the way water spouts forth from numerous locations near the site of the inscription, we might also fancy that we are dealing with a metrically conditioned equivalent to <foreign>mataṅga-karīva</foreign> “like one who has an elephant's trunk”.</note>
 	</app>
                </listApp>
          </div>
 	<div type="translation" resp="part:argr">
-            <p rend="stanza" n="1">At times overgrown by <gap reason="illegible"/>, at times disappearing in pebbles and sand, at times spreading out its pure and cool water, the Ganges gushes forth here, like a <foreign>maṅgakarī</foreign>!<note>Is this mystery word intended as metrically conditioned equivalent to <foreign>mataṅga-karī</foreign>?</note></p>
+            <p rend="stanza" n="1">At times overgrown by <gap reason="illegible"/>, at times disappearing in pebbles and sand, at times spreading out its pure and cool water, the Ganges gushes forth here, like a <foreign>maṅgakarī</foreign>!</p>
          </div>
          <div type="translation" source="bib:Chhabra1970_01">
             <p rend="stanza" n="1">Gushing forth is this (stream), purifying as the Ganges, at some places bedecked with bright lilies and lotus flowers, at some places bubbling out from pebbles and sand, (and) at some places spreading out its pure and cool water.</p>
