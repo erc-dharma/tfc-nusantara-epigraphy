@@ -68,15 +68,11 @@
                    <div type="edition" xml:lang="omy-Latn" rendition="class:38769 maturity:83213">
 <p>
 <lb n="1"/><g type="ddandaCross"/> namaś śivāya, Au mahājana ḍi sahiṅ ālas· partapān· tuhaṅ uḍa laki vini maṇḍaṅar· vuAt·tānta parāvis·, <choice><sic>dhimi</sic><corr>dharma</corr></choice>
-<lb n="2"/>gatiṇḍa ḍaṁ karayān· partapān· ratnamaheśvara siḍa busu maun· namāṇḍa ḍaṁ karayān lāki busu Iti namāṇḍa ḍaṁ karayān· vini<unclear><g type="dotMit"/></unclear>
-<lb n="3"/>Atya<unclear>nta</unclear> dharmiṣṭha siḍa ḍuA<g type="dotMit"/> Ayāṇḍa 
+<lb n="2"/>gatiṇḍa ḍaṁ karayān· partapān· ratnamaheśvara siḍa busu maun· namāṇḍa ḍaṁ karayān lāki busu Iti namāṇḍa ḍaṁ karayān· vini<unclear><g type="dotMid"/></unclear>
+<lb n="3"/>Atya<unclear>nta</unclear> dharmiṣṭha siḍa ḍuA<g type="dotMid"/> Ayāṇḍa 
 <supplied reason="omitted">ḍa</supplied>ṁ karayān· lāki parpuAntaṅ a<unclear>na</unclear>kabbi namaṇḍa, Ayāṇḍa ḍaṁ karayān· vini parpuAntaṁ panuA<seg rend="check">ḥha</seg>n· nama<lb 
-n="4" break="no"/>ṇḍa, siḍa Inan ḍuA A(t)i(bhā)gya[11] siḍa varanak· puruṣaratna[12] varanak· strīratna, Aḍiṇḍa ḍaṁ karayān· lāki busu tarbba[13] namaṇḍa, Iparḍa ḍaṁ karayā-
-<!--	ḍuA: duA C.
-	A(t)i(bhā)gya: Adhi(rā)kṣa: C. 
-	puruṣaratna: putra maaratna C, but the reading we accept is proposed in n. 12.
-	lāki: laki C.-->
-<lb n="5"/>n parttapān· busu bajra busūttara Udaṇḍa[14] sānak· busu taray· busu daṇḍai Udaṇḍa sapopo[15] busu huvuriyan· pamāṇḍa[16] viṣṇuratha nam(ā)ṇḍa sarabhāra ḍi
+n="4" break="no"/>ṇḍa<g type="dotMid"/> siḍa Inan ḍuA Atibhāgya siḍa varanak· puruṣaratna varanak· strīratna<g type="dotMid"/> Aḍiṇḍa ḍaṁ karayān· lāki busu ta<unclear>mva</unclear> namaṇḍa, Iparḍa ḍaṁ karayā<lb break="no" 
+n="5"/>n parttapān· busu bajra busūttara Udaṇḍa[14] sānak· busu taray· busu daṇḍai Udaṇḍa sapopo[15] busu huvuriyan· pamāṇḍa[16] viṣṇuratha nam(ā)ṇḍa sarabhāra ḍi
 <!--	sānak·: sanak· C.
 	Udaṇḍa (2x) or ḍaṁ daṇḍa
 	pamāṇḍa: pamaṇḍa C.
@@ -165,10 +161,28 @@ n="4" break="no"/>ṇḍa, siḍa Inan ḍuA A(t)i(bhā)gya[11] siḍa varanak·
 <lem>parpuAntaṁ</lem>
 <rdg source="bib:Casparis1950_01">parpuAnta</rdg>
 </app>
+<!-- line 4	ḍuA: duA C.
+	puruṣaratna: pu<unclear>tra</unclear> maratna C, but the reading we accept is proposed in n. 12.
+	lāki: laki C.
+	ta<unclear>mva</unclear>: tarbba C.
+-->
+<app loc="4">
+<lem>Atibhāgya</lem>
+<rdg source="bib:Casparis1950_01">Adhi<unclear>rā</unclear>kṣa</rdg>
+</app>
+<app loc="4">
+<lem>puruṣaratna</lem>
+<rdg source="bib:Casparis1950_01">pu<unclear>tra</unclear> maratna</rdg>
+<note>The correct reading was actually proposed by De Casparis himself in his note 12.</note>
+</app>
+<app loc="4">
+<lem>ta<unclear>mva</unclear></lem>
+<rdg source="bib:Casparis1950_01">tarbba</rdg>
+</app>
 </listApp>                     
 </div>
               <div type="translation">
-<p>Homage to Śiva! The chiefs around the boundaries <supplied reason="explanation"><foreign>sahiṅ</foreign></supplied><note>De Casparis understands <foreign>sahiṅa-alas</foreign>.</note> of the hermitage forest, old and young, men and women, may <supplied reason="explanation">? <foreign>au</foreign></supplied><note>We speculate that <foreign>au</foreign> had a grammatical function like <foreign>semoga</foreign> in Modern Malay and <foreign>muah</foreign> in other Old Malay texts.</note> listen to all your works. Virtuous was the action of the lord and lady of the hermitage <supplied reason="explanation">named</supplied> Ratnamaheśvara. The lord was called Busu Mauṅ, the lady was called Iti.<note>On this passage, see the comments in Damais 1968: 335–336.</note> The both of them were exceedingly virtuous. The mother <supplied reason="explanation"><foreign>aya</foreign></supplied><note>That <foreign>aya</foreign> means mother was assumed by De Casparis on weak grounds (see the criticism in Damais 1968: 337), but has subsequently been confirmed by the usage in the <seg rend="check">Sojomerto and Sungai Musi inscriptions</seg>.</note> of the lord was called <foreign>parpuantaṅ anakəbi</foreign>;<note>The word <foreign>anakəbi</foreign> means <q>woman, wife, girl</q> in Old Javanese.</note> the mother of the lady was called <foreign>parpuantaṅ panuahan</foreign>.
+<p>Homage to Śiva! The chiefs around the boundaries <supplied reason="explanation"><foreign>sahiṅ</foreign></supplied><note>De Casparis understands <foreign>sahiṅa-alas</foreign>.</note> of the hermitage forest, old and young, men and women, may <supplied reason="explanation">? <foreign>au</foreign></supplied><note>We speculate that <foreign>au</foreign> had a grammatical function like <foreign>semoga</foreign> in Modern Malay and <foreign>muah</foreign> in other Old Malay texts.</note> listen to all your works. Virtuous was the action of the lord and lady of the hermitage <supplied reason="explanation">named</supplied> Ratnamaheśvara. The lord was called Busu Mauṅ, the lady was called Iti.<note>On this passage, see the comments in Damais 1968: 335–336.</note> The both of them were exceedingly virtuous. The mother <supplied reason="explanation"><foreign>aya</foreign></supplied><note>That <foreign>aya</foreign> means mother was assumed by De Casparis on weak grounds (see the criticism in Damais 1968: 337), but has subsequently been confirmed by the usage in the <seg rend="check">Sojomerto and Sungai Musi inscriptions</seg>.</note> of the lord was called <foreign>parpuantaṅ anakəbi</foreign>;<note>The word <foreign>anakəbi</foreign> means <q>woman, wife, girl</q> in Old Javanese.</note> the mother of the lady was called <foreign>parpuantaṅ panuahan</foreign>. These were both very fortunate to conceive <supplied reason="explanation">respectively</supplied> of a jewel of a man and a jewel of a woman. The younger sibling of the lord was called Busu Tamva; the (siblings) in-law of the lord and lady of the hermitage were
 </p>
 </div>
               <div type="commentary"/>
