@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Inventory of a Śaiva temple at Dieng (9th c. CE)</title>
+                <respStmt>
+                    <resp>author of digital edition</resp>               
+                    <persName ref="part:argr">
+                       <forename>Arlo</forename>
+                       <surname>Griffiths</surname>
+                    </persName>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <authority>DHARMA</authority>
+                 <pubPlace>Paris</pubPlace>
+                 <idno type="filename">DHARMA_INSIDENKdevadravya</idno>
+                 <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
+                            Licence. To view a copy of the licence, visit
+                            https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                            Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                            California, 94041, USA.</p>
+                        <p>Copyright (c) 2019-2025 by Arlo Griffiths.</p>
+                    </licence>
+                </availability>
+                <date from="2019" to="2025">2019-2025</date>
+            </publicationStmt>
+            <sourceDesc><!-- only the handDesc can be filled in at this stage -->
+                <msDesc><!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/><!-- don't modify this -->
+                    </msIdentifier>
+                    <msContents><!-- describe the intellectual content of an inscription -->
+                        <summary><!-- //// NOT MANDATORY  ////--></summary> <!-- offers the possibility to give a summary of the inscription's content -->
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p><!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EGD 11.2. --></p>
+                            <!-- If you need to identify individual hands (EGD §7.5/) in addition to one or more paragraphs of general palaeographic description, wrap <summary> around the <p> or <p>s above, and, outside <summary>, create <handNote> elements for each hand as follows:
+						<summary><p><p/></summary>
+						<handNote xml:id="Pallava00001_hand1"></handNote>
+						<handNote xml:id="Pallava00001_hand2"></handNote>
+					 -->
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
+            </projectDesc>
+            <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/><!-- UPDATE the link once the release is made official -->
+            <listPrefixDef>
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                    <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
+                </prefixDef>
+                <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
+                    <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_idListMembers_v01.xml</ref> file.</p>
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <revisionDesc>
+            <change who="part:argr" when="2025-11-03" status="draft">encoded the inscription</change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:space="preserve">
+      <body>
+         <div type="edition" xml:lang="kaw-Latn" rendition="class:38769 maturity:83213">
+            <p><milestone n="A" unit="face"/><lb n="A1"/><g type="ddanda"/> namaś śivāya <g type="danda"/> devadra<lb 
+n="A2" break="no"/>vya hulun· ḍuA puluḥ
+<lb n="A3"/>karvo sapuluḥ A<unclear>las</unclear>·
+<lb n="A4"/><unclear>ka</unclear>caṅan· ḍuA, padyusan·
+<lb n="A5"/> ḍu<supplied reason="lost">A,</supplied> <unclear>gaṁ</unclear>gun·, karaha pad <unclear>va</unclear><lb break="no" 
+n="A6"/>tu, <unclear>tatas</unclear>· lnaṁ, caranti li<lb break="no" 
+n="A7"/> ma, vūṁ <unclear>pad va</unclear>tu, parsarinasi<lb break="no" 
+n="A8"/>yan· <unclear>ta</unclear>mvaga, sapuluḥ va<lb break="no" 
+n="A9"/>tu, mās· ḍu tahil·, jami<lb break="no" 
+n="A10"/> niga pad vatu, caturaṅgaṁ
+<milestone n="B" unit="face"/><lb n="B1"/>, kai<unclear>ṁ</unclear>l laki, sajugala <g type="ddanda"/>
+<lb n="B2"/>luṁsir ṣavatu <g type="ddanda"/> vi<unclear>tādi</unclear>
+<lb n="B3"/>ḍuA vatu, taṇḍa taṇḍa
+<lb n="B4"/>ḍuAlapan·, suruy· ga<lb break="no" 
+n="B5"/>ḍiṅ·, carmin· <g type="danda"/> batu cərmi<lb break="no" 
+n="B6"/>n·, vuṁvuṁ vala, karantiga ḍu<lb break="no" 
+n="B7"/>A, ṣaṇḍuk· ḍuA <g type="ddanda"/> guci
+<lb n="B8"/>pat vatu, vatu kākkyaṅ·
+<lb n="B9"/>ḍuA, <unclear>ḍā</unclear>ṁ <g type="danda"/> Eka teja ḍaṁ hyaṁ
+</p>
+         </div>
+         <div type="apparatus"/>
+         <div type="translation" resp="part:argr">
+ 	<p>Homage to Śiva! Property of the god: twenty slaves; ten buffaloes; two platters for beans (?, <foreign>alas kacaṅan</foreign>); two wash-basins; four items (<foreign>batu</foreign>) of<foreign> gaṅgun karaha</foreign>, <foreign>tatas lnaṅ</foreign>; five <foreign>caranti</foreign>s; four items of <foreign>vūṅ</foreign>; ten items of <foreign>parsarinasiyan</foreign> of copper; two taels of gold; four items of <foreign>jaminiga</foreign>, neatly arranged (?, <foreign>caturaṅgaṅ</foreign>); cloth for a male, one pair; one item of <foreign>luṅsir</foreign>-cloth; two items of <foreign>vitādi</foreign>; eight banners; a comb of ivory; a mirror; mica (or: a mirror of mica); <foreign>buṅbuṅ vala</foreign>; two candles; two spoons; four items of jars; two <foreign>kakyaṅ</foreign> stones; kettle, one; fire for the venerable one.</p>
+         </div>
+         <div type="commentary">
+            <p>Stutterheim rightly remarked that the use of punctuation seems unsystematic. Given the uncertain meaning of much of the text, many word divisions and readings are uncertain. Not without a degree of arbitrariness, some particularly uncertain akṣaras are marked as unclear. It was Schoterman (<bibl rend="omitname"><ptr target="bib:Schoterman1981_01"/></bibl>) who proposed the correction of the reading <foreign>kail laki</foreign>, unanimously favoured by his predecessors, into <foreign>kaiṁl laki</foreign>. He noted that the <foreign>anusvāra</foreign> is “clearly visible in the incisions of the inscription” and believed that this spelling is “the result of a very rigorous application of the Skt rules of sandhi, the ‘basic’ form being <foreign>kain laki</foreign> ”. Although I do not find the <foreign>anusvāra</foreign> clear, I provisionally retain Schoterman’s reading.</p>
+         </div>
+        <div type="bibliography">
+           <p>The text was first established on the basis of the reading by J. L. A. Brandes (<bibl rend="omitname"><ptr target="bib:Brandes1913_01"/></bibl>), controlled by using the photo OD 3519 and inspecting the stone at the National Museum at Jakarta (inv. no. D. 11) on 11/10/2011. The result was then checked against Stutterheim’s revised reading (<bibl rend="omitname"><ptr target="bib:Stutterheim1938_01"/></bibl>), and finally against photos, to yield the edition published in <bibl><ptr target="bib:Griffiths2018_01"/></bibl>. The present digital edition reproduced that previous publication. I do not list all variants between published readings and my own, </p>
+           <!-- OD 3519.-->
+        	<listBibl type="primary">
+ 	<bibl n="B"><ptr target="bib:Brandes1913_01"/><citedRange unit="item">XCVI</citedRange><citedRange unit="page">227-228</citedRange></bibl>
+	<bibl n="S"><ptr target="bib:Stutterheim1938_01"/></bibl>
+                  <bibl n="G"><ptr target="bib:Griffiths2018_01"/><citedRange unit="page">276-279</citedRange></bibl>
+</listBibl>
+           <listBibl type="secondary">
+<!-- Steen, waarschijnlijk afkomstig van den Diëng, thans als D. 11 in het Museum te Batavia. Over de steenen van den Diëng zie men de litteratuuropgave
+onder II. De steen is no. 11 van het lijstje van Dr. Brandes in Notulen 1889 p. 131. Abklatsch Oudheidk. Bur. no. 188 en 330; afgietsel Leiden Ethn.
+Mus. no. 2981 (Cat. Juynboll p. 232). Dr. Brandes beschrijft den steen in den Catalogus (p. 375 sq.) aldus:
+„Pyramidaalvormig steentje, met dito boveneinde, gekroond met een bloemknop. Licht bruin-geel. Poreuze bazalt. Op twee der opstaande vlakken resp. in 10 en 9 regels met oud-Javaansch schrift van Midden Java beschreven. Afkomst onbekend. Hoog in het midden 79, aan de zijden 62; de opstaande vlakken breed van boven 33, van onderen 37. -->
+              <bibl><ptr target="bib:Groeneveldt1887_01"/><citedRange unit="page">375-376</citedRange></bibl>
+              <bibl><ptr target="bib:NBG27_1889"/><citedRange unit="page">131</citedRange><citedRange unit="item">11</citedRange></bibl>
+              <bibl><ptr target="bib:Juynboll1909_01"/><citedRange unit="page">232</citedRange><citedRange unit="item">2981</citedRange></bibl>
+              <bibl><ptr target="bib:Schoterman1981_01"/><citedRange unit="page">432</citedRange></bibl>
+           </listBibl>
+        </div>
+      </body>
+  </text>
+</TEI>
