@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?> <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?> <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?> <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Gandasuli (early 8th century CE)</title>
+            <respStmt>
+               <resp>author of digital edition</resp>
+               <persName ref="part:argr">
+                  <forename>Arlo</forename>
+                  <surname>Griffiths</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>DHARMA</authority>
+            <pubPlace>Paris, Jakarta</pubPlace>
+            <idno type="filename">DHARMA_INSIDENKGandasuli</idno>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/">
+                  <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
+                                            Licence. To view a copy of the licence, visit
+                                            https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                                            Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                                            California, 94041, USA.</p>
+                  <p>Copyright (c) 2019-2025 by Arlo Griffiths</p>
+               </licence>
+            </availability>
+            <date from="2019" to="2025">2019-2025</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>DHARMAbase</repository>
+                  <idno/>
+               </msIdentifier>
+               <msContents>
+                  <summary/>
+               </msContents>
+               <physDesc>
+                  <handDesc>
+                     <p/>
+                  </handDesc>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
+         </projectDesc>
+         <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+         <listPrefixDef>
+            <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+               <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
+            </prefixDef>
+            <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
+               <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_idListMembers_v01.xml</ref> file.</p>
+            </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <revisionDesc>
+         <change who="part:argr" when="2025-11-03">encoded the edition</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:space="preserve">
+           <body> 
+                   <div type="edition" xml:lang="omy-Latn" rendition="class:38769 maturity:83213">
+<p>
+<lb n="1"/><g type="ddandaCross"/> namaś śivāya, Au mahājana ḍi sahiṅ ālas· partapān· tuhaṅ uḍa laki vini maṇḍaṅar· vuAt·tānta parāvis·, <choice><sic>dhimi</sic><corr>dharma</corr></choice>
+<lb n="2"/>gatiṇḍa ḍaṁ karayān· partapān· ratnamaheśvara siḍa busu maun· namāṇḍa ḍaṁ karayān lāki busu Iti namāṇḍa ḍaṁ karayān· vini<unclear><g type="dotMit"/></unclear>
+<lb n="3"/>Atya<unclear>nta</unclear> dharmiṣṭha siḍa ḍuA<g type="dotMit"/> Ayāṇḍa 
+<supplied reason="omitted">ḍa</supplied>ṁ karayān· lāki parpuAntaṅ a<unclear>na</unclear>kabbi namaṇḍa, Ayāṇḍa ḍaṁ karayān· vini parpuAntaṁ panuA<seg rend="check">ḥha</seg>n· nama<lb 
+n="4" break="no"/>ṇḍa, siḍa Inan ḍuA A(t)i(bhā)gya[11] siḍa varanak· puruṣaratna[12] varanak· strīratna, Aḍiṇḍa ḍaṁ karayān· lāki busu tarbba[13] namaṇḍa, Iparḍa ḍaṁ karayā-
+<!--	ḍuA: duA C.
+	A(t)i(bhā)gya: Adhi(rā)kṣa: C. 
+	puruṣaratna: putra maaratna C, but the reading we accept is proposed in n. 12.
+	lāki: laki C.-->
+<lb n="5"/>n parttapān· busu bajra busūttara Udaṇḍa[14] sānak· busu taray· busu daṇḍai Udaṇḍa sapopo[15] busu huvuriyan· pamāṇḍa[16] viṣṇuratha nam(ā)ṇḍa sarabhāra ḍi
+<!--	sānak·: sanak· C.
+	Udaṇḍa (2x) or ḍaṁ daṇḍa
+	pamāṇḍa: pamaṇḍa C.
+	viṣṇuratha: viṣṇurata C.
+	nam(ā)ṇḍa: namaṇḍa C.
+	ḍi: di C.-->
+<lb n="6"/>nāyaka vatak bunut· tathāpi Udaṇḍa sapopo[15] busu padaruṁṅan namāṇḍa[17] sarabhāra ḍi nāyaka vatak kahuluAn tathāpi varanak· siḍa busu putiḥ padi, taijaḥ[18]
+	Udaṇḍa or ḍaṁ daṇḍa
+	padaruṁṅan: padaraṅan C.
+	namāṇḍa: nāmaṇḍa C.
+	ḍi: di C.
+<lb n="7"/>pahik·[19] svast(i)[20] pagar vvassi Āvat· Iṇḍu[21] Anakḍa kulaputrī Inan parāvis· tathāpi pagar vvatu pagar duri si buha samvuhan·[22] vitaka dadaṁ[23] vihāra nagarī Inanta baña-
+<!--	Āvat·: Avat· C.
+	samvuhan·: sampuh ... C.
+	vihāra nagarī: viṇaraḥ[24] rari C.
+	Inanta: Inan sa- C.-->
+<lb n="8"/>kña Anakḍa ḍaṁ karayān· partapān· puṇyaprabhāvāṇḍa ḍaṁ karayān partapān· kathamapi sukha subhikṣa, ya rājya ḍirakṣa Iya sabañakña yaṁ deśa Itas-ta(taḥ)
+<!--	-kña: -kaña C.
+	ya: yaṁ C.
+	ḍirakṣa: dirakṣa C.-->
+<lb n="9"/>pūrvva dakṣiṇa paścima Uttara Itas-tataḥ Iya maṁstuti guṇāṇḍa ḍaṁ karayān· partapān·, tathāpi Āḍa Ācāryyāṇḍa gālava nāmaṇḍa sthāpaka siḍa tathāpi
+<!--	Āḍa: Āda C.
+	gālava: dhalava [29] C. Samalagi (1v10) dalinan· pu gālava. According to MW, gālava is the name of an old sage and preceptor.
+	nāmaṇḍa : namaṇḍa C.
+	siḍa: sida C.-->
+<lb n="10"/>baṁ pahmuṇḍa[30] ḍaṁ karayān· śivārjita nāmaṇḍa nāyaka ḍi praṁ kapulaṁ siḍa Inan parāvis· siḍa ta[32] sahāyāṇḍa ḍi dharma puṇya kuśala, Iya makajāḍi pra-
+<!--	baṁ pahmuṇḍa: bapuh muṇḍa C.
+	nāmaṇḍa: nāmāṇḍa C.
+	ḍi dharma: di dharmma C.
+	makajāḍi: makajādi C.-->
+<lb n="11" break="no"/>tiṣṭa ḍi hyaṁ hāji tarkalaut saṁ[35] hyaṁ vintaṁ prasāda suprayukta-kṣai⟨tra⟩-sahita Iyaṁ mātraña viniḥnya kṣetra ḍi taraḥ buṅa[37], tlu bariḥ pragāluḥ Ampa lattir·
+<!--	ḍi: di C.
+	hāji: haji C.
+	kṣai⟨tra⟩: kṣair C [36]. De Casparis has mistaken the suku from line 10 pulaṁ as layar.
+	taraḥ buṅa: tanaḥ buṅa C[37]. Notwithstanding De Casparis’ observation to the contrary, the reading in line 13 is again clearly taraḥ.-->
+<lb n="12"/>pamaṇḍyan· tlu lattir· kinaĀyvan·[39] Ampa lattir· vunu tlu lattir·[40] pavijaḥhan· ḍuA lattir· kayvara maṇḍar· ḍuA lattir· vabuṅa baharu salattir· muṇḍu
+<!--	kinaĀyvan·: tina Ayun·.
+	maṇḍar·: mandir· C.
+	vabuṅa: vaṅur· C.-->
+<lb n="13"/>ḍuA lattir· kakalyan· salattir· tarukān· salattir· mātrāña viniḥ ḍi taraḥ buṅa parāvis· Ampa poluḥ salattir· parttakan·[44] ḍi valunuḥ pu posuḥ
+<!--	mātrāña: mātraña C.
+	taraḥ buṅa: tanaḥ buṅa C.
+	poluḥ: puluḥ C [43].-->
+<lb n="14"/>ḍi pragāluḥ parpuAnta varpatiḥ manulu nāmāṇḍa naiyaka ḍi kyu buṁṅan· sahāyāṇḍa varpatiḥ pu līhasin[48] nāmāṇḍa nāyaka ḍi māntyasiḥ
+<!--	nāmāṇḍa: namaṇḍa C.
+	nāmāṇḍa: namaṇḍa C.
+	māntyasiḥ: mantyāsiḥ C.-->
+<lb n="15"/>ḍa punta marhyaṁ jñānatatva nāmāṇḍa
+<!--	nāmāṇḍa: namaṇḍa C.
+	At the end of the text, De Casparis (n. 52) describes ‘een duidelijk sluitingsteken, bestaande uit tweemaal twee schuin-staande streepjes met daartussen een cirkeltje’. None of this is visible. De Casparis must have been confused here.-->
+</p>
+</div>
+<div type="apparatus">
+<!-- line 1	ḍi: di C.
+	dhimi: dharma-[9] C. -->
+<listApp>
+<app loc="1">
+<lem>Au-</lem>
+<rdg source="bib:Casparis1950_01">Oṁ</rdg>
+<note>Damais  (1968: 322, 339) noted that the text shows <foreign>Au</foreign> and not <foreign>O</foreign>, but did not object to De Casparis' idea that a <foreign>cecak</foreign> is to be supplied. It seems quite uncertain to us that the Sanskrit sacred syllable <foreign>om</foreign> is intended here.</note>
+</app>
+<app loc="1">
+<lem>tuhaṅ uḍa</lem>
+<rdg source="bib:Casparis1950_01">tuha ṅuda</rdg>
+<note>It is unclear whether the <foreign>ṅ</foreign> is a prefix or an enclitic, but more likely the latter, unless we are dealing with a scribal error for  <foreign>muda</foreign>.</note>
+</app>
+<!-- line 2	namāṇḍa: namaṇḍa C.
+	namāṇḍa: namaṇḍa C. -->
+<app loc="2">
+<lem>maun·</lem>
+<rdg source="bib:Casparis1950_01">plār·</rdg>
+<note>The vowel is clearly the same as in <foreign>tarkalaut</foreign> in line 11.</note>
+</app>
+<!-- line 3	ḍuA: duA C.
+	lāki: laki C. -->
+<app loc="3">
+<lem>dharmiṣṭha</lem>
+<rdg source="bib:Casparis1950_01">dharma<unclear>stha</unclear></rdg>
+</app>
+<app loc="3">
+<lem>parpuAntaṅ a<unclear>na</unclear>kabbi</lem>
+<rdg source="bib:Casparis1950_01">parpuAnta jantakabbi</rdg>
+<!-- Damais (1968: 336 n. 1) Nous ne sommes pas sûr personnellement de la lecture jantakabbi, ni de l'autre possibilité que suggère De C. p. 62, remarque 10, janmakabbi (seul kabbi est certain), mais ce détail importe peu ici. -->
+</app>
+<app loc="3">
+<lem>parpuAntaṁ</lem>
+<rdg source="bib:Casparis1950_01">parpuAnta</rdg>
+</app>
+</listApp>                     
+</div>
+              <div type="translation">
+<p>Homage to Śiva! The chiefs around the boundaries <supplied reason="explanation"><foreign>sahiṅ</foreign></supplied><note>De Casparis understands <foreign>sahiṅa-alas</foreign>.</note> of the hermitage forest, old and young, men and women, may <supplied reason="explanation">? <foreign>au</foreign></supplied><note>We speculate that <foreign>au</foreign> had a grammatical function like <foreign>semoga</foreign> in Modern Malay and <foreign>muah</foreign> in other Old Malay texts.</note> listen to all your works. Virtuous was the action of the lord and lady of the hermitage <supplied reason="explanation">named</supplied> Ratnamaheśvara. The lord was called Busu Mauṅ, the lady was called Iti.<note>On this passage, see the comments in Damais 1968: 335–336.</note> The both of them were exceedingly virtuous. The mother <supplied reason="explanation"><foreign>aya</foreign></supplied><note>That <foreign>aya</foreign> means mother was assumed by De Casparis on weak grounds (see the criticism in Damais 1968: 337), but has subsequently been confirmed by the usage in the <seg rend="check">Sojomerto and Sungai Musi inscriptions</seg>.</note> of the lord was called <foreign>parpuantaṅ anakəbi</foreign>;<note>The word <foreign>anakəbi</foreign> means <q>woman, wife, girl</q> in Old Javanese.</note> the mother of the lady was called <foreign>parpuantaṅ panuahan</foreign>.
+</p>
+</div>
+              <div type="commentary"/>
+              <div type="bibliography">
+                 <p>Two provisional readings by J. L. A. Brandes (<bibl rend="omitname"><ptr target="bib:Brandes1913_01"/></bibl>); edited again by J. G. de Casparis (<bibl rend="omitname"><ptr target="bib:Casparis1950_01"/></bibl>).<note>As pointed out by Damais (1960, 1968), De Casparis misread many cases of <foreign>ḍ</foreign> as <foreign>d</foreign>. There are many inconsistencies between statements in De Casparis’ notes (whose placement is also often somewhat distant from the characters concerned) and readings adopted in his edition. There are also numerous small typographic errors (e.g., with regard to vowel length) in De Casparis' edition. Such relatively insignificant variant  readings are not recorded in our apparatus.</note> Re-edited here by Arlo Griffiths from photogrammetry.</p>
+                 <listBibl type="primary">
+                    <bibl n="B">
+                       <ptr target="bib:Brandes1913_01"/>
+                       <citedRange unit="page">???-???</citedRange>
+                       <citedRange unit="item">CV</citedRange>
+                    </bibl>
+                    <bibl n="D">
+                       <ptr target="bib:Casparis1950_01"/>
+		<citedRange unit="item">IV</citedRange>
+                       	<citedRange unit="page">50-73</citedRange>
+
+                    </bibl>
+                 </listBibl>
+                 <listBibl type="secondary">
+                    <bibl><ptr target="bib:Verbeek1891_01"/>
+                       	<citedRange unit="page">139-140</citedRange>
+		<citedRange unit="item">249</citedRange>
+                    </bibl>
+<!--
+	Hoepermans
+	NBG: see refs in Puhawang Glis
+	<bibl><ptr target="bib:Krom1931_01"/><citedRange unit="page">???</citedRange></bibl>
+                    <bibl>
+                       <ptr target="bib:Damais1952_01"/>
+                       <citedRange unit="page">???</citedRange>
+                       <citedRange unit="item">A. 11???</citedRange>
+                    </bibl>
+                    <bibl>
+                       <ptr target="bib:Sarkar1971-1972_01"/>
+	     <citedRange unit="volume">I</citedRange>
+                       <citedRange unit="page">74(ii)-75(ii)</citedRange>
+                       <citedRange unit="item">XI</citedRange>
+                    </bibl>
+	<bibl><ptr target="bib:Nakada1982_01"/><citedRange unit="part">I</citedRange><citedRange unit="item">15</citedRange><citedRange unit="page">76-77</citedRange></bibl>-->
+<bibl><ptr target="bib:Weatherbee2000_01"/></bibl>
+                 </listBibl>
+              </div>	
+           </body>
+   </text>
+</TEI>
