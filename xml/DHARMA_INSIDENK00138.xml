@@ -76,30 +76,31 @@
     <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="omy-Latn" rendition="class:38769 maturity:83213">
-<p><lb n="1"/><g type="ddanda"/> padmasri yaA<unclear>ṁ</unclear> puṇya siliḥ vapuḥ A<unclear>y</unclear>āṇ<unclear>ḍ</unclear>a vapāṇda <g type="ddanda"/></p>
+<p><lb n="1"/><g type="ddanda"/> padmasri ya A<unclear>ṁ</unclear>pu<subst><del>ṇya</del><add place="above">ña</add></subst> siliḥ vapuḥ A<unclear>y</unclear>āṇ<unclear>ḍ</unclear>a vapāṇḍa <g type="ddanda"/></p>
          </div>
          <div type="apparatus">
                <listApp>
                   <app loc="1">
-                     <lem>puṇya</lem>
-                     <note>There is an undulating sign above the <foreign>pu</foreign>. I cannot recognize it as a grapheme. If nevertheless it is one, it might be meant to note here a sequence like <foreign>mpu</foreign>, <foreign>əmpu</foreign> or <foreign>ṅpu</foreign>, or else a scribal correction of <foreign>ṇya</foreign> to <foreign>ña</foreign>. If none of these possibilities apply, it must be accidental or ornamental.</note>
+	  <lem>ya A<unclear>ṁ</unclear>pu<subst><del>ṇya</del><add place="above">ña</add></subst> </lem>
+                     <rdg source="bib:Griffiths2011_01">yaA<unclear>ṁ</unclear> puṇya</rdg>
+                     <note>In my previous publication, I was unable to offer a plausible justification of the spelling <foreign>yaAṁ</foreign> and did not yet recognize the character <foreign>ña</foreign> that I now read and interpret as a substitution for <foreign>ṇya</foreign>. As a consequence, if <foreign>anusvāra</foreign> here expresses the phoneme /m/ as it is known to do in some other Old Malay texts too (<bibl><ptr target="bib:Clave+Griffiths2022_01"/><citedRange unit="page">182, 193</citedRange><citedRange unit="note">45</citedRange></bibl>), we are able to interpret <foreign>Aṁpu</foreign> as a spelling of <foreign>əmpu</foreign>.</note>
                   </app>
                </listApp>
          </div>
          <div type="translation"/>
          <div type="commentary">
-            <p>The meaning of this text is still rather unclear. The following translation options can be proposed:
+            <p>Despite progress in understanding since my 2011 publication, the meaning of this text is still rather unclear. Although it seems more likely that <foreign>ya</foreign> is a pronoun, it might also be interpreted as the final syllable of a name then to be read as Padmaśriya. The following translation options can be proposed:
 <list rend="numbered">
-<item>Padmasri. The owner <supplied reason="explanation">of this statuette</supplied> has replaced his/her mother <supplied reason="subaudible">and</supplied> his/her father.</item>
-<item>Padmasri is the owner replacing his/her mother <supplied reason="subaudible">and</supplied> his/her father.</item>
-<item>Padmasri is the owner of <supplied reason="subaudible">this</supplied> likeness of his/her mother <supplied reason="subaudible">and</supplied> his/her father.’</item>
+<item>Padmasri, he is the owner replacing his/her mother <supplied reason="subaudible">and</supplied> his/her father.</item>
+<item>Padmasri, he is the owner of <supplied reason="subaudible">this</supplied> likeness of his/her mother <supplied reason="subaudible">and</supplied> his/her father.</item>
+<item>Padmasriya. The owner <supplied reason="explanation">of this statuette</supplied> has replaced his/her mother <supplied reason="subaudible">and</supplied> his/her father.</item>
 </list>
 </p>
           </div>
         <div type="bibliography">
-           <p>First published by Griffiths (<bibl rend="omitname"><ptr target="bib:Griffiths2011_01"/></bibl>), from photographs. This digital edition by Arlo Griffiths (2025), based on the previous publication.</p>
+           <p>First published by Griffiths (<bibl rend="omitname"><ptr target="bib:Griffiths2011_01"/></bibl>), from photographs. This digital edition by Arlo Griffiths (2025), based on the previous publication, with one significant modification.</p>
         	<listBibl type="primary">
-                <bibl n="G"><ptr target="bib:Griffiths2011_01"/><citedRange unit="page">151-156</citedRange></bibl></listBibl>
+                <bibl n="2011"><ptr target="bib:Griffiths2011_01"/><citedRange unit="page">151-156</citedRange></bibl></listBibl>
            <!--<listBibl type="secondary"></listBibl>-->
         </div>
       </body>
