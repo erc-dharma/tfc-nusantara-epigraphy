@@ -67,23 +67,13 @@
            <body> 
                    <div type="edition" xml:lang="omy-Latn" rendition="class:38769 maturity:83213">
 <p>
-<lb n="1"/><g type="ddandaCross"/> namaś śivāya, Au mahājana ḍi sahiṅ ālas· partapān· tuhaṅ uḍa laki vini maṇḍaṅar· vuAt·tānta parāvis·, <choice><sic>dhimi</sic><corr>dharma</corr></choice>
+<lb n="1"/><g type="ddandaCross"/> namaś śivāya, Au mahājana ḍi sahiṅ ālas· partapān· tuha ṅuḍa laki vini maṇḍaṅar· vuAt·tānta parāvis·, <choice><sic>dhimi</sic><corr>dharma</corr></choice>
 <lb n="2"/>gatiṇḍa ḍaṁ karayān· partapān· ratnamaheśvara siḍa busu maun· namāṇḍa ḍaṁ karayān lāki busu Iti namāṇḍa ḍaṁ karayān· vini<unclear><g type="dotMid"/></unclear>
 <lb n="3"/>Atya<unclear>nta</unclear> dharmiṣṭha siḍa ḍuA<g type="dotMid"/> Ayāṇḍa 
 <supplied reason="omitted">ḍa</supplied>ṁ karayān· lāki parpuAntaṅ a<unclear>na</unclear>kabbi namaṇḍa, Ayāṇḍa ḍaṁ karayān· vini parpuAntaṁ panuA<seg rend="check">ḥha</seg>n· nama<lb 
 n="4" break="no"/>ṇḍa<g type="dotMid"/> siḍa Inan ḍuA Atibhāgya siḍa varanak· puruṣaratna varanak· strīratna<g type="dotMid"/> Aḍiṇḍa ḍaṁ karayān· lāki busu ta<unclear>mva</unclear> namaṇḍa, Iparḍa ḍaṁ karayā<lb break="no" 
-n="5"/>n parttapān· busu bajra busūttara Udaṇḍa[14] sānak· busu taray· busu daṇḍai Udaṇḍa sapopo[15] busu huvuriyan· pamāṇḍa[16] viṣṇuratha nam(ā)ṇḍa sarabhāra ḍi
-<!--	sānak·: sanak· C.
-	Udaṇḍa (2x) or ḍaṁ daṇḍa
-	pamāṇḍa: pamaṇḍa C.
-	viṣṇuratha: viṣṇurata C.
-	nam(ā)ṇḍa: namaṇḍa C.
-	ḍi: di C.-->
-<lb n="6"/>nāyaka vatak bunut· tathāpi Udaṇḍa sapopo[15] busu padaruṁṅan namāṇḍa[17] sarabhāra ḍi nāyaka vatak kahuluAn tathāpi varanak· siḍa busu putiḥ padi, taijaḥ[18]
-<!--	Udaṇḍa or ḍaṁ daṇḍa
-	padaruṁṅan: padaraṅan C.
-	namāṇḍa: nāmaṇḍa C.
-	ḍi: di C.-->
+n="5"/>n parttapān· busu ba<unclear>jra</unclear> busūttara ḍaṅaṇḍa sānak· busu tara<unclear>l·</unclear> busu U<unclear>vḍ</unclear>ai, ḍa<unclear>ṅa</unclear>ṇḍa sapopo busu h<unclear>uv</unclear>uriya n<unclear>āma</unclear> pamāṇḍa viṣṇuratha nam<unclear>ā</unclear>ṇḍa sarabhāra ḍi
+<lb n="6"/>nāyaka vatak<!-- vatuk? batuk? --> bunut· tathāpi ḍaṅaṇḍa sapopo busu padaruṁṅa nāmāṇḍa sā<unclear>rabhāra</unclear> ḍi nāyaka vatak ka<unclear>yu</unclear> hāsam· tathāpi va<space type="defect"/>ranak· siḍa busu putiḥ paṅin· tujuḥ
 <lb n="7"/>pahik·[19] svast(i)[20] pagar vvassi Āvat· Iṇḍu[21] Anakḍa kulaputrī Inan parāvis· tathāpi pagar vvatu pagar duri si buha samvuhan·[22] vitaka dadaṁ[23] vihāra nagarī Inanta baña-
 <!--	Āvat·: Avat· C.
 	samvuhan·: sampuh ... C.
@@ -137,7 +127,7 @@ n="5"/>n parttapān· busu bajra busūttara Udaṇḍa[14] sānak· busu taray·
 <app loc="1">
 <lem>tuhaṅ uḍa</lem>
 <rdg source="bib:Casparis1950_01">tuha ṅuda</rdg>
-<note>It is unclear whether the <foreign>ṅ</foreign> is a prefix or an enclitic, but more likely the latter, unless we are dealing with a scribal error for  <foreign>muda</foreign>. We seem to observe the same usage of <foreign>ṅ</foreign> in <foreign>partuanta-ṅ</foreign> that occurs twice in line 3.</note>
+<note>Unless we are dealing with a scribal error for  <foreign>muda</foreign>, it is unclear whether the <foreign>ṅ</foreign> is a prefix or an enclitic. If the latter, we seem to observe the same usage of <foreign>ṅ</foreign> in <foreign>partuanta-ṅ</foreign> that occurs twice in line 3. But <foreign>ṅuda</foreign> exists in Balinese.<!-- KBW IV, 1092 --></note>
 </app>
 <!-- line 2	namāṇḍa: namaṇḍa C.
 	namāṇḍa: namaṇḍa C. -->
@@ -179,6 +169,58 @@ n="5"/>n parttapān· busu bajra busūttara Udaṇḍa[14] sānak· busu taray·
 <lem>ta<unclear>mva</unclear></lem>
 <rdg source="bib:Casparis1950_01">tarbba</rdg>
 </app>
+<app loc="5">
+<lem>ḍaṅaṇḍa</lem>
+<rdg source="bib:Casparis1950_01">Udaṇḍa</rdg>
+</app>
+<app loc="5">
+<lem>tara<unclear>l·</unclear></lem>
+<rdg source="bib:Casparis1950_01">taray·</rdg>
+</app>
+<app loc="5">
+<lem>U<unclear>vḍ</unclear>ai,</lem>
+<rdg source="bib:Casparis1950_01">daṇḍai</rdg><!-- Utpai? Uspai? Ubhdai? Ugdai? -->
+</app>
+<app loc="5">
+<lem>ḍaṅaṇḍa</lem>
+<rdg source="bib:Casparis1950_01">Udaṇḍa</rdg>
+</app>
+<app loc="5">
+<lem>h<unclear>uv</unclear>uriya  n<unclear>āma</unclear></lem>
+<rdg source="bib:Casparis1950_01">huvuriyan</rdg>
+</app>
+<app loc="5">
+<lem>viṣṇuratha</lem>
+<rdg source="bib:Casparis1950_01">viṣṇurata</rdg>
+</app>
+<!-- line 5	ba<unclear>jra</unclear>: could be bandha
+	ḍaṅaṇḍa: Udaṇḍa C. [14] De lezing udaṇḍa is hier zowel als in de volgende regel niet absoluut zeker. Op al deze plaatsen zou dadaṇḍa palaeografisch even goed mogelijk zijn. Zoals uit reg. 9 blijkt, worden begin-u en da vrijwel volkomen gelijk geschreven.
+	sānak·: sanak· C.	
+	pamāṇḍa: pamaṇḍa C.
+	nam<unclear>ā</unclear>ṇḍa: namaṇḍa C.
+	ḍi: di C.-->
+<app loc="6">
+<lem>ḍaṅaṇḍa</lem>
+<rdg source="bib:Casparis1950_01">Udaṇḍa</rdg>
+</app>
+<app loc="6">
+<lem>padaruṁṅa</lem>
+<rdg source="bib:Casparis1950_01">padaraṅan</rdg><!-- Or paṅaruṁṅa? -->
+</app>
+<app loc="6">
+<lem>sā<unclear>rabhāra</unclear></lem>
+<rdg source="bib:Casparis1950_01">sarabhāra</rdg>
+<note>Actually it looks more like <foreign>sānakana</foreign>.</note>
+</app>
+<app loc="6">
+<lem>ka<unclear>yu</unclear> hāsam</lem>
+<rdg source="bib:Casparis1950_01">kahuluAn</rdg>
+</app>
+<app loc="6">
+<lem>paṅir· tujuḥ</lem>
+<rdg source="bib:Casparis1950_01"> padi, taijaḥ</rdg><!-- Or read tuvuḥ instead of tujuḥ? And/or paṅin· instead of paṅir·? -->
+</app>
+<!--line 6	ḍi: di C. -->
 </listApp>                     
 </div>
               <div type="translation">
