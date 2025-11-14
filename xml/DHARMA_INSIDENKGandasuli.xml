@@ -60,7 +60,7 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
-         <change who="part:argr" when="2025-11-03">encoded the edition</change>
+         <change who="part:argr" when="2025-11-03">started encoding the inscription</change>
       </revisionDesc>
    </teiHeader>
    <text xml:space="preserve">
@@ -222,6 +222,7 @@ n="5"/>n parttapān· busu ba<unclear>jra</unclear> busūttara ḍaṅaṇḍa s
 <rdg source="bib:Casparis1950_01"> padi, taijaḥ</rdg><!-- Or read tuvuḥ instead of tujuḥ? And/or paṅin· instead of paṅir·? -->
 </app>
 <!--line 6	ḍi: di C. -->
+
 </listApp>                     
 </div>
               <div type="translation">
