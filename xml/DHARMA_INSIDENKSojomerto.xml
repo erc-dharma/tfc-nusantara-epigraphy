@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-            	<title>Sojomerto (7th century CE)</title>
+            	<title>Sojomerto (7th or 8th century CE)</title>
             	<respStmt>
             		<resp>author of digital edition</resp>
             		<persName ref="part:argr">
@@ -77,12 +77,12 @@
       <body>
          <div type="edition" xml:lang="omy-Latn" rendition="class:83227 maturity:83213">
             <p>
-<lb n="1"/> <gap reason="lost" quantity="2" unit="character" precision="low"/>r<choice><unclear>y</unclear><unclear>th</unclear></choice>ayo śrī sata<gap reason="illegible" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character" precision="low"/>
+<lb n="1"/><gap reason="lost" quantity="2" unit="character" precision="low"/>r<choice><unclear>y</unclear><unclear>th</unclear></choice>ayo śrī sata<gap reason="illegible" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character" precision="low"/>
 <lb n="2"/> <gap reason="lost" quantity="2" unit="character" precision="low"/><unclear>śā</unclear> koṭī
 <lb n="3"/>namaḥś śīvăya
 <lb n="4"/>bhaṭāra parameśva<lb 
 n="5" break="no"/>ra sarvvadaiva ku<unclear>sa</unclear>mvaḥhi <unclear>ya</unclear>
-<lb n="6"/><supplied reason="lost">j</supplied>āmiḥ Inan cīṣnāṇḍa ḍapū<lb 
+<lb n="6"/><supplied reason="lost">j</supplied>āmiḥ Inan <unclear>v</unclear>īṣnāṇḍa ḍapū<lb 
 n="7" break="no"/>nta selendranamaḥ santanū
 <lb n="8"/> namāṇḍa bāpaṇḍa bhadravati
 <lb n="9"/>nama<unclear>ḥ</unclear>ṇḍa Ayaṇḍa sampū<unclear>r</unclear>ṇa
@@ -92,6 +92,15 @@ n="7" break="no"/>nta selendranamaḥ santanū
          </div>
          <div type="apparatus">
                <listApp>
+<app loc="1">
+<lem><gap reason="lost" quantity="2" unit="character" precision="low"/>r<choice><unclear>y</unclear><unclear>th</unclear></choice>ayo</lem>
+<rdg source="bib:Boechari1966_01">ryayoṁ</rdg>
+<note>The spelling <foreign>ryayon</foreign> was a misprint in the 1966 publication, unfortunately left uncorrected by the editors in the 2012 publictaion.</note>
+</app>
+				<app loc="6">
+                     <lem><unclear>v</unclear>īṣnāṇḍa</lem>
+                     <rdg source="bib:Boechari1966_01"><unclear>dh</unclear>iṣnānda</rdg>
+                  </app>
                   <app loc="9">
                      <lem>sampū<unclear>r</unclear>ṇa</lem>
                      <rdg source="bib:Boechari1966_01">sampūla</rdg>
@@ -99,27 +108,29 @@ n="7" break="no"/>nta selendranamaḥ santanū
                </listApp>
          </div>
          <div type="translation">
- 	<p>... homage to Śiva, sovereign lord!
-I truly always bow down to these relatives:
-	His cīṣna (?) Milord Selendranamaḥ;
-	called Santanū, his father;
-	called Bhadravatī, his mother;
-	called Sampūrṇa, his wife.
-Selendranamaḥ ....</p>
+ 	<p><gap reason="ellipsis"/> homage to Śiva, sovereign lord!
+I ever and always bow down to Him!</p>
+	<p>There are the relatives: 
+	<list>
+	<item>his father in-law <supplied reason="explanation">? <foreign>vīṣna</foreign></supplied> Milord Selendranamaḥ;</item>
+	<item>called Santanū, his father;</item>
+	<item>called Bhadravatī, his mother;</item>
+	<item>called Sampūrṇa, his wife.</item></list>
+Selendranamaḥ <gap reason="ellipsis"/></p>
          </div>
          <div type="commentary">
-           <p>sarvadaiva can be Sanskrit, sarvadā+eva ‘truly always, or it can be a slightly deviant spelling of sarvadeva ‘all gods’. The former option seems more likely in the context.</p>
-	<p>ku could equally be possessive suffix. But I take it as marking the agent of a transitive verb sembah-i, with orthographic doubling of the base-final consonant, plus glide and irrealis suffix (kusambaḥhiya = kusembahia). But Boechari assumes here hiyaṁ ‘god’, which is admittedly not a bad idea. It would give us the OM form of sembahyang. (Also attested in an OJ inscription.)
-	At the transition between lines 5 and 6, I expect a word such as ‘relative’, to cover the group that follows. This is why I restore the word jāmi, which has precisely this sense in Sanskrit, but note that the j is conjectural, and the final ḥ implies borrowing of an inflected Sanskrit form (nom. sg.), which is a bit unusual; the final /h/ could also be explained in other ways, e.g. as a purely phonetic/graphic feature with reference to the repeated forms in °namaḥ which must mean °nāma.</p>
+           <p>The expression <foreign>sarvvadaiva</foreign>, from Sanskrit, can be analyzed as <foreign>sarvadā+eva</foreign> <q>ever and always</q>, or it can be a slightly deviant spelling of <foreign>sarvadeva</foreign> <q>all gods</q>. The former option seems more likely in the context.</p>
+	<p>The element <q>ku</q>, that take as marking the agent of a transitive verb <foreign>sembah-i</foreign>, could equally be possessive suffix. We observe orthographic doubling of the base-final consonant. It would be possible to assume glide and irrealis suffix (<foreign>kusambaḥhiya</foreign> = <foreign>kusembahia</foreign>), but I assume that ya is a separate word, namely an anaphoric pronouns marking the object of the very. Boechari here assumed the word <foreign>hiyaṁ</foreign> <q>god</q>, which is also a viable option. It would give us the Old Malay form of <foreign>sembahyang</foreign> — also attested in the 9th-century Old Javanese <ref target="DHARMA_INSIDENKLanda.xml">Landa</ref> inscription.</p>
+	<p>At the transition between lines 5 and 6, I expect a word such as <q>relative</q>, to cover the group that follows. This is why I restore the word <foreign>jāmi</foreign>, which has precisely this sense in Sanskrit. But the <foreign>j</foreign> is entirely conjectural, and the unexpected final <foreign>ḥ</foreign> would then seem to be another instance of the unexpected appearance of this sound in the repeated forms <foreign>namaḥ</foreign> that must mean <foreign>nāma</foreign> <q>name</q>.</p>
 	<!--svāmi?
 	the same word as at the end of line 11?-->
-	<p>I don’t get which would lurks behind cīṣnāṇḍa. Perhaps, if we may read vīṣṇāṇḍa, we can imagine here a form of Malay besan? Cf. Sungai Musi inscription published in Archipel 2011, for ayanda and bapanda.</p>
-	<p>It should be noted that if my divisions of words is correct, Selendranamaḥ is a very surprising name, from the Sanskrit point of view. Either is is for Śailendranāma ‘named Śailendra’, in which case the ḥ is unexpected; or it is for Śailendranamaḥ ‘Śailendra-homage’, in which case it makes no sense (this is not a natural Sanskrit compound). But if we separate selendra namaḥ, we seem to run into other problems.</p>
-	<p>In line 11, it would also be possible to read vājīḥ. The rest of the reading seems fairly secure. Could we have here an irrealis verb-from ma-magap-a? It is a bit reminiscent of the still unexplained maṅgap forms, mentioned in Griffiths 2011 and 2021. For the rest, I have no idea at all.</p>
+	<p>Instead of <foreign>cīṣnāṇḍa</foreign>, perhaps we may read <foreign>vīṣṇāṇḍa</foreign>, in which case we coulkd imagine here a form of Malay <foreign>besan</foreign>? Cf. the inscriptions <ref target="DHARMA_INSIDENK00138.xml">N. 138</ref> and <ref target="DHARMA_INSIDENKGandasuli.xml">Gandasuli</ref> for the kinship terms <foreign>ayāṇḍa</foreign> and <foreign>bapāṇḍa</foreign>.</p>
+	<p>It should be noted that if my divisions of words is correct, <foreign>selendranamaḥ</foreign> is a very surprising name, from the Sanskrit point of view. Either is is for <foreign>śailendranāma</foreign> <q>named Śailendra</q>, in which case the <foreign>ḥ</foreign> is unexpected; or it is for <foreign>śailendranamaḥ</foreign> <q>Śailendra-homage</q>, in which case it makes no sense. But if we separate <foreign>selendra namaḥ</foreign>, we seem to run into other problems.</p>
+	<p>In line 11, it would also be possible to read <foreign>vājīḥ</foreign>. The rest of the reading seems fairly secure. Could we have here an irrealis verb-from ma-magap-a? It is reminiscent of the <foreign>maṅgap</foreign> forms discussed in <bibl><ptr target="bib:Griffiths2020_02"/><citedRange unit="page">247-251</citedRange></bibl>. For the rest, I have no idea at all.</p>
          </div>
         <div type="bibliography">
 	<!--bibliography encoded as per section §9.4 -->
-           <p>First edited by Boechari. This revised edition by Arlo Griffiths (2025) based on the EFEO estampage n. 2149 and phorogrammetry by Adeline Levivier.</p>
+           <p>First edited in an English-language publication by Boechari (<bibl rend="omitname"><ptr target="bib:Boechari1966_01"/></bibl>, a publication marred by typographical limitations and some errors suspected to be misprints), cited here after the more reliable version included in the scholar's collected papers (<bibl rend="omitname"><ptr target="bib:Boechari2012_24"/></bibl>). This revised edition by Arlo Griffiths (2025) based on the EFEO estampage n. 2149 and photogrammetry by Adeline Levivier.</p>
         	<listBibl type="primary">
 				<bibl n="B"><ptr target="bib:Boechari1966_01"/></bibl>
 			</listBibl>
