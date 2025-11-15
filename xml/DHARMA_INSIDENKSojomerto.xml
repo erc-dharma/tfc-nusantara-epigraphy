@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-            	<title>Sojomerto (early 7th century CE)</title>
+            	<title>Sojomerto (7th century CE)</title>
             	<respStmt>
             		<resp>author of digital edition</resp>
             		<persName ref="part:argr">
@@ -77,17 +77,17 @@
       <body>
          <div type="edition" xml:lang="omy-Latn" rendition="class:83227 maturity:83213">
             <p>
-<lb n="1"/> ......... - - ryayo śrī sata .........
-<lb n="2"/> ......... - -śā koṭī
-<lb n="3"/> namaḥś śīvăya
-<lb n="4"/> bhaṭāra parameśva<lb 
-n="5" break="no"/>ra sarvvadaiva ku(sa)mvaḥhi (ya)
-<lb n="6"/> [j]āmiḥ Inan cīṣnāṇḍa ḍapū<lb 
+<lb n="1"/> <gap reason="lost" quantity="2" unit="character" precision="low"/> ryayo śrī sata <gap reason="illegible" quantity="1" unit="character"/> <gap reason="lost" quantity="1" unit="character" precision="low"/>
+<lb n="2"/> <gap reason="lost" quantity="2" unit="character" precision="low"/><unclear>śā</unclear> koṭī
+<lb n="3"/>namaḥś śīvăya
+<lb n="4"/>bhaṭāra parameśva<lb 
+n="5" break="no"/>ra sarvvadaiva ku<unclear>sa</unclear>mvaḥhi <unclear>ya</unclear>
+<lb n="6"/><supplied reason="lost">j</supplied>āmiḥ Inan cīṣnāṇḍa ḍapū<lb 
 n="7" break="no"/>nta selendranamaḥ santanū
 <lb n="8"/> namāṇḍa bāpaṇḍa bhadravati
 <lb n="9"/>nama<unclear>ḥ</unclear>ṇḍa Ayaṇḍa sampū<unclear>r</unclear>ṇa
 <lb n="10"/>namaṇḍa viniṇḍa selendranama<unclear>ḥ</unclear>
-<lb n="11"/>mamāgappāsarlempevāṅiḥ
+<lb n="11"/>mamāgappāsarlempe<space type="descender"/>vāṅiḥ
 </p>
          </div>
          <div type="apparatus">
@@ -99,10 +99,23 @@ n="7" break="no"/>nta selendranamaḥ santanū
                </listApp>
          </div>
          <div type="translation">
- 	<!--translation encoded as per EGD §9.2 -->
+ 	<p>... homage to Śiva, sovereign lord!
+I truly always bow down to these relatives:
+	His cīṣna (?) Milord Selendranamaḥ;
+	called Santanū, his father;
+	called Bhadravatī, his mother;
+	called Sampūrṇa, his wife.
+Selendranamaḥ ....</p>
          </div>
          <div type="commentary">
-            <!--commentary encoded as per section §9.3 -->
+           <p>sarvadaiva can be Sanskrit, sarvadā+eva ‘truly always, or it can be a slightly deviant spelling of sarvadeva ‘all gods’. The former option seems more likely in the context.</p>
+	<p>ku could equally be possessive suffix. But I take it as marking the agent of a transitive verb sembah-i, with orthographic doubling of the base-final consonant, plus glide and irrealis suffix (kusambaḥhiya = kusembahia). But Boechari assumes here hiyaṁ ‘god’, which is admittedly not a bad idea. It would give us the OM form of sembahyang. (Also attested in an OJ inscription.)
+	At the transition between lines 5 and 6, I expect a word such as ‘relative’, to cover the group that follows. This is why I restore the word jāmi, which has precisely this sense in Sanskrit, but note that the j is conjectural, and the final ḥ implies borrowing of an inflected Sanskrit form (nom. sg.), which is a bit unusual; the final /h/ could also be explained in other ways, e.g. as a purely phonetic/graphic feature with reference to the repeated forms in °namaḥ which must mean °nāma.</p>
+	<!--svāmi?
+	the same word as at the end of line 11?-->
+	<p>I don’t get which would lurks behind cīṣnāṇḍa. Perhaps, if we may read vīṣṇāṇḍa, we can imagine here a form of Malay besan? Cf. Sungai Musi inscription published in Archipel 2011, for ayanda and bapanda.</p>
+	<p>It should be noted that if my divisions of words is correct, Selendranamaḥ is a very surprising name, from the Sanskrit point of view. Either is is for Śailendranāma ‘named Śailendra’, in which case the ḥ is unexpected; or it is for Śailendranamaḥ ‘Śailendra-homage’, in which case it makes no sense (this is not a natural Sanskrit compound). But if we separate selendra namaḥ, we seem to run into other problems.</p>
+	<p>In line 11, it would also be possible to read vājīḥ. The rest of the reading seems fairly secure. Could we have here an irrealis verb-from ma-magap-a? It is a bit reminiscent of the still unexplained maṅgap forms, mentioned in Griffiths 2011 and 2021. For the rest, I have no idea at all.</p>
          </div>
         <div type="bibliography">
 	<!--bibliography encoded as per section §9.4 -->
