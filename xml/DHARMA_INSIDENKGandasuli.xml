@@ -85,19 +85,10 @@ n="5"/>n parttapān· busu ba<unclear>jra</unclear> busūttara ḍaṅaṇḍa s
 <lb n="9"/>pūrvva dakṣiṇa paścima Uttara Itas-tataḥ Iya maṁstuti guṇāṇḍa ḍaṁ karayān· partapān·, tathāpi Āḍa Ācāryyāṇḍa gālava nāmaṇḍa sthāpaka siḍa tathāpi
 <lb n="10"/>bapuhmuṇḍa ḍaṁ karayān· śivārjita nāmaṇḍa nāyaka ḍi pra<unclear>ṁ</unclear> kapulaṁ siḍa Inan parāvis· siḍa ta sahāyāṇḍa ḍi dharma puṇya kuśala, Iya makajāḍi pra<lb 
 n="11" break="no"/>tiṣṭa di hyaṁ hāji tarkalaut <seg rend="check">saṁ hyaṁ</seg> vintaṁ prasāda suprayukta-kṣai<supplied reason="omitted">tra</supplied>-sahita Iyaṁ mātraña viniḥnya kṣetra ḍi taraḥ buṅa, tlu bariḥ pragāluḥ Ampa lattir·
-<lb n="12"/>pamaṇḍyan· tlu lattir· kinaĀyvan· Ampa lattir· vunu tlu lattir· pavijaḥhan· ḍuA lattir· kayvara maṇḍar· ḍuA lattir· <seg rend="check">vabuṅa</seg> baharu salattir· muṇḍu
-<!-- @@Arlo continues here -->
-<lb n="13"/>ḍuA lattir· kakalyan· salattir· tarukān· salattir· mātrāña viniḥ ḍi taraḥ buṅa parāvis· Ampa poluḥ salattir· parttakan·[44] ḍi valunuḥ pu posuḥ
-<!--	mātrāña: mātraña C.
-	taraḥ buṅa: tanaḥ buṅa C.
-	poluḥ: puluḥ C [43].-->
-<lb n="14"/>ḍi pragāluḥ parpuAnta varpatiḥ manulu nāmāṇḍa naiyaka ḍi kyu buṁṅan· sahāyāṇḍa varpatiḥ pu līhasin[48] nāmāṇḍa nāyaka ḍi māntyasiḥ
-<!--	nāmāṇḍa: namaṇḍa C.
-	nāmāṇḍa: namaṇḍa C.
-	māntyasiḥ: mantyāsiḥ C.-->
-<lb n="15"/>ḍa punta marhyaṁ jñānatatva nāmāṇḍa
-<!--	nāmāṇḍa: namaṇḍa C.
-	At the end of the text, De Casparis (n. 52) describes ‘een duidelijk sluitingsteken, bestaande uit tweemaal twee schuin-staande streepjes met daartussen een cirkeltje’. None of this is visible. De Casparis must have been confused here.-->
+<lb n="12"/>pamaṇḍyan· tlu lattir· kinaĀyvan· Ampa lattir· vunu tlu lattir· pavijaḥhan· ḍuA lattir· kayvara maṇḍar· ḍuA lattir· va<space type="descender"/>ṅun· baharu salattir· muṇḍu
+<lb n="13"/>ḍuA lattir· kakalyan· salattir· tarukān· salattir· mātrāña viniḥ ḍi taraḥ buṅa parāvis· Ampa poluḥ salattir· parttakan· ḍi <seg rend="check">valunu<unclear>,</unclear> papos<unclear>p</unclear>uḥ</seg>
+<lb n="14"/>ḍi pragāluḥ parpuAnta varpattiḥ m<unclear>ā</unclear>nalu nāmāṇḍa naiyaka ḍi kyu buṁṅan· sahăyāṇḍa varpatiḥ puliṁ hasin nāmāṇḍa nāyaka ḍi māntyasiḥ
+<lb n="15"/>ḍ<choice><sic>u</sic><corr>a</corr></choice> punta ma<unclear>rhyaṁ</unclear> jñānatatva nāmāṇḍa
 </p>
 </div>
 <div type="apparatus">
@@ -108,7 +99,7 @@ n="11" break="no"/>tiṣṭa di hyaṁ hāji tarkalaut <seg rend="check">saṁ h
 <app loc="1">
 <lem>Au-</lem>
 <rdg source="bib:Casparis1950_01">Oṁ</rdg>
-<note>Damais  (1968: 322, 339) noted that the text shows <foreign>Au</foreign> and not <foreign>O</foreign>, but did not object to De Casparis' idea that a <foreign>cecak</foreign> is to be supplied. It seems quite uncertain to us that the Sanskrit sacred syllable <foreign>om</foreign> is intended here.</note>
+<note>Damais (1968: 322, 339) noted that the text shows <foreign>Au</foreign> and not <foreign>O</foreign>, but did not object to De Casparis' idea that a <foreign>cecak</foreign> is to be supplied. It seems quite uncertain to us that the Sanskrit sacred syllable <foreign>om</foreign> is intended here.</note>
 </app>
 <app loc="1">
 <lem>tuhaṅ uḍa</lem>
@@ -263,9 +254,44 @@ n="11" break="no"/>tiṣṭa di hyaṁ hāji tarkalaut <seg rend="check">saṁ h
 <lem>maṇḍar·</lem><rdg source="bib:Casparis1950_01">mandir·</rdg>
 </app>
 <app loc="12">
-<lem>vabuṅa</lem><rdg source="bib:Casparis1950_01">vaṅur·</rdg>
-<note>Possibly read <foreign>vaṅun·</foreign>?</note>
+<lem>va<space type="descender"/>ṅun· baharu</lem><rdg source="bib:Casparis1950_01">vaṅur·</rdg>
 </app>
+<app loc="13">
+<lem>mātrāña</lem><rdg source="bib:Casparis1950_01">mātraña</rdg>
+</app>
+<app loc="13">
+<lem>taraḥ buṅa</lem><rdg source="bib:Casparis1950_01">tanaḥ buṅa</rdg>
+</app>
+<app loc="13">
+<lem>poluḥ</lem><rdg source="bib:Casparis1950_01">puluḥ</rdg>
+<note>De Casparis (n. 43) explicitly denies that <foreign>po</foreign> is engraved, but he is mistaken.</note>
+</app>
+<app loc="13">
+<lem>valunu<unclear>,</unclear> papos<unclear>p</unclear>uḥ</lem><rdg source="bib:Casparis1950_01">valunuḥ pu posuḥ</rdg>
+<!-- vilu nupa posuḥ? vila rupa posuḥ? -->
+</app>
+<app loc="14">
+<lem>varpattiḥ m<unclear>ā</unclear>nalu</lem><rdg source="bib:Casparis1950_01">varpatiḥ manulu</rdg>
+</app>
+<app loc="14">
+<lem>puliṁ hasin</lem><rdg source="bib:Casparis1950_01">pulī hasin</rdg>
+</app>
+<app loc="14">
+<lem>māntyasiḥ</lem><rdg source="bib:Casparis1950_01">mantyāsiḥ</rdg>
+</app>
+<!-- line 14
+	nāmāṇḍa: namaṇḍa C.
+	sahăyāṇḍa: sahāyāṇḍa C.
+	pulī hasin C. 48)	Vermoedelijk staat boven de lī nog een anusvāra, zodat līng hasin te lezen is. "Zilte Woorden" lijkt echter een vreemde naam.
+	nāmāṇḍa: namaṇḍa C. 
+-->
+<app loc="15">
+<lem>jñānatatva nāmāṇḍa</lem>
+<note>At the end of the text, De Casparis (n. 52) describes a clearl;y visible closing symbpl, consisting of two oblique strokes with a circle in between them<!--‘een duidelijk sluitingsteken, bestaande uit tweemaal twee schuin-staande streepjes met daartussen een cirkeltje’ -->, but none of this is actually visible on the stone.</note>
+</app>
+<!--	line 15
+	nāmāṇḍa: namaṇḍa C.
+	-->
 </listApp>                     
 </div>
               <div type="translation">
