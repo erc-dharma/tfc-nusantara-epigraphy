@@ -81,8 +81,10 @@
          <div type="apparatus">
                <listApp>
                   <app loc="1">
-                     <lem>pade<unclear reason="eccentric_ductus">y</unclear>ān da</lem>
+                     <lem>pade<unclear reason="eccentric_ductus">y</unclear>ānda</lem>
                      <rdg source="bib:Casparis1956_01">paḍehānda</rdg>
+					<rdg source="bib:Griffiths2013_01">paḍehān da</rdg>
+					<note>At present (2025), it seems more likely to me that De Casparis was right to interpret <foreign>da</foreign> as a suffix.</note>
                   </app>
                </listApp>
          </div>
