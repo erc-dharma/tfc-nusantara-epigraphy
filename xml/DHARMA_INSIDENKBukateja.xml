@@ -87,8 +87,8 @@
                   </app>
                </listApp>
          </div>
-         <div type="translation">
- 	<!--translation encoded as per EGD §9.2 -->
+         <div type="translation" resp="part:argr">
+ 	<p>This <supplied reason="explanation">referring to the embossed plaque</supplied> is the donation of Da Hawang Payangan.</p>
          </div>
          <div type="commentary">
             <!--commentary encoded as per section §9.3 -->
