@@ -94,13 +94,13 @@
             <!--commentary encoded as per section §9.3 -->
          </div>
         <div type="bibliography">
-           <p>First publsihed by De Casparis (<bibl rend="omitname"><ptr target="bib:Casparis1956_01"/></bibl>); republished by Griffiths (<bibl rend="omitname"><ptr target="bib:Griffiths2013_01"/></bibl>); this digital edition based on the 2013 publication.</p>
+           <p>First published by De Casparis (<bibl rend="omitname"><ptr target="bib:Casparis1956_01"/></bibl>); republished by Griffiths (<bibl rend="omitname"><ptr target="bib:Griffiths2013_01"/></bibl>); this digital edition based on the 2013 publication.</p>
         	<listBibl type="primary">
 				<bibl n="C"><ptr target="bib:Casparis1956_01"/><citedRange unit="page">207-211</citedRange></bibl>
 				<bibl n="G"><ptr target="bib:Griffiths2013_01"/></bibl>
 			</listBibl>
            <listBibl type="secondary">
-              <bibl/><!-- one <bibl/> per item of secondary bibliography -->
+              <bibl><ptr target="bib:Damais1968_01"/><citedRange unit="page">438-442</citedRange></bibl>
            </listBibl>
         </div>
       </body>
