@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-            	<title>Relief label from Borobudur's hidden base, no. 21 ()</title>
+            	<title>Relief label from Borobudur's hidden base, no. 21 (8th c. CE)</title>
             	<respStmt>
             		<resp>author of digital edition</resp>
             		<persName ref="part:argr">
@@ -79,21 +79,21 @@
     <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="san-Latn" rendition="class:38769 maturity:83213">
-<p><lb n="1"/>maheśākhyaḥ</p>
+<p><lb n="1"/>virūpa</p>
          </div>
          <div type="apparatus">
-               <!-- none -->
+               <!-- Kern1896_02 p. 127 read windupa -->
          </div>
          <div type="translation" resp="part:argr">
- 	<p>eminent person</p>
+ 	<p>the ugly one</p>
          </div>
          <div type="commentary">
-            <!--commentary encoded as per section §9.3 -->
+            <!--the deformed one -->
          </div>
         <div type="bibliography">
            <p>First published by Kern (<bibl rend="omitname"><ptr target="bib:Kern1896_02"/></bibl>); republished by the same author (<bibl rend="omitname"><ptr target="bib:Kern1917_23"/></bibl>) and subsequently by Krom (<bibl rend="omitname"><ptr target="bib:Krom1927_01"/></bibl>); this digital edition based on the 1927 publication.</p>
         	<listBibl type="primary">
-				<bibl n="HK1"><ptr target="bib:Kern1896_02"/><citedRange unit="page">123</citedRange></bibl>
+				<bibl n="HK1"><ptr target="bib:Kern1896_02"/><citedRange unit="page">127</citedRange></bibl>
 				<bibl n="HK2"><ptr target="bib:Kern1917_23"/><citedRange unit="page">154</citedRange></bibl>
 				<bibl n="NJK"><ptr target="bib:Krom1927_01"/><citedRange unit="page">51</citedRange></bibl>
 			</listBibl>
