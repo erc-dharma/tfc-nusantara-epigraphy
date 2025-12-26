@@ -8,7 +8,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Foundation of Sarungga's Hermitage</title>
+            <title>Foundation of Sarungga's Hermitage (N. 351)</title>
             <respStmt>
                <resp>EpiDoc Encoding</resp>
                <persName ref="part:wjsa">
@@ -35,7 +35,7 @@
          <publicationStmt>
             <authority>DHARMA</authority>
             <pubPlace>Paris</pubPlace>
-            <idno type="filename">DHARMA_INSIDENKSarungga</idno>
+            <idno type="filename">DHARMA_INSIDENK00351</idno>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/">
                   <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
@@ -80,11 +80,12 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
-      <change who="part:argr" when="2025-12-26">corrected error 923, inserted listApp and added SP II reference</change>
-      <change who="part:argr" when="2024-09-02">changed -nāmā to -nāma || at end</change>
-      <change who="part:wjsa" when="2023-10-03">Confirmed reading of śaruṅga, filled out bibliography, small edits to translation</change>
-      <change who="part:argr" when="2023-09-30">Hyphenated śaka-varṣātīta, removed abbr from śukla, inserted translation</change>
-      <change who="part:wjsa" when="2023-09-30">Created xml file for Sarungga</change>
+      <change who="part:argr" when="2025-12-26" status="draft">changed filename</change>
+      	<change who="part:argr" when="2025-12-26" status="draft">corrected error 923, inserted listApp and added SP II reference</change>
+      	<change who="part:argr" when="2024-09-02" status="draft">changed -nāmā to -nāma || at end</change>
+      	<change who="part:wjsa" when="2023-10-03" status="draft">Confirmed reading of śaruṅga, filled out bibliography, small edits to translation</change>
+      	<change who="part:argr" when="2023-09-30" status="draft">Hyphenated śaka-varṣātīta, removed abbr from śukla, inserted translation</change>
+      	<change who="part:wjsa" when="2023-09-30" status="draft">Created xml file for Sarungga</change>
       </revisionDesc>
    </teiHeader>
    <text xml:space="preserve">
