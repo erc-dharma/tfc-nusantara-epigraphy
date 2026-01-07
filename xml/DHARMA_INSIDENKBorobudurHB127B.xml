@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-            	<title>Relief label from Borobudur's hidden base, no. 126A (8th c. CE)</title>
+            	<title>Relief label from Borobudur's hidden base, no. 127B (8th c. CE)</title>
             	<respStmt>
             		<resp>author of digital edition</resp>
             		<persName ref="part:argr">
@@ -23,7 +23,7 @@
         	<publicationStmt>
         		<authority>DHARMA</authority>
         		<pubPlace>Paris, Jakarta</pubPlace>
-        		<idno type="filename">DHARMA_INSIDENKBorobudurHB126A</idno>
+        		<idno type="filename">DHARMA_INSIDENKBorobudurHB127B</idno>
         		<availability>
         			<licence target="https://creativecommons.org/licenses/by/4.0/">
         				<p>This work is licensed under the Creative Commons Attribution 4.0 Unported
@@ -79,17 +79,18 @@
     <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="san-Latn" rendition="class:38769 maturity:83213">
-<p><lb n="1"/>go<unclear>ṣṭhī</unclear></p>
+<p><lb n="1"/>vinayadharmmakāyacitta</p>
          </div>
          <div type="apparatus">
-               <listApp>
-                  <app loc="1">
-                     <lem source="bib:Krom1927_01">go<unclear>ṣṭhī</unclear></lem>
-                  </app>
-               </listApp>
+            <!--<listApp>
+               <app loc="1">
+                  <lem></lem>
+                  <rdg source="bib:"></rdg>
+               </app>
+            </listApp>-->
          </div>
          <div type="translation" resp="part:argr">
- 	<p>pleasant talk</p>
+ 	<p>recognition of or respect for the collection (of books) of Discipline and Doctrine</p>
          </div>
          <div type="commentary">
             <!--none-->
@@ -99,7 +100,7 @@
         	<listBibl type="primary">
 				<bibl n="HK1"><ptr target="bib:Kern1896_02"/><citedRange unit="page">124</citedRange></bibl>
 				<bibl n="HK2"><ptr target="bib:Kern1917_23"/><citedRange unit="page">152</citedRange></bibl>
-				<bibl n="NJK"><ptr target="bib:Krom1927_01"/><citedRange unit="page">52</citedRange></bibl>
+				<bibl n="NJK"><ptr target="bib:Krom1927_01"/><citedRange unit="page">51-52</citedRange></bibl>
 			</listBibl>
            <listBibl type="secondary">
               <bibl><ptr target="bib:Levi1932_02"/><citedRange unit="page">16-17</citedRange><citedRange unit="item">LXIII</citedRange></bibl>
