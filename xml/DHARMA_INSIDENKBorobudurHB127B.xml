@@ -82,18 +82,18 @@
 <p><lb n="1"/>vinayadharmmakāyacitta</p>
          </div>
          <div type="apparatus">
-            <!--<listApp>
+            <listApp>
                <app loc="1">
-                  <lem></lem>
-                  <rdg source="bib:"></rdg>
+                  <lem>vinayadharmmakāyacitta</lem>
+                  <rdg source="bib:Krom1927_01">nirupataptakāyacitta</rdg>
                </app>
-            </listApp>-->
+            </listApp>
          </div>
          <div type="translation" resp="part:argr">
  	<p>recognition of or respect for the collection (of books) of Discipline and Doctrine</p>
          </div>
          <div type="commentary">
-            <!--none-->
+            <p>Nicolaas Johannes Krom translated <foreign>nirupataptakāyacitta</foreign> as "the thought of the body not being purified", or another alternative translations proposed by him are "a not purified body and mind" or "someone who has a mind and body not purified". According to him, Such term would not be misplaced in connection with a preceding <foreign>abhidhyā</foreign> and <foreign>vyāpāda</foreign>.</p> 
          </div>
         <div type="bibliography">
            <p>First published by Kern (<bibl rend="omitname"><ptr target="bib:Kern1896_02"/></bibl>); republished by the same author (<bibl rend="omitname"><ptr target="bib:Kern1917_23"/></bibl>) and subsequently by Krom (<bibl rend="omitname"><ptr target="bib:Krom1927_01"/></bibl>); this digital edition based on the 1927 publication.</p>
