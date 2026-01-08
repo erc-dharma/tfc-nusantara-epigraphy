@@ -82,13 +82,20 @@
 <p><lb n="1"/>virūpa</p>
          </div>
          <div type="apparatus">
-               <!-- Kern1896_02 p. 127 read windupa -->
+                 <listApp>
+                     <app loc="1">
+                         <lem>virūpa</lem>
+                         <rdg source="bib:Kern1896_02">vindupa</rdg>
+                         <rdg source="bib:Kern1917_23">virūpa</rdg>
+                         <note>The reading <foreign>vindupa</foreign> by Johan Hendrik Caspar Kern (<bibl rend="omitname"><ptr target="bib:Kern1896_02"/><citedRange unit="page">127</citedRange></bibl>) then was changed to <foreign>virūpa</foreign> in his later edition (<bibl rend="omitname"><ptr target="bib:Kern1917_23"/><citedRange unit="page">154</citedRange></bibl>).</note>
+                     </app>
+                 </listApp>
          </div>
          <div type="translation" resp="part:argr">
  	<p>the ugly one</p>
          </div>
          <div type="commentary">
-            <!--the deformed one -->
+            <!--none-->
          </div>
         <div type="bibliography">
            <p>First published by Kern (<bibl rend="omitname"><ptr target="bib:Kern1896_02"/></bibl>); republished by the same author (<bibl rend="omitname"><ptr target="bib:Kern1917_23"/></bibl>) and subsequently by Krom (<bibl rend="omitname"><ptr target="bib:Krom1927_01"/></bibl>); this digital edition based on the 1927 publication.</p>
@@ -98,7 +105,7 @@
 				<bibl n="NJK"><ptr target="bib:Krom1927_01"/><citedRange unit="page">51</citedRange></bibl>
 			</listBibl>
            <listBibl type="secondary">
-              <bibl><ptr target="bib:Levi1932_02"/><citedRange unit="page">14-15</citedRange><citedRange unit="item">VIII</citedRange></bibl>
+              <bibl><ptr target="bib:Levi1932_02"/><citedRange unit="page">14-15</citedRange><citedRange unit="item">Kv.S. V and VI</citedRange></bibl>
            </listBibl>
         </div>
       </body>
