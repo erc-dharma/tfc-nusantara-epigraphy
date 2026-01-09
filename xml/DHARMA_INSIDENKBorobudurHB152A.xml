@@ -82,13 +82,12 @@
 <p><lb n="1"/><unclear>dharmaja</unclear>vāda</p>
          </div>
          <div type="apparatus">
-               <!--
                <listApp>
                   <app loc="1">
-                     none
+                     <lem source="bib:Kern1917_23"><unclear>dharmaja</unclear>vāda</lem>
+                     <rdg source="bib:bib:Krom1927_01">puṣpadāna</rdg>
                   </app>
                </listApp>
-               -->
          </div>
          <div type="translation" resp="part:argr">
  	<p>religious debate</p>
