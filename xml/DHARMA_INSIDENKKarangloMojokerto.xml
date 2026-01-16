@@ -79,7 +79,7 @@
 <p>
 <lb n="1"/> <g type="circleFloret"/> <g type="danda"/> <g type="circleFloret"/> Iti sakāka<lb 
 n="2" break="no"/>lā saṁ hyaṁ maṇḍālā<lb 
-n="3" break="no"/>ṅaliḥ kagetenan·
+n="3" break="no"/>ṅaliḥ ka<choice><sic>geten</sic><corr>teg</corr></choice>an·
 <lb n="4"/> <g type="diamond"/> leṁ tuṅgal·
 <lb n="5"/>murttaniṁ vvaṁ <g type="circleFloret"/> <g type="danda"/>  <g type="circleFloret"/>
 
@@ -102,25 +102,27 @@ Rice, MISRK ; Sircar, IE.
  <!--	
 1-2. sakākalā: sakakala Brandes.
 	2-3. maṇḍālāṅaliḥ: maṇḍalaṅalih Brandes.
-	3. kagetenan· K, <unclear>kagetem·</unclear> B
+	3. kagetenan· K
 	4. leṁ: leng Brandes.
 -->
                <listApp><!-- one <app> for each apparatus entry -->
-                  <app loc="line"><!-- update the value of @loc.-->
-                     <lem><!-- fill in a lemma here --></lem>
-                     <rdg source="bib:Brandes1888_02"><!-- update the @source value, fill in variant reading here --></rdg>
+                  <app loc="3">
+                     <lem>ka<choice><sic>geten</sic><corr>teg</corr></choice>an·</lem>
+                     <rdg source="bib:Brandes1888_02"><unclear>kagetem·</unclear></rdg>
+					<rdg source="bib:KromodjojoAdiNegoro1922_02"><unclear>kagetenan·</unclear></rdg>
+					<note>The word is not susceptible to interpretation as it stands, despite Kromodjojo Adi Negoro's attempt <p><foreign>sahestu</foreign> / <foreign>inderdaad</foreign></p>. A drastic emendation is required. In Old Javanese literature, <foreign>kategan/katyāgan</foreign> and <foreign>maṇḍala</foreign> figure together in the same contexts.</note>
                   </app>
                </listApp>
          </div>
          <div type="translation">
- 	<!--translation encoded as per EGD §9.2 -->
+ 	<p>Thus the chronogram of the holy community converting into a hermitage <supplied reason="explanation"><foreign>kategan</foreign></supplied>: <q>the cavity, one, is a manifestation of man</q> (i.e., 1319 Śaka).</p>
          </div>
          <div type="commentary">
-            <!--commentary encoded as per section §9.3 -->
+            <p>Brandes supposed that the chronogram corresponds to 1319, which implies a value <q>3</q> for <foreign>murtta</foreign>; assuming a value <q>0</q>, Kromodjojo Adi Negoro interpreted the chronogram as corresponding to 1019. The latter is implausible from a palaeographic point oif view, although perhaps we cannot exclude that the text commemorated an event of the late 11th century CE a century or two later.</p>
          </div>
         <div type="bibliography">
 	<!--bibliography encoded as per section §9.4 -->
-           <p>First deciphered by Brandes; presented again by Kromodjojo Adi Negoro.</p>
+           <p>Tentatively transcribed, without indication of line breaks by Brandes (<bibl rend="omitname"><ptr target="bib:Brandes1888_02"/></bibl>); edited properly, in Javanese script, by Kromodjojo Adi Negoro (<bibl rend="omitname"><ptr target="bib:KromodjojoAdiNegoro1922_02"/></bibl>). Rew-edited here by Arlo Griffiths (2026) from available visual documentation.</p>
         	<listBibl type="primary">
 				<bibl n="B"><ptr target="bib:Brandes1888_02"/><citedRange unit="page">XIX</citedRange><citedRange unit="item">e</citedRange></bibl>
 				<bibl n="K"><ptr target="bib:KromodjojoAdiNegoro1922_02"/><citedRange unit="page">23-24</citedRange></bibl>
