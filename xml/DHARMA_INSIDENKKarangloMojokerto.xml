@@ -128,6 +128,7 @@ Rice, MISRK ; Sircar, IE.
 				<bibl n="K"><ptr target="bib:KromodjojoAdiNegoro1922_02"/><citedRange unit="page">23-24</citedRange></bibl>
 			</listBibl>
            <listBibl type="secondary">
+		<bibl><ptr target="bib:Bosch1915_01"/><citedRange unit="page">216-217</citedRange><citedRange unit="item">1730</citedRange></bibl>
               <bibl><ptr target="bib:AndiMuhammadSaid+al2018_01"/><citedRange unit="page">79</citedRange><citedRange unit="entry">71</citedRange></bibl>
            </listBibl>
 <!-- 
