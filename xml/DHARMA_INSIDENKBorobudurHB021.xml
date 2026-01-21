@@ -23,7 +23,7 @@
         	<publicationStmt>
         		<authority>DHARMA</authority>
         		<pubPlace>Paris, Jakarta</pubPlace>
-        		<idno type="filename">DHARMA_INSIDENKBorobudurHB043</idno>
+        		<idno type="filename">DHARMA_INSIDENKBorobudurHB021</idno>
         		<availability>
         			<licence target="https://creativecommons.org/licenses/by/4.0/">
         				<p>This work is licensed under the Creative Commons Attribution 4.0 Unported
@@ -73,23 +73,41 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
-        	<change who="part:argr" when="2025-12-05">encoded the inscription</change>
+        	<change who="part:argr" when="2025-12-05">revised the encoding, added sec. bibl. items and added second textpart</change>
+        	<change who="part:hepr" when="2025-12-15">encoded the inscription</change>
         </revisionDesc>
     </teiHeader>
     <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="san-Latn" rendition="class:38769 maturity:83213">
-<p><lb n="1"/>virūpa</p>
+<div type="textpart" subtype="zone" n="A">
+<head xml:lang="eng">Frame</head>
+<p><lb n="1"/><g type="ddanda"/>virūpa<g type="ddanda"/></p>
+</div>
+<div type="textpart" subtype="zone" n="B">
+<head xml:lang="eng">Background</head>
+<p><lb n="1"/><g type="ddanda"/>virūpa<g type="danda"/></p>
+         </div>
          </div>
          <div type="apparatus">
-                 <listApp>
+                 <div type="textpart" n="A">
+					<listApp>
                      <app loc="1">
                          <lem>virūpa</lem>
                          <rdg source="bib:Kern1896_02">vindupa</rdg>
                          <rdg source="bib:Kern1917_23">virūpa</rdg>
-                         <note>The reading <foreign>vindupa</foreign> by Johan Hendrik Caspar Kern (<bibl rend="omitname"><ptr target="bib:Kern1896_02"/><citedRange unit="page">127</citedRange></bibl>) then was changed to <foreign>virūpa</foreign> in his later edition (<bibl rend="omitname"><ptr target="bib:Kern1917_23"/><citedRange unit="page">154</citedRange></bibl>).</note>
+                         <note>Kern initial reading <foreign>vindupa</foreign> (<bibl rend="omitname"><ptr target="bib:Kern1896_02"/></bibl>) then was changed to <foreign>virūpa</foreign> in his later edition (<bibl rend="omitname"><ptr target="bib:Kern1917_23"/></bibl>).</note>
                      </app>
                  </listApp>
+				</div>
+		<div type="textpart" n="B">
+					<listApp>
+                     <app loc="1">
+                         <lem source="bib:BernetKempers1955_01">virūpa</lem>
+                         <note>The repetition of this word on a different zone of the relief not observed by scholars before Bernet Kempers.</note>
+                     </app>
+                 </listApp>
+				</div>
          </div>
          <div type="translation" resp="part:argr">
  	<p>the ugly one</p>
@@ -98,14 +116,19 @@
             <!--none-->
          </div>
         <div type="bibliography">
-           <p>First published by Kern (<bibl rend="omitname"><ptr target="bib:Kern1896_02"/></bibl>); republished by the same author (<bibl rend="omitname"><ptr target="bib:Kern1917_23"/></bibl>) and subsequently by Krom (<bibl rend="omitname"><ptr target="bib:Krom1927_01"/></bibl>); this digital edition based on the 1927 publication.</p>
+           <p>First published by Kern (<bibl rend="omitname"><ptr target="bib:Kern1896_02"/></bibl>); republished by the same author (<bibl rend="omitname"><ptr target="bib:Kern1917_23"/></bibl>) and subsequently by Krom (<bibl rend="omitname"><ptr target="bib:Krom1927_01"/></bibl>); this digital edition based on the 1927 publication, complemented with the subsequent observation of a repetition of the text elesewhere on the same relief by Bernet Kempers (<bibl rend="omitname"><ptr target="bib:BernetKempers1955_01"/></bibl>).</p>
         	<listBibl type="primary">
 				<bibl n="HK1"><ptr target="bib:Kern1896_02"/><citedRange unit="page">127</citedRange></bibl>
 				<bibl n="HK2"><ptr target="bib:Kern1917_23"/><citedRange unit="page">154</citedRange></bibl>
 				<bibl n="NJK"><ptr target="bib:Krom1927_01"/><citedRange unit="page">51</citedRange></bibl>
+				<bibl n="BK"><ptr target="bib:BernetKempers1955_01"/><citedRange unit="page">234-235</citedRange><citedRange unit="figure">4</citedRange></bibl>
 			</listBibl>
            <listBibl type="secondary">
               <bibl><ptr target="bib:Levi1932_02"/><citedRange unit="page">14-15</citedRange><citedRange unit="item">Kv.S. V and VI</citedRange></bibl>
+		<bibl><ptr target="bib:Krom1933_02"/><citedRange unit="page">223</citedRange></bibl>
+		<bibl><ptr target="bib:Casparis1975_01"/><citedRange unit="page">32</citedRange></bibl>
+		<bibl><ptr target="bib:Fontein1989_01"/><citedRange unit="page">22</citedRange></bibl>
+		<bibl><ptr target="bib:Reichle2009_01"/><citedRange unit="page">352-354</citedRange><citedRange unit="table">I</citedRange><citedRange unit="item">O-21</citedRange></bibl>
            </listBibl>
         </div>
       </body>
