@@ -357,12 +357,11 @@ n="1v4" break="no"/>ṇa, siṅha-rāśī, Irika divaśanyājñā śrī mahārā
                      <lem>sat-putra-parigatā</lem>
                      <note>understand <foreign>sat-putra-parigata</foreign>.</note>
                   </app>
-                  <!-- 
-                   3v2. sat-putra-parigatā: understand sat-putra-parigata.
-                  -->
-
-
-
+                  <app loc="5r2">
+                     <lem>suśīlendikajña</lem>
+                     <note>correct <foreign>suśīleṅgitajña-</foreign>? Cf. <ref target="DHARMA_INSPakisWetan.xml">Pakis Wetan</ref> lv9 <foreign>saṁ mantrī nayavid iṅgitajñā</foreign> and <ref target="DHARMA_INSIDENKManahimanuk.xml">Manah i Manuk</ref> 3r1 <foreign>saṁ mantrīṅgitājñāprajālaṅkărā</foreign>.</note>
+                  </app>
+                  
                   <!--
                   <app loc="...">
                      <lem>...</lem>
@@ -374,14 +373,8 @@ n="1v4" break="no"/>ṇa, siṅha-rāśī, Irika divaśanyājñā śrī mahārā
                    
                   -->
 <!--
-	                 
-________________________________________
 
-
-________________________________________
-
-	5a2. suśīlendikajña-: correct suśīleṅgitajña-? Cf. Pakis Wetan, l. 9 saṁ mantrī nayavid iṅgitajñā and Manah i Manuk 3r1  saṁ mantrīṅgitājñāprajālaṅkărā.
-	5a2. -nayānītidakṣa-: correct -nayanītidakṣa-?
+		5a2. -nayānītidakṣa-: correct -nayanītidakṣa-?
 	5a3. -praramapurassāra: correct -paramapurassara.
 ________________________________________
 
