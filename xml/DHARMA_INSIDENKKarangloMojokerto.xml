@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-            	<title>Karang Lo (1319 Śaka)</title>
+            	<title>Karang Lo (1019 Śaka)</title>
             	<respStmt>
             		<resp>author of digital edition</resp>
             		<persName ref="part:argr">
@@ -117,30 +117,33 @@ Rice, MISRK ; Sircar, IE.
                </listApp>
          </div>
          <div type="translation">
- 	<p>Thus the chronogram of the holy community converting into a hermitage <supplied reason="explanation"><foreign>kategan</foreign></supplied>: <q>the cavity, one, is a manifestation of man</q> (i.e., 1319 Śaka).</p>
+ 	<p>Thus the chronogram of the holy community converting into a hermitage <supplied reason="explanation"><foreign>kategan</foreign></supplied>: <q>the cavity, one, is the disappearance of man</q> (i.e., 1019 Śaka).</p>
          </div>
          <div type="commentary">
-            <p>Brandes supposed that the chronogram corresponds to 1319, which implies a value <q>3</q> for <foreign>murtta</foreign>; assuming a value <q>0</q>, Kromodjojo Adi Negoro interpreted the chronogram as corresponding to 1019. The latter is implausible from a palaeographic point of view, although perhaps we cannot exclude that the text commemorated an event of the late 11th century CE a century or two later.</p>
-<!-- add discussion of sources for murta = lost = zero 
+            <p>Brandes supposed that the chronogram corresponds to 1319, which implies a value <q>3</q> for <foreign>murtta</foreign> (presumably Brandes imagined <foreign>murtta</foreign> to be an error for <foreign>mūrti</foreign>, as in <foreign>trimūrti</foreign>); assuming a value <q>0</q>, Kromodjojo Adi Negoro interpreted the chronogram as corresponding to 1019. The latter is implausible from a palaeographic point of view, but has solid support in usage as recorded in 19th-century literary Javanese usage (<bibl><ptr target="bib:Gericke+Roorda1901_01"/><citedRange unit="page"><foreign>murta</foreign></citedRange></bibl>) and may perhaps be explained with reference Sanskrit <foreign>mr̥ta</foreign> <q>deceased</q>. For this reason, we consider Kromodjojo Adi Negoro's interpretation to be correct, and infer that the text is a Majapahit-period commemmoration of an event of the late 11th century CE.</p>
+<!-- 
 Kromodjojo's list, p. 14
+
 GR murta : KW. zva. ilang, verdwenen Wk., BS. 29 (Skr. mûrta, geronnen, ook verdoofd). Sumber: Javaansch-Nederlandsch Handwoordenboek, Gericke en Roorda, 1901, #918.
+
+BS 
+29 awit sasaosanira, dhadhaharan sang sudewi, yen ing ratri asring murta, alapak kadi binukti, miwah kang sarwa sari, tanapi wowohanipun, tanәmanira sang dyah, kathah ingkang ical sami, keksi labәtira kangkәn pinәthikan.
+
+400 rәng lairira, supe yen surәm sotyane, pasthi yayi mas angluh, lamun ical sotyaning murit, pasthi yayi mas seda, makatәn jәng ibu, ing nguni wәwәlingira, mәne sotyaning sәsra murta sumarmi, kawula kawiyogan.
+
 -->
          </div>
         <div type="bibliography">
-	<!--bibliography encoded as per section §9.4 -->
-           <p>Tentatively transcribed, without indication of line breaks by Brandes (<bibl rend="omitname"><ptr target="bib:Brandes1888_02"/></bibl>); edited properly, in Javanese script, by Kromodjojo Adi Negoro (<bibl rend="omitname"><ptr target="bib:KromodjojoAdiNegoro1922_02"/></bibl>). Rew-edited here by Arlo Griffiths (2026) from available visual documentation.</p>
+           <p>Tentatively transcribed, without indication of line breaks by Brandes (<bibl rend="omitname"><ptr target="bib:Brandes1888_02"/></bibl>); edited properly, in Javanese script, by Kromodjojo Adi Negoro (<bibl rend="omitname"><ptr target="bib:KromodjojoAdiNegoro1922_02"/></bibl>). Re-edited here by Arlo Griffiths (2026) from available visual documentation.</p>
         	<listBibl type="primary">
 				<bibl n="B"><ptr target="bib:Brandes1888_02"/><citedRange unit="page">XIX</citedRange><citedRange unit="item">e</citedRange></bibl>
 				<bibl n="K"><ptr target="bib:KromodjojoAdiNegoro1922_02"/><citedRange unit="page">23-24</citedRange></bibl>
 			</listBibl>
            <listBibl type="secondary">
+<bibl><ptr target="bib:Knebel1909_01"/><citedRange unit="page">78</citedRange></bibl>
 		<bibl><ptr target="bib:Bosch1915_01"/><citedRange unit="page">216-217</citedRange><citedRange unit="item">1730</citedRange></bibl>
               <bibl><ptr target="bib:AndiMuhammadSaid+al2018_01"/><citedRange unit="page">79</citedRange><citedRange unit="entry">71</citedRange></bibl>
            </listBibl>
-<!-- 
-ROC 1907: 78
-ROD 1915: 216-217 (no. 1730)
- -->
         </div>
       </body>
   </text>

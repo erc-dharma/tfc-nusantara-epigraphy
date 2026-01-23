@@ -373,9 +373,6 @@ n="1v4" break="no"/>ṇa, siṅha-rāśī, Irika divaśanyājñā śrī mahārā
                      <lem>-katasatyapara</lem>
                      <note>correct <foreign>-kr̥tasatyapara</foreign>?</note>
                   </app>
-                  <app loc="7r">
-                     <note>7r confused with 7v and vice versa by <bibl><ptr target="bib:MachiSuhadi1996_01"/></bibl>.</note>
-                  </app>
                   <app loc="7r4">
                      <lem>paṁlālanannana</lem>
                      <note>emend <foreign>paṁlālananna</foreign> (=<foreign>paṅlīlān-a</foreign>).</note>
@@ -456,7 +453,7 @@ ________________________________________
  	<!--translation encoded as per EGD §9.2 -->
          </div>
          <div type="commentary">
-            <!--commentary encoded as per section §9.3 -->
+            <p><bibl><ptr target="bib:MachiSuhadi1996_01"/></bibl> presents face 7r as 7v and vice versa.</p>
          </div>
         <div type="bibliography">
 	<!--bibliography encoded as per section §9.4 -->
