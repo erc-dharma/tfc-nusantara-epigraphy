@@ -70,6 +70,7 @@
             </listPrefixDef>
         </encodingDesc>
     	<revisionDesc>
+    		<change who="part:argr" when="2026-01-23">finished encoding the inscription</change>
     		<change who="part:argr" when="2026-01-09">started encoding the inscription</change>
     	</revisionDesc>
     </teiHeader>
@@ -79,7 +80,7 @@
 <p>
 <lb n="1"/> <g type="circleFloret"/> <g type="danda"/> <g type="circleFloret"/> Iti sakāka<lb 
 n="2" break="no"/>lā saṁ hyaṁ maṇḍālā<lb 
-n="3" break="no"/>ṅaliḥ ka<choice><sic>geten</sic><corr>teg</corr></choice>an·
+n="3" break="no"/>ṅaliḥ <!--ka<choice><sic>geten</sic><corr>teg</corr></choice>an·--><sic>kagetenan·</sic>
 <lb n="4"/> <g type="diamond"/> leṁ tuṅgal·
 <lb n="5"/>murttaniṁ vvaṁ <g type="circleFloret"/> <g type="danda"/>  <g type="circleFloret"/>
 
@@ -107,10 +108,11 @@ Rice, MISRK ; Sircar, IE.
 -->
                <listApp><!-- one <app> for each apparatus entry -->
                   <app loc="3">
-                     <lem>ka<choice><sic>geten</sic><corr>teg</corr></choice>an·</lem>
+                     <!--<lem>ka<choice><sic>geten</sic><corr>teg</corr></choice>an·</lem>-->
+					<lem source="bib:KromodjojoAdiNegoro1922_02"><sic>kagetenan·</sic></lem>
                      <rdg source="bib:Brandes1888_02"><unclear>kagetem·</unclear></rdg>
-					<rdg source="bib:KromodjojoAdiNegoro1922_02"><unclear>kagetenan·</unclear></rdg>
-					<note>The word is not susceptible to interpretation as it stands, despite Kromodjojo Adi Negoro's attempt <p><foreign>sahestu</foreign> / <foreign>inderdaad</foreign></p>. A drastic emendation is required. In Old Javanese literature, <foreign>kategan/katyāgan</foreign> and <foreign>maṇḍala</foreign> figure together in the same contexts.</note>
+					<!--<rdg source="bib:KromodjojoAdiNegoro1922_02"><unclear>kagetenan·</unclear></rdg>-->
+					<note>The word is not susceptible to interpretation as it stands, despite Kromodjojo Adi Negoro's attempt reflected in his translations <p><foreign>sahestu</foreign> / <foreign>inderdaad</foreign></p>. A drastic emendation is required. In Old Javanese literature, <foreign>kategan/katyāgan</foreign> and <foreign>maṇḍala</foreign> figure together in the same contexts. Hence we are inclined to propose the conjecture <foreign>kategan</foreign>, and it is this which underlies our translation.</note>
                   </app>
                </listApp>
          </div>
@@ -118,7 +120,11 @@ Rice, MISRK ; Sircar, IE.
  	<p>Thus the chronogram of the holy community converting into a hermitage <supplied reason="explanation"><foreign>kategan</foreign></supplied>: <q>the cavity, one, is a manifestation of man</q> (i.e., 1319 Śaka).</p>
          </div>
          <div type="commentary">
-            <p>Brandes supposed that the chronogram corresponds to 1319, which implies a value <q>3</q> for <foreign>murtta</foreign>; assuming a value <q>0</q>, Kromodjojo Adi Negoro interpreted the chronogram as corresponding to 1019. The latter is implausible from a palaeographic point oif view, although perhaps we cannot exclude that the text commemorated an event of the late 11th century CE a century or two later.</p>
+            <p>Brandes supposed that the chronogram corresponds to 1319, which implies a value <q>3</q> for <foreign>murtta</foreign>; assuming a value <q>0</q>, Kromodjojo Adi Negoro interpreted the chronogram as corresponding to 1019. The latter is implausible from a palaeographic point of view, although perhaps we cannot exclude that the text commemorated an event of the late 11th century CE a century or two later.</p>
+<!-- add discussion of sources for murta = lost = zero 
+Kromodjojo's list, p. 14
+GR murta : KW. zva. ilang, verdwenen Wk., BS. 29 (Skr. mûrta, geronnen, ook verdoofd). Sumber: Javaansch-Nederlandsch Handwoordenboek, Gericke en Roorda, 1901, #918.
+-->
          </div>
         <div type="bibliography">
 	<!--bibliography encoded as per section §9.4 -->

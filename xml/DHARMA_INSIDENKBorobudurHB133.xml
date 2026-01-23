@@ -73,7 +73,7 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
-        	<change who="part:argr" when="2025-12-05">encoded the inscription</change>
+        	<change who="part:hepr" when="2026-01-10">encoded the inscription</change>
         </revisionDesc>
     </teiHeader>
     <text xml:space="preserve">
@@ -85,8 +85,8 @@
                <listApp>
                   <app loc="1">
                      <lem source="bib:Krom1927_01"><unclear>pū</unclear>rvasaṁjñāśabdaśravaṇa</lem>
-                     <note>Nicolaas Johannes Krom (<bibl rend="omitname"><ptr target="bib:Krom1927_01"/><citedRange unit="page">52-53</citedRange></bibl>) proposed his reading of <foreign>pūrvasaṁjñāśabdaśravaṇa</foreign> with great diffidence.</note>
                      <rdg source="bib:Kern1917_23"><gap reason="illegible" extent="unknown" unit="character"/>śabdaśravaṇa</rdg>
+	<note>Krom proposed his reading of <foreign>pūrvasaṁjñāśabdaśravaṇa</foreign> with great diffidence.</note>
                   </app>
                </listApp>
          </div>
