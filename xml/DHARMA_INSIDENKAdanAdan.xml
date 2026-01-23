@@ -361,50 +361,29 @@ n="1v4" break="no"/>ṇa, siṅha-rāśī, Irika divaśanyājñā śrī mahārā
                      <lem>suśīlendikajña</lem>
                      <note>correct <foreign>suśīleṅgitajña-</foreign>? Cf. <ref target="DHARMA_INSPakisWetan.xml">Pakis Wetan</ref> lv9 <foreign>saṁ mantrī nayavid iṅgitajñā</foreign> and <ref target="DHARMA_INSIDENKManahimanuk.xml">Manah i Manuk</ref> 3r1 <foreign>saṁ mantrīṅgitājñāprajālaṅkărā</foreign>.</note>
                   </app>
-                  <app loc="...">
-                     <lem>...</lem>
-                     <rdg source="...">...</rdg>
-                     <note>...</note>
+                  <app loc="5r2">
+                     <lem>-nayānītidakṣa-</lem>
+                     <note>correct <foreign>-nayanītidakṣa-</foreign>?</note>
                   </app>
-                  <!-- 
-                5r2. -nayānītidakṣa-: correct -nayanītidakṣa-?
-                  -->
-                  <app loc="...">
-                     <lem>...</lem>
-                     <rdg source="...">...</rdg>
-                     <note>...</note>
+                  <app loc="5r3">
+                     <lem>-praramapurassāra</lem>
+                     <note>correct <foreign>-paramapurassara</foreign>.</note>
                   </app>
-                  <!-- 
-                   5r3. -praramapurassāra: correct -paramapurassara.
-                  -->
-                  <app loc="...">
-                     <lem>...</lem>
-                     <rdg source="...">...</rdg>
-                     <note>...</note>
+                  <app loc="5v1">
+                     <lem>-katasatyapara</lem>
+                     <note>correct <foreign>-kr̥tasatyapara</foreign>?</note>
                   </app>
-                  <!-- 
-                   5v1. -katasatyapara: correct -kr̥tasatyapara?
-                  -->
                   <app loc="7r">
                      <note>7r confused with 7v and vice versa by <bibl><ptr target="bib:MachiSuhadi1996_01"/></bibl>.</note>
                   </app>
-                  <app loc="...">
-                     <lem>...</lem>
-                     <rdg source="...">...</rdg>
-                     <note>...</note>
+                  <app loc="7r4">
+                     <lem>paṁlālanannana</lem>
+                     <note>emend <foreign>paṁlālananna</foreign> (=<foreign>paṅlīlān-a</foreign>).</note>
                   </app>
-                  <!-- 
-                   7r4. paṁlālanannana: emend paṁlālananna (= paṅlīlān-a).
-                  -->
-                  <app loc="...">
-                     <lem>...</lem>
-                     <rdg source="...">...</rdg>
-                     <note>...</note>
+                  <app loc="7r4">
+                     <lem>Uṅg<unclear>v</unclear>ana</lem>
+                     <rdg source="bib:MachiSuhadi1996_01">Uṅgvani</rdg>
                   </app>
-                  <!-- 
-                   7r4. Uṅg(v)ana: Uṅgvani Machi Suhadi.
-                  -->
-
 
 
                   <!--
