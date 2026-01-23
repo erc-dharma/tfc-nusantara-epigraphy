@@ -81,16 +81,17 @@
       <body>
          <div type="edition" xml:lang="san-Latn" rendition="class:38769 maturity:83213">
 <div type="textpart" subtype="zone" n="A">
-<head xml:lang="eng">Frame</head>
+<head xml:lang="eng">A. Frame</head>
 <p><lb n="1"/><g type="ddanda"/>virūpa<g type="ddanda"/></p>
 </div>
 <div type="textpart" subtype="zone" n="B">
-<head xml:lang="eng">Background</head>
+<head xml:lang="eng">B. Background</head>
 <p><lb n="1"/><g type="ddanda"/>virūpa<g type="danda"/></p>
          </div>
          </div>
          <div type="apparatus">
                  <div type="textpart" n="A">
+<head xml:lang="eng">A. Frame</head>
 					<listApp>
                      <app loc="1">
                          <lem>virūpa</lem>
