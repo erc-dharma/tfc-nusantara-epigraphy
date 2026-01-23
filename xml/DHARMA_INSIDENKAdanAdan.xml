@@ -361,7 +361,52 @@ n="1v4" break="no"/>ṇa, siṅha-rāśī, Irika divaśanyājñā śrī mahārā
                      <lem>suśīlendikajña</lem>
                      <note>correct <foreign>suśīleṅgitajña-</foreign>? Cf. <ref target="DHARMA_INSPakisWetan.xml">Pakis Wetan</ref> lv9 <foreign>saṁ mantrī nayavid iṅgitajñā</foreign> and <ref target="DHARMA_INSIDENKManahimanuk.xml">Manah i Manuk</ref> 3r1 <foreign>saṁ mantrīṅgitājñāprajālaṅkărā</foreign>.</note>
                   </app>
-                  
+                  <app loc="...">
+                     <lem>...</lem>
+                     <rdg source="...">...</rdg>
+                     <note>...</note>
+                  </app>
+                  <!-- 
+                5r2. -nayānītidakṣa-: correct -nayanītidakṣa-?
+                  -->
+                  <app loc="...">
+                     <lem>...</lem>
+                     <rdg source="...">...</rdg>
+                     <note>...</note>
+                  </app>
+                  <!-- 
+                   5r3. -praramapurassāra: correct -paramapurassara.
+                  -->
+                  <app loc="...">
+                     <lem>...</lem>
+                     <rdg source="...">...</rdg>
+                     <note>...</note>
+                  </app>
+                  <!-- 
+                   5v1. -katasatyapara: correct -kr̥tasatyapara?
+                  -->
+                  <app loc="7r">
+                     <note>7r confused with 7v and vice versa by <bibl><ptr target="bib:MachiSuhadi1996_01"/></bibl>.</note>
+                  </app>
+                  <app loc="...">
+                     <lem>...</lem>
+                     <rdg source="...">...</rdg>
+                     <note>...</note>
+                  </app>
+                  <!-- 
+                   7r4. paṁlālanannana: emend paṁlālananna (= paṅlīlān-a).
+                  -->
+                  <app loc="...">
+                     <lem>...</lem>
+                     <rdg source="...">...</rdg>
+                     <note>...</note>
+                  </app>
+                  <!-- 
+                   7r4. Uṅg(v)ana: Uṅgvani Machi Suhadi.
+                  -->
+
+
+
                   <!--
                   <app loc="...">
                      <lem>...</lem>
@@ -372,74 +417,53 @@ n="1v4" break="no"/>ṇa, siṅha-rāśī, Irika divaśanyājñā śrī mahārā
                   <!-- 
                    
                   -->
+
+
 <!--
-
-		5a2. -nayānītidakṣa-: correct -nayanītidakṣa-?
-	5a3. -praramapurassāra: correct -paramapurassara.
+	7v confused with VIIr and vice versa by Machi Suhadi.
+	7v1. vyavaśăyālampahakən·: read/emend vyavasāyāṅlampahakən·.
+	7v2–3. prabhudeva-: need to decide whether prabhu is a separate word or not.
 ________________________________________
-
-	5b1. -katasatyapara: correct -kr̥tasatyapara?
+8v2. saha saṅkeṁ sāmyātagan· vatək·: this sequence cannot be translated as it stands; does saṁkeṁ simply need to be deleted?
 ________________________________________
-
-	VIIr confused with VIIv and vice versa by Machi Suhadi.
-	4. paṁlālanannana: emend paṁlālananna (= paṅlīlān-a).
-	4. Uṅg(v)ana: Uṅgvani Machi Suhadi.
-________________________________________
-
-	VIIr confused with VIIv and vice versa by Machi Suhadi.
-	1. vyavaśăyālampahakən·: read/emend vyavasāyāṅlampahakən·.
-	2–3. prabhudeva-: need to decide whether prabhu is a separate word or not.
-________________________________________
-8v
-	2. saha saṅkeṁ sāmyātagan· vatək·: this sequence cannot be translated as it stands; does saṁkeṁ simply need to be deleted?
-________________________________________
-10v
-	2. tama: understand tamā.
-	4. vipati, vaṅkai kabunan·: it is probably necessary to ignore the punctuation sign.
-
-11r
-	2–3. adanadan·, Ataḥ: the comma must be deleted. See 11v3.
+	10v2. tama: understand tamā.
+	10v4. vipati, vaṅkai kabunan·: it is probably necessary to ignore the punctuation sign.
+_________________________________________
+11r2–3. adanadan·, Ataḥ: the comma must be deleted. See 11v3.
 
 ________________________________________
 
-13v
-2. sākṣātumarima: understand sākṣāt tumarima.
+13v2. sākṣātumarima: understand sākṣāt tumarima.
 ________________________________________
 
-14v
-	1. citrapātra: the expect term is civapātra. But see Koravāśrama vruh macitrapaṭa.
-	4. vanya: vaṁ nya MS.
-	4. katka: ta tka MS. The particle ta is not expected in a subordinate clause, and the expression (y)adyapin kat(ə)ka is rather common in Old Javanese prose texts (several occurrences in Ādiparva, Agastyaparva, Brahmāṇḍapurāṇa, Udyogaparva, Uttarakāṇḍa).
-________________________________________
-15r
-	3. inḍaḥ: correct indaḥ.
-	4. Agasti: understand Agastya.
+	14v1. citrapātra: the expect term is civapātra. But see Koravāśrama vruh macitrapaṭa.
+	14v4. vanya: vaṁ nya MS.
+	14v4. katka: ta tka MS. The particle ta is not expected in a subordinate clause, and the expression (y)adyapin kat(ə)ka is rather common in Old Javanese prose texts (several occurrences in Ādiparva, Agastyaparva, Brahmāṇḍapurāṇa, Udyogaparva, Uttarakāṇḍa).
 ________________________________________
 
-15v
+	15r3. inḍaḥ: correct indaḥ.
+	15r4. Agasti: understand Agastya.
+________________________________________
+
 	15r4–v1. rava śasi: correct ravi śaśi.
-	2–3. mahorāga caturi lokapāla: understand mahoraga caturlokapāla.
-	4. Anta: emend Ananta? But Warunggahan 14r1 has antassurendra.
+	15v2–3. mahorāga caturi lokapāla: understand mahoraga caturlokapāla.
+	15v4. Anta: emend Ananta? But Warunggahan 14r1 has antassurendra.
 ________________________________________
 
-16r
 	15v4–16r1. Anakta: emend Ananta.
 ________________________________________
 
-16v
-	2. vāhuta: understand vahuta.
-	2. hatu tali ser·: the reading seems clear enough but it is not clear whether and how this string is to be divided into word. I know only one parallel, in OJO XLVIII, where we read: ... muaṅ piṅhai vahu(ta) rāma nāyaka parttaya hatur ttaliper asiṅ umulahula ... Maybe hatut alis er ‘following the flow of water’? Update this note (and the edition) in the light of atur tali ser in Resisasana, Anjuk Ladang, Paradah II, Bimalasrama.
-	3. deyatat: emend deyantat, as in several parallel passages.
+	16v2. vāhuta: understand vahuta.
+	16v2. hatu tali ser·: the reading seems clear enough but it is not clear whether and how this string is to be divided into word. I know only one parallel, in OJO XLVIII, where we read: ... muaṅ piṅhai vahu(ta) rāma nāyaka parttaya hatur ttaliper asiṅ umulahula ... Maybe hatut alis er ‘following the flow of water’? Update this note (and the edition) in the light of atur tali ser in Resisasana, Anjuk Ladang, Paradah II, Bimalasrama.
+	16v3. deyatat: emend deyantat, as in several parallel passages.
 ________________________________________
 
-17r
-	1. maṁlaṁkahana mi(ṁ)maṁ: mala kahana mimaṁ MS.
+	17r1. maṁlaṁkahana mi(ṁ)maṁ: mala kahana mimaṁ MS.
 ________________________________________
 
-17v
-	1. dr̥vanya: emend dr̥vyanya.
-	2. tuṇḍanya: emend uṇḍuhuṇḍutanya, as in Madhavapura?
-	3–4. vahi: vehi MS. Emend vkas i.
+	17v1. dr̥vanya: emend dr̥vyanya.
+	17v2. tuṇḍanya: emend uṇḍuhuṇḍutanya, as in Madhavapura?
+	17v3–4. vahi: vehi MS. Emend vkas i.
 ________________________________________
 
 ________________________________________
