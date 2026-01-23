@@ -92,20 +92,13 @@ Plate 2. recto.
 <lb n="2r2"/>ra-vivarṇna-kampita-kăraṇa, saṅhăra-kāla-prajvalitānala-sadr̥śa-śrī-jayakatyə:ṁ-rājāti§-
 <lb n="2r3"/>ripu-vijaya, sakala-yava-dvīpa-maṇḍala-samudra-mandārācala-manthānopanna-mahāmr̥ta§-
 <lb n="2r4"/>maya, gaṅgā-pravāhāsamānă⟨na⟩varata-ratna-vastra-kanakādi-riktha-dāna-śakta, vyapagatagha-
-	2a3. -manthānopanna-: correct -manthānopapanna-.
-	2a4. -samānă⟨na⟩varata-ratna-: Cf. Rāmeśvarapura 1v6 Anavarata-rajata-kanaratna-vastradādāna gaṅgāprajāhasannibhakara. However, na is also omitted in Balawi 1v6.
-	The sakalayavadvīpa epithet is to be compared with others ending in samudramandarācalamanthānamahāmr̥tamaya.
 
 Plate 2. verso. [plate number 2 in right margin]
 <lb n="2v1"/>nagagaṇatāragaṇăkīrṇnapūrṇnaśakāṅkanibhinnasamastarājaśaikhara, śrī kr̥tarājasajaya-
 <lb n="2v2"/>varddhanānantavikramoṅtuṅgadeva, Athavā, catusprakārarājadevyānurūpa, sākṣāt ⌈-§-
 <lb n="2v3"/>devadevī śrī mahārāja mvaṁ sira rantən hajinira, rājaputrī paramātiśaya catusprakāra, ba-
 <lb n="2v4"/> limalayumadhuratañjuṅpuraprabhr̥ti, paradvīparājaśiroghaṭitacaraṇāravinda śrī kr̥§-
-	2b1. -śakāṅkanibhinna-: correct -śaśāṅkanirbhinna-.
-	2b2. -vikramoṅtuṅga-: correct -vikramottuṅga-.
-	2b2. catusprakāra: correct catuṣprakāra.
-	The epithet vyapagataghaṇagagaṇatārāgaṇasaṁkīrṇapūrṇaśaśāṅkanirbhinnasamastarājaśaikhara is paralleled in Sukhāmr̥ta, 1b5–6.
-
+	
 Plate 3. recto.
 <lb n="3r1"/> tanagaramahāprabhusadduhitā, sira ta kapāt· kapva suputrī de bhaṭāra śrīkr̥tanagara,
 <lb n="3r2"/> sira saṁ lĭna ri śivabuddhālaya, makādi sira saṁ paramasuśīlamahāpatibrata, śrī parameśva-
@@ -331,6 +324,37 @@ Plate 17. verso. [plate number 17 in right margin]
                      <rdg source="bib:MachiSuhadi1996_01">-vera-</rdg>
                      <note>Cf. <ref target="DHARMA_INSIDENKSukhamerta.xml">Sukhamerta</ref> 2r1 <foreign>vivarṇṇa-pariśūnya-samasta-ripu-hetuka</foreign>.</note>
                   </app>
+                  <app loc="2r3">
+                     <lem>"-manthānopanna-</lem>
+                     <note>correct <foreign>-manthānopapanna-</foreign>.</note>
+                  </app>
+                  <app loc="2r4">
+                     <lem>-samānă⟨na⟩varata-ratna-</lem>
+                     <note>Cf. <ref target="DHARMA_INSIDENKRameśvarapura.xml">Rāmeśvarapura</ref> 1v6 <foreign>Anavarata-rajata-kanaratna-vastradādāna gaṅgāprajāhasannibhakara</foreign>. However, <foreign>na</foreign> is also omitted in Balawi 1v6. The <foreign>sakalayavadvīpa</foreign> epithet is to be compared with others ending in <foreign>samudramandarācalamanthānamahāmr̥tamaya</foreign>.</note>
+                  </app>
+                  <app loc="2r4-2v1">
+                     <lem>vyapagataghanagagaṇatāragaṇăkīrṇnapūrṇnaśakāṅkanibhinnasamastarājaśaikhara</lem>
+                     <note>The epithet <foreign>vyapagataghaṇagagaṇatārāgaṇasaṁkīrṇapūrṇaśaśāṅkanirbhinnasamastarājaśaikhara</foreign> is paralleled in <ref target="DHARMA_INSukhāmr̥ta">Sukhāmr̥ta</ref> 1b5–6.</note>
+                  </app>
+                  <app loc="2v1">
+                     <lem>-śakāṅkanibhinna-</lem>
+                     <note>correct <foreign>-śaśāṅkanirbhinna-</foreign>.</note>
+                  </app>
+                  <app loc="2v2">
+                     <lem>-vikramoṅtuṅga-</lem>
+                     <note>correct <foreign>-vikramottuṅga-</foreign>.</note>
+                  </app>
+                  <app loc="2v2">
+                     <lem>catusprakāra</lem>
+                     <note>correct <foreign>catuṣprakāra</foreign>.</note>
+                  </app>    
+                  <!--
+                  <app loc="...">
+                     <lem>...</lem>
+                     <rdg source="...">...</rdg>
+                     <note>...</note>
+                  </app>
+                  -->
                </listApp>
          </div>
          <div type="translation">
