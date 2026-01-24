@@ -10,13 +10,7 @@
          <titleStmt>
             <title>Mula-Malurung</title>
             <respStmt>
-               <resp>creation of the file</resp>
-               <persName ref="part:ekba">
-                  <name>Eko Bastiawan</name>
-               </persName>
-            </respStmt>
-            <respStmt>
-               <resp>intellectual authorship of edition</resp>
+               <resp>author of digital edition</resp>
                <persName ref="part:argr">
                   <forename>Arlo</forename>
                   <surname>Griffiths</surname>
@@ -30,7 +24,7 @@
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/">
                   <p>This work is licenced under the Creative Commons Attribution 4.0 Unported Licence. To view a copy of the licence, visit https://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.</p>
-                  <p>Copyright (c) 2019-2025 by Eko Bastiawan &amp; Arlo Griffiths</p>
+                  <p>Copyright (c) 2019-2025 by Arlo Griffiths</p>
                </licence>
             </availability>
             <date from="2019" to="2025">2019-2025</date>
@@ -78,7 +72,8 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
-          <change who="part:ekba" when="2020-04-13" status="draft">updated apparatus</change>
+         <change who="part:argr" when="2026-01-24" status="draft">updated bibliography and respStmt</change>
+         <change who="part:ekba" when="2020-04-13" status="draft">updated apparatus</change>
          <change who="part:axja" when="2020-11-03" status="draft">Updating toward the encoding template v03</change>
          <change who="part:ekba" when="2020-04-10" status="draft">updated the line numbering</change>
          <change who="part:axja" when="2020-03-27" status="draft">adding the handDesc template</change>
@@ -757,9 +752,13 @@
          </div>
         <div type="bibliography">
 	<!--bibliography encoded as per section §9.4 -->
-            <p>Firs edited by Boechari (<bibl rend="omitname"><ptr target="bib:Boechari1985-1986_01"/><citedRange unit="page">182-191</citedRange><citedRange unit="item">E.90</citedRange></bibl>); followed by Titi Surti Nastiti (<bibl rend="omitname"><ptr target="bib:TitiSurtiNastiti2016_01"/><citedRange unit="appendix">D</citedRange><citedRange unit="page">421-436</citedRange></bibl>); re-edited here by Arlo Griffiths from photos kindly shared by Titi Surti Nastiti.</p>
+            <p>Firs edited by Boechari (<bibl rend="omitname"><ptr target="bib:Boechari1985-1986_01"/></bibl>); followed by Titi Surti Nastiti (<bibl rend="omitname"><ptr target="bib:TitiSurtiNastiti2016_01"/></bibl>); re-edited here by Arlo Griffiths from photos kindly shared by Titi Surti Nastiti.</p>
+<listBibl type="primary">
+<bibl n="B"><ptr target="bib:Boechari1985-1986_01"/><citedRange unit="page">182-191</citedRange><citedRange unit="item">E.90</citedRange></bibl>
+<bibl n="T"><ptr target="bib:TitiSurtiNastiti2016_01"/><citedRange unit="appendix">D</citedRange><citedRange unit="page">421-436</citedRange></bibl>
+</listBibl>
                 <listBibl type="secondary">
-                    <bibl><ptr target="bib:AgusArisMunandar1986_01"/><citedRange>1-24</citedRange></bibl>
+                  <bibl><ptr target="bib:AgusArisMunandar1986_01"/></bibl>
                   <bibl><ptr target="bib:HadiSidomulyo2010_01"/><citedRange unit="appendix">B</citedRange><citedRange unit="page">30-38</citedRange></bibl>                
                 </listBibl>
             </div>
