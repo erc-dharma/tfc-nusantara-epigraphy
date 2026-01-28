@@ -10,17 +10,7 @@
          <titleStmt>
             <title>Dharmasraya A (Padang Roco Amoghapāśa base), 1286 CE</title>
             <respStmt>
-               <resp>EpiDoc encoding</resp>
-               <persName ref="part:ekba">
-                  <name>Eko Bastiawan</name>
-               </persName>
-               <persName ref="part:argr">
-                  <forename>Arlo</forename>
-                  <surname>Griffiths</surname>
-               </persName>
-            </respStmt>
-            <respStmt>
-               <resp>intellectual authorship of edition</resp>
+               <resp>author of digital edition</resp>
                <persName ref="part:argr">
                   <forename>Arlo</forename>
                   <surname>Griffiths</surname>
@@ -62,8 +52,7 @@
       <encodingDesc>
          <projectDesc>
             <p>The project DHARMA has received funding from the European Research Council (ERC)
-                        under the European Union's Horizon 2020 research and innovation programme (grant
-                        agreement no 809994).</p>
+                        under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
          </projectDesc>
          <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
          <listPrefixDef>
@@ -78,6 +67,7 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
+      	  <change who="part:argr" when="2026-01-28" status="draft">revisions using photogrammetry</change>
          <change who="part:argr" when="2025-01-23" status="draft">changed file name</change>
          <change who="part:argr" when="2023-04-27" status="draft">first round of revisions (including for issue #44)</change>
          <change who="part:ekba" when="2020-03-29" status="draft">created initial encoding of the inscription</change>
@@ -86,7 +76,7 @@
    <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="omy-Latn" rendition="class:38769 maturity:83213">
-<p><lb n="1"/><milestone unit="face" n="A"/><g type="ddanda"/> svasti śrī śaka-varṣātīta, <num value="1208">1208</num>, bhādravāda-māsa, ti<milestone unit="face" n="B" break="no"/>thi pratipada śukla-pakṣa, mavulu, vāge, vr̥haspati-vāra, madaṅkuṅan·, grahacāra n<unclear>ai</unclear>ritistha, viśākā<milestone unit="face" n="C" break="no"/>-nakṣatra, cakra-{devatā,  ???-ma}ṇḍala, śubha<g type="squiggleVertical">§</g><lb n="2" break="no"/><milestone unit="face" n="A" break="no"/>-yoga, kuvera-parbeśa, kiṅstughna-muhūrtta, kanyā-rāśi, I<milestone unit="face" n="b" break="no"/>nan· tatkāla pāduka bharāla Āryyāmoghapāśalokeśvara catudaśātmikā sapta-ratna-sahita, diĀntat· <milestone unit="face" n="C"/> dari bhūmi jāva ka svarṇnabhūmi dipratiṣtha di dharmmāśraya, Akan·
+<p><lb n="1"/><milestone unit="face" n="A"/><g type="ddanda"/> svasti śrī śaka-varṣātīta, <num value="1208">1208</num>, bhādravāda-māsa, ti<milestone unit="face" n="B" break="no"/>thi pratipada śukla-pakṣa, mavulu, vāge, vr̥haspati-vāra, maḍaṅkuṅan·, grahacāra n<unclear>ai</unclear>ritistha, viśākā<milestone unit="face" n="C" break="no"/>-nakṣatra, cakra-{devatā,  ???-ma}ṇḍala, śubha<g type="squiggleVertical">§</g><lb n="2" break="no"/><milestone unit="face" n="A" break="no"/>-yoga, kuvera-parbeśa, kiṅstughna-muhūrtta, kanyā-rāśi, I<milestone unit="face" n="B" break="no"/>nan· tatkāla pāduka bharāla Āryyāmoghapāśalokeśvara catudaśātmikā sapta-ratna-sahita, diĀntat· <milestone unit="face" n="C"/> dari bhūmi jāva ka svarṇnabhūmi dipratiṣtha di dharmmāśraya, Akan·
 <lb n="3"/><milestone unit="face" n="A"/>punya śrī viśvarūpa kumāra, prakāranaṅ ditītaḥ pāduka śrī ma<milestone unit="face" n="B" break="no"/>hārājādhirāja-śrīkr̥tanagara-vikramadharmmottuṅgadeva maṅiriṅkan· pāduka bharāla, rakryān· mahāmantri dyaḥ <milestone unit="face" n="C"/>Advayabrahma, rakryān· srīkan· dyaḥ sugatabrahma, mūAṁ
 <lb n="4"/><milestone unit="face" n="A"/>, samagat· payānan haṅ dīpaṅkaradāsa, rakryān damuṅ pu vīra, <milestone unit="face" n="B"/>kunaṁ punyeni yogya diAnumodanā Oleḥ sakaprajā di bhūmi malāyū, brāhmaṇaḥ kṣatriya vaiśya sūdra, Ā<milestone unit="face" n="C" break="no"/>ryyamāddhyāt, śrī mahārāja śrīmat· tribhuvanarājamaulivarmmade<milestone unit="face" n="D" break="no"/>va pramuka <g type="ddanda"/></p> 
 <lg n="1" met="anuṣṭubh" xml:lang="san-Latn">
@@ -102,10 +92,6 @@
                   <app loc="1">
                       <lem source="bib:Krom1917_01">vāge</lem>
                       <note>It would also be possible to read vāg<unclear>ai</unclear>.</note>
-                  </app>
-                  <app loc="1">
-                      <lem>madaṅkuṅan·</lem>
-                     <rdg source="bib:Krom1917_01">maḍaṅkuṅan</rdg>
                   </app>
                   <app loc="1">
                       <lem>śubha-<g type="squiggleVertical">§</g></lem>
