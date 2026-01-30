@@ -10,7 +10,7 @@
          <titleStmt>
             <title>Kamalagyan charter (959 Śaka)</title>
             <respStmt>
-               <resp>EpiDoc encoding</resp>
+               <resp>authors of digital edition</resp>
                <persName ref="part:ekba">
                   <name>Eko Bastiawan</name>
                </persName>
@@ -19,25 +19,15 @@
             		<surname>Griffiths</surname>
             	</persName>
             </respStmt>
-            <respStmt>
-               <resp>intellectual authorship of edition</resp>
-               <persName ref="part:argr">
-                  <forename>Arlo</forename>
-                  <surname>Griffiths</surname>
-               </persName>
-            	<persName ref="part:ekba">
-            		<name>Eko Bastiawan</name>
-            	</persName>
-            </respStmt>
          </titleStmt>
          <publicationStmt>
             <authority>DHARMA</authority>
             <pubPlace>Malang</pubPlace>
-            <idno type="filename">DHARMA_INSIDENKKamalagyan</idno>
+            <idno type="filename">DHARMA_INSIDENK00526</idno>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/">
                   <p>This work is licenced under the Creative Commons Attribution 4.0 Unported Licence. To view a copy of the licence, visit https://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.</p>
-               	<p>Copyright (c) 2019-2025 by Arlo Griffiths &amp; Eko Bastiawan</p>
+               	<p>Copyright (c) 2019-2026 by Arlo Griffiths &amp; Eko Bastiawan</p>
                </licence>
             </availability>
             <date from="2019" to="2025">2019-2025</date>
@@ -85,6 +75,7 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
+      	  <change who="part:argr" when="2026-01-30" status="draft">revised edition with new images</change>
          <change who="part:argr" when="2023-12-13" status="draft">revised initial encoding</change>
          <change who="part:axja" when="2020-11-03" status="draft">Updating toward the encoding template v03</change>
          <change who="part:ekba" when="2020-07-13" status="draft">initial encoding of the inscription</change>
@@ -94,11 +85,12 @@
       <body>
          <div type="edition" xml:lang="kaw-Latn" rendition="class:38769 maturity:83213">
 <p>
- <lb n="1"/><g type="ddandaCross">.</g><g type="circleConcentric">.</g><g type="ddandaCross">.</g> svasti śaka-varṣātīta <num value="959">959</num> mārggaśīra-māsa, tithi pratipada śukla-pakṣa, <abbr>pa</abbr>, <abbr>po</abbr>, <abbr>śu</abbr>, vāra <choice><sic>duṅulan·</sic><corr>dukut·</corr></choice>, cāra bāyabyastha, jyeṣṭa-nakṣatra, śakrăgni-devatā, dhr̥ti-yoga, vava-karaṇa, Irikā divaśany ājñā śrī
-<lb n="2"/>mahārāja <abbr>rakai</abbr> halu śrī lokeśvara dharmmavaṅśa Airlaṅgānantavikramottuṅgadeva, tinaḍaḥ rakryān· mahāmantrī I hino śrī saṁgrāmavijayaprasādottu<supplied reason="omitted">ṅga</supplied>devī, Umiṅsor= I rakryān· kanuruhan· pu dharmmamūrtti narottama dā<lb n="3" break="no"/>naś<unclear>ū</unclear>ra, I piṅsornyājñā śrī mahārāja kumonakan ikāṁ rāma jātaka I kamalagyan· sapasuk thāni kabeḥ, thāni vatək· paṅkaja, Atagan· kəlpu rambai, gave <abbr>mā</abbr> <num value="1">1</num> masavaḥ tampaḥ <num value="6">6</num> hinajyan· 
+ <lb n="1"/><g type="ddandaCross"/><g type="circleCurve"/><g type="ddandaCross"/> svasti śaka-varṣātīta <num value="959">959</num> mārggaśīra-māsa, tithi pratipada śukla-pakṣa, <abbr>pa</abbr>, <abbr>po</abbr>, <abbr><unclear>ś</unclear>u</abbr>, vāra <choice><sic>duṅulan·</sic><corr>dukut·</corr></choice>, cāra bāyabyastha, jyeṣṭa-nakṣatra, śakrăgni-devatā, dhr̥ti-yoga, vava-karaṇa,</p> <p>Irikā divaśany ājñā śrī
+<lb n="2"/>mahārāja <abbr>rakai</abbr> halu śrī lokeśvara dharmmavaṅśa Airlaṅgānantavikramottuṅgadeva, tinaḍaḥ rakryān· mahāmantrī I hino śrī saṁgrāmavijayaprasādottu<supplied reason="omitted">ṅga</supplied>devī, Umiṅsor= I rakryān· kanuruhan· pu dharmmamūrtti narottama dā<lb 
+n="3" break="no"/>naś<unclear>ū</unclear>ra,</p> <p>I piṅsorny ājñā śrī mahārāja kumonakan ikāṁ rāma jātaka I kamalagyan· sapasuk thāni kabeḥ, thāni vatək· paṅkaja, Atagan· kəlpu rambai, gave <abbr>mā</abbr> <num value="1">1</num> masavaḥ tampaḥ <num value="6">6</num> hinajyan· 
 <!--<choice><orig>māsu</orig><reg>mas <abbr>su</abbr></reg></choice>-->
-<abbr>māsu</abbr> <num value="6">6</num> <abbr>mā</abbr> <num value="7">7</num> <abbr>ku</abbr> <num value="4">4</num>, len·
-<lb n="4"/>drabya-hajiniṁ gagā, kbvan· pasəR̥han·, tka riṁ lvaḥ, R̥ṇək·, tpi-tpi, v<choice><sic>a</sic><corr>u</corr></choice>lu-vulu prakāra kabeḥ, piṇḍa samudāya <abbr>māsu</abbr> <num value="17">17</num> <abbr>mā</abbr> <num value="12">12</num> <abbr>ku</abbr> <num value="2">2</num> <abbr>sā</abbr> <num value="2">2</num> ya tikā Inaṇḍə<unclear>ḥ</unclear> An· patahila drabya haji <abbr>māsu</abbr> <num value="2">2</num> Aṅkan asuji<lb n="5" break="no"/>-māsa I śrī mahārāja, magiliṁ-giliṅan· tan pārik·, tan· papādapaṁL̥yə:, tan· papagaḍuḥ, tan· papilih-mas·, len· drabya-hajiniṁ kalagyan· saṇḍuṅan· <abbr>māsu</abbr> <num value="2">2</num> <abbr>mā</abbr> <num value="10">1<unclear>0</unclear></num> milu Inaṇḍəḥ matahila <abbr>māsu</abbr> <num value="2">2</num> kakala<lb n="6" break="no"/>ṅan· madrabya-haji <abbr>mā</abbr> <num value="1">1</num> <abbr>ku</abbr> <num value="2">2</num> Inaṇḍəḥ matahila drabya haji <abbr>mā</abbr> <num>1</num> Atəhər· tan· knā riṁ pinta palaku, buñcaṁ haji, turun·-turun· sakupaṁ sātak·, sukhaduḥkha magə:ṁ maḍmit· denikāṁ vargga hatur·, vargga patiḥ mvaṁ juruniṁ ka<lb n="7" break="no"/>lagyan· raṇu riṁ dharmma, kevalānəmva drabya haji Iṁ sīma ḍavuhan· I kamalagyan· riṁ tambak· riṁ variṅin· sapta juga parṇnahanya kāliḥ,</p> 
+<abbr>māsu</abbr> <num value="6">6</num> <abbr>mā</abbr> <num value="7">7</num> <abbr>ku</abbr> <num value="2">2</num><!-- other edition 4? -->, len·
+<lb n="4"/>drabya-hajiniṁ gagā, kbvan· pasəR̥han·, tka riṁ lvaḥ, R̥ṇək·, tpi-tpi, v<choice><sic>a</sic><corr>u</corr></choice>lu-vulu prakāra kabeḥ, piṇḍa samudāya <abbr>māsu</abbr> <num value="17">17</num> <abbr>mā</abbr> <num value="12">12</num> <abbr>ku</abbr> <num value="2">2</num> <abbr>sā</abbr> <num value="2">2</num> ya tikā Inaṇḍəḥ An· patahila drabya haji <abbr>māsu</abbr> <num value="2">2</num> Aṅkan asuji<lb n="5" break="no"/>-māsa I śrī mahārāja, magiliṁ-giliṅan· tan pārik·, tan· papādapaṁL̥yə:, tan· papagaḍuḥ, tan· papilih-mas·, len· drabya-hajiniṁ kalagyan· saṇḍuṅan· <abbr>māsu</abbr> <num value="2">2</num> <abbr>mā</abbr> <num value="10">1<unclear>0</unclear></num> milu Inaṇḍəḥ matahila <abbr>māsu</abbr> <num value="2">2</num> kakala<lb n="6" break="no"/>ṅan· madrabya-haji <abbr>mā</abbr> <num value="1">1</num> <abbr>ku</abbr> <num value="2">2</num> Inaṇḍəḥ matahila drabya haji <abbr>mā</abbr> <num>1</num> Atəhər· tan· knā riṁ pinta palaku, buñcaṁ haji, turun·-turun· sakupaṁ sātak·, sukhaduḥkha magə:ṁ maḍmit· denikāṁ vargga hatur·, vargga patiḥ mvaṁ juruniṁ ka<lb n="7" break="no"/>lagyan· raṇu riṁ dharmma, kevalānəmva drabya haji Iṁ sīma ḍavuhan· I kamalagyan· riṁ tambak· riṁ variṅin· sapta juga parṇnahanya kāliḥ,</p> 
 <p>sambandha, śrī mahārāja madaməl· ḍavuhan· riṁ variṅin· sapta, lmaḥnikāṅ anak thāni riṁ kamala<lb n="8" break="no"/>gyan·, puṇyahetu tan· svărtha, kahayvaknaniṁ thāni sapasuk· hilir· lasun paliñjvan·, sijana-tyəsan·, pañjiṁ gantiṁ, tālan·, daśapaṅkaḥ, paṅkaja, tka riṁ sīma parasīma, kalaṁ, kalagyan·, thāni jumput·, vihāra śā<lb n="9" break="no"/>la, kamŭlan·, parhyaṅan·, para patapān·, makamukhyabhuktyan· saṁ hyaṁ dharmma riṅ īśānabhavana maṅaran· I surapura, samaṅkana kveḥnikāṁ thāni kavāhan· kaḍəḍətan· cariknya denikāṁ kantən· tmahan· baṅavān· Amgat· ri va<lb n="10" break="no"/>riṅin· sapta, dumadyakan· Unānikāṁ drabya haji mvaṁ hilaṁnikāṁ carik· kabeḥ, Āpan· durlabha kavnaṅan i katambakanikāṁ baṅavān· Amgat· de para sāmya makabehan·, tan· pisan· piṇḍva tinambak· para sāmya,
 <lb n="11"/>ndātan· kavnaṁ juga parṇnaḥnya, samaṅkana ta śrī mahārāja lumkas· Umatagaknikāṁ tanayan thāni sakalrān deni kīrti pratāpa śrī mahārāja, Inatag· kapva saṁrabdha mabuñcaṁhajya maḍavuhana, sampun ta siddha kadamla<lb n="12" break="no"/>nikāṁ ḍavuhan· de śrī mahārāja, subaddhāpagəḥ huvus· pəpət· hilīnikāṁ bañu, Ikāṁ baṅavān· Amatlū hilīnyāṅalor·, kapva ta sukhamanaḥnikāṁ maparahu samaṁhulu maṅalap· bhāṇḍa ri hujuṁ galuḥ, tka
 <lb n="13"/>rikāṁ para puhavaṁ para baṇyāga saṅkā riṁ dvīpāntara, samañuntən· ri hujuṁ galuḥ, Ikāṅ anak thāni sakavāhan· kaḍəḍətan· savaḥnya, Atyanta sarvvasukhani manaḥnya makāntaṁ kasavaha muvaḥ savaḥnya kabeḥ An· pinu<choice><orig>n</orig><reg>ṇ</reg></choice>ya<lb n="14" break="no"/>n· tinambak· hilīnikāṁ baṅavān· Amgat· riṁ variṅin· sapta de śrī mahārāja, mataṅyan· ḍavuhan· śrī mahārāja parṇnaḥnikāṁ tambak· riṁ variṅin· sapta, samaṅkana ta śrī mahārāja māṅan-aṅan· ri tan· tguhanikāṁ ḍavuhan· 
@@ -116,13 +108,15 @@
  
 </p>
          </div>
-         <!--<div type="apparatus">
-           <!-\-apparatus encoded as per EG §9.1, basic elements for apparatus below-\->
-               <listApp><!-\- one <app> for each apparatus entry -\->
-                  <app loc="1">
-                      </app>
+         <div type="apparatus">
+           <!--apparatus encoded as per EG §9.1, basic elements for apparatus below-->
+               <listApp>
+                  <app loc="3">
+			<lem>2</lem>
+			<note>number 2 or 4</note>
+		</app>
                </listApp>         
-         </div>-->
+         </div>
          <div type="translation" resp="part:argr">
  	<!--translation encoded as per EG §9.2 -->
              <p/>
