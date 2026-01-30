@@ -84,7 +84,7 @@
             <pb n="1r"/><!--Blank outer page.-->
             <p><pb n="1v"/><fw n="1v" place="right" rend="bt-rotated"><num value="1">1</num></fw>
 <!--Plate 1. verso. [plate number in right margin, rotated 90° counterclockwise: 1]-->
-<lb n="1v1"/>// 0 // svasti śaka-varṣātīta, 1223, śrăvaṇa-māsa, tithi pañcadaśī kr̥ṣṇa-pakṣa
+<lb n="1v1"/><g type="ddandaOrnate"/><g type="circleLarge"/><g type="ddandaOrnate"/> svasti śaka-varṣātīta, 1223, śrăvaṇa-māsa, tithi pañcadaśī kr̥ṣṇa-pakṣa
 <lb n="1v2"/>, <abbr>ha</abbr>, <abbr>U</abbr>, <abbr>śa</abbr>, văra, maḍaṅkuṅan·, grahacāra bāyabyastha, māgha-nakṣatra, pitr̥-deva§<lb 
 n="1v3" break="no"/>tā, Āgneya-maṇḍala, śiva-yoga, vairāja-muhūrtta, yama-parvveśa, catuspada-kara§<lb 
 n="1v4" break="no"/>ṇa, siṅha-rāśī, Irika divaśanyājñā śrī mahārāja, narăryya saṅgrāmavijaya, raṇā§-
@@ -280,7 +280,7 @@ n="1v4" break="no"/>ṇa, siṅha-rāśī, Irika divaśanyājñā śrī mahārā
 
 <pb n="15v"/><fw n="15v" place="right" rend="bt-rotated"><num value="15">15</num></fw>
 <!--Plate 15. verso. [plate number 15 in right margin]-->
-<lb n="15v1"/> va śa<ochoice><orig>s</orig><reg>ś</reg></choice>i kṣiti jala pavana hutasāna, yajamănākāśa dharmmāhoratri sandhya-
+<lb n="15v1"/> va śa<choice><orig>s</orig><reg>ś</reg></choice>i kṣiti jala pavana hutasāna, yajamănākāśa dharmmāhoratri sandhya-
 <lb n="15v2"/> dvaya, yakṣa răkṣasa piśāca pretăsura garuḍa gandharvva, graha kinnāra mahorāga
 <lb n="15v3"/> caturi lokapāla, yama baruṇa kuvaira bāsava, mvaṁ putra devatā pañcaku§-
 <lb n="15v4"/> śīkā, nandīśvara mahākāla, ṣadvināya dūrggadevī caturāśra, <choice><sic>Anta</sic><corr>Ananta</corr></choice> surendra, A-
