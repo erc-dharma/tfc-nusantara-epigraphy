@@ -74,6 +74,8 @@
         </encodingDesc>
         <revisionDesc>
         	<change who="part:hepr" when="2026-01-16">started encoding the inscription</change>
+            <change who="part:hepr" when="2026-01-28">revised initial encoding</change>
+            <change who="part:hepr" when="2026-01-30">revised initial encoding</change>
         </revisionDesc>
     </teiHeader>
     <text xml:space="preserve">
@@ -209,15 +211,15 @@ n="1v4" break="no"/>ṇa, siṅha-rāśī, Irika divaśanyājñā śrī mahārā
 <pb n="10v"/><fw n="10v" place="right" rend="bt-rotated"><num value="10">10</num></fw>
 <!--Plate 10. verso. [plate number 10 in right margin]-->
 <lb n="10v1"/> n·, vidu maṅiduṁ, sumbal·, sumbul·, hulun· haji, siṅgaḥ, pabr̥si, vatək iṁ jro, Ityai§-
-<lb n="10v2"/> vamādi kabeḥ, tan· tama ya Irikaṁ sīma śrī pāduka rājarṣī Iṅ adanadan·, samaṅka§-
+<lb n="10v2"/> vamādi kabeḥ, tan· tam<choice><orig>a</orig><corr>ā</corr></choice> ya Irikaṁ sīma śrī pāduka rājarṣī Iṅ adanadan·, samaṅka§-
 <lb n="10v3"/> na tekanaṁ sukhaduḥkha magə:ṅ aḍmit·, kadyaṅganiṁ mayaṁ tan· pavvaḥ, valūḥ rumāmbat iṁ nata-
-<lb n="10v4"/> r·, vipati, vaṅkai kabunan·, rāḥ kasamburat iṁ natar·, vākcapāla, hastacapāla, duhi§-
+<lb n="10v4"/> r·, vipati<surplus>,</surplus> vaṅkai kabunan·, rāḥ kasamburat iṁ natar·, vākcapāla, hastacapāla, duhi§-
 
 <pb n="11r"/>
 <!--Plate 11. recto.-->
 <lb n="11r1"/> latən·, hidu kasirat·, Amijilakən· vuryyaniṁ kikir·, mamuk·, mamuṅpaṁ, ludan·
 <lb n="11r2"/>, tūtan, Aṅśa pratyaṅśa, ḍaṇḍa kuḍaṇḍa, maṇḍihalādi, kevala saṁ masīma riṅ adanada-
-<lb n="11r3"/> n·, Ataḥ pramāṇa ri sasukhaduḥkhanya kabeḥ, kunəṁ Ikanaṁ miśra mañəmbul·, Añaṁvriṁ§
+<lb n="11r3"/> n·<surplus>,</surplus> Ataḥ pramāṇa ri sasukhaduḥkhanya kabeḥ, kunəṁ Ikanaṁ miśra mañəmbul·, Añaṁvriṁ§
 <lb n="11r4"/> malaka, mamahaṁ, maṅapus·, maṅapū, maṅubar·, matarub·, maṁgula, maṁdyun·, manula,
 
 <pb n="11v"/><fw n="11v" place="right" rend="bt-rotated"><num value="11">11</num></fw>
@@ -251,7 +253,7 @@ n="1v4" break="no"/>ṇa, siṅha-rāśī, Irika divaśanyājñā śrī mahārā
 <pb n="13v"/><fw n="13v" place="right" rend="bt-rotated"><num value="13">13</num></fw>
 <!--Plate 13. verso. [plate number 13 in right margin]-->
 <lb n="13v1"/> e śrī pāduka rājarṣī, kunəṅ ikaṁ lmaḥ śeṣa, yatikā kaputrāṅśana ri sama sāna-
-<lb n="13v2"/> k· mvaṁ pakna devapūjā, kunəṁ lvirniṁ sama sānak· sākṣātumarima saṁ hyaṁ rājapra-
+<lb n="13v2"/> k· mvaṁ pakna devapūjā, kunəṁ lvirniṁ sama sānak· sākṣāt <supplied reason="omitted">t</supplied>umarima saṁ hyaṁ rājapra-
 <lb n="13v3"/> śāsti, rakryan apatiḥ riṁ mahībit·, pu Ajaran·, mūladharmma, nāma potra, ki §
 <lb n="13v4"/> hadyan avasana, makasikasir·, raṅga lintaṁ samaṁkana pratyekaniṁ sama sānak·
 
@@ -264,7 +266,7 @@ n="1v4" break="no"/>ṇa, siṅha-rāśī, Irika divaśanyājñā śrī mahārā
 
 <pb n="14v"/><fw n="14v" place="right" rend="bt-rotated"><num value="14">14</num></fw>
 <!--Plate 14. verso. [plate number 14 in right margin]-->
-<lb n="14v1"/> havvan·, pasiliḥ galuḥ, tuvuḥ-tuvuhan·, citrapātra, Aṅaṅgva salvirniṁ vali, §
+<lb n="14v1"/> havvan·, pasiliḥ galuḥ, tuvuḥ-tuvuhan·, ci<choice><sic>tra</sic><corr>va</corr></choice>pātra, Aṅaṅgva salvirniṁ vali, §
 <lb n="14v2"/> makādi, nāgapuṣpa, navagraha, Ajənva kanaka, Asəkara bvat· hino, maṁkana
 <lb n="14v3"/> kinavnaṅakən i sama sānak iṅ adan-adan· de śrī mahārāja, tlas labdhāpagəḥ §
 <lb n="14v4"/> tan· hananiṁ vanya muṁkimuṅkila məne hləm·, yadyapin· katka ri dlāhaniṁ dlāha, d-
@@ -273,19 +275,19 @@ n="1v4" break="no"/>ṇa, siṅha-rāśī, Irika divaśanyājñā śrī mahārā
 <!--Plate 15. recto.-->
 <lb n="15r1"/> e saṁ prabhumantryanāgata, ṅuniveḥ yan· grāma sāmānya, mvaṁ piṅhe vāhuta §
 <lb n="15r2"/> rāma, kunəṁ ri səḍəṅanyan· hana vanyāṁruddha ri rasa saṁ hyaṅ ājñā haji praśāsti riṅ ada-
-<lb n="15r3"/> nadan·, salvirniṁ pañcamahāpātaka bhuktinya riṅ ihatra paratra, Inḍaḥ ta kita kamu §
-<lb n="15r4"/> hyaṁ haricandana, Agasti mahārṣi, pūrvvadakṣiṇapaścimottaramaddhyorddhādhaḥ, ra-
+<lb n="15r3"/> nadan·, salvirniṁ pañcamahāpātaka bhuktinya riṅ ihatra paratra, In<choice><orig>ḍ</orig><corr>d</corr></choice>aḥ ta kita kamu §
+<lb n="15r4"/> hyaṁ haricandana, Agasti mahārṣi, pūrvvadakṣiṇapaścimottaramaddhyorddhādhaḥ, r<choice><sic>a</sic><corr>i</corr></choice>-
 
 <pb n="15v"/><fw n="15v" place="right" rend="bt-rotated"><num value="15">15</num></fw>
 <!--Plate 15. verso. [plate number 15 in right margin]-->
-<lb n="15v1"/> va śasi kṣiti jala pavana hutasāna, yajamănākāśa dharmmāhoratri sandhya-
+<lb n="15v1"/> va śa<ochoice><orig>s</orig><corr>ś</corr></choice>i kṣiti jala pavana hutasāna, yajamănākāśa dharmmāhoratri sandhya-
 <lb n="15v2"/> dvaya, yakṣa răkṣasa piśāca pretăsura garuḍa gandharvva, graha kinnāra mahorāga
 <lb n="15v3"/> caturi lokapāla, yama baruṇa kuvaira bāsava, mvaṁ putra devatā pañcaku§-
-<lb n="15v4"/> śīkā, nandīśvara mahākāla, ṣadvināya dūrggadevī caturāśra, Anta surendra, A-
+<lb n="15v4"/> śīkā, nandīśvara mahākāla, ṣadvināya dūrggadevī caturāśra, <choice><sic>Anta</sic><corr>Ananta</corr></choice> surendra, A-
 
 <pb n="16r"/>
 <!--Plate 16. recto.-->
-<lb n="16r1"/> nakta hyaṁ kālamr̥tyu bhūta gaṇa, sahananta rumakṣaṁ sakalabhūmimaṇḍala, kita §
+<lb n="16r1"/> na<choice><sic>k</sic><corr>n</corr></choice>ta hyaṁ kālamr̥tyu bhūta gaṇa, sahananta rumakṣaṁ sakalabhūmimaṇḍala, kita §
 <lb n="16r2"/> Umilu manarīra riṁ sarvvabhūta, kita sakalasākṣībhūta tumonaṅ adoh apaR̥ riṁ §
 <lb n="16r3"/> rahineṁ kuL̥m·, At· R̥ṅə: Ikeṁ samaya sapatha sumpaḥ pamaṁmaṁmamīri kita ka-
 <lb n="16r4"/> mu hyaṁ kabeḥ, yāvat ikaṁ vvaṁ dūrācārāṅulahulaha Ikeṁ sīma riṅ adanadan·,
@@ -293,23 +295,22 @@ n="1v4" break="no"/>ṇa, siṅha-rāśī, Irika divaśanyājñā śrī mahārā
 <pb n="16v"/><fw n="16v" place="right" rend="bt-rotated"><num value="16">16</num></fw>
 <!--Plate 16. verso. [plate number 16 in right margin]-->
 <lb n="16v1"/> yadyan· brāhmaṇa kṣatriya vaiśya śūdra, viku, brāhmacāri gr̥hasta vanaprastha bhi-§
-<lb n="16v2"/> kṣuka, mvaṁ piṅhai vāhuta rāma, nāyaka parttaya, hatu tali ser·, Asiṅ avakanya
-<lb n="16v3"/>, tasmāt· kabvat·karmmaknanya, patyanan ta ya denta kamu hyaṁ kabeḥ, deyatat patī-§
+<lb n="16v2"/> kṣuka, mvaṁ piṅhai v<choice><orig>ā</orig><corr>a</corr></choice>huta rāma, nāyaka parttaya, hatu tali ser·, Asiṅ avakanya
+<lb n="16v3"/>, tasmāt· kabvat·karmmaknanya, patyanan ta ya denta kamu hyaṁ kabeḥ, deya<supplied reason="omitted">n</supplied>tat patī-§
 <lb n="16v4"/> ya, yan aparanparan, humalintaṁ riṁ tgal·, sahutən deniṅ ulā mandi, yan· pareṅ alas·
 
 <pb n="17r"/>
 <!--Plate 17. recto.-->
-<lb n="17r1"/> dəmakən iṁ moṁ, maṁlaṁkahana mi(ṁ)maṁ, yan· halivat· riṁ vvaiy agə:ṁ, saṅhapən de-§
+<lb n="17r1"/> dəmakən iṁ moṁ, maṁlaṁkahana mi<unclear>ṁ</unclear>maṁ, yan· halivat· riṁ vvaiy agə:ṁ, saṅhapən de-§
 <lb n="17r2"/> niṁ vuhaya, mumul·, tuviran·, yan· halivat· riṁ havan· gə:ṁ, kasopa vula-§
 <lb n="17r3"/> ṅun· haliliṅəṅə:na, yan· hudan· sambəR̥n deniṁ glap·, yan· hana riṅ umaḥnya ka-§
 <lb n="17r4"/> tibāna bajrāgni tan· pavarṣa, liputən· gsəṅana de saṁ hyaṅ āgni vehən· bhaṣmi-§
 
 <pb n="17v"/><fw n="17v" place="right" rend="bt-rotated"><num value="17">17</num></fw>
 <!--Plate 17. verso. [plate number 17 in right margin]-->
-<lb n="17v1"/> bhūta saha dr̥vanya, tan· panoliha riṁ vuntat·, taruṁ riṅ adgan·, tāmpyal· riṁ kiva-
-<lb n="17v2"/> n·, Uvahi ri tṅənan·, tutuḥ tuṇḍanya, bəlaḥ kapălanya, səbit· vtəṁnya, tatas ḍaḍa-§
-<lb n="17v3"/> nya, vtvakən· ḍaL̥manya, paṅan· dagiṁnya, Inum· rāḥnya, Atəhər· pəpədakən· va-§
-<lb n="17v4"/> hi prāṇantika, byə:ṅakən riṅ ăkāśa, tibākən riṁ mahārorava, Astu, Astu, Astu, //
+<lb n="17v1"/> bhūta saha dr̥v<supplied reason="omitted">y</supplied>anya, tan· panoliha riṁ vuntat·, taruṁ riṅ adgan·, tāmpyal· riṁ kiva-
+<lb n="17v2"/> n·, Uvahi ri tṅənan·, tutuḥ <choice><sic>tuṇḍanya</sic><corr>uṇḍuhuṇḍutanya</corr></choice>, bəlaḥ kapălanya, səbit· vtəṁnya, tatas ḍaḍa-§
+<lb n="17v3"/> nya, vtvakən· ḍaL̥manya, paṅan· dagiṁnya, Inum· rāḥnya, Atəhər· pəpədakən· <choice><sic>va§<lb n="17v4" break="no"/>hi</sic><corr>vkas i</corr></choice> prāṇantika, byə:ṅakən riṅ ăkāśa, tibākən riṁ mahārorava, Astu, Astu, Astu, //
 
 </p>
 
@@ -327,7 +328,7 @@ n="1v4" break="no"/>ṇa, siṅha-rāśī, Irika divaśanyājñā śrī mahārā
                   </app>
                   <app loc="2r4-2v1">
                      <lem>vyapagataghanagagaṇatāragaṇăkīrṇnapūrṇnaśakāṅkanibhinnasamastarājaśaikhara</lem>
-                     <note>The epithet <foreign>vyapagataghaṇagagaṇatārāgaṇasaṁkīrṇapūrṇaśaśāṅkanirbhinnasamastarājaśaikhara</foreign> is paralleled in <ref target="DHARMA_INSukhāmr̥ta">Sukhāmr̥ta</ref> 1b5–6.</note>
+                     <note>The epithet <foreign>vyapagataghaṇagagaṇatārāgaṇasaṁkīrṇapūrṇaśaśāṅkanirbhinnasamastarājaśaikhara</foreign> is paralleled in <ref target="DHARMA_INSukhāmr̥ta">Sukhāmr̥ta</ref> 1b5-6.</note>
                   </app>
                   <app loc="5r2">
                      <lem><choice><sic>suśīlendikajña</sic><corr>suśīleṅgitajña-</corr></choice></lem>
@@ -341,9 +342,54 @@ n="1v4" break="no"/>ṇa, siṅha-rāśī, Irika divaśanyājñā śrī mahārā
                      <lem>Uṅgvana</lem>
                      <rdg source="bib:MachiSuhadi1996_01">Uṅgvani</rdg>
                   </app>
-                  <app loc="7v2–7v3">
+                  <app loc="7v2-7v3">
                      <lem>prabhudeva-</lem>
                      <note>Whether the words <foreign>prabhu</foreign> and <foreign>deva</foreign> should be written separately or together is still undecided.</note>
+                  </app>
+                  <app loc="8v2">
+                     <lem>saha saṅkeṁ sāmyātagan· vatək·</lem>
+                     <note>The appearance of <foreign>saṁkeṁ</foreign> makes the translation to be difficult as it stands</note>
+                  </app>
+                  <app loc="14v1">
+                     <lem>ci<choice><sic>tra</sic><corr>va</corr></choice>pātra</lem>
+                     <note>The expect term is <foreign>civapātra</foreign>, but see <ref target="DHARMA_INSKoravāśrama.xml">Koravāśrama</ref> <foreign>vruh macitrapaṭa</foreign>.</note>
+                  </app>
+                  <app loc="14v4">
+                     <lem>vanya</lem>
+                     <rdg source="bib:MachiSuhadi1996_01">vaṁ nya</rdg>
+                  </app>
+                  <app loc="14v4">
+                     <lem>katka</lem>
+                     <rdg source="bib:MachiSuhadi1996_01">ta tka</rdg>
+                     <note>The particle <foreign>ta</foreign> is not expected in a subordinate clause, and the expression <foreign>yadyapin katəka</foreign> is rather common in Old Javanese prose texts with several occurrences in <title>Ādiparva</title>, <title>Agastyaparva</title>, <title>Brahmāṇḍapurāṇa</title>, <title>Udyogaparva</title>, and <title>Uttarakāṇḍa</title>.</note>
+                  </app>
+                  <app loc="15r4">
+                     <lem>Agasti</lem>
+                     <note>understand <foreign>Agastya</foreign>.</note>
+                  </app>
+                  <app loc="15v2-3">
+                     <lem>mahorāga caturi lokapāla</lem>
+                     <note>understand <foreign>mahoraga caturlokapāla</foreign>.</note>
+                  </app>
+                  <app loc="15v4">
+                     <lem><choice><sic>Anta</sic><corr>Ananta</corr></choice></lem>
+                     <note>See <ref target="DHARMA_INSWarunggahan">Warunggahan</ref> 14r1 mentions <foreign>antassurendra</foreign>.</note>
+                  </app>
+                  <app loc="16v2">
+                     <lem>hatu tali ser·</lem>
+                     <note>The reading seems clear enough but it is not clear whether and how this string is to be divided into word. I know only one parallel, in <bibl><ptr target="bib:Brandes1913_01"></bibl> XLVIII, where we read <foreign>muaṅ piṅhai vahu(ta) rāma nāyaka parttaya hatur ttaliper asiṅ umulahula</foreign>. Maybe <foreign>hatut alis er</foreign> means "following the flow of water"? This needs to be discussed further in the light of <foreign>atur tali ser</foreign> in <ref target="DHARMA_INSResisasana">Resisasana</ref>, <ref target="DHARMA_INSAnjukLadang">Anjuk Ladang</ref>, <ref target="DHARMA_INSParadahII">Paradah II</ref>, <ref target="DHARMA_INSBimalasrama">Bimalasrama</ref>.</note>
+                  </app>
+                  <app loc="17r1">
+                     <lem>maṁlaṁkahana mi<unclear>ṁ</unclear>maṁ</lem>
+                     <rdg source="bib:MachiSuhadi1996_01">mala kahana mimaṁ</rdg>
+                  </app>
+                  <app loc="17v2">
+                     <lem><choice><sic>tuṇḍanya</sic><corr>uṇḍuhuṇḍutanya</corr></choice></lem>
+                     <note><foreign>uṇḍuhuṇḍutanya</foreign> as in <ref target="DHARMA_INSMadhavapura">Madhavapura</ref>?</note>
+                  </app>
+                  <app loc="17v3–4">
+                     <lem><choice><sic>va§<lb n="17v4" break="no"/>hi</sic><corr>vkas i</corr></choice></lem>
+                     <rdg source="bib:MachiSuhadi1996_01">vehi</rdg>
                   </app>
 
                   <!--
@@ -353,61 +399,7 @@ n="1v4" break="no"/>ṇa, siṅha-rāśī, Irika divaśanyājñā śrī mahārā
                      <note>...</note>
                   </app>
                   -->
-                  <!-- 
-                   
-                  -->
 
-
-<!--
-	
-________________________________________
-8v2. saha saṅkeṁ sāmyātagan· vatək·: this sequence cannot be translated as it stands; does saṁkeṁ simply need to be deleted?
-________________________________________
-	10v2. tama: understand tamā.
-	10v4. vipati, vaṅkai kabunan·: it is probably necessary to ignore the punctuation sign.
-_________________________________________
-11r2–3. adanadan·, Ataḥ: the comma must be deleted. See 11v3.
-
-________________________________________
-
-13v2. sākṣātumarima: understand sākṣāt tumarima.
-________________________________________
-
-	14v1. citrapātra: the expect term is civapātra. But see Koravāśrama vruh macitrapaṭa.
-	14v4. vanya: vaṁ nya MS.
-	14v4. katka: ta tka MS. The particle ta is not expected in a subordinate clause, and the expression (y)adyapin kat(ə)ka is rather common in Old Javanese prose texts (several occurrences in Ādiparva, Agastyaparva, Brahmāṇḍapurāṇa, Udyogaparva, Uttarakāṇḍa).
-________________________________________
-
-	15r3. inḍaḥ: correct indaḥ.
-	15r4. Agasti: understand Agastya.
-________________________________________
-
-	15r4–v1. rava śasi: correct ravi śaśi.
-	15v2–3. mahorāga caturi lokapāla: understand mahoraga caturlokapāla.
-	15v4. Anta: emend Ananta? But Warunggahan 14r1 has antassurendra.
-________________________________________
-
-	15v4–16r1. Anakta: emend Ananta.
-________________________________________
-
-	16v2. vāhuta: understand vahuta.
-	16v2. hatu tali ser·: the reading seems clear enough but it is not clear whether and how this string is to be divided into word. I know only one parallel, in OJO XLVIII, where we read: ... muaṅ piṅhai vahu(ta) rāma nāyaka parttaya hatur ttaliper asiṅ umulahula ... Maybe hatut alis er ‘following the flow of water’? Update this note (and the edition) in the light of atur tali ser in Resisasana, Anjuk Ladang, Paradah II, Bimalasrama.
-	16v3. deyatat: emend deyantat, as in several parallel passages.
-________________________________________
-
-	17r1. maṁlaṁkahana mi(ṁ)maṁ: mala kahana mimaṁ MS.
-________________________________________
-
-	17v1. dr̥vanya: emend dr̥vyanya.
-	17v2. tuṇḍanya: emend uṇḍuhuṇḍutanya, as in Madhavapura?
-	17v3–4. vahi: vehi MS. Emend vkas i.
-________________________________________
-
-________________________________________
-
-                  
-                  
-                  -->
                </listApp>
          </div>
          <div type="translation">
