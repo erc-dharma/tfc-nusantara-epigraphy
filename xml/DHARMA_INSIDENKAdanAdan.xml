@@ -73,10 +73,10 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
-        	<change who="part:hepr" when="2026-01-16">started encoding the inscription</change>
-            <change who="part:hepr" when="2026-01-28">revised initial encoding</change>
-            <change who="part:hepr" when="2026-01-30">revised initial encoding</change>
             <change who="part:hepr" when="2026-02-02">revised initial encoding</change>
+            <change who="part:hepr" when="2026-01-30">revised initial encoding</change>
+            <change who="part:hepr" when="2026-01-28">revised initial encoding</change> 
+            <change who="part:hepr" when="2026-01-16">started encoding the inscription</change>
         </revisionDesc>
     </teiHeader>
     <text xml:space="preserve">
