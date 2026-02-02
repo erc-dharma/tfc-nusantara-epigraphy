@@ -76,6 +76,7 @@
         	<change who="part:hepr" when="2026-01-16">started encoding the inscription</change>
             <change who="part:hepr" when="2026-01-28">revised initial encoding</change>
             <change who="part:hepr" when="2026-01-30">revised initial encoding</change>
+            <change who="part:hepr" when="2026-02-02">revised initial encoding</change>
         </revisionDesc>
     </teiHeader>
     <text xml:space="preserve">
@@ -83,228 +84,78 @@
          <div type="edition" xml:lang="kaw-Latn" rendition="class:38769 maturity:83213">
             <pb n="1r"/><!--Blank outer page.-->
             <p><pb n="1v"/><fw n="1v" place="right" rend="bt-rotated"><num value="1">1</num></fw>
-<!--Plate 1. verso. [plate number in right margin, rotated 90° counterclockwise: 1]-->
+               
 <lb n="1v1"/><g type="ddandaOrnate"/><g type="circleLarge"/><g type="ddandaOrnate"/> svasti śaka-varṣātīta, <num value="1223">1223</num>, śrăvaṇa-māsa, tithi pañcadaśī kr̥ṣṇa-pakṣa
 <lb n="1v2"/>, <abbr>ha</abbr>, <abbr>U</abbr>, <abbr>śa</abbr>, văra, maḍaṅkuṅan·, grahacāra bāyabyastha, māgha-nakṣatra, pitr̥-deva§<lb 
 n="1v3" break="no"/>tā, Āgneya-maṇḍala, śiva-yoga, vairāja-muhūrtta, yama-parvveśa, catuspada-kara§<lb 
 n="1v4" break="no"/>ṇa, siṅha-rāśī,</p> <p>Irika divaśany ājñā śrī mahārāja, narăryya saṅgrāmavijaya, <foreign xml:lang="san-Latn">raṇā§<pb n="2r" break="no"/>
-<!--Plate 2. recto.-->
 <lb n="2r1" break="no"/>ṅgātura-para-paraspara-vīroṣadha-mahogravīra</foreign>, <foreign xml:lang="san-Latn">sva-hasta-bala-bhīma-<supplied reason="omitted">sa</supplied>masta-vair<choice><sic>a</sic><corr>i</corr></choice>-va-
 <lb n="2r2"/>ra-vivarṇna-kampita-kăraṇa</foreign>, <foreign xml:lang="san-Latn">saṅhăra-kāla-prajvalitānala-sadr̥śa-śrī-jayakatyə:ṁ-rājāti§-
 <lb n="2r3"/>ripu-vijaya</foreign>, <foreign xml:lang="san-Latn">sakala-yava-dvīpa-maṇḍala-samudra-mandārācala-manthāno<supplied reason="omitted">pa</supplied>panna-mahāmr̥ta§-
-<lb n="2r4"/>maya</foreign>, <foreign xml:lang="san-Latn">gaṅgā-pravāhā-samān<choice><orig>a</orig><reg>ā</reg></choice><supplied reason="omitted">na</supplied>varata-ratna-vastra-kanakādi-riktha-dāna-śakta</foreign>, <foreign xml:lang="san-Latn">vyapagata-gha<pb 
-   n="2v" break="no"/><fw n="2v" place="right" rend="bt-rotated"><num value="2">2</num></fw>
-<!--Plate 2. verso. [plate number 2 in right margin]-->
+<lb n="2r4"/>maya</foreign>, <foreign xml:lang="san-Latn">gaṅgā-pravāhā-samān<choice><orig>a</orig><reg>ā</reg></choice><supplied reason="omitted">na</supplied>varata-ratna-vastra-kanakādi-riktha-dāna-śakta</foreign>, <foreign xml:lang="san-Latn">vyapagata-gha<pb n="2v" break="no"/><fw n="2v" place="right" rend="bt-rotated"><num value="2">2</num></fw>
 <lb n="2v1" break="no"/>na-gagaṇa-tāra-gaṇăkīrṇna-pūrṇna-śa<choice><sic>kā</sic><corr>śā</corr></choice>ṅka-ni<supplied reason="omitted">r</supplied>bhinna-samasta-rāja-śaikhara</foreign>, śrī kr̥tarājasa jaya<lb 
 n="2v2" break="no"/>varddhanānantavikramo<choice><sic>ṅ</sic><corr>t</corr></choice>tuṅgadeva,</p> <p>Athavā, <foreign xml:lang="san-Latn">catusprakāra-rājadevy-ānurūpa</foreign>, sākṣāt ⌈-§-
 <lb n="2v3"/>devadevī śrī mahārāja mvaṁ sira rantən hajinira, rājaputrī paramātiśaya catu<choice><orig>s</orig><reg>ṣ</reg></choice>prakāra, <foreign xml:lang="san-Latn">ba<lb n="2v4" break="no"/>li-malayu-madhura-tañjuṅpura-prabhr̥ti, para-dvīpa-rāja-śiro-ghaṭita-caraṇāravinda-śrī-kr̥§<pb 
-n="3r" break="no"/><!--Plate 3. recto.-->
-<lb n="3r1" break="no"/>tanagara-mahāprabhu-sad-duhitā</foreign>, sira ta kapāt· kapva suputrī de bhaṭāra śrīkr̥tanagara,
-<lb n="3r2"/> sira saṁ lĭna ri śivabuddhālaya, makādi sira saṁ paramasuśīlamahāpatibrata, śrī parameśva-
-<lb n="3r3"/> rī, dyaḥ devī trībhuvaneśvarī, śrī mahādevī, dyaḥ devī narendraduhitā śrījayendra-
-<lb n="3r4"/> devī, dyaḥ devī pr<choice><orig>ā</orig><reg>a</reg></choice>jñāpārāmit<choice><orig>a</orig><reg>ā</reg></choice>, mvaṁ sira saṁ paramalalitamahārūpin<choice><sic>a</sic><corr>ī</corr></choice>, Atipriya de §
+n="3r" break="no"/><lb n="3r1" break="no"/>tanagara-mahāprabhu-sad-duhitā</foreign>, sira ta kapāt· kapva suputrī de bhaṭāra śrīkr̥tanagara,
+<lb n="3r2"/> sira saṁ lĭna ri śivabuddhālaya, makādi sira saṁ paramasuśīlamahāpatibrata, śrī parameśva
+<lb n="3r3" break="no"/>rī, dyaḥ devī trībhuvaneśvarī, śrī mahādevī, dyaḥ devī narendraduhitā śrījayendra<lb n="3r4" break="no"/>devī, dyaḥ devī pr<choice><orig>ā</orig><reg>a</reg></choice>jñāpārāmit<choice><orig>a</orig><reg>ā</reg></choice>, mvaṁ sira saṁ paramalalitamahārūpin<choice><sic>a</sic><corr>ī</corr></choice>, Atipriya de §
 
 <pb n="3v"/><fw n="3v" place="right" rend="bt-rotated"><num value="3">3</num></fw>
-<!--Plate 3. verso. [plate number 3 in right margin] -->
-<lb n="3v1"/> śrī mahārāja, sākṣāt· Arddharājeśvarī, sira mvaṁ saṁ nātha, śrī pāduka rājapatnī, dyaḥ ⌈-
-<lb n="3v2"/>dev(ī) gāyatrī, Athaca, sat-putra-parigat<choice><orig>ā</orig><reg>a</reg></choice>, Iniriṁ ta śrī mahārāja deni sat-putranira sa-
-<lb n="3v3"/>ṅke śrī parameśvarī, śrī jayanagara dahapurapratiṣṭitāmitabalavīryyasaṁkĭrṇnasulakṣa-
-<lb n="3v4"/> ṇataruṇarāja, prabhu taruṇa sulakṣaṇa tan· papramāṇa taṁ balavīryya ri sira, tlas· ta
+<lb n="3v1"/> śrī mahārāja, sākṣāt· Arddharājeśvarī, sira mvaṁ saṁ nātha, śrī pāduka rājapatnī, dyaḥ ⌈-<!--taling at the end of line-->
+<lb n="3v2"/>devī gāyatrī, Athaca, sat-putra-parigat<choice><orig>ā</orig><reg>a</reg></choice>, Iniriṁ ta śrī mahārāja deni sat-putranira sa<lb n="3v3" break="no"/>ṅke śrī parameśvarī, śrī jayanagara dahapurapratiṣṭitāmitabalavīryyasaṁkĭrṇnasulakṣa<lb n="3v4" break="no"/>ṇataruṇarāja, prabhu taruṇa sulakṣaṇa tan· papramāṇa taṁ balavīryya ri sira, tlas· ta
 
 <pb n="4r"/>	
-<!--Plate 4. recto.-->
-<lb n="4r1"/> sira pinratiṣṭa riṁ nagara daha de śrī mahārāja, śrī jayanagaranāmarājābhiṣeka, I-§
-<lb n="4r2"/> ka tājñā śrī mahārāja, tinaḍaḥ de rakryan· mahāmantrī katrīṇi, rakryan· mantrī hin-
-<lb n="4r3"/>o, rakryan· mantrī sirikan·, rakryan· mantrī halu, Umiṅsor i para taṇḍa rakryan· riṁ pa-§
-<lb n="4r4"/>kira-kiran· makabehan· makādi saṁ mantrī mahākuśala, sākṣāt· praṇălāmratisu-
-
-<pb n="4v"/><fw n="4v" place="right" rend="bt-rotated"><num value="4">4</num></fw>
-<!--Plate 4. verso. [plate number 4 in right margin]-->
-<lb n="4v1"/>baddhākən· pagəḥni paṁḍiri śrī mahārāja kāṅkən ĭśvaraprativimba, rakryan apatiḥ, pu vā-
-<lb n="4v2"/> hana, śīla-guṇācāra-raṅgabalasaṁkīrṇnamaṇḍitamahāmantrīmukhya, rakryan· dmuṁ, pu Elā-
-<lb n="4v3"/> m·, saṅgrāmāstrahastaripumarddanakaraṇa, rakryan· kanuruhan·, pu ckap·, sakalavairi§-
-<lb n="4v4"/> vīratarălaṅghanīya, rakryan· tuməṅguṁ, pu smi, Atĭvamanohararājyābharaṇātmakaśū§-
-
-<pb n="5r"/>
-<!--Plate 5. recto.-->
-<lb n="5r1"/> rasiṅharājavatsa, təlas· karuhun· saṁ mantrī vāgmīmaya, mapasaṅgahan· saṁ prāṇarā-
-<lb n="5r2"/> ja, pu sina, <choice><sic>suśīlendikajña</sic><corr>suśīleṅgitajña-</corr></choice>sarvva-nay<choice><orig>ā</orig><reg>a</reg></choice>nītidakṣa, saṁ rājamantrī, pu baṅo, Aśeṣarā-§
-<lb n="5r3"/> jakāryya-p<surplus>r</surplus>aramapurass<choice><orig>ā</orig><reg>a</reg></choice>ra, saṁ rājaguṇa, pu kapuk·, jagat·sa(ṁ)rakṣaṇa-samasta-nīti-
-<lb n="5r4"/> vicakṣaṇa, mvaṁ saṅ apañji varṇnajaya, pu kapāt·, samasta-rāja-nandana-kriyă-tatpara, sa- 
-
-<pb n="5v"/><fw n="5v" place="right" rend="bt-rotated"><num value="5">5</num></fw>
-<!--Plate 5. verso. [plate number 5 in right margin]-->
-<lb n="5v1"/> ṅ apañji śūrapati, pu siṅhasahəl·, satatarājanirggamānu<choice><sic>ka</sic><corr>kr̥</corr></choice>tasatyapara, ca muvaḥ, ta§-
-<lb n="5v2"/> n· kantun· saṁ mantrī keśadharī, saṅ apañji guṇajaya, ḍaṅ ācāryyāgraja, vāhyāvāhya§-
-<lb n="5v3"/> kriyănipuna, saṅ apañji nāgaraka, ḍaṅ ācāryya vīranātha, rājahitakāryyānekasādha-
-<lb n="5v4"/> navicakṣaṇa, tan· kavun·tat saṁ prāgvivāka nyāyānyāya-vyāvahāra-vicchedaka, saṁ pa-
-
-<pb n="6r"/>
-<!--Plate 6. recto.-->
-<lb n="6r1"/> mgət i tirvan·, ḍaṅ ācāryya săvitra, nyāya-vyākaraṇa-śāstra-parisamāpta, saṁ pamgət i
-<lb n="6r2"/> jamba, ḍaṅ ācāryya rāgavijaya, nyāya-vyākaraṇa-śāstra-parisamāpta, saṁ pamgət i pamvatan·, ḍa-
-<lb n="6r3"/> ṅ ācāryya smaravijaya, săṁkhyā-prakaraṇa-śāstra-parisamāpta, mvaṁ saṁ pamgət i kaṇḍaṅan rarai, ḍa-
-<lb n="6r4"/> ṅ ācāryya giṇāntaka, prakaraṇa-śāstra-parisamāpta, makamukhya saṁ dharmmādhikaraṇa, dharmmădhya-
-
-<pb n="6v"/><fw n="6v" place="right" rend="bt-rotated"><num value="6">6</num></fw>
-<!--Plate 6. verso. [plate number 6 in right margin]-->
-<lb n="6v1"/> kṣa riṁ kaśaivan·, saṅ apañji nirasana, ḍaṅ ācāryyāstrarāja, Aneka-prakāra-guṇa-sampa-
-<lb n="6v2"/> nna-dharmma-parāyana, I piṅsorny ājñā śrī mahārāja, kumonakən irikanaṁ Adan-adan· thāni va-
-<lb n="6v3"/> tək· luraḥ siṅgahan·, padaməlakna saṁ hyaṅ ājñā haji praśāsti tinaṇḍa kr̥tarājasa-jayavarddhanalā-
-<lb n="6v4"/>ñchana, sambandha, gati śrī pāduka rājarṣī, valkaladharī suśīlaśuddhācāra satatadharmmacintana
+<lb n="4r1"/> sira pinratiṣṭa riṁ nagara daha de śrī mahārāja, śrī jayanagaranāmarājābhiṣeka, I§<lb n="4r2" break="no"/>ka tājñā śrī mahārāja, tinaḍaḥ de rakryan· mahāmantrī katrīṇi, rakryan· mantrī hin<lb n="4r3" break="no"/>o, rakryan· mantrī sirikan·, rakryan· mantrī halu, Umiṅsor i para taṇḍa rakryan· riṁ pa§<lb n="4r4" break="no"/>kira-kiran· makabehan· makādi saṁ mantrī mahākuśala, sākṣāt· praṇălāmratisu<pb n="4v" break="no"/><fw n="4v" place="right" rend="bt-rotated"><num value="4">4</num></fw><lb n="4v1" break="no"/>baddhākən· pagəḥni paṁḍiri śrī mahārāja kāṅkən ĭśvaraprativimba, rakryan apatiḥ, pu vā<lb n="4v2" break="no"/>hana, śīla-guṇācāra-raṅgabalasaṁkīrṇnamaṇḍitamahāmantrīmukhya, rakryan· dmuṁ, pu Elā<lb n="4v3" break="no"/>m·, saṅgrāmāstrahastaripumarddanakaraṇa, rakryan· kanuruhan·, pu ckap·, sakalavairi§
+<lb n="4v4" break="no"/>vīratarălaṅghanīya, rakryan· tuməṅguṁ, pu smi, Atĭvamanohararājyābharaṇātmakaśū§<pb n="5r" break="no"/><lb n="5r1" break="no"/>rasiṅharājavatsa, təlas· karuhun· saṁ mantrī vāgmīmaya, mapasaṅgahan· saṁ prāṇarā<lb n="5r2" break="no"/>ja, pu sina, <choice><sic>suśīlendikajña</sic><corr>suśīleṅgitajña-</corr></choice>sarvva-nay<choice><orig>ā</orig><reg>a</reg></choice>nītidakṣa, saṁ rājamantrī, pu baṅo, Aśeṣarā§<lb n="5r3" break="no"/>jakāryya-p<surplus>r</surplus>aramapurass<choice><orig>ā</orig><reg>a</reg></choice>ra, saṁ rājaguṇa, pu kapuk·, jagat·sa(ṁ)rakṣaṇa-samasta-nīti<lb n="5r4" break="no"/>vicakṣaṇa, mvaṁ saṅ apañji varṇnajaya, pu kapāt·, samasta-rāja-nandana-kriyă-tatpara, sa<pb n="5v" break="no"/><fw n="5v" place="right" rend="bt-rotated"><num value="5">5</num></fw><lb n="5v1" break="no"/>ṅ apañji śūrapati, pu siṅhasahəl·, satatarājanirggamānu<choice><sic>ka</sic><corr>kr̥</corr></choice>tasatyapara, ca muvaḥ, ta§<lb n="5v2" break="no"/>n· kantun· saṁ mantrī keśadharī, saṅ apañji guṇajaya, ḍaṅ ācāryyāgraja, vāhyāvāhya§<lb n="5v3" break="no"/>kriyănipuna, saṅ apañji nāgaraka, ḍaṅ ācāryya vīranātha, rājahitakāryyānekasādha<lb n="5v4" break="no"/>navicakṣaṇa, tan· kavun·tat saṁ prāgvivāka nyāyānyāya-vyāvahāra-vicchedaka, saṁ pa<pb n="6r" break="no"/><lb n="6r1" break="no"/>mgət i tirvan·, ḍaṅ ācāryya săvitra, nyāya-vyākaraṇa-śāstra-parisamāpta, saṁ pamgət i
+<lb n="6r2"/> jamba, ḍaṅ ācāryya rāgavijaya, nyāya-vyākaraṇa-śāstra-parisamāpta, saṁ pamgət i pamvatan·, ḍa<lb n="6r3" break="no"/>ṅ ācāryya smaravijaya, săṁkhyā-prakaraṇa-śāstra-parisamāpta, mvaṁ saṁ pamgət i kaṇḍaṅan rarai, ḍa<lb n="6r4" break="no"/>ṅ ācāryya giṇāntaka, prakaraṇa-śāstra-parisamāpta, makamukhya saṁ dharmmādhikaraṇa, dharmmădhya<pb n="6v" break="no"/><fw n="6v" place="right" rend="bt-rotated"><num value="6">6</num></fw><lb n="6v1" break="no"/>kṣa riṁ kaśaivan·, saṅ apañji nirasana, ḍaṅ ācāryyāstrarāja, Aneka-prakāra-guṇa-sampa<lb n="6v2" break="no"/>nna-dharmma-parāyana, I piṅsorny ājñā śrī mahārāja, kumonakən irikanaṁ Adan-adan· thāni va<lb n="6v3" break="no"/>tək· luraḥ siṅgahan·, padaməlakna saṁ hyaṅ ājñā haji praśāsti tinaṇḍa kr̥tarājasa-jayavarddhanalā<lb n="6v4" break="no"/>ñchana, sambandha, gati śrī pāduka rājarṣī, valkaladharī suśīlaśuddhācāra satatadharmmacintana
 
 <pb n="7r"/>
-<!--Plate 7. recto.-->
-<lb n="7r1"/>, sthiratara ta sira gum(ə)gvani kasatyan· patibratăbrata, mvaṁ tan alupe kăbhyāsaniṁ sarvva⌈-
-<lb n="7r2"/>devārccana, makataṅgvan sadānusmr̥tinire saṁ hyaṁ parameṣṭadevatā, mătāmahī ta sira ⌈-
-<lb n="7r3"/> de śrī mahārāja, sira tāminta ri śrī mahārāja ri knohanikaṁ vānva riṅ adanadan·, An susu§-
-<lb n="7r4"/> kən· sīma de śrī pāduka rājarṣī, makadon· paṁlālananna<surplus>na</surplus> Uṅgvana śrī pāduka rājarṣī
+<lb n="7r1"/>, sthiratara ta sira gum<unclear>ə</unclear>gvani kasatyan· patibratăbrata, mvaṁ tan alupe kăbhyāsaniṁ sarvva⌈<!--taling at the end of line--><lb n="7r2" break="no"/>devārccana, makataṅgvan sadānusmr̥tinire saṁ hyaṁ parameṣṭadevatā, mătāmahī ta sira ⌈<!--taling at the end of line-->
+<lb n="7r3"/> de śrī mahārāja, sira tāminta ri śrī mahārāja ri knohanikaṁ vānva riṅ adanadan·, An susu§<lb n="7r4" break="no"/>kən· sīma de śrī pāduka rājarṣī, makadon· paṁlālananna<surplus>na</surplus> Uṅgvana śrī pāduka rājarṣī
 
 <pb n="7v"/><fw n="7v" place="right" rend="bt-rotated"><num value="7">7</num></fw>
-<!--Plate 7. verso. [plate number 7 in right margin]-->
-<lb n="7v1"/> vyavaś<choice><orig>a</orig><reg>ā</reg></choice>yāṁlampahakən· devārccanāmrārthanakna pagəhani paṁḍiri śrī mahārāja riṁ ratna-
-<lb n="7v2"/> kanakasiṅhāsana, maṅkana Iṣṭaprayojana śrī pāduka rājarṣī, śrī mahārāja pva sira pra-
-<lb n="7v3"/> bhu dev<choice><orig>a</orig><reg>ā</reg></choice>ṅśa svarggāvatīrṇnaviṣṇvavatāra, sākṣāt· bhaṭāra janărddhanāmarālayāvatīrṇne§-
-<lb n="7v4"/> nāṅkan akən· rumakṣaṁ sarvvadharmma, munarjīvaknaṁ jagaddhita, mataṅyan· tan· tinəṅət ikaṁ sa§-
-
-<pb n="8r"/>
-<!--Plate 8. recto.-->
-<lb n="8r1"/> kinahyunakən śrī pāduka rājarṣī de śrī mahārāja, Āpan· paramārthadharmmakāryya d-
-<lb n="8r2"/> onya, yadyan tāsiṁ dharmmakāryya salviranya, tan dadi śrī mahārāja sira tan· mukyadharmmaka-
-<lb n="8r3"/> rttā, kimuta sira yan· dharmmakāryyaniṁ tuhatuha, nimittanyan kinonakən ikaṁ vānva riṅ a-
-<lb n="8r4"/> danadan·, padaməlakna saṁ hyaṅ ājñā haji praśāsti tinaṇḍa kr̥tarājasa-jayavarddhana-lāñcha-
-
-<pb n="8v"/><fw n="8v" place="right" rend="bt-rotated"><num value="8">8</num></fw>
-<!--Plate 8. verso. [plate number 8 in right margin]-->
-<lb n="8v1"/>na, Umuṅgva ri salaḥ sikiniṅ upālatāmraripta, makarasa ri vnaṅanikanaṁ vānva riṅ adanadan su-
-<lb n="8v2"/> sukən· sīma de śrī pāduka rājarṣī, saha saṅkeṁ sāmyātagan· vatək· luraḥ siṅgahan·,
-<lb n="8v3"/> makadon sīma śrī pāduka rājarṣī, tumusa tke santāna pratisantāna śrī pāduka rāja§-
-<lb n="8v4"/> rṣī, yadyan· məne hləm· katka dlāhaniṁ dlāha, kunəṁ parṇnaḥnyan· sīma de śrī pāduka rā§-
-
-<pb n="9r"/>
-<!--Plate 9. recto.-->
-<lb n="9r1"/> jarṣī, kevalādəg· riṅgit·, svatantrā tan· katamana deniṁ vinava saṁ mănāk ⟨k⟩atrīṇi, pa-
-<lb n="9r2"/> ṅkur·, tavan·, tirip·, mvaṁ piṅhai vahuta, saprakāraniṁ maṅilala dr̥vya haji riṁ daṅū, miśra
-<lb n="9r3"/> paramiśra, vulu-vulu prakāra, paṅuraṁ, kriṁ, paḍəm·, manimpiki, paranakan·, limus· ga§-
-<lb n="9r4"/> luḥ, maṁriñci, maṁhuryyālāla, paraṁ, suṅka, dūra, paṅaruhan·, taji, vatu tajəm·, sukun·,
+<lb n="7v1"/> vyavaś<choice><orig>a</orig><reg>ā</reg></choice>yāṁlampahakən· devārccanāmrārthanakna pagəhani paṁḍiri śrī mahārāja riṁ ratna<lb n="7v2" break="no"/>kanakasiṅhāsana, maṅkana Iṣṭaprayojana śrī pāduka rājarṣī, śrī mahārāja pva sira pra<lb n="7v3" break="no"/>bhu dev<choice><orig>a</orig><reg>ā</reg></choice>ṅśa svarggāvatīrṇnaviṣṇvavatāra, sākṣāt· bhaṭāra janărddhanāmarālayāvatīrṇne§<lb n="7v4" break="no"/>nāṅkan akən· rumakṣaṁ sarvvadharmma, munarjīvaknaṁ jagaddhita, mataṅyan· tan· tinəṅət ikaṁ sa§<pb n="8r" break="no"/><lb n="8r1" break="no"/>kinahyunakən śrī pāduka rājarṣī de śrī mahārāja, Āpan· paramārthadharmmakāryya d<lb n="8r2" break="no"/>onya, yadyan tāsiṁ dharmmakāryya salviranya, tan dadi śrī mahārāja sira tan· mukyadharmmaka<lb n="8r3" break="no"/>rttā, kimuta sira yan· dharmmakāryyaniṁ tuhatuha, nimittanyan kinonakən ikaṁ vānva riṅ a<lb n="8r4" break="no"/>danadan·, padaməlakna saṁ hyaṅ ājñā haji praśāsti tinaṇḍa kr̥tarājasa-jayavarddhana-lāñcha<pb n="8v" break="no"/><fw n="8v" place="right" rend="bt-rotated"><num value="8">8</num></fw><lb n="8v1" break="no"/>na, Umuṅgva ri salaḥ sikiniṅ upālatāmraripta, makarasa ri vnaṅanikanaṁ vānva riṅ adanadan su<lb n="8v2" break="no"/>sukən· sīma de śrī pāduka rājarṣī, saha saṅkeṁ sāmyātagan· vatək· luraḥ siṅgahan·,
+<lb n="8v3"/> makadon sīma śrī pāduka rājarṣī, tumusa tke santāna pratisantāna śrī pāduka rāja§<lb n="8v4" break="no"/>rṣī, yadyan· məne hləm· katka dlāhaniṁ dlāha, kunəṁ parṇnaḥnyan· sīma de śrī pāduka rā§<pb n="9r" break="no"/><lb n="9r1" break="no"/>jarṣī, kevalādəg· riṅgit·, svatantrā tan· katamana deniṁ vinava saṁ mănāk ⟨k⟩atrīṇi, pa<lb n="9r2" break="no"/>ṅkur·, tavan·, tirip·, mvaṁ piṅhai vahuta, saprakāraniṁ maṅilala dr̥vya haji riṁ daṅū, miśra
+<lb n="9r3"/> paramiśra, vulu-vulu prakāra, paṅuraṁ, kriṁ, paḍəm·, manimpiki, paranakan·, limus· ga§<lb n="9r4" break="no"/>luḥ, maṁriñci, maṁhuryyālāla, paraṁ, suṅka, dūra, paṅaruhan·, taji, vatu tajəm·, sukun·,
 
 <pb n="9v"/><fw n="9v" place="right" rend="bt-rotated"><num value="9">9</num></fw>
-<!--Plate 9. verso. [plate number 9 in right margin]-->
-<lb n="9v1"/> halu varak·, rakasaṁ, ramanaṁ, piniṅlai, kataṅgaran·, tapa haji, Air haji, malaṇḍaṁ, lca, lə-
-<lb n="9v2"/> bləb·, pakalaṁkaṁ, pakaliṁkiṁ, kutak·, taṅkil·, tr̥pan·, salyut·, vatu valaṁ, pamaṇi§-
-<lb n="9v3"/> kan·, paṇiga, sikpan·, rumban·, vilaṁ thāni, viji kavaḥ, tiṅkəs·, Avi, tuha dagaṁ, tu§-
-<lb n="9v4"/> ha nambi, tuha juḍi, tuhan uñjəman·, juru gosali, juru jalir·, maṁrumbai, maṁguñjai, pabi-
-
-<pb n="10r"/>
-<!--Plate 10. recto.-->
-<lb n="10r1"/> sar·, paguluṁ, pavuṁkunuṁ, puluṁ paḍi, miśra hino, miśrāṅinaṅin·, vli hapū, vli vaduṁ
-<lb n="10r2"/> vli tāmbaṁ, vli pañjut·, vli haR̥ṁ, palamāk·, pakaluṁkuṁ, Urutan·, ḍampulan·, tpuṁ ka-
-<lb n="10r3"/> vuṁ, suṁsuṁ paṅuraṁ, pasuk alas·, patikəl aṅgas·, payuṅan·, sipat· vilut·, jukuṁ, pā-
-<lb n="10r4"/> ṅinaṅin·, pamavasya, hopan·, panraṅan·, səkar tahun·, pahaliman·, kḍi, valya-
-
-<pb n="10v"/><fw n="10v" place="right" rend="bt-rotated"><num value="10">10</num></fw>
-<!--Plate 10. verso. [plate number 10 in right margin]-->
-<lb n="10v1"/> n·, vidu maṅiduṁ, sumbal·, sumbul·, hulun· haji, siṅgaḥ, pabr̥si, vatək iṁ jro, Ityai§-
-<lb n="10v2"/> vamādi kabeḥ, tan· tam<choice><orig>a</orig><reg>ā</reg></choice> ya Irikaṁ sīma śrī pāduka rājarṣī Iṅ adanadan·, samaṅka§-
-<lb n="10v3"/> na tekanaṁ sukhaduḥkha magə:ṅ aḍmit·, kadyaṅganiṁ mayaṁ tan· pavvaḥ, valūḥ rumāmbat iṁ nata-
-<lb n="10v4"/> r·, vipati<surplus>,</surplus> vaṅkai kabunan·, rāḥ kasamburat iṁ natar·, vākcapāla, hastacapāla, duhi§-
-
-<pb n="11r"/>
-<!--Plate 11. recto.-->
-<lb n="11r1"/> latən·, hidu kasirat·, Amijilakən· vuryyaniṁ kikir·, mamuk·, mamuṅpaṁ, ludan·
-<lb n="11r2"/>, tūtan, Aṅśa pratyaṅśa, ḍaṇḍa kuḍaṇḍa, maṇḍihalādi, kevala saṁ masīma riṅ adanada-
-<lb n="11r3"/> n·<surplus>,</surplus> Ataḥ pramāṇa ri sasukhaduḥkhanya kabeḥ, kunəṁ Ikanaṁ miśra mañəmbul·, Añaṁvriṁ§
+<lb n="9v1"/> halu varak·, rakasaṁ, ramanaṁ, piniṅlai, kataṅgaran·, tapa haji, Air haji, malaṇḍaṁ, lca, lə<lb n="9v2" break="no"/>bləb·, pakalaṁkaṁ, pakaliṁkiṁ, kutak·, taṅkil·, tr̥pan·, salyut·, vatu valaṁ, pamaṇi§<lb n="9v3" break="no"/>kan·, paṇiga, sikpan·, rumban·, vilaṁ thāni, viji kavaḥ, tiṅkəs·, Avi, tuha dagaṁ, tu§<lb n="9v4" break="no"/>ha nambi, tuha juḍi, tuhan uñjəman·, juru gosali, juru jalir·, maṁrumbai, maṁguñjai, pabi<pb n="10r" break="no"/><lb n="10r1" break="no"/>sar·, paguluṁ, pavuṁkunuṁ, puluṁ paḍi, miśra hino, miśrāṅinaṅin·, vli hapū, vli vaduṁ
+<lb n="10r2"/> vli tāmbaṁ, vli pañjut·, vli haR̥ṁ, palamāk·, pakaluṁkuṁ, Urutan·, ḍampulan·, tpuṁ ka<lb n="10r3" break="no"/>vuṁ, suṁsuṁ paṅuraṁ, pasuk alas·, patikəl aṅgas·, payuṅan·, sipat· vilut·, jukuṁ, pā<lb n="10r4" break="no"/>ṅinaṅin·, pamavasya, hopan·, panraṅan·, səkar tahun·, pahaliman·, kḍi, valya<pb n="10v" break="no"/><fw n="10v" place="right" rend="bt-rotated"><num value="10">10</num></fw><lb n="10v1" break="no"/>n·, vidu maṅiduṁ, sumbal·, sumbul·, hulun· haji, siṅgaḥ, pabr̥si, vatək iṁ jro, Ityai§<lb n="10v2" break="no"/>vamādi kabeḥ, tan· tam<choice><orig>a</orig><reg>ā</reg></choice> ya Irikaṁ sīma śrī pāduka rājarṣī Iṅ adanadan·, samaṅka§<lb n="10v3" break="no"/>na tekanaṁ sukhaduḥkha magə:ṅ aḍmit·, kadyaṅganiṁ mayaṁ tan· pavvaḥ, valūḥ rumāmbat iṁ nata<lb n="10v4" break="no"/>r·, vipati<surplus>,</surplus> vaṅkai kabunan·, rāḥ kasamburat iṁ natar·, vākcapāla, hastacapāla, duhi§<pb n="11r" break="no"/><lb n="11r1" break="no"/>latən·, hidu kasirat·, Amijilakən· vuryyaniṁ kikir·, mamuk·, mamuṅpaṁ, ludan·
+<lb n="11r2"/>, tūtan, Aṅśa pratyaṅśa, ḍaṇḍa kuḍaṇḍa, maṇḍihalādi, kevala saṁ masīma riṅ adanada<lb n="11r3" break="no"/>n·<surplus>,</surplus> Ataḥ pramāṇa ri sasukhaduḥkhanya kabeḥ, kunəṁ Ikanaṁ miśra mañəmbul·, Añaṁvriṁ§
 <lb n="11r4"/> malaka, mamahaṁ, maṅapus·, maṅapū, maṅubar·, matarub·, maṁgula, maṁdyun·, manula,
 
 <pb n="11v"/><fw n="11v" place="right" rend="bt-rotated"><num value="11">11</num></fw>
-<!--Plate 11. verso. [plate number 11 in right margin]-->
-<lb n="11v1"/> vuṁkuḍu, magavai ruṁgi, payuṁ vəlū, mopiḥ, makajaṁ, magavai kisi, mamubut·, maṅanām-a§-
-<lb n="11v2"/>nām·, manavaṁ, manaṅkəb·, Añjariṁ, mamisaṇḍuṁ manuk·, makala-kalā, sama sānak· ri§
-<lb n="11v3"/>ṅ adanadan· Ataḥ pramāṇeriya kabeḥ, kunəṁ parimāṇanika(ṁ) lmaḥ riṅ adanadan·, ri§
-<lb n="11v4"/> pūrvva satapəl· vatəs· lāvan i vaḍuṁ, maṅidul dudug· riṅ āgneya, satapəl· va-
-
-<pb n="12r"/>
-<!--Plate 12. recto.-->
-<lb n="12r1"/> təs· lāvan· tinavun·, maṅulon· tka riṁ dakṣiṇa, satapəl· vatəs· lāvan· pa§-
-<lb n="12r2"/> tambaṅan·, maṅulon· dudug· riṁ nairiti, satapəl· vatəs· lāvan· kaveṅan·, 
-<lb n="12r3"/> maṅalor· tka riṁ paścima, satapəl· vatəs· lāvan· Iṁ jajar·, maṅalor· dudug· riṁ bā-
-<lb n="12r4"/> yabya, satapəl· vatəs· lāvan iṁ tāmbar·, maṅetan· tka riṅ uttara, satapəl· vatə-
-
-<pb n="12v"/><fw n="12v" place="right" rend="bt-rotated"><num value="12">12</num></fw>
-<!--Plate 12. verso. [plate number 12 in right margin]-->
-<lb n="12v1"/> s·, lāvan· I paḍasan·, maṅetan· dudug· riṅ aiśānya, satapəl· vatəs· lāva§-
-<lb n="12v2"/> n· I pun·ten·, maṅidul· tka riṁ pūrvva muvaḥ, samaṅkana parimāṇanikaṁ lmaḥ riṅ ada-
-<lb n="12v3"/> n-adan· sīma śrī pāduka rājarṣī, kunəṁ tiṁkaḥnikaṁ lmaḥ riṁṅ adanadan· de śrī pāduka 
-<lb n="12v4"/> rājarṣī, maṅalap ta sira lmaḥ yathāśakti lam(u)n· hana cihnanirān· panusuk irikaṁ vā§-
-
-<pb n="13r"/>
-<!--Plate 13. recto.-->
-<lb n="13r1"/> nva riṅ adanadan·, Ikaṁ savaḥ, ri kəməṁ, pañjər·, 7, I L̥bak·, pañjər·, 4, I §
-<lb n="13r2"/> saṇḍa, pañjər·, 1, I tāmbak·, pañjər·, 4, I barat·, pañjər·, 4, piṇḍa sa§-
-<lb n="13r3"/> vaḥ śrī pāduka rājarṣī, pañjər·, 20, mvaṁ kubvan·, Iṁ kubvan agəḍe, paran·, 1,
-<lb n="13r4"/> lāvan· pomahan· sapomahan·, samaṅkana lmah inalap· kaputrāṅśana d§-
-
-<pb n="13v"/><fw n="13v" place="right" rend="bt-rotated"><num value="13">13</num></fw>
-<!--Plate 13. verso. [plate number 13 in right margin]-->
-<lb n="13v1"/> e śrī pāduka rājarṣī, kunəṅ ikaṁ lmaḥ śeṣa, yatikā kaputrāṅśana ri sama sāna-
-<lb n="13v2"/> k· mvaṁ pakna devapūjā, kunəṁ lvirniṁ sama sānak· sākṣāt <supplied reason="omitted">t</supplied>umarima saṁ hyaṁ rājapra-
-<lb n="13v3"/> śāsti, rakryan apatiḥ riṁ mahībit·, pu Ajaran·, mūladharmma, nāma potra, ki §
+<lb n="11v1"/> vuṁkuḍu, magavai ruṁgi, payuṁ vəlū, mopiḥ, makajaṁ, magavai kisi, mamubut·, maṅanām-a§<lb n="11v2" break="no"/>nām·, manavaṁ, manaṅkəb·, Añjariṁ, mamisaṇḍuṁ manuk·, makala-kalā, sama sānak· ri§<lb n="11v3" break="no"/>ṅ adanadan· Ataḥ pramāṇeriya kabeḥ, kunəṁ parimāṇanika<unclear>ṁ</unclear> lmaḥ riṅ adanadan·, ri§
+<lb n="11v4"/> pūrvva satapəl· vatəs· lāvan i vaḍuṁ, maṅidul dudug· riṅ āgneya, satapəl· va<pb n="12r" break="no"/><lb n="12r1" break="no"/> təs· lāvan· tinavun·, maṅulon· tka riṁ dakṣiṇa, satapəl· vatəs· lāvan· pa§<lb n="12r2" break="no"/>tambaṅan·, maṅulon· dudug· riṁ nairiti, satapəl· vatəs· lāvan· kaveṅan·, 
+<lb n="12r3"/> maṅalor· tka riṁ paścima, satapəl· vatəs· lāvan· Iṁ jajar·, maṅalor· dudug· riṁ bā<lb n="12r4" break="no"/>yabya, satapəl· vatəs· lāvan iṁ tāmbar·, maṅetan· tka riṅ uttara, satapəl· vatə<pb n="12v" break="no"/><fw n="12v" place="right" rend="bt-rotated"><num value="12">12</num></fw><lb n="12v1" break="no"/>s·, lāvan· I paḍasan·, maṅetan· dudug· riṅ aiśānya, satapəl· vatəs· lāva§<lb n="12v2" break="no"/>n· I pun·ten·, maṅidul· tka riṁ pūrvva muvaḥ, samaṅkana parimāṇanikaṁ lmaḥ riṅ ada<lb n="12v3" break="no"/>n-adan· sīma śrī pāduka rājarṣī, kunəṁ tiṁkaḥnikaṁ lmaḥ riṁṅ adanadan· de śrī pāduka 
+<lb n="12v4"/> rājarṣī, maṅalap ta sira lmaḥ yathāśakti lam(u)n· hana cihnanirān· panusuk irikaṁ vā§<pb n="13r" break="no"/><lb n="13r1"/>nva riṅ adanadan·, Ikaṁ savaḥ, ri kəməṁ, pañjər·, <num value="7">7</num>, I L̥bak·, pañjər·, <num value="4">4</num>, I §
+<lb n="13r2"/> saṇḍa, pañjər·, <num value="1">1</num>, I tāmbak·, pañjər·, <num value="4">4</num>, I barat·, pañjər·, <num value="4">4</num>, piṇḍa sa§<lb n="13r3" break="no"/>vaḥ śrī pāduka rājarṣī, pañjər·, <num value="20">20</num>, mvaṁ kubvan·, Iṁ kubvan agəḍe, paran·, <num value="1">1</num>,
+<lb n="13r4"/> lāvan· pomahan· sapomahan·, samaṅkana lmah inalap· kaputrāṅśana d§<pb n="13v" break="no"/><fw n="13v" place="right" rend="bt-rotated"><num value="13">13</num></fw><lb n="13v1" break="no"/>e śrī pāduka rājarṣī, kunəṅ ikaṁ lmaḥ śeṣa, yatikā kaputrāṅśana ri sama sāna<lb n="13v2" break="no"/>k· mvaṁ pakna devapūjā, kunəṁ lvirniṁ sama sānak· sākṣāt <supplied reason="omitted">t</supplied>umarima saṁ hyaṁ rājapra<lb n="13v3" break="no"/>śāsti, rakryan apatiḥ riṁ mahībit·, pu Ajaran·, mūladharmma, nāma potra, ki §
 <lb n="13v4"/> hadyan avasana, makasikasir·, raṅga lintaṁ samaṁkana pratyekaniṁ sama sānak·
 
 <pb n="14r"/>
-<!--Plate 14. recto.-->
 <lb n="14r1"/> riṅ adanadan· de śrī pāduka rājarṣī, kunəṁ kinav(ə)naṅakən· sama sānak· de śrī 
 <lb n="14r2"/> mahārāja, riṁ kevvaniṁ rarai sutakādi, Amaguta pajəṁ pañcavarṇna pinagut·
 <lb n="14r3"/> Acuriṅălaryya-laryyan tan· paṁkaṅṡya, Agilaṁ-gilaṅa hampyal· gaḍiṁ, prās·
 <lb n="14r4"/> vataṁ, prās aṅgī, prās· buntər·, prās siddhayuga, vr̥ttivalī, santi, pahavvan·§
 
 <pb n="14v"/><fw n="14v" place="right" rend="bt-rotated"><num value="14">14</num></fw>
-<!--Plate 14. verso. [plate number 14 in right margin]-->
 <lb n="14v1"/> havvan·, pasiliḥ galuḥ, tuvuḥ-tuvuhan·, ci<choice><sic>tra</sic><corr>va</corr></choice>pātra, Aṅaṅgva salvirniṁ vali, §
 <lb n="14v2"/> makādi, nāgapuṣpa, navagraha, Ajənva kanaka, Asəkara bvat· hino, maṁkana
 <lb n="14v3"/> kinavnaṅakən i sama sānak iṅ adan-adan· de śrī mahārāja, tlas labdhāpagəḥ §
-<lb n="14v4"/> tan· hananiṁ vanya muṁkimuṅkila məne hləm·, yadyapin· katka ri dlāhaniṁ dlāha, d-
-
-<pb n="15r"/>
-<!--Plate 15. recto.-->
-<lb n="15r1"/> e saṁ prabhumantryanāgata, ṅuniveḥ yan· grāma sāmānya, mvaṁ piṅhe vāhuta §
-<lb n="15r2"/> rāma, kunəṁ ri səḍəṅanyan· hana vanyāṁruddha ri rasa saṁ hyaṅ ājñā haji praśāsti riṅ ada-
-<lb n="15r3"/> nadan·, salvirniṁ pañcamahāpātaka bhuktinya riṅ ihatra paratra, In<choice><orig>ḍ</orig><reg>d</reg></choice>aḥ ta kita kamu §
-<lb n="15r4"/> hyaṁ haricandana, Agasti mahārṣi, pūrvvadakṣiṇapaścimottaramaddhyorddhādhaḥ, r<choice><sic>a</sic><corr>i</corr></choice>-
-
-<pb n="15v"/><fw n="15v" place="right" rend="bt-rotated"><num value="15">15</num></fw>
-<!--Plate 15. verso. [plate number 15 in right margin]-->
-<lb n="15v1"/> va śa<choice><orig>s</orig><reg>ś</reg></choice>i kṣiti jala pavana hutasāna, yajamănākāśa dharmmāhoratri sandhya-
-<lb n="15v2"/> dvaya, yakṣa răkṣasa piśāca pretăsura garuḍa gandharvva, graha kinnāra mahorāga
-<lb n="15v3"/> caturi lokapāla, yama baruṇa kuvaira bāsava, mvaṁ putra devatā pañcaku§-
-<lb n="15v4"/> śīkā, nandīśvara mahākāla, ṣadvināya dūrggadevī caturāśra, <choice><sic>Anta</sic><corr>Ananta</corr></choice> surendra, A-
-
-<pb n="16r"/>
-<!--Plate 16. recto.-->
-<lb n="16r1"/> na<choice><sic>k</sic><corr>n</corr></choice>ta hyaṁ kālamr̥tyu bhūta gaṇa, sahananta rumakṣaṁ sakalabhūmimaṇḍala, kita §
+<lb n="14v4"/> tan· hananiṁ vanya muṁkimuṅkila məne hləm·, yadyapin· katka ri dlāhaniṁ dlāha, d<pb n="15r" break="no"/><lb n="15r1" break="no"/>e saṁ prabhumantryanāgata, ṅuniveḥ yan· grāma sāmānya, mvaṁ piṅhe vāhuta §
+<lb n="15r2"/> rāma, kunəṁ ri səḍəṅanyan· hana vanyāṁruddha ri rasa saṁ hyaṅ ājñā haji praśāsti riṅ ada<lb n="15r3" break="no"/>n-adan·, salvirniṁ pañcamahāpātaka bhuktinya riṅ ihatra paratra, In<choice><orig>ḍ</orig><reg>d</reg></choice>aḥ ta kita kamu §
+<lb n="15r4"/> hyaṁ haricandana, Agasti mahārṣi, pūrvvadakṣiṇapaścimottaramaddhyorddhādhaḥ, ra<pb n="15v" break="no"/><fw n="15v" place="right" rend="bt-rotated"><num value="15">15</num></fw><lb n="15v1" break="no"/>v<choice><sic>a</sic><corr>i</corr></choice> śa<choice><orig>s</orig><reg>ś</reg></choice>i kṣiti jala pavana hutasāna, yajamănākāśa dharmmāhoratri sandhya<lb n="15v2" break="no"/>dvaya, yakṣa răkṣasa piśāca pretăsura garuḍa gandharvva, graha kinnāra mahorāga
+<lb n="15v3"/> caturi lokapāla, yama baruṇa kuvaira bāsava, mvaṁ putra devatā pañcaku§<lb n="15v4" break="no"/>śīkā, nandīśvara mahākāla, ṣadvināya dūrggadevī caturāśra, <choice><sic>Anta</sic><corr>Ananta</corr></choice> surendra, A<pb n="16r" break="no"/><lb n="16r1" break="no"/>na<choice><sic>k</sic><corr>n</corr></choice>ta hyaṁ kālamr̥tyu bhūta gaṇa, sahananta rumakṣaṁ sakalabhūmimaṇḍala, kita §
 <lb n="16r2"/> Umilu manarīra riṁ sarvvabhūta, kita sakalasākṣībhūta tumonaṅ adoh apaR̥ riṁ §
-<lb n="16r3"/> rahineṁ kuL̥m·, At· R̥ṅə: Ikeṁ samaya sapatha sumpaḥ pamaṁmaṁmamīri kita ka-
-<lb n="16r4"/> mu hyaṁ kabeḥ, yāvat ikaṁ vvaṁ dūrācārāṅulahulaha Ikeṁ sīma riṅ adanadan·,
+<lb n="16r3"/> rahineṁ kuL̥m·, At· R̥ṅə: Ikeṁ samaya sapatha sumpaḥ pamaṁmaṁmamīri kita ka<lb n="16r4" break="no"/>mu hyaṁ kabeḥ, yāvat ikaṁ vvaṁ dūrācārāṅulahulaha Ikeṁ sīma riṅ adanadan·,
 
 <pb n="16v"/><fw n="16v" place="right" rend="bt-rotated"><num value="16">16</num></fw>
-<!--Plate 16. verso. [plate number 16 in right margin]-->
-<lb n="16v1"/> yadyan· brāhmaṇa kṣatriya vaiśya śūdra, viku, brāhmacāri gr̥hasta vanaprastha bhi-§
-<lb n="16v2"/> kṣuka, mvaṁ piṅhai v<choice><orig>ā</orig><reg>a</reg></choice>huta rāma, nāyaka parttaya, hatu tali ser·, Asiṅ avakanya
-<lb n="16v3"/>, tasmāt· kabvat·karmmaknanya, patyanan ta ya denta kamu hyaṁ kabeḥ, deya<supplied reason="omitted">n</supplied>tat patī-§
-<lb n="16v4"/> ya, yan aparanparan, humalintaṁ riṁ tgal·, sahutən deniṅ ulā mandi, yan· pareṅ alas·
+<lb n="16v1"/> yadyan· brāhmaṇa kṣatriya vaiśya śūdra, viku, brāhmacāri gr̥hasta vanaprastha bhi§<lb n="16v2" break="no"/>kṣuka, mvaṁ piṅhai v<choice><orig>ā</orig><reg>a</reg></choice>huta rāma, nāyaka parttaya, hatu tali ser·, Asiṅ avakanya
+<lb n="16v3"/>, tasmāt· kabvat·karmmaknanya, patyanan ta ya denta kamu hyaṁ kabeḥ, deya<supplied reason="omitted">n</supplied>tat patī§<lb n="16v4" break="no"/>ya, yan aparanparan, humalintaṁ riṁ tgal·, sahutən deniṅ ulā mandi, yan· pareṅ alas·
 
 <pb n="17r"/>
-<!--Plate 17. recto.-->
-<lb n="17r1"/> dəmakən iṁ moṁ, maṁlaṁkahana mi<unclear>ṁ</unclear>maṁ, yan· halivat· riṁ vvaiy agə:ṁ, saṅhapən de-§
-<lb n="17r2"/> niṁ vuhaya, mumul·, tuviran·, yan· halivat· riṁ havan· gə:ṁ, kasopa vula-§
-<lb n="17r3"/> ṅun· haliliṅəṅə:na, yan· hudan· sambəR̥n deniṁ glap·, yan· hana riṅ umaḥnya ka-§
-<lb n="17r4"/> tibāna bajrāgni tan· pavarṣa, liputən· gsəṅana de saṁ hyaṅ āgni vehən· bhaṣmi-§
-
-<pb n="17v"/><fw n="17v" place="right" rend="bt-rotated"><num value="17">17</num></fw>
-<!--Plate 17. verso. [plate number 17 in right margin]-->
-<lb n="17v1"/> bhūta saha dr̥v<supplied reason="omitted">y</supplied>anya, tan· panoliha riṁ vuntat·, taruṁ riṅ adgan·, tāmpyal· riṁ kiva-
-<lb n="17v2"/> n·, Uvahi ri tṅənan·, tutuḥ <choice><sic>tuṇḍanya</sic><corr>uṇḍuhuṇḍutanya</corr></choice>, bəlaḥ kapălanya, səbit· vtəṁnya, tatas ḍaḍa-§
-<lb n="17v3"/> nya, vtvakən· ḍaL̥manya, paṅan· dagiṁnya, Inum· rāḥnya, Atəhər· pəpədakən· <choice><sic>va§<lb n="17v4" break="no"/>hi</sic><corr>vkas i</corr></choice> prāṇantika, byə:ṅakən riṅ ăkāśa, tibākən riṁ mahārorava, Astu, Astu, Astu, //
+<lb n="17r1"/> dəmakən iṁ moṁ, maṁlaṁkahana mi<unclear>ṁ</unclear>maṁ, yan· halivat· riṁ vvaiy agə:ṁ, saṅhapən de§<lb n="17r2" break="no"/>niṁ vuhaya, mumul·, tuviran·, yan· halivat· riṁ havan· gə:ṁ, kasopa vula§<lb n="17r3" break="no"/>ṅun· haliliṅəṅə:na, yan· hudan· sambəR̥n deniṁ glap·, yan· hana riṅ umaḥnya ka§<lb n="17r4" break="no"/>tibāna bajrāgni tan· pavarṣa, liputən· gsəṅana de saṁ hyaṅ āgni vehən· bhaṣmi§<pb n="17v" break="no"/><fw n="17v" place="right" rend="bt-rotated"><num value="17">17</num></fw><lb n="17v1" break="no"/>bhūta saha dr̥v<supplied reason="omitted">y</supplied>anya, tan· panoliha riṁ vuntat·, taruṁ riṅ adgan·, tāmpyal· riṁ kiva<lb n="17v2" break="no"/>n·, Uvahi ri tṅənan·, tutuḥ <choice><sic>tuṇḍanya</sic><corr>uṇḍuhuṇḍutanya</corr></choice>, bəlaḥ kapălanya, səbit· vtəṁnya, tatas ḍaḍa§<lb n="17v3" break="no"/>nya, vtvakən· ḍaL̥manya, paṅan· dagiṁnya, Inum· rāḥnya, Atəhər· pəpədakən· <choice><sic>va§<lb n="17v4" break="no"/>hi</sic><corr>vkas i</corr></choice> prāṇantika, byə:ṅakən riṅ ăkāśa, tibākən riṁ mahārorava, Astu, Astu, Astu, //
 
 </p>
 
