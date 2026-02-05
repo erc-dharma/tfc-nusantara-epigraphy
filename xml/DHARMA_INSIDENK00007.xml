@@ -76,44 +76,58 @@
    <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="omy-Latn" rendition="class:38769 maturity:83213">
-<p><lb n="1"/><milestone unit="face" n="A"/><g type="ddanda"/> svasti śrī śaka-varṣātīta, <num value="1208">1208</num>, bhādravāda-māsa, ti<milestone unit="face" n="B" break="no"/>thi pratipada śukla-pakṣa, mavulu, vāge, vr̥haspati-vāra, maḍaṅkuṅan·, grahacāra n<unclear>ai</unclear>ritistha, viśākā<milestone unit="face" n="C" break="no"/>-nakṣatra, cakra-{devatā,  ???-ma}ṇḍala, śubha<g type="squiggleVertical">§</g><lb n="2" break="no"/><milestone unit="face" n="A" break="no"/>-yoga, kuvera-parbeśa, kiṅstughna-muhūrtta, kanyā-rāśi, I<milestone unit="face" n="B" break="no"/>nan· tatkāla pāduka bharāla Āryyāmoghapāśalokeśvara catudaśātmikā sapta-ratna-sahita, diĀntat· <milestone unit="face" n="C"/> dari bhūmi jāva ka svarṇnabhūmi dipratiṣtha di dharmmāśraya, Akan·
-<lb n="3"/><milestone unit="face" n="A"/>punya śrī viśvarūpa kumāra, prakāranaṅ ditītaḥ pāduka śrī ma<milestone unit="face" n="B" break="no"/>hārājādhirāja-śrīkr̥tanagara-vikramadharmmottuṅgadeva maṅiriṅkan· pāduka bharāla, rakryān· mahāmantri dyaḥ <milestone unit="face" n="C"/>Advayabrahma, rakryān· srīkan· dyaḥ sugatabrahma, mūAṁ
-<lb n="4"/><milestone unit="face" n="A"/>, samagat· payānan haṅ dīpaṅkaradāsa, rakryān damuṅ pu vīra, <milestone unit="face" n="B"/>kunaṁ punyeni yogya diAnumodanā Oleḥ sakaprajā di bhūmi malāyū, brāhmaṇaḥ kṣatriya vaiśya sūdra, Ā<milestone unit="face" n="C" break="no"/>ryyamāddhyāt, śrī mahārāja śrīmat· tribhuvanarājamaulivarmmade<milestone unit="face" n="D" break="no"/>va pramuka <g type="ddanda"/></p> 
+<p><lb n="1"/><milestone unit="face" n="a"/><g type="ddandaOrnate"/> <g type="danda"/> svasti śaka-varṣātīta, <num value="1208">1208</num>, bhādravāda-māsa, ti<milestone unit="face" n="B" break="no"/>thi pratipada śukla-pakṣa, mavulu, vāge, vr̥haspati-vāra, maḍaṅkuṅan·, grahacāra nairitistha, viśākā<milestone unit="face" n="c" break="no"/>-nakṣatra, cakra-de<supplied reason="lost">vatā,</supplied> <gap reason="lost" unit="character" quantity="7"/>-<supplied reason="lost">ma</supplied>ṇḍala, śubha<g type="squiggleVertical">§</g><lb n="2" break="no"/><milestone unit="face" n="a" break="no"/>-yoga, kuvera-parbeśa, kiṁstughna-muhūrtta, kanyā-rāśi,</p> <p>I<milestone unit="face" n="B" break="no"/>nan· tatkāla pāduka bharāla Āryyāmoghapāśalokeśvara catu<unclear>r</unclear>daśātmikā sapta-ratna-sahita,, diĀntat· <milestone unit="face" n="c"/> dari bhūmi jāva ka svarṇnabhūmi dipratiṣṭa di dharmmāśraya, Akan·
+<lb n="3"/><milestone unit="face" n="a"/>punya śrī viśvarūpa kumāra, prakāra naṁ ditītaḥ pāduka śrī ma<milestone unit="face" n="B" break="no"/>hārājādhirāja śrī kr̥tanagara vikramadharmmottuṅgadeva maṅiriṅkan· pāduka bharāla, rakryān· mahāmantri dyaḥ <milestone unit="face" n="c"/>Advayabrahma, rakryān· srīkan· dyaḥ sugatabrahma, mūAṁ
+<lb n="4"/><milestone unit="face" n="a"/>, samagat· payānan· haṅ dīpaṅkaradāsa,, rakryān· damuṁ pu vīra,</p> <p><milestone unit="face" n="B"/>kunaṁ punyeni yogya diAnumodanā Oleḥ sakaprajā di bhūmi malāya, brāhmaṇa kṣatriya vaiśya sūdra, Ā<unclear>cā</unclear><milestone unit="face" n="c" break="no"/>ryy<unclear>o</unclear>pāddhyāya, śrī mahārāja śrīmat· tribhuvanarājamaulivarmmade<milestone unit="face" n="D" break="no"/>va pramuka, <g type="ddandaOrnate"/></p> 
 <lg n="1" met="anuṣṭubh" xml:lang="san-Latn">
    <l n="a">Anena k<unclear>u</unclear>śal<unclear>e</unclear>nāha<unclear>ṁ</unclear>,</l> 
-   <l n="b">buddhatvam idhigamya ca,</l>  
-   <l n="c">tārayeyañ jagat <supplied reason="lost">sa</supplied>rmā,m</l>
-   <l n="d">āgādhāt· bhavasāgarāt· <g type="ddanda"/></l>
+   <l n="b">buddhatvam <choice><sic>i</sic><corr>a</corr></choice>dhigamya ca,</l>  
+   <l n="c">tārayeyañ jagat sarba,m</l>
+   <l n="d">āgādhāt· bhava-sāgarāt·, <g type="ddandaOrnate"/></l>
 </lg>
          </div>
          <div type="apparatus">
            <!--apparatus encoded as per EG §9.1, basic elements for apparatus below-->
                <listApp>
-                  <app loc="1">
-                      <lem source="bib:Krom1917_01">vāge</lem>
+                  <!--<app loc="1">
+                      <lem source="bib:Krom1917_01 bib:Damais1955_01">vāge</lem>
                       <note>It would also be possible to read vāg<unclear>ai</unclear>.</note>
-                  </app>
-                  <app loc="1">
+                  </app>-->
+                  <!--<app loc="1">
                       <lem>śubha-<g type="squiggleVertical">§</g></lem>
                      <rdg source="bib:Krom1917_01">śubha</rdg>
-                  </app>
-                  <app loc="22">
-                      <lem>catudaśātmikā</lem>
-                     <rdg source="bib:Krom1917_01">caturdaśātmika</rdg>
-                  </app>
+                  </app>-->
+                  <!--<app loc="22">
+                      <lem>catu<unclear>r</unclear>daśātmikā</lem>
+                     <rdg source="bib:Krom1917_01 bib:Damais1955_01">caturdaśātmikā</rdg>
+                  </app>-->
                   <app loc="2">
-                      <lem>diĀntat·</lem>
-                     <rdg source="bib:Krom1917_01">diĀntuk</rdg>
-                     <note>Read <foreign>Aṅkut</foreign>, <foreign>Aṅkat</foreign> or <foreign>Antar</foreign>?</note>
+                      <lem source="bib:Damais1955_01">diĀntat·</lem>
+                     <rdg source="bib:Krom1917_01">diĀntuk·</rdg>
+                     <!--<note>Read <foreign>Aṅkut</foreign>, <foreign>Aṅkat</foreign> or <foreign>Antar</foreign>?</note>-->
+                  </app>
+			<app loc="2">
+                      <lem source="bib:Krom1917_01">Akan·</lem>
+                     <note>Probably due to inadvertence, <bibl><ptr target="bib:Damais1955_01"/></bibl> omits this word.</note>
+                     <!--<note>Read <foreign>Aṅkut</foreign>, <foreign>Aṅkat</foreign> or <foreign>Antar</foreign>?</note>-->
                   </app>
                   <app loc="4">
                       <lem>diAnumodanā Oleḥ</lem>
-                     <rdg source="bib:Krom1917_01">diAnumodanāñjaleḥ</rdg>
+                     <rdg source="bib:Krom1917_01 bib:Damais1955_01">diAnumodanāñjaleḥ</rdg>
                   </app>
-                  <app loc="4">
-                      <lem>pramuka</lem>
-                     <rdg source="bib:Krom1917_01">pramukha</rdg>
-                  </app>
+			<app loc="4">
+			<lem>malāya</lem>
+			<rdg source="bib:Krom1917_01 bib:Damais1955_01">malāyū</rdg>
+			<note>No subscript vowel marker is observed below the <foreign>y</foreign>, by contrast with the preceding word <foreign>bhūmi</foreign>. It seems that <foreign>bhūmi malāya</foreign> was intended, just as Adityawarman's inscriptions repeatedly speak of Malaya and not of Malayu.</note>
+			</app>
+			<app loc="4">
+				<lem>brāhmaṇa</lem>
+				<rdg source="bib:Krom1917_01 bib:Damais1955_01">brāhmaṇaḥ</rdg>
+			</app>
+			<app loc="4">
+			<lem>Ā<unclear>cā</unclear><milestone unit="face" n="c" break="no"/>ryy<unclear>o</unclear>pāddhyāya</lem>
+			<rdg source="bib:Krom1917_01 bib:Damais1955_01">Ā<milestone unit="face" n="c" break="no"/>ryyāmāddhyāt·</rdg>
+			</app>
                </listApp>         
          </div>
          <div type="translation" resp="part:argr">
@@ -126,10 +140,10 @@
          </div>
         <div type="bibliography">
 	<!--bibliography encoded as per section §9.4 -->
-            <p>First edited by Krom (<bibl rend="omitname"><ptr target="bib:Krom1917_01"/></bibl>). An improved reading was presented by Damais (<bibl rend="omitname"><ptr target="bib:Damais1955_01"/></bibl>. Re-edited here by Arlo Griffiths from the stone at the Nasional Museum of Indonesia.</p>
+            <p>First edited by Krom (<bibl rend="omitname"><ptr target="bib:Krom1917_01"/></bibl>), with exclusion if the Sanskrit stanza. A slightly improved reading, again only of the Old Malay text, was presented by Damais (<bibl rend="omitname"><ptr target="bib:Damais1955_01"/></bibl>. Edited here, for the first time with inclusion of the Sanskrit stanza, by Arlo Griffiths (2026) from the stone at the Nasional Museum of Indonesia and from photogrammetries by Garin Pharmasetiawan and Hedwi Prihatmoko.</p>
            <listBibl type="primary">
 	<bibl n="K"><ptr target="bib:Krom1917_01"/></bibl>
-      <bibl n="D"><ptr target="bib:Damais1955_01"/>
+      <bibl n="D"><ptr target="bib:Damais1955_01"/><citedRange unit="page">99-101</citedRange>
 	</bibl>
               </listBibl>
              <listBibl type="secondary">
