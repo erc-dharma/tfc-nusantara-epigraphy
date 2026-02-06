@@ -76,9 +76,9 @@
    <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="omy-Latn" rendition="class:38769 maturity:83213">
-<p><lb n="1"/><milestone unit="face" n="a"/><g type="ddandaOrnate"/> <g type="danda"/> svasti śaka-varṣātīta, <num value="1208">1208</num>, bhādravāda-māsa, ti<milestone unit="face" n="B" break="no"/>thi pratipada śukla-pakṣa, mavulu, vāge, vr̥haspati-vāra, maḍaṅkuṅan·, grahacāra nairitistha, viśākā<milestone unit="face" n="c" break="no"/>-nakṣatra, cakra-de<supplied reason="lost">vatā,</supplied> <gap reason="lost" unit="character" quantity="7"/>-<supplied reason="lost">ma</supplied>ṇḍala, śubha<g type="squiggleVertical">§</g><lb n="2" break="no"/><milestone unit="face" n="a" break="no"/>-yoga, kuvera-parbeśa, kiṁstughna-muhūrtta, kanyā-rāśi,</p> <p>I<milestone unit="face" n="B" break="no"/>nan· tatkāla pāduka bharāla Āryyāmoghapāśalokeśvara catu<unclear>r</unclear>daśātmikā sapta-ratna-sahita,, diĀntat· <milestone unit="face" n="c"/> dari bhūmi jāva ka svarṇnabhūmi dipratiṣṭa di dharmmāśraya, Akan·
-<lb n="3"/><milestone unit="face" n="a"/>punya śrī viśvarūpa kumāra, prakāra naṁ ditītaḥ pāduka śrī ma<milestone unit="face" n="B" break="no"/>hārājādhirāja śrī kr̥tanagara vikramadharmmottuṅgadeva maṅiriṅkan· pāduka bharāla, rakryān· mahāmantri dyaḥ <milestone unit="face" n="c"/>Advayabrahma, rakryān· srīkan· dyaḥ sugatabrahma, mūAṁ
-<lb n="4"/><milestone unit="face" n="a"/>, samagat· payānan· haṅ dīpaṅkaradāsa,, rakryān· damuṁ pu vīra,</p> <p><milestone unit="face" n="B"/>kunaṁ punyeni yogya diAnumodanā Oleḥ sakaprajā di bhūmi malāya, brāhmaṇa kṣatriya vaiśya sūdra, Ā<unclear>cā</unclear><milestone unit="face" n="c" break="no"/>ryy<unclear>o</unclear>pāddhyāya, śrī mahārāja śrīmat· tribhuvanarājamaulivarmmade<milestone unit="face" n="D" break="no"/>va pramukha, <g type="ddandaOrnate"/></p> 
+<p><lb n="1"/><milestone unit="face" n="a"/><g type="ddandaOrnate"/> <g type="danda"/> svasti śaka-varṣātīta, <num value="1208">1208</num>, bhādravāda-māsa, ti<milestone unit="face" n="B" break="no"/>thi pratipada śukla-pakṣa, mavulu, vāge, vr̥haspati-vāra, maḍaṅkuṅan·, grahacāra nairitistha, viśākā<milestone unit="face" n="c" break="no"/>-nakṣatra, sakra-de<supplied reason="lost">vatā,</supplied> <gap reason="lost" unit="character" quantity="7"/>-<supplied reason="lost">ma</supplied>ṇḍala, śubha⌈<lb n="2" break="no"/><milestone unit="face" n="a" break="no"/>-yoga, kuvera-parbeśa, kiṁstughna-muhūrtta, kanyā-rāśi,</p> <p>I<milestone unit="face" n="B" break="no"/>nan· tatkāla pāduka bharāla Āryyāmoghapāśalokeśvara catu<unclear>r</unclear>daśātmikā sapta-ratna-sahita,, diĀntat· <milestone unit="face" n="c"/> dari bhūmi jāva ka svarṇnabhūmi dipratiṣṭa di dharmmāśraya, Akan·
+<lb n="3"/><milestone unit="face" n="a"/>punya śrī viśvarūpakumāra, prakāra naṁ ditītaḥ pāduka śrī ma<milestone unit="face" n="B" break="no"/>hārājādhirāja śrī kr̥tanagara vikramadharmmottuṅgadeva maṅiriṅkan· pāduka bharāla, rakryān· mahāmantri dyaḥ <milestone unit="face" n="c"/>Advayabrahma, rakryān· srīkan· dyaḥ sugatabrahma, mūAṁ
+<lb n="4"/><milestone unit="face" n="a"/>, samagat· payānan· haṅ dīpaṅkaradāsa,, rakryān· damuṁ pu vīra,</p> <p><milestone unit="face" n="B"/>kunaṁ punyeni yogya diAnumodanā Oleḥ sakaprajā di bhūmi malāy<unclear cert="low">u</unclear>, brāhmaṇa kṣatriya vaiśya sūdra, Ā<unclear>cā</unclear><milestone unit="face" n="c" break="no"/>ryy<unclear>o</unclear>pāddhyāya, śrī mahārāja śrīmat· tribhuvanarājamaulivarmmade<milestone unit="face" n="D" break="no"/>va pramukha, <g type="ddandaOrnate"/></p> 
 <lg n="1" met="anuṣṭubh" xml:lang="san-Latn">
    <l n="a">Anena k<unclear>u</unclear>śal<unclear>e</unclear>nāha<unclear>ṁ</unclear>,</l> 
    <l n="b">buddhatvam <choice><sic>i</sic><corr>a</corr></choice>dhigamya ca,</l>  
@@ -93,11 +93,16 @@
                       <lem source="bib:Krom1917_01 bib:Damais1955_01">vāge</lem>
                       <note>It would also be possible to read vāg<unclear>ai</unclear>.</note>
                   </app>-->
-                  <!--<app loc="1">
-                      <lem>śubha-<g type="squiggleVertical">§</g></lem>
-                     <rdg source="bib:Krom1917_01">śubha</rdg>
-                  </app>-->
-                  <!--<app loc="22">
+		<app loc="1">
+			<lem>sakra-de<supplied reason="lost">vatā,</supplied></lem>
+			<rdg source="bib:Krom1917_01 bib:Damais1955_01">cakra-de<supplied reason="lost">vatā,</supplied></rdg>
+			<note>With <foreign>viśākhā-nakṣatra</foreign>, the expected <foreign>devatā</foreign> is Śakrāgni, but this appears not to have been written.</note>
+</app>
+                  <app loc="1">
+                      <lem>śubha⌈<lb n="2" break="no"/><milestone unit="face" n="a" break="no"/>-yoga</lem>
+                     <note>The <foreign>taling</foreign> of <foreign>yoga</foreign>, already noted at the end of line 1, is repeated redundantly at the start if line 2.</note>
+                  </app>
+                  <!--<app loc="2">
                       <lem>catu<unclear>r</unclear>daśātmikā</lem>
                      <rdg source="bib:Krom1917_01 bib:Damais1955_01">caturdaśātmikā</rdg>
                   </app>-->
@@ -116,9 +121,9 @@
                      <rdg source="bib:Krom1917_01 bib:Damais1955_01">diAnumodanāñjaleḥ</rdg>
                   </app>
 			<app loc="4">
-			<lem>malāya</lem>
+			<lem>malāy<unclear cert="low">u</unclear></lem>
 			<rdg source="bib:Krom1917_01 bib:Damais1955_01">malāyū</rdg>
-			<note>No subscript vowel marker is observed below the <foreign>y</foreign>, by contrast with the preceding word <foreign>bhūmi</foreign>. It seems that <foreign>bhūmi malāya</foreign> was intended, just as Adityawarman's inscriptions repeatedly speak of Malaya and not of Malayu.</note>
+			<note>It seems certain that no subscript vowel marker <foreign>ū</foreign> is engraved below the <foreign>y</foreign>, by contrast with the preceding word <foreign>bhūmi</foreign>. Although we cannot exclude that <foreign>bhūmi malāya</foreign> was intended, because Adityawarman's inscriptions (Rambahan, Gudam I) refer to the royal capital being called Malayapura; nevertheless, the expression <foreign>bhūmi malayu</foreign> is attested in the <title>Deśavaraṇana</title> ​(13.2 <foreign>yekādinyaṅ vatək bhūmi malayu</foreign>), and it seems hard to believe that any other expression was intended here.</note>
 			</app>
 			<app loc="4">
 				<lem>brāhmaṇa</lem>
@@ -132,7 +137,10 @@
          </div>
          <div type="translation" resp="part:argr">
  	<!--translation encoded as per EG §9.2 -->
-	<p/> 
+	<p n="1-2">Hail! Elapsed Śaka year 1208, month of Bhādravāda, initial <foreign>tithi</foreign> of the waxing fortnight, Mavulu, Vāge, Thursday <supplied reason="explanation">i.e., 1286-08-22</supplied>, <supplied reason="explanation"><foreign>wuku</foreign></supplied> Maḍaṅkuṅan, the <foreign>grahacāra</foreign> in the south-west, lunar mansion Viśākha, deity Śakra, the <foreign>maṇḍala</foreign> being <gap reason="lost"/>, the conjunction Śubha, the regent of the astronomical node Kuvera, the <foreign>muhūrta</foreign> Kiṅstughna, the zodiac sign Virgo.</p> 
+	<p n="2-4">This is when the holy deity Ārya-Amoghapāśalokeśvara with fourteen selves (?) together with the seven jewels was brought from Javanese soil to Svarṇabhūmi <supplied reason="explanation">i.e., Sumatra</supplied> <supplied reason="subaudible">and</supplied> installed at Dharmāśraya, as <supplied reason="explanation"><foreign>akan</foreign></supplied> the meritorious work <supplied reason="explanation"><foreign>puṇya</foreign></supplied> of Śrī Viśvarūpakumāra. Because <supplied reason="explanation">? <foreign>prakāranaṅ</foreign></supplied><note>The meaning and correct division into words of <foreign>prakāranaṅ</foreign> remain elusive. The following interpretations may also be considered:
+<q>The matter <supplied reason="explanation"><foreign>prakāra</foreign></supplied>, which <supplied reason="explanation">? <foreign>naṅ</foreign></supplied> was ordered</q>; <q>As for <supplied reason="explanation"><foreign>prakāra</foreign></supplied> the ones whose <supplied reason="explanation">? <foreign>naṅ</foreign></supplied> were ordered</q>. </note> it was ordered by His Majesty the Overlord of Great Kings, Śrī Kr̥tanagara Vikramadharmmottuṅgadeva, the holy deity was accompanied by the lord Great Minister <foreign>dyah</foreign> Advayabrahma, the Lord of Sirikan <foreign>dyah</foreign> Sugatabrahma, with the official of Payānan, <foreign>haṅ</foreign> Dīpaṅkaradāsa, <supplied reason="subaudible">and</supplied> the lord of Dəmuṅ <foreign>pu</foreign> Vīra.</p>
+<p n="4">As for <supplied reason="explanation"><foreign>kunaṅ</foreign></supplied> this meritorious work, it deserves the assent of all inhabitants of Malay soil, whether Brahmins, Kṣatriyas, Vaiśyas or Śūdras, and first of all <supplied reason="explanation">Śrī Viśvarūpakumāra's</supplied> masters and preceptors, <supplied reason="subaudible">as well as</supplied> the Great King, the illustrious <supplied reason="explanation"><foreign>śrīmat</foreign></supplied> Tribhuvanarājamaulivarmadeva.<note>Note the dedication formula in Kertanagara's Amoghapāśa plaques, entirely formulated in Sanskkrit, which use partly similar phraseology and suggest that Tribhuvanarājamaulivarmadeva was Viśvarūpakumāra's father.</note></p>
          </div>
          <div type="commentary">
             <!--commentary encoded as per section §9.3 -->
