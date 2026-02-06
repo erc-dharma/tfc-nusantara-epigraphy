@@ -42,7 +42,7 @@
                </msContents>
                <physDesc>
                   <handDesc>
-                     <p/>
+                     <p>The hand is exactly the same as that responsible for two inscriptions issued by Kertanagara in East Java, the <ref target="DHARMA_INSIDENKWurare.xml">Wurare</ref> and <ref target="DHARMA_INSIDENKCamundi.xml">Camundi</ref> inscriptions.</p>
                      <!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EG 11.2. -->
                   </handDesc>
                </physDesc>
@@ -83,7 +83,7 @@
    <l n="a">Anena k<unclear>u</unclear>śal<unclear>e</unclear>nāha<unclear>ṁ</unclear>,</l> 
    <l n="b">buddhatvam <choice><sic>i</sic><corr>a</corr></choice>dhigamya ca,</l>  
    <l n="c">tārayeyañ jagat sarba,m</l>
-   <l n="d">āgādhāt· bhava-sāgarāt·, <g type="ddandaOrnate"/></l>
+   <l n="d"><choice><sic>ā</sic><corr>a</corr></choice>gādhāt· bhava-sāgarāt·, <g type="ddandaOrnate"/></l>
 </lg>
          </div>
          <div type="apparatus">
@@ -140,11 +140,12 @@
 	<p n="1-2">Hail! Elapsed Śaka year 1208, month of Bhādravāda, initial <foreign>tithi</foreign> of the waxing fortnight, Mavulu, Vāge, Thursday <supplied reason="explanation">i.e., 1286-08-22</supplied>, <supplied reason="explanation"><foreign>wuku</foreign></supplied> Maḍaṅkuṅan, the <foreign>grahacāra</foreign> in the south-west, lunar mansion Viśākha, deity Śakra, the <foreign>maṇḍala</foreign> being <gap reason="lost"/>, the conjunction Śubha, the regent of the astronomical node Kuvera, the <foreign>muhūrta</foreign> Kiṅstughna, the zodiac sign Virgo.</p> 
 	<p n="2-4">This is when the holy deity Ārya-Amoghapāśalokeśvara with fourteen selves (?) together with the seven jewels was brought from Javanese soil to Svarṇabhūmi <supplied reason="explanation">i.e., Sumatra</supplied> <supplied reason="subaudible">and</supplied> installed at Dharmāśraya, as <supplied reason="explanation"><foreign>akan</foreign></supplied> the meritorious work <supplied reason="explanation"><foreign>puṇya</foreign></supplied> of Śrī Viśvarūpakumāra. Because <supplied reason="explanation">? <foreign>prakāranaṅ</foreign></supplied><note>The meaning and correct division into words of <foreign>prakāranaṅ</foreign> remain elusive. The following interpretations may also be considered:
 <q>The matter <supplied reason="explanation"><foreign>prakāra</foreign></supplied>, which <supplied reason="explanation">? <foreign>naṅ</foreign></supplied> was ordered</q>; <q>As for <supplied reason="explanation"><foreign>prakāra</foreign></supplied> the ones whose <supplied reason="explanation">? <foreign>naṅ</foreign></supplied> were ordered</q>. </note> it was ordered by His Majesty the Overlord of Great Kings, Śrī Kr̥tanagara Vikramadharmmottuṅgadeva, the holy deity was accompanied by the lord Great Minister <foreign>dyah</foreign> Advayabrahma, the Lord of Sirikan <foreign>dyah</foreign> Sugatabrahma, with the official of Payānan, <foreign>haṅ</foreign> Dīpaṅkaradāsa, <supplied reason="subaudible">and</supplied> the lord of Dəmuṅ <foreign>pu</foreign> Vīra.</p>
-<p n="4">As for <supplied reason="explanation"><foreign>kunaṅ</foreign></supplied> this meritorious work, it deserves the assent of all inhabitants of Malay soil, whether Brahmins, Kṣatriyas, Vaiśyas or Śūdras, and first of all <supplied reason="explanation">Śrī Viśvarūpakumāra's</supplied> masters and preceptors, <supplied reason="subaudible">as well as</supplied> the Great King, the illustrious <supplied reason="explanation"><foreign>śrīmat</foreign></supplied> Tribhuvanarājamaulivarmadeva.<note>Note the dedication formula in Kertanagara's Amoghapāśa plaques, entirely formulated in Sanskkrit, which use partly similar phraseology and suggest that Tribhuvanarājamaulivarmadeva was Viśvarūpakumāra's father.</note></p>
+<p n="4">As for <supplied reason="explanation"><foreign>kunaṅ</foreign></supplied> this meritorious work, it deserves the assent of all inhabitants of Malay soil, whether Brahmins, Kṣatriyas, Vaiśyas or Śūdras, and first of all <supplied reason="explanation">Śrī Viśvarūpakumāra's</supplied> masters and preceptors, <supplied reason="subaudible">as well as</supplied> the Great King, the illustrious <supplied reason="explanation"><foreign>śrīmat</foreign></supplied> Tribhuvanarājamaulivarmadeva.<note>Note the dedication formula in Kertanagara's Amoghapāśa plaques, of which no less than five are known, all entirely formulated in Sanskrit (<bibl><ptr target="bib:Speijer1903_01"/></bibl>, <bibl><ptr target="bib:Speijer1904_01"/></bibl>), which use partly similar phraseology and suggest that Tribhuvanarājamaulivarmadeva was Viśvarūpakumāra's father.</note></p>
+<p rend="stanza" n="1">Thanks to this merit may I attain Buddhahood and help all creatures cross the 
+deep sea of existences!</p>
          </div>
-         <div type="commentary">
-            <!--commentary encoded as per section §9.3 -->
-     <p/>
+         <div type="commentary">            
+     <p>The language is a form of Old Malay with more than averga inflitration of Old Javanese elements, such as the words <foreign>muaṅ</foreign> and <foreign>kunaṅ</foreign>.</p>
          </div>
         <div type="bibliography">
 	<!--bibliography encoded as per section §9.4 -->
@@ -156,6 +157,7 @@
               </listBibl>
              <listBibl type="secondary">
                 <bibl><ptr target="bib:OV1912"/><citedRange unit="page">49</citedRange><citedRange unit="item">51</citedRange></bibl>
+<bibl><ptr target="bib:BambangBudiUtomo+HassanShuhaimi2009_01"/><citedRange unit="page">63-64</citedRange></bibl>
            </listBibl>
         </div>
       </body>
