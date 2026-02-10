@@ -82,7 +82,12 @@
 <p><lb n="1"/>mitthyādr̥ṣṭi</p>
          </div>
          <div type="apparatus">
-               <!--none-->
+            <listApp>
+               <app loc="1">
+                  <lem>mitthyādr̥ṣṭi</lem>
+                  <rdg source="bib:Levi1932_02">mithyādr̥ṣṭi</rdg>
+               </app>
+            </listApp>
          </div>
          <div type="translation" resp="part:argr">
  	<p>false creed</p>
@@ -98,7 +103,11 @@
 				<bibl n="NJK"><ptr target="bib:Krom1927_01"/><citedRange unit="page">51</citedRange></bibl>
 			</listBibl>
            <listBibl type="secondary">
-              <bibl><ptr target="bib:Levi1932_02"/><citedRange unit="page">16-17</citedRange><citedRange unit="item">LXI</citedRange></bibl>
+                <bibl><ptr target="bib:Levi1932_02"/><citedRange unit="mixed">Page 82, Tableau Comparatif, column Bb. (Panneaux de Boro-Budur), item 122</citedRange></bibl>
+                <bibl><ptr target="bib:Krom1933_02"/><citedRange unit="page">257</citedRange></bibl>
+                <bibl><ptr target="bib:Casparis1975_01"/><citedRange unit="page">32</citedRange></bibl>
+                <bibl><ptr target="bib:Fontein1989_01"/><citedRange unit="page">54</citedRange></bibl>
+                <bibl><ptr target="bib:Reichle2009_01"/><citedRange unit="mixed">Pages 352–354, Table I, item O-21</citedRange></bibl>
            </listBibl>
         </div>
       </body>
