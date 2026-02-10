@@ -73,6 +73,7 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
+            <change who="part:hepr" when="2026-02-10">revised the bibliography</change>
         	<change who="part:argr" when="2025-12-05">encoded the inscription</change>
         </revisionDesc>
     </teiHeader>
@@ -98,7 +99,11 @@
 				<bibl n="NJK"><ptr target="bib:Krom1927_01"/><citedRange unit="page">51</citedRange></bibl>
 			</listBibl>
            <listBibl type="secondary">
-              <bibl><ptr target="bib:Levi1932_02"/><citedRange unit="page">16-17</citedRange><citedRange unit="item">LI(bis)</citedRange></bibl>
+                <bibl><ptr target="bib:Levi1932_02"/><citedRange unit="mixed">Page 80, Tableau Comparatif, column Bb. (Panneaux de Boro-Budur), item 123</citedRange></bibl>
+                <bibl><ptr target="bib:Krom1933_02"/><citedRange unit="page">257</citedRange></bibl>
+                <bibl><ptr target="bib:Casparis1975_01"/><citedRange unit="page">32</citedRange></bibl>
+                <bibl><ptr target="bib:Fontein1989_01"/><citedRange unit="page">55</citedRange></bibl>
+                <bibl><ptr target="bib:Reichle2009_01"/><citedRange unit="mixed">Pages 352–354, Table I, item O-21</citedRange></bibl>
            </listBibl>
         </div>
       </body>
