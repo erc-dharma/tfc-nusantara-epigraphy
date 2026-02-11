@@ -73,6 +73,7 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
+            <change who="part:hepr" when="2026-02-11">revised the bibliography</change>
         	<change who="part:argr" when="2025-12-05">encoded the inscription</change>
         </revisionDesc>
     </teiHeader>
@@ -94,11 +95,14 @@
            <p>First published by Kern (<bibl rend="omitname"><ptr target="bib:Kern1896_02"/></bibl>); republished by the same author (<bibl rend="omitname"><ptr target="bib:Kern1917_23"/></bibl>) and subsequently by Krom (<bibl rend="omitname"><ptr target="bib:Krom1927_01"/></bibl>); this digital edition based on the 1927 publication.</p>
         	<listBibl type="primary">
 				<bibl n="HK1"><ptr target="bib:Kern1896_02"/><citedRange unit="page">123</citedRange></bibl>
-				<!--<bibl n="HK2"><ptr target="bib:Kern1917_23"/><citedRange unit="page">152</citedRange></bibl>-->
 				<bibl n="NJK"><ptr target="bib:Krom1927_01"/><citedRange unit="page">52</citedRange></bibl>
 			</listBibl>
            <listBibl type="secondary">
-              <bibl><ptr target="bib:Levi1932_02"/><citedRange unit="page">16-17</citedRange><citedRange unit="item">LXIII</citedRange></bibl>
+                <bibl><ptr target="bib:Levi1932_02"/><citedRange unit="mixed">Page 85, Tableau Comparatif, column Bb. (Panneaux de Boro-Budur), item 124-126</citedRange></bibl>
+                <bibl><ptr target="bib:Krom1933_02"/><citedRange unit="page">260</citedRange></bibl>
+                <bibl><ptr target="bib:Casparis1975_01"/><citedRange unit="page">32</citedRange></bibl>
+                <bibl><ptr target="bib:Fontein1989_01"/><citedRange unit="page">57</citedRange></bibl>
+                <bibl><ptr target="bib:Reichle2009_01"/><citedRange unit="mixed">Pages 352–354, Table I, item O-126</citedRange></bibl>
            </listBibl>
         </div>
       </body>
