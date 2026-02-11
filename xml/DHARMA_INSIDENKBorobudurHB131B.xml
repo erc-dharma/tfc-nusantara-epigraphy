@@ -73,6 +73,7 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
+            <change who="part:hepr" when="2026-02-11">revised the bibliography</change>
         	<change who="part:argr" when="2025-12-05">encoded the inscription</change>
         </revisionDesc>
     </teiHeader>
@@ -86,7 +87,7 @@
                      <app loc="1">
                          <lem>maheśākhyasamavadhāna</lem>
                          <rdg source="bib:Kern1917_23">maheśākhyasamavadhāna</rdg>
-                         <note>At first, Johan Hendrik Caspar Kern (<bibl rend="omitname"><ptr target="bib:Kern1917_23"/><citedRange unit="page">150</citedRange></bibl>) read <foreign>maheśākhyasamavadhāna</foreign> as <foreign>maheśākhyarāmavadhāna</foreign>, but he considered the later to be an impossible word and considered the reading of <foreign>ra</foreign> to be incorrect.</note>
+                         <note>At first, Kern (<bibl rend="omitname"><ptr target="bib:Kern1917_23"/><citedRange unit="page">150</citedRange></bibl>) read <foreign>maheśākhyasamavadhāna</foreign> as <foreign>maheśākhyarāmavadhāna</foreign>, but he considered the later to be an impossible word and considered the reading of <foreign>ra</foreign> to be incorrect.</note>
                      </app>
                  </listApp>
           </div>
@@ -94,7 +95,7 @@
  	<p>gathering of eminent ones</p>
          </div>
          <div type="commentary">
-            <!--none-->
+            
          </div>
         <div type="bibliography">
            <p>First published by Kern (<bibl rend="omitname"><ptr target="bib:Kern1896_02"/></bibl>); republished by the same author (<bibl rend="omitname"><ptr target="bib:Kern1917_23"/></bibl>) and subsequently by Krom (<bibl rend="omitname"><ptr target="bib:Krom1927_01"/></bibl>); this digital edition based on the 1927 publication.</p>
@@ -104,7 +105,11 @@
 				<bibl n="NJK"><ptr target="bib:Krom1927_01"/><citedRange unit="page">52</citedRange></bibl>
 			</listBibl>
            <listBibl type="secondary">
-              <bibl><ptr target="bib:Levi1932_02"/><citedRange unit="page">18-19</citedRange><citedRange unit="item">LXV</citedRange></bibl>
+              <bibl><ptr target="bib:Levi1932_02"/><citedRange unit="mixed">Page 88, Tableau Comparatif, column Bb. (Panneaux de Boro-Budur), item 131-134</citedRange></bibl>
+                <bibl><ptr target="bib:Krom1933_02"/><citedRange unit="page">262</citedRange></bibl>
+                <bibl><ptr target="bib:Casparis1975_01"/><citedRange unit="page">32</citedRange></bibl>
+                <bibl><ptr target="bib:Fontein1989_01"/><citedRange unit="page">60</citedRange></bibl>
+                <bibl><ptr target="bib:Reichle2009_01"/><citedRange unit="mixed">Pages 352–354, Table I, item O-131</citedRange></bibl>
            </listBibl>
         </div>
       </body>
