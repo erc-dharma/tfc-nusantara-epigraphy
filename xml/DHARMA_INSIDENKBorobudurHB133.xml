@@ -73,38 +73,42 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
+            <change who="part:hepr" when="2026-02-11">revised the text, translation, and bibliography</change>
         	<change who="part:hepr" when="2026-01-10">encoded the inscription</change>
         </revisionDesc>
     </teiHeader>
     <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="san-Latn" rendition="class:38769 maturity:83213">
-<p><lb n="1"/><unclear>pū</unclear>rvasaṁjñāśabdaśravaṇa</p>
+<p><lb n="1"/>pūrvābhijñāśabdaśravaṇa</p>
          </div>
          <div type="apparatus">
                <listApp>
                   <app loc="1">
-                     <lem source="bib:Krom1927_01"><unclear>pū</unclear>rvasaṁjñāśabdaśravaṇa</lem>
-                     <rdg source="bib:Kern1917_23"><gap reason="illegible" extent="unknown" unit="character"/>śabdaśravaṇa</rdg>
-	<note>Krom proposed his reading of <foreign>pūrvasaṁjñāśabdaśravaṇa</foreign> with great diffidence.</note>
+                    <lem source="bib:Levi1932_02">pūrvābhijñāśabdaśravaṇa</lem>
+                    <rdg source="bib:Krom1927_01"><unclear>pū</unclear>rvasa<unclear>ṁ</unclear>jñāśabdaśravaṇa</rdg>
+                    <note>At first, Krom (<bibl rend="omitname"><ptr target="bib:Krom1927_01"/><citedRange unit="page">52-53</citedRange></bibl>) proposed <foreign>pūrvasaṁjñā</foreign> <q>acknowledgement of the former</q> for the reading preceding <foreign>śabdaśravaṇa</foreign>, but Lévi (<bibl rend="omitname"><ptr target="bib:Levi1932_02"/><citedRange unit="page">88-89</citedRange></bibl>) proposed another reading <foreign>pūrvābhijñā</foreign> <q>knowledge of previous lives</q>, supplemented from the Chinese version <title>Ye pao tch'a pie king</title>.</note>
                   </app>
                </listApp>
          </div>
          <div type="translation" resp="part:argr">
- 	<p>acknowledgement of the former</p>
+ 	<p>knowledge of previous lives</p>
          </div>
          <div type="commentary">
-            <!--none-->
+            
          </div>
         <div type="bibliography">
            <p>First published by Kern (<bibl rend="omitname"><ptr target="bib:Kern1896_02"/></bibl>); republished by the same author (<bibl rend="omitname"><ptr target="bib:Kern1917_23"/></bibl>) and subsequently by Krom (<bibl rend="omitname"><ptr target="bib:Krom1927_01"/></bibl>); this digital edition based on the 1927 publication.</p>
         	<listBibl type="primary">
-				<!--<bibl n="HK1"><ptr target="bib:Kern1896_02"/><citedRange unit="page">123</citedRange></bibl>-->
 				<bibl n="HK2"><ptr target="bib:Kern1917_23"/><citedRange unit="page">150</citedRange></bibl>
-				<bibl n="NJK"><ptr target="bib:Krom1927_01"/><citedRange unit="page">52-53</citedRange></bibl>
+				<bibl n="NJK1"><ptr target="bib:Krom1927_01"/><citedRange unit="page">52-53</citedRange></bibl>
+                <bibl n="LS"><ptr target="bib:Levi1932_02"/><citedRange unit="mixed">Pages 88-89, Tableau Comparatif, column Bb. (Panneaux de Boro-Budur), item 131-134</citedRange></bibl>
 			</listBibl>
            <listBibl type="secondary">
-              <bibl><ptr target="bib:Levi1932_02"/><citedRange unit="page">18-19</citedRange><citedRange unit="item">LXV</citedRange></bibl>
+                <bibl><ptr target="bib:Krom1933_02"/><citedRange unit="page">262</citedRange></bibl>
+                <bibl><ptr target="bib:Casparis1975_01"/><citedRange unit="page">32</citedRange></bibl>
+                <bibl><ptr target="bib:Fontein1989_01"/><citedRange unit="page">60-61</citedRange></bibl>
+                <bibl><ptr target="bib:Reichle2009_01"/><citedRange unit="mixed">Pages 352–354, Table I, item O-133</citedRange></bibl>
            </listBibl>
         </div>
       </body>
