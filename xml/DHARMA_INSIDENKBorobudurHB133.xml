@@ -87,7 +87,6 @@
                   <app loc="1">
                     <lem source="bib:Levi1932_02">pūrvābhijñāśabdaśravaṇa</lem>
                     <rdg source="bib:Krom1927_01"><unclear>pū</unclear>rvasa<unclear>ṁ</unclear>jñāśabdaśravaṇa</rdg>
-                    <note>At first, Krom (<bibl rend="omitname"><ptr target="bib:Krom1927_01"/><citedRange unit="page">52-53</citedRange></bibl>) proposed <foreign>pūrvasaṁjñā</foreign> <q>acknowledgement of the former</q> for the reading preceding <foreign>śabdaśravaṇa</foreign>, but Lévi (<bibl rend="omitname"><ptr target="bib:Levi1932_02"/><citedRange unit="page">88-89</citedRange></bibl>) proposed another reading <foreign>pūrvābhijñā</foreign> <q>knowledge of previous lives</q>, supplemented from the Chinese version <title>Ye pao tch'a pie king</title>.</note>
                   </app>
                </listApp>
          </div>
@@ -95,7 +94,7 @@
  	<p>knowledge of previous lives</p>
          </div>
          <div type="commentary">
-            
+            <p>At first, Krom (<bibl rend="omitname"><ptr target="bib:Krom1927_01"/><citedRange unit="page">52-53</citedRange></bibl>) proposed <foreign>pūrvasaṁjñā</foreign> <q>acknowledgement of the former</q> for the reading preceding <foreign>śabdaśravaṇa</foreign>, but Lévi (<bibl rend="omitname"><ptr target="bib:Levi1932_02"/><citedRange unit="page">88-89</citedRange></bibl>) proposed another reading <foreign>pūrvābhijñā</foreign> <q>knowledge of previous lives</q>, supplemented from the Chinese version <title>Ye pao tch'a pie king</title>.</p>
          </div>
         <div type="bibliography">
            <p>First published by Kern (<bibl rend="omitname"><ptr target="bib:Kern1896_02"/></bibl>); republished by the same author (<bibl rend="omitname"><ptr target="bib:Kern1917_23"/></bibl>) and subsequently by Krom (<bibl rend="omitname"><ptr target="bib:Krom1927_01"/></bibl>); this digital edition based on the 1927 publication.</p>
