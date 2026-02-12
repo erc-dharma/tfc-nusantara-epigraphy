@@ -73,38 +73,42 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
+            <change who="part:hepr" when="2026-02-12">revised the text, the translation, and the bibliography</change>
         	<change who="part:argr" when="2025-12-05">encoded the inscription</change>
         </revisionDesc>
     </teiHeader>
     <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="san-Latn" rendition="class:38769 maturity:83213">
-<p><lb n="1"/>goṣṭhī</p>
+<p><lb n="1"/>bhogī</p>
          </div>
          <div type="apparatus">
                 <listApp>
                   <app loc="1">
-                     <lem source="bib:Krom1927_01">goṣṭhī</lem>
-                     <rdg source="bib:Kern1896_02">bhogī</rdg>
-                     <rdg source="bib:Kern1917_23">goṣṭhī</rdg>
+                     <lem source="bib:Kern1896_02 bib:Levi1932_02 bib:Krom1933_02">bhogī</lem>
+                     <rdg source="bib:Kern1917_23 bib:Krom1927_01">goṣṭhī</rdg>
                   </app>
                </listApp>
          </div>
          <div type="translation" resp="part:argr">
- 	<p>pleasant talk</p>
+ 	<p>wealthy person</p>
          </div>
          <div type="commentary">
-            <!--none-->
+            <p>The inscrition was first read <foreign>bhogī</foreign>, <q>wealthy person</q>, by Kern (<bibl rend="omitname"><ptr target="bib:Kern1896_02"/><citedRange unit="page">122</citedRange></bibl>), who later corrected it to <foreign>goṣṭhī</foreign>, <q>pleasant talk</q> (<bibl><ptr target="bib:Kern1917_23"/><citedRange unit="page">150</citedRange></bibl>). Lévi (<bibl rend="omitname"><ptr target="bib:Levi1932_02"/><citedRange unit="page">89</citedRange></bibl>) then corrected the reading back to <foreign>bhogī</foreign> because the inscription is the equivalent of <foreign>mahābhoga</foreign> from <title>Las rnam par 'byed pa</title>, <title>Ye pao tch'a pie king</title>, and <title>Karmavibhaṅga</title> written in the Koutcha language.</p>
          </div>
         <div type="bibliography">
            <p>First published by Kern (<bibl rend="omitname"><ptr target="bib:Kern1896_02"/></bibl>); republished by the same author (<bibl rend="omitname"><ptr target="bib:Kern1917_23"/></bibl>) and subsequently by Krom (<bibl rend="omitname"><ptr target="bib:Krom1927_01"/></bibl>); this digital edition based on the 1927 publication.</p>
         	<listBibl type="primary">
 				<bibl n="HK1"><ptr target="bib:Kern1896_02"/><citedRange unit="page">122</citedRange></bibl>
 				<bibl n="HK2"><ptr target="bib:Kern1917_23"/><citedRange unit="page">150</citedRange></bibl>
-				<bibl n="NJK"><ptr target="bib:Krom1927_01"/><citedRange unit="page">53</citedRange></bibl>
+				<bibl n="NJK1"><ptr target="bib:Krom1927_01"/><citedRange unit="page">53</citedRange></bibl>
+                <bibl n="LS"><ptr target="bib:Levi1932_02"/><citedRange unit="mixed">Page 89, Tableau Comparatif, column Bb. (Panneaux de Boro-Budur), item 131-134</citedRange></bibl>
+                <bibl n="NJK2"><ptr target="bib:Krom1933_02"/><citedRange unit="page">262</citedRange></bibl>
 			</listBibl>
            <listBibl type="secondary">
-              <bibl><ptr target="bib:Levi1932_02"/><citedRange unit="page">18-19</citedRange><citedRange unit="item">LXV</citedRange></bibl>
+                <bibl><ptr target="bib:Casparis1975_01"/><citedRange unit="page">32</citedRange></bibl>
+                <bibl><ptr target="bib:Fontein1989_01"/><citedRange unit="page">61</citedRange></bibl>
+                <bibl><ptr target="bib:Reichle2009_01"/><citedRange unit="mixed">Pages 352–354, Table I, item O-134</citedRange></bibl>
            </listBibl>
         </div>
       </body>
