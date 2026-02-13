@@ -73,6 +73,7 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
+            <change who="part:hepr" when="2026-02-13">revised the bibliography</change>
         	<change who="part:argr" when="2025-12-05">encoded the inscription</change>
         </revisionDesc>
     </teiHeader>
@@ -84,8 +85,8 @@
          <div type="apparatus">
                <listApp>
                   <app loc="1">
-                     <lem source="bib:Krom1927_01">bhogī</lem>
-                     <note>Johan Hendrik Caspar Kern (<bibl rend="omitname"><ptr target="bib:Kern1917_23"/><citedRange unit="page">149</citedRange></bibl>) stated that the reading is unclear.</note>
+                     <lem source="bib:Krom1927_01 bib:Levi1932_02">bhogī</lem>
+                     <note>Kern (<bibl rend="omitname"><ptr target="bib:Kern1917_23"/><citedRange unit="page">149</citedRange></bibl>) stated that the reading is unclear, but Krom (<bibl rend="omitname"><ptr target="bib:Krom1927_01"/><citedRange unit="page">53</citedRange></bibl>) and Lévi (<bibl rend="omitname"><ptr target="bib:Levi1932_02"/><citedRange unit="page">98</citedRange></bibl>) could read the inscription as <foreign>bhogī</foreign>.</note>
                   </app>
                </listApp>
          </div>
@@ -93,15 +94,14 @@
  	<p>landowner</p>
          </div>
          <div type="commentary">
-            <!--
-            <p></p>
-            -->
+
          </div>
         <div type="bibliography">
            <p>First published by Kern (<bibl rend="omitname"><ptr target="bib:Kern1896_02"/></bibl>); republished by the same author (<bibl rend="omitname"><ptr target="bib:Kern1917_23"/></bibl>) and subsequently by Krom (<bibl rend="omitname"><ptr target="bib:Krom1927_01"/></bibl>); this digital edition based on the 1927 publication.</p>
         	<listBibl type="primary">
-				<bibl n="HK2"><ptr target="bib:Kern1917_23"/><citedRange unit="page">149</citedRange></bibl>
+				<bibl n="HK"><ptr target="bib:Kern1917_23"/><citedRange unit="page">149</citedRange></bibl>
 				<bibl n="NJK"><ptr target="bib:Krom1927_01"/><citedRange unit="page">53</citedRange></bibl>
+                <bibl n="LS"><ptr target="bib:Levi1932_02"/><citedRange unit="page">98</citedRange></bibl>
 			</listBibl>
         </div>
       </body>
