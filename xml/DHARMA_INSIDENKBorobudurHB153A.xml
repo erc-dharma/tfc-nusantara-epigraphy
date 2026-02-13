@@ -73,36 +73,43 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
+            <change who="part:hepr" when="2026-02-13">revised the text, the translation and the bibliography</change>
         	<change who="part:argr" when="2025-12-05">encoded the inscription</change>
         </revisionDesc>
     </teiHeader>
     <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="san-Latn" rendition="class:38769 maturity:83213">
-<p><lb n="1"/><unclear>vr̥d</unclear>dh<unclear>i</unclear></p>
+<p><lb n="1"/>gandha</p>
          </div>
          <div type="apparatus">
                <listApp>
                   <app loc="1">
-                     <lem source="bib:Krom1927_01"><unclear>vr̥d</unclear>dh<unclear>i</unclear></lem>
-                     <note>Johan Hendrik Caspar Kern (<bibl rend="omitname"><ptr target="bib:Kern1917_23"/><citedRange unit="page">149</citedRange></bibl>) stated that the reading is unclear.</note>
+                     <lem source="bib:Levi1932_02">gandha</lem>
+                     <rdg source="bib:Krom1927_01"><unclear>vr̥d</unclear>dh<unclear>i</unclear></rdg>
+                     <note>Kern (<bibl rend="omitname"><ptr target="bib:Kern1917_23"/><citedRange unit="page">149</citedRange></bibl>) stated that the reading is unclear.</note>
                   </app>
                </listApp>
          </div>
          <div type="translation" resp="part:argr">
- 	<p>prosperity</p>
+ 	<p>incense</p>
          </div>
          <div type="commentary">
-            <!--
-            <p></p>
-            -->
+            
          </div>
         <div type="bibliography">
            <p>First published by Kern (<bibl rend="omitname"><ptr target="bib:Kern1896_02"/></bibl>); republished by the same author (<bibl rend="omitname"><ptr target="bib:Kern1917_23"/></bibl>) and subsequently by Krom (<bibl rend="omitname"><ptr target="bib:Krom1927_01"/></bibl>); this digital edition based on the 1927 publication.</p>
         	<listBibl type="primary">
-				<bibl n="HK2"><ptr target="bib:Kern1917_23"/><citedRange unit="page">149</citedRange></bibl>
+				<bibl n="HK"><ptr target="bib:Kern1917_23"/><citedRange unit="page">149</citedRange></bibl>
 				<bibl n="NJK"><ptr target="bib:Krom1927_01"/><citedRange unit="page">54</citedRange></bibl>
+                <bibl n="LS"><ptr target="bib:Levi1932_02"/><citedRange unit="page">103</citedRange></bibl>
 			</listBibl>
+            <listBibl type="secondary">
+                <bibl><ptr target="bib:Krom1933_02"/><citedRange unit="page">270</citedRange></bibl>
+                <bibl><ptr target="bib:Casparis1975_01"/><citedRange unit="page">32</citedRange></bibl>
+                <bibl><ptr target="bib:Fontein1989_01"/><citedRange unit="page">64-65</citedRange></bibl>
+                <bibl><ptr target="bib:Reichle2009_01"/><citedRange unit="mixed">Pages 352–354, Table I, item O-153</citedRange></bibl>
+            </listBibl>
         </div>
       </body>
   </text>
