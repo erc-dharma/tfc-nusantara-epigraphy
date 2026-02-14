@@ -102,7 +102,7 @@
         	<listBibl type="primary">
 				<bibl n="HK"><ptr target="bib:Kern1917_23"/><citedRange unit="page">149</citedRange></bibl>
 				<bibl n="NJK"><ptr target="bib:Krom1927_01"/><citedRange unit="page">54</citedRange></bibl>
-                <bibl n="LS"><ptr target="bib:Levi1932_02"/><citedRange unit="page">103</citedRange></bibl>
+                <bibl n="SL"><ptr target="bib:Levi1932_02"/><citedRange unit="page">103</citedRange></bibl>
 			</listBibl>
             <listBibl type="secondary">
                 <bibl><ptr target="bib:Krom1933_02"/><citedRange unit="page">270</citedRange></bibl>

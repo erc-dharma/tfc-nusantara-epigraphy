@@ -101,7 +101,7 @@
         	<listBibl type="primary">
 				<bibl n="HK"><ptr target="bib:Kern1917_23"/><citedRange unit="page">150</citedRange></bibl>
 				<bibl n="NJK1"><ptr target="bib:Krom1927_01"/><citedRange unit="page">53</citedRange></bibl>
-                <bibl n="LS"><ptr target="bib:Levi1932_02"/><citedRange unit="mixed">Page 90, Tableau Comparatif, column Bb. (Panneaux de Boro-Budur), item 135-137</citedRange></bibl>
+                <bibl n="SL"><ptr target="bib:Levi1932_02"/><citedRange unit="mixed">Page 90, Tableau Comparatif, column Bb. (Panneaux de Boro-Budur), item 135-137</citedRange></bibl>
                 <bibl n="NJK2"><ptr target="bib:Krom1933_02"/><citedRange unit="page">263</citedRange></bibl>
 			</listBibl>
            <listBibl type="secondary">
