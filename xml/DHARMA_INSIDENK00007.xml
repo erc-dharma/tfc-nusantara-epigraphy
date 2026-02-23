@@ -116,6 +116,10 @@
                      <note>Probably due to inadvertence, <bibl><ptr target="bib:Damais1955_01"/></bibl> omits this word.</note>
                      <!--<note>Read <foreign>Aṅkut</foreign>, <foreign>Aṅkat</foreign> or <foreign>Antar</foreign>?</note>-->
                   </app>
+		    <app loc="3">
+                      <lem>prakāran<supplied reason="omitted">d</supplied>aṁ</lem>
+                     <rdg source="bib:Krom1917_01 bib:Damais1955_01">prakāranaṁ</rdg>
+                  </app>
                   <app loc="4">
                       <lem>diAnumodanā Oleḥ</lem>
                      <rdg source="bib:Krom1917_01 bib:Damais1955_01">diAnumodanāñjaleḥ</rdg>
