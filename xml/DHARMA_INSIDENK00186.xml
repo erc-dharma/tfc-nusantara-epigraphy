@@ -8,16 +8,9 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Makara of Candi Kedaton (N. 186), 10/11th c. CE</title>
+                <title>Makara of Candi Kedaton at Muara Jambi (N. 186), 10/11th c. CE</title>
                 <respStmt>
-                    <resp>EpiDoc Encoding</resp>
-                    <persName ref="part:argr">
-                       <forename>Arlo</forename>
-                       <surname>Griffiths</surname>
-                    </persName>
-                 </respStmt>
-                 <respStmt>
-                    <resp>intellectual authorship of edition</resp>
+                    <resp>author of digital edition</resp>
                     <persName ref="part:argr">
                        <forename>Arlo</forename>
                        <surname>Griffiths</surname>
@@ -35,7 +28,7 @@
                              https://creativecommons.org/licenses/by/4.0/ or send a letter to
                              Creative Commons, 444 Castro Street, Suite 900, Mountain View,
                              California, 94041, USA.</p>
-                       <p>Copyright (c) 2019-2025 by Arlo Griffiths.</p>
+                       <p>Copyright (c) 2019-2026 by Arlo Griffiths.</p>
                     </licence>
                 </availability>
                 <date from="2019" to="2025">2019-2025</date>
@@ -51,7 +44,7 @@
                     </msContents>
                     <physDesc>
                         <handDesc>
-                            <p><!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EGD 11.2. --></p>
+                        	<p>Monumental quadratic characters carved in relief.<!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EGD 11.2. --></p>
                             <!-- If you need to identify individual hands (EGD §7.5/) in addition to one or more paragraphs of general palaeographic description, wrap <summary> around the <p> or <p>s above, and, outside <summary>, create <handNote> elements for each hand as follows:
 						<summary><p><p/></summary>
 						<handNote xml:id="Pallava00001_hand1"></handNote>
@@ -77,6 +70,7 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
+        	<change who="part:argr" when="2026-03-25">minor revisions to the encoding</change>
             <change who="part:argr" when="2024-09-24">encoded the inscription</change>
          </revisionDesc>
     </teiHeader>
