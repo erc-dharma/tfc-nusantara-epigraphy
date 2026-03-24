@@ -44,7 +44,7 @@
                     </msContents>
                     <physDesc>
                         <handDesc>
-                            <p><!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EGD 11.2. --></p>
+                            <p>Monumental quadratic characters carved in relief.<!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EGD 11.2. --></p>
                             <!-- If you need to identify individual hands (EGD §7.5/) in addition to one or more paragraphs of general palaeographic description, wrap <summary> around the <p> or <p>s above, and, outside <summary>, create <handNote> elements for each hand as follows:
 						<summary><p><p/></summary>
 						<handNote xml:id="Pallava00001_hand1"></handNote>
@@ -90,13 +90,14 @@
             <p/>
          </div>
         <div type="bibliography">
-           <p>First edited by H. Kern in <bibl><ptr target="bib:Holle1883_03"/></bibl> (republished as <bibl><ptr target="bib:Kern1917_16"/></bibl>). Edited again by Damais (<bibl rend="omitname"><ptr target="bib:Damais1955_01"/></bibl>), who used the OD photos 2692–2694.</p>
+           <p>First edited by H. Kern in <bibl><ptr target="bib:Holle1883_03"/></bibl> (republished as <bibl><ptr target="bib:Kern1917_16"/></bibl>). Edited again by Damais (<bibl rend="omitname"><ptr target="bib:Damais1955_01"/></bibl>), who used the OD photos 2692–2694. For a complete bibliography, see <bibl><ptr target="bib:TitiSurtiNastiti+al2025_01"/></bibl>.</p>
         	<listBibl type="primary">
 				<bibl><ptr target="bib:Holle1883_03"/></bibl>
 				<bibl><ptr target="bib:Kern1917_16"/></bibl>
 				<bibl><ptr target="bib:Damais1955_01"/><citedRange unit="page">243</citedRange></bibl>
 			</listBibl>
            <listBibl type="secondary">
+			  <bibl><ptr target="bib:Griffiths2012_01"/><citedRange unit="page">206-207</citedRange></bibl>
               <bibl><ptr target="bib:TitiSurtiNastiti+al2025_01"/><citedRange unit="page">167-168</citedRange></bibl>
            </listBibl>
         </div>
