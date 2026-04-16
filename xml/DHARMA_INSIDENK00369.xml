@@ -82,21 +82,24 @@ n="3" break="no"/>ndeśa ba<unclear>r</unclear>puliḥkan· hāji su<lb n="4" br
          </div>
          <div type="apparatus">
                <listApp>
-                  <app loc="1"><lem></lem><note></note></app>
+                <app loc="1"><lem source="bib:Bosch1941_02 bib:HasanDjafar1991_01">Ini</lem><note>Or read <foreign>Iri</foreign>? <foreign>Iti</foreign>?</note></app>
+				<app loc="2"><lem source="bib:HasanDjafar1991_01">saśakalānda</lem><rdg source="bib:Bosch1941_02">sa<unclear>bd</unclear>akalānda</rdg><note>Or <foreign>sakhakalānda</foreign>?</note></app>
+				<app loc="2"><lem source="bib:Bosch1941_02">pasāgi</lem><rdg source="bib:HasanDjafar1991_01">pasagi</rdg><note>Can we read <foreign>pasārgi</foreign>?</note></app>
+				<app loc="2"><lem source="bib:HasanDjafar1991_01">masāndeśa</lem><rdg source="bib:Bosch1941_02">marsāndeśa</rdg></app>
+				<app loc="3"><lem source="bib:Bosch1941_02 bib:HasanDjafar1991_01">su<lb n="4" break="no"/>nda</lem><note>Or read <foreign>sunḍa</foreign>?</note></app>
 <!-- 
 1. Ini] or read Iri? Iti ?
 1. saśakalānda] Hasan Djafar; sa(bd)akalānda Bosch. Or sakhakalānda?
 2. pasāgi] Bosch; pasagi Hasan Djafar. Can we read pasārgi?
 2–3. masāndeśa] Hasan Djafar; marsāndeśa Bosch.
 3. ba(r)puliḥkan·] can we read ṅapuliḥkan·? I pulikan·? I pulikar·?
-3–4. sunda] read sunḍa?
-
-kavi haji: cf. viku haji in Sang Hyang Siksa Kandang Karesian, l. 189?  -->
+3–4. sunda] read sunḍa? -->
                </listApp>
          </div>
          <div type="translation"/>
          <div type="commentary">
             <p>Bosch (1941: 49) writes that ‘De steen waarop de inscriptie is aangebracht werd aan den Oudheidkundigen Dienst gerapporteerd als staande aan den rand van een sawah in de desa Kebon Kopi (distr. Leuwiliang, afd. Buitenzorg), dichtbij de vindplaats van de bekende Pallawa-inscriptie van koning Pūrṇṇawarman.’ Present whereabouts are unknown.</p>
+			<p>kavi haji: cf. viku haji in Sang Hyang Siksa Kandang Karesian, l. 189?</p>
           </div>
         <div type="bibliography">
            <p>Edited by Bosch (<bibl rend="omitname"><ptr target="bib:Bosch1941_02"/></bibl>); revised by Hasan Djafar (<bibl rend="omitname"><ptr target="bib:HasanDjafar1991_01"/></bibl>). This digitial edition offers only slight precisions (addition of one <foreign>virāma</foreign> and punctuation, specification of initial vowel as <foreign>akṣara</foreign> vowel) and choices of reading have been made based on the same photo <ref target="http://hdl.handle.net/1887.1/item:4103201">OD 6888</ref> that was used also by Bosch and Hasan Djafar. The photo is of somewhat mediocre quality, so the edition cannot presently be verified any further. <seg rend="check">The OD estampage 2614 is not accessible.</seg></p>
@@ -115,7 +118,7 @@ kavi haji: cf. viku haji in Sang Hyang Siksa Kandang Karesian, l. 189?  -->
 - Nandang Rusnandar 1999: 88-89 (merely mentions the inscription in a list of inscriptions) 
 
 Photo of the stone: OD 6888.
-Paper rubbings are mentioned by Bosch (1941: 49). There are presumably Abl. OD 2614.
+Paper rubbings are mentioned by Bosch (1941: 49). These are presumably Abl. OD 2614.
  -->
         </div>
       </body>
