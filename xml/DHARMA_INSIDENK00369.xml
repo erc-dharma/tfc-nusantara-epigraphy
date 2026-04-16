@@ -96,10 +96,16 @@ n="3" break="no"/>ndeśa ba<unclear>r</unclear>puliḥkan· hāji su<lb n="4" br
 3–4. sunda] read sunḍa? -->
                </listApp>
          </div>
-         <div type="translation"/>
+<div type="translation">
+<p>This is the memorial of rakryān juru Paṅambat who, in <supplied reason="explanation">a year that can be expressed as</supplied> royal poet, five, square <supplied reason="explanation">i.e., in the year 854 Śaka</supplied> ordered to bring the Sunda king home.</p>
+</div>
+         <div type="translation" xml:lang="nld" source="bib:Bosch1941_02">
+<p>Dit is het gedenkstuk (houdende) het bevel van den Rakryan Juru Pangambat (uitgevaardigd) in (het jaar) 854 (942
+A.D.) en verordineerend, dat de vorst van Sunda in zijn vroegeren staat zal worden hersteld.</p>
+</div>
          <div type="commentary">
-            <p>Bosch (1941: 49) writes that ‘De steen waarop de inscriptie is aangebracht werd aan den Oudheidkundigen Dienst gerapporteerd als staande aan den rand van een sawah in de desa Kebon Kopi (distr. Leuwiliang, afd. Buitenzorg), dichtbij de vindplaats van de bekende Pallawa-inscriptie van koning Pūrṇṇawarman.’ Present whereabouts are unknown.</p>
-			<p>kavi haji: cf. viku haji in Sang Hyang Siksa Kandang Karesian, l. 189?</p>
+            <p>Bosch (<bibl rend="omitname"><ptr target="bib:Bosch1941_02"/><citedRange unit="page">49</citedRange></bibl>) reported that the stone on which this inscription is engraved was reported to teh Ducth Archaelogical Service as standing on the edge of a paddy field in the desa Kebon Kopi (distr. Leuwiliang, afd. Buitenzorg), near the location of wellknowmn inscription of King Purnawarman. Its present whereabouts are unknown.</p>
+			<p>The reading of the text is still to uncertain on too many points to propose a translation with any degree of confidence. The expression <foreign>kavi haji</foreign>, here apparently expressing the number 8, is reminiscent of <foreign>viku haji</foreign> in chapter 4 of the <ref target="https://dharmalekha.info/texts/CritEdSiksaKandangKaresian">Siksa Kandaṅ Karəsian</ref>.</p>
           </div>
         <div type="bibliography">
            <p>Edited by Bosch (<bibl rend="omitname"><ptr target="bib:Bosch1941_02"/></bibl>); revised by Hasan Djafar (<bibl rend="omitname"><ptr target="bib:HasanDjafar1991_01"/></bibl>). This digitial edition offers only slight precisions (addition of one <foreign>virāma</foreign> and punctuation, specification of initial vowel as <foreign>akṣara</foreign> vowel) and choices of reading have been made based on the same photo <ref target="http://hdl.handle.net/1887.1/item:4103201">OD 6888</ref> that was used also by Bosch and Hasan Djafar. The photo is of somewhat mediocre quality, so the edition cannot presently be verified any further. <seg rend="check">The OD estampage 2614 is not accessible.</seg></p>
