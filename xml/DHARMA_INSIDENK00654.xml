@@ -91,7 +91,6 @@
 </p>
          </div>
          <div type="apparatus">
-           <!--apparatus encoded as per EGD §9.1, basic elements for apparatus below-->
                <listApp>
 <!-- <app loc="1">
                      <lem>XXX</lem>
@@ -183,7 +182,7 @@ Agastyaparva
 	</listBibl>
            <listBibl type="secondary">
 	<bibl><ptr target="bib:Verbeek1891_01"/><citedRange unit="page">221</citedRange><citedRange unit="item">434</citedRange></bibl>
-              <bibl><ptr target="bib:Knebel1909_04"/><citedRange unit="page">270</citedRange></bibl>
+       <bibl><ptr target="bib:Knebel1909_04"/><citedRange unit="page">270</citedRange></bibl>
 	<bibl><ptr target="bib:Bosch1915_01"/><citedRange unit="page">249</citedRange><citedRange unit="item">1825</citedRange></bibl>
 	<bibl><ptr target="bib:Boechari1990_01"/><citedRange unit="page">130</citedRange></bibl>
 <!-- Nini S., Disssertation, 2003: 490-1$Wibowo, 2001: 30. -->
