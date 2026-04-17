@@ -73,8 +73,9 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
+            <change who="part:hepr" when="2026-04-17">revised the apparatus</change>
             <change who="part:hepr" when="2026-02-10">revised the bibliography</change>
-        	<change who="part:argr" when="2025-12-05">encoded the inscription</change>
+            <change who="part:argr" when="2025-12-05">encoded the inscription</change>
         </revisionDesc>
     </teiHeader>
     <text xml:space="preserve">
@@ -85,7 +86,7 @@
          <div type="apparatus">
             <listApp>
                <app loc="1">
-                  <lem>mitthyādr̥ṣṭi</lem>
+                  <lem source="bib:Krom1927_01">mitthyādr̥ṣṭi</lem>
                   <rdg source="bib:Levi1932_02">mithyādr̥ṣṭi</rdg>
                </app>
             </listApp>
