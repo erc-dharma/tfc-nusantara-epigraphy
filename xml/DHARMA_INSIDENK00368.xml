@@ -85,7 +85,7 @@
       <body>
          <div type="edition" xml:lang="kaw-Latn" rendition="class:38769 maturity:83213">
             <p>
-                <lb n="1"/><g type="circleMed"/> bhaṭāra kakīṅ abhaya brat· <abbr>dhā</abbr> <num value="11">11</num>
+                <lb n="1"/><g ref="sym:bullet-middle-hollow" type="symbol">*</g> bhaṭāra kakīṅ abhaya brat· <abbr>dhā</abbr> <num value="11">11</num>
                 <lb n="2"/>bratniṁ mās ya <abbr>su</abbr> <num value="1">1</num> <abbr>mā</abbr> <num value="15">15</num>
             </p>
          </div>

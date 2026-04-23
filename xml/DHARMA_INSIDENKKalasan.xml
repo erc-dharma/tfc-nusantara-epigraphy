@@ -100,7 +100,7 @@ c'est bien bhü qu'il faut lire, avec Bhandarkar, bien que l'aksara diffère sen
    <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="san-Latn">
-<p><lb n="01"/><g type="symbol" subtype="siddham"/><!-- the symbol stands in the margin -->
+<p><lb n="01"/><g ref="sym:san-siddham" type="ideogram">@</g><!-- the symbol stands in the margin -->
 	<lb n="1"/>namo bhagavatyai ārya-tārāyai ||</p>
 	<lg n="1" met="vasantatilaka"><!-- [vasantatilaka: - - ~ - ~ ~ ~ - ~ ~ - ~ - =] -->
 		<l n="a">yā tārayaty amita-duḥkha-bhavābdhi-magnaṁ</l>
@@ -164,7 +164,7 @@ c'est bien bhü qu'il faut lire, avec Bhandarkar, bien que l'aksara diffère sen
            <!--apparatus encoded as per EG §9.1, basic elements for apparatus below-->
                <listApp>
                   <app loc="01">
-                     <lem><g type="symbol" subtype="siddham"/></lem>
+                     <lem><g ref="sym:san-siddham" type="ideogram">@</g></lem>
                      <note>The <foreign>siddham</foreign> sign, ignored in all previous editions, stands slightly left of the left margin.</note>
                   </app>
 	<!--<app loc="2-3"><lem>upāyaiḥ</lem><!-\- thus Bosch, upayaiḥ Sarkar (printing error). -\-></app>-->

@@ -80,7 +80,7 @@
            <body> 
                    <div type="edition" xml:lang="kaw-Latn">                           
 <p><milestone type="pagelike" unit="face" n="A"/>
-<lb n="1"/><g type="ddandaHooked">.</g><g type="circle">.</g><g type="ddandaHooked">.</g> svasti śaka-varṣātīta 828 bhadravā
+<lb n="1"/><g ref="sym:doubleBar-hooked" type="punctuation">.</g><g ref="sym:circle" type="punctuation">.</g><g ref="sym:doubleBar-hooked" type="punctuation">.</g> svasti śaka-varṣātīta 828 bhadravā
 <lb n="2" break="no"/>da-māsa tithi pañcamī kr̥ṣṇa-pakṣa văs· va
 <lb n="3" break="no"/>gai vr̥haspati-văra sv<choice><orig>atī-</orig><reg>āti-</reg></choice>nakṣatra byatipā
 <lb n="4" break="no"/>da-yoga tatkālanikanaṁ vanuA I ka

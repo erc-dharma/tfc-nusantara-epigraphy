@@ -86,7 +86,7 @@
                    <div type="edition" xml:lang="kaw-Latn">
             <p>
             <pb n="1r"/>
-            <lb n="1r1"/><g type="ddandaCross">.</g>svasti śaka-varṣătĭta <num value="823">823</num> kă<supplied reason="omitted">r</supplied>tika-măsa, tithi <num value="10">daśamĭ</num> sukla-pakṣa <abbr>vā</abbr>, <abbr><choice><sic>va</sic><corr>pa</corr></choice></abbr> <abbr>Ă</abbr> văra śatabhiśa-nakṣatra bāru
+            <lb n="1r1"/><g ref="sym:doubleBar-crossed" type="punctuation">.</g>svasti śaka-varṣătĭta <num value="823">823</num> kă<supplied reason="omitted">r</supplied>tika-măsa, tithi <num value="10">daśamĭ</num> sukla-pakṣa <abbr>vā</abbr>, <abbr><choice><sic>va</sic><corr>pa</corr></choice></abbr> <abbr>Ă</abbr> văra śatabhiśa-nakṣatra bāru
 <lb n="1r2" break="no"/>na-daivatā <choice><sic>hasa</sic><corr>harṣaṇa</corr></choice>-yūga, tatkālanikanaṁ rāma I roṁkab· vinaiḥ mamuputta kaṭik· pră
 <lb n="1r3" break="no"/>ṇa <choice><sic>ga</sic><corr><num value="1">1</num></corr></choice> de saṁ pamaggat· Umaṅgit· pu parvvatta, saṁkā ri nāśani vanvanya <choice><sic>maṅaśa
 <lb n="1r4" break="no"/>Akkan·</sic><corr>maṅasəAkan·</corr></choice> Ikanaṁ rāma pasak·-pasak· I saṁ pamaggat· pirak· <abbr>kā</abbr> <num value="10">10</num> juru
@@ -109,7 +109,7 @@
 <lb n="1v10" break="no"/>sak·-pasak· pirak· <abbr>dhā</abbr> <num value="2">2</num> I sovaṁ-sova<unclear>ṁ</unclear> vahut<surplus>t</surplus>a hya<unclear>ṁ</unclear> tu<space type="descender"/>mut· magu<choice><orig>n</orig><reg>ṇ</reg></choice>ado<choice><orig>s</orig><reg>ṣ</reg></choice>a sa<unclear>ṁ</unclear> siṅgaḥ vvaḥ pu ra
 <lb n="1v11" break="no"/>hula, Anak· vanva I miraḥ-miraḥ vatak· vadihati muAṁ sa<supplied reason="omitted">ṁ</supplied> habūn· Anak· vanva I turayun· vatak· si
 <lb n="1v12" break="no"/>garan· kapva InasəAn· pasak·-pasak· pirak· <abbr>mā</abbr> <num value="7">7</num> I sova<unclear>ṁ</unclear>-sovaṁ karamān· saṁ hadyan· vahu
-<lb n="1v13" break="no"/>tta hya<unclear>ṁ</unclear> makabaiḥhan· pirak· <abbr>dhā</abbr> <num value="1">1</num> kinabaiḥhannira likhitta-patra pu ravi <g type="circle">.</g><g type="circle">.</g><g type="circle">.</g></p>
+<lb n="1v13" break="no"/>tta hya<unclear>ṁ</unclear> makabaiḥhan· pirak· <abbr>dhā</abbr> <num value="1">1</num> kinabaiḥhannira likhitta-patra pu ravi <g ref="sym:circle" type="punctuation">.</g><g ref="sym:circle" type="punctuation">.</g><g ref="sym:circle" type="punctuation">.</g></p>
                    </div>
 
                        <div type="apparatus">

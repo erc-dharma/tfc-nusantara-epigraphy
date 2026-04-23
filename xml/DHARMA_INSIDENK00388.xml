@@ -84,8 +84,8 @@
       <body>
          <div type="edition" xml:lang="kaw-Latn" rendition="class:38769 maturity:83213">
             <p>
-                <lb n="1"/><g type="ddanda"/><g type="circleMed"/><g type="ddanda"/> gavayan· bhaṭāra I ḍi<unclear>hya</unclear><supplied reason="lost" evidence="previouseditor">ṁ dyun pirak· brat·</supplied> 
-<abbr><supplied reason="lost" evidence="previouseditor">k</supplied>ā</abbr> <num value="4">4</num> rambutnya lpas· <g type="ddandaHooked"/><g type="circleMed"/><g type="ddandaHooked"/></p>
+                <lb n="1"/><g ref="sym:doubleBar" type="punctuation">.</g><g ref="sym:bullet-middle-hollow" type="symbol">*</g><g ref="sym:doubleBar" type="punctuation">.</g> gavayan· bhaṭāra I ḍi<unclear>hya</unclear><supplied reason="lost" evidence="previouseditor">ṁ dyun pirak· brat·</supplied> 
+<abbr><supplied reason="lost" evidence="previouseditor">k</supplied>ā</abbr> <num value="4">4</num> rambutnya lpas· <g ref="sym:doubleBar-hooked" type="punctuation">.</g><g ref="sym:bullet-middle-hollow" type="symbol">*</g><g ref="sym:doubleBar-hooked" type="punctuation">.</g></p>
          </div>
          <div type="apparatus">
                <listApp>
@@ -131,7 +131,7 @@ Cf.  Prasasti Salingsingan, Ia1-3 (PKMN p. 34):
  <!-- 
 De vondst van een gouden beeld van den ,,bhatara i Diyang" met een zilveren djoen met inscriptie, in het blok Bantjet, ten Z. van desa Kapakisan (distr. Batoer, afd. Bandjardgara) is vermeld in de Notulen van 24 Maart 1924 (TKBG. LXIV, afl. 1 en 2, p. 334). De transcriptie van het inschrift, waarin t.a.p. enkele - diacritische teekens zijn weggevallen, luidt : gawayan bhaṭāra i Diyang dyun pirak brat kā 4 rambut nya lpas.
  -->
-<bibl><ptr target="bib:Stutterheim1925_02"/><citedRange unit="page">228-230</citedRange><citedRange unit="note"></citedRange></bibl>
+<bibl><ptr target="bib:Stutterheim1925_02"/><citedRange unit="page">228-230</citedRange><citedRange unit="note"/></bibl>
               <bibl><ptr target="bib:Poerbatjaraka1926_01"/><citedRange unit="page">47-48</citedRange><citedRange unit="note">3</citedRange></bibl>
 <!-- not included in Damais 1971 -->
 <!-- Pauline Lunsingh Scheurleer: Het verband met het gouden beeld is in het museum al lang geleden verloren gegaan, zoals blijkt uit de catalogi,  Fontein, J., & R. Soekmono & Satyawati Suleiman (1971), Ancient Indonesia Art of the Central and Eastern Javanese periods. New York: The Asia Society. no. 98 en Treasures of Ancient Indonesian Kingdoms, Tokyo National Museum, 1997, no. 47. -->

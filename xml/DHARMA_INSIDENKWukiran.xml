@@ -85,40 +85,40 @@
       <body>
          <div type="edition" xml:lang="kaw-Latn" rendition="class:38769 maturity:83213">
 <lg n="1" met="āryā" xml:lang="san-Latn">
-<l n="ab"><lb n="1"/><g type="ddanda"/> yata Utpannaṁ viśvaṁ yatra ca jātaṁ vilīnam api yatra <g type="circleMed"/></l>
+<l n="ab"><lb n="1"/><g ref="sym:doubleBar" type="punctuation">.</g> yata Utpannaṁ viśvaṁ yatra ca jātaṁ vilīnam api yatra <g ref="sym:bullet-middle-hollow" type="symbol">*</g></l>
 <l n="cd"><lb n="2"/>tasmai namo bhagavate śivāya śiva-kāriṇe tubhyaṁ</l>
 </lg>
 <lg n="2" met="āryā" xml:lang="san-Latn">
-<l n="ab"><lb n="3"/><g type="ddanda"/> pathagāpi dūra-duritā śūnyāpi hita-pradānimiṣa-pūrṇnā</l>
-<l n="cd"><lb n="4"/>śivira-vr̥tāpy atipūtā śilā yato janmibhiḥ pūjyā <g type="ddanda"/><g type="circleMed"/><g type="ddanda"/></l>
+<l n="ab"><lb n="3"/><g ref="sym:doubleBar" type="punctuation">.</g> pathagāpi dūra-duritā śūnyāpi hita-pradānimiṣa-pūrṇnā</l>
+<l n="cd"><lb n="4"/>śivira-vr̥tāpy atipūtā śilā yato janmibhiḥ pūjyā <g ref="sym:doubleBar" type="punctuation">.</g><g ref="sym:bullet-middle-hollow" type="symbol">*</g><g ref="sym:doubleBar" type="punctuation">.</g></l>
 </lg>
 	<!-- 4 c. śivira-: cf. śibira in the Tugu inscription, st. V. -->
 <lg n="3" met="āryā" xml:lang="san-Latn">
-<l n="ab"><lb n="5"/><g type="ddanda"/> yāvat khe ravi-śaśinau yāvad dhātr<choice><sic>i</sic><corr>ī</corr></choice> catus-samudra-vr̥tā</l>
-<l n="cd"><lb n="6"/>yāvad daśa-diśi vāyus tāvad bhaktir valaiṅ-nāmnaḥ <g type="ddanda"/><g type="circleMed"/><g type="ddanda"/></l>
+<l n="ab"><lb n="5"/><g ref="sym:doubleBar" type="punctuation">.</g> yāvat khe ravi-śaśinau yāvad dhātr<choice><sic>i</sic><corr>ī</corr></choice> catus-samudra-vr̥tā</l>
+<l n="cd"><lb n="6"/>yāvad daśa-diśi vāyus tāvad bhaktir valaiṅ-nāmnaḥ <g ref="sym:doubleBar" type="punctuation">.</g><g ref="sym:bullet-middle-hollow" type="symbol">*</g><g ref="sym:doubleBar" type="punctuation">.</g></l>
 </lg>
-<p><lb n="7"/><g type="ddanda"/> svasti śaka-varṣātīta <num value="784">784</num> māgha-māsa śukla-pakṣa
+<p><lb n="7"/><g ref="sym:doubleBar" type="punctuation">.</g> svasti śaka-varṣātīta <num value="784">784</num> māgha-māsa śukla-pakṣa
     <lb n="8"/>tr̥tīya soma-vāra tatkāla <abbr>rake</abbr> valaiṁ pu kumbhayo<lb break="no" n="9"/>ni puyut· saṁ ratu I halu pakviAnnira I jaṁluran· ma<lb break="no" n="10"/>veḥ savaḥ I vukiran· tampaḥ Aliḥ I <seg rend="check">tamvāhuraṁ</seg> ṅaranni<lb break="no" n="11"/>kanaṁ savaḥ dmak· caruA saṁ hyaṁ vināya</p> <p>Uvaṁ saṁ pamgat·
     <lb n="12"/>meḥhakan· Ikanaṁ savaḥ saṁ tuha kalaṁ pu nista gusti
     <lb n="13"/>si Uṅgaḥ vinkas· si manikṣa parujar· kāliḥ si Ara si
-    <lb n="14"/>maṅgaḥ tuṅgū kuvu si vsi vahuta si mitra saṁ taṅuṇḍaha<lb break="no" n="15"/><seg rend="check">ri</seg><!-- maybe divide taṅuṇ ḍaha ri --> Inajar· raken mapatiḥ kāliḥ vadihati makudur· ti<lb break="no" n="16"/>ruAn·</p> <p>Asiṁ muput· Ikiṁ sīma Upadravā brahmahatya <g type="ddanda"/></p>
+    <lb n="14"/>maṅgaḥ tuṅgū kuvu si vsi vahuta si mitra saṁ taṅuṇḍaha<lb break="no" n="15"/><seg rend="check">ri</seg><!-- maybe divide taṅuṇ ḍaha ri --> Inajar· raken mapatiḥ kāliḥ vadihati makudur· ti<lb break="no" n="16"/>ruAn·</p> <p>Asiṁ muput· Ikiṁ sīma Upadravā brahmahatya <g ref="sym:doubleBar" type="punctuation">.</g></p>
 
 <lg n="4" met="āryā" xml:lang="san-Latn">
-<l n="ab"><lb n="17"/><g type="ddanda"/> vihite kalaśaja-nāmnā bhadrālokāhvaye vivudha-ge<lb break="no" n="18"/>he <g type="circleMed"/></l>
-<l n="cd">tasyātha putra-potrāḥ bhavantu labdheṣṭapada-jīvāḥ <g type="ddanda"/></l>
+<l n="ab"><lb n="17"/><g ref="sym:doubleBar" type="punctuation">.</g> vihite kalaśaja-nāmnā bhadrālokāhvaye vivudha-ge<lb break="no" n="18"/>he <g ref="sym:bullet-middle-hollow" type="symbol">*</g></l>
+<l n="cd">tasyātha putra-potrāḥ bhavantu labdheṣṭapada-jīvāḥ <g ref="sym:doubleBar" type="punctuation">.</g></l>
 </lg>
 	<!-- c. °potrāḥ : same vowel marks as in nau line 5. it means that po and pau are undifferentiated in this script. -->
 
-<p xml:lang="san-Latn">Anya<lb break="no" n="19"/>c ca <g type="ddanda"/></p>
+<p xml:lang="san-Latn">Anya<lb break="no" n="19"/>c ca <g ref="sym:doubleBar" type="punctuation">.</g></p>
 
 <lg n="5" met="āryā" xml:lang="san-Latn">
 <l n="ab">jagatāṁ śivam astu sadā bho dvija-rājñāṁ<!-- De Casparis 1975 reads go-dvija-rājñāṁ --> tathā śiva-ratānāṁ</l>
-<l n="cd"><lb n="20"/>śruti-bhakti-dāna-dharmmā bhavantu nārāti-rogerṣyāḥ <g type="ddanda"/><g type="circleMed"/><g type="ddanda"/></l>
+<l n="cd"><lb n="20"/>śruti-bhakti-dāna-dharmmā bhavantu nārāti-rogerṣyāḥ <g ref="sym:doubleBar" type="punctuation">.</g><g ref="sym:bullet-middle-hollow" type="symbol">*</g><g ref="sym:doubleBar" type="punctuation">.</g></l>
 </lg>
 
 <lg n="6" met="anuṣṭubh">
 <l n="a" met="=+-++--="><lb n="21"/>tuṅgaṁ davət laṅka səR̥ḥ</l> <l n="b">vulakann i valā valaiṁ</l>
-<l n="c">lo<lb break="no" n="22"/>dvāṁ vanvaniraṁ dhīmān·</l> <l n="d">kumbhayoni ṅarannira <g type="ddanda"/><g type="circleTarget"/><g type="ddanda"/></l>
+<l n="c">lo<lb break="no" n="22"/>dvāṁ vanvaniraṁ dhīmān·</l> <l n="d">kumbhayoni ṅarannira <g ref="sym:doubleBar" type="punctuation">.</g><g ref="sym:circle-bullseye" type="symbol">*</g><g ref="sym:doubleBar" type="punctuation">.</g></l>
 </lg>
          </div>
          <div type="apparatus">

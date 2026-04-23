@@ -92,13 +92,13 @@
       <body>
          <div type="edition" xml:lang="kaw-Latn" rendition="class:38769 maturity:83213">
 <div type="textpart" subtype="zone" n="1"><head xml:lang="eng">Main text</head>
-<ab xml:lang="san-Latn"><milestone type="pagelike" unit="face" n="A"/><label>Front</label><!-- §5.4. --><lb n="A1"/><unclear><g type="ddandaCross"/> <g type="circleLarge"/> <g type="ddandaCross"/> Avighnam astu <g type="ddandaCross"/></unclear></ab>
+<ab xml:lang="san-Latn"><milestone type="pagelike" unit="face" n="A"/><label>Front</label><!-- §5.4. --><lb n="A1"/><unclear><g ref="sym:doubleBar-crossed" type="punctuation">.</g> <g ref="sym:circle-large" type="symbol">*</g> <g ref="sym:doubleBar-crossed" type="punctuation">.</g> Avighnam astu <g ref="sym:doubleBar-crossed" type="punctuation">.</g></unclear></ab>
 
 <lg met="āryā" n="1" xml:lang="san-Latn">
 <l n="ab">śiva<supplied reason="omitted">m a</supplied>stu sarvva-jagataḥ para-hita-nirat<choice><sic>a</sic><corr>ā</corr></choice>ḥ bhav<choice><sic>ā</sic><corr>a</corr></choice>ntu bhūta-<unclear>gaṇ</unclear>āḥ</l>
-<l n="cd"><lb n="A2"/>doṣāḥ prayāntu nāśām· sarvvatra sukhī bhavatu lokaḥ <g type="ddandaCross"/> ma <g type="ddandaCross"/> <g type="floretQuatrefoil"/> <g type="ddandaCross"/></l></lg>
+<l n="cd"><lb n="A2"/>doṣāḥ prayāntu nāśām· sarvvatra sukhī bhavatu lokaḥ <g ref="sym:doubleBar-crossed" type="punctuation">.</g> ma <g ref="sym:doubleBar-crossed" type="punctuation">.</g> <g ref="sym:floret" type="symbol">*</g> <g ref="sym:doubleBar-crossed" type="punctuation">.</g></l></lg>
 
-<p><lb n="A3"/><g type="ddandaCross"/> svasti śaka-varṣātīta <num value="850">850</num> śravaṇa-māsa tithi caturdaśi śukla-pakṣa, <abbr>vu</abbr>‚ <abbr>ka</abbr>‚ <abbr>śa</abbr>‚ vāra‚ hastā-nakṣatra, viṣṇu-devatā‚ sobhāgya<lb n="A4" break="no"/>-<unclear>yo</unclear>ga,</p> 
+<p><lb n="A3"/><g ref="sym:doubleBar-crossed" type="punctuation">.</g> svasti śaka-varṣātīta <num value="850">850</num> śravaṇa-māsa tithi caturdaśi śukla-pakṣa, <abbr>vu</abbr>‚ <abbr>ka</abbr>‚ <abbr>śa</abbr>‚ vāra‚ hastā-nakṣatra, viṣṇu-devatā‚ sobhāgya<lb n="A4" break="no"/>-<unclear>yo</unclear>ga,</p> 
 
 <p>Irikā divasani Ājñă śrī mahārāja, <abbr>rakai</abbr> paṅkaja dyaḥ vava śrī vijayalokanāmo<choice><sic>s</sic><corr>t</corr></choice>tuṅga, tinaḍaḥ rakryān·<!-- B S read "," here but it's probably just a sratch --> mapatiḥ I hino <unclear>pu si</unclear><lb n="A5" break="no"/><unclear>ṇḍo</unclear>k· śrī Īśānavikrama, Umiṅsor· I <abbr>samgat·</abbr> momah-umaḥ kāliḥ maḍaṇḍər· pu padma‚ Aṅgəhan· pu kuṇḍala, kumonakan· Ikanaṁ va<lb n="A6" break="no"/><unclear>nu</unclear>A I saṁ<space type="defect"/>guran· vatak· vaharu‚ gavai <abbr>mā</abbr> <num value="2">2</num> p<choice><sic>u</sic><corr>a</corr></choice>ṅguhan· tapak· mas· <abbr>su</abbr> <num value="6">6</num> sīmān· susukan· denīkanaṁ punta I manañjuṁ maṅaran· ḍaṅ ācāryya <unclear>ḍa</unclear><lb n="A7" break="no"/><gap reason="illegible" unit="character" quantity="1"/>li<unclear>ci</unclear>khya‚ muAṁ si dahil· <space type="unclassified" unit="character" quantity="3"/> <unclear>s</unclear>y aṅgudī, səpət·, ḍa pu jambaṁ, kəsək·, ḍa pu bhairava, basya‚ lukiṁ‚ bhaṇḍa‚ tamblaṁ, haḍaṁ‚ cigər·‚ ḍa pu ruyut·
 <lb n="A8"/>vilaṁ, kañju, durdig·, suji<supplied reason="subaudible">,</supplied> sugas·, Arpaṇākna I bhaṭāra I saṁ hyaṁ prasāda kabha<space type="unclassified" unit="character" quantity="2"/>ktyan· Iṁ sīma kajuru-gusalyan· I manañjuṁ, paknānya sīma punpuna<lb n="A9" break="no"/>na bhaṭāra, Umahayva Asiṁ samananā I saṁ hyaṁ dharmma <space type="defect"/> saṅkānaniṁ śiva-caru-nivedya I bhaṭāra prātidina,</p> 
@@ -154,7 +154,7 @@ other options: si maṅhambin·, piṅhai maṅhambin·, hiraṅya maṅhambin·
 <lb n="c8"/>lāvan· saṁ Umyāpāra Ikanaṁ susuka<space type="descender"/>n·
 <lb n="c9"/><supplied reason="lost">s</supplied>ĭ<unclear>ma</unclear> vinaiḥ manaḍaha, Ikanaṁ mabaṅo<lb n="c10" break="no"/><supplied reason="lost">l·</supplied> si lulut· si spat· si hiraṁ kapva
 <lb n="c11"/><supplied reason="lost">Umi</supplied>ntonakan· guṇanya, Irikanaṁ vṅi manaṁ<lb n="c12" break="no"/>gap· ta sirăvayaṁ maṅaran· rahina, nā<lb n="c13" break="no"/>han· kramanikanaṁ susukan· sīma I sa<lb n="c14" break="no"/>ṅguran·, s<subst><del>u</del><add place="overstrike">a</add></subst>mpun· samprayukta, likhita
-<lb n="c15"/>citralekha I hino lakṣaṇa <g type="ddandaCross"/> <g type="circleLarge"/> <g type="ddandaCross"/>
+<lb n="c15"/>citralekha I hino lakṣaṇa <g ref="sym:doubleBar-crossed" type="punctuation">.</g> <g ref="sym:circle-large" type="symbol">*</g> <g ref="sym:doubleBar-crossed" type="punctuation">.</g>
 </p>
 </div>
 <div type="textpart" subtype="zone" n="2"><head xml:lang="eng">Extra lines at bottom of A and top of B</head>

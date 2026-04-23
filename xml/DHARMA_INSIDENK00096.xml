@@ -90,7 +90,7 @@
     <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="omy-Latn" rendition="class:38769 maturity:83213">
-            <ab xml:lang="san-Latn"><lb n="01"/>Oṁ <lb n="1"/>subham astu || <g type="circle"/> ||</ab>
+            <ab xml:lang="san-Latn"><lb n="01"/>Oṁ <lb n="1"/>subham astu || <g ref="sym:circle" type="symbol">*</g> ||</ab>
 
 <lg met="śārdūlavikrīḍita" n="1" xml:lang="san-Latn">
 <l n="a">svasty astu prabhu-m-advayādmaja-nr̥pā Ādityavarmmaś śriyā | </l>
@@ -103,7 +103,7 @@
 <l n="a"><lb n="4"/>śrī-kāmarāja-Adhimukti-sadā-smr̥ti<unclear>ś</unclear> ca |</l>
 <l n="b">nāmnābhiṣeka-sutathāgatabajradheyā |</l>
 <l n="c">A<lb n="5"/><seg met="+"><gap reason="lost" quantity="1" unit="character"/></seg>jña-pañca ṣaḍ-abhijña-supūrṇṇa-gātrā |</l>
-<l n="d">Ādityavarmman nr̥pate Adhirāja-rājaḥ || <g type="circle"/> || </l>
+<l n="d">Ādityavarmman nr̥pate Adhirāja-rājaḥ || <g ref="sym:circle" type="symbol">*</g> || </l>
 </lg>
 
 <p>
@@ -111,26 +111,26 @@ svasti ||
 <lb n="6"/>śrīmat· śrī-Udayādityavarmma pratāpa-parākrama rājendra-mauli-maṇivarmmadeva mahārājādhi<lb n="7" break="no"/>rāja | sakala-loka-jana-priya | dharmmarāja-kula-tilaka saraṇāgata-bajra-pañjara | Ekāṅga-vīra | du<lb n="8" break="no"/><unclear>kha</unclear>-nigraha <unclear>dvi</unclear>ṣṭa-paripālaka | saptāṅga-rāja-sampada | maṅuddharaṇa paṭa-puṣṭaka-pratimālaya | yaṁ ta<lb n="9" break="no"/>llaḥ jīrṇṇa pada sapta-svarṇṇabhūmi | diparbvatkan· bihāra nānāvidha-prakāra | saha tāmbak gopura kalampura
 <lb n="10"/>nan· pañcamahāśabda | jalanda barbvat· ja<supplied reason="lost">pa</supplied> <unclear>ho</unclear>ma niyama kr̥yā di paurṇnimāvāsyā di san·mukān daṁ bhi<lb n="11" break="no"/>kṣu brāmhaṇācāryyopāddhyāya | tyāda kopadrava | tyāda māli<unclear>ṁ</unclear> sāmun· | tyāda rabut· rentak·
 <lb n="12"/>sakala-bhaṣya-sampūrṇna | sakyan yaṁ mahima <gap reason="illegible" quantity="3" unit="character"/><seg type="aksara"><seg type="component" subtype="body"><gap reason="illegible" quantity="1" unit="component"/></seg>da</seg> di rasākda dātu | yad atra puṇya bāraṁ yaṁ ha<lb n="13" break="no"/>ndak barbvināśa sāsanenan· sapāpāñaṁ gohattya sapāpāñaṁ māta-pita-drohi | sapāpāña<unclear>ṁ</unclear>
-<lb n="14"/>svāmi-drohi guru-drohi | tuluta yaṁ maṅanumodana dharmmenan· sapuṇyāñaṁ yaṁṅ ūraṁ <unclear>A</unclear>mr̥<lb n="15" break="no"/><unclear>ta-dān</unclear>a | Anna-dāna | sapuṇyāña<surplus>ṁ</surplus> yaṁṅ ūraṁ mātā-pita-bhakti | svāmi-bhakti | sapuṇyāṁña yaṁ<lb n="16" break="no"/><supplied reason="lost">ṅ ūraṁ</supplied> guru-bhakti deva-bhakti | sapuṇyāñaṁ yaṁṅ ūraṁ marakṣa śila pūrṇimāvāsya | Antyāña ma<lb n="17"/>nubhava samyak·-sambuddha-mārgga || <g type="circle"/> // 
+<lb n="14"/>svāmi-drohi guru-drohi | tuluta yaṁ maṅanumodana dharmmenan· sapuṇyāñaṁ yaṁṅ ūraṁ <unclear>A</unclear>mr̥<lb n="15" break="no"/><unclear>ta-dān</unclear>a | Anna-dāna | sapuṇyāña<surplus>ṁ</surplus> yaṁṅ ūraṁ mātā-pita-bhakti | svāmi-bhakti | sapuṇyāṁña yaṁ<lb n="16" break="no"/><supplied reason="lost">ṅ ūraṁ</supplied> guru-bhakti deva-bhakti | sapuṇyāñaṁ yaṁṅ ūraṁ marakṣa śila pūrṇimāvāsya | Antyāña ma<lb n="17"/>nubhava samyak·-sambuddha-mārgga || <g ref="sym:circle" type="symbol">*</g> // 
 </p>
 
 <lg met="vasantatilakā" n="3" xml:lang="san-Latn">
 <l n="a">satvopakāra-kr̥ta-puṇya sudāna-dharmma |</l>
 <l n="b">jīrṇno<lb n="18" break="no"/><supplied reason="lost">ddhareṇa</supplied> sujanāśraya-puṇya-vr̥kṣaḥ |</l>
 <l n="c">nittya-pratāpa-kiraṇai<unclear>ḥ</unclear> sada-loka-saśri |</l>
-<l n="d">Ādi<lb n="19" break="no"/>ttyavarmma-nr̥pate maṇivarmmadeva // <g type="circle"/> // </l>
+<l n="d">Ādi<lb n="19" break="no"/>ttyavarmma-nr̥pate maṇivarmmadeva // <g ref="sym:circle" type="symbol">*</g> // </l>
 </lg>
 
 <lg met="anuṣṭubh" n="4" xml:lang="san-Latn">
 <l n="a">subham astu gate śāke |</l>
 <l n="b">vasur mmuni-bhuje sthala<lb n="20" break="no"/><unclear>m· |</unclear></l>
 <l n="c">vaiśāke pañcadaśake |</l> 
-<l n="d">site buddhaś ca rañjyatu // <g type="floret"/> //</l>
+<l n="d">site buddhaś ca rañjyatu // <g ref="sym:floret" type="symbol">*</g> //</l>
 </lg>
 
 <p xml:lang="san-Latn">
 kr̥tir iyaṁ Ācāryya A<lb n="21" break="no"/>mpuṅku dharmmaddhvaja-nāmadheyassya | 
-abhiśeka-karuṇābajra // <g type="circle"/> // <g type="gomutraFinal"/></p>
+abhiśeka-karuṇābajra // <g ref="sym:circle" type="symbol">*</g> // <g ref="sym:flourish-taperOut" type="symbol">*</g></p>
          </div>
          <div type="apparatus">
                <listApp>

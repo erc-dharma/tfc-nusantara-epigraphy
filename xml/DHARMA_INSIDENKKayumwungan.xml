@@ -80,19 +80,19 @@
 <l n="a"><lb n="1"/> <seg met="++++-++"><gap reason="lost" unit="character" quantity="7"/></seg><supplied reason="lost">amita-va</supplied>la-mahā-vajra-paryyaṅka-vaddhaḥ </l>
 <l n="b">rakṣatv āmūla-siṅho bhavaja-bhavacarātyanta-saṁkru<lb n="2" break="no"/><seg met="-+="><gap reason="lost" unit="character" quantity="3"/></seg></l>
 <l n="c"><seg met="++++-++--"><gap reason="lost" unit="character" quantity="9"/></seg>matara-hitottuṅga-śaila-stha-śūro</l>
-<l n="d">yat saj-jīvāpara-smāra-valam akhila<seg met="+"><gap reason="lost" unit="character" quantity="1"/></seg><lb n="3" break="no"/><seg met="+-++-+="><gap reason="lost" unit="character" quantity="7"/></seg> <supplied reason="lost"><g type="ddanda"/></supplied></l>
+<l n="d">yat saj-jīvāpara-smāra-valam akhila<seg met="+"><gap reason="lost" unit="character" quantity="1"/></seg><lb n="3" break="no"/><seg met="+-++-+="><gap reason="lost" unit="character" quantity="7"/></seg> <supplied reason="lost"><g ref="sym:doubleBar" type="punctuation">.</g></supplied></l>
 </lg>
 <lg n="2" met="sragdharā" xml:lang="san-Latn">
 <l n="a"><seg met="++++-++-"><gap reason="lost" unit="character" quantity="8"/></seg>vara-vaśa-vatāsāditādharmma-vr̥ndān·</l>
 <l n="b">lokānāṁ laukya-vuddhair agaditam atu<lb n="4" break="no"/><supplied reason="lost">la</supplied><seg met="+-++-+="><gap reason="lost" unit="character" quantity="7"/></seg></l>
 <l n="c"><seg met="++++-++"><gap reason="lost" unit="character" quantity="7"/></seg>cchidam akhila-bhava-vyādhi-bhaiṣajyam agraṁ</l>
-<l n="d">sad-dharmaṁ yukti-cittaḥ praṇama<lb n="5" break="no"/><supplied reason="lost">ti</supplied> <seg met="--++-++-+="><gap reason="lost" unit="character" quantity="10"/></seg> <supplied reason="lost"><g type="ddanda"/></supplied></l>
+<l n="d">sad-dharmaṁ yukti-cittaḥ praṇama<lb n="5" break="no"/><supplied reason="lost">ti</supplied> <seg met="--++-++-+="><gap reason="lost" unit="character" quantity="10"/></seg> <supplied reason="lost"><g ref="sym:doubleBar" type="punctuation">.</g></supplied></l>
 </lg>
 <lg n="3" met="sragdharā" xml:lang="san-Latn">
 <l n="a"><seg met="++"><gap reason="lost" unit="character" quantity="2"/></seg>t kāruṇyam agrañ jagati gati-śatānanta-duḥkhābhibhūte</l>
 <l n="b">bhakti-svīyā <seg met="-"><gap reason="lost" unit="character" quantity="1"/></seg><lb n="6"/><seg met="+------++-++-"><gap reason="lost" unit="character" quantity="13"/></seg>mānām·</l>
 <l n="c" enjamb="yes">prītyā rājā tale danda-dhara-tula-mahājñāna-puṇya-prasūti</l>
-<l n="d"><lb n="7" break="no"/><seg met="++++-++------++-"><gap reason="lost" unit="character" quantity="16"/></seg>tām vandya-vandyaḥ <g type="ddanda"/></l>
+<l n="d"><lb n="7" break="no"/><seg met="++++-++------++-"><gap reason="lost" unit="character" quantity="16"/></seg>tām vandya-vandyaḥ <g ref="sym:doubleBar" type="punctuation">.</g></l>
 <!-- 	a. maybe -bhūtaiḥ?
 	c. danda- norm. daṇḍa-.
  -->
@@ -101,7 +101,7 @@
 <l n="a">śrīmat-samasta-sugatais sasutaiḥ parāntyaiḥ</l> 
 <l n="b">n<sic>ī</sic>rukta<lb n="8" break="no"/><seg met="+---+--+-+="><gap reason="lost" unit="character" quantity="11"/></seg></l>
 <l n="c"><seg met="++-+"><gap reason="lost" unit="character" quantity="4"/></seg>tsu taruṇām atha duḥkhiteṣu</l> 
-<l n="d">sa<choice><orig>tv</orig><reg>ttv</reg></choice>eṣu vuddha-cariteṣu garīyasīñ ca <g type="ddanda"/></l>
+<l n="d">sa<choice><orig>tv</orig><reg>ttv</reg></choice>eṣu vuddha-cariteṣu garīyasīñ ca <g ref="sym:doubleBar" type="punctuation">.</g></l>
 <!-- 	7 (4b) n<sic>ī</sic>rukta: is this expected parsing possible?
  -->
 </lg>
@@ -109,7 +109,7 @@
 <l n="a">śraddhāñ ca <lb n="9"/><seg met="+---+--+-+="><gap reason="lost" unit="character" quantity="11"/></seg></l>
 <l n="b"><supplied reason="lost">tan-maṇḍa</supplied>lāgra-guṇavad-gaṇam <seg rend="check">atyavāśi</seg></l>
 <l n="c">lebhe vigūḍha-manujendra-gaṇān mahiṣyam· <space/></l>
-<l n="d">śai<lb n="10" break="no"/><supplied reason="lost">lendra-vaṁśa-tilaka</supplied><seg met="--+-+="><gap reason="lost" unit="character" quantity="6"/></seg> <supplied reason="lost"><g type="ddanda"/></supplied></l>
+<l n="d">śai<lb n="10" break="no"/><supplied reason="lost">lendra-vaṁśa-tilaka</supplied><seg met="--+-+="><gap reason="lost" unit="character" quantity="6"/></seg> <supplied reason="lost"><g ref="sym:doubleBar" type="punctuation">.</g></supplied></l>
 <!-- 	10 (5c). vigūḍha-: Long 2014: 187 n. 39: « Damais (1955: 43, n. 1) expressed strong doubt about de Casparis’ reading  vigūḍha ... noting that the -ḍha appears to be a -gha. » Read vidhūya? Or vibhūya? Bosch (1952: 197, n. 12) suggests aviguṇān, but this would be unmetrical.
  -->
 </lg>
@@ -117,7 +117,7 @@
 <l n="a" enjamb="yes">vistīrṇṇa-saṅga-<seg met="--+"><gap reason="lost" unit="character" quantity="3"/></seg>pyananāmvu-pūrṇṇa</l>
 <l n="b">-prauḍha-dviṣad-vikasitāmvuja-locanāni</l>
 <l n="c"><lb n="11"/>tan-maṇḍalāgra<seg met="--+--+-+="><gap reason="lost" unit="character" quantity="9"/></seg></l>
-<l n="d">nitya-smr̥tāni sahasaiva samākucanti <g type="ddanda"/></l>
+<l n="d">nitya-smr̥tāni sahasaiva samākucanti <g ref="sym:doubleBar" type="punctuation">.</g></l>
 <!-- 	a. vistīrṇṇa-: stīr	
 	11 (6c)  tan-maṇḍalāgra-:  tan-maṇḍalā- C. The akṣara gra is visible on the Leiden plastercast. Cf. also st. V, pāda b.
 	11 (6d) nitya-: nītya- C. Probably a printing error.
@@ -127,7 +127,7 @@
 <l n="a">caṇḍa-pratāpa-paritāpita-bhūri-bhū<lb n="12" break="no"/>paḥ</l>
 <l n="b">santāpa-pāvanam a<seg met="+--+-+="><gap reason="lost" unit="character" quantity="7"/></seg></l>
 <l n="c"><seg met="++"><gap reason="lost" unit="character" quantity="2"/></seg>guṇo <supplied reason="subaudible">’</supplied>pi hira-pīta-karo <supplied reason="subaudible">’</supplied>vadātaḥ</l> 
-<l n="d"><seg rend="check">sācātirānubhava</seg>-toṣa-vivi<lb n="13" break="no"/>kta-cittaḥ <g type="ddanda"/></l>
+<l n="d"><seg rend="check">sācātirānubhava</seg>-toṣa-vivi<lb n="13" break="no"/>kta-cittaḥ <g ref="sym:doubleBar" type="punctuation">.</g></l>
 <!-- 	12 (7b) pāvanam a +: could be pāvana-saṅga-? Sarkar proposes -pāvana-matiḥ
 	12 (7c) ++guṇo: LC seems to have proposed śūro guṇo to Long.
 	12 (7d) sācātirānubhava-: Āvodhananānubhava?
@@ -137,7 +137,7 @@
 <l n="a">śrīmān asau samaratuṅga Iti kṣitī<supplied reason="lost">ndraḥ</supplied></l>
 <l n="b"><seg met="++-+-"><gap reason="lost" unit="character" quantity="4"/></seg>śavidhām adharo mahīyān·</l>
 <l n="c">tasyātivallabhatarā <lb n="14"/>duhiteha cakre</l>
-<l n="d">grāme jinālayam araṁ <seg met="--+-+="><gap reason="lost" unit="character" quantity="6"/></seg> <supplied reason="lost"><g type="ddanda"/></supplied></l>
+<l n="d">grāme jinālayam araṁ <seg met="--+-+="><gap reason="lost" unit="character" quantity="6"/></seg> <supplied reason="lost"><g ref="sym:doubleBar" type="punctuation">.</g></supplied></l>
 <!-- 	b. ++-+-śavidhām adharo mahīyān: de Casparis, Pras. Indo. I, p. 177, reconstructs bhūmim vyadhād daśavidhām adharo mahīyān. But the estampage seems to show mahyīyān·. See comments Bosch 1952: 193.
  -->
 </lg>
@@ -145,7 +145,7 @@
 <l n="a"><seg met="++"><gap reason="lost" unit="character" quantity="2"/></seg>mi-bhūpa-guṇa-śīla-vibhūṣanākhyā</l>
 <l n="b">strai<lb n="15" break="no"/>ṇāgamāvirahitā karuṇātmikā ca</l>
 <l n="c">rārajyate na <seg met="-"><gap reason="lost" unit="character" quantity="1"/></seg>titārya <seg met="-+-+="><gap reason="lost" unit="character" quantity="5"/></seg></l>
-<l n="d"><seg met="++-"><gap reason="lost" unit="character" quantity="3"/></seg>rānta-viśayeṣu karo<lb n="16" break="no"/>ti bhaktim· <g type="ddanda"/></l>
+<l n="d"><seg met="++-"><gap reason="lost" unit="character" quantity="3"/></seg>rānta-viśayeṣu karo<lb n="16" break="no"/>ti bhaktim· <g ref="sym:doubleBar" type="punctuation">.</g></l>
 <!-- 	a. ++mi: Sarkar proposes to restore sāsvāmi-.
 	a. - -vibhūṣanākhyā C. Read -vibhūṣanāḍhyā?
 	b. strai(15)ṇāgamā: or straiṇāgaṇā?
@@ -156,7 +156,7 @@
 </lg>
 <lg n="10" met="gīti" xml:lang="san-Latn"><certainty match="../@met" locus="value"/><!-- metrical problem -->
 <l n="ab">sā kāntiñ candramaso gatiñ ca haṅsāt svarañ ca kalaviṅkāt· </l>
-<l n="cd" real="4|4|4||4|3|4|4|2">se<gap reason="lost" unit="character" quantity="3"/>ṇāṁ hara<lb n="17" break="no"/>ti śrīmat-pramodavarddhanī khyātā <g type="ddanda"/></l>
+<l n="cd" real="4|4|4||4|3|4|4|2">se<gap reason="lost" unit="character" quantity="3"/>ṇāṁ hara<lb n="17" break="no"/>ti śrīmat-pramodavarddhanī khyātā <g ref="sym:doubleBar" type="punctuation">.</g></l>
 <!-- 	16 (10cd) se = : sage? sabhe? sago? sabho?
 	Sarkar here read sekṣaṇe mr̥gīṇāṁ without any note! anyhow, it is unmetrical.
 	17 (10cd.=) pramoda-: prāmoda- C. See Damais (1968: 327) Nous ne savons pourquoi De C. transcrit (p. 37, ligne 5 et passim) le nom de la Princesse « Prâmodawardhanï » alors que l'inscription a nettement prâmodawarddhan{ l) avec une brève (1). A la note 5 de la p. 46, il déclare : « On se serait attendu à Prâmodya (qui augmente la joie); ... ». Pourquoi s'attendre à un autre mot que celui qui se trouve dans l'inscription, prâmoda, qui est bien connu en sanskrit (2)?
@@ -170,7 +170,7 @@ emails daba2argr 2025-04-28:
 <l n="a">śākaindryāṁ rasa-sāgara-kṣitidharair yyāntyāṁ sa mā<supplied reason="lost">se śucau</supplied></l>
 <l n="b"><seg met="+++-"><gap reason="lost" unit="character" quantity="4"/></seg><lb n="18"/>ca rāma-pakṣa-<seg rend="check">vasato kāṣṭā-tithau</seg> tatra ca</l>
 <l n="c">tuṁlai-nāma-Umānis-ākhya-sahite vāre <seg rend="check">purāṇād</seg> gu<supplied reason="lost">rau</supplied></l>
-<l n="d"><seg met="+"><gap reason="lost" unit="character" quantity="1"/></seg><lb n="19" break="no"/>pte śrīghana-nātham āryya-sahitaṁ prātiṣṭhipan mandire <g type="ddanda"/></l>
+<l n="d"><seg met="+"><gap reason="lost" unit="character" quantity="1"/></seg><lb n="19" break="no"/>pte śrīghana-nātham āryya-sahitaṁ prātiṣṭhipan mandire <g ref="sym:doubleBar" type="punctuation">.</g></l>
 <!-- 
 	See Damais 1955: 114–155, n. 2.
 	c. purāṇād: can we read purāṇaṅ?
@@ -180,7 +180,7 @@ emails daba2argr 2025-04-28:
 <l n="a">ta<choice><sic>cch</sic><corr>c c</corr></choice>endu-vimva-śakala-pratimaṁ vibhāti</l>
 <l n="b">rāhor bhiyā sapa<lb n="20" break="no"/>di sampatitaṁ dharitryāṁ</l>
 <l n="c">tasyānuguṇyam athavedam udeti śubhraḥ</l>
-<l n="d">vuddhais <seg rend="check">sakr̥tya</seg>-taruṇair uṣitaṁ manojña<lb n="21" break="no"/>m· <g type="ddanda"/></l>
+<l n="d">vuddhais <seg rend="check">sakr̥tya</seg>-taruṇair uṣitaṁ manojña<lb n="21" break="no"/>m· <g ref="sym:doubleBar" type="punctuation">.</g></l>
 <!-- 	19 (12a) ta<choice><sic>cch</sic><corr>c c</corr></choice>endu- tac cendu-vimva-sakala-? or kacchendu-vimva-śakala-?
 	20 (12c) tasyānuguṇyam: tasyānupuṇyam C.
 	20 (12c) athavedam: thus Bosch (1952: 194); atha vedim C.
@@ -191,7 +191,7 @@ emails daba2argr 2025-04-28:
 <l n="a">śrīmad-veṇuvanābhi<seg rend="check">khyam</seg></l> 
 <l n="b">vidhāya jina-mandiraṁ</l>
 <l n="c">yat puṇyam āptam etena</l> 
-<l n="d">daśadāpnotu saugatam· <g type="ddanda"/></l>
+<l n="d">daśadāpnotu saugatam· <g ref="sym:doubleBar" type="punctuation">.</g></l>
 <!-- 	21 (13a) -khyam: it seems that the plaster cast shows -khyām.
  -->
 </lg>
@@ -199,23 +199,21 @@ emails daba2argr 2025-04-28:
 <l n="a">pa<lb n="22" break="no"/>dam atyanta-duṣprāpam</l> 
 <l n="b">anuttaram agocaraṁ</l>
 <l n="c"><seg rend="check">tat-sutānāṁ</seg> mayā yuktaṁ</l> 
-<l n="d">tūrṇṇam eva labheya yat· <g type="ddanda"/></l>
+<l n="d">tūrṇṇam eva labheya yat· <g ref="sym:doubleBar" type="punctuation">.</g></l>
 <!-- 	22 (14c) tat-sutānāṁ:? tat sutarāṁ? -->
 </lg>
 <lg n="15" met="sragdharā" xml:lang="san-Latn">
 <l n="a">Aurvvāgnir yā<supplied reason="lost">va</supplied><lb n="23" break="no"/>d uṣṇa-śvasana-vaśa-gatākṣanyadam bodhi-dr̥ṣṭyā</l>
 <l n="b">yāvat prāntā dharitrī vivudha-gaṇa-samākrānta-mūrttiś ca meruḥ</l>
 <l n="c">yāva<supplied reason="lost">t khe</supplied> <lb n="24"/>svān gabhastīn daśa-śata-gaṇanām ujjhati vyoma-cakre</l>
-<l n="d"><seg met="++++-++"><gap reason="lost" unit="character" quantity="7"/></seg>sugata-guṇa-gaṇas tāvad āstām vihāraḥ <g type="ddanda"/></l>
+<l n="d"><seg met="++++-++"><gap reason="lost" unit="character" quantity="7"/></seg>sugata-guṇa-gaṇas tāvad āstām vihāraḥ <g ref="sym:doubleBar" type="punctuation">.</g></l>
 <!-- 	23 (15b) prāntā: prānto? prāptā?
 	24 (15c) -cakre: -vr̥traḥ C.
 	24 (15d)  śrī
  -->
 </lg>
 <p>
-<lb n="25"/><g type="ddanda"/> svasti śaka-varṣātīta <num value="746">746</num> jyeṣṭa-māsa daśami kr̥ṣṇa-pakṣa tuṁlai Umanis vr̥haspati-vāra tatkāla rakai pa<supplied reason="lost">tapā</supplied><lb break="no" 
-n="26"/>n· pu palar· saṁ laki-laki pu pasaṁ saṁṅ ānakabi mavaiḥ savaḥ sīmā Arikiva luAṁ Iṁ babadan· lmaḥ ri tpu mapa<lb break="no" 
-n="27"/>k· viniḥnya <abbr>ha</abbr> <num value="3">3</num> I kisir· lmaḥ ri kayumvuṅan· viniḥnya <abbr>ha</abbr> <num value="1">1</num> <abbr>vha</abbr> <num value="1">1</num> I rasti karuṁ lmaḥ I ptir· viniḥnya <abbr>ha</abbr> <num value="6">6</num> Iṁ kaliru<supplied reason="lost">ṅa</supplied><lb break="no" n="28"/>n· viniḥnya <abbr>ha</abbr> <num value="3">3</num> Iṁ kuliṁ viniḥnya <abbr>ha</abbr> <num value="3">3</num> lmaḥ ri tri haji Ekapiṇḍa viniḥ <abbr>ha</abbr> <num value="14">14</num> <abbr>vha</abbr> <num value="1">1</num></p> <p>tatra sākṣī si ravan· si <gap reason="lost" unit="character" quantity="3"/>
+<lb n="25"/><g ref="sym:doubleBar" type="punctuation">.</g> svasti śaka-varṣātīta <num value="746">746</num> jyeṣṭa-māsa daśami kr̥ṣṇa-pakṣa tuṁlai Umanis vr̥haspati-vāra tatkāla rakai pa<supplied reason="lost">tapā</supplied><lb break="no" n="26"/>n· pu palar· saṁ laki-laki pu pasaṁ saṁṅ ānakabi mavaiḥ savaḥ sīmā Arikiva luAṁ Iṁ babadan· lmaḥ ri tpu mapa<lb break="no" n="27"/>k· viniḥnya <abbr>ha</abbr> <num value="3">3</num> I kisir· lmaḥ ri kayumvuṅan· viniḥnya <abbr>ha</abbr> <num value="1">1</num> <abbr>vha</abbr> <num value="1">1</num> I rasti karuṁ lmaḥ I ptir· viniḥnya <abbr>ha</abbr> <num value="6">6</num> Iṁ kaliru<supplied reason="lost">ṅa</supplied><lb break="no" n="28"/>n· viniḥnya <abbr>ha</abbr> <num value="3">3</num> Iṁ kuliṁ viniḥnya <abbr>ha</abbr> <num value="3">3</num> lmaḥ ri tri haji Ekapiṇḍa viniḥ <abbr>ha</abbr> <num value="14">14</num> <abbr>vha</abbr> <num value="1">1</num></p> <p>tatra sākṣī si ravan· si <gap reason="lost" unit="character" quantity="3"/>
 <!--	25 rakai pa[tapā]n· pu: rakarayān [patapā](26)n C. We adopt the reading suggested by Damais (1968: 327). Or read rakarayā(26)n pu palar·?
 	26 pasaṁ saṁṅ ānakabi : palar anakabi C. We adopt the reading suggested by Damais (1968: 327).
 	26 Do we have the toponym tyusan· at the end of the line?
@@ -234,19 +232,13 @@ n="27"/>k· viniḥnya <abbr>ha</abbr> <num value="3">3</num> I kisir· lmaḥ r
 <!--	lar hyaṁ: karhyaṁ C.-->
 <lb n="33"/> ............ kalima si habak· ............
 <lb n="34"/>
-<lb n="35"/> ..................... hlai <num value="1">1</num> kalamvi <num value="1">1</num> punukan· <num value="1">1</num> su<lb 
-n="36" break="no"/> ............ mañjan· ramani pagar· vinaiḥ takuraṁ <abbr>yu</abbr> <num value="1">1</num> juru si jati ramani svara vinaiḥ
-<lb n="37"/>takuraṁ <abbr>yu</abbr> <num value="1">1</num> I sukun· si madhava ramani bhavana vinaiḥ takuraṁ <abbr>yu</abbr> <num value="1">1</num> I variṅin· juru si lañcaṁ rama<lb 
-n="38" break="no"/>ni nari vinaiḥ takuraṁ <abbr>yu</abbr> <num value="1">1</num> I vuAtan· kalima si maṅga ramani napal· vinaiḥ takuraṁ <abbr>yu</abbr> <num value="1">1</num> I paṇḍa<lb break="no" 
-n="39"/>kyan juru si rindaṁ ramani gunuṁ vinaiḥ takuraṁ <abbr>yu</abbr> <num value="1">1</num> I ptir juru si vikrama ramani dhara vinaiḥ takuraṁ
+<lb n="35"/> ..................... hlai <num value="1">1</num> kalamvi <num value="1">1</num> punukan· <num value="1">1</num> su<lb n="36" break="no"/> ............ mañjan· ramani pagar· vinaiḥ takuraṁ <abbr>yu</abbr> <num value="1">1</num> juru si jati ramani svara vinaiḥ
+<lb n="37"/>takuraṁ <abbr>yu</abbr> <num value="1">1</num> I sukun· si madhava ramani bhavana vinaiḥ takuraṁ <abbr>yu</abbr> <num value="1">1</num> I variṅin· juru si lañcaṁ rama<lb n="38" break="no"/>ni nari vinaiḥ takuraṁ <abbr>yu</abbr> <num value="1">1</num> I vuAtan· kalima si maṅga ramani napal· vinaiḥ takuraṁ <abbr>yu</abbr> <num value="1">1</num> I paṇḍa<lb break="no" n="39"/>kyan juru si rindaṁ ramani gunuṁ vinaiḥ takuraṁ <abbr>yu</abbr> <num value="1">1</num> I ptir juru si vikrama ramani dhara vinaiḥ takuraṁ
 <lb n="40"/><abbr>yu</abbr> <num value="1">1</num> rama si piṅul ramani Ambari vinaiḥ takuraṁ <abbr>yu</abbr> <num value="1">1</num> kalima si kunvurama ramani taji vinaiḥ takuraṁ <abbr>yu</abbr>
 <!-- AG resumes from here up -->
-<lb n="41"/><num value="1">1</num> putiḥ hlai <num value="1">1</num> kalambi <num value="1">1</num> punukan· <num value="1">1</num> suhan-suhan· <num value="1">1</num> I lva paṇḍak· kalima si kalap· ramani nanta vi<lb 
-n="42" break="no"/>naiḥ takuraṁ <abbr>yu</abbr> <num value="1">1</num> putiḥ hlai <num value="1">1</num> kalamvi <num value="1">1</num> punukan· <num value="1">1</num> suhan·-suhan· <num value="1">1</num> juru si danaka<!-- or Udaka? --> ramani darā vinaiḥ
-<lb n="43"/>takuraṁ <abbr>yu</abbr> <num value="1">1</num> parvuvus· si h<unclear>ū</unclear>m· ramany avak·<!-- avat· ? avut· ? --> vinaiḥ takuraṁ <abbr>yu</abbr> <num value="1">1</num> I tri haji rāma si pañca ramani tīrtha vinaiḥ takuraṁ <abbr>yu</abbr> <num value="1">1</num> si<lb break="no" 
-n="44"/>liḥ juru si śaṅkhara ramani carmi vinaiḥ takuraṁ <abbr>yu</abbr> <num value="1">1</num> parvuvus· si gunuṁ ramani nasat· vinaiḥ takuraṁ <abbr>yu</abbr> <num value="1">1</num> parvuvus·<!-- AG: looks like parbuvus· -->
-<lb n="45"/>si kutil· ramani buvi vinaiḥ takuraṁ <abbr>yu</abbr> <num value="1">1</num> variga si sumbut· ramani siddha vinaiḥ takuraṁ <abbr>yu</abbr> <num value="1">1</num> juru matuha sy avit· rama<lb break="no" 
-n="46"/>ni Ayat· vinaiḥ takuraṁ <abbr>yu</abbr> <num value="1">1</num> kalima si sampū<!-- AG: I don't see the ṁ at all the ū is invisible to me, p could perhaps be v --> ramani bamuṁ<!-- AG: I don't see the ṁ at all --> vinaiḥ takuraṁ <abbr>yu</abbr> <num value="1">1</num> si pañca ramani hrəṁ vinaiḥ takuraṁ <abbr>yu</abbr> <num value="1">1</num> 
+<lb n="41"/><num value="1">1</num> putiḥ hlai <num value="1">1</num> kalambi <num value="1">1</num> punukan· <num value="1">1</num> suhan-suhan· <num value="1">1</num> I lva paṇḍak· kalima si kalap· ramani nanta vi<lb n="42" break="no"/>naiḥ takuraṁ <abbr>yu</abbr> <num value="1">1</num> putiḥ hlai <num value="1">1</num> kalamvi <num value="1">1</num> punukan· <num value="1">1</num> suhan·-suhan· <num value="1">1</num> juru si danaka<!-- or Udaka? --> ramani darā vinaiḥ
+<lb n="43"/>takuraṁ <abbr>yu</abbr> <num value="1">1</num> parvuvus· si h<unclear>ū</unclear>m· ramany avak·<!-- avat· ? avut· ? --> vinaiḥ takuraṁ <abbr>yu</abbr> <num value="1">1</num> I tri haji rāma si pañca ramani tīrtha vinaiḥ takuraṁ <abbr>yu</abbr> <num value="1">1</num> si<lb break="no" n="44"/>liḥ juru si śaṅkhara ramani carmi vinaiḥ takuraṁ <abbr>yu</abbr> <num value="1">1</num> parvuvus· si gunuṁ ramani nasat· vinaiḥ takuraṁ <abbr>yu</abbr> <num value="1">1</num> parvuvus·<!-- AG: looks like parbuvus· -->
+<lb n="45"/>si kutil· ramani buvi vinaiḥ takuraṁ <abbr>yu</abbr> <num value="1">1</num> variga si sumbut· ramani siddha vinaiḥ takuraṁ <abbr>yu</abbr> <num value="1">1</num> juru matuha sy avit· rama<lb break="no" n="46"/>ni Ayat· vinaiḥ takuraṁ <abbr>yu</abbr> <num value="1">1</num> kalima si sampū<!-- AG: I don't see the ṁ at all the ū is invisible to me, p could perhaps be v --> ramani bamuṁ<!-- AG: I don't see the ṁ at all --> vinaiḥ takuraṁ <abbr>yu</abbr> <num value="1">1</num> si pañca ramani hrəṁ vinaiḥ takuraṁ <abbr>yu</abbr> <num value="1">1</num> 
 <lb n="47"/>putiḥ hlai <num value="1">1</num> kalamvi <num value="1">1</num> lukai <num value="1">1</num> punukan· <num value="1"><unclear>1</unclear></num><!-- AG: I don't see the 1 at all... --> vaduṁ <num value="1">1</num> patuk· kr̥s· <num value="1">1</num> parvuvus· saṁ kayumvuṅan· si haras· ramani
 <lb n="48"/>vikramī Anak banva I tyusan· vinaiḥ takuraṁ <abbr>yu</abbr> <num value="1">1</num> parvuvus· saṁ mantyāsih saṁ kīrti puntani nabha<!-- naga ? Uga ? --> Anak banva ri
 <lb n="49"/>tri haji vinaiḥ takuraṁ <abbr>yu</abbr> <num value="1">1</num> parvuvus· saṁ lva paṇḍak· si kbal· ramani jamin· Anak banva ri tri haji vinaiḥ takuraṁ 

@@ -83,14 +83,10 @@
     <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="kaw-Latn" rendition="class:38769 maturity:83213">
-            <p><lb n="1"/><g type="ddanda"/> svasti śa<add place="above">ka</add>-varṣătīta <num value="786">78<unclear>6</unclear></num>
-                <lb n="2"/>Āṣāḍha-māsa pañcamĭ kr̥ṣṇa-pa<lb 
-                n="3" break="no"/>kṣa paniruAn vage budha-vāra
-                <lb n="4"/>Uttarāṣāḍha-nakṣatra sobhā<lb 
-                n="5" break="no"/>gya-yoga</p> <p>tatkāla pitāma<supplied reason="lost">ha I</supplied>
-                <lb n="6"/>vaṁkud· manusuk sīma I <supplied reason="lost">Asa</supplied><lb 
-                n="7" break="no"/><choice><sic>p</sic><corr>m</corr></choice> pañjaṁ vatak pikatan· saṁ <unclear>pa</unclear><supplied reason="lost">ma</supplied><lb break="no" 
-                n="8"/><unclear>ga</unclear>t· mavanuA Irikanaṁ <unclear>k</unclear><supplied reason="lost">āla</supplied>
+            <p><lb n="1"/><g ref="sym:doubleBar" type="punctuation">.</g> svasti śa<add place="above">ka</add>-varṣătīta <num value="786">78<unclear>6</unclear></num>
+                <lb n="2"/>Āṣāḍha-māsa pañcamĭ kr̥ṣṇa-pa<lb n="3" break="no"/>kṣa paniruAn vage budha-vāra
+                <lb n="4"/>Uttarāṣāḍha-nakṣatra sobhā<lb n="5" break="no"/>gya-yoga</p> <p>tatkāla pitāma<supplied reason="lost">ha I</supplied>
+                <lb n="6"/>vaṁkud· manusuk sīma I <supplied reason="lost">Asa</supplied><lb n="7" break="no"/><choice><sic>p</sic><corr>m</corr></choice> pañjaṁ vatak pikatan· saṁ <unclear>pa</unclear><supplied reason="lost">ma</supplied><lb break="no" n="8"/><unclear>ga</unclear>t· mavanuA Irikanaṁ <unclear>k</unclear><supplied reason="lost">āla</supplied>
                 <lb n="9"/><gap reason="lost" unit="character" quantity="1"/> manukū Anak vanuA I <gap reason="lost" unit="character" quantity="2"/></p>
          </div>
          <div type="apparatus">
@@ -101,8 +97,7 @@
                   </app>
                   <app loc="7">
                     <lem><unclear>pa</unclear><supplied reason="lost">ma</supplied><lb break="no" n="8"/><unclear>ga</unclear>t·</lem>
-                    <rdg source="bib:Griffiths2012_02"><supplied reason="lost">pa</supplied><lb break="no" 
-                        n="8"/><unclear>mga</unclear>t·</rdg>
+                    <rdg source="bib:Griffiths2012_02"><supplied reason="lost">pa</supplied><lb break="no" n="8"/><unclear>mga</unclear>t·</rdg>
                  </app>
                  <app loc="8">
                     <lem>Irikanaṁ <unclear>k</unclear><supplied reason="lost">āla</supplied></lem>

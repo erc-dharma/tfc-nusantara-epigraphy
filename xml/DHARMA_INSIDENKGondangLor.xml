@@ -84,16 +84,16 @@
       <body>
          <div type="edition" xml:lang="san-Latn" rendition="class:38769 maturity:83213">
             <lg met="śārdūlavikrīḍita" n="1">
-            <l n="a"><lb n="1"/><g type="ddandaCross"/> <g type="circleCurve"/> <g type="ddandaCross"/> śrīmad-dhīmad-amāna-dīdhitir adhiṣ<choice><orig>ṭ</orig><reg>ṭh</reg></choice>ātāva<supplied reason="lost">ga</supplied>c<choice><orig>c</orig><reg>ch</reg></choice>eta saḥ <g type="circleMed"/></l>
+            <l n="a"><lb n="1"/><g ref="sym:doubleBar-crossed" type="punctuation">.</g> <g ref="sym:circle-lined" type="symbol">*</g> <g ref="sym:doubleBar-crossed" type="punctuation">.</g> śrīmad-dhīmad-amāna-dīdhitir adhiṣ<choice><orig>ṭ</orig><reg>ṭh</reg></choice>ātāva<supplied reason="lost">ga</supplied>c<choice><orig>c</orig><reg>ch</reg></choice>eta saḥ <g ref="sym:bullet-middle-hollow" type="symbol">*</g></l>
             <l n="b">bhūmnābhūri-vibhūtimantam anagham kurvan· kr̥pāyās sadā,</l>
             <l n="c">tr<choice><orig>e</orig><reg>ai</reg></choice>lokyodara-vartinam· hitasukhādhīnañ ca yo janminam·,</l>
-            <l n="d">maṇḍ<unclear>u</unclear>ṁkul·-kathito namāmi satatan tam· sadguṇam· śrīghanam· <g type="ddandaCross"/> </l>
+            <l n="d">maṇḍ<unclear>u</unclear>ṁkul·-kathito namāmi satatan tam· sadguṇam· śrīghanam· <g ref="sym:doubleBar-crossed" type="punctuation">.</g> </l>
         </lg>
             <lg met="vasantatilakā" n="2">
 	<l n="a">tāthāgatī pratikr̥<space type="defect"/>tiḥ paripūrṇa-gātrā,</l>
 	<l n="b">yat kāritākuśali<choice><sic>m</sic><corr>n</corr></choice>ā<lb n="2" break="no"/>pi mayā mahīyaḥ,</l>
 	<l n="c">tenājarāmaraṇa-j<choice><orig>e</orig><reg>ai</reg></choice>na<space type="descender"/>-pade bha<space type="descender"/>vāmi,</l>
-	<l n="d">śrī-dharmavaṅśa-kula-varddhana-nāmadheyaḥ <g type="ddandaCross"/> <g type="circleCurve"/> <g type="ddandaCross"/> </l>
+	<l n="d">śrī-dharmavaṅśa-kula-varddhana-nāmadheyaḥ <g ref="sym:doubleBar-crossed" type="punctuation">.</g> <g ref="sym:circle-lined" type="symbol">*</g> <g ref="sym:doubleBar-crossed" type="punctuation">.</g> </l>
 </lg>
 
          </div>

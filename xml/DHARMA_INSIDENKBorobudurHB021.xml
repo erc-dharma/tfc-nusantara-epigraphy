@@ -83,11 +83,11 @@
          <div type="edition" xml:lang="san-Latn" rendition="class:38769 maturity:83213">
 <div type="textpart" subtype="zone" n="A">
 <head xml:lang="eng">A. Frame</head>
-<p><lb n="1"/><g type="ddanda"/>virūpa<g type="ddanda"/></p>
+<p><lb n="1"/><g ref="sym:doubleBar" type="punctuation">.</g>virūpa<g ref="sym:doubleBar" type="punctuation">.</g></p>
 </div>
 <div type="textpart" subtype="zone" n="B">
 <head xml:lang="eng">B. Background</head>
-<p><lb n="1"/><g type="ddanda"/>virūpa<g type="danda"/></p>
+<p><lb n="1"/><g ref="sym:doubleBar" type="punctuation">.</g>virūpa<g ref="sym:bar" type="punctuation">.</g></p>
          </div>
          </div>
          <div type="apparatus">

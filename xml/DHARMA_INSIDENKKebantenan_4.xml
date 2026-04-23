@@ -91,14 +91,14 @@
         <body>
             <div type="edition" xml:lang="osn-Latn">
             <pb n="1r"/>
-                <p><lb n="1r1"/>// <g type="symbol" subtype="tennisball"/> // pun· Ini pitəkət· sri baḍuga maharaja ratu haji ḍi pakvan· sri saṁ ratu ⌈
+                <p><lb n="1r1"/>// <g ref="sym:circle-lined" type="symbol">*</g> // pun· Ini pitəkət· sri baḍuga maharaja ratu haji ḍi pakvan· sri saṁ ratu ⌈
                     <lb n="1r2" break="no"/>ḍevata,</p> <p>nu ḍipitəkətan· ma na L̥maḥ ḍevasasana, ḍi gunuṁ samaya</p> <p>sugan·n aya
                     <lb n="1r3"/>nu ḍek· ṅahəriAnan· Iña, ku paluluraḥhan· ku paL̥L̥maḥhan· mulaḥ Aya
                     <lb n="1r4"/>nu ṅahəriyanan· Iña, ti timur ha<supplied reason="omitted">ṁ</supplied>gat· ciUpiḥ ti barat· ha<supplied reason="omitted">ṁ</supplied>gat· ciləbu
                     <lb n="1r5"/>ti kidul· ha<supplied reason="omitted">ṁ</supplied>gat· jalan· gəḍe pun·</p> <p>mulaḥ Aya nu ṅahəriAnan· Iña ku ḍa
                     <lb n="1r6" break="no"/>sa ku calagara Upəti paṁgəR̥s· R̥ma Ulaḥ Aya nu me<supplied reason="omitted">n</supplied>taAn· Iña ⌈
                     <lb n="1r7" break="no"/>kena, saṁgar kami ratu nu puraḥ mibuhayakən· na karatu<unclear>ya</unclear>n· nu pagəḥ ṅavakan·
-                    <lb n="1r8"/>na ḍevasasana pun· <g type="symbol" subtype="tennisball"/> <g type="symbol" subtype="tennisball"/>
+                    <lb n="1r8"/>na ḍevasasana pun· <g ref="sym:circle-lined" type="symbol">*</g> <g ref="sym:circle-lined" type="symbol">*</g>
                     </p>
             </div>
             

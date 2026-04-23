@@ -76,10 +76,9 @@
     <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="kaw-Latn" rendition="class:38769 maturity:83211">
-            <p><lb n="1"/><g type="spiralR"/> <num value="924">924</num> təvəkniṁ hnū binənərakən· da<lb break="no" 
-                n="2"/>məl· <abbr>samgat·</abbr> lucəm pu ghək·
+            <p><lb n="1"/><g ref="sym:spiral-right" type="symbol">*</g> <num value="924">924</num> təvəkniṁ hnū binənərakən· da<lb break="no" n="2"/>məl· <abbr>samgat·</abbr> lucəm pu ghək·
 			<lb n="3"/>saṅ apañji təpət i mananəm·
-			<lb n="4"/>boddhi variṅi<supplied reason="lost">n</supplied>· <g type="spiralR"/>
+			<lb n="4"/>boddhi variṅi<supplied reason="lost">n</supplied>· <g ref="sym:spiral-right" type="symbol">*</g>
              </p>
          </div>
          <!-- <div type="apparatus"/> -->

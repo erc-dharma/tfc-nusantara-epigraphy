@@ -92,12 +92,12 @@
          <div type="edition" xml:lang="kaw-Latn" rendition="class:38769 maturity:83213">
              <pb n="1r"/><!--Blank outer page.-->
              <p><pb n="1v"/>
-<lb n="1v1"/><g type="ddandaOrnate"/> <g type="circleSmall"/> <g type="ddandaOrnate"/> śvasti śaka-varṣātīta <num value="741">741</num> caitra-māsa tithī ṣaṣṭi kr̥ṣṇa-pakṣa, <abbr>pa</abbr>, <abbr>po</abbr>,
+<lb n="1v1"/><g ref="sym:doubleBar-ornate" type="punctuation">.</g> <g ref="sym:bullet-hollow" type="symbol">*</g> <g ref="sym:doubleBar-ornate" type="punctuation">.</g> śvasti śaka-varṣātīta <num value="741">741</num> caitra-māsa tithī ṣaṣṭi kr̥ṣṇa-pakṣa, <abbr>pa</abbr>, <abbr>po</abbr>,
 <lb n="1v2"/><abbr>so</abbr>, vāra tatkāla rakarayān i garuṁ tumurun ājñānira, I saṁ pamgat·
 <lb n="1v3"/>Amrati pu managguṅi, deyani soraṁ saṁ maṅilala drabya haji tan·
 <lb n="1v4"/>kumnāna ramamrati rumvān· banyāgā, bantal· huñjamman·
 <lb n="1v5"/>maṅhūri senamukha, tuha dagaṁ mapakkan· Ityevamādi
-<lb n="1v6"/>sapradeśannya Ataḥ tan· knāna ya Amatvakan drabya haji, ḍula<lb n="1v7" break="no"/>va kal kalaṅkaṁ, ya mataṁya tan· knāna Ujar haji ri sira <g type="ddandaOrnate"/> <g type="gomutraFinal"/> <g type="ddandaOrnate"/></p>
+<lb n="1v6"/>sapradeśannya Ataḥ tan· knāna ya Amatvakan drabya haji, ḍula<lb n="1v7" break="no"/>va kal kalaṅkaṁ, ya mataṁya tan· knāna Ujar haji ri sira <g ref="sym:doubleBar-ornate" type="punctuation">.</g> <g ref="sym:flourish-taperOut" type="symbol">*</g> <g ref="sym:doubleBar-ornate" type="punctuation">.</g></p>
          </div>
          <div type="apparatus">
            <!--apparatus encoded as per EG §9.1, basic elements for apparatus below-->

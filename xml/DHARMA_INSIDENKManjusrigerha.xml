@@ -76,8 +76,8 @@
     <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="omy-Latn" rendition="class:38769 maturity:83213">
-<p><lb n="1"/><g type="ddanda"/> śrī svasti śaka-varṣātīta <num value="714">714</num> kārttika-māsa caturddaśi śukla-pakṣa śukra<lb n="2" break="no"/>-vāra vās· pon· 
-tatkālaṇḍa daṁ nāyaka di raṇḍa lūravaṁ  nāmaṇḍa maṁdr̥ṣṭi  diṁ <lb n="3"/>vajrāsana mañjuśrīgr̥ha nāmāñaṁ  prāsāda tlas· sida  maṁdr̥ṣṭi mañamvaḥ <lb n="4"/>sida di  daṁ hyaṁ daśadiśa li<unclear>kh</unclear>ita  yaṁ praṇidhānaṇḍa  (naras samanta punta<!-- ā? --> rān·) <g type="ddanda"/></p>
+<p><lb n="1"/><g ref="sym:doubleBar" type="punctuation">.</g> śrī svasti śaka-varṣātīta <num value="714">714</num> kārttika-māsa caturddaśi śukla-pakṣa śukra<lb n="2" break="no"/>-vāra vās· pon· 
+tatkālaṇḍa daṁ nāyaka di raṇḍa lūravaṁ  nāmaṇḍa maṁdr̥ṣṭi  diṁ <lb n="3"/>vajrāsana mañjuśrīgr̥ha nāmāñaṁ  prāsāda tlas· sida  maṁdr̥ṣṭi mañamvaḥ <lb n="4"/>sida di  daṁ hyaṁ daśadiśa li<unclear>kh</unclear>ita  yaṁ praṇidhānaṇḍa  (naras samanta punta<!-- ā? --> rān·) <g ref="sym:doubleBar" type="punctuation">.</g></p>
 <lg met="anuṣṭubh" n="1">
 <l n="a">pha<lb n="5" break="no"/>lāṅku maṁmaṅgap·  puṇya</l> <l n="b">diṁ janmeni paratra lai</l>
 <l n="c">kalpavr̥kṣa muAḥ  Āku</l> <l n="d">diṁ <lb n="6"/> jagat· sacarācara (||)</l>
@@ -97,15 +97,15 @@ tatkālaṇḍa daṁ nāyaka di raṇḍa lūravaṁ  nāmaṇḍa maṁdr̥ṣ
 </lg>
 <lg met="anuṣṭubh" n="6">
 <l n="a">Ājñā<lb n="12" break="no"/>ṇḍa kuju<unclear>ṁ</unclear>juṁ nitya</l><l n="b">diṁ janmeni paratra lai</l>
-<l n="c">(v)araṁ  kāryya  mahābhāra</l> <l n="d"><lb n="13"/>Āku mūAḥ susārathi <g type="ddanda"/></l>
+<l n="c">(v)araṁ  kāryya  mahābhāra</l> <l n="d"><lb n="13"/>Āku mūAḥ susārathi <g ref="sym:doubleBar" type="punctuation">.</g></l>
 </lg>
 <lg met="anuṣṭubh" n="7">
 <l n="a">svāmi-kāryya <unclear>kada</unclear>kṣā<unclear>ku</unclear></l> <l n="b">svāmi-citta  <lb n="14"/>kuparñaman·</l>
-<l n="c">svāmi-bhakti dr̥ḍh<!-- read ḍ? -->ābhedya</l> <l n="d">phala-bhukti Anindita <g type="ddanda"/></l>
+<l n="c">svāmi-bhakti dr̥ḍh<!-- read ḍ? -->ābhedya</l> <l n="d">phala-bhukti Anindita <g ref="sym:doubleBar" type="punctuation">.</g></l>
 </lg>
 <lg met="anuṣṭubh" n="8">
 <l n="a"><lb n="15"/>phala puṇya kubhuktīya</l> <l n="b">dari Ājña nareśvara</l>
-<l n="c">diṁ janma-ga<lb n="16" break="no"/>ti-cakreni</l> <l n="d">svāmi mūAḥ parāyaṇa <unclear><g type="dotMid"/></unclear></l>
+<l n="c">diṁ janma-ga<lb n="16" break="no"/>ti-cakreni</l> <l n="d">svāmi mūAḥ parāyaṇa <unclear><g ref="sym:bullet-middle" type="punctuation">.</g></unclear></l>
 </lg>
 
          </div>

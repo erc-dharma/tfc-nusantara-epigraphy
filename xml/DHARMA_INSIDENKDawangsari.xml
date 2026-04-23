@@ -87,58 +87,58 @@
       <body>
          <div type="edition" xml:lang="kaw-Latn" rendition="class:38769 maturity:83213">
 <lg met="anuṣṭubh" n="1">
-   <l n="a"><lb n="1"/><g type="ddanda"/> I vulatta kitaṁ sādhut</l>
+   <l n="a"><lb n="1"/><g ref="sym:doubleBar" type="punctuation">.</g> I vulatta kitaṁ sādhut</l>
    <l n="b">tiṅhali <lb n="2"/>guṇadoṣa vaiḥ</l> 
    <l n="c">vulat iṁ citta tan· <lb n="3"/>vyartha</l>
    <l n="d">tinon saṁ<unclear reason="eccentric_ductus">ṅ</unclear> ādikarmmika</l>
 </lg>
 <lg met="anuṣṭubh" n="2">
-   <l n="a"><g type="ddanda"/> hayvā<lb n="4" break="no"/>gyā Umudiṅ uAṁ len·</l> 
+   <l n="a"><g ref="sym:doubleBar" type="punctuation">.</g> hayvā<lb n="4" break="no"/>gyā Umudiṅ uAṁ len·</l> 
    <l n="b">ṅuniveḥ yat· <lb n="5"/>chalān naya</l> 
    <l n="c">Acintya buddhiniṁ satva</l> 
    <l n="d">vistī<lb n="6" break="no"/>rṇa gaganopama</l>
 </lg>
 <lg met="anuṣṭubh" n="3">
-   <l n="a" met="na-vipulā" real="-+-+---+"><g type="ddanda"/> nahan tinonta <lb n="7"/>malavas·</l><!-- or read ṣalavas· ?-->
+   <l n="a" met="na-vipulā" real="-+-+---+"><g ref="sym:doubleBar" type="punctuation">.</g> nahan tinonta <lb n="7"/>malavas·</l><!-- or read ṣalavas· ?-->
    <l n="b">vuṅkal kevala tekana</l>
    <l n="c">tuvi Ā<lb n="8" break="no"/>sā Ikaṁ satva</l> 
    <l n="d">masot ya malakuṁ hurip·</l>
 </lg>
 <lg met="anuṣṭubh" n="4">
-   <l n="a"><lb n="9"/><g type="ddanda"/> nihan· saphala rūpanyan</l> 
+   <l n="a"><lb n="9"/><g ref="sym:doubleBar" type="punctuation">.</g> nihan· saphala rūpanyan</l> 
    <l n="b">katon· pra<lb n="10" break="no"/>tyakṣa <unclear>d</unclear>evatā</l>
    <l n="c">vismayaṅ uAṁ manon· <lb n="11"/>sākṣāt·</l> 
    <l n="d">vināyaka di parvata</l> 
 </lg>
 <lg met="anuṣṭubh" n="5">
-   <l n="a"><g type="ddanda"/> vr̥ddhi bu<lb n="12" break="no"/>ddhiniraṁ sādhu</l> 
+   <l n="a"><g ref="sym:doubleBar" type="punctuation">.</g> vr̥ddhi bu<lb n="12" break="no"/>ddhiniraṁ sādhu</l> 
    <l n="b">tuṣṭa deniṁ gavai hayu</l> 
    <l n="c">hilaṁ <lb n="13"/>haṁkāraniṁ nīca</l>
    <l n="d">manonn atyantadāruṇa</l>
 </lg>
 <lg met="anuṣṭubh" n="6">
-   <l n="a"><lb n="14"/><g type="ddanda"/> mataṅya rasike līṁku</l> 
+   <l n="a"><lb n="14"/><g ref="sym:doubleBar" type="punctuation">.</g> mataṅya rasike līṁku</l> 
    <l n="b">sira sarvajña riṁ ja<lb n="15" break="no"/>gat·</l>
    <l n="c">maveḥ bara ri saṁ sādhu</l> 
    <l n="d">mr̥tyu tulya<lb n="16" break="no"/>nireṁ khala</l>   
 </lg>
 <lg met="anuṣṭubh" n="7">
-   <l n="a"><g type="ddanda"/> Anuṁ nāstika buddhinya</l> 
+   <l n="a"><g ref="sym:doubleBar" type="punctuation">.</g> Anuṁ nāstika buddhinya</l> 
    <l n="b">darpa <lb n="17"/>haṁkāra kevala</l> 
    <l n="c">manon devatasāniddhya</l>
    <l n="d"><lb n="18"/> hilaṁ darpanya tan hana</l>
 </lg>
 <lg met="anuṣṭubh" n="8">
-   <l n="a"><g type="ddanda"/> Apa tan kavnaṁ <lb n="19"/>nīca</l> 
+   <l n="a"><g ref="sym:doubleBar" type="punctuation">.</g> Apa tan kavnaṁ <lb n="19"/>nīca</l> 
    <l n="b">deniṁ vākya subhāṣita</l>
    <l n="c">krodhadaṇḍa <lb n="20"/>makolih ya</l> 
    <l n="d">bheda <choice><orig>s</orig><reg>ś</reg></choice>ikṣān·nike<unclear>ṁ</unclear> khala</l>
 </lg>
 <lg met="anuṣṭubh" n="9">
-   <l n="a"><lb n="21"/> <g type="ddanda"/> meṅat· ri doṣaniṅ uAṁ len·</l> 
+   <l n="a"><lb n="21"/> <g ref="sym:doubleBar" type="punctuation">.</g> meṅat· ri doṣaniṅ uAṁ len·</l> 
    <l n="b">Upahā<lb n="22" break="no"/>sya manon· guṇa</l> 
    <l n="c">ciṣāsaḥ<!-- viṣāsaḥ? --> Adha tan· <lb n="23"/>tonan·</l> 
-   <l n="d">ya tekātyantadurjana <g type="ddanda"/></l>   
+   <l n="d">ya tekātyantadurjana <g ref="sym:doubleBar" type="punctuation">.</g></l>   
 </lg>
          </div>
         <div type="apparatus">

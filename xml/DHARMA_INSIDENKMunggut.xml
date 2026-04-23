@@ -98,7 +98,7 @@
       <body>
           <div type="edition" xml:lang="kaw-Latn" rendition="class:38769 maturity:83213">
 <p><milestone type="pagelike" unit="face" n="1"/><label xml:lang="eng">Front main part</label>
-<lb n="1.1"/><g type="dandaCross">.</g><g type="circleSmall">.</g><g type="dandaCross">.</g> svasti śaka-vārṣătīta <num value="944">944</num> cetrā-masa tithi caturdaśī kr̥<unclear>ṣ</unclear>ṇa<lb n="1.2" break="no"/>-pakṣa, <abbr>vu</abbr>, <abbr>pa</abbr>, <abbr>Aṁ</abbr>, vāra, balamuki, kr̥tikā<surplus>raṇa</surplus>-nakṣatra, dahana-devatā, Āyu<supplied reason="lost">ṣ</supplied>m<supplied reason="lost">ān·</supplied><lb n="1.3" break="no"/>yoga, vanija-kāraṇa,</p> 
+<lb n="1.1"/><g ref="sym:bar-crossed" type="punctuation">.</g><g ref="sym:bullet-hollow" type="punctuation">.</g><g ref="sym:bar-crossed" type="punctuation">.</g> svasti śaka-vārṣătīta <num value="944">944</num> cetrā-masa tithi caturdaśī kr̥<unclear>ṣ</unclear>ṇa<lb n="1.2" break="no"/>-pakṣa, <abbr>vu</abbr>, <abbr>pa</abbr>, <abbr>Aṁ</abbr>, vāra, balamuki, kr̥tikā<surplus>raṇa</surplus>-nakṣatra, dahana-devatā, Āyu<supplied reason="lost">ṣ</supplied>m<supplied reason="lost">ān·</supplied><lb n="1.3" break="no"/>yoga, vanija-kāraṇa,</p> 
 
 <p>Irikā divāsanyājñā śrī mahārāja <abbr>rake</abbr> halu, śrī loke<unclear>ś</unclear>va<supplied reason="lost">ra</supplied>
 <lb n="1.4"/>dharmmavaṅśa Airlaṅgănantavikramottuṅgadeva, tinaḍah rakryān· mahāmantrī hino śrī saṁgrā<lb n="1.5" break="no"/>mavijayaprasādottuṅgadevī, Umiṅsor· I rakryān· paḍaṁ pu dvija, kumonakən ikanaṁ karāmā<lb n="1.6" break="no"/>n· Iṁ muṅgut· sapasuk thāni kab<choice><sic>a</sic><corr>e</corr></choice>ḥ tka ri babadnya,</p> 
@@ -112,8 +112,7 @@
 
 <p>madamlakna saṁ hyaṅ ā<lb n="1.18" break="no"/>jñā haji prasāsti pa<unclear>gə</unclear>-pagəḥ tinaṇḍa garuḍamukha kmitananya,</p> 
 
-<p>sambandha, Ikanaṁ karāmān· I mu<lb n="1.19" break="no"/>ṅgut· sapasuk thāni kabeḥ, masamāgrī mapuluṁ rahi manambaḥ I taṇḍa rakryān· ri pakira<lb n="1.20" break="no"/>kiran· makabehan·, karuhun· I lbū ri pāduka śrī mahārāja makārasa maṁhyaṅā<lb n="1.21" break="no"/>nugraha I pāduka śrī mahārāja, I knohanya makmitana saṁ hyaṅ ājñā haji tina<milestone type="pagelike" unit="face" n="2" break="no"/><label xml:lang="eng">Back main part</label><lb 
-n="2.1" break="no"/><unclear>ṇḍa ga</unclear><supplied reason="lost">ruḍam</supplied>u<unclear>kha, ma</unclear>karasa, An· su<unclear>m</unclear>ĭma thāninya I muṅgut·, kumabhaktyan<unclear>i</unclear><lb n="2.2" break="no"/>ra buyut· s<unclear>ū</unclear>kṣma <unclear>An</unclear>iddhākna drabya haji paṅaṣṭaṅgī <abbr>mā</abbr> <num value="5">5</num> Aṅkən· katiga māsa, meriṅa sarvvavija lima
+<p>sambandha, Ikanaṁ karāmān· I mu<lb n="1.19" break="no"/>ṅgut· sapasuk thāni kabeḥ, masamāgrī mapuluṁ rahi manambaḥ I taṇḍa rakryān· ri pakira<lb n="1.20" break="no"/>kiran· makabehan·, karuhun· I lbū ri pāduka śrī mahārāja makārasa maṁhyaṅā<lb n="1.21" break="no"/>nugraha I pāduka śrī mahārāja, I knohanya makmitana saṁ hyaṅ ājñā haji tina<milestone type="pagelike" unit="face" n="2" break="no"/><label xml:lang="eng">Back main part</label><lb n="2.1" break="no"/><unclear>ṇḍa ga</unclear><supplied reason="lost">ruḍam</supplied>u<unclear>kha, ma</unclear>karasa, An· su<unclear>m</unclear>ĭma thāninya I muṅgut·, kumabhaktyan<unclear>i</unclear><lb n="2.2" break="no"/>ra buyut· s<unclear>ū</unclear>kṣma <unclear>An</unclear>iddhākna drabya haji paṅaṣṭaṅgī <abbr>mā</abbr> <num value="5">5</num> Aṅkən· katiga māsa, meriṅa sarvvavija lima
 <lb n="2.3"/>sukat· riṁ savulu, kaharan· puṣpapañcopacāra, t<choice><orig>ī</orig><reg>i</reg></choice>la-t<choice><orig>e</orig><reg>ai</reg></choice>la, dhŭpa, dīpa, gandha, mvaṁ nivedyādi prakāra, pū<lb n="2.4" break="no"/>jāknanyăṁkən· katiga māsa,</p> 
 
 <p>mvaṁ tan·tunya I saprakārani<supplied reason="omitted">ṁ maṅilala</supplied> drabya hajī vulu-vulu magəṁ maḍmit· kabeḥ, paṅkur·, tavan·
@@ -170,9 +169,9 @@ n="2.1" break="no"/><unclear>ṇḍa ga</unclear><supplied reason="lost">ruḍam
 <lb n="4.22"/>gaṇa-gaṇa vna<unclear>ṅa</unclear>, Umulah-ulaḥ I<lb n="4.23" break="no"/>keṁ sīma I muṅgut· patyanantā ya
 <lb n="4.24"/>kamuṁ hyaṁ śŭkṣma, deyantat· pa<lb n="4.25" break="no"/>tīya, ta<unclear>t· to</unclear>liha ri vuntat·
 <lb n="4.26"/>ta<choice><orig>t</orig><reg>t t</reg></choice>iṅhala ri likuran·, taruṁ riṅ adga<lb n="4.27" break="no"/>n·, tampyal· <unclear>I</unclear> hiriṅan·, tutu<lb n="4.28" break="no"/>ḥ tuṇḍanya, blaḥ kapālanya, carika<lb n="4.29" break="no"/>kan· vtaṅnya, <unclear>vtvakə</unclear>n daL̥manya, pa<lb n="4.30" break="no"/>ṅan dagiṁnya, Inum· rāḥnya <unclear>vkasakə</unclear><lb n="4.31" break="no"/>n· pranantika, <unclear>yan pare</unclear>ṅ alas·
-<lb n="4.32"/><gap reason="illegible" unit="character" quantity="5"></gap>paraniṁ moṁ sa<gap reason="ellipsis"/>
+<lb n="4.32"/><gap reason="illegible" unit="character" quantity="5"/>paraniṁ moṁ sa<gap reason="ellipsis"/>
                     
-<milestone type="pagelike" unit="face" n="5" /><label xml:lang="eng">Back: Additional lines at top</label>
+<milestone type="pagelike" unit="face" n="5"/><label xml:lang="eng">Back: Additional lines at top</label>
 <lb n="5.1"/><gap reason="illegible" quantity="5" unit="character"/>
 <lb n="5.2"/><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost">sa</supplied>mb<supplied reason="lost">ə</supplied>R̥n<unclear>i</unclear><supplied reason="lost">ṁ</supplied> glap·, puliraknaniṁ devamanyu<gap reason="ellipsis"/>
 
@@ -334,7 +333,7 @@ n="2.1" break="no"/><unclear>ṇḍa ga</unclear><supplied reason="lost">ruḍam
                        <note>Cf. <ref target="DHARMA_INSIDENKBimalasrama.xml">Bimalasrama</ref> 12r7 and <ref target="DHARMA_INSIDENKTerepII.xml">Terep II</ref> 8r1.</note>
                    </app>
                    <app loc="4.31">
-                       <lem><unclear>yan pare</unclear>ṅ alas· <lb n="4.32"/><gap reason="illegible" unit="character" quantity="5"></gap>paraniṁ moṁ</lem>
+                       <lem><unclear>yan pare</unclear>ṅ alas· <lb n="4.32"/><gap reason="illegible" unit="character" quantity="5"/>paraniṁ moṁ</lem>
                        <note>It seems that there may be about five <foreign>akṣara</foreign>s engraved on the left half of line 4.32, but if indeed any were engraved here they must have been wholly or partially superfluous, as there are numerous parallels for the phrase <foreign>yan pareṅ alas paṅananiṁ moṁ</foreign> or <foreign>yan pareṅ alas dmakniṁ moṁ</foreign>, where nothing ever intervenes between alas and the passive irrealis form of <foreign>paṅan</foreign> or <foreign>dmak</foreign>. Based on the parallels, it also seems that paraniṁ is an error for <foreign>paṅananiṁ</foreign>.</note>
                    </app>
                    <app loc="6.4">

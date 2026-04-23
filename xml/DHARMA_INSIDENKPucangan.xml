@@ -70,7 +70,7 @@
 		<body>
     <div type="edition" xml:lang="kaw-Latn" rendition="class:38769 maturity:83213">
 <ab xml:lang="san-Latn"><milestone type="pagelike" unit="face" n="A"/><label xml:lang="eng">Sanskrit Text</label>
-<lb n="A1"/><g type="ddandaOrnate"/> <g type="circleCurve"/> <g type="ddandaOrnate"/> svasti <g type="ddandaOrnate"/></ab>
+<lb n="A1"/><g ref="sym:doubleBar-ornate" type="punctuation">.</g> <g ref="sym:circle-lined" type="symbol">*</g> <g ref="sym:doubleBar-ornate" type="punctuation">.</g> svasti <g ref="sym:doubleBar-ornate" type="punctuation">.</g></ab>
             <lg xml:lang="san-Latn" met="āryā" n="1">
                 <l n="ab">tribhir api guṇair upeto nr̥ṇāv vidhāne sthitau tathā pralaye</l>
                 <l n="cd">A-guṇa Iti yaḥ prasiddhas tasmai dhātre namas satatam· ⊙</l>
@@ -282,7 +282,7 @@
                 <l n="d"><supplied reason="lost" evidence="previouseditor">tasmāc chrī-jala</supplied>laṅga-deva-nr̥-patir dīrghaṁ sa jīvyād iti ⊙ // ⊙</l>
             </lg>
         <p><milestone n="B" type="pagelike" unit="face"/><label xml:lang="eng">Old Javanese Text</label>
-            <lb n="B1"/><g type="ddandaOrnate"/> <g type="circleCurve"/> <g type="ddandaOrnate"/> svasti śaka-varṣātīta <num value="963">963</num> kārtika-māsa, tithi daśamī śukla-pakṣa,
+            <lb n="B1"/><g ref="sym:doubleBar-ornate" type="punctuation">.</g> <g ref="sym:circle-lined" type="symbol">*</g> <g ref="sym:doubleBar-ornate" type="punctuation">.</g> svasti śaka-varṣātīta <num value="963">963</num> kārtika-māsa, tithi daśamī śukla-pakṣa,
                 <abbr>ha</abbr>, <abbr>va</abbr>‚ <abbr>śu</abbr>, vāra vayaṁ-vayaṁ, căra graha bāyabyastha, Uttarabhadravā<supplied reason="omitted">da</supplied>-nakṣatra,
                 Ahirbudhna-devatā, bajrayoga, gara<unclear>ḍ</unclear>i-<supplied reason="lost">ka</supplied><lb break="no" n="B2"/>raṇa, bāruṇya-maṇḍala,</p>
             <p>Irikā divaśany ājñā śrī mahārāja <abbr>rakai</abbr> halu śrī lokeśvara dharmmavaṅśa

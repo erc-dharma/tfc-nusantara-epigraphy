@@ -83,10 +83,10 @@
          <div type="edition" xml:lang="kaw-Latn" rendition="class:38769 maturity:83213">
 <pb n="1r"/><!--Blank outer page.-->
 <p><pb n="1v"/>
-	<lb n="1"/><g type="ddanda"/> pavaraḥ I soĀra saṁ maṅilala dravya haji kabaiḥ kriṁ<g type="circleSmall">.</g> paḍam·<g type="circleSmall">.</g> pinilai<g type="circleSmall">.</g> kataṅgaran·<g type="circleSmall">.</g> halu varak·<g type="circleSmall">.</g> maṁrumbai
-	<lb n="2"/>paranakan·<g type="circleSmall">.</g> paravat·<g type="circleSmall">.</g> mahaliman·<g type="circleSmall">.</g> Ityaivammādi saprakāra saṁ maṅilala dravya haji kabaiḥ Ujar saṁ pamgat·
+	<lb n="1"/><g ref="sym:doubleBar" type="punctuation">.</g> pavaraḥ I soĀra saṁ maṅilala dravya haji kabaiḥ kriṁ<g ref="sym:bullet-hollow" type="punctuation">.</g> paḍam·<g ref="sym:bullet-hollow" type="punctuation">.</g> pinilai<g ref="sym:bullet-hollow" type="punctuation">.</g> kataṅgaran·<g ref="sym:bullet-hollow" type="punctuation">.</g> halu varak·<g ref="sym:bullet-hollow" type="punctuation">.</g> maṁrumbai
+	<lb n="2"/>paranakan·<g ref="sym:bullet-hollow" type="punctuation">.</g> paravat·<g ref="sym:bullet-hollow" type="punctuation">.</g> mahaliman·<g ref="sym:bullet-hollow" type="punctuation">.</g> Ityaivammādi saprakāra saṁ maṅilala dravya haji kabaiḥ Ujar saṁ pamgat·
 	<lb n="3"/>makudur· majara sira I hananikana varahan· <space type="binding-hole"/> saṁ hyaṁ kudur· I vuAṁ got· vatag valā Ikana kunaṁ daiya saṁ maṅilala
-	<lb n="4"/>dravya haji kabaiḥ <unclear>vārtamavā</unclear> ta sira Aṅkāna<g type="circleSmall">.</g> muAṁ saprakārani gavainya kabaiḥ madagaṁ<g type="circleSmall">.</g> maṅulaṁ<g type="circleSmall">.</g> paṇḍai<g type="circleSmall">.</g> mañamvul·</p><!-- Arlo: is the text complete or not? If incomplete, apply part="I" on the opening <p> -->
+	<lb n="4"/>dravya haji kabaiḥ <unclear>vārtamavā</unclear> ta sira Aṅkāna<g ref="sym:bullet-hollow" type="punctuation">.</g> muAṁ saprakārani gavainya kabaiḥ madagaṁ<g ref="sym:bullet-hollow" type="punctuation">.</g> maṅulaṁ<g ref="sym:bullet-hollow" type="punctuation">.</g> paṇḍai<g ref="sym:bullet-hollow" type="punctuation">.</g> mañamvul·</p><!-- Arlo: is the text complete or not? If incomplete, apply part="I" on the opening <p> -->
          </div>
          <div type="apparatus">
            <!--apparatus encoded as per EG §9.1, basic elements for apparatus below-->

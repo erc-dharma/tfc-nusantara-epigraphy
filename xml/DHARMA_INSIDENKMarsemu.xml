@@ -86,10 +86,10 @@
          <div type="edition" xml:lang="kaw-Latn" rendition="class:38769 maturity:83213">
 <pb n="1r"/><!--Blank outer page.-->
 <p><pb n="1v"/>
-	<lb n="1v1"/><g type="danda"/> <g type="circleMed"/> <g type="ddanda"/> pavaraḥ Iṁ vahuta pata patiḥ<!-- maybe patapatih one word? or is patapatih an error for patih? --> muAṁ soĀraniṁ Anak vanuA I marsmu <g type="circleMed">.</g> I vuĀ<gap reason="lost" extent="unknown" unit="character"/>
-	<lb n="1v2"/>muAṁ jātaka <g type="circleMed">.</g> Ikanaṁ kunaṁ paṅansəAnnanya I dharmma rakryān· I vka I <space type="descender"/> pastika <g type="circleMed">.</g> I <gap reason="lost" extent="unknown" unit="character"/>
-	<lb n="1v3"/>kumavruhana sukhaduḥkhanya<!-- ḥ omitted by Boechari; CS has h --> <g type="circleMed">.</g> muAṁ<!-- n for ṁ in Boechari --> hulu-vrassanya <g type="circleMed">.</g> <space type="descender"/> saṁ ḍuryyan· <space/> muAṁ saṁ siṅgaḥ <gap reason="lost" extent="unknown" unit="character"/>
-	<lb n="1v4"/>bavaṁ <g type="circleMed">.</g> muAṁ ḍapunta labdhi<g type="circleMed">.</g> magantya pisan· satahun· so<space type="descender"/>Aṁ-soAṁ <g type="ddanda"/>
+	<lb n="1v1"/><g ref="sym:bar" type="punctuation">.</g> <g ref="sym:bullet-middle-hollow" type="symbol">*</g> <g ref="sym:doubleBar" type="punctuation">.</g> pavaraḥ Iṁ vahuta pata patiḥ<!-- maybe patapatih one word? or is patapatih an error for patih? --> muAṁ soĀraniṁ Anak vanuA I marsmu <g ref="sym:bullet-middle-hollow" type="punctuation">.</g> I vuĀ<gap reason="lost" extent="unknown" unit="character"/>
+	<lb n="1v2"/>muAṁ jātaka <g ref="sym:bullet-middle-hollow" type="punctuation">.</g> Ikanaṁ kunaṁ paṅansəAnnanya I dharmma rakryān· I vka I <space type="descender"/> pastika <g ref="sym:bullet-middle-hollow" type="punctuation">.</g> I <gap reason="lost" extent="unknown" unit="character"/>
+	<lb n="1v3"/>kumavruhana sukhaduḥkhanya<!-- ḥ omitted by Boechari; CS has h --> <g ref="sym:bullet-middle-hollow" type="punctuation">.</g> muAṁ<!-- n for ṁ in Boechari --> hulu-vrassanya <g ref="sym:bullet-middle-hollow" type="punctuation">.</g> <space type="descender"/> saṁ ḍuryyan· <space/> muAṁ saṁ siṅgaḥ <gap reason="lost" extent="unknown" unit="character"/>
+	<lb n="1v4"/>bavaṁ <g ref="sym:bullet-middle-hollow" type="punctuation">.</g> muAṁ ḍapunta labdhi<g ref="sym:bullet-middle-hollow" type="punctuation">.</g> magantya pisan· satahun· so<space type="descender"/>Aṁ-soAṁ <g ref="sym:doubleBar" type="punctuation">.</g>
 </p>
          </div>
          <div type="apparatus">

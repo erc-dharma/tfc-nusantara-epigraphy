@@ -84,20 +84,9 @@
       <body>
          <div type="edition" xml:lang="kaw-Latn" rendition="class:38769 maturity:83213">
             <p><lb n="1"/>I sumuṇḍul· 
-                <lb n="2"/><g type="ddanda"/><!-- straight vertical double bar --> svasti śaka-varṣātīta <num value="791">79<lb break="no" 
-                n="3"/>1</num> bhadravāda-māsa caturthĭ śukla-pa<lb break="no" 
-                n="4"/>kṣa mavulu pon· soma-vāra</p> <p>ta<lb break="no" 
-                n="5"/>tkāla <abbr>rakyān·</abbr> viku paḍaṁ lvar· pu mano<lb break="no" 
-                n="6"/>harī Ibu <abbr>rake</abbr> padəlaggan· Anak· saṁ
-                <lb n="7"/>devata Iṁ taṅar· manusuk· ḍavuha<lb break="no" 
-                n="8"/>n· I panaṅgaran· UAiyaniṁ tgal·ni<choice><sic>t</sic><corr>k</corr></choice>a<lb break="no"
-                n="9"/>naṁ parhyaṅan· I tiga haryyan· marhyaṁ I<lb break="no" 
-                n="10"/>ri<choice><sic>t</sic><corr>k</corr></choice>a<choice><sic>r</sic><corr>n</corr></choice>aṁ kāla ḍaṁṅ ācāryya vimaleśvara
-                <lb n="11"/>Anak· vanva I muṅgv antan· vatak tira vi<choice><sic>ṅ</sic><corr>n</corr></choice>ai<lb break="no" 
-                n="12"/>han· Ikana<unclear>ṁ</unclear> vanva I parhyaṁ<unclear>ṅ</unclear>an· vyavastha ma<lb break="no" 
-                n="13"/>s· <abbr>mā</abbr> <num value="4"><unclear>4</unclear></num></p> <p>kunaṁ yan· halaṁ-halaṁṅanna Ika<lb break="no" 
-                n="14"/>naṁ v<choice><sic>a</sic><corr>u</corr></choice>Attan· tan· Asiḥnya ryy avaknya lava<lb break="no"
-                n="15"/>n· Anaknya putunnya</p> <p>likhita saṁ pucaṁṅan·</p>
+                <lb n="2"/><g ref="sym:doubleBar" type="punctuation">.</g><!-- straight vertical double bar --> svasti śaka-varṣātīta <num value="791">79<lb break="no" n="3"/>1</num> bhadravāda-māsa caturthĭ śukla-pa<lb break="no" n="4"/>kṣa mavulu pon· soma-vāra</p> <p>ta<lb break="no" n="5"/>tkāla <abbr>rakyān·</abbr> viku paḍaṁ lvar· pu mano<lb break="no" n="6"/>harī Ibu <abbr>rake</abbr> padəlaggan· Anak· saṁ
+                <lb n="7"/>devata Iṁ taṅar· manusuk· ḍavuha<lb break="no" n="8"/>n· I panaṅgaran· UAiyaniṁ tgal·ni<choice><sic>t</sic><corr>k</corr></choice>a<lb break="no" n="9"/>naṁ parhyaṅan· I tiga haryyan· marhyaṁ I<lb break="no" n="10"/>ri<choice><sic>t</sic><corr>k</corr></choice>a<choice><sic>r</sic><corr>n</corr></choice>aṁ kāla ḍaṁṅ ācāryya vimaleśvara
+                <lb n="11"/>Anak· vanva I muṅgv antan· vatak tira vi<choice><sic>ṅ</sic><corr>n</corr></choice>ai<lb break="no" n="12"/>han· Ikana<unclear>ṁ</unclear> vanva I parhyaṁ<unclear>ṅ</unclear>an· vyavastha ma<lb break="no" n="13"/>s· <abbr>mā</abbr> <num value="4"><unclear>4</unclear></num></p> <p>kunaṁ yan· halaṁ-halaṁṅanna Ika<lb break="no" n="14"/>naṁ v<choice><sic>a</sic><corr>u</corr></choice>Attan· tan· Asiḥnya ryy avaknya lava<lb break="no" n="15"/>n· Anaknya putunnya</p> <p>likhita saṁ pucaṁṅan·</p>
          </div>
          <div type="apparatus">
             <!-- 

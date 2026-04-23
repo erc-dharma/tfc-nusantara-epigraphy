@@ -78,11 +78,9 @@
       <body>
          <div type="edition" xml:lang="kaw-Latn" rendition="class:38769 maturity:83213">
 <p>
-<lb n="1"/> <g type="circleFloret"/> <g type="danda"/> <g type="circleFloret"/> Iti sakāka<lb 
-n="2" break="no"/>lā saṁ hyaṁ maṇḍālā<lb 
-n="3" break="no"/>ṅaliḥ <!--ka<choice><sic>geten</sic><corr>teg</corr></choice>an·--><sic>kagetenan·</sic>
-<lb n="4"/> <g type="diamond"/> leṁ tuṅgal·
-<lb n="5"/>murttaniṁ vvaṁ <g type="circleFloret"/> <g type="danda"/>  <g type="circleFloret"/>
+<lb n="1"/> <g ref="sym:circleFloret"/> <g ref="sym:bar" type="punctuation">.</g> <g ref="sym:circleFloret"/> Iti sakāka<lb n="2" break="no"/>lā saṁ hyaṁ maṇḍālā<lb n="3" break="no"/>ṅaliḥ <!--ka<choice><sic>geten</sic><corr>teg</corr></choice>an·--><sic>kagetenan·</sic>
+<lb n="4"/> <g ref="sym:diamond"/> leṁ tuṅgal·
+<lb n="5"/>murttaniṁ vvaṁ <g ref="sym:circleFloret"/> <g ref="sym:bar" type="punctuation">.</g>  <g ref="sym:circleFloret"/>
 
 </p>
 <!-- 

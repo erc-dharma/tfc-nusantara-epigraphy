@@ -89,10 +89,10 @@
          <div type="edition">
  <div n="1" type="textpart" xml:lang="san-Latn" rendition="class:38769 maturity:83213">   
 <head xml:lang="eng">Original</head>
-<p><milestone type="pagelike" n="A" unit="zone"/><label>Above crack</label><lb n="A1"/><g type="ddandaCross"/> śrīr astu svasti prajābhyaḥ śaka-kālātīta <num value="673">673</num> <g type="danda"/><!-- should we represent that the vertical bars here are overlong and seem to serve a special function in relation to numerals --> <num value="5">5</num> <g type="danda"/> <num atLeast="21" atMost="22">2<choice><unclear>1</unclear><unclear>2</unclear></choice></num> <g type="danda"/> <gap reason="illegible" quantity="2" unit="character"/><unclear>ra</unclear>vā<lb n="A2" break="no"/>ra maddhyāh<unclear>naṁ</unclear> <g type="ddandaCross"/> <g type="circleConcentric"/></p>
+<p><milestone type="pagelike" n="A" unit="zone"/><label>Above crack</label><lb n="A1"/><g ref="sym:doubleBar-crossed" type="punctuation">.</g> śrīr astu svasti prajābhyaḥ śaka-kālātīta <num value="673">673</num> <g ref="sym:bar" type="punctuation">.</g><!-- should we represent that the vertical bars here are overlong and seem to serve a special function in relation to numerals --> <num value="5">5</num> <g ref="sym:bar" type="punctuation">.</g> <num atLeast="21" atMost="22">2<choice><unclear>1</unclear><unclear>2</unclear></choice></num> <g ref="sym:bar" type="punctuation">.</g> <gap reason="illegible" quantity="2" unit="character"/><unclear>ra</unclear>vā<lb n="A2" break="no"/>ra maddhyāh<unclear>naṁ</unclear> <g ref="sym:doubleBar-crossed" type="punctuation">.</g> <g ref="sym:circle-concentric" type="symbol">*</g></p>
 
 <lg n="1" met="sragdharā">
-<l n="a"><milestone type="pagelike" n="B" unit="zone"/><label>Main cartouche</label><lb n="B1"/><g type="ddandaCross"/> dharmmārthaṁ kṣetra-dānaṁ yad udaya-jananaṁ yo dadātīśa-bhaktyā <g type="circleMed"/></l>
+<l n="a"><milestone type="pagelike" n="B" unit="zone"/><label>Main cartouche</label><lb n="B1"/><g ref="sym:doubleBar-crossed" type="punctuation">.</g> dharmmārthaṁ kṣetra-dānaṁ yad udaya-jananaṁ yo dadātīśa-bhaktyā <g ref="sym:bullet-middle-hollow" type="symbol">*</g></l>
 <l n="b"><lb n="B2"/>hampra-grāmaṁ tri-go<unclear>ṣ</unclear>ṭhyā mahitam anumataṁ <unclear>s</unclear>iddha-devyāś ca tasyāḥ</l>
 <l n="c"><lb n="B3"/>kośāmra-grāva-lekhākṣara-vidhi-vidita-prānta-sīmā-vidhānam·</l>
 <l n="d"><lb n="B4"/>tasyaitad bhānu-nāmno bhuvi bhavatu yaśo-jīvita<unclear>ṁ c</unclear>aiva nityaṁ</l>
@@ -118,7 +118,7 @@
 <head xml:lang="eng">Original</head>
                <listApp>
                   <app loc="A1">
-                     <lem><num value="673">673</num> <g type="danda"/><!-- should we represent that the vertical bars here are overlong and seem to serve a special function in relation to numerals --> <num value="5">5</num> <g type="danda"/> <num atLeast="21" atMost="22">2<choice><unclear>1</unclear><unclear>2</unclear></choice></num></lem>
+                     <lem><num value="673">673</num> <g ref="sym:bar" type="punctuation">.</g><!-- should we represent that the vertical bars here are overlong and seem to serve a special function in relation to numerals --> <num value="5">5</num> <g ref="sym:bar" type="punctuation">.</g> <num atLeast="21" atMost="22">2<choice><unclear>1</unclear><unclear>2</unclear></choice></num></lem>
                      <rdg source="bib:Casparis1950_01 bib:Poerbatjaraka1954_01">674 | 5 | 21</rdg>
 	       <rdg source="bib:Damais1955_01">672 | 4 | 31</rdg>
 <note>Damais’ various discussions of the numeral signs in publications of 1952, 1955 and 1968 need to be reviewed carefully, in relation with his <title>Tableau comparatif</title> which may be in need of correction for this inscription.
@@ -134,7 +134,7 @@
 	<rdg source="bib:Casparis1950_01 bib:Poerbatjaraka1954_01">maddhyāham·</rdg>
 </app>
 	<app loc="B1">
-	<lem source="bib:Poerbatjaraka1954_01"><g type="circleMed"/></lem>
+	<lem source="bib:Poerbatjaraka1954_01"><g ref="sym:bullet-middle-hollow" type="symbol">*</g></lem>
 	<note>De Casparis does not note the symbol at the end of this line. Poerbatjaraka represent it with a full stop. It has a different shape than the circle within a circle that we see at the end of part A.</note>
 	</app>
 <app loc="B2">

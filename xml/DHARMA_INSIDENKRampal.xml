@@ -55,7 +55,7 @@
                </msContents>
                <physDesc>
                   <handDesc>
-                     <p>Script typical of the 9th centruy CE. The text shows repeated eccentric spellings with unexpected consonant gemination and intrusive <foreign>A</foreign> (<foreign>vanvaA</foreign>, <foreign>pamvaAtan</foreign>, <foreign>vannvaA</foreign>, <foreign>paṅadvaAn</foreign>). <foreign>Pepet</foreign> is not or not visibly differentiated from long <foreign>ī</foreign> and occasionally not from short <foreign>i</foreign>, so we tend to take the vowel marker that is expected in the context. Vertical strokes, here represented by <g type="danda"/>, mark the transition from one line to another.                        <!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EG 11.2. --></p>
+                     <p>Script typical of the 9th centruy CE. The text shows repeated eccentric spellings with unexpected consonant gemination and intrusive <foreign>A</foreign> (<foreign>vanvaA</foreign>, <foreign>pamvaAtan</foreign>, <foreign>vannvaA</foreign>, <foreign>paṅadvaAn</foreign>). <foreign>Pepet</foreign> is not or not visibly differentiated from long <foreign>ī</foreign> and occasionally not from short <foreign>i</foreign>, so we tend to take the vowel marker that is expected in the context. Vertical strokes, here represented by <g ref="sym:bar" type="punctuation">.</g>, mark the transition from one line to another.                        <!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EG 11.2. --></p>
                      <!-- If you need to identify individual hands (EG §7.5/) in addition to one or more paragraphs of general palaeographic description, wrap <summary> around the <p> or <p>s above, and, outside <summary>, create <handNote> elements for each hand as follows:
 						<summary><p><p/></summary>
 						<handNote xml:id="Pallava00001_hand1"></handNote>
@@ -93,7 +93,7 @@
       <body>
          <div type="edition" xml:lang="kaw-Latn" rendition="class:38769 maturity:83213">
 <ab>
-<lb n="01"/><g type="ddandaCross"/> svasti
+<lb n="01"/><g ref="sym:doubleBar-crossed" type="punctuation">.</g> svasti
 </ab>
 <p>
  <lb n="1"/><supplied reason="lost">śaka-</supplied><unclear>varṣa A</unclear>tĭta <num atLeast="790" atMost="799">7<unclear>9</unclear><gap reason="illegible" unit="character" quantity="1"/></num> <gap reason="illegible" unit="character" quantity="2"/> <supplied reason="lost">mā</supplied>sa <unclear>sa</unclear>ptami śukla-pakṣa, <abbr>ma</abbr>, <abbr>va</abbr>,<abbr> so</abbr>, vāra satabhīśa-nākṣatra ta<unclear>tkāla ḍa</unclear>

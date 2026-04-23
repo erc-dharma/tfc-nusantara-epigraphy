@@ -84,19 +84,12 @@
       <body>
          <div type="edition" xml:lang="kaw-Latn" rendition="class:38769 maturity:83213">
             <p><lb n="1"/>I panaṅgaran· 
-                <lb n="2"/><g type="ddanda"/><!-- double forward slash, the second with long descender --> svasti śaka-var<choice><sic>p</sic><corr>ṣ</corr></choice>ātīta <num value="791">791</num> bhadravāda<lb break="no" 
-                n="3"/>-māsa caturthī śukla-pakṣa mavulu pon·
+                <lb n="2"/><g ref="sym:doubleBar" type="punctuation">.</g><!-- double forward slash, the second with long descender --> svasti śaka-var<choice><sic>p</sic><corr>ṣ</corr></choice>ātīta <num value="791">791</num> bhadravāda<lb break="no" n="3"/>-māsa caturthī śukla-pakṣa mavulu pon·
                 <lb n="4"/>soma-vāra</p> <p>tatkāla <abbr>rakyān·</abbr> viku paḍaṁ
                 <lb n="5"/>lvar· pu manoharī Ibu ra<unclear>ke</unclear> pad<choice><sic>ī</sic><corr>ə</corr></choice>laggan·
-                <lb n="6"/>Anak· saṁ devata I taṅar· manusuk· ḍa<lb break="no" 
-                n="7"/>vuhan· I panaṅgaran· UAiyaniṁ tgal·ni<lb break="no" 
-                n="8"/>kanaṁ parhyaṅan· Iṁ ti<choice><sic>v</sic><corr>g</corr></choice>a haryyan· marhyaṁ Iri<lb break="no"
-                n="9"/>kanaṁ kāla ḍaṁṅ ācāryya vimaleśvara Anak·
-                <lb n="10"/>vanva I muṅgv antan· vatak tira vinaiḥhan· I<lb break="no" 
-                n="11"/>kanaṁ vanva I panaṅgaran· vyavastha mas· <abbr>mā</abbr> <num value="4">4</num></p>
-                <p><lb n="12"/>kunaṁ yan· halaṁ-halaṁṅanna Ikanaṁ vuAtta<lb break="no" 
-                n="13"/>n· tan· Asiḥnya ryy avak·nya lavan· Ana<lb break="no" 
-                n="14"/>k·nya putunya</p> <p>likhita saṁ pucaṁṅan· <g type="ddanda"/><!-- two slighly back slanting bars --></p>
+                <lb n="6"/>Anak· saṁ devata I taṅar· manusuk· ḍa<lb break="no" n="7"/>vuhan· I panaṅgaran· UAiyaniṁ tgal·ni<lb break="no" n="8"/>kanaṁ parhyaṅan· Iṁ ti<choice><sic>v</sic><corr>g</corr></choice>a haryyan· marhyaṁ Iri<lb break="no" n="9"/>kanaṁ kāla ḍaṁṅ ācāryya vimaleśvara Anak·
+                <lb n="10"/>vanva I muṅgv antan· vatak tira vinaiḥhan· I<lb break="no" n="11"/>kanaṁ vanva I panaṅgaran· vyavastha mas· <abbr>mā</abbr> <num value="4">4</num></p>
+                <p><lb n="12"/>kunaṁ yan· halaṁ-halaṁṅanna Ikanaṁ vuAtta<lb break="no" n="13"/>n· tan· Asiḥnya ryy avak·nya lavan· Ana<lb break="no" n="14"/>k·nya putunya</p> <p>likhita saṁ pucaṁṅan· <g ref="sym:doubleBar" type="punctuation">.</g><!-- two slighly back slanting bars --></p>
          </div>
          <div type="apparatus">
             <!-- 

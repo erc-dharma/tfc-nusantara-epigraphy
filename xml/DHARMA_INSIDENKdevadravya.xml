@@ -76,25 +76,16 @@
     <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="omy-Latn" rendition="class:38769 maturity:83213">
-            <p><milestone n="A" unit="face"/><lb n="A1"/><g type="ddanda"/> namaś śivāya <g type="danda"/> devadra<lb 
-n="A2" break="no"/>vya hulun· ḍuA puluḥ
+            <p><milestone n="A" unit="face"/><lb n="A1"/><g ref="sym:doubleBar" type="punctuation">.</g> namaś śivāya <g ref="sym:bar" type="punctuation">.</g> devadra<lb n="A2" break="no"/>vya hulun· ḍuA puluḥ
 <lb n="A3"/>karvo sapuluḥ A<unclear>las</unclear>·
 <lb n="A4"/><unclear>ka</unclear>caṅan· ḍuA, padyusan·
-<lb n="A5"/> ḍu<supplied reason="lost">A,</supplied> <unclear>gaṁ</unclear>gun·, karaha pad <unclear>va</unclear><lb break="no" 
-n="A6"/>tu, <unclear>tatas</unclear>· lnaṁ, caranti li<lb break="no" 
-n="A7"/> ma, vūṁ <unclear>pad va</unclear>tu, parsarinasi<lb break="no" 
-n="A8"/>yan· <unclear>ta</unclear>mvaga, sapuluḥ va<lb break="no" 
-n="A9"/>tu, mās· ḍu tahil·, jami<lb break="no" 
-n="A10"/> niga pad vatu, caturaṅgaṁ
-<milestone n="B" unit="face"/><lb n="B1"/>, kai<unclear>ṁ</unclear>l laki, sajugala <g type="ddanda"/>
-<lb n="B2"/>luṁsir ṣavatu <g type="ddanda"/> vi<unclear>tādi</unclear>
+<lb n="A5"/> ḍu<supplied reason="lost">A,</supplied> <unclear>gaṁ</unclear>gun·, karaha pad <unclear>va</unclear><lb break="no" n="A6"/>tu, <unclear>tatas</unclear>· lnaṁ, caranti li<lb break="no" n="A7"/> ma, vūṁ <unclear>pad va</unclear>tu, parsarinasi<lb break="no" n="A8"/>yan· <unclear>ta</unclear>mvaga, sapuluḥ va<lb break="no" n="A9"/>tu, mās· ḍu tahil·, jami<lb break="no" n="A10"/> niga pad vatu, caturaṅgaṁ
+<milestone n="B" unit="face"/><lb n="B1"/>, kai<unclear>ṁ</unclear>l laki, sajugala <g ref="sym:doubleBar" type="punctuation">.</g>
+<lb n="B2"/>luṁsir ṣavatu <g ref="sym:doubleBar" type="punctuation">.</g> vi<unclear>tādi</unclear>
 <lb n="B3"/>ḍuA vatu, taṇḍa taṇḍa
-<lb n="B4"/>ḍuAlapan·, suruy· ga<lb break="no" 
-n="B5"/>ḍiṅ·, carmin· <g type="danda"/> batu cərmi<lb break="no" 
-n="B6"/>n·, vuṁvuṁ vala, karantiga ḍu<lb break="no" 
-n="B7"/>A, ṣaṇḍuk· ḍuA <g type="ddanda"/> guci
+<lb n="B4"/>ḍuAlapan·, suruy· ga<lb break="no" n="B5"/>ḍiṅ·, carmin· <g ref="sym:bar" type="punctuation">.</g> batu cərmi<lb break="no" n="B6"/>n·, vuṁvuṁ vala, karantiga ḍu<lb break="no" n="B7"/>A, ṣaṇḍuk· ḍuA <g ref="sym:doubleBar" type="punctuation">.</g> guci
 <lb n="B8"/>pat vatu, vatu kākkyaṅ·
-<lb n="B9"/>ḍuA, <unclear>ḍā</unclear>ṁ <g type="danda"/> Eka teja ḍaṁ hyaṁ
+<lb n="B9"/>ḍuA, <unclear>ḍā</unclear>ṁ <g ref="sym:bar" type="punctuation">.</g> Eka teja ḍaṁ hyaṁ
 </p>
          </div>
          <div type="apparatus"/>

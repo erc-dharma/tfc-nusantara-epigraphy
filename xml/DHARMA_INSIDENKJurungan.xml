@@ -83,26 +83,22 @@
     <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="kaw-Latn" rendition="class:38769 maturity:83213">
-            <p><pb n="1v"/><lb n="1v1"/><g type="ddanda"/><!--<g type="dotDouble"/> <g type="ddandaHooked"/> -->
+            <p><pb n="1v"/><lb n="1v1"/><g ref="sym:doubleBar" type="punctuation">.</g><!--<g type="dotDouble"/> <g type="ddandaHooked"/> -->
  svasti śaka-varṣătīta <num value="798">798</num> poṣya-māsa, Ekādaśĭ śukla-pakṣa, mavulu pahīṁ Āditya-vāra,  tatkāla ra karayān· 
 <lb n="1v2"/>I sirikan· pu rakap· manusuk· lmaḥniṁ sukat· I juruṅan· vatak· pagar vsi, sīmānikanaṁ prāsāda I gunuṁ hyaṁ,</p> 
-<p>luĀnikanaṁ lmaḥ An sa<lb break="no" n="1v3"/>mpun· ginavai savaḥ tampaḥ <num value="6">6</num> muAṁ vuAra lmaḥ kinbuAn· vuAṁnya sinīma tamānnanikanaṁ prāsāda I gunuṁ hyaṅ Ataḥ, luĀnikanaṁ lmaḥ <lb n="1v4"/>tamānna paṅavaitanya ḍpa <num value="117">117</num> paṅalornya ḍpa <num value="104">104</num> <g type="ddandaHooked">.</g></p>
-<p>Anuṁ makavaiḥ Ikanaṁ lmaḥ sinusuk· ra karayān· I pagar vsi pu maṅu<lb break="no" 
-n="1v5"/>sī, InaṅsəAn· sira pasak·-pasak· mas· <abbr>su</abbr> 5 vḍihan· buAt· kliṁ putiḥ 
+<p>luĀnikanaṁ lmaḥ An sa<lb break="no" n="1v3"/>mpun· ginavai savaḥ tampaḥ <num value="6">6</num> muAṁ vuAra lmaḥ kinbuAn· vuAṁnya sinīma tamānnanikanaṁ prāsāda I gunuṁ hyaṅ Ataḥ, luĀnikanaṁ lmaḥ <lb n="1v4"/>tamānna paṅavaitanya ḍpa <num value="117">117</num> paṅalornya ḍpa <num value="104">104</num> <g ref="sym:doubleBar-hooked" type="punctuation">.</g></p>
+<p>Anuṁ makavaiḥ Ikanaṁ lmaḥ sinusuk· ra karayān· I pagar vsi pu maṅu<lb break="no" n="1v5"/>sī, InaṅsəAn· sira pasak·-pasak· mas· <abbr>su</abbr> 5 vḍihan· buAt· kliṁ putiḥ 
 <abbr>yu</abbr> <num value="1">1</num> gañjarpatra <abbr>yu</abbr> <num value="1">1</num> luṅgar· <abbr>yu</abbr> <num value="1">1</num> buAt· vaitan· I<!-- [binding-hole between lines 5 and 6] -->	
-<lb break="no" 
-n="1v6"/>nmas· <abbr>mā</abbr> <num value="8">8</num> kbo Inmas· <abbr>mā</abbr> 10 vəAs· pinirak· <abbr>mā</abbr> <num value="6">6</num> vsi pinirak· <abbr>mā</abbr> <num value="2">2</num> I rakryān· Ibu mas· <abbr>mā</abbr> <num value="8">8</num> kain· Inmas· <abbr>mā</abbr> <num value="4">4</num> I rakryān· A<lb break="no" 
-n="1v7"/>nakbi mas· <abbr>su</abbr> <num value="1">1</num> kain· buAt· Iṅulū vlaḥ <num value="1">1</num> I <abbr>rakai</abbr> manyuḥ mas· <abbr>mā</abbr> <num value="4">4</num> vḍihan· raṅga <abbr>yu</abbr> <num value="1">1</num> I <abbr>rakai</abbr> taṅga vatu mas· <abbr>mā</abbr> <num value="4">4</num> kain· vlaḥ <num value="1">1</num>
+<lb break="no" n="1v6"/>nmas· <abbr>mā</abbr> <num value="8">8</num> kbo Inmas· <abbr>mā</abbr> 10 vəAs· pinirak· <abbr>mā</abbr> <num value="6">6</num> vsi pinirak· <abbr>mā</abbr> <num value="2">2</num> I rakryān· Ibu mas· <abbr>mā</abbr> <num value="8">8</num> kain· Inmas· <abbr>mā</abbr> <num value="4">4</num> I rakryān· A<lb break="no" n="1v7"/>nakbi mas· <abbr>su</abbr> <num value="1">1</num> kain· buAt· Iṅulū vlaḥ <num value="1">1</num> I <abbr>rakai</abbr> manyuḥ mas· <abbr>mā</abbr> <num value="4">4</num> vḍihan· raṅga <abbr>yu</abbr> <num value="1">1</num> I <abbr>rakai</abbr> taṅga vatu mas· <abbr>mā</abbr> <num value="4">4</num> kain· vlaḥ <num value="1">1</num>
 <lb n="1v8"/>tuhānniṁ kanayakān· <num value="2">2</num> si Uṅgahan·, si mahendra mas· <abbr>mā</abbr> <num value="8">8</num> vḍihan· Aṅsit· <abbr>yu</abbr> <num value="2">2</num> mataṇḍa si bajra mas· <abbr>mā</abbr> <num value="4">4</num> vḍihan· Aṅsit· <abbr>yu</abbr> <num value="1">1</num>
-<lb n="1v9"/>parujar· mas· <abbr>mā</abbr> <num value="4">4</num> vḍihan· Aṅsit· <abbr>yu</abbr> <num value="1">1</num> tuhānniṁ lampuran· mas· <abbr>mā</abbr> <num value="2">2</num> vḍihan· Aṅsit· <abbr>yu</abbr> <num value="1">1</num> vadvā rarai mas· <abbr>mā</abbr> <num value="2">2</num> vḍihan· Aṅsi<lb break="no" 
-n="1v10"/>t· <abbr>yu</abbr> <num value="1">1</num> kalula mas· <abbr>mā</abbr> <num value="2">2</num> vḍihan· raṅga <abbr>yu</abbr> <num value="1">1</num> manapal· mas· <abbr>mā</abbr> <num value="2">2</num> vḍihan· Aṅsit· muAṁ raṅga <abbr>yu</abbr> <num value="2">2</num> Anakbinya kain· vlaḥ <num value="1">1</num> manuṅgū mas·
+<lb n="1v9"/>parujar· mas· <abbr>mā</abbr> <num value="4">4</num> vḍihan· Aṅsit· <abbr>yu</abbr> <num value="1">1</num> tuhānniṁ lampuran· mas· <abbr>mā</abbr> <num value="2">2</num> vḍihan· Aṅsit· <abbr>yu</abbr> <num value="1">1</num> vadvā rarai mas· <abbr>mā</abbr> <num value="2">2</num> vḍihan· Aṅsi<lb break="no" n="1v10"/>t· <abbr>yu</abbr> <num value="1">1</num> kalula mas· <abbr>mā</abbr> <num value="2">2</num> vḍihan· raṅga <abbr>yu</abbr> <num value="1">1</num> manapal· mas· <abbr>mā</abbr> <num value="2">2</num> vḍihan· Aṅsit· muAṁ raṅga <abbr>yu</abbr> <num value="2">2</num> Anakbinya kain· vlaḥ <num value="1">1</num> manuṅgū mas·
 <pb n="2r"/><lb n="2r1"/><abbr>mā</abbr> <num value="2">2</num> vḍihan· Aṅsit· <abbr>yu</abbr> <num value="1">1</num> 
 maṅasəAkan· mas· <abbr>mā</abbr> <num value="2">2</num> vḍihan· raṅga <abbr>yu</abbr> <num value="1">1</num> 
 citralekha mas· <abbr>mā</abbr> <num value="2">2</num> vḍihan· raṅga <abbr>yu</abbr> <num value="1">1</num> 
 năyaka I juruṅan· si raṅga<lb break="no" n="2r2"/>l· pirak· <abbr>mā</abbr> <num value="4">4</num> vḍihan· Aṅsit· <abbr>yu</abbr> <num value="1">1</num> 
 Anakbinya kain· vlaḥ <num value="1">1</num> 
 paṅuraṁ Iṁ vanuA <num value="2">2</num> mas· <abbr>mā</abbr> <num value="2">2</num> vḍihan· raṅga <abbr>yu</abbr> <num value="2">2</num> 
-kula kriṁ pirak· <abbr>mā</abbr> <num value="4">4</num> vḍihan· raṅga yu <lb n="2r3"/><num value="1">1</num> <g type="ddandaHooked">.</g></p>
+kula kriṁ pirak· <abbr>mā</abbr> <num value="4">4</num> vḍihan· raṅga yu <lb n="2r3"/><num value="1">1</num> <g ref="sym:doubleBar-hooked" type="punctuation">.</g></p>
 <p>vahuta lbur putiḥ <num value="2">2</num> si guṇa, si dgi mas· <abbr>mā</abbr> <num value="8">8</num> vḍihan· Aṅsit· <abbr>yu</abbr> <num value="2">2</num> 
 Anakbinya <num value="2">2</num> mas· <abbr>mā</abbr> <num value="4">4</num> kain· vlaḥ <num value="2">2</num> 
 vahuta lampuran· <num value="4">4</num> mas· <abbr>mā</abbr> <num value="8">8</num> vḍi<lb break="no" n="2r4"/>han· raṅga <abbr>yu</abbr> <num value="4">4</num> 
@@ -110,15 +106,15 @@ Anakbinya <num value="4">4</num> mas· <abbr>mā</abbr> <num value="4">4</num> k
 pituṁtuṁ ri Umaḥ <num value="2">2</num> mas· <abbr>mā</abbr> <num value="2">2</num> vḍihan· raṅga <abbr>yu</abbr> <num value="2">2</num> 
 pituṁtuṁ riṁ pakuvuAn· <num value="6">6</num> mas· <abbr>mā</abbr> <num value="6">6</num> vḍihan· raṅga <lb n="2r5"/><abbr>yu</abbr> <num value="3">3</num> 
 vahuta mavəAs· mas· <abbr>mā</abbr> <num value="1">1</num> vḍihan· hlai <num value="1">1</num> 
-pitu<supplied reason="omitted">ṁ</supplied>tuṁ vinkas· <num value="2">2</num> mas· <abbr>mā</abbr> <num value="2">2</num> vḍihan· raṅga <abbr>yu</abbr> <num value="2">2</num> <g type="ddandaHooked">.</g></p> 
+pitu<supplied reason="omitted">ṁ</supplied>tuṁ vinkas· <num value="2">2</num> mas· <abbr>mā</abbr> <num value="2">2</num> vḍihan· raṅga <abbr>yu</abbr> <num value="2">2</num> <g ref="sym:doubleBar-hooked" type="punctuation">.</g></p> 
 <p>muvaḥ vahuta limus vaṅi mas· <abbr>mā</abbr> <num value="4">4</num> vḍihan· A<!-- [binding-hole between lines 5 and 6]--><lb break="no" n="2r6"/> ṅsit· <abbr>yu</abbr> <num value="1">1</num> 
-Anakbinya mas· <abbr>mā</abbr> <num value="2">2</num> kain· vlaḥ <num value="1">1</num> <g type="ddandaHooked">.</g></p> 
-<p>patiḥ ptir· <num value="2">2</num> si <unclear>k</unclear>umar·, si muñca pirak· <abbr>dhā</abbr> <num value="1">1</num> vḍihan· Aṁsit· <abbr>yu</abbr> <num value="2">2</num> kalulanya vḍihan· raṅga <lb n="2r7"/><abbr>yu</abbr> <num value="1">1</num> <g type="ddandaHooked">.</g></p>  
+Anakbinya mas· <abbr>mā</abbr> <num value="2">2</num> kain· vlaḥ <num value="1">1</num> <g ref="sym:doubleBar-hooked" type="punctuation">.</g></p> 
+<p>patiḥ ptir· <num value="2">2</num> si <unclear>k</unclear>umar·, si muñca pirak· <abbr>dhā</abbr> <num value="1">1</num> vḍihan· Aṁsit· <abbr>yu</abbr> <num value="2">2</num> kalulanya vḍihan· raṅga <lb n="2r7"/><abbr>yu</abbr> <num value="1">1</num> <g ref="sym:doubleBar-hooked" type="punctuation">.</g></p>  
 <p><abbr>samgat·</abbr> vadihati pu maṅhutaṅi mas· <abbr>mā</abbr> <num value="8">8</num> vḍihan· Aṅsit· <abbr>yu</abbr> <num value="1">1</num> 
-tuhān· <num value="2">2</num> miraḥ-miraḥ si guvar·, kulumpitan·, si larak· ma<lb break="no" n="2r8"/>s· <abbr>mā</abbr> <num value="8">8</num> vḍihan· Aṅsit· <abbr>yu</abbr> <num value="2">2</num> Anuṁ milu manusuk· kasumuran· si niru mas· <abbr>mā</abbr> <num value="8">8</num> vḍihan· Aṅsit· <abbr>yu</abbr> muAṁ raṅga <abbr>yu</abbr> <num value="2">2</num> <g type="ddandaHooked">.</g></p>  
+tuhān· <num value="2">2</num> miraḥ-miraḥ si guvar·, kulumpitan·, si larak· ma<lb break="no" n="2r8"/>s· <abbr>mā</abbr> <num value="8">8</num> vḍihan· Aṅsit· <abbr>yu</abbr> <num value="2">2</num> Anuṁ milu manusuk· kasumuran· si niru mas· <abbr>mā</abbr> <num value="8">8</num> vḍihan· Aṅsit· <abbr>yu</abbr> muAṁ raṅga <abbr>yu</abbr> <num value="2">2</num> <g ref="sym:doubleBar-hooked" type="punctuation">.</g></p>  
 <p><abbr>samgat·</abbr> maku<lb break="no" n="2r9"/>dur· pu maṅiṇḍit· mas· <abbr>mā</abbr> <num value="8">8</num> vḍihan· Aṅsit· <abbr>yu</abbr> <num value="1">1</num> tuhān· <num value="2">2</num> rolū si manūt· vatu valai si mnaṁ, mas· <abbr>mā</abbr> <num value="8">8</num> vḍihan· Aṅsit· <abbr>yu</abbr> <num value="2">2</num> Anuṁ milu ma<lb break="no" n="2r10"/>nusuk· palintahan· si śra mas· <abbr>mā</abbr> <num value="8">8</num> vḍihan· Aṅsit· muAṁ putiḥ <abbr>yu</abbr> <num value="2">2</num> 
 maṁhuyup· mas· <abbr>mā</abbr> <num value="1">1</num> vḍihan· raṅga <abbr>yu</abbr> <num value="1">1</num> siṅhəl· <abbr>yu</abbr> <num value="1">1</num> saṁ hyaṁ brahmā ma<pb n="2v" break="no"/><lb break="no" n="2v1"/>s· <abbr>mā</abbr> <num value="1">1</num> vḍihan· putiḥ <abbr>yu</abbr> <num value="1">1</num> 
-muvaḥ makudur· magavai vuAtan· vinaihan· vḍihan· raṅga <abbr>yu</abbr> <num value="1">1</num> <g type="ddandaHooked">.</g></p>   
+muvaḥ makudur· magavai vuAtan· vinaihan· vḍihan· raṅga <abbr>yu</abbr> <num value="1">1</num> <g ref="sym:doubleBar-hooked" type="punctuation">.</g></p>   
 <p>sajiniṁ kulumpaṁ 
 <list>
 <item>mas· <abbr>mā</abbr> <num value="4">4</num></item> 
@@ -140,12 +136,12 @@ muvaḥ makudur· magavai vuAtan· vinaihan· vḍihan· raṅga <abbr>yu</abbr>
 <item><orig>v</orig>uri <lb n="2v3"/><num value="1">1</num></item> 
 <item>padamaran· <num value="1">1</num></item> 
 <item>saragi pagaṅanan· <num value="1">1</num></item> 
-<item>kampil· <num value="1">1</num> <g type="ddandaHooked">.</g></item>
+<item>kampil· <num value="1">1</num> <g ref="sym:doubleBar-hooked" type="punctuation">.</g></item>
 </list></p> 
 <p><abbr>samgat·</abbr> kahuripan· pu chatra pirak· <abbr>dhā</abbr> <num value="1">1</num> vḍihan· Aṅsit· muAṁ raṅga <abbr>yu</abbr> <num value="2">2</num> saṁ Anakbi pirak·, <lb n="2v4"/> <abbr>mā</abbr> <num value="8">8</num> kain· vlaḥ <num value="1">1</num> 
 tuhān· si gorava pirak· <abbr>mā</abbr> <num value="8">8</num> vḍihan· Aṅsit· <abbr>yu</abbr> <num value="1">1</num> 
 parujar· si mădhava pirak· <abbr>mā</abbr> <num value="8">8</num> vḍihan· Aṅsit· <abbr>yu</abbr> <num value="1">1</num> 
-tuhānniṁ lampuran· si <lb n="2v5"/>bămana pirak· <abbr>mā</abbr> <num value="8">8</num> vḍihan· raṅga <abbr>yu</abbr> <num value="1">1</num> <g type="ddandaHooked">.</g></p>
+tuhānniṁ lampuran· si <lb n="2v5"/>bămana pirak· <abbr>mā</abbr> <num value="8">8</num> vḍihan· raṅga <abbr>yu</abbr> <num value="1">1</num> <g ref="sym:doubleBar-hooked" type="punctuation">.</g></p>
 
 <p>Anak vanuA I juruṅan· dinmakan· ya mas· <abbr>su</abbr> <num value="5">5</num> muAṁ vinaihan· pasak·-pasak·, 
 tuha vanuA <num value="2">2</num> si kno<!--[binding-hole between lines 5 and 6]--><lb break="no" n="2v6"/>ḥ kaki panmuAn· si ratā kaki vuliran· vḍihan· Aṅsit· <abbr>yu</abbr> <num value="2">2</num> 
@@ -168,18 +164,18 @@ Anakbinya kain· vlaḥ <num value="4">4</num>
 tuhālas· <num value="2">2</num> si vuṇḍu ramani klo, si bhavā ramani sūryya, vḍihan· raṅga <abbr>yu</abbr> <num value="2">2</num> 
 Anakbinya <unclear>kai</unclear><lb break="no" n="3r7"/>n· vlaḥ <num value="2">2</num> 
 vuAra tuha vanuA Anakbi, si śranā, si puṇya, si sraṅan·, si lmaḥ Iraḥ kain· vlaḥ <num value="4">4</num> 
-vuAra ta hulair· Anakbi kain· vlaḥ <num value="2">2</num> <g type="ddandaHooked">.</g></p> 
+vuAra ta hulair· Anakbi kain· vlaḥ <num value="2">2</num> <g ref="sym:doubleBar-hooked" type="punctuation">.</g></p> 
 <p>rāma <lb n="3r8"/>maratā vinaihan· vḍihan· sadugala soAṁ, ramani vlu, ramani ḍayā, ramani pamuAtan·, ramani coṇḍeḥ, ramani vagəd·, ramani maṁhyaṁ, ra<lb break="no" n="3r9"/>mani sḍaṁ, si vagar·, punta kīrtti, si sudaḥ, ramani butul·, ramani savastī, ramani padmī, ramani bloṅoḥ si giraṁ, ramani morek·, ramani hanton· <lb n="3r10"/> si bulu, ramani vadahuma, si tgur·, si vadvā, ramani sugiḥ, si milaṁ, si Udyan·, ramani vijǝ:, si tamyaṁ, ramani dhara, si limus·, si məṅgur·, rama<pb break="no" n="3v"/><lb break="no" n="3v1"/>ni mala, ramani puñjaṁ, si Ananta, si kala, ramani māgha, si naṅgal·, si rujak·, si śaṁkha, ramani sḍaṁ, ramani pravalā, ramani haṅū, ra<lb break="no" n="3v2"/>mani Uṇḍahagi, si Agra, ramani Uma, si baṅun·, si moñoṁ, si saṅgam·, ramani pahal·, ramani kaivala, si tali, si javil·, ramani viku
-<lb n="3v3"/>si davir·, si balū, si koṅoḥ <g type="ddandaHooked">.</g></p> <p>Iṁ kabikuAn·, vinaihan· vḍihan· sadugala soAṁ, hulu vras· si Ananta ramani tulus·, tuha və<lb break="no" n="3v4"/>R̥ḥ si ḍoho ramani vanyāga, ramani vudal·, ramani bihara, punta karuṇā, ramani paṭā, ramanīndal·, ramani kbal·, ramani madhurī, rama<lb break="no" n="3v5"/>ni ḍayaṁ, ḍa punta gunuṁ, ḍa punta gaḍa, bhagavanta maṅgalī, bhagavanta dhavalā <g type="ddandaHooked">.</g></p> 
+<lb n="3v3"/>si davir·, si balū, si koṅoḥ <g ref="sym:doubleBar-hooked" type="punctuation">.</g></p> <p>Iṁ kabikuAn·, vinaihan· vḍihan· sadugala soAṁ, hulu vras· si Ananta ramani tulus·, tuha və<lb break="no" n="3v4"/>R̥ḥ si ḍoho ramani vanyāga, ramani vudal·, ramani bihara, punta karuṇā, ramani paṭā, ramanīndal·, ramani kbal·, ramani madhurī, rama<lb break="no" n="3v5"/>ni ḍayaṁ, ḍa punta gunuṁ, ḍa punta gaḍa, bhagavanta maṅgalī, bhagavanta dhavalā <g ref="sym:doubleBar-hooked" type="punctuation">.</g></p> 
 <p>vanuA I tpi siriṁ vinaihan· vḍihan· sadugala Iṁ savanuA, I
 <!--[binding-hole between lines 5 and 6]-->
-<lb n="3v6"/>bitapura, I hanyantan·, I harjaṁ mavuAṁ pirak· <abbr>mā</abbr> <num value="4">4</num> I halalai, I skar ve <g type="ddandaHooked">.</g></p> <p>tuha paḍahi <num value="2">2</num> si duṅi, si caṇṭiṁ vḍihan· raṅga <abbr>yu</abbr> <num value="2">2</num> <g type="ddandaHooked">.</g></p> <p>Anuṁ <lb n="3v7"/>vinaihan· tvak· tampilan· tuṅgal· soAṁ, si lakṣaṇa, si moje, si vaharu, si kaṇḍi, si kaṅuḥ, si piṅul·, si viku·, si sāra
-<lb n="3v8"/>si guṇa, si tkik·, si goleṁ, si boṁko, si mahyun·, si mari <g type="ddandaHooked">.</g></p> <p>Anuṁ vinaihan· kris· tuṅgal· soAṁ<unclear>,</unclear> si kr̥hu, si dəmpul·,
+<lb n="3v6"/>bitapura, I hanyantan·, I harjaṁ mavuAṁ pirak· <abbr>mā</abbr> <num value="4">4</num> I halalai, I skar ve <g ref="sym:doubleBar-hooked" type="punctuation">.</g></p> <p>tuha paḍahi <num value="2">2</num> si duṅi, si caṇṭiṁ vḍihan· raṅga <abbr>yu</abbr> <num value="2">2</num> <g ref="sym:doubleBar-hooked" type="punctuation">.</g></p> <p>Anuṁ <lb n="3v7"/>vinaihan· tvak· tampilan· tuṅgal· soAṁ, si lakṣaṇa, si moje, si vaharu, si kaṇḍi, si kaṅuḥ, si piṅul·, si viku·, si sāra
+<lb n="3v8"/>si guṇa, si tkik·, si goleṁ, si boṁko, si mahyun·, si mari <g ref="sym:doubleBar-hooked" type="punctuation">.</g></p> <p>Anuṁ vinaihan· kris· tuṅgal· soAṁ<unclear>,</unclear> si kr̥hu, si dəmpul·,
 <lb n="3v9"/>si śaṁkha, si vruha, si piṅul·, si kañcuk·, si mandon·, si candra, si kḍo, si sila, si yolo, si kuṇḍuk·, si sele,
-<lb n="3v10"/>si plī, si bhăgya, si sadiḥ <g type="ddandaHooked">.</g></p> <p>Anuṁ vinaihan· kampit· tuṅgal· soAṁ kvi paṇḍi, puAṁ buṅū, puAṁ pilaṁ, si lanā, pu<pb n="4r" break="no"/><lb n="4r1" break="no"/>ṁ puñcuk·, si bhadrī, si karī, si vaimalī, si gavai, si svitā, si nihuṁ, si gamī, si R̥ṅu, si karī, si ṭuR̥, si paṭā, si lbuḥ, si mañciṁ, si dama<lb break="no" n="4r2"/>nī, si sudaḥ, si tbal·, si găyatrī, si paṭā, si gandhī, si bukǝ:, si tiruAn·, si muḍaḥ, si sasak·, si vudal·, si prabha, si bhaṭī, si dayī
+<lb n="3v10"/>si plī, si bhăgya, si sadiḥ <g ref="sym:doubleBar-hooked" type="punctuation">.</g></p> <p>Anuṁ vinaihan· kampit· tuṅgal· soAṁ kvi paṇḍi, puAṁ buṅū, puAṁ pilaṁ, si lanā, pu<pb n="4r" break="no"/><lb n="4r1" break="no"/>ṁ puñcuk·, si bhadrī, si karī, si vaimalī, si gavai, si svitā, si nihuṁ, si gamī, si R̥ṅu, si karī, si ṭuR̥, si paṭā, si lbuḥ, si mañciṁ, si dama<lb break="no" n="4r2"/>nī, si sudaḥ, si tbal·, si găyatrī, si paṭā, si gandhī, si bukǝ:, si tiruAn·, si muḍaḥ, si sasak·, si vudal·, si prabha, si bhaṭī, si dayī
 <lb n="4r3"/>si sukrī, si lattha, si subhī, sīman·, si budha, si kəvə, si kaivala, si Adhikā, si pahal·, si dasut·, si sahiṁ, si parĭkṣa, si bicitra
 <lb n="4r4"/>si tali, si javil·, si viku, si subhanī, si dhanya, si māgha, si man·dmak·, si cbuk·, si meṇḍe, si kalula, si gara, si pujə, si bhăgya,
-<lb n="4r5"/>si <unclear>t</unclear>uruk·, si vudal·, si puṇya <g type="ddandaHooked">.</g></p>
+<lb n="4r5"/>si <unclear>t</unclear>uruk·, si vudal·, si puṇya <g ref="sym:doubleBar-hooked" type="punctuation">.</g></p>
 <p>Anuṁ vinaihan· vsi rarai laki-laki, Anakbi, kvaiḥnikanaṁ vsi dinūmakan· rikanaṅ rarai Ikat· <num value="100">100</num>
 <!--[binding-hole between lines 5 and 6]-->
 <lb n="4r6"/> //</p> 
@@ -224,7 +220,7 @@ vuAra ta hulair· Anakbi kain· vlaḥ <num value="2">2</num> <g type="ddandaHoo
                </listApp>
          </div>
          <div type="translation" resp="part:argr part:mego">
-            <p n="1r1-1r3"></p>
+            <p n="1r1-1r3"/>
          </div>
          <div type="commentary">
            <p>This charter begins on the verso face of the plate on which the <ref target="DHARMA_INSIDENKHumanding.xml">Humanding</ref> charter  charter ended. Binding holes are pierced though all plates but nowhere interrupt the text.</p>

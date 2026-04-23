@@ -83,9 +83,7 @@
     <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="kaw-Latn" rendition="class:38769 maturity:83213">
-            <p><lb n="1"/><g type="ddanda"/> svasti śaka-varṣātita <num value="788">788</num> kārt<unclear>i</unclear>ka pañcadaśi kr̥ṣṇa-pakṣa vu<lb 
-                n="2" break="no"/>rukuṁ kalivuAn· soma tatkāla rake halaran· manusuk sĭ<lb 
-                n="3" break="no"/>ma Iy upit·</p>
+            <p><lb n="1"/><g ref="sym:doubleBar" type="punctuation">.</g> svasti śaka-varṣātita <num value="788">788</num> kārt<unclear>i</unclear>ka pañcadaśi kr̥ṣṇa-pakṣa vu<lb n="2" break="no"/>rukuṁ kalivuAn· soma tatkāla rake halaran· manusuk sĭ<lb n="3" break="no"/>ma Iy upit·</p>
          </div>
          <div type="apparatus">
            <!--apparatus encoded as per EGD §9.1, basic elements for apparatus below-->

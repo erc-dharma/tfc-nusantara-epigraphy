@@ -86,7 +86,7 @@
    <text xml:space="preserve">
            <body>
                    <div type="edition" xml:lang="kaw-Latn">
-                             <p xml:lang="san-Latn"><pb n="1r"/><lb n="1r1"/><g type="ddandaHooked">.</g> <g type="circle">.</g> <g type="ddandaHooked">.</g> śrĭr astu jagaddhitāya <g type="ddandaHooked">.</g> <g type="circle">.</g><g type="ddandaHooked">.</g></p>
+                             <p xml:lang="san-Latn"><pb n="1r"/><lb n="1r1"/><g ref="sym:doubleBar-hooked" type="punctuation">.</g> <g ref="sym:circle" type="punctuation">.</g> <g ref="sym:doubleBar-hooked" type="punctuation">.</g> śrĭr astu jagaddhitāya <g ref="sym:doubleBar-hooked" type="punctuation">.</g> <g ref="sym:circle" type="punctuation">.</g><g ref="sym:doubleBar-hooked" type="punctuation">.</g></p>
                              <p>svasti śaka-varṣatĭta, <num value="831">831</num>, Āṣāḍa-māsa
                              <lb n="1r2"/>tithi Aṣṭami śukla-pakṣa, <abbr>ba</abbr>, <abbr>va</abbr>, <abbr>Aṁ</abbr>, vāra mahatal· Uttara-<choice><sic>granārasta</sic><corr>grahacāra-stha</corr></choice>, hasta-nakṣatra, dinā
                              <lb n="1r3" break="no"/>kṣabdeto śiva-yoga, kuvera-parvveśa, băyabya-maṇḍala, svetā-muhŭ<supplied reason="omitted">r</supplied>tta<supplied reason="subaudible">,</supplied> viṣṭi-kara
@@ -134,7 +134,7 @@
                          <lb n="6r3"/>lavan· Iṅ kaṇḍaṁ, tuhun· hiṅannikaṁ sĭma Iṅ gayam·, kidul iṅ kāli maṅuluAn·, muvaḥ pahiṅanan·,
                          <lb n="6r4"/>muAṁ Ikaṅ kapuluṅan·, Ikaṁ pagər maṅavetan· kidul iṅ kali, muvaḥ hana ta savaḥ saṅaṅ liriḥ lo
                          <lb n="6r5" break="no"/>rniṅ kali savaḥ pagagan garan·, tan ilu riṁ parabyapāra, tu<unclear>h</unclear>un paknanya, patəkə gari-gariḥ ri sḍəṁniṅ aṅaturakə
-                         <lb n="6r6" break="no"/>n pŭjā I bhaṭāra, tumut· ri kasvatantranikaṁ savaḥ kamuladharmmān·, kacāyan· kaviśeṣa deniṁ mu-<g type="squiggleVertical">§</g></p>
+                         <lb n="6r6" break="no"/>n pŭjā I bhaṭāra, tumut· ri kasvatantranikaṁ savaḥ kamuladharmmān·, kacāyan· kaviśeṣa deniṁ mu-<g ref="sym:bar-curly" type="connector">§</g></p>
 
                        <p><pb n="6v"/><fw place="left" n="6v"><num value="6">6</num></fw><lb n="6v1" break="no"/>ladharmmā, Āpan ikā saṁ muladharmmā Inahakən· vruha ri hala-hayuniṅ śĭma, muvaḥ pahiṅanan· Ikaṁ śĭma
                          <lb n="6v2"/>Iṅ gayam· muAṁ Iṁ pyapya, Ikaṁ kali humulu maṅalor·, Ikaṁ pyapya madr̥vya Ikaṁ kali, tuhun ikaṅ ga

@@ -84,12 +84,10 @@
       <body>
          <div type="edition" xml:lang="kaw-Latn" rendition="class:38769 maturity:83213">
             <p>
-                <lb n="1"/> <g type="ddandaCross"/> svāsti śaka-varṣātīta <num value="776">776</num>
-                <lb n="2"/>caitra-māsa tithi caturdaśi śukla-pa<lb break="no" 
-                n="3"/>kṣa vurukuṁ pahiṁ śukra-văra tatkāla
+                <lb n="1"/> <g ref="sym:doubleBar-crossed" type="punctuation">.</g> svāsti śaka-varṣātīta <num value="776">776</num>
+                <lb n="2"/>caitra-māsa tithi caturdaśi śukla-pa<lb break="no" n="3"/>kṣa vurukuṁ pahiṁ śukra-văra tatkāla
                 <lb n="4"/><abbr>rakai</abbr> sisair· pu virājā manusuk·
-                <lb n="5"/>savaḥ I vayuku sīmāni bihā<lb break="no" 
-                n="6"/>ranira I Abhayananda
+                <lb n="5"/>savaḥ I vayuku sīmāni bihā<lb break="no" n="6"/>ranira I Abhayananda
             </p>
          </div>
          <div type="apparatus">
