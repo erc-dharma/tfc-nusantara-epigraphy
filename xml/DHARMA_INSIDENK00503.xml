@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?> <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?> <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?> <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+         	<title>N. 503. Charter of Wungan Daik, reign of Balitung (899–910 CE)</title>
+            <respStmt>
+               <resp>author of digital edition</resp>
+            	<persName ref="part:argr">
+            		<forename>Arlo</forename>
+            		<surname>Griffiths</surname>
+            	</persName>
+               <persName ref="part:wjsa">
+                  <forename>Wayan Jarrah</forename>
+                  <surname>Sastrawan</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>DHARMA</authority>
+            <pubPlace>Paris</pubPlace>
+            <idno type="filename">DHARMA_INSIDENK00503</idno>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/">
+                  <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
+                                            Licence. To view a copy of the licence, visit
+                                            https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                                            Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                                            California, 94041, USA.</p>
+               	<p>Copyright (c) 2019-2025 by Arlo Griffiths &amp; Wayan Jarrah Sastrawan.</p>
+               </licence>
+            </availability>
+            <date from="2019" to="2025">2019-2025</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>DHARMAbase</repository>
+                  <idno/>
+               </msIdentifier>
+               <msContents>
+                  <summary/>
+               </msContents>
+               <physDesc>
+                  <handDesc>
+                     <p/>
+                  </handDesc>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
+         </projectDesc>
+         <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+         <listPrefixDef>
+            <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+               <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
+            </prefixDef>
+            <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
+               <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_idListMembers_v01.xml</ref> file.</p>
+            </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <revisionDesc>
+         <change who="part:argr" when="2026-04-26">revision of encoding and of edition based on new photos</change>
+         <change who="part:axja" when="2022-08-16">Transforming docx into xml</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:space="preserve">
+           <body> 
+                   <div type="edition" xml:lang="kaw-Latn" rendition="class:38769 maturity:83213">
+  <p part="F"><pb n="1r"/>                
+  <lb n="1r1"/>Ayam· təAs· pu ḍa<unclear>pit·</unclear>, makudur· pu <unclear>sa</unclear>mvr̥da, <unclear>muAṁ saṁ mamu</unclear>At· Ujar<unclear>·</unclear> I kapatihan· kabeḥ kaṇḍamuh<unclear>i</unclear> pramukha, Ikana<unclear>ṁ</unclear> mas<unclear>·</unclear> pasak-pasak· muA<supplied reason="omitted">ṁ</supplied> vḍihan· kaharan· maparaha I s<unclear>i</unclear>ra kabeḥ<supplied reason="subaudible">,</supplied> ya Ikana<unclear>ṁ</unclear> p<unclear>i</unclear>nakaUbhayanira paṅanumoda<unclear cert="low">nire</unclear>
+<lb n="1r2" break="no"/>kanaṁ ḍavuhan·,</p> <p>kinon· saṁ ra supit· pu pramāṇa maṅasəAkna pasak-pasak· I samgat· gunuṁ rikaṁ kāla pu vudal·<supplied reason="subaudible">,</supplied> vineḥ vḍihan· kalyāga <abbr>yu</abbr> <num value="1">1</num> mas· <abbr>su</abbr> <num value="1">1</num><supplied reason="subaudible">,</supplied> samgat· Anakbi pu śaśī vineḥ kain· savaṭa-pakḍyan· vlaḥ <num value="1">1</num> mas· <abbr>mā</abbr> 8<supplied reason="subaudible">,</supplied> kabaya<lb 
+n="1r3" break="no"/>n· I gunuṁ pu ḍiluk·, Anak vanuA I pamilihan· vatak kalum varak·, mataṇḍa pu dhanuka, Anak vanuA I gammaḥ vatak· vatu humalaṁ, juru kalula saṁ katr̥ban· Anak vanuA I sabokan· vatak· Amviran·, vineḥ mas· <abbr>mā</abbr> <num value="12">12</num> ki<lb 
+n="1r4" break="no"/>nabaihannira, kabayan· ri Ayam· təAs· <num value="2">2</num> mira-miraḥ pu rayuṁ, Anak vanuA I mira-miraḥ vatak· vadihati, maṁraṅkappi halaran· pu dhanada, Anak vanuA I paṇḍamuAn·, vatak· vadihati, kabayan· I makudur· <num value="2">2</num>, halantaṅan· pu da<lb 
+n="1r5" break="no"/>nta, Anak vanuA I ra tguḥ, Aṁraṅkappi pataL̥san· pu vīryya, vinaiḥ mas· <abbr>mā</abbr> <num value="6">6</num> sovaṁ hop· vḍihan·,</p> <p>sira ri Ayam təAs· milu manusuk· saṁ ra vavu pu lutu Anak vanuA I vugu, sīmăniṁ vihāra I vuṅaṇ ḍaik· vatak· hino vine<unclear>ḥ</unclear>
+<lb n="1r6"/>vḍihan· <abbr>yu</abbr> <num value="1">1</num> mas· <abbr>mā</abbr> <num value="4">4</num> paṅaṅkat· I sira, muvaḥ sira vinaiḥ mas· pasak-pasak· <abbr>mā</abbr> <num value="6">6</num> sira ri makudur· saṁ lulahan· <unclear>pu ma</unclear>naṅguṁ, Anak vanuA I taṅga vuṅkal· sīma kudur·, vinaiḥ vḍihan· <abbr>yu</abbr> <num value="1">1</num> mas· <abbr>mā</abbr> <num value="1">1</num>, hop paṅaṅkat·
+<lb n="1r7"/>I sira, muvaḥ sira vineḥ mas· <abbr>su</abbr> <num value="2">2</num> <abbr>mā</abbr> <num value="1">1</num>, <abbr>ku</abbr> <num value="1">1</num>, paknānya paṅmas· I sapariskārani sajiniṁ maṅuyut·, tāmbr̥ kāṅsa vsi-vsi Ityevamādi saluIr·nikanaṁ saji,</p> <p part="I">patiḥ Air hili si sena ramani Aluṁ, vinaiḥ vḍihan· <abbr>yu</abbr> <num value="1">1</num> ma<lb 
+n="1r8" break="no"/>s· <abbr>mā</abbr> <num value="4">4</num> Anakbiniṁ patiḥ si śukrī mas· <abbr>mā</abbr> <num value="4">4</num> patiḥ lampuran· si <choice><unclear>ca</unclear><unclear>va</unclear></choice>ṅgər· ramani balam· vineḥ mas· <abbr>mā</abbr> <num value="4">4</num> parujar·niṁ patiḥ <num value="2">2</num> si bhavana ramani Ayud·, si tiḍu ramani gampeṁ, vineḥ mas· <abbr>mā</abbr> <num value="2">2</num> kinālihanya, vahuta luva<lb 
+n="1r9" break="no"/>kan· si paṭa ramani kāmodaya, vineḥ vḍihan· <abbr>yu</abbr> <num value="1">1</num> mas· <abbr>mā</abbr> <num value="4">4</num> Anakbini vahuta si ḍukun· vineḥ mas· <abbr>mā</abbr> <num value="4">4</num> vahuta tuṅgū duruṁ si tvaran· ramani kaṭot· vineḥ mas· <abbr>mā</abbr> <num value="4">4</num> vahuta lampuran· si tka vineḥ ma<supplied reason="lost">s·</supplied>
+<lb n="1r10"/><abbr>mā</abbr> <num value="2">2</num> vinkas· si kalā ramani kal<unclear>y</unclear>an·, piluṅgaḥ si kar<unclear>tt</unclear>ā ramani godhara, vineḥ mas· <abbr>mā</abbr> <num value="1">1</num> sovaṁ, rāmanta I muntaṁ kalaṁ si bhavana ramani Ayud· vineḥ vḍihan· <abbr>yu</abbr> <num value="1">1</num> pirak· <abbr>mā</abbr> <num value="2">2</num> kalaṁ Anakbi re Aya<unclear>m</unclear>· <supplied reason="lost">t</supplied>ə<supplied reason="lost">As·</supplied></p>
+ <pb n="1v"/>       
+                   </div>
+                       <div type="apparatus">
+                            
+                       </div>
+<div type="commentary">
+            <p>The charter is not intact. The single extant plate mentions a grant (<foreign>anumoda</foreign>) of or to a dam, as well as gifts of gold and textiles to various officials. The text is cut off at the start and end of the single engraved side of the plate, which is therefore believed to be neither the first nor last in the original set. The start of the text, suspected to contain the date and name of the issuing king, is lost. However, the names of officials mentions in the extant portion allow us to place this inscription in the reign of Balitung.</p>                
+                       </div>
+              <div type="bibliography">
+                 <p>Digital edition based on the publication by the BRIN-EFEO team (<bibl><ptr target="bib:TitiSurtiNastiti+al2026_02"/></bibl>).<!--Read in March 2022 by Arlo Griffiths &amp; Wayan Jarrah Sastrawan from photos kindly supplied by Titi Surti Nastiti; revised in April 2026 by Arlo Griffiths based on new BRIN-EFEO photographs.--></p>
+<listBibl type="primary">
+	<bibl><ptr target="bib:TitiSurtiNastiti+al2026_02"/><citedRange unit="part">???</citedRange></bibl>
+</listBibl>
+              </div>
+<!-- <div>
+                    <head>Artefact</head>
+                    <p>A single plate inscribed one side, belonging to a set whose other plates are lost.</p>
+                </div>
+                <div>
+                    <head>Provenance</head>
+                    <p>Ditemukan oleh Pak Magi di hutan Paluan, Desa Pangoman, Kecamatan Tlogowungu, Kabupaten Pati, Provinsi Jawa Tengah yang berbatasan dengan Kabupaten Rembang.</p>
+                </div>
+ -->
+           </body>
+                     </text>
+</TEI>
