@@ -82,7 +82,7 @@
   <text xml:space="preserve">
     <body>
       <!--
-HandDesc From the palaeographical point of view, an interesting feature of this inscription comes from the <foreign>ulu ricem</foreign> (here transliterated as <foreign>ṁ*</foreign>) that occurs two times in the text (A2, A13). In the Daksa corpus, this sign is found uniquely in this inscription. Other occurrences of <foreign>ulu ricem </foreign>are found hitherto in the Balitung corpus (Kayu Ara Hiwang, 823 Saka) and in the Tulodhong corpus (Harinjing, 843 Saka).
+HandDesc From the palaeographical point of view, an interesting feature of this inscription comes from the <foreign>ulu ricem</foreign> (here transliterated as <foreign>ḿ</foreign>) that occurs two times in the text (A2, A13). In the Daksa corpus, this sign is found uniquely in this inscription. Other occurrences of <foreign>ulu ricem </foreign>are found hitherto in the Balitung corpus (Kayu Ara Hiwang, 823 Saka) and in the Tulodhong corpus (Harinjing, 843 Saka).
 Information from Arlo Griffiths.
 The first transcription of this charter was included in the posthumous publication of Brandes’ transcriptions (OJO no. XXX). Brandes’ edition later was republished by Sarkar and completed with an English translation and comments. Sugih Manek was coined as the designation of this charter by Damais in 1952. An attempt to convert its date was conducted by the same scholar in 1955. Nakada subsequently reread and republished this inscription with some changes and additional comments. Edhie Wurjantoro (2018) also includes this charter, under the slightly expanded designation Sugih Manek (Limus). Here, Brandes’ reading is used as the basis for an Indonesian translation. Some comments also seem to be taken from Sarkar’s work.
 Brandes 1913: 37–41.
@@ -98,7 +98,7 @@ The edition presented here was made on the basis of direct observation on the st
 <lb n="A1"/> <g ref="sym:doubleBar-crossed" type="punctuation">.</g> <g ref="sym:circle-large" type="symbol">*</g> <g ref="sym:doubleBar-crossed" type="punctuation">.</g> Avighnam astu <g ref="sym:doubleBar-crossed" type="punctuation">.</g></ab>
 <lg met="āryā" n="1" xml:lang="san-Latn">
 <l n="ab">śivam astu sarvva-jagataḥ para-hita-niratāḥ bhavantu <lb n="A2"/>bhūta-gaṇāḥ</l>
-<l n="cd">doṣāḥ prayāntu nāśaṁ* sarvvatra sukhī bhavatu lokaḥ <unclear><g ref="sym:doubleBar-crossed" type="punctuation">.</g> <g ref="sym:circle-large" type="symbol">*</g> <g ref="sym:doubleBar-crossed" type="punctuation">.</g> Avighnam astu <g ref="sym:doubleBar-crossed" type="punctuation">.</g></unclear></l>
+<l n="cd">doṣāḥ prayāntu nāśaḿ sarvvatra sukhī bhavatu lokaḥ <unclear><g ref="sym:doubleBar-crossed" type="punctuation">.</g> <g ref="sym:circle-large" type="symbol">*</g> <g ref="sym:doubleBar-crossed" type="punctuation">.</g> Avighnam astu <g ref="sym:doubleBar-crossed" type="punctuation">.</g></unclear></l>
 </lg>
 <p>
 <lb n="A3"/>svasti śaka-varṣātīta <num value="837">837</num> Asuji-māsa, tithi dvitīya śukla-pakṣa, <abbr>ma</abbr>, <abbr>po</abbr>, <abbr>bu</abbr>, vāra
@@ -107,7 +107,7 @@ The edition presented here was made on the basis of direct observation on the st
 <lb n="A10"/><choice><orig>māna</orig><reg>mānak</reg></choice> katrīṇi, paṅkur·, tavān·, <unclear>ti</unclear>rip·<supplied reason="subaudible">,</supplied> tiruAn·, maṁhuri, mvaṁ sovāra saṁ maṅilala drabya haji, kriṁ, paṅuraṁ,
 <lb n="A11"/>paḍam apvī, manimpiki, halu varak·, pamaṇikan·, maṇiga, lva, malandaṁ, pakalaṅkaṁ, tapa haji, Er haji<unclear>, maṁru</unclear><supplied reason="lost">mve</supplied>
 <lb n="A12"/>juru guśali, juru dagaṁ, juru nambi, juru huñjamān·, juru kutak·, juru jalir·‚ juru juḍi‚ Uṇḍahagi, limus galuḥ<unclear>,</unclear>
-<lb n="A13"/>paṅaruhan·, vatu tajaṁ*, taji, paṇḍai, mapayuṅan·, kḍi, valyan·, paranakan·, vidu maṅiduṁ, juru paḍahi,
+<lb n="A13"/>paṅaruhan·, vatu tajaḿ, taji, paṇḍai, mapayuṅan·, kḍi, valyan·, paranakan·, vidu maṅiduṁ, juru paḍahi,
 <lb n="A14"/>sinaguha, taṅkil·, salvit·, varahan·, sambal·, sumbul·, vatak· ri jro, siṅgaḥ pamr̥ṣi, hulun· haji, ma<lb break="no" n="A15"/>haliman·, L̥bə-L̥b·, Ityaivamādi saprakāra<space/>niṁ maṅilala dr̥bya haji, miśra parāmiśra kabaiḥ ta<lb break="no" n="A16"/>n· ta<unclear>mā</unclear> Iri<unclear>k</unclear>aiṁ kabikvan· I sugiḥ manek· mvaṁ Ikaṁ I limus·, samaṅkana sukhaduḥkhanya, mayaṁ tan· tka riṁ vvaḥ<supplied reason="subaudible">,</supplied>
 <!-- @@!! Santi agar melanjutkan pengecheken akhir/awal baris -->
 <lb n="A17"/>ḍaṇḍa-kuḍaṇḍa<supplied reason="subaudible">,</supplied> bhaṇḍihalādi, salvir·niṁ vipati, mati katibā, māti kalbu, Inalapni glap·, valū rumambatt iṁ natar·<supplied reason="subaudible">,</supplied>
@@ -170,7 +170,7 @@ space for the pasangan ja above it. and perhaps the suku!
 The siglum Br refers to Brandes’ edition and the siglum Na refers to Nakada’s. -->
 <app loc="A1"><lem>para-hita-niratāḥ</lem><rdg source="bib:Brandes1913_01">parahita iratāḥ</rdg><rdg source="bib:Nakada1992_01">parahitanira tāḥ</rdg></app> 
 <app loc="A1"><lem source="bib:Brandes1913_01">bhavantu (2) bhūta-</lem><rdg source="bib:Nakada1992_01">bhavantu, (2) bhūta-</rdg><note>No punctuation sign is expected after <foreign>bhavantu</foreign> and indeed none is engraved.</note></app>
-<app loc="A2"><lem source="bib:Nakada1992_01">nāśaṁ*</lem><rdg source="bib:Brandes1913_01">nāśa</rdg></app>
+<app loc="A2"><lem source="bib:Nakada1992_01">nāśaḿ</lem><rdg source="bib:Brandes1913_01">nāśa</rdg></app>
 <app loc="A4"><lem>(Ă)gniya-</lem><rdg source="bib:Brandes1913_01 bib:Nakada1992_01">(A)gneya-</rdg><note>The form <foreign>agniya</foreign> occurs in Poh Dulur 1v5.</note></app>
 <app loc="A4"><lem source="bib:Nakada1992_01">tvaṣṭā</lem><rdg source="bib:Brandes1913_01">tvaṣtā</rdg></app>
 <app loc="A5"><lem source="bib:Nakada1992_01">dyaḥ mumpuṁ</lem><rdg source="bib:Brandes1913_01">mumpuṁ</rdg></app>
@@ -189,7 +189,7 @@ The siglum Br refers to Brandes’ edition and the siglum Na refers to Nakada’
 <app loc="A10"><lem source="bib:Brandes1913_01">paṅkur·</lem><rdg source="bib:Nakada1992_01">paṁkur</rdg></app> 
 <app loc="A11"><lem>paḍam apvī</lem><rdg source="bib:Brandes1913_01">pamr̥ṣi</rdg><rdg source="bib:Nakada1992_01">pamarṣi</rdg></app> 
 <app loc="A11"><lem>Er haji(, maṁru)[mve]</lem><rdg source="bib:Brandes1913_01">Air haji</rdg><rdg source="bib:Nakada1992_01">Airhaji, {3 akṣ. illegible}</rdg><note>This restoration is supported by other parallels found in this corpus. Cf. Timbanan Wungkal (line 11)<foreign> tapa haji, Er haji‚ maṁrumve</foreign> and<foreign> </foreign>Tihang (1v7)<foreign> tapa haji, Air haji, maṁguñjai, maṁrumvai.</foreign></note></app> 
-<app loc="A13"><lem>tajaṁ*</lem><rdg source="bib:Brandes1913_01 bib:Nakada1992_01">tajəm·</rdg></app> 
+<app loc="A13"><lem>tajaḿ</lem><rdg source="bib:Brandes1913_01 bib:Nakada1992_01">tajəm·</rdg></app> 
 <app loc="A13"><lem>paṇḍai</lem><rdg source="bib:Brandes1913_01 bib:Nakada1992_01">paṇḍe</rdg></app> 
 <app loc="A14"><lem>sinaguha</lem><rdg source="bib:Brandes1913_01 bib:Nakada1992_01">sinagiha</rdg></app> 
 <app loc="A14"><lem>varahan·</lem><rdg source="bib:Brandes1913_01">burahan</rdg><rdg source="bib:Nakada1992_01">burəhun</rdg><note>This function appears in Tihang (1v7) and Timbanan Wungkal (A12)</note></app> 
