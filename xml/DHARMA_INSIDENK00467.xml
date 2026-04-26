@@ -3,26 +3,23 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Charter of the early tenth century (date lost)</title>
-            <respStmt>
-               <resp>EpiDoc Encoding</resp>
-               <persName ref="part:wjsa">
-                  <forename>Wayan Jarrah</forename>
-                  <surname>Sastrawan</surname>
-               </persName>
-            </respStmt>
-            <respStmt>
-               <resp>intellectual authorship of edition</resp>
-               <persName ref="part:argr">
-                  <forename>Arlo</forename>
-                  <surname>Griffiths</surname>
-               </persName>
-            </respStmt>
+            <title>N. 467. Charter of the early tenth century</title>
+         	<respStmt>
+         		<resp>author of digital edition</resp>
+         		<persName ref="part:argr">
+         			<forename>Arlo</forename>
+         			<surname>Griffiths</surname>
+         		</persName>
+         		<persName ref="part:wjsa">
+         			<forename>Wayan Jarrah</forename>
+         			<surname>Sastrawan</surname>
+         		</persName>
+         	</respStmt>
          </titleStmt>
          <publicationStmt>
             <authority>DHARMA</authority>
-            <pubPlace>Paris</pubPlace>
-            <idno type="filename">DHARMA_INSIDENKPlered</idno>
+            <pubPlace>Paris, Jakarta</pubPlace>
+            <idno type="filename">DHARMA_INSIDENK00467</idno>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/">
                   <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
@@ -67,14 +64,14 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
+      	<change who="part:argr" when="2026-05-26">Further modifications; change of file name</change>
       	<change who="part:argr" when="2025-02-26">Manual modifications of encoding</change>
-              <change who="part:axja" when="2022-08-16">Transforming docx into xml</change>
+       <change who="part:axja" when="2022-08-16">Transforming docx into xml</change>
       </revisionDesc>
    </teiHeader>
    <text xml:space="preserve">
            <body> 
-
-                   <div type="edition" xml:lang="kaw-Latn" rendition="class:38769 maturity:83213">
+<div type="edition" xml:lang="kaw-Latn" rendition="class:38769 maturity:83213">
             <pb n="4r"/><fw n="4r" place="bot-right"><num value="4">4</num></fw>
             <p part="F"><lb n="4r1"/>suga ramani dunuṁ, tuha banuA si timvun· ramani camyuk·, variga si duruṁ, parujar· si vuntu ramani səsək·, muAṁ dharaṇa ramani palaku, vineḥ vḍihan· <abbr>yu</abbr> <num value="1">1</num> pirak· <abbr>mā</abbr> 2 sovaṁ-sovaṁ, reṇa māgman· gusti si skar· re sarutī, vinkas·‚ si bha<lb break="no" n="4r2"/>vi re duduṁ, variga si ruti vineḥ ken· vlaḥ <num value="1">1</num> pirak· <abbr>mā</abbr> 2 sovaṁ-sovaṁ reṇa matuha si sukha re maṅinaki tuha banuA si L̥ṅkap· re camyak· vineḥ ken vlaḥ <num value="1">1</num> pirak· <abbr>mā</abbr> 2 sovaṁ-sovaṁ, par<choice><sic>a</sic><corr>u</corr></choice>jar· si tamvam· re səsək·, mu<lb break="no" n="4r3"/>Aṁ si ramyā re luhik· vineḥ ken· vlaḥ <num value="1">1</num> pirak· <abbr>mā</abbr> <num value="4">4</num> sovaṁ reṇa maratā prāṇa <num value="52">52</num> vineḥ pirak· <abbr>mā</abbr> <num value="2">2</num> sovaṁ-sovaṁ,</p> <p>pinakānak· Anakvi prāṇa <num value="15">15</num> vineḥ pirak· <abbr>mā</abbr> <num value="1">1</num> sovaṁ-sovaṁ, rarai prāṇa <num value="19">19</num> vineḥ pirak·
 <lb n="4r4"/>ku <num value="1">1</num> sovaṁ rāma māgman· Iṁ vulusan· gusti si ṅeṅe ramani drabya, vinkas· si puñjaṁ ramani tīn· variga si malaḥ ramani tatəl· muAṁ si nala rama tasər·, parujar· si sudhana ramani jaya, huler· si glis· ramani gunuṁ ma<lb break="no" n="4r5"/>kava prāṇa <num value="4">4</num> si Amvil· ramani vakul·, muAṁ si piṅul· ramani gadā si galuḥ ramani kpal·, si gamī ramani garamman· vineḥ vḍihan· <abbr>yu</abbr> <num value="1">1</num> pirak· <abbr>mā</abbr> 2 sovaṁ-sovaṁ</p> <p>tuha banuA si grya ramani bloṇḍo vineḥ vḍihan· <abbr>yu</abbr> <num value="1">1</num> pirak·
