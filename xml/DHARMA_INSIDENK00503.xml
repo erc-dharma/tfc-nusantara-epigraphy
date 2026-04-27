@@ -42,9 +42,14 @@
                   <summary/>
                </msContents>
                <physDesc>
-                  <handDesc>
-                     <p/>
-                  </handDesc>
+               	<handDesc>
+               		<p>Script typical of the inscriptions of the reign of Balitung. The lowest-level punctuation mark takes the shape of a hollow bullet at mean character height. <!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EG 11.2. --></p>
+               		<!-- If you need to identify individual hands (EG §7.5/) in addition to one or more paragraphs of general palaeographic description, wrap <summary> around the <p> or <p>s above, and, outside <summary>, create <handNote> elements for each hand as follows:
+						<summary><p><p/></summary>
+						<handNote xml:id="Pallava00001_hand1"></handNote>
+						<handNote xml:id="Pallava00001_hand2"></handNote>
+					 -->
+               	</handDesc>
                </physDesc>
             </msDesc>
          </sourceDesc>
@@ -81,7 +86,7 @@ n="1r5" break="no"/>nta<g ref="sym:bullet-high-hollow" type="punctuation">.</g> 
 <lb n="1r7"/>I sira<g ref="sym:bullet-high-hollow" type="punctuation">.</g> muvaḥ sira vineḥ mas· <abbr>su</abbr> <num value="2">2</num> <abbr>mā</abbr> <num value="1">1</num><g ref="sym:bullet-high-hollow" type="punctuation">.</g> <abbr>ku</abbr> <num value="1">1</num><g ref="sym:bullet-high-hollow" type="punctuation">.</g> paknānya paṅmas· I sapariskārani sajiniṁ maṅuyut·<g ref="sym:bullet-high-hollow" type="punctuation">.</g> tāmbr̥ kāṅsa vsi-vsi Ityevamādi saluIr·nikanaṁ saji<g ref="sym:bullet-high-hollow" type="punctuation">.</g></p> <p part="I">patiḥ Air hili si sena ramani Aluṁ<g ref="sym:bullet-high-hollow" type="punctuation">.</g> vinaiḥ vḍihan· <abbr>yu</abbr> <num value="1">1</num> ma<lb 
 n="1r8" break="no"/>s· <abbr>mā</abbr> <num value="4">4</num> Anakbiniṁ patiḥ si śukrī mas· <abbr>mā</abbr> <num value="4">4</num> patiḥ lampuran· si <choice><unclear>ca</unclear><unclear>va</unclear></choice>ṅgər· ramani balam· vineḥ mas· <abbr>mā</abbr> <num value="4">4</num> parujar·niṁ patiḥ <num value="2">2</num> si bhavana ramani Ayud·<g ref="sym:bullet-high-hollow" type="punctuation">.</g> si tiḍu ramani gampeṁ<g ref="sym:bullet-high-hollow" type="punctuation">.</g> vineḥ mas· <abbr>mā</abbr> <num value="2">2</num> kinālihanya<g ref="sym:bullet-high-hollow" type="punctuation">.</g> vahuta luva<lb 
 n="1r9" break="no"/>kan· si paṭa ramani kāmodaya<g ref="sym:bullet-high-hollow" type="punctuation">.</g> vineḥ vḍihan· <abbr>yu</abbr> <num value="1">1</num> mas· <abbr>mā</abbr> <num value="4">4</num> Anakbini vahuta si ḍukun· vineḥ mas· <abbr>mā</abbr> <num value="4">4</num> vahuta tuṅgū duruṁ si tvaran· ramani kaṭot· vineḥ mas· <abbr>mā</abbr> <num value="4">4</num> vahuta lampuran· si tka vineḥ ma<supplied reason="lost">s·</supplied>
-<lb n="1r10"/><abbr>mā</abbr> <num value="2">2</num> vinkas· si kalā ramani kal<unclear>y</unclear>an·<g ref="sym:bullet-high-hollow" type="punctuation">.</g> piluṅgaḥ si kar<unclear>tt</unclear>ā ramani godhara<g ref="sym:bullet-high-hollow" type="punctuation">.</g> vineḥ mas· <abbr>mā</abbr> <num value="1">1</num> sovaṁ<g ref="sym:bullet-high-hollow" type="punctuation">.</g> rāmanta I muntaṁ kalaṁ si bhavana ramani Ayud· vineḥ vḍihan· <abbr>yu</abbr> <num value="1">1</num> pirak· <abbr>mā</abbr> <num value="2">2</num> kalaṁ Anakbi re Aya<unclear>m</unclear>· <supplied reason="lost">t</supplied>ə<supplied reason="lost">As·</supplied></p>
+<lb n="1r10"/><abbr>mā</abbr> <num value="2">2</num> vinkas· si kalā ramani kal<unclear>y</unclear>an·<g ref="sym:bullet-high-hollow" type="punctuation">.</g> piluṅgaḥ si kar<unclear>tt</unclear>ā ramani godhara<g ref="sym:bullet-high-hollow" type="punctuation">.</g> vineḥ mas· <abbr>mā</abbr> <num value="1">1</num> sovaṁ<g ref="sym:bullet-high-hollow" type="punctuation">.</g> rāmanta I muntaṁ kalaṁ si bhavana ramani Ayud· vineḥ vḍihan· <abbr>yu</abbr> <num value="1">1</num> pirak· <abbr>mā</abbr> <num value="2">2</num> kalaṁ Anakbi <abbr>re</abbr> Aya<unclear>m</unclear>· <supplied reason="lost">t</supplied>ə<supplied reason="lost">As·</supplied></p>
  <pb n="1v"/>       
                    </div>
                        <div type="apparatus">
