@@ -3,7 +3,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-         	<title>N. 503. Charter of Wungan Daik, reign of Balitung (898–910 CE)</title>
+         	<title>N. 503. Charter of Wungandaik, reign of Balitung (899–910 CE)</title>
             <respStmt>
                <resp>author of digital edition</resp>
             	<persName ref="part:argr">
@@ -69,15 +69,16 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
+      	<change who="part:argr" when="2026-04-30" status="draft">encoded translation</change>
       	<change who="part:argr" when="2026-04-26" status="draft">revision of encoding and of edition based on new photos; change of file name</change>
-      	<change who="part:axja" when="2022-08-16" status="draft">Transforming docx into xml</change>
+      	<change who="part:axja" when="2022-08-16" status="draft">transforming docx into xml</change>
       </revisionDesc>
    </teiHeader>
    <text xml:space="preserve">
            <body> 
                    <div type="edition" xml:lang="kaw-Latn" rendition="class:38769 maturity:83213">
   <p part="F"><pb n="1r"/>                
-  <lb n="1r1"/>Ayam· təAs· pu ḍa<unclear>pit·</unclear><g ref="sym:bullet-high-hollow" type="punctuation">.</g> makudur· pu <unclear>sa</unclear>mvr̥da<g ref="sym:bullet-high-hollow" type="punctuation">.</g> <unclear>muAṁ saṁ mamu</unclear>At· Ujar<unclear>·</unclear> I kapatihan· kabeḥ kaṇḍamuh<unclear>i</unclear> pramukha<g ref="sym:bullet-high-hollow" type="punctuation">.</g> Ikana<unclear>ṁ</unclear> mas<unclear>·</unclear> pasak-pasak· muA<supplied reason="omitted">ṁ</supplied> vḍihan· kaharan· maparaha I s<unclear>i</unclear>ra kabeḥ<supplied reason="subaudible"><g ref="sym:bullet-high-hollow" type="punctuation">.</g></supplied> ya Ikana<unclear>ṁ</unclear> p<unclear>i</unclear>nakaUbhayanira paṅanumoda<unclear cert="low">nire</unclear>
+  <lb n="1r1"/>Ayam· təAs· pu ḍa<unclear>pit·</unclear><g ref="sym:bullet-high-hollow" type="punctuation">.</g> makudur· pu <unclear>sa</unclear>mvr̥da<g ref="sym:bullet-high-hollow" type="punctuation">.</g> <unclear>muAṁ saṁ mamu</unclear>At· Ujar<unclear>·</unclear> I kapatihan· kabeḥ kaṇḍamuh<unclear>i</unclear>-pramukha<g ref="sym:bullet-high-hollow" type="punctuation">.</g> Ikana<unclear>ṁ</unclear> mas<unclear>·</unclear> pasak-pasak· muA<supplied reason="omitted">ṁ</supplied> vḍihan· kaharan· maparaha I s<unclear>i</unclear>ra kabeḥ<supplied reason="subaudible"><g ref="sym:bullet-high-hollow" type="punctuation">.</g></supplied> ya Ikana<unclear>ṁ</unclear> p<unclear>i</unclear>nakaUbhayanira paṅanumoda<unclear cert="low">nire</unclear>
 <lb n="1r2" break="no"/>kanaṁ ḍavuhan·<g ref="sym:bullet-high-hollow" type="punctuation">.</g></p> <p>kinon· saṁ ra supit· pu pramāṇa maṅasəAkna pasak-pasak· I samgat· gunuṁ rikaṁ kāla pu vudal·<supplied reason="subaudible"><g ref="sym:bullet-high-hollow" type="punctuation">.</g></supplied> vineḥ vḍihan· kalyāga <abbr>yu</abbr> <num value="1">1</num> mas· <abbr>su</abbr> <num value="1">1</num><supplied reason="subaudible"><g ref="sym:bullet-high-hollow" type="punctuation">.</g></supplied> samgat· Anakbi pu śaśī vineḥ kain· savaṭa-pakḍyan· vlaḥ <num value="1">1</num> mas· <abbr>mā</abbr> 8<supplied reason="subaudible"><g ref="sym:bullet-high-hollow" type="punctuation">.</g></supplied> kabaya<lb 
 n="1r3" break="no"/>n· I gunuṁ pu ḍiluk·<g ref="sym:bullet-high-hollow" type="punctuation">.</g> Anak vanuA I pamilihan· vatak kalum varak·<g ref="sym:bullet-high-hollow" type="punctuation">.</g> mataṇḍa pu dhanuka<g ref="sym:bullet-high-hollow" type="punctuation">.</g> Anak vanuA I gammaḥ vatak· vatu humalaṁ<g ref="sym:bullet-high-hollow" type="punctuation">.</g> juru kalula saṁ katr̥ban·<supplied reason="subaudible"><g ref="sym:bullet-high-hollow" type="punctuation">.</g></supplied> Anak vanuA I sabokan· vatak· Amviran·<g ref="sym:bullet-high-hollow" type="punctuation">.</g> vineḥ mas· <abbr>mā</abbr> <num value="12">12</num> ki<lb 
 n="1r4" break="no"/>nabaihannira<g ref="sym:bullet-high-hollow" type="punctuation">.</g> kabayan· ri Ayam· təAs· <num value="2">2</num> mira-miraḥ pu rayuṁ<g ref="sym:bullet-high-hollow" type="punctuation">.</g> Anak vanuA I mira-miraḥ vatak· vadihati<g ref="sym:bullet-high-hollow" type="punctuation">.</g> maṁraṅkappi halaran· pu dhanada<g ref="sym:bullet-high-hollow" type="punctuation">.</g> Anak vanuA I paṇḍamuAn·<g ref="sym:bullet-high-hollow" type="punctuation">.</g> vatak· vadihati<g ref="sym:bullet-high-hollow" type="punctuation">.</g> kabayan· I makudur· <num value="2">2</num><g ref="sym:bullet-high-hollow" type="punctuation">.</g> halantaṅan· pu da<lb 
@@ -89,7 +90,42 @@ n="1r9" break="no"/>kan· si paṭa ramani kāmodaya<g ref="sym:bullet-high-holl
 <lb n="1r10"/><abbr>mā</abbr> <num value="2">2</num><supplied reason="subaudible"><g ref="sym:bullet-high-hollow" type="punctuation">.</g></supplied> vinkas· si kalā ramani kal<unclear>y</unclear>an·<g ref="sym:bullet-high-hollow" type="punctuation">.</g> piluṅgaḥ si kar<unclear>tt</unclear>ā ramani godhara<g ref="sym:bullet-high-hollow" type="punctuation">.</g> vineḥ mas· <abbr>mā</abbr> <num value="1">1</num> sovaṁ<g ref="sym:bullet-high-hollow" type="punctuation">.</g> rāmanta I muntaṁ kalaṁ si bhavana ramani Ayud· vineḥ vḍihan· <abbr>yu</abbr> <num value="1">1</num> pirak· <abbr>mā</abbr> <num value="2">2</num> kalaṁ Anakbi <abbr>re</abbr> Aya<unclear>m</unclear>· <supplied reason="lost">t</supplied>ə<supplied reason="lost">As·</supplied></p>
  <pb n="1v"/>       
                    </div>
-                       <div type="apparatus">
+                       <div type="translation" resp="part:argr part:wjsa">
+<p n="1r1-1r2"><gap reason="lost"/> <supplied reason="subaudible">of</supplied> Ayam Təas, <supplied reason="subaudible">named</supplied> <foreign>pu</foreign> Ḍapit, <supplied reason="subaudible">of</supplied> Makudur, <foreign>pu</foreign> Samvr̥da. And the communicators of all the chieftaincies with the one at Kaṇḍamuhi in first place.
+Gifts of gold and cloths would be considered to be credited <supplied reason="explanation"><foreign>kaharan maparaha</foreign></supplied>,<note>In related contexts, we generally find <foreign>maparah(a)</foreign> without <foreign>karahan</foreign>, although there are also some other passages where kaharan precedes as it does here, the best preserved one being in <ref target="DHARMA_INSIDENKWanuaTengahIII.xml">Wanua Tengah III</ref> 2r10–2r14. It is hard to know for certain what kaharan <q>as it were</q> is adding in these contexts, but we imagine a reallocation of gifts stated to have been offered to representatives of an institution (which would here had happened in the lost part of charter) to other people also listed (only the last two of whom preserved here).
+The alternative would be to assume that <foreign>maparah</foreign> was felt to have a primary meaning of which <q>to be credited to, to benefit to</q> was only a metaphorical secondary sense, while the literal primary meaning <q>to be directed to</q>. In cases where <foreign>maparah</foreign> is used without <foreign>kaharan</foreign>, the metaphorical sense would then be used without explicit marker of metaphor (<foreign>asyndeton</foreign>).</note> to them all. That was their promised donation <supplied reason="explanation"><foreign>pinakaubhayanira paṅanumodanira</foreign></supplied> to the dam.</p> 
+<p n="1r2-1r5">The one of Ra Supit, <supplied reason="subaudible">named</supplied> <foreign>pu</foreign> Pramāṇa, was ordered to offer gifts to:
+<list>
+<item>the official of Gunung; at that time, <foreign>pu</foreign> Vudal, who was given 1 pair of <foreign>kalyāga</foreign> cloth, 1 <foreign>suvarṇa</foreign> of gold;</item>
+<item>the official’s wife, <foreign>pu</foreign> Śaśī, who was given 1 half of <foreign>savaṭapakḍyan</foreign> cloth,<note>The cloth term is not known from any other source and its meaning remains opaque. We of course recognize the base <foreign>kəḍi</foreign> <q>eunuch</q> and perhaps also <foreign>vaṭa</foreign> <q>banyan tree</q>.</note> 8 <foreign>māṣa</foreign>s of gold.</item></list>
+The seniors of Gunuṅ:
+<list>
+<item><foreign>pu</foreign> Ḍilik, native of the village of Pamilihan, district Kalum Varak,</item>
+<item>the <foreign>mataṇḍa</foreign>, <foreign>pu</foreign> Dhanuka, native of the village of Gəmah, district Vatu Humalaṅ,</item>
+<item>the <foreign>juru kalula</foreign>, <foreign>saṅ</foreign> Katr̥ban, native of the village of Sabokan, district Amviran,</item>
+</list>
+were given 12 <foreign>māṣa</foreign>s of gold collectively.
+The 2 seniors of Ayam Təas,
+<list>
+<item><supplied reason="subaudible">the one at</supplied> Mirah-mirah, <foreign>pu</foreign> Rayuṅ, native of the village of Mira-mirah, district Vadihati, accompanying</item>
+<item><supplied reason="subaudible">the one at</supplied> Halaran, <foreign>pu</foreign> Dhanada, native of the village of Paṇḍamuan, district Vadihati;</item>
+</list>
+<supplied reason="subaudible">and</supplied> the 2 seniors of Makudur:
+<list>
+<item><supplied reason="subaudible">the one at</supplied> Halantaṅan, <foreign>pu</foreign> Danta, native of the village of Ra Təguh, accompanying</item>
+<item><supplied reason="subaudible">the one at</supplied> Patəlasan, <foreign>pu</foreign> Vīrya,</item>
+</list>
+were given 6 <foreign>māṣa</foreign>s of gold each, plus cloth.</p>
+<p n="1v5-1v7">The one from Ayam Təas who joined in the demarcation, the one of Ra Vavu, <supplied reason="subaudible">named</supplied> <foreign>pu</foreign> Lutu—native of the village of Vugu, benefice of the monastery of Vuṅaṇḍaik, district Hino—was given 1 pair of cloth, 4 <foreign>māṣa</foreign>s of gold, plus a raising fee <supplied reason="explanation"><foreign>paṅaṅkat</foreign></supplied> for him.<note>The term <foreign>paṅaṅkat</foreign>, of frequent occurrence in the Balitung corpus but also in some Sindok inscriptions, designated a <q>remuneration for performing a function?</q> (OJED). We speculate that it has to do with lifting up one or more of the necessary stones and placing them in position. It seems to be used consistently for those people directly involved in the ceremony: the <foreign>saṅ vadihati</foreign> and the <foreign>saṅ makudur</foreign>.</note> Moreover he was given gifts of 6 <foreign>māṣa</foreign>s of gold.
+The one from Makudur, the one of Lulahan, <supplied reason="subaudible">named</supplied> <foreign>pu</foreign> Manaṅguṅ, native of the village of Taṅga Vuṅkal, benefice of Kudur, district Hino, was given 1 pair of cloth, 1 <foreign>māṣa</foreign>s of gold, plus a raising fee for him. Moreover he was given 2 <foreign>suvarṇa</foreign>s, 1 <foreign>māṣa</foreign>, 1 <foreign>kupaṅ</foreign> of gold to be used as cash advance (? <foreign>paṅemas</foreign>) for the utensils for the offerings of the one who made the invocation: copper, bronze, iron pieces, etc. — all kinds of offering.<note>Our translation <q>cash advance</q> for <foreign>paṅəmas</foreign> is a guess. See the occurrence of <foreign>paṅəmas</foreign> in <ref target="DHARMA_INSIDENKTija-HaruHaru.xml">Tija Haru-Haru</ref>, where it seems to refer to a fee or tax that perhaps illegitimately goes to the <foreign>nāyaka</foreign>. The fact that the Makudur received so much more gold than the Ayam Teas may be explained by the idea that it was a cash advance to pay for utensils.</note></p>
+<p n="1r7-1r10">The chief of Air Hili, <foreign>si</foreign> Sena, father of Aluṅ, was given 1 pair of cloth, 4 <foreign>māṣa</foreign>s of gold. The chief’s wife, <foreign>si</foreign> Śukrī, <supplied reason="subaudible">was given</supplied> 4 <foreign>māṣa</foreign>s of gold.
+The chief of Lampuran, <foreign>si</foreign> Caṅgər/Vaṅgər, father of Balam, was given 4 <foreign>māṣa</foreign>s of gold. The chief’s 2 spokespeople, <foreign>si</foreign> Bhavana, father of Ayud, <supplied reason="subaudible">and</supplied> <foreign>si</foreign> Tiḍu, father of Gampeṅ, were given 2 <foreign>māṣa</foreign>s of gold together.
+The vahuta of Luvakan, <foreign>si</foreign> Paṭa, father of Kāmodaya, was given 1 pair of cloth, 4 <foreign>māṣa</foreign>s of gold. The vahuta’s wife, <foreign>si</foreign> Ḍukun, was given 4 <foreign>māṣa</foreign>s of gold.
+The <foreign>vahuta</foreign> of Tuṅgu Duruṅ, <foreign>si</foreign> Tvaran, father of Kaṭot, was given 4 <foreign>māṣa</foreign>s of gold.
+The <foreign>vahuta</foreign> of Lampuran, <foreign>si</foreign> Təka, was given 2 <foreign>māṣa</foreign>s of gold.
+The <foreign>vinəkas</foreign>, <foreign>si</foreign> Kalā, father of Kalyan, <supplied reason="subaudible">and</supplied> the assistant, <foreign>si</foreign> Kartā, father of Godhara, were given 1 <foreign>māṣa</foreign> of gold each.
+The headman of Muntaṅ, the <foreign>kalaṅ</foreign>, <supplied reason="subaudible">named</supplied> <foreign>si</foreign> Bhavana, father of Ayud, was given 1 pair of cloth, 2 <foreign>māṣa</foreign>s of silver. The <foreign>kalaṅ</foreign>’s wife, the headwoman/mother <supplied reason="subaudible">of</supplied> Ayam Təas ...
+</p>
                             
                        </div>
 <div type="commentary">
