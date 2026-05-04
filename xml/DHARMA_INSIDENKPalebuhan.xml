@@ -8,23 +8,9 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Palebuhan</title>
+            <title>Palebuhan, 849 Śaka</title>
             <respStmt>
-               <resp>EpiDoc encoding</resp>
-               <persName ref="part:ekba">
-                  <name>Eko Bastiawan</name>
-               </persName>
-               <persName ref="part:argr">
-                  <forename>Arlo</forename>
-                  <surname>Griffiths</surname>
-               </persName>
-            </respStmt>
-            <respStmt>
-               <resp>intellectual authorship of edition</resp>
-               <persName ref="http://viaf.org/viaf/3358750">
-                  <forename>Willem Frederik</forename>
-                  <surname>Stutterheim</surname>
-               </persName>
+               <resp>author of digital edition</resp>
                <persName ref="part:argr">
                   <forename>Arlo</forename>
                   <surname>Griffiths</surname>
@@ -38,7 +24,7 @@
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/">
                   <p>This work is licenced under the Creative Commons Attribution 4.0 Unported Licence. To view a copy of the licence, visit https://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.</p>
-                  <p>Copyright (c) 2019-2025 by Eko Bastiawan &amp; Arlo Griffiths</p>
+                  <p>Copyright (c) 2019-2025 by Arlo Griffiths</p>
                </licence>
             </availability>
             <date from="2019" to="2025">2019-2025</date>
@@ -81,6 +67,7 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
+         <change who="part:argr" when="2026-05-04" status="draft">updates</change>
          <change who="part:axja" when="2020-11-03" status="draft">Updating toward the encoding template v03</change>
          <change who="part:ekba" when="2020-09-17" status="draft">revised the encoding as suggested by argr</change>
          <change who="part:argr" when="2020-09-16" status="draft">first round of revisions</change>
@@ -117,16 +104,16 @@ mañavriṁ maṅlākha, maṅapus· maṅubar· manahab· manuk·, maṁdyūn·
                <listApp>
 <app loc="1r2">
 <lem source="bib:Stutterheim1935_02">saṁ la<unclear>ra</unclear><gap reason="lost" extent="unknown" unit="character"/></lem>
-<note>Sarkar (<bibl rend="omitname"><ptr target="bib:Sarkar1971-1972_01"/> <citedRange unit="volume">2</citedRange> <citedRange unit="page">219</citedRange> <citedRange unit="note">17</citedRange></bibl>) proposed to read <foreign>saṁ lumaḥ</foreign>, but his translation itself reveals that this is not persuasive. Perhaps one could supply more, to obtain both here and in 1v10–11 <foreign>saṁ lumaḥ ri garuṁ</foreign>. But note Wangwang Bahen lines 2–3 <foreign>śrī mahārāja vagisvara saṅ lumah ri kayu ramya</foreign>.</note>
+<note>Sarkar (<bibl rend="omitname"><ptr target="bib:Sarkar1971-1972_01"/> <citedRange unit="volume">2</citedRange> <citedRange unit="page">219</citedRange> <citedRange unit="note">17</citedRange></bibl>) proposed to read <foreign>saṁ lumaḥ</foreign>. Perhaps one could supply more, to obtain both here and in 1v10–11 <foreign>saṁ lumaḥ ri garuṁ</foreign>. But note Wangwang Bahen lines 2–3 <foreign>śrī mahārāja vagisvara saṅ lumah ri kayu ramya</foreign>.</note>
 </app>
             <app loc="1r7">
 	<lem><unclear>k</unclear><supplied reason="lost">liṅ ā</supplied><lb n="1r8" break="no"/><unclear>ryya</unclear></lem>
 	<rdg source="bib:Stutterheim1935_02">ve<gap reason="lost" extent="unknown"/><lb n="1r8"/>v-bya</rdg>
-	<note>Stutterheim's reading, with its unexplained hyphen, does not yield a sense. Since not a single epigraphic context is known where a list of <foreign>kilalān</foreign> contains the item <foreign>paṇḍikira</foreign> without this being separated from the word <foreign>kilalān</foreign> by the precise words <foreign>kliṅ āryya siṅhala</foreign>, I feel convinced that Stutterheim's <foreign>ve</foreign> must have been a misreading for the <foreign>k</foreign> component of the akṣara <foreign>kli</foreign> whose remainder was lost with the severing of a fragment from the plate, while his <foreign>v-bya</foreign> must have been a misreading of <foreign>ryya</foreign>.</note>
+	<note>Stutterheim's reading, with its unexplained hyphen, does not yield a sense. Since not a single epigraphic context is known where a list of <foreign>kilalān</foreign> contains the item <foreign>paṇḍikira</foreign> without this being separated from the word <foreign>kilalān</foreign> by the precise words <foreign>kliṅ āryya siṅhala</foreign>, we feel convinced that Stutterheim's <foreign>ve</foreign> must have been a misreading for the <foreign>k</foreign> component of the <foreign>akṣara</foreign> <foreign>kli</foreign> whose remainder was lost with the severing of a fragment from the plate, while his <foreign>v-bya</foreign> must have been a misreading of <foreign>ryya</foreign>.</note>
 </app>
 <app loc="1v2">
 <lem source="bib:Stutterheim1935_02">bras· gula ka<gap reason="lost" extent="unknown" unit="character"/><lb n="1v3"/>sumba</lem>
-<note>I suspect that the elipsis in Stutterheim's reading is a mistake, and that the original read <foreign>bras· gula kasumba</foreign> without any lacuna.</note>
+<note>We suspect that the elipsis in Stutterheim's reading is a mistake, and that the original read <foreign>bras· gula kasumba</foreign> without any lacuna.</note>
 </app>
 <app loc="1v5">
 	<lem>masu<supplied reason="omitted">ṁ</supplied>hara</lem>
@@ -143,11 +130,11 @@ mañavriṁ maṅlākha, maṅapus· maṅubar· manahab· manuk·, maṁdyūn·
 <app loc="1v7">
 <lem source="bib:Sarkar1971-1972_01">surat praṣa<supplied reason="lost">sti</supplied></lem>
 <rdg source="bib:Stutterheim1935_02">praṣa<gap reason="lost" extent="unknown" unit="character"/></rdg>
-<note>Sarkar's restitution is supported by an occurrences of <foreign>surat praśasti</foreign> in the Kasugihan inscription, line 1v1.</note><!-- encode link to Kasugihan file -->
+<note>Sarkar's restitution is supported by an occurrences of <foreign>surat praśasti</foreign> in the Kasugihan charter (<ref target="DHARMA_INSIDENK00361.xml">N. 361</ref>), line 1v1.</note>
 </app>
 <app loc="1v10">
 <lem source="bib:Stutterheim1935_02">śrī mahārāja <gap reason="lost" extent="unknown" unit="character"/><lb n="1v11"/>ri garuṁ</lem>
-<note>As suggested above, in my note on 1rv, one could think of restoring <foreign>śrī mahārāja saṁ lumaḥ ri garuṁ</foreign>.</note>
+<note>As suggested above, in our note on 1rv, one could think of restoring <foreign>śrī mahārāja saṁ lumaḥ ri garuṁ</foreign>.</note>
 </app>
                </listApp>         
          </div>
@@ -183,13 +170,13 @@ become the subject of discussion in the remotest future !</p>
          </div>
          <div type="commentary">
             <!--commentary encoded as per section §9.3 -->
-	<p n="1r2-3">Cf. the <ref target="DHARMA_INSIDENKGarung.xml">Garung</ref> inscription, line 2: <foreign>tatkāla rakarayān i garuṁ tumurun ājñānira</foreign>.</p>
+	<p n="1r2-3">Cf. the <ref target="DHARMA_INSIDENKGarung.xml">Garung</ref> charter, line 2: <foreign>tatkāla rakarayān i garuṁ tumurun ājñānira</foreign>.</p>
 	<p n="1v11">Cf. the <ref target="DHARMA_INSIDENKGuntur.xml">Guntur</ref> inscription, lines 1v4–5: <foreign>sugyan ta<unclear reason="eccentric_ductus">m</unclear>ān paṅujara ya muvaḥ dlāhaniṁ dlāha ya donikeṁ jayapātra</foreign>./</p>
      <p/>
          </div>
         <div type="bibliography">
 	<!--bibliography encoded as per section §9.4 -->
-            <p>First edited, with translation into Dutch, by Stutterheim (<bibl rend="omitname"><ptr target="bib:Stutterheim1935_02"/></bibl>), on the basis of a rubbing. Reproduction of Stutterheim’s edition, to which is added a translation into English, by H.B. Sarkar (<bibl rend="omitname"><ptr target="bib:Sarkar1971-1972_01"/></bibl>); re-edited here by Arlo Griffiths on the sole basis of Stutterheim's edition, because the original plate and the rubbing seem to have been lost.</p>
+            <p>First edited, with translation into Dutch, by Stutterheim (<bibl rend="omitname"><ptr target="bib:Stutterheim1935_02"/></bibl>), on the basis of a rubbing. Reproduction of Stutterheim’s edition, to which is added a translation into English, by H.B. Sarkar (<bibl rend="omitname"><ptr target="bib:Sarkar1971-1972_01"/></bibl>); re-edited here on the sole basis of Stutterheim's edition, because the original plate and the rubbing seem to have been lost.</p>
             <listBibl type="primary">
                     <bibl n="WFS">
                       <ptr target="bib:Stutterheim1935_02"/>
@@ -231,5 +218,4 @@ Qu’est-ce que tu penses donc de Garung:
         - Identification du lieu dans les alentours de Dieng correcte?
         - Possibilité que Kayu Ramya = Garung?
         - Possibilité qu’il y a eu plusieurs lieux Garung?
-
  -->

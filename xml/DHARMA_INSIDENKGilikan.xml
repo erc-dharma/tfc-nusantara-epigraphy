@@ -119,9 +119,22 @@ n="2v1"/>laṁ, variga, I ḍaṇu si tuluk· ramani rivut·<supplied reason="om
 </div>
 <div type="apparatus">
 <listApp>
+<app loc="1r1">
+<lem>tampilan· <num value="2">2</num></lem>
+<rdg source="bib:Brandes1913_01">tampilan· <num value="4">4</num></rdg>
+</app>
+<!--<app loc="1r2">
+<lem>kurumbhāgi</lem>
+<rdg source="bib:Brandes1913_01">kurumgagi</rdg>
+<note>Brandes has a note kurumgagi-kurumbhagi.</note>
+</app>-->
 <app loc="1r2">
 <lem>na<choice><sic>l</sic><corr>kh</corr></choice>achaida</lem>
 <rdg source="bib:Brandes1913_01">nala<unclear>yai</unclear>da</rdg>
+</app>
+<app loc="1r2">
+<lem>tahas·</lem>
+<rdg source="bib:Brandes1913_01">tahap·</rdg>
 </app>
 <app loc="1r2">
 <lem>vsi Ikət· <num value="10">10</num></lem>
