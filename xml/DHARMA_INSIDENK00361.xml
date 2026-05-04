@@ -84,8 +84,8 @@ n="1r7"/>ki<g ref="sym:bullet-high-hollow" type="punctuation">.</g> I<add place=
 <p><lb n="1v6"/>nāhan· nimittanyan· mapagəḥ Ikanaṁ vanuA I kasugihan· An· sampun· Inanugrahākən· de rakryan· kalaṁ buṅkal· Irikanaṁ vahuta tuṅgu duruṁ<g ref="sym:bullet-high-hollow" type="punctuation">.</g> likhitapātra saṁ va<lb n="1v7" break="no" style="text-align: center"/>sava</p></div>
 
 <div type="textpart" n="B"><head xml:lang="eng">Addition</head>
-<p><lb n="1"/>paṁguhan· <num value="1">sa</num>ta<space type="descender"/>hil· Avur· <num value="1">sa</num>tahil· sama<supplied reason="omitted">ṁ</supplied>kana <choice><orig>kəm·mitan·</orig><reg>kəmitan·</reg></choice> Ikā rama <choice><sic>Itevam·mādi</sic><corr>Ityevamādi</corr></choice> salvir·niṁ nā<space type="descender"/>yaka tan· hanāṅyan·<g ref="sym:bullet-high-hollow" type="punctuation">.</g>
-<lb n="2"/> lena sakerikana p<choice><sic>a</sic><corr>i</corr></choice>rak· <abbr>dhā</abbr> <num value="6">6</num></p></div>
+<p><lb n="1v7"/>paṁguhan· <num value="1">sa</num>ta<space type="descender"/>hil· Avur· <num value="1">sa</num>tahil· sama<supplied reason="omitted">ṁ</supplied>kana <choice><orig>kəm·mitan·</orig><reg>kəmitan·</reg></choice> Ikā rama <choice><sic>Itevam·mādi</sic><corr>Ityevamādi</corr></choice> salvir·niṁ nā<space type="descender"/>yaka tan· hanāṅyan·<g ref="sym:bullet-high-hollow" type="punctuation">.</g>
+<lb n="1v8"/>lena sakerikana p<choice><sic>a</sic><corr>i</corr></choice>rak· <abbr>dhā</abbr> <num value="6">6</num></p></div>
 </div>
                        
                    
@@ -196,7 +196,6 @@ n="1r7"/>ki<g ref="sym:bullet-high-hollow" type="punctuation">.</g> I<add place=
 <rdg source="bib:Poerbatjaraka1922_01">Ityevammādi</rdg>
 </app>
 <!--<app loc="1v7"><lem>salvir·niṁ</lem><rdg source="bib:Poerbatjaraka1922_01">salvir·ni</rdg></app>-->
-<app loc="1v8"><lem><add place="above">sava</add> lena</lem><rdg source="bib:Poerbatjaraka1922_01">lena</rdg></app>
 <app loc="1v8">
 <lem>p<choice><sic>a</sic><corr>i</corr></choice>rak· <abbr>dhā</abbr></lem>
 <rdg source="bib:Poerbatjaraka1922_01">pirak· ḍā</rdg>
@@ -210,12 +209,12 @@ n="1r7"/>ki<g ref="sym:bullet-high-hollow" type="punctuation">.</g> I<add place=
                  <p>This text has some orthographic peculiarities, among which an unusual number of vowels spelt long and the substitution of /d/ for /j/ at the beginning of words, e.g. <foreign>jaśamĭ</foreign> for <foreign>daśamī</foreign> (1r1), <foreign>jalinan·</foreign> for <foreign>dalinan·</foreign> (1r4, also found in Wanua Tengah III 1v10 and 2r12). Unexpected variation of  initial /d-/ and /j-/ is found in elsewhere in Old Javanese inscriptions of this period, such as <foreign>jari</foreign>, <foreign>jarīya</foreign> and <foreign>jinaryyakən·</foreign> for standard <foreign>dadi</foreign>, <foreign>dadya</foreign> and <foreign>dinadyakən·</foreign> (cf. Rumwiga 1v10, Dalinan 1v7, Kinewu lines 7 and 10). This variation is connected with the fact that many Javanese words with /d-/ have cognates with /j-/ in other Western Indonesian languages, e.g. comparing with Malay: <foreign>jauh</foreign> for <foreign>doh</foreign> “far”, <foreign>jarum</foreign> for <foreign>dom</foreign> “needle”, <foreign>jərami</foreign> for <foreign>dami</foreign> “rice stalk”. All of these reflect Proto-Malayo-Polynesian /*z/, whose evolution to /d/ in Old Javanese was already complete by this period. The fact that, in the case of this inscription, the /d-/ ~ /j-/ substitution even affects non-Austronesian loanwords, like <foreign>daśamī</foreign>, might suggest but that a symbiosis of Malay and Javanese was in place, whereby the supralocally dominant <foreign>j</foreign> could have unpredictable influence on the pronunciation of /d-/ in Javanese.</p>
                </div>
             <div type="bibliography">
-<p>The text was first deciphered by Poerbatjaraka. A new of inaccuracies in his reading were pointed out by Goris, and some more have been found by us. M Our apparatus only reports the more significant variant readings.</p>
+<p>The text was first deciphered by Poerbatjaraka. A few inaccuracies in his reading were pointed out by Goris, and some more have been found by us. Our apparatus only reports the more significant variant readings. Sarkar was the first to translate the text.</p>
               <listBibl type="primary">
                 <bibl n="P">
                    <ptr target="bib:Poerbatjaraka1922_01"/>
                 </bibl>
-		
+		<bibl><ptr target="bib:Sarkar1971-1972_01"/><citedRange unit="volume">II</citedRange><citedRange unit="item">LXXIV</citedRange><citedRange unit="page">102-107</citedRange></bibl>
               </listBibl>
 <listBibl type="secondary">
              <bibl>
