@@ -97,7 +97,7 @@
 	<app loc="1r1">
                      <lem source="bib:Goris1928_01 bib:TitiSurtiNastiti2016_01"><num value="829">829</num></lem>
                      <rdg source="bib:Brandes1889_01"><num value="849">849</num></rdg>
-		<note>Titi Surti Nastiti's footnote on the reading 829 reveals she hasn't understood Damais' discussion and hasn't carefully checked the plate, because while she reads 829 in her text she says that <q>Angka tahunnya dibaca oleh Brandes 849 Śaka, dan pembacaan Brandes sebenarnya tidak salah</q> whereas the correct reading is definitely 829.</note>
+		<note>While Titi Surti Nastiti reads 829 in her text, in the accompanying footnote she writes that <q>Angka tahunnya dibaca oleh Brandes 849 Śaka, dan pembacaan Brandes sebenarnya tidak salah</q> whereas the correct reading is definitely 829.</note>
                   </app>
 <app loc="1r2">
 <lem source="bib:Brandes1889_01">punpunaniṁ</lem>
@@ -194,7 +194,7 @@ uit 927 na Chr. Daar 8 Maart een Dinsdag was, valt 15 Juli op Vrijdag. Vrijdag h
 	<bibl><ptr target="bib:Damais1955_01"/><citedRange unit="page">195-196</citedRange></bibl>
 	<bibl><ptr target="bib:Damais1970_01"/><citedRange unit="page">52</citedRange><citedRange unit="item">139</citedRange></bibl>
 	<bibl><ptr target="bib:Nakada1982_01"/><citedRange unit="page">94-95</citedRange><citedRange unit="part">1</citedRange><citedRange unit="item">99</citedRange><note>Nakada refers to pages of Cohen Stuart's Kawi Oorkonden (concerning KO no. XVII), but we don't find anything there. Confusion with the title of Holle's publication? Or with another items from the Dieduksman collection?</note></bibl>
-	<bibl><ptr target="bib:Eade+Gislen2000_01"/><citedRange unit="page">113</citedRange><note>The book does not seem to contain a discussion of this inscription's date.</note></bibl><!-- skipped on Eade & Gislén 2000: 38-39, but briefly mentioned on p. 113, with simple reference to Damais.  -->
+	<bibl><ptr target="bib:Eade+Gislen2000_01"/><citedRange unit="page">113</citedRange></bibl><!-- The book does not seem to contain a discussion of this inscription's date. Skipped on Eade & Gislén 2000: 38-39, but briefly mentioned on p. 113, with simple reference to Damais.  -->
            </listBibl>
         </div>
       </body>
