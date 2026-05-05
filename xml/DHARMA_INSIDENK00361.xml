@@ -83,9 +83,9 @@ n="1r7"/>ki<g ref="sym:bullet-high-hollow" type="punctuation">.</g> I<add place=
 <lb n="1v5"/>Ayam· təAs· kapuA InaṁsəAn· pasak-pasak· pirak· <abbr>dhā</abbr> <num value="1">1</num> sovaṁ-sovaṁ<supplied reason="omitted"><g ref="sym:bullet-high-hollow" type="punctuation">.</g></supplied> karamān· saṁ hadyan· vahuta hy<choice><sic>ā</sic><corr>a</corr></choice>ṁ makabaihan· pirak· <abbr>mā</abbr> <num value="8">8</num> kinabaihanira<supplied reason="omitted"><g ref="sym:bullet-high-hollow" type="punctuation">.</g></supplied></p>
 <p><lb n="1v6"/>nāhan· nimittanyan· mapagəḥ Ikanaṁ vanuA I kasugihan· An· sampun· Inanugrahākən· de rakryan· kalaṁ buṅkal· Irikanaṁ vahuta tuṅgu duruṁ<g ref="sym:bullet-high-hollow" type="punctuation">.</g> likhitapātra saṁ va<lb n="1v7" break="no" style="text-align: center"/>sava</p></div>
 
-<div type="textpart" n="B"><head xml:lang="eng">Addition</head>
-<p><lb n="1v7"/>paṁguhan· <num value="1">sa</num>ta<space type="descender"/>hil· Avur· <num value="1">sa</num>tahil· sama<supplied reason="omitted">ṁ</supplied>kana <choice><orig>kəm·mitan·</orig><reg>kəmitan·</reg></choice> Ikā rama <choice><sic>Itevam·mādi</sic><corr>Ityevamādi</corr></choice> salvir·niṁ nā<space type="descender"/>yaka tan· hanāṅyan·<g ref="sym:bullet-high-hollow" type="punctuation">.</g>
-<lb n="1v8"/>lena sakerikana p<choice><sic>a</sic><corr>i</corr></choice>rak· <abbr>dhā</abbr> <num value="6">6</num></p></div>
+<div type="textpart" n="B"><head xml:lang="eng">Insertion</head>
+<p><lb n="ins1"/>paṁguhan· <num value="1">sa</num>ta<space type="descender"/>hil· Avur· <num value="1">sa</num>tahil· sama<supplied reason="omitted">ṁ</supplied>kana <choice><orig>kəm·mitan·</orig><reg>kəmitan·</reg></choice> Ikā rama <choice><sic>Itevam·mādi</sic><corr>Ityevamādi</corr></choice> salvir·niṁ nā<space type="descender"/>yaka tan· hanāṅyan·<g ref="sym:bullet-high-hollow" type="punctuation">.</g>
+<lb n="ins2"/>lena sakerikana p<choice><sic>a</sic><corr>i</corr></choice>rak· <abbr>dhā</abbr> <num value="6">6</num></p></div>
 </div>
                        
                    
@@ -188,15 +188,15 @@ n="1r7"/>ki<g ref="sym:bullet-high-hollow" type="punctuation">.</g> I<add place=
 </app>
 </listApp>
 </div>
-<div type="textpart" n="B"><head xml:lang="eng">Addition</head>
+<div type="textpart" n="B"><head xml:lang="eng">Insertion</head>
 <listApp>
-<app loc="1v7"><lem>paṁguhan·</lem><rdg source="bib:Poerbatjaraka1922_01">paguhan·</rdg></app>
-<app loc="1v7">
+<app loc="ins1"><lem>paṁguhan·</lem><rdg source="bib:Poerbatjaraka1922_01">paguhan·</rdg></app>
+<app loc="ins1">
 <lem><choice><sic>Itevam·mādi</sic><corr>Ityevamādi</corr></choice></lem>
 <rdg source="bib:Poerbatjaraka1922_01">Ityevammādi</rdg>
 </app>
-<!--<app loc="1v7"><lem>salvir·niṁ</lem><rdg source="bib:Poerbatjaraka1922_01">salvir·ni</rdg></app>-->
-<app loc="1v8">
+<!--<app loc="ins1"><lem>salvir·niṁ</lem><rdg source="bib:Poerbatjaraka1922_01">salvir·ni</rdg></app>-->
+<app loc="ins2">
 <lem>p<choice><sic>a</sic><corr>i</corr></choice>rak· <abbr>dhā</abbr></lem>
 <rdg source="bib:Poerbatjaraka1922_01">pirak· ḍā</rdg>
 <note>Correction by Goris.</note>
@@ -205,7 +205,7 @@ n="1r7"/>ki<g ref="sym:bullet-high-hollow" type="punctuation">.</g> I<add place=
 </div>
                        </div>
                <div type="commentary">
-	<p>The syllables <foreign>sava</foreign> in  line 1v7 originally were intended to be the end of the text and to be read right after <foreign>likhitapātra saṁ va-</foreign> and hence form the original line 7. (The recto also has just 7 lines.) All the rest of what stands on what appear to be the seventh and eight lines of the verso seem to form a secondary addition. These additional lines are cramped at the bottom of the page and heavily indented. The seventh line has a left indent equivalent to the space of about 10 <foreign>akṣara</foreign>s thus beginning directly under -<foreign>gəḥ Ikanaṁ</foreign> (1v6). The eigth line is even further indented, being aligned directly below  <foreign>Itevam·mādi salvir·niṁ nā<space type="descender"/>yaka tan·</foreign> in the one above it. It is unclear where precisely this text portion was meant to be inserted, but comparison with the passage about <foreign>paṅguhan</foreign> <q>revenue</q> in Rumwiga I (1v4–7) suggests that it might have been in the first paragraph.</p>
+	<p>The syllables <foreign>sava</foreign> in  line 1v7 originally were intended to be the end of the text and to be read right after <foreign>likhitapātra saṁ va-</foreign> and hence form the original line 7. (The recto also has just 7 lines.) All the rest of what stands on what appear to be the seventh and eight lines of the verso seem to form a secondary addition. These additional lines are cramped at the bottom of the page and heavily indented. The first inserted line (ins1) written over 1v7 has a left indent equivalent to the space of about 10 <foreign>akṣara</foreign>s thus beginning directly under -<foreign>gəḥ Ikanaṁ</foreign> (1v6). The second inserted line (ins2) is even further indented, being aligned directly below  <foreign>Itevam·mādi salvir·niṁ nā<space type="descender"/>yaka tan·</foreign> in the one above it. It is unclear where precisely this text portion was meant to be inserted, but comparison with the passage about <foreign>paṅguhan</foreign> <q>revenue</q> in Rumwiga I (1v4–7) suggests that it might have been in the first paragraph.</p>
                  <p>This text has some orthographic peculiarities, among which an unusual number of vowels expected to be short but spelt long, as well as the substitution of /d/ for /j/ at the beginning of words, e.g. <foreign>jaśamĭ</foreign> for <foreign>daśamī</foreign> (1r1), <foreign>jalinan·</foreign> for <foreign>dalinan·</foreign> (1r4, also found in Wanua Tengah III 1v10 and 2r12). Unexpected variation of  initial /d-/ and /j-/ is found in elsewhere in Old Javanese inscriptions of this period, such as <foreign>jari</foreign>, <foreign>jarīya</foreign> and <foreign>jinaryyakən·</foreign> for standard <foreign>dadi</foreign>, <foreign>dadya</foreign> and <foreign>dinadyakən·</foreign> (cf. Rumwiga 1v10, Dalinan 1v7, Kinewu lines 7 and 10). This variation is connected with the fact that many Javanese words with /d-/ have cognates with /j-/ in other Western Indonesian languages, e.g. comparing with Malay: <foreign>jauh</foreign> for <foreign>doh</foreign> “far”, <foreign>jarum</foreign> for <foreign>dom</foreign> “needle”, <foreign>jərami</foreign> for <foreign>dami</foreign> “rice stalk”. All of these reflect Proto-Malayo-Polynesian /*z/, whose evolution to /d/ in Old Javanese was already complete by this period. The fact that, in the case of this inscription, the /d-/ ~ /j-/ substitution even affects non-Austronesian loanwords, like <foreign>daśamī</foreign>, might suggest but that a symbiosis of Malay and Javanese was in place, whereby the supralocally dominant /j-/ could have unpredictable influence on the pronunciation of /d-/ in Javanese.</p>
                </div>
             <div type="bibliography">
