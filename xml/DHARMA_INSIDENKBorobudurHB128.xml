@@ -73,7 +73,7 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
-            <change who="part:hepr" when="2026-04-17">revised the edition and the apparatus</change>
+            <change who="part:hepr" when="2026-05-11">revised the apparatus</change>
             <change who="part:hepr" when="2026-02-11">revised the bibliography</change>
         	<change who="part:argr" when="2025-12-05">encoded the inscription</change>
         </revisionDesc>
@@ -84,12 +84,12 @@
 <p><lb n="1"/>maheśākhyasa<unclear>mavadhāna</unclear></p>
          </div>
          <div type="apparatus">
-            <listApp>
+            <!--<listApp>
                <app loc="1">
                   <lem source="bib:Kern1917_23">maheśākhyasamavadhāna</lem>
                   <note>Kern (<bibl rend="omitname"><ptr target="bib:Kern1917_23"/></bibl>) described that the writing is a compound word consisting of the first part <foreign>maheśākhya</foreign> <q>notable person</q>, but the second part is unclear except for the first letter <foreign>sa</foreign> and the last letter <foreign>na</foreign>. After the third syllable of the second part, there is an open space in which no letter has ever been written. However, Kern suggested that the word should be meant <foreign>maheśākhyasamavadhāna</foreign>. The panel shows six prominent figures seated three by three, facing each other.</note>
                </app>
-            </listApp>
+            </listApp>-->
          </div>
          <div type="translation" resp="part:argr">
  	<p>a meeting with Great Persons</p>
