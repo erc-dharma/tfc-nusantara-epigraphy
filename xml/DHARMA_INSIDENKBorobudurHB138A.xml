@@ -73,6 +73,7 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
+        	<change who="part:hepr" when="2026-05-11">revised the commentary and the bibliography description</change>
         	<change who="part:hepr" when="2026-02-13">encoded the inscription</change>
         </revisionDesc>
     </teiHeader>
@@ -93,10 +94,10 @@
  	<p>gift of a vessel</p>
          </div>
          <div type="commentary">
-            <p>The inscription was missed by Kern (<bibl rend="omitname"><ptr target="bib:Kern1896_02"/></bibl>, <bibl rend="omitname"><ptr target="bib:Kern1917_23"/></bibl>), but recognized by Krom (<bibl rend="omitname"><ptr target="bib:Krom1927_01"/></bibl>). However, Krom's reading was <foreign>dāna</foreign> (<bibl rend="omitname"><ptr target="bib:Krom1927_01"/><citedRange unit="page">53</citedRange></bibl>), then corrected to <foreign>bhājanadāna</foreign> by Levi (<bibl rend="omitname"><ptr target="bib:Levi1932_02"/><citedRange unit="page">91</citedRange></bibl>).</p>
+            <p>The inscription was overlooked by Kern but recognized by Krom; Lévi later corrected Krom’s reading.</p>
          </div>
         <div type="bibliography">
-           <p>First published by Kern (<bibl rend="omitname"><ptr target="bib:Kern1896_02"/></bibl>); republished by the same author (<bibl rend="omitname"><ptr target="bib:Kern1917_23"/></bibl>) and subsequently by Krom (<bibl rend="omitname"><ptr target="bib:Krom1927_01"/></bibl>); this digital edition based on the 1927 publication.</p>
+           <p>First published by Kern (<bibl rend="omitname"><ptr target="bib:Kern1896_02"/></bibl>); republished by the same author (<bibl rend="omitname"><ptr target="bib:Kern1917_23"/></bibl>) and subsequently by Krom (<bibl rend="omitname"><ptr target="bib:Krom1927_01"/></bibl>); Lévi (<bibl rend="omitname"><ptr target="bib:Levi1932_02"/></bibl>) made a critical edition by making a comparison to the Karma-Vibhaṅga text from Nepal, Tibet, and China; this digital edition based on the 1927 publication by Krom and Lévi in his 1932 publication.</p>
         	<listBibl type="primary">
 				<bibl n="HK1"><ptr target="bib:Kern1896_02"/></bibl>
 				<bibl n="HK2"><ptr target="bib:Kern1917_23"/></bibl>
