@@ -73,7 +73,7 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
-            <change who="part:hepr" when="2026-05-11">revised the bibliography description</change>
+            <change who="part:hepr" when="2026-05-12">revised the primary bibliography</change>
             <change who="part:hepr" when="2026-02-13">revised the text, the translation, and the bibliography</change>
         	<change who="part:argr" when="2025-12-05">encoded the inscription</change>
         </revisionDesc>
@@ -98,14 +98,14 @@
             
          </div>
         <div type="bibliography">
-           <p>First published by Kern (<bibl rend="omitname"><ptr target="bib:Kern1896_02"/></bibl>); republished by the same author (<bibl rend="omitname"><ptr target="bib:Kern1917_23"/></bibl>) and subsequently by Krom (<bibl rend="omitname"><ptr target="bib:Krom1927_01"/></bibl>); Lévi (<bibl rend="omitname"><ptr target="bib:Levi1932_02"/></bibl>) made a critical edition by making a comparison to the Karma-Vibhaṅga text from Nepal, Tibet, and China; this digital edition based on the 1927 publication by Krom and Lévi in his 1932 publication.</p>
+           <p>First published by Kern (<bibl rend="omitname"><ptr target="bib:Kern1896_02"/></bibl>); republished by the same author (<bibl rend="omitname"><ptr target="bib:Kern1917_23"/></bibl>) and subsequently by Krom (<bibl rend="omitname"><ptr target="bib:Krom1927_01"/></bibl>); this digital edition based on the 1927 publication.</p>
         	<listBibl type="primary">
 				<bibl n="HK"><ptr target="bib:Kern1917_23"/><citedRange unit="page">149</citedRange></bibl>
-				<bibl n="NJK"><ptr target="bib:Krom1927_01"/><citedRange unit="page">53</citedRange></bibl>
+				<bibl n="NJK1"><ptr target="bib:Krom1927_01"/><citedRange unit="page">53</citedRange></bibl>
+        	    <bibl n="NJK2"><ptr target="bib:Krom1933_02"/><citedRange unit="page">264</citedRange></bibl>
 			</listBibl>
            <listBibl type="secondary">
               <bibl><ptr target="bib:Levi1932_02"/><citedRange unit="mixed">Tableau Comparatif, column Bb. (Panneaux de Boro-Budur), item 138-140</citedRange></bibl>
-                <bibl><ptr target="bib:Krom1933_02"/><citedRange unit="page">264</citedRange></bibl>
                 <bibl><ptr target="bib:Casparis1975_01"/><citedRange unit="page">32</citedRange></bibl>
                 <bibl><ptr target="bib:Fontein1989_01"/><citedRange unit="page">62</citedRange></bibl>
                 <bibl><ptr target="bib:Reichle2009_01"/><citedRange unit="mixed">Pages 352–354, Table I, item O-140</citedRange></bibl>
