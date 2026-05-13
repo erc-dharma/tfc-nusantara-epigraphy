@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+    <teiHeader>
+        <fileDesc>
+        	<titleStmt>
+        		<title>Charter of Baru, 952 Śaka</title>
+        		<respStmt>
+        			<resp>author of digital edition</resp>
+        			<persName ref="part:argr">
+        				<forename>Arlo</forename>
+        				<surname>Griffiths</surname>
+        			</persName>
+        			<persName ref="part:ekba">
+        				<name>Eko Bastiawan</name>
+        			</persName>
+        		</respStmt>
+        	</titleStmt>
+            <publicationStmt>
+                <authority>DHARMA</authority>
+                <pubPlace>Jakarta; Malang</pubPlace>
+                <idno type="filename">DHARMA_INSIDENKBaru</idno>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
+                            Licence. To view a copy of the licence, visit
+                            https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                            Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                            California, 94041, USA.</p>
+                        <p>Copyright (c) 2019-2025 by Arlo Griffiths &amp; Eko Bastiawan.</p>
+                    </licence>
+                </availability>
+                <date from="2019" to="2025">2019-2025</date>
+            </publicationStmt>
+            <sourceDesc><!-- only the handDesc can be filled in at this stage -->
+                <msDesc><!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/><!-- don't modify this -->
+                    </msIdentifier>
+                    <msContents><!-- describe the intellectual content of an inscription -->
+                        <summary><!-- //// NOT MANDATORY  ////--></summary> <!-- offers the possibility to give a summary of the inscription's content -->
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p><!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EGD 11.2. --></p>
+                            <!-- If you need to identify individual hands (EGD §7.5/) in addition to one or more paragraphs of general palaeographic description, wrap <summary> around the <p> or <p>s above, and, outside <summary>, create <handNote> elements for each hand as follows:
+						<summary><p><p/></summary>
+						<handNote xml:id="Pallava00001_hand1"></handNote>
+						<handNote xml:id="Pallava00001_hand2"></handNote>
+					 -->
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
+            </projectDesc>
+            <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/><!-- UPDATE the link once the release is made official -->
+            <listPrefixDef>
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                    <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
+                </prefixDef>
+                <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers.xml#$1">
+                    <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_idListMembers.xml</ref> file.</p>
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+    	<revisionDesc>
+    		<change who="part:argr" when="2026-05-13" status="draft">started encoding the inscription</change>
+    	</revisionDesc>
+    </teiHeader>
+	<text xml:space="preserve">
+      <body>
+         <div type="edition" xml:lang="kaw-Latn" rendition="class:38769 maturity:83213">
+            <p><milestone type="pagelike" unit="faces" n="Abe"/><label xml:lang="eng">Front, left side, upper left side (A, b, e)</label>
+<lb n="1"/><milestone unit="face" n="A"/><!--(Abe1)--> || o || svasti śaka-varṣātīta 95(2) vaiśākha-māsa, tithi saptamī(,) kraṣṇa-pakṣa, pa, va, A(ṁ), vāra vugu<milestone unit="face" n="e" break="no"/>-vugu, dhaniṣṭa-nakṣatra, viṣṇu-devatā, brahmā<lb 
+n="2" break="no"/><milestone unit="face" n="A" break="no"/><!--(Abe2)-->-yoga, vava-kāraṇa, cāra pūrvvasthāna, Irikā divaśany ājñā śrī mahārāja rakai halu śrī lokeśvara dha<milestone unit="face" n="e"/>rmmavaṅśa Airlaṅgānantavikramottuṅgade<lb 
+n="3" break="no"/><milestone unit="face" n="A" break="no"/><!--(Abe3)-->va, tinaḍaḥ rakryān· mahāmantr(ī) I hino (śrī) saṅgrāmavijayadharmmaprasādottuṅgadevī Umiṅsor· I rakryān· <milestone unit="face" n="e"/> kanuruhan· pu dharmmamūrtti narottama dāna<lb n="4" break="no"/><milestone unit="face" n="A" break="no"/><!--(Abe4)-->śūra, rakryān· hujuṁ pu Amr̥ta, kumonakən· Ikanaṁ karāmān· riṁ baru makabehan·, padamlakna saṁ hyaṅ ājñā haji tāmrapraśā<milestone unit="face" n="b" break="no"/>sti tinaṇḍa garuḍamukha kmitananya,</p> <p>sambandha
+<lb n="5"/><milestone unit="face" n="A"/><!--(Abe5)-->ri paṁhinəp· pāduka śrī mahārāja Irikanaṁ thāni riṁ baru, maprayojana Irikanaṁ rātri ri sḍaṅanyan· jayaśatrva śrī mahārāja riṁ <milestone unit="face" n="b"/>samara kumavasākna musuḥnira Ikanaṁ
+<lb n="6"/><milestone unit="face" n="A"/><!--(Abe6)-->I hasin·, Atəhər· tumuṅgalakna Ikanaṁ pr̥thivīmaṇḍala An· sīmā p(ā)rṇnahanikanaṁ thāni riṁ baru deniṁ rāmanya riṁ baru makabeha<milestone unit="face" n="b"/>[n·] (sa)maṅkana rasani pratijñā pāduka śrī mahā- 
+<lb n="7"/><milestone unit="face" n="A"/><!--(Abe7)-->[rā]ja riṁ kuL̥m·(,) siddhamanoratha pva pāduka śrī mahārāja, karuhun· mpuṅku śaiva sogata R̥ṣi, makādi samgat· parbl(ya)n· ḍaṁ hyaṁ mahānanda <milestone unit="face" n="b"/>makacihna ri kavnaṁnikanaṁ ratu I hasin·, sampu-
+<lb n="8"/><milestone unit="face" n="A"/><!--(Abe8)-->n· pinjahan·, sākṣāt· varttamāna katon· de[n]i(ka)naṁ [rā]t· kabeḥ, pinituturan· pva pāduka śrī mahārāja de samgat· [la](ṇ)ḍayān· rarai pu ba<milestone unit="face" n="b" break="no"/>{1 akṣara lost}mā mvaṁ samgat· lucəm· rarai pu manuri tan·
+<lb n="9"/><milestone unit="face" n="A"/><!--(Abe9)-->dadiniṁ kadi sira prabhu mitthyāvacana, An hana prā(r)thanān(ira) ṅunin· paṅuL̥m· Irikanaṁ thāni rim baru An· [s]īmā parṇṇahanikāṁ thāni riṁ baru deni sa<milestone unit="face" n="b" break="no"/>mănya riṁ baru matuha manvam· makabehan·,
+<lb n="10"/><milestone unit="face" n="A"/><!--(Abe10)--> ya tikā maṅkin· Asama-[sa]ma nirmalajñāna pāduka śrī mahārāja riṁ pamisiṅgiḥnira riṁ pitutur· samgat· laṇḍayān· rarai mvaṁ samgat· lu<milestone unit="face" n="b" break="no"/>cəm· rarai ya ta kāraṇā samgat· pamaṇi<lb 
+n="11" break="no"/><milestone unit="face" n="A" break="no"/><!--(Abe11)-->kan· pu godr̥ḍa, mvaṁ Ikanaṁ karāmān·n iṁ baru masāmagrī sumambahakən· turunyānugraha pāduka śrī mahārāja saṁ hyaṅ ājñā haji tā<milestone unit="face" n="b" break="no"/>mrapraśāsti kmitananya sādhanānyan siddhā<lb 
+n="12" break="no"/><milestone unit="face" n="A" break="no"/><!--(Abe12)-->kna sapaṅutus· pāduka śrī mahārāja, kapaṅgiha deni vkavetnya hlam i dlāhani(ṁ) dlāha Āpan atyanta gə:ṁni pūrvvaR̥ṇa śrī mahārā<milestone unit="face" n="b" break="no"/><supplied reason="omitted">ja</supplied> ri sakveḥni sahāyaniran· kr̥tāpadāna lā<lb 
+n="13" break="no"/><milestone unit="face" n="A" break="no"/><!--(Abe13)-->van· śīlāgrāhīnira, vastra-rajatānurāga-gāṅgāpra(vā)ha Iva kānurāg(ān)· pāduka śrī mahārāja riṁ paraporaja(na) sampun· kaprakā<milestone unit="face" n="b" break="no"/>śa ri saparyyāntaniṁ yavadvīpa lumrā tka riṁ dvī<lb 
+n="14" break="no"/><milestone unit="face" n="A" break="no"/><!--(Abe14)-->pāntara, ya tikā kadi hilīniṁ gaṅgā dr̥sni paṅupakāra śrī mahārāja, saha lāvan· vḍihan· pamodanā Irikā saṁ śaktiśūra, yan· <milestone unit="face" n="b"/>tambəhaniṁ sahāya balarakṣaka ri śrī mahārā<lb 
+n="15" break="no"/><milestone unit="face" n="A" break="no"/><!--(Abe15)-->ja, maṁdadyakna kālahaniṁ śatrudigjaya pāduka śrī mahārāja riṁ samara, valuyani kr̥tāniṁ bhuvana, pagəhaniṁ caturvarṇna caturāśrama <milestone unit="face" n="b"/>karuhun· punarjīva saṁ hyaṁ sarvvadharmma sama<lb 
+n="16" break="no"/><milestone unit="face" n="A" break="no"/><!--(Abe16)-->loṣṭakāñcāṇajñāna pāduka śrī mahārāja, yāvat· sādhanāniṁ [A]mahayvaṁ bhuvana donanya(,) mataṁnyan· Inanugrahākən· <milestone unit="face" n="b"/>pāduka śrī mahārāja saṁ hyaṅ ājñā haji tā<lb 
+n="17" break="no"/><milestone unit="face" n="A" break="no"/><!--(Abe17)-->mrapraśāsti kmitananikanaṁ karāmān· riṁ baru makabehan· riṁ tan· kavukivukilanya de saṁ nāyaka pratyaya vineḥ Air thāni <milestone unit="face" n="b"/>hlam i dlāhaniṁ dlāha, ṅuniveḥ saṅ anāgata
+<lb n="18"/><milestone unit="face" n="A"/><!--(Abe18)-->prabhu māri ta Ikāṁ riṁ baru thāni vatək· Air thāni, kevalā Ikanaṁ karāmān· riṁ baru juga pramāṇa makasīma Ikāṁ riṁ baru tka ri <milestone unit="face" n="b"/>sukha-duḥkhanya magə:ṁ maḍmit· parṇnahanya
+<lb n="19"/><milestone unit="face" n="A"/><!--(Abe19)-->svatantrā tan· katamāṇa deni vinava saṁ māna katrīṇi, paṅkur·, tavan·, tirip· [m]vaṁ saprakāra saṁ maṅilala drabya haji vulu-vu<milestone unit="face" n="b" break="no"/>lu magə:ṁ maḍmit·, makādi miśra paramiśra
+<lb n="20"/><milestone unit="face" n="A"/><!--(Abe20)-->paṅuraṁ, kriṁ, paḍəm·, maṇimpiki, paranakan·, limus galuḥ, maṁriñci, maṁhūri, paraṁ, suṅka, dhūra, paṅaruhan·, taji, vatu tajəm· <milestone unit="face" n="b"/>sukun·, halu varak·, rakasaṁ, ramanaṁ, pini(ṁ)<lb 
+n="21" break="no"/><milestone unit="face" n="A" break="no"/><!--(Abe21)-->lai, kataṅgaran·, tapa haji, Air haji, malandaṁ, L̥ca, lablab·, pakalaṅkaṁ, kutak·, taṅkil·, tr̥pan·, salyut·, vatu valaṁ pa<milestone unit="face" n="b" break="no"/>maṇikan·, sikpan·, rumban·, tirvan·, vilaṁ thā<lb 
+n="22" break="no"/><milestone unit="face" n="A" break="no"/><!--(Abe22)-->ni, viji kavaḥ, təṅkəs·, māvī, manambaṅi, taṅhiran·, tuha dagaṁ, juru gosali, maṁrumbai, maṁguñjai, tuhānambi, juru kliṁ, <milestone unit="face" n="b"/>juru hañjman·, juru juḍi, juru jalir·, pabisar·
+<lb n="23"/><milestone unit="face" n="A"/><!--(Abe23)-->paṅguluṁ, pavuṅkunuṁ, miśra hino, miśrāṅinaṅin·, vli tambaṁ, vli hapū, vli pañjut·, vli vaduṁ, palamak·, Urutan·, dampulan·, <milestone unit="face" n="b"/>pakaluṅku(ṁ), kaR̥R̥ṅan·, tpuṁ kavuṁ, suṁsuṁ paṅu<lb 
+n="24" break="no"/><milestone unit="face" n="A" break="no"/><!--(Abe24)-->(raṁ, pasu)k alas·, sipad vilut·, jukuṁ, pāṅin-aṅin·, pamāvasya, hopan·, panrāṅan·, skar tahun·, pabaye, parā<milestone unit="face" n="b" break="no"/>ma, Avur·, panigaṁ blaḥ, patatar·, tampə: si<lb 
+n="25" break="no"/><milestone unit="face" n="A" break="no"/><!--(Abe25)-->rir·, parājaphala, pagarakapan·, pavḍihan·, pamahat·, paṅlākha, pasaṅaṇi, pataṅkalan·, vidu maṅiduṁ, vatək i ⌈<milestone unit="face" n="b" break="no"/>jro Ityaivamādi kabeḥ, tan· tamā ta ya
+<lb n="26"/><milestone unit="face" n="A"/><!--(Abe26)-->Irikanaṁ thāni riṁ baru, kevalā Ikanaṁ karāmān· riṁ baru sapaśuk thāni kabeḥ juga pramāṇa ri sadrabya-hajinya <milestone unit="face" n="b" break="no"/>magə:ṁ maḍmit· prakāra, mvaṁ ri vnaṅa rāmanta riṁ [ba]<lb 
+n="27" break="no"/><milestone unit="face" n="A" break="no"/><!--(Abe27)-->ru mapadaṅa rvaṁ rahi riṁ sapadagaṁ, Apatitiha, Aba_ _/sana\, Aṅavari, Acamara, baṇyāga, Atukla, (Aṅ)u(ba)ra, A<milestone unit="face" n="b" break="no"/>ṅulaṅa, Abakula, salvirniṁ sambyavahāra
+<lb n="28"/><milestone unit="face" n="A"/><!--(Abe28)-->bhaṇḍa paribhāṇḍādval-avəlya, mvaṁ masulpika, paṇḍai mās·, paṇḍai vsi, pandai kāṅśa lāvan· ri vnaṅanya mahu<milestone unit="face" n="b" break="no"/>luna ḍayaṁ, huñjman·, nambi, jəṅgi, pujut·, Asiṁ 
+<lb n="29"/><milestone unit="face" n="A"/><!--(Abe29)-->salviranya tan· svīkāranaka rāmanta riṁ baru kabeḥ Irikā samaṅkana Ikanaṁ sukhaduḥkha kady aṅgāni(ṁ) mayaṁ ta<milestone unit="face" n="b" break="no"/>n· pavvaḥ, valū rumambat iṁ natar·, vipati, vaṅkai
+
+<milestone type="pagelike" unit="faces" n="Cefd"/><label xml:lang="eng">Back, upper left side, upper right side, right side (C, e, f, d)</label>
+(Cefd1) <milestone unit="face" n="e"/> kābunan·, rāḥ kasavur iṁ natar·, hidu kasirat·(C), dūhilatən·, sāhasa, hastacapa(f)la, vākcapala, mamijilakən· vuriniṁ kikir·, ma- 
+(Cefd2) <milestone unit="face" n="e"/>muk·, mamumpaṁ, lūdan·, tūtan·, Aṅśa, pratya(C)ṅśa, ḍaṇḍa kuḍaṇḍa, maṇḍihalādi prakāra, Ikāṁ (f) karāmān· riṁ baru sapaśuk· thāni pramāṇa I(ri)kā 
+(Cefd3) <milestone unit="face" n="e"/> makaśaraṇā kahyaṅān· kinabhaktyan· rāmanta riṁ (C) baru, saṁ hyaṁ huvan·, saṁ hyaṁ ḍəpur·, saṁ hyaṁ kavyə:lan·, saṁ hyaṁ (f) roḥ, samaṅkana kadeyakna taṇḍa rakryān· riṁ ka-
+(Cefd4) <milestone unit="face" n="e"/>balān·, kasiṅgahan·, sovāra saṁ maṅasə: magə:ṁ (C) maḍmit·, tka ri para vadvā haji vadvā rakryān·, para juru, hamba rakryān· ryy ā(f)vān·, hamba rakryan· rājaputra, rājaputrī 
+(Cefd5) <milestone unit="face" n="e"/> rakryān· strī haji, makādi hamba rakryān· mahā(C)mantri mvaṁ hamba rakryān· śrī parameśvarī, tka rikanaṁ magalaḥ, mamanaḥ, magaṇḍi, ma(f)təṅrān·, makuda, mahalimān·, makarapa
+(Cefd6) <milestone unit="face" n="e"/> karuṅan·, pavḍusan·, mahvan· lambu, haturan· b(ā)ṁ(C), haturan· pādu, pabaraka, kḍi, valyan·, sambal·, sumbul·, hulun· haji, jəṅgi, siṅgaḥ, mabr̥ṣi, mavu(f)lu-vuluṁ Ityaivamādi kabeḥ, An· kapvāta si-
+(Cefd7)ra sama təkyəna tan· baryya-baryya śila Irikaṁ thāni riṁ baru, tan· paṅalapa tanəm-tanəmān· salinara(ṁ)nikeṁ ta(f)nayan thāni, hampyal·, priṁ ptuṁ, pucaṁ, səR̥ḥ(,) kayu-
+(Cefd8)kayu, sarvvaphala, mūlaphala, tka riṁ vnaṁ-vnaṁ prakāra, kapvātikā tan· bari-barin denira, yathānya tan· pamuhara pramāda riṁ si(f)ra yāpvan hana sira kamatan· tan· yatna I sarasa saṁ hya-
+(Cefd9)ṅ ajñā haji tāmraprasāsti kmitanikanaṁ karāmān· riṁ baru sapaśuk thāni matuha manvam· kabeḥ, ya saṅkānani pramādanya salvirniṁ laṅgha(f)[na] saṁ hyaṅ ājñā haji lviranya knāna nigraha kā 2
+(Cefd10) māsu 10 likhita pātralekha manuvul·, mataṅyan· paṅaṅsyə:kən· pasək· Ikanaṁ karāmān· riṁ baru makabehan· I rakryān· kanuruhan· vḍihan· yuga ⟨1⟩ (d) rakryān· hujuṁ vḍihan· yuga 1 samgat· laṇḍayan· vḍi-
+(Cefd11)han· hlai 1 rakryān· jasun· vuṅkal· vḍihan· hlai 1 samgat· laṇḍayan· rarai vḍihan· hlai 1 rakryān· paliñjvan· vḍihan· hlai 1 samgat· lucəm· rarai (d) vḍihan· hlai 1 samgat· pajabuṅan· saliput· hlai ⟨1⟩
+(Cefd12) sira mpu riṁ paruhapa ragi hlai 1 samgat· pamvātan· mā 2 juru sāmya Iṁ kahuripan· jati mā 12 Akurug· I(ṁ) tiṅhal· piṅhai kaki rājya mā 1 (d) ku 1 juru kuda Uṅgən· mā 1 ku 1 makādi samgat· 
+(Cefd13) pārblyan· saliput· yuga 1 || o || pratyekani nāmanikāṁ karāmān· riṁ baru sapaśuk thāni matuha manvam· kabeḥ tumarima Anugraha pāduka śrī (d) mahārāja saṁ hyaṅ ājñā haji tāmrapraśāsti, dūvā-
+(Cefd14)ni punaga, padma, teṅgə:, kaki (L̥)gə:, L̥gə:, bhagavān·, godhr̥mān·, kaki Adri, kaki piṅul·, basija, kaki basija, kaki varta, Udati, ratik·, bakləṁ, kuḍəṁ, mavvad·, (d) piṅul·, pahit·, maṇikara, sondoṁ, kaki baḍoti 
+(Cefd15) baḍoti, dolo <milestone unit="face" n="b"/>uddhaṅe, buṅkaluḥ, katon·, sīma, nini bagiḍiḥ, R̥ṇəb·, ḍəpur·, suvəg·, kaki goṭā, kaki bo(ṅ)ok·, tuṅgu lyaṁ, laṇḍəḥ, Atuha (d) samaṅkana saṁ rayana, kaki vata, kaki purug·, juru pañjir·
+(Cefd16) kaki truḥ kaki sr̥gut·, tumbas·, niṅkal·, padar· təvəkana, baḍoṁ, Uja, kli, tətəg·, godri, tuṅkəb·, silum·, buru, beR̥k·, gandar·, paragul·, (d) jəmbəḥ, kulina, kuḍən·, bantyak·, glar·, cetəm·, (ma)-
+(Cefd17)niṅhat·, huma(la), praghata, siṅkab·, bakul·, boreḥ, gotamī, kaki Abuḥ, maṅgar·, kaki Aghətəṁ, kaki Abul, ḍasar·, pnəd·, kaki ba(d)raṅgoḥ, mañcam·, daśrī, vudəl·, giṇa, bhəñjit·(,)
+(Cefd18) vivaḥ, {1 akṣ. ille.}mol·, kaki haḍaṁ, ba(k)al·, kəbək·, buṅkaḥ, savo, lisyan·, montən·, bukuḥ, kasap·, cupona, kaki saritəm·, saritəm·, R̥mbu (d) , sukhanəm·, hayyən·, ḍənuḥ, maṇḍəg·, vulik·, nud(v)i
+(Cefd19) śrī {2 akṣ. lost}, {2 akṣ. lost} {1 akṣ. ille.} śrī {3 akṣ.  ille.} (ma){2 akṣ. ille.}·, Utī, gereneṁ, kaki sukhanəm·, gəgyən·, gavaṁ, disāra, kaki hadyən· || duvāni gunuṁ, ḍarāt·, krut·(d), manarāt·, katir·, cṅek·, rosi, mavvad·, Uśrī, 
+(Cefd20) ḍti, muṅgaṁ {9 akṣ. ille.}vaṁ, vənyən·, rava, Aguta, Aṅgita, bacu, Uṇḍ(u)ḥ, nini (t)əhər·, qə(n)u(k)·, {2 akṣ. ille.}jo, səmbak·, goḍəṅga, (d) sentel·, maL̥k·, barāt· goṣṭi, Agonī,
+(Cefd21) kaki U{2 akṣ. lost}mān·, {4 akṣ. ille.}n·(,) bha(ṭ)eri, dayadya, lumbaṁ, Atuha samaṅkana, butatut·, kaki dharaṇa, kaki turuk· tāl·, juru sama(d)ṅkana giṇatra || dūvāni ḍəpur·, maniṁ, gañjək·,
+(Cefd22) govana, Ajot·, dra{2 akṣ. ille.}mpor·, vāhana, Uci, Usən·, Uḍikh·, tuvuḥ, A{2 akṣ. ille.}m·, badrik·, hniṁ, bnik·, Udi, tuṅgə, (d) mahitəm·, cabya, soddha, jugil·, Antəb·, ka-
+(Cefd23)ki robhitəm·, Ugra, (k)ri(yā), (bu)(1 akṣ. ille.}(k)·, rā{2 akṣ. ille.}(,) gr̥t·, Aṅkən·, sambut·, yodini, (g)olo, durāt·, juṅan·, basəṁ, vulyan·, A(d)gəm·, baraṅgo, (U)kukup·, gaL̥ṁ, plīvok·, vak(u),
+(Cefd24) tu(ṅa)s·, R̥{2 akṣ. ille.} bayaṅan·, pujyan·, Anamār·, bhavan·, damān·, vīramān·, (koḍovok·,) gumavaṁ, (ta)ṅgal·, pagyən·, gusā(d)r·, galimpo, gahyaṁ, trikəm·, soṇṭok·,
+(Cefd25) {7 akṣ. lost} pravala, nini gupət·, nini hanyan·, turuk agə:ṁ, kaki {1 akṣ. ille}(ba){1 akṣ. ille}[,] kaki rājaṇa(,) buñcaṁ, Ampət·, vijyana, Abr̥n·, kr̥tana[,] (d) kaki tiṅkəs·, kaki Aṅkən·, binag·, buddhivu, Uha
+(Cefd26) {6 akṣ. lost} (A)tuha samaṅkana, kaki Antop·, [ka]ki səndəṁ, kaki <milestone unit="face" n="b"/>asḍa(ṁ), Ugreśa, hemān·, kaki cakal·, kaki Aryyana, ha(d)tan·(,) buyut· sagar·(,) pu godr̥, juru godhara,
+(Cefd27) {6 akṣ. lost}nan·, toṇḍəm·, nini halintər·, tulus·, dhanaja, kohana, nuvul·, moḍik·, kaki səgəḥ, piṅul·, nini ca(d)kal, minā, gamit·, sugal·, sāri, Icchā, ni-
+(Cefd28) {2 akṣ. lost} la {1 akṣ. ille.} {3 akṣ. lost} vaṅśa, nini Aiboṁ, bāṇa, nutug·, gr̥hana, vinaya, Ali, məruk·, Aṅkən·(,) gamparan·, muṇḍuku, saralā, gəntar·, (d) diśrī, pidyaḥ, bacol·, Anti, puruṣa, tikus·
+(Cefd29) {1 akṣ. lost}m(o)b·, Uṅgvan·, bhiUkuḥ, Amən·, Ampag·, tejanī, Abhitu, sabhālvaḥ, Unī(ṁ), Arūm·, dugamān·, loḍan·, Ayvan·, citə(d)m·, piṅhai, vudəl·, ḍuṅaḥ, humuṁ, gayuṁ, bhutaka(,)
+(Cefd30) trikəm·, Abuḥ, vətəḥ, rimbit·, nulus·, Uñjman·, diso, pindyan·, vrat·, malavan·, vahimān·, Umək·, gampər·, kaki (d) baśukri, buruñju, sumrik·, basəgəḥ, gumān·,
+(Cefd31) Udinī, kaki manəṅən·, vuri, buñjaraṁ, bhitəm·, pr̥gol·, Atuha samaṅkana, h(u)rup·, R̥mbho, gudhavo, kaki lo(d)ḍan·, kaki həṅgə:, vinkas· kaki gr̥hana, juru
+(Cefd32) samaṅkana, rahab·, || dūvāniṁ pkan·, godhanā, məṇḍaḥ, gosinəm·, nini bagan·, gəmboṁ, dharmmaja, tguḥ, munda, jitem·, (d) pilaṁ, muraḥ, nini baḍevək·, Umbəg·, kəjə(,) batu(,)
+(Cefd33) yodhā, kaki yodhā, bañcul·, buṅkaluḥ, nini ṇḍut·, Aḍot·, Ibu goviṣṭa, buyut· R̥ṇa, buddhi, mañjok·, sadan· (d) mulya, kiran·, suddhikā, suddhinəm·, paragul·,
+(Cefd34) kaki L̥mbāna, mantun·, gutuṁ, kaki hlam·, kti, luṅguḥ, kaki manada, paṅe, mgut·, nukər·, ṭevə:ḥ, Aləm·, sura(,) Abo(d)s·, tinəm·, gumuk·, maṇik·, nini maṇik·, ka-
+(Cefd35)ki bhavaṇa, vaśaḥ, gati, mamān·, dhr̥rmma, suR̥l·, sampət·, mandəl·, baṅkak·, pr̥gas,· bopekol·, jivati, satra, (d) _ mārmmā, R̥mus·, nəhak·, saniddhya, maṇḍava(,)
+(Cefd36) maṇḍala, təṅge, tiR̥m· moṅva, baḍati, pagut·, viddhi, gdbog·, bitukul·, rumān·, kaki Adiyā, purulū, nini māryya (d) tama, goṇḍok·, dadi, kaki ṭovok·, nini
+(Cefd37) tuṅi, tarahan·, ḍavək·, kaki səṅka, buddhaja, Atuha samaṅkana {1 akṣ. ille.}mān· I hino kaki tirim·, nini hadyan· godr̥ḍa kā(d)liḥ, kaki bāṇa, goviṣṭa, kaki vinaya, salaka
+(Cefd38) bajən·, samaṅkana kvaiḥnikanaṁ karāmān· riṁ baru sapaśuk thāni matuha manvam· kabeḥ tumarima Anugra(d)ha pāduka śrī mahārāja saṁ hyaṅ ājñā ha-
+(Cefd39)ji tāmrapraśāsti, || yāpvan· hana sira vvaṁ durācāra tan· yatnā I sarasanikeṁ sīmā ṅke riṁ baru kabva(d)tkaR̥maknanya, salvirniṁ pañcamahāpāta-
+(Cefd40)ka bhuktinya riṅ īhātra(,) parātra, Avūka tan· tmvaṁ sāma muvaḥ yā(ṁ)janma kiva təṅən· pakelakniṁ janma tma(d)hananya || o ||
+</p>
+         </div>
+         <div type="apparatus">
+           <!--apparatus encoded as per EGD §9.1, basic elements for apparatus below-->
+               <listApp><!-- one <app> for each apparatus entry -->
+                  <app loc="line"><!-- update the value of @loc.-->
+                     <lem><!-- fill in a lemma here --></lem>
+                     <rdg source="bib:Brandes1913_01"><!-- update the @source value, fill in variant reading here --></rdg>
+                  </app>
+               </listApp>
+         </div>
+         <div type="translation">
+ 	<!--translation encoded as per EGD §9.2 -->
+         </div>
+         <div type="commentary">
+            <!--commentary encoded as per section §9.3 -->
+<!-- Brandes’ and Ninny Susanti Tejowasono’s editions completely ignore the punctuation signs that we represent with commas.
+ -->
+         </div>
+        <div type="bibliography">
+	<!--bibliography encoded as per section §9.4 -->
+           <p><!-- formulate epigraphic lemma here, using the items of primary bibliography --></p>
+        	<listBibl type="primary">
+				<bibl n="B"><ptr target="bib:Brandes1913_01"/><citedRange unit="item">LX</citedRange></bibl>
+			</listBibl>
+           <listBibl type="secondary">
+              <bibl><ptr target="bib:TitiSurtiNastiti+al2022_01"/><citedRange unit="page">???</citedRange></bibl>
+           </listBibl>
+        </div>
+      </body>
+  </text>
+</TEI>
