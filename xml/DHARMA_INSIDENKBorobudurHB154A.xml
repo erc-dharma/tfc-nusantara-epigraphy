@@ -73,6 +73,7 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
+            <change who="part:hepr" when="2026-05-13">revised the commentary</change>
             <change who="part:hepr" when="2026-02-13">revised the text, the translation, and the bibliography</change>
         	<change who="part:argr" when="2025-12-05">encoded the inscription</change>
         </revisionDesc>
@@ -94,7 +95,7 @@
  	<p>gift of garlands</p>
          </div>
          <div type="commentary">
-            <p>Krom (<bibl rend="omitname"><ptr target="bib:Krom1927_01"/><citedRange unit="page">54</citedRange></bibl>) preferred the reading <foreign>mālādāna</foreign> over <foreign>vāsodāna</foreign>, <q>gift of a garment</q>.</p>
+            <p><!-- Krom (<bibl rend="omitname"><ptr target="bib:Krom1927_01"/><citedRange unit="page">54</citedRange></bibl>) preferred the reading <foreign>mālādāna</foreign> over <foreign>vāsodāna</foreign>, <q>gift of a garment</q>. --></p>
          </div>
         <div type="bibliography">
            <p>First published by Kern (<bibl rend="omitname"><ptr target="bib:Kern1896_02"/></bibl>); republished by the same author (<bibl rend="omitname"><ptr target="bib:Kern1917_23"/></bibl>) and subsequently by Krom (<bibl rend="omitname"><ptr target="bib:Krom1927_01"/></bibl>); this digital edition based on the 1927 publication.</p>
