@@ -93,8 +93,8 @@ c'est bien bhü qu'il faut lire, avec Bhandarkar, bien que l'aksara diffère sen
    </teiHeader>
    <text xml:space="preserve">
       <body>
-         <div type="edition" xml:lang="san-Latn"><!-- script still to be encoded -->
-<p><lb n="01"/><g ref="sym:san-siddham" type="ideogram">@</g><!-- the symbol stands in the margin -->
+         <div type="edition" xml:lang="san-Latn" rendition="class:38774 maturity:83213">
+<p><lb n="01"/><g ref="sym:spiral-left" type="symbol">*</g><!-- siddham: the symbol stands in the margin -->
 	<lb n="1"/>namo bhagavatyai ārya-tārāyai ||</p>
 	<lg n="1" met="vasantatilaka"><!-- [vasantatilaka: - - ~ - ~ ~ ~ - ~ ~ - ~ - =] -->
 		<l n="a">yā tārayaty amita-duḥkha-bhavābdhi-magnaṁ</l>
