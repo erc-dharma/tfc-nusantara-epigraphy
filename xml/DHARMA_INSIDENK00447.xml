@@ -8,16 +8,13 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Bhatari (829 Śaka, 907-10-07)</title>
+         	<title>N. 447. Charter for Bhatari (829 Śaka, 907-10-07)</title>
             <respStmt>
-               <resp>EpiDoc Encoding</resp>
-               <persName ref="part:wjsa">
-                  <forename>Wayan Jarrah</forename>
-                  <surname>Sastrawan</surname>
-               </persName>
-            </respStmt>
-            <respStmt>
-               <resp>intellectual authorship of edition</resp>
+            	<resp>author of digital edition</resp>
+            	<persName ref="part:argr">
+            		<forename>Arlo</forename>
+            		<surname>Griffiths</surname>
+            	</persName>
                <persName ref="part:wjsa">
                   <forename>Wayan Jarrah</forename>
                   <surname>Sastrawan</surname>
@@ -27,7 +24,7 @@
          <publicationStmt>
             <authority>DHARMA</authority>
             <pubPlace>Paris</pubPlace>
-            <idno type="filename">DHARMA_INSIDENKBhatari</idno>
+            <idno type="filename">DHARMA_INSIDENK00447</idno>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/">
                   <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
@@ -35,7 +32,7 @@
                                             https://creativecommons.org/licenses/by/4.0/ or send a letter to
                                             Creative Commons, 444 Castro Street, Suite 900, Mountain View,
                                             California, 94041, USA.</p>
-                  <p>Copyright (c) 2019-2025 by Wayan Jarrah Sastrawan.</p>
+                  <p>Copyright (c) 2019-2025 by Arlo Griffiths &amp; Wayan Jarrah Sastrawan.</p>
                </licence>
             </availability>
             <date from="2019" to="2025">2019-2025</date>
@@ -72,19 +69,16 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
+      	  <change who="part:argr" when="2026-06-01">Started applying next layer of encoding — num, gap, etc. in edition still to be continued</change>
          <change who="part:axja" when="2022-08-16">Transforming docx into xml</change>
       </revisionDesc>
    </teiHeader>
    <text xml:space="preserve">
            <body> 
-                   <div type="edition">
-                  <div type="textpart">
-                     <p>We assume this side is blank.</p>
-                  </div> 
-                      <div type="textpart">
-                         <head xml:lang="eng">Verso</head>
-                      <p><lb n="1v1"/> || svasti śaka-varṣātīta 829 Asuji-māsa tithi dvādaśi kr̥ṣṇa-pakṣa, ma, ka, <unclear>b</unclear>u, vāra [5+] <gap reason="lost"/>
-                         <lb n="1v2"/> dakṣottama-bāhu-bajra-[prati-pa]kṣakṣa[ya] kumona [8+] vasa<gap reason="lost"/>
+ <div type="edition" xml:lang="kaw-Latn" rendition="class:38769 maturity:83213">
+<pb n="1r"/><!--Blank outer page.-->
+<p><pb n="1v"/>	<lb n="1v1"/>|| svasti śaka-varṣātīta <num value="829">829</num> Asuji-māsa tithi dvādaśi kr̥ṣṇa-pakṣa, ma, ka, <unclear>b</unclear>u, vāra <gap reason="undefined" unit="character" quantity="5"/> <gap reason="lost"/>
+                         <lb n="1v2"/>dakṣottama-bāhu-bajra-<unclear>prati-pa</unclear>kṣakṣa<unclear>ya</unclear> kumona <gap reason="undefined" unit="character" quantity="8"/> vasa<gap reason="lost"/>
                          <lb n="1v3"/>knanyan· sinusuk· sīmā bhaṭārī ta [+]pa ri [+] iṅinira sa[+] maṇik <gap reason="lost"/>
                          <lb n="1v4"/> [+] mapaḍahi maṅiduṁ hulun· haji saprakārani maṅilala dravya haji kabaiḥ ta<unclear>n·</unclear> <gap reason="lost"/>
                          <lb n="1v5"/>n mapatiḥ I hino śrī dakṣottama-bāhu<unclear>b</unclear>ajra-pratipakṣakṣaya vḍihan· gañjar· patra sisi yu [+] <gap reason="lost"/>
@@ -107,15 +101,17 @@
                          <lb n="1v22"/> tamvakur mesi bras· 4 vsi Ikat· 4 mas· ma 4 vsi-vsi prakāra vaduṁ rimvas· patuk·-patuk· lukai tampilan· li[+] <gap reason="lost"/>
                          <lb n="1v23"/>n papañjutan· saragi pagaṅannan saragi Inuman pāmassanya su 2 mā 1 ku 1 vḍus 1 taṇḍas· 1 kumol· <gap reason="lost"/></p>
                       </div>
-                   </div>
               <div type="apparatus"/>
               <div type="commentary"/>
-              <div type="bibliography"/>
-          <!-- <div>
-                         <head>Provenance and Artefact</head>
-                         <p>The following information is quoted from Boechari (2012): 480.</p>
+              <div type="bibliography">
+<p>Deciphered by Boechari and published in <bibl><ptr target="bib:Boechari2012_33"/></bibl>, with Indonesian translation. No reproduction being available, we reproduce the poublished edition.</p>
+<listBibl type="primary">  
+<bibl><ptr target="bib:Boechari2012_33"/><citedRange unit="item">V</citedRange><citedRange unit="page">480-483</citedRange></bibl>
+</listBibl>
+</div>
+          <!-- <p>The following information is quoted from Boechari (2012): 480.</p>
                          <p>Prasasti ini milik seorang kolektor, asal dari Jawa Tengah. Ukuran lempengan: panjang atas 21,8 cm; bagian terpanjang 29,5 cm; panjang bawah 27,5 cm; lebar 22 cm. Biasanya prasasti-prasasti Rakai Watukura dyah Balituṅ yang lebarnya sekitar 22 cm, panjangnya sekitar 40 cm.</p>
-                      </div> -->                 
+ -->                 
            </body>
    </text>
 </TEI>
