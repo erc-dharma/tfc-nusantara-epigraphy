@@ -8,7 +8,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Charter of Rukam (829 Śaka)</title>
+         	<title>N. 383. Charter of Rukam (829 Śaka)</title>
             <respStmt>
                <resp>author of digital edition</resp>
             	<persName ref="part:argr">
@@ -24,7 +24,7 @@
          <publicationStmt>
             <authority>DHARMA</authority>
             <pubPlace>Paris</pubPlace>
-            <idno type="filename">DHARMA_INSIDENKRukam</idno>
+         	<idno type="filename">DHARMA_INSIDENK00383</idno>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/">
                   <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
@@ -135,22 +135,11 @@
                </div>
             
                    <div type="bibliography">
-                    <p><!--First read by Boechari, who gave a provisional transcription.-->This inscription was the subject of an undergraduate thesis by Richadiana Kartakusuma (<bibl rend="omitname"><ptr target="bib:RichadianaKartakusuma1981_01"/></bibl>). Her reading was subsequently republished in <bibl><ptr target="bib:TitiSurtiNastiti+al1982_01"/></bibl>, which is the version referred to in this apparatus.</p>
-                    <p>This reading was verified by Arlo Griffiths at BPPP Prambanan on 21/01/2010, and revised by Wayan Jarrah Sastrawan in February 2021 and in February 2022.</p>
+                    <p><!--First read by Boechari, who gave a provisional transcription.-->This inscription was the subject of an undergraduate thesis by Richadiana Kartakusuma (<bibl rend="omitname"><ptr target="bib:RichadianaKartakusuma1981_01"/></bibl>). Her reading was subsequently republished in <bibl><ptr target="bib:TitiSurtiNastiti+al1982_01"/></bibl>, which is the version referred to in our apparatus. The edition was verified by Arlo Griffiths directly from the plate on in January 2010, and revised by Wayan Jarrah Sastrawan in February 2021 and in February 2022.</p>
                     <listBibl type="primary">
-                       <bibl n="N"><ptr target="bib:TitiSurtiNastiti+al1982_01"/><citedRange/></bibl>
+                       <bibl n="RK"><ptr target="bib:TitiSurtiNastiti+al1982_01"/><citedRange unit="mixed">pp. 1-2, 7, 23-28, 36-40, 64; photos 3a, 3b</citedRange></bibl>
                         <!--<bibl n="B"><ptr target="bib:Boechari"/></bibl> Need to confirm access to the Boechari transcription -->
 </listBibl>                   </div>
-               
-                   
-            <!-- 
-            <div>
-                    <head>Provenance</head>
-                    <p>BPCB Prambanan inv. nr. 301 and 302.</p>
-                </div>
-            -->
-                   
-               
            </body>
                      </text>
 </TEI>
