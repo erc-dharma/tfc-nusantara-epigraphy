@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?> <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?> <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?> <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?> <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+         	<title>N. 382. Broken copper plate from Pasanggrahan (ca. 900-910 CE)</title>
+         	<respStmt>
+         		<resp>author of digital edition</resp>
+         		<persName ref="part:argr">
+         			<forename>Arlo</forename>
+         			<surname>Griffiths</surname>
+         		</persName>
+         		<persName ref="part:wjsa">
+         			<forename>Wayan Jarrah</forename>
+         			<surname>Sastrawan</surname>
+         		</persName>
+         	</respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>DHARMA</authority>
+            <pubPlace>Paris</pubPlace>
+            <idno type="filename">DHARMA_INSIDENK00382</idno>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/">
+                  <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
+                                            Licence. To view a copy of the licence, visit
+                                            https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                                            Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                                            California, 94041, USA.</p>
+                  <p>Copyright (c) 2019-2025 by Arlo Griffiths &amp; Jarrah Sastrawan.</p>
+               </licence>
+            </availability>
+            <date from="2019" to="2025">2019-2025</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>DHARMAbase</repository>
+                  <idno/>
+               </msIdentifier>
+               <msContents>
+                  <summary/>
+               </msContents>
+            	<physDesc>
+            		<handDesc>
+            			<p>The <foreign>ulu</foreign> is often placed significantly to the top-left of the <foreign>akṣara</foreign> to which it is attached, e.g. in <foreign>hinapit·</foreign> (A3).<!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EG 11.2. --></p>
+            			<!-- If you need to identify individual hands (EG §7.5/) in addition to one or more paragraphs of general palaeographic description, wrap <summary> around the <p> or <p>s above, and, outside <summary>, create <handNote> elements for each hand as follows:
+						<summary><p><p/></summary>
+						<handNote xml:id="Pallava00001_hand1"></handNote>
+						<handNote xml:id="Pallava00001_hand2"></handNote>
+					 -->
+            		</handDesc>
+            	</physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
+         </projectDesc>
+         <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+         <listPrefixDef>
+            <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+               <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
+            </prefixDef>
+            <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
+               <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_idListMembers_v01.xml</ref> file.</p>
+            </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <revisionDesc>
+      	 <change who="part:argr" when="2026-06-01">Some further modifications, finalized file name — further encoding revision necessary</change>
+         <change who="part:argr" when="2024-08-12">Manual modifications</change>
+         <change who="part:axja" when="2022-08-16">Transforming docx into xml</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:space="preserve">
+           <body> 
+         <div type="edition" xml:lang="kaw-Latn" rendition="class:38769 maturity:83213">                           
+                              <p><pb n="1r"/><lb n="1r1"/><gap reason="lost" extent="unknown"/> Anak vanuA I <gap reason="lost" unit="character" quantity="1"/>ṇḍar· <choice><unclear>va</unclear><unclear>ja</unclear></choice>k°ja <gap reason="lost" unit="character" quantity="5"/> <gap reason="lost" unit="character" quantity="5"/> nu <gap reason="lost" unit="character" quantity="5"/> <gap reason="lost" extent="unknown"/>
+<lb n="1r2"/> <gap reason="lost" extent="unknown"/> <supplied reason="lost">tiruA</supplied>n· sumuḍan· <choice><sic>sakati<unclear>maAm</unclear>ə</sic><corr>saṁ katimamaṁ</corr></choice> Anakg <unclear>v</unclear>anuA I vuṅkuḍu vatak· ki<unclear>lipan·</unclear> <gap reason="lost" extent="unknown"/> 
+<lb n="1r3"/><gap reason="lost" extent="unknown"/>· parujar· I <unclear>maṁ</unclear><gap reason="lost" extent="unknown"/> hu<supplied reason="lost">ri</supplied> <supplied reason="lost">ranuĪ</supplied><gap reason="lost" extent="unknown"/>   bhasa<supplied reason="lost">ṁ</supplied> gupura sanakh vanuA I hinapit· vata <unclear>k·</unclear> <supplied reason="lost">vka</supplied> <gap reason="lost" unit="character" quantity="4"/>
+<lb n="1r4"/> <gap reason="lost" extent="unknown"/> n· <gap reason="lost" unit="character" quantity="1"/>natoda <gap reason="lost" unit="character" quantity="6"/> A I s<supplied reason="lost">i</supplied>ṅhapura vatak· ma<unclear>mra</unclear>ti parujar· I takaCVvān· rā<supplied reason="lost">luk</supplied> <gap reason="lost" unit="character" quantity="9"/>
+<lb n="1r5"/> <gap reason="lost" extent="unknown"/> <supplied reason="lost">ka</supplied>ṇḍam<supplied reason="lost">u</supplied>Chia vatak· CV<unclear>da</unclear>n·, parujar· I ti<supplied reason="lost">ri</supplied>CVp·ā <gap reason="lost" unit="character" quantity="3"/>rā <gap reason="lost" unit="character" quantity="5"/>A I Uvagihan· <unclear>vata</unclear>k· dalihaCV piha <gap reason="lost" unit="character" quantity="2"/> luṅgaC·, paru-
+<lb n="1r6"/><gap reason="lost" extent="unknown"/> si sanāñjaya <gap reason="lost" unit="character" quantity="2"/><supplied reason="lost">A</supplied>nak· <supplied reason="omitted">va</supplied>nuA I ra luA vatak· vuru siki <gap reason="lost" unit="character" quantity="6"/> <supplied reason="lost">2</supplied> I <gap reason="lost" unit="character" quantity="2"/>n· muṅi<gap reason="lost" unit="character" quantity="1"/> <unclear>parujar·</unclear> <supplied reason="lost">A</supplied>nak va<supplied reason="lost">nu</supplied>A 
+<lb n="1r7"/><gap reason="lost" extent="unknown"/>nuAtan· pe si laṅka Anak vanuA I vuAta<supplied reason="lost">n·</supplied> pe vatak· <supplied reason="lost">vat</supplied><unclear>u humala</unclear><supplied reason="lost">ṁ</supplied> <gap reason="lost" unit="character" quantity="5"/> ta <gap reason="lost" unit="character" quantity="2"/> Ci <unclear>ra</unclear><gap reason="lost" extent="unknown"/> 
+<lb n="1r8"/> <gap reason="lost" extent="unknown"/> panvuṅa<unclear>n</unclear>· vatak· vakv antan· kapuA vinaiḥ pasak·-pasak· pira<unclear>k</unclear>· <gap reason="lost" unit="character" quantity="2"/> kinabaihanya <gap reason="lost" extent="unknown"/>
+<lb n="1r9"/> <gap reason="lost" extent="unknown"/> nayakān· <num value="2">2</num> samgat· vuAtan· lampu <gap reason="lost" unit="character" quantity="5"/> Anak vanuA I gilikan· <unclear>vatak· mamrati</unclear> ma<unclear>ṁ</unclear>raṅkə<supplied reason="lost">pi</supplied> <gap reason="lost" unit="character" quantity="2"/>
+<lb n="1r10"/> <gap reason="lost" unit="character" quantity="3"/>n· <gap reason="lost" unit="character" quantity="3"/> Anak vanuA I vuluyu vatak· tir<supplied reason="lost">u</supplied>A<supplied reason="lost">n·</supplied> <gap reason="lost" unit="character" quantity="7"/> rake paḍa sasi<gap reason="lost" unit="character" quantity="1"/>r· Anak vanuA I paṅunṅan· <gap reason="lost" unit="character" quantity="2"/>
+<lb n="1r11"/> <gap reason="lost" extent="unknown"/> tvaḍa saṁ jambhala Anag vanuA I laṅkavan· pagar vsi <gap reason="lost" unit="character" quantity="1"/> parujar· haj<supplied reason="lost">i</supplied> I <gap reason="lost" unit="character" quantity="3"/> taran· Anak vanuA I <gap reason="lost" unit="character" quantity="2"/>
+<pb n="1v"/><lb n="1v1"/> <gap reason="lost" extent="unknown"/> <supplied reason="lost">vi</supplied>naiḥ pasak pasa<supplied reason="lost">k·</supplied> <gap reason="lost" unit="character" quantity="3"/> rak· <gap reason="lost" unit="character" quantity="2"/> vḍiha<unclear>n· ra</unclear>ṅga yu <gap reason="lost" unit="character" quantity="3"/>n· I <gap reason="lost" unit="character" quantity="2"/> kadar· para <gap reason="lost" unit="character" quantity="7"/>
+<lb n="1v2"/> <gap reason="lost" extent="unknown"/> I <gap reason="lost" unit="character" quantity="1"/>hān· I vadihati 1 sa mirami <gap reason="lost" unit="character" quantity="5"/> naC· si nā <gap reason="lost" unit="character" quantity="2"/> ma <gap reason="lost" unit="character" quantity="1"/> rma <gap reason="lost" unit="character" quantity="1"/> <supplied reason="lost">va</supplied>tak vadihati <gap reason="lost" unit="character" quantity="2"/> ṅka <gap reason="lost" unit="character" quantity="4"/>
+<lb n="1v3"/><gap reason="lost" unit="character" quantity="2"/> nan· pu dhanada Anak vanuA I para<gap reason="lost" unit="character" quantity="1"/>An· <unclear>vata</unclear>k vadihati satuhān· I ma<supplied reason="lost">ku</supplied>dur· 2 savaṅan· <gap reason="lost" unit="character" quantity="7"/> Anak vanuA I ma<gap reason="lost" unit="character" quantity="3"/>
+<lb n="1v4"/> <gap reason="lost" unit="character" quantity="3"/> ma <gap reason="lost" unit="character" quantity="1"/> nar·, maṅkipisa vagu<gap reason="lost" unit="character" quantity="1"/> lai <gap reason="lost" unit="character" quantity="3"/> Ana<unclear>k</unclear> va<supplied reason="lost">nuA</supplied> I <gap reason="lost" unit="character" quantity="3"/> makur· kapuA vinaiḥ pasak-pasak· <gap reason="lost" unit="character" quantity="5"/> vḍihan· ra <gap reason="lost" unit="character" quantity="2"/>
+<lb n="1v5"/><gap reason="lost" extent="unknown"/> <gap reason="lost" unit="character" quantity="1"/> I soAṁ-soAṁ, samakajar· lumaku manus<supplied reason="lost">u</supplied>k· <gap reason="lost" unit="character" quantity="1"/> lma suti <gap reason="lost" unit="character" quantity="2"/> sutaso<unclear>ma</unclear> Anak vanuA I kahaṅitan· vatak· <gap reason="lost" unit="character" quantity="1"/>məAn· <gap reason="lost" unit="character" quantity="5"/>
+<lb n="1v6"/><gap reason="lost" extent="unknown"/> <gap reason="lost" unit="character" quantity="1"/> malu manusuk· satisāma pu nandaka Anak vanuA I matgal· si ravadi <gap reason="lost" unit="character" quantity="4"/> vinaiḥ pasak pasak· <unclear>dina</unclear>n· ḍhā 2 vḍihan· <gap reason="lost" unit="character" quantity="3"/>
+<lb n="1v7"/> <gap reason="lost" extent="unknown"/>ka<gap reason="lost" unit="character" quantity="1"/>hā<gap reason="lost" unit="character" quantity="1"/>saṅka<unclear>t</unclear>· muAṁ paṅuA I <unclear>pa</unclear>ra I soAṁ so<unclear>Aṁ</unclear> mo<gap reason="lost" unit="character" quantity="1"/>humahatan· rakryān· I sirikan· samgat· Umaṅgi<unclear>l</unclear>· parbata A<supplied reason="lost">na</supplied>k vanuA
+<lb n="1v8"/><supplied reason="lost">I tu</supplied>rai vatak· tur<unclear>ai</unclear>, vinaiḥ <supplied reason="lost">pa</supplied>sak-pasak· pirak· <abbr>ḍhā</abbr> <num value="1">1</num> vḍihan· lvi<unclear>r·</unclear>-lviran· <abbr>yu</abbr> <num value="1">1</num> samaṅkana satuhān· kabaiḥ sakvaiḥnira mamu<lb n="1v9" break="no"/><supplied reason="lost">At· Ujar·</supplied> <gap reason="lost" unit="character" quantity="7"/> <unclear>paru</unclear>jar· I hi<supplied reason="lost">no</supplied> <gap reason="lost" unit="character" quantity="4"/> saṁ brahmĭśāna Anak vanuA I gunuṅan· vatak· taṅk<unclear>i</unclear>lan· ci<unclear>t</unclear>ra<unclear>lekha va</unclear>tu varaṇi
+<lb n="1v10"/> <gap reason="lost" extent="unknown"/>· I halu visaga saṁ dāmodāra Anak vanuA I paravutan· vatak· tir<supplied reason="lost">u</supplied> raṇ<supplied reason="lost">u</supplied>
+<lb n="1v11"/><gap reason="lost" extent="unknown"/> tunu vandhan· vatak· tiru raṇu ci<unclear>t</unclear>ral<supplied reason="lost">e</supplied>kha dharmmasinta saṁ <gap reason="lost" unit="character" quantity="4"/></p>
+</div>
+                       <div type="apparatus">
+                          <listApp>
+							<app loc="1">
+								<lem>sakati<unclear>mam</unclear>ə</lem>
+                             	<note>cf. Panggumulan 2v3, Poh 1v16, Bhatari 11.</note>
+                          </app>  
+						</listApp>
+                       </div>
+              <div type="commentary"/>
+            <div type="bibliography">
+               <p>Previously unpublished. Provisional transliteration by Arlo Griffiths based on photos made at the museum. Revised by Wayan Jarrah Sastrawan in July 2022.</p>
+            </div>
+         </body>
+      </text>
+</TEI>
