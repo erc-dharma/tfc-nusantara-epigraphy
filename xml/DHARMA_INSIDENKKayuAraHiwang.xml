@@ -83,7 +83,7 @@
    <text xml:space="preserve">
            <body> 
                    <div type="edition" xml:lang="kaw-Latn">
-<p><lb n="1"/><milestone unit="face" n="A"/>// sva<choice><orig>ṣ</orig><reg>s</reg></choice>ti śaka-varṣātīta <num value="823">823</num> Asuji-māsa pañcamī kr̥<milestone unit="face" n="b" break="no"/>ṣṇa-pakṣa, vurukuṁ <milestone unit="face" n="C"/>pahiṁ soma-vāra Aṅgāra-stha m<choice><orig>r̥</orig><reg>ār</reg></choice>gaśĭra-ṇakṣatra, śiva-yo<milestone unit="face" n="d" break="no"/>ga<supplied reason="subaudible">,</supplied></p>
+<p><lb n="1"/><milestone unit="face" n="A"/>// sva<choice><orig>ṣ</orig><reg>s</reg></choice>ti śaka-varṣātīta <num value="823">823</num> Asuji-māsa pañcamī kr̥<milestone unit="face" n="b" break="no"/>ṣṇa-pakṣa, vurukuṁ <milestone unit="face" n="C"/>pahiṁ soma-vāra Aṅgāra-stha m<choice><orig>r̥</orig><reg>ār</reg></choice>gaś<choice><orig>i</orig><reg>ī</reg></choice>ra-ṇakṣatra, śiva-yo<milestone unit="face" n="d" break="no"/>ga<supplied reason="subaudible">,</supplied></p>
 
 <p>tatkāla rake <lb n="2"/><milestone unit="face" n="A"/>vanuA poḥ dyaḥ mala vka saṁ ratu bajra Anak vanuA I parivuta<milestone unit="face" n="b" break="no"/>n· sumusuk· I<milestone unit="face" n="C" break="no"/>kanaṁ va<unclear>nu</unclear>A I kayu Āra hivaṁ, vatak· vatu tihaṁ paṁ<milestone unit="face" n="d" break="no"/>guhan· kaṭi<unclear>knya</unclear>
 
@@ -112,7 +112,7 @@
 <lb n="14"/><milestone unit="face" n="A"/>vḍihan· raṅga yu 1 mas· mā 12 hop· paṅaṅkat· pa<milestone break="no" unit="face" n="b"/>nuṁsuṁ tuhānni ka<milestone break="no" unit="face" n="C"/>nayakānya I vatu tihaṁ rake vaskar· tāl· pu su<milestone break="no" unit="face" n="d"/>draka Anak vanva I<unclear>ṁ</unclear> ka<lb break="no" n="15"/><milestone unit="face" n="A" break="no"/>sugihan· vatak· Ugihan· vḍihan· raṅga yu 1 <milestone unit="face" n="b"/>mas· mā 6 maṁra<milestone break="no" unit="face" n="C"/><surplus>maṁra</surplus><supplied reason="omitted">ṁ</supplied>kappi tuhānni kanayakān· rake pa<unclear>ka</unclear>mviṅan· 
 <milestone break="no" unit="face" n="d"/>pu paṇḍava Anak· va<lb break="no" n="16"/><milestone unit="face" n="A" break="no"/>nva I lamva<unclear>n</unclear>· vatak varu ranu, vḍihan· raṅga yu 1 mas· mā 
 <milestone unit="face" n="b"/>6 tuhānni la<supplied reason="omitted">m</supplied>pu<milestone break="no" unit="face" n="C"/>ran· rake vava hyaṁ lampuran· pu manu Anak vanva I 
-<milestone unit="face" n="d"/>paṅgumulan· vata<lb break="no" n="17"/><milestone unit="face" n="A" break="no"/>k· manuṅkuli vḍihan· raṅga yu 1 mas· mā 6 paruja<milestone break="no" unit="face" n="b"/>r· saṁ Alas galu<unclear>ḥ</unclear> <milestone unit="face" n="C"/>pu vĭryya Anak vanva I kalaṁkyaṁ vatak· pagar vsi 
+<milestone unit="face" n="d"/>paṅgumulan· vata<lb break="no" n="17"/><milestone unit="face" n="A" break="no"/>k· manuṅkuli vḍihan· raṅga yu 1 mas· mā 6 paruja<milestone break="no" unit="face" n="b"/>r· saṁ Alas galu<unclear>ḥ</unclear> <milestone unit="face" n="C"/>pu v<choice><orig>i</orig><reg>ī</reg></choice>ryya Anak vanva I kalaṁkyaṁ vatak· pagar vsi 
 <milestone unit="face" n="d"/>vḍihan· raṅga yu 1
 
 <lb n="18"/><milestone unit="face" n="A"/>mas· mā 4 mataṇḍa saṁ ḍa sagar· putuAn· Anak va<milestone break="no" unit="face" n="b"/>nva I truAyun· <milestone unit="face" n="C"/>vatak· hino vḍihan· <supplied reason="omitted">ra</supplied>ṅga yu 1 mas· mā 6 
@@ -132,8 +132,8 @@
 <note>The inclusion of a <foreign>sapta-vāra</foreign> here in place of one of the expected <foreign>graha-cāra</foreign>s is highly unexpected</note>
 </app>
 <app loc="1">
-<lem>m<choice><orig>r̥</orig><reg>ār</reg></choice>gaśĭra</lem>
-<rdg source="bib:Brandes1913_01">mr̥gaśĭra</rdg>
+<lem>m<choice><orig>r̥</orig><reg>ār</reg></choice>gaś<choice><orig>i</orig><reg>ī</reg></choice>ra</lem>
+<rdg source="bib:Brandes1913_01">mr̥gaś<choice><orig>i</orig><reg>ī</reg></choice>ra</rdg>
 <rdg source="bib:Damais1955_01">mr̥gaśīra</rdg> 
 </app>
 <app loc="2"><lem source="bib:Brandes1913_01">mala</lem><rdg source="bib:Damais1955_01">ṣala</rdg></app>
