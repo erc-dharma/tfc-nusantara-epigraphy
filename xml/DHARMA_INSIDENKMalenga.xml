@@ -87,7 +87,7 @@
 <pb n="0r"/><!-- blank -->
 <p><pb n="0v"/>
 <lb n="0v1"/><g ref="sym:doubleBar-ornate" type="punctuation">.</g> <g ref="sym:doubleBar-ornate" type="punctuation">.</g> <g ref="sym:circle-oval-concentric" type="symbol">*</g> <g ref="sym:doubleBar-ornate" type="punctuation">.</g> <g ref="sym:doubleBar-ornate" type="punctuation">.</g> Avighnam astu <g ref="sym:doubleBar-ornate" type="punctuation">.</g> <g ref="sym:doubleBar-ornate" type="punctuation">.</g> svasti śaka-varś<choice><orig>a</orig><reg>ā</reg></choice>titha I śaka, <num value="974">974</num>, badravada-m<choice><orig>a</orig><reg>ā</reg></choice>sa tithi da<lb n="0v2" break="no"/>śami kr̥ṣṇa-pakṣa, vara, <abbr>ha</abbr>, <abbr>U</abbr>, <abbr>śa</abbr>, ni<supplied reason="omitted">ṁ</supplied> maṇḍaṅkuṅan·, grahacaraṣṭā devasastha, devata, nakṣatra<supplied reason="subaudible">,</supplied>
-<lb n="0v3"/>maṇḍala<supplied reason="subaudible">,</supplied> yoga<supplied reason="subaudible">,</supplied> <choice><sic>vvarveṣya</sic><corr>parvveśa</corr></choice><supplied reason="subaudible">,</supplied> <choice><sic>mahŭ</sic><corr>muhū</corr></choice>rtta, siddhā-yoga vava-karaṇa, mahendra-maṇḍala<supplied reason="subaudible">,</supplied> kuvera-parvv<choice><sic>a</sic><corr>e</corr></choice>-<lb n="0v4" break="no"/>śa<supplied reason="subaudible">,</supplied> mituna-r<choice><orig>a</orig><reg>ā</reg></choice>śi<supplied reason="subaudible">,</supplied> sampun· sumalaḥ nugrahanira, sira śrī mah<choice><orig>a</orig><reg>ā</reg></choice>r<choice><orig>a</orig><reg>ā</reg></choice>ja, sira haji garasakan·
+<lb n="0v3"/>maṇḍala<supplied reason="subaudible">,</supplied> yoga<supplied reason="subaudible">,</supplied> <choice><sic>vvarveṣya</sic><corr>parvveśa</corr></choice><supplied reason="subaudible">,</supplied> <choice><sic>mah<choice><orig>u</orig><reg>ū</reg></choice></sic><corr>muhū</corr></choice>rtta, siddhā-yoga vava-karaṇa, mahendra-maṇḍala<supplied reason="subaudible">,</supplied> kuvera-parvv<choice><sic>a</sic><corr>e</corr></choice>-<lb n="0v4" break="no"/>śa<supplied reason="subaudible">,</supplied> mituna-r<choice><orig>a</orig><reg>ā</reg></choice>śi<supplied reason="subaudible">,</supplied> sampun· sumalaḥ nugrahanira, sira śrī mah<choice><orig>a</orig><reg>ā</reg></choice>r<choice><orig>a</orig><reg>ā</reg></choice>ja, sira haji garasakan·
 <pb n="1r"/>
 <lb n="1r1"/>panəguhani saṁ hyaṁ desa rikaṁ malṅa, <choice><sic>suṣa</sic><corr>sapa</corr></choice>suk s<choice><orig>i</orig><reg>ī</reg></choice>manira vargga haji ri malṅa tan·
 <lb n="1r2"/>kna deniṁ vulu-vulu para vulu nitya mavathi baṇa ksaṇḍa sapahuta haliḥ –hus·
@@ -118,8 +118,8 @@
                   <rdg source="bib:Boechari2012_33">ni maṇdaṅkuṅan·</rdg>
                </app>
                <app loc="0v3">
-                  <lem><choice><sic>vvarveṣya</sic><corr>parvveśa</corr></choice><supplied reason="subaudible">,</supplied> <choice><sic>mahŭ</sic><corr>muhū</corr></choice>rtta</lem>
-                  <rdg source="bib:Boechari2012_33">vvarveṣya<supplied reason="subaudible">,</supplied> mahŭrtta</rdg>
+                  <lem><choice><sic>vvarveṣya</sic><corr>parvveśa</corr></choice><supplied reason="subaudible">,</supplied> <choice><sic>mah<choice><orig>u</orig><reg>ū</reg></choice></sic><corr>muhū</corr></choice>rtta</lem>
+                  <rdg source="bib:Boechari2012_33">vvarveṣya<supplied reason="subaudible">,</supplied> mah<choice><orig>u</orig><reg>ū</reg></choice>rtta</rdg>
                </app>
                <app loc="0v3">
                   <lem>-parvv<choice><sic>a</sic><corr>e</corr></choice>-<lb n="0v4" break="no"/>śa</lem>

@@ -128,7 +128,7 @@
         
             <app loc="1v4"><lem source="bib:Boechari1985-1986_01">livū</lem><rdg source="bib:CohenStuart1875_01">libū</rdg></app>
         
-            <app loc="1v5"><lem source="bib:CohenStuart1875_01">mŭla</lem><rdg source="bib:Boechari1985-1986_01">mūla</rdg></app>
+            <app loc="1v5"><lem source="bib:CohenStuart1875_01">m<choice><orig>u</orig><reg>ū</reg></choice>la</lem><rdg source="bib:Boechari1985-1986_01">mūla</rdg></app>
         
             <app loc="1v6"><lem source="bib:Boechari1985-1986_01">prayatnā</lem><rdg source="bib:CohenStuart1875_01">prayatna</rdg></app>
         
