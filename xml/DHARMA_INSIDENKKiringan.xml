@@ -96,7 +96,7 @@ The recently noticed text in our opinion seems to be a draft for this charter, a
       <div type="edition" xml:lang="kaw-Latn">
         <p>
 <!-- Plate 1. Recto -->
-<lb n="1r1"/> // svasti śaka-varṣatĭta <num value="839">839</num> kărtika-māsa tithi dvādaśi kr̥ṣṇa-pakṣa, tu, U, śu <supplied reason="lost">...</supplied>
+<lb n="1r1"/> // svasti śaka-varṣatĭta <num value="839">839</num> k<choice><orig>a</orig><reg>ā</reg></choice>rtika-māsa tithi dvādaśi kr̥ṣṇa-pakṣa, tu, U, śu <supplied reason="lost">...</supplied>
 <lb n="1r2"/> pu sāhitya Anak banuA I vuga vatək· pəAr·, Umanugrahai Ikana<unclear>ṁ</unclear> vanuA I kiri<supplied reason="lost">ṅan· ...</supplied>
 <lb n="1r3"/> maṅkai mas· mā <num value="4">4</num> muAṁ tan· pārika muAṁ tan· knā Iṁ hopan· bvat thaji, Avur· <unclear>p</unclear>rakāra <supplied reason="lost">...</supplied>
 eccentric ductus.
@@ -124,8 +124,8 @@ eccentric_ductus
       <div type="apparatus">
         <!-- The siglum BJ refers to Barrett Jones’ edition, Boe refers to Boechari’s and EW refers to Edhie Wurjantoro’s. -->
         <app loc="1r1">
-          <lem>kărtika-māsa</lem>
-          <note>Boe, kărtika masa BJ EW.</note>
+          <lem>k<choice><orig>a</orig><reg>ā</reg></choice>rtika-māsa</lem>
+          <note>Boe, k<choice><orig>a</orig><reg>ā</reg></choice>rtika masa BJ EW.</note>
         </app>
         <app loc="1r2">
           <lem>I kiri<supplied reason="lost">ṅan·</supplied></lem>

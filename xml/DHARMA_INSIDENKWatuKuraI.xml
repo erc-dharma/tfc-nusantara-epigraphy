@@ -102,7 +102,7 @@
       <body>
  <div type="edition" xml:lang="kaw-Latn">
 <pb n="1v"/><p><lb n="1v1"/><g ref="sym:doubleBar-ornate" type="punctuation">.</g><g ref="sym:circle-lined" type="punctuation">.</g><g ref="sym:doubleBar-crossed" type="punctuation">.</g> svasti śaka-varṣātīta, <num value="824">824</num>, śravaṇa-māsa, tithi, <num value="15">pañcadaśi</num> śukla-pakṣa, <abbr>pā</abbr>, <abbr>pa</abbr>, <abbr>Aṁ</abbr>, vāra, 
-<lb n="1v2"/>maḍaṅkuṅan·, saptakāraṇa-viṣṭi, pūrvvăṣāḍhā-nakṣatra, śiva-yoga,</p>
+<lb n="1v2"/>maḍaṅkuṅan·, saptakāraṇa-viṣṭi, pūrvv<choice><orig>a</orig><reg>ā</reg></choice>ṣāḍhā-nakṣatra, śiva-yoga,</p>
 <p>tatkāla mahārāja <abbr>rake</abbr> vatu kura<g ref="sym:bar-curly" type="punctuation">.</g>
 <lb n="1v3"/>dyaḥ balituṁ, śrī Ĭśvarakeśavotsavatuṅga, maveḥ panīma, <abbr>mā</abbr>, <abbr>kā</abbr> <num value="1">1</num>, I rāmanta I vatu kura, parṇnaḥ
 <lb n="1v4"/>dharmma paṅasthūlan· ri sira, Aṅkən· pūrṇnamaniṁ bhadravāda, kabhaktyana de rāmanta I vatu kura,</p>
@@ -133,7 +133,7 @@
 <pb n="6v"/>
 <gap reason="lost" quantity="5" unit="line"/>
 <p part="F">
-<pb n="7r"/><lb n="7r1"/>tiṅkaḥ samya hajī vatu kura, <g ref="sym:doubleBar-ornate" type="punctuation">.</g><g ref="sym:circle-lined" type="punctuation">.</g><g ref="sym:doubleBar-crossed" type="punctuation">.</g>, Iṁ śaka, <num value="1270">1270</num>, Ăṣāḍhā-māsa, tīthi, <num value="11">Ekădaśi</num> śukla-pakṣa, <abbr>pā</abbr>, <abbr>va</abbr>,
+<pb n="7r"/><lb n="7r1"/>tiṅkaḥ samya hajī vatu kura, <g ref="sym:doubleBar-ornate" type="punctuation">.</g><g ref="sym:circle-lined" type="punctuation">.</g><g ref="sym:doubleBar-crossed" type="punctuation">.</g>, Iṁ śaka, <num value="1270">1270</num>, Ăṣāḍhā-māsa, tīthi, <num value="11">Ek<choice><orig>a</orig><reg>ā</reg></choice>daśi</num> śukla-pakṣa, <abbr>pā</abbr>, <abbr>va</abbr>,
 <lb n="7r2"/><abbr>ca</abbr>, vāra, juluṁ, <g ref="sym:doubleBar-ornate" type="punctuation">.</g><g ref="sym:circle-lined" type="punctuation">.</g><g ref="sym:doubleBar-crossed" type="punctuation">.</g><g ref="sym:bullet-double" type="punctuation">.</g><g ref="sym:bullet-double" type="punctuation">.</g>,</p>
          </div>
          <div type="apparatus">
@@ -143,7 +143,7 @@
                      <rdg source="bib:Naerssen1977_01">śakā-</rdg>
 	</app>
                   <app loc="1v2">
-                     <lem>pūrvvăṣāḍhā-</lem>
+                     <lem>pūrvv<choice><orig>a</orig><reg>ā</reg></choice>ṣāḍhā-</lem>
 	       <rdg source="bib:Naerssen1941_01">pūrvvaṣādhā-</rdg>
                      <rdg source="bib:Naerssen1977_01">pūrvvasādhā-</rdg>
 	</app>
@@ -200,7 +200,7 @@
 </item>                   
 	<item>The passage from 5r2 onwards has extensive parallels in several Sindok inscriptions.</item>
                <item>5v5 <foreign>kapu<supplied reason="omitted">A</supplied> manəmbaḥ I sārah-araḥ, śrī mahārāja</foreign>: these words find parallels only in the inscriptions of Sindok, viz. 
-	Sangguran B45 <foreign>manambaḥ humarap· I sārah-araḥniṁ kahanān· śrī mahărāja</foreign>;
+	Sangguran B45 <foreign>manambaḥ humarap· I sārah-araḥniṁ kahanān· śrī mah<choice><orig>a</orig><reg>ā</reg></choice>rāja</foreign>;
 	Alasantan 4.16–17 <foreign>Anambaḥ humarap· I sārah-araḥ śrī mahārāja</foreign>; and
 	Paradah II 95–96 <foreign>kapuA manambaḥ humaR̥p i sārah-araḥniṁ kahanān śrī mahārāja</foreign>
 	</item>

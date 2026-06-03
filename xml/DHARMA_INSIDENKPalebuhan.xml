@@ -79,7 +79,7 @@
          <div type="edition" xml:lang="kaw-Latn" rendition="class:38769 maturity:83213">
 <p><pb n="1r"/>
 <lb n="1r1"/><g ref="sym:doubleBar" type="punctuation">.</g> <g ref="sym:bullet-hollow" type="symbol">*</g> <g ref="sym:doubleBar" type="punctuation">.</g> svasti śaka-varṣātīta <num value="849">849</num> beśākha-māsa tithi pratipāda śukla-pakṣa <gap reason="lost" extent="unknown" unit="character"/>	
-<lb n="1r2" break="no"/>vāra bhariṇi-nakṣatra yoga devatā,</p> <p>tatkāla śrī mahārāja pu văgīśvara saṁ la<unclear>ra</unclear><gap reason="lost" extent="unknown" unit="character"/><!-- saṁ lumaḥ? cf. Wangwang Bangen, and Stutterheim's commentary --><lb n="1r3" break="no"/><unclear>r</unclear> tumurun anugrahanira I rakryān· mapatiḥ tinaḍaḥ <abbr>samgat·</abbr> Amrāti sam<gap reason="lost" extent="unknown" unit="character"/>
+<lb n="1r2" break="no"/>vāra bhariṇi-nakṣatra yoga devatā,</p> <p>tatkāla śrī mahārāja pu v<choice><orig>a</orig><reg>ā</reg></choice>gīśvara saṁ la<unclear>ra</unclear><gap reason="lost" extent="unknown" unit="character"/><!-- saṁ lumaḥ? cf. Wangwang Bangen, and Stutterheim's commentary --><lb n="1r3" break="no"/><unclear>r</unclear> tumurun anugrahanira I rakryān· mapatiḥ tinaḍaḥ <abbr>samgat·</abbr> Amrāti sam<gap reason="lost" extent="unknown" unit="character"/>
 <lb n="1r4" break="no"/>Aṁ tiruAn· vadihati makudur· Umagəḥhakan· Ikaṁ śīma I paL̥buhan· tan· kna ri <gap reason="lost" extent="unknown" unit="character"/>
 <lb n="1r5" break="no"/>ra tan· katamāna de pakriṁ paḍam· tuha, dagaṁ vatək· I jro, mamr̥ṣi piniṅle, kataṅgaran· <gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">mapada</supplied><lb n="1r6" break="no"/>hi maṅiduṁ valyan· Uṇḍahagi paṇḍay· mās paṇḍay· vsi saprakārani drabya haji ki<supplied reason="lost">lalān</supplied> <gap reason="lost" extent="unknown" unit="character"/>
 <lb n="1r7"/>saṁ hyaṁ L̥buḥ Ataḥ pramāṇa Iriya, kunaṁ sakveḥniṁ dr̥bya haji kilalān· <unclear>k</unclear><supplied reason="lost">liṅ ā</supplied><lb n="1r8" break="no"/><unclear>ryya</unclear> siṅhala paṇḍikira mamvaṁ ramman· huñjamān· kutak· banyāga bantal· tan·  <gap reason="lost" extent="unknown" unit="character"/>
@@ -202,11 +202,11 @@ become the subject of discussion in the remotest future !</p>
 
 Nonobstant le refus de Stutterheim d’y croire lui même, je suis tenté par la possibilité de remplir les lacunes dans A2 et B10 de la façon suivante
 
-A2 śrī mahārāja pu văgīśvara saṁ l[umaḥ ri garuṁ]
+A2 śrī mahārāja pu v<choice><orig>a</orig><reg>ā</reg></choice>gīśvara saṁ l[umaḥ ri garuṁ]
 B10 śrī mahārāja [saṁ lumaḥ] ri garuṁ
 
 On aura alors dans A2-3 la phrase 
-        tatkāla śrī mahārāja pu văgīśvara saṁ l[umaḥ ri garuṁ] tumurun anugrahanira
+        tatkāla śrī mahārāja pu v<choice><orig>a</orig><reg>ā</reg></choice>gīśvara saṁ l[umaḥ ri garuṁ] tumurun anugrahanira
 ce qui résonne joliment avec la phrase
         tatkāla rakarayān i garuṁ tumurun ājñānira
 dans la même positions du texte dans la tablette de Pengging.

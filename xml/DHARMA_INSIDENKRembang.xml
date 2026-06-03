@@ -129,7 +129,7 @@
              <app loc="1r4">
                <lem><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost">sthāpita ṅkā</supplied>ne</lem>
                <rdg source="bib:Bosch1917_01 bib:Boechari1985-1986_01"><gap reason="lost" extent="unknown" unit="character"/>ne</rdg>
-               <note>Compare with the <ref target="DHARMA_INSIDENKCanggu.xml">Canggu</ref> inscription, l.1r6-1v1: <foreign>sthāpita ṅkāne nagare kahuripan, dyaḥ śrī gītārjjā, sākṣăd arddharājaparameśvarī,</foreign>.</note>
+               <note>Compare with the <ref target="DHARMA_INSIDENKCanggu.xml">Canggu</ref> inscription, l.1r6-1v1: <foreign>sthāpita ṅkāne nagare kahuripan, dyaḥ śrī gītārjjā, sākṣ<choice><orig>a</orig><reg>ā</reg></choice>d arddharājaparameśvarī,</foreign>.</note>
              </app>
              <app loc="1r4">
                <lem source="bib:Boechari1985-1986_01">sākṣad arddha-rāja-</lem>

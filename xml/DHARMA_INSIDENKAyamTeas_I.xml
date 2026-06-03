@@ -88,9 +88,9 @@
            <body>
              <div type="edition" xml:lang="kaw-Latn">
                <p><pb n="1r"/><lb n="1r1"/>// svasti śaka-varṣātῑta <num value="822">822</num> punaḥ-posya-māsa tithi <num value="8">Aṣṭami</num> śukla-pakṣa, <abbr>ha</abbr>,
-               <lb n="1r2"/><abbr>ka</abbr>, <abbr>br̥</abbr>, vāra,</p><p>tatkāla Ăjñă śrῑ mahărāja <abbr>rake</abbr> vatu kura dyaḥ dharmodaya mahāsambhu 
+               <lb n="1r2"/><abbr>ka</abbr>, <abbr>br̥</abbr>, vāra,</p><p>tatkāla Ăjñ<choice><orig>a</orig><reg>ā</reg></choice> śrῑ mah<choice><orig>a</orig><reg>ā</reg></choice>rāja <abbr>rake</abbr> vatu kura dyaḥ dharmodaya mahāsambhu 
                <lb n="1r3"/>tumurun· I rakryān mapatiḥ I hino pu bāhubajrapratipakṣakṣaya <abbr>rake</abbr> halu pu
-               <lb n="1r4"/>saṁgrāma<choice><sic>nurād</sic><corr>dhuran</corr></choice>dhara, <abbr>rake</abbr> sirikan· pu samaravikrănta, <abbr>rake</abbr> vka pu bhāsvara, <abbr>rake</abbr> paga<supplied reason="omitted">r</supplied> vs<choice><sic>a</sic><corr>i</corr></choice>
+               <lb n="1r4"/>saṁgrāma<choice><sic>nurād</sic><corr>dhuran</corr></choice>dhara, <abbr>rake</abbr> sirikan· pu samaravikr<choice><orig>a</orig><reg>ā</reg></choice>nta, <abbr>rake</abbr> vka pu bhāsvara, <abbr>rake</abbr> paga<supplied reason="omitted">r</supplied> vs<choice><sic>a</sic><corr>i</corr></choice>
                <lb n="1r5"/>pu vīravikrama, <abbr>rake</abbr> bavaṁ pu maṁlavan· samgat· tiruAn· pu śivāstra, maṁhuri pu cak<unclear>r</unclear>a
                <lb n="1r6"/>vadihat<choice><sic>ῑ</sic><corr>i</corr></choice> pu ḍapit, makudu<supplied reason="omitted">r</supplied>· pu sāmvr̥da, kumonnakan· soĀraniṁ va<space type="descender"/>nuA sĭma I Aya<lb break="no" n="1r7"/>m təAs·<supplied reason="subaudible">,</supplied> hiṁhiṁṅana Ikanaṁ masamvya<space type="descender"/>vahāra hana ṁkāna<supplied reason="subaudible">,</supplied> Anuṁ tan· knā de saṁ maṅilala <choice><sic>n</sic><corr>d</corr></choice>ra<lb break="no" n="1r8"/>bya haji tluṁ tuhān· Iṁ sasamvya<space type="descender"/>vahāra Iṁ sasῑma, yan· paṅula<unclear>ṁ</unclear> kbo ya <num value="20">ruAṁ puluḥ</num> 
                <lb n="1r9"/>kboAnya, sapi <num value="40">pataṁ puluḥ</num><supplied reason="subaudible">,</supplied> və<choice><sic>h</sic><corr>ḍ</corr></choice>us· <num value="80">vuAluṁ puluḥ</num><supplied reason="subaudible">,</supplied> Aṇḍaḥ savan<choice><sic>th</sic><corr>t</corr></choice>ayan·<supplied reason="subaudible">,</supplied> maguluṅa
@@ -102,8 +102,8 @@
              </div>
              <div type="apparatus">
    <!-- <app loc="1r1"><lem source="bib:Stutterheim1938_03 bib:Damais1952_01">śukla-pakṣa</lem> <rdg source="bib:Boechari1985-1986_01">suklapakṣa</rdg></app> -->
-	<!-- <app loc="1r2"><lem source="bib:Stutterheim1938_03 bib:Damais1952_01 bib:Boechari1985-1986_01">Ăjñă</lem><rdg source="bib:Sarkar1971-1972_01">Ājñā</rdg></app> -->
-	<!-- <app loc="1r2"><lem source="bib:Stutterheim1938_03 bib:Damais1952_01">mahărāja</lem><rdg source="bib:Sarkar1971-1972_01 bib:Boechari1985-1986_01">mahārāja</rdg></app> -->
+	<!-- <app loc="1r2"><lem source="bib:Stutterheim1938_03 bib:Damais1952_01 bib:Boechari1985-1986_01">Ăjñ<choice><orig>a</orig><reg>ā</reg></choice></lem><rdg source="bib:Sarkar1971-1972_01">Ājñā</rdg></app> -->
+	<!-- <app loc="1r2"><lem source="bib:Stutterheim1938_03 bib:Damais1952_01">mah<choice><orig>a</orig><reg>ā</reg></choice>rāja</lem><rdg source="bib:Sarkar1971-1972_01 bib:Boechari1985-1986_01">mahārāja</rdg></app> -->
   <!--  <app loc="1r4"><lem source="bib:Stutterheim1938_03 bib:Damais1952_01 bib:Boechari1985-1986_01">saṁgrāmanurāddhara</lem><note>passim in this corpus</note></app> -->
 	<app loc="1r4">
       <lem>paga<supplied reason="omitted">r</supplied> vs<choice><sic>a</sic><corr>i</corr></choice></lem>

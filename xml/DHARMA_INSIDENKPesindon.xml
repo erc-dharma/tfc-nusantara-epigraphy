@@ -79,11 +79,11 @@ The justification for Damais’ decision to follow the facsimile in Holle (1879)
       <div type="edition" xml:lang="kaw-Latn">
         <p>
 <!-- Plate I (silver) -->
-<lb n="1r1"/> // svaṣti śaka-varsātĭta <num value="836">836</num> śrăvana-măsa tiṭhi pacammi
+<lb n="1r1"/> // svaṣti śaka-varsātĭta <num value="836">836</num> śr<choice><orig>a</orig><reg>ā</reg></choice>vana-m<choice><orig>a</orig><reg>ā</reg></choice>sa tiṭhi pacammi
 <lb n="1r2"/> kr̥ṣna-pakṣa tu po Ā vāra tatkā<supplied reason="omitted">la</supplied> ḍaṁ hyaṁ guru sivi-
 <lb break="no" n="1r3"/> ta sumoce Avak·nira, plat· bvas· saha rabi sakalan·ḍu, kanyā /
 <!-- Plate II (gold) -->
-<lb n="1r1"/> // svaśti śaka-varsătĭta <num value="836">836</num> śrăvana-mă-
+<lb n="1r1"/> // svaśti śaka-vars<choice><orig>a</orig><reg>ā</reg></choice>tĭta <num value="836">836</num> śr<choice><orig>a</orig><reg>ā</reg></choice>vana-m<choice><orig>a</orig><reg>ā</reg></choice>-
 <lb break="no" n="1r2"/> śa tiṭhi pacami kr̥ṣṇa-pakṣa tu po Ā
 <lb n="1r3"/> vāra tatkā<supplied reason="omitted">la</supplied> ḍaṁ hyaṁ gu<add place="below">ru</add> sivita sumoce
 <lb n="1r4"/> Avak·nira, <unclear>plat</unclear>· bvas·, saha rabi sakala<surplus>ṁ</surplus>ḍu, kanyā /

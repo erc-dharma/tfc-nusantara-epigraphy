@@ -82,10 +82,10 @@
    <text xml:space="preserve">
            <body> 
                    <div type="edition" xml:lang="kaw-Latn">
-                    <p><lb n="1r1"/><g ref="sym:doubleBar-crossed" type="punctuation">.</g><unclear>sva</unclear>sti śakavarṣātῑta <num value="822"><unclear>822</unclear></num> <unclear>punaḥ-posya māsa tithi Aṣṭami</unclear> śukla, pakṣa, <abbr>ha</abbr>, <abbr>ka</abbr>, <abbr>vr̥</abbr>, vāra tatkālaniṁ  Ājñă śrῑ mahārāja <abbr>ra
+                    <p><lb n="1r1"/><g ref="sym:doubleBar-crossed" type="punctuation">.</g><unclear>sva</unclear>sti śakavarṣātῑta <num value="822"><unclear>822</unclear></num> <unclear>punaḥ-posya māsa tithi Aṣṭami</unclear> śukla, pakṣa, <abbr>ha</abbr>, <abbr>ka</abbr>, <abbr>vr̥</abbr>, vāra tatkālaniṁ  Ājñ<choice><orig>a</orig><reg>ā</reg></choice> śrῑ mahārāja <abbr>ra
                     <lb n="1r2" break="no"/>kai</abbr> vatu kura  dyaḥ  balituṁ, śrῑ dharmmodaya mahāsambhu, tumurun· I rakryān·
                     mapatiḥ I hino, pu dakṣottama bāhubajra pratipakṣā
-                    <lb n="1r3" break="no"/>kṣaya, <abbr>rake</abbr> halu, pu <unclear>saṁgrāmadurānddhara</unclear> <abbr><unclear>rake</unclear></abbr> <unclear>sirikan· pu samāravi</unclear>krănta, <abbr>rake</abbr> vka, pu bhasvara, <abbr>rake</abbr> pagar vsi, pu vῑravikrama, <abbr>ra
+                    <lb n="1r3" break="no"/>kṣaya, <abbr>rake</abbr> halu, pu <unclear>saṁgrāmadurānddhara</unclear> <abbr><unclear>rake</unclear></abbr> <unclear>sirikan· pu samāravi</unclear>kr<choice><orig>a</orig><reg>ā</reg></choice>nta, <abbr>rake</abbr> vka, pu bhasvara, <abbr>rake</abbr> pagar vsi, pu vῑravikrama, <abbr>ra
                     <lb n="1r4" break="no"/>ke</abbr> bavaṁ, <unclear>pu maṁlawan·, samgat tiruAn pu śivastra, maṁhuri pu cakra,</unclear> vadihatī, pu ḍapit·, makudur·, <unclear>pu samvr̥da,</unclear> kumonnakan·
                     <lb n="1r5"/> <unclear>sovaraniṅ anak vanuA</unclear> ṇyā <space type="descender"/>· śīma viṇ //
                     <lb n="1r6"/> vadihatī, kudur·, kanakbanuAn·, kavahutan·, I <gap reason="lost" extent="unknown" unit="character"/> mvyā vatak ha
@@ -108,7 +108,7 @@
                  
                        <div type="apparatus">
         <app loc="1r1"><lem>varṣātīta</lem> <rdg source="bib:Damais1955_01">varṣātĭta</rdg></app>
-	<app loc="1r1"><lem>tatkālaniṁ Ājñă</lem><rdg source="bib:Damais1955_01">tatkālani Ājñă</rdg></app>
+	<app loc="1r1"><lem>tatkālaniṁ Ājñ<choice><orig>a</orig><reg>ā</reg></choice></lem><rdg source="bib:Damais1955_01">tatkālani Ājñ<choice><orig>a</orig><reg>ā</reg></choice></rdg></app>
 	<app loc="1r3"><lem>rake halu</lem><rdg source="bib:Damais1955_01">rakai halu</rdg></app>
         <app loc="1r3"><lem>rake vka</lem><rdg source="bib:Damais1955_01">rakai vka</rdg></app>
 	<app loc="1r4"><lem>cakra, vadihatī</lem><rdg source="bib:Damais1955_01">cakradhara, vadihati</rdg></app>

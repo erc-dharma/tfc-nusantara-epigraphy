@@ -90,7 +90,7 @@
             <div type="edition" xml:lang="kaw-Latn">
 <div type="textpart" subtype="zone" n="1"><head xml:lang="eng">Reconstitution of the stela</head>
 <p><milestone type="pagelike" unit="face" n="A"/><label>Front</label>
-<lb n="A1"/> <supplied reason="lost">|| ⚬ ||</supplied> <milestone unit="fragment" n="10.1"/>svas<supplied reason="lost">ti śa</supplied><milestone unit="fragment" n="11.1"/><unclear>ka</unclear>-varṣātī<supplied reason="lost">ta- …</supplied><milestone unit="fragment" n="9.1" break="no"/>-măsa t<unclear>i</unclear><supplied reason="lost">thi ... da</supplied><milestone unit="fragment" n="2.1" break="no"/>śi k<supplied reason="lost">r̥</supplied>ṣṇa-pakṣa <abbr>vu</abbr>, <abbr>ka</abbr>, <abbr>ra</abbr>, vā<supplied reason="lost">ra</supplied> … 
+<lb n="A1"/> <supplied reason="lost">|| ⚬ ||</supplied> <milestone unit="fragment" n="10.1"/>svas<supplied reason="lost">ti śa</supplied><milestone unit="fragment" n="11.1"/><unclear>ka</unclear>-varṣātī<supplied reason="lost">ta- …</supplied><milestone unit="fragment" n="9.1" break="no"/>-m<choice><orig>a</orig><reg>ā</reg></choice>sa t<unclear>i</unclear><supplied reason="lost">thi ... da</supplied><milestone unit="fragment" n="2.1" break="no"/>śi k<supplied reason="lost">r̥</supplied>ṣṇa-pakṣa <abbr>vu</abbr>, <abbr>ka</abbr>, <abbr>ra</abbr>, vā<supplied reason="lost">ra</supplied> … 
 <lb n="A2"/> <milestone unit="fragment" n="10.2"/><unclear>dhatu</unclear>ṣ<unclear>ā</unclear><supplied reason="lost">-na</supplied>kṣatra, v<supplied reason="lost">... de</supplied><milestone unit="fragment" n="9.2"/><unclear>vatā</unclear>, <unclear>ś</unclear>iva-<unclear>yo</unclear><supplied reason="lost">ga ...</supplied><milestone unit="fragment" n="2.2"/>stha,</p> 
 <p>Irikā di<supplied reason="lost">vaśan</supplied><milestone unit="fragment" n="4.1"/>y <supplied reason="lost">ājñā śrī mahā</supplied>
 <lb n="A3" break="no"/><milestone unit="fragment" n="10.3" break="no"/>rāja, <abbr>rakai</abbr> ha<unclear>lu</unclear> <supplied reason="lost">ś</supplied><unclear>rī</unclear><supplied reason="lost">lo</supplied><milestone unit="fragment" n="9.3" break="no"/>k<unclear>e</unclear>ś<unclear>va</unclear>ra <supplied reason="lost">dha</supplied>r<supplied reason="lost">mmavaṅśa Airlaṅgānantavikramottuṅgadeva, t</supplied><milestone unit="fragment" n="2.3" break="no"/>i<supplied reason="lost">naḍaḥ</supplied> <milestone unit="fragment" n="4.2"/>rakryān· <supplied reason="lost">mahāmantri</supplied>
@@ -103,7 +103,7 @@
 <lb n="A10"/> <milestone unit="fragment" n="6.4"/>gu<unclear>ru</unclear>, bujag·, <unclear>bva</unclear> ... <milestone unit="fragment" n="4.9"/>{traces of 1 akṣara}<unclear>ka</unclear>/// +
 <lb n="A11"/> <milestone unit="fragment" n="6.5"/>R̥nəb·, niha///
 <lb n="A12"/> <milestone unit="fragment" n="6.6"/>samaṁkana kye///<supplied reason="lost">ḥ</supplied>
-<lb n="A13"/> <milestone unit="fragment" n="6.7"/>ṅ ăjña haji <unclear>pa</unclear>///
+<lb n="A13"/> <milestone unit="fragment" n="6.7"/>ṅ <choice><orig>a</orig><reg>ā</reg></choice>jña haji <unclear>pa</unclear>///
 <lb n="A14"/> <milestone unit="fragment" n="6.8"/>kabeḥ, ma///
 <lb n="A15"/> <milestone unit="fragment" n="6.9"/>bayān·///
 <lb n="A16"/> <milestone unit="fragment" n="6.10"/>rāga skara///
@@ -112,7 +112,7 @@
 <lb n="A24"/> {3 or 4 akṣaras lost} <milestone unit="fragment" n="1.1"/>{traces of 2 or 3 akṣaras, rest entirely lost} ...
 <lb n="A25"/> {2/3 akṣaras lost} <milestone unit="fragment" n="1.2"/>bhaṭāra hyaṁ Ivak· I ku<unclear>sam</unclear>b<unclear>ya</unclear><supplied reason="lost">n</supplied><unclear>·</unclear> {about 14 akṣaras wholly or partly lost} ...
 <lb n="A26"/> {2/3 akṣaras lost} <milestone unit="fragment" n="1.3"/><unclear>A</unclear>ṅkən· pūrṇnamaniṅ asuji-māsa, kabhaktyananikanaṁ karāmān· I kusambyan· sapasuk ṣĭ<lb n="A27" break="no"/><milestone unit="fragment" n="1.4" break="no"/>ma kabeḥ, mapaknā saṅkānaniṁ pamahayvanya samananā ryy āyatana bhaṭāra hyaṁ Ivak· I kusambya<lb n="A28" break="no"/><milestone unit="fragment" n="1.5" break="no"/>n·, kaharan· puṣpapañcopacāra, tila<surplus>,</surplus>-tela, dhūpa, gandhākṣa<supplied reason="omitted">ta</supplied> nivedyādi prakāra, pūjā<lb n="A29" break="no"/><milestone unit="fragment" n="1.6" break="no"/>knanyāṅkən· pūrṇnamani Asuji-māsa, I bhaṭāra hyaṅ ivak· I kusambyan·, maṅkana rasani paṁhyaṁ<lb n="A30" break="no"/><milestone unit="fragment" n="1.7" break="no"/>nikanaṁ karāmān· I kusambyan· sapasuk ṣīma kabeḥ I pāduka śrī mahārāja, kunaṁ saṅkā
-<lb n="A31"/><milestone unit="fragment" n="1.8"/>ri gəṁni kāruṇyānumoda śrī mahārāja I sapaṁhyaṁnikanaṁ karāmān· I kusambyan·<supplied reason="subaudible">,</supplied> maka<lb n="A32" break="no"/><milestone unit="fragment" n="1.9" break="no"/>hetu, ri ka<unclear>to</unclear>nani mahābhārani giṇa-kāyotsāhanyan· tana kapālaṅ-alaṁ suṣṭu-bha<lb n="A33" break="no"/><milestone unit="fragment" n="1.10" break="no"/>kti dāśa-bhūta sakucumba makatoḥ svajīvitanyan· pamrihakən· pāduka śrī mahārăja
+<lb n="A31"/><milestone unit="fragment" n="1.8"/>ri gəṁni kāruṇyānumoda śrī mahārāja I sapaṁhyaṁnikanaṁ karāmān· I kusambyan·<supplied reason="subaudible">,</supplied> maka<lb n="A32" break="no"/><milestone unit="fragment" n="1.9" break="no"/>hetu, ri ka<unclear>to</unclear>nani mahābhārani giṇa-kāyotsāhanyan· tana kapālaṅ-alaṁ suṣṭu-bha<lb n="A33" break="no"/><milestone unit="fragment" n="1.10" break="no"/>kti dāśa-bhūta sakucumba makatoḥ svajīvitanyan· pamrihakən· pāduka śrī mahār<choice><orig>a</orig><reg>ā</reg></choice>ja
 <lb n="A34"/><milestone unit="fragment" n="1.11"/>riṁ samarakāryya, ṅūni ri kālanikanaṁ śatru si cṅek·, An tamolaḥ mandəl· makadatvan·
 <lb n="A35"/><milestone unit="fragment" n="1.12"/>I madaṇḍər·, ya tikānuvuhak<unclear>ə</unclear>n· pūrvvaR̥ṇāsama-sama ri manaḥni lbŭni pāduka śrī mahā<lb n="A36" break="no"/><milestone unit="fragment" n="1.13" break="no"/>rāja, kāraṇānyan· Inubhā<unclear>ya</unclear>n ata sapaṁhyaṁnikanaṁ karāmān· I kusambyan· sapasak th<unclear>ā</unclear>ni
 <lb n="A37"/><milestone unit="fragment" n="1.14"/>kabeḥ, de śrĭ mahārāja, makaciḥna ri sampunya vineḥ makmitana saṁ hyaṅ ājñā haji prasasti
@@ -122,12 +122,12 @@
 <div type="textpart">
 <p>
 <!--Face B (West)
-<lb n="B1"/> … <milestone unit="fragment" n="2.1"/> (thā)n[i] I kusa[m]bya[n]· ? ? ? /// ... <milestone unit="fragment" n="11.1"/> [pūr]ṇ(n)amăniṁ Asuji-
+<lb n="B1"/> … <milestone unit="fragment" n="2.1"/> (thā)n[i] I kusa[m]bya[n]· ? ? ? /// ... <milestone unit="fragment" n="11.1"/> [pūr]ṇ(n)am<choice><orig>a</orig><reg>ā</reg></choice>niṁ Asuji-
 <lb n="B2"/> [māsa… <milestone unit="fragment" n="2.2"/> juga (ya), (kavala) /// ... <milestone unit="fragment" n="9.1"/> ? /// <milestone unit="fragment" n="11.2"/> ? maṁrāga-skar aṅ[ka]-
 <lb n="B3"/> [n]… <milestone unit="fragment" n="2.3"/>(ta)n(t)rā {traces of 1 akṣara} /// … <milestone unit="fragment" n="9.2"/> kevalā/// ...<milestone unit="fragment" n="11.3"/> {traces of 2 akṣaras}
 <lb n="B4"/> ... <milestone unit="fragment" n="4.1"/>(·) I kusa(m)bya///[n·] ... <milestone unit="fragment" n="9.3"/> sīma I kusambya[n·] ... <milestone unit="fragment" n="10.1"/> {traces of 1 akṣaras} tan pi(ka)
 <lb n="B5"/> ... <milestone unit="fragment" n="4.2"/>(n·) An(·) pŭrṇa(ma) /// ... [māna]<milestone unit="fragment" n="9.4"/>(k)· katriṇi, paṅ[kur·,] <milestone unit="fragment" n="10.2"/> (ta)van· tirip·, ṅu[ni]-
-<lb n="B6"/> [veḥ sa]<milestone unit="fragment" n="4.3"/>prakăra saṁ maṅila(la) [drabya haji vulu-](5.1)vulu (riṁ daṅū) makā(d)[i] <milestone unit="fragment" n="9.5"/> (m)iśra (pa)[ramiśra, paṅuraṁ] <milestone unit="fragment" n="10.3"/> kriṁ, paḍəm·, (ma)-
+<lb n="B6"/> [veḥ sa]<milestone unit="fragment" n="4.3"/>prak<choice><orig>a</orig><reg>ā</reg></choice>ra saṁ maṅila(la) [drabya haji vulu-](5.1)vulu (riṁ daṅū) makā(d)[i] <milestone unit="fragment" n="9.5"/> (m)iśra (pa)[ramiśra, paṅuraṁ] <milestone unit="fragment" n="10.3"/> kriṁ, paḍəm·, (ma)-
 <lb n="B7"/> [nimpiki,] <milestone unit="fragment" n="4.4"/> paranakan· lim[u](5.2)[s] galuḥ, maṁriñca, maṁhuri, paraṁ, suṅ(ka) [dhūra, paṅaruhan·, taji, vatu] <milestone unit="fragment" n="10.4"/>(ta)jəm·, s(u)///[kun·] 
 <lb n="B8"/> [halu] <milestone unit="fragment" n="4.5"/> varak·, rakasaṁ (5.3) ramanaṁ, pinilai, kataṅgaran·, (ta)///[pa haji, Air haji, malandaṁ lca lab-lab· pa]<milestone unit="fragment" n="10.5"/>(ka)laṅ[kaṁ]
 <lb n="B9"/> [kutak·,] <milestone unit="fragment" n="4.6"/>taṅkil·, (t)[r̥](5.4)(pa)n·, saly[u]t·, vatu valaṁ, (pa)ṅga(re) /// ... <milestone unit="fragment" n="10.6"/> {traces of 1 akṣara}
@@ -153,7 +153,7 @@
 <lb n="B29"/> <milestone unit="fragment" n="1.8"/>hayam· tgəl·, karuṁ, maṅilvakən· saṁ hyaṁ drabya haji baniṁ, baḍavaṁ, kura, vuhaya, vuṅkunus· tumūt u-
 <lb n="B30"/> <milestone unit="fragment" n="1.9"/>(sa)n· śrī mahārāja, An· kapvāta sira sama təkyəna, tan deyən· baryya-baryya śīla molah-ulaḥ, ta-
 <lb n="B31"/> <milestone unit="fragment" n="1.10"/>n· paṅalapa (sa)linaraṅanikanaṁ tanayan thāni, tan· pamraṅa kayu-kayu, priṁ, ptuṁ, hampyal·, sarvvaphala, mū-
-<lb n="B32"/> <milestone unit="fragment" n="1.11"/>laphala, nyu, pucaṁ, səR̥ḥ, tka riṁ vnaṁ-vnaṁ prakāra, lāvan· ri tan· padamil·-damlanira vistăra, mvaṁ puriḥ
+<lb n="B32"/> <milestone unit="fragment" n="1.11"/>laphala, nyu, pucaṁ, səR̥ḥ, tka riṁ vnaṁ-vnaṁ prakāra, lāvan· ri tan· padamil·-damlanira vist<choice><orig>a</orig><reg>ā</reg></choice>ra, mvaṁ puriḥ
 <lb n="B33"/> <milestone unit="fragment" n="1.12"/>ṅūniv(e)ḥ tan· parapedita (t)an· (simirassi) riṁ (ma)kmitan·, (sanipartumatayanhanatamaṁmattanaḥ)nikanaṁ
 <lb n="B34"/> <milestone unit="fragment" n="1.13"/>varga mŭla smi I kusambyan·, mva taṁn· panahi-tikusa, kevalā tarima dāna juga sira, tumaṅgapana
 <lb n="B35"/> <milestone unit="fragment" n="1.14"/>sapasaṁnikanaṁ vargga mūla sīma I kusambyan· sām(yāmīṅka)nā yathāśakti sakavnaṅṅa(nyā)mava de lokabho-
@@ -218,7 +218,7 @@ Fragment 4
 <lb n="d15"/> <milestone unit="fragment" n="4.4"/>(nta)t· tatiṅha(la) /// [ri liku]-
 <lb n="d16"/> <milestone unit="fragment" n="4.5"/>[ran· ta]///(ruṁ) riṅ a///[dgan·]
 Fragment 1
-<lb n="d31"/> <milestone unit="fragment" n="1.1"/>māla-păta(ka) ? ? /// [Avūka]
+<lb n="d31"/> <milestone unit="fragment" n="1.1"/>māla-p<choice><orig>a</orig><reg>ā</reg></choice>ta(ka) ? ? /// [Avūka]
 <lb n="d32"/> <milestone unit="fragment" n="1.2"/>tan· tmvaṁ sāma, (mipa) /// + +
 <lb n="d33"/> <milestone unit="fragment" n="1.3"/>yan· maṁjanma (p)āpā///[ta ya]
 <lb n="d34"/> <milestone unit="fragment" n="1.4"/>saṁsārā sajīvakāla, (ma)- 
