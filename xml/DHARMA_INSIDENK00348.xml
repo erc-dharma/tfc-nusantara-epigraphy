@@ -3,26 +3,23 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Ketanen (826 Ś, 904/905)</title>
-            <respStmt>
-               <resp>EpiDoc Encoding</resp>
-               <persName ref="part:wjsa">
-                  <forename>Wayan Jarrah</forename>
-                  <surname>Sastrawan</surname>
-               </persName>
-            </respStmt>
-            <respStmt>
-               <resp>intellectual authorship of edition</resp>
-               <persName ref="part:wjsa">
-                  <forename>Wayan Jarrah</forename>
-                  <surname>Sastrawan</surname>
-               </persName>
-            </respStmt>
+            <title>N. 348. Gaṇeśa statue from Ketanen (826 Śaka)</title>
+         	<respStmt>
+         		<resp>author of digital edition</resp>
+         		<persName ref="part:argr">
+         			<forename>Arlo</forename>
+         			<surname>Griffiths</surname>
+         		</persName>
+         		<persName ref="part:wjsa">
+         			<forename>Wayan Jarrah</forename>
+         			<surname>Sastrawan</surname>
+         		</persName>
+         	</respStmt>
          </titleStmt>
          <publicationStmt>
             <authority>DHARMA</authority>
             <pubPlace>Paris</pubPlace>
-            <idno type="filename">DHARMA_INSIDENKKetanen</idno>
+            <idno type="filename">DHARMA_INSIDENK00348</idno>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/">
                   <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
@@ -30,7 +27,7 @@
                                             https://creativecommons.org/licenses/by/4.0/ or send a letter to
                                             Creative Commons, 444 Castro Street, Suite 900, Mountain View,
                                             California, 94041, USA.</p>
-                  <p>Copyright (c) 2019-2025 by Jarrah Sastrawan &amp; Arlo Griffiths.</p>
+               	<p>Copyright (c) 2019-2025 by Arlo Griffiths &amp; Jarrah Sastrawan</p>
                </licence>
             </availability>
             <date from="2019" to="2025">2019-2025</date>
@@ -67,6 +64,7 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
+      	<change who="part:argr" when="2026-06-06">Resolved validation problems, changes file name</change>
          <change who="part:axja" when="2022-08-16">Transforming docx into xml</change>
       </revisionDesc>
    </teiHeader>
@@ -77,7 +75,7 @@
 <lb n="2"/> lañja ri ina nahan· rakva rakryān· paṇamva pavana - - raṅ
 <lb n="3"/> ḍivadda - - ma jñaye Ikaṁ kabikuAn· I simājaran·
 <lb n="4"/>māryya ya umasō saṅhayaṅ davahhan i pamvatan parnahan tu 
-<lb n="5"/> - - ma Irikaṅ <unclear>dha</unclear>rmma haji parhyaṅan· I R̥mbai saṁ vyakā raṇa
+<lb n="5"/> - - ma Irikaṅ <unclear>dha</unclear>rmma haji parhyaṅan· I R̥mbai saṁ vyakāraṇa
 <lb n="6"/> gaṅgu<surplus>1</surplus>nikanaṁ simā_jaran· tan· hana vehan· tumamā Iriya <choice><unclear>ga</unclear><unclear>śa</unclear></choice> 
 <lb n="7"/>-gyya Ataḥ pramā<choice><sic>n</sic><corr>ṇ</corr></choice>ā pamasaṅananya mataṅya deyanika
 <lb n="8"/> rāma kanityaknanya hananike<unclear>ṁ</unclear> surat· yathānya tan· A-
@@ -95,17 +93,19 @@
 <lb n="20"/> – daśa</p>                      
                    </div>
                        <div type="apparatus">
-                            <app loc="1"><lem>rakryān·</lem><rdg source="E">rakryan·</rdg></app>
-                          <app loc="2"><lem>rakryān pu</lem><rdg source="E">rakryān paṇamva</rdg></app>
-                          <app loc="3"><lem>Ikaṁ kabikuAn·</lem><rdg source="E">Ikānaṁ kabikuAn·</rdg></app>
-                          <app loc="5"><lem>Irikaṁ</lem><rdg source="E">Irikanaṁ</rdg></app>
-                           <app loc="5"><lem>parhyaṅan I R̥mbai saṁ</lem><rdg source="E">2+ ṅgaraṅ muAṁ</rdg></app>
-                           <app loc="6"><lem>tan· hana</lem><rdg source="E">ta hana</rdg></app>
-                           <app loc="6"><lem>Iriya</lem><rdg source="E">Irīya</rdg></app>
-                          <app loc="7"><lem>pamasaṅananya</lem><rdg source="E">papaśana dadya</rdg></app>
-                          <app loc="8"><lem>surat·</lem><rdg source="E">sarat·</rdg></app>
-                          <app loc="8-9"><lem>Apuharā</lem><rdg source="E">mamuharā</rdg></app>
-                          <app loc="11"><lem>riṅ ulā</lem><rdg source="E">miṅ ulā</rdg></app>
+                         <listApp>
+			     <app loc="1"><lem>rakryān·</lem><rdg source="bib:EdiSedyawati1994_02">rakryan·</rdg></app>
+                          <app loc="2"><lem>rakryān pu</lem><rdg source="bib:EdiSedyawati1994_02">rakryān paṇamva</rdg></app>
+                          <app loc="3"><lem>Ikaṁ kabikuAn·</lem><rdg source="bib:EdiSedyawati1994_02">Ikānaṁ kabikuAn·</rdg></app>
+                          <app loc="5"><lem>Irikaṁ</lem><rdg source="bib:EdiSedyawati1994_02">Irikanaṁ</rdg></app>
+                          <app loc="5"><lem>parhyaṅan I R̥mbai saṁ</lem><rdg source="bib:EdiSedyawati1994_02">2+ ṅgaraṅ muAṁ</rdg></app>
+                          <app loc="6"><lem>tan· hana</lem><rdg source="bib:EdiSedyawati1994_02">ta hana</rdg></app>
+                          <app loc="6"><lem>Iriya</lem><rdg source="bib:EdiSedyawati1994_02">Irīya</rdg></app>
+                          <app loc="7"><lem>pamasaṅananya</lem><rdg source="bib:EdiSedyawati1994_02">papaśana dadya</rdg></app>
+                          <app loc="8"><lem>surat·</lem><rdg source="bib:EdiSedyawati1994_02">sarat·</rdg></app>
+                          <app loc="8-9"><lem>Apuharā</lem><rdg source="bib:EdiSedyawati1994_02">mamuharā</rdg></app>
+                          <app loc="11"><lem>riṅ ulā</lem><rdg source="bib:EdiSedyawati1994_02">miṅ ulā</rdg></app>
+			   </listApp>
                        </div>
               <div type="commentary">
                  <p>Majakerta Museum, inventory number 63. </p>
@@ -115,16 +115,15 @@
                 <p>Transcribed by Edi Sedyawati; supervised by J.G. de Casparis (July 1982). Read from photo O.D. 1225; paper print number 222-252. EFEO estampage for this inscription: n. 2301.</p>
                     <p>Read in December 2021 and May 2022 by Wayan Jarrah Sastrawan and Arlo Griffiths from EFEO rubbing n. 2301 and OD photo 1225, using Edi Sedyawati’s edition as base text.</p>
              <listBibl type="primary">
-                <bibl>Edi Sedyawati; supervised by J.G. de Casparis (July 1982).</bibl>
+                <bibl n="E"><ptr target="bib:EdiSedyawati1994_02"/></bibl>
              </listBibl>
              <listBibl type="secondary">
                 <bibl>
                    <ptr target="bib:Damais1955_01"/>
                    <citedRange>242</citedRange>
                 </bibl>
-             </listBibl></div>
-                   
-               
+             </listBibl>
+		</div> 
            </body>
-                     </text>
+   </text>
 </TEI>
