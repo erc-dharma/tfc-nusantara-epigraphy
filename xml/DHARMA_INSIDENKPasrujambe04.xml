@@ -103,7 +103,11 @@
                       <bibl n="TSN">
                                 <ptr target="bib:TitiSurtiNastiti+al1994-1995_01"/>
                                 <citedRange unit="page">6-7</citedRange>
+                                <ptr target="bib:MachiSuhadi+RichadianaKartakusuma1996_01"/>
+                                <citedRange unit="page">17</citedRange>
+                              </bibl>
 
+                     <bibl n="MS">
                                 <ptr target="bib:MachiSuhadi+RichadianaKartakusuma1996_01"/>
                                 <citedRange unit="page">17</citedRange>
                               </bibl>
