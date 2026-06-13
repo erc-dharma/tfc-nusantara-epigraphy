@@ -8,34 +8,23 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Bromo Semeru 2</title>
+            <title>Stone from Pasrujambe (no. 2)</title>
             <respStmt>
                <resp>EpiDoc encoding</resp>
                <persName ref="part:argr">
+                  <forename>Muhamad</forename>
+                  <surname>Alnoza</surname>
+               </persName>
+               <persName ref="part:masc">
                   <forename>Arlo</forename>
                   <surname>Griffiths</surname>
                </persName>
-               <persName ref="part:masc">
-                  <forename>Marine</forename>
-                  <surname>Schoettel</surname>
-               </persName>
-            </respStmt>
-            <respStmt>
-               <resp>intellectual authorship of edition</resp>
-               <persName ref="part:argr">
-                  <forename>Arlo</forename>
-                  <surname>Griffiths</surname>
-               </persName>
-               <persName ref="part:masc">
-                  <forename>Marine</forename>
-                  <surname>Schoettel</surname>
-               </persName>
-            </respStmt> 
+         	</respStmt>
          </titleStmt>
          <publicationStmt>
             <authority>DHARMA</authority>
-            <pubPlace>Paris</pubPlace>
-            <idno type="filename">DHARMA_INSIDENKBromoSemeru2</idno>
+            <pubPlace>Jakarta</pubPlace>
+            <idno type="filename">DHARMA_INSIDENKPasrujambe02</idno>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/">
                   <p>This work is licenced under the Creative Commons Attribution 4.0 Unported Licence. To view a copy of the licence, visit https://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.</p>
@@ -57,7 +46,7 @@
                </msContents>
                <physDesc>
                   <handDesc>
-                     <p>Late Javanese script, typical of mountainside inscriptions. Broad simplified akṣaras lightly engraved with shallow carving.</p>
+                     <p>Javanese script typical of 15th-century stone inscription from mountainous areas in Central and East Java. Broad simplified characters engraved with shallow carving.</p>
                   </handDesc>
                </physDesc>
             </msDesc>
@@ -119,6 +108,9 @@
                     <listBibl type="secondary">
          	<bibl><ptr target="bib:Soekmono1962_01"/><citedRange unit="page">12</citedRange></bibl>
         </listBibl>
+        <listBibl type="surrogates">
+<bibl><!-- HS1212 --></bibl>
+</listBibl>
         </div>
       </body>
   </text>
