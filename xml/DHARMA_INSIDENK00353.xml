@@ -94,10 +94,10 @@
  		<p>?</p>
          </div>
          <div type="commentary">
-            <p>The text is laid out in four zones, on the front and three lateral sides of a stone slab.</p>
+            <p>The text is laid out in four zones, on the front and three lateral sides of a stone slab. The line of text on the upper lateral side was included in Low's facsimile but ignored in all publications and subsequerntly produced estampages. It is included here for the first time.</p>
          </div>
         <div type="bibliography">
-           <p>Facsimile by Low (<bibl rend="omitname"><ptr target="bib:Low1835_01"/></bibl>, reprinted by Jacq-Hergoualc'h <bibl rend="omitname"><ptr target="bib:JacqHergoualch1992_01"/></bibl>). After a preliminary attempt by Rajendralal Mitra, reported by Laidlay (<bibl rend="omitname"><ptr target="bib:Laidlay1848_01"/></bibl>), the first serious deciperherment was published by Kern (<bibl rend="omitname"><ptr target="bib:Kern1883_01"/></bibl>), and his results was refine by Chhabra (<bibl rend="omitname"><ptr target="bib:Chhabra1935_01"/></bibl>). Kern's publication was reprinted (<bibl rend="omitname"><ptr target="bib:Kern1915_03"/></bibl>) and published in English version (<bibl rend="omitname"><ptr target="bib:Kern1907_01"/></bibl>); Chhabra's was reprinted (<bibl rend="omitname"><ptr target="bib:Chhabra1965_01"/></bibl>). This digital edition based on Low's facsimile and estampages.</p>
+           <p>Facsimile by Low (<bibl rend="omitname"><ptr target="bib:Low1835_01"/></bibl>, reprinted by Jacq-Hergoualc'h <bibl rend="omitname"><ptr target="bib:JacqHergoualch1992_01"/></bibl>). After a preliminary attempt by Rajendralal Mitra, reported by Laidlay (<bibl rend="omitname"><ptr target="bib:Laidlay1848_01"/></bibl>), the first serious deciperherment was published by Kern (<bibl rend="omitname"><ptr target="bib:Kern1883_01"/></bibl>), and his results was refine by Chhabra (<bibl rend="omitname"><ptr target="bib:Chhabra1935_01"/></bibl>). Kern's publication was reprinted (<bibl rend="omitname"><ptr target="bib:Kern1915_03"/></bibl>) and published in English version (<bibl rend="omitname"><ptr target="bib:Kern1907_01"/></bibl>); Chhabra's was reprinted (<bibl rend="omitname"><ptr target="bib:Chhabra1965_01"/></bibl>). The results of previous scholarship where presented by Skilling (<bibl rend="omitname"><ptr target="bib:Skilling2015_02"/></bibl>). This digital edition based on Low's facsimile and on estampages.</p>
         	<listBibl type="primary">
 <bibl><ptr target="bib:Kern1883_01"/><citedRange unit="page">7-9</citedRange></bibl>
 <bibl><ptr target="bib:Kern1907_01"/><citedRange unit="page">97-99</citedRange></bibl>
@@ -115,10 +115,9 @@
 		<bibl><ptr target="bib:Low1886_01"/><citedRange unit="page">224-225</citedRange></bibl>
 		<bibl><ptr target="bib:Laidlay1886_01"/><citedRange unit="page">230-231</citedRange></bibl>
 		<bibl><ptr target="bib:JacqHergoualch1992_01"/><citedRange unit="page">219-221</citedRange><citedRange unit="figure">242</citedRange></bibl>
-	
            </listBibl>
 <listBibl type="surrogates">
-<bibl>...</bibl>
+<bibl>Estampages, Leiden Ubiversity Library, Kern Institute collection, no. N. 13</bibl>
 </listBibl>
         </div>
       </body>
