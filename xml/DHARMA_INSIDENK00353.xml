@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+            	<title>N. 353. Mahānāvika Buddhagupta</title>
+            	<respStmt>
+            		<resp>author of digital edition</resp>
+            		<persName ref="part:argr">
+            			<forename>Arlo</forename>
+            			<surname>Griffiths</surname>
+            		</persName>
+            	</respStmt>
+            </titleStmt>
+        	<publicationStmt>
+        		<authority>DHARMA</authority>
+        		<pubPlace>Jakarta</pubPlace>
+        		<idno type="filename">DHARMA_INSIDENK00353</idno>
+        		<availability>
+        			<licence target="https://creativecommons.org/licenses/by/4.0/">
+        				<p>This work is licensed under the Creative Commons Attribution 4.0 Unported
+        					Licence. To view a copy of the licence, visit
+        					https://creativecommons.org/licenses/by/4.0/ or send a letter to
+        					Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+        					California, 94041, USA.</p>
+        				<p>Copyright (c) 2019-2026 by Arlo Griffiths</p>
+                    </licence>
+                </availability>
+                <date from="2019" to="2026">2019-2026</date>
+            </publicationStmt>
+            <sourceDesc><!-- only the handDesc can be filled in at this stage -->
+                <msDesc><!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/><!-- don't modify this -->
+                    </msIdentifier>
+                    <msContents><!-- describe the intellectual content of an inscription -->
+                        <summary><!-- //// NOT MANDATORY  ////--></summary> <!-- offers the possibility to give a summary of the inscription's content -->
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                        	<p>Late Southeast Asian Brāhmī</p>
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
+            </projectDesc>
+            <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/><!-- UPDATE the link once the release is made official -->
+            <listPrefixDef>
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                    <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
+                </prefixDef>
+                <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
+                    <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_idListMembers_v01.xml</ref> file.</p>
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <revisionDesc>
+        	<change who="part:argr" when="2026-06-15">encoded the inscription</change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:space="preserve">
+      <body>
+         <div type="edition" xml:lang="kaw-Latn" rendition="class:83227 maturity:83211">
+<lg met="anuṣṭubh" n="1">
+<l n="a"><milestone type="pagelike" unit="zone" n="A"/><label xml:lang="eng">Front</label><lb n="1"/><unclear>A</unclear>jñānāc cīyate karmma <g/></l> 
+<l n="b">janmanaḥ karmma kāraṇa<supplied reason="omitted">ṁ</supplied></l>
+<l n="c"><lb n="w"/>jñānān na cīyate <supplied reason="lost">karmma</supplied></l> 
+<l n="d"><supplied reason="lost">karmmābhāvān na jāyate</supplied></l>
+</lg>
+<p><milestone type="pagelike" unit="zone" n="B"/><label xml:lang="eng">Left</label>
+<lb n="3"/>sarvveṇa prakāreṇa <space/> sarvvasmin sarvvathā sa<supplied reason="lost">r</supplied>vv<unclear>ā</unclear> 
+<lb n="4"/>siddhayāt<supplied reason="lost">r</supplied>ā<supplied reason="omitted">ḥ</supplied> santu
+<milestone type="pagelike" unit="zone" n="C"/><label xml:lang="eng">Right</label>
+<lb n="5"/>sa<supplied reason="lost">rv</supplied>v<seg type="component" subtype="vowel"><gap reason="lost" quantity="1" unit="component"/></seg><unclear cert="low">ka</unclear> <gap reason="lost" unit="character" quantity="5"/><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg>r<seg type="component" subtype="vowel"><gap reason="lost" quantity="1" unit="component"/></seg><gap reason="lost" unit="character" quantity="2"/><gap reason="illegible" unit="character" quantity="1"/><gap reason="lost" unit="character" quantity="1"/>
+<lb n="6"/>mahānāvika-buddhaguptasya raktamr̥ittika-vās<supplied reason="lost" cert="low">tavyasya</supplied>
+<milestone type="pagelike" unit="zone" n="D"/><label xml:lang="eng">Top</label>
+<lb n="7"/><supplied reason="lost">rā</supplied>jña<supplied reason="omitted">ḥ</supplied> <unclear cert="low">pādau</unclear> śirasā praṇipat<supplied reason="lost">ya</supplied>
+</p>
+         </div>
+         <div type="apparatus">
+               <!-- none -->
+         </div>
+         <div type="translation">
+ 		<p>?</p>
+         </div>
+         <div type="commentary">
+            <p>The text is laid out in four zones, on the front and three lateral sides of a stone slab. The line of text on the upper lateral side was included in Low's facsimile but ignored in all publications and subsequerntly produced estampages. It is included here for the first time.</p>
+         </div>
+        <div type="bibliography">
+           <p>Facsimile by Low (<bibl rend="omitname"><ptr target="bib:Low1835_01"/></bibl>, reprinted by Jacq-Hergoualc'h <bibl rend="omitname"><ptr target="bib:JacqHergoualch1992_01"/></bibl>). After a preliminary attempt by Rajendralal Mitra, reported by Laidlay (<bibl rend="omitname"><ptr target="bib:Laidlay1848_01"/></bibl>), the first serious deciperherment was published by Kern (<bibl rend="omitname"><ptr target="bib:Kern1883_01"/></bibl>), and his results was refine by Chhabra (<bibl rend="omitname"><ptr target="bib:Chhabra1935_01"/></bibl>). Kern's publication was reprinted (<bibl rend="omitname"><ptr target="bib:Kern1915_03"/></bibl>) and published in English version (<bibl rend="omitname"><ptr target="bib:Kern1907_01"/></bibl>); Chhabra's was reprinted (<bibl rend="omitname"><ptr target="bib:Chhabra1965_01"/></bibl>). The results of previous scholarship where presented by Skilling (<bibl rend="omitname"><ptr target="bib:Skilling2015_02"/></bibl>). This digital edition based on Low's facsimile and on estampages.</p>
+        	<listBibl type="primary">
+<bibl><ptr target="bib:Kern1883_01"/><citedRange unit="page">7-9</citedRange></bibl>
+<bibl><ptr target="bib:Kern1907_01"/><citedRange unit="page">97-99</citedRange></bibl>
+<bibl><ptr target="bib:Kern1915_03"/><citedRange unit="page">258-260</citedRange></bibl>
+<bibl><ptr target="bib:Chhabra1935_01"/><citedRange unit="page">16-20</citedRange><citedRange unit="plate">3</citedRange></bibl>
+<bibl><ptr target="bib:Chhabra1965_01"/><citedRange unit="page">20-26</citedRange><citedRange unit="plate">3</citedRange></bibl>
+<bibl><ptr target="bib:Skilling2015_02"/><citedRange unit="page">21-25</citedRange></bibl>
+			</listBibl>
+           <listBibl type="secondary">
+<!-- JacqHergoualch1992_01: 219-21 (doc. 242)$Braddell+Douglas1980_01$Lamb1963_01: 76-7, no. 1, fig. 1$Braddell1958_01: 33$QuaritchWales+QuaritchWales1947_01: 6$Finot1910_01: 151 -->
+              <bibl><ptr target="bib:Low1835_01"/></bibl>
+		<bibl><ptr target="bib:Low1848_01"/><citedRange unit="page">63-65</citedRange></bibl>
+		<bibl><ptr target="bib:Laidlay1848_01"/><citedRange unit="page">71</citedRange></bibl>
+		<bibl><ptr target="bib:Anderson1883_02"/><citedRange unit="page">189-190</citedRange></bibl>
+		<bibl><ptr target="bib:Low1886_01"/><citedRange unit="page">224-225</citedRange></bibl>
+		<bibl><ptr target="bib:Laidlay1886_01"/><citedRange unit="page">230-231</citedRange></bibl>
+		<bibl><ptr target="bib:JacqHergoualch1992_01"/><citedRange unit="page">219-221</citedRange><citedRange unit="figure">242</citedRange></bibl>
+           </listBibl>
+<listBibl type="surrogates">
+<bibl>Estampages, Leiden Ubiversity Library, Kern Institute collection, no. N. 13</bibl>
+</listBibl>
+        </div>
+      </body>
+  </text>
+</TEI>
