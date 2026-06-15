@@ -8,7 +8,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Stone from Pasrujambe (no. 9)</title>
+            <title>Stone from Pasrujambe (no. 10)</title>
          	<respStmt>
          		<resp>author of digital edition</resp>
          		<persName ref="part:mano">
@@ -23,7 +23,7 @@
          <publicationStmt>
             <authority>DHARMA</authority>
             <pubPlace>Jakarta</pubPlace>
-            <idno type="filename">DHARMA_INSIDENKPasrujambe09</idno>
+            <idno type="filename">DHARMA_INSIDENKPasrujambe10</idno>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/">
                   <p>This work is licenced under the Creative Commons Attribution 4.0 Unported Licence. To view a copy of the licence, visit https://creativecommons.org/licenses/by/4.0/ or send
@@ -80,8 +80,8 @@
       <body>
          <div type="edition" xml:lang="kaw-Latn" rendition="class:38769 maturity:83213">
 <ab>
-  <lb n="1"/>sa ko
-  <lb n="2" break="no"/>sika
+  <lb n="1"/>saṁ ku
+  <lb n="2" break="no"/>rusha
 </ab>
          </div>
          <div type="apparatus">
@@ -101,15 +101,15 @@
                               </bibl>
                        <bibl n="MS">
                                 <ptr target="bib:MachiSuhadi+RichadianaKartakusuma1996_01"/>
-                                <citedRange unit="page">16</citedRange>
+                                <citedRange unit="page">17-18</citedRange>
                               </bibl>
                     </listBibl>
                     <listBibl type="secondary">
          	<bibl><ptr target="bib:Soekmono1962_01"/><citedRange unit="page">12</citedRange></bibl>
-            <bibl><ptr target="bib:BudiSantosaWibowo2001_01"/><citedRange unit="page">32</citedRange></bibl>
+            <bibl><ptr target="bib:BudiSantosaWibowo2001_01"/><citedRange unit="page">35</citedRange></bibl>
         </listBibl>
 <listBibl type="surrogates">
-<bibl>Photo HS1217_LMJ</bibl>
+<bibl>Photo HS1230_LMJ</bibl>
 </listBibl>
         </div>
       </body>
