@@ -8,7 +8,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Stone from Pasrujambe (no. 13)</title>
+            <title>Stone from Pasrujambe (no. 14)</title>
          	<respStmt>
          		<resp>author of digital edition</resp>
          		<persName ref="part:mano">
@@ -23,7 +23,7 @@
          <publicationStmt>
             <authority>DHARMA</authority>
             <pubPlace>Jakarta</pubPlace>
-            <idno type="filename">DHARMA_INSIDENKPasrujambe13</idno>
+            <idno type="filename">DHARMA_INSIDENKPasrujambe14</idno>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/">
                   <p>This work is licenced under the Creative Commons Attribution 4.0 Unported Licence. To view a copy of the licence, visit https://creativecommons.org/licenses/by/4.0/ or send
@@ -93,7 +93,7 @@
            <p>The text is engraved inside a square cartouche. Above the cartouche is an asbtract depiction of Kāla eyes.</p>
          </div>
         <div type="bibliography">
-              <p>This stone was probably among the group of sixteen inscribed stones at Pasru Jambe reported by Soekmono (<bibl rend="omitname"><ptr target="bib:Soekmono1962_01"/></bibl>). The first reading of this inscriptions wes published in later survey of the Archaeological Service by Titi Surti Nastiti (<bibl rend="omitname"><ptr target="bib:TitiSurtiNastiti+al1994-1995_01"/></bibl>) and Machi Suhadi (<bibl rend="omitname"><ptr target="bib:MachiSuhadi+RichadianaKartakusuma1996_01"/></bibl>). Re-edited here by Arlo Griffiths and Muhamad Alnoza from illustration in Titi Surti Nastiti's report (fig. 8)</p>
+              <p>This stone was probably among the group of sixteen inscribed stones at Pasru Jambe reported by Soekmono (<bibl rend="omitname"><ptr target="bib:Soekmono1962_01"/></bibl>). The first reading of this inscriptions was published in later survey of the Archaeological Service by Titi Surti Nastiti (<bibl rend="omitname"><ptr target="bib:TitiSurtiNastiti+al1994-1995_01"/></bibl>) and Machi Suhadi (<bibl rend="omitname"><ptr target="bib:MachiSuhadi+RichadianaKartakusuma1996_01"/></bibl>). Re-edited here by Arlo Griffiths and Muhamad Alnoza from illustration in Titi Surti Nastiti's report (fig. 8)</p>
               <listBibl type="primary">
                       <bibl n="TSN">
                                 <ptr target="bib:TitiSurtiNastiti+al1994-1995_01"/>
