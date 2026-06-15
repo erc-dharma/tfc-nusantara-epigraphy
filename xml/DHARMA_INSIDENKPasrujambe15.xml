@@ -8,7 +8,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Stone from Pasrujambe (no. 14)</title>
+            <title>Stone from Pasrujambe (no. 15)</title>
          	<respStmt>
          		<resp>author of digital edition</resp>
          		<persName ref="part:mano">
@@ -23,7 +23,7 @@
          <publicationStmt>
             <authority>DHARMA</authority>
             <pubPlace>Jakarta</pubPlace>
-            <idno type="filename">DHARMA_INSIDENKPasrujambe14</idno>
+            <idno type="filename">DHARMA_INSIDENKPasrujambe15</idno>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/">
                   <p>This work is licenced under the Creative Commons Attribution 4.0 Unported Licence. To view a copy of the licence, visit https://creativecommons.org/licenses/by/4.0/ or send
@@ -73,15 +73,16 @@
       <revisionDesc>
          <change who="part:axja" when="2020-11-03" status="draft">Updating toward the encoding template v03</change>
          <change who="part:masc" when="2020-09-02" status="draft">initial encoding of the inscription</change>
-         <change who="part:mano part:argr" when="2026-06-14">encoded the inscription</change>
+         <change who="part:mano part:argr" when="2026-06-16">encoded the inscription</change>
       </revisionDesc>
    </teiHeader>
    <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="kaw-Latn" rendition="class:38769 maturity:83213">
 <ab>
-  <lb n="1"/>paṁyaṁṅā
-  <lb n="2" break="no"/>n· saga
+  <lb n="1"/>baṭā
+  <lb n="2" break="no"/>ra ma
+  <lb n="3" break="no"/>hadeva
 </ab>
          </div>
          <div type="apparatus">
@@ -90,28 +91,28 @@
    <!--translation encoded as per EGD §9.2 -->
         </div>
          <div type="commentary">
-           <p>The text is engraved inside a square cartouche. Above the cartouche is an asbtract depiction of Kāla eyes.</p>
+           <p/>
          </div>
         <div type="bibliography">
-              <p>This stone was probably among the group of sixteen inscribed stones at Pasru Jambe reported by Soekmono (<bibl rend="omitname"><ptr target="bib:Soekmono1962_01"/></bibl>). The first reading of this inscriptions was published in later survey of the Archaeological Service by Titi Surti Nastiti (<bibl rend="omitname"><ptr target="bib:TitiSurtiNastiti+al1994-1995_01"/></bibl>) and Machi Suhadi (<bibl rend="omitname"><ptr target="bib:MachiSuhadi+RichadianaKartakusuma1996_01"/></bibl>). Re-edited here by Arlo Griffiths and Muhamad Alnoza from illustration in Titi Surti Nastiti's report (fig. 8)</p>
+              <p>This stone was probably among the group of sixteen inscribed stones at Pasru Jambe reported by Soekmono (<bibl rend="omitname"><ptr target="bib:Soekmono1962_01"/></bibl>). The first reading of this inscription was published in  a survey of the Archaeological Service by Titi Surti Nastiti (<bibl rend="omitname"><ptr target="bib:TitiSurtiNastiti+al1994-1995_01"/></bibl>) and later also in Machi Suhadi (<bibl rend="omitname"><ptr target="bib:MachiSuhadi+RichadianaKartakusuma1996_01"/></bibl>). Re-edited here by Arlo Griffiths and Muhamad Alnoza from photographs taken by Nigel Bullough and Arlo Griffiths (2011).</p>
               <listBibl type="primary">
                       <bibl n="TSN">
                                 <ptr target="bib:TitiSurtiNastiti+al1994-1995_01"/>
-                                <citedRange unit="page">9</citedRange>
+                                <citedRange unit="page">7</citedRange>
                               </bibl>
-
-                     <bibl n="MS">
+                       <bibl n="MS">
                                 <ptr target="bib:MachiSuhadi+RichadianaKartakusuma1996_01"/>
                                 <citedRange unit="page">16</citedRange>
                               </bibl>
                     </listBibl>
                     <listBibl type="secondary">
-         	<bibl><ptr target="bib:Soekmono1962_01"/><citedRange unit="page">12</citedRange></bibl>
-            	<bibl><ptr target="bib:BudiSantosaWibowo2001_01"/><citedRange unit="page">32</citedRange></bibl>                     
+         	<bibl><ptr target="bib:Soekmono1962_01"/><citedRange unit="page">33</citedRange></bibl>
+            <bibl><ptr target="bib:BudiSantosaWibowo2001_01"/><citedRange unit="page">32</citedRange></bibl>
         </listBibl>
-        <listBibl type="surrogates">
-        <bibl><ptr target="bib:TitiSurtiNastiti+al1994-1995_01"/><citedRange unit="page">36 (fig. 8)</citedRange></bibl>
-        </listBibl>
+<listBibl type="surrogates">
+<bibl>Photo HS1224_LMJ and HS1225_LMJ</bibl>
+<bibl><ptr target="bib:TitiSurtiNastiti+al1994-1995_01"/><citedRange unit="page">31 (fig.3)</citedRange></bibl>
+</listBibl>
         </div>
       </body>
   </text>
