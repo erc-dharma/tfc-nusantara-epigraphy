@@ -94,7 +94,7 @@
         <div type="bibliography">
               <p>This digital edition agrees with the reading by Richadiana Kartakusama published in <bibl><ptr target="bib:HasanDjafar1991_01"/></bibl>. Text verified from photographs.</p>
            <listBibl type="primary">
-              <bibl><ptr target="bib:HasanDjafar1991_01"/><citedRange unit="part">27-28</citedRange></bibl>
+              <bibl><ptr target="bib:HasanDjafar1991_01"/><citedRange unit="page">27-28</citedRange></bibl>
            </listBibl>
            <listBibl type="secondary">
 <!--<bibl><ptr target="bib:AditiaGunawan+Griffiths2021_01"/><citedRange unit="page">133</citedRange><citedRange unit="note">5</citedRange></bibl>-->
