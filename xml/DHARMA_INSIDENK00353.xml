@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-            	<title>N. 353. Mahānāvika Buddhagupta</title>
+            	<title>N. 353. Prayer of the <foreign>mahānāvika</foreign> Buddhagupta (ca. 7th c. CE)</title>
             	<respStmt>
             		<resp>author of digital edition</resp>
             		<persName ref="part:argr">
@@ -74,30 +74,41 @@
 <lg met="anuṣṭubh" n="1">
 <l n="a"><milestone type="pagelike" unit="zone" n="A"/><label xml:lang="eng">Front</label><lb n="1"/><unclear>A</unclear>jñānāc cīyate karmma <g/></l> 
 <l n="b">janmanaḥ karmma kāraṇa<supplied reason="omitted">ṁ</supplied></l>
-<l n="c"><lb n="w"/>jñānān na cīyate <supplied reason="lost">karmma</supplied></l> 
+<l n="c"><lb n="2"/>jñānān na cīyate <supplied reason="lost">karmma</supplied></l> 
 <l n="d"><supplied reason="lost">karmmābhāvān na jāyate</supplied></l>
 </lg>
-<p><milestone type="pagelike" unit="zone" n="B"/><label xml:lang="eng">Left</label>
-<lb n="3"/>sarvveṇa prakāreṇa <space/> sarvvasmin sarvvathā sa<supplied reason="lost">r</supplied>vv<unclear>ā</unclear> 
-<lb n="4"/>siddhayāt<supplied reason="lost">r</supplied>ā<supplied reason="omitted">ḥ</supplied> santu
-<milestone type="pagelike" unit="zone" n="C"/><label xml:lang="eng">Right</label>
-<lb n="5"/>sa<supplied reason="lost">rv</supplied>v<seg type="component" subtype="vowel"><gap reason="lost" quantity="1" unit="component"/></seg><unclear cert="low">ka</unclear> <gap reason="lost" unit="character" quantity="5"/><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg>r<seg type="component" subtype="vowel"><gap reason="lost" quantity="1" unit="component"/></seg><gap reason="lost" unit="character" quantity="2"/><gap reason="illegible" unit="character" quantity="1"/><gap reason="lost" unit="character" quantity="1"/>
-<lb n="6"/>mahānāvika-buddhaguptasya raktamr̥ittika-vās<supplied reason="lost" cert="low">tavyasya</supplied>
-<milestone type="pagelike" unit="zone" n="D"/><label xml:lang="eng">Top</label>
-<lb n="7"/><supplied reason="lost">rā</supplied>jña<supplied reason="omitted">ḥ</supplied> <unclear cert="low">pādau</unclear> śirasā praṇipat<supplied reason="lost">ya</supplied>
+<p><milestone type="pagelike" unit="zone" n="B"/><label xml:lang="eng">Top</label>
+<lb n="3"/><supplied reason="lost">rā</supplied>jña<supplied reason="omitted">ḥ</supplied> <unclear cert="low">pādau</unclear> śirasā praṇipat<supplied reason="lost">ya</supplied>
+<milestone type="pagelike" unit="zone" n="C"/><label xml:lang="eng">Left</label>
+<lb n="4"/>sarvveṇa prakāreṇa <space/> sarvvasmin sarvvathā-sa<supplied reason="lost">r</supplied>vva<lb 
+n="5" break="no"/>-siddhayāt<supplied reason="lost">r</supplied>ā<supplied reason="omitted">ḥ</supplied> santu
+<milestone type="pagelike" unit="zone" n="D"/><label xml:lang="eng">Right</label>
+<lb n="6"/>sa<seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg><!--<supplied reason="lost">rv</supplied> -->v<seg type="component" subtype="vowel"><gap reason="lost" quantity="1" unit="component"/></seg><unclear cert="low">ka</unclear> <gap reason="lost" unit="character" quantity="5"/><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg>r<seg type="component" subtype="vowel"><gap reason="lost" quantity="1" unit="component"/></seg><gap reason="lost" unit="character" quantity="2"/><gap reason="illegible" unit="character" quantity="1"/><gap reason="lost" unit="character" quantity="1"/>
+<lb n="7"/>mahānāvika-buddhaguptasya rakta<choice><orig>mr̥i</orig><reg>mr̥</reg></choice>ttika-vās<supplied reason="lost" cert="low">tavyasya</supplied>
 </p>
          </div>
          <div type="apparatus">
                <!-- none -->
+
+<!-- add JHergoualch 2001, Allen 1986 and JWC 1989 to sec. bibl. -->
+
          </div>
          <div type="translation">
- 		<p>?</p>
+ 		<p rend="stanza" n="1"><q>Through ignorance, karma is accumulated; karma is the cause of rebirth; through wisdom, karma is not accumulated; in the absence of karma, one is not reborn.</q></p>
+		<p n="3-7"><q>By all means, in everything, in all respects, may they be entirely successful in their journeys! <gap reason="ellipsis"/></q> After bowing with the head to the king's feet, the <foreign>mahānāvika</foreign> Buddhagupta, resident of Raktamr̥ttika, <supplied reason="lost">formulates the above prayer</supplied>.</p>
          </div>
          <div type="commentary">
-            <p>The text is laid out in four zones, on the front and three lateral sides of a stone slab. The line of text on the upper lateral side was included in Low's facsimile but ignored in all publications and subsequerntly produced estampages. It is included here for the first time.</p>
+            <p>The text is laid out in four zones, on the front and three sides of a stone slab whose front also bears the depiction of a <foreign>stūpa</foreign>. The line of text on the upper side was included in Low's and Laidlay's facsimiles but ignored in all publications and subsequently produced estampages. It is included here for the first time, and tentatively taken to be the first line intended to be read after the stanza. On the side to the viewer's right, the first line has also been ignored by previous scholars: from the traces of writing that remain visible on the estampages, we infer that it may have started with an expression like <foreign>sattvarāśayaḥ</foreign> for <q>all beings</q>, or <foreign>sarvajñāna</foreign> for <q>omniscience</q>, and ended with a word like <foreign>praṇidhi</foreign>, <foreign>praṇidhāna</foreign>, or <foreign>prārthanā</foreign>.</p>
+<p>The opening stanza is attested throughout maritime Southeast Asia in the second half of the first millennium CE, but has not yet been traced to any Buddhist scripture (<bibl><ptr target="bib:Skilling2015_02"/></bibl>). The relevance to the rest of the inscription of the version of the <title>Supāragajātaka</title> contained in Āryaśūra's <title>Jātakamālā</title> was first observed by Chhabra (<bibl rend="omitname"><ptr target="bib:Chhabra1935_01"/><citedRange unit="page">19</citedRange><citedRange unit="note">4</citedRange></bibl>) and discussed by Nilakanta Sastri (<bibl rend="omitname"><ptr target="bib:NilakantaSastri1937_01"/></bibl>). The story concerns a group of merchants from Bharukaccha (Broach), wishing to undertake a voyage to Suvarṇabhūmi, who consult an old navigator called Supāraga, residing in Śūrpāraka (Sopara).<note>Thus the reading of the name of the port city in the most recent edition of the Sanskrit text (<bibl><ptr target="bib:Hanisch2005_01"/><citedRange unit="part">1</citedRange><citedRange unit="page">126</citedRange></bibl>).</note> The navigator is none other than a former incarnation of the Buddha, and the Bodhisattva's name is explained as follows: <foreign>tasya parama-siddhayātratvāt supāraga ity eva nāma babhūva</foreign>. Given the old and widespread association of Suvarṇabhūmi with parts of Southeast Asia (<bibl><ptr target="bib:Revire2018_01"/></bibl>), including peninsular Malaysia, it seems very likely that this version of the <title>Supāragajātaka</title> inspired the author of the inscription in elaborating in <foreign>siddhayātra</foreign>.</p>
+<p>What does not seem to have been observed in previous scholarship is the fact that, starting from <foreign>sarveṇa prakāreṇa</foreign> the wording appears to be inspired by the explanation of the opening stanza in Vasubandhu's <title>Abhidharmakośabhāṣya</title>: 
+<q rend="block"><foreign>yaḥ sarvathā-sarvahatāndhakāraḥ saṁsārapaṅkāj jagad ujjahāra |
+tasmai namaskr̥tya yathārthaśāstre śāstraṁ pravakṣyāmy abhidharmakośam ||</foreign>
+<hi rend="bold">sarveṇa prakāreṇa sarvasmin hatāndhakāraḥ sarvathā-sarvahatāndhakāraḥ</hi> | ajñānaṁ hi bhūtārtha-darśana-pratibandhādhakāram | tac ca bhagavato buddhasya pratipakṣa-lābhenātyantaṁ sarvathā sarvatra jñeye punar-anutpatti-dharmatvād dhatam | ato 'sau sarvathā-sarvahatāndhakāraḥ |.</q>
+While the <title>Abhidharmakośabhāṣya</title> refers to the Buddha as <foreign>sarvathā-sarva-hatāndhakāraḥ</foreign>, in our inscription the place of a Buddha's epithet is taken by <foreign>sarvathā-sarva-siddhayātra</foreign>, designating creatures aspiring to salvation coined on the basis of the <title>Supāragajātaka</title>.</p>
+<p>On the term <foreign>(mahā)nāvika</foreign>, not necessarily meaning <q>ship's captain</q> and not definitely excluding the possibility that Buddhagupta might have been a monk, see <bibl><ptr target="bib:Skilling2015_01"/><citedRange unit="page">69-72</citedRange></bibl>; on the identification of Raktamr̥ttika, see <bibl><ptr target="bib:Skilling2015_02"/><citedRange unit="page">24-25</citedRange></bibl>. It remain quite uncertain whether our restitution <foreign><supplied reason="lost">rā</supplied>jña<supplied reason="omitted">ḥ</supplied></foreign> (based on Laidlkay's facsimile) is correct and, if so, which king is referred to.</p>
          </div>
         <div type="bibliography">
-           <p>Facsimile by Low (<bibl rend="omitname"><ptr target="bib:Low1835_01"/></bibl>, reprinted by Jacq-Hergoualc'h <bibl rend="omitname"><ptr target="bib:JacqHergoualch1992_01"/></bibl>). After a preliminary attempt by Rajendralal Mitra, reported by Laidlay (<bibl rend="omitname"><ptr target="bib:Laidlay1848_01"/></bibl>), the first serious deciperherment was published by Kern (<bibl rend="omitname"><ptr target="bib:Kern1883_01"/></bibl>), and his results was refine by Chhabra (<bibl rend="omitname"><ptr target="bib:Chhabra1935_01"/></bibl>). Kern's publication was reprinted (<bibl rend="omitname"><ptr target="bib:Kern1915_03"/></bibl>) and published in English version (<bibl rend="omitname"><ptr target="bib:Kern1907_01"/></bibl>); Chhabra's was reprinted (<bibl rend="omitname"><ptr target="bib:Chhabra1965_01"/></bibl>). The results of previous scholarship where presented by Skilling (<bibl rend="omitname"><ptr target="bib:Skilling2015_02"/></bibl>). This digital edition based on Low's facsimile and on estampages.</p>
+           <p>Facsimiles by Low (<bibl rend="omitname"><ptr target="bib:Low1835_01"/></bibl>, reprinted by several later scholars including Jacq-Hergoualc'h <bibl rend="omitname"><ptr target="bib:JacqHergoualch1992_01"/></bibl>) and Laidlay <bibl rend="omitname"><ptr target="bib:Laidlay1848_01"/></bibl>). After a preliminary attempt by Rajendralal Mitra, reported by Laidlay (<bibl rend="omitname"><ptr target="bib:Laidlay1848_01"/></bibl>), the first serious attempt at decipherment was published by Kern (<bibl rend="omitname"><ptr target="bib:Kern1883_01"/></bibl>), and his results were refined by Chhabra (<bibl rend="omitname"><ptr target="bib:Chhabra1935_01"/></bibl>). Kern's publication was reprinted (<bibl rend="omitname"><ptr target="bib:Kern1915_03"/></bibl>) and published in English version (<bibl rend="omitname"><ptr target="bib:Kern1907_01"/></bibl>); Chhabra's was reprinted too (<bibl rend="omitname"><ptr target="bib:Chhabra1965_01"/></bibl>). This digital edition based on the published facsimiles as well as and on estampages.</p>
         	<listBibl type="primary">
 <bibl><ptr target="bib:Kern1883_01"/><citedRange unit="page">7-9</citedRange></bibl>
 <bibl><ptr target="bib:Kern1907_01"/><citedRange unit="page">97-99</citedRange></bibl>
@@ -107,16 +118,22 @@
 <bibl><ptr target="bib:Skilling2015_02"/><citedRange unit="page">21-25</citedRange></bibl>
 			</listBibl>
            <listBibl type="secondary">
-<!-- JacqHergoualch1992_01: 219-21 (doc. 242)$Braddell+Douglas1980_01$Lamb1963_01: 76-7, no. 1, fig. 1$Braddell1958_01: 33$QuaritchWales+QuaritchWales1947_01: 6$Finot1910_01: 151 -->
+<!-- Braddell+Douglas1980_01$Lamb1963_01: 76-7, no. 1, fig. 1$Braddell1958_01: 33$QuaritchWales+QuaritchWales1947_01: 6$Finot1910_01: 151 -->
               <bibl><ptr target="bib:Low1835_01"/></bibl>
 		<bibl><ptr target="bib:Low1848_01"/><citedRange unit="page">63-65</citedRange></bibl>
-		<bibl><ptr target="bib:Laidlay1848_01"/><citedRange unit="page">71</citedRange></bibl>
-		<bibl><ptr target="bib:Anderson1883_02"/><citedRange unit="page">189-190</citedRange></bibl>
+		<bibl><ptr target="bib:Laidlay1848_01"/><citedRange unit="page">71</citedRange><citedRange unit="plate">IV</citedRange><citedRange unit="item">8-11</citedRange></bibl>
+		<!--<bibl><ptr target="bib:Anderson1883_02"/><citedRange unit="page">189-190</citedRange></bibl>-->
 		<bibl><ptr target="bib:Low1886_01"/><citedRange unit="page">224-225</citedRange></bibl>
-		<bibl><ptr target="bib:Laidlay1886_01"/><citedRange unit="page">230-231</citedRange></bibl>
+		<bibl><ptr target="bib:Laidlay1886_01"/><citedRange unit="page">230-231</citedRange><citedRange unit="plate">IV</citedRange><citedRange unit="item">8-11</citedRange></bibl>
+<bibl><ptr target="bib:NilakantaSastri1937_01"/></bibl>
+<!--<bibl><ptr target="bib:Chhabra1948_01"/></bibl>
+<bibl><ptr target="bib:NilakantaSastri1948-1949_01"/></bibl>-->
+<bibl><ptr target="bib:Kongkaew1989_01"/><citedRange unit="plate">30</citedRange></bibl>
 		<bibl><ptr target="bib:JacqHergoualch1992_01"/><citedRange unit="page">219-221</citedRange><citedRange unit="figure">242</citedRange></bibl>
            </listBibl>
 <listBibl type="surrogates">
+<bibl>Facsimile, Low 1835</bibl>
+<bibl>Facsimile, Laidley 1848/1886</bibl>
 <bibl>Estampages, Leiden Ubiversity Library, Kern Institute collection, no. N. 13</bibl>
 </listBibl>
         </div>
