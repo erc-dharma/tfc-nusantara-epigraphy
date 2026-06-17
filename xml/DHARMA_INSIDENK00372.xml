@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+         	<title>N. 372 Mandiwunga (9th/10th c. CE)</title>
+         	<respStmt>
+         		<resp>author of digital edition</resp>
+         		<persName ref="part:argr">
+         			<forename>Arlo</forename>
+         			<surname>Griffiths</surname>
+         		</persName>
+         	</respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>DHARMA</authority>
+            <pubPlace>Jakarta</pubPlace>
+            <idno type="filename">DHARMA_INSIDENK00372</idno>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/">
+                  <p>This work is licenced under the Creative Commons Attribution 4.0 Unported Licence. To view a copy of the licence, visit https://creativecommons.org/licenses/by/4.0/ or send
+                            a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.</p>
+               	<p>Copyright (c) 2019-2026 by Arlo Griffiths</p>
+               </licence>
+            </availability>
+         	<date from="2019" to="2026">2019-2026</date>
+         </publicationStmt>
+         <sourceDesc><!-- only the handDesc can be filled in at this stage -->
+            <msDesc><!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
+               <msIdentifier>
+                  <repository>DHARMAbase</repository>
+                  <idno/>
+                  <!-- don't modify this -->
+               </msIdentifier>
+               <msContents><!-- describe the intellectual content of an inscription -->
+                  <summary><!-- //// NOT MANDATORY  ////--></summary>
+                  <!-- offers the possibility to give a summary of the inscription's content -->
+               </msContents>
+               <physDesc>
+                  <handDesc>
+                  	<p>Javanese script typical of the 9th/10th centuries</p>
+                  </handDesc>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>The project DHARMA has received funding from the European Research Council (ERC)
+                        under the European Union's Horizon 2020 research and innovation programme (grant
+                        agreement no 809994).</p>
+         </projectDesc>
+         <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+         <listPrefixDef>
+            <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+               <p>Public URIs with the prefix bib to point to a Zotero Group Library named
+                            ERC-DHARMA whose data are open to the public.</p>
+            </prefixDef>
+            <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers.xml#$1">
+               <p>Internal URIs using the part prefix to point to person elements in the
+                            <ref>DHARMA_IdListMembers.xml</ref> file.</p>
+            </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <revisionDesc>
+      	<change who="part:argr" when="2026-06-17">encoded the inscription</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:space="preserve">
+      <body>
+         <div type="edition" xml:lang="kaw-Latn" rendition="class:38769 maturity:83213">
+<p part="F">
+  <lb n="1" break="no"/>māsa kr̥ṣṇa-<unclear>pakṣa</unclear>
+  <lb n="2"/>nav<choice><orig>ā</orig><reg>a</reg></choice>mi ha<unclear>r</unclear>yaṁ
+  <lb n="3"/>pon· vr̥haspati-vā<lb 
+   n="4" break="no"/>ra</p><p>tatkāla s<choice><orig>i</orig><reg>ī</reg></choice>ma ri
+  <lb n="5"/>maṇḍivuṅa
+</p>
+         </div>
+         <div type="apparatus">
+         </div>
+         <div type="translation">
+<p n="1-4">month of <gap reason="lost"/>, waning fortnight, ninth <supplied reason="explanation"><foreign>tithi</foreign></supplied>, Haryaṅ, Pon, Thursday.</p>
+<p n="4-5">That was when the benefice at Maṇḍivuṅa <supplied reason="subaudible">was established</supplied>.</p>
+ <p>The healers.</p>
+        </div>
+         <div type="commentary">
+           <p/>
+         </div>
+        <div type="bibliography">
+              <p>This digital edition agrees with the reading by Richadiana Kartakusama published in <bibl><ptr target="bib:HasanDjafar1991_01"/></bibl>. Text verified from photographs.</p>
+           <listBibl type="primary">
+              <bibl><ptr target="bib:HasanDjafar1991_01"/><citedRange unit="part">27-28</citedRange></bibl>
+           </listBibl>
+           <listBibl type="secondary">
+<!--<bibl><ptr target="bib:AditiaGunawan+Griffiths2021_01"/><citedRange unit="page">133</citedRange><citedRange unit="note">5</citedRange></bibl>-->
+         	<bibl><ptr target="bib:TitiSurtiNastiti+HasanDjafar2016_01"/><citedRange unit="page">105-106</citedRange><citedRange unit="figure">3</citedRange></bibl>
+        </listBibl>
+<listBibl type="surrogates">
+<bibl><!-- photos Museum Sri Baduga --></bibl>
+</listBibl>
+        </div>
+      </body>
+  </text>
+</TEI>
