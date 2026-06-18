@@ -81,11 +81,9 @@
 n="2" break="no"/>kla-pakṣa vulan· vaiśākha ḍa punta hiyaṁ nāyik di
 <lb n="3"/>sāmvau maṅalap siddhayātra di saptamī śukla-pakṣa
 <lb n="4"/>vulan· jyeṣṭha ḍa punta hiyaṁ marlapas· dari mināṅa
-<lb n="5"/>tāmvan· mamāva yaṁ vala duA lakṣa daṅan· kośa
+<lb n="5"/>tāmvan· mamāva yaṁ vala duA lakṣa daṅan· ko<supplied reason="lost">śa</supplied>
 <lb n="6"/>duA ratus· cāra di sāmvau daṅan· jālan· sarivu
 <lb n="7"/>tlu rātus· sapuluḥ duA vañakña dātaṁ di ma<gap reason="illegible" unit="character" quantity="2"/>
-
-[u]kh(a) (U/da/ja)(m/p)[...]<!-- n.11 Boechari -->
 <lb n="8"/>sukhacitta di pañcamī śukla-pakṣa vula[n· Āṣāḍha]<!-- n.12 Boechari -->
 <lb n="9"/>laghu mudita dātaṁ marvuAt· vanuA [Ini ....]<!-- n.13 Boechari -->
 <lb n="10"/>śrīvijaya jaya siddhayātra subhikṣa n[ityakāla]<!-- n.13 Boechari -->
@@ -105,7 +103,7 @@ n="2" break="no"/>kla-pakṣa vulan· vaiśākha ḍa punta hiyaṁ nāyik di
 		    <app loc="7">
                      <lem source="bib:Poerbatjaraka1952_01 bib:Boechari1986_01">kośa</lem>
                      <rdg source="bib:Coedes1930_01">ko<gap reason="undefined" unit="character" quantity="1"/></rdg>
-			<note>Boechari adopts the reading kośa from </note>
+			<note>With indication that the <foreign>śa</foreign> is supplied, Boechari adopts the reading <foreign>kośa</foreign> from Poerbatajaraka, though the latter does not indicate any such thing. The indication given by Boechari (<bibl rend="omitname"><ptr target="bib:Boechari1986_01"/></bibl>) is followed here tentatively, though in an earlier publication he seemed to admit that less of the word is actually preserved: <quote>The filling up of the gap with <foreign>kośa</foreign> has been suggested <supplied reason="omitted">by</supplied> Poerbatjaraka (1952). We can still see a <foreign>taliŋ</foreign> on the stone</quote> (<bibl><ptr target="bib:Boechari1979_01"/><citedRange unit="page">35</citedRange><citedRange unit="note">11</citedRange></bibl>)</note>
                   </app>
                   <app loc="7">
                      <lem source="bib:Boechari1986_01">sapuluḥ</lem>
@@ -115,7 +113,11 @@ n="2" break="no"/>kla-pakṣa vulan· vaiśākha ḍa punta hiyaṁ nāyik di
 			<lem>ma<gap reason="illegible" unit="character" quantity="2"/></lem>
 			<rdg source="bib:Coedes1930_01">mata jap·</rdg>
 			<rdg source="bib:Poerbatjaraka1952_01">mata yap·</rdg>
-			<note>Krom (<bibl rend="omitname"><ptr target="bib:Krom1938_01"/><citedRange unit="page">25-26</citedRange></bibl>, with plate) proposed to read <foreign>malay<supplied reason="lost">u</supplied></foreign>. Although subserquent scholars have favored different readings (), to our mind Krom's proposal still deserves consideration.</note>
+			<rdg source="bib:Boechari1986_01">m<supplied reason="lost">u</supplied>kha <gap reason="illegible" unit="character" quantity="1"/>p<seg type="component" subtype="subscript"><gap reason="illegible" unit="component" quantity="1"/></seg></rdg>
+			<note>Krom (<bibl rend="omitname"><ptr target="bib:Krom1938_01"/><citedRange unit="page">25-26</citedRange></bibl>, with plate) proposed to read <foreign>malay<supplied reason="lost">u</supplied></foreign>. Subsequent scholars have expressed douts about Krom's proposal (<bibl><ptr target="bib:Casparis1956_01"/><citedRange unit="page">13</citedRange><citedRange unit="note">68</citedRange></bibl>) or even proposed specific alternative readings. Boechari, for instance, commented: <quote>We have to withdraw our reading of <foreign>mukha upaṅ</foreign>, proposed at the first SPAFA Workshop on Archaeological and Environmental Studies on Śrīvijaya held in Jakarta (Boechari, 1981). The round dot which we can see on the photograph of part of a paper print published by Dr. N.J. Krom is not found on the stone. On a paper print at our disposal we can see that this round dot is much smaller than the <foreign>anuswāra</foreign>s in this inscription. And we cannot yet decide what <foreign>akṣara</foreign> is written before the remnants of the <foreign>pa</foreign>. The reading of <foreign>mukha</foreign>, however, is to be maintained</quote> (<bibl rend="omitname"><ptr target="bib:Boechari1986_01"/><citedRange unit="page">49-50</citedRange><citedRange unit="note">11</citedRange></bibl>). To our mind Krom's proposal cannot yet be definitively rejected.</note>
+<!-- 
+[u]kh(a) (U/da/ja)(m/p)[...]
+-->
 		   </app> 
 		   <app loc="10">
                      <lem source="bib:Boechari1986_01">śrīvijaya jaya siddhayātra</lem>
