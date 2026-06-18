@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>N. 159. Riverstone from Kedukan Bukit (604 Śaka)</title>
+            	<respStmt>
+            		<resp>author of digital edition</resp>
+            		<persName ref="part:argr">
+            			<forename>Arlo</forename>
+            			<surname>Griffiths</surname>
+            		</persName>
+            	</respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <authority>DHARMA</authority>
+                 <pubPlace>Jakarta</pubPlace>
+                 <idno type="filename">DHARMA_INSIDENK00159</idno>
+                 <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                       <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
+                             Licence. To view a copy of the licence, visit
+                             https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                             Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                             California, 94041, USA.</p>
+                       <p>Copyright (c) 2019-2025 by Arlo Griffiths.</p>
+                    </licence>
+                </availability>
+                <date from="2019" to="2025">2019-2025</date>
+            </publicationStmt>
+            <sourceDesc><!-- only the handDesc can be filled in at this stage -->
+                <msDesc><!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/><!-- don't modify this -->
+                    </msIdentifier>
+                    <msContents><!-- describe the intellectual content of an inscription -->
+                        <summary><!-- //// NOT MANDATORY  ////--></summary> <!-- offers the possibility to give a summary of the inscription's content -->
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p><!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EGD 11.2. --></p>
+                            <!-- If you need to identify individual hands (EGD §7.5/) in addition to one or more paragraphs of general palaeographic description, wrap <summary> around the <p> or <p>s above, and, outside <summary>, create <handNote> elements for each hand as follows:
+						<summary><p><p/></summary>
+						<handNote xml:id="Pallava00001_hand1"></handNote>
+						<handNote xml:id="Pallava00001_hand2"></handNote>
+					 -->
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
+            </projectDesc>
+            <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/><!-- UPDATE the link once the release is made official -->
+            <listPrefixDef>
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                    <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
+                </prefixDef>
+                <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
+                    <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_idListMembers_v01.xml</ref> file.</p>
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <revisionDesc>
+            <change who="part:argr" when="2026-06-18">started encoding the inscription</change>
+         </revisionDesc>
+    </teiHeader>
+    <text xml:space="preserve">
+      <body>
+         <div type="edition" xml:lang="omy-Latn" rendition="class:38769 maturity:83211">
+            <p>
+<lb n="1"/><g type="symbol">*</g> svasti śrī śaka-varṣātīta 604 Ekādaśī śu<lb 
+n="2" break="no"/>kla-pakṣa vulan· vaiśākha ḍa punta hiyaṁ nāyik di
+<lb n="3"/>sāmvau maṅalap siddhayātra di saptamī śukla-pakṣa
+<lb n="4"/>vulan· jyeṣṭha ḍa punta hiyaṁ marlapas· dari mināṅa
+<lb n="5"/>tāmvan· mamāva yaṁ vala duA lakṣa daṅan· kośa
+<lb n="6"/>duA ratus· cāra di sāmvau daṅan· jālan· sarivu
+<lb n="7"/>tlu rātus· sapuluḥ duA vañakña dātaṁ di ma<gap reason="illegible" unit="character" quantity="2"/>
+
+[u]kh(a) (U/da/ja)(m/p)[...]<!-- n.11 Boechari -->
+<lb n="8"/>sukhacitta di pañcamī śukla-pakṣa vula[n· Āṣāḍha]<!-- n.12 Boechari -->
+<lb n="9"/>laghu mudita dātaṁ marvuAt· vanuA [Ini ....]<!-- n.13 Boechari -->
+<lb n="10"/>śrīvijaya jaya siddhayātra subhikṣa n[ityakāla]<!-- n.13 Boechari -->
+<!--
+<g ref="sym:spiral-right" type="symbol">*</g> 
+<g ref="sym:doubleBar" type="punctuation">.</g> siddha 
+<g ref="sym:bullet-middle-hollow" type="punctuation">.</g> 
+<g ref="sym:doubleBar-hooked" type="punctuation">.</g> 
+<g ref="sym:floret" type="symbol">*</g> 
+<g ref="sym:bullet-triple" type="punctuation">.</g>
+<g ref="sym:flourish-taperOut" type="symbol">*</g>
+-->
+</p>
+         </div>
+         <div type="apparatus">
+               <listApp>
+		    <app loc="7">
+                     <lem source="bib:Poerbatjaraka1952_01 bib:Boechari1986_01">kośa</lem>
+                     <rdg source="bib:Coedes1930_01">ko<gap reason="undefined" unit="character" quantity="1"/></rdg>
+			<note>Boechari adopts the reading kośa from </note>
+                  </app>
+                  <app loc="7">
+                     <lem source="bib:Boechari1986_01">sapuluḥ</lem>
+                     <rdg source="bib:Coedes1930_01 bib:Poerbatjaraka1952_01">sapulu</rdg>
+                  </app>
+		   <app loc="7">
+			<lem>ma<gap reason="illegible" unit="character" quantity="2"/></lem>
+			<rdg source="bib:Coedes1930_01">mata jap·</rdg>
+			<rdg source="bib:Poerbatjaraka1952_01">mata yap·</rdg>
+			<note>Krom (<bibl rend="omitname"><ptr target="bib:Krom1938_01"/><citedRange unit="page">25-26</citedRange></bibl>, with plate) proposed to read <foreign>malay<supplied reason="lost">u</supplied></foreign>. Although subserquent scholars have favored different readings (), to our mind Krom's proposal still deserves consideration.</note>
+		   </app> 
+		   <app loc="10">
+                     <lem source="bib:Boechari1986_01">śrīvijaya jaya siddhayātra</lem>
+                     <rdg source="bib:Coedes1930_01">śrīvijaya siddhayātra</rdg>
+			<note>The omission of jaya was first pointed out by Poerbatjaraka.</note>
+                  </app>
+                     <!-- 
+Notes
+2. ḍa punta: CHECK does Coedes read dapunta everywhere?
+2. It seems highly doubtful to me that there ever was the word di, read by Cœdès etc., at the end of this line.
+7. On the reading of the end of this line, see ... Krom (1938: 421–422) who proposes malayu. See the subsequent comments of Boechari. But see also De Casparis 1982: 5.
+9. Only vanuA is visible, and the lacuna starts immediately thereafter, so that theoretically the Cœdès/Boechari reading vanuĀ might still be possible.
+10. -jaya jaya: see BEFEO 1930 correction XXXX. See also De Casparis 1982: 3.
+                     -->
+               </listApp>
+         </div>
+         <div type="translation">
+ 	<!--translation encoded as per EGD §9.2 -->
+         </div>
+         <div type="commentary">
+            <!--commentary encoded as per section §9.3 -->
+         </div>
+        <div type="bibliography">
+           <p>Text by Arlo Griffiths (March 2010, June 2024) based on the edition by C. Cœdès (<bibl rend="omitname"><ptr target="bib:Coedes1930_01"/></bibl>), verified on the basis of photos of the same EFEO (uninked) estampage used by Cœdès, and photos of an inked and uninked set of estampages kept in Leiden.</p>
+        	<listBibl type="primary">
+		<bibl n="C"><ptr target="bib:Coedes1930_01"/><citedRange unit="item">I</citedRange><citedRange unit="page">33-37</citedRange></bibl>
+		<bibl n="P"><ptr target="bib:Poerbatjaraka1952_01"/><citedRange unit="page">33-34</citedRange></bibl>
+		<bibl n="B"><ptr target="bib:Boechari1986_01"/><citedRange unit="page">33-37</citedRange></bibl>
+			</listBibl>
+           <listBibl type="secondary">
+              <bibl><ptr target="bib:Krom1938_01"/></bibl><!-- one <bibl/> per item of secondary bibliography -->
+           </listBibl>
+        </div>
+      </body>
+  </text>
+</TEI>

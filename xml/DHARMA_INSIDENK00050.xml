@@ -8,23 +8,9 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Pillar from Kota Kapur (N. 50), 608 Śaka</title>
+                <title>N. 50. Pillar from Kota Kapur (608 Śaka)</title>
                 <respStmt>
-                    <resp>EpiDoc Encoding</resp>
-                    <persName ref="part:argr">
-                       <forename>Arlo</forename>
-                       <surname>Griffiths</surname>
-                    </persName>
-                 </respStmt>
-                 <respStmt>
-                    <resp>intellectual authorship of edition</resp>
-                    <persName ref="part:argr">
-                       <forename>Arlo</forename>
-                       <surname>Griffiths</surname>
-                    </persName>
-                 </respStmt>
-                 <respStmt>
-                    <resp>Conversion of encoding for DHARMA</resp>
+                    <resp>author of digital edition</resp>
                     <persName ref="part:argr">
                        <forename>Arlo</forename>
                        <surname>Griffiths</surname>
@@ -84,13 +70,14 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
+            <change who="part:argr" when="2026-06-18">changed language tag und-Latn to languageb-Latn; changes to teiHeader</change>
             <change who="part:argr" when="2024-06-14">started encoding the inscription</change>
          </revisionDesc>
     </teiHeader>
     <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="omy-Latn" rendition="class:38769 maturity:83211">
-            <p xml:lang="und-Latn"><lb n="1"/><g ref="sym:spiral-right" type="symbol">*</g> <g ref="sym:doubleBar" type="punctuation">.</g> siddha <g ref="sym:doubleBar" type="punctuation">.</g> titaṁ hamvan· vari Avai <g ref="sym:bullet-middle-hollow" type="punctuation">.</g> kandra kāyet nipaihumpaAn· namuha Ulu lavan tandrun· luAḥ makamatai tandrun· luAḥ vinunu paihumpaAn· hakairu muAḥ kāyet nihumpa Unai tuṅai <unclear cert="low"><g ref="sym:bullet-middle-hollow" type="punctuation">.</g></unclear> <lb n="2"/>Umenteṁ bhaktī niUlun· haraki <g ref="sym:bullet-middle-hollow" type="punctuation">.</g> Unai tuṅai <g ref="sym:doubleBar" type="punctuation">.</g></p> 
+            <p xml:lang="languageb-Latn"><lb n="1"/><g ref="sym:spiral-right" type="symbol">*</g> <g ref="sym:doubleBar" type="punctuation">.</g> siddha <g ref="sym:doubleBar" type="punctuation">.</g> titaṁ hamvan· vari Avai <g ref="sym:bullet-middle-hollow" type="punctuation">.</g> kandra kāyet nipaihumpaAn· namuha Ulu lavan tandrun· luAḥ makamatai tandrun· luAḥ vinunu paihumpaAn· hakairu muAḥ kāyet nihumpa Unai tuṅai <unclear cert="low"><g ref="sym:bullet-middle-hollow" type="punctuation">.</g></unclear> <lb n="2"/>Umenteṁ bhaktī niUlun· haraki <g ref="sym:bullet-middle-hollow" type="punctuation">.</g> Unai tuṅai <g ref="sym:doubleBar" type="punctuation">.</g></p> 
             <p>kita savañakta devata mahardhika sannidhāna <g ref="sym:bullet-middle-hollow" type="punctuation">.</g> maṁrakṣa yaṁ kadatuAn· śrīvijaya <g ref="sym:bullet-middle-hollow" type="punctuation">.</g> kita tuvi tandrun· luAḥ vañakta devata mūlāña yaṁ parsumpahan· 
             <lb n="3"/>parāvis· <g ref="sym:bullet-middle-hollow" type="punctuation">.</g> kadāci yaṁ Uraṁ di dalaṁña bhūmi parāvis· drohaka vāṅun· <g ref="sym:bullet-middle-hollow" type="punctuation">.</g> samavuddhi lavan· drohaka <g ref="sym:bullet-middle-hollow" type="punctuation">.</g> maṅujāri drohaka <g ref="sym:bullet-middle-hollow" type="punctuation">.</g> niUjāri drohaka tāhu din drohaka <g ref="sym:bullet-middle-hollow" type="punctuation">.</g> tīda ya 
             <lb n="4"/> marpādaḥ tīda ya bhakti <g ref="sym:bullet-middle-hollow" type="punctuation">.</g> tīda ya tatvārjjava diy āku <g ref="sym:bullet-middle-hollow" type="punctuation">.</g> dṅan· di Iyaṁ nigalarku sanyāsa datūA <g ref="sym:bullet-middle-hollow" type="punctuation">.</g> dhava vuAtña Uraṁ Inan· <g ref="sym:bullet-middle-hollow" type="punctuation">.</g> nivunuḥ ya sumpaḥ nisuruḥ tāpik ya mulaṁ pa<space type="descender"/>rvvāṇḍan dātu śrīvi<lb break="no" n="5"/>jaya <g ref="sym:bullet-middle-hollow" type="punctuation">.</g> tālu muAḥ ya dṅan· gotra-santānāña <g ref="sym:bullet-middle-hollow" type="punctuation">.</g> tathāpi savañakña yaṁ vuAtña jāhat· <g ref="sym:bullet-middle-hollow" type="punctuation">.</g> makalaṅit· Uraṁ <g ref="sym:bullet-middle-hollow" type="punctuation">.</g> makasākit· <g ref="sym:bullet-middle-hollow" type="punctuation">.</g> makagīla <g ref="sym:bullet-middle-hollow" type="punctuation">.</g> mantrāgada viṣaprayoga <g ref="sym:bullet-middle-hollow" type="punctuation">.</g> Ūpuḥ tūva <g ref="sym:bullet-middle-hollow" type="punctuation">.</g> tāmval· 
