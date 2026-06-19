@@ -20,7 +20,7 @@
               <publicationStmt>
                  <authority>DHARMA</authority>
                  <pubPlace>Jakarta</pubPlace>
-                 <idno type="filename">DHARMA_INSIDENK00105</idno>
+                 <idno type="filename">DHARMA_INSIDENK00106</idno>
                  <availability>
                     <licence target="https://creativecommons.org/licenses/by/4.0/">
                        <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
@@ -72,12 +72,12 @@
       <body>
          <div type="edition" xml:lang="omy-Latn" rendition="class:38769 maturity:83211">
             <p>
-<lb n="1"/>jaya siddhayātra 
+<lb n="1"/>jaya siddhayātra sarvvasatva 
 </p>
          </div>
          <div type="apparatus"/>
          <div type="translation">
- 	<p>May they be victorious and succeed in their journey!</p>
+ 	<p>May all creatures be victorious and succeed in their journey!</p>
          </div>
          <div type="commentary">
             <!--commentary encoded as per section §9.3 -->
@@ -94,8 +94,8 @@
 		<bibl><ptr target="bib:OV1931-1935"/><citedRange>15</citedRange></bibl>
 		<bibl><ptr target="bib:Krom1938_01"/><citedRange unit="page">8-11</citedRange></bibl>
 		<bibl><ptr target="bib:Soeroso1996_01"/><citedRange unit="page">8-11</citedRange></bibl>
-		<bibl><ptr target="bib:BambangBudiUtomo2007_01"/><citedRange unit="page">18</citedRange><citedRange unit="item">SBS no. 13</citedRange></bibl>
-              <bibl><ptr target="bib:BambangBudiUtomo+HassanShuhaimi2009_01"/><citedRange unit="page">35</citedRange><citedRange unit="item">13</citedRange></bibl>
+		<bibl><ptr target="bib:BambangBudiUtomo2007_01"/><citedRange unit="page">15</citedRange><citedRange unit="item">SBS no. 10</citedRange></bibl>
+              <bibl><ptr target="bib:BambangBudiUtomo+HassanShuhaimi2009_01"/><citedRange unit="page">33</citedRange><citedRange unit="item">10</citedRange></bibl>
            </listBibl>
         </div>
       </body>
