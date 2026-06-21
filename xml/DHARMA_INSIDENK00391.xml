@@ -8,9 +8,9 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Charter for the demarcation of Wukajana, Tumpak &amp; Wuru Telu villages for the monastery at Dalinan (825 Śaka, 5 March 904)</title>
+                <title>N. 391. Demarcation of the villages Wukajana, Tumpak &amp; Wuru Telu for the monastery at Dalinan (825 Śaka, 5 March 904)</title>
             	<respStmt>
-            		<resp>EpiDoc encoding</resp>
+            		<resp>author of digital edition</resp>
             		<persName ref="part:argr">
             			<forename>Arlo</forename>
             			<surname>Griffiths</surname>
@@ -19,24 +19,13 @@
             			<forename>Wayan</forename>
             			<forename>Jarrah</forename>
             			<surname>Sastrawan</surname>
-            		</persName>            	</respStmt>
-            	<respStmt>
-            		<resp>intellectual authorship of edition</resp>
-            		<persName ref="part:argr">
-            			<forename>Arlo</forename>
-            			<surname>Griffiths</surname>
-            		</persName>
-            		<persName ref="part:wjsa">
-            			<forename>Wayan</forename>
-            			<forename>Jarrah</forename>
-            			<surname>Sastrawan</surname>
-            		</persName>
-            	</respStmt>     
+            		</persName>            	
+		</respStmt>    
             </titleStmt>
         	<publicationStmt>
         		<authority>DHARMA</authority>
         		<pubPlace>Lyon</pubPlace>
-        		<idno type="filename">DHARMA_INSIDENKDalinan</idno>
+        		<idno type="filename">DHARMA_INSIDENK00391</idno>
         		<availability>
         			<licence target="https://creativecommons.org/licenses/by/4.0/">
         				<p>This work is licensed under the Creative Commons Attribution 4.0 Unported
@@ -88,7 +77,7 @@
     </teiHeader>
     <text xml:space="preserve">
       <body>
-         <div type="edition" xml:lang="kaw-Latn">
+         <div type="edition" xml:lang="kaw-Latn" rendition="class:38769 maturity:83213">
 <!-- Plate 1 (WM-49508), Recto -->
  <p><pb n="1r"/><lb n="1r1"/><g ref="sym:doubleBar-crossed" type="punctuation">.</g> <unclear>sva</unclear>sti <unclear>śa</unclear>kavarṣātīta <num value="825">825</num> phālguṇa-māsa ti<unclear>th</unclear>i pratipada kr̥ṣṇa, vur<unclear>u</unclear>kuṁ, vā<unclear>gai,</unclear> soma, vāra, hastā-nakṣatra, vr̥ddhi-<supplied reason="lost">yo</supplied><lb n="1r2" break="no"/>ga, <unclear>ta</unclear>tkāla Anugraha śrī mahārāja <supplied reason="lost">ra</supplied>kai vatu kura dya<unclear>ḥ</unclear> balitu<unclear>ṁ</unclear> śrī dharmodaya-mahāśambhu tumurun· I rakryān· mapati<unclear>ḥ</unclear>
 <lb n="1r3"/>I <unclear>h</unclear>i<supplied reason="lost">no</supplied> <unclear>pu</unclear> dakṣottama-bāhubajra-pratipakṣakṣa<unclear>ya</unclear> kumon· <abbr>samgat·</abbr> kalaṁ vuṅkal· pu layaṁ, Anak vanuA I patapān· tutu<lb n="1r4" break="no"/>ganniṁ ta<supplied reason="lost">ṇḍa</supplied> <unclear>sumu</unclear>suka Ikanaṁ vanuA I vukajana I tum<unclear>pa</unclear>k· I vuru tlu vatak· kalaṁ vuṅkal· gavai <abbr>mā</abbr> <num value="6">6</num> sava<unclear>ḥ</unclear> <supplied reason="lost">ka</supplied>hadyanan· ta<lb n="1r5" break="no"/>mpaḥ <num value="8">8</num> <gap reason="illegible" quantity="6" unit="character"/> blaḥ <num value="1">1</num> s<unclear>u</unclear>k<unclear>u</unclear> <num value="1">1</num> kaṭik· <unclear>prā</unclear>ṇa <gap reason="illegible" quantity="1" unit="character"/> <supplied reason="lost">A</supplied><unclear>vurnya</unclear><!-- or Avur·? --> hinavu-havu,</p> <p>samvan<unclear>dh</unclear>ānya kinon· sumusuka Ikanaṁ vanuA vuA<lb n="1r6" break="no"/>ra kuṭi <!-- _ --><unclear>I</unclear> da<unclear>linan·</unclear> va<space type="descender"/>ta<unclear>k</unclear>· <unclear>husaḍar</unclear>· <unclear>ya</unclear> ta p<unclear>i</unclear>nu<space type="descender"/>l<unclear>iḥ</unclear> <abbr>samgat·</abbr> <unclear>ka</unclear>la<unclear>ṁ</unclear> vuṅka<unclear>l·,</unclear> pinahayunira jinaryyakan·nira bihā<unclear>ra</unclear>
@@ -168,7 +157,7 @@ ma<supplied reason="lost">gə:ṁ</supplied> <gap reason="illegible" quantity="5
 -->
 <app loc="4r1">
 <lem source="bib:Naerssen1937_01"><unclear>tuvuku</unclear></lem>
-<note>The name is difficult to read, but I see rather something like duduku or vurukuṁ.</note>
+<note>The name is difficult to read, but we see rather something like duduku or vurukuṁ.</note>
 </app>
 <!--<app loc="4r1">	4r1. si sidra (si) ma(la)vai: si sidra malavai vN.</app>-->
 <app loc="4r1">
@@ -387,7 +376,7 @@ supply savuṁ as 4r10-11
             <!--commentary encoded as per section §9.3 -->
          </div>
         <div type="bibliography">
-           <p>Plates 1 and 2 previously unpublished. Plate 4 previously published by F. H. van Naerssen (<bibl rend="omitname"><ptr target="bib:Naerssen1935_01"/></bibl>). All plates edited here by Arlo Griffiths based on direct inspection and on photographs of the plates.</p>
+           <p>Plates 1 and 2 previously unpublished. Plate 4 previously published by F. H. van Naerssen (<bibl rend="omitname"><ptr target="bib:Naerssen1935_01"/></bibl>). All plates edited here based on direct inspection and on photographs of the plates.</p>
         	<listBibl type="primary">
 		<bibl n="vN1935"><ptr target="bib:Naerssen1935_01"/></bibl>
 		<bibl n="vN"><ptr target="bib:Naerssen1937_01"/></bibl>
