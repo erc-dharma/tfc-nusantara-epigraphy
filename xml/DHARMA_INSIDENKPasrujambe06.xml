@@ -46,7 +46,7 @@
                </msContents>
                <physDesc>
                   <handDesc>
-                  	<p>Javanese script typical of 15th-century stone inscription from mountainous areas in Central and East Java. Broad simplified characters engraved with shallow carving.</p>
+                  	<p>Javanese script typical of 15th-century stone inscription from mountainous areas in Central and East Java. Broad simplified characters shallowly engraved.</p>
                   </handDesc>
                </physDesc>
             </msDesc>
@@ -71,21 +71,21 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
-      	<change who="part:mano part:argr" when="2026-06-12">encoded the inscription</change>
+      	<change who="part:mano part:argr" when="2026-06-22">revised the encoding</change>
+         <change who="part:mano part:argr" when="2026-06-12">encoded the inscription</change>
       </revisionDesc>
    </teiHeader>
    <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="kaw-Latn" rendition="class:38769 maturity:83213">
 <p>
-  <lb n="1"/>dhudhu
-  <lb n="2" break="no"/>kuna
+  <lb n="1"/>dhudhu<lb 
+  n="2" break="no"/>kuna
 </p>
          </div>
          <div type="apparatus">
          </div>
          <div type="translation">
-   <!--translation encoded as per EGD §9.2 -->
  <p>The healers.</p>
         </div>
          <div type="commentary">
@@ -107,7 +107,7 @@
          	<bibl><ptr target="bib:Soekmono1962_01"/><citedRange unit="page">12</citedRange></bibl>
         </listBibl>
 <listBibl type="surrogates">
-<bibl><!-- HS1213 --></bibl>
+<bibl>Photograph Hadi Sidomulyo HS1213_LMJ</bibl>
 </listBibl>
         </div>
       </body>

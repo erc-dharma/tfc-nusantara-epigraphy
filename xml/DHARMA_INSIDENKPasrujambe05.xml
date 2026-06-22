@@ -47,7 +47,7 @@
                     </msContents>
                     <physDesc>
                         <handDesc>
-                        	<p>Javanese script typical of 15th-century stone inscription from mountainous areas in Central and East Java. Broad simplified characters engraved with shallow carving.</p>
+                        	<p>Javanese script typical of 15th-century stone inscription from mountainous areas in Central and East Java. Broad simplified characters shallowly engraved.</p>
                         </handDesc>
                     </physDesc>
                 </msDesc>
@@ -68,14 +68,15 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
+            <change who="part:mano part:argr" when="2026-06-22">revised the encoding</change>
         	<change who="part:mano part:argr" when="2026-06-12">encoded the inscription</change>
         </revisionDesc>
     </teiHeader>
     <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="kaw-Latn" rendition="class:38769 maturity:83213">
-<p>     <lb n="1"/>dhudhu
-        <lb n="2" break="no"/>kuna</p>
+<p>     <lb n="1"/>dhudhu<lb 
+        n="2" break="no"/>kuna</p>
          </div>
          <div type="apparatus">
                <!-- none -->
@@ -87,7 +88,8 @@
              <!-- none -->
          </div>
         <div type="bibliography">
-           <p>This stone was probably an inscribed stone at Pasru Jambe reported by Sukarto K. Atmodjo (<bibl rend="omitname"><ptr target="bib:SukartoAtmodjo1986_01"/></bibl>), since there are two inscribed stones that containing same text as dechipered above. Later this inscribed stone also deciphered by the Archaeological Service in (<bibl rend="omitname"><ptr target="bib:TitiSurtiNastiti+al1994-1995_01"/></bibl>), (<bibl rend="omitname"><ptr target="bib:MachiSuhadi+RichadianaKartakusuma1996_01"/></bibl>) and (<bibl rend="omitname"><ptr target="bib:BudiSantosaWibowo2001_01"/></bibl>). This digital edition based on the Nigel Bullough and Arlo Griffiths photograph in 2011.</p>
+           <p>This stone was probably one of the inscribed stone at Pasru Jambe reported by Sukarto K. Atmodjo (<bibl rend="omitname"><ptr target="bib:SukartoAtmodjo1986_01"/></bibl>), since there are two inscribed stones that containing same text as dechipered above. Later this inscribed stone also deciphered by the Archaeological Service by Titi Surti Nastiti et al. (<bibl rend="omitname"><ptr target="bib:TitiSurtiNastiti+al1994-1995_01"/></bibl>), Machi Suhadi &amp; Richadiana Kartakusuma (<bibl rend="omitname"><ptr target="bib:MachiSuhadi+RichadianaKartakusuma1996_01"/></bibl>) and Budi Santosa Wibowo (<bibl rend="omitname"><ptr target="bib:BudiSantosaWibowo2001_01"/></bibl>). This digital edition based on photographs (2011).</p>
+
         	<listBibl type="primary">
 				<bibl><ptr target="bib:TitiSurtiNastiti+al1994-1995_01"/><citedRange unit="page">8</citedRange></bibl>
 			</listBibl>
@@ -100,7 +102,7 @@
               <bibl><ptr target="bib:BudiSantosaWibowo2001_01"/><citedRange unit="page">34</citedRange></bibl>
            </listBibl>
 <listBibl type="surrogates">
-<bibl>Photo HS1214_LMJ</bibl>
+<bibl>Photograph Hadi Sidomulyo HS1214_LMJ</bibl>
 </listBibl>
         </div>
       </body>
