@@ -47,7 +47,7 @@
                     </msContents>
                     <physDesc>
                         <handDesc>
-                        	<p>Javanese script typical of 15th-century stone inscription from mountainous areas in Central and East Java. Broad simplified characters engraved with shallow carving.</p>
+                        	<p>Javanese script typical of 15th-century stone inscription from mountainous areas in Central and East Java. Broad simplified characters shallowly engraved.</p>
                         </handDesc>
                     </physDesc>
                 </msDesc>
@@ -68,6 +68,7 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
+            <change who="part:mano part:argr" when="2026-06-22">revised the encoding</change>
         	<change who="part:mano part:argr" when="2026-06-12">encoded the inscription</change>
         </revisionDesc>
     </teiHeader>
@@ -75,8 +76,8 @@
       <body>
          <div type="edition" xml:lang="kaw-Latn" rendition="class:38769 maturity:83213">
 <p>     <lb n="1"/>rabut·
-        <lb n="2"/>valaṁta 
-        <lb n="3" break="no"/>ga</p>
+        <lb n="2"/>valaṁta<lb 
+        n="3" break="no"/>ga</p>
          </div>
          <div type="apparatus">
                <!-- none -->
@@ -88,7 +89,7 @@
             <p>The text is engraved inside a square cartouche. Above the cartouche is an asbtract depiction of Kāla eyes.</p>
          </div>
         <div type="bibliography">
-           <p>Previously deciphered in (<bibl rend="omitname"><ptr target="bib:TitiSurtiNastiti+al1994-1995_01"/></bibl>), (<bibl rend="omitname"><ptr target="bib:MachiSuhadi+RichadianaKartakusuma1996_01"/></bibl>) and (<bibl rend="omitname"><ptr target="bib:BudiSantosaWibowo2001_01"/></bibl>). This digital edition based on the Nigel Bullough and Arlo Griffiths photograph in 2011.</p>
+           <p>Previously deciphered in Titi Surti Nastiti et al. (<bibl rend="omitname"><ptr target="bib:TitiSurtiNastiti+al1994-1995_01"/></bibl>), Machi Suhadi &amp; Richadiana Kartakusuma(<bibl rend="omitname"><ptr target="bib:MachiSuhadi+RichadianaKartakusuma1996_01"/></bibl>) and Budi Santosa Wibowo (<bibl rend="omitname"><ptr target="bib:BudiSantosaWibowo2001_01"/></bibl>). This digital edition based on photographs.</p>
         	<listBibl type="primary">
 				<bibl><ptr target="bib:TitiSurtiNastiti+al1994-1995_01"/><citedRange unit="page">7</citedRange></bibl>
 			</listBibl>
@@ -101,7 +102,7 @@
               <bibl><ptr target="bib:BudiSantosaWibowo2001_01"/><citedRange unit="page">34</citedRange></bibl>
            </listBibl>
 <listBibl type="surrogates">
-<bibl>Photo HS1229_LMJ</bibl>
+<bibl>Photograph Hadi Sidomulyo HS1229_LMJ</bibl>
 </listBibl>
         </div>
       </body>

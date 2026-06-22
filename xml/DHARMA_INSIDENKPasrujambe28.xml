@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-            	<title>Stone from Pasrujambe (no. 18)</title>
+            	<title>Stone from Pasrujambe (no. 28)</title>
             	<respStmt>
             		<resp>author of digital edition</resp>
             		<persName ref="part:mano">
@@ -23,7 +23,7 @@
         	<publicationStmt>
         		<authority>DHARMA</authority>
         		<pubPlace>Jakarta</pubPlace>
-        		<idno type="filename">DHARMA_INSIDENKPasrujambe18</idno>
+        		<idno type="filename">DHARMA_INSIDENKPasrujambe28</idno>
         		<availability>
         			<licence target="https://creativecommons.org/licenses/by/4.0/">
         				<p>This work is licensed under the Creative Commons Attribution 4.0 Unported
@@ -68,39 +68,29 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
-            <change who="part:mano part:argr" when="2026-06-12">revised the encoding</change>
-        	<change who="part:mano part:argr" when="2026-06-12">encoded the inscription</change>
+        	<change who="part:mano part:argr" when="2026-06-22">encoded the inscription</change>
         </revisionDesc>
     </teiHeader>
     <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="kaw-Latn" rendition="class:38769 maturity:83213">
-     <p><lb n="1"/>rabut·
-        <lb n="2"/>macan· 
-        <lb n="3"/>pəṭak·</p>
+     <p><lb n="1"/>baṭa<lb 
+        n="2" break="no"/>ra hi<lb 
+        n="3" break="no"/>n·dra
+    </p> 
+        <div type="translation" resp="part:argr part:masc">
+        <p>Lord Indra</p>
+        </div>
          </div>
          <div type="commentary">
-            <p>The text is engraved inside a square cartouche. Above the cartouche is an asbtract depiction of Kāla eyes.</p>
          </div>
         <div type="bibliography">
-           <p>Previously deciphered by Sukarto Kartoatmodjo (<bibl rend="omitname"><ptr target="bib:SukartoAtmodjo1986_01"/></bibl>), Titi Surti Nastiti et al. (<bibl rend="omitname"><ptr target="bib:TitiSurtiNastiti+al1994-1995_01"/></bibl>), and Machi Suhadi &amp; Richadiana Kartakusuma (<bibl rend="omitname"><ptr target="bib:MachiSuhadi+RichadianaKartakusuma1996_01"/></bibl>). This digital edition based on photographs (2011).</p>
+           <p>Previously unpublished. This digital edition based on photographs.</p>
         	<listBibl type="primary">
-			<bibl><ptr target="SukartoAtmodjo1986_01"/><citedRange unit="page">40-41</citedRange><citedRange unit="figure">1</citedRange></bibl>
+			<bibl></bibl>
 			</listBibl>
-
-            <listBibl>
-			<bibl><ptr target="bib:TitiSurtiNastiti+al1994-1995_01"/><citedRange unit="page">7</citedRange><citedRange unit="figure">1</citedRange></bibl>
-			</listBibl>
-
-            <listBibl>
-			<bibl><ptr target="bib:MachiSuhadi+RichadianaKartakusuma1996_01"/><citedRange unit="page">18</citedRange></bibl>
-			</listBibl>
-
-           <listBibl type="secondary">
-            <bibl><ptr target="bib:BudiSantosaWibowo2001_01"/><citedRange unit="page">35</citedRange></bibl>
-           </listBibl>
 <listBibl type="surrogates">
-<bibl>Photograph Hadi Sidomulyo HS1227_LMJ</bibl>
+<bibl/>
 </listBibl>
         </div>
       </body>

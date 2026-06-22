@@ -47,7 +47,7 @@
                     </msContents>
                     <physDesc>
                         <handDesc>
-                        	<p>Javanese script typical of 15th-century stone inscription from mountainous areas in Central and East Java. Broad simplified characters engraved with shallow carving.</p>
+                        	<p>Javanese script typical of 15th-century stone inscription from mountainous areas in Central and East Java. Broad simplified characters shallowly engraved.</p>
                         </handDesc>
                     </physDesc>
                 </msDesc>
@@ -68,14 +68,15 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
+            <change who="part:mano part:argr" when="2026-06-22">revised the encoding</change>
         	<change who="part:mano part:argr" when="2026-06-17">encoded the inscription</change>
         </revisionDesc>
     </teiHeader>
     <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="kaw-Latn" rendition="class:38769 maturity:83213">
-     <p><lb n="1"/>valəriṅ a
-        <lb n="2" break="no"/>babad voṁ
+     <p><lb n="1"/>valəriṅ a<lb 
+        n="2" break="no"/>babad voṁ
         <lb n="3"/>samadi
     </p> 
         <div type="translation" resp="part:argr part:masc">
@@ -86,7 +87,7 @@
          <div type="commentary">
          </div>
         <div type="bibliography">
-           <p>Previously deciphered by Sukarto Kartoatmodjo (<bibl rend="omitname"><ptr target="bib:SukartoAtmodjo1986_01"/></bibl>), Titi Surti Nastiti (<bibl rend="omitname"><ptr target="bib:TitiSurtiNastiti+al1994-1995_01"/></bibl>), and Machi Suhadi (<bibl rend="omitname"><ptr target="bib:MachiSuhadi+RichadianaKartakusuma1996_01"/></bibl>). This digital edition based on the Nigel Bullough and Arlo Griffiths photograph in 2011.</p>
+           <p>Previously deciphered by Sukarto Kartoatmodjo (<bibl rend="omitname"><ptr target="bib:SukartoAtmodjo1986_01"/></bibl>), Titi Surti Nastiti (<bibl rend="omitname"><ptr target="bib:TitiSurtiNastiti+al1994-1995_01"/></bibl>), and Machi Suhadi (<bibl rend="omitname"><ptr target="bib:MachiSuhadi+RichadianaKartakusuma1996_01"/></bibl>). This digital edition based on photographs.</p>
         	<listBibl type="primary">
 			<bibl><ptr target="SukartoAtmodjo1986_01"/><citedRange unit="page">43</citedRange></bibl>
 			</listBibl>
@@ -104,7 +105,7 @@
             <bibl><ptr target="bib:BudiSantosaWibowo2001_01"/><citedRange unit="page">34</citedRange></bibl>
            </listBibl>
 <listBibl type="surrogates">
-<bibl>Photo HS2116_LMJ, HS2117_LMJ, HS2118_LMJ</bibl>
+<bibl>Photographs Hadi Sidomulyo HS2116_LMJ, HS2117_LMJ, HS2118_LMJ</bibl>
 </listBibl>
         </div>
       </body>

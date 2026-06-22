@@ -46,7 +46,7 @@
                </msContents>
                <physDesc>
                   <handDesc>
-                     <p>Javanese script typical of 15th-century stone inscription from mountainous areas in Central and East Java. Broad simplified characters engraved with shallow carving.</p>
+                     <p>Javanese script typical of 15th-century stone inscriptions from mountainous areas in Central and East Java. Broad simplified characters shallowly engraved.</p>
                   </handDesc>
                </physDesc>
             </msDesc>
@@ -71,33 +71,33 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
-         <change who="part:axja" when="2020-11-03" status="draft">Updating toward the encoding template v03</change>
-         <change who="part:masc" when="2020-09-02" status="draft">initial encoding of the inscription</change>
+         <change who="part:mano part:argr" when="2026-06-14">revised the encoding</change>
          <change who="part:mano part:argr" when="2026-06-14">encoded the inscription</change>
       </revisionDesc>
    </teiHeader>
    <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="kaw-Latn" rendition="class:38769 maturity:83213">
-<ab>
-  <lb n="1"/>paṁyaṁṅā
-  <lb n="2" break="no"/>n· saga
-</ab>
+         <p>
+  <lb n="1"/>paṁyaṁṅa<lb 
+  n="2" break="no"/>n· sa<supplied reason="subaudible">ṅ</supplied>gar
+      </p>
          </div>
          <div type="apparatus">
          </div>
          <div type="translation" resp="part:argr part:masc">
-   <!--translation encoded as per EGD §9.2 -->
+   <p>Venerable shrine</p>
         </div>
          <div type="commentary">
-           <p>The text is engraved inside a square cartouche. Above the cartouche is an asbtract depiction of Kāla eyes.</p>
+           <p>The text is engraved inside a square cartouche. Above the cartouche is an asbtract depiction of Kāla eyes. Since most texts inscribed in cartouches frames at Pasrujambe are evidently toponyms, this might be another one.</p>
          </div>
         <div type="bibliography">
-              <p>This stone was probably among the group of sixteen inscribed stones at Pasru Jambe reported by Soekmono (<bibl rend="omitname"><ptr target="bib:Soekmono1962_01"/></bibl>). The first reading of this inscriptions was published in later survey of the Archaeological Service by Titi Surti Nastiti (<bibl rend="omitname"><ptr target="bib:TitiSurtiNastiti+al1994-1995_01"/></bibl>) and Machi Suhadi (<bibl rend="omitname"><ptr target="bib:MachiSuhadi+RichadianaKartakusuma1996_01"/></bibl>). Re-edited here by Arlo Griffiths and Muhamad Alnoza from illustration in Titi Surti Nastiti's report (fig. 8)</p>
+              <p>This stone was probably among the group of sixteen inscribed stones at Pasru Jambe reported by Soekmono (<bibl rend="omitname"><ptr target="bib:Soekmono1962_01"/></bibl>). The first reading of this inscription was published by Titi Surti Nastiti et al. (<bibl rend="omitname"><ptr target="bib:TitiSurtiNastiti+al1994-1995_01"/></bibl>) and Machi Suhadi &amp; Richadiana Kartakusuma (<bibl rend="omitname"><ptr target="bib:MachiSuhadi+RichadianaKartakusuma1996_01"/></bibl>). Re-edited here by Muhamad Alnoza &amp; Arlo Griffiths from photographs.</p>
               <listBibl type="primary">
                       <bibl n="TSN">
                                 <ptr target="bib:TitiSurtiNastiti+al1994-1995_01"/>
                                 <citedRange unit="page">9</citedRange>
+                                <citedRange unit="figure">8</citedRange>
                               </bibl>
 
                      <bibl n="MS">
@@ -110,7 +110,7 @@
             	<bibl><ptr target="bib:BudiSantosaWibowo2001_01"/><citedRange unit="page">32</citedRange></bibl>                     
         </listBibl>
         <listBibl type="surrogates">
-        <bibl><ptr target="bib:TitiSurtiNastiti+al1994-1995_01"/><citedRange unit="page">36 (fig. 8)</citedRange></bibl>
+        <bibl>Photograph Hadi Sidomulyo HS1219_LMJ</bibl>
         </listBibl>
         </div>
       </body>
