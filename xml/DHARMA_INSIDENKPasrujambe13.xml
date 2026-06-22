@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-            	<title>Stone from Pasrujambe (no. 7)</title>
+            	<title>Stone from Pasrujambe (no. 13)</title>
             	<respStmt>
             		<resp>author of digital edition</resp>
             		<persName ref="part:mano">
@@ -23,7 +23,7 @@
         	<publicationStmt>
         		<authority>DHARMA</authority>
         		<pubPlace>Jakarta</pubPlace>
-        		<idno type="filename">DHARMA_INSIDENKPasrujambe07</idno>
+        		<idno type="filename">DHARMA_INSIDENKPasrujambe13</idno>
         		<availability>
         			<licence target="https://creativecommons.org/licenses/by/4.0/">
         				<p>This work is licensed under the Creative Commons Attribution 4.0 Unported
@@ -74,30 +74,30 @@
     <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="kaw-Latn" rendition="class:38769 maturity:83213">
-     <p><lb n="1"/>sa<supplied reason="subaudible">ṅ</supplied>
-        <lb n="2"/>bala 
-        <lb n="3"/>sarivu
+     <p><lb n="1"/>baga<lb 
+        n="2" break="no"/>van· 
+        <lb n="3"/>caci
     </p>
          </div>
          <div type="commentary">
             <p></p>
          </div>
+         <div type="translation" resp="part:argr part:masc">
+         <p>Reverend Caci</p>
+        </div>
+
         <div type="bibliography">
-           <p>Previously deciphered by Sukarto Kartoatmodjo (<bibl rend="omitname"><ptr target="bib:SukartoAtmodjo1986_01"/></bibl>), Titi Surti Nastiti et al. (<bibl rend="omitname"><ptr target="bib:TitiSurtiNastiti+al1994-1995_01"/></bibl>), and Machi Suhadi &amp; Richadiana Kartakusuma (<bibl rend="omitname"><ptr target="bib:MachiSuhadi+RichadianaKartakusuma1996_01"/></bibl>). Due to unavailablity of visual documentation, this digital edition refer to Machi Suhadi &amp; Richadiana Kartakusuma's reading on this inscription.</p>
+           <p>Previously deciphered by Titi Surti Nastiti et al. (<bibl rend="omitname"><ptr target="bib:TitiSurtiNastiti+al1994-1995_01"/></bibl>), and Machi Suhadi &amp; Richadiana Kartakusuma (<bibl rend="omitname"><ptr target="bib:MachiSuhadi+RichadianaKartakusuma1996_01"/></bibl>). Due to unavailablity of visual documentation, this digital edition refer to Machi Suhadi &amp; Richadiana Kartakusuma's reading on this inscription.</p>
         	<listBibl type="primary">
-			<bibl><ptr target="SukartoAtmodjo1986_01"/><citedRange unit="page">42-43</citedRange></bibl>
+			<bibl><ptr target="bib:TitiSurtiNastiti+al1994-1995_01"/><citedRange unit="page">7-8</citedRange></bibl>
 			</listBibl>
 
             <listBibl>
-			<bibl><ptr target="bib:TitiSurtiNastiti+al1994-1995_01"/><citedRange unit="page">8</citedRange></bibl>
-			</listBibl>
-
-            <listBibl>
-			<bibl><ptr target="bib:MachiSuhadi+RichadianaKartakusuma1996_01"/><citedRange unit="page">16</citedRange></bibl>
+			<bibl><ptr target="bib:MachiSuhadi+RichadianaKartakusuma1996_01"/><citedRange unit="page">17</citedRange></bibl>
 			</listBibl>
 
            <listBibl type="secondary">
-            <bibl><ptr target="bib:BudiSantosaWibowo2001_01"/><citedRange unit="page">33</citedRange></bibl>
+            <bibl><ptr target="bib:BudiSantosaWibowo2001_01"/><citedRange unit="page">34</citedRange></bibl>
            </listBibl>
 <listBibl type="surrogates">
 <bibl></bibl>
