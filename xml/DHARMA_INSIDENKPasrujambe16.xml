@@ -46,7 +46,7 @@
                </msContents>
                <physDesc>
                   <handDesc>
-                     <p>Javanese script typical of 15th-century stone inscription from mountainous areas in Central and East Java. Broad simplified characters engraved with shallow carving.</p>
+                     <p>Javanese script typical of 15th-century stone inscription from mountainous areas in Central and East Java. Broad simplified characters shallowly engraved.</p>
                   </handDesc>
                </physDesc>
             </msDesc>
@@ -71,30 +71,31 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
+         <change who="part:mano part:argr" when="2026-06-22">revised the encoding</change>
+         <change who="part:mano part:argr" when="2026-06-16">encoded the inscription</change>
          <change who="part:axja" when="2020-11-03" status="draft">Updating toward the encoding template v03</change>
          <change who="part:masc" when="2020-09-02" status="draft">initial encoding of the inscription</change>
-         <change who="part:mano part:argr" when="2026-06-16">encoded the inscription</change>
       </revisionDesc>
    </teiHeader>
    <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="kaw-Latn" rendition="class:38769 maturity:83213">
-<ab>
-  <lb n="1"/>baṭā
-  <lb n="2" break="no"/>ri pr̥
-  <lb n="3" break="no"/>tivi
-</ab>
+<p>
+  <lb n="1"/>baṭā<lb 
+  n="2" break="no"/>ri pr̥<lb 
+  n="3" break="no"/>tivi
+</p>
          </div>
          <div type="apparatus">
          </div>
          <div type="translation" resp="part:argr part:masc">
-   <!--translation encoded as per EGD §9.2 -->
+         <p>Goddess Pr̥tivi</p>
         </div>
          <div type="commentary">
            <p/>
          </div>
         <div type="bibliography">
-              <p>This stone was probably among the group of sixteen inscribed stones at Pasru Jambe reported by Soekmono (<bibl rend="omitname"><ptr target="bib:Soekmono1962_01"/></bibl>). The first reading of this inscription was published in  a survey of the Archaeological Service by Titi Surti Nastiti (<bibl rend="omitname"><ptr target="bib:TitiSurtiNastiti+al1994-1995_01"/></bibl>) and later also by Machi Suhadi (<bibl rend="omitname"><ptr target="bib:MachiSuhadi+RichadianaKartakusuma1996_01"/></bibl>). Re-edited here by Arlo Griffiths and Muhamad Alnoza from photographs taken by Nigel Bullough and Arlo Griffiths (2011).</p>
+              <p>This stone was probably among the group of sixteen inscribed stones at Pasru Jambe reported by Soekmono (<bibl rend="omitname"><ptr target="bib:Soekmono1962_01"/></bibl>). The first reading of this inscription was published by Titi Surti Nastiti et al. (<bibl rend="omitname"><ptr target="bib:TitiSurtiNastiti+al1994-1995_01"/></bibl>) and later also by Machi Suhadi &amp; Richadiana Kartakusuma (<bibl rend="omitname"><ptr target="bib:MachiSuhadi+RichadianaKartakusuma1996_01"/></bibl>). Re-edited here by Muhamad Alnoza and Arlo Griffiths from photographs (2011).</p>
               <listBibl type="primary">
                       <bibl n="TSN">
                                 <ptr target="bib:TitiSurtiNastiti+al1994-1995_01"/>
@@ -110,7 +111,7 @@
             <bibl><ptr target="bib:BudiSantosaWibowo2001_01"/><citedRange unit="page">33</citedRange></bibl>
         </listBibl>
 <listBibl type="surrogates">
-<bibl>Photo HS1228_LMJ</bibl>
+<bibl>Photograph Hadi Sidomulyo HS1228_LMJ</bibl>
 </listBibl>
         </div>
       </body>

@@ -47,7 +47,7 @@
                     </msContents>
                     <physDesc>
                         <handDesc>
-                        	<p>Javanese script typical of 15th-century stone inscription from mountainous areas in Central and East Java. Broad simplified characters engraved with shallow carving.</p>
+                        	<p>Javanese script typical of 15th-century stone inscription from mountainous areas in Central and East Java. Broad simplified characters shallowly engraved.</p>
                         </handDesc>
                     </physDesc>
                 </msDesc>
@@ -68,22 +68,23 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
+            <change who="part:mano part:argr" when="2026-06-22">revised the encoding</change>
         	<change who="part:mano part:argr" when="2026-06-12">encoded the inscription</change>
         </revisionDesc>
     </teiHeader>
     <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="kaw-Latn" rendition="class:38769 maturity:83213">
-        <ab>      
+        <p>      
         <lb n="1"/>hyaṁṅ a
         <lb n="2" break="no"/>kasa
-        </ab>
+        </p>
          </div>
          <div type="apparatus">
                <!-- none -->
          </div>
          <div type="translation">
- 		<p><!-- none --></p>
+ 		<p>Lord Akasa</p>
          </div>
         <div type="bibliography">
            <p>Previously never deciphered. This digital edition based on photograph taken by Nigel Bullough and Arlo Griffiths in 2011.</p>
@@ -94,7 +95,7 @@
               <bibl/><!-- none -->
            </listBibl>
 <listBibl type="surrogates">
-<bibl>Photo HS1223_LMJ </bibl>
+<bibl>Photograph Hadi Sidomulyo HS1223_LMJ </bibl>
 </listBibl>
         </div>
       </body>
