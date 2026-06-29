@@ -10,17 +10,7 @@
       <titleStmt>
         <title>Wintang Mas II (841 Śaka, 919-10-12)</title>
         <respStmt>
-          <resp>EpiDoc Encoding</resp>
-          <persName ref="part:tykd">
-            <name>Tyassanti Kusumo Dewanti</name>
-          </persName>
-          <persName ref="part:argr">
-            <forename>Arlo</forename>
-            <surname>Griffiths</surname>
-          </persName>
-        </respStmt>
-        <respStmt>
-          <resp>intellectual authorship of edition</resp>
+          <resp>author of digital edition</resp>
           <persName ref="part:tykd">
             <name>Tyassanti Kusumo Dewanti</name>
           </persName>
@@ -37,10 +27,10 @@
         <availability>
           <licence target="https://creativecommons.org/licenses/by/4.0/">
             <p>This work is licenced under the Creative Commons Attribution 4.0 Unported Licence. To view a copy of the licence, visit https://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.</p>
-            <p>Copyright © 2019-2025 by Tyassanti Kusumo Dewanti &amp; Arlo Griffiths.</p>
+            <p>Copyright © 2019-2026 by Tyassanti Kusumo Dewanti &amp; Arlo Griffiths.</p>
           </licence>
         </availability>
-        <date from="2019" to="2025">2019-2025</date>
+        <date from="2019" to="2026">2019-2025</date>
       </publicationStmt>
       <sourceDesc>
         <msDesc>
@@ -75,6 +65,7 @@
       </listPrefixDef>
     </encodingDesc>
     <revisionDesc>
+      <change status="draft" when="2026-06-29" who="part:argr">fixed validation problems</change>
       <change status="draft" when="2024-09-08" who="part:argr">changed the file name</change>
       <change status="draft" when="2024-06-09" who="part:argr part:tykd">started revising the encoding</change>
       <change status="draft" when="2023-07-01" who="part:mime">import into TEI-XML from googledoc</change>
@@ -89,22 +80,26 @@ Damais 1955: 52.
 Sarkar 1971–72, vol. II: 192–95 (no. LXXXVIII).
 -->
       <div type="edition" xml:lang="kaw-Latn" rendition="class:38769 maturity:83213">
-        <p>
-<!-- Plate 1. Recto. -->
-<lb n="1r1"/> <gap reason="lost" quantity="23" unit="character" precision="low"/>-pakṣa, tu, va, śu, vāra tatkāla dyaḥ deva, muAṁ dyaḥ babru, dyaḥ vijaya, sa<unclear>ṁ</unclear> raṇa, Uminto<supplied reason="lost">nakan·</supplied>
-<lb n="1r2"/> <supplied reason="lost">tāmra</supplied><unclear>pra</unclear>śast<unclear>i</unclear> <gap reason="lost" quantity="12" unit="character" precision="low"/> <supplied reason="lost">śrī</supplied> <unclear>mahā</unclear>rāja rake h<supplied reason="lost">i</supplied>no pu dakṣa, An· tlas· Inanugrahān· Umāryya mamuAt· pirak· I maṅulihi <unclear>I</unclear><supplied reason="lost">rika</supplied><lb break="no" n="1r3"/><supplied reason="lost">na</supplied> saṁ hyaṁ dharma I vintaṁ mas· de śrī mahārāja saṁ lumaḥ Iṁ pastika, saṁk<unclear>ā</unclear> yan· sinukr̥ta pamuAt<supplied reason="omitted">n</supplied>ya de samgat· maṅulihi, ḍaṅ ācāryya bhūtī, kunaṁ sahur· śrī mahārā<lb break="no" n="1r4"/>ja, Apa mataṅ yan uvahana Anugraha saṁ devat<choice><orig>a</orig><reg>ā</reg></choice> Iṁ pastika, Irikana saṁ hyaṁ dharma I vintaṁ ma<space/>s· kunaṁ buAt-thajinira I bhaṭāra haricandana, Iṁ trisamvatsara ya <unclear>ta</unclear><lb n="1r5"/>n· luptā, maṁkana li<supplied reason="lost">ṁ</supplied> śrī mahārāja, Irikanaṁ kāla maṅasiAkan· dyaḥ deva, muAṁ dyaḥ babru, dyaḥ vijaya<supplied reason="omitted">,</supplied> vḍihan· yu <num value="1">1</num> I <abbr>samgat·</abbr> tiruAn· pu tgaṁ, <abbr>samgat·</abbr> maṁhūri
-<lb n="1r6"/> pu cakra, vineḥ vḍihan· hlai <num value="1">1</num> vandāmi valeṁ vineḥ vḍihan· hlai <num value="1">1</num> <abbr>samgat·</abbr> ra hulu vineḥ vḍihan· hlai <num value="1">1</num> // muvaḥ Iṁ śaka <num value="841">841</num> kārttika-māsa tithi pañcādaśi
-<lb n="1r7"/> śukla-pakṣa, ha<supplied reason="omitted">,</supplied> po, Aṁ, vāra pinintonakan· Ikanaṁ tāmrapraśasti, I rakryān· mapatiḥ I hino pu ketuvijaya, saṁkā yan· sinukr̥ta pamuAtnikana saṁ
-<lb n="1r8"/> hyaṁ dharmma Ataḥ de <abbr>samgat·</abbr> maṅulihi ḍaṅ Ācāryya bāmadeva, ndān· maṁkanātaḥ sahur· rakryān· mapatiḥ makon· Umagəhakna Anugraha śrī mahārāja saṁ lu<lb break="no" n="1r9"/><unclear>ma</unclear>ḥ Iṁ pastika, maṅas<unclear>ī</unclear>Akan· dyaḥ deva dyaḥ babru, mas· pagəḥ su <num value="1">1</num> I rakryān· hino Anakbi, rakryān· maputu, juru kanayakān· I vuru siki vineḥ vḍi-
-<lb break="no" n="1r10"/> han· hlai <num value="1">1</num> saṁ parujar· vineḥ pirak· <abbr>mā</abbr> <num value="4">4</num> vḍihan· <unclear>h</unclear>lai <num value="1">1</num> matəhər· pinakasākṣī, An· pinagəhakan· Anugraha śrī mahārāja saṁ lumaḥ Iṁ pastika de rakryā<lb n="1r11"/><supplied reason="lost">n·</supplied> mapatiḥ Irikana saṁ hyaṁ dharma I vintaṁ mas· sākṣī I ḍihyaṁ pitāmaha I hlaḍan·<supplied reason="subaudible">,</supplied> pitāmaha I pragaṇita, pitāmaha I tgaṁ rāt·<supplied reason="subaudible">,</supplied> pitāmaha Iṁ kūpa, pasək·
-<lb n="1r12"/> <gap reason="lost" quantity="16" unit="character" precision="low"/><unclear>ci</unclear>tralekha I tiruAn· saṁ sumaṅka vineḥ pirak· <abbr>mā</abbr> <num value="6">6</num> //
-<!-- Plate 1. Verso. -->
+        <p><!-- Plate 1. Recto. -->
+<pb n="1r"></pb><lb n="1r1"/><gap reason="lost" quantity="23" unit="character" precision="low"/>-pakṣa, <abbr>tu</abbr>, <abbr>va</abbr>, <abbr>śu</abbr>, vāra tatkāla dyaḥ deva, muAṁ dyaḥ babru, dyaḥ vijaya, sa<unclear>ṁ</unclear> raṇa, Uminto<supplied reason="lost">nakan·</supplied>
+<lb n="1r2"/><supplied reason="lost">tāmra</supplied>-<unclear>pra</unclear>śast<unclear>i</unclear> <gap reason="lost" quantity="12" unit="character" precision="low"/> <supplied reason="lost">śrī</supplied> <unclear>mahā</unclear>rāja rake h<supplied reason="lost">i</supplied>no pu dakṣa, An· tlas· Inanugrahān· Umāryya mamuAt· pirak· I maṅulihi <unclear>I</unclear><supplied reason="lost">rika</supplied><lb break="no" 
+n="1r3"/><supplied reason="lost">na</supplied> saṁ hyaṁ dharma I vintaṁ mas· de śrī mahārāja saṁ lumaḥ Iṁ pastika, saṁk<unclear>ā</unclear> yan· sinukr̥ta pamuAt<supplied reason="omitted">n</supplied>ya de samgat· maṅulihi, ḍaṅ ācāryya bhūtī, kunaṁ sahur· śrī mahārā<lb break="no" n="1r4"/>ja, Apa mataṅ yan uvahana Anugraha saṁ devata Iṁ pastika, Irikana saṁ hyaṁ dharma I vintaṁ ma<space/>s· kunaṁ buAt-thajinira I bhaṭāra haricandana, Iṁ trisamvatsara ya <unclear>ta</unclear><lb 
+n="1r5"/>n· luptā, maṁkana li<supplied reason="lost">ṁ</supplied> śrī mahārāja, Irikanaṁ kāla maṅasiAkan· dyaḥ deva, muAṁ dyaḥ babru, dyaḥ vijaya<supplied reason="omitted">,</supplied> vḍihan· yu <num value="1">1</num> I <abbr>samgat·</abbr> tiruAn· pu tgaṁ, <abbr>samgat·</abbr> maṁhūri
+<lb n="1r6"/>pu cakra, vineḥ vḍihan· hlai <num value="1">1</num> vandāmi valeṁ vineḥ vḍihan· hlai <num value="1">1</num> <abbr>samgat·</abbr> ra hulu vineḥ vḍihan· hlai <num value="1">1</num> <g ref="sym:doubleBar-hooked" type="punctuation">.</g></p>
+<p>muvaḥ Iṁ śaka <num value="841">841</num> kārttika-māsa tithi pañcādaśi
+<lb n="1r7"/>śukla-pakṣa, ha<supplied reason="subaudible">,</supplied> <abbr>po</abbr>, <abbr>Aṁ</abbr>, vāra pinintonakan· Ikanaṁ tāmra-praśasti, I rakryān· mapatiḥ I hino pu ketuvijaya, saṁkā yan· sinukr̥ta pamuAtnikana saṁ
+<lb n="1r8"/>hyaṁ dharmma Ataḥ de <abbr>samgat·</abbr> maṅulihi ḍaṅ Ācāryya bāmadeva, ndān· maṁkanātaḥ sahur· rakryān· mapatiḥ makon· Umagəhakna Anugraha śrī mahārāja saṁ lu<lb break="no" 
+n="1r9"/><unclear>ma</unclear>ḥ Iṁ pastika, maṅas<unclear>ī</unclear>Akan· dyaḥ deva dyaḥ babru, mas· pagəḥ <abbr>su</abbr> <num value="1">1</num> I rakryān· hino Anakbi, rakryān· maputu, juru kanayakān· I vuru siki vineḥ vḍi<lb break="no" 
+n="1r10"/>han· hlai <num value="1">1</num> saṁ parujar· vineḥ pirak· <abbr>mā</abbr> <num value="4">4</num> vḍihan· <unclear>h</unclear>lai <num value="1">1</num></p> <p>matəhər· pinakasākṣī, An· pinagəhakan· Anugraha śrī mahārāja saṁ lumaḥ Iṁ pastika de rakryā<lb 
+n="1r11"/><supplied reason="lost">n·</supplied> mapatiḥ Irikana saṁ hyaṁ dharma I vintaṁ mas· sākṣī I ḍihyaṁ pitāmaha I hlaḍan·<supplied reason="subaudible">,</supplied> pitāmaha I pragaṇita, pitāmaha I tgaṁ rāt·<supplied reason="subaudible">,</supplied> pitāmaha Iṁ kūpa, pasək·
+<lb n="1r12"/><gap reason="lost" quantity="16" unit="character" precision="low"/><unclear>ci</unclear>tralekha I tiruAn· saṁ sumaṅka vineḥ pirak· <abbr>mā</abbr> <num value="6">6</num> <g ref="sym:doubleBar-crossed" type="punctuation">.</g></p>
+<!-- Plate 1. Verso.
 Blank
-</p>
+ -->
       </div>
       <div type="apparatus">
         <!-- The siglum CS refers to Cohen Stuart’s edition. -->
-        <app loc="1r1">
+        <listApp><app loc="1r1">
           <lem>Uminto<supplied reason="lost">nakan·</supplied> <supplied reason="lost">tāmra</supplied><unclear>pra</unclear>śast<unclear>i</unclear></lem>
           <rdg source="bib:CohenStuart1875_01">Uminto(nakan·) ... sta</rdg>
           <note>Our restoration is inspired by 1r7 <foreign>pinintonakan· Ikanaṁ tāmrapraśasti</foreign>.</note>
@@ -150,14 +145,15 @@ Blank
           <lem>mā</lem>
           <rdg source="bib:CohenStuart1875_01">ma</rdg>
         </app>
+	</listApp>
       </div>
-      <div type="translation" xml:lang="eng">
-        <p>(1r1–4) ... fortnight, Tuṅlai, Vagai, Friday. That was the time that <foreign>dyah</foreign> Deva with <foreign>dyah</foreign> Babru, <foreign>dyah</foreign> Vijaya [and] <foreign>saṅ</foreign> Raṇa showed the copper charter. ..... the Great King, the Lord of Hino, <foreign>pu </foreign>Dakṣa, that they had been granted by the Great King who rests at Pastika to stop offering silver to (the village of) Maṅulihi in the holy foundation of Vintaṅ Mas, because of the fact that the offering of it is carried out by the official of Maṅulihi, (called) <foreign>ḍaṅ ācārya</foreign> Bhūti.</p>
-        <p>(1r3–5) And the Great King answered, “For what reason should the grant of the deified ancestor at Pastika to the holy foundation of Vintaṅ Mas be altered? And the royal corvée to the deity Haricandana once in three years should not fail!” Thus spoke the Great King.</p>
-        <p>(1r5–6) At that time, <foreign>dyah</foreign> Deva with <foreign>dyah </foreign>Babru [and] <foreign>dyah </foreign>Vijaya offered 1 pair<foreign/>of cloth to the official of Tiruan (called) <foreign>pu </foreign>Tgaṅ. The official of Maṅhūri<foreign/>(called) <foreign>pu </foreign>Cakra was given 1 sheet<foreign/>of cloth. The <foreign>vandāmi </foreign>of Valeṅ<foreign/>was given 1 sheet<foreign/>of cloth. The official (called) Ra<foreign/>Hulu was given 1 sheet<foreign/>of cloth.</p>
-        <p>(1r6–9) And in Śaka 841, month of Kārttika, fifteenth <foreign>tithi </foreign>of the waning fortnight, Hariyaṅ, Pon, Tuesday, the copper charter was shown to the Lord minister<foreign/>of Hino (called) <foreign>pu </foreign>Ketuvijaya, because of the fact that the offering to the holy foundation was still carried out by the official of Maṅulihi (called) <foreign>ḍaṅ ācārya</foreign> Bāmadeva. And (<foreign>ndān</foreign>) the answer of the Lord minister was still the same, as he ordered to maintain the grant of the Great King who rests at Pastika.</p>
-        <p>(1r9–10) [The gentlemen called] <foreign>dyah </foreign>Deva [and] <foreign>dyah </foreign>Babru presented 1 <foreign>suvarṇa </foreign>of confirmatory gold to the wife of the Lord<foreign/>of Hino, <foreign>rakryān maputu</foreign>, the overseer of <foreign>kanayakān </foreign>at Vuru Siki were given 1 sheet<foreign/>of cloth; the herald was given 4 <foreign>māṣa </foreign>of silver [and] 1 sheet<foreign/>of cloth.</p>
-        <p>(1r10–12) At the same time (<foreign>matəhər</foreign>), he witnesses that the grant of the Great King who rests at Pastika had been confirmed by the the Lord minister for the holy foundation<foreign/>at Vintaṅ Mas were the witnesses from Ḍihyaṅ: the <foreign>pitāmaha </foreign>of Hlaḍan, the <foreign>pitāmaha </foreign>of Pragaṇita, the <foreign>pitāmaha </foreign>of Tgaṅ Rāt, the <foreign>pitāmaha </foreign>of Kūpa. The gift …. the calligrapher of Tiruan (called) <foreign>saṅ</foreign> Sumaṅka was given 6 <foreign>māṣa</foreign> of silver.</p>
+      <div type="translation">
+        <p n="1r1-4">... fortnight, Tuṅlai, Vagai, Friday. That was the time that <foreign>dyah</foreign> Deva with <foreign>dyah</foreign> Babru, <foreign>dyah</foreign> Vijaya [and] <foreign>saṅ</foreign> Raṇa showed the copper charter. ..... the Great King, the Lord of Hino, <foreign>pu </foreign>Dakṣa, that they had been granted by the Great King who rests at Pastika to stop offering silver to (the village of) Maṅulihi in the holy foundation of Vintaṅ Mas, because of the fact that the offering of it is carried out by the official of Maṅulihi, (called) <foreign>ḍaṅ ācārya</foreign> Bhūti.</p>
+        <p n="1r3–5">And the Great King answered, “For what reason should the grant of the deified ancestor at Pastika to the holy foundation of Vintaṅ Mas be altered? And the royal corvée to the deity Haricandana once in three years should not fail!” Thus spoke the Great King.</p>
+        <p n="1r5–6">At that time, <foreign>dyah</foreign> Deva with <foreign>dyah </foreign>Babru [and] <foreign>dyah </foreign>Vijaya offered 1 pair<foreign/>of cloth to the official of Tiruan (called) <foreign>pu </foreign>Tgaṅ. The official of Maṅhūri<foreign/>(called) <foreign>pu </foreign>Cakra was given 1 sheet<foreign/>of cloth. The <foreign>vandāmi </foreign>of Valeṅ<foreign/>was given 1 sheet<foreign/>of cloth. The official (called) Ra<foreign/>Hulu was given 1 sheet<foreign/>of cloth.</p>
+        <p n="1r6–9">And in Śaka 841, month of Kārttika, fifteenth <foreign>tithi </foreign>of the waning fortnight, Hariyaṅ, Pon, Tuesday, the copper charter was shown to the Lord minister<foreign/>of Hino (called) <foreign>pu </foreign>Ketuvijaya, because of the fact that the offering to the holy foundation was still carried out by the official of Maṅulihi (called) <foreign>ḍaṅ ācārya</foreign> Bāmadeva. And (<foreign>ndān</foreign>) the answer of the Lord minister was still the same, as he ordered to maintain the grant of the Great King who rests at Pastika.</p>
+        <p n="1r9–10">[The gentlemen called] <foreign>dyah </foreign>Deva [and] <foreign>dyah </foreign>Babru presented 1 <foreign>suvarṇa </foreign>of confirmatory gold to the wife of the Lord<foreign/>of Hino, <foreign>rakryān maputu</foreign>, the overseer of <foreign>kanayakān </foreign>at Vuru Siki were given 1 sheet<foreign/>of cloth; the herald was given 4 <foreign>māṣa </foreign>of silver [and] 1 sheet<foreign/>of cloth.</p>
+        <p n="1r10–12">At the same time (<foreign>matəhər</foreign>), he witnesses that the grant of the Great King who rests at Pastika had been confirmed by the the Lord minister for the holy foundation<foreign/>at Vintaṅ Mas were the witnesses from Ḍihyaṅ: the <foreign>pitāmaha </foreign>of Hlaḍan, the <foreign>pitāmaha </foreign>of Pragaṇita, the <foreign>pitāmaha </foreign>of Tgaṅ Rāt, the <foreign>pitāmaha </foreign>of Kūpa. The gift …. the calligrapher of Tiruan (called) <foreign>saṅ</foreign> Sumaṅka was given 6 <foreign>māṣa</foreign> of silver.</p>
       </div>
       <div type="commentary">
         <p>1r1 The toponym <foreign>Maṅulihi </foreign> is quite interesting. It is found in Maṅulihi (line 7), Wintang Mas I (line 3,7,8) and Barahasrama (1v23). Basically it is attested rarely in the clear context of a toponym, often following or preceding a certain function — the most common one is <foreign>samgat</foreign>. But, we are sure that it refers to a toponym at least in these two examples: <foreign>tuhān I maṅulihi pagar vsi </foreign>(Wintang Mas I, line 8) and <foreign>rāma I maṅulihi si dadhi </foreign>(Barahasrama 1v23).</p>
