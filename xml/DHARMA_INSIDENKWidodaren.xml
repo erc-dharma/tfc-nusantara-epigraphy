@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+            	<title>Stone from Widodaren</title>
+            	<respStmt>
+            		<resp>author of digital edition</resp>
+            		<persName ref="part:mano">
+            			<name>Muhamad Alnoza</name>
+            		</persName>
+            		<persName ref="part:argr">
+            			<forename>Arlo</forename>
+            			<surname>Griffiths</surname>
+            		</persName>
+            	</respStmt>
+            </titleStmt>
+        	<publicationStmt>
+        		<authority>DHARMA</authority>
+        		<pubPlace>Jakarta</pubPlace>
+        		<idno type="filename">DHARMA_INSIDENKWidodaren</idno>
+        		<availability>
+        			<licence target="https://creativecommons.org/licenses/by/4.0/">
+        				<p>This work is licensed under the Creative Commons Attribution 4.0 Unported
+        					Licence. To view a copy of the licence, visit
+        					https://creativecommons.org/licenses/by/4.0/ or send a letter to
+        					Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+        					California, 94041, USA.</p>
+        				<p>Copyright (c) 2019-2026 by Muhamad Alnoza &amp; Arlo Griffiths</p>
+                    </licence>
+                </availability>
+                <date from="2019" to="2026">2019-2026</date>
+            </publicationStmt>
+            <sourceDesc><!-- only the handDesc can be filled in at this stage -->
+                <msDesc><!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/><!-- don't modify this -->
+                    </msIdentifier>
+                    <msContents><!-- describe the intellectual content of an inscription -->
+                        <summary><!-- //// NOT MANDATORY  ////--></summary> <!-- offers the possibility to give a summary of the inscription's content -->
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                        	<p>Javanese script typical of 15th-century stone inscription from mountainous areas in Central and East Java. Broad simplified characters shallowly engraved.</p>
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
+            </projectDesc>
+            <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/><!-- UPDATE the link once the release is made official -->
+            <listPrefixDef>
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                    <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
+                </prefixDef>
+                <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
+                    <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_idListMembers_v01.xml</ref> file.</p>
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <revisionDesc>
+        	<change who="part:mano part:argr" when="2026-06-29">encoded the inscription</change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:space="preserve">
+      <body>
+         <div type="edition" xml:lang="kaw-Latn" rendition="class:38769 maturity:83213">
+        <p><milestone type="pagelike" unit="face" n="1"/></p>
+     <p><lb n="1"/><g type="symbol" ref="sym:circle-lined">*</g> saL̥maḥ kas·<lb 
+        n="2" break="no"/>turi vəka <supplied reason="subaudible">ə</supplied>vəḥha
+        <lb n="3"/>totohan·
+        <lb n="4"/>dadiha kavula
+        <lb n="5"/>batuṙ saputu la<lb 
+        n="6" break="no"/>mane sama<supplied reason="subaudible">ṅ</supplied>ke
+        <lb n="7"/>muvaḥ satə<supplied reason="subaudible">m</supplied>be
+    </p> 
+        <div type="translation" resp="part:argr part:masc">
+        <p>Throughout the Kasturi domain, (if) a child should be troublesome (through) gambling, it will become a servant-serf, down to the generation of its grand-children, now and in the future.</p>
+
+        <p><milestone type="pagelike" unit="face" n="2"/></p>
+        
+        <p><milestone type="pagelike" unit="zone" n="a"/></p>
+        <ab><lb n="1"/>bra<g type="symbol" ref="sym:vajra"></g></ab>
+
+        <p><milestone type="pagelike" unit="zone" n="b"/></p>
+        <p><lb n="1"/>om̐</p>
+        <p><lb n="2"/>taya<supplied reason="lost">nda</supplied></p>
+        <p><lb n="3"/>I <gap reason="lost" extent="unknown" unit="character"/></p>
+       
+        <p><milestone type="pagelike" unit="zone" n="c"/></p>
+        <ab><lb n="1"/>rama</ab>
+        <ab><lb n="1"/>raja</ab>
+        </div>
+         </div>
+         <div type="commentary"><p>The inscribed text of the Widodaren stone is preserved in its integrity on the front face (1), while the side (2; a: top plane, b: centre plane, &amp; c: bottom plane) and back faces present unreadable portions. The front face bears seven lines of script, covering the full breadth of the stone, while its top, semi-circular, section displays the eyes-symbol. The shape of this motif here is almost identical to that of the Pasru Jambe group, except for a small circle — perhaps a third eye — depicted between the two spirals.</p>
+         </div>
+        <div type="bibliography">
+           <p>Previously deciphered by  Ninie Soesanti (<bibl rend="omitname"><ptr target="bib:NinieSusanti2012_01"/></bibl>). This digital edition based on photographs.</p>
+
+        	<listBibl type="primary">
+			<bibl><ptr target="NinieSusanti2012_01"/><citedRange unit="page">29-34</citedRange></bibl>
+			</listBibl>
+
+            <listBibl type="secondary">
+			<bibl><ptr target="RakaiHinoGaleswangi2020_01"/><citedRange unit="page">32</citedRange></bibl>
+			</listBibl>
+<listBibl type="surrogates">
+<bibl/>
+</listBibl>
+        </div>
+      </body>
+  </text>
+</TEI>
