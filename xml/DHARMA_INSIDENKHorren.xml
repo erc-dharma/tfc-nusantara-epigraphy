@@ -254,7 +254,7 @@
 	    <p/>
             <listBibl type="primary">
 				<bibl n="S"><ptr target="bib:Stutterheim1933_02"/><citedRange unit="page">104</citedRange></bibl> 
-        	    <bibl n="MS&amp;S"><ptr target="bib:MachiSuhadi+SukartoAtmodjo1986_01"/><citedRange unit="page">112–115</citedRange></bibl>
+        	    <bibl n="MS+S"><ptr target="bib:MachiSuhadi+SukartoAtmodjo1986_01"/><citedRange unit="page">112–115</citedRange></bibl>
 			</listBibl>
            <listBibl type="secondary">
               <bibl/>

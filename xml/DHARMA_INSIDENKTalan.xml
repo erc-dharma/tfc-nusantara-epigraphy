@@ -749,7 +749,7 @@
 				<bibl n="B"><ptr target="bib:Brandes1913_01"/><citedRange unit="page">163-164</citedRange><citedRange unit="item">LXX</citedRange></bibl>
                 <bibl n="D"><ptr target="bib:Damais1955_01"/><citedRange unit="page">71</citedRange><citedRange unit="item">A. 152</citedRange></bibl>
 		        <bibl n="N"><ptr target="bib:Nakada1994_01"/><citedRange unit="page">1–7</citedRange></bibl>
-        	    <bibl n="M&amp;R"><ptr target="bib:MachiSuhadi+RichadianaKartakusuma1996_01"/><citedRange unit="page">27–30</citedRange></bibl>
+        	    <bibl n="M+R"><ptr target="bib:MachiSuhadi+RichadianaKartakusuma1996_01"/><citedRange unit="page">27–30</citedRange></bibl>
 			</listBibl>
            <listBibl type="secondary">
               <bibl/><!-- one <bibl/> per item of secondary bibliography -->

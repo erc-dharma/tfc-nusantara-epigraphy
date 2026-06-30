@@ -120,7 +120,7 @@
            <p>The text was first edited, with a facsimile, in <bibl><ptr target="bib:CohenStuart+LimburgBrouwer1872_01"/></bibl> (and reproduced in <bibl><ptr target="bib:CohenStuart1875_01"/></bibl> as well as <bibl><ptr target="bib:Sarkar1971-1972_01"/></bibl>); the two errors in this edition were corrected in <bibl><ptr target="bib:Damais1955_01"/></bibl>. The present digital edition follows the latter, confirmed by Arlo Griffiths from photographs.</p>
            <!-- https://sharedocs.huma-num.fr/wl/?id=k8KG3aABoCdTSMAb8zWCKcvNIMn0x5qQ-->
         	<listBibl type="primary">
-                <bibl n="CS&amp;LB"><ptr target="bib:CohenStuart+LimburgBrouwer1872_01"/><citedRange unit="item">III</citedRange><citedRange unit="page">108-109</citedRange></bibl>
+                <bibl n="CS+LB"><ptr target="bib:CohenStuart+LimburgBrouwer1872_01"/><citedRange unit="item">III</citedRange><citedRange unit="page">108-109</citedRange></bibl>
                 <bibl n="D"><ptr target="bib:Damais1955_01"/><citedRange unit="page">23-24</citedRange></bibl>
 			</listBibl>
            <listBibl type="secondary">

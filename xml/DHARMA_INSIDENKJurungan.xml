@@ -231,7 +231,7 @@ vuAra ta hulair· Anakbi kain· vlaḥ <num value="2">2</num> <g ref="sym:double
         	<listBibl type="primary">
 	<bibl><ptr target="bib:Boechari1958_01"/><citedRange unit="page">17–18, 38–75</citedRange></bibl>
 	<bibl n="B"><ptr target="bib:BoechariND_01"/></bibl>
-	<bibl n="MS&amp;SA"><ptr target="bib:MachiSuhadi+SukartoAtmodjo1986_01"/><citedRange unit="page">72-81</citedRange><citedRange unit="section">2.7.3</citedRange></bibl>
+	<bibl n="MS+SA"><ptr target="bib:MachiSuhadi+SukartoAtmodjo1986_01"/><citedRange unit="page">72-81</citedRange><citedRange unit="section">2.7.3</citedRange></bibl>
 			</listBibl>
            <listBibl type="secondary">
               <bibl><ptr target="bib:Naerssen1939_01"/></bibl>
