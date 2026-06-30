@@ -120,7 +120,7 @@ Notes
             <!--commentary encoded as per section §9.3 -->
          </div>
         <div type="bibliography">
-           <p>Text by Arlo Griffiths (March 2010, June 2024, February 2026) based on the edition by Cœdès (<bibl rend="omitname"><ptr target="bib:Coedes1930_01"/></bibl>), verified on the basis of photos of <seg rend="check"><!-- copied from Kota Kapur, still needs to be adjusted -->the same EFEO (uninked) estampage used by Cœdès, and photos of an inked and uninked set of estampages kept in Leiden</seg>.</p>
+           <p>Text by Arlo Griffiths (March 2010, June 2024, February 2026) based on the edition by Cœdès (<bibl rend="omitname"><ptr target="bib:Coedes1930_01"/></bibl>), verified on the basis of photos of <hi rend="check"><!-- copied from Kota Kapur, still needs to be adjusted -->the same EFEO (uninked) estampage used by Cœdès, and photos of an inked and uninked set of estampages kept in Leiden</hi>.</p>
         	<listBibl type="primary">
 				<bibl n="C"><ptr target="bib:Coedes1930_01"/><citedRange unit="item">IV</citedRange><citedRange unit="page">38-44</citedRange></bibl>
 			</listBibl>

@@ -74,13 +74,12 @@
     <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="kaw-Latn" rendition="class:38769 maturity:83213">
-     <p><lb n="1"/>baga<lb 
-        n="2" break="no"/>van· 
+     <p><lb n="1"/>baga<lb n="2" break="no"/>van· 
         <lb n="3"/>caci
     </p>
          </div>
          <div type="commentary">
-            <p></p>
+            <p/>
          </div>
          <div type="translation" resp="part:argr part:masc">
          <p>Reverend Caci</p>
@@ -100,7 +99,7 @@
             <bibl><ptr target="bib:BudiSantosaWibowo2001_01"/><citedRange unit="page">34</citedRange></bibl>
            </listBibl>
 <listBibl type="surrogates">
-<bibl></bibl>
+<bibl/>
 </listBibl>
         </div>
       </body>

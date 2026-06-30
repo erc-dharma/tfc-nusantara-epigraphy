@@ -165,7 +165,7 @@
             <!--commentary encoded as per section §9.3 -->
          </div>
         <div type="bibliography">
-           <p>Deciphered but not published by Boechari, a copy of whose typescript we received from Jan Wisseman Christie and use here as edition of reference (<bibl n="B"><ptr target="bib:BoechariND_01"/></bibl>). <seg rend="check">As our apparatus entries show, a copy of the same typescript seems to have been reproduced with involuntary errors, in the first integral published edition (<bibl><ptr target="bib:MachiSuhadi+SukartoAtmodjo1986_01"/></bibl>),</seg> which is accompanied by an Indonesian translation. Re-edited here by Arlo Griffiths and Mekhola Gomes from photographs.</p>
+           <p>Deciphered but not published by Boechari, a copy of whose typescript we received from Jan Wisseman Christie and use here as edition of reference (<bibl n="B"><ptr target="bib:BoechariND_01"/></bibl>). <hi rend="check">As our apparatus entries show, a copy of the same typescript seems to have been reproduced with involuntary errors, in the first integral published edition (<bibl><ptr target="bib:MachiSuhadi+SukartoAtmodjo1986_01"/></bibl>),</hi> which is accompanied by an Indonesian translation. Re-edited here by Arlo Griffiths and Mekhola Gomes from photographs.</p>
         	<listBibl type="primary">
 	<bibl n="B"><ptr target="bib:BoechariND_01"/></bibl>
 	<bibl n="MS&amp;SA"><ptr target="bib:MachiSuhadi+SukartoAtmodjo1986_01"/><citedRange unit="page">95-102</citedRange><citedRange unit="section">2.7.6</citedRange></bibl>

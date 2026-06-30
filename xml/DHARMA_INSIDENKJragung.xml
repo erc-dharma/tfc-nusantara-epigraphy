@@ -114,7 +114,7 @@
 				<bibl><ptr target="bib:Griffiths2014_02"/><citedRange unit="page">169</citedRange></bibl>
 			</listBibl>
            <listBibl type="secondary">
-            <bibl><ptr target="bib:TitiSurtiNastiti+al2024_01"/><citedRange unit="section">2.4.3</citedRange><citedRange unit="page"><seg rend="check">???-???</seg></citedRange></bibl>    
+            <bibl><ptr target="bib:TitiSurtiNastiti+al2024_01"/><citedRange unit="section">2.4.3</citedRange><citedRange unit="page"><hi rend="check">???-???</hi></citedRange></bibl>    
 		
            </listBibl>
         </div>

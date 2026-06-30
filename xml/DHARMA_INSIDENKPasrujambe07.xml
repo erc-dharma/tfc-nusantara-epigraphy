@@ -80,7 +80,7 @@
     </p>
          </div>
          <div type="commentary">
-            <p></p>
+            <p/>
          </div>
         <div type="bibliography">
            <p>Previously deciphered by Sukarto Kartoatmodjo (<bibl rend="omitname"><ptr target="bib:SukartoAtmodjo1986_01"/></bibl>), Titi Surti Nastiti et al. (<bibl rend="omitname"><ptr target="bib:TitiSurtiNastiti+al1994-1995_01"/></bibl>), and Machi Suhadi &amp; Richadiana Kartakusuma (<bibl rend="omitname"><ptr target="bib:MachiSuhadi+RichadianaKartakusuma1996_01"/></bibl>). Due to unavailablity of visual documentation, this digital edition refer to Machi Suhadi &amp; Richadiana Kartakusuma's reading on this inscription.</p>
@@ -100,7 +100,7 @@
             <bibl><ptr target="bib:BudiSantosaWibowo2001_01"/><citedRange unit="page">33</citedRange></bibl>
            </listBibl>
 <listBibl type="surrogates">
-<bibl></bibl>
+<bibl/>
 </listBibl>
         </div>
       </body>

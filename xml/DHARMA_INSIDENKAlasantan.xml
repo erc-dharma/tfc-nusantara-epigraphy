@@ -715,7 +715,7 @@
              	<p n="1r1">Homage be to the six Vināyakas!</p> 
 	<p n="1r1-1r4">Hail! Elapsed Śaka year 861, month of Bhadrapada, fifth <foreign>tithi</foreign> of the waning fortnight, Vās, Pahiṅ, Friday<!--<supplied reason="explanation">6 Sept. 939</supplied>-->, lunar mansion Aśvinī, deity Aśvī, conjunction Viṣkambha. That was the time that the decree of the Great King, <foreign>rakai</foreign> Halu, <foreign>dyah</foreign> Siṇḍok Śrī Īśānavikrama, received by the <foreign>rakryān</foreign> minister of Halu, <foreign>dyah</foreign> Sahasra, descended to the official of Kanuruhan, <foreign>pu</foreign> Udā, instructing with regard to the <foreign>varuk</foreign> land<note>The term <foreign>varuk</foreign> is not well understood. <bibl><ptr target="bib:Zoetmulder1982_01"/><citedRange unit="entry"><foreign>varuk</foreign></citedRange></bibl> glosses <q>a piece of ground (acquired in a part. way? bought?)</q>, while <bibl><ptr target="bib:Wibowo1979_01"/><citedRange>13</citedRange></bibl> tentatively suggested: <q>Mungkin kata <foreign>lmaḥ waruk</foreign> menunjuk bagian yang masih hutan belukar</q>.<!--lmah waruk: See Toshio Yamazaki. 1982. “Some Aspects of Land-Sale Inscriptions in Fifth and Sixth Century Bengal.” Acta Asiatica: Bulletin of the Institute of Eastern Culture 43: 17–36. --></note> at Ālasantan, district of Bavaṅ Mapapan, that it be made the freehold of <supplied reason="explanation">or: that it be made into a freehold by</supplied> the <foreign>rakryān kabayān</foreign>, mother of <foreign>rakryān</foreign> minister of Halu, <foreign>dyah</foreign> Sahasra. Its total: 13 <foreign>tampah</foreign>, apart from the housing-premises <supplied reason="subaudible">and</supplied> orchards, the price for them being 12 <foreign>kāṭi</foreign> <supplied reason="explanation">of gold</supplied>. The headmen of Ālasantan together with the inhabitants of the village sold the land.</p>
              <p n="1r4-1r8">Enumeration of the headmen receiving gold:<note>The headword of each entry in the list (<foreign>vinkas</foreign>, <foreign>apkan</foreign>, <foreign>gusti</foreign>, etc.) is directly followed by a name, further names separated by median dots.</note> 
-<list>
+<list type="paired">
 <label><foreign>vinəkas</foreign></label><item>the elder Vantil, Pastī, Sukhamī, the teacher Dr̥vyak, Kaḍaṅayan, Suji, Rambay, Jikən, Lubhī</item>
 <label>market seller</label><item>Maṇḍarah</item> 
 <label><foreign>gusti</foreign></label><item>Aṅkat</item>
@@ -805,7 +805,7 @@ Such was the total of the headmen receiving gold.</p>
 	the courtiers <supplied reason="explanation"><foreign>vatak i jro</foreign></supplied>, etc., shall not enter into the <foreign>paṅurumbigyan</foreign> freehold of the <foreign>varuk</foreign> land at Ālasantan. Only the <foreign>rakryān</foreign> founder of the freehold herself shall have authority over all its royal revenues.</p>
              <!-- On the lists of vatak i jro/maṅilāla dravya haji, see Boechari, ‘Manfaat Studi Bahasa dan Sastra Jawa Kuna’ -->
              <p n="1r14-1r16">Likewise the <supplied reason="subaudible">payments for</supplied> <q>harms and compensations</q> <supplied reason="explanation"><foreign>sukha-duḥkha</foreign></supplied>, such as:<note>I adopt the interpretation of the term <foreign>sukha-duḥkha </foreign> itself, and of the meanings of the items in the following list, from work in progress by Timothy Lubin.</note>
-<list>
+<list type="paired">
 	<label><foreign>mayaṅ tan pavvah</foreign></label><item>areca flower that does not bear fruit</item>
 	<label><foreign>valū rumambat riṅ natar</foreign></label><item>gourd that grows along the ground</item>
 	<label><foreign>vipati</foreign></label><item>fatal accident</item> 
@@ -826,7 +826,7 @@ Such was the total of the headmen receiving gold.</p>
 </list>
 The <foreign>rakryān</foreign> founder of the freehold shall be the beneficiary of all its royal revenues.</p>
              <p n="1r16-2r1">As for those who 
-<list>	<label><foreign>mañambul</foreign></label><item>paint black</item>
+<list type="paired">	<label><foreign>mañambul</foreign></label><item>paint black</item>
 	<label><foreign>mañavriṅ</foreign></label><item>make muslin</item>
 	<label><foreign>maṅlākha</foreign></label><item>dye red</item>
 	<label><foreign>maṅapus</foreign></label><item>twist ropes</item>
