@@ -68,6 +68,7 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
+            <change who="part:mano part:argr" when="2026-06-30">revised the encoding</change>
         	<change who="part:mano part:argr" when="2026-06-22">encoded the inscription</change>
         </revisionDesc>
     </teiHeader>
@@ -75,14 +76,14 @@
       <body>
          <div type="edition" xml:lang="kaw-Latn" rendition="class:38769 maturity:83213">
      <p><lb n="1"/>rabut·
-        <lb n="2"/>liva
+        <lb n="2"/>li<supplied reason="subaudible">n</supplied>ta<supplied reason="subaudible">ṅ</supplied>
     </p>
          </div>
          <div type="commentary">
             <p/>
          </div>
          <div type="translation" resp="part:argr part:masc">
-         <p>The Sanctuary of Liva</p>
+         <p>The Sanctuary of Star</p>
         </div>
         <div type="bibliography">
            <p>Previously deciphered by Sukarto K. Atmodjo (<bibl rend="omitname"><ptr target="bib:SukartoAtmodjo1990_01"/></bibl>), Titi Surti Nastiti et al. (<bibl rend="omitname"><ptr target="bib:TitiSurtiNastiti+al1994-1995_01"/></bibl>) and Machi Suhadi &amp; Richadiana Kartakusuma (<bibl rend="omitname"><ptr target="bib:MachiSuhadi+RichadianaKartakusuma1996_01"/></bibl>). Due to unavailablity of visual documentation, this digital edition refer to Titi Surti Nastiti et al.'s reading on this inscription.</p>

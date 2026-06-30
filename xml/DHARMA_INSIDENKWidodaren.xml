@@ -68,6 +68,7 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
+            <change who="part:mano part:argr" when="2026-06-30">revised the encoding</change>
         	<change who="part:mano part:argr" when="2026-06-29">encoded the inscription</change>
         </revisionDesc>
     </teiHeader>
@@ -80,10 +81,7 @@
         <lb n="4"/>dadiha kavula
         <lb n="5"/>batuṙ saputu la<lb n="6" break="no"/>mane sama<supplied reason="subaudible">ṅ</supplied>ke
         <lb n="7"/>muvaḥ satə<supplied reason="subaudible">m</supplied>be
-    </p> 
-        <div type="translation" resp="part:argr part:masc">
-        <p>Throughout the Kasturi domain, (if) a child should be troublesome (through) gambling, it will become a servant-serf, down to the generation of its grand-children, now and in the future.</p>
-
+     </p>
         <p><milestone type="pagelike" unit="face" n="2"/></p>
         
         <p><milestone type="pagelike" unit="zone" n="a"/></p>
@@ -97,6 +95,10 @@
         <p><milestone type="pagelike" unit="zone" n="c"/></p>
         <ab><lb n="1"/>rama</ab>
         <ab><lb n="1"/>raja</ab>
+
+        <div type="translation" resp="part:argr part:masc">
+        <p>Throughout the Kasturi domain, (if) a child should be troublesome (through) gambling, it will become a servant-serf, down to the generation of its grand-children, now and in the future.</p>
+
         </div>
          </div>
          <div type="commentary"><p>The inscribed text of the Widodaren stone is preserved in its integrity on the front face (1), while the side (2; a: top plane, b: centre plane, &amp; c: bottom plane) and back faces present unreadable portions. The front face bears seven lines of script, covering the full breadth of the stone, while its top, semi-circular, section displays the eyes-symbol. The shape of this motif here is almost identical to that of the Pasru Jambe group, except for a small circle — perhaps a third eye — depicted between the two spirals.</p>
