@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Selobrojo (1226 Śaka)</title>
+                <respStmt>
+                    <resp>author of digital edition</resp>
+                    <persName ref="part:argr">
+                       <forename>Arlo</forename>
+                       <surname>Griffiths</surname>
+                    </persName>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <authority>DHARMA</authority>
+                 <pubPlace>Paris</pubPlace>
+                 <idno type="filename">DHARMA_INSIDENKSelobrojo</idno>
+                 <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                       <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
+                                                 Licence. To view a copy of the licence, visit
+                                                 https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                                                 Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                                                 California, 94041, USA.</p>
+                       <p>Copyright (c) 2019-2025 by Arlo Griffiths.</p>
+                    </licence>
+                 </availability>
+                <date from="2019" to="2025">2019-2025</date>
+            </publicationStmt>
+            <sourceDesc><!-- only the handDesc can be filled in at this stage -->
+                <msDesc><!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/><!-- don't modify this -->
+                    </msIdentifier>
+                    <msContents><!-- describe the intellectual content of an inscription -->
+                        <summary><!-- //// NOT MANDATORY  ////--></summary> <!-- offers the possibility to give a summary of the inscription's content -->
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p><!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EGD 11.2. --></p>
+                            <!-- If you need to identify individual hands (EGD §7.5/) in addition to one or more paragraphs of general palaeographic description, wrap <summary> around the <p> or <p>s above, and, outside <summary>, create <handNote> elements for each hand as follows:
+						<summary><p><p/></summary>
+						<handNote xml:id="Pallava00001_hand1"></handNote>
+						<handNote xml:id="Pallava00001_hand2"></handNote>
+					 -->
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
+            </projectDesc>
+            <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/><!-- UPDATE the link once the release is made official -->
+            <listPrefixDef>
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                    <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
+                </prefixDef>
+                <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
+                    <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_idListMembers_v01.xml</ref> file.</p>
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+    <revisionDesc>
+            <change who="part:argr" when="2024-09-22">encoded the inscription</change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:space="preserve">
+      <body>
+         <div type="edition" xml:lang="kaw-Latn" rendition="class:38769 maturity:83213">
+            <p>
+                <milestone type="pagelike" n="A" unit="face"/><lb n="A1"/> <g ref="sym:doubleBar-crossed" type="symbol">*</g> rasa-beddhābeddh<unclear>e</unclear> <supplied reason="lost">v</supplied><unclear>vaṁ</unclear> <g type="symbol">*</g><g ref="sym:circle" type="symbol">*</g><g type="symbol">*</g>
+
+				<milestone type="pagelike" n="B" unit="face"/><lb n="B1"/> <g ref="sym:doubleBar-crossed" type="symbol">*</g> saṁ hyaṁ maṇḍa<supplied reason="omitted">la</supplied> riṅ avadan·, purvvakaniṁ L̥pas·
+<lb n="B2"/>yu kbo glis· raṅkəpi kbo <gap reason="ellipsis" unit="character" quantity="1"/>duran·, kaṅkina<!-- kaṅkəna — correct tiṅkahani --><lb 
+n="B3" break="no"/>ra saṁ hyaṁ maṇḍala ri sagara I daL̥m·, tiṅkaha<!--(nira saṁ)-->
+<lb n="B4"/>hyaṅ maṇḍala ri<unclear>ṅ a</unclear>vaḍan·, lāvan tiṅkahanira saṁ<lb 
+n="B5" break="no"/>ṅa para<!-- apā?--> luṅguḥ tuṁgal·-tuṅgala vatək ṣa<space type="descender"/>gara, kaya<lb 
+n="B6" break="no"/>tnakna sa<space type="descender"/>ṅ adr̥vya kabuyutan ma<supplied reason="subaudible">ṁ</supplied>kana sama tuṁ<lb 
+n="B7" break="no"/>ga<supplied reason="lost">l</supplied> ḍapur<unclear>·</unclear> <g ref="sym:doubleBar-crossed" type="symbol">*</g>
+<!-- Kancana 14r4 atuṁgu ḍapur?
+b(y)apara?
+ -->
+
+
+            </p>
+         </div>
+         <div type="apparatus">
+               <listApp>
+                <app loc="B1">
+                    <lem> L̥pas·</lem>
+                    <rdg source="bib:Brandes1913_01">mapas·</rdg>
+                     </app>
+<app loc="B3"><lem>I daL̥m·</lem>
+	<rdg source="bib:Brandes1913_01">ṇa daṅ map·</rdg>
+	<note>In Brandes' first version, an alternative reading <foreign>ṇradaṅmam</foreign> is noted; in the second version, these characters are left blank.</note>
+</app>
+               </listApp>
+         </div>
+         <div type="translation" resp="part:argr">
+            <p>....</p>
+         </div>
+         <div type="commentary">
+            <!--commentary encoded as per section §9.3 -->
+         </div>
+        <div type="bibliography">
+           <p>The text was first edited, with a facsimile, by Brandes; .... The present digital edition follows the latter, confirmed by Arlo Griffiths from photographs.</p>
+           <!-- 
+OJO 83
+Est. Leiden K74
+Abk. OD-BRIN
+Photo HS in Unfolding the Web
+
+LXXXVIII.  Steen, staande te Selabradja (afd. Malaṅ. res. Pasoeroehan), in Rapp. 1902 p. 295 beschreven als -van boven flauw accoladevormig gehouwen, hoog 0.66 M., breed van boven 0.37 M., beneden 0.33 M. Op de eene zijde van den bovenkant is één regel Kawischrift, op de keerzijde, eveneens op het bovengedeelte daarvan, zes regels — een en ander in relief-karakters". Een abklatsch wordt vermeld Not. 1887 p. 7; Oudheidk. Bur. no. 409. Dr. Brandes deelde bij Verbeek p. XVIII mede. dat het jaartal 1336? is.
+
+-->
+        	<listBibl type="primary">
+                <bibl n="B"><ptr target="bib:Brandes1913_01"/><citedRange unit="page">??</citedRange><citedRange unit="item">LXXXVIII</citedRange></bibl>
+			</listBibl>
+           <listBibl type="secondary">
+            <!--
+NBG 1887
+Verbeek
+ROC 1902:m295
+ROD 1923 No. 2293
+
+not included in
+<bibl><ptr target="bib:Nakada1982_01"/><citedRange unit="page">...</citedRange><citedRange unit="item">...</citedRange></bibl>-->
+<bibl><ptr target="bib:Robson+HadiSidomulyo2021_01"/><citedRange>???</citedRange></bibl>
+           </listBibl>
+        </div>
+      </body>
+  </text>
+</TEI>
