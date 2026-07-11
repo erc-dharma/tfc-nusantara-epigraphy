@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-            	<title>Stone from Gerba (no. 1)</title>
+            	<title>Stone from Gerba (no. 2)</title>
             	<respStmt>
             		<resp>author of digital edition</resp>
             		<persName ref="part:mano">
@@ -23,7 +23,7 @@
         	<publicationStmt>
         		<authority>DHARMA</authority>
         		<pubPlace>Jakarta</pubPlace>
-        		<idno type="filename">DHARMA_INSIDENKGerba01</idno>
+        		<idno type="filename">DHARMA_INSIDENKGerba02</idno>
         		<availability>
         			<licence target="https://creativecommons.org/licenses/by/4.0/">
         				<p>This work is licensed under the Creative Commons Attribution 4.0 Unported
@@ -68,47 +68,33 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
-            <change who="part:mano part:argr" when="2026-07-11">revised the encoding</change>
-        	<change who="part:mano part:argr" when="2026-07-01">encoded the inscription</change>
+        	<change who="part:mano part:argr" when="2026-07-11">encoded the inscription</change>
         </revisionDesc>
     </teiHeader>
     <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="kaw-Latn" rendition="class:38769 maturity:83213">
-     <p><lb n="1"/><g type="symbol" ref="sym:circle-lined">*</g> tulus aṅalu<lb n="2" break="no"/>sa den· kada
-        <lb n="3"/>botaṅ akasa
-        <lb n="4"/>lavan· pr̥tivi so<supplied reason="omitted">r</supplied>
-        <lb n="5" break="no"/>ga kabuk·tiha<g type="symbol" ref="sym:circle-lined">*</g>
+     <p><lb n="1"/><gap reason="lost" extent="unknown" unit="character"/>
+        <lb n="2"/>yaṁ <unclear>m</unclear><supplied reason="omitted">a</supplied>m<supplied reason="omitted">i</supplied> <supplied reason="omitted">g</supplied>u<supplied reason="omitted">r</supplied>u <supplied reason="omitted">g</supplied>u<supplied reason="omitted">ru</supplied> y<unclear>e</unclear><lb 
+        n="3" break="no"/>n arabi donan iki de<lb 
+        n="4" break="no"/>n· kadi botiṅ akasa
+        <lb n="5"/>lavan· pr̥tivi papa ka<lb 
+        n="6" break="no"/>buk·tiha <g type="symbol" ref="sym:circle-lined">*</g> I sa<lb 
+        n="7" break="no"/>kala<g type="symbol" ref="sym:circle-lined">*</g><num value="1380">1380</num>
      </p>
        
         <div type="translation" resp="part:argr part:masc">
-        <p>Permanently leading the life of hermits, let them experience heaven (i.e., as long as) sky and earth.</p>
+        <p>This is the blessing of our god(s). If the teachers mate, let them experience (the consequences of) evil/sin as heavy as heaven and earth combined. In the Śaka year 1380</p>
 
         </div>
          </div>
-         <div type="commentary"><p></p>
+         <div type="commentary"><p>The text is engraved inside a square cartouche.</p>
          </div>
         <div type="bibliography">
-           <p>Previously deciphered by Sukarto K. Atmodjo (<bibl rend="omitname"><ptr target="bib:SukartoAtmodjo1986_01"/></bibl>) who reproduces a drawing of the text but not of its material support, and also by Aang Pambudi Nugroho (<bibl rend="omitname"><ptr target="bib:AangPambudiNugroho2018_01"/></bibl>). This digital edition based on photographs.</p>
+           <p>Previously deciphered by Aang Pambudi Nugroho (<bibl rend="omitname"><ptr target="bib:AangPambudiNugroho2018_01"/></bibl>). This digital edition based on photographs.</p>
 
         	<listBibl type="primary">
-			<bibl><ptr target="NBG27_1889"/><citedRange unit="page">73-74</citedRange></bibl>
-			</listBibl>
-
-            <listBibl>
-			<bibl><ptr target="SukartoAtmodjo1986_01"/><citedRange unit="page">46</citedRange><citedRange unit="figure">4</citedRange></bibl>
-			</listBibl>
-
-            <listBibl>
 			<bibl><ptr target="AangPambudiNugroho2018_01"/><citedRange unit="page">1-22</citedRange></bibl>
-			</listBibl>
-
-            <listBibl type="secondary">
-			<bibl><ptr target="Verbeek1891_01"/><citedRange unit="page">293 (no. 612)</citedRange></bibl>
-			</listBibl>
-
-            <listBibl>
-			<bibl><ptr target="Knebel1904_02"/><citedRange unit="page">342-343</citedRange></bibl>
 			</listBibl>
         </div>
       </body>
