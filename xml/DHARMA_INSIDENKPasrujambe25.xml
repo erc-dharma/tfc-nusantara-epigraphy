@@ -46,7 +46,7 @@
                </msContents>
                <physDesc>
                   <handDesc>
-                     <p>Javanese script typical of 15th-century stone inscription from mountainous areas in Central and East Java. Broad simplified characters shallowly engraved</p>
+                     <p>Javanese script typical of 15th-century stone inscription from mountainous areas in Central and East Java.</p>
                   </handDesc>
                </physDesc>
             </msDesc>
@@ -92,25 +92,20 @@
            <p/>
          </div>
         <div type="bibliography">
-            <p>This inscription was deciphered and published by Titi Surti Nastiti et al. (<bibl rend="omitname"><ptr target="bib:TitiSurtiNastiti+al1994-1995_01"/></bibl>), Machi Suhadi &amp; Richadiana Kartakusuma (<bibl rend="omitname"><ptr target="bib:MachiSuhadi+RichadianaKartakusuma1996_01"/></bibl>) and later by Budi Santosa Wibowo(<bibl rend="omitname"><ptr target="bib:BudiSantosaWibowo2001_01"/></bibl>). Re-edited here by Muhamad Alnoza and Arlo Griffiths from photographs (2011).</p>
+            <p>This inscription was deciphered and published by Titi Surti Nastiti et al. (<bibl rend="omitname"><ptr target="bib:TitiSurtiNastiti+al1994-1995_01"/></bibl>) as well as by Machi Suhadi &amp; Richadiana Kartakusuma (<bibl rend="omitname"><ptr target="bib:MachiSuhadi+RichadianaKartakusuma1996_01"/></bibl>). Re-edited here from the photograph <ref target="http://hdl.handle.net/1887.1/item:834576">OD 19427</ref>.</p>
               <listBibl type="primary">
-                      <bibl n="TSN">
+                      <bibl n="BPA44">
                                 <ptr target="bib:TitiSurtiNastiti+al1994-1995_01"/>
                                 <citedRange unit="page">10</citedRange>
                               </bibl>
-
-                     <bibl n="MS">
+                     <bibl n="BPA47">
                                 <ptr target="bib:MachiSuhadi+RichadianaKartakusuma1996_01"/>
                                 <citedRange unit="page">17</citedRange>
                               </bibl>
                     </listBibl>
                     <listBibl type="secondary">
             <bibl><ptr target="bib:BudiSantosaWibowo2001_01"/><citedRange unit="page">34</citedRange></bibl>
-        </listBibl>
-        <listBibl type="surrogates">
-<bibl>Photo OD 19427 <ref target="http://hdl.handle.net/1887.1/item:834576">URL</ref>.</bibl>
 </listBibl>
-
         </div>
       </body>
   </text>

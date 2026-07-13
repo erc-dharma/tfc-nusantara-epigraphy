@@ -47,7 +47,7 @@
                     </msContents>
                     <physDesc>
                         <handDesc>
-                        	<p>Javanese script typical of 15th-century stone inscription from mountainous areas in Central and East Java. Broad simplified characters shallowly engraved.</p>
+                        	<p>Javanese script typical of 15th-century stone inscription from mountainous areas in Central and East Java.</p>
                         </handDesc>
                     </physDesc>
                 </msDesc>
@@ -74,19 +74,24 @@
     <text xml:space="preserve">
       <body>
          <div type="edition" xml:lang="kaw-Latn" rendition="class:38769 maturity:83213">
-     <p><lb n="1"/><gap reason="lost" extent="unknown" unit="character"/>
-        <lb n="2"/>yaṁ <unclear>m</unclear><supplied reason="omitted">a</supplied>m<supplied reason="omitted">i</supplied> <supplied reason="omitted">g</supplied>u<supplied reason="omitted">r</supplied>u <supplied reason="omitted">g</supplied>u<supplied reason="omitted">ru</supplied> y<unclear>e</unclear><lb 
-        n="3" break="no"/>n arabi donan iki de<lb 
+     <p><lb n="1"/><gap reason="lost" unit="character" quantity="8" precision="low"/>
+        <lb n="2"/>yaṁ <unclear>ma</unclear>m<supplied reason="lost">i</supplied> <supplied reason="lost">g</supplied>u<supplied reason="lost">r</supplied>u-<supplied reason="lost">g</supplied>u<supplied reason="lost">r</supplied>u y<unclear>e</unclear><lb 
+        n="3" break="no"/>n arabi donan ika de<lb 
         n="4" break="no"/>n· kadi botiṅ akasa
         <lb n="5"/>lavan· pr̥tivi papa ka<lb 
         n="6" break="no"/>buk·tiha <g type="symbol" ref="sym:circle-lined">*</g> I sa<lb 
-        n="7" break="no"/>kala<g type="symbol" ref="sym:circle-lined">*</g><num value="1380">1380</num>
+        n="7" break="no"/>kala<g type="symbol" ref="sym:circle-lined">*</g><num value="1380">1389</num><g type="symbol" ref="sym:circle-lined">*</g>
      </p>
+        </div>
        
+        <div type="apparatus">
+            <listApp>
+                <app loc="3"><lem>ika</lem><rdg source="??">iki</rdg></app>
+            </listApp>
+         </div>
+
         <div type="translation" resp="part:argr part:masc">
         <p>This is the blessing of our god(s). If the teachers mate, let them experience (the consequences of) evil/sin as heavy as heaven and earth combined. In the Śaka year 1380</p>
-
-        </div>
          </div>
          <div type="commentary"><p>The text is engraved inside a square cartouche.</p>
          </div>
