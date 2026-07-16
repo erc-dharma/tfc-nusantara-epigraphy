@@ -23,7 +23,7 @@
         	<publicationStmt>
         		<authority>DHARMA</authority>
         		<pubPlace>Jakarta</pubPlace>
-        		<idno type="filename">DHARMA_INSIDENKGerba02</idno>
+        		<idno type="filename">DHARMA_INSIDENKGerba02.xml</idno>
         		<availability>
         			<licence target="https://creativecommons.org/licenses/by/4.0/">
         				<p>This work is licensed under the Creative Commons Attribution 4.0 Unported
@@ -75,12 +75,8 @@
       <body>
          <div type="edition" xml:lang="kaw-Latn" rendition="class:38769 maturity:83213">
      <p><lb n="1"/><gap reason="lost" unit="character" quantity="8" precision="low"/>
-        <lb n="2"/>yaṁ <unclear>ma</unclear>m<supplied reason="lost">i</supplied> <supplied reason="lost">g</supplied>u<supplied reason="lost">r</supplied>u-<supplied reason="lost">g</supplied>u<supplied reason="lost">r</supplied>u y<unclear>e</unclear><lb 
-        n="3" break="no"/>n arabi donan ika de<lb 
-        n="4" break="no"/>n· kadi botiṅ akasa
-        <lb n="5"/>lavan· pr̥tivi papa ka<lb 
-        n="6" break="no"/>buk·tiha <g type="symbol" ref="sym:circle-lined">*</g> I sa<lb 
-        n="7" break="no"/>kala<g type="symbol" ref="sym:circle-lined">*</g><num value="1380">1389</num><g type="symbol" ref="sym:circle-lined">*</g>
+        <lb n="2"/>yaṁ <unclear>ma</unclear>m<supplied reason="lost">i</supplied> <supplied reason="lost">g</supplied>u<supplied reason="lost">r</supplied>u-<supplied reason="lost">g</supplied>u<supplied reason="lost">r</supplied>u y<unclear>e</unclear><lb n="3" break="no"/>n arabi donan ika de<lb n="4" break="no"/>n· kadi botiṅ akasa
+        <lb n="5"/>lavan· pr̥tivi papa ka<lb n="6" break="no"/>buk·tiha <g type="symbol" ref="sym:circle-lined">*</g> I sa<lb n="7" break="no"/>kala<g type="symbol" ref="sym:circle-lined">*</g><num value="1380">1389</num><g type="symbol" ref="sym:circle-lined">*</g>
      </p>
         </div>
        

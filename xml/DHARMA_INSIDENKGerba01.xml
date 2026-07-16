@@ -23,7 +23,7 @@
         	<publicationStmt>
         		<authority>DHARMA</authority>
         		<pubPlace>Jakarta</pubPlace>
-        		<idno type="filename">DHARMA_INSIDENKGerba01</idno>
+        		<idno type="filename">DHARMA_INSIDENKGerba01.xml</idno>
         		<availability>
         			<licence target="https://creativecommons.org/licenses/by/4.0/">
         				<p>This work is licensed under the Creative Commons Attribution 4.0 Unported
@@ -86,7 +86,7 @@
 
         </div>
          </div>
-         <div type="commentary"><p></p>
+         <div type="commentary"><p/>
          </div>
         <div type="bibliography">
            <p>Previously deciphered by Sukarto K. Atmodjo (<bibl rend="omitname"><ptr target="bib:SukartoAtmodjo1986_01"/></bibl>) who reproduces a drawing of the text but not of its material support, and also by Aang Pambudi Nugroho (<bibl rend="omitname"><ptr target="bib:AangPambudiNugroho2018_01"/></bibl>). This digital edition based on photographs.</p>

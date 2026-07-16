@@ -20,7 +20,7 @@
               <publicationStmt>
                  <authority>DHARMA</authority>
                  <pubPlace>Paris</pubPlace>
-                 <idno type="filename">DHARMA_INSIDENKSelobrojo</idno>
+                 <idno type="filename">DHARMA_INSIDENKSelobrojo.xml</idno>
                  <availability>
                     <licence target="https://creativecommons.org/licenses/by/4.0/">
                        <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
@@ -80,12 +80,8 @@
                 <milestone type="pagelike" n="A" unit="face"/><lb n="A1"/> <g ref="sym:doubleBar-crossed" type="symbol">*</g> rasa-beddhābeddh<unclear>e</unclear> <supplied reason="lost">v</supplied><unclear>vaṁ</unclear> <g type="symbol">*</g><g ref="sym:circle" type="symbol">*</g><g type="symbol">*</g>
 
 				<milestone type="pagelike" n="B" unit="face"/><lb n="B1"/> <g ref="sym:doubleBar-crossed" type="symbol">*</g> saṁ hyaṁ maṇḍa<supplied reason="omitted">la</supplied> riṅ avadan·, purvvakaniṁ L̥pas·
-<lb n="B2"/>yu kbo glis· raṅkəpi kbo <gap reason="ellipsis" unit="character" quantity="1"/>duran·, kaṅkina<!-- kaṅkəna — correct tiṅkahani --><lb 
-n="B3" break="no"/>ra saṁ hyaṁ maṇḍala ri sagara I daL̥m·, tiṅkaha<!--(nira saṁ)-->
-<lb n="B4"/>hyaṅ maṇḍala ri<unclear>ṅ a</unclear>vaḍan·, lāvan tiṅkahanira saṁ<lb 
-n="B5" break="no"/>ṅa para<!-- apā?--> luṅguḥ tuṁgal·-tuṅgala vatək ṣa<space type="descender"/>gara, kaya<lb 
-n="B6" break="no"/>tnakna sa<space type="descender"/>ṅ adr̥vya kabuyutan ma<supplied reason="subaudible">ṁ</supplied>kana sama tuṁ<lb 
-n="B7" break="no"/>ga<supplied reason="lost">l</supplied> ḍapur<unclear>·</unclear> <g ref="sym:doubleBar-crossed" type="symbol">*</g>
+<lb n="B2"/>yu kbo glis· raṅkəpi kbo <gap reason="ellipsis" unit="character" quantity="1"/>duran·, kaṅkina<!-- kaṅkəna — correct tiṅkahani --><lb n="B3" break="no"/>ra saṁ hyaṁ maṇḍala ri sagara I daL̥m·, tiṅkaha<!--(nira saṁ)-->
+<lb n="B4"/>hyaṅ maṇḍala ri<unclear>ṅ a</unclear>vaḍan·, lāvan tiṅkahanira saṁ<lb n="B5" break="no"/>ṅa para<!-- apā?--> luṅguḥ tuṁgal·-tuṅgala vatək ṣa<space type="descender"/>gara, kaya<lb n="B6" break="no"/>tnakna sa<space type="descender"/>ṅ adr̥vya kabuyutan ma<supplied reason="subaudible">ṁ</supplied>kana sama tuṁ<lb n="B7" break="no"/>ga<supplied reason="lost">l</supplied> ḍapur<unclear>·</unclear> <g ref="sym:doubleBar-crossed" type="symbol">*</g>
 <!-- Kancana 14r4 atuṁgu ḍapur?
 b(y)apara?
  -->
