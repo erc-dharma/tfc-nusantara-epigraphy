@@ -21,7 +21,7 @@
             	</respStmt>
             </titleStmt>
         	<publicationStmt>
-        		<authority>DHARMA</authority>
+        		<authority><ref target="https://dharmalekha.info">DHARMA</ref></authority>
         		<pubPlace>Paris, Jakarta</pubPlace>
         		<idno type="filename">DHARMA_INSIDENKBorobudurHB125A.xml</idno>
         		<availability>
