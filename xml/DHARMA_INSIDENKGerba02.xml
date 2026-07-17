@@ -10,7 +10,7 @@
             <titleStmt>
             	<title>Stone from Gerba (no. 2)</title>
             	<respStmt>
-            		<resp>author of digital edition</resp>
+            		<resp key="creator">author of digital edition</resp>
             		<persName ref="part:mano">
             			<name>Muhamad Alnoza</name>
             		</persName>

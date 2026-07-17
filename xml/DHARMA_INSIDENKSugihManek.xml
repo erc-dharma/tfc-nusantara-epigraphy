@@ -10,7 +10,7 @@
       <titleStmt>
         <title>Sugih Manek Charter (837 Śaka, 915-09-13)</title>
         <respStmt>
-          <resp>EpiDoc Encoding</resp>
+          <resp key="contributor">EpiDoc Encoding</resp>
           <persName ref="part:tykd">
             <name>Tyassanti Kusumo Dewanti</name>
           </persName>
@@ -20,7 +20,7 @@
           </persName>
         </respStmt>
         <respStmt>
-          <resp>intellectual authorship of edition</resp>
+          <resp key="creator">intellectual authorship of edition</resp>
           <persName ref="part:tykd">
             <name>Tyassanti Kusumo Dewanti</name>
           </persName>

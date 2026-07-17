@@ -10,7 +10,7 @@
             <titleStmt>
                 <title>Charter of Masahar (852 Śaka)</title>
                 <respStmt>
-               <resp>EpiDoc encoding</resp>
+               <resp key="contributor">EpiDoc encoding</resp>
                <persName ref="part:ekba">
                   <name>Eko Bastiawan</name>
                </persName>
@@ -20,7 +20,7 @@
                </persName>
             </respStmt>
             <respStmt>
-               <resp>intellectual authorship of edition</resp>
+               <resp key="creator">intellectual authorship of edition</resp>
             	<persName ref="part:tisn">
             		<name>Titi Surti Nastiti</name>
             	</persName>

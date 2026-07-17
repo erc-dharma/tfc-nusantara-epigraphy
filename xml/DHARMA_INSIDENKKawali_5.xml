@@ -11,7 +11,7 @@
             <title>Kawali 5</title>
             <!--Change the title of the file, e.g. Raktamālā grant of the time of Budhagupta, year 159-->
             <respStmt><!-- add an element respStmt for each person involved -->
-               <resp>intellectual authorship of edition</resp>
+               <resp key="creator">intellectual authorship of edition</resp>
                <!-- this may be the same as the creator of the file -->
                <persName ref="part:adgu">
                      <name>Aditia Gunawan</name>

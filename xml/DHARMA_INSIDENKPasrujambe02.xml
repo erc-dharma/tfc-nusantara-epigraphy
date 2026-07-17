@@ -10,7 +10,7 @@
          <titleStmt>
             <title>Stone from Pasrujambe (no. 2)</title>
             <respStmt>
-               <resp>EpiDoc encoding</resp>
+               <resp key="creator">EpiDoc encoding</resp>
                <persName ref="part:mano">
                   <forename>Muhamad</forename>
                   <surname>Alnoza</surname>

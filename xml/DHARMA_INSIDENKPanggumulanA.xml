@@ -5,13 +5,13 @@
          <titleStmt>
             <title>The Charter of Panggumulan</title>
             <respStmt>
-               <resp>EpiDoc Encoding</resp>
+               <resp key="contributor">EpiDoc Encoding</resp>
                <persName ref="part:wjsa">
                   <forename>Wayan Jarrah</forename><surname>Sastrawan</surname>
                </persName>
             </respStmt>
             <respStmt>
-               <resp>intellectual authorship of edition</resp>
+               <resp key="creator">intellectual authorship of edition</resp>
                <persName ref="part:wjsa">
                   <forename>Wayan Jarrah</forename>
                  <surname>Sastrawan</surname>

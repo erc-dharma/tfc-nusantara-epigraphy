@@ -7,7 +7,7 @@
             <titleStmt>
                 <title>Charter of Pucangan (1041-11-6)</title>
                 <respStmt>
-                    <resp>EpiDoc encoding</resp>
+                    <resp key="contributor">EpiDoc encoding</resp>
                     <persName ref="part:argr">
                         <forename>Arlo</forename>
                         <surname>Griffiths</surname>
@@ -17,7 +17,7 @@
                 	</persName>
                 </respStmt>
             	<respStmt>
-            		<resp>intellectual authorship of edition</resp>
+            		<resp key="creator">intellectual authorship of edition</resp>
             		<persName ref="part:csde">
             			<forename>Csaba</forename>
             			<surname>Dezsö</surname>

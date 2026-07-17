@@ -10,13 +10,13 @@
          <titleStmt>
             <title>Linggawangi</title>
              <respStmt>
-                 <resp>EpiDoc encoding</resp>
+                 <resp key="contributor">EpiDoc encoding</resp>
                  <persName ref="part:adgu">
                      <name>Aditia Gunawan</name>
                  </persName>
              </respStmt>
              <respStmt>
-                 <resp>intellectual authorship of edition</resp>
+                 <resp key="creator">intellectual authorship of edition</resp>
                  <persName ref="part:adgu">
                      <name>Aditia Gunawan</name>
                  </persName>      

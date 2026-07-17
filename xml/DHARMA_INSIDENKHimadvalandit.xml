@@ -10,14 +10,14 @@
          <titleStmt>
             <title>Himad Walandit</title>
             <respStmt>
-               <resp>Intellectual authorship of the edition</resp>
+               <resp key="creator">Intellectual authorship of the edition</resp>
                <persName ref="part:argr">
                   <forename>Arlo</forename>
                   <surname>Griffiths</surname>
                </persName>
             </respStmt>
             <respStmt>
-               <resp>Encoding of the file</resp>
+               <resp key="contributor">Encoding of the file</resp>
                <persName ref="part:masc">
                   <forename>Marine</forename>
                   <surname>Schoettel</surname>

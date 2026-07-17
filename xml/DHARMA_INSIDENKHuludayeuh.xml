@@ -11,13 +11,13 @@
             <title>Huludayeuh</title>
             <!--Change the title of the file, e.g. Raktamālā grant of the time of Budhagupta, year 159-->
              <respStmt>
-                 <resp>EpiDoc encoding</resp>
+                 <resp key="contributor">EpiDoc encoding</resp>
                  <persName ref="part:adgu">
                      <name>Aditia Gunawan</name>
                  </persName>
              </respStmt>
              <respStmt>
-                 <resp>intellectual authorship of edition</resp>
+                 <resp key="creator">intellectual authorship of edition</resp>
                  <persName ref="part:adgu">
                      <name>Aditia Gunawan</name>
                  </persName>      

@@ -10,13 +10,13 @@
          <titleStmt>
             <title>Patitihan</title>
             <respStmt>
-               <resp>creation of file</resp>
+               <resp key="contributor">creation of file</resp>
                <persName ref="part:ekba">
                   <name>Eko Bastiawan</name>
                </persName>
             </respStmt>
             <respStmt>
-               <resp>intellectual authorship of edition</resp>
+               <resp key="creator">intellectual authorship of edition</resp>
                <persName ref="part:argr">
                   <forename>Arlo</forename>
                   <surname>Griffiths</surname>

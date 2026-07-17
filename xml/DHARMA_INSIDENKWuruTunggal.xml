@@ -10,14 +10,14 @@
          <titleStmt>
             <title>Wuru Tunggal (833 Śaka)</title>
             <respStmt>
-               <resp>EpiDoc encoding</resp>
+               <resp key="contributor">EpiDoc encoding</resp>
                <persName ref="part:argr">
                   <forename>Arlo</forename>
                   <surname>Griffiths</surname>
                </persName>
             </respStmt>
             <respStmt>
-               <resp>intellectual authorship of edition</resp>
+               <resp key="creator">intellectual authorship of edition</resp>
                <persName ref="part:argr">
                   <forename>Arlo</forename>
                   <surname>Griffiths</surname>

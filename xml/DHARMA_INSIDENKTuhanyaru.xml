@@ -10,13 +10,13 @@
          <titleStmt>
             <title>Tuhanyaru</title>
             <respStmt>
-               <resp>creation of the file</resp>
+               <resp key="contributor">creation of the file</resp>
                <persName ref="part:masc">
                   <name>Marine Schoettel</name>
                </persName>
             </respStmt>
             <respStmt>
-               <resp>intellectual authorship of edition</resp>
+               <resp key="creator">intellectual authorship of edition</resp>
                <persName ref="part:masc">
                   <forename>Marine</forename>
                   <surname>Schoettel</surname>

@@ -10,14 +10,14 @@
             <titleStmt>
                 <title>The Polengan plates: Mamali Charter (800 Śaka)</title>
                 <respStmt>
-                    <resp>EpiDoc Encoding</resp>
+                    <resp key="contributor">EpiDoc Encoding</resp>
                     <persName ref="part:argr">
                       <forename>Arlo</forename>
                       <surname>Griffiths</surname>
                     </persName>
                   </respStmt>
                   <respStmt>
-                    <resp>intellectual authorship of edition</resp>
+                    <resp key="creator">intellectual authorship of edition</resp>
                     <persName ref="part:argr">
                       <forename>Arlo</forename>
                       <surname>Griffiths</surname>

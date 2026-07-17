@@ -11,7 +11,7 @@
          <titleStmt>
             <title>Sarwadharma (1191 Śaka)</title>
             <respStmt>
-               <resp>EpiDoc encoding</resp>
+               <resp key="contributor">EpiDoc encoding</resp>
                <persName ref="part:ekba">
                   <name>Eko Bastiawan</name>
                </persName>
@@ -21,7 +21,7 @@
                </persName>
             </respStmt>
             <respStmt>
-               <resp>intellectual authorship of edition</resp>
+               <resp key="creator">intellectual authorship of edition</resp>
                <persName ref="part:argr">
                   <forename>Arlo</forename>
                   <surname>Griffiths</surname>

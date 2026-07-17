@@ -10,7 +10,7 @@
          <titleStmt>
          	<title>Stray plate of a foundation bordering on Paḍiṅḍiṅ, Paṅeran and Pajənvan (14th c. CE)</title>
            <respStmt>
-             <resp>EpiDoc encoding</resp>
+             <resp key="contributor">EpiDoc encoding</resp>
              <persName ref="part:argr">
                <forename>Arlo</forename>
                <surname>Griffiths</surname>
@@ -21,7 +21,7 @@
              </persName>
            </respStmt>
            <respStmt>
-             <resp>intellectual authorship of edition</resp>
+             <resp key="creator">intellectual authorship of edition</resp>
              <persName ref="part:argr">
                <forename>Arlo</forename>
                <surname>Griffiths</surname>

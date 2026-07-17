@@ -10,7 +10,7 @@
             <titleStmt>
             	<title>Embossed Image of Śiva in Gold Leaf from Central Java (8th c. CE)</title>
             	<respStmt>
-            		<resp>author of digital edition</resp>
+            		<resp key="creator">author of digital edition</resp>
             		<persName ref="part:argr">
             			<forename>Arlo</forename>
             			<surname>Griffiths</surname>

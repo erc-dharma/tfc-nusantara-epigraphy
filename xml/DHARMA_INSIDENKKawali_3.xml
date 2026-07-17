@@ -10,13 +10,13 @@
          <titleStmt>
             <title>Kawali 3</title>
             <respStmt><!-- add an element respStmt for each person involved -->
-               <resp>intellectual authorship of edition</resp>
+               <resp key="creator">intellectual authorship of edition</resp>
                <persName ref="part:adgu">
                      <name>Aditia Gunawan</name>   
                </persName>
             </respStmt>
             <respStmt>
-               <resp>intellectual authorship of edition</resp>
+               <resp key="creator">intellectual authorship of edition</resp>
                <persName ref="part:argr">
                   <forename>Arlo</forename>
                   <surname>Griffiths</surname>

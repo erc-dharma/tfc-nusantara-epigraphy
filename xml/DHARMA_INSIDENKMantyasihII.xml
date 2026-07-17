@@ -5,14 +5,14 @@
          <titleStmt>
             <title>Mantyasih II (829 Śaka, 907-04-11)</title>
             <respStmt>
-               <resp>EpiDoc Encoding</resp>
+               <resp key="contributor">EpiDoc Encoding</resp>
                <persName ref="part:wjsa">
                   <forename>Wayan Jarrah</forename>
                   <surname>Sastrawan</surname>
                </persName>
             </respStmt>
             <respStmt>
-               <resp>intellectual authorship of edition</resp>
+               <resp key="creator">intellectual authorship of edition</resp>
                <persName>
                   <name>HBS</name>
                </persName>

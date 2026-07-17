@@ -10,13 +10,13 @@
 			<titleStmt>
 				<title>Charter of Tiga Ron also called Təlu Ron (822 Śaka – 900-03-30)</title>
 				<respStmt>
-					<resp>EpiDoc Encoding</resp>
+					<resp key="contributor">EpiDoc Encoding</resp>
 					<persName ref="part:argr">
 						<forename>Arlo</forename><surname>Griffiths</surname>
 					</persName>
 				</respStmt>
 				<respStmt>
-					<resp>intellectual authorship of edition</resp>
+					<resp key="creator">intellectual authorship of edition</resp>
 					<persName ref="part:argr">
 						<forename>Arlo</forename>
 						<surname>Griffiths</surname>

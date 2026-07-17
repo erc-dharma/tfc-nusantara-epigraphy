@@ -10,7 +10,7 @@
          <titleStmt>
             <title>Kamalagyan charter (959 Śaka)</title>
             <respStmt>
-               <resp>authors of digital edition</resp>
+               <resp key="creator">authors of digital edition</resp>
                <persName ref="part:ekba">
                   <name>Eko Bastiawan</name>
                </persName>

@@ -10,7 +10,7 @@
          <titleStmt>
             <title>The Charter of Taji (823 Śaka, 8 April 901)</title>
             <respStmt>
-               <resp>EpiDoc encoding</resp>
+               <resp key="contributor">EpiDoc encoding</resp>
                <persName ref="part:wjsa">
                   <forename>Wayan</forename>
                   <forename>Jarrah</forename>
@@ -22,7 +22,7 @@
                </persName>
             </respStmt>
             <respStmt>
-               <resp>intellectual authorship of edition</resp>
+               <resp key="creator">intellectual authorship of edition</resp>
                <persName ref="part:wjsa">
                   <forename>Wayan</forename>
                   <forename>Jarrah</forename>
