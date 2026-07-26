@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Well ring (<foreign>jobong</foreign>), Museum Nasional 382</title>
+                <respStmt>
+                    <resp key="creator">author of digital edition</resp>
+                    <persName ref="part:argr">
+                       <forename>Arlo</forename>
+                       <surname>Griffiths</surname>
+                    </persName>
+                 </respStmt>
+              </titleStmt>
+              <publicationStmt>
+                 <authority><ref target="https://dharmalekha.info">DHARMA</ref></authority>
+                 <pubPlace>Paris</pubPlace>
+                 <idno type="filename">DHARMA_INSIDENKJobongMNI382</idno>
+                 <availability><licence target="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</licence></availability>
+                <date from="2019" to="2025">2019-2025</date>
+            </publicationStmt>
+            <sourceDesc><!-- only the handDesc can be filled in at this stage -->
+                <msDesc><!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/><!-- don't modify this -->
+                    </msIdentifier>
+                    <msContents><!-- describe the intellectual content of an inscription -->
+                        <summary><!-- //// NOT MANDATORY  ////--></summary> <!-- offers the possibility to give a summary of the inscription's content -->
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p>Sukuh-style script, pointing to a 15th-century date.</p>
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+         <p>Encoded in TEI/EpiDoc according to the <ref target="https://hal.science/halshs-02888186">DHARMA Encoding Guide for Documentary Editions, version 2</ref></p>
+      </encodingDesc>
+    <revisionDesc>
+            <change who="part:argr" when="2026-07-26">encoded the inscription</change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:space="preserve">
+      <body>
+         <div type="edition" xml:lang="kaw-Latn" rendition="class:38769 maturity:83213">
+            <p>
+<lb n="1"/>kitrinira hurip·
+<lb n="2"/>hañar kabuyutan·
+<lb n="3"/>barabaṁ syala kakaliḥ
+            </p>
+         </div>
+         <div type="apparatus">
+               <listApp>
+                <app loc="2">
+                    <lem>hañar</lem>
+                    <rdg source="bib:Groeneveldt1887_01">haneṁ</rdg>
+		     <rdg source="bib:Crucq1929_01">hane</rdg>
+			<note>While the reading <foreign>ñ</foreign> instead of <foreign>n</foreign> is not self-evident, it is clear that there is neither <foreign>taling</foreign> nor <foreign>cecak</foreign>.</note>
+                     </app>
+		<app loc="3">
+			<lem>barabaṁ syala kakaliḥ</lem>
+			<rdg source="bib:Crucq1929_01">baravaṁs pala kakaliḥ</rdg>
+	<note>The characters between <foreign>barabaṁ</foreign> and <foreign>kakaliḥ</foreign> were left unread by Brandes. The splution proposed by Crucq, after consultation with Poerbatjaraka, is implausible.</note>
+</app>
+               </listApp>
+         </div>
+         <div type="translation" resp="part:argr">
+            <p>Meritorious work Hurip Hanyar, hermitage of Barabang, both stones.</p>
+         </div>
+         <div type="commentary">
+            <!--commentary encoded as per section §9.3 -->
+         </div>
+        <div type="bibliography">
+           <p>A preliminary reading was communicated by Brandes in a footnote to <bibl><ptr target="bib:Groeneveldt1887_01"/></bibl>; the text was reconsidered by Crucq (<bibl rend="omitname"><ptr target="bib:Crucq1929_01"/></bibl>), who could make use of suggestions made to him by Poerbatjaraka. The present digital edition from photograph <ref target="http://hdl.handle.net/1887.1/item:4102844">OD 6516</ref> and from a digitl photograph of the estampage OD-BRIN 194.</p>
+           <!-- 
+-->
+        	<listBibl type="primary">
+                <bibl n="B"><ptr target="bib:Groeneveldt1887_01"/><citedRange unit="page">121-122</citedRange><citedRange unit="item">382</citedRange></bibl>
+		<bibl n="C"><ptr target="bib:Crucq1929_01"/><citedRange unit="page">260-261</citedRange></bibl>
+			</listBibl>
+           <listBibl type="secondary">
+			<bibl><ptr target="bib:NBG07_1869"/><citedRange unit="page">22, 30–31</citedRange></bibl>
+			<bibl><ptr target="bib:Bosch1915_01"/><citedRange unit="item">1588</citedRange><citedRange unit="page">166</citedRange></bibl>
+           </listBibl>
+        </div>
+      </body>
+  </text>
+</TEI>
