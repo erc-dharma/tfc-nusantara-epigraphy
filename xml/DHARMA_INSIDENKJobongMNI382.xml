@@ -68,18 +68,22 @@
 		<app loc="3">
 			<lem>barabaṁ syala kakaliḥ</lem>
 			<rdg source="bib:Crucq1929_01">baravaṁs pala kakaliḥ</rdg>
-	<note>The characters between <foreign>barabaṁ</foreign> and <foreign>kakaliḥ</foreign> were left unread by Brandes. The splution proposed by Crucq, after consultation with Poerbatjaraka, is implausible.</note>
+	<note>The characters between <foreign>barabaṁ</foreign> and <foreign>kakaliḥ</foreign> were left unread by Brandes. The solution proposed by Crucq, after consultation with Poerbatjaraka, is implausible.</note>
 </app>
                </listApp>
          </div>
          <div type="translation" resp="part:argr">
-            <p>Meritorious work Hurip Hanyar, hermitage of Barabang, both stones.</p>
+            <p>Meritorious work of Hurip Hanyar, hermitage of Barabang, both stones.</p>
          </div>
+	  <div type="translation" xml:lang="nld-Latn" source="bib:Crucq1929_01">
+            <p>Een levend gedenkteeken op een heilige plaats, dragende twee vruchten.</p>
+         </div>
+
          <div type="commentary">
             <!--commentary encoded as per section §9.3 -->
          </div>
         <div type="bibliography">
-           <p>A preliminary reading was communicated by Brandes in a footnote to <bibl><ptr target="bib:Groeneveldt1887_01"/></bibl>; the text was reconsidered by Crucq (<bibl rend="omitname"><ptr target="bib:Crucq1929_01"/></bibl>), who could make use of suggestions made to him by Poerbatjaraka. The present digital edition from photograph <ref target="http://hdl.handle.net/1887.1/item:4102844">OD 6516</ref> and from a digitl photograph of the estampage OD-BRIN 194.</p>
+           <p>A preliminary reading was communicated by Brandes (footnote to <bibl><ptr target="bib:Groeneveldt1887_01"/></bibl>); the text was reconsidered by Crucq (<bibl rend="omitname"><ptr target="bib:Crucq1929_01"/></bibl>), in consultation with Poerbatjaraka. The present digital edition was established from photograph <ref target="http://hdl.handle.net/1887.1/item:4102844">OD 6516</ref> and from a photograph of the estampage OD-BRIN 194.</p>
            <!-- 
 -->
         	<listBibl type="primary">
