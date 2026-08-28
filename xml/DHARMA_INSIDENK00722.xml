@@ -8,16 +8,9 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Sangguran Charter (928-08-02)</title>
+				<title>N. 722. The Sangguran Charter (851 Śaka)</title>
 				<respStmt>
-					<resp key="contributor">EpiDoc Encoding</resp>
-					<persName ref="part:argr">
-						<forename>Arlo</forename>
-						<surname>Griffiths</surname>
-					</persName>
-				</respStmt>
-				<respStmt>
-					<resp key="creator">intellectual authorship of edition</resp>
+					<resp key="creator">author of digital edition</resp>
 					<persName ref="part:argr">
 						<forename>Arlo</forename>
 						<surname>Griffiths</surname>
@@ -26,13 +19,15 @@
 						<forename>Wayan Jarrah</forename>
 						<surname>Sastrawan</surname>
 					</persName>
+					<persName ref="part:ekba">
+						<name>Eko Bastiawan</name>
+					</persName>
 				</respStmt>
-
 			</titleStmt>
 			<publicationStmt>
 				<authority><ref target="https://dharmalekha.info">DHARMA</ref></authority>
 				<pubPlace>Jakarta</pubPlace>
-				<idno type="filename">DHARMA_INSIDENKSangguran.xml</idno>
+				<idno type="filename">DHARMA_INSIDENK00722.xml</idno>
 				<availability><licence target="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</licence></availability>
 				<date from="2019" to="2026">2019-2026</date>
 			</publicationStmt>
@@ -67,6 +62,7 @@
          <p>Encoded in TEI/EpiDoc according to the <ref target="https://hal.science/halshs-02888186">DHARMA Encoding Guide for Documentary Editions, version 2</ref></p>
       </encodingDesc>
 		<revisionDesc>
+			<change who="part:argr" when="2026-08-28" status="draft">finalized filename, revised teiHeader, encoded translation</change>
 			<change who="part:argr" when="2022-12-24" status="draft">first complete encoding of edition</change>
 			<change who="part:argr" when="2022-12-21" status="draft">first commit of draft encoding</change>
 		</revisionDesc>
@@ -200,6 +196,207 @@ other options: si maṅhambin·, piṅhai maṅhambin·, hiraṅya maṅhambin·
          </div>
          <div type="translation" resp="part:argr">
  	<!--translation encoded as per EGD §9.2 -->
+<!-- 928-08-02 -->
+<ab n="A1–4">May there be no hindrance!
+
+    May there be prosperity for all people! May the hosts of beings be intent upon the benefit of others! May faults come to perish! May the world be blissful in every respect!
+
+Hail! Elapsed Śaka year 850, month of Śravaṇa, fourteenth tithi of the waxing fortnight, Vurukuṅ, Kalivon, Saturday, the lunar mansion Hastā, the deity Viṣṇu, the conjunction Saubhāgya.
+</ab>
+
+<p n="A4–9">That was when the decree of the Great King, Lord of Paṅkaja, (called) dyah Vava, Śrī Vijayalokanāma-Uttuṅga, was received by the mapatih Lord of Hino, (called) pu Siṇḍok, Śrī Īśānavikrama, [and] descended to both of the resident (momah-umah) officials—the [one of] Maḍaṇḍər (called) pu Padma‚ the [one of] Aṅgəhan (called) pu Kuṇḍala—ordering with regard to the village of Saṅguran, district of Vaharu, [whose] corvée (gavai) [is] 2 māṣa [and whose] tapak mas income (paṅguhan) [is] 6 suvarṇa,
+
+    that it be made a sīma38 [and] demarcated by the reverend of Manañjuṅ called Master Ḍa..licikhya with si Dahil, [si] Śyaṅgudī,39 [si] Səpət, ḍa pu Jambaṅ, [ḍa pu] Kəsək, ḍa pu Bhairava, [ḍa pu] Basya‚ [ḍa pu] Lukiṅ‚ [ḍa pu] Bhaṇḍa‚ [ḍa pu] Tamblaṅ, [ḍa pu] Haḍaṅ‚ [ḍa pu] Cigər‚ ḍa pu Ruyut, [ḍa pu] Vilaṅ, [ḍa pu] Kañju, [ḍa pu] Durdig, [ḍa pu] Suji, [ḍa pu] Sugas;40
+
+    that it be donated to the Deity of the devotional temple (prāsāda kabhaktyan) in the smithy sīma at Manañjuṅ;
+
+    that it serve as sīma domain of the Deity for maintenance of anything that is in disrepair in the holy foundation;41
+
+    that it be the resource for the daily śivacaru and nivedya (offerings)42 for the Deity.</p>
+
+<p n="A9–17">Such was the intention of His Majesty the Great King and the mapatih Lord with regard to the village of Saṅguran when it was donated to the Deity of the holy devotional temple in the smithy sīma at Manañjuṅ, ceasing to be [a part of] the district Vaharu. Its status would be independent, not to be entered by the patihs, the vahutas [and] all those who previously claimed royal revenues: the various miśras,43 all types of occupational groups (vulu-vulu),44 the paṅuraṅ, the kriṅ, the paḍam, the manimpiki, the paranakan, the limus galuh, the paṅaruhan, the taji, the vatu tajam, the sukun, the halu varak, the rakadut, the pinilai, the kataṅgaran, the tapa haji, the air haji, the malandaṅ, the ləca, the ləb-ləb, the kalaṅkaṅ, the kutak, the taṅkil, the trəpan, the saluit, the master of commerce, the master of smiths, the master of the Nambi, the master of the Huñjaman, the master of gambling, the master of harlots, the pamaṇikan, the miśra hino, the vəli hapū, the vəli vaduṅ, the vəli tambaṅ, the vəli pañjut, the vəli harəṅ, the pabisar, the palamak, the pakaluṅkuṅ, the urutan, the dampulan, the təpuṅ kavuṅ, the suṅsuṅ paṅuraṅ, the pasuk alas, the payuṅan, the sipat vilut, the pāniṅ-aṅin, the pamāvaśya, the puluṅ paḍi, the səkar tahun, the panrāṅan, the panusuh, the hopan, the sambal sumbul, the royal servants, the pamrəṣi, the courtiers, and so forth—they may not enter the sīma village at Saṅguran. Only the Deity of the devotional temple in the smithy sīma at Manañjuṅ would have authority over all of its royal revenue.</p>
+
+<p n="A18–20">Likewise the [payments for] ‘pain and relief’ (sukha-duḥkha), such as:
+mayaṅ tan pavvah 	
+
+areca-blossom without betelnut
+valū rumambat iṅ natar 	
+
+gourd vines that grow in the courtyard
+vipati 	
+
+untimely death
+vaṅkai kābunan 	
+
+a corpse covered with dew
+rāh kasavur iṅ dalan 	
+
+blood spattered on the road
+vāk-capala 	
+
+rash speech
+duhilatan 	
+
+slander
+hidu kasirat 	
+
+spittle that is sprayed
+hasta-capala 	
+
+rash acts with the hand
+mamijilakan turahniṅ kikir 	
+
+producing the trace of a file
+mamūk 	
+
+attacking in fury
+mamuṅpaṅ 	
+
+rape
+ludan 	
+
+repeated attack
+tūtan 	
+
+stalking
+ḍaṇḍa kuḍaṇḍa 	
+
+punishment and wrongful punishment
+bhaṇḍihala 	
+
+poisons of all sorts,
+
+and so forth: only the Deity of the devotional temple would be the destination of its royal revenue.</p>
+
+<p n="A20–23">As for those miśra who
+mañambul 	
+
+process black dyestuffs
+mañaṅvriṅ 	
+
+process (red) cawring dye
+maṅlākha 	
+
+process (brownish red) lākha dye
+maṅubar 	
+
+make red dye
+matarub 	
+
+make sheds
+maṅapus 	
+
+twist ropes
+manūla vuṅkuḍu 	
+
+stab mengkudu roots
+maṅgula 	
+
+make sugar
+maṅdyun 	
+
+make pots
+maṁhapū 	
+
+make lime
+mamubut 	
+
+produce turnery
+maṅluruṅ 	
+
+make castor oil
+magavai ruṅki, payuṅ vəlū 	
+
+make ruṅki baskets, round (?) parasols
+mopih 	
+
+work spathe (upih)
+akajaṅ 	
+
+make awnings
+magavai kisi 	
+
+make basket works
+maṅanam-anam 	
+
+weave fabric
+manavaṅ 	
+
+catch in nets
+manahəb, mamisaṇḍuṅ manuk 	
+
+catch or snare birds
+makala-kalā 	
+
+trap [birds],
+
+all of the royal revenue from them would be divided in three. One share would go to the Deity. One share would go to the custodians of the sīma. One share would be credited to the claimants of royal revenues.</p>
+
+<p n="A24–30">The numbers of those who engaged in trade while present there were limited: those not subjected to the claimants of royal revenue were three master tradesmen per trade, per sīma.45 When buying livestock (the quotas were) 20 buffaloes, 40 cows, 80 sheep, one coop of ducks. When trading with wagons, three yokes; karah workers, three pounding blocks; smiths, one set of bellows; drum [players],46 three places to perform; keepers of packhorses (matitih), one skin; carpenters, one master tradesman; cadar (cloth) makers, four cadar looms; 1 boat with 3 suṅhara that may not have tuṇḍān. If their wares were carried by shoulder-pole—such as cloth vendors, tinkers (vendors of copper utensils), kacapuri makers, transporters, preparers of awar-awar, cotton, mengkudu, iron, copper, bronze, tin, block [salt], steel (pamaja),47 salt, sesame (oil), uncooked rice, sugar, silk, safflower (seeds?)—all types of wares that were carried by shoulder-pole: altogether their shoulder-pole loads would be five bundles per master, per sīma. What was up to that limit would not be subjected to the claimants of royal revenue, wherever those [traders] might go, whatever may be their country (of origin). However, they should keep the present document. If they exceed the limit imposed on them, they will be subjected (to levies) by the claimants of all royal levies (sa-uddhāra haji) proportionally to their excess [but taxation of the excess] should not be disproportional (tan adhikāna).48</p>
+
+<p n="A30–B19">At that time the venerable of Manañjuṅ offered gifts to the Great King: 1 kāṭi of silver, 1 pair of vəḍihan tapis.49 The mapatih Lord of Hino, Śrī Īśānavikrama, was offered as gifts: 1 kāṭi of silver [and] 1 pair of vəḍihan tapis. The Lord of Sirikan, pu Marendra,50 the Lord of Vka, pu Balyaṅ, [as well as] both the resident officials—the [one of] Maḍaṇḍər and the [one of] Aṅgəhan—were offered as gifts: 5 dhāraṇa of silver [and] 1 pair of vəḍihan, per person. The [official of] Tiruan, ḍa punta Taritip, the [lord of]51 Amrāti Havaṅ Vicaksaṇa,52 the [official of] Pulu Vatu (called) pu Paṇḍamuan, the [lord of] Halaran (called) pu Guṇottama, the [official of] Maṅhuri (called) pu Maṅuvil, the [official of] Vadihati (called) pu Dinakara [and] the [lord/official of] Makudur (called) pu Balavān—[they all] were offered as gifts: 1 dhāraṇa, 4 māṣa, of silver, [and] 1 pair of vəḍihan each.
+
+The [official of] Vaharu at that time, (called) pu Variga, was offered as gifts: 1 dhāraṇa, 4 māṣa of silver, 1 pair of vəḍihan; the official’s wife: 7 dhāraṇa, 8 māṣa, [and] 1 piece of kain. The masters at Vaharu were given as gifts: 6 dhāraṇa of silver collectively.
+
+The 2 masters for Vadihati—[the one] of Mira-Mirah (called) saṅ Halaṅ Pahuṅ [and the one] of Halaran (called) saṅ Suddhyāstha; the 2 masters of Makudur—the [one of] Vatu Valaiṅ (called) saṅ (Bhū/Ra)te, saṅ Variṅin,53 the Paṅuraṅ of Vadihati (called) saṅ ra Vuṅū, [and] the Manuṅgū (called) saṅ Hovaṅka, the Paṅuraṅ of Makudur (called) saṅ ra Kəbəl [and] the Manuṅgū (called) saṅ Kulumpaṅ54—[they all] were given as gifts: 1 māṣa of silver [and] 1 pair of vəḍihan cadar per person.
+
+All the overseers of the secretariat (pakaraṇān):55 the overseer of kanayakān (namely) the official of Gunuṅan (called) pu Tuntun, the overseer of junior troops (called) saṅ ra Guyu, the overseer of servants (called) pu Bali; [the herald of Hino, namely] the Kaṇḍamuhi (called) saṅ Geṣṭa, the heralds of Sirikan [the] Hujuṅ Galuh [and] of Vəka [the] Viridih; [the herald] of Kanuruhan (called) saṅ Rokat;56 [the heralds] of Səbaṅ (called) saṅ Vimala, of Bavaṅ (called) saṅ Jalaṅ, of Maḍaṇḍər (called) saṅ Cakra, of Aṅgəhan (called) saṅ Tuhan; [the herald] of Tiruan [the] Sumuḍan (called) ḍa punta Saṅgama; [the herald] of Hujuṅ (called) saṅ Pavudukan—[they all] were given as gifts: 2 dhāraṇa [and] 8 māṣa of silver collectively.
+
+The calligraphers [to the Lord] of Hino [were given as gifts]: 2 dhāraṇa [and] 8 māṣa [of silver] collectively; both of the patih juru—the Vasah (called) saṅ Kulumpaṅ [and] the Kuci (called) saṅ ra Kavil: 1 dhāraṇa [and] 4 māṣa [of silver] per person; their heralds, the Piṅsor Hyaṅ [and] the Pasəkaran: 5 māṣa of silver per person.
+
+The one coming forward to demarcate (the land) for57 Vadihati (called) saṅ Kamala; the one coming forward to demarcate (the land) for Makudur (called) saṅ Tajam; [the ones coming forward to demarcate the land] for Susuhan (called) saṅ Astuti [and] saṅ Balā; [the one coming forward to demarcate the land] for Tapa Haji (called) saṅ Pacintān—[they all] were given as gifts: 1 dhāraṇa [and] 1 pair of vəḍihan per person.
+
+The patih of Kanuruhan … (called) saṅ Jāta; the patih of Hujuṅ (called) saṅ Kahyunan; the patih of Vaharu (called) saṅ Nīla; the patih of Tugaran (called) saṅ Mala; the patih paməgat of Vaharu (called) saṅ Gambo; the patih paṅkur (called) saṅ Maṅka [and] saṅ Raṅga—[they all] were given as gifts: 1 dhāraṇa [and] 1 pair of vəḍihan per person.
+
+The patih lampuran (called) saṅ Prasama [was given] as gifts: 8 māṣa of silver, 1 sheet of vəḍihan. The parujar patih (called) si Manohara [was given] as gifts: 1 dhāraṇa [and] 1 pair of vəḍihan. The parujar patih of Kanuruhan (called) si Jaluk [and] si Rambət [as well as] the parujar patih of Vaharu (called) si Bəṅal, si Tañjak [and] si Cacu [were given] as gifts: 8 māṣa of silver [and] 1 sheet of vəḍihan per person. The vahuta of Vaharu (called) si Balusyak [and] si Kəndul, the master of kalaṅ, were given as gifts: 1 dhāraṇa [and] 1 pair of vəḍihan per person. The assistants (called) si Rāji, si Bantan [and] si Ṇḍat were given [as gifts]: 1 sheet of vəḍihan per person.
+
+The headmen of neighbouring villages who participated as witnesses of the demarcation of the sīma:
+
+    at Tugaran, the gusti called si Lakṣita [and] the master of kalaṅ (called) si Yogya were given as gifts: 8 māṣa of silver [and] 1 pair of vəḍihan per person;
+
+    at Kajavān: [gap in the text]; at Pavaṅkuan: si Surā; at Kəḍi-Kəḍi: si Pahaṅ; at Buṅkaliṅan: si Tiñjo; at Kapatihan: si Piṅul;58 at Ḍahu: si Tambas—[they all] were given as gifts: 4 māṣa of silver each;
+
+        the patih of Vuṅa-Vuṅa: 4 māṣa of silver;
+
+        at Papanahan, the vinəkas (called) si Mañjavat; at Kajar, the temple manager (called) si Kaṇḍi; at Tampur, (the one called) si Təṅəran—[they all] were given as gifts: 4 māṣa of silver each.
+
+[The persons called] si Mañā, si Kəsək, si Vudalū, si Kudi were those who matətəṅən, [along with] si Luluk—[they all] were given as gifts: 4 māṣa of silver [and] 1 sheet of vəḍihan each.59
+
+The jesters (called) si Lulut‚ si Səpat, si Hirəṅ—[they] were given 1 sheet of vəḍihan each.
+
+The puppeteer si Rahina [was given] 4 māṣa of silver [and] 1 pair of vəḍihan. [The other ones, called] saṅ Boddhi and saṅ Mārga were given 1 pair of vəḍihan each.</p>
+
+<p n="B19–22">After the giving of gifts and vəḍihan to all of them, the offerings for the Makudur were placed below the canopy. The one serving as priest poured water to purify the susuk (tenon?) and the kulumpaṅ (mortise?). The Makudur arose to offer salutation to the holy ‘heart’ and sat down below the canopy, having his feet as support (that is, he knelt), facing the holy ‘heart’, wearing as siṅhəl 1 pair of vəḍihan. The Vadihati followed. The Makudur began to make invocations (uyut) [and] cleaved the neck of the chicken, using the kulumpaṅ as underlay, and bashed an egg on the sīma stone, cursing and making an imprecation on all those whom he traditionally cursed so that the holy sīma stone would be respected. These were his words:</p>
+
+<p n="B22–28"> ‘Pay heed you gods at Baprakeśvara,
+    Great Seer Agasti,
+    East, South, West, North, Centre, Zenith, Nadir
+    Sun, Moon, Earth, Water, Wind, Fire, Sacrificer (yajamāna), Ether
+    Dharma, Day and Night, Twilight, Heart
+    Yakṣas, Rākṣasas, Piśācas, Pretas, Asuras, Garuḍa, Gandharvas
+    Four Lokapālas: Yama, Varuṇa, Kubera, Vāsava (that is, Indra)
+    And sons of the gods: the Five Kuśikas, Nandīśvara, Mahākāla, the Six Vināyakas, Snake-Kings, Goddess Durgā,
+    The Quadrangular ones (that is, the Aśvins?), Endless (ananta),60 Surendra
+    Endless gods Kāla and Mr̥tyu: Gaṇas and Bhūtas
+    You who are known to have protected (prasiddha maṅrakṣa)61 the palaces of the Great Kings (of the past) at Məḍaṅ [and] in the land of Matarām!
+    You who take part in embodying, entering in all bodies!
+    You all who as witnesses watch far and near, by day and by night, while you listen to the pledge, the sworn oath (śapatha sumpah), the admonition of us to all you gods!</p>
+
+<p n="B28–34">If the bad person does not hold firm, does not keep this oath being submitted by the vahuta of the holy kudur (stone), whether [the bad person is] lord or servant, old or young, man or woman, mendicant or householder, as well as patih, vahuta and headmen—whoever disturbs the village of Saṅguran as a sīma offered by the venerable of Manañjuṅ to the Deity of the holy devotional temple of the smithy sīma, up to the future’s future, may he split asunder! All the more so if he shall uproot the holy sīma stone.</p>
+
+<p>Therefore, let him suffer the consequences!62 You, o gods, should just kill him! Your approach when you kill him should be without looking back, not looking to the side, clash with the opponent, slap his left side, [attack anew his right side,] cut down his snout, split his skull, rip open his belly, stretch out his intestines, draw out his entrails, tear out his liver, eat his flesh, drink his blood, without delay finish off [and] bring to an end his life. If he goes to the forest, may he be eaten up by the tiger, bitten by the snake, whirled round and round by divine wrath! If he goes to the field, may he be caught by thunderclap, may his head be torn off by demons, may he be eaten by the Pamuṅvan giants!</p>
+
+<p n="B34–39">Please you gods Kuśika, Garga, Metrī, Kuruṣya and Pātañjala, guardian of the North, guardian of the South, guardian of the West, guardian of the East, throw [him] in the air, tear [him] asunder (?) among all gods, throw [him] into the great ocean, drown [him] in the dam! May he be caught by the deities in the water! May he be pulled by sea monsters! May he be snatched by the crocodile! May it be there that he dies, the lawless man who dissolves the sīma village at Saṅguran. May he suffer misfortune among all ancestors (devatā)! May he go to ruins, may he be engulfed in the Ḍira! May he reach the hells! May he be dropped in the Great Raurava! May he be cooked by the forces of Yama! May he be hammered no less than seven times by the Kiṅkaras (servants of Yama)! When he is given shape, it will only be a bad one. He will suffer as long as he lives! May all types of pain be experienced by him! May all sorts of suffering be undergone by him! Every detestable thing among born creatures is what he will become! May he rot without finding rest! May he be left behind [as] fanned ash! Thus will become the lawless man who dissolves the sīma at Saṅguran!’</p>
+
+<p n="B39–c12"> After the Makudur had made invocations, they all changed clothes. They all sat in the təkan pasǝk,63 following the order of those who are present in the capacity64 of patih, vahuta, kabayān headmen, as well as all headmen of neighbouring villages. Old, young, man, woman, inferior, intermediate, and superior: no one was left behind in taking part in the feasting (manaḍah) at the assembly place.</p>
+
+<p>They were regaled,65 being offered dressed-up cooked rice, being served ladles of (hinirusan) cooked foods (kǝla-kǝla): snacks (ambil-ambil), kasyan, lit-lit, təlu saraṇak, roasted food (saṅa-saṅān), banana core (haryas), mince (rumba-rumbah), boiled vegetables (kuluban), tetis, tumpuk-tumpuk, unsalted dried meat (ḍeṅ hañaṅ), salted dried meat (ḍeṅ hasin), sea bass (kakap), biluṅluṅ (a type of fish), butterfish (kaḍivas), shrimps (huraṅ), kavan (a type of fish), laya-layar (sailfish?), hala-hala, fried (? inariṅ) eggs, suṇṭa, beans, curd. The total of [types of] vegetables (gaṅan) per (banana) leaf was 8, excluding the various small game (kənas) [and] fish. They all feasted to their hearts’ content, drinking siddhu, ciñca, kilaṅ, tuak, three times each, being presented (vinuvuhan) side dishes (tambul) served on a tray (añjap) [such as] coconut mixture (kuravu), dates (? kurima), tamarind (asam) [and] dodol. Side by side, they took drinks (malarih), while unguents, flowers [and] rujak were put forward.66 The tuvuṅ player played.</p>
+
+<p>All the foremost patih rose to pay homage, facing straight in the direction of the Great King and of the mapatih Lord. After they paid homage, they danced [accompanied by] the rāvaṇahasta. After the ones who had been asked to dance were finished (saṅkap), they sat down again. They were presented with side dishes and given drinks two times each. The baṅlus (fish) was put forward while [they] were given drinks again. They all finished and returned to their homes.</p>
+
+<p>Afterwards, the headmen of Saṅguran and the venerable of Manañjuṅ, as well as those who took care of the demarcation of the sīma in their turn were allowed to feast. The jesters si Lulut‚ si Səpat, [and] si Hirəṅ all showed their skill. In the night, they hired the puppeteer called Rahina.67</p>
+
+<p n="c12–15">Such were the proceedings of the demarcation of the sīma at Saṅguran. Complete. Written by the calligrapher [to the Lord] of Hino (called) saṅ Lakṣaṇa.</p>
          </div>
          <div type="commentary">
 <p>The same opening stanza is also found in the <ref target="DHARMA_INSIDENKSugihManek.xml">Sugih Manek</ref> charter. See <bibl><ptr target="bib:Kern1915_01"/></bibl>.</p>
@@ -207,16 +404,17 @@ other options: si maṅhambin·, piṅhai maṅhambin·, hiraṅya maṅhambin·
 </div>
         <div type="bibliography">
 	<!--bibliography encoded as per section §9.4 -->
-           <p>Reading of a few lines by Cohen Stuart, based on an eye-copy; reading of the whole text, but based on unsatisfactory visual documentation and hence with numerous gaps and uncertainties, by Brandes; the first 7 lines read with small improvements by Damais, based on consultation of photographs; Brandes' text reproduced, with minor modifications based mainly on Krom's publications (but ignoring Damais' improvements), by Sarkar, who consulted no visual documentation<!-- ; the mentioned sources were compiled in the publication by Hasan Djafar, who consulted no visual documentation-->. Since all publications of the whole inscription go back to Brandes' reading that had to rely on unsatisfactory visual documentation, the text is re-edited here (without recording variant readings in previous
-editions) <!-- 
+           <p>Reading of a few lines by Cohen Stuart, based on an eye-copy; reading of the whole text, but based on unsatisfactory visual documentation and hence with numerous gaps and uncertainties, by Brandes; the first 7 lines read with small improvements by Damais, based on consultation of photographs; Brandes' text reproduced, with minor modifications based mainly on Krom's publications (but ignoring Damais' improvements), by Sarkar, who consulted no visual documentation<!-- ; the mentioned sources were compiled in the publication by Hasan Djafar, who consulted no visual documentation-->. Since all earlier publications of the whole inscription go back to Brandes' reading that had to rely on unsatisfactory visual documentation, the present digital edition reproduces with only superficial modifications the first truly complete edition (<bibl><ptr target="bib:Griffiths+al2024_01"/></bibl>) without recording variant readings in previous editions.<!--after direct inspection of the stone at the Minto residence (Scotland, UK) 12–14 June 2022, complemented by a 3D photogrammetry model produced by Adeline Levivier.-->
+<!-- 
 Edhie Wurjantoro’s work (2011) entitled “Prasasti Berbahasa Jawa Kuno Abad VIII–X Masehi: Bukan Koleksi Museum Nasional (Alih Aksara dan Terjemahan)” No. 53, pp.254–269. https://sharedocs.huma-num.fr/wl/?id=cnleBFkU7fHBy1GoLEo5C0tDahjI1LVK 
 It states that the transcription is based on Hasan Djafar’s “Prasasti Sangguran (Minto Stone) Tahun 850 Śaka (= 2 Agustus 928), karangan untuk Dep Budpar 2010”.  
 -->
- by Arlo Griffiths and Wayan Jarrah Sastrawan, after direct inspection of the stone at the Minto residence (Scotland, UK) 12–14 June 2022, complemented by a 3D photogrammetry model produced by Adeline Levivier.</p>
+</p>
         	<listBibl type="primary">
 <bibl n="CS"><ptr target="bib:CohenStuart1875_01"/><citedRange unit="item">XXIX</citedRange><citedRange unit="page">XV–XVII, 37</citedRange></bibl>
 <bibl n="B"><ptr target="bib:Brandes1913_01"/><citedRange unit="item">XXXI</citedRange><citedRange unit="page">42-49</citedRange></bibl>
 <bibl n="S"><ptr target="bib:Sarkar1971-1972_01"/><citedRange unit="volume">II</citedRange><citedRange unit="page">227-248</citedRange><citedRange unit="item">XCVI</citedRange></bibl>
+<bibl n="GSE"><ptr target="bib:Griffiths+al2024_01"/></bibl>
               	</listBibl>
            <listBibl type="secondary">
 <bibl><ptr target="bib:Raffles1817_01"/><citedRange unit="volume">2</citedRange><citedRange unit="page">59</citedRange><citedRange unit="page">ccxxi-cxxiii</citedRange></bibl>
