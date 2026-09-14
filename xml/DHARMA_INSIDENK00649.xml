@@ -8,16 +8,9 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Akṣobhya Statue from Gondang Lor (11th or 12th c. CE)</title>
+                <title>N. 649. Akṣobhya Statue from Gondang Lor (11th or 12th c. CE)</title>
                 <respStmt>
-                    <resp key="contributor">EpiDoc Encoding</resp>               
-                        <persName ref="part:argr">
-                           <forename>Arlo</forename>
-                           <surname>Griffiths</surname>
-                        </persName>
-                     </respStmt>
-                     <respStmt>
-                        <resp key="creator">intellectual authorship of edition</resp>
+                    <resp key="creator"/>              
                         <persName ref="part:argr">
                            <forename>Arlo</forename>
                            <surname>Griffiths</surname>
@@ -27,8 +20,10 @@
                   <publicationStmt>
                      <authority><ref target="https://dharmalekha.info">DHARMA</ref></authority>
                      <pubPlace>Paris</pubPlace>
-                     <idno type="filename">DHARMA_INSIDENKSriManggalaII.xml</idno>
-                     <availability><licence target="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</licence></availability>
+                     <idno type="filename">DHARMA_INSIDENK00649.xml</idno>
+                     <availability>
+				<licence target="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</licence>
+			</availability>
                 <date from="2019" to="2026">2019-2026</date>
             </publicationStmt>
             <sourceDesc><!-- only the handDesc can be filled in at this stage -->
@@ -36,17 +31,12 @@
                     <msIdentifier>
                         <repository>as per external metadata</repository>
                     </msIdentifier>
-                    <msContents><!-- describe the intellectual content of an inscription -->
-                        <summary><!-- //// NOT MANDATORY  ////--></summary> <!-- offers the possibility to give a summary of the inscription's content -->
+                    <msContents>
+                    	<summary>Commissioning of the statue of the Buddha by Maṇḍuṅkul, also called Śrī Dharmavaṅśakulavardhana, for his spiritual benefit.</summary>
                     </msContents>
                     <physDesc>
                         <handDesc>
-                            <p><!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EGD 11.2. --></p>
-                            <!-- If you need to identify individual hands (EGD §7.5/) in addition to one or more paragraphs of general palaeographic description, wrap <summary> around the <p> or <p>s above, and, outside <summary>, create <handNote> elements for each hand as follows:
-						<summary><p><p/></summary>
-						<handNote xml:id="Pallava00001_hand1"></handNote>
-						<handNote xml:id="Pallava00001_hand2"></handNote>
-					 -->
+                            <p>Lettering typical of the 11th/12th century.</p>
                         </handDesc>
                     </physDesc>
                 </msDesc>
@@ -56,6 +46,7 @@
          <p>Encoded in TEI/EpiDoc according to the <ref target="https://hal.science/halshs-02888186">DHARMA Encoding Guide for Documentary Editions, version 2</ref></p>
       </encodingDesc>
         <revisionDesc>
+            <change who="part:argr" when="2026-09-15" status="draft">various modifications, including attribution of number 00649</change>
             <change who="part:argr" when="2024-10-18" status="draft">encoded the inscription</change>
          </revisionDesc>
     </teiHeader>
@@ -110,14 +101,14 @@
                </listApp>
          </div>
          <div type="translation" resp="part:argr">
- 	<p rend="stanza" n="1">Out of compassion, may that Empowerer who is illustrious <supplied reason="explanation"><foreign>śrīmat</foreign></supplied>, intelligent <supplied reason="explanation"><foreign>dhīmat</foreign></supplied> and whose splendor <supplied reason="explanation"><foreign>dīdhiti</foreign></supplied> is immeasurable <supplied reason="explanation"><foreign>amāna</foreign></supplied>, who never does any evil, assent to <supplied reason="subaudible">me</supplied> who am abundantly <supplied reason="explanation"><foreign>bhūmnā</foreign></supplied> lacking in might <supplied reason="explanation"><foreign>abhūri-vibhūtimantam</foreign></supplied>, who revolve in the bowels of the Triple World,<note>Cf. <title>Sādhanamālā</title>, ed. <bibl><ptr target="bib:Bhattacharya1925_01"/><citedRange unit="page">55</citedRange></bibl>, (<title>Śrī-Khasarpaṇalokeśvarasādhana</title>): <foreign>saṁbuddhapratyekaśrāvakabuddhānāṁ tatsutānām api bodhisattvānāṁ sattvānām api <hi rend="bold">trailokyodaravarttināṁ</hi> yad eva kuśalaṁ tat sarvam anumodayāmīti | tadanu ratnatrayaśaraṇagamanam |</foreign>.</note> an incarnated being subservient to convenience and pleasure, called Maṇḍuṅkul <supplied reason="explanation"><q>Hornless</q> or <q>Spiteful</q>?</supplied>,<note>The form <foreign>maṇḍuṅkul</foreign> does not seem to be attested in Old Javanese, but in some varieties of Malay there is <foreign>mendongkol</foreign> which seems to mean <q>to feel spite</q>, from base <foreign>dongkol</foreign> which is also able to express the same meaning as <foreign>dungkul</foreign>, namely <q>hornless</q>. In the <ref target="DHARMA_INSIDENKRameswarapura.xml">Rameswarapura charter</ref> (1197 Śaka) we read the following sentence: <foreign>juru ri suka lagu kbo ḍuṅkul sinuṅan pirak, ku 2, vḍihan, 1</foreign> <q>The headman at Suka Lagu <supplied reason="subaudible">named</supplied> Kbo Ḍuṅkul <supplied reason="explanation">literally Hornless Buffalo</supplied> was given 2 <foreign>kupaṅ</foreign> of silver <supplied reason="subaudible">and</supplied> 1 <foreign>vḍihan</foreign></q>. This suggests that the person who claims to be bowing here bore a personal name of the same type.</note> who perennially bow to that Śrīghana <supplied reason="explanation">i.e., Buddha</supplied>, of excellent qualities!</p>
+ 	<p rend="stanza" n="1">Out of compassion, may that Empowerer who is illustrious <supplied reason="explanation"><foreign>śrīmat</foreign></supplied>, intelligent <supplied reason="explanation"><foreign>dhīmat</foreign></supplied> and whose splendor <supplied reason="explanation"><foreign>dīdhiti</foreign></supplied> is immeasurable <supplied reason="explanation"><foreign>amāna</foreign></supplied>, who never does any evil, assent to <supplied reason="subaudible">me</supplied> who am abundantly <supplied reason="explanation"><foreign>bhūmnā</foreign></supplied> lacking in might <supplied reason="explanation"><foreign>abhūri-vibhūtimantam</foreign></supplied>, who revolve in the bowels of the Triple World,<note>Cf. <title>Sādhanamālā</title>, ed. <bibl><ptr target="bib:Bhattacharya1925_01"/><citedRange unit="page">55</citedRange></bibl> (<title>Śrī-Khasarpaṇalokeśvarasādhana</title>): <foreign>saṁbuddhapratyekaśrāvakabuddhānāṁ tatsutānām api bodhisattvānāṁ sattvānām api <hi rend="bold">trailokyodaravarttināṁ</hi> yad eva kuśalaṁ tat sarvam anumodayāmīti | tadanu ratnatrayaśaraṇagamanam |</foreign>.</note> an incarnated being subservient to convenience and pleasure, called Maṇḍuṅkul <supplied reason="explanation"><q>Hornless</q> or <q>Spiteful</q>?</supplied>,<note>The form <foreign>maṇḍuṅkul</foreign> does not seem to be attested in Old Javanese, but in some varieties of Malay there is <foreign>mendongkol</foreign> which seems to mean <q>to feel spite</q>, from base <foreign>dongkol</foreign> which is also able to express the same meaning as <foreign>dungkul</foreign>, namely <q>hornless</q>. In the <ref target="DHARMA_INSIDENKRameswarapura.xml">Rameswarapura charter</ref> (1197 Śaka) we read the following sentence: <foreign>juru ri suka lagu kbo ḍuṅkul sinuṅan pirak, ku 2, vḍihan, 1</foreign> <q>The headman at Suka Lagu <supplied reason="subaudible">named</supplied> Kbo Ḍuṅkul <supplied reason="explanation">literally Hornless Buffalo</supplied> was given 2 <foreign>kupaṅ</foreign> of silver <supplied reason="subaudible">and</supplied> 1 <foreign>vḍihan</foreign></q>. This suggests that the person who claims to be bowing here bore a personal name of the same type.</note> who perennially bow to that Śrīghana <supplied reason="explanation">i.e., Buddha</supplied>, of excellent qualities!</p>
      <p rend="stanza" n="2">By virtue of the great <supplied reason="subaudible">merit</supplied> that <supplied reason="subaudible">this</supplied> Buddha image, with limbs complete, has been commissioned by one as unmeritorious as me, I, <supplied reason="subaudible">also</supplied> having the epithet Śrī Dharmavaṅśakulavardhana <supplied reason="explanation"><q>Supporter of the illustrious family of Dharmavaṅśa</q>, <q>Family supporter of the illustrious lineage of the law</q></supplied>, am reborn in the state of a Jina, without old age and death.</p>
          </div>
          <div type="commentary">
             <!--commentary encoded as per section §9.3 -->
          </div>
         <div type="bibliography">
-           <p>First published by F. D. K. Bosch (<bibl rend="omitname"><ptr target="bib:Bosch1919-1921_02"/></bibl>). This digital edition by Arlo Griffiths from estampages and orthophotos.</p>
+           <p>First published by F. D. K. Bosch (<bibl rend="omitname"><ptr target="bib:Bosch1919-1921_02"/></bibl>). This digital edition by Arlo Griffiths from available surrogates, notably the OD estampage (captured in photograph <ref target="http://hdl.handle.net/1887.1/item:4101102">OD 3809</ref>), the EFEO estampage (n. 2247), and BRIN-EFEO <ref target="https://nakala.fr/10.34847/nkl.dccf5f0p">orthophotos</ref>. For a full listing of surrogates, bibliographic references and other metadata, see IDENK N. 649.</p>
         	<listBibl type="primary">
 				<bibl n="B"><ptr target="bib:Bosch1919-1921_02"/></bibl>
 			</listBibl>
@@ -127,8 +118,8 @@
               <bibl><ptr target="bib:Stutterheim1929_02"/><citedRange unit="page">496-500</citedRange></bibl>
               <bibl><ptr target="bib:Boechari1990_01"/><citedRange unit="page">126</citedRange></bibl>
               <bibl><ptr target="bib:Boechari2012_30"/><citedRange unit="page">438</citedRange></bibl>
+		<bibl><ptr target="bib:TitiSurtiNastiti+al2025_01"/><citedRange unit="page">147-150</citedRange><citedRange unit="section">2.6.7.9</citedRange></bibl>
            </listBibl>
-           <!-- Knebel (1910: 201–202); OV (1916: 47); Bosch (1919–1921); Stutterheim (1929: 496–500); Boechari (1990: 126; 2012: 438) -->
         </div>
       </body>
   </text>
