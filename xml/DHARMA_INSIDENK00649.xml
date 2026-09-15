@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>N. 649. Akṣobhya Statue from Gondang Lor (11th or 12th c. CE)</title>
+                <title>N. 649. Buddha Statue from Gondang Lor (11th or 12th c. CE)</title>
                 <respStmt>
                     <resp key="creator"/>              
                         <persName ref="part:argr">
@@ -104,21 +104,28 @@
  	<p rend="stanza" n="1">Out of compassion, may that Empowerer who is illustrious <supplied reason="explanation"><foreign>śrīmat</foreign></supplied>, intelligent <supplied reason="explanation"><foreign>dhīmat</foreign></supplied> and whose splendor <supplied reason="explanation"><foreign>dīdhiti</foreign></supplied> is immeasurable <supplied reason="explanation"><foreign>amāna</foreign></supplied>, who never does any evil, assent to <supplied reason="subaudible">me</supplied> who am abundantly <supplied reason="explanation"><foreign>bhūmnā</foreign></supplied> lacking in might <supplied reason="explanation"><foreign>abhūri-vibhūtimantam</foreign></supplied>, who revolve in the bowels of the Triple World,<note>Cf. <title>Sādhanamālā</title>, ed. <bibl><ptr target="bib:Bhattacharya1925_01"/><citedRange unit="page">55</citedRange></bibl> (<title>Śrī-Khasarpaṇalokeśvarasādhana</title>): <foreign>saṁbuddhapratyekaśrāvakabuddhānāṁ tatsutānām api bodhisattvānāṁ sattvānām api <hi rend="bold">trailokyodaravarttināṁ</hi> yad eva kuśalaṁ tat sarvam anumodayāmīti | tadanu ratnatrayaśaraṇagamanam |</foreign>.</note> an incarnated being subservient to convenience and pleasure, called Maṇḍuṅkul <supplied reason="explanation"><q>Hornless</q> or <q>Spiteful</q>?</supplied>,<note>The form <foreign>maṇḍuṅkul</foreign> does not seem to be attested in Old Javanese, but in some varieties of Malay there is <foreign>mendongkol</foreign> which seems to mean <q>to feel spite</q>, from base <foreign>dongkol</foreign> which is also able to express the same meaning as <foreign>dungkul</foreign>, namely <q>hornless</q>. In the <ref target="DHARMA_INSIDENKRameswarapura.xml">Rameswarapura charter</ref> (1197 Śaka) we read the following sentence: <foreign>juru ri suka lagu kbo ḍuṅkul sinuṅan pirak, ku 2, vḍihan, 1</foreign> <q>The headman at Suka Lagu <supplied reason="subaudible">named</supplied> Kbo Ḍuṅkul <supplied reason="explanation">literally Hornless Buffalo</supplied> was given 2 <foreign>kupaṅ</foreign> of silver <supplied reason="subaudible">and</supplied> 1 <foreign>vḍihan</foreign></q>. This suggests that the person who claims to be bowing here bore a personal name of the same type.</note> who perennially bow to that Śrīghana <supplied reason="explanation">i.e., Buddha</supplied>, of excellent qualities!</p>
      <p rend="stanza" n="2">By virtue of the great <supplied reason="subaudible">merit</supplied> that <supplied reason="subaudible">this</supplied> Buddha image, with limbs complete, has been commissioned by one as unmeritorious as me, I, <supplied reason="subaudible">also</supplied> having the epithet Śrī Dharmavaṅśakulavardhana <supplied reason="explanation"><q>Supporter of the illustrious family of Dharmavaṅśa</q>, <q>Family supporter of the illustrious lineage of the law</q></supplied>, am reborn in the state of a Jina, without old age and death.</p>
          </div>
+<div type="translation" xml:lang="ind-Latn">
+<p rend="stanza">Dari belas kasihan, semoga Sang Pemberi Kekuatan (<foreign>adhiṣṭhātr̥</foreign>) yang termasyhur (<foreign>śrīmat</foreign>),
+cerdas (<foreign>dhīmat</foreign>) dan yang kemegahannya (<foreign>dīdhiti</foreign>) tak terukur (<foreign>amāna</foreign>), yang tidak pernah
+melakukan kejahatan, merestui <supplied reason="subaudible">saya</supplied> yang banyak (<foreign>bhūmnā</foreign>) kekurangan kemampuan
+(<foreign>abhūri-vibhūtimantam</foreign>), yang berputar di dalam perut Tiga Dunia, suatu makhluk (<foreign>janmin</foreign>) yang tergantung (<foreign>adhīna</foreign>) pada kenyamanan dan kesenangan, yang disebut Maṇḍuṅkul (artinya ‘mendongkol’ atau ‘dungkul’?), yang senantiasa tunduk pada Śrīghana (yakni, Sang Buddha) yang memiliki ciri-ciri yang unggul!</p>
+<p rend="stanza">Meskipun saya kurang sehat (atau beramal), saya telah meminta orang untuk membuat arca Buddha <supplied reason="subaudible">ini</supplied>, dengan anggota tubuh yang sempurna. Berdasarkan <supplied reason="subaudible">amal</supplied> agung itu, saya yang bernama Śrī Dharmavaṅśakulavardhana (‘Pendukung keluarga Dharmavaṅśa’, atau ‘Pendukung keturunan keluarga dharma’), saya terlahir kembali di alam Jina, tanpa usia tua dan kematian.</p>
+</div>
          <div type="commentary">
             <!--commentary encoded as per section §9.3 -->
          </div>
         <div type="bibliography">
-           <p>First published by F. D. K. Bosch (<bibl rend="omitname"><ptr target="bib:Bosch1919-1921_02"/></bibl>). This digital edition by Arlo Griffiths from available surrogates, notably the OD estampage (captured in photograph <ref target="http://hdl.handle.net/1887.1/item:4101102">OD 3809</ref>), the EFEO estampage (n. 2247), and BRIN-EFEO <ref target="https://nakala.fr/10.34847/nkl.dccf5f0p">orthophotos</ref>. For a full listing of surrogates, bibliographic references and other metadata, see IDENK N. 649.</p>
+           <p>First published, with translation into Dutch, by F. D. K. Bosch (<bibl rend="omitname"><ptr target="bib:Bosch1919-1921_02"/></bibl>). A new edition by Arlo Griffiths was published, with translation into Indonesian, in <bibl><ptr target="bib:TitiSurtiNastiti+al2025_01"/></bibl>, making use of available surrogates, notably the OD estampage (447, captured in photograph <ref target="http://hdl.handle.net/1887.1/item:4101102">OD 3809</ref>), the EFEO estampage (n. 2247), and BRIN-EFEO <ref target="https://nakala.fr/10.34847/nkl.dccf5f0p">orthophotos</ref>. That edition is reproduced here, with addition of an English translation. For a full listing of photographs of the statue and of surrogates of the inscription, bibliographic references and other metadata, see <ref target="https://heurist.huma-num.fr/IDENK/INS-EN/00649">IDENK N. 649</ref>.</p>
         	<listBibl type="primary">
-				<bibl n="B"><ptr target="bib:Bosch1919-1921_02"/></bibl>
+			<bibl n="B"><ptr target="bib:Bosch1919-1921_02"/></bibl>
+			<bibl n="G"><ptr target="bib:TitiSurtiNastiti+al2025_01"/><citedRange unit="page">147-150</citedRange><citedRange unit="section">2.6.7.9</citedRange></bibl>
 			</listBibl>
            <listBibl type="secondary">
               <bibl><ptr target="bib:Knebel1910_03"/><citedRange unit="page">201-202</citedRange></bibl>
-              <bibl><ptr target="bib:OV1916"/><citedRange unit="page">47</citedRange></bibl>
-              <bibl><ptr target="bib:Stutterheim1929_02"/><citedRange unit="page">496-500</citedRange></bibl>
+              <!--<bibl><ptr target="bib:OV1916"/><citedRange unit="page">47</citedRange></bibl>-->
+              <!--<bibl><ptr target="bib:Stutterheim1929_02"/><citedRange unit="page">496-500</citedRange></bibl>-->
               <bibl><ptr target="bib:Boechari1990_01"/><citedRange unit="page">126</citedRange></bibl>
               <bibl><ptr target="bib:Boechari2012_30"/><citedRange unit="page">438</citedRange></bibl>
-		<bibl><ptr target="bib:TitiSurtiNastiti+al2025_01"/><citedRange unit="page">147-150</citedRange><citedRange unit="section">2.6.7.9</citedRange></bibl>
            </listBibl>
         </div>
       </body>
