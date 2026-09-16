@@ -8,38 +8,34 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Inventory of a Śaiva temple at Dieng (9th c. CE)</title>
+                <title>N. 1481. Inventory of a Śaiva temple at Dieng (9th c. CE)</title>
                 <respStmt>
-                    <resp key="creator">author of digital edition</resp>               
+                    <resp key="creator"/>               
                     <persName ref="part:argr">
                        <forename>Arlo</forename>
                        <surname>Griffiths</surname>
                     </persName>
                  </respStmt>
-              <funder>European Research Council (ERC), grant agreement no 809994</funder></titleStmt>
+              <funder>European Research Council (ERC), grant agreement no 809994</funder>
+			</titleStmt>
               <publicationStmt>
                  <authority><ref target="https://dharmalekha.info">DHARMA</ref></authority>
                  <pubPlace>Paris</pubPlace>
-                 <idno type="filename">DHARMA_INSIDENKdevadravya.xml</idno>
+                 <idno type="filename">DHARMA_INSIDENK01481.xml</idno>
                  <availability><licence target="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</licence></availability>
                 <date from="2019" to="2026">2019-2026</date>
             </publicationStmt>
-            <sourceDesc><!-- only the handDesc can be filled in at this stage -->
-                <msDesc><!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
+            <sourceDesc>
+                <msDesc>
                     <msIdentifier>
                         <repository>as per external metadata</repository>
                     </msIdentifier>
                     <msContents><!-- describe the intellectual content of an inscription -->
-                        <summary><!-- //// NOT MANDATORY  ////--></summary> <!-- offers the possibility to give a summary of the inscription's content -->
+                    	<summary>The inscription opens with a salutation to Śiva and lists gifts presented to/or property belonging to a (temple) of the Daṅ Hyaṅ (Śiva).</summary>
                     </msContents>
                     <physDesc>
                         <handDesc>
-                            <p><!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EGD 11.2. --></p>
-                            <!-- If you need to identify individual hands (EGD §7.5/) in addition to one or more paragraphs of general palaeographic description, wrap <summary> around the <p> or <p>s above, and, outside <summary>, create <handNote> elements for each hand as follows:
-						<summary><p><p/></summary>
-						<handNote xml:id="Pallava00001_hand1"></handNote>
-						<handNote xml:id="Pallava00001_hand2"></handNote>
-					 -->
+                            <p>Kawi script characteristic of the 9th c.</p>
                         </handDesc>
                     </physDesc>
                 </msDesc>
@@ -49,6 +45,7 @@
          <p>Encoded in TEI/EpiDoc according to the <ref target="https://hal.science/halshs-02888186">DHARMA Encoding Guide for Documentary Editions, version 2</ref></p>
       </encodingDesc>
         <revisionDesc>
+        	<change who="part:argr" when="2026-09-16" status="draft">modified teiheader and applied final file name</change>
             <change who="part:argr" when="2025-11-03" status="draft">encoded the inscription</change>
         </revisionDesc>
     </teiHeader>
